@@ -1,0 +1,19 @@
+version: 2
+jobs:
+  lint:
+    docker:
+      - image: circleci/node:10.15
+    steps:
+      - checkout
+      - restore_cache: # special step to restore the dependency cache
+          key: dependency-cache-{{ checksum "package.json" }}
+      - run:
+          name: Setup Dependencies
+          command: npm install
+      - save_cache: # special step to save the dependency cache
+          key: dependency-cache-{{ checksum "package.json" }}
+          paths:
+            - ./node_modules
+      - run: 
+          name: Lint
+          command: npm run eslint 
