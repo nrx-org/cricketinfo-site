@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  lint:
+  build:
     docker:
       - image: circleci/node:10.15
     steps:
