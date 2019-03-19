@@ -8,7 +8,8 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "eslint": "eslint '**/*.{js,jsx}'"
+    "eslint": "eslint '**/*.{js,jsx}'",
+    "cypress:open": "cypress open"
   },
   "keywords": [],
   "author": "",
@@ -25,5 +26,9 @@
     "prettier": "^1.16.4",
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
+  },
+  "devDependencies": {
+    "cypress": "^3.2.0",
+    "eslint-plugin-cypress": "^2.2.1"
   }
 }
