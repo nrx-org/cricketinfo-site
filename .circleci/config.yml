@@ -55,10 +55,10 @@ jobs:
       - checkout
       - run: 
           name: Install Now
-          command: npm install -g now
+          command: npm install now
       - run:
            name: Deploy
-           command: now --token $ZEIT_NOW_TOKEN 
+           command: $(npm bin)/now --token $ZEIT_NOW_TOKEN 
 
 workflows:
   version: 2
