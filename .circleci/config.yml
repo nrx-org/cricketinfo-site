@@ -48,10 +48,25 @@ jobs:
       - run: 
           name: Run Cypress
           command: $(npm bin)/cypress run 
+  deploy: 
+    docker:
+      - image: circleci/node:10.15
+    steps: 
+      - checkout
+      - run: 
+          name: Install Now
+          command: npm install -g now
+      - run:
+           name: Deploy
+           command: now --token $ZEIT_NOW_TOKEN 
 
 workflows:
   version: 2
   code_quality:
     jobs:
       - lint
-      - test       
+      - test  
+      - deploy 
+        requires:
+          - lint 
+          - test     
