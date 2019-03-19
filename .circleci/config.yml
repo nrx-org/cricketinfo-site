@@ -31,14 +31,23 @@ jobs:
       - restore_cache:
           key: dependency-cache-{{ checksum "package.json" }}
       - run:
-          name: Install Dependencies
+          name: Setup Dependencies
           command: npm ci
       - save_cache:
           key: dependency-cache-{{ checksum "package.json" }}
           # cache NPM modules and the folder with the Cypress binary
           paths:
             - ./node_modules
-      - run: $(npm bin)/cypress run 
+      - run: 
+          name: Setup build
+          command: npm run build
+      - run: 
+          name: Start Next
+          command: npm run start    
+          background: true
+      - run: 
+          name: Run Cypress
+          command: $(npm bin)/cypress run 
 
 workflows:
   version: 2
