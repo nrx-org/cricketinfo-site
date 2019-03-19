@@ -1,8 +1,11 @@
 version: 2
 jobs:
-  build:
+  lint:
     docker:
       - image: circleci/node:10.15
+        environment:
+          ## this enables colors in the output
+          TERM: xterm
     steps:
       - checkout
       - restore_cache: # special step to restore the dependency cache
@@ -17,3 +20,29 @@ jobs:
       - run: 
           name: Lint
           command: npm run eslint 
+  test:
+    docker:
+      - image: cypress/base:10
+        environment:
+          ## this enables colors in the output
+          TERM: xterm
+    steps:
+      - checkout
+      - restore_cache:
+          key: dependency-cache-{{ checksum "package.json" }}
+      - run:
+          name: Install Dependencies
+          command: npm ci
+      - save_cache:
+          key: dependency-cache-{{ checksum "package.json" }}
+          # cache NPM modules and the folder with the Cypress binary
+          paths:
+            - ./node_modules
+      - run: $(npm bin)/cypress run 
+
+workflows:
+  version: 2
+  code_quality:
+    jobs:
+      - lint
+      - test       
