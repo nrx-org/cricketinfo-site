@@ -1,6 +1,6 @@
 const config = {};
 
-if (process.env.NOW_REGION || process.env.NOW) {
+if (process.env.IS_NOW) {
   config.target = "serverless";
 }
 
