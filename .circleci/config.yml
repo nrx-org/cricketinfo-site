@@ -59,6 +59,9 @@ jobs:
       - run:
            name: Deploy
            command: $(npm bin)/now --token $ZEIT_NOW_TOKEN 
+      - run: 
+            name: Create Alias
+            command: $(npm bin)/now alias --token $ZEIT_NOW_TOKEN
 
 workflows:
   version: 2
