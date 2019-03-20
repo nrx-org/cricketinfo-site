@@ -55,7 +55,7 @@ jobs:
       - checkout
       - run: 
           name: Install Now
-          command: npm install now
+          command: npm install --production now
       - run:
            name: Deploy
            command: $(npm bin)/now --token $ZEIT_NOW_TOKEN 
