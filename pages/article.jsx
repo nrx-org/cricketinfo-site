@@ -1,12 +1,19 @@
 import React from "react";
+import Head from "next/head";
 import wtf from "wtf_wikipedia";
 
-function Article({ title, content }) {
+import BaseLayout from "../components/BaseLayout";
+import { makeTitle } from "../lib/make_title";
+
+function Article({ title, content, lang }) {
   return (
-    <div>
+    <BaseLayout>
+      <Head>
+        <title>{ makeTitle(title, lang) }</title>
+      </Head>
       <h1>{ title }</h1>
-      <div dangerouslySetInnerHTML={{ __html: content }}></div>
-    </div>
+      <div dangerouslySetInnerHTML={{ __html: content }} />
+    </BaseLayout>
   );
 }
 
