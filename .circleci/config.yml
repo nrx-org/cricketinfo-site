@@ -65,7 +65,7 @@ jobs:
 
 workflows:
   version: 2
-  code_quality:
+  test_and_deploy:
     jobs:
       - lint
       - test  

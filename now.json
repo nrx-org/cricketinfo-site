@@ -2,5 +2,5 @@
   "version": 2,
   "builds": [{ "src": "package.json", "use": "@now/next" }],
   "name": "wikipedia-client-prototypes",
-  "alias": ["wikipedia-client-prototypes.now.sh"]
+  "alias": ["wikipedia.obvs.io"]
 }
