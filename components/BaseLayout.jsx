@@ -2,6 +2,8 @@ import React from "react";
 import PropTypes from "prop-types";
 import Head from "next/head";
 
+import "../styles/main.scss";
+
 export const BaseLayout = ({ children }) => (
   <div>
     <Head>

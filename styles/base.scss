@@ -1,0 +1,60 @@
+@import "./variables.scss";
+
+body {
+  font-size: $body-font-size;
+  line-height: $body-line-height;
+}
+
+h6 {
+  font-size: $h6-font-size;
+  line-height: $h6-line-height;
+  font-weight: 700;
+}
+
+h5 {
+  font-size: $h5-font-size;
+  line-height: $h5-line-height;
+  font-weight: 700;
+}
+
+h4 {
+  font-size: $h4-font-size;
+  line-height: $h4-line-height;
+  font-weight: 700;
+}
+
+h3 {
+  font-size: $h3-font-size;
+  line-height: $h3-line-height;
+}
+
+h2 {
+  font-size: $h2-font-size;
+  line-height: $h2-line-height;
+}
+
+h1 {
+  font-size: $h1-font-size;
+  line-height: $h1-line-height;
+}
+
+.pull-quote {
+    font-size: $pull-quote-font-size;
+    line-height: $pull-quote-line-height;
+    font-style: italic;
+}
+
+.lead-para {
+    font-size: $lead-para-font-size;
+    line-height: $lead-para-line-height;
+}
+
+.note {
+    font-size: $note-font-size;
+    line-height: $note-line-height;
+}
+
+.caption {
+    font-size: $caption-font-size;
+    line-height: $caption-line-height;
+}

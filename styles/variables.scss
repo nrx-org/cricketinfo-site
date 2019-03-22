@@ -1,0 +1,40 @@
+// Font sizes
+$font-size-xs: 13.2762px;
+$font-size-s: 14.2975px;
+$font-size-regular: 16.34px;
+$font-size-l: 18.3825px;
+$font-size-xl: 23.4888px;
+$font-size-xxl: 28.595px;
+$font-size-xxxl: 36.765px;
+$font-size-xxxxl: 46.977px;
+
+// Font sizes for page elements
+$caption-font-size: $font-size-xs;
+$code-font-size: $font-size-s;
+$note-font-size: $font-size-s;
+$body-font-size: $font-size-regular;
+$lead-para-font-size: $font-size-l;
+$pull-quote-font-size: $font-size-xl;
+
+// Font sizes for headings
+$h6-font-size: $font-size-regular;
+$h5-font-size: $font-size-l;
+$h4-font-size: $font-size-xl;
+$h3-font-size: $font-size-xxl;
+$h2-font-size: $font-size-xxxl;
+$h1-font-size: $font-size-xxxxl;
+
+// Line heights for page elements
+$caption-line-height: 18px;
+$note-line-height: 20px;
+$body-line-height: 27px;
+$lead-para-line-height: 30px;
+$pull-quote-line-height: 37px;
+
+// Line heights for headings
+$h6-line-height: 23px;
+$h5-line-height: 27px;
+$h4-line-height: 33px;
+$h3-line-height: 33px;
+$h2-line-height: 42px;
+$h1-line-height: 53px;
