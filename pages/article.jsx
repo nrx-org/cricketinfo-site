@@ -35,6 +35,9 @@ Article.getInitialProps = async ({ query }) => {
     return accContent + sectionTitle + current.text;
   }, article.lead.sections[0].text);
 
+  const $ = cheerio.load(content);
+  $(".infobox").remove();
+  content = $.html();
   return {
     articleId,
     lang,
