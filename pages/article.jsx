@@ -1,8 +1,11 @@
 import React from "react";
 import PropTypes from "prop-types";
 
+import fetch from "isomorphic-fetch";
+import utf8 from "utf8";
+import cheerio from "cheerio";
+
 import Head from "next/head";
-import wtf from "wtf_wikipedia";
 
 import { BaseLayout } from "../components/BaseLayout";
 import { makeTitle } from "../lib/make_title";
@@ -20,13 +23,23 @@ const Article = ({ title, content, lang }) => (
 
 Article.getInitialProps = async ({ query }) => {
   const { articleId, lang } = query;
-  const article = await wtf.fetch(articleId, lang);
+  const wikiUrl = utf8.encode(
+    `https://${lang}.wikipedia.org/api/rest_v1/page/mobile-sections/${articleId}`
+  );
+  const articleResponse = await fetch(wikiUrl);
+  const article = await articleResponse.json();
+
+  let content = article.remaining.sections.reduce((accContent, current) => {
+    const level = current.toclevel + 1;
+    const sectionTitle = `<h${level}>${current.line}</h${level}>`;
+    return accContent + sectionTitle + current.text;
+  }, article.lead.sections[0].text);
 
   return {
     articleId,
     lang,
-    content: article.html(),
-    title: article.title()
+    content,
+    title: article.lead.displaytitle
   };
 };
 
