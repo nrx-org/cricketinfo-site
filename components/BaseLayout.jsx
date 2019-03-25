@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import Head from "next/head";
 
 import { FontLoader } from "./FontLoader";
+import { LanguageSetter } from "./LanguageSetter";
 
 import "../styles/main.scss";
 
@@ -12,6 +13,7 @@ export const BaseLayout = ({ children, lang }) => (
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
     </Head>
     <FontLoader lang={lang} />
+    <LanguageSetter lang={lang} />
     {children}
   </main>
 );
