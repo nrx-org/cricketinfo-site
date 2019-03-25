@@ -5,12 +5,12 @@ import Head from "next/head";
 import "../styles/main.scss";
 
 export const BaseLayout = ({ children }) => (
-  <div>
+  <main>
     <Head>
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
     </Head>
     {children}
-  </div>
+  </main>
 );
 
 BaseLayout.propTypes = {

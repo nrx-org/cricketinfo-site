@@ -1,7 +1,7 @@
 // Font sizes
 $font-size-xs: 13.2762px;
 $font-size-s: 14.2975px;
-$font-size-regular: 16.34px;
+$font-size-m: 16.34px;
 $font-size-l: 18.3825px;
 $font-size-xl: 23.4888px;
 $font-size-xxl: 28.595px;
@@ -12,17 +12,17 @@ $font-size-xxxxl: 46.977px;
 $caption-font-size: $font-size-xs;
 $code-font-size: $font-size-s;
 $note-font-size: $font-size-s;
-$body-font-size: $font-size-regular;
+$body-font-size: $font-size-m;
 $lead-para-font-size: $font-size-l;
 $pull-quote-font-size: $font-size-xl;
 
 // Font sizes for headings
-$h6-font-size: $font-size-regular;
-$h5-font-size: $font-size-l;
-$h4-font-size: $font-size-xl;
-$h3-font-size: $font-size-xxl;
-$h2-font-size: $font-size-xxxl;
-$h1-font-size: $font-size-xxxxl;
+$h6-font-size: $font-size-s;
+$h5-font-size: $font-size-m;
+$h4-font-size: $font-size-l;
+$font-size-section-subtitle: $font-size-xl;
+$font-size-section-title: $font-size-xxl;
+$font-size-page-title: $font-size-xxxl;
 
 // Line heights for page elements
 $caption-line-height: 18px;
@@ -32,9 +32,41 @@ $lead-para-line-height: 30px;
 $pull-quote-line-height: 37px;
 
 // Line heights for headings
-$h6-line-height: 23px;
-$h5-line-height: 27px;
-$h4-line-height: 33px;
-$h3-line-height: 33px;
-$h2-line-height: 42px;
-$h1-line-height: 53px;
+$line-height-h5: 24px;
+$line-height-h4: 27px;
+$line-height-h3: 33px;
+$line-height-h2: 33px;
+$line-height-h1: 42px;
+
+// Colors
+$color-white: #ffffff;
+$color-black: #000000;
+$color-black-light: #222222;
+$color-gray-dark: #54595d;
+$color-gray-medium: #6a6e71;
+$color-gray-light: #c4c4c4;
+$color-gray-lighter: #f0f0f2;
+$color-blue-dark: #3366cc;
+$color-blue-light: #eaf3ff;
+$color-green-dark: #14cc70;
+$color-green-light: rgba(20, 204, 112, 0.08);
+$color-purple-dark: #5233cc;
+$color-purple-light: rgba(82, 51, 204, 0.16);
+$color-yellow-dark: #ffcc33;
+$color-yellow-medium: rgba(248, 255, 0, 0.35);
+$color-yellow-light: rgba(255, 204, 51, 0.16);
+$color-beige: #fef6e7;
+
+// Colors for functionality
+$h1-color: $color-gray-medium;
+$body-color: $color-black-light;
+$link-color: $color-blue-dark;
+
+// Margins and Paddings
+$gutter-s: 8px;
+$gutter-m: 16px;
+$gutter-l: 24px;
+$gutter-xl: 32px;
+
+// Margins and Paddings for functionality
+$margin-main: $gutter-m;
