@@ -10,6 +10,7 @@ body {
 h2 {
   font-size: $font-size-section-subtitle;
   font-weight: normal;
+  margin: $gutter-m 0 $gutter-s 0;
 }
 
 // Semantically, this is h2
