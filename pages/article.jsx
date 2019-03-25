@@ -8,7 +8,7 @@ import { BaseLayout } from "../components/BaseLayout";
 import { makeTitle } from "../lib/make_title";
 
 const Article = ({ title, content, lang }) => (
-  <BaseLayout>
+  <BaseLayout lang={lang}>
     <Head>
       <title>{makeTitle(title, lang)}</title>
     </Head>
