@@ -1,6 +1,12 @@
 {
   "version": 2,
   "builds": [{ "src": "package.json", "use": "@now/next" }],
+  "routes": [
+    {
+      "src": "/(.*)/(.*)",
+      "dest": "/article?lang=$1&articleId=$2"
+    }
+  ],
   "name": "wikipedia-client-prototypes",
   "alias": ["wikipedia.obvs.io"]
 }
