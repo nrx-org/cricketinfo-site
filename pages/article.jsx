@@ -7,11 +7,16 @@ import wtf from "wtf_wikipedia";
 import { BaseLayout } from "../components/BaseLayout";
 import { makeTitle } from "../lib/make_title";
 
-const Article = ({ title, content, lang, summary }) => (
+const Article = ({ title, content, lang, summary, coverImage }) => (
   <BaseLayout lang={lang}>
     <Head>
       <title>{makeTitle(title, lang)}</title>
     </Head>
+    {coverImage ? (
+      <div className="article__cover-image-container">
+        <img className="article__cover-image" src={coverImage} alt="Cover" />
+      </div>
+    ) : null}
     <h1>{title}</h1>
     {/* eslint-disable-next-line react/no-danger */}
     <div dangerouslySetInnerHTML={{ __html: summary }} />
@@ -30,21 +35,29 @@ Article.getInitialProps = async ({ query }) => {
     .reduce((contentString, section) => {
       return contentString + section.html();
     }, "");
+  const coverImage = article
+    .infobox()
+    .image()
+    .url();
 
   return {
     articleId,
     lang,
     content,
     summary,
-    title: article.title()
+    title: article.title(),
+    coverImage
   };
 };
+
+Article.defaultProps = { coverImage: null };
 
 Article.propTypes = {
   title: PropTypes.string.isRequired,
   content: PropTypes.string.isRequired,
   lang: PropTypes.string.isRequired,
-  summary: PropTypes.string.isRequired
+  summary: PropTypes.string.isRequired,
+  coverImage: PropTypes.string
 };
 
 export default Article;
