@@ -10,7 +10,7 @@ app
   .then(() => {
     const server = express();
 
-    server.get("/:lang/:articleId", (req, res) => {
+    server.get("/wiki/:lang/:articleId", (req, res) => {
       const actualPage = "/article";
 
       const queryParams = {
