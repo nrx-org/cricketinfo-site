@@ -37,5 +37,8 @@
     "prettier": "^1.16.4",
     "cypress": "^3.2.0",
     "eslint-plugin-cypress": "^2.2.1"
+  },
+  "peerDependencies": {
+    "webpack": "^4.29.0"
   }
 }
