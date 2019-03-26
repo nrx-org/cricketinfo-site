@@ -3,8 +3,8 @@
   "builds": [{ "src": "package.json", "use": "@now/next" }],
   "routes": [
     {
-      "src": "/(.*)/(.*)",
-      "dest": "/article?lang=$1&articleId=$2"
+      "src": "/(?<lang>.*)/(?<articleId>.*)",
+      "dest": "/article?lang=$lang&articleId=$articleId"
     }
   ],
   "name": "wikipedia-client-prototypes",
