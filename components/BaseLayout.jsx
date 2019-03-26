@@ -4,8 +4,11 @@ import Head from "next/head";
 
 import { FontLoader } from "./FontLoader";
 import { LanguageSetter } from "./LanguageSetter";
+import { setCommitSHA1 } from "../lib/set_commit_sha1";
 
 import "../styles/main.scss";
+
+setCommitSHA1();
 
 export const BaseLayout = ({ children, lang }) => (
   <main>

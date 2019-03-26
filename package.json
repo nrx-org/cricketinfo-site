@@ -6,8 +6,8 @@
   "scripts": {
     "test": "cypress run",
     "dev": "node server.js",
-    "build": "next build",
-    "now-build": "IS_NOW=true next build",
+    "build": "COMMIT_SHA1=$(git rev-parse HEAD) next build",
+    "now-build": "COMMIT_SHA1=$(git rev-parse HEAD) IS_NOW=true next build",
     "start": "next start",
     "eslint": "eslint '**/*.{js,jsx}'",
     "cypress:open": "cypress open"
