@@ -44,9 +44,9 @@ async function getArticle(articleId, lang) {
   );
   const articleResponse = await fetch(url);
   const articleJson = await articleResponse.json();
-  // console.log(articleJson.lead.sections[0]);
 
   const sanitizedArticle = {
+    title: articleJson.lead.displaytitle,
     coverImage: "{{ TODO }}"
   };
 
@@ -63,7 +63,7 @@ async function getArticle(articleId, lang) {
     title: section.line,
     anchor: section.anchor,
     content: stripCommonElements(section.text),
-    tocLevel: section.toclevel
+    tocLevel: (section.toclevel + 1)
   }));
 
   console.log(JSON.stringify(sanitizedArticle));
