@@ -2,12 +2,15 @@ import React from "react";
 import PropTypes from "prop-types";
 
 import Head from "next/head";
-import wtf from "wtf_wikipedia";
+import fetch from "isomorphic-fetch";
 
 import { BaseLayout } from "../components/BaseLayout";
+import { ArticleContent } from "../components/ArticleContent";
 import { makeTitle } from "../lib/make_title";
+import { articleUrl } from "../lib/urls";
+import { sectionsPropTypes } from "../lib/prop_types";
 
-const Article = ({ title, content, lang, summary, coverImage }) => (
+const Article = ({ title, sections, lang, summary, coverImage }) => (
   <BaseLayout lang={lang}>
     <Head>
       <title>{makeTitle(title, lang)}</title>
@@ -20,44 +23,26 @@ const Article = ({ title, content, lang, summary, coverImage }) => (
     <h1>{title}</h1>
     {/* eslint-disable-next-line react/no-danger */}
     <div dangerouslySetInnerHTML={{ __html: summary }} />
-    {/* eslint-disable-next-line react/no-danger */}
-    <div dangerouslySetInnerHTML={{ __html: content }} />
+    <ArticleContent sections={sections} />
   </BaseLayout>
 );
 
 Article.getInitialProps = async ({ query }) => {
   const { articleId, lang } = query;
-  const article = await wtf.fetch(articleId, lang);
-  const summary = article.sections()[0].html();
-  const content = article
-    .sections()
-    .slice(1)
-    .reduce((contentString, section) => {
-      return contentString + section.html();
-    }, "");
-  const coverImage = article
-    .infobox()
-    .image()
-    .url();
+  const articleResponse = await fetch(articleUrl(articleId, lang));
+  const articleJson = await articleResponse.json();
 
-  return {
-    articleId,
-    lang,
-    content,
-    summary,
-    title: article.title(),
-    coverImage
-  };
+  return articleJson;
 };
 
 Article.defaultProps = { coverImage: null };
 
 Article.propTypes = {
   title: PropTypes.string.isRequired,
-  content: PropTypes.string.isRequired,
-  lang: PropTypes.string.isRequired,
+  coverImage: PropTypes.string,
   summary: PropTypes.string.isRequired,
-  coverImage: PropTypes.string
+  sections: sectionsPropTypes.isRequired,
+  lang: PropTypes.string.isRequired
 };
 
 export default Article;
