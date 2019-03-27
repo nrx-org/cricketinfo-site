@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 
 import Head from "next/head";
+// eslint-disable-next-line import/no-extraneous-dependencies
 import fetch from "isomorphic-fetch";
 
 import { BaseLayout } from "../components/BaseLayout";

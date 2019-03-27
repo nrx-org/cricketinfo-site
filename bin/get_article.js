@@ -1,11 +1,13 @@
+/* eslint-disable import/no-extraneous-dependencies */
 const fetch = require("isomorphic-fetch");
 const utf8 = require("utf8");
 const cheerio = require("cheerio");
+/* eslint-enable import/no-extraneous-dependencies */
 
 const SECTION_TITLES = {
   en: {
-    externalLinks: "External Links",
-    seeAlso: "See Also",
+    externalLinks: "External links",
+    seeAlso: "See also",
     references: "References"
   },
   hi: {
@@ -63,10 +65,11 @@ async function getArticle(articleId, lang) {
     title: section.line,
     anchor: section.anchor,
     content: stripCommonElements(section.text),
-    tocLevel: (section.toclevel + 1)
+    tocLevel: section.toclevel + 1
   }));
 
   console.log(JSON.stringify(sanitizedArticle));
 }
 
-getArticle("मंगलयान", "hi");
+// getArticle("मंगलयान", "hi");
+getArticle("Mangalyaan", "en");
