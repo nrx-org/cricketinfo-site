@@ -32,7 +32,10 @@ Article.getInitialProps = async ({ query }) => {
   const articleResponse = await fetch(articleUrl(articleId, lang));
   const articleJson = await articleResponse.json();
 
-  return articleJson;
+  return {
+    ...articleJson,
+    lang
+  };
 };
 
 Article.defaultProps = { coverImage: null };
