@@ -1,6 +1,9 @@
 .article__cover-image-container {
-  object-fit: cover;
   height: $height-cover-image;
   overflow: hidden;
-  margin: 0 -$gutter-m;
+  margin: 0px -$gutter-m;
+}
+
+.article__cover-image {
+  width: 100%;
 }
