@@ -6,15 +6,13 @@ body {
   color: $body-color;
 }
 
-// Semantically, this is h3
-h2 {
+h3 {
   font-size: $font-size-section-subtitle;
   font-weight: normal;
   margin: $gutter-m 0 $gutter-s 0;
 }
 
-// Semantically, this is h2
-.section > h1 {
+h2 {
   font-size: $font-size-section-title;
   line-height: $line-height-h2;
   color: $body-color;
@@ -26,6 +24,7 @@ h1 {
   font-weight: normal;
   line-height: $line-height-h1;
   color: $h1-color;
+  margin: $gutter-m 0;
 }
 
 a {
