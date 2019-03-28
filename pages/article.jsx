@@ -9,9 +9,17 @@ import { BaseLayout } from "../components/BaseLayout";
 import { ArticleContent } from "../components/ArticleContent";
 import { makeTitle } from "../lib/make_title";
 import { articleUrl } from "../lib/urls";
-import { sectionsPropTypes } from "../lib/prop_types";
+import { sectionsPropTypes, translationsPropTypes } from "../lib/prop_types";
+import { LanguageSelector } from "../components/LanguageSelector";
 
-const Article = ({ title, sections, lang, summary, coverImage }) => (
+const Article = ({
+  title,
+  sections,
+  lang,
+  summary,
+  coverImage,
+  translations
+}) => (
   <BaseLayout lang={lang}>
     <Head>
       <title>{makeTitle(title, lang)}</title>
@@ -24,6 +32,11 @@ const Article = ({ title, sections, lang, summary, coverImage }) => (
     <h1>{title}</h1>
     {/* eslint-disable-next-line react/no-danger */}
     <div dangerouslySetInnerHTML={{ __html: summary }} />
+    <LanguageSelector
+      translations={translations}
+      coverImage={coverImage}
+      lang={lang}
+    />
     <ArticleContent sections={sections} />
   </BaseLayout>
 );
@@ -46,7 +59,8 @@ Article.propTypes = {
   coverImage: PropTypes.string,
   summary: PropTypes.string.isRequired,
   sections: sectionsPropTypes.isRequired,
-  lang: PropTypes.string.isRequired
+  lang: PropTypes.string.isRequired,
+  translations: translationsPropTypes.isRequired
 };
 
 export default Article;
