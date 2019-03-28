@@ -1,6 +1,8 @@
 .wcp-language-card {
   color: $body-color;
   margin-left: $gutter-m;
+  flex-grow: 1;
+  flex-basis: 0;
 
   &:first-child {
     margin-left: 0;
