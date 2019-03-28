@@ -1,4 +1,8 @@
 @import "~normalize-scss/sass/normalize/import-now";
-@import "./base.scss";
+@import "./base";
 
-@import "./pages/article.scss";
+@import "./pages/article";
+
+@import "./components/Card";
+@import "./components/LanguageSelector";
+@import "./components/LanguageCard";

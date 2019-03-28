@@ -6,7 +6,7 @@ import { translationsPropTypes } from "../lib/prop_types";
 
 const LINK_TEXT = {
   hi: "हिंदी में पढ़े",
-  en: "Read in Punjabi",
+  en: "Read in English",
   pa: "ਪੰਜਾਬੀ ਵਿੱਚ ਪੜ੍ਹਿਆ"
 };
 
@@ -36,8 +36,8 @@ export const LanguageSelector = ({ translations, coverImage, lang }) => {
 
   return (
     <div>
-      <h2>{TITLE_TEXT[lang]}</h2>
-      {cards}
+      <h2 className="wcp-language-selector__title">{TITLE_TEXT[lang]}</h2>
+      <div className="wcp-language-selector__cards">{cards}</div>
       <button type="button">{MORE_LANGUAGES_TEXT[lang]}</button>
     </div>
   );

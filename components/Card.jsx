@@ -1,16 +1,14 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-export const Card = ({ children, coverImage, title, shadowSize }) => {
-  const shadowClass = `wcp-card__shadow-${shadowSize}`;
+export const Card = ({ children, coverImage, title, shadowSize, className }) => {
+  const shadowClass = `wcp-card--shadow-${shadowSize}`;
   return (
-    <div className={`wcp-card ${shadowClass}`}>
+    <div className={`wcp-card ${shadowClass} ${className}`}>
       {coverImage ? (
-        <div>
-          <img src={coverImage} alt="Cover" />
-        </div>
+        <img className="wcp-card__cover-image" src={coverImage} alt="Cover" />
       ) : null}
-      <section>
+      <section className="wcp-card__content">
         {title ? <h1>{title}</h1> : null}
         {children}
       </section>
@@ -21,12 +19,14 @@ export const Card = ({ children, coverImage, title, shadowSize }) => {
 Card.defaultProps = {
   coverImage: null,
   title: null,
-  shadowSize: "l"
+  shadowSize: "l",
+  className: ""
 };
 
 Card.propTypes = {
   children: PropTypes.node.isRequired,
   coverImage: PropTypes.string,
   title: PropTypes.string,
-  shadowSize: PropTypes.string
+  shadowSize: PropTypes.string,
+  className: PropTypes.string
 };

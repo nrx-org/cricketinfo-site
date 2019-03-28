@@ -1,0 +1,15 @@
+.wcp-language-card {
+  color: $body-color;
+  margin-left: $gutter-m;
+
+  &:first-child {
+    margin-left: 0;
+  }
+}
+
+.wcp-language-card__link-text {
+  font-weight: bold;
+  display: block;
+  text-transform: uppercase;
+  font-size: $font-size-s;
+}

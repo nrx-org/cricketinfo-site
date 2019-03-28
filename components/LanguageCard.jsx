@@ -4,11 +4,15 @@ import { Card } from "./Card";
 
 export const LanguageCard = ({ url, title, coverImage, linkText }) => {
   return (
-    <Card coverImage={coverImage}>
-      <span>{title}</span>
-      {/* eslint-disable react/jsx-one-expression-per-line */}
-      <a href={url}>{linkText} →</a>
-    </Card>
+    <a href={url} className="wcp-language-card">
+      <Card coverImage={coverImage} shadowSize="m">
+        <span>{title}</span>
+        {/* eslint-disable react/jsx-one-expression-per-line */}
+        <a className="wcp-language-card__link-text" href={url}>
+          {linkText} →
+        </a>
+      </Card>
+    </a>
   );
 };
 
