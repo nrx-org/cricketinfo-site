@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 
 import { LanguageCard } from "./LanguageCard";
+import { Button } from "./Button";
 import { translationsPropTypes } from "../lib/prop_types";
 
 const LINK_TEXT = {
@@ -38,7 +39,9 @@ export const LanguageSelector = ({ translations, coverImage, lang }) => {
     <div>
       <h2 className="wcp-language-selector__title">{TITLE_TEXT[lang]}</h2>
       <div className="wcp-language-selector__cards">{cards}</div>
-      <button type="button">{MORE_LANGUAGES_TEXT[lang]}</button>
+      <Button type="inverted" className="wcp-language-selector__cta">
+        {MORE_LANGUAGES_TEXT[lang]}
+      </Button>
     </div>
   );
 };

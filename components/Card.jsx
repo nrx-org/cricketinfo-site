@@ -1,7 +1,13 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-export const Card = ({ children, coverImage, title, shadowSize, className }) => {
+export const Card = ({
+  children,
+  coverImage,
+  title,
+  shadowSize,
+  className
+}) => {
   const shadowClass = `wcp-card--shadow-${shadowSize}`;
   return (
     <div className={`wcp-card ${shadowClass} ${className}`}>

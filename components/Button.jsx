@@ -1,20 +1,22 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-export const Button = ({ label, type }) => {
+export const Button = ({ children, type, className }) => {
   const buttonClass = type === "inverted" ? "wcp-button--inverted" : "";
   return (
-    <button className={`wcp-button ${buttonClass}`} type="button">
-      {label}
+    <button className={`wcp-button ${buttonClass} ${className}`} type="button">
+      {children}
     </button>
   );
 };
 
 Button.defaultProps = {
-  type: ""
+  type: "",
+  className: ""
 };
 
 Button.propTypes = {
-  label: PropTypes.string.isRequired,
-  type: PropTypes.oneOf(["inverted"])
+  children: PropTypes.node.isRequired,
+  type: PropTypes.oneOf(["inverted"]),
+  className: PropTypes.string
 };
