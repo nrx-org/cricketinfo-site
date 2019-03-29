@@ -18,6 +18,7 @@ const Article = ({
   lang,
   summary,
   coverImage,
+  altText,
   translations
 }) => (
   <BaseLayout lang={lang}>
@@ -26,7 +27,7 @@ const Article = ({
     </Head>
     {coverImage ? (
       <div className="article__cover-image-container">
-        <img className="article__cover-image" src={coverImage} alt="Cover" />
+        <img className="article__cover-image" src={coverImage} alt={altText} />
       </div>
     ) : null}
     <h1>{title}</h1>
@@ -35,6 +36,7 @@ const Article = ({
     <LanguageSelector
       translations={translations}
       coverImage={coverImage}
+      altText={altText}
       lang={lang}
     />
     <ArticleContent sections={sections} />
@@ -52,11 +54,12 @@ Article.getInitialProps = async ({ query }) => {
   };
 };
 
-Article.defaultProps = { coverImage: null };
+Article.defaultProps = { coverImage: null, altText: null };
 
 Article.propTypes = {
   title: PropTypes.string.isRequired,
   coverImage: PropTypes.string,
+  altText: PropTypes.string,
   summary: PropTypes.string.isRequired,
   sections: sectionsPropTypes.isRequired,
   lang: PropTypes.string.isRequired,

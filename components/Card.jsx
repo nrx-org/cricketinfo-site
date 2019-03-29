@@ -4,6 +4,7 @@ import PropTypes from "prop-types";
 export const Card = ({
   children,
   coverImage,
+  altText,
   title,
   shadowSize,
   className
@@ -12,7 +13,7 @@ export const Card = ({
   return (
     <div className={`wcp-card ${shadowClass} ${className}`}>
       {coverImage ? (
-        <img className="wcp-card__cover-image" src={coverImage} alt="Cover" />
+        <img className="wcp-card__cover-image" src={coverImage} alt={altText} />
       ) : null}
       <section className="wcp-card__content">
         {title ? <h1>{title}</h1> : null}
@@ -24,6 +25,7 @@ export const Card = ({
 
 Card.defaultProps = {
   coverImage: null,
+  altText: null,
   title: null,
   shadowSize: "l",
   className: ""
@@ -32,6 +34,7 @@ Card.defaultProps = {
 Card.propTypes = {
   children: PropTypes.node.isRequired,
   coverImage: PropTypes.string,
+  altText: PropTypes.string,
   title: PropTypes.string,
   shadowSize: PropTypes.string,
   className: PropTypes.string

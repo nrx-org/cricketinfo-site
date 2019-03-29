@@ -8,6 +8,7 @@ export const ArticleContent = ({ sections }) => {
     return (
       <>
         <Heading>{s.title}</Heading>
+        {/* eslint-disable-next-line react/no-danger */}
         <div dangerouslySetInnerHTML={{ __html: s.content }} />
       </>
     );

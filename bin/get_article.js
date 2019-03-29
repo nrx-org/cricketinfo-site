@@ -49,7 +49,8 @@ async function getArticle(articleId, lang) {
 
   const sanitizedArticle = {
     title: articleJson.lead.displaytitle,
-    coverImage: "{{ TODO }}"
+    coverImage: "{{ TODO }}",
+    altText: "{{ TODO }}"
   };
 
   // Get summary (i.e the first section). Remove infobox.

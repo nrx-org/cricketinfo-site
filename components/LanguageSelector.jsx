@@ -23,13 +23,19 @@ const MORE_LANGUAGES_TEXT = {
   pa: ""
 };
 
-export const LanguageSelector = ({ translations, coverImage, lang }) => {
+export const LanguageSelector = ({
+  translations,
+  coverImage,
+  altText,
+  lang
+}) => {
   const cards = translations.map(t => {
     return (
       <LanguageCard
         url={t.url}
         title={t.title}
         coverImage={coverImage}
+        altText={altText}
         linkText={LINK_TEXT[t.lang]}
       />
     );
@@ -49,5 +55,6 @@ export const LanguageSelector = ({ translations, coverImage, lang }) => {
 LanguageSelector.propTypes = {
   translations: translationsPropTypes.isRequired,
   coverImage: PropTypes.string.isRequired,
+  altText: PropTypes.string.isRequired,
   lang: PropTypes.string.isRequired
 };
