@@ -4,6 +4,7 @@ import PropTypes from "prop-types";
 import { LanguageCard } from "./LanguageCard";
 import { Button } from "./Button";
 import { translationsPropTypes } from "../lib/prop_types";
+import { LanguageContext } from "../language-context";
 
 const LINK_TEXT = {
   hi: "हिंदी में पढ़े",
@@ -27,7 +28,7 @@ export const LanguageSelector = ({
   translations,
   coverImage,
   altText,
-  lang
+  context
 }) => {
   const cards = translations.map(t => {
     return (
@@ -40,7 +41,8 @@ export const LanguageSelector = ({
       />
     );
   });
-
+  // eslint-disable-next-line prefer-destructuring
+  const lang = { context }.lang;
   return (
     <div>
       <h2 className="wcp-language-selector__title">{TITLE_TEXT[lang]}</h2>
@@ -52,9 +54,13 @@ export const LanguageSelector = ({
   );
 };
 
+LanguageContext.contextTypes = {
+  lang: PropTypes.string.isRequired
+};
+
 LanguageSelector.propTypes = {
   translations: translationsPropTypes.isRequired,
   coverImage: PropTypes.string.isRequired,
   altText: PropTypes.string.isRequired,
-  lang: PropTypes.string.isRequired
+  context: PropTypes.node.isRequired
 };

@@ -11,6 +11,7 @@ import { makeTitle } from "../lib/make_title";
 import { articleUrl } from "../lib/urls";
 import { sectionsPropTypes, translationsPropTypes } from "../lib/prop_types";
 import { LanguageSelector } from "../components/LanguageSelector";
+import { LanguageContext } from "../language-context";
 
 const Article = ({
   title,
@@ -21,26 +22,31 @@ const Article = ({
   altText,
   translations
 }) => (
-  <BaseLayout lang={lang}>
-    <Head>
-      <title>{makeTitle(title, lang)}</title>
-    </Head>
-    {coverImage ? (
-      <div className="article__cover-image-container">
-        <img className="article__cover-image" src={coverImage} alt={altText} />
-      </div>
-    ) : null}
-    <h1>{title}</h1>
-    {/* eslint-disable-next-line react/no-danger */}
-    <div dangerouslySetInnerHTML={{ __html: summary }} />
-    <LanguageSelector
-      translations={translations}
-      coverImage={coverImage}
-      altText={altText}
-      lang={lang}
-    />
-    <ArticleContent sections={sections} />
-  </BaseLayout>
+  <LanguageContext.Provider value={lang}>
+    <BaseLayout>
+      <Head>
+        <title>{makeTitle(title, lang)}</title>
+      </Head>
+      {coverImage ? (
+        <div className="article__cover-image-container">
+          <img
+            className="article__cover-image"
+            src={coverImage}
+            alt={altText}
+          />
+        </div>
+      ) : null}
+      <h1>{title}</h1>
+      {/* eslint-disable-next-line react/no-danger */}
+      <div dangerouslySetInnerHTML={{ __html: summary }} />
+      <LanguageSelector
+        translations={translations}
+        coverImage={coverImage}
+        altText={altText}
+      />
+      <ArticleContent sections={sections} />
+    </BaseLayout>
+  </LanguageContext.Provider>
 );
 
 Article.getInitialProps = async ({ query }) => {

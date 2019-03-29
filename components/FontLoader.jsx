@@ -1,5 +1,6 @@
 import React from "react";
-import PropTypes from "prop-types";
+
+import { LanguageContext } from "../language-context";
 
 const FONT_MAPPINGS = {
   en: {
@@ -70,8 +71,7 @@ const loadFont = (fontType, font) => {
 
 export class FontLoader extends React.Component {
   componentDidMount() {
-    const { lang } = this.props;
-
+    const lang = this.context;
     if (!process.browser) {
       return;
     }
@@ -98,6 +98,4 @@ export class FontLoader extends React.Component {
   }
 }
 
-FontLoader.propTypes = {
-  lang: PropTypes.string.isRequired
-};
+FontLoader.contextType = LanguageContext;

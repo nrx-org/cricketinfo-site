@@ -10,18 +10,17 @@ import "../styles/main.scss";
 
 setCommitSHA1();
 
-export const BaseLayout = ({ children, lang }) => (
+export const BaseLayout = ({ children }) => (
   <main>
     <Head>
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
     </Head>
-    <FontLoader lang={lang} />
-    <LanguageSetter lang={lang} />
+    <FontLoader />
+    <LanguageSetter />
     {children}
   </main>
 );
 
 BaseLayout.propTypes = {
-  children: PropTypes.node.isRequired,
-  lang: PropTypes.string.isRequired
+  children: PropTypes.node.isRequired
 };

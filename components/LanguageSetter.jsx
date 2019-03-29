@@ -1,5 +1,5 @@
 import React from "react";
-import PropTypes from "prop-types";
+import { LanguageContext } from "../language-context";
 
 const setLanguage = lang => {
   document.documentElement.setAttribute("lang", lang);
@@ -7,16 +7,17 @@ const setLanguage = lang => {
 
 export class LanguageSetter extends React.Component {
   componentDidMount() {
-    const { lang } = this.props;
+    const lang = this.context;
 
     if (process.browser) {
       setLanguage(lang);
     }
   }
 
-  componentDidUpdate(prevProps) {
+  componentDidUpdate() {
     if (process.browser) {
-      setLanguage(prevProps.lang);
+      const lang = this.context;
+      setLanguage(lang);
     }
   }
 
@@ -25,6 +26,4 @@ export class LanguageSetter extends React.Component {
   }
 }
 
-LanguageSetter.propTypes = {
-  lang: PropTypes.string.isRequired
-};
+LanguageSetter.contextType = LanguageContext;
