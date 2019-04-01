@@ -8,9 +8,7 @@ export const LanguageCard = ({ url, title, coverImage, altText, linkText }) => {
       <Card coverImage={coverImage} altText={altText} shadowSize="m">
         <span>{title}</span>
         {/* eslint-disable react/jsx-one-expression-per-line */}
-        <a className="wcp-language-card__link-text" href={url}>
-          {linkText} →
-        </a>
+        <span className="wcp-language-card__link-text">{linkText} →</span>
       </Card>
     </a>
   );
