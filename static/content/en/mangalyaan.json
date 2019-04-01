@@ -1,18 +1,22 @@
 {
   "title": "Mars Orbiter Mission",
-  "coverImage": "/static/images/mangalyaan.jpg",
-  "altText": "Launch of the Mars Orbiter Mission",
+  "coverImage": {
+    "url": "/static/images/mangalyaan.jpg",
+    "altText": "Launch of the Mars Orbiter Mission"
+  },
   "summary": "<p>The <b>Mars Orbiter Mission</b> (<b>MOM</b>), also called <i><b>Mangalyaan</b></i> (\"Mars-craft\", from <a href=\"/wiki/Sanskrit_language\" title=\"Sanskrit language\" class=\"mw-redirect\">Sanskrit</a><span>: </span><span>मंगल</span> <i>mangala</i>, \"Mars\" and यान <i>yāna</i>, \"craft, vehicle\"), is a <a href=\"/wiki/Space_probe\" title=\"Space probe\">space probe</a> orbiting <a href=\"/wiki/Mars\" title=\"Mars\">Mars</a> since 24 September 2014. It was launched on 5 November 2013 by the <a href=\"/wiki/Indian_Space_Research_Organisation\" title=\"Indian Space Research Organisation\">Indian Space Research Organisation</a> (ISRO). It is <a href=\"/wiki/India\" title=\"India\">India</a>'s first interplanetary mission and it made it the fourth <a href=\"/wiki/List_of_space_agencies\" title=\"List of space agencies\" class=\"mw-redirect\">space agency</a> to reach Mars, after <a href=\"/wiki/Roscosmos\" title=\"Roscosmos\">Roscosmos</a>, <a href=\"/wiki/NASA\" title=\"NASA\">NASA</a>, and the <a href=\"/wiki/European_Space_Agency\" title=\"European Space Agency\">European Space Agency</a>. It is the first Asian nation to reach Mars orbit, and the first nation in the world to do so in its first attempt.</p>\n\n<div role=\"note\" class=\"hatnote navigation-not-searchable\" about=\"#mwt1\">This article is about the Mars probe from India. For other Mars orbiters, see <a href=\"/wiki/List_of_Mars_orbiters\" title=\"List of Mars orbiters\">List of Mars orbiters</a> and <a href=\"/wiki/List_of_missions_to_Mars\" title=\"List of missions to Mars\">List of missions to Mars</a>.</div>\n<p>\n</p>\n\n<p>The Mars Orbiter Mission probe lifted-off from the <a href=\"/wiki/Satish_Dhawan_Space_Centre_First_Launch_Pad\" title=\"Satish Dhawan Space Centre First Launch Pad\">First Launch Pad</a> at <a href=\"/wiki/Satish_Dhawan_Space_Centre\" title=\"Satish Dhawan Space Centre\">Satish Dhawan Space Centre</a> (<a href=\"/wiki/Sriharikota\" title=\"Sriharikota\">Sriharikota</a> Range SHAR), <a href=\"/wiki/Andhra_Pradesh\" title=\"Andhra Pradesh\">Andhra Pradesh</a>, using a <a href=\"/wiki/Polar_Satellite_Launch_Vehicle\" title=\"Polar Satellite Launch Vehicle\">Polar Satellite Launch Vehicle</a> (PSLV) rocket C25 at 09:08<span> </span>UTC on 5 November 2013. The <a href=\"/wiki/Launch_window\" title=\"Launch window\">launch window</a> was approximately 20 days long and started on 28 October 2013. The MOM probe spent about a month in <a href=\"/wiki/Geocentric_orbit\" title=\"Geocentric orbit\">Earth orbit</a>, where it made a series of seven <a href=\"/wiki/Orbit_raising\" title=\"Orbit raising\" class=\"mw-redirect\">apogee-raising</a> <a href=\"/wiki/Orbital_maneuver\" title=\"Orbital maneuver\">orbital manoeuvres</a> before <a href=\"/wiki/Trans-Mars_injection\" title=\"Trans-Mars injection\" class=\"mw-redirect\">trans-Mars injection</a> on 30 November 2013 (<a href=\"/wiki/Coordinated_Universal_Time\" title=\"Coordinated Universal Time\">UTC</a>). After a 298-day transit to Mars, it was inserted into Mars orbit on 24 September 2014.</p>\n\n<p>The mission is a \"<a href=\"/wiki/Technology_demonstrator\" title=\"Technology demonstrator\" class=\"mw-redirect\">technology demonstrator</a>\" project to develop the technologies for designing, planning, management, and operations of an interplanetary mission. It carries five instruments that will help advance knowledge about Mars to achieve its secondary, scientific objective. The spacecraft is currently being monitored from the Spacecraft Control Centre at <a href=\"/wiki/ISRO_Telemetry,_Tracking_and_Command_Network\" title=\"ISRO Telemetry, Tracking and Command Network\">ISRO Telemetry, Tracking and Command Network</a> (ISTRAC) in <a href=\"/wiki/Bangalore\" title=\"Bangalore\">Bengaluru</a> with support from the <a href=\"/wiki/Indian_Deep_Space_Network\" title=\"Indian Deep Space Network\">Indian Deep Space Network</a> (IDSN) antennae at <a href=\"/wiki/Byalalu\" title=\"Byalalu\">Byalalu</a>, Karnataka.</p>\n\n",
-  "translations": [{
-    "url": "/wiki/hi/मंगलयान", 
-    "title": "मंगलयान", 
-    "lang": "hi"
-  }, 
-  {
-    "url": "/wiki/pa/ਮੰਗਲਯਾਨ", 
-    "title": "ਮੰਗਲਯਾਨ", 
-    "lang": "pa"
-  }],
+  "translations": [
+    {
+      "url": "/wiki/hi/मंगलयान",
+      "title": "मंगलयान",
+      "lang": "hi"
+    },
+    {
+      "url": "/wiki/pa/ਮੰਗਲਯਾਨ",
+      "title": "ਮੰਗਲਯਾਨ",
+      "lang": "pa"
+    }
+  ],
   "sections": [
     {
       "title": "History",
