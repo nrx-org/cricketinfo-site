@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 
 import { LanguageCard } from "./LanguageCard";
 import { Button } from "./Button";
-import { translationsPropTypes } from "../lib/prop_types";
+import { translationsPropTypes, imagePropTypes } from "../lib/prop_types";
 import { LanguageContext } from "../language-context";
 
 const LINK_TEXT = {
@@ -24,43 +24,37 @@ const MORE_LANGUAGES_TEXT = {
   pa: ""
 };
 
-export const LanguageSelector = ({
-  translations,
-  coverImage,
-  altText,
-  context
-}) => {
-  const cards = translations.map(t => {
+/* eslint-disable react/prefer-stateless-function */
+export class LanguageSelector extends React.Component {
+  render() {
+    const { translations, coverImage } = this.props;
+    const lang = this.context;
+    const cards = translations.map(t => {
+      return (
+        <LanguageCard
+          url={t.url}
+          title={t.title}
+          coverImage={coverImage}
+          linkText={LINK_TEXT[t.lang]}
+        />
+      );
+    });
     return (
-      <LanguageCard
-        url={t.url}
-        title={t.title}
-        coverImage={coverImage}
-        altText={altText}
-        linkText={LINK_TEXT[t.lang]}
-      />
+      <div>
+        <h2 className="wcp-language-selector__title">{TITLE_TEXT[lang]}</h2>
+        <div className="wcp-language-selector__cards">{cards}</div>
+        <Button type="inverted" className="wcp-language-selector__cta">
+          {MORE_LANGUAGES_TEXT[lang]}
+        </Button>
+      </div>
     );
-  });
-  // eslint-disable-next-line prefer-destructuring
-  const lang = { context }.lang;
-  return (
-    <div>
-      <h2 className="wcp-language-selector__title">{TITLE_TEXT[lang]}</h2>
-      <div className="wcp-language-selector__cards">{cards}</div>
-      <Button type="inverted" className="wcp-language-selector__cta">
-        {MORE_LANGUAGES_TEXT[lang]}
-      </Button>
-    </div>
-  );
-};
+  }
+}
+/* eslint-enable react/prefer-stateless-function */
 
-LanguageContext.contextTypes = {
-  lang: PropTypes.string.isRequired
-};
+LanguageSelector.contextType = LanguageContext;
 
 LanguageSelector.propTypes = {
   translations: translationsPropTypes.isRequired,
-  coverImage: PropTypes.string.isRequired,
-  altText: PropTypes.string.isRequired,
-  context: PropTypes.node.isRequired
+  coverImage: imagePropTypes.isRequired
 };
