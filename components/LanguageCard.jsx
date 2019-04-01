@@ -2,10 +2,10 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Card } from "./Card";
 
-export const LanguageCard = ({ url, title, coverImage, altText, linkText }) => {
+export const LanguageCard = ({ url, title, coverImage, linkText }) => {
   return (
     <a href={url} className="wcp-language-card">
-      <Card coverImage={coverImage} altText={altText} shadowSize="m">
+      <Card coverImage={coverImage} shadowSize="m">
         <span>{title}</span>
         {/* eslint-disable react/jsx-one-expression-per-line */}
         <span className="wcp-language-card__link-text">{linkText} →</span>
@@ -18,6 +18,5 @@ LanguageCard.propTypes = {
   url: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
   coverImage: PropTypes.string.isRequired,
-  altText: PropTypes.string.isRequired,
   linkText: PropTypes.string.isRequired
 };

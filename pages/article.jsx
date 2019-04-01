@@ -9,7 +9,11 @@ import { BaseLayout } from "../components/BaseLayout";
 import { ArticleContent } from "../components/ArticleContent";
 import { makeTitle } from "../lib/make_title";
 import { articleUrl } from "../lib/urls";
-import { sectionsPropTypes, translationsPropTypes } from "../lib/prop_types";
+import {
+  sectionsPropTypes,
+  translationsPropTypes,
+  imagePropTypes
+} from "../lib/prop_types";
 import { LanguageSelector } from "../components/LanguageSelector";
 import { LanguageContext } from "../language-context";
 
@@ -19,7 +23,6 @@ const Article = ({
   lang,
   summary,
   coverImage,
-  altText,
   translations
 }) => (
   <LanguageContext.Provider value={lang}>
@@ -31,19 +34,15 @@ const Article = ({
         <div className="article__cover-image-container">
           <img
             className="article__cover-image"
-            src={coverImage}
-            alt={altText}
+            src={coverImage.url}
+            alt={coverImage.altText}
           />
         </div>
       ) : null}
       <h1>{title}</h1>
       {/* eslint-disable-next-line react/no-danger */}
       <div dangerouslySetInnerHTML={{ __html: summary }} />
-      <LanguageSelector
-        translations={translations}
-        coverImage={coverImage}
-        altText={altText}
-      />
+      <LanguageSelector translations={translations} coverImage={coverImage} />
       <ArticleContent sections={sections} />
     </BaseLayout>
   </LanguageContext.Provider>
@@ -60,12 +59,9 @@ Article.getInitialProps = async ({ query }) => {
   };
 };
 
-Article.defaultProps = { coverImage: null, altText: null };
-
 Article.propTypes = {
   title: PropTypes.string.isRequired,
-  coverImage: PropTypes.string,
-  altText: PropTypes.string,
+  coverImage: imagePropTypes.isRequired,
   summary: PropTypes.string.isRequired,
   sections: sectionsPropTypes.isRequired,
   lang: PropTypes.string.isRequired,
