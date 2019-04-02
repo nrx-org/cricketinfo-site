@@ -28,10 +28,32 @@ SimpleContent.propTypes = {
   cardData: factCardDataPropTypes.isRequired
 };
 
-const AvatarContent = ({ cardData }) => null;
+const AvatarContent = ({ cardData }) => (
+  <>
+    {cardData.facts.map(f => {
+      const content = (
+        <div className="wcp-avatar-content__item">
+          <div className="wcp-avatar-content__item__profile-picture">
+            <img src={f.value.image.url} alt={f.value.image.alt} />
+          </div>
+          <div className="wcp-avatar-content__item__info">
+            <div className="wcp-avatar-content__item__info__label">
+              {f.label}
+            </div>
+            <div className="wcp-avatar-content__item__info__value">
+              {f.value.label}
+            </div>
+          </div>
+        </div>
+      );
+
+      return f.value.url ? <a href={f.value.url}>{content}</a> : content;
+    })}
+  </>
+);
 
 AvatarContent.propTypes = {
-  cardData: factCardDataPropTypes
+  cardData: factCardDataPropTypes.isRequired
 };
 
 const NestedContent = ({ cardData }) => null;
@@ -44,9 +66,9 @@ export const FactCard = ({ cardData, className }) => {
   let content = null;
   if (cardData.cardType === "simple") {
     content = <SimpleContent cardData={cardData} />;
-  } else if (cardData.type === "avatar") {
+  } else if (cardData.cardType === "avatar") {
     content = <AvatarContent cardData={cardData} />;
-  } else if (cardData.type === "nested") {
+  } else if (cardData.cardType === "nested") {
     content = <NestedContent cardData={cardData} />;
   }
 

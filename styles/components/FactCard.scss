@@ -1,13 +1,17 @@
+@mixin fact-card-label() {
+  font-weight: bold;
+  text-align: left;
+  text-transform: uppercase;
+  font-size: $font-size-xs;
+  color: $color-gray-medium;
+}
+
 .wcp-fact-card__table {
   width: 100%;
 
   th {
+    @include fact-card-label();
     padding-bottom: $gutter-xs;
-    font-weight: bold;
-    text-align: left;
-    text-transform: uppercase;
-    font-size: $font-size-xs;
-    color: $color-gray-medium;
   }
 
   td {
@@ -24,4 +28,30 @@
   line-height: $line-height-h4;
   font-weight: bold;
   color: $color-black;
+}
+
+.wcp-avatar-content__item {
+  display: flex;
+  align-items: center;
+  color: $body-color;
+  padding-bottom: $gutter-s;
+  margin-bottom: $gutter-m;
+  border-bottom: solid 1px $color-gray-lighter;
+}
+
+.wcp-avatar-content__item__profile-picture {
+  height: 2.5rem;
+  width: 2.5rem;
+  border-radius: 50%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.wcp-avatar-content__item__info {
+  flex-grow: 1;
+  margin-left: $gutter-l;
+}
+
+.wcp-avatar-content__item__info__label {
+  @include fact-card-label();
 }
