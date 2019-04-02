@@ -12,7 +12,8 @@ import { articleUrl } from "../lib/urls";
 import {
   sectionsPropTypes,
   translationsPropTypes,
-  imagePropTypes
+  imagePropTypes,
+  factCardDataPropTypes
 } from "../lib/prop_types";
 import { LanguageSelector } from "../components/LanguageSelector";
 import { LanguageContext } from "../language-context";
@@ -24,7 +25,7 @@ const Article = ({
   lang,
   summary,
   coverImage,
-  factCards,
+  summaryFactCards,
   translations
 }) => (
   <LanguageContext.Provider value={lang}>
@@ -32,21 +33,21 @@ const Article = ({
       <Head>
         <title>{makeTitle(title, lang)}</title>
       </Head>
-      {coverImage ? (
-        <div className="article__cover-image-container">
-          <img
-            className="article__cover-image"
-            src={coverImage.url}
-            alt={coverImage.altText}
-          />
-        </div>
-      ) : null}
+      <div className="wcp-article__cover-image-container">
+        <img
+          className="wcp-article__cover-image"
+          src={coverImage.url}
+          alt={coverImage.altText}
+        />
+      </div>
       <h1>{title}</h1>
+
       {/* eslint-disable-next-line react/no-danger */}
       <div dangerouslySetInnerHTML={{ __html: summary }} />
+
       <LanguageSelector translations={translations} coverImage={coverImage} />
-      {factCards.map(f => (
-        <FactCard data={f} />
+      {summaryFactCards.map(f => (
+        <FactCard className="wcp-summary-fact-card" cardData={f} />
       ))}
       <ArticleContent sections={sections} />
     </BaseLayout>
@@ -64,13 +65,18 @@ Article.getInitialProps = async ({ query }) => {
   };
 };
 
+Article.defaultProps = {
+  summaryFactCards: []
+};
+
 Article.propTypes = {
   title: PropTypes.string.isRequired,
   coverImage: imagePropTypes.isRequired,
   summary: PropTypes.string.isRequired,
   sections: sectionsPropTypes.isRequired,
   lang: PropTypes.string.isRequired,
-  translations: translationsPropTypes.isRequired
+  translations: translationsPropTypes.isRequired,
+  summaryFactCards: PropTypes.arrayOf(factCardDataPropTypes)
 };
 
 export default Article;

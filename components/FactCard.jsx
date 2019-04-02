@@ -1,8 +1,11 @@
 import React from "react";
-import { Card } from "./Card";
+import PropTypes from "prop-types";
 
-const FactCardSimpleContent = ({ data }) => {
-  const content = data.facts.map(f => (
+import { Card } from "./Card";
+import { factCardDataPropTypes } from "../lib/prop_types";
+
+const SimpleContent = ({ cardData }) => {
+  const content = cardData.facts.map(f => (
     <tr>
       <th>{f.label}</th>
       <td>
@@ -15,24 +18,54 @@ const FactCardSimpleContent = ({ data }) => {
     </tr>
   ));
   return (
-    <table>
+    <table className="wcp-fact-card__table">
       <tbody>{content}</tbody>
     </table>
   );
 };
 
-export const FactCard = ({ data }) => {
-  let content = null;
-  if (data.cardType === "simple") {
-    console.log("In simple");
-
-    content = <FactCardSimpleContent data={data} />;
-  } else if (data.type === "avatar") {
-    content = <FactCardAvatarContent data={data} />;
-  } else if (data.type === "nested") {
-    content = <FactCardNestedContent data={data} />;
-  }
-
-  return <Card title={data.title}>{content}</Card>;
+SimpleContent.propTypes = {
+  cardData: factCardDataPropTypes.isRequired
 };
 
+const AvatarContent = ({ cardData }) => null;
+
+AvatarContent.propTypes = {
+  cardData: factCardDataPropTypes
+};
+
+const NestedContent = ({ cardData }) => null;
+
+NestedContent.propTypes = {
+  cardData: factCardDataPropTypes
+};
+
+export const FactCard = ({ cardData, className }) => {
+  let content = null;
+  if (cardData.cardType === "simple") {
+    content = <SimpleContent cardData={cardData} />;
+  } else if (cardData.type === "avatar") {
+    content = <AvatarContent cardData={cardData} />;
+  } else if (cardData.type === "nested") {
+    content = <NestedContent cardData={cardData} />;
+  }
+
+  return (
+    <Card
+      className={`wcp-fact-card ${className}`}
+      title={cardData.title}
+      contentClassName="wcp-fact-card__content"
+    >
+      {content}
+    </Card>
+  );
+};
+
+FactCard.defaultProps = {
+  className: ""
+};
+
+FactCard.propTypes = {
+  cardData: factCardDataPropTypes.isRequired,
+  className: PropTypes.string
+};

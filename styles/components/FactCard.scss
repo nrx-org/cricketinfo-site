@@ -1,0 +1,27 @@
+.wcp-fact-card__table {
+  width: 100%;
+
+  th {
+    padding-bottom: $gutter-xs;
+    font-weight: bold;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: $font-size-xs;
+    color: $color-gray-medium;
+  }
+
+  td {
+    text-align: right;
+  }
+}
+
+.wcp-fact-card__content {
+  padding: $gutter-m $gutter-m $gutter-l $gutter-m;
+}
+
+.wcp-fact-card h1 {
+  font-size: $font-size-xl;
+  line-height: $line-height-h4;
+  font-weight: bold;
+  color: $color-black;
+}
