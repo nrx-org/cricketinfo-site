@@ -4,8 +4,8 @@
       "title": "About",
       "cardType": "simple",
       "facts": [
-        { "label": "Independence day", "value": "15 August 1947" },
-        { "label": "Republic day", "value": "26 January 1950" },
+        { "label": "Independence day", "value": { "label": "15 August 1947" } },
+        { "label": "Republic day", "value": { "label": "26 January 1950" } },
         {
           "label": "Capital city",
           "value": {

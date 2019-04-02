@@ -1,0 +1,55 @@
+{
+  "factcards": [
+    {
+      "title": "About",
+      "facts": {
+        "Born on": "",
+        "Birth place": "",
+        "Other names": "",
+        "Nationality": ""
+      }
+    },
+    {
+      "title": "Family",
+      "facts": {
+        "Spouse": {
+          "label": "",
+          "url": "",
+          "image": {
+            "url": "",
+            "altText": ""
+          }
+        },
+        "Son": {
+          "label": "",
+          "url": "",
+          "image": {
+            "url": "",
+            "altText": ""
+          }
+        },
+        "Daughter": {
+          "label": "",
+          "url": "",
+          "image": {
+            "url": "",
+            "altText": ""
+          }
+        }
+      }
+    },
+    {
+      "title": "Alma Mater",
+      "facts": {
+        "1982": {
+          "label": "College name",
+          "url": "",
+          "image": {
+            "url": "",
+            "altText": ""
+          }
+        }
+      }
+    }
+  ]
+}

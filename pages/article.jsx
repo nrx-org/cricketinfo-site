@@ -16,6 +16,7 @@ import {
 } from "../lib/prop_types";
 import { LanguageSelector } from "../components/LanguageSelector";
 import { LanguageContext } from "../language-context";
+import { FactCard } from "../components/FactCard";
 
 const Article = ({
   title,
@@ -23,6 +24,7 @@ const Article = ({
   lang,
   summary,
   coverImage,
+  factCards,
   translations
 }) => (
   <LanguageContext.Provider value={lang}>
@@ -43,6 +45,9 @@ const Article = ({
       {/* eslint-disable-next-line react/no-danger */}
       <div dangerouslySetInnerHTML={{ __html: summary }} />
       <LanguageSelector translations={translations} coverImage={coverImage} />
+      {factCards.map(f => (
+        <FactCard data={f} />
+      ))}
       <ArticleContent sections={sections} />
     </BaseLayout>
   </LanguageContext.Provider>
