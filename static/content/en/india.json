@@ -91,17 +91,28 @@
       ]
     },
     {
-      "title": "Alma Mater",
+      "title": "GDP & Population",
       "cardType": "nested",
       "facts": [
         {
-          "label": "1982",
+          "label": "2018",
           "value": {
-            "label": "College name",
-            "url": "",
+            "label": "India’s GDP touches 2.69 trillion USD",
+            "url": "https://thehindu.com",
             "image": {
-              "url": "",
-              "altText": ""
+              "url": "https://placekitten.com/64/64",
+              "altText": "Pink money"
+            }
+          }
+        }, 
+        {
+          "label": "2016",
+          "value": {
+            "label": "India’s population touches 1.32 billion",
+            "url": "https://scroll.in",
+            "image": {
+              "url": "https://placekitten.com/64/64",
+              "altText": "Trains are fun"
             }
           }
         }

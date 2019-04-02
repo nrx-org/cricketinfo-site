@@ -55,3 +55,33 @@
 .wcp-avatar-content__item__info__label {
   @include fact-card-label();
 }
+
+.wcp-nested-content {
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.wcp-nested-content__item {
+  display: flex;
+  margin-bottom: $gutter-xl;
+  align-items: center;
+}
+
+.wcp-nested-content__card {
+  margin-left: $gutter-xl;
+
+  h1 {
+    font-size: $body-font-size;
+    font-weight: normal;
+  }
+}
+
+.wcp-nested-content__item__label {
+  font-size: $font-size-s;
+  color: $color-gray-medium;
+}
+
+
+
+

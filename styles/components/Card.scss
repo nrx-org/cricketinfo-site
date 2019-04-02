@@ -13,6 +13,8 @@
 .wcp-card {
   border-radius: $border-radius-s;
   overflow: hidden;
+  display: flex;
+  flex-direction: column;
 }
 
 .wcp-card__cover-image {
@@ -28,4 +30,17 @@
 
 .wcp-card__title {
   margin-top: 0;
+}
+
+.wcp-card--image-left {
+  flex-direction: row;
+  align-items: center;
+
+  .wcp-card__title {
+    margin-bottom: 0;
+  }
+
+  .wcp-card__cover-image {
+    width: 30%;
+  }
 }

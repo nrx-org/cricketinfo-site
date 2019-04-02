@@ -7,11 +7,17 @@ export const Card = ({
   title,
   shadowSize,
   className,
-  contentClassName
+  contentClassName,
+  imagePosition
 }) => {
   const shadowClass = `wcp-card--shadow-${shadowSize}`;
+  const imagePositionClass =
+    imagePosition === "left" ? "wcp-card--image-left" : "";
+
   return (
-    <div className={`wcp-card ${shadowClass} ${className}`}>
+    <div
+      className={`wcp-card ${shadowClass} ${className} ${imagePositionClass} `}
+    >
       {coverImage ? (
         <img
           className="wcp-card__cover-image"
@@ -32,7 +38,8 @@ Card.defaultProps = {
   title: null,
   shadowSize: "l",
   className: "",
-  contentClassName: ""
+  contentClassName: "",
+  imagePosition: "top"
 };
 
 Card.propTypes = {
@@ -41,5 +48,6 @@ Card.propTypes = {
   title: PropTypes.string,
   shadowSize: PropTypes.string,
   className: PropTypes.string,
-  contentClassName: PropTypes.string
+  contentClassName: PropTypes.string,
+  imagePosition: PropTypes.oneOf(["left", "top"])
 };
