@@ -1,5 +1,13 @@
+.wcp-card--shadow-s {
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.08), 0px 1px 4px rgba(0, 0, 0, 0.04);
+}
+
 .wcp-card--shadow-m {
   box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.08), 0px 1px 6px rgba(0, 0, 0, 0.04);
+}
+
+.wcp-card--shadow-l {
+  box-shadow: 0px 12px 24px rgba(0, 0, 0, 0.08), 0px 1px 8px rgba(0, 0, 0, 0.04);
 }
 
 .wcp-card {
@@ -16,4 +24,8 @@
 
 .wcp-card__content {
   padding: $gutter-s;
+}
+
+.wcp-card__title {
+  margin-top: 0;
 }

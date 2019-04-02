@@ -6,7 +6,8 @@ export const Card = ({
   coverImage,
   title,
   shadowSize,
-  className
+  className,
+  contentClassName
 }) => {
   const shadowClass = `wcp-card--shadow-${shadowSize}`;
   return (
@@ -18,8 +19,8 @@ export const Card = ({
           alt={coverImage.altText}
         />
       ) : null}
-      <section className="wcp-card__content">
-        {title ? <h1>{title}</h1> : null}
+      <section className={`wcp-card__content ${contentClassName}`}>
+        {title ? <h1 className="wcp-card__title">{title}</h1> : null}
         {children}
       </section>
     </div>
@@ -30,7 +31,8 @@ Card.defaultProps = {
   coverImage: null,
   title: null,
   shadowSize: "l",
-  className: ""
+  className: "",
+  contentClassName: ""
 };
 
 Card.propTypes = {
@@ -38,5 +40,6 @@ Card.propTypes = {
   coverImage: PropTypes.string,
   title: PropTypes.string,
   shadowSize: PropTypes.string,
-  className: PropTypes.string
+  className: PropTypes.string,
+  contentClassName: PropTypes.string
 };
