@@ -17,6 +17,21 @@ const SECTION_TITLES = {
   }
 };
 
+const ADDITIONAL_FIELDS = {
+  translations: [
+    {
+      url: "/wiki/{{ TO DO }}/{{ TO DO }}",
+      title: "{{ TO DO }}",
+      lang: "{{ TO DO }}"
+    },
+    {
+      url: "/wiki/pa/{{ TO DO }}",
+      title: "{{ TO DO }}",
+      lang: "pa"
+    }
+  ]
+};
+
 function stripSelectors(html, selectorsList) {
   const $ = cheerio.load(html, { decodeEntities: false });
   selectorsList.forEach(s => $(s).remove());
@@ -49,14 +64,20 @@ async function getArticle(articleId, lang) {
 
   const sanitizedArticle = {
     title: articleJson.lead.displaytitle,
-    coverImage: "{{ TODO }}",
-    altText: "{{ TODO }}"
+    coverImage: {
+      url: "/static/images/{{ TODO }}",
+      altText: "{{ TODO }}"
+    }
   };
 
   // Get summary (i.e the first section). Remove infobox.
   sanitizedArticle.summary = stripCommonElements(
     articleJson.lead.sections[0].text
   );
+  // console.log(sanitizedArticle.summary);
+  // sanitizedArticle.summary = "";
+
+  Object.assign(sanitizedArticle, ADDITIONAL_FIELDS);
 
   // Get the remaining sections. Remove infoboxes and images if they exist.
   sanitizedArticle.sections = filterCommonSections(
@@ -72,5 +93,5 @@ async function getArticle(articleId, lang) {
   console.log(JSON.stringify(sanitizedArticle));
 }
 
-// getArticle("मंगलयान", "hi");
-getArticle("Mangalyaan", "en");
+// getArticle("प्रेमचंद", "hi");
+getArticle("India", "en");
