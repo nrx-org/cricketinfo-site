@@ -18,7 +18,7 @@ const SimpleContent = ({ cardData }) => {
     </tr>
   ));
   return (
-    <table className="wcp-fact-card__table">
+    <table className="wcp-fact-card__table-content ">
       <tbody>{content}</tbody>
     </table>
   );
@@ -29,25 +29,36 @@ SimpleContent.propTypes = {
 };
 
 const AvatarContent = ({ cardData }) => (
-  <div className="wcp-avatar-content">
+  <div className="wcp-fact-card__avatar-content">
     {cardData.facts.map(f => {
       const content = (
-        <div className="wcp-avatar-content__item">
-          <div className="wcp-avatar-content__item__profile-picture">
+        <div className="wcp-fact-card__avatar-content__item">
+          <div className="wcp-fact-card__avatar-content__item__profile-picture">
             <img src={f.value.image.url} alt={f.value.image.alt} />
           </div>
-          <div className="wcp-avatar-content__item__info">
-            <div className="wcp-avatar-content__item__info__label">
+          <div className="wcp-fact-card__avatar-content__item__info">
+            <div className="wcp-fact-card__avatar-content__item__info__label">
               {f.label}
             </div>
-            <div className="wcp-avatar-content__item__info__value">
+            <div className="wcp-fact-card__avatar-content__item__info__value">
               {f.value.label}
             </div>
           </div>
         </div>
       );
 
-      return f.value.url ? <a href={f.value.url}>{content}</a> : content;
+      return f.value.url ? (
+        <a
+          className="wcp-fact-card__avatar-content__item-wrapper"
+          href={f.value.url}
+        >
+          {content}
+        </a>
+      ) : (
+        <div className="wcp-fact-card__avatar-content__item-wrapper">
+          content
+        </div>
+      );
     })}
   </div>
 );
@@ -58,20 +69,22 @@ AvatarContent.propTypes = {
 
 const NestedContent = ({ cardData }) => {
   return (
-    <div className="wcp-nested-content">
+    <div className="wcp-fact-card__nested-content">
       {cardData.facts.map(f => {
         const card = (
           <Card
             shadowSize="s"
             title={f.value.label}
             coverImage={f.value.image}
-            className="wcp-nested-content__card"
+            className="wcp-fact-card__nested-content__item__card"
             imagePosition="left"
           />
         );
         return (
-          <div className="wcp-nested-content__item">
-            <div className="wcp-nested-content__item__label">{f.label}</div>
+          <div className="wcp-fact-card__nested-content__item">
+            <div className="wcp-fact-card__nested-content__item__label">
+              {f.label}
+            </div>
             {f.value.url ? <a href={f.value.url}>{card}</a> : card}
           </div>
         );
