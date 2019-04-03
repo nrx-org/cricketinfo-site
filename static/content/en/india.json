@@ -2,7 +2,7 @@
   "summaryFactCards": [
     {
       "title": "About",
-      "cardType": "simple",
+      "cardType": "table",
       "facts": [
         { "label": "Independence day", "value": { "label": "15 August 1947" } },
         { "label": "Republic day", "value": { "label": "26 January 1950" } },
@@ -104,7 +104,7 @@
               "altText": "Pink money"
             }
           }
-        }, 
+        },
         {
           "label": "2016",
           "value": {
@@ -114,6 +114,17 @@
               "url": "https://placekitten.com/64/64",
               "altText": "Trains are fun"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hindush",
+      "cardType": "simple",
+      "facts": [
+        {
+          "value": {
+            "label": "India is derived from Indus, which originates from the Old Persian word Hindush, equivalent to the Sanskrit word Sindhu."
           }
         }
       ]

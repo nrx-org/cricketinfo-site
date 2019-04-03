@@ -2,9 +2,11 @@ import React from "react";
 import PropTypes from "prop-types";
 
 import { Card } from "./Card";
+import { Icon } from "./Icon";
+
 import { factCardDataPropTypes } from "../lib/prop_types";
 
-const SimpleContent = ({ cardData }) => {
+const TableContent = ({ cardData }) => {
   const content = cardData.facts.map(f => (
     <tr>
       <th>{f.label}</th>
@@ -24,7 +26,7 @@ const SimpleContent = ({ cardData }) => {
   );
 };
 
-SimpleContent.propTypes = {
+TableContent.propTypes = {
   cardData: factCardDataPropTypes.isRequired
 };
 
@@ -97,14 +99,33 @@ NestedContent.propTypes = {
   cardData: factCardDataPropTypes.isRequired
 };
 
+const SimpleContent = ({ cardData }) => {
+  return (
+    <div className="wcp-fact-card__simple-content">
+      <p className="wcp-fact-card__simple-content__text">
+        {cardData.facts[0].value.label}
+      </p>
+      <div className="wcp-fact-card__simple-content__icon">
+        <Icon name="share" altText="Share Icon" />
+      </div>
+    </div>
+  );
+};
+
+SimpleContent.propTypes = {
+  cardData: factCardDataPropTypes.isRequired
+};
+
 export const FactCard = ({ cardData, className }) => {
   let content = null;
-  if (cardData.cardType === "simple") {
-    content = <SimpleContent cardData={cardData} />;
+  if (cardData.cardType === "table") {
+    content = <TableContent cardData={cardData} />;
   } else if (cardData.cardType === "avatar") {
     content = <AvatarContent cardData={cardData} />;
   } else if (cardData.cardType === "nested") {
     content = <NestedContent cardData={cardData} />;
+  } else if (cardData.cardType === "simple") {
+    content = <SimpleContent cardData={cardData} />;
   }
 
   return (
