@@ -34,6 +34,11 @@ a {
 
 main {
   margin: 0 $margin-main;
+  max-width: ($breakpoint-s - 1rem);
+
+  @media screen and (min-width: $breakpoint-s) {
+    margin: 0 auto;
+  }
 }
 
 .pull-quote {

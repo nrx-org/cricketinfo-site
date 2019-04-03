@@ -1,5 +1,6 @@
 .wcp-article__cover-image-container {
-  height: $height-cover-image;
+  height: 50vw;
+  max-height: 32rem;
   overflow: hidden;
   margin: 0px 0px-$gutter-m;
 }
