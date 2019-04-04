@@ -77,6 +77,7 @@ const NestedContent = ({ cardData }) => {
           <Card
             shadowSize="s"
             title={f.value.label}
+            titleClassName="wcp-fact-card__nested-content__title"
             coverImage={f.value.image}
             className="wcp-fact-card__nested-content__item__card"
             imagePosition="left"
@@ -132,6 +133,7 @@ export const FactCard = ({ cardData, className }) => {
     <Card
       className={`wcp-fact-card ${className}`}
       title={cardData.title}
+      titleClassName="wcp-fact-card__title"
       contentClassName="wcp-fact-card__content"
     >
       {content}

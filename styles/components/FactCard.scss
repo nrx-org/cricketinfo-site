@@ -6,7 +6,7 @@
   color: $color-gray-medium;
 }
 
-.wcp-fact-card h1 {
+.wcp-fact-card__title {
   font-size: $font-size-xl;
   line-height: $line-height-h4;
   font-weight: bold;
@@ -95,11 +95,12 @@
 
 .wcp-fact-card__nested-content__item__card {
   margin-left: $gutter-xl;
+}
 
-  h1 {
-    font-size: $body-font-size;
-    font-weight: normal;
-  }
+.wcp-fact-card__nested-content__title {
+  font-size: $body-font-size;
+  font-weight: normal;
+  line-height: $line-height-h4;
 }
 
 .wcp-fact-card__simple-content {

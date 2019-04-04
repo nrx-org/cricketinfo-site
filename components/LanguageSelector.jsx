@@ -34,6 +34,7 @@ export class LanguageSelector extends React.Component {
           url={t.url}
           title={t.title}
           coverImage={coverImage}
+          coverImageClassName="wcp-language-selector__cover-image"
           linkText={LINK_TEXT[t.lang]}
         />
       );

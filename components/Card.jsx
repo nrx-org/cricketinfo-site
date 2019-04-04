@@ -1,10 +1,14 @@
 import React from "react";
 import PropTypes from "prop-types";
 
+import { imagePropTypes } from "../lib/prop_types";
+
 export const Card = ({
   children,
   coverImage,
+  coverImageClassName,
   title,
+  titleClassName,
   shadowSize,
   className,
   contentClassName,
@@ -20,13 +24,15 @@ export const Card = ({
     >
       {coverImage ? (
         <img
-          className="wcp-card__cover-image"
+          className={`wcp-card__cover-image ${coverImageClassName}`}
           src={coverImage.url}
           alt={coverImage.altText}
         />
       ) : null}
       <section className={`wcp-card__content ${contentClassName}`}>
-        {title ? <h1 className="wcp-card__title">{title}</h1> : null}
+        {title ? (
+          <h1 className={`wcp-card__title ${titleClassName}`}>{title}</h1>
+        ) : null}
         {children}
       </section>
     </div>
@@ -35,7 +41,9 @@ export const Card = ({
 
 Card.defaultProps = {
   coverImage: null,
+  coverImageClassName: "",
   title: null,
+  titleClassName: "",
   shadowSize: "l",
   className: "",
   contentClassName: "",
@@ -44,8 +52,10 @@ Card.defaultProps = {
 
 Card.propTypes = {
   children: PropTypes.node.isRequired,
-  coverImage: PropTypes.string,
+  coverImage: imagePropTypes,
+  coverImageClassName: PropTypes.string,
   title: PropTypes.string,
+  titleClassName: PropTypes.string,
   shadowSize: PropTypes.string,
   className: PropTypes.string,
   contentClassName: PropTypes.string,
