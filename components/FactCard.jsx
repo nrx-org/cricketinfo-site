@@ -1,10 +1,13 @@
 import React from "react";
 import PropTypes from "prop-types";
+import slugify from "slugify";
 
 import { Card } from "./Card";
 import { Icon } from "./Icon";
 
 import { factCardDataPropTypes } from "../lib/prop_types";
+import { ModalContextConsumer } from "./ModalContext";
+import { ARTICLE_SUMMARY_MODAL_ID } from "../lib/modal_ids";
 
 const TableContent = ({ cardData }) => {
   const content = cardData.facts.map(f => (
@@ -50,12 +53,22 @@ const AvatarContent = ({ cardData }) => (
       );
 
       return f.value.url ? (
-        <a
-          className="wcp-fact-card__avatar-content__item-wrapper"
-          href={f.value.url}
-        >
-          {content}
-        </a>
+        <ModalContextConsumer>
+          {({ openModal }) => (
+            <a
+              className="wcp-fact-card__avatar-content__item-wrapper"
+              href={f.value.url}
+              onClick={e => {
+                e.preventDefault();
+                openModal(ARTICLE_SUMMARY_MODAL_ID, {
+                  articleId: slugify(f.value.label, "_").toLocaleLowerCase()
+                });
+              }}
+            >
+              {content}
+            </a>
+          )}
+        </ModalContextConsumer>
       ) : (
         <div className="wcp-fact-card__avatar-content__item-wrapper">
           content

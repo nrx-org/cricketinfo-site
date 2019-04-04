@@ -1,0 +1,28 @@
+.wcp-bottom-sheet__overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  background-color: $color-black;
+  opacity: 0.4;
+
+  &.wcp-bottom-sheet--open {
+    display: block;
+  }
+}
+
+.wcp-bottom-sheet {
+  display: none;
+  position: fixed;
+  background-color: $color-white;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 24rem;
+
+  &.wcp-bottom-sheet--open {
+    display: block;
+  }
+}

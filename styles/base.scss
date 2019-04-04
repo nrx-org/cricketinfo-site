@@ -61,3 +61,7 @@ main {
   font-size: $caption-font-size;
   line-height: $caption-line-height;
 }
+
+.noscroll {
+  overflow: hidden;
+}

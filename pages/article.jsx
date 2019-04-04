@@ -18,6 +18,11 @@ import {
 import { LanguageSelector } from "../components/LanguageSelector";
 import { LanguageContext } from "../language-context";
 import { FactCard } from "../components/FactCard";
+import {
+  ModalContextProvider,
+  ModalContextConsumer
+} from "../components/ModalContext";
+import { ArticleSummaryModal } from "../components/ArticleSummaryModal";
 
 const Article = ({
   title,
@@ -29,28 +34,43 @@ const Article = ({
   translations
 }) => (
   <LanguageContext.Provider value={lang}>
-    <BaseLayout>
-      <Head>
-        <title>{makeTitle(title, lang)}</title>
-      </Head>
-      <div className="wcp-article__cover-image-container">
-        <img
-          className="wcp-article__cover-image"
-          src={coverImage.url}
-          alt={coverImage.altText}
-        />
-      </div>
-      <h1>{title}</h1>
+    <ModalContextProvider>
+      <BaseLayout>
+        <Head>
+          <title>{makeTitle(title, lang)}</title>
+        </Head>
+        <div className="wcp-article__cover-image-container">
+          <img
+            className="wcp-article__cover-image"
+            src={coverImage.url}
+            alt={coverImage.altText}
+          />
+        </div>
+        <h1>{title}</h1>
 
-      {/* eslint-disable-next-line react/no-danger */}
-      <div dangerouslySetInnerHTML={{ __html: summary }} />
+        {/* eslint-disable-next-line react/no-danger */}
+        <div dangerouslySetInnerHTML={{ __html: summary }} />
 
-      <LanguageSelector translations={translations} coverImage={coverImage} />
-      {summaryFactCards.map(f => (
-        <FactCard className="wcp-summary-fact-card" cardData={f} />
-      ))}
-      <ArticleContent sections={sections} />
-    </BaseLayout>
+        <LanguageSelector translations={translations} coverImage={coverImage} />
+        {summaryFactCards.map(f => (
+          <FactCard className="wcp-summary-fact-card" cardData={f} />
+        ))}
+        <ArticleContent sections={sections} />
+      </BaseLayout>
+
+      <ModalContextConsumer>
+        {({ registerModal, isModalOpen, modalData, closeModal }) => (
+          <>
+            <ArticleSummaryModal
+              registerModal={registerModal}
+              isModalOpen={isModalOpen}
+              modalData={modalData}
+              closeModal={closeModal}
+            />
+          </>
+        )}
+      </ModalContextConsumer>
+    </ModalContextProvider>
   </LanguageContext.Provider>
 );
 
