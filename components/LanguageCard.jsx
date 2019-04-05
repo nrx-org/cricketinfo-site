@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { Card } from "./Card";
+import { imagePropTypes } from "../lib/prop_types";
 
 export const LanguageCard = ({
   url,
@@ -31,7 +32,7 @@ LanguageCard.defaultProps = {
 LanguageCard.propTypes = {
   url: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
-  coverImage: PropTypes.string.isRequired,
+  coverImage: imagePropTypes.isRequired,
   coverImageClassName: PropTypes.string,
   linkText: PropTypes.string.isRequired
 };

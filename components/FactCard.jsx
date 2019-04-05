@@ -11,7 +11,7 @@ import { ARTICLE_SUMMARY_MODAL_ID } from "../lib/modal_ids";
 
 const TableContent = ({ cardData }) => {
   const content = cardData.facts.map(f => (
-    <tr>
+    <tr key={f.label}>
       <th>{f.label}</th>
       <td>
         {f.value.url ? (
@@ -53,7 +53,7 @@ const AvatarContent = ({ cardData }) => (
       );
 
       return f.value.url ? (
-        <ModalContextConsumer>
+        <ModalContextConsumer key={`${f.label}-${f.value.label}`}>
           {({ openModal }) => (
             <a
               className="wcp-fact-card__avatar-content__item-wrapper"
@@ -97,7 +97,10 @@ const NestedContent = ({ cardData }) => {
           />
         );
         return (
-          <div className="wcp-fact-card__nested-content__item">
+          <div
+            key={`${f.label}-${f.value.label}`}
+            className="wcp-fact-card__nested-content__item"
+          >
             <div className="wcp-fact-card__nested-content__item__label">
               {f.label}
             </div>

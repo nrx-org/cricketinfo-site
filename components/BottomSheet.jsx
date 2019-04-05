@@ -11,7 +11,11 @@ export const BottomSheet = ({ isOpen, children }) => {
   );
 };
 
+BottomSheet.defaultProps = {
+  isOpen: false
+};
+
 BottomSheet.propTypes = {
-  isOpen: PropTypes.bool.isRequired,
+  isOpen: PropTypes.bool,
   children: PropTypes.node.isRequired
 };

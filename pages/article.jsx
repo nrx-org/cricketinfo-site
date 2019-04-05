@@ -52,8 +52,12 @@ const Article = ({
         <div dangerouslySetInnerHTML={{ __html: summary }} />
 
         <LanguageSelector translations={translations} coverImage={coverImage} />
-        {summaryFactCards.map(f => (
-          <FactCard className="wcp-summary-fact-card" cardData={f} />
+        {summaryFactCards.map(factCard => (
+          <FactCard
+            key={factCard.title}
+            className="wcp-summary-fact-card"
+            cardData={factCard}
+          />
         ))}
         <ArticleContent sections={sections} />
       </BaseLayout>

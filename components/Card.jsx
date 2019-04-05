@@ -40,6 +40,7 @@ export const Card = ({
 };
 
 Card.defaultProps = {
+  children: null,
   coverImage: null,
   coverImageClassName: "",
   title: null,
@@ -51,7 +52,7 @@ Card.defaultProps = {
 };
 
 Card.propTypes = {
-  children: PropTypes.node.isRequired,
+  children: PropTypes.node,
   coverImage: imagePropTypes,
   coverImageClassName: PropTypes.string,
   title: PropTypes.string,

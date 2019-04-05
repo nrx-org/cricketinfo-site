@@ -31,6 +31,7 @@ export class LanguageSelector extends React.Component {
     const cards = translations.map(t => {
       return (
         <LanguageCard
+          key={t.title}
           url={t.url}
           title={t.title}
           coverImage={coverImage}

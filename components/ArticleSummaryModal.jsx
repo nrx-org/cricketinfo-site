@@ -46,11 +46,15 @@ export class ArticleSummaryModal extends React.Component {
   }
 }
 
+ArticleSummaryModal.defaultProps = {
+  modalData: null
+};
+
 ArticleSummaryModal.propTypes = {
   registerModal: PropTypes.func.isRequired,
   isModalOpen: PropTypes.func.isRequired,
   modalData: PropTypes.shape({
     articleId: PropTypes.string
-  }).isRequired,
+  }),
   closeModal: PropTypes.func.isRequired
 };
