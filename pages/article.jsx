@@ -16,13 +16,13 @@ import {
   factCardDataPropTypes
 } from "../lib/prop_types";
 import { LanguageSelector } from "../components/LanguageSelector";
-import { LanguageContext } from "../language-context";
+import { LanguageContext } from "../language_context";
 import { FactCard } from "../components/FactCard";
 import {
   ModalContextProvider,
   ModalContextConsumer
 } from "../components/ModalContext";
-import { ArticleSummaryModal } from "../components/ArticleSummaryModal";
+import { ArticleSummaryModalContainer } from "../components/ArticleSummaryModalContainer";
 
 const Article = ({
   title,
@@ -65,7 +65,7 @@ const Article = ({
       <ModalContextConsumer>
         {({ registerModal, isModalOpen, modalData, closeModal }) => (
           <>
-            <ArticleSummaryModal
+            <ArticleSummaryModalContainer
               registerModal={registerModal}
               isModalOpen={isModalOpen}
               modalData={modalData}

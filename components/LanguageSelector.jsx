@@ -3,7 +3,7 @@ import React from "react";
 import { LanguageCard } from "./LanguageCard";
 import { Button } from "./Button";
 import { translationsPropTypes, imagePropTypes } from "../lib/prop_types";
-import { LanguageContext } from "../language-context";
+import { LanguageContext } from "../language_context";
 
 const LINK_TEXT = {
   hi: "हिंदी में पढ़े",

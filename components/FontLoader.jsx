@@ -1,6 +1,6 @@
 import React from "react";
 
-import { LanguageContext } from "../language-context";
+import { LanguageContext } from "../language_context";
 
 const FONT_MAPPINGS = {
   en: {

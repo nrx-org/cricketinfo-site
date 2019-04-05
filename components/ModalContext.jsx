@@ -36,36 +36,42 @@ export class ModalContextProvider extends React.Component {
       return { ...acc, [key]: key === modalId };
     }, {});
 
-    this.setState(state => {
-      return {
-        ...state,
-        isModalOpen: nextIsModalOpen,
-        modalData
-      };
-    });
-
-    if (callbacks[modalId] && callbacks[modalId].onOpen) {
-      callbacks[modalId].onOpen();
-    }
+    this.setState(
+      state => {
+        return {
+          ...state,
+          isModalOpen: nextIsModalOpen,
+          modalData
+        };
+      },
+      () => {
+        if (callbacks[modalId] && callbacks[modalId].onOpen) {
+          callbacks[modalId].onOpen();
+        }
+      }
+    );
   }
 
   closeModal(modalId) {
     const { callbacks } = this.state;
 
-    this.setState(state => {
-      return {
-        ...state,
-        isModalOpen: {
-          ...state.isModalOpen,
-          [modalId]: false
-        },
-        modalData: null
-      };
-    });
-
-    if (callbacks[modalId] && callbacks[modalId].onClose) {
-      callbacks[modalId].onClose();
-    }
+    this.setState(
+      state => {
+        return {
+          ...state,
+          isModalOpen: {
+            ...state.isModalOpen,
+            [modalId]: false
+          },
+          modalData: null
+        };
+      },
+      () => {
+        if (callbacks[modalId] && callbacks[modalId].onClose) {
+          callbacks[modalId].onClose();
+        }
+      }
+    );
   }
 
   isModalOpen(modalId) {

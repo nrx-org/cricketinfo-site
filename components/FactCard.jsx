@@ -61,7 +61,7 @@ const AvatarContent = ({ cardData }) => (
               onClick={e => {
                 e.preventDefault();
                 openModal(ARTICLE_SUMMARY_MODAL_ID, {
-                  articleId: slugify(f.value.label, "_").toLocaleLowerCase()
+                  articleId: slugify(f.value.label, "_")
                 });
               }}
             >

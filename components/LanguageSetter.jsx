@@ -1,5 +1,5 @@
 import React from "react";
-import { LanguageContext } from "../language-context";
+import { LanguageContext } from "../language_context";
 
 const setLanguage = lang => {
   document.documentElement.setAttribute("lang", lang);
