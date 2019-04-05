@@ -5,11 +5,23 @@ import { ARTICLE_SUMMARY_MODAL_ID } from "../lib/modal_ids";
 import { BottomSheet } from "./BottomSheet";
 
 export class ArticleSummaryModal extends React.Component {
+  static onModalOpen() {
+    document.body.classList.add("noscroll");
+  }
+
+  static onModalClose() {
+    document.body.classList.remove("noscroll");
+  }
+
   constructor(props) {
     super(props);
-    props.registerModal(ARTICLE_SUMMARY_MODAL_ID);
 
     this.onCloseClick = this.onCloseClick.bind(this);
+
+    props.registerModal(ARTICLE_SUMMARY_MODAL_ID, {
+      onOpen: ArticleSummaryModal.onModalOpen,
+      onClose: ArticleSummaryModal.onModalClose
+    });
   }
 
   onCloseClick() {

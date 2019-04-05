@@ -9,24 +9,29 @@ export class ModalContextProvider extends React.Component {
 
     this.state = {
       isModalOpen: {},
+      callbacks: {},
       modalData: null
     };
   }
 
-  registerModal(modalId) {
+  registerModal(modalId, callbacks) {
     this.setState(state => {
       return {
         ...state,
         isModalOpen: {
           ...state.isModalOpen,
           [modalId]: false
+        },
+        callbacks: {
+          ...state.callbacks,
+          [modalId]: callbacks
         }
       };
     });
   }
 
   openModal(modalId, modalData) {
-    const { isModalOpen } = this.state;
+    const { isModalOpen, callbacks } = this.state;
     const nextIsModalOpen = Object.keys(isModalOpen).reduce((acc, key) => {
       return { ...acc, [key]: key === modalId };
     }, {});
@@ -38,9 +43,15 @@ export class ModalContextProvider extends React.Component {
         modalData
       };
     });
+
+    if (callbacks[modalId] && callbacks[modalId].onOpen) {
+      callbacks[modalId].onOpen();
+    }
   }
 
   closeModal(modalId) {
+    const { callbacks } = this.state;
+
     this.setState(state => {
       return {
         ...state,
@@ -51,6 +62,10 @@ export class ModalContextProvider extends React.Component {
         modalData: null
       };
     });
+
+    if (callbacks[modalId] && callbacks[modalId].onClose) {
+      callbacks[modalId].onClose();
+    }
   }
 
   isModalOpen(modalId) {
