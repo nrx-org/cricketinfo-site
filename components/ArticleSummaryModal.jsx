@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 
 import { imagePropTypes } from "../lib/prop_types";
+import { Button } from "./Button";
 
 export const ArticleSummaryModal = ({
   isLoadingArticle,
@@ -17,7 +18,7 @@ export const ArticleSummaryModal = ({
   }
 
   return (
-    <div>
+    <div className="wcp-article-summary-modal">
       <div className="wcp-article-summary-modal__cover-image-container">
         <img
           className="wcp-article-summary-modal__cover-image"
@@ -25,11 +26,16 @@ export const ArticleSummaryModal = ({
           alt={article.coverImage.altText}
         />
       </div>
-      <h1>{article.title}</h1>
-      <p>{article.summary}</p>
-      <button type="button" onClick={onCloseClick}>
-        Close
-      </button>
+      <div className="wcp-article-summary-modal__content">
+        <h1 className="wcp-article-summary-modal__title">{article.title}</h1>
+        <p className="wcp-article-summary-modal__summary">{article.summary}</p>
+        <Button
+          className="wcp-article-summary-modal__button-read-article"
+          type="inverted"
+        >
+          Read This Article
+        </Button>
+      </div>
     </div>
   );
 };

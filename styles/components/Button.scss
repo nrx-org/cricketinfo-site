@@ -1,23 +1,26 @@
 .wcp-button {
-    background-color: $color-blue-dark;
-    padding: $gutter-m;
-    border-radius: $border-radius-s;
+  background-color: $color-blue-dark;
+  padding: $gutter-m;
+  border-radius: $border-radius-s;
 
-    font-family: inherit;
-    font-size: $font-size-s;
-    color: $color-white;
-    text-transform: uppercase;
-    font-weight: bold;
+  font-family: inherit;
+  font-size: $font-size-s;
+  color: $color-white;
+  text-transform: uppercase;
+  font-weight: bold;
 }
 
 .wcp-button:lang(hi) {
-    font-size: $body-font-size;
-    font-weight: normal;
+  font-size: $body-font-size;
+  font-weight: normal;
 }
 
 .wcp-button--inverted {
-    color: $color-blue-dark;
-    background-color: $color-white;
-    border: 1px solid $color-blue-dark;    
+  color: $color-blue-dark;
+  background-color: $color-white;
+  border: 1px solid $color-blue-dark;
 }
 
+.wcp-button--full-width {
+  width: 100%;
+}

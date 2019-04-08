@@ -1,3 +1,36 @@
+.wcp-article-summary-modal {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
 .wcp-article-summary-modal__cover-image-container {
   height: 25vh;
+  overflow: hidden;
+}
+
+.wcp-article-summary-modal__cover-image {
+  width: 100%;
+  height: 25vh;
+  object-fit: cover;
+}
+
+.wcp-article-summary-modal__content {
+  padding: $gutter-m;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.wcp-article-summary-modal__title {
+  font-size: $font-size-xl;
+  color: $color-black;
+  line-height: $line-height-h3;
+  margin-top: 0;
+  margin-bottom: $gutter-s;
+}
+
+.wcp-article-summary-modal__summary {
+  margin-top: 0;
+  flex-grow: 1;
 }
