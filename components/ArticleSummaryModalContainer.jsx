@@ -1,10 +1,12 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import { ARTICLE_SUMMARY_MODAL_ID } from "../lib/modal_ids";
 import { BottomSheet } from "./BottomSheet";
-import { articleUrl } from "../lib/urls";
 import { LanguageContext } from "../language_context";
+
+import { ARTICLE_SUMMARY_MODAL_ID } from "../lib/modal_ids";
+import { articleUrl } from "../lib/urls";
+import { ArticleSummaryModal } from "./ArticleSummaryModal";
 
 export class ArticleSummaryModalContainer extends React.Component {
   static onModalClose() {
@@ -55,20 +57,19 @@ export class ArticleSummaryModalContainer extends React.Component {
   }
 
   render() {
-    const { isModalOpen, modalData } = this.props;
+    const { isModalOpen } = this.props;
     const { isLoadingArticle, articleData } = this.state;
 
     return (
       <BottomSheet
         isOpen={isModalOpen(ARTICLE_SUMMARY_MODAL_ID)}
-        close={this.onCloseClick}
+        onOverlayClick={this.onCloseClick}
       >
-        <h1>{modalData && modalData.articleId}</h1>
-        <p>{isLoadingArticle}</p>
-        <p>{articleData}</p>
-        <button type="button" onClick={this.onCloseClick}>
-          Close
-        </button>
+        <ArticleSummaryModal
+          isLoadingArticle={isLoadingArticle}
+          article={articleData}
+          onCloseClick={this.onCloseClick}
+        />
       </BottomSheet>
     );
   }
