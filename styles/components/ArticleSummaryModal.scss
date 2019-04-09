@@ -6,7 +6,6 @@
 
 .wcp-article-summary-modal__cover-image-container {
   height: 25vh;
-  overflow: hidden;
   position: relative;
 }
 
@@ -44,4 +43,12 @@
   position: absolute;
   top: $gutter-m;
   right: $gutter-m;
+}
+
+.wcp-article-summary-modal__icon-bookmark {
+  border-radius: 50%;
+  position: absolute;
+  right: $gutter-m;
+  bottom: -1rem;
+  box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.08), 0px 1px 8px rgba(0, 0, 0, 0.04);
 }

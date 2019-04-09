@@ -9,6 +9,7 @@ import { LanguageContext } from "../language_context";
 import { Button } from "./Button";
 import { IconButton } from "./IconButton";
 import { LoadingSpinner } from "./LoadingSpinner";
+import { ERROR_NOT_FOUND, ERROR_NETWORK } from "../lib/errors";
 
 export const ArticleSummaryModal = ({
   isLoadingArticle,
@@ -56,6 +57,13 @@ export const ArticleSummaryModal = ({
           className="wcp-article-summary-modal__icon-close"
           altText="Close"
           onClick={onCloseClick}
+          size="l"
+        />
+        <IconButton
+          name="bookmark"
+          className="wcp-article-summary-modal__icon-bookmark"
+          altText="Bookmark"
+          size="l"
         />
       </div>
       <div className="wcp-article-summary-modal__content">
