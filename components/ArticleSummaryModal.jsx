@@ -8,6 +8,7 @@ import { LanguageContext } from "../language_context";
 
 import { Button } from "./Button";
 import { IconButton } from "./IconButton";
+import { LoadingSpinner } from "./LoadingSpinner";
 
 export const ArticleSummaryModal = ({
   isLoadingArticle,
@@ -19,7 +20,7 @@ export const ArticleSummaryModal = ({
   }
 
   if (isLoadingArticle) {
-    return <p>Loading...</p>;
+    return <LoadingSpinner />;
   }
 
   return (
