@@ -52,3 +52,18 @@
   bottom: -1rem;
   box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.08), 0px 1px 8px rgba(0, 0, 0, 0.04);
 }
+
+.wcp-article-summary-modal__error {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  padding: $gutter-m;
+  font-size: $font-size-l;
+  text-align: center;
+}
+
+.wcp-article-summary-modal__error__button-close {
+  margin-bottom: $gutter-m;
+}

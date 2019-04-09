@@ -7,7 +7,7 @@ import { LanguageContext } from "../language_context";
 import { ARTICLE_SUMMARY_MODAL_ID } from "../lib/modal_ids";
 import { articleContentUrl } from "../lib/urls";
 import { ArticleSummaryModal } from "./ArticleSummaryModal";
-import { ERROR_NOT_FOUND, ERROR_SERVER, ERROR_NETWORK } from "../lib/errors";
+import { ERROR_NOT_FOUND, ERROR_NETWORK } from "../lib/errors";
 
 export class ArticleSummaryModalContainer extends React.Component {
   static onModalClose() {
@@ -18,6 +18,7 @@ export class ArticleSummaryModalContainer extends React.Component {
     super(props);
 
     this.onCloseClick = this.onCloseClick.bind(this);
+    this.fetchArticleData = this.fetchArticleData.bind(this);
 
     props.registerModal(ARTICLE_SUMMARY_MODAL_ID, {
       onOpen: this.onModalOpen.bind(this),
@@ -32,6 +33,15 @@ export class ArticleSummaryModalContainer extends React.Component {
   }
 
   async onModalOpen() {
+    this.fetchArticleData();
+  }
+
+  onCloseClick() {
+    const { closeModal } = this.props;
+    closeModal(ARTICLE_SUMMARY_MODAL_ID);
+  }
+
+  async fetchArticleData() {
     document.body.classList.add("noscroll");
     this.setState({ data: null });
 
@@ -58,15 +68,9 @@ export class ArticleSummaryModalContainer extends React.Component {
     }
   }
 
-  onCloseClick() {
-    const { closeModal } = this.props;
-    closeModal(ARTICLE_SUMMARY_MODAL_ID);
-  }
-
   render() {
     const { isModalOpen } = this.props;
     const { isLoading, data, error } = this.state;
-    
 
     return (
       <BottomSheet
@@ -78,6 +82,7 @@ export class ArticleSummaryModalContainer extends React.Component {
           article={data}
           onCloseClick={this.onCloseClick}
           error={error}
+          onRetry={this.fetchArticleData}
         />
       </BottomSheet>
     );

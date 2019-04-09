@@ -7,6 +7,7 @@ export const Button = ({
   isFullWidth,
   isLink,
   href,
+  onClick,
   className
 }) => {
   let buttonClass = type === "inverted" ? "wcp-button--inverted " : " ";
@@ -22,14 +23,22 @@ export const Button = ({
 
   if (isLink) {
     return (
-      <a href={href} className={`wcp-button ${buttonClass} ${className}`}>
+      <a
+        href={href}
+        className={`wcp-button ${buttonClass} ${className}`}
+        onClick={onClick}
+      >
         {children}
       </a>
     );
   }
 
   return (
-    <button className={`wcp-button ${buttonClass} ${className}`} type="button">
+    <button
+      className={`wcp-button ${buttonClass} ${className}`}
+      type="button"
+      onClick={onClick}
+    >
       {children}
     </button>
   );
@@ -40,7 +49,8 @@ Button.defaultProps = {
   className: "",
   isFullWidth: true,
   isLink: false,
-  href: ""
+  href: "",
+  onClick: null
 };
 
 Button.propTypes = {
@@ -49,5 +59,6 @@ Button.propTypes = {
   isFullWidth: PropTypes.bool,
   isLink: PropTypes.bool,
   href: PropTypes.string,
+  onClick: PropTypes.func,
   className: PropTypes.string
 };

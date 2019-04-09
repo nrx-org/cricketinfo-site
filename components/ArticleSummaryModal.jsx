@@ -15,23 +15,25 @@ export const ArticleSummaryModal = ({
   isLoadingArticle,
   article,
   onCloseClick,
-  error
+  error,
+  onRetry
 }) => {
-  if (error && error === ERROR_NOT_FOUND) {
+  if (error) {
+    const message =
+      error === ERROR_NOT_FOUND
+        ? "This page could not be found"
+        : "There was a network error. Please try again.";
     return (
-      <div>
-        <p>This page could not be found.</p>
-        <Button>Close</Button>
-      </div>
-    );
-  }
-
-  if (error && error === ERROR_NETWORK) {
-    return (
-      <div>
-        <p>There is a network error</p>
-        <Button>Retry</Button>
-        <Button>Close</Button>
+      <div className="wcp-article-summary-modal__error">
+        <p>{message}</p>
+        <Button
+          type="inverted"
+          onClick={onCloseClick}
+          className="wcp-article-summary-modal__error__button-close"
+        >
+          Close
+        </Button>
+        {error === ERROR_NETWORK && <Button onClick={onRetry}>Retry</Button>}
       </div>
     );
   }
@@ -99,5 +101,6 @@ ArticleSummaryModal.propTypes = {
     coverImage: imagePropTypes.isRequired
   }),
   onCloseClick: PropTypes.func.isRequired,
-  error: PropTypes.string
+  error: PropTypes.string,
+  onRetry: PropTypes.func.isRequired
 };
