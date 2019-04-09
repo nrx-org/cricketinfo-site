@@ -8,7 +8,7 @@ import fetch from "isomorphic-fetch";
 import { BaseLayout } from "../components/BaseLayout";
 import { ArticleContent } from "../components/ArticleContent";
 import { makeTitle } from "../lib/make_title";
-import { articleUrl } from "../lib/urls";
+import { articleContentUrl } from "../lib/urls";
 import {
   sectionsPropTypes,
   translationsPropTypes,
@@ -80,7 +80,7 @@ const Article = ({
 
 Article.getInitialProps = async ({ query }) => {
   const { articleId, lang } = query;
-  const articleResponse = await fetch(articleUrl(articleId, lang));
+  const articleResponse = await fetch(articleContentUrl(articleId, lang));
   const articleJson = await articleResponse.json();
 
   return {

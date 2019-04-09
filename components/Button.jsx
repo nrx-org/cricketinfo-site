@@ -16,6 +16,10 @@ export const Button = ({
     console.warn("Can't add a link to a button, ignoring href prop");
   }
 
+  if (isLink && !href) {
+    console.warn("Button is a link but no URL was passed.");
+  }
+
   if (isLink) {
     return (
       <a href={href} className={`wcp-button ${buttonClass} ${className}`}>

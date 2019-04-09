@@ -1,7 +1,11 @@
 import React from "react";
 import PropTypes from "prop-types";
+import slugify from "slugify";
 
 import { imagePropTypes } from "../lib/prop_types";
+import { articleUrl } from "../lib/urls";
+import { LanguageContext } from "../language_context";
+
 import { Button } from "./Button";
 
 export const ArticleSummaryModal = ({
@@ -29,12 +33,18 @@ export const ArticleSummaryModal = ({
       <div className="wcp-article-summary-modal__content">
         <h1 className="wcp-article-summary-modal__title">{article.title}</h1>
         <p className="wcp-article-summary-modal__summary">{article.summary}</p>
-        <Button
-          className="wcp-article-summary-modal__button-read-article"
-          type="inverted"
-        >
-          Read This Article
-        </Button>
+        <LanguageContext.Consumer>
+          {lang => (
+            <Button
+              className="wcp-article-summary-modal__button-read-article"
+              type="inverted"
+              isLink
+              href={articleUrl(slugify(article.title, "_"), lang)}
+            >
+              Read This Article
+            </Button>
+          )}
+        </LanguageContext.Consumer>
       </div>
     </div>
   );

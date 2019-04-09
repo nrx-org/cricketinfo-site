@@ -5,7 +5,7 @@ import { BottomSheet } from "./BottomSheet";
 import { LanguageContext } from "../language_context";
 
 import { ARTICLE_SUMMARY_MODAL_ID } from "../lib/modal_ids";
-import { articleUrl } from "../lib/urls";
+import { articleContentUrl } from "../lib/urls";
 import { ArticleSummaryModal } from "./ArticleSummaryModal";
 
 export class ArticleSummaryModalContainer extends React.Component {
@@ -39,7 +39,7 @@ export class ArticleSummaryModalContainer extends React.Component {
 
     try {
       const articleDataResponse = await fetch(
-        articleUrl(modalData.articleId, lang)
+        articleContentUrl(modalData.articleId, lang)
       );
       const articleData = await articleDataResponse.json();
       this.setState({
