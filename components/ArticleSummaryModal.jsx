@@ -13,8 +13,28 @@ import { LoadingSpinner } from "./LoadingSpinner";
 export const ArticleSummaryModal = ({
   isLoadingArticle,
   article,
-  onCloseClick
+  onCloseClick,
+  error
 }) => {
+  if (error && error === ERROR_NOT_FOUND) {
+    return (
+      <div>
+        <p>This page could not be found.</p>
+        <Button>Close</Button>
+      </div>
+    );
+  }
+
+  if (error && error === ERROR_NETWORK) {
+    return (
+      <div>
+        <p>There is a network error</p>
+        <Button>Retry</Button>
+        <Button>Close</Button>
+      </div>
+    );
+  }
+
   if (!article) {
     return null;
   }
@@ -59,7 +79,8 @@ export const ArticleSummaryModal = ({
 };
 
 ArticleSummaryModal.defaultProps = {
-  article: null
+  article: null,
+  error: null
 };
 
 ArticleSummaryModal.propTypes = {
@@ -69,5 +90,6 @@ ArticleSummaryModal.propTypes = {
     summary: PropTypes.string.isRequired,
     coverImage: imagePropTypes.isRequired
   }),
-  onCloseClick: PropTypes.func.isRequired
+  onCloseClick: PropTypes.func.isRequired,
+  error: PropTypes.string
 };

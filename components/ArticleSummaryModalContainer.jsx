@@ -7,6 +7,7 @@ import { LanguageContext } from "../language_context";
 import { ARTICLE_SUMMARY_MODAL_ID } from "../lib/modal_ids";
 import { articleContentUrl } from "../lib/urls";
 import { ArticleSummaryModal } from "./ArticleSummaryModal";
+import { ERROR_NOT_FOUND, ERROR_SERVER, ERROR_NETWORK } from "../lib/errors";
 
 export class ArticleSummaryModalContainer extends React.Component {
   static onModalClose() {
@@ -24,30 +25,36 @@ export class ArticleSummaryModalContainer extends React.Component {
     });
 
     this.state = {
-      isLoadingArticle: false,
-      articleData: null
+      isLoading: false,
+      error: null,
+      data: null
     };
   }
 
   async onModalOpen() {
     document.body.classList.add("noscroll");
+    this.setState({ data: null });
 
     const { modalData } = this.props;
     const lang = this.context;
-
-    this.setState({ isLoadingArticle: true });
+    const url = articleContentUrl(modalData.articleId, lang);
+    if (url === null) {
+      this.setState({ error: ERROR_NOT_FOUND });
+      return;
+    }
+    this.setState({ isLoading: true });
 
     try {
-      const articleDataResponse = await fetch(
-        articleContentUrl(modalData.articleId, lang)
-      );
-      const articleData = await articleDataResponse.json();
+      const dataResponse = await fetch(url);
+      const data = await dataResponse.json();
       this.setState({
-        isLoadingArticle: false,
-        articleData
+        error: null,
+        data
       });
     } catch (e) {
-      this.setState({ isLoadingArticle: false });
+      this.setState({ error: ERROR_NETWORK });
+    } finally {
+      this.setState({ isLoading: false });
     }
   }
 
@@ -58,7 +65,8 @@ export class ArticleSummaryModalContainer extends React.Component {
 
   render() {
     const { isModalOpen } = this.props;
-    const { isLoadingArticle, articleData } = this.state;
+    const { isLoading, data, error } = this.state;
+    
 
     return (
       <BottomSheet
@@ -66,9 +74,10 @@ export class ArticleSummaryModalContainer extends React.Component {
         onOverlayClick={this.onCloseClick}
       >
         <ArticleSummaryModal
-          isLoadingArticle={isLoadingArticle}
-          article={articleData}
+          isLoading={isLoading}
+          article={data}
           onCloseClick={this.onCloseClick}
+          error={error}
         />
       </BottomSheet>
     );
