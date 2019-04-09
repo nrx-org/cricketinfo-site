@@ -7,6 +7,7 @@ import { articleUrl } from "../lib/urls";
 import { LanguageContext } from "../language_context";
 
 import { Button } from "./Button";
+import { IconButton } from "./IconButton";
 
 export const ArticleSummaryModal = ({
   isLoadingArticle,
@@ -28,6 +29,12 @@ export const ArticleSummaryModal = ({
           className="wcp-article-summary-modal__cover-image"
           src={article.coverImage.url}
           alt={article.coverImage.altText}
+        />
+        <IconButton
+          name="close"
+          className="wcp-article-summary-modal__icon-close"
+          altText="Close"
+          onClick={onCloseClick}
         />
       </div>
       <div className="wcp-article-summary-modal__content">
