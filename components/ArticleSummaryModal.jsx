@@ -12,7 +12,7 @@ import { LoadingSpinner } from "./LoadingSpinner";
 import { ERROR_NOT_FOUND, ERROR_NETWORK } from "../lib/errors";
 
 export const ArticleSummaryModal = ({
-  isLoadingArticle,
+  isLoading,
   article,
   onCloseClick,
   error,
@@ -42,7 +42,7 @@ export const ArticleSummaryModal = ({
     return null;
   }
 
-  if (isLoadingArticle) {
+  if (isLoading) {
     return <LoadingSpinner />;
   }
 
@@ -94,7 +94,7 @@ ArticleSummaryModal.defaultProps = {
 };
 
 ArticleSummaryModal.propTypes = {
-  isLoadingArticle: PropTypes.bool.isRequired,
+  isLoading: PropTypes.bool.isRequired,
   article: PropTypes.shape({
     title: PropTypes.string.isRequired,
     summary: PropTypes.string.isRequired,
