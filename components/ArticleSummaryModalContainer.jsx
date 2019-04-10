@@ -43,7 +43,7 @@ export class ArticleSummaryModalContainer extends React.Component {
 
   async fetchArticleData() {
     document.body.classList.add("noscroll");
-    this.setState({ data: null });
+    this.setState({ data: null, error: null });
 
     const { modalData } = this.props;
     const lang = this.context;
