@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 /* eslint-disable import/no-extraneous-dependencies */
 const fetch = require("isomorphic-fetch");
 const utf8 = require("utf8");

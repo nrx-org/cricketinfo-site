@@ -14,10 +14,12 @@ export const Button = ({
   buttonClass += isFullWidth ? "wcp-button--full-width" : "";
 
   if (!isLink && href) {
+    // eslint-disable-next-line no-console
     console.warn("Can't add a link to a button, ignoring href prop");
   }
 
   if (isLink && !href) {
+    // eslint-disable-next-line no-console
     console.warn("Button is a link but no URL was passed.");
   }
 
