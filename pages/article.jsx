@@ -23,9 +23,11 @@ import {
   ModalContextConsumer
 } from "../components/ModalContext";
 import { ArticleSummaryModalContainer } from "../components/ArticleSummaryModalContainer";
+import { PillList } from "../components/PillList";
 
 const Article = ({
   title,
+  categories,
   sections,
   lang,
   summary,
@@ -46,7 +48,8 @@ const Article = ({
             alt={coverImage.altText}
           />
         </div>
-        <h1>{title}</h1>
+        <h1 className="wcp-article__title">{title}</h1>
+        <PillList items={categories} />
 
         {/* eslint-disable-next-line react/no-danger */}
         <div dangerouslySetInnerHTML={{ __html: summary }} />
@@ -90,11 +93,15 @@ Article.getInitialProps = async ({ query }) => {
 };
 
 Article.defaultProps = {
+  categories: [],
   summaryFactCards: []
 };
 
 Article.propTypes = {
   title: PropTypes.string.isRequired,
+  categories: PropTypes.shape({
+    label: PropTypes.string.isRequired
+  }),
   coverImage: imagePropTypes.isRequired,
   summary: PropTypes.string.isRequired,
   sections: sectionsPropTypes.isRequired,

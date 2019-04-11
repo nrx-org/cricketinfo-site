@@ -2,7 +2,7 @@
   height: 50vw;
   max-height: 32rem;
   overflow: hidden;
-  margin: 0px 0px-$gutter-m;
+  margin: 0 0px-$gutter-m;
 }
 
 .wcp-article__cover-image {
@@ -11,4 +11,8 @@
 
 .wcp-summary-fact-card {
   margin-top: $gutter-l;
+}
+
+.wcp-article__title {
+  margin-bottom: $gutter-xs;
 }

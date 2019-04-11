@@ -1,0 +1,7 @@
+.wcp-pill-list-pill {
+  margin-left: $gutter-xs;
+
+  &:first-child {
+    margin-left: 0;
+  }
+}
