@@ -1,9 +1,10 @@
 import React from "react";
+import { useTranslation } from "react-i18next";
 
 import { LanguageCard } from "./LanguageCard";
 import { Button } from "./Button";
 import { translationsPropTypes, imagePropTypes } from "../lib/prop_types";
-import { LanguageContext } from "../language_context";
+import { LanguageContextConsumer } from "../language_context";
 
 const LINK_TEXT = {
   hi: "हिंदी में पढ़े",
@@ -23,37 +24,34 @@ const MORE_LANGUAGES_TEXT = {
   pa: ""
 };
 
-/* eslint-disable react/prefer-stateless-function */
-export class LanguageSelector extends React.Component {
-  render() {
-    const { translations, coverImage } = this.props;
-    const lang = this.context;
-    const cards = translations.map(t => {
-      return (
-        <LanguageCard
-          key={t.title}
-          url={t.url}
-          title={t.title}
-          coverImage={coverImage}
-          coverImageClassName="wcp-language-selector__cover-image"
-          linkText={LINK_TEXT[t.lang]}
-        />
-      );
-    });
-    return (
-      <div>
-        <h2 className="wcp-language-selector__title">{TITLE_TEXT[lang]}</h2>
-        <div className="wcp-language-selector__cards">{cards}</div>
-        <Button type="inverted" className="wcp-language-selector__cta">
-          {MORE_LANGUAGES_TEXT[lang]}
-        </Button>
-      </div>
-    );
-  }
-}
-/* eslint-enable react/prefer-stateless-function */
+export const LanguageSelector = ({ translations, coverImage }) => {
+  const { t } = useTranslation();
 
-LanguageSelector.contextType = LanguageContext;
+  return (
+    <LanguageContextConsumer>
+      {lang => (
+        <div>
+          <h2 className="wcp-language-selector__title">{TITLE_TEXT[lang]}</h2>
+          <div className="wcp-language-selector__cards">
+            {translations.map(t => (
+              <LanguageCard
+                key={t.title}
+                url={t.url}
+                title={t.title}
+                coverImage={coverImage}
+                coverImageClassName="wcp-language-selector__cover-image"
+                linkText={LINK_TEXT[t.lang]}
+              />
+            ))}
+          </div>
+          <Button type="inverted" className="wcp-language-selector__cta">
+            {t("LanguageSelector.see_more_languages")}
+          </Button>
+        </div>
+      )}
+    </LanguageContextConsumer>
+  );
+};
 
 LanguageSelector.propTypes = {
   translations: translationsPropTypes.isRequired,

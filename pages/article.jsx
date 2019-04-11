@@ -8,7 +8,7 @@ import fetch from "isomorphic-fetch";
 import { BaseLayout } from "../components/BaseLayout";
 import { ArticleContent } from "../components/ArticleContent";
 import { makeTitle } from "../lib/make_title";
-import { articleContentUrl } from "../lib/urls";
+import { articleContentUrl, getTranslationUrl } from "../lib/urls";
 import {
   sectionsPropTypes,
   translationsPropTypes,
@@ -16,7 +16,7 @@ import {
   factCardDataPropTypes
 } from "../lib/prop_types";
 import { LanguageSelector } from "../components/LanguageSelector";
-import { LanguageContext } from "../language_context";
+import { LanguageContextProvider } from "../language_context";
 import { FactCard } from "../components/FactCard";
 import {
   ModalContextProvider,
@@ -27,17 +27,17 @@ import { ArticleSummaryModalContainer } from "../components/ArticleSummaryModalC
 const Article = ({
   title,
   sections,
-  lang,
   summary,
   coverImage,
   summaryFactCards,
-  translations
+  translations,
+  i18n
 }) => (
-  <LanguageContext.Provider value={lang}>
+  <LanguageContextProvider lang={i18n.lang} translations={i18n.translations}>
     <ModalContextProvider>
       <BaseLayout>
         <Head>
-          <title>{makeTitle(title, lang)}</title>
+          <title>{makeTitle(title, i18n.lang)}</title>
         </Head>
         <div className="wcp-article__cover-image-container">
           <img
@@ -75,7 +75,7 @@ const Article = ({
         )}
       </ModalContextConsumer>
     </ModalContextProvider>
-  </LanguageContext.Provider>
+  </LanguageContextProvider>
 );
 
 Article.getInitialProps = async ({ query }) => {
@@ -83,9 +83,15 @@ Article.getInitialProps = async ({ query }) => {
   const articleResponse = await fetch(articleContentUrl(articleId, lang));
   const articleJson = await articleResponse.json();
 
+  const translationResponse = await fetch(getTranslationUrl(lang));
+  const translationJson = await translationResponse.json();
+
   return {
     ...articleJson,
-    lang
+    i18n: {
+      lang,
+      translations: translationJson
+    }
   };
 };
 
@@ -98,9 +104,12 @@ Article.propTypes = {
   coverImage: imagePropTypes.isRequired,
   summary: PropTypes.string.isRequired,
   sections: sectionsPropTypes.isRequired,
-  lang: PropTypes.string.isRequired,
   translations: translationsPropTypes.isRequired,
-  summaryFactCards: PropTypes.arrayOf(factCardDataPropTypes)
+  summaryFactCards: PropTypes.arrayOf(factCardDataPropTypes),
+  i18n: PropTypes.shape({
+    lang: PropTypes.string.isRequired,
+    translations: PropTypes.object.isRequired
+  }).isRequired
 };
 
 export default Article;
