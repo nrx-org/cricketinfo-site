@@ -11,18 +11,45 @@ import { IconButton } from "./IconButton";
 import { LoadingSpinner } from "./LoadingSpinner";
 import { ERROR_NOT_FOUND, ERROR_NETWORK } from "../lib/errors";
 
-export const ArticleSummaryModal = ({
+const RETRY_TEXT = {
+  en: "Retry",
+  hi: "TODO"
+};
+
+const NOT_FOUND_TEXT = {
+  en: "This page could not be found",
+  hi: "TODO"
+};
+
+const NETWORK_ERROR_TEXT = {
+  en: "There was a network error. Please try again.",
+  hi: "TODO"
+};
+
+const READ_THIS_TEXT = {
+  en: "Read this article",
+  hi: "TODO"
+};
+
+export const ArticleSummaryModal = props => (
+  <LanguageContext.Consumer>
+    {lang => <ArticleSummaryModalInternal lang={lang} {...props} />}
+  </LanguageContext.Consumer>
+);
+
+const ArticleSummaryModalInternal = ({
   isLoading,
   article,
   onCloseClick,
   error,
-  onRetry
+  onRetry,
+  lang
 }) => {
   if (error) {
     const message =
       error === ERROR_NOT_FOUND
-        ? "This page could not be found"
-        : "There was a network error. Please try again.";
+        ? NOT_FOUND_TEXT[lang]
+        : NETWORK_ERROR_TEXT[lang];
     return (
       <div className="wcp-article-summary-modal__error">
         <p>{message}</p>
@@ -33,7 +60,9 @@ export const ArticleSummaryModal = ({
         >
           Close
         </Button>
-        {error === ERROR_NETWORK && <Button onClick={onRetry}>Retry</Button>}
+        {error === ERROR_NETWORK && (
+          <Button onClick={onRetry}>{RETRY_TEXT[lang]}</Button>
+        )}
       </div>
     );
   }
@@ -71,29 +100,25 @@ export const ArticleSummaryModal = ({
       <div className="wcp-article-summary-modal__content">
         <h1 className="wcp-article-summary-modal__title">{article.title}</h1>
         <p className="wcp-article-summary-modal__summary">{article.summary}</p>
-        <LanguageContext.Consumer>
-          {lang => (
-            <Button
-              className="wcp-article-summary-modal__button-read-article"
-              type="inverted"
-              isLink
-              href={articleUrl(slugify(article.title, "_"), lang)}
-            >
-              Read This Article
-            </Button>
-          )}
-        </LanguageContext.Consumer>
+        <Button
+          className="wcp-article-summary-modal__button-read-article"
+          type="inverted"
+          isLink
+          href={articleUrl(slugify(article.title, "_"), lang)}
+        >
+          {READ_THIS_TEXT[lang]}
+        </Button>
       </div>
     </div>
   );
 };
 
-ArticleSummaryModal.defaultProps = {
+ArticleSummaryModalInternal.defaultProps = {
   article: null,
   error: null
 };
 
-ArticleSummaryModal.propTypes = {
+ArticleSummaryModalInternal.propTypes = {
   isLoading: PropTypes.bool.isRequired,
   article: PropTypes.shape({
     title: PropTypes.string.isRequired,
@@ -102,5 +127,6 @@ ArticleSummaryModal.propTypes = {
   }),
   onCloseClick: PropTypes.func.isRequired,
   error: PropTypes.string,
-  onRetry: PropTypes.func.isRequired
+  onRetry: PropTypes.func.isRequired,
+  lang: PropTypes.string.isRequired
 };
