@@ -24,6 +24,7 @@ import {
 } from "../components/ModalContext";
 import { ArticleSummaryModalContainer } from "../components/ArticleSummaryModalContainer";
 import { PillList } from "../components/PillList";
+import { RelatedArticleCarousel } from "../components/RelatedArticleCarousel";
 
 const Article = ({
   title,
@@ -62,6 +63,7 @@ const Article = ({
             cardData={factCard}
           />
         ))}
+        <RelatedArticleCarousel />
         <ArticleContent sections={sections} />
       </BaseLayout>
 

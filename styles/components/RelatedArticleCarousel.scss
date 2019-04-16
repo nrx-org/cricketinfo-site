@@ -1,0 +1,16 @@
+.wcp-related-article-carousel {
+  display: flex;
+  overflow-x: auto;
+  align-items: center;
+}
+
+.wcp-related-article-carousel__title {
+  font-size: $body-font-size;
+  font-weight: normal;
+  line-height: $line-height-h4;
+}
+
+.wcp-related-article-carousel__item {
+  margin: $gutter-xl $gutter-m;
+  min-width: 55%;
+}
