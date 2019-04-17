@@ -1,0 +1,33 @@
+.wcp-share-modal {
+  display: flex;
+  width: 70%;
+  margin: auto;  
+
+  visibility: hidden;
+  position: fixed;
+  background-color: $color-white;
+  opacity: 0;
+  transition: opacity 0.5s ease, visibility 0.5s 0s;
+
+  &.wcp-share-modal--open {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+
+.wcp-share-modal__overlay {
+  visibility: hidden;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  background-color: $color-black;
+  opacity: 0;
+  transition: opacity 0.3s ease, visibility 0.3s 0s;
+
+  &.wcp-share-modal--open {
+    opacity: 0.4;
+    visibility: visible;
+  }
+}
