@@ -143,6 +143,55 @@ SimpleContent.propTypes = {
   cardData: factCardDataPropTypes.isRequired
 };
 
+
+const VerticalTimelineContent = ({ cardData }) => {
+  return (
+    <div className="wcp-fact-card__vertical-timeline-content">
+      {cardData.facts.map(f => {
+        const innerCardsList = f.value.innerCards.map(g => {
+          return (
+          <Card
+            shadowSize="s"
+            coverImage={g.value.image}
+            imagePosition="left"
+            title={g.label}
+            titleClassName="wcp-fact-card__vertical-timeline-content__item__card__title"
+            className="wcp-fact-card__vertical-timeline-content__item__card"
+            coverImageClassName="wcp-fact-card__vertical-timeline-content__item__card__cover-image"
+            contentClassName="wcp-fact-card__vertical-timeline-content__item__card__content"
+            children={<div className="wcp-fact-card__vertical-timeline-content__item__card__description">{g.value.label}</div>}
+          />
+        )
+      }
+    );
+        return (
+          <div
+            key={`${f.label}-${f.value.label}`}
+            className="wcp-fact-card__vertical-timeline-content__item"
+          >
+            <h2 className="wcp-fact-card__vertical-timeline-content__item__label">
+              {f.label}
+              {f.labelHelperText ? <span className="wcp-fact-card__vertical-timeline-content__item__label-helper-text"> ({f.labelHelperText})</span> : ''}
+            </h2>
+            <div className="wcp-fact-card__vertical-timeline-content__item__content">
+              {f.value.label}
+            </div>
+            <div className="wcp-fact-card__vertical-timeline-content__inner-cards-list">
+            {innerCardsList}
+
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  );
+};
+
+VerticalTimelineContent.propTypes = {
+  cardData: factCardDataPropTypes.isRequired
+};
+
+
 export const FactCard = ({ cardData, className }) => {
   let content = null;
   if (cardData.cardType === "table") {
@@ -153,6 +202,8 @@ export const FactCard = ({ cardData, className }) => {
     content = <NestedContent cardData={cardData} />;
   } else if (cardData.cardType === "simple") {
     content = <SimpleContent cardData={cardData} />;
+  } else if (cardData.cardType === "vertical_timeline") {
+    content = <VerticalTimelineContent cardData={cardData} />;
   }
 
   return (
