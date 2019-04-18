@@ -4,7 +4,100 @@
       "label": "Geography & Countries"
     }
   ],
+
   "summaryFactCards": [
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Ancient India",
+          "labelHelperText": null,
+          "value":
+          {
+            "label": "The earliest known human remains in South Asia date to about 30,000 years ago. the first urban culture in South Asia, Indus Valley Civilisation, which flourished during 2500–1900 BCE in what is now Pakistan and western India",
+            "innerCards": [
+              {
+                "label": "Indus Valley Civilisation",
+                "value": {
+                  "label": "A Bronze Age civilisation in the northwestern regions of the Indian..",
+                  "url": "https://disney.com",
+                  "image": {
+                    "url": "https://placekitten.com/200/200",
+                    "altText": "Kitten mata ki jai"
+                  }
+                }
+              },
+              {
+                "label": "Indus Valley Civilisation",
+                "value": {
+                  "label": "A Bronze Age civilisation in the northwestern regions of the Indian..",
+                  "url": "https://disney.com",
+                  "image": {
+                    "url": "https://placekitten.com/200/200",
+                    "altText": "Kitten mata ki jai"
+                  }
+                }
+              },
+              {
+                "label": "Indus Valley Civilisation",
+                "value": {
+                  "label": "A Bronze Age civilisation in the northwestern regions of the Indian..",
+                  "url": "https://disney.com",
+                  "image": {
+                    "url": "https://placekitten.com/200/200",
+                    "altText": "Kitten mata ki jai"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Medieval India",
+          "labelHelperText": "600CE - 1200CE",
+          "value":
+          {
+            "label": "When Harsha of Kannauj, who ruled much of the Indo-Gangetic Plain from 606 to 647 CE, attempted to expand southwards, he was defeated by the Chalukya ruler of the Deccan.",
+            "innerCards": [
+              {
+                "label": "Harshvardhan",
+                "value": {
+                  "label": "He was an Indian emperor who ruled North India from 606 to 647. He was an Indian emperor who ruled North India from 606 to 647. He was an Indian emperor who ruled North India from 606 to 647.",
+                  "url": "https://disney.com",
+                  "image": {
+                    "url": "https://placekitten.com/200/200",
+                    "altText": "Kitten mata ki jai"
+                  }
+                }
+              },
+              {
+                "label": "Harshvardhan",
+                "value": {
+                  "label": "He was an Indian emperor who ruled North India from 606 to 647. He was an Indian emperor who ruled North India from 606 to 647. He was an Indian emperor who ruled North India from 606 to 647.",
+                  "url": "https://disney.com",
+                  "image": {
+                    "url": "https://placekitten.com/200/200",
+                    "altText": "Kitten mata ki jai"
+                  }
+                }
+              },
+              {
+                "label": "Harshvardhan",
+                "value": {
+                  "label": "He was an Indian emperor who ruled North India from 606 to 647. He was an Indian emperor who ruled North India from 606 to 647. He was an Indian emperor who ruled North India from 606 to 647.",
+                  "url": "https://disney.com",
+                  "image": {
+                    "url": "https://placekitten.com/200/200",
+                    "altText": "Kitten mata ki jai"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
     {
       "title": "About",
       "cardType": "table",
