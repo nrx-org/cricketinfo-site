@@ -11,6 +11,7 @@ import { makeTitle } from "../lib/make_title";
 import { articleContentUrl } from "../lib/urls";
 import {
   sectionsPropTypes,
+  relatedContentPropTypes,
   translationsPropTypes,
   imagePropTypes,
   factCardDataPropTypes
@@ -30,6 +31,7 @@ const Article = ({
   title,
   categories,
   sections,
+  relatedContent,
   lang,
   summary,
   coverImage,
@@ -63,7 +65,7 @@ const Article = ({
             cardData={factCard}
           />
         ))}
-        <RelatedArticleCarousel />
+        <RelatedArticleCarousel relatedContent={relatedContent} />
         <ArticleContent sections={sections} />
       </BaseLayout>
 
@@ -107,6 +109,7 @@ Article.propTypes = {
   coverImage: imagePropTypes.isRequired,
   summary: PropTypes.string.isRequired,
   sections: sectionsPropTypes.isRequired,
+  relatedContent: relatedContentPropTypes.isRequired,
   lang: PropTypes.string.isRequired,
   translations: translationsPropTypes.isRequired,
   summaryFactCards: PropTypes.arrayOf(factCardDataPropTypes)

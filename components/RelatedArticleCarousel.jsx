@@ -1,38 +1,14 @@
 import React from "react";
+import PropTypes from "prop-types";
 
 import { Card } from "./Card";
 
-const RELATED_ARTICLES = [
-  {
-    label: "Himalayas",
-    value: "www.nsvp.in",
-    img: {
-      url: "https://placekitten.com/64/64",
-      altText: "thinsg  go here"
-    }
-  },
-  {
-    label: "Vrindavan",
-    value: "www.nsvp.in",
-    img: {
-      url: "https://placekitten.com/64/64",
-      altText: "more thinsg go here"
-    }
-  },
-  {
-    label: "Vrindavan",
-    value: "www.nsvp.in",
-    img: {
-      url: "https://placekitten.com/64/64",
-      altText: "more thinsg go here"
-    }
-  }
-];
+import { relatedContentPropTypes } from "../lib/prop_types";
 
-export const RelatedArticleCarousel = () => {
+export const RelatedArticleCarousel = ({ relatedContent }) => {
   return (
     <div className="wcp-related-article-carousel">
-      {RELATED_ARTICLES.map(a => (
+      {relatedContent.map(a => (
         <Card
           shadowSize="s"
           title={a.label}
@@ -44,4 +20,8 @@ export const RelatedArticleCarousel = () => {
       ))}
     </div>
   );
+};
+
+RelatedArticleCarousel.propTypes = {
+  relatedContent: relatedContentPropTypes.isRequired
 };
