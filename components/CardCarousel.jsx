@@ -5,7 +5,7 @@ import { Card } from "./Card";
 
 import { relatedContentPropTypes } from "../lib/prop_types";
 
-export const RelatedArticleCarousel = ({ relatedContent }) => {
+export const CardCarousel = ({ relatedContent }) => {
   return (
     <div className="wcp-related-article-carousel">
       {relatedContent.map(a => (
@@ -22,6 +22,6 @@ export const RelatedArticleCarousel = ({ relatedContent }) => {
   );
 };
 
-RelatedArticleCarousel.propTypes = {
+CardCarousel.propTypes = {
   relatedContent: relatedContentPropTypes.isRequired
 };
