@@ -19,35 +19,7 @@ jobs:
             - ./node_modules
       - run: 
           name: Lint
-          command: npm run eslint 
-  test:
-    docker:
-      - image: cypress/base:10
-        environment:
-          ## this enables colors in the output
-          TERM: xterm
-    steps:
-      - checkout
-      - restore_cache:
-          key: test-cache-{{ checksum "package.json" }}-v01
-      - run:
-          name: Setup Dependencies
-          command: npm ci
-      - save_cache:
-          key: test-cache-{{ checksum "package.json" }}-v01
-          # cache NPM modules and the folder with the Cypress binary
-          paths:
-            - ./node_modules
-      - run: 
-          name: Setup build
-          command: npm run build
-      - run: 
-          name: Start Next
-          command: npm run start    
-          background: true
-      - run: 
-          name: Run Cypress
-          command: $(npm bin)/cypress run 
+          command: npm run eslint
   deploy: 
     docker:
       - image: circleci/node:10.15
