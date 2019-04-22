@@ -15,11 +15,10 @@ class VerticalTimelineContentSingle extends React.Component {
   }
   componentDidMount () {
     const rect = this.selector.current.getBoundingClientRect()
-    this.props.isLast ? this.setState({lineStyle: {height: 0}}) : this.setState({ lineStyle: {height: rect.height + 'px'} });
-
+    this.setState({ lineStyle: {height: rect.height + 'px'} });
   }
   render() {
-    const innerCardsList = this.props.f.value.innerCards.map((g, gIndex) => {
+    const innerCardsList = this.props.fact.value.innerCards.map((g, gIndex) => {
       return (
         <Card
         key={`${g.label}-${gIndex}`}
@@ -34,52 +33,45 @@ class VerticalTimelineContentSingle extends React.Component {
         children={<div className="wcp-fact-card__vertical-timeline-content__item__card__description">{g.value.label}</div>}
         />
       )
-    }
-  );
+    });
     return (
-      <div
-      key={`${this.props.f.label}-${this.props.fIndex}`} ref={this.selector}
-      className="wcp-fact-card__vertical-timeline-content__item">
+      <div key={`${this.props.fact.label}-${this.props.factIndex}`} ref={this.selector} className="wcp-fact-card__vertical-timeline-content__item">
       <h2 className="wcp-fact-card__vertical-timeline-content__item__label">
-      {this.props.f.label}
-      {this.props.f.labelHelperText ? <span className="wcp-fact-card__vertical-timeline-content__item__label-helper-text"> ({this.props.f.labelHelperText})</span> : ''}
+      {this.props.fact.label}
+      {this.props.fact.labelHelperText ? <span className="wcp-fact-card__vertical-timeline-content__item__label-helper-text"> ({this.props.fact.labelHelperText})</span> : ''}
       </h2>
       <div className="wcp-fact-card__vertical-timeline-content__item__content">
-      {this.props.f.value.label}
+      {this.props.fact.value.label}
       </div>
       <div className="wcp-fact-card__vertical-timeline-content__inner-cards-list">
       {innerCardsList}
       </div>
+      <div className="wcp-fact-card__vertical-timeline-content__line-and-dot">
+      <div className="wcp-fact-card__vertical-timeline-content__dot"></div>
+
       <div className="wcp-fact-card__vertical-timeline-content__line" style={this.state.lineStyle}></div>
+      </div>
       </div>
     )
   }
 }
 
 VerticalTimelineContentSingle.propTypes = {
-  fIndex: PropTypes.number,
-  isLast: PropTypes.boolean
+  fIndex: PropTypes.number
 };
 
 export class VerticalTimelineContent extends React.Component {
-  constructor(props) {
-    super(props);
-  }
-  componentDidMount() {
-
-  }
   render() {
     return (
       <div className="wcp-fact-card__vertical-timeline-content">
-      {this.props.cardData.facts.map((f, fIndex) => {
-
-      return (
-        <VerticalTimelineContentSingle f={f} fIndex={fIndex} isLast={fIndex+1 === this.props.cardData.facts.length}></VerticalTimelineContentSingle>
-      );
-    })}
-    </div>
-  )
-};
+      {this.props.cardData.facts.map((fact, factIndex) => {
+        return (
+          <VerticalTimelineContentSingle fact={fact} factIndex={factIndex}></VerticalTimelineContentSingle>
+        );
+      })}
+      </div>
+    )
+  };
 };
 
 
