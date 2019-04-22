@@ -1,5 +1,9 @@
 @import "./variables.scss";
 
+* {
+  box-sizing: border-box;
+}
+
 body {
   font-size: $body-font-size;
   line-height: $body-line-height;
@@ -39,6 +43,12 @@ main {
   @media screen and (min-width: $breakpoint-s) {
     margin: 0 auto;
   }
+}
+
+input[type="text"] {
+  font-size: $body-font-size;
+  color: $body-color;
+  padding: $gutter-m;
 }
 
 .pull-quote {
