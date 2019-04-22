@@ -3,11 +3,12 @@ import PropTypes from "prop-types";
 import slugify from "slugify";
 
 import { Card } from "./Card";
-import { Icon } from "./Icon";
+import { IconButton } from "./IconButton";
+import { ModalContextConsumer } from "./ModalContext";
 
 import { factCardDataPropTypes } from "../lib/prop_types";
-import { ModalContextConsumer } from "./ModalContext";
 import { ARTICLE_SUMMARY_MODAL_ID } from "../lib/modal_ids";
+import { getImageShareUrl } from "../lib/urls";
 
 const TableContent = ({ cardData }) => {
   const content = cardData.facts.map(f => (
@@ -117,13 +118,22 @@ NestedContent.propTypes = {
 };
 
 const SimpleContent = ({ cardData }) => {
+  const share = () => {
+    if (navigator.share) {
+      navigator.share({
+        title: cardData.title,
+        url: getImageShareUrl(window.location.href, `#${cardData.id}`)
+      });
+    }
+  };
+
   return (
     <div className="wcp-fact-card__simple-content">
       <p className="wcp-fact-card__simple-content__text">
         {cardData.facts[0].value.label}
       </p>
       <div className="wcp-fact-card__simple-content__icon">
-        <Icon name="share" altText="Share Icon" />
+        <IconButton onClick={share} name="share" altText="Share Icon" />
       </div>
     </div>
   );
