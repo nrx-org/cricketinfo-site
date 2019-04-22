@@ -1,0 +1,18 @@
+.wcp-share-fact-bottom-sheet {
+  padding: $gutter-m;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.wcp-share-fact-bottom-sheet__input-wrapper {
+  flex-grow: 1;
+}
+
+.wcp-share-fact-bottom-sheet__input {
+  width: 100%;
+}
+
+.wcp-share-fact-bottom-sheet__button-close {
+  margin-top: $gutter-s;
+}

@@ -7,14 +7,6 @@ import fetch from "isomorphic-fetch";
 
 import { BaseLayout } from "../components/BaseLayout";
 import { ArticleContent } from "../components/ArticleContent";
-import { makeTitle } from "../lib/make_title";
-import { articleContentUrl } from "../lib/urls";
-import {
-  sectionsPropTypes,
-  translationsPropTypes,
-  imagePropTypes,
-  factCardDataPropTypes
-} from "../lib/prop_types";
 import { LanguageSelector } from "../components/LanguageSelector";
 import { LanguageContext } from "../language_context";
 import { FactCard } from "../components/FactCard";
@@ -24,6 +16,16 @@ import {
 } from "../components/ModalContext";
 import { ArticleSummaryModalContainer } from "../components/ArticleSummaryModalContainer";
 import { PillList } from "../components/PillList";
+import { ShareFactBottomSheetContainer } from "../components/ShareFactBottomSheetContainer";
+
+import { makeTitle } from "../lib/make_title";
+import { articleContentUrl } from "../lib/urls";
+import {
+  sectionsPropTypes,
+  translationsPropTypes,
+  imagePropTypes,
+  factCardDataPropTypes
+} from "../lib/prop_types";
 
 const Article = ({
   title,
@@ -67,16 +69,15 @@ const Article = ({
 
       <ModalContextConsumer>
         {({ registerModal, isModalOpen, modalData, closeModal }) => (
-          <>
-            <ArticleSummaryModalContainer
-              registerModal={registerModal}
-              isModalOpen={isModalOpen}
-              modalData={modalData}
-              closeModal={closeModal}
-            />
-          </>
+          <ArticleSummaryModalContainer
+            registerModal={registerModal}
+            isModalOpen={isModalOpen}
+            modalData={modalData}
+            closeModal={closeModal}
+          />
         )}
       </ModalContextConsumer>
+      <ShareFactBottomSheetContainer />
     </ModalContextProvider>
   </LanguageContext.Provider>
 );

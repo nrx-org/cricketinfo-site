@@ -7,7 +7,10 @@ import { IconButton } from "./IconButton";
 import { ModalContextConsumer } from "./ModalContext";
 
 import { factCardDataPropTypes } from "../lib/prop_types";
-import { ARTICLE_SUMMARY_MODAL_ID } from "../lib/modal_ids";
+import {
+  ARTICLE_SUMMARY_MODAL_ID,
+  SHARE_FACT_CARD_BOTTOM_SHEET_ID
+} from "../lib/modal_ids";
 import { getImageShareUrl } from "../lib/urls";
 
 const TableContent = ({ cardData }) => {
@@ -117,13 +120,31 @@ NestedContent.propTypes = {
   cardData: factCardDataPropTypes.isRequired
 };
 
-const SimpleContent = ({ cardData }) => {
+const SimpleContentContainer = props => {
+  return (
+    <ModalContextConsumer>
+      {({ openModal }) => (
+        <SimpleContent
+          {...props}
+          openShareSheet={shareUrl =>
+            openModal(SHARE_FACT_CARD_BOTTOM_SHEET_ID, { shareUrl })
+          }
+        />
+      )}
+    </ModalContextConsumer>
+  );
+};
+
+const SimpleContent = ({ cardData, openShareSheet }) => {
   const share = () => {
+    const shareUrl = getImageShareUrl(window.location.href, `#${cardData.id}`);
     if (navigator.share) {
       navigator.share({
         title: cardData.title,
-        url: getImageShareUrl(window.location.href, `#${cardData.id}`)
+        url: shareUrl
       });
+    } else {
+      openShareSheet(shareUrl);
     }
   };
 
@@ -140,7 +161,8 @@ const SimpleContent = ({ cardData }) => {
 };
 
 SimpleContent.propTypes = {
-  cardData: factCardDataPropTypes.isRequired
+  cardData: factCardDataPropTypes.isRequired,
+  openShareSheet: PropTypes.func.isRequired
 };
 
 export const FactCard = ({ cardData, className }) => {
@@ -152,7 +174,7 @@ export const FactCard = ({ cardData, className }) => {
   } else if (cardData.cardType === "nested") {
     content = <NestedContent cardData={cardData} />;
   } else if (cardData.cardType === "simple") {
-    content = <SimpleContent cardData={cardData} />;
+    content = <SimpleContentContainer cardData={cardData} />;
   }
 
   return (
