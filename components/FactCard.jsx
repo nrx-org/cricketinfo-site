@@ -147,6 +147,7 @@ export const FactCard = ({ cardData, className }) => {
 
   return (
     <Card
+      id={cardData.id}
       className={`wcp-fact-card ${className}`}
       title={cardData.title}
       titleClassName="wcp-fact-card__title"

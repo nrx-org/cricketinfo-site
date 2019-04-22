@@ -4,6 +4,7 @@ import PropTypes from "prop-types";
 import { imagePropTypes } from "../lib/prop_types";
 
 export const Card = ({
+  id,
   children,
   coverImage,
   coverImageClassName,
@@ -21,6 +22,7 @@ export const Card = ({
   return (
     <div
       className={`wcp-card ${shadowClass} ${className} ${imagePositionClass} `}
+      id={id}
     >
       {coverImage ? (
         <img
@@ -40,6 +42,7 @@ export const Card = ({
 };
 
 Card.defaultProps = {
+  id: null,
   children: null,
   coverImage: null,
   coverImageClassName: "",
@@ -52,6 +55,7 @@ Card.defaultProps = {
 };
 
 Card.propTypes = {
+  id: PropTypes.string,
   children: PropTypes.node,
   coverImage: imagePropTypes,
   coverImageClassName: PropTypes.string,
