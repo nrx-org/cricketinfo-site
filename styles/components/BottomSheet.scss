@@ -22,7 +22,6 @@
   left: 0;
   bottom: 0;
   width: 100%;
-  height: 75vh;
   opacity: 0;
   transition: opacity 0.5s ease, visibility 0.5s 0s;
 
@@ -30,4 +29,20 @@
     opacity: 1;
     visibility: visible;
   }
+}
+
+.wcp-bottom-sheet--1up {
+  height: 25vh;
+}
+
+.wcp-bottom-sheet--2up {
+  height: 50vh;
+}
+
+.wcp-bottom-sheet--3up {
+  height: 75vh;
+}
+
+.wcp-bottom-sheet--4up {
+  height: 100vh;
 }
