@@ -115,10 +115,11 @@
   text-align: right;
 }
 
-.wcp-fact-card__vertical-timeline-content {
-  // padding-left: 20px;
-  padding-left: $gutter-l;
 
+// for the vertical_timeline card
+
+.wcp-fact-card__vertical-timeline-content {
+  padding-left: $gutter-l;
 }
 
 .wcp-fact-card__vertical-timeline-content__item {
@@ -127,26 +128,25 @@
 }
 
 
-// for the vertical_timeline card
 $timelineDotSize: 5px;
 $timelineSpacing: -18px;
 
 .wcp-fact-card__vertical-timeline-content__item__label {
   font-size: $font-size-l;
-  color: $color-black;
-  margin-bottom: $gutter-xs;
+  color: $color-black-light;
+  margin-bottom: 0;
   margin-top: $gutter-xs;
   position: relative;
-  // &:before {
-  //   content: '';
-  //
-  // }
   span {
     font-size: $font-size-s;
     color: $color-gray-medium;
     font-family: $font-family-body;
+    font-weight: normal;
   }
+}
 
+.wcp-fact-card__vertical-timeline-content__item__content {
+  color: $color-gray-dark;
 }
 
 .wcp-fact-card__vertical-timeline-content__inner-cards-list {
@@ -158,8 +158,6 @@ $timelineSpacing: -18px;
   flex-direction: row;
   @include hide-scrollbar();
 }
-
-
 
 .wcp-fact-card__vertical-timeline-content__item__card {
   width: auto;
@@ -177,30 +175,26 @@ $timelineSpacing: -18px;
 
 .wcp-fact-card__vertical-timeline-content__item__card__title {
   font-size: $font-size-m;
-  color: $color-black-light;
+  color: $color-black-medium;
   margin-bottom: $gutter-m;
   line-height: 1.4;
   white-space: nowrap;
-
 }
 
 .wcp-fact-card__vertical-timeline-content__item__card__description {
-  font-size: $font-size-xs;
-  color: $color-gray-light;
-  // margin-bottom: $gutter-xs;
+  font-size: $font-size-xxs;
+  color: $color-gray-faded;
   line-height: $font-size-m;
-  display: block; /* or inline-block */
+  display: block;
   text-overflow: ellipsis;
   word-wrap: break-word;
   overflow: hidden;
-  max-height: 2 * $font-size-m;
-  // line-height: 1.8em;
+  max-height: 2 * $font-size-s;
 }
 
 .wcp-fact-card__vertical-timeline-content__item__card__content {
   display: inline-block;
   padding-top: 0;
-  // width: calc(65%);
 }
 
 .wcp-fact-card__vertical-timeline-content__line-and-dot {
@@ -210,7 +204,6 @@ $timelineSpacing: -18px;
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
-  // left: $timelineSpacing + ($timelineDotSize - 0.5);
   top: $line-height-h2/2 - $timelineDotSize;
 }
 
@@ -226,8 +219,6 @@ $timelineSpacing: -18px;
   border-radius: $timelineDotSize;
   background: $color-blue-dark;
   border: $timelineDotSize/2 solid $color-white;
-
-
 }
 
 .wcp-fact-card__vertical-timeline-content__item:last-child {
