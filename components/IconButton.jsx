@@ -23,6 +23,6 @@ IconButton.propTypes = {
   name: PropTypes.string.isRequired,
   altText: PropTypes.string.isRequired,
   className: PropTypes.string,
-  onClick: PropTypes.string.isRequired,
+  onClick: PropTypes.func.isRequired,
   size: PropTypes.oneOf(["m", "l"])
 };
