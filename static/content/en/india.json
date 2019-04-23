@@ -12,6 +12,7 @@
       "facts": [
         {
           "label": "Ancient India",
+          "id": 0,
           "labelHelperText": null,
           "value":
           {
@@ -19,6 +20,7 @@
             "innerCards": [
               {
                 "label": "Indus Valley Civilisation",
+                "id": 0,
                 "value": {
                   "label": "A Bronze Age civilisation in the northwestern regions of the Indian..",
                   "url": "https://disney.com",
@@ -30,6 +32,7 @@
               },
               {
                 "label": "Indus Valley Civilisation",
+                "id": 1,
                 "value": {
                   "label": "A Bronze Age civilisation in the northwestern regions of the Indian..",
                   "url": "https://disney.com",
@@ -41,6 +44,7 @@
               },
               {
                 "label": "Indus Valley Civilisation",
+                "id": 2,
                 "value": {
                   "label": "A Bronze Age civilisation in the northwestern regions of the Indian..",
                   "url": "https://disney.com",
@@ -56,12 +60,14 @@
         {
           "label": "Medieval India",
           "labelHelperText": "600CE - 1200CE",
+          "id": 1,
           "value":
           {
             "label": "When Harsha of Kannauj, who ruled much of the Indo-Gangetic Plain from 606 to 647 CE, attempted to expand southwards, he was defeated by the Chalukya ruler of the Deccan.",
             "innerCards": [
               {
                 "label": "Harshvardhan",
+                "id": 0,
                 "value": {
                   "label": "He was an Indian emperor who ruled North India from 606 to 647. He was an Indian emperor who ruled North India from 606 to 647. He was an Indian emperor who ruled North India from 606 to 647.",
                   "url": "https://disney.com",
@@ -73,6 +79,7 @@
               },
               {
                 "label": "Harshvardhan",
+                "id": 1,
                 "value": {
                   "label": "He was an Indian emperor who ruled North India from 606 to 647. He was an Indian emperor who ruled North India from 606 to 647. He was an Indian emperor who ruled North India from 606 to 647.",
                   "url": "https://disney.com",
@@ -84,6 +91,7 @@
               },
               {
                 "label": "Harshvardhan",
+                "id": 2,
                 "value": {
                   "label": "He was an Indian emperor who ruled North India from 606 to 647. He was an Indian emperor who ruled North India from 606 to 647. He was an Indian emperor who ruled North India from 606 to 647.",
                   "url": "https://disney.com",
