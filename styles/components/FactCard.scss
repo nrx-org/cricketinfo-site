@@ -128,11 +128,7 @@
 }
 
 
-<<<<<<< HEAD
 $timelineDotSize: 10px;
-=======
-$timelineDotSize: 5px;
->>>>>>> e742c467d4b62fd2d07ccc73f72e8090dd6b5370
 $timelineSpacing: -18px;
 
 .wcp-fact-card__vertical-timeline-content__item__label {
@@ -220,15 +216,9 @@ $timelineSpacing: -18px;
 .wcp-fact-card__vertical-timeline-content__dot {
   width: $timelineDotSize;
   height: $timelineDotSize;
-<<<<<<< HEAD
   border-radius: $timelineDotSize/2;
   background: $color-blue-dark;
   border: $timelineDotSize/4 solid $color-white;
-=======
-  border-radius: $timelineDotSize;
-  background: $color-blue-dark;
-  border: $timelineDotSize/2 solid $color-white;
->>>>>>> e742c467d4b62fd2d07ccc73f72e8090dd6b5370
 }
 
 .wcp-fact-card__vertical-timeline-content__item:last-child {
