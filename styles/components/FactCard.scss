@@ -216,7 +216,7 @@ $timelineSpacing: -18px;
 .wcp-fact-card__vertical-timeline-content__dot {
   width: $timelineDotSize;
   height: $timelineDotSize;
-  border-radius: $timelineDotSize;
+  border-radius: $timelineDotSize/2;
   background: $color-blue-dark;
   border: $timelineDotSize/4 solid $color-white;
 }
