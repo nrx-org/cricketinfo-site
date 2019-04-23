@@ -17,6 +17,7 @@ import {
 import { ArticleSummaryModalContainer } from "../components/ArticleSummaryModalContainer";
 import { PillList } from "../components/PillList";
 import { ShareFactBottomSheetContainer } from "../components/ShareFactBottomSheetContainer";
+import { FloatingToolbarContainer } from "../components/FloatingToolbarContainer";
 
 import { makeTitle } from "../lib/make_title";
 import { articleContentUrl } from "../lib/urls";
@@ -50,6 +51,7 @@ const Article = ({
             alt={coverImage.altText}
           />
         </div>
+        <FloatingToolbarContainer />
         <h1 className="wcp-article__title">{title}</h1>
         <PillList items={categories} />
 
