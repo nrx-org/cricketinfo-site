@@ -40,7 +40,15 @@ export class ShareModalContainer extends React.Component {
         isOpen={isModalOpen(SHARE_MODAL_ID)}
         onOverlayClick={this.onCloseClick}
       >
-        <ShareModal isLoading={isLoading} onCloseClick={this.onCloseClick} />
+        <LanguageContext.Consumer>
+          {lang => (
+            <ShareModal
+              isLoading={isLoading}
+              onCloseClick={this.onCloseClick}
+              lang={lang}
+            />
+          )}
+        </LanguageContext.Consumer>
       </BottomSheet>
     );
   }

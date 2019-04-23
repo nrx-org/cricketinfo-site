@@ -51,7 +51,7 @@ const ShareModalInternal = ({ isLoading, onCloseClick, lang }) => {
   );
 };
 
-ShareModalInternal.propTypes = {
+ShareModal.propTypes = {
   isLoading: PropTypes.bool.isRequired,
   onCloseClick: PropTypes.func.isRequired,
   lang: PropTypes.string.isRequired
