@@ -16,13 +16,16 @@ export class ShareModalContainer extends React.Component {
     super(props);
 
     this.onCloseClick = this.onCloseClick.bind(this);
+    this.onCopyClick = this.onCopyClick.bind(this);
+    this.urlInput = React.createRef();
 
     props.registerModal(SHARE_MODAL_ID, {
       onClose: ShareModalContainer.onModalClose
     });
 
     this.state = {
-      isLoading: false
+      isLoading: false,
+      isUrlCopied: false
     };
   }
 
@@ -31,12 +34,19 @@ export class ShareModalContainer extends React.Component {
     closeModal(SHARE_MODAL_ID);
   }
 
+  onCopyClick() {
+    this.urlInput.current.select();
+    document.execCommand("copy");
+    this.setState({ isUrlCopied: true });
+  }
+
   render() {
-    const { isModalOpen } = this.props;
-    const { isLoading } = this.state;
+    const { isModalOpen, modalData } = this.props;
+    const { isLoading, isUrlCopied } = this.state;
 
     return (
       <BottomSheet
+        size="1up"
         isOpen={isModalOpen(SHARE_MODAL_ID)}
         onOverlayClick={this.onCloseClick}
       >
@@ -44,11 +54,20 @@ export class ShareModalContainer extends React.Component {
           {lang => (
             <ShareModal
               isLoading={isLoading}
+              isUrlCopied={isUrlCopied}
               onCloseClick={this.onCloseClick}
+              onCopyClick={this.onCopyClick}
+              shareUrl={modalData && (modalData.url || "")}
               lang={lang}
             />
           )}
         </LanguageContext.Consumer>
+        <input
+          className="wcp-share-fact-bottom-sheet__input"
+          ref={this.urlInput}
+          type="text"
+          value={modalData && (modalData.url || "")}
+        />
       </BottomSheet>
     );
   }
