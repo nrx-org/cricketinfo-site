@@ -1,0 +1,37 @@
+.wcp-tiny-card {
+  width: auto;
+  min-width: 18.75rem;
+  margin-right: $gutter-s;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.wcp-tiny-card__cover-image {
+  display: inline-block;
+  max-height: 4rem;
+}
+
+.wcp-tiny-card__title {
+  font-size: $font-size-m;
+  color: $color-black-medium;
+  margin-bottom: $gutter-m;
+  line-height: $line-height-h4;
+  white-space: nowrap;
+}
+
+.wcp-tiny-card__description {
+  font-size: $font-size-xxs;
+  color: $color-gray-faded;
+  line-height: $tiny-card-caption-line-height;
+  display: block;
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  overflow: hidden;
+  max-height: 2 * $tiny-card-caption-line-height;
+}
+
+.wcp-tiny-card__content {
+  display: inline-block;
+  padding-top: 0;
+}

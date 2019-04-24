@@ -2,6 +2,7 @@
 $breakpoint-s: 45rem;
 
 // Font sizes
+$font-size-xxs: 12px;
 $font-size-xs: 13.2762px;
 $font-size-s: 14.2975px;
 $font-size-m: 16.34px;
@@ -28,6 +29,7 @@ $font-size-section-title: $font-size-xxl;
 $font-size-page-title: $font-size-xxxl;
 
 // Line heights for page elements
+$tiny-card-caption-line-height: 17px;
 $caption-line-height: 18px;
 $note-line-height: 20px;
 $body-line-height: 27px;
@@ -44,9 +46,11 @@ $line-height-h1: 42px;
 // Colors
 $color-white: #ffffff;
 $color-black: #000000;
+$color-black-medium: #54595D;
 $color-black-light: #222222;
 $color-gray-dark: #54595d;
 $color-gray-medium: #6a6e71;
+$color-gray-faded: #72777D;
 $color-gray-light: #c4c4c4;
 $color-gray-lighter: #f0f0f2;
 $color-blue-dark: #3366cc;
@@ -78,3 +82,6 @@ $border-radius-s: 4px;
 // Margins and Paddings for functionality
 $margin-main: $gutter-m;
 
+// Font families
+$font-family-title: 'Charter';
+$font-family-body: 'Lato';

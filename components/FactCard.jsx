@@ -12,6 +12,7 @@ import {
   SHARE_FACT_CARD_BOTTOM_SHEET_ID
 } from "../lib/modal_ids";
 import { getImageShareUrl } from "../lib/urls";
+import { VerticalTimelineContent } from "./VerticalTimelineContent";
 
 const TableContent = ({ cardData }) => {
   const content = cardData.facts.map(f => (
@@ -175,6 +176,8 @@ export const FactCard = ({ cardData, className }) => {
     content = <NestedContent cardData={cardData} />;
   } else if (cardData.cardType === "simple") {
     content = <SimpleContentContainer cardData={cardData} />;
+  } else if (cardData.cardType === "vertical_timeline") {
+    content = <VerticalTimelineContent cardData={cardData} />;
   }
 
   return (
