@@ -19,15 +19,24 @@ export const IconButtonWithText = ({
   }
 
   return (
-    <div>
+    <div className="wcp-icon-button-with-text">
       {url ? (
-        <a href={url}>
-          <Icon name={name} altText={altText} />
-          {children}
+        <a href={url} className="wcp-icon-button-with-text__item">
+          <Icon
+            name={name}
+            altText={altText}
+            // className="wcp-icon-button-with-text__icon"
+          />
+          <span className="wcp-icon-button-with-text__text">{children}</span>
         </a>
       ) : (
-        <IconButton name={name} altText={altText} onClick={onClick}>
-          {children}
+        <IconButton
+          name={name}
+          altText={altText}
+          onClick={onClick}
+          className="wcp-icon-button-with-text__item"
+        >
+          <span className="wcp-icon-button-with-text__text">{children}</span>
         </IconButton>
       )}
     </div>

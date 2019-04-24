@@ -1,0 +1,12 @@
+.wcp-icon-button-with-text__item {
+  display: flex;
+  flex: 1 1 auto;
+  margin: $gutter-m;
+  align-items: center;
+}
+
+.wcp-icon-button-with-text__text {
+  color: $color-gray-dark;
+  font-size: $font-size-s;
+  margin-left: $gutter-m;
+}

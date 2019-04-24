@@ -2,7 +2,14 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Icon } from "./Icon";
 
-export const IconButton = ({ name, altText, className, onClick, size }) => {
+export const IconButton = ({
+  name,
+  altText,
+  className,
+  onClick,
+  size,
+  children
+}) => {
   return (
     <button
       className={`wcp-icon-button ${className}`}
@@ -10,13 +17,15 @@ export const IconButton = ({ name, altText, className, onClick, size }) => {
       onClick={onClick}
     >
       <Icon name={name} altText={altText} size={size} />
+      {children}
     </button>
   );
 };
 
 IconButton.defaultProps = {
   className: "",
-  size: "m"
+  size: "m",
+  children: null
 };
 
 IconButton.propTypes = {
@@ -24,5 +33,6 @@ IconButton.propTypes = {
   altText: PropTypes.string.isRequired,
   className: PropTypes.string,
   onClick: PropTypes.func.isRequired,
-  size: PropTypes.oneOf(["m", "l"])
+  size: PropTypes.oneOf(["m", "l"]),
+  children: PropTypes.node
 };

@@ -1,42 +1,48 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import { IconButton } from "./IconButton";
 import { LoadingSpinner } from "./LoadingSpinner";
 import { IconButtonWithText } from "./IconButtonWithText";
+import { IconButton } from "./IconButton";
 
-export const ShareModal = ({ isLoading, onCloseClick, lang }) => {
+export const ShareModal = ({
+  isLoading,
+  isUrlCopied,
+  onCloseClick,
+  onCopyClick,
+  shareUrl,
+  lang
+}) => {
   if (isLoading) {
     return <LoadingSpinner />;
   }
-  const getCurrentUrl = () => {
-    if (process.browser) return window.location.href;
-    return null;
-  };
 
   return (
-    <div>
+    <div className="wcp-share-modal">
       <IconButton
         name="close"
         altText="Close Icon"
-        size="l"
         onClick={onCloseClick}
+        className="wcp-share-modal__close-icon"
       />
       <IconButtonWithText
         name="whatsapp"
         altText="WhatsApp Icon"
-        text="Share on WhatsApp"
-        url={`https://wa.me/?text=${getCurrentUrl()}`}
+        url={`https://wa.me/?text=${shareUrl}`}
       >
         Share on Whatsapp
       </IconButtonWithText>
       <IconButtonWithText
         name="facebook"
         altText="Facebook Icon"
-        text="Share on Facebook"
-        url={`https://www.facebook.com/sharer/sharer.php?u=${getCurrentUrl()}`}
+        url={`https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`}
       >
         Share on facebook
+      </IconButtonWithText>
+      <IconButtonWithText name="copy" altText="Copy Icon" onClick={onCopyClick}>
+      {/* TODO */}
+        {/* {isUrlCopied && <p>{I18N_URL_COPY_SUCCESS_MESSAGE[lang]}</p>} */}
+        Copy link to Share
       </IconButtonWithText>
     </div>
   );
@@ -44,6 +50,9 @@ export const ShareModal = ({ isLoading, onCloseClick, lang }) => {
 
 ShareModal.propTypes = {
   isLoading: PropTypes.bool.isRequired,
+  isUrlCopied: PropTypes.bool.isRequired,
   onCloseClick: PropTypes.func.isRequired,
+  onCopyClick: PropTypes.func.isRequired,
+  shareUrl: PropTypes.string.isRequired,
   lang: PropTypes.string.isRequired
 };
