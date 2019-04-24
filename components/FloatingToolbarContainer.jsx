@@ -7,23 +7,19 @@ import { SHARE_MODAL_ID } from "../lib/modal_ids";
 import { FloatingToolbar } from "./FloatingToolbar";
 
 export const FloatingToolbarContainer = () => {
-  const ShareData = {
-    title: "Things",
-    text: "Check out Web Fundamentals — it rocks!",
-    url: "https://developers.google.com/web"
-  };
+  const shareData = process.browser
+    ? {
+        title: document.title,
+        url: window.location.href
+      }
+    : "";
 
   const onShareClick = (event, openModal) => {
     if (navigator.share) {
-      navigator
-        .share(ShareData)
-        .then(() => {
-          // TODO
-        })
-        .catch(error => console.log("Error sharing", error));
+      navigator.share(shareData);
     } else {
       event.preventDefault();
-      openModal(SHARE_MODAL_ID, ShareData);
+      openModal(SHARE_MODAL_ID, shareData);
     }
   };
 
