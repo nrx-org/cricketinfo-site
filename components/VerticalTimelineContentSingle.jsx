@@ -22,7 +22,9 @@ export const VerticalTimelineContentSingle = ({ fact }) => {
         {fact.labelHelperText ? (
           <span className="wcp-fact-card__vertical-timeline-content__item__label-helper-text">
             {" "}
-            ({fact.labelHelperText})
+            {"("}
+            {fact.labelHelperText}
+            {")"}
           </span>
         ) : (
           ""
@@ -33,6 +35,10 @@ export const VerticalTimelineContentSingle = ({ fact }) => {
       </div>
       <div className="wcp-fact-card__vertical-timeline-content__inner-cards-list">
         {innerCardsList}
+      </div>
+      <div className="wcp-fact-card__vertical-timeline-content__item__line-and-dot">
+        <div className="dot" />
+        <div className="line" />
       </div>
     </div>
   );

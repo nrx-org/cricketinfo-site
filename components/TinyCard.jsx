@@ -28,6 +28,7 @@ export const TinyCard = ({
       className={`wcp-tiny-card ${className}`}
       coverImageClassName={`wcp-tiny-card__cover-image ${coverImageClassName}`}
       contentClassName={`wcp-tiny-card__content ${contentClassName}`}
+      id={id}
     >
       <div className="wcp-tiny-card__description">{content}</div>
       {children}

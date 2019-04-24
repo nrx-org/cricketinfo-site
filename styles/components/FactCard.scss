@@ -124,34 +124,47 @@ $timelineSpacing: -1.125rem;
 }
 
 .wcp-fact-card__vertical-timeline-content__item {
-  padding-bottom: $gutter-m;
   position: relative;
   &:last-child {
     &:before {
       content: none;
     }
   }
-  &:after {
-    content: "\00b7";
-    position: absolute;
-    font-size: 1.75em;
-    left: -1.05rem;
-    color: $color-blue-dark;
-    top: -0.2rem;
+}
+.wcp-fact-card__vertical-timeline-content__item__line-and-dot {
+  position: absolute;
+  top: 0.625rem;
+  bottom: -1rem;
+  left: -1.05rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  .dot {
+    width: 0.375rem;
+    height: 0.375rem;
+    border-radius: 0.1875rem;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    background: $color-blue-dark;
   }
-  &:before {
+  .line {
     content: "";
-    position: absolute;
-    top: 1rem;
-    bottom: -0.8rem;
-    left: -0.85rem;
-    right: 1rem;
-    border-left: 0.0625rem solid $color-blue-dark;
+    height: calc(100% - 2.15rem);
+    margin-top: 0.05rem;
+    background: $color-blue-dark;
+    width: 0.0625rem;
     z-index: 1;
   }
 }
 
-
+.wcp-fact-card__vertical-timeline-content__item:last-child {
+  .wcp-fact-card__vertical-timeline-content__item__line-and-dot .line {
+    display: none !important;
+  }
+}
 
 .wcp-fact-card__vertical-timeline-content__item__label {
   font-size: $font-size-l;
@@ -177,15 +190,10 @@ $timelineSpacing: -1.125rem;
 .wcp-fact-card__vertical-timeline-content__inner-cards-list {
   margin-top: $gutter-s;
   overflow-x: scroll;
-  padding-bottom: 0;
-  padding-right: $gutter-s;
+  padding: $gutter-xs $gutter-s $gutter-xl $gutter-xs;
   display: flex;
   flex-direction: row;
+  margin-left: -$gutter-xs;
+  margin-bottom: -$gutter-l;
   @include hide-scrollbar();
-}
-
-.wcp-fact-card__vertical-timeline-content__item:last-child {
-  .wcp-fact-card__vertical-timeline-content__line {
-    display: none !important;
-  }
 }

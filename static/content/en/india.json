@@ -14,9 +14,54 @@
           "label": "Ancient India",
           "id": 0,
           "labelHelperText": null,
-          "value":
-          {
+          "value": {
             "label": "The earliest known human remains in South Asia date to about 30,000 years ago. the first urban culture in South Asia, Indus Valley Civilisation, which flourished during 2500–1900 BCE in what is now Pakistan and western India",
+            "innerCards": [
+              {
+                "label": "Indus Valley Civilisation",
+                "id": 0,
+                "value": {
+                  "label": "A Bronze Age civilisation in the northwestern regions of the Indian..",
+                  "url": "https://disney.com",
+                  "image": {
+                    "url": "https://placekitten.com/200/200",
+                    "altText": "Kitten mata ki jai"
+                  }
+                }
+              },
+              {
+                "label": "Indus Valley Civilisation",
+                "id": 1,
+                "value": {
+                  "label": "A Bronze Age civilisation in the northwestern regions of the Indian..",
+                  "url": "https://disney.com",
+                  "image": {
+                    "url": "https://placekitten.com/200/200",
+                    "altText": "Kitten mata ki jai"
+                  }
+                }
+              },
+              {
+                "label": "Indus Valley Civilisation",
+                "id": 2,
+                "value": {
+                  "label": "A Bronze Age civilisation in the northwestern regions of the Indian..",
+                  "url": "https://disney.com",
+                  "image": {
+                    "url": "https://placekitten.com/200/200",
+                    "altText": "Kitten mata ki jai"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Ancient India",
+          "id": 3,
+          "labelHelperText": "longer content",
+          "value": {
+            "label": "The earliest known human remains in South Asia date to about 30,000 years ago. the first urban culture in South Asia, The earliest known human remains in South Asia date to about 30,000 years ago. the first urban culture in South Asia, Indus Valley Civilisation, which flourished during 2500–1900 BCE in what is now Pakistan and western India",
             "innerCards": [
               {
                 "label": "Indus Valley Civilisation",
@@ -61,8 +106,7 @@
           "label": "Medieval India",
           "labelHelperText": "600CE - 1200CE",
           "id": 1,
-          "value":
-          {
+          "value": {
             "label": "When Harsha of Kannauj, who ruled much of the Indo-Gangetic Plain from 606 to 647 CE, attempted to expand southwards, he was defeated by the Chalukya ruler of the Deccan.",
             "innerCards": [
               {
