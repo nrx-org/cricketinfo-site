@@ -8,6 +8,7 @@
   background-color: $color-black;
   opacity: 0;
   transition: opacity 0.3s ease, visibility 0.3s 0s;
+  z-index: $z-index-overlay;
 
   &.wcp-bottom-sheet--open {
     opacity: 0.4;
@@ -24,6 +25,7 @@
   width: 100%;
   opacity: 0;
   transition: opacity 0.5s ease, visibility 0.5s 0s;
+  z-index: $z-index-modal;
 
   &.wcp-bottom-sheet--open {
     opacity: 1;
