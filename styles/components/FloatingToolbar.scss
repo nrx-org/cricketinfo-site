@@ -1,24 +1,47 @@
+button {
+  all: unset;
+}
+
 .wcp-floating-toolbar {
-  margin: 0 auto;
   background-color: $color-white;
-  width: 20rem;
-  display: flex;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08), 0 1px 4px rgba(0, 0, 0, 0.04);
   border-radius: 8px;
-  padding: $gutter-xs 0 $gutter-xs 0;
   color: $color-blue-dark;
-  margin-top: -1.5rem;
+  width: 20rem;
+
+  display: flex;
   position: relative;
 
-  .wcp-icon-button-with-text {
-    height: 3rem;
-    flex-grow: 1;
-    text-align: center;
-  }
+  align-items: center;
+  justify-content: center;
+
+  margin: 0 auto;
+  margin-top: -1.5rem;
+  padding: $gutter-xs 0 $gutter-xs 0;
+
+  height: 3rem;
+  flex-grow: 1;
+  text-align: center;
 }
+
+.wcp-floating-toolbar__item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin: 0 $gutter-m;
+}
+
+.wcp-floating-toolbar__item__icon {
+  border-radius: 50%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+  margin-left: $gutter-xs;
+}
+
 
 .wcp-floating-toolbar__divider {
   content: "";
   width: 1px;
+  height: 100%;
   background-color: $color-blue-light;
 }

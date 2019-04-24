@@ -1,29 +1,39 @@
 import React from "react";
 import { PropTypes } from "prop-types";
 
-import { IconButtonWithText } from "./IconButtonWithText";
+import { IconButton } from "./IconButton";
 
 export const FloatingToolbar = ({ onShareClick, openModal }) => {
   return (
     <div className="wcp-floating-toolbar">
-      <IconButtonWithText
-        name="bookmark"
-        altText="Save for Later Icon"
-        // TODO
-        url="thuibns"
-      >
-        Save for later
-      </IconButtonWithText>
+      <div className="wcp-floating-toolbar__item">
+        <a href={`/* TODO */`}>
+          <IconButton
+            name="bookmark"
+            altText="Save for Later Icon"
+            className="wcp-floating-toolbar__item__icon"
+          />
+          Save for later
+        </a>
+      </div>
+
       <div className="wcp-floating-toolbar__divider" />
-      <IconButtonWithText
-        name="share_toolbar"
-        altText="Share Icon"
-        onClick={event => {
-          onShareClick(event, openModal);
-        }}
-      >
-        Share article
-      </IconButtonWithText>
+
+      <div className="wcp-floating-toolbar__item">
+        <button
+          type="button"
+          onClick={event => {
+            onShareClick(event, openModal);
+          }}
+        >
+          <IconButton
+            name="share"
+            altText="Share Icon"
+            className="wcp-floating-toolbar__item__icon"
+          />
+          Share article
+        </button>
+      </div>
     </div>
   );
 };
