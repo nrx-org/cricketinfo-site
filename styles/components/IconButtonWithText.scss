@@ -1,7 +1,14 @@
+.wcp-icon-button-with-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: $gutter-s;
+}
+
 .wcp-icon-button-with-text__item {
   display: flex;
   flex: 1 1 auto;
-  margin: $gutter-m;
+
   align-items: center;
 }
 

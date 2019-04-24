@@ -5,16 +5,18 @@ import { IconButtonWithText } from "./IconButtonWithText";
 
 export const FloatingToolbar = ({ onShareClick, openModal }) => {
   return (
-    <div>
+    <div className="wcp-floating-toolbar">
       <IconButtonWithText
         name="bookmark"
         altText="Save for Later Icon"
+        // TODO
         url="thuibns"
       >
         Save for later
       </IconButtonWithText>
+      <div className="wcp-floating-toolbar__divider" />
       <IconButtonWithText
-        name="share"
+        name="share_toolbar"
         altText="Share Icon"
         onClick={event => {
           onShareClick(event, openModal);

@@ -1,0 +1,24 @@
+.wcp-floating-toolbar {
+  margin: 0 auto;
+  background-color: $color-white;
+  width: 20rem;
+  display: flex;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08), 0 1px 4px rgba(0, 0, 0, 0.04);
+  border-radius: 8px;
+  padding: $gutter-xs 0 $gutter-xs 0;
+  color: $color-blue-dark;
+  margin-top: -1.5rem;
+  position: relative;
+
+  .wcp-icon-button-with-text {
+    height: 3rem;
+    flex-grow: 1;
+    text-align: center;
+  }
+}
+
+.wcp-floating-toolbar__divider {
+  content: "";
+  width: 1px;
+  background-color: $color-blue-light;
+}
