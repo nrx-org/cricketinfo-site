@@ -58,7 +58,7 @@
   flex-grow: 1;
   margin-left: $gutter-l;
   padding-bottom: $gutter-s;
-  border-bottom: solid 0.0625rem $color-gray-lighter;
+  border-bottom: solid 1px $color-gray-lighter;
 }
 
 .wcp-fact-card__avatar-content__item__info__label {
@@ -116,8 +116,7 @@
 }
 
 // for the vertical_timeline card
-$timelineDotSize: 0.3rem;
-$timelineSpacing: -1.125rem;
+$timelineDotSize: 0.375rem;
 
 .wcp-fact-card__vertical-timeline-content {
   padding-left: $gutter-l;
@@ -141,9 +140,9 @@ $timelineSpacing: -1.125rem;
   align-items: center;
   justify-content: flex-start;
   .dot {
-    width: 0.375rem;
-    height: 0.375rem;
-    border-radius: 0.1875rem;
+    width: $timelineDotSize;
+    height: $timelineDotSize;
+    border-radius: $timelineDotSize/2;
     left: 0;
     top: 0;
     bottom: 0;
@@ -155,7 +154,7 @@ $timelineSpacing: -1.125rem;
     height: calc(100% - 2.15rem);
     margin-top: 0.05rem;
     background: $color-blue-dark;
-    width: 0.0625rem;
+    width: 1px;
     z-index: 1;
   }
 }
