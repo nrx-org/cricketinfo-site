@@ -13,6 +13,7 @@ import {
 } from "../lib/modal_ids";
 import { getImageShareUrl } from "../lib/urls";
 import { VerticalTimelineContent } from "./VerticalTimelineContent";
+import { SectionTitle } from "./SectionTitle";
 
 const FactCardTable = ({ cardData }) => {
   const content = cardData.facts.map(f => (
@@ -29,7 +30,7 @@ const FactCardTable = ({ cardData }) => {
   ));
   return (
     <section>
-      <h1>{cardData.title}</h1>
+      <SectionTitle>{cardData.title}</SectionTitle>
       <table className="wcp-fact-card-table-content">
         <tbody>{content}</tbody>
       </table>
@@ -43,7 +44,7 @@ FactCardTable.propTypes = {
 
 const FactCardImageList = ({ cardData }) => (
   <section className="wcp-fact-card-image-list">
-    <h1>{cardData.title}</h1>
+    <SectionTitle>{cardData.title}</SectionTitle>
     {cardData.facts.map(f => {
       const content = (
         <div className="wcp-fact-card-image-list__item">
@@ -92,7 +93,7 @@ FactCardImageList.propTypes = {
 const FactCardKeyedImageList = ({ cardData }) => {
   return (
     <section className="wcp-fact-card-keyed-image-list">
-      <h1>{cardData.title}</h1>
+      <SectionTitle>{cardData.title}</SectionTitle>
       {cardData.facts.map(f => {
         const card = (
           <Card
@@ -154,7 +155,7 @@ const FactCardText = ({ cardData, openShareSheet }) => {
 
   return (
     <section className="wcp-fact-card-text">
-      <h1>{cardData.title}</h1>
+      <SectionTitle>{cardData.title}</SectionTitle>
       <p className="wcp-fact-card-text__text">
         {cardData.facts[0].value.label}
       </p>

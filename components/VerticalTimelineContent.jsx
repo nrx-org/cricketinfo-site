@@ -1,11 +1,12 @@
 import React from "react";
 import { factCardDataPropTypes } from "../lib/prop_types";
 import { VerticalTimelineContentSingle } from "./VerticalTimelineContentSingle";
+import { SectionTitle } from "./SectionTitle";
 
 export const VerticalTimelineContent = ({ cardData }) => {
   return (
     <section>
-      <h1>{cardData.title}</h1>
+      <SectionTitle>{cardData.title}</SectionTitle>
 
       <div className="wcp-fact-card__vertical-timeline-content">
         {cardData.facts.map(fact => {
