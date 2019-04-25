@@ -37,12 +37,12 @@ export const ShareModal = ({
         altText="Facebook Icon"
         url={`https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`}
       >
-        Share on facebook
+        Share on Facebook
       </IconButtonWithText>
       <IconButtonWithText name="copy" altText="Copy Icon" onClick={onCopyClick}>
       {/* TODO */}
         {/* {isUrlCopied && <p>{I18N_URL_COPY_SUCCESS_MESSAGE[lang]}</p>} */}
-        Copy link to Share
+        Copy link to share
       </IconButtonWithText>
     </div>
   );
