@@ -5,6 +5,7 @@ import { ShareModalContainer } from "./ShareModalContainer";
 import { ModalContextConsumer } from "./ModalContext";
 import { SHARE_MODAL_ID } from "../lib/modal_ids";
 import { FloatingToolbar } from "./FloatingToolbar";
+import { LanguageContext } from "../language_context";
 
 export const FloatingToolbarContainer = () => {
   const shareData = process.browser
@@ -24,18 +25,33 @@ export const FloatingToolbarContainer = () => {
   };
 
   return (
-    <ModalContextConsumer>
-      {({ registerModal, openModal, isModalOpen, modalData, closeModal }) => (
-        <>
-          <FloatingToolbar onShareClick={onShareClick} openModal={openModal} />
-          <ShareModalContainer
-            registerModal={registerModal}
-            isModalOpen={isModalOpen}
-            modalData={modalData}
-            closeModal={closeModal}
-          />
-        </>
+    <LanguageContext.Consumer>
+      {lang => (
+        <ModalContextConsumer>
+          {({
+            registerModal,
+            openModal,
+            isModalOpen,
+            modalData,
+            closeModal
+          }) => (
+            <>
+              <FloatingToolbar
+                onShareClick={onShareClick}
+                openModal={openModal}
+                lang={lang}
+              />
+              <ShareModalContainer
+                registerModal={registerModal}
+                isModalOpen={isModalOpen}
+                modalData={modalData}
+                closeModal={closeModal}
+                lang={lang}
+              />
+            </>
+          )}
+        </ModalContextConsumer>
       )}
-    </ModalContextConsumer>
+    </LanguageContext.Consumer>
   );
 };

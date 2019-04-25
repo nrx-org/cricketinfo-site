@@ -41,7 +41,7 @@ export class ShareModalContainer extends React.Component {
   }
 
   render() {
-    const { isModalOpen, modalData } = this.props;
+    const { isModalOpen, modalData, lang } = this.props;
     const { isLoading, isUrlCopied } = this.state;
 
     return (
@@ -50,18 +50,14 @@ export class ShareModalContainer extends React.Component {
         isOpen={isModalOpen(SHARE_MODAL_ID)}
         onOverlayClick={this.onCloseClick}
       >
-        <LanguageContext.Consumer>
-          {lang => (
-            <ShareModal
-              isLoading={isLoading}
-              isUrlCopied={isUrlCopied}
-              onCloseClick={this.onCloseClick}
-              onCopyClick={this.onCopyClick}
-              shareUrl={modalData && (modalData.url || "")}
-              lang={lang}
-            />
-          )}
-        </LanguageContext.Consumer>
+        <ShareModal
+          isLoading={isLoading}
+          isUrlCopied={isUrlCopied}
+          onCloseClick={this.onCloseClick}
+          onCopyClick={this.onCopyClick}
+          shareUrl={modalData && (modalData.url || "")}
+          lang={lang}
+        />
         <input
           className="wcp-share-fact-bottom-sheet__input"
           ref={this.urlInput}
@@ -85,5 +81,6 @@ ShareModalContainer.propTypes = {
   modalData: PropTypes.shape({
     articleId: PropTypes.string // TODO Change to reflect shareData
   }),
-  closeModal: PropTypes.func.isRequired
+  closeModal: PropTypes.func.isRequired,
+  lang: PropTypes.string.isRequired
 };

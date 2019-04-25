@@ -5,6 +5,21 @@ import { LoadingSpinner } from "./LoadingSpinner";
 import { IconButtonWithText } from "./IconButtonWithText";
 import { IconButton } from "./IconButton";
 
+const SHARE_TEXT = {
+  facebook: {
+    en: "Share on Facebook",
+    hi: "TODO"
+  },
+  whatsapp: {
+    en: "Share on Whatsapp",
+    hi: "TODO"
+  },
+  copy: {
+    en: "Copy link to share",
+    hi: "TODO"
+  }
+};
+
 export const ShareModal = ({
   isLoading,
   isUrlCopied,
@@ -30,19 +45,19 @@ export const ShareModal = ({
         altText="WhatsApp Icon"
         url={`https://wa.me/?text=${shareUrl}`}
       >
-        Share on Whatsapp
+        {SHARE_TEXT.whatsapp[lang]}
       </IconButtonWithText>
       <IconButtonWithText
         name="facebook"
         altText="Facebook Icon"
         url={`https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`}
       >
-        Share on Facebook
+        {SHARE_TEXT.facebook[lang]}
       </IconButtonWithText>
       <IconButtonWithText name="copy" altText="Copy Icon" onClick={onCopyClick}>
-      {/* TODO */}
+        {/* TODO */}
         {/* {isUrlCopied && <p>{I18N_URL_COPY_SUCCESS_MESSAGE[lang]}</p>} */}
-        Copy link to share
+        {SHARE_TEXT.copy[lang]}
       </IconButtonWithText>
     </div>
   );

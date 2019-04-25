@@ -3,7 +3,17 @@ import { PropTypes } from "prop-types";
 
 import { IconButton } from "./IconButton";
 
-export const FloatingToolbar = ({ onShareClick, openModal }) => {
+const SAVE_TEXT = {
+  hi: "TODO",
+  en: "Save for later"
+};
+
+const SHARE_TEXT = {
+  hi: "TODO",
+  en: "Share article"
+};
+
+export const FloatingToolbar = ({ onShareClick, openModal, lang }) => {
   return (
     <div className="wcp-floating-toolbar">
       <a href={`/* TODO */`} className="wcp-floating-toolbar__item">
@@ -12,7 +22,9 @@ export const FloatingToolbar = ({ onShareClick, openModal }) => {
           altText="Save for Later Icon"
           className="wcp-floating-toolbar__item__icon"
         />
-        <span className="wcp-floating-toolbar__item__text">Save for later</span>
+        <span className="wcp-floating-toolbar__item__text">
+          {SAVE_TEXT[lang]}
+        </span>
       </a>
 
       <div className="wcp-floating-toolbar__divider" />
@@ -29,7 +41,9 @@ export const FloatingToolbar = ({ onShareClick, openModal }) => {
           altText="Share Icon"
           className="wcp-floating-toolbar__item__icon"
         />
-        <span className="wcp-floating-toolbar__item__text">Share article</span>
+        <span className="wcp-floating-toolbar__item__text">
+          {SHARE_TEXT[lang]}
+        </span>
       </button>
     </div>
   );
@@ -37,5 +51,6 @@ export const FloatingToolbar = ({ onShareClick, openModal }) => {
 
 FloatingToolbar.propTypes = {
   onShareClick: PropTypes.func.isRequired,
-  openModal: PropTypes.func.isRequired
+  openModal: PropTypes.func.isRequired,
+  lang: PropTypes.string.isRequired
 };
