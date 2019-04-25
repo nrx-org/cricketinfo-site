@@ -63,7 +63,7 @@ export class ShareModalContainer extends React.Component {
         />
         <input
           readOnly="readonly"
-          className="wcp-share-fact-bottom-sheet__input"
+          className="wcp-share-modal__input"
           ref={this.urlInput}
           type="text"
           value={modalData && (modalData.url || "")}
