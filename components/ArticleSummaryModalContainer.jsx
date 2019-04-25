@@ -10,10 +10,6 @@ import { ArticleSummaryModal } from "./ArticleSummaryModal";
 import { ERROR_NOT_FOUND, ERROR_NETWORK } from "../lib/errors";
 
 export class ArticleSummaryModalContainer extends React.Component {
-  static onModalClose() {
-    document.body.classList.remove("noscroll");
-  }
-
   constructor(props) {
     super(props);
 
@@ -42,7 +38,6 @@ export class ArticleSummaryModalContainer extends React.Component {
   }
 
   async fetchArticleData() {
-    document.body.classList.add("noscroll");
     this.setState({ data: null, error: null });
 
     const { modalData } = this.props;

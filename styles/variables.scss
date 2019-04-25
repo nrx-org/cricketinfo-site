@@ -85,3 +85,8 @@ $margin-main: $gutter-m;
 // Font families
 $font-family-title: 'Charter';
 $font-family-body: 'Lato';
+
+// z-indexes
+$z-index-base: 1;
+$z-index-overlay: 990;
+$z-index-modal: 999;

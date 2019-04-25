@@ -1,0 +1,24 @@
+.wcp-share-modal {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 100%;
+}
+
+.wcp-share-modal__close-icon {
+position: absolute;
+top: $gutter-m;
+right: $gutter-m;
+}
+
+// HACK: styles for toast notifications. This might break, since we're overriding
+// styles set by the cogo-toast library. If the selector changes in the
+// library, we might need to fix it here as well.
+.styles_toast__31ary {
+  border-radius: 8px !important;
+}
+
+.wcp-share-modal__input {
+  //visibility: hidden;
+  opacity: 0;
+}

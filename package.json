@@ -16,6 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "@zeit/next-sass": "^1.0.1",
+    "cogo-toast": "^1.0.4",
     "express": "^4.16.4",
     "next": "^8.0.3",
     "node-sass": "^4.11.0",
