@@ -14,10 +14,6 @@ const URL_COPY_SUCCESS_TEXT = {
 };
 
 export class ShareModalContainer extends React.Component {
-  static onModalClose() {
-    document.body.classList.remove("noscroll");
-  }
-
   constructor(props) {
     super(props);
 
