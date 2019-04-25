@@ -1,4 +1,5 @@
 import React from "react";
+import PropTypes from "prop-types";
 
 import { ShareModalContainer } from "./ShareModalContainer";
 
@@ -7,7 +8,7 @@ import { SHARE_MODAL_ID } from "../lib/modal_ids";
 import { FloatingToolbar } from "./FloatingToolbar";
 import { LanguageContext } from "../language_context";
 
-export const FloatingToolbarContainer = () => {
+export const FloatingToolbarContainer = ({ articleId }) => {
   const shareData = process.browser
     ? {
         title: document.title,
@@ -39,6 +40,7 @@ export const FloatingToolbarContainer = () => {
               <FloatingToolbar
                 onShareClick={onShareClick}
                 openModal={openModal}
+                articleId={articleId}
                 lang={lang}
               />
               <ShareModalContainer
@@ -54,4 +56,8 @@ export const FloatingToolbarContainer = () => {
       )}
     </LanguageContext.Consumer>
   );
+};
+
+FloatingToolbarContainer.propTypes = {
+  articleId: PropTypes.string.isRequired
 };

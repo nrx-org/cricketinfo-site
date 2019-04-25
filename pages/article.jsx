@@ -29,6 +29,7 @@ import {
 } from "../lib/prop_types";
 
 const Article = ({
+  articleId,
   title,
   categories,
   sections,
@@ -51,7 +52,7 @@ const Article = ({
             alt={coverImage.altText}
           />
         </div>
-        <FloatingToolbarContainer />
+        <FloatingToolbarContainer articleId={articleId} />
         <h1 className="wcp-article__title">{title}</h1>
         <PillList items={categories} />
 
@@ -91,6 +92,7 @@ Article.getInitialProps = async ({ query }) => {
 
   return {
     ...articleJson,
+    articleId,
     lang
   };
 };
@@ -101,6 +103,7 @@ Article.defaultProps = {
 };
 
 Article.propTypes = {
+  articleId: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
   categories: PropTypes.shape({
     label: PropTypes.string.isRequired
