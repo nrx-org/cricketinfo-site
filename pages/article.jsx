@@ -15,7 +15,6 @@ import {
   ModalContextConsumer
 } from "../components/ModalContext";
 import { ArticleSummaryModalContainer } from "../components/ArticleSummaryModalContainer";
-import { PillList } from "../components/PillList";
 import { ShareFactBottomSheetContainer } from "../components/ShareFactBottomSheetContainer";
 import { FloatingToolbarContainer } from "../components/FloatingToolbarContainer";
 
@@ -31,7 +30,6 @@ import {
 const Article = ({
   articleId,
   title,
-  categories,
   sections,
   lang,
   summary,
@@ -54,7 +52,6 @@ const Article = ({
         </div>
         <FloatingToolbarContainer articleId={articleId} />
         <h1 className="wcp-article__title">{title}</h1>
-        <PillList items={categories} />
 
         {/* eslint-disable-next-line react/no-danger */}
         <div dangerouslySetInnerHTML={{ __html: summary }} />
@@ -98,16 +95,12 @@ Article.getInitialProps = async ({ query }) => {
 };
 
 Article.defaultProps = {
-  categories: [],
   summaryFactCards: []
 };
 
 Article.propTypes = {
   articleId: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
-  categories: PropTypes.shape({
-    label: PropTypes.string.isRequired
-  }),
   coverImage: imagePropTypes.isRequired,
   summary: PropTypes.string.isRequired,
   sections: sectionsPropTypes.isRequired,
