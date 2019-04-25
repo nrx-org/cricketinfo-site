@@ -6,34 +6,31 @@ import { IconButton } from "./IconButton";
 export const FloatingToolbar = ({ onShareClick, openModal }) => {
   return (
     <div className="wcp-floating-toolbar">
-      <div className="wcp-floating-toolbar__item">
-        <a href={`/* TODO */`}>
-          <IconButton
-            name="bookmark"
-            altText="Save for Later Icon"
-            className="wcp-floating-toolbar__item__icon"
-          />
-          Save for later
-        </a>
-      </div>
+      <a href={`/* TODO */`} className="wcp-floating-toolbar__item">
+        <IconButton
+          name="bookmark"
+          altText="Save for Later Icon"
+          className="wcp-floating-toolbar__item__icon"
+        />
+        <span className="wcp-floating-toolbar__item__text">Save for later</span>
+      </a>
 
       <div className="wcp-floating-toolbar__divider" />
 
-      <div className="wcp-floating-toolbar__item">
-        <button
-          type="button"
-          onClick={event => {
-            onShareClick(event, openModal);
-          }}
-        >
-          <IconButton
-            name="share"
-            altText="Share Icon"
-            className="wcp-floating-toolbar__item__icon"
-          />
-          Share article
-        </button>
-      </div>
+      <button
+        type="button"
+        onClick={event => {
+          onShareClick(event, openModal);
+        }}
+        className="wcp-floating-toolbar__item"
+      >
+        <IconButton
+          name="share"
+          altText="Share Icon"
+          className="wcp-floating-toolbar__item__icon"
+        />
+        <span className="wcp-floating-toolbar__item__text">Share article</span>
+      </button>
     </div>
   );
 };

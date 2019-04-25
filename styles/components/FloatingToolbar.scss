@@ -27,7 +27,7 @@ button {
 .wcp-floating-toolbar__item {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
 
   margin: 0 $gutter-m;
 }
@@ -35,9 +35,14 @@ button {
 .wcp-floating-toolbar__item__icon {
   border-radius: 50%;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
-  margin-left: $gutter-xs;
+  flex: 1 1 auto;
 }
 
+.wcp-floating-toolbar__item__text {
+  font-size: $font-size-xxs;
+  margin-left: $gutter-s;
+  flex: 1 1 auto;
+}
 
 .wcp-floating-toolbar__divider {
   content: "";
