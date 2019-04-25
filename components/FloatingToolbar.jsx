@@ -4,12 +4,12 @@ import { PropTypes } from "prop-types";
 import { IconButton } from "./IconButton";
 
 const SAVE_TEXT = {
-  hi: "TODO",
+  hi: "सेव करें",
   en: "Save for later"
 };
 
 const SHARE_TEXT = {
-  hi: "TODO",
+  hi: "लेख शेयर करें",
   en: "Share article"
 };
 

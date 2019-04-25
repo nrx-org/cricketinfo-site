@@ -8,15 +8,15 @@ import { IconButton } from "./IconButton";
 const SHARE_TEXT = {
   facebook: {
     en: "Share on Facebook",
-    hi: "TODO"
+    hi: "फेसबुक पर शेयर करें"
   },
   whatsapp: {
     en: "Share on Whatsapp",
-    hi: "TODO"
+    hi: "वॉट्सएप पर शेयर करें"
   },
   copy: {
     en: "Copy link to share",
-    hi: "TODO"
+    hi: "लिंक कॉपी करें"
   }
 };
 
