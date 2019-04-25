@@ -54,6 +54,8 @@ Prototypes for testing a better Wikipedia experience.
 
     $ pm2 start npm --name "wikipedia-client-prototypes" -- start
 
+7. The app runs on port 3000 by default. You might want to reverse proxy requests to the app using Nginx or Apache.
+
 ## Resources
 
 - Bug tracking and project status: https://www.pivotaltracker.com/n/projects/2319822
