@@ -12,7 +12,7 @@ const LINK_TEXT = {
 
 const TITLE_TEXT = {
   hi: "अन्य भाषाओं में संबंधित लेख",
-  en: "In other languages",
+  en: "Read in other language(s)",
   pa: ""
 };
 
@@ -34,7 +34,7 @@ export class LanguageSelector extends React.Component {
       );
     });
     return (
-      <div>
+      <div className="wcp-language-selector">
         <h2 className="wcp-language-selector__title">{TITLE_TEXT[lang]}</h2>
         <div className="wcp-language-selector__cards">{cards}</div>
       </div>

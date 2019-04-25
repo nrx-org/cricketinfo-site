@@ -14,7 +14,7 @@ import {
 import { getImageShareUrl } from "../lib/urls";
 import { VerticalTimelineContent } from "./VerticalTimelineContent";
 
-const TableContent = ({ cardData }) => {
+const FactCardTable = ({ cardData }) => {
   const content = cardData.facts.map(f => (
     <tr key={f.label}>
       <th>{f.label}</th>
@@ -28,29 +28,33 @@ const TableContent = ({ cardData }) => {
     </tr>
   ));
   return (
-    <table className="wcp-fact-card__table-content ">
-      <tbody>{content}</tbody>
-    </table>
+    <section>
+      <h1>{cardData.title}</h1>
+      <table className="wcp-fact-card-table-content">
+        <tbody>{content}</tbody>
+      </table>
+    </section>
   );
 };
 
-TableContent.propTypes = {
+FactCardTable.propTypes = {
   cardData: factCardDataPropTypes.isRequired
 };
 
-const AvatarContent = ({ cardData }) => (
-  <div className="wcp-fact-card__avatar-content">
+const FactCardImageList = ({ cardData }) => (
+  <section className="wcp-fact-card-image-list">
+    <h1>{cardData.title}</h1>
     {cardData.facts.map(f => {
       const content = (
-        <div className="wcp-fact-card__avatar-content__item">
-          <div className="wcp-fact-card__avatar-content__item__profile-picture">
+        <div className="wcp-fact-card-image-list__item">
+          <div className="wcp-fact-card-image-list__item__profile-picture">
             <img src={f.value.image.url} alt={f.value.image.alt} />
           </div>
-          <div className="wcp-fact-card__avatar-content__item__info">
-            <div className="wcp-fact-card__avatar-content__item__info__label">
+          <div className="wcp-fact-card-image-list__item__info">
+            <div className="wcp-fact-card-image-list__item__info__label">
               {f.label}
             </div>
-            <div className="wcp-fact-card__avatar-content__item__info__value">
+            <div className="wcp-fact-card-image-list__item__info__value">
               {f.value.label}
             </div>
           </div>
@@ -61,7 +65,7 @@ const AvatarContent = ({ cardData }) => (
         <ModalContextConsumer key={`${f.label}-${f.value.label}`}>
           {({ openModal }) => (
             <a
-              className="wcp-fact-card__avatar-content__item-wrapper"
+              className="wcp-fact-card-image-list__item-wrapper"
               href={f.value.url}
               onClick={e => {
                 e.preventDefault();
@@ -75,57 +79,56 @@ const AvatarContent = ({ cardData }) => (
           )}
         </ModalContextConsumer>
       ) : (
-        <div className="wcp-fact-card__avatar-content__item-wrapper">
-          content
-        </div>
+        <div className="wcp-fact-card-image-list__item-wrapper">content</div>
       );
     })}
-  </div>
+  </section>
 );
 
-AvatarContent.propTypes = {
+FactCardImageList.propTypes = {
   cardData: factCardDataPropTypes.isRequired
 };
 
-const NestedContent = ({ cardData }) => {
+const FactCardKeyedImageList = ({ cardData }) => {
   return (
-    <div className="wcp-fact-card__nested-content">
+    <section className="wcp-fact-card-keyed-image-list">
+      <h1>{cardData.title}</h1>
       {cardData.facts.map(f => {
         const card = (
           <Card
             shadowSize="s"
             title={f.value.label}
-            titleClassName="wcp-fact-card__nested-content__title"
+            titleClassName="wcp-fact-card-keyed-image-list__title"
             coverImage={f.value.image}
-            className="wcp-fact-card__nested-content__item__card"
+            className="wcp-fact-card-keyed-image-list__item__card"
             imagePosition="left"
           />
         );
         return (
           <div
             key={`${f.label}-${f.value.label}`}
-            className="wcp-fact-card__nested-content__item"
+            className="wcp-fact-card-keyed-image-list__item"
           >
-            <div className="wcp-fact-card__nested-content__item__label">
+            <div className="wcp-fact-card-keyed-image-list__item__label">
               {f.label}
             </div>
             {f.value.url ? <a href={f.value.url}>{card}</a> : card}
           </div>
         );
       })}
-    </div>
+    </section>
   );
 };
 
-NestedContent.propTypes = {
+FactCardKeyedImageList.propTypes = {
   cardData: factCardDataPropTypes.isRequired
 };
 
-const SimpleContentContainer = props => {
+const FactCardTextContainer = props => {
   return (
     <ModalContextConsumer>
       {({ openModal }) => (
-        <SimpleContent
+        <FactCardText
           {...props}
           openShareSheet={shareUrl =>
             openModal(SHARE_FACT_CARD_BOTTOM_SHEET_ID, { shareUrl })
@@ -136,7 +139,7 @@ const SimpleContentContainer = props => {
   );
 };
 
-const SimpleContent = ({ cardData, openShareSheet }) => {
+const FactCardText = ({ cardData, openShareSheet }) => {
   const share = () => {
     const shareUrl = getImageShareUrl(window.location.href, `#${cardData.id}`);
     if (navigator.share) {
@@ -150,54 +153,40 @@ const SimpleContent = ({ cardData, openShareSheet }) => {
   };
 
   return (
-    <div className="wcp-fact-card__simple-content">
-      <p className="wcp-fact-card__simple-content__text">
+    <section className="wcp-fact-card-text">
+      <h1>{cardData.title}</h1>
+      <p className="wcp-fact-card-text__text">
         {cardData.facts[0].value.label}
       </p>
-      <div className="wcp-fact-card__simple-content__icon">
+      <div className="wcp-fact-card-text__icon">
         <IconButton onClick={share} name="share" altText="Share Icon" />
       </div>
-    </div>
+    </section>
   );
 };
 
-SimpleContent.propTypes = {
+FactCardText.propTypes = {
   cardData: factCardDataPropTypes.isRequired,
   openShareSheet: PropTypes.func.isRequired
 };
 
-export const FactCard = ({ cardData, className }) => {
+export const FactCard = ({ cardData }) => {
   let content = null;
   if (cardData.cardType === "table") {
-    content = <TableContent cardData={cardData} />;
+    content = <FactCardTable cardData={cardData} />;
   } else if (cardData.cardType === "avatar") {
-    content = <AvatarContent cardData={cardData} />;
+    content = <FactCardImageList cardData={cardData} />;
   } else if (cardData.cardType === "nested") {
-    content = <NestedContent cardData={cardData} />;
+    content = <FactCardKeyedImageList cardData={cardData} />;
   } else if (cardData.cardType === "simple") {
-    content = <SimpleContentContainer cardData={cardData} />;
+    content = <FactCardTextContainer cardData={cardData} />;
   } else if (cardData.cardType === "vertical_timeline") {
     content = <VerticalTimelineContent cardData={cardData} />;
   }
 
-  return (
-    <Card
-      id={cardData.id}
-      className={`wcp-fact-card ${className}`}
-      title={cardData.title}
-      titleClassName="wcp-fact-card__title"
-      contentClassName="wcp-fact-card__content"
-    >
-      {content}
-    </Card>
-  );
-};
-
-FactCard.defaultProps = {
-  className: ""
+  return content;
 };
 
 FactCard.propTypes = {
-  cardData: factCardDataPropTypes.isRequired,
-  className: PropTypes.string
+  cardData: factCardDataPropTypes.isRequired
 };

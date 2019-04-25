@@ -54,7 +54,7 @@ const Article = ({
         <h1 className="wcp-article__title">{title}</h1>
 
         {/* eslint-disable-next-line react/no-danger */}
-        <div dangerouslySetInnerHTML={{ __html: summary }} />
+        <p dangerouslySetInnerHTML={{ __html: summary }} />
 
         <LanguageSelector translations={translations} coverImage={coverImage} />
         {summaryFactCards.map(factCard => (

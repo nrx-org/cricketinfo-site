@@ -25,7 +25,7 @@
 .wcp-article-summary-modal__title {
   font-size: $font-size-xl;
   color: $color-black;
-  line-height: $line-height-h3;
+  line-height: $line-height-xl;
   margin-top: 0;
   margin-bottom: $gutter-s;
 }
@@ -50,7 +50,7 @@
   position: absolute;
   right: $gutter-m;
   bottom: -1rem;
-  box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.08), 0px 1px 8px rgba(0, 0, 0, 0.04);
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08), 0 1px 8px rgba(0, 0, 0, 0.04);
 }
 
 .wcp-article-summary-modal__error {

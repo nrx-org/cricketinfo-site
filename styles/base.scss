@@ -6,30 +6,13 @@
 }
 
 body {
-  font-size: $body-font-size;
-  line-height: $body-line-height;
+  font-size: $font-size-m;
+  line-height: $line-height-l;
   color: $body-color;
 }
 
-h3 {
-  font-size: $font-size-section-subtitle;
-  font-weight: normal;
-  margin: $gutter-m 0 $gutter-s 0;
-}
-
-h2 {
-  font-size: $font-size-section-title;
-  line-height: $line-height-h2;
-  color: $body-color;
-  margin: $gutter-xl 0 $gutter-m 0;
-}
-
-h1 {
-  font-size: $font-size-page-title;
-  font-weight: normal;
-  line-height: $line-height-h1;
-  color: $h1-color;
-  margin: $gutter-m 0;
+p {
+  margin: $gutter-xs 0;
 }
 
 a {
@@ -47,30 +30,9 @@ main {
 }
 
 input[type="text"] {
-  font-size: $body-font-size;
+  font-size: $font-size-m;
   color: $body-color;
   padding: $gutter-m;
-}
-
-.pull-quote {
-  font-size: $pull-quote-font-size;
-  line-height: $pull-quote-line-height;
-  font-style: italic;
-}
-
-.lead-para {
-  font-size: $lead-para-font-size;
-  line-height: $lead-para-line-height;
-}
-
-.note {
-  font-size: $note-font-size;
-  line-height: $note-line-height;
-}
-
-.caption {
-  font-size: $caption-font-size;
-  line-height: $caption-line-height;
 }
 
 .noscroll {

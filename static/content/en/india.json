@@ -1,6 +1,35 @@
 {
   "summaryFactCards": [
     {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        { "label": "Independence day", "value": { "label": "15 August 1947" } },
+        { "label": "Republic day", "value": { "label": "26 January 1950" } },
+        {
+          "label": "Capital city",
+          "value": {
+            "label": "New Delhi",
+            "url": ""
+          }
+        },
+        {
+          "label": "Largest city",
+          "value": {
+            "label": "Mumbai",
+            "url": ""
+          }
+        },
+        {
+          "label": "Currency",
+          "value": {
+            "label": "Indian Rupee (₹)",
+            "url": ""
+          }
+        }
+      ]
+    },
+    {
       "title": "History",
       "cardType": "vertical_timeline",
       "facts": [
@@ -145,35 +174,6 @@
       ]
     },
     {
-      "title": "About",
-      "cardType": "table",
-      "facts": [
-        { "label": "Independence day", "value": { "label": "15 August 1947" } },
-        { "label": "Republic day", "value": { "label": "26 January 1950" } },
-        {
-          "label": "Capital city",
-          "value": {
-            "label": "New Delhi",
-            "url": ""
-          }
-        },
-        {
-          "label": "Largest city",
-          "value": {
-            "label": "Mumbai",
-            "url": ""
-          }
-        },
-        {
-          "label": "Currency",
-          "value": {
-            "label": "Indian Rupee (₹)",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
       "title": "Government",
       "cardType": "avatar",
       "facts": [
@@ -280,7 +280,7 @@
     "url": "/static/images/india.png",
     "altText": "Flag of India"
   },
-  "summary": "<p>India, also known as the Republic of India, is a country in South Asia. It is the seventh largest country by area and with more than 1.3 billion people, it is the second most populous country as well as the most populous democracy in the world.</p>",
+  "summary": "India, also known as the Republic of India, is a country in South Asia. It is the seventh largest country by area and with more than 1.3 billion people, it is the second most populous country as well as the most populous democracy in the world.",
   "translations": [
     {
       "url": "/wiki/hi/भारत",

@@ -1,12 +1,13 @@
 .wcp-article__cover-image-container {
-  height: 50vw;
-  max-height: 32rem;
+  height: 15rem;
   overflow: hidden;
   margin: 0 0px-$gutter-m;
+  border-bottom: $border-divider;
 }
 
 .wcp-article__cover-image {
   width: 100%;
+  object-fit: cover;
 }
 
 .wcp-summary-fact-card {

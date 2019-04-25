@@ -8,7 +8,7 @@
 
 .wcp-fact-card__title {
   font-size: $font-size-xl;
-  line-height: $line-height-h4;
+  line-height: $line-height-l;
   font-weight: bold;
   color: $color-black;
   margin-bottom: $gutter-xl;
@@ -20,7 +20,7 @@
 
 /** For the table fact card **/
 
-.wcp-fact-card__table-content {
+.wcp-fact-card-table-content {
   width: 100%;
 
   th {
@@ -39,14 +39,14 @@
 
 /** For the avatar fact card **/
 
-.wcp-fact-card__avatar-content__item {
+.wcp-fact-card-image-list__item {
   display: flex;
   align-items: center;
   color: $body-color;
   margin-bottom: $gutter-m;
 }
 
-.wcp-fact-card__avatar-content__item__profile-picture {
+.wcp-fact-card-image-list__item__profile-picture {
   height: 2.5rem;
   width: 2.5rem;
   border-radius: 50%;
@@ -54,23 +54,23 @@
   line-height: 0;
 }
 
-.wcp-fact-card__avatar-content__item__info {
+.wcp-fact-card-image-list__item__info {
   flex-grow: 1;
   margin-left: $gutter-l;
   padding-bottom: $gutter-s;
   border-bottom: solid 1px $color-gray-lighter;
 }
 
-.wcp-fact-card__avatar-content__item__info__label {
+.wcp-fact-card-image-list__item__info__label {
   @include fact-card-label();
 }
 
-.wcp-fact-card__avatar-content__item-wrapper:last-child {
-  .wcp-fact-card__avatar-content__item {
+.wcp-fact-card-image-list__item-wrapper:last-child {
+  .wcp-fact-card-image-list__item {
     margin-bottom: 0;
   }
 
-  .wcp-fact-card__avatar-content__item__info {
+  .wcp-fact-card-image-list__item__info {
     border-bottom: none;
     padding-bottom: 0;
   }
@@ -78,7 +78,7 @@
 
 /* For the nested fact card */
 
-.wcp-fact-card__nested-content__item {
+.wcp-fact-card-keyed-image-list__item {
   display: flex;
   margin-bottom: $gutter-xl;
   align-items: center;
@@ -88,30 +88,30 @@
   }
 }
 
-.wcp-fact-card__nested-content__item__label {
+.wcp-fact-card-keyed-image-list__item__label {
   font-size: $font-size-s;
   color: $color-gray-medium;
 }
 
-.wcp-fact-card__nested-content__item__card {
+.wcp-fact-card-keyed-image-list__item__card {
   margin-left: $gutter-xl;
 }
 
-.wcp-fact-card__nested-content__title {
-  font-size: $body-font-size;
+.wcp-fact-card-keyed-image-list__title {
+  font-size: $font-size-m;
   font-weight: normal;
-  line-height: $line-height-h4;
+  line-height: $line-height-l;
 }
 
-.wcp-fact-card__simple-content {
+.wcp-fact-card-text {
   margin-top: 0-$gutter-m;
 }
 
-.wcp-fact-card__simple-content__text {
+.wcp-fact-card-text__text {
   margin-bottom: 0;
 }
 
-.wcp-fact-card__simple-content__icon {
+.wcp-fact-card-text__icon {
   text-align: right;
 }
 
@@ -167,7 +167,7 @@ $timelineDotSize: 0.375rem;
 
 .wcp-fact-card__vertical-timeline-content__item__label {
   font-size: $font-size-l;
-  line-height: $line-height-h5;
+  line-height: $line-height-m;
   color: $color-black-light;
   margin-bottom: 0;
   margin-top: $gutter-xs;
@@ -183,7 +183,7 @@ $timelineDotSize: 0.375rem;
 
 .wcp-fact-card__vertical-timeline-content__item__content {
   color: $color-gray-dark;
-  line-height: $line-height-h5;
+  line-height: $line-height-m;
 }
 
 .wcp-fact-card__vertical-timeline-content__inner-cards-list {
