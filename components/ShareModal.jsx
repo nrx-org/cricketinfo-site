@@ -1,7 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import { LoadingSpinner } from "./LoadingSpinner";
 import { IconButtonWithText } from "./IconButtonWithText";
 import { IconButton } from "./IconButton";
 
@@ -20,18 +19,7 @@ const SHARE_TEXT = {
   }
 };
 
-export const ShareModal = ({
-  isLoading,
-  isUrlCopied,
-  onCloseClick,
-  onCopyClick,
-  shareUrl,
-  lang
-}) => {
-  if (isLoading) {
-    return <LoadingSpinner />;
-  }
-
+export const ShareModal = ({ onCloseClick, onCopyClick, shareUrl, lang }) => {
   return (
     <div className="wcp-share-modal">
       <IconButton
@@ -55,8 +43,6 @@ export const ShareModal = ({
         {SHARE_TEXT.facebook[lang]}
       </IconButtonWithText>
       <IconButtonWithText name="copy" altText="Copy Icon" onClick={onCopyClick}>
-        {/* TODO */}
-        {/* {isUrlCopied && <p>{I18N_URL_COPY_SUCCESS_MESSAGE[lang]}</p>} */}
         {SHARE_TEXT.copy[lang]}
       </IconButtonWithText>
     </div>
@@ -64,8 +50,6 @@ export const ShareModal = ({
 };
 
 ShareModal.propTypes = {
-  isLoading: PropTypes.bool.isRequired,
-  isUrlCopied: PropTypes.bool.isRequired,
   onCloseClick: PropTypes.func.isRequired,
   onCopyClick: PropTypes.func.isRequired,
   shareUrl: PropTypes.string.isRequired,

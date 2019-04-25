@@ -10,3 +10,10 @@ position: absolute;
 top: $gutter-m;
 right: $gutter-m;
 }
+
+// HACK: styles for toast notifications. This might break, since we're overriding
+// styles set by the cogo-toast library. If the selector changes in the
+// library, we might need to fix it here as well.
+.styles_toast__31ary {
+  border-radius: 8px !important;
+}

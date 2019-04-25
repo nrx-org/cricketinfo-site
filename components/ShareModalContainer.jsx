@@ -1,11 +1,17 @@
 import React from "react";
 import PropTypes from "prop-types";
+import * as cogoToast from "cogo-toast";
 
 import { LanguageContext } from "../language_context";
 import { SHARE_MODAL_ID } from "../lib/modal_ids";
 
 import { ShareModal } from "./ShareModal";
 import { BottomSheet } from "./BottomSheet";
+
+const URL_COPY_SUCCESS_TEXT = {
+  en: "Share link copied!",
+  hi: "शेयर लिंक काॅपी कर लिया गया है!"
+};
 
 export class ShareModalContainer extends React.Component {
   static onModalClose() {
@@ -22,11 +28,6 @@ export class ShareModalContainer extends React.Component {
     props.registerModal(SHARE_MODAL_ID, {
       onClose: ShareModalContainer.onModalClose
     });
-
-    this.state = {
-      isLoading: false,
-      isUrlCopied: false
-    };
   }
 
   onCloseClick() {
@@ -35,14 +36,22 @@ export class ShareModalContainer extends React.Component {
   }
 
   onCopyClick() {
+    const { lang, closeModal } = this.props;
+
     this.urlInput.current.select();
     document.execCommand("copy");
-    this.setState({ isUrlCopied: true });
+
+    cogoToast.success(URL_COPY_SUCCESS_TEXT[lang], {
+      bar: {
+        size: "0px"
+      }
+    });
+
+    setTimeout(() => closeModal(SHARE_MODAL_ID), 300);
   }
 
   render() {
     const { isModalOpen, modalData, lang } = this.props;
-    const { isLoading, isUrlCopied } = this.state;
 
     return (
       <BottomSheet
@@ -51,14 +60,13 @@ export class ShareModalContainer extends React.Component {
         onOverlayClick={this.onCloseClick}
       >
         <ShareModal
-          isLoading={isLoading}
-          isUrlCopied={isUrlCopied}
           onCloseClick={this.onCloseClick}
           onCopyClick={this.onCopyClick}
           shareUrl={modalData && (modalData.url || "")}
           lang={lang}
         />
         <input
+          readOnly="readonly"
           className="wcp-share-fact-bottom-sheet__input"
           ref={this.urlInput}
           type="text"
