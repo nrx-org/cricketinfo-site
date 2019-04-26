@@ -27,6 +27,14 @@ main {
   @media screen and (min-width: $breakpoint-s) {
     margin: 0 auto;
   }
+
+  & > section {
+    margin-top: 2.5rem;
+
+    &:first-of-type {
+      margin-top: 0;
+    }
+  }
 }
 
 input[type="text"] {

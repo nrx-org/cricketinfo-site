@@ -103,10 +103,6 @@
   line-height: $line-height-l;
 }
 
-.wcp-fact-card-text {
-  margin-top: 0-$gutter-m;
-}
-
 .wcp-fact-card-text__text {
   margin-bottom: 0;
 }
@@ -118,11 +114,11 @@
 // for the vertical_timeline card
 $timelineDotSize: 0.375rem;
 
-.wcp-fact-card__vertical-timeline-content {
+.wcp-vertical-timeline {
   padding-left: $gutter-l;
 }
 
-.wcp-fact-card__vertical-timeline-content__item {
+.wcp-vertical-timeline-item {
   position: relative;
   &:last-child {
     &:before {
@@ -130,7 +126,7 @@ $timelineDotSize: 0.375rem;
     }
   }
 }
-.wcp-fact-card__vertical-timeline-content__item__line-and-dot {
+.wcp-vertical-timeline-item__line-and-dot {
   position: absolute;
   top: 0.625rem;
   bottom: -1rem;
@@ -139,7 +135,8 @@ $timelineDotSize: 0.375rem;
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  .dot {
+
+  .wcp-vertical-timeline-item__line-and-dot__dot {
     width: $timelineDotSize;
     height: $timelineDotSize;
     border-radius: $timelineDotSize/2;
@@ -149,7 +146,8 @@ $timelineDotSize: 0.375rem;
     right: 0;
     background: $color-blue-dark;
   }
-  .line {
+
+  .wcp-vertical-timeline-item__line-and-dot__line {
     content: "";
     height: calc(100% - 2.15rem);
     margin-top: 0.05rem;
@@ -159,13 +157,18 @@ $timelineDotSize: 0.375rem;
   }
 }
 
-.wcp-fact-card__vertical-timeline-content__item:last-child {
-  .wcp-fact-card__vertical-timeline-content__item__line-and-dot .line {
+.wcp-vertical-timeline-item:last-child {
+  .wcp-vertical-timeline-item__inner-cards-list {
+    padding-bottom: 0;
+    margin-bottom: 0;
+  }
+
+  .wcp-vertical-timeline-item__line-and-dot .line {
     display: none !important;
   }
 }
 
-.wcp-fact-card__vertical-timeline-content__item__label {
+.wcp-vertical-timeline-item__label {
   font-size: $font-size-l;
   line-height: $line-height-m;
   color: $color-black-medium;
@@ -181,12 +184,12 @@ $timelineDotSize: 0.375rem;
   }
 }
 
-.wcp-fact-card__vertical-timeline-content__item__content {
+.wcp-vertical-timeline-item__content {
   color: $color-gray-dark;
   line-height: $line-height-m;
 }
 
-.wcp-fact-card__vertical-timeline-content__inner-cards-list {
+.wcp-vertical-timeline-item__inner-cards-list {
   margin-top: $gutter-s;
   overflow-x: scroll;
   padding: $gutter-xs $gutter-s $gutter-xl $gutter-xs;

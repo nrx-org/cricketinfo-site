@@ -2,7 +2,7 @@ import React from "react";
 import { factPropTypes } from "../lib/prop_types";
 import { TinyCard } from "./TinyCard";
 
-export const VerticalTimelineContentSingle = ({ fact }) => {
+export const VerticalTimelineItem = ({ fact }) => {
   const innerCardsList = fact.value.innerCards.map(g => {
     return (
       <TinyCard
@@ -15,12 +15,13 @@ export const VerticalTimelineContentSingle = ({ fact }) => {
       />
     );
   });
+
   return (
-    <div className="wcp-fact-card__vertical-timeline-content__item">
-      <h2 className="wcp-fact-card__vertical-timeline-content__item__label">
+    <div className="wcp-vertical-timeline-item">
+      <h2 className="wcp-vertical-timeline-item__label">
         {fact.label}
         {fact.labelHelperText ? (
-          <span className="wcp-fact-card__vertical-timeline-content__item__label-helper-text">
+          <span className="wcp-vertical-timeline-item__label-helper-text">
             {" "}
             {"("}
             {fact.labelHelperText}
@@ -30,24 +31,24 @@ export const VerticalTimelineContentSingle = ({ fact }) => {
           ""
         )}
       </h2>
-      <div className="wcp-fact-card__vertical-timeline-content__item__content">
+      <div className="wcp-vertical-timeline-item__content">
         {fact.value.label}
       </div>
-      <div className="wcp-fact-card__vertical-timeline-content__inner-cards-list">
+      <div className="wcp-vertical-timeline-item__inner-cards-list">
         {innerCardsList}
       </div>
-      <div className="wcp-fact-card__vertical-timeline-content__item__line-and-dot">
-        <div className="dot" />
-        <div className="line" />
+      <div className="wcp-vertical-timeline-item__line-and-dot">
+        <div className="wcp-vertical-timeline-item__line-and-dot__dot" />
+        <div className="wcp-vertical-timeline-item__line-and-dot__line" />
       </div>
     </div>
   );
 };
 
-VerticalTimelineContentSingle.propTypes = {
+VerticalTimelineItem.propTypes = {
   fact: factPropTypes
 };
 
-VerticalTimelineContentSingle.defaultProps = {
+VerticalTimelineItem.defaultProps = {
   fact: null
 };

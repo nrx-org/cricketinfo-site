@@ -34,10 +34,10 @@ export class LanguageSelector extends React.Component {
       );
     });
     return (
-      <div className="wcp-language-selector">
+      <section className="wcp-language-selector">
         <h2 className="wcp-language-selector__title">{TITLE_TEXT[lang]}</h2>
         <div className="wcp-language-selector__cards">{cards}</div>
-      </div>
+      </section>
     );
   }
 }

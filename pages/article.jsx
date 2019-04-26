@@ -51,10 +51,12 @@ const Article = ({
           />
         </div>
         <FloatingToolbarContainer articleId={articleId} />
-        <h1 className="wcp-article__title">{title}</h1>
+        <section>
+          <h1 className="wcp-article__title">{title}</h1>
 
-        {/* eslint-disable-next-line react/no-danger */}
-        <p dangerouslySetInnerHTML={{ __html: summary }} />
+          {/* eslint-disable-next-line react/no-danger */}
+          <p dangerouslySetInnerHTML={{ __html: summary }} />
+        </section>
 
         <LanguageSelector translations={translations} coverImage={coverImage} />
         {summaryFactCards.map(factCard => (

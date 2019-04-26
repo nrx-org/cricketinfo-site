@@ -12,7 +12,7 @@ import {
   SHARE_FACT_CARD_BOTTOM_SHEET_ID
 } from "../lib/modal_ids";
 import { getImageShareUrl } from "../lib/urls";
-import { VerticalTimelineContent } from "./VerticalTimelineContent";
+import { VerticalTimeline } from "./VerticalTimeline";
 import { SectionTitle } from "./SectionTitle";
 
 const FactCardTable = ({ cardData }) => {
@@ -182,7 +182,7 @@ export const FactCard = ({ cardData }) => {
   } else if (cardData.cardType === "simple") {
     content = <FactCardTextContainer cardData={cardData} />;
   } else if (cardData.cardType === "vertical_timeline") {
-    content = <VerticalTimelineContent cardData={cardData} />;
+    content = <VerticalTimeline cardData={cardData} />;
   }
 
   return content;
