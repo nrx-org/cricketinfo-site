@@ -14,6 +14,7 @@ export const BaseLayout = ({ children }) => (
   <main>
     <Head>
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+      <link href="https://fonts.googleapis.com" rel="preconnect" crossOrigin />
     </Head>
     <FontLoader />
     <LanguageSetter />
