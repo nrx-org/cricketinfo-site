@@ -163,7 +163,8 @@ $timelineDotSize: 0.375rem;
     margin-bottom: 0;
   }
 
-  .wcp-vertical-timeline-item__line-and-dot .line {
+  .wcp-vertical-timeline-item__line-and-dot
+    .wcp-vertical-timeline-item__line-and-dot__line {
     display: none !important;
   }
 }
