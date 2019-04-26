@@ -27,15 +27,17 @@
 }
 
 .wcp-fact-card__story-content__info__title {
+  font-family: $font-family-title;
   color: $color-white;
   font-size: $font-size-m;
-  line-height: $line-height-h5;
+  line-height: $line-height-m;
 }
 
 .wcp-fact-card__story-content__info__caption {
+  font-family: $font-family-body;
   color: $color-white;
   font-size: $font-size-s;
-  line-height: $line-height-h5;
+  line-height: $line-height-s;
 }
 
 .wcp-fact-card__story-content__info__icons {

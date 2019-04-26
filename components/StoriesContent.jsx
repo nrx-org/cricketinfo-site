@@ -2,6 +2,8 @@ import React, { Component } from "react";
 import Container from "./Stories/Container";
 import PropTypes from "prop-types";
 import { factCardDataPropTypes } from "../lib/prop_types";
+import { SectionTitle } from "./SectionTitle";
+
 
 export class StoriesContainer extends Component {
   constructor(props) {
@@ -56,7 +58,8 @@ export class StoriesContainer extends Component {
 
   render() {
     return (
-      <div>
+      <section className="wcp-fact-card__story-content">
+      <SectionTitle>{this.props.cardData.title}</SectionTitle>
         <Container
           ref={c => (this.c = c)}
           stories={this.props.cardData.stories}
@@ -66,7 +69,7 @@ export class StoriesContainer extends Component {
           loader={this.props.loader}
           header={this.props.header}
         />
-      </div>
+      </section>
     );
   }
 }
