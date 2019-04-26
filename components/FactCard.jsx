@@ -6,10 +6,7 @@ import { IconButton } from "./IconButton";
 import { ModalContextConsumer } from "./ModalContext";
 
 import { factCardDataPropTypes } from "../lib/prop_types";
-import {
-  ARTICLE_SUMMARY_MODAL_ID,
-  SHARE_FACT_CARD_BOTTOM_SHEET_ID
-} from "../lib/modal_ids";
+import { ARTICLE_SUMMARY_MODAL_ID, SHARE_MODAL_ID } from "../lib/modal_ids";
 import { getImageShareUrl } from "../lib/urls";
 import { VerticalTimeline } from "./VerticalTimeline";
 import { SectionTitle } from "./SectionTitle";
@@ -97,19 +94,12 @@ FactCardImageList.propTypes = {
 const FactCardTextContainer = props => {
   return (
     <ModalContextConsumer>
-      {({ openModal }) => (
-        <FactCardText
-          {...props}
-          openShareSheet={shareUrl =>
-            openModal(SHARE_FACT_CARD_BOTTOM_SHEET_ID, { shareUrl })
-          }
-        />
-      )}
+      {({ openModal }) => <FactCardText {...props} openModal={openModal} />}
     </ModalContextConsumer>
   );
 };
 
-const FactCardText = ({ cardData, openShareSheet }) => {
+const FactCardText = ({ cardData, openModal }) => {
   const share = () => {
     const shareUrl = getImageShareUrl(window.location.href, `#${cardData.id}`);
     if (navigator.share) {
@@ -118,7 +108,10 @@ const FactCardText = ({ cardData, openShareSheet }) => {
         url: shareUrl
       });
     } else {
-      openShareSheet(shareUrl);
+      openModal(SHARE_MODAL_ID, {
+        text: cardData.url,
+        url: shareUrl
+      });
     }
   };
 
@@ -137,7 +130,7 @@ const FactCardText = ({ cardData, openShareSheet }) => {
 
 FactCardText.propTypes = {
   cardData: factCardDataPropTypes.isRequired,
-  openShareSheet: PropTypes.func.isRequired
+  openModal: PropTypes.func.isRequired
 };
 
 export const FactCard = ({ cardData }) => {

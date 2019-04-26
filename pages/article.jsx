@@ -15,7 +15,6 @@ import {
   ModalContextConsumer
 } from "../components/ModalContext";
 import { ArticleSummaryModalContainer } from "../components/ArticleSummaryModalContainer";
-import { ShareFactBottomSheetContainer } from "../components/ShareFactBottomSheetContainer";
 import { FloatingToolbarContainer } from "../components/FloatingToolbarContainer";
 
 import { makeTitle } from "../lib/make_title";
@@ -79,7 +78,6 @@ const Article = ({
           />
         )}
       </ModalContextConsumer>
-      <ShareFactBottomSheetContainer />
     </ModalContextProvider>
   </LanguageContext.Provider>
 );
