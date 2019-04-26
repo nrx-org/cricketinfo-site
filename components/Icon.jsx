@@ -18,5 +18,5 @@ Icon.propTypes = {
   name: PropTypes.string.isRequired,
   className: PropTypes.string,
   altText: PropTypes.string.isRequired,
-  size: PropTypes.oneOf(["m", "l"])
+  size: PropTypes.oneOf(["xs", "m", "l"])
 };

@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Card } from "./Card";
 import { imagePropTypes } from "../lib/prop_types";
+import { Icon } from "./Icon";
 
 export const LanguageCard = ({
   url,
@@ -19,7 +20,15 @@ export const LanguageCard = ({
       >
         <span>{title}</span>
         {/* eslint-disable react/jsx-one-expression-per-line */}
-        <span className="wcp-language-card__link-text">{linkText} →</span>
+        <span className="wcp-language-card__link-text">
+          {linkText}{" "}
+          <Icon
+            className="wcp-language-card__link-text__icon"
+            altText="Go to language"
+            name="arrow_right"
+            size="xs"
+          />
+        </span>
       </Card>
     </a>
   );
