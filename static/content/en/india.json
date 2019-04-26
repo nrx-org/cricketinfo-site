@@ -347,14 +347,99 @@
       "title": "Religions",
       "cardType": "bar_chart",
       "facts": [
-        { "id": 0, "label": "Hinduism", "value": { "count": 7980, "percentage": 79.8 } },
-        { "id": 1, "label": "Jainism", "value": { "count": 1420, "percentage": 14.2 } },
-        { "id": 2, "label": "Islam", "value": { "count": 230, "percentage": 2.3 } },
-        { "id": 3, "label": "Christianity", "value": { "count": 172, "percentage": 1.72 } },
-        { "id": 4, "label": "Sikhism", "value": { "count": 72, "percentage": 0.72 } },
-        { "id": 5, "label": "Buddhism", "value": { "count": 3600, "percentage": 0.36 } },
-        { "id": 6, "label": "Buddhism", "value": { "count": 4500, "percentage": 0.36 } },
-        { "id": 7, "label": "Buddhism", "value": { "count": 4500, "percentage": 0.36 } }
+        {
+          "id": 0,
+          "label": "Hinduism",
+          "value": { "count": 7980, "percentage": 79.8 }
+        },
+        {
+          "id": 1,
+          "label": "Jainism",
+          "value": { "count": 1420, "percentage": 14.2 }
+        },
+        {
+          "id": 2,
+          "label": "Islam",
+          "value": { "count": 230, "percentage": 2.3 }
+        },
+        {
+          "id": 3,
+          "label": "Christianity",
+          "value": { "count": 172, "percentage": 1.72 }
+        },
+        {
+          "id": 4,
+          "label": "Sikhism",
+          "value": { "count": 72, "percentage": 0.72 }
+        },
+        {
+          "id": 5,
+          "label": "Buddhism",
+          "value": { "count": 3600, "percentage": 0.36 }
+        },
+        {
+          "id": 6,
+          "label": "Buddhism",
+          "value": { "count": 4500, "percentage": 0.36 }
+        },
+        {
+          "id": 7,
+          "label": "Buddhism",
+          "value": { "count": 4500, "percentage": 0.36 }
+        }
+      ]
+    },
+    {
+      "title": "Statistics",
+      "cardType": "stories",
+      "stories": [
+        {
+          "url": "https://placekitten.com/500/500",
+          "seeMore": "<SeeMore />",
+          "info": {
+            "heading": "Most runs",
+            "subheading": "Sachin Tendulkar is the leading run scorer in World Cup history with total of 2,278."
+          }
+        },
+        {
+          "url": "https://placekitten.com/600/600",
+          "info": {
+            "heading": "Most wickets",
+            "subheading": "Shane Warne is the leading wicket taker in World Cup history with total of 500."
+          }
+        },
+        {
+          "url": "https://placekitten.com/400/400",
+          "info": {
+            "heading": "Most catches",
+            "subheading": "Mark Waugh is the leading catcher in World Cup history with total of 200."
+          }
+        }
+      ],
+      "facts": [
+        { "label": "Independence day", "value": { "label": "15 August 1947" } },
+        { "label": "Republic day", "value": { "label": "26 January 1950" } },
+        {
+          "label": "Capital city",
+          "value": {
+            "label": "New Delhi",
+            "url": ""
+          }
+        },
+        {
+          "label": "Largest city",
+          "value": {
+            "label": "Mumbai",
+            "url": ""
+          }
+        },
+        {
+          "label": "Currency",
+          "value": {
+            "label": "Indian Rupee (₹)",
+            "url": ""
+          }
+        }
       ]
     },
     {
