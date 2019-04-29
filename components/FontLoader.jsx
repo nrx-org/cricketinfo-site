@@ -44,8 +44,8 @@ const isFontLoaded = font => {
 const loadFont = (fontType, font) => {
   const linkEl = document.createElement("link");
   linkEl.id = makeDefId(font);
-  linkEl.rel = "preload";
-  linkEl.as = "style";
+  linkEl.rel = "stylesheet";
+  linkEl.type = "text/css";
   linkEl.href = font.url;
   document.head.appendChild(linkEl);
 

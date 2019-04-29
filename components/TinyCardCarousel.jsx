@@ -8,12 +8,12 @@ export const TinyCardCarousel = ({ cards }) => (
     {cards.map(card => (
       <TinyCard
         key={`${card.label}-${card.id}`}
-        shadowSize="s"
         coverImage={card.value.image}
-        imagePosition="left"
         title={card.label}
-        content={card.value.label}
-      />
+        href={card.url || null}
+      >
+        {card.value.label}
+      </TinyCard>
     ))}
   </div>
 );

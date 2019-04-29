@@ -3,63 +3,38 @@ import PropTypes from "prop-types";
 
 import { imagePropTypes } from "../lib/prop_types";
 
-import { Card } from "./Card";
+export const TinyCard = ({ children, coverImage, title, href }) => {
+  const activeClassName = href
+    ? "wcp-tiny-card--active"
+    : "wcp-tiny-card--passive";
 
-export const TinyCard = ({
-  id,
-  children,
-  coverImage,
-  coverImageClassName,
-  title,
-  titleClassName,
-  shadowSize,
-  className,
-  contentClassName,
-  imagePosition,
-  content
-}) => {
-  return (
-    <Card
-      shadowSize={shadowSize}
-      coverImage={coverImage}
-      imagePosition={imagePosition}
-      title={title}
-      titleClassName={`wcp-tiny-card__title ${titleClassName}`}
-      className={`wcp-tiny-card ${className}`}
-      coverImageClassName={`wcp-tiny-card__cover-image ${coverImageClassName}`}
-      contentClassName={`wcp-tiny-card__content ${contentClassName}`}
-      id={id}
-    >
-      <div className="wcp-tiny-card__description">{content}</div>
-      {children}
-    </Card>
+  const contentEl = (
+    <div className={`wcp-tiny-card ${activeClassName}`}>
+      <img
+        className="wcp-tiny-card__cover-image"
+        src={coverImage.url}
+        alt={coverImage.altText}
+      />
+      <section className="wcp-tiny-card__content">
+        {title && <h1 className="wcp-tiny-card__title">{title}</h1>}
+        <div className="wcp-tiny-card__text">{children}</div>
+      </section>
+    </div>
   );
+
+  return href ? <a href={href}>{contentEl}</a> : contentEl;
 };
 
 TinyCard.defaultProps = {
-  id: null,
   children: null,
   coverImage: null,
-  coverImageClassName: "",
   title: null,
-  titleClassName: "",
-  shadowSize: "l",
-  className: "",
-  contentClassName: "",
-  imagePosition: "top",
-  content: ""
+  href: null
 };
 
 TinyCard.propTypes = {
-  id: PropTypes.string,
   children: PropTypes.node,
   coverImage: imagePropTypes,
-  coverImageClassName: PropTypes.string,
   title: PropTypes.string,
-  titleClassName: PropTypes.string,
-  shadowSize: PropTypes.string,
-  className: PropTypes.string,
-  contentClassName: PropTypes.string,
-  imagePosition: PropTypes.oneOf(["left", "top"]),
-  content: PropTypes.string
+  href: PropTypes.string
 };

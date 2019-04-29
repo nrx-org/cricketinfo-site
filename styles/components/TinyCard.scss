@@ -1,3 +1,5 @@
+$border-radius-cover-image: 8px;
+
 .wcp-tiny-card {
   width: auto;
   min-width: 18.75rem;
@@ -5,22 +7,55 @@
   display: flex;
   flex-direction: row;
   align-items: flex-start;
+  border-radius: $border-radius-cover-image;
+  overflow: hidden;
+  padding: $gutter-s;
+}
+
+.wcp-tiny-card--active {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08), 0 1px 4px rgba(0, 0, 0, 0.04),
+  0 0 4px rgba(0, 0, 0, 0.04);
+
+  .wcp-tiny-card__title {
+    color: $color-blue-dark;
+  }
+}
+
+.wcp-tiny-card--passive + .wcp-tiny-card--passive {
+  padding-left: 0;
+
+  &::before {
+    content: "";
+    border-left: $border-divider-gray;
+    height: 100%;
+    margin-right: $gutter-m;
+  }
 }
 
 .wcp-tiny-card__cover-image {
-  display: inline-block;
+  border-radius: $border-radius-cover-image;
   max-height: 4rem;
+  display: inline-block;
+  height: 100%;
+}
+
+.wcp-tiny-card__content {
+  margin-left: 8px;
+  display: inline-block;
+  padding-top: 0;
+  position: relative;
 }
 
 .wcp-tiny-card__title {
   font-size: $font-size-m;
   color: $color-black-light;
-  margin-bottom: $gutter-m;
-  line-height: $line-height-l;
+  line-height: $line-height-m;
   white-space: nowrap;
+  margin-top: 0;
+  margin-bottom: $gutter-xs;
 }
 
-.wcp-tiny-card__description {
+.wcp-tiny-card__text {
   font-size: $font-size-xxs;
   color: $color-gray-faded;
   line-height: $line-height-s;
@@ -29,9 +64,11 @@
   word-wrap: break-word;
   overflow: hidden;
   max-height: 2 * $line-height-s;
-}
 
-.wcp-tiny-card__content {
-  display: inline-block;
-  padding-top: 0;
+  // To truncate text with ellipses in WebKit browsers. In non-WebKit
+  // browsers, text is simply truncated. This is why we can't have nice
+  // things.
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
 }
