@@ -11,7 +11,6 @@ export default class Container extends React.Component {
       pause: true,
       count: 0,
       mousedownId: null
-      // storiesDone: 0 // TODO
     };
     this.defaultInterval = 4000;
     this.width = "100%";
@@ -87,8 +86,9 @@ export default class Container extends React.Component {
         <ProgressBar
           next={this.next}
           pause={pause}
-          bufferAction={bufferAction}
-          length={stories.map((s, i) => i)}
+          progressMap={stories.map((s, i) => {
+            return { url: s.url, id: i };
+          })}
           defaultInterval={this.defaultInterval}
           currentStory={stories[currentId]}
           progress={{
