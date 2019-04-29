@@ -1,129 +1,154 @@
-import React from 'react'
-import Story from './Story'
-import ProgressBar from './ProgressBar'
-import PropTypes from 'prop-types'
+import React from "react";
+import PropTypes from "prop-types";
+import Story from "./Story";
+import { ProgressBar } from "./ProgressBar";
 
 export default class Container extends React.Component {
   constructor(props) {
-    super(props)
+    super(props);
     this.state = {
       currentId: 0,
       pause: true,
       count: 0,
-      storiesDone: 0
-    }
-    this.defaultInterval = 4000
-    this.width = "100%"
-    this.height = props.height || 500
-    this.containerRef = React.createRef()
+      mousedownId: null
+      // storiesDone: 0 // TODO
+    };
+    this.defaultInterval = 4000;
+    this.width = "100%";
+    this.height = props.height || 500;
+    this.containerRef = React.createRef();
+    this.debouncePause = this.debouncePause.bind(this);
+    this.pause = this.pause.bind(this);
+    this.previous = this.previous.bind(this);
+    this.next = this.next.bind(this);
+    this.mouseUp = this.mouseUp.bind(this);
   }
 
   componentDidMount() {
-    this.props.defaultInterval && (this.defaultInterval = this.props.defaultInterval)
+    const { defaultInterval } = this.props;
+    if (defaultInterval) this.defaultInterval = defaultInterval;
   }
 
-  pause = (action, bufferAction) => {
-    this.setState({ pause: action === 'pause', bufferAction })
+  pause(action, bufferAction) {
+    this.setState({ pause: action === "pause", bufferAction });
   }
 
-  previous = () => {
-    if (this.state.currentId > 0) {
+  previous() {
+    const { currentId } = this.state;
+    if (currentId > 0) {
       this.setState({
-        currentId: this.state.currentId - 1,
+        currentId: currentId - 1,
         count: 0
-      })
+      });
     }
   }
 
-  next = () => {
-    if (this.state.currentId < this.props.stories.length - 1) {
+  next() {
+    const { stories } = this.props;
+    const { currentId } = this.state;
+    if (currentId < stories.length - 1) {
       this.setState({
-        currentId: this.state.currentId + 1,
+        currentId: currentId + 1,
         count: 0
-      })
+      });
     }
   }
 
-  debouncePause = (e) => {
-    e.preventDefault()
-    this.mousedownId = setTimeout(() => {
-      this.pause('pause')
-    }, 200)
+  debouncePause(e) {
+    e.preventDefault();
+    this.setState({
+      mousedownId: setTimeout(() => {
+        this.pause("pause");
+      }, 200)
+    });
   }
 
-  mouseUp = (e, type) => {
-    e.preventDefault()
-    this.mousedownId && clearTimeout(this.mousedownId)
-    if (this.state.pause) {
-      this.pause('play')
+  mouseUp(e, type) {
+    const { pause, mousedownId } = this.state;
+    e.preventDefault();
+    if (mousedownId) clearTimeout(mousedownId);
+    if (pause) {
+      this.pause("play");
+    } else if (type === "next") {
+      this.next();
     } else {
-      type === 'next' ? this.next() : this.previous()
+      this.previous();
     }
-  }
-
-  toggleMore = show => {
-    if(this.story) {
-      this.story.toggleMore(show)
-      return true
-    } else return false
   }
 
   render() {
+    const { stories, loader } = this.props;
+    const { pause, bufferAction, currentId, count } = this.state;
     return (
-      <div ref={this.containerRef} style={{...styles.container, ...{width: "100%", height: 500}}}>
+      <div
+        ref={this.containerRef}
+        className="wcp-fact-card__story-content__container"
+      >
         <ProgressBar
           next={this.next}
-          pause={this.state.pause}
-          bufferAction={this.state.bufferAction}
-          length={this.props.stories.map((s, i) => i)}
+          pause={pause}
+          bufferAction={bufferAction}
+          length={stories.map((s, i) => i)}
           defaultInterval={this.defaultInterval}
-          currentStory={this.props.stories[this.state.currentId]}
-          progress={{id: this.state.currentId, completed: this.state.count / ((this.props.stories[this.state.currentId] && this.props.stories[this.state.currentId].duration) || this.defaultInterval)}}
+          currentStory={stories[currentId]}
+          progress={{
+            id: currentId,
+            completed:
+              count /
+              ((stories[currentId] && stories[currentId].duration) ||
+                this.defaultInterval)
+          }}
         />
         <Story
-          ref={s => this.story = s}
           action={this.pause}
-          bufferAction={this.state.bufferAction}
+          bufferAction={bufferAction}
           height={this.height}
-          playState={this.state.pause}
+          playState={pause}
           width={this.width}
-          story={this.props.stories[this.state.currentId]}
-          loader={this.props.loader}
-          header={this.props.header}
+          story={stories[currentId]}
+          loader={loader}
         />
-        <div style={styles.overlay}>
-          <div style={{width: "50%", zIndex: 999}} onTouchStart={this.debouncePause} onTouchEnd={e => this.mouseUp(e, 'previous')} onMouseDown={this.debouncePause} onMouseUp={(e) => this.mouseUp(e, 'previous')} />
-          <div style={{width: "50%", zIndex: 999}} onTouchStart={this.debouncePause} onTouchEnd={e => this.mouseUp(e, 'next')} onMouseDown={this.debouncePause} onMouseUp={(e) => this.mouseUp(e, 'next')} />
+        <div className="wcp-fact-card__story-content__container-overlay">
+          <div
+            className="wcp-fact-card__story-content__container-overlay__left-half"
+            onTouchStart={this.debouncePause}
+            onTouchEnd={e => this.mouseUp(e, "previous")}
+            onMouseDown={this.debouncePause}
+            onMouseUp={e => this.mouseUp(e, "previous")}
+            role="presentation"
+          />
+          <div
+            className="wcp-fact-card__story-content__container-overlay__right-half"
+            onTouchStart={this.debouncePause}
+            onTouchEnd={e => this.mouseUp(e, "next")}
+            onMouseDown={this.debouncePause}
+            onMouseUp={e => this.mouseUp(e, "next")}
+            role="presentation"
+          />
         </div>
       </div>
-    )
-  }
-}
-
-const styles = {
-  container: {
-    display: 'flex',
-    flexDirection: 'column',
-    background: '#111',
-    position: 'relative'
-  },
-  overlay: {
-    position: 'absolute',
-    height: 'inherit',
-    width: 'inherit',
-    display: 'flex'
-  },
-  left: {
-  },
-  right: {
+    );
   }
 }
 
 Container.propTypes = {
-  stories: PropTypes.array,
+  stories: PropTypes.arrayOf(
+    PropTypes.shape({
+      url: PropTypes.string,
+      info: PropTypes.shape({
+        heading: PropTypes.string,
+        subheading: PropTypes.string
+      })
+    })
+  ),
   defaultInterval: PropTypes.number,
-  width: PropTypes.string,
   height: PropTypes.number,
-  loader: PropTypes.element,
-  header: PropTypes.element,
-}
+  loader: PropTypes.element
+};
+
+Container.defaultProps = {
+  stories: [],
+  defaultInterval: 0,
+  height: null,
+  loader: null
+};

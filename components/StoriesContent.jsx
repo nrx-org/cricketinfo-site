@@ -1,9 +1,8 @@
 import React, { Component } from "react";
-import Container from "./Stories/Container";
 import PropTypes from "prop-types";
 import { factCardDataPropTypes } from "../lib/prop_types";
+import Container from "./Stories/Container";
 import { SectionTitle } from "./SectionTitle";
-
 
 export class StoriesContainer extends Component {
   constructor(props) {
@@ -13,61 +12,48 @@ export class StoriesContainer extends Component {
     this.previous = this.previous.bind(this);
     this.next = this.next.bind(this);
   }
-  componentDidMount() {
-    this.props.cardData.facts.map(s => {
-      let i = new Image();
-      if (!(typeof s === "object")) {
-        i.src = typeof s === "object" ? s.url : s;
-      }
-    });
-  }
 
   pause() {
     if (this.c) {
       this.c.pause("pause");
       return true;
-    } else return false;
+    }
+    return false;
   }
 
   play() {
     if (this.c) {
       this.c.pause("play");
       return true;
-    } else return false;
+    }
+    return false;
   }
 
   previous() {
     if (this.c) {
       this.c.previous();
       return true;
-    } else return false;
+    }
+    return false;
   }
 
   next() {
     if (this.c) {
       this.c.next();
       return true;
-    } else return false;
-  }
-
-  toggleSeeMore(show) {
-    if (this.c) {
-      return this.c.toggleMore(show);
-    } else return false;
+    }
+    return false;
   }
 
   render() {
+    const { cardData, loader, defaultInterval } = this.props;
     return (
       <section className="wcp-fact-card__story-content">
-      <SectionTitle>{this.props.cardData.title}</SectionTitle>
+        <SectionTitle>{cardData.title}</SectionTitle>
         <Container
-          ref={c => (this.c = c)}
-          stories={this.props.cardData.stories}
-          defaultInterval={this.props.defaultInterval}
-          width={this.props.width || "100%"}
-          height={this.props.height}
-          loader={this.props.loader}
-          header={this.props.header}
+          stories={cardData.stories}
+          defaultInterval={defaultInterval}
+          loader={loader}
         />
       </section>
     );
@@ -77,8 +63,10 @@ export class StoriesContainer extends Component {
 StoriesContainer.propTypes = {
   cardData: factCardDataPropTypes.isRequired,
   defaultInterval: PropTypes.number,
-  width: PropTypes.string,
-  height: PropTypes.number,
-  loader: PropTypes.element,
-  header: PropTypes.element
+  loader: PropTypes.element
+};
+
+StoriesContainer.defaultProps = {
+  defaultInterval: null,
+  loader: null
 };

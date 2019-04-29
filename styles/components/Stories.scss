@@ -1,4 +1,26 @@
-.wcp-fact-card__story-content__main-container {
+.wcp-fact-card__story-content__container {
+  display: flex;
+  flex-direction: column;
+  background: #111;
+  position: relative;
+  width: 100%;
+  height: 25rem;
+}
+
+.wcp-fact-card__story-content__container-overlay {
+  position: absolute;
+  height: inherit;
+  width: inherit;
+  display: flex;
+}
+
+.wcp-fact-card__story-content__container-overlay__left-half,
+.wcp-fact-card__story-content__container-overlay__right-half {
+  width: 50%;
+  z-index: 999;
+}
+
+.wcp-fact-card__story-content__story-container {
   display: flex;
   position: relative;
   overflow: hidden;

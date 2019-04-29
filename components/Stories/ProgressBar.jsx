@@ -1,40 +1,47 @@
 import React from "react";
-import ProgressBarSingle from "./ProgressBarSingle";
 import PropTypes from "prop-types";
+import ProgressBarSingle from "./ProgressBarSingle";
 
-export default class ProgressArray extends React.Component {
-  render() {
-    return (
-      <div className="wcp-fact-card__story-content__progress-bar">
-        {this.props.length.map((i, index) => (
+export const ProgressBar = props => {
+  const { length, next, defaultInterval, progress, pause } = props;
+  return (
+    <div className="wcp-fact-card__story-content__progress-bar">
+      {length.map(i => {
+        let isActive = 0;
+        if (i === progress.id) {
+          isActive = 1;
+        } else if (i < progress.id) {
+          isActive = 2;
+        }
+        return (
           <ProgressBarSingle
-            key={index}
-            width={1 / this.props.length.length}
-            next={this.props.next}
-            defaultInterval={this.props.defaultInterval}
-            currentStory={this.props.currentStory}
-            active={
-              i === this.props.progress.id
-                ? 1
-                : i < this.props.progress.id
-                ? 2
-                : 0
-            }
-            pause={this.props.pause}
-            bufferAction={this.props.bufferAction}
+            key={`${React.createRef()}`}
+            width={1 / length.length}
+            next={next}
+            defaultInterval={defaultInterval}
+            active={isActive}
+            pause={pause}
           />
-        ))}
-      </div>
-    );
-  }
-}
+        );
+      })}
+    </div>
+  );
+};
 
-ProgressArray.propTypes = {
-  length: PropTypes.array,
-  progress: PropTypes.object,
+ProgressBar.propTypes = {
+  length: PropTypes.arrayOf(PropTypes.number),
+  progress: PropTypes.shape({
+    id: PropTypes.number
+  }),
   pause: PropTypes.bool,
   next: PropTypes.func,
-  currentStory: PropTypes.oneOfType([PropTypes.string, PropTypes.object]),
-  defaultInterval: PropTypes.number,
-  bufferAction: PropTypes.bool
+  defaultInterval: PropTypes.number
+};
+
+ProgressBar.defaultProps = {
+  length: [],
+  progress: null,
+  pause: false,
+  next: null,
+  defaultInterval: 0
 };

@@ -1,12 +1,13 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-export default class Progress extends React.PureComponent {
+export default class ProgressBarSingle extends React.PureComponent {
   constructor(props) {
     super(props);
     this.state = {
-      duration: this.props.defaultInterval
+      duration: props.defaultInterval
     };
+    this.next = this.next.bind(this);
   }
 
   componentDidMount() {
@@ -17,26 +18,27 @@ export default class Progress extends React.PureComponent {
     }
   }
 
-  static getDerivedStateFromProps(props, state) {
-    let current = props.currentStory;
-    if (current.duration) return { duration: current.duration };
+  static getDerivedStateFromProps(props) {
     return { duration: props.defaultInterval };
   }
 
-  next = () => {
-    this.props.next();
-  };
+  next() {
+    const { next } = this.props;
+    next();
+  }
 
   render() {
+    const { active, pause, width } = this.props;
+    const { duration } = this.state;
     let innerStyle;
-    switch (this.props.active) {
+    switch (active) {
       case 2:
         innerStyle = { width: "100%" };
         break;
       case 1:
         innerStyle = {
-          animation: `${this.state.duration}ms linear 0ms slidein`,
-          animationPlayState: this.props.pause ? "paused" : "running"
+          animation: `${duration}ms linear 0ms slidein`,
+          animationPlayState: pause ? "paused" : "running"
         };
         break;
       case 0:
@@ -50,8 +52,8 @@ export default class Progress extends React.PureComponent {
       <div
         className="wcp-fact-card__story-content__progress-bar__single"
         style={{
-            width: `${this.props.width * 100}%`,
-            opacity: this.props.pause && !this.props.bufferAction ? 0 : 1
+          width: `${width * 100}%`,
+          opacity: pause ? 0 : 1
         }}
       >
         <div
@@ -66,12 +68,18 @@ export default class Progress extends React.PureComponent {
   }
 }
 
-Progress.propTypes = {
+ProgressBarSingle.propTypes = {
   width: PropTypes.number,
   defaultInterval: PropTypes.number,
   pause: PropTypes.bool,
   next: PropTypes.func,
-  active: PropTypes.number,
-  currentStory: PropTypes.oneOfType([PropTypes.string, PropTypes.object]),
-  bufferAction: PropTypes.bool
+  active: PropTypes.number
+};
+
+ProgressBarSingle.defaultProps = {
+  width: 0,
+  defaultInterval: 0,
+  pause: false,
+  next: null,
+  active: null
 };

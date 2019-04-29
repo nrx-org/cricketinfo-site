@@ -2,18 +2,13 @@ import { PureComponent } from "react";
 import PropTypes from "prop-types";
 
 export default class BackgroundImageOnLoad extends PureComponent {
-  static propTypes = {
-    src: PropTypes.string.isRequired,
-    onLoadBg: PropTypes.func.isRequired,
-    onError: PropTypes.func
-  };
-
   componentDidMount() {
     this.handleLoadImage();
   }
 
   componentDidUpdate(prevProps) {
-    if (prevProps.src !== this.props.src) {
+    const { src } = this.props;
+    if (prevProps.src !== src) {
       this.handleLoadImage();
     }
   }
@@ -22,7 +17,7 @@ export default class BackgroundImageOnLoad extends PureComponent {
     this.unMount = true;
   }
 
-  handleLoadImage = () => {
+  handleLoadImage() {
     const { onLoadBg, onError, src } = this.props;
     const image = new Image();
     image.src = src;
@@ -36,9 +31,19 @@ export default class BackgroundImageOnLoad extends PureComponent {
         onError(e);
       }
     };
-  };
+  }
 
   render() {
     return null;
   }
 }
+
+BackgroundImageOnLoad.propTypes = {
+  src: PropTypes.string.isRequired,
+  onLoadBg: PropTypes.func.isRequired,
+  onError: PropTypes.func
+};
+
+BackgroundImageOnLoad.defaultProps = {
+  onError: null
+};

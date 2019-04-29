@@ -1,5 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
+import { storyPropTypes } from "../../lib/prop_types";
 import BackgroundImage from "../BackgroundImage";
 import { Icon } from "../Icon";
 
@@ -7,65 +8,75 @@ export default class Story extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      loaded: false
+      loaded: false,
+      pauseId: null
     };
+    this.imageLoaded = this.imageLoaded.bind(this);
   }
+
   componentDidUpdate(prevProps) {
-    if (this.props.story !== prevProps.story) {
-      this.pauseId && clearTimeout(this.pauseId);
-      this.pauseId = setTimeout(() => {
+    const { story, action } = this.props;
+    let { pauseId } = this.state;
+    if (story !== prevProps.story) {
+      if (pauseId) clearTimeout(pauseId);
+      pauseId = setTimeout(() => {
         this.setState({ loaded: false });
       }, 100);
-      this.props.action("pause", true);
+      action("pause", true);
     }
   }
-  toggleMore = show => {
-    this.setState({ showMore: show });
-  };
-  imageLoaded = () => {
+
+  imageLoaded() {
+    const { pauseId } = this.state;
+    const { action } = this.props;
     try {
-      if (this.pauseId) clearTimeout(this.pauseId);
+      if (pauseId) clearTimeout(pauseId);
       this.setState({ loaded: true });
-      this.props.action("play", true);
+      action("play", true);
     } catch (e) {
       console.log(e);
     }
-  };
+  }
+
   render() {
-    let isInfo = this.props.story.info;
-    let imageUrl = this.props.story.url;
+    const { story, loader } = this.props;
+    const { loaded } = this.state;
     return (
-      <div className="wcp-fact-card__story-content__main-container">
+      <div className="wcp-fact-card__story-content__story-container">
         <div
           className="wcp-fact-card__story-content__image-container"
-          style={{ backgroundImage: `url(${imageUrl})` }}
+          style={{ backgroundImage: `url(${story.url})` }}
         >
           <BackgroundImage
-            src={imageUrl}
+            src={story.url}
             onLoadBg={this.imageLoaded}
             onError={err => console.log("error", err)}
           />
         </div>
-        {isInfo && (
+        {story.info ? (
           <div className="wcp-fact-card__story-content__info">
             <p className="wcp-fact-card__story-content__info__title">
-              {this.props.story.info.heading}
+              {story.info.heading}
             </p>
             <p className="wcp-fact-card__story-content__info__caption">
-              {this.props.story.info.subheading}
+              {story.info.subheading}
             </p>
             <div className="wcp-fact-card__story-content__info__icons">
               <Icon name="share-white" altText="Share Icon" size="m" />
               <Icon name="love-white" altText="Bookmark Icon" size="m" />
             </div>
           </div>
+        ) : (
+          ""
         )}
-        {!this.state.loaded && (
+        {!loaded ? (
           <div className="wcp-fact-card__story-content__overlay">
-            {this.props.loader || (
+            {loader || (
               <div className="wcp-fact-card__story-content__spinner" />
             )}
           </div>
+        ) : (
+          ""
         )}
       </div>
     );
@@ -73,12 +84,12 @@ export default class Story extends React.Component {
 }
 
 Story.propTypes = {
-  story: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  height: PropTypes.number,
-  width: PropTypes.string,
+  story: storyPropTypes.isRequired,
   action: PropTypes.func,
-  loader: PropTypes.element,
-  header: PropTypes.element,
-  playState: PropTypes.bool,
-  bufferAction: PropTypes.bool
+  loader: PropTypes.element
+};
+
+Story.defaultProps = {
+  action: null,
+  loader: null
 };
