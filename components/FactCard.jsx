@@ -52,7 +52,7 @@ const FactCardImageList = ({ cardData }) => (
               <img src={f.value.image.url} alt={f.value.image.alt} />
             </div>
             <div className="wcp-fact-card-image-list__item__info">
-              <div className="wcp-fact-card-image-list__item__info__label">
+              <div className="wcp-fact-card-image-list__item__info__label font-family-heading">
                 {f.label}
               </div>
               <div className="wcp-fact-card-image-list__item__info__value font-family-heading">

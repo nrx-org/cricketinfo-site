@@ -56,13 +56,13 @@ const loadFont = (fontType, font) => {
 
   if (fontType === "body") {
     sheet.insertRule(`
-            body, .font-family-body {
+            body, .wcp-font-family-body {
               font-family: ${font.fontFamily};
             }
           `);
   } else if (fontType === "headings") {
     sheet.insertRule(`
-            h1, h2, h3, .font-family-heading {
+            h1, h2, h3, .wcp-font-family-heading {
               font-family: ${font.fontFamily};
             }
           `);
