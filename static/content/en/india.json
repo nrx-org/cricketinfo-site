@@ -416,29 +416,6 @@
         }
       ],
       "facts": [
-        { "label": "Independence day", "value": { "label": "15 August 1947" } },
-        { "label": "Republic day", "value": { "label": "26 January 1950" } },
-        {
-          "label": "Capital city",
-          "value": {
-            "label": "New Delhi",
-            "url": ""
-          }
-        },
-        {
-          "label": "Largest city",
-          "value": {
-            "label": "Mumbai",
-            "url": ""
-          }
-        },
-        {
-          "label": "Currency",
-          "value": {
-            "label": "Indian Rupee (₹)",
-            "url": ""
-          }
-        }
       ]
     },
     {
