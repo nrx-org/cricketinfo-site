@@ -6,11 +6,11 @@ export const VerticalTimelineItem = ({ fact }) => (
   <div className="wcp-vertical-timeline-item">
     <h2 className="wcp-vertical-timeline-item__label">
       {fact.label}
-      {fact.labelHelperText ? (
+      {fact.note ? (
         <span className="wcp-vertical-timeline-item__label-helper-text">
           {" "}
           {"("}
-          {fact.labelHelperText}
+          {fact.note}
           {")"}
         </span>
       ) : (
@@ -20,7 +20,7 @@ export const VerticalTimelineItem = ({ fact }) => (
     <div className="wcp-vertical-timeline-item__content">
       {fact.value.label}
     </div>
-    <TinyCardCarousel cards={fact.value.innerCards} />
+    <TinyCardCarousel cards={fact.value.facts} />
     <div className="wcp-vertical-timeline-item__line-and-dot">
       <div className="wcp-vertical-timeline-item__line-and-dot__dot" />
       <div className="wcp-vertical-timeline-item__line-and-dot__line" />

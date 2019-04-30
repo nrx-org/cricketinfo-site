@@ -1,5 +1,19 @@
 {
-  "summaryFactCards": [
+  "title": "India",
+  "coverImage": {
+    "url": "/static/images/india.png",
+    "altText": "Flag of India"
+  },
+  "summary": "India, also known as the Republic of India, is a country in South Asia. It is the seventh largest country by area and with more than 1.3 billion people, it is the second most populous country as well as the most populous democracy in the world.",
+  "translations": [
+    {
+      "url": "/wiki/hi/भारत",
+      "title": "भारत",
+      "lang": "hi"
+    },
+    { "url": "/wiki/pa/ਭਾਰਤ", "title": "ਭਾਰਤ", "lang": "pa" }
+  ],
+  "sections": [
     {
       "title": "About",
       "cardType": "table",
@@ -36,10 +50,10 @@
         {
           "label": "Ancient India",
           "id": 0,
-          "labelHelperText": null,
+          "note": null,
           "value": {
             "label": "The earliest known human remains in South Asia date to about 30,000 years ago. the first urban culture in South Asia, Indus Valley Civilisation, which flourished during 2500–1900 BCE in what is now Pakistan and western India",
-            "innerCards": [
+            "facts": [
               {
                 "label": "Indus Valley Civilisation",
                 "id": 0,
@@ -82,10 +96,10 @@
         {
           "label": "Ancient India",
           "id": 3,
-          "labelHelperText": "longer content",
+          "note": "longer content",
           "value": {
             "label": "The earliest known human remains in South Asia date to about 30,000 years ago. the first urban culture in South Asia, The earliest known human remains in South Asia date to about 30,000 years ago. the first urban culture in South Asia, Indus Valley Civilisation, which flourished during 2500–1900 BCE in what is now Pakistan and western India",
-            "innerCards": [
+            "facts": [
               {
                 "label": "Indus Valley Civilisation",
                 "id": 0,
@@ -128,11 +142,11 @@
         },
         {
           "label": "Medieval India",
-          "labelHelperText": "600CE - 1200CE",
+          "note": "600CE - 1200CE",
           "id": 1,
           "value": {
             "label": "When Harsha of Kannauj, who ruled much of the Indo-Gangetic Plain from 606 to 647 CE, attempted to expand southwards, he was defeated by the Chalukya ruler of the Deccan.",
-            "innerCards": [
+            "facts": [
               {
                 "label": "Harshvardhan",
                 "id": 0,
@@ -177,7 +191,7 @@
     {
       "title": "Government",
       "cardType": "avatar",
-      "summary": "India is a federation with a parliamentary system governed under the Constitution of India, which serves as the country's supreme legal document.",
+      "label": "India is a federation with a parliamentary system governed under the Constitution of India, which serves as the country's supreme legal document.",
       "facts": [
         {
           "label": "Prime minister",
@@ -237,34 +251,6 @@
       ]
     },
     {
-      "title": "GDP & Population",
-      "cardType": "nested",
-      "facts": [
-        {
-          "label": "2018",
-          "value": {
-            "label": "India’s GDP touches 2.69 trillion USD",
-            "url": "https://thehindu.com",
-            "image": {
-              "url": "https://placekitten.com/64/64",
-              "altText": "Pink money"
-            }
-          }
-        },
-        {
-          "label": "2016",
-          "value": {
-            "label": "India’s population touches 1.32 billion",
-            "url": "https://scroll.in",
-            "image": {
-              "url": "https://placekitten.com/64/64",
-              "altText": "Trains are fun"
-            }
-          }
-        }
-      ]
-    },
-    {
       "title": "Hindush",
       "id": "factCardHindush",
       "cardType": "simple",
@@ -276,20 +262,5 @@
         }
       ]
     }
-  ],
-  "title": "India",
-  "coverImage": {
-    "url": "/static/images/india.png",
-    "altText": "Flag of India"
-  },
-  "summary": "India, also known as the Republic of India, is a country in South Asia. It is the seventh largest country by area and with more than 1.3 billion people, it is the second most populous country as well as the most populous democracy in the world.",
-  "translations": [
-    {
-      "url": "/wiki/hi/भारत",
-      "title": "भारत",
-      "lang": "hi"
-    },
-    { "url": "/wiki/pa/ਭਾਰਤ", "title": "ਭਾਰਤ", "lang": "pa" }
-  ],
-  "sections": []
+  ]
 }

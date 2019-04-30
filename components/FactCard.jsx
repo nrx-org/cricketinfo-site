@@ -41,8 +41,8 @@ FactCardTable.propTypes = {
 const FactCardImageList = ({ cardData }) => (
   <section className="wcp-fact-card-image-list">
     <SectionTitle>{cardData.title}</SectionTitle>
-    {cardData.summary && (
-      <p className="wcp-fact-card-image-list__summary">{cardData.summary}</p>
+    {cardData.label && (
+      <p className="wcp-fact-card-image-list__summary">{cardData.label}</p>
     )}
     <div className="wcp-fact-card-image-list__item-list-wrapper">
       {cardData.facts.map(f => {

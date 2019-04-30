@@ -6,7 +6,6 @@ import Head from "next/head";
 import fetch from "isomorphic-fetch";
 
 import { BaseLayout } from "../components/BaseLayout";
-import { ArticleContent } from "../components/ArticleContent";
 import { LanguageSelector } from "../components/LanguageSelector";
 import { LanguageContext } from "../language_context";
 import { FactCard } from "../components/FactCard";
@@ -20,7 +19,6 @@ import { FloatingToolbarContainer } from "../components/FloatingToolbarContainer
 import { makeTitle } from "../lib/make_title";
 import { articleContentUrl } from "../lib/urls";
 import {
-  sectionsPropTypes,
   translationsPropTypes,
   imagePropTypes,
   factCardDataPropTypes
@@ -29,11 +27,10 @@ import {
 const Article = ({
   articleId,
   title,
-  sections,
   lang,
   summary,
   coverImage,
-  summaryFactCards,
+  sections,
   translations
 }) => (
   <LanguageContext.Provider value={lang}>
@@ -58,14 +55,13 @@ const Article = ({
         </section>
 
         <LanguageSelector translations={translations} coverImage={coverImage} />
-        {summaryFactCards.map(factCard => (
+        {sections.map(factCard => (
           <FactCard
             key={factCard.title}
             className="wcp-summary-fact-card"
             cardData={factCard}
           />
         ))}
-        <ArticleContent sections={sections} />
       </BaseLayout>
 
       <ModalContextConsumer>
@@ -95,7 +91,7 @@ Article.getInitialProps = async ({ query }) => {
 };
 
 Article.defaultProps = {
-  summaryFactCards: []
+  sections: []
 };
 
 Article.propTypes = {
@@ -103,10 +99,9 @@ Article.propTypes = {
   title: PropTypes.string.isRequired,
   coverImage: imagePropTypes.isRequired,
   summary: PropTypes.string.isRequired,
-  sections: sectionsPropTypes.isRequired,
   lang: PropTypes.string.isRequired,
   translations: translationsPropTypes.isRequired,
-  summaryFactCards: PropTypes.arrayOf(factCardDataPropTypes)
+  sections: PropTypes.arrayOf(factCardDataPropTypes)
 };
 
 export default Article;
