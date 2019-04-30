@@ -1,23 +1,19 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { Card } from "./Card";
-import { imagePropTypes } from "../lib/prop_types";
+
 import { Icon } from "./Icon";
 
-export const LanguageCard = ({
-  url,
-  title,
-  coverImage,
-  coverImageClassName,
-  linkText
-}) => {
+import { imagePropTypes } from "../lib/prop_types";
+
+export const LanguageCard = ({ url, title, coverImage, linkText }) => {
   return (
     <a href={url} className="wcp-language-card">
-      <Card
-        coverImage={coverImage}
-        coverImageClassName={coverImageClassName}
-        shadowSize="m"
-      >
+      <img
+        className="wcp-language-card__cover-image"
+        src={coverImage.url}
+        alt={coverImage.altText}
+      />
+      <div className="wcp-language-card__content">
         <span>{title}</span>
         {/* eslint-disable react/jsx-one-expression-per-line */}
         <span className="wcp-language-card__link-text">
@@ -29,19 +25,14 @@ export const LanguageCard = ({
             size="xs"
           />
         </span>
-      </Card>
+      </div>
     </a>
   );
-};
-
-LanguageCard.defaultProps = {
-  coverImageClassName: ""
 };
 
 LanguageCard.propTypes = {
   url: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
   coverImage: imagePropTypes.isRequired,
-  coverImageClassName: PropTypes.string,
   linkText: PropTypes.string.isRequired
 };
