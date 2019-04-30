@@ -5,7 +5,7 @@ export default class ProgressBarSingle extends React.PureComponent {
   constructor(props) {
     super(props);
     this.state = {
-      duration: props.defaultInterval
+      duration: props.interval
     };
     this.next = this.next.bind(this);
   }
@@ -19,7 +19,7 @@ export default class ProgressBarSingle extends React.PureComponent {
   }
 
   static getDerivedStateFromProps(props) {
-    return { duration: props.defaultInterval };
+    return { duration: props.interval };
   }
 
   next() {
@@ -70,7 +70,7 @@ export default class ProgressBarSingle extends React.PureComponent {
 
 ProgressBarSingle.propTypes = {
   width: PropTypes.number,
-  defaultInterval: PropTypes.number,
+  interval: PropTypes.number,
   pause: PropTypes.bool,
   next: PropTypes.func,
   active: PropTypes.number
@@ -78,7 +78,7 @@ ProgressBarSingle.propTypes = {
 
 ProgressBarSingle.defaultProps = {
   width: 0,
-  defaultInterval: 0,
+  interval: 0,
   pause: false,
   next: null,
   active: null

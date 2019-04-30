@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import ProgressBarSingle from "./ProgressBarSingle";
 
 export const ProgressBar = props => {
-  const { progressMap, next, defaultInterval, progress, pause } = props;
+  const { progressMap, next, interval, progress, pause } = props;
   return (
     <div className="wcp-fact-card__story-content__progress-bar">
       {progressMap.map(i => {
@@ -18,7 +18,7 @@ export const ProgressBar = props => {
             key={`${i.id}-${i.url}`}
             width={1 / progressMap.length}
             next={next}
-            defaultInterval={defaultInterval}
+            interval={interval}
             active={isActive}
             pause={pause}
           />
@@ -41,7 +41,7 @@ ProgressBar.propTypes = {
   }),
   pause: PropTypes.bool,
   next: PropTypes.func,
-  defaultInterval: PropTypes.number
+  interval: PropTypes.number
 };
 
 ProgressBar.defaultProps = {
@@ -49,5 +49,5 @@ ProgressBar.defaultProps = {
   progress: null,
   pause: false,
   next: null,
-  defaultInterval: 0
+  interval: 0
 };

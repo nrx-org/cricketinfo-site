@@ -46,13 +46,13 @@ export class StoriesContainer extends Component {
   }
 
   render() {
-    const { cardData, loader, defaultInterval } = this.props;
+    const { cardData, loader, interval } = this.props;
     return (
       <section className="wcp-fact-card__story-content">
         <SectionTitle>{cardData.title}</SectionTitle>
         <Container
           stories={cardData.stories}
-          defaultInterval={defaultInterval}
+          interval={interval}
           loader={loader}
         />
       </section>
@@ -62,11 +62,11 @@ export class StoriesContainer extends Component {
 
 StoriesContainer.propTypes = {
   cardData: factCardDataPropTypes.isRequired,
-  defaultInterval: PropTypes.number,
+  interval: PropTypes.number,
   loader: PropTypes.element
 };
 
 StoriesContainer.defaultProps = {
-  defaultInterval: null,
+  interval: null,
   loader: null
 };

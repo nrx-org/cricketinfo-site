@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import Story from "./Story";
 import { ProgressBar } from "./ProgressBar";
+import { Icon } from "../Icon";
 
 export default class Container extends React.Component {
   constructor(props) {
@@ -10,7 +11,8 @@ export default class Container extends React.Component {
       currentId: 0,
       pause: true,
       count: 0,
-      mousedownId: null
+      mousedownId: null,
+      isFullScreen: false
     };
     this.defaultInterval = 4000;
     this.width = "100%";
@@ -21,15 +23,17 @@ export default class Container extends React.Component {
     this.previous = this.previous.bind(this);
     this.next = this.next.bind(this);
     this.mouseUp = this.mouseUp.bind(this);
+    this.openFullScreen = this.openFullScreen.bind(this);
+    this.closeFullScreen = this.closeFullScreen.bind(this);
   }
 
   componentDidMount() {
-    const { defaultInterval } = this.props;
-    if (defaultInterval) this.defaultInterval = defaultInterval;
+    const { interval } = this.props;
+    if (interval) this.defaultInterval = interval;
   }
 
-  pause(action, bufferAction) {
-    this.setState({ pause: action === "pause", bufferAction });
+  pause(action) {
+    this.setState({ pause: action === "pause" });
   }
 
   previous() {
@@ -50,6 +54,11 @@ export default class Container extends React.Component {
         currentId: currentId + 1,
         count: 0
       });
+    } else {
+      this.setState({
+        currentId: 0,
+        count: 0
+      });
     }
   }
 
@@ -58,8 +67,26 @@ export default class Container extends React.Component {
     this.setState({
       mousedownId: setTimeout(() => {
         this.pause("pause");
-      }, 200)
+      }, 50)
     });
+  }
+
+  openFullScreen(e) {
+    e.preventDefault();
+    this.setState({
+      isFullScreen: true
+    });
+    document.body.style.overflow = "hidden";
+    document.body.classList.add("no-scroll");
+  }
+
+  closeFullScreen(e) {
+    e.preventDefault();
+    this.setState({
+      isFullScreen: false
+    });
+    document.body.style.overflow = "visible";
+    document.body.classList.remove("no-scroll");
   }
 
   mouseUp(e, type) {
@@ -77,19 +104,35 @@ export default class Container extends React.Component {
 
   render() {
     const { stories, loader } = this.props;
-    const { pause, bufferAction, currentId, count } = this.state;
+    const { pause, currentId, count, isFullScreen } = this.state;
     return (
       <div
         ref={this.containerRef}
-        className="wcp-fact-card__story-content__container"
+        className={
+          isFullScreen
+            ? "wcp-fact-card__story-content__container wcp-fact-card__story-content__container__full-screen"
+            : "wcp-fact-card__story-content__container"
+        }
       >
+        {isFullScreen ? (
+          <div
+            className="wcp-fact-card__story-content__container__close-fullscreen-icon"
+            onTouchStart={this.closeFullScreen}
+            onMouseDown={this.closeFullScreen}
+            role="presentation"
+          >
+            <Icon name="close" altText="Close Fullscreen Story Icon" size="m" />
+          </div>
+        ) : (
+          ""
+        )}
         <ProgressBar
           next={this.next}
           pause={pause}
           progressMap={stories.map((s, i) => {
             return { url: s.url, id: i };
           })}
-          defaultInterval={this.defaultInterval}
+          interval={this.defaultInterval}
           currentStory={stories[currentId]}
           progress={{
             id: currentId,
@@ -101,7 +144,6 @@ export default class Container extends React.Component {
         />
         <Story
           action={this.pause}
-          bufferAction={bufferAction}
           height={this.height}
           playState={pause}
           width={this.width}
@@ -109,6 +151,16 @@ export default class Container extends React.Component {
           loader={loader}
         />
         <div className="wcp-fact-card__story-content__container-overlay">
+          {!isFullScreen ? (
+            <div
+              className="wcp-fact-card__story-content__full-screen-trigger"
+              onTouchStart={this.openFullScreen}
+              onMouseDown={this.openFullScreen}
+              role="presentation"
+            />
+          ) : (
+            ""
+          )}
           <div
             className="wcp-fact-card__story-content__container-overlay__left-half"
             onTouchStart={this.debouncePause}
@@ -141,14 +193,14 @@ Container.propTypes = {
       })
     })
   ),
-  defaultInterval: PropTypes.number,
+  interval: PropTypes.number,
   height: PropTypes.number,
   loader: PropTypes.element
 };
 
 Container.defaultProps = {
   stories: [],
-  defaultInterval: 0,
+  interval: 0,
   height: null,
   loader: null
 };

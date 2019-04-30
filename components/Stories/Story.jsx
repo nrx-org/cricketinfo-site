@@ -8,29 +8,21 @@ export default class Story extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      loaded: false,
-      pauseId: null
+      loaded: false
     };
     this.imageLoaded = this.imageLoaded.bind(this);
   }
 
   componentDidUpdate(prevProps) {
     const { story, action } = this.props;
-    let { pauseId } = this.state;
     if (story !== prevProps.story) {
-      if (pauseId) clearTimeout(pauseId);
-      pauseId = setTimeout(() => {
-        this.setState({ loaded: false });
-      }, 100);
       action("pause", true);
     }
   }
 
   imageLoaded() {
-    const { pauseId } = this.state;
     const { action } = this.props;
     try {
-      if (pauseId) clearTimeout(pauseId);
       this.setState({ loaded: true });
       action("play", true);
     } catch (e) {
@@ -71,8 +63,11 @@ export default class Story extends React.Component {
         )}
         {!loaded ? (
           <div className="wcp-fact-card__story-content__overlay">
+            <p>loading..</p>
             {loader || (
-              <div className="wcp-fact-card__story-content__spinner" />
+              <div>
+                <div className="wcp-fact-card__story-content__spinner" />
+              </div>
             )}
           </div>
         ) : (
