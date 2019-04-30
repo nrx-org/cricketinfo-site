@@ -15,7 +15,7 @@ right: $gutter-m;
 // styles set by the cogo-toast library. If the selector changes in the
 // library, we might need to fix it here as well.
 .styles_toast__31ary {
-  border-radius: 8px !important;
+  border-radius: $border-radius-m !important;
 }
 
 .wcp-share-modal__input {

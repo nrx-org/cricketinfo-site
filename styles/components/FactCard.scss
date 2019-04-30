@@ -37,57 +37,6 @@
   }
 }
 
-/** For the avatar fact card **/
-
-.wcp-fact-card-image-list__item {
-  display: flex;
-  align-items: center;
-  color: $body-color;
-  margin-bottom: $gutter-m;
-}
-
-.wcp-fact-card-image-list__item__profile-picture {
-  height: 2.5rem;
-  width: 2.5rem;
-  border-radius: 50%;
-  overflow: hidden;
-  line-height: 0;
-}
-
-.wcp-fact-card-image-list__item__info {
-  flex-grow: 1;
-  margin-left: $gutter-m;
-}
-
-.wcp-fact-card-image-list__item__info__label {
-  @include fact-card-label();
-}
-
-.wcp-fact-card-image-list__item__info__value {
-  font-weight: bold;
-  color: $color-black-light;
-  line-height: $line-height-m;
-}
-
-.wcp-fact-card-image-list__item-list-wrapper {
-  margin-left: $gutter-s;
-}
-
-.wcp-fact-card-image-list__summary + .wcp-fact-card-image-list__item-list-wrapper {
-  margin-top: $gutter-m;
-}
-
-.wcp-fact-card-image-list__item-wrapper:last-child {
-  .wcp-fact-card-image-list__item {
-    margin-bottom: 0;
-  }
-
-  .wcp-fact-card-image-list__item__info {
-    border-bottom: none;
-    padding-bottom: 0;
-  }
-}
-
 /* For the simple text fact card */
 
 .wcp-fact-card-text__text {

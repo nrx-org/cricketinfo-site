@@ -1,15 +1,15 @@
 import React from "react";
 import PropTypes from "prop-types";
-import slugify from "slugify";
 
 import { IconButton } from "./IconButton";
 import { ModalContextConsumer } from "./ModalContext";
 
 import { factCardDataPropTypes } from "../lib/prop_types";
-import { ARTICLE_SUMMARY_MODAL_ID, SHARE_MODAL_ID } from "../lib/modal_ids";
+import { SHARE_MODAL_ID } from "../lib/modal_ids";
 import { getImageShareUrl } from "../lib/urls";
 import { VerticalTimeline } from "./VerticalTimeline";
 import { SectionTitle } from "./SectionTitle";
+import { AvatarList } from "./AvatarList";
 
 const FactCardTable = ({ cardData }) => {
   const content = cardData.facts.map(f => (
@@ -35,59 +35,6 @@ const FactCardTable = ({ cardData }) => {
 };
 
 FactCardTable.propTypes = {
-  cardData: factCardDataPropTypes.isRequired
-};
-
-const FactCardImageList = ({ cardData }) => (
-  <section className="wcp-fact-card-image-list">
-    <SectionTitle>{cardData.title}</SectionTitle>
-    {cardData.label && (
-      <p className="wcp-fact-card-image-list__summary">{cardData.label}</p>
-    )}
-    <div className="wcp-fact-card-image-list__item-list-wrapper">
-      {cardData.facts.map(f => {
-        const content = (
-          <div className="wcp-fact-card-image-list__item">
-            <div className="wcp-fact-card-image-list__item__profile-picture">
-              <img src={f.value.image.url} alt={f.value.image.alt} />
-            </div>
-            <div className="wcp-fact-card-image-list__item__info">
-              <div className="wcp-fact-card-image-list__item__info__label font-family-heading">
-                {f.label}
-              </div>
-              <div className="wcp-fact-card-image-list__item__info__value font-family-heading">
-                {f.value.label}
-              </div>
-            </div>
-          </div>
-        );
-
-        return f.value.url ? (
-          <ModalContextConsumer key={`${f.label}-${f.value.label}`}>
-            {({ openModal }) => (
-              <a
-                className="wcp-fact-card-image-list__item-wrapper"
-                href={f.value.url}
-                onClick={e => {
-                  e.preventDefault();
-                  openModal(ARTICLE_SUMMARY_MODAL_ID, {
-                    articleId: slugify(f.value.label, "_")
-                  });
-                }}
-              >
-                {content}
-              </a>
-            )}
-          </ModalContextConsumer>
-        ) : (
-          <div className="wcp-fact-card-image-list__item-wrapper">content</div>
-        );
-      })}
-    </div>
-  </section>
-);
-
-FactCardImageList.propTypes = {
   cardData: factCardDataPropTypes.isRequired
 };
 
@@ -138,7 +85,7 @@ export const FactCard = ({ cardData }) => {
   if (cardData.cardType === "table") {
     content = <FactCardTable cardData={cardData} />;
   } else if (cardData.cardType === "avatar") {
-    content = <FactCardImageList cardData={cardData} />;
+    content = <AvatarList cardData={cardData} />;
   } else if (cardData.cardType === "simple") {
     content = <FactCardTextContainer cardData={cardData} />;
   } else if (cardData.cardType === "vertical_timeline") {
