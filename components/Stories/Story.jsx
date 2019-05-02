@@ -1,8 +1,9 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { storyPropTypes } from "../../lib/prop_types";
+import { factPropTypes } from "../../lib/prop_types";
 import BackgroundImage from "../BackgroundImage";
 import { Icon } from "../Icon";
+import { Button } from "../Button";
 
 export default class Story extends React.Component {
   constructor(props) {
@@ -37,30 +38,52 @@ export default class Story extends React.Component {
       <div className="wcp-fact-card__story-content__story-container">
         <div
           className="wcp-fact-card__story-content__image-container"
-          style={{ backgroundImage: `url(${story.url})` }}
+          style={{ backgroundImage: `url(${story.value.image.url})` }}
         >
           <BackgroundImage
-            src={story.url}
+            src={story.value.image.url}
             onLoadBg={this.imageLoaded}
             onError={err => console.log("error", err)}
           />
         </div>
-        {story.info ? (
-          <div className="wcp-fact-card__story-content__info">
-            <p className="wcp-fact-card__story-content__info__title">
-              {story.info.heading}
-            </p>
-            <p className="wcp-fact-card__story-content__info__caption">
-              {story.info.subheading}
-            </p>
-            <div className="wcp-fact-card__story-content__info__icons">
-              <Icon name="share-white" altText="Share Icon" size="m" />
-              <Icon name="love-white" altText="Bookmark Icon" size="m" />
-            </div>
+        <div className="wcp-fact-card__story-content__info">
+          <p className="wcp-fact-card__story-content__info__title">
+            {story.label}
+          </p>
+          <p className="wcp-fact-card__story-content__info__caption">
+            {story.value.label}
+          </p>
+          <div className="wcp-fact-card__story-content__info__icons-and-buttons">
+            {story.value.url && story.value.url.length > 0 ? (
+              <Icon
+                className="wcp-fact-card__story-content__info__icons-and-buttons__share-icon"
+                name="share-white"
+                altText="Share Icon"
+                size="m"
+              />
+            ) : (
+              ""
+            )}
+            <Icon
+              className="wcp-fact-card__story-content__info__icons-and-buttons__favorite-icon"
+              name="love-white"
+              altText="Favorite Icon"
+              size="m"
+            />
+            {story.value.url && story.value.url.length > 0 ? (
+              <Button
+                isFullWidth={false}
+                className="wcp-fact-card__story-content__container__know-more-button"
+                isLink={true}
+                href={story.value.url}
+              >
+                Know More
+              </Button>
+            ) : (
+              ""
+            )}
           </div>
-        ) : (
-          ""
-        )}
+        </div>
         {!loaded ? (
           <div className="wcp-fact-card__story-content__overlay">
             <p>loading..</p>
@@ -79,7 +102,7 @@ export default class Story extends React.Component {
 }
 
 Story.propTypes = {
-  story: storyPropTypes.isRequired,
+  story: factPropTypes.isRequired,
   action: PropTypes.func,
   loader: PropTypes.element
 };

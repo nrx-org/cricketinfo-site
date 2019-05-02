@@ -1,5 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
+import { factPropTypes } from "../../lib/prop_types";
 import Story from "./Story";
 import { ProgressBar } from "./ProgressBar";
 import { Icon } from "../Icon";
@@ -184,15 +185,7 @@ export default class Container extends React.Component {
 }
 
 Container.propTypes = {
-  stories: PropTypes.arrayOf(
-    PropTypes.shape({
-      url: PropTypes.string,
-      info: PropTypes.shape({
-        heading: PropTypes.string,
-        subheading: PropTypes.string
-      })
-    })
-  ),
+  stories: PropTypes.arrayOf(factPropTypes),
   interval: PropTypes.number,
   height: PropTypes.number,
   loader: PropTypes.element

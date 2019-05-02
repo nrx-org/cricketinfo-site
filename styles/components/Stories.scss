@@ -5,16 +5,22 @@
   position: relative;
   width: 100%;
   height: 25rem;
-  transition: all 0.3s;
+  transition: all 0.3s ease-in-out;
   &.wcp-fact-card__story-content__container__full-screen {
     position: fixed;
     top: 0;
     bottom: 0;
     right: 0;
     left: 0;
-    transition: all 0.3s;
+    transition: all 0.3s ease-in-out;
     z-index: 10000;
     height: 100%;
+    .wcp-fact-card__story-content__container__know-more-button {
+      display: block;
+    }
+    .wcp-fact-card__story-content__info {
+      z-index: 1000;
+    }
   }
 }
 
@@ -54,9 +60,17 @@
 
 .wcp-fact-card__story-content__info {
   position: absolute;
-  left: 0.75rem;
-  bottom: 1.25rem;
+  padding: 2rem 0.75rem 1.25rem;
   z-index: 19;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0.56) 41.16%,
+    rgba(0, 0, 0, 0.64) 100%
+  );
 }
 
 .wcp-fact-card__story-content__info__title {
@@ -71,12 +85,38 @@
   color: $color-white;
   font-size: $font-size-s;
   line-height: $line-height-s;
+  margin-top: $gutter-s;
 }
 
-.wcp-fact-card__story-content__info__icons {
+.wcp-fact-card__story-content__info__icons-and-buttons {
   margin-top: $gutter-s;
-  .wcp-icon:last-child {
-    margin-left: $gutter-m;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  .wcp-fact-card__story-content__container__know-more-button {
+    margin-left: auto;
+    background: transparent;
+    color: $color-white;
+    border: 1px solid $color-white;
+    padding: 0.5rem;
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-size: $font-size-s;
+    line-height: $line-height-s;
+    display: none;
+  }
+  .wcp-icon {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    width: 1.25rem;
+    margin-right: $gutter-m;
+    &:last-child {
+      margin-right: 0;
+    }
+    &.wcp-fact-card__story-content__info__icons-and-buttons__favorite-icon {
+      width: 1.5rem;
+    }
   }
 }
 
@@ -106,7 +146,7 @@
   max-width: 100%;
   background: #555;
   margin: 0.125rem;
-  transition: opacity 400ms ease-in-out;
+  transition: opacity 100ms ease-in-out;
 }
 
 .wcp-fact-card__story-content__progress-bar__single__inner {

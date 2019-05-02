@@ -392,30 +392,40 @@
     {
       "title": "Statistics",
       "cardType": "stories",
-      "stories": [
+      "facts": [
         {
-          "url": "https://placekitten.com/500/500",
-          "info": {
-            "heading": "Most runs",
-            "subheading": "Sachin Tendulkar is the leading run scorer in World Cup history with total of 2,278."
+          "label": "Most runs",
+          "value": {
+            "url": "https://wikipedia.com",
+            "label": "Sachin Tendulkar is the leading run scorer in World Cup history with total of 2,278.",
+            "image": {
+              "url": "https://placekitten.com/500/500",
+              "altText": "Har har kitten, ghar ghar kitten"
+            }
           }
         },
         {
-          "url": "https://placekitten.com/600/600",
-          "info": {
-            "heading": "Most wickets",
-            "subheading": "Shane Warne is the leading wicket taker in World Cup history with total of 500."
+          "label": "Most wickets",
+          "value": {
+            "url": "",
+            "label": "Sachin Tendulkar is the leading run scorer in World Cup history with total of 2,278.",
+            "image": {
+              "url": "https://placekitten.com/490/490",
+              "altText": "Har har kitten, ghar ghar kitten"
+            }
           }
         },
         {
-          "url": "https://placekitten.com/400/400",
-          "info": {
-            "heading": "Most catches",
-            "subheading": "Mark Waugh is the leading catcher in World Cup history with total of 200."
+          "label": "Most sixes",
+          "value": {
+            "url": "https://wikipedia.com",
+            "label": "Sachin Tendulkar is the leading run scorer in World Cup history with total of 2,278.",
+            "image": {
+              "url": "https://placekitten.com/510/510",
+              "altText": "Har har kitten, ghar ghar kitten"
+            }
           }
         }
-      ],
-      "facts": [
       ]
     },
     {
