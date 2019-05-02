@@ -11,7 +11,6 @@ export default class Container extends React.Component {
     this.state = {
       currentId: 0,
       pause: true,
-      count: 0,
       mousedownId: null,
       isFullScreen: false
     };
@@ -26,6 +25,7 @@ export default class Container extends React.Component {
     this.mouseUp = this.mouseUp.bind(this);
     this.openFullScreen = this.openFullScreen.bind(this);
     this.closeFullScreen = this.closeFullScreen.bind(this);
+    this.pauseAndPlay = this.pauseAndPlay.bind(this);
   }
 
   componentDidMount() {
@@ -41,8 +41,7 @@ export default class Container extends React.Component {
     const { currentId } = this.state;
     if (currentId > 0) {
       this.setState({
-        currentId: currentId - 1,
-        count: 0
+        currentId: currentId - 1
       });
     }
   }
@@ -52,13 +51,11 @@ export default class Container extends React.Component {
     const { currentId } = this.state;
     if (currentId < stories.length - 1) {
       this.setState({
-        currentId: currentId + 1,
-        count: 0
+        currentId: currentId + 1
       });
     } else {
       this.setState({
-        currentId: 0,
-        count: 0
+        currentId: 0
       });
     }
   }
@@ -77,6 +74,7 @@ export default class Container extends React.Component {
     this.setState({
       isFullScreen: true
     });
+    this.pauseAndPlay();
     document.body.style.overflow = "hidden";
     document.body.classList.add("no-scroll");
   }
@@ -86,8 +84,16 @@ export default class Container extends React.Component {
     this.setState({
       isFullScreen: false
     });
+    this.pauseAndPlay();
     document.body.style.overflow = "visible";
     document.body.classList.remove("no-scroll");
+  }
+
+  pauseAndPlay() {
+    this.pause("pause");
+    setTimeout(() => {
+      this.pause("play");
+    }, 50);
   }
 
   mouseUp(e, type) {
@@ -105,7 +111,7 @@ export default class Container extends React.Component {
 
   render() {
     const { stories, loader } = this.props;
-    const { pause, currentId, count, isFullScreen } = this.state;
+    const { pause, currentId, isFullScreen } = this.state;
     return (
       <div
         ref={this.containerRef}
@@ -137,10 +143,7 @@ export default class Container extends React.Component {
           currentStory={stories[currentId]}
           progress={{
             id: currentId,
-            completed:
-              count /
-              ((stories[currentId] && stories[currentId].duration) ||
-                this.defaultInterval)
+            completed: 0 / this.defaultInterval
           }}
         />
         <Story
@@ -150,6 +153,7 @@ export default class Container extends React.Component {
           width={this.width}
           story={stories[currentId]}
           loader={loader}
+          key={currentId}
         />
         <div className="wcp-fact-card__story-content__container-overlay">
           {!isFullScreen ? (

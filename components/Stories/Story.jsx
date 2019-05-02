@@ -9,9 +9,11 @@ export default class Story extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      loaded: false
+      loaded: false,
+      favorited: false
     };
     this.imageLoaded = this.imageLoaded.bind(this);
+    this.toggleFavorite = this.toggleFavorite.bind(this);
   }
 
   componentDidUpdate(prevProps) {
@@ -31,9 +33,14 @@ export default class Story extends React.Component {
     }
   }
 
+  toggleFavorite() {
+    const { favorited } = this.state;
+    this.setState({ favorited: !favorited });
+  }
+
   render() {
     const { story, loader } = this.props;
-    const { loaded } = this.state;
+    const { loaded, favorited } = this.state;
     return (
       <div className="wcp-fact-card__story-content__story-container">
         <div
@@ -64,17 +71,23 @@ export default class Story extends React.Component {
             ) : (
               ""
             )}
-            <Icon
+            <span
               className="wcp-fact-card__story-content__info__icons-and-buttons__favorite-icon"
-              name="love-white"
-              altText="Favorite Icon"
-              size="m"
-            />
+              onClick={this.toggleFavorite}
+              role="presentation"
+            >
+              <Icon
+                name={favorited ? "favorite-active" : "favorite"}
+                altText="Favorite Icon"
+                size="m"
+              />
+            </span>
             {story.value.url && story.value.url.length > 0 ? (
               <Button
+                type="inverted"
                 isFullWidth={false}
                 className="wcp-fact-card__story-content__container__know-more-button"
-                isLink={true}
+                isLink
                 href={story.value.url}
               >
                 Know More
@@ -86,12 +99,7 @@ export default class Story extends React.Component {
         </div>
         {!loaded ? (
           <div className="wcp-fact-card__story-content__overlay">
-            <p>loading..</p>
-            {loader || (
-              <div>
-                <div className="wcp-fact-card__story-content__spinner" />
-              </div>
-            )}
+            {loader || <p>loading..</p>}
           </div>
         ) : (
           ""

@@ -50,11 +50,13 @@ export class StoriesContainer extends Component {
     return (
       <section className="wcp-fact-card__story-content">
         <SectionTitle>{cardData.title}</SectionTitle>
-        <Container
-          stories={cardData.facts}
-          interval={interval}
-          loader={loader}
-        />
+        <div className="wcp-fact-card__story-content__container-wrapper">
+          <Container
+            stories={cardData.facts}
+            interval={interval}
+            loader={loader}
+          />
+        </div>
       </section>
     );
   }
