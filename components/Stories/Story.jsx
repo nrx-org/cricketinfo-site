@@ -40,7 +40,7 @@ export default class Story extends React.Component {
   }
 
   render() {
-    const { story, loader, action } = this.props;
+    const { story, loader, action, isFullScreen } = this.props;
     const { loaded, favorited } = this.state;
     const shareData = {
       url: story.value.url,
@@ -66,7 +66,8 @@ export default class Story extends React.Component {
           <p className="wcp-fact-card__story-content__info__caption">
             {story.value.label}
           </p>
-          <div className="wcp-fact-card__story-content__info__icons-and-buttons">
+
+          <div className={`wcp-fact-card__story-content__info__icons-and-buttons ${!isFullScreen ? 'wcp-hide': 'wcp-show'}`}>
             {story.value.url && story.value.url.length > 0 ? (
               <span className="wcp-fact-card__story-content__info__icons-and-buttons__share-icon">
                 <ExternalUrlShareModalContainer
@@ -131,10 +132,12 @@ export default class Story extends React.Component {
 Story.propTypes = {
   story: factPropTypes.isRequired,
   action: PropTypes.func,
-  loader: PropTypes.element
+  loader: PropTypes.element,
+  isFullScreen: PropTypes.bool
 };
 
 Story.defaultProps = {
   action: null,
-  loader: null
+  loader: null,
+  isFullScreen: false
 };

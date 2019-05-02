@@ -24,6 +24,7 @@ export default class Container extends React.Component {
     this.openFullScreen = this.openFullScreen.bind(this);
     this.closeFullScreen = this.closeFullScreen.bind(this);
     this.pauseAndPlay = this.pauseAndPlay.bind(this);
+    this.debouncePause = this.debouncePause.bind(this);
   }
 
   componentDidMount() {
@@ -78,6 +79,15 @@ export default class Container extends React.Component {
     document.body.classList.remove("no-scroll");
   }
 
+  debouncePause(e) {
+    e.preventDefault();
+    this.setState({
+      mousedownId: setTimeout(() => {
+        this.pause("pause");
+      }, 50)
+    });
+  }
+
   pauseAndPlay() {
     this.pause("pause");
     setTimeout(() => {
@@ -86,8 +96,9 @@ export default class Container extends React.Component {
   }
 
   mouseUp(e, type) {
-    const { pause } = this.state;
+    const { pause, mousedownId } = this.state;
     e.preventDefault();
+    if (mousedownId) clearTimeout(mousedownId);
     if (pause) {
       this.pause("play");
     } else if (type === "next") {
@@ -141,6 +152,7 @@ export default class Container extends React.Component {
           story={stories[currentId]}
           loader={loader}
           key={currentId}
+          isFullScreen={isFullScreen}
         />
         <div className="wcp-fact-card__story-content__container-overlay">
           {!isFullScreen ? (
@@ -154,12 +166,18 @@ export default class Container extends React.Component {
           )}
           <div
             className="wcp-fact-card__story-content__container-overlay__left-half"
-            onClick={e => this.mouseUp(e, "previous")}
+            onTouchStart={this.debouncePause}
+            onTouchEnd={e => this.mouseUp(e, "previous")}
+            onMouseDown={this.debouncePause}
+            onMouseUp={e => this.mouseUp(e, "previous")}
             role="presentation"
           />
           <div
             className="wcp-fact-card__story-content__container-overlay__right-half"
-            onClick={e => this.mouseUp(e, "next")}
+            onTouchStart={this.debouncePause}
+            onTouchEnd={e => this.mouseUp(e, "next")}
+            onMouseDown={this.debouncePause}
+            onMouseUp={e => this.mouseUp(e, "next")}
             role="presentation"
           />
         </div>

@@ -9,14 +9,14 @@
   position: relative;
   width: 100%;
   height: 100%;
-  transition: all 0.5s ease-in-out;
+  transition: all 0.25s ease-in-out;
   &.wcp-fact-card__story-content__container__full-screen {
     position: fixed;
     top: 0;
     bottom: 0;
     right: 0;
     left: 0;
-    transition: all 0.5s ease-in-out;
+    transition: all 0.25s ease-in-out;
     z-index: 10000;
     height: 100%;
     .wcp-fact-card__story-content__container__know-more-button {
@@ -124,6 +124,17 @@
     width: 100%;
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
+  }
+  &.wcp-hide {
+    height: 0;
+    opacity: 0;
+    transition: none;
+  }
+
+  &.wcp-show {
+    height: auto;
+    opacity: 1;
+    transition: all 0.25s ease-in-out;
   }
 }
 
