@@ -11,14 +11,12 @@ export default class Container extends React.Component {
     this.state = {
       currentId: 0,
       pause: true,
-      mousedownId: null,
       isFullScreen: false
     };
     this.defaultInterval = 4000;
     this.width = "100%";
     this.height = props.height || 500;
     this.containerRef = React.createRef();
-    this.debouncePause = this.debouncePause.bind(this);
     this.pause = this.pause.bind(this);
     this.previous = this.previous.bind(this);
     this.next = this.next.bind(this);
@@ -60,15 +58,6 @@ export default class Container extends React.Component {
     }
   }
 
-  debouncePause(e) {
-    e.preventDefault();
-    this.setState({
-      mousedownId: setTimeout(() => {
-        this.pause("pause");
-      }, 50)
-    });
-  }
-
   openFullScreen(e) {
     e.preventDefault();
     this.setState({
@@ -97,9 +86,8 @@ export default class Container extends React.Component {
   }
 
   mouseUp(e, type) {
-    const { pause, mousedownId } = this.state;
+    const { pause } = this.state;
     e.preventDefault();
-    if (mousedownId) clearTimeout(mousedownId);
     if (pause) {
       this.pause("play");
     } else if (type === "next") {
@@ -124,8 +112,7 @@ export default class Container extends React.Component {
         {isFullScreen ? (
           <div
             className="wcp-fact-card__story-content__container__close-fullscreen-icon"
-            onTouchStart={this.closeFullScreen}
-            onMouseDown={this.closeFullScreen}
+            onClick={this.closeFullScreen}
             role="presentation"
           >
             <Icon name="close" altText="Close Fullscreen Story Icon" size="m" />
@@ -159,8 +146,7 @@ export default class Container extends React.Component {
           {!isFullScreen ? (
             <div
               className="wcp-fact-card__story-content__full-screen-trigger"
-              onTouchStart={this.openFullScreen}
-              onMouseDown={this.openFullScreen}
+              onClick={this.openFullScreen}
               role="presentation"
             />
           ) : (
@@ -168,18 +154,12 @@ export default class Container extends React.Component {
           )}
           <div
             className="wcp-fact-card__story-content__container-overlay__left-half"
-            onTouchStart={this.debouncePause}
-            onTouchEnd={e => this.mouseUp(e, "previous")}
-            onMouseDown={this.debouncePause}
-            onMouseUp={e => this.mouseUp(e, "previous")}
+            onClick={e => this.mouseUp(e, "previous")}
             role="presentation"
           />
           <div
             className="wcp-fact-card__story-content__container-overlay__right-half"
-            onTouchStart={this.debouncePause}
-            onTouchEnd={e => this.mouseUp(e, "next")}
-            onMouseDown={this.debouncePause}
-            onMouseUp={e => this.mouseUp(e, "next")}
+            onClick={e => this.mouseUp(e, "next")}
             role="presentation"
           />
         </div>
