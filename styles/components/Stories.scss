@@ -110,21 +110,20 @@
     line-height: $line-height-s;
     display: none;
   }
-  .wcp-icon {
-    margin-top: 0.5rem;
-    margin-bottom: 0.5rem;
-    width: 1.25rem;
-    margin-right: $gutter-m;
-    &:last-child {
-      margin-right: 0;
-    }
-  }
   .wcp-fact-card__story-content__info__icons-and-buttons__favorite-icon {
     width: 1.5rem;
     line-height: 0;
-    img {
-      width: 100%;
-    }
+  }
+  .wcp-fact-card__story-content__info__icons-and-buttons__share-icon {
+    width: 1.25rem;
+    line-height: 0;
+    margin-right: $gutter-m;
+  }
+  .wcp-fact-card__story-content__info__icons-and-buttons__share-icon-image,
+  .wcp-fact-card__story-content__info__icons-and-buttons__favorite-icon-image {
+    width: 100%;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
   }
 }
 

@@ -4,6 +4,7 @@ import { factPropTypes } from "../../lib/prop_types";
 import BackgroundImage from "../BackgroundImage";
 import { Icon } from "../Icon";
 import { Button } from "../Button";
+import { ExternalUrlShareModalContainer } from "../ExternalUrlShareModalContainer";
 
 export default class Story extends React.Component {
   constructor(props) {
@@ -39,8 +40,13 @@ export default class Story extends React.Component {
   }
 
   render() {
-    const { story, loader } = this.props;
+    const { story, loader, action } = this.props;
     const { loaded, favorited } = this.state;
+    const shareData = {
+      url: story.value.url,
+      title: story.label,
+      text: story.value.label
+    };
     return (
       <div className="wcp-fact-card__story-content__story-container">
         <div
@@ -62,12 +68,24 @@ export default class Story extends React.Component {
           </p>
           <div className="wcp-fact-card__story-content__info__icons-and-buttons">
             {story.value.url && story.value.url.length > 0 ? (
-              <Icon
-                className="wcp-fact-card__story-content__info__icons-and-buttons__share-icon"
-                name="share-white"
-                altText="Share Icon"
-                size="m"
-              />
+              <span className="wcp-fact-card__story-content__info__icons-and-buttons__share-icon">
+                <ExternalUrlShareModalContainer
+                  shareData={shareData}
+                  onModalOpen={() => {
+                    action("pause", true);
+                  }}
+                  onModalClose={() => {
+                    action("play", true);
+                  }}
+                >
+                  <Icon
+                    className="wcp-fact-card__story-content__info__icons-and-buttons__share-icon-image"
+                    name="share-white"
+                    altText="Share Icon"
+                    size="m"
+                  />
+                </ExternalUrlShareModalContainer>
+              </span>
             ) : (
               ""
             )}
@@ -77,6 +95,7 @@ export default class Story extends React.Component {
               role="presentation"
             >
               <Icon
+                className="wcp-fact-card__story-content__info__icons-and-buttons__favorite-icon-image"
                 name={favorited ? "favorite-active" : "favorite"}
                 altText="Favorite Icon"
                 size="m"
