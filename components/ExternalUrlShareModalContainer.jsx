@@ -12,6 +12,7 @@ export const ExternalUrlShareModalContainer = props => {
 
   const onShare = (event, openModal) => {
     if (navigator.share) {
+      onModalOpen();
       navigator.share(shareData);
     } else {
       event.preventDefault();
