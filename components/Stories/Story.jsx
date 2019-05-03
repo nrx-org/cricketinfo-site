@@ -1,56 +1,56 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { factPropTypes } from "../../lib/prop_types";
-import BackgroundImage from "../BackgroundImage";
+import { BackgroundImage } from "../BackgroundImage";
 import { Icon } from "../Icon";
 import { Button } from "../Button";
 import { ExternalUrlShareModalContainer } from "../ExternalUrlShareModalContainer";
 
-export default class Story extends React.Component {
+export class Story extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      loaded: false,
-      favorited: false
+      isLoaded: false,
+      isFavorited: false
     };
     this.imageLoaded = this.imageLoaded.bind(this);
     this.toggleFavorite = this.toggleFavorite.bind(this);
   }
 
   componentDidUpdate(prevProps) {
-    const { story, action } = this.props;
+    const { story, setPlaybackAction } = this.props;
     if (story !== prevProps.story) {
-      action("pause", true);
+      setPlaybackAction("pause", true);
     }
   }
 
   imageLoaded() {
-    const { action } = this.props;
+    const { setPlaybackAction } = this.props;
     try {
-      this.setState({ loaded: true });
-      action("play", true);
+      this.setState({ isLoaded: true });
+      setPlaybackAction("play", true);
     } catch (e) {
       console.log(e);
     }
   }
 
   toggleFavorite() {
-    const { favorited } = this.state;
-    this.setState({ favorited: !favorited });
+    const { isFavorited } = this.state;
+    this.setState({ isFavorited: !isFavorited });
   }
 
   render() {
-    const { story, loader, action, isFullScreen } = this.props;
-    const { loaded, favorited } = this.state;
+    const { story, loader, setPlaybackAction, isFullScreen } = this.props;
+    const { isLoaded, isFavorited } = this.state;
     const shareData = {
       url: story.value.url,
       title: story.label,
       text: story.value.label
     };
     return (
-      <div className="wcp-fact-card__story-content__story-container">
+      <div className="wcp-story-content__story-container">
         <div
-          className="wcp-fact-card__story-content__image-container"
+          className="wcp-story-content__image-container"
           style={{ backgroundImage: `url(${story.value.image.url})` }}
         >
           <BackgroundImage
@@ -59,45 +59,45 @@ export default class Story extends React.Component {
             onError={err => console.log("error", err)}
           />
         </div>
-        <div className="wcp-fact-card__story-content__info">
-          <p className="wcp-fact-card__story-content__info__title">
-            {story.label}
-          </p>
-          <p className="wcp-fact-card__story-content__info__caption">
+        <div className="wcp-story-content__info">
+          <p className="wcp-story-content__info__title">{story.label}</p>
+          <p className="wcp-story-content__info__caption">
             {story.value.label}
           </p>
 
-          <div className={`wcp-fact-card__story-content__info__icons-and-buttons ${!isFullScreen ? 'wcp-hide': 'wcp-show'}`}>
+          <div
+            className={`wcp-story-content__info__icons-and-buttons ${
+              !isFullScreen ? "wcp-hide" : "wcp-show"
+            }`}
+          >
             {story.value.url && story.value.url.length > 0 ? (
-              <span className="wcp-fact-card__story-content__info__icons-and-buttons__share-icon">
+              <span className="wcp-story-content__info__icons-and-buttons__share-icon">
                 <ExternalUrlShareModalContainer
                   shareData={shareData}
                   onModalOpen={() => {
-                    action("pause", true);
+                    setPlaybackAction("pause", true);
                   }}
                   onModalClose={() => {
-                    action("play", true);
+                    setPlaybackAction("play", true);
                   }}
                 >
                   <Icon
-                    className="wcp-fact-card__story-content__info__icons-and-buttons__share-icon-image"
+                    className="wcp-story-content__info__icons-and-buttons__share-icon-image"
                     name="share-white"
                     altText="Share Icon"
                     size="m"
                   />
                 </ExternalUrlShareModalContainer>
               </span>
-            ) : (
-              ""
-            )}
+            ) : null}
             <span
-              className="wcp-fact-card__story-content__info__icons-and-buttons__favorite-icon"
+              className="wcp-story-content__info__icons-and-buttons__favorite-icon"
               onClick={this.toggleFavorite}
               role="presentation"
             >
               <Icon
-                className="wcp-fact-card__story-content__info__icons-and-buttons__favorite-icon-image"
-                name={favorited ? "favorite-active" : "favorite"}
+                className="wcp-story-content__info__icons-and-buttons__favorite-icon-image"
+                name={isFavorited ? "favorite-active" : "favorite"}
                 altText="Favorite Icon"
                 size="m"
               />
@@ -106,24 +106,20 @@ export default class Story extends React.Component {
               <Button
                 type="inverted"
                 isFullWidth={false}
-                className="wcp-fact-card__story-content__container__know-more-button"
+                className="wcp-story-content__container__know-more-button"
                 isLink
                 href={story.value.url}
               >
                 Know More
               </Button>
-            ) : (
-              ""
-            )}
+            ) : null}
           </div>
         </div>
-        {!loaded ? (
-          <div className="wcp-fact-card__story-content__overlay">
+        {!isLoaded ? (
+          <div className="wcp-story-content__overlay">
             {loader || <p>loading..</p>}
           </div>
-        ) : (
-          ""
-        )}
+        ) : null}
       </div>
     );
   }
@@ -131,13 +127,13 @@ export default class Story extends React.Component {
 
 Story.propTypes = {
   story: factPropTypes.isRequired,
-  action: PropTypes.func,
+  setPlaybackAction: PropTypes.func,
   loader: PropTypes.element,
   isFullScreen: PropTypes.bool
 };
 
 Story.defaultProps = {
-  action: null,
+  setPlaybackAction: null,
   loader: null,
   isFullScreen: false
 };

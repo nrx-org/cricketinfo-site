@@ -1,7 +1,7 @@
 import { PureComponent } from "react";
 import PropTypes from "prop-types";
 
-export default class BackgroundImageOnLoad extends PureComponent {
+export class BackgroundImage extends PureComponent {
   componentDidMount() {
     this.handleLoadImage();
   }
@@ -38,12 +38,12 @@ export default class BackgroundImageOnLoad extends PureComponent {
   }
 }
 
-BackgroundImageOnLoad.propTypes = {
+BackgroundImage.propTypes = {
   src: PropTypes.string.isRequired,
   onLoadBg: PropTypes.func.isRequired,
   onError: PropTypes.func
 };
 
-BackgroundImageOnLoad.defaultProps = {
+BackgroundImage.defaultProps = {
   onError: null
 };

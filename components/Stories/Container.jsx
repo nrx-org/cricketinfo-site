@@ -1,28 +1,28 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { factPropTypes } from "../../lib/prop_types";
-import Story from "./Story";
+import { Story } from "./Story";
 import { ProgressBar } from "./ProgressBar";
 import { Icon } from "../Icon";
 
-export default class Container extends React.Component {
+export class Container extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      currentId: 0,
-      pause: true,
+      currentStoryIndex: 0,
+      isPaused: true,
       isFullScreen: false
     };
     this.defaultInterval = 4000;
     this.width = "100%";
     this.height = props.height || 500;
     this.containerRef = React.createRef();
-    this.pause = this.pause.bind(this);
+    this.setPlaybackAction = this.setPlaybackAction.bind(this);
     this.previous = this.previous.bind(this);
     this.next = this.next.bind(this);
-    this.mouseUp = this.mouseUp.bind(this);
-    this.openFullScreen = this.openFullScreen.bind(this);
-    this.closeFullScreen = this.closeFullScreen.bind(this);
+    this.onClick = this.onClick.bind(this);
+    this.onOpenFullScreen = this.onOpenFullScreen.bind(this);
+    this.onCloseFullScreen = this.onCloseFullScreen.bind(this);
     this.pauseAndPlay = this.pauseAndPlay.bind(this);
     this.debouncePause = this.debouncePause.bind(this);
   }
@@ -32,34 +32,7 @@ export default class Container extends React.Component {
     if (interval) this.defaultInterval = interval;
   }
 
-  pause(action) {
-    this.setState({ pause: action === "pause" });
-  }
-
-  previous() {
-    const { currentId } = this.state;
-    if (currentId > 0) {
-      this.setState({
-        currentId: currentId - 1
-      });
-    }
-  }
-
-  next() {
-    const { stories } = this.props;
-    const { currentId } = this.state;
-    if (currentId < stories.length - 1) {
-      this.setState({
-        currentId: currentId + 1
-      });
-    } else {
-      this.setState({
-        currentId: 0
-      });
-    }
-  }
-
-  openFullScreen(e) {
+  onOpenFullScreen(e) {
     e.preventDefault();
     this.setState({
       isFullScreen: true
@@ -69,7 +42,7 @@ export default class Container extends React.Component {
     document.body.classList.add("no-scroll");
   }
 
-  closeFullScreen(e) {
+  onCloseFullScreen(e) {
     e.preventDefault();
     this.setState({
       isFullScreen: false
@@ -79,28 +52,12 @@ export default class Container extends React.Component {
     document.body.classList.remove("no-scroll");
   }
 
-  debouncePause(e) {
-    e.preventDefault();
-    this.setState({
-      mousedownId: setTimeout(() => {
-        this.pause("pause");
-      }, 50)
-    });
-  }
-
-  pauseAndPlay() {
-    this.pause("pause");
-    setTimeout(() => {
-      this.pause("play");
-    }, 50);
-  }
-
-  mouseUp(e, type) {
+  onClick(e, type) {
     const { pause, mousedownId } = this.state;
     e.preventDefault();
     if (mousedownId) clearTimeout(mousedownId);
     if (pause) {
-      this.pause("play");
+      this.setPlaybackAction("play");
     } else if (type === "next") {
       this.next();
     } else {
@@ -108,76 +65,112 @@ export default class Container extends React.Component {
     }
   }
 
+  setPlaybackAction(action) {
+    this.setState({ isPaused: action === "pause" });
+  }
+
+  previous() {
+    const { currentStoryIndex } = this.state;
+    if (currentStoryIndex > 0) {
+      this.setState({
+        currentStoryIndex: currentStoryIndex - 1
+      });
+    }
+  }
+
+  next() {
+    const { stories } = this.props;
+    const { currentStoryIndex } = this.state;
+    if (currentStoryIndex < stories.length - 1) {
+      this.setState({
+        currentStoryIndex: currentStoryIndex + 1
+      });
+    } else {
+      this.setState({
+        currentStoryIndex: 0
+      });
+    }
+  }
+
+  debouncePause(e) {
+    e.preventDefault();
+    this.setState({
+      mousedownId: setTimeout(() => {
+        this.setPlaybackAction("pause");
+      }, 50)
+    });
+  }
+
+  pauseAndPlay() {
+    this.setPlaybackAction("pause");
+    setTimeout(() => {
+      this.setPlaybackAction("play");
+    }, 50);
+  }
+
   render() {
     const { stories, loader } = this.props;
-    const { pause, currentId, isFullScreen } = this.state;
+    const { isPaused, currentStoryIndex, isFullScreen } = this.state;
     return (
       <div
         ref={this.containerRef}
         className={
           isFullScreen
-            ? "wcp-fact-card__story-content__container wcp-fact-card__story-content__container__full-screen"
-            : "wcp-fact-card__story-content__container"
+            ? "wcp-story-content__container wcp-story-content__container__full-screen"
+            : "wcp-story-content__container"
         }
       >
         {isFullScreen ? (
           <div
-            className="wcp-fact-card__story-content__container__close-fullscreen-icon"
-            onClick={this.closeFullScreen}
+            className="wcp-story-content__container__close-fullscreen-icon"
+            onClick={this.onCloseFullScreen}
             role="presentation"
           >
             <Icon name="close" altText="Close Fullscreen Story Icon" size="m" />
           </div>
-        ) : (
-          ""
-        )}
+        ) : null}
         <ProgressBar
           next={this.next}
-          pause={pause}
+          pause={isPaused}
           progressMap={stories.map((s, i) => {
             return { url: s.url, id: i };
           })}
           interval={this.defaultInterval}
-          currentStory={stories[currentId]}
+          currentStory={stories[currentStoryIndex]}
           progress={{
-            id: currentId,
+            id: currentStoryIndex,
             completed: 0 / this.defaultInterval
           }}
         />
         <Story
-          action={this.pause}
-          height={this.height}
-          playState={pause}
-          width={this.width}
-          story={stories[currentId]}
+          setPlaybackAction={this.setPlaybackAction}
+          story={stories[currentStoryIndex]}
           loader={loader}
-          key={currentId}
+          key={currentStoryIndex}
           isFullScreen={isFullScreen}
         />
-        <div className="wcp-fact-card__story-content__container-overlay">
+        <div className="wcp-story-content__container-overlay">
           {!isFullScreen ? (
             <div
-              className="wcp-fact-card__story-content__full-screen-trigger"
-              onClick={this.openFullScreen}
+              className="wcp-story-content__full-screen-trigger"
+              onClick={this.onOpenFullScreen}
               role="presentation"
             />
-          ) : (
-            ""
-          )}
+          ) : null}
           <div
-            className="wcp-fact-card__story-content__container-overlay__left-half"
+            className="wcp-story-content__container-overlay__left-half"
             onTouchStart={this.debouncePause}
-            onTouchEnd={e => this.mouseUp(e, "previous")}
+            onTouchEnd={e => this.onClick(e, "previous")}
             onMouseDown={this.debouncePause}
-            onMouseUp={e => this.mouseUp(e, "previous")}
+            onMouseUp={e => this.onClick(e, "previous")}
             role="presentation"
           />
           <div
-            className="wcp-fact-card__story-content__container-overlay__right-half"
+            className="wcp-story-content__container-overlay__right-half"
             onTouchStart={this.debouncePause}
-            onTouchEnd={e => this.mouseUp(e, "next")}
+            onTouchEnd={e => this.onClick(e, "next")}
             onMouseDown={this.debouncePause}
-            onMouseUp={e => this.mouseUp(e, "next")}
+            onMouseUp={e => this.onClick(e, "next")}
             role="presentation"
           />
         </div>

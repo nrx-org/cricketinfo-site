@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-export default class ProgressBarSingle extends React.PureComponent {
+export class ProgressBarSegment extends React.PureComponent {
   constructor(props) {
     super(props);
     this.state = {
@@ -50,7 +50,7 @@ export default class ProgressBarSingle extends React.PureComponent {
     }
     return (
       <div
-        className="wcp-fact-card__story-content__progress-bar__single"
+        className="wcp-story-content__progress-bar__single"
         style={{
           width: `${width * 100}%`,
           opacity: pause ? 0 : 1
@@ -60,7 +60,7 @@ export default class ProgressBarSingle extends React.PureComponent {
           ref={r => {
             this.inner = r;
           }}
-          className="wcp-fact-card__story-content__progress-bar__single__inner"
+          className="wcp-story-content__progress-bar__single__inner"
           style={innerStyle}
         />
       </div>
@@ -68,7 +68,7 @@ export default class ProgressBarSingle extends React.PureComponent {
   }
 }
 
-ProgressBarSingle.propTypes = {
+ProgressBarSegment.propTypes = {
   width: PropTypes.number,
   interval: PropTypes.number,
   pause: PropTypes.bool,
@@ -76,7 +76,7 @@ ProgressBarSingle.propTypes = {
   active: PropTypes.number
 };
 
-ProgressBarSingle.defaultProps = {
+ProgressBarSegment.defaultProps = {
   width: 0,
   interval: 0,
   pause: false,

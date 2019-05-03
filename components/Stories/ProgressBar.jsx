@@ -1,11 +1,11 @@
 import React from "react";
 import PropTypes from "prop-types";
-import ProgressBarSingle from "./ProgressBarSingle";
+import { ProgressBarSegment } from "./ProgressBarSegment";
 
 export const ProgressBar = props => {
   const { progressMap, next, interval, progress, pause } = props;
   return (
-    <div className="wcp-fact-card__story-content__progress-bar">
+    <div className="wcp-story-content__progress-bar">
       {progressMap.map(i => {
         let isActive = 0;
         if (i.id === progress.id) {
@@ -14,7 +14,7 @@ export const ProgressBar = props => {
           isActive = 2;
         }
         return (
-          <ProgressBarSingle
+          <ProgressBarSegment
             key={`${i.id}-${i.url}`}
             width={1 / progressMap.length}
             next={next}

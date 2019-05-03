@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 
 import { IconButton } from "./IconButton";
 import { ModalContextConsumer } from "./ModalContext";
-import { StoriesContainer } from "./StoriesContent";
+import { StoriesContainer } from "./StoriesContainer";
 
 import { factCardDataPropTypes } from "../lib/prop_types";
 import { SHARE_MODAL_ID } from "../lib/modal_ids";
