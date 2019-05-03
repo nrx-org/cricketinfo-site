@@ -28,10 +28,6 @@ export const Timeline = ({ cardData, type }) => {
   );
 };
 
-Timeline.defaultProps = {
-  type: "vertical"
-};
-
 Timeline.propTypes = {
   cardData: factCardDataPropTypes.isRequired,
   type: PropTypes.string.isRequired

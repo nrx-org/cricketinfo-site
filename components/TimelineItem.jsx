@@ -1,6 +1,5 @@
 import React from "react";
 import { factPropTypes } from "../lib/prop_types";
-import PropTypes from "prop-types";
 import { TinyCardCarousel } from "./TinyCardCarousel";
 
 export const TimelineItem = ({ fact }) => (
@@ -25,16 +24,13 @@ export const TimelineItem = ({ fact }) => (
       <div className="wcp-timeline-item__line-and-dot__line" />
     </div>
     <TinyCardCarousel cards={fact.value.facts} />
-
   </div>
 );
 
 TimelineItem.propTypes = {
-  fact: factPropTypes,
-  type: PropTypes.string
+  fact: factPropTypes
 };
 
 TimelineItem.defaultProps = {
-  fact: null,
-  type: "vertical"
+  fact: null
 };
