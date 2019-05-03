@@ -2,6 +2,7 @@
 @import "./base";
 
 @import "./pages/article";
+@import "./pages/home";
 
 @import "./components/TinyCard";
 @import "./components/LanguageSelector";
@@ -18,6 +19,7 @@
 @import "./components/Pill";
 @import "./components/PillList";
 @import "components/FloatingToolbar";
+@import "components/FloatingToolbarButton";
 @import "components/SectionTitle";
 @import "components/TinyCardCarousel";
 @import "components/AvatarList";

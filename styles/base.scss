@@ -43,6 +43,10 @@ input[type="text"] {
   padding: $gutter-m;
 }
 
+button {
+  all: unset;
+}
+
 .noscroll {
   overflow: hidden;
 }

@@ -10,6 +10,16 @@ app
   .then(() => {
     const server = express();
 
+    server.get("/wiki/:lang", (req, res) => {
+      const actualPage = "/home";
+
+      const queryParams = {
+        lang: req.params.lang
+      };
+
+      app.render(req, res, actualPage, queryParams);
+    });
+
     server.get("/wiki/:lang/:articleId", (req, res) => {
       const actualPage = "/article";
 

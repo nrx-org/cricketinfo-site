@@ -1,0 +1,13 @@
+.wcp-home__header {
+  margin: -$gutter-m;
+  background-color: $color-blue-darker;
+  height: 9rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.wcp-home__logo {
+  align-self: flex-start;
+  margin-left: 3 * $gutter-m;
+}

@@ -14,9 +14,9 @@ import {
   ModalContextConsumer
 } from "../components/ModalContext";
 import { ArticleSummaryModalContainer } from "../components/ArticleSummaryModalContainer";
-import { FloatingToolbarContainer } from "../components/FloatingToolbarContainer";
+import { ShareArticleFloatingToolbarContainer } from "../components/ShareArticleFloatingToolbarContainer";
 
-import { makeTitle } from "../lib/make_title";
+import { makeArticleTitle } from "../lib/make_title";
 import { articleContentUrl } from "../lib/urls";
 import {
   translationsPropTypes,
@@ -37,7 +37,7 @@ const Article = ({
     <ModalContextProvider>
       <BaseLayout>
         <Head>
-          <title>{makeTitle(title, lang)}</title>
+          <title>{makeArticleTitle(title, lang)}</title>
         </Head>
         <div className="wcp-article__cover-image-container">
           <img
@@ -46,7 +46,7 @@ const Article = ({
             alt={coverImage.altText}
           />
         </div>
-        <FloatingToolbarContainer articleId={articleId} />
+        <ShareArticleFloatingToolbarContainer articleId={articleId} />
         <section>
           <h1 className="wcp-article__title">{title}</h1>
 

@@ -7,8 +7,20 @@ import { ModalContextConsumer } from "./ModalContext";
 import { SHARE_MODAL_ID } from "../lib/modal_ids";
 import { FloatingToolbar } from "./FloatingToolbar";
 import { LanguageContext } from "../language_context";
+import { FloatingToolbarButton } from "./FloatingToolbarButton";
+import { getAbsoluteArticleUrl, getPdfShareUrl } from "../lib/urls";
 
-export const FloatingToolbarContainer = ({ articleId }) => {
+const SAVE_TEXT = {
+  hi: "सेव करें",
+  en: "Save for later"
+};
+
+const SHARE_TEXT = {
+  hi: "लेख शेयर करें",
+  en: "Share article"
+};
+
+export const ShareArticleFloatingToolbarContainer = ({ articleId }) => {
   const shareData = process.browser
     ? {
         title: document.title,
@@ -42,7 +54,20 @@ export const FloatingToolbarContainer = ({ articleId }) => {
                 openModal={openModal}
                 articleId={articleId}
                 lang={lang}
-              />
+              >
+                <FloatingToolbarButton
+                  href={getPdfShareUrl(getAbsoluteArticleUrl(articleId, lang))}
+                  icon={{ name: "bookmark", altText: "Save for later icon" }}
+                  label={SAVE_TEXT[lang]}
+                />
+                <FloatingToolbarButton
+                  onClick={event => {
+                    onShareClick(event, openModal);
+                  }}
+                  icon={{ name: "share", altText: "Share icon" }}
+                  label={SHARE_TEXT[lang]}
+                />
+              </FloatingToolbar>
               <ShareModalContainer
                 registerModal={registerModal}
                 isModalOpen={isModalOpen}
@@ -58,6 +83,6 @@ export const FloatingToolbarContainer = ({ articleId }) => {
   );
 };
 
-FloatingToolbarContainer.propTypes = {
+ShareArticleFloatingToolbarContainer.propTypes = {
   articleId: PropTypes.string.isRequired
 };
