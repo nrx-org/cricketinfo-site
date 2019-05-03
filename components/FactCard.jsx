@@ -7,8 +7,8 @@ import { ModalContextConsumer } from "./ModalContext";
 import { factCardDataPropTypes } from "../lib/prop_types";
 import { SHARE_MODAL_ID } from "../lib/modal_ids";
 import { getImageShareUrl } from "../lib/urls";
-import { VerticalTimeline } from "./VerticalTimeline";
 import { BarChart } from "./BarChart";
+import { Timeline } from "./Timeline";
 import { SectionTitle } from "./SectionTitle";
 import { AvatarList } from "./AvatarList";
 import { LargeCardCarousel } from "./LargeCardCarousel";
@@ -96,7 +96,11 @@ export const FactCard = ({ cardData }) => {
   }
 
   if (cardData.cardType === "vertical_timeline") {
-    return <VerticalTimeline cardData={cardData} />;
+    return <Timeline cardData={cardData} type="vertical" />;
+  }
+
+  if (cardData.cardType === "horizontal_timeline") {
+    return <Timeline cardData={cardData} type="horizontal" />;
   }
 
   if (cardData.cardType === "large_carousel") {

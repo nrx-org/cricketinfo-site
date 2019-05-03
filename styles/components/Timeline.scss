@@ -1,0 +1,129 @@
+// for the card
+$timelineDotSize: 0.375rem;
+
+.wcp-timeline {
+  padding-left: $gutter-l;
+}
+
+.wcp-timeline-item {
+  position: relative;
+  &:last-child {
+    &:before {
+      content: none;
+    }
+  }
+}
+
+.wcp-timeline-item__line-and-dot {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+
+  .wcp-timeline-item__line-and-dot__dot {
+    width: $timelineDotSize;
+    height: $timelineDotSize;
+    border-radius: $timelineDotSize/2;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    background: $color-blue-dark;
+  }
+
+  .wcp-timeline-item__line-and-dot__line {
+    background: $color-blue-dark;
+  }
+}
+
+.wcp-vertical-timeline .wcp-timeline-item__line-and-dot {
+  position: absolute;
+  top: 0.625rem;
+  bottom: -1rem;
+  left: -1.05rem;
+  .wcp-timeline-item__line-and-dot__line {
+    height: calc(100% - 2.1rem);
+    margin-top: 0.05rem;
+    width: 1px;
+  }
+}
+
+.wcp-timeline-item:last-child {
+  .wcp-timeline-item__inner-cards-list {
+    padding-bottom: $gutter-m;
+    margin-bottom: 0-$gutter-m;
+  }
+
+  .wcp-timeline-item__line-and-dot .wcp-timeline-item__line-and-dot__line {
+    display: none !important;
+  }
+}
+
+.wcp-timeline-item__label {
+  font-size: $font-size-l;
+  line-height: $line-height-m;
+  color: $color-black-medium;
+  margin-bottom: 0;
+  margin-top: $gutter-xs;
+  position: relative;
+
+  span {
+    font-size: $font-size-s;
+    color: $color-gray-medium;
+    font-family: $font-family-body;
+    font-weight: normal;
+  }
+}
+
+.wcp-timeline-item__content {
+  color: $color-gray-dark;
+  line-height: $line-height-m;
+}
+
+// horizontal timeline styles
+
+.wcp-horizontal-timeline .wcp-tiny-card-carousel {
+  flex-direction: column;
+  overflow-x: auto;
+  margin-left: 0;
+  .wcp-tiny-card--passive + .wcp-tiny-card--passive::before {
+    margin-right: 0.5rem;
+  }
+}
+
+.wcp-horizontal-timeline {
+  padding-left: 0;
+  width: 100%;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  display: flex;
+  flex-direction: row;
+  @include hide-scrollbar();
+}
+
+.wcp-horizontal-timeline .wcp-timeline-item__label {
+  color: $color-gray-dark;
+}
+
+.wcp-horizontal-timeline .wcp-timeline-item {
+  overflow-x: visible;
+}
+
+.wcp-horizontal-timeline .wcp-timeline-item:not(:first-child) {
+  margin-left: $gutter-m;
+}
+
+.wcp-horizontal-timeline .wcp-timeline-item__line-and-dot {
+  width: 104.7%;
+  margin-top: $gutter-s;
+  position: relative;
+  height: $timelineDotSize;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.wcp-horizontal-timeline .wcp-timeline-item__line-and-dot__line {
+  width: calc(100% - 0.55rem);
+  margin-left: 0.1rem;
+  margin-top: 1px;
+  height: 1px;
+}
