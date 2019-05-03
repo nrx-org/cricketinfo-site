@@ -1,0 +1,38 @@
+{
+  "title": "Virat Kohli",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:Virat..Kohli.jpg",
+    "altText": "Virat Kohli"
+  },
+  "summary": "Indian international cricketer who currently captains the India national team.",
+  "translations": [
+    {
+      "url": "/wiki/hi/भारत",
+      "title": "भारत",
+      "lang": "hi"
+    },
+    { "url": "/wiki/pa/ਭਾਰਤ", "title": "ਭਾਰਤ", "lang": "pa" }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        { "label": "Birth Name", "value": "" },
+        { "label": "Nickname", "value": "" },
+        { "label": "Born on", "value": "5/11/1988" },
+        { "label": "Age", "value": "31" },
+        { "label": "Residence", "value": "" },
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "Indian",
+            "url": "https://en.wikipedia.org/wiki/Indian_people"
+          }
+        },
+        { "label": "Height", "value": "5 ft 9 in (1.75 m)" },
+        { "label": "Age" }
+      ]
+    }
+  ]
+}
