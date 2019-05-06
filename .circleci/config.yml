@@ -40,6 +40,10 @@ workflows:
   test_and_deploy:
     jobs:
       - lint
-      - deploy: 
+      - deploy:
           requires:
             - lint
+          filters:
+            branches:
+              only:
+                - master
