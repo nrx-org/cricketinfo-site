@@ -25,7 +25,7 @@ records.forEach(record => {
     title: record["Name of personality"],
     coverImage: {
       url: record["Header image"],
-      altText: record["Name of personality"] //TODO: change this to image title
+      altText: record["Name of personality"] // TODO: change this to image title
     },
     summary: record["Short description of personality"],
     sections: [
@@ -34,7 +34,7 @@ records.forEach(record => {
         cardType: "table",
         facts: [
           { label: "Full Name", value: record["Birth Name"] },
-          { label: "Born on", value: record["Born on"] }, //TODO: format the dates on this line
+          { label: "Born on", value: record["Born on"] }, // TODO: format the dates on this line
           {
             label: "Birthplace",
             value: {
@@ -67,7 +67,7 @@ records.forEach(record => {
               label: record["Relation 1"],
               image: {
                 url: record["Link to the image of relation 1"],
-                altText: "text goes here" //TODO: Replace
+                altText: "text goes here" // TODO: Replace
               }
             }
           }
@@ -148,22 +148,21 @@ records.forEach(record => {
             }
           }
         ]
-      }, 
-      
+      }
     ]
   };
 
-  const sluggedTitle = slugify(article.title, "_").toLowerCase(); //TODO: remove slugify
+  const sluggedTitle = slugify(article.title, "_").toLowerCase(); // TODO: remove slugify
 
   fs.writeFile(`./csv/${sluggedTitle}.json`, JSON.stringify(article), err => {
     if (err) console.log(err);
   });
 });
 
-//TODO: refactor components to not dispolay things if value is empty string.
+// TODO: refactor components to not dispolay things if value is empty string.
 
-//TODO: optimize the images by downloading them all initially and then running them
-//through ImageOptim and then moving them to static.
+// TODO: optimize the images by downloading them all initially and then running them
+// through ImageOptim and then moving them to static.
 
-//TODO: write a function which takes every url, and enters it only if the
-//link of the url exisst in our experience
+// TODO: write a function which takes every url, and enters it only if the
+// link of the url exisst in our experience
