@@ -10,9 +10,9 @@ export class Story extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      isLoaded: false,
       isFavorited: false
     };
+
     this.imageLoaded = this.imageLoaded.bind(this);
     this.toggleFavorite = this.toggleFavorite.bind(this);
   }
@@ -25,10 +25,10 @@ export class Story extends React.Component {
   }
 
   imageLoaded() {
-    const { setPlaybackAction } = this.props;
+    const { setPlaybackAction, onStoryImageLoad } = this.props;
     try {
-      this.setState({ isLoaded: true });
       setPlaybackAction("play", true);
+      onStoryImageLoad();
     } catch (e) {
       console.log(e);
     }
@@ -40,8 +40,14 @@ export class Story extends React.Component {
   }
 
   render() {
-    const { story, loader, setPlaybackAction, isFullScreen } = this.props;
-    const { isLoaded, isFavorited } = this.state;
+    const {
+      story,
+      loader,
+      setPlaybackAction,
+      isFullScreen,
+      hasImageLoaded
+    } = this.props;
+    const { isFavorited } = this.state;
     const shareData = {
       url: story.value.url,
       title: story.label,
@@ -56,6 +62,7 @@ export class Story extends React.Component {
           <BackgroundImage
             src={story.value.image.url}
             onLoadBg={this.imageLoaded}
+            hasImageLoaded={hasImageLoaded}
             onError={err => console.log("error", err)}
           />
         </div>
@@ -115,7 +122,7 @@ export class Story extends React.Component {
             ) : null}
           </div>
         </div>
-        {!isLoaded ? (
+        {!hasImageLoaded ? (
           <div className="wcp-story-content__overlay">
             {loader || <p>loading..</p>}
           </div>
@@ -129,11 +136,15 @@ Story.propTypes = {
   story: factPropTypes.isRequired,
   setPlaybackAction: PropTypes.func,
   loader: PropTypes.element,
-  isFullScreen: PropTypes.bool
+  isFullScreen: PropTypes.bool,
+  hasImageLoaded: PropTypes.bool,
+  onStoryImageLoad: PropTypes.func
 };
 
 Story.defaultProps = {
   setPlaybackAction: null,
   loader: null,
-  isFullScreen: false
+  isFullScreen: false,
+  hasImageLoaded: false,
+  onStoryImageLoad: null
 };

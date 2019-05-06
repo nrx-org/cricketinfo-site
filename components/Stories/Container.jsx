@@ -11,7 +11,10 @@ export class Container extends React.Component {
     this.state = {
       currentStoryIndex: 0,
       isPaused: true,
-      isFullScreen: false
+      isFullScreen: false,
+      storyImagesLoaded: props.stories.map(() => {
+        return false;
+      })
     };
     this.defaultInterval = 4000;
     this.width = "100%";
@@ -25,6 +28,7 @@ export class Container extends React.Component {
     this.onCloseFullScreen = this.onCloseFullScreen.bind(this);
     this.pauseAndPlay = this.pauseAndPlay.bind(this);
     this.debouncePause = this.debouncePause.bind(this);
+    this.onStoryImageLoad = this.onStoryImageLoad.bind(this);
   }
 
   componentDidMount() {
@@ -63,6 +67,15 @@ export class Container extends React.Component {
     } else {
       this.previous();
     }
+  }
+
+  onStoryImageLoad() {
+    const { currentStoryIndex } = this.state;
+    this.setState(prevState => {
+      const newStoryImagesLoaded = [...prevState.storyImagesLoaded];
+      newStoryImagesLoaded[currentStoryIndex] = true;
+      return { storyImagesLoaded: newStoryImagesLoaded };
+    });
   }
 
   setPlaybackAction(action) {
@@ -110,7 +123,12 @@ export class Container extends React.Component {
 
   render() {
     const { stories, loader } = this.props;
-    const { isPaused, currentStoryIndex, isFullScreen } = this.state;
+    const {
+      isPaused,
+      currentStoryIndex,
+      isFullScreen,
+      storyImagesLoaded
+    } = this.state;
     return (
       <div
         ref={this.containerRef}
@@ -148,6 +166,8 @@ export class Container extends React.Component {
           loader={loader}
           key={currentStoryIndex}
           isFullScreen={isFullScreen}
+          hasImageLoaded={storyImagesLoaded[currentStoryIndex]}
+          onStoryImageLoad={this.onStoryImageLoad}
         />
         <div className="wcp-story-content__container-overlay">
           {!isFullScreen ? (

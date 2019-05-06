@@ -18,19 +18,25 @@ export class BackgroundImage extends PureComponent {
   }
 
   handleLoadImage() {
-    const { onLoadBg, onError, src } = this.props;
-    const image = new Image();
-    image.src = src;
-    image.onload = () => {
-      if (!this.unMount && onLoadBg) {
-        onLoadBg(image);
-      }
-    };
-    image.onerror = e => {
-      if (onError) {
-        onError(e);
-      }
-    };
+    const { onLoadBg, onError, src, hasImageLoaded } = this.props;
+
+    // if the image has loaded once, do not create image object
+    if (hasImageLoaded && !this.unMount && onLoadBg) {
+      onLoadBg();
+    } else {
+      const image = new Image();
+      image.src = src;
+      image.onload = () => {
+        if (!this.unMount && onLoadBg) {
+          onLoadBg(image);
+        }
+      };
+      image.onerror = e => {
+        if (onError) {
+          onError(e);
+        }
+      };
+    }
   }
 
   render() {
@@ -41,9 +47,11 @@ export class BackgroundImage extends PureComponent {
 BackgroundImage.propTypes = {
   src: PropTypes.string.isRequired,
   onLoadBg: PropTypes.func.isRequired,
-  onError: PropTypes.func
+  onError: PropTypes.func,
+  hasImageLoaded: PropTypes.bool
 };
 
 BackgroundImage.defaultProps = {
-  onError: null
+  onError: null,
+  hasImageLoaded: false
 };
