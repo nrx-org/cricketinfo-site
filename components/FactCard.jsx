@@ -10,6 +10,7 @@ import { getImageShareUrl } from "../lib/urls";
 import { VerticalTimeline } from "./VerticalTimeline";
 import { SectionTitle } from "./SectionTitle";
 import { AvatarList } from "./AvatarList";
+import { LargeCardCarouselSection } from "./LargeCardCarouselSection";
 
 const FactCardTable = ({ cardData }) => {
   const content = cardData.facts.map(f => (
@@ -81,18 +82,27 @@ FactCardText.propTypes = {
 };
 
 export const FactCard = ({ cardData }) => {
-  let content = null;
   if (cardData.cardType === "table") {
-    content = <FactCardTable cardData={cardData} />;
-  } else if (cardData.cardType === "avatar") {
-    content = <AvatarList cardData={cardData} />;
-  } else if (cardData.cardType === "simple") {
-    content = <FactCardTextContainer cardData={cardData} />;
-  } else if (cardData.cardType === "vertical_timeline") {
-    content = <VerticalTimeline cardData={cardData} />;
+    return <FactCardTable cardData={cardData} />;
   }
 
-  return content;
+  if (cardData.cardType === "avatar") {
+    return <AvatarList cardData={cardData} />;
+  }
+
+  if (cardData.cardType === "simple") {
+    return <FactCardTextContainer cardData={cardData} />;
+  }
+
+  if (cardData.cardType === "vertical_timeline") {
+    return <VerticalTimeline cardData={cardData} />;
+  }
+
+  if (cardData.cardType === "large_carousel") {
+    return <LargeCardCarouselSection cardData={cardData} />;
+  }
+
+  return null;
 };
 
 FactCard.propTypes = {

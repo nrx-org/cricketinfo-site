@@ -1,0 +1,17 @@
+.wcp-large-card-carousel {
+  overflow-x: scroll;
+  display: flex;
+  flex-direction: row;
+  padding-bottom: $gutter-m;
+  margin-right: -$gutter-m;
+  margin-left: -$gutter-m;
+  @include hide-scrollbar();
+}
+
+// Fix a bug where the right shadow is cut-off by the browser.
+.wcp-large-card-carousel::before,
+.wcp-large-card-carousel::after {
+  content: "";
+  display: block;
+  min-width: 1rem;
+}

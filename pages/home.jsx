@@ -9,14 +9,19 @@ import { makeSiteTitle } from "../lib/make_title";
 import { homeContentUrl } from "../lib/urls";
 import { SwitchLanguageFloatingToolbar } from "../components/SwitchLanguageFloatingToolbar";
 
-import { translationsPropTypes } from "../lib/prop_types";
+import {
+  factCardDataPropTypes,
+  translationsPropTypes
+} from "../lib/prop_types";
+import { FactCard } from "../components/FactCard";
 
-const Home = ({ lang, translations }) => (
+const Home = ({ lang, translations, sections }) => (
   <LanguageContext.Provider lang={lang}>
     <BaseLayout>
       <Head>
         <title>{makeSiteTitle(lang)}</title>
       </Head>
+
       <header className="wcp-home__header">
         <img
           className="wcp-home__logo"
@@ -24,7 +29,16 @@ const Home = ({ lang, translations }) => (
           alt="World Cup logo"
         />
       </header>
+
       <SwitchLanguageFloatingToolbar translations={translations} />
+
+      {sections.map(factCard => (
+        <FactCard
+          key={factCard.title}
+          className="wcp-summary-fact-card"
+          cardData={factCard}
+        />
+      ))}
     </BaseLayout>
   </LanguageContext.Provider>
 );
@@ -40,7 +54,8 @@ Home.getInitialProps = async ({ query }) => {
 
 Home.propTypes = {
   lang: PropTypes.string.isRequired,
-  translations: translationsPropTypes.isRequired
+  translations: translationsPropTypes.isRequired,
+  sections: PropTypes.arrayOf(factCardDataPropTypes).isRequired
 };
 
 export default Home;

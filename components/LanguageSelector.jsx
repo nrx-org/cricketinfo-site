@@ -1,6 +1,6 @@
 import React from "react";
 
-import { LanguageCard } from "./LanguageCard";
+import { LargeCard } from "./LargeCard";
 import { translationsPropTypes, imagePropTypes } from "../lib/prop_types";
 import { LanguageContext } from "../language_context";
 
@@ -23,7 +23,7 @@ export class LanguageSelector extends React.Component {
     const lang = this.context;
     const cards = translations.map(t => {
       return (
-        <LanguageCard
+        <LargeCard
           key={t.title}
           url={t.url}
           title={t.title}
