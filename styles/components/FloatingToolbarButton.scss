@@ -1,20 +1,11 @@
-.wcp-floating-toolbar-button {
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-
-  margin: 0 $gutter-m;
-}
-
 .wcp-floating-toolbar-button__text {
-  font-size: $font-size-xxs;
+  font-size: $font-size-xs;
   margin-left: $gutter-s;
-  flex: 1 1 auto;
   letter-spacing: 0.4px;
 }
 
 .wcp-floating-toolbar-button__icon {
   border-radius: 50%;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
-  flex: 1 1 auto;
+  vertical-align: middle;
 }

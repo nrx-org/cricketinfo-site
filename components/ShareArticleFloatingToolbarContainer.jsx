@@ -1,3 +1,5 @@
+/* eslint-disable react/jsx-wrap-multilines */
+
 import React from "react";
 import PropTypes from "prop-types";
 
@@ -49,25 +51,27 @@ export const ShareArticleFloatingToolbarContainer = ({ articleId }) => {
             closeModal
           }) => (
             <>
+              {}
               <FloatingToolbar
-                onShareClick={onShareClick}
-                openModal={openModal}
-                articleId={articleId}
-                lang={lang}
-              >
-                <FloatingToolbarButton
-                  href={getPdfShareUrl(getAbsoluteArticleUrl(articleId, lang))}
-                  icon={{ name: "bookmark", altText: "Save for later icon" }}
-                  label={SAVE_TEXT[lang]}
-                />
-                <FloatingToolbarButton
-                  onClick={event => {
-                    onShareClick(event, openModal);
-                  }}
-                  icon={{ name: "share", altText: "Share icon" }}
-                  label={SHARE_TEXT[lang]}
-                />
-              </FloatingToolbar>
+                leftButton={
+                  <FloatingToolbarButton
+                    href={getPdfShareUrl(
+                      getAbsoluteArticleUrl(articleId, lang)
+                    )}
+                    icon={{ name: "bookmark", altText: "Save for later icon" }}
+                    label={SAVE_TEXT[lang]}
+                  />
+                }
+                rightButton={
+                  <FloatingToolbarButton
+                    onClick={event => {
+                      onShareClick(event, openModal);
+                    }}
+                    icon={{ name: "share", altText: "Share icon" }}
+                    label={SHARE_TEXT[lang]}
+                  />
+                }
+              />
               <ShareModalContainer
                 registerModal={registerModal}
                 isModalOpen={isModalOpen}

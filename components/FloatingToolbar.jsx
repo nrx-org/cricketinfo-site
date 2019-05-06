@@ -1,19 +1,18 @@
 import React from "react";
 import { PropTypes } from "prop-types";
 
-export const FloatingToolbar = ({ children }) => {
+export const FloatingToolbar = ({ leftButton, rightButton }) => {
   return (
     <div className="wcp-floating-toolbar">
-      {children.reduce((acc, c, i) => {
-        if (i === children.length - 1) {
-          return acc.concat(c);
-        }
-        return acc.concat(c, <div className="wcp-floating-toolbar__divider" />);
-      }, [])}
+      <div className="wcp-floating-toolbar__button-container">{leftButton}</div>
+      <div className="wcp-floating-toolbar__button-container">
+        {rightButton}
+      </div>
     </div>
   );
 };
 
 FloatingToolbar.propTypes = {
-  children: PropTypes.node.isRequired
+  leftButton: PropTypes.node.isRequired,
+  rightButton: PropTypes.node.isRequired
 };

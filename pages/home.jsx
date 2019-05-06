@@ -7,8 +7,8 @@ import { BaseLayout } from "../components/BaseLayout";
 import { LanguageContext } from "../language_context";
 import { makeSiteTitle } from "../lib/make_title";
 import { homeContentUrl } from "../lib/urls";
-import { FloatingToolbar } from "../components/FloatingToolbar";
-import { FloatingToolbarButton } from "../components/FloatingToolbarButton";
+import { SwitchLanguageFloatingToolbar } from "../components/SwitchLanguageFloatingToolbar";
+
 import { translationsPropTypes } from "../lib/prop_types";
 
 const Home = ({ lang, translations }) => (
@@ -24,11 +24,7 @@ const Home = ({ lang, translations }) => (
           alt="World Cup logo"
         />
       </header>
-      <FloatingToolbar>
-        {translations.map(t => (
-          <FloatingToolbarButton label={t.title} icon={null} href={t.url} />
-        ))}
-      </FloatingToolbar>
+      <SwitchLanguageFloatingToolbar translations={translations} />
     </BaseLayout>
   </LanguageContext.Provider>
 );

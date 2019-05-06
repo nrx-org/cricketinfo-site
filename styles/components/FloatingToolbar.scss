@@ -20,9 +20,12 @@
   text-align: center;
 }
 
-.wcp-floating-toolbar__divider {
-  content: "";
-  width: 1px;
-  height: 100%;
-  background-color: $color-blue-light;
+.wcp-floating-toolbar__button-container {
+  flex-basis: 0;
+  flex-grow: 1;
+  text-align: center;
+}
+
+.wcp-floating-toolbar__button-container + .wcp-floating-toolbar__button-container {
+  border-left: solid 1px $color-blue-light;
 }
