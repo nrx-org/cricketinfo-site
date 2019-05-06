@@ -8,6 +8,7 @@ import { factCardDataPropTypes } from "../lib/prop_types";
 import { SHARE_MODAL_ID } from "../lib/modal_ids";
 import { getImageShareUrl } from "../lib/urls";
 import { VerticalTimeline } from "./VerticalTimeline";
+import { BarChart } from "./BarChart";
 import { SectionTitle } from "./SectionTitle";
 import { AvatarList } from "./AvatarList";
 
@@ -95,6 +96,14 @@ export const FactCard = ({ cardData }) => {
 
   if (cardData.cardType === "vertical_timeline") {
     return <VerticalTimeline cardData={cardData} />;
+  }
+
+  if (cardData.cardType === "large_carousel") {
+    return <LargeCardCarouselSection cardData={cardData} />;
+  }
+
+  if (cardData.cardType === "bar_chart") {
+    return <BarChart cardData={cardData} />;
   }
 
   return null;
