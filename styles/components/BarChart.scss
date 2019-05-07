@@ -1,0 +1,56 @@
+.wcp-bar-chart {
+  width: 100%;
+}
+
+.wcp-bar-chart__single-bar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: $line-height-l;
+}
+
+.wcp-bar-chart__single-bar__label {
+  width: 25%;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  font-size: $font-size-xxs;
+  color: $color-gray-dark;
+  line-height: $line-height-xs;
+  font-weight: bold;
+}
+
+.wcp-bar-chart__single-bar__percentage {
+  width: 15%;
+  font-size: $font-size-xs;
+  color: $color-black-medium;
+  line-height: $line-height-xs;
+  text-align: right;
+  margin-right: 0;
+}
+
+.wcp-bar-chart__single-bar__bar {
+  width: 50%;
+  position: relative;
+  height: 0.5rem;
+  background: $color-gray-lightest;
+}
+
+.wcp-bar-chart__single-bar__bar__inner {
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+$colors: $color-extra-green $color-extra-orange $color-extra-purple
+  $color-extra-yellow;
+
+@for $i from 1 through length($colors) {
+  .wcp-bar-chart__single-bar:nth-child(#{length($colors)}n + #{$i})
+    .wcp-bar-chart__single-bar__bar__inner {
+    background: nth($colors, $i);
+  }
+}

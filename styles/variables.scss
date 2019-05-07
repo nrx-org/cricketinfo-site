@@ -13,6 +13,7 @@ $font-size-xxxl: 36.765px;
 $font-size-xxxxl: 46.977px;
 
 // Line heights
+$line-height-xs: 16px;
 $line-height-s: 17px;
 $line-height-m: 24px;
 $line-height-l: 27px;
@@ -28,6 +29,7 @@ $color-gray-medium: #6a6e71;
 $color-gray-faded: #72777D;
 $color-gray-light: #C8CCD1;
 $color-gray-lighter: #f0f0f2;
+$color-gray-lightest: #F8F9FA;
 $color-blue-darker: #2A4B8D;
 $color-blue-dark: #3366cc;
 $color-blue-light: #eaf3ff;
@@ -39,6 +41,12 @@ $color-yellow-dark: #ffcc33;
 $color-yellow-medium: rgba(248, 255, 0, 0.35);
 $color-yellow-light: rgba(255, 204, 51, 0.16);
 $color-beige: #fef6e7;
+
+// Extra set of colors for more visual stuff like bar-charts, etc.
+$color-extra-orange: #FF8933;
+$color-extra-green: #00AF89;
+$color-extra-purple: #6C00AF;
+$color-extra-yellow: #F2A000;
 
 // Colors for functionality
 $h1-color: $color-gray-dark;
