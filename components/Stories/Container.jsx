@@ -12,6 +12,7 @@ export class Container extends React.Component {
       currentStoryIndex: 0,
       isPaused: true,
       isFullScreen: false,
+      mousedownId: null,
       storyImagesLoaded: props.stories.map(() => {
         return false;
       })
@@ -57,10 +58,10 @@ export class Container extends React.Component {
   }
 
   onClick(e, type) {
-    const { pause, mousedownId } = this.state;
+    const { isPaused, mousedownId } = this.state;
     e.preventDefault();
     if (mousedownId) clearTimeout(mousedownId);
-    if (pause) {
+    if (isPaused) {
       this.setPlaybackAction("play");
     } else if (type === "next") {
       this.next();
@@ -110,7 +111,7 @@ export class Container extends React.Component {
     this.setState({
       mousedownId: setTimeout(() => {
         this.setPlaybackAction("pause");
-      }, 50)
+      }, 200)
     });
   }
 
