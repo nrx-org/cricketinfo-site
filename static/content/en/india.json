@@ -347,14 +347,85 @@
       "title": "Religions",
       "cardType": "bar_chart",
       "facts": [
-        { "id": 0, "label": "Hinduism", "value": { "count": 7980, "percentage": 79.8 } },
-        { "id": 1, "label": "Jainism", "value": { "count": 1420, "percentage": 14.2 } },
-        { "id": 2, "label": "Islam", "value": { "count": 230, "percentage": 2.3 } },
-        { "id": 3, "label": "Christianity", "value": { "count": 172, "percentage": 1.72 } },
-        { "id": 4, "label": "Sikhism", "value": { "count": 72, "percentage": 0.72 } },
-        { "id": 5, "label": "Buddhism", "value": { "count": 3600, "percentage": 0.36 } },
-        { "id": 6, "label": "Buddhism", "value": { "count": 4500, "percentage": 0.36 } },
-        { "id": 7, "label": "Buddhism", "value": { "count": 4500, "percentage": 0.36 } }
+        {
+          "id": 0,
+          "label": "Hinduism",
+          "value": { "count": 7980, "percentage": 79.8 }
+        },
+        {
+          "id": 1,
+          "label": "Jainism",
+          "value": { "count": 1420, "percentage": 14.2 }
+        },
+        {
+          "id": 2,
+          "label": "Islam",
+          "value": { "count": 230, "percentage": 2.3 }
+        },
+        {
+          "id": 3,
+          "label": "Christianity",
+          "value": { "count": 172, "percentage": 1.72 }
+        },
+        {
+          "id": 4,
+          "label": "Sikhism",
+          "value": { "count": 72, "percentage": 0.72 }
+        },
+        {
+          "id": 5,
+          "label": "Buddhism",
+          "value": { "count": 3600, "percentage": 0.36 }
+        },
+        {
+          "id": 6,
+          "label": "Buddhism",
+          "value": { "count": 4500, "percentage": 0.36 }
+        },
+        {
+          "id": 7,
+          "label": "Buddhism",
+          "value": { "count": 4500, "percentage": 0.36 }
+        }
+      ]
+    },
+    {
+      "title": "Statistics",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Most runs",
+          "value": {
+            "url": "https://wikipedia.com",
+            "label": "Sachin Tendulkar is the leading run scorer in World Cup history with total of 2,278.",
+            "image": {
+              "url": "https://placekitten.com/500/500",
+              "altText": "Har har kitten, ghar ghar kitten"
+            }
+          }
+        },
+        {
+          "label": "Most wickets",
+          "value": {
+            "url": "",
+            "label": "Sachin Tendulkar is the leading run scorer in World Cup history with total of 2,278.",
+            "image": {
+              "url": "https://placekitten.com/490/490",
+              "altText": "Har har kitten, ghar ghar kitten"
+            }
+          }
+        },
+        {
+          "label": "Most sixes",
+          "value": {
+            "url": "https://wikipedia.com",
+            "label": "Sachin Tendulkar is the leading run scorer in World Cup history with total of 2,278.",
+            "image": {
+              "url": "https://placekitten.com/510/510",
+              "altText": "Har har kitten, ghar ghar kitten"
+            }
+          }
+        }
       ]
     },
     {

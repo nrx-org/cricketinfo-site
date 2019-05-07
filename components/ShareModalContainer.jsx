@@ -22,7 +22,8 @@ export class ShareModalContainer extends React.Component {
     this.urlInput = React.createRef();
 
     props.registerModal(SHARE_MODAL_ID, {
-      onClose: ShareModalContainer.onModalClose
+      onClose: props.onModalClose || null,
+      onOpen: props.onModalOpen || null
     });
   }
 
@@ -76,15 +77,20 @@ export class ShareModalContainer extends React.Component {
 ShareModalContainer.contextType = LanguageContext;
 
 ShareModalContainer.defaultProps = {
-  modalData: null
+  modalData: null,
+  onModalClose: null,
+  onModalOpen: null
 };
 
 ShareModalContainer.propTypes = {
   registerModal: PropTypes.func.isRequired,
   isModalOpen: PropTypes.func.isRequired,
   modalData: PropTypes.shape({
+    url: PropTypes.string,
     articleId: PropTypes.string // TODO Change to reflect shareData
   }),
   closeModal: PropTypes.func.isRequired,
+  onModalClose: PropTypes.func,
+  onModalOpen: PropTypes.func,
   lang: PropTypes.string.isRequired
 };
