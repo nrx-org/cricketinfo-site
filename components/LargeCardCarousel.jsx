@@ -8,10 +8,10 @@ export const LargeCardCarousel = ({ cards }) => (
     {cards.map(card => (
       <LargeCard
         isCarouselChild={cards.length > 2}
-        key={`${card.labzel}-${card.id}`}
+        key={`${card.label}-${card.id}`}
         coverImage={card.value.image}
         title={card.label}
-        url={card.url || null}
+        url={card.value.url || null}
       >
         {card.value.label}
       </LargeCard>

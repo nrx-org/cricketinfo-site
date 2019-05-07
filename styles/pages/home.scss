@@ -11,3 +11,7 @@
   align-self: flex-start;
   margin-left: 3 * $gutter-m;
 }
+
+.wcp-floating-toolbar + .wcp-large-card-carousel-section {
+  margin-top: $gutter-xl;
+}
