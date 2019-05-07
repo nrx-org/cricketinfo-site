@@ -16,8 +16,9 @@ export const LargeCard = ({
   return (
     <a
       href={url}
-      className={`wcp-large-card ${isCarouselChild &&
-        "wcp-large-card--carousel-child"}`}
+      className={`wcp-large-card ${
+        isCarouselChild ? "wcp-large-card--carousel-child" : ""
+      }`}
     >
       <img
         className="wcp-large-card__cover-image"
