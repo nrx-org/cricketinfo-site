@@ -11,6 +11,7 @@ import { VerticalTimeline } from "./VerticalTimeline";
 import { BarChart } from "./BarChart";
 import { SectionTitle } from "./SectionTitle";
 import { AvatarList } from "./AvatarList";
+import { LargeCardCarousel } from "./LargeCardCarousel";
 
 const FactCardTable = ({ cardData }) => {
   const content = cardData.facts.map(f => (
@@ -99,7 +100,7 @@ export const FactCard = ({ cardData }) => {
   }
 
   if (cardData.cardType === "large_carousel") {
-    return <LargeCardCarouselSection cardData={cardData} />;
+    return <LargeCardCarousel cardData={cardData} />;
   }
 
   if (cardData.cardType === "bar_chart") {
