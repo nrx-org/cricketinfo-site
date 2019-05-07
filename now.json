@@ -5,6 +5,10 @@
     {
       "src": "/wiki/(?<lang>.*)/(?<articleId>.*)",
       "dest": "/article?lang=$lang&articleId=$articleId"
+    },
+    {
+      "src": "/wiki/(?<lang>.*)",
+      "dest": "/home?lang=$lang"
     }
   ],
   "name": "wikipedia-client-prototypes",
