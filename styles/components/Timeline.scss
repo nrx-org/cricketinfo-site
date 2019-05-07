@@ -15,9 +15,10 @@ $timelineDotSize: 0.375rem;
 }
 
 .wcp-vertical-timeline {
-  padding-left: 1rem;
+  padding-left: 2rem;
   padding-right: 1rem;
   width: 100vw;
+  margin-left: -1rem;
 }
 
 .wcp-timeline-item__text-content {
@@ -94,6 +95,7 @@ $timelineDotSize: 0.375rem;
     width: 80vw;
     min-width: 80vw;
   }
+
 }
 
 // horizontal timeline styles
@@ -102,9 +104,6 @@ $timelineDotSize: 0.375rem;
   flex-direction: column;
   overflow-x: auto;
   margin-left: 0;
-  .wcp-tiny-card--passive + .wcp-tiny-card--passive::before {
-    margin-right: 0.5rem;
-  }
 }
 
 .wcp-horizontal-timeline {
@@ -140,7 +139,7 @@ $timelineDotSize: 0.375rem;
 }
 
 .wcp-horizontal-timeline .wcp-timeline-item__line-and-dot {
-  width: 112%;
+  width: calc(100% + 1.92rem);
   margin-top: $gutter-s;
   position: relative;
   height: $timelineDotSize;
@@ -148,7 +147,7 @@ $timelineDotSize: 0.375rem;
   justify-content: flex-start;
 }
 .wcp-horizontal-timeline .wcp-timeline-item__line-and-dot__line {
-  width: calc(100% - 0.55rem);
+  width: 100%;
   margin-left: 0.1rem;
   margin-top: 1px;
   height: 1px;
@@ -156,7 +155,7 @@ $timelineDotSize: 0.375rem;
 
 .wcp-horizontal-timeline .wcp-tiny-card, .wcp-horizontal-timeline .wcp-tiny-card-wrapper {
   &:not(:first-child) {
-    margin-top: $gutter-s;
+    margin-top: 1rem;
   }
 }
 
@@ -164,6 +163,11 @@ $timelineDotSize: 0.375rem;
   height: 3.5rem;
   width: 70vw;
   min-width: 70vw;
+}
+
+.wcp-horizontal-timeline .wcp-tiny-card--passive + .wcp-tiny-card--passive::before {
+  border: none;
+  margin-right: 0.25rem;
 }
 
 .wcp-horizontal-timeline .wcp-tiny-card__content {
