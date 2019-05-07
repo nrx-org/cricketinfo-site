@@ -1,8 +1,14 @@
 @import "./variables.scss";
 @import "./mixins.scss";
 
-* {
+html {
   box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
 }
 
 body {
@@ -45,6 +51,7 @@ input[type="text"] {
 
 button {
   all: unset;
+  box-sizing: border-box;
 }
 
 .noscroll {

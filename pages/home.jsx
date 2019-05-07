@@ -9,37 +9,30 @@ import { makeSiteTitle } from "../lib/make_title";
 import { homeContentUrl } from "../lib/urls";
 import { SwitchLanguageFloatingToolbar } from "../components/SwitchLanguageFloatingToolbar";
 
-import {
-  factCardDataPropTypes,
-  translationsPropTypes
-} from "../lib/prop_types";
-import { FactCard } from "../components/FactCard";
+import { factPropTypes, translationsPropTypes } from "../lib/prop_types";
+import { ModalContextProvider } from "../components/ModalContext";
+import { PlayingTeams } from "../components/PlayingTeams";
 
-const Home = ({ lang, translations, sections }) => (
-  <LanguageContext.Provider lang={lang}>
-    <BaseLayout>
-      <Head>
-        <title>{makeSiteTitle(lang)}</title>
-      </Head>
+const Home = ({ lang, translations, playingTeams, participatingTeams }) => (
+  <LanguageContext.Provider value={lang}>
+    <ModalContextProvider>
+      <BaseLayout>
+        <Head>
+          <title>{makeSiteTitle(lang)}</title>
+        </Head>
 
-      <header className="wcp-home__header">
-        <img
-          className="wcp-home__logo"
-          src="/static/images/world_cup_logo.svg"
-          alt="World Cup logo"
-        />
-      </header>
+        <header className="wcp-home__header">
+          <img
+            className="wcp-home__logo"
+            src="/static/images/world_cup_logo.svg"
+            alt="World Cup logo"
+          />
+        </header>
 
-      <SwitchLanguageFloatingToolbar translations={translations} />
-
-      {sections.map(factCard => (
-        <FactCard
-          key={factCard.title}
-          className="wcp-summary-fact-card"
-          cardData={factCard}
-        />
-      ))}
-    </BaseLayout>
+        <SwitchLanguageFloatingToolbar translations={translations} />
+        <PlayingTeams teams={playingTeams} allTeams={participatingTeams} />
+      </BaseLayout>
+    </ModalContextProvider>
   </LanguageContext.Provider>
 );
 
@@ -52,10 +45,16 @@ Home.getInitialProps = async ({ query }) => {
   return { lang, ...homeJson };
 };
 
+Home.defaultProps = {
+  playingTeams: [],
+  participatingTeams: []
+};
+
 Home.propTypes = {
   lang: PropTypes.string.isRequired,
   translations: translationsPropTypes.isRequired,
-  sections: PropTypes.arrayOf(factCardDataPropTypes).isRequired
+  playingTeams: PropTypes.arrayOf(factPropTypes),
+  participatingTeams: PropTypes.arrayOf(factPropTypes)
 };
 
 export default Home;

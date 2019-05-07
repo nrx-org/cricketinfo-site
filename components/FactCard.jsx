@@ -10,7 +10,6 @@ import { getImageShareUrl } from "../lib/urls";
 import { VerticalTimeline } from "./VerticalTimeline";
 import { SectionTitle } from "./SectionTitle";
 import { AvatarList } from "./AvatarList";
-import { LargeCardCarouselSection } from "./LargeCardCarouselSection";
 
 const FactCardTable = ({ cardData }) => {
   const content = cardData.facts.map(f => (
@@ -96,10 +95,6 @@ export const FactCard = ({ cardData }) => {
 
   if (cardData.cardType === "vertical_timeline") {
     return <VerticalTimeline cardData={cardData} />;
-  }
-
-  if (cardData.cardType === "large_carousel") {
-    return <LargeCardCarouselSection cardData={cardData} />;
   }
 
   return null;
