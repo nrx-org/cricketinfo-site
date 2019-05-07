@@ -7,6 +7,11 @@
   margin-left: -$gutter-xs;
   margin-bottom: -$gutter-l;
   @include hide-scrollbar();
+  scroll-snap-type: x mandatory;
+}
+
+.wcp-tiny-card-carousel .wcp-tiny-card {
+  scroll-snap-align: start;
 }
 
 // Fix a bug where the right shadow is cut-off by the browser.
