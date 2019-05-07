@@ -2,6 +2,8 @@
 const fs = require("fs");
 const parse = require("csv-parse/lib/sync");
 const slugify = require("slugify");
+const cheerio = require("cheerio");
+const fetch = require("isomorphic-fetch");
 
 // path to content from spreadsheet
 const path = "./csv/personalities.csv";
@@ -19,22 +21,76 @@ const records = parse(input, {
 
 let article;
 
-records.forEach(record => {
+records.forEach(async record => {
+  article = {
+    title: record["Name of personality"]
+  };
+
+  const sluggedTitle = slugify(article.title, "_").toLowerCase(); // TODO: remove slugify
+
+  // Get file name from url link
+  const getFileNameFromURL = url => {
+    return url.match(/File:(.*)/).pop();
+  };
+
+  // Download all the images and put them in static
+  const getImageForArticle = async url => {
+    if (!url) {
+      return null;
+    }
+    const response = await fetch(url);
+    const html = await response.text();
+    const $ = cheerio.load(html);
+    const imageURL = $(".fullMedia > p > a").attr("href");
+    if (!imageURL) {
+      return null;
+    }
+    const image = await fetch(imageURL);
+    // debugger;
+    // const imageBuffered = await image.blob();
+    const imageName = getFileNameFromURL(url);
+    const imageDirectory = `./static/images/${sluggedTitle}`;
+    const imagePath = `./static/images/${sluggedTitle}/${imageName}`;
+    if (!fs.existsSync(imageDirectory)) {
+      fs.mkdir(imageDirectory, err => {
+        if (err) throw err;
+      });
+    }
+    const out = fs.createWriteStream(imagePath);
+    out.write(image.body);
+    return imagePath;
+  };
+
   // Putting together the completed JS object
   article = {
-    title: record["Name of personality"],
+    ...article,
     coverImage: {
-      url: record["Header image"],
+      url: await getImageForArticle(record["Header image"]),
       altText: record["Name of personality"] // TODO: change this to image title
     },
     summary: record["Short description of personality"],
+    translations: [
+      {
+        url: "/wiki/hi/महेंद्र_सिंह_धोनी", // TODO: make this common
+        title: "महेंद्र सिंह धोनी", // TODO: make this common
+        lang: "hi"
+      },
+      {
+        url: "/wiki/pa/মহেন্দ্র_সিং_ধোনি", // TODO: make this common
+        title: "মহেন্দ্র সিং ধোনি", // TODO: make this common
+        lang: "pa"
+      }
+    ],
     sections: [
       {
         title: "About",
         cardType: "table",
         facts: [
-          { label: "Full Name", value: record["Birth Name"] },
-          { label: "Born on", value: record["Born on"] }, // TODO: format the dates on this line
+          {
+            label: "Full Name",
+            value: { label: record["Birth Name"], url: "" }
+          },
+          { label: "Born on", value: { label: record["Born on"], url: "" } }, // TODO: format the dates on this line
           {
             label: "Birthplace",
             value: {
@@ -42,8 +98,11 @@ records.forEach(record => {
               url: record["Wikipedia article link of the Birth place"]
             }
           },
-          { label: "Height", value: record["Height"] },
-          { label: "Other Names", value: record["Nicknames/Other names"] },
+          { label: "Height", value: { label: record["Height"], url: "" } },
+          {
+            label: "Other Names",
+            value: { label: record["Nicknames/Other names"], url: "" }
+          },
           //   { label: "Age", value: record["Age"] },
           //   { label: "Residence", value: record["Residence"] },
           {
@@ -53,7 +112,10 @@ records.forEach(record => {
               url: record["Wikipedia article link of the Nationality"]
             }
           },
-          { label: "Role", value: record["Fielding position/Role"] }
+          {
+            label: "Role",
+            value: { label: record["Fielding position/Role"], url: "" }
+          }
         ]
       },
       {
@@ -66,7 +128,9 @@ records.forEach(record => {
             value: {
               label: record["Relation 1"],
               image: {
-                url: record["Link to the image of relation 1"],
+                url: await getImageForArticle(
+                  record["Link to the image of relation 1"]
+                ),
                 altText: "text goes here" // TODO: Replace
               }
             }
@@ -91,7 +155,9 @@ records.forEach(record => {
                     label: record["Phase 1 - Place of birth"],
                     url: record["Phase 1 - Link to the place of birth "],
                     image: {
-                      url: record["Phase 1- Image related to the place"],
+                      url: await getImageForArticle(
+                        record["Phase 1- Image related to the place"]
+                      ),
                       altText: "Kitten mata ki jai"
                     }
                   }
@@ -148,11 +214,221 @@ records.forEach(record => {
             }
           }
         ]
+      },
+      {
+        title: "Education",
+        cardType: "tag_card",
+        facts: [
+          {
+            label: record["Name of school"],
+            tag: record["Year of graduation"],
+            value: {
+              label: record["Caption of image of school"],
+              image: {
+                url: await getImageForArticle(
+                  record["Link to image of school"]
+                ),
+                altText: "TODO"
+              }
+            }
+          }
+        ]
+      },
+      {
+        title: "Style of Play",
+        cardType: "simple",
+        facts: [
+          {
+            value: {
+              label: record["Style of play"],
+              image: {
+                url: await getImageForArticle(record["Relevant image link"]),
+                altText: "add text here TODO"
+              }
+            }
+          }
+        ]
+      },
+      {
+        title: "Teams",
+        cardType: "list_card",
+        facts: [
+          {
+            label: record["Years played in National team"],
+            value: {
+              label: record["National Team represented"],
+              value: {
+                label: record["Short description of the National Team"],
+                url:
+                  record["Link to the Wikipedia article of the National team"],
+                image: {
+                  url: await getImageForArticle(
+                    record["Link to the National team Logo"]
+                  ),
+                  altText: "TODO replace text here"
+                }
+              }
+            }
+          },
+          {
+            label:
+              record["Years played in current / last represented IPL team"],
+            value: {
+              label:
+                record[
+                  "IPL Team represented - Current team or Team last represented"
+                ],
+              value: {
+                label: record["Short description of the IPL team"],
+                url:
+                  record[
+                    "Link to the Wikipedia article of the IPL - Current Team or Team last represented"
+                  ],
+                image: {
+                  url: await getImageForArticle(
+                    record["Link to the IPL team logo"]
+                  ),
+                  altText: "TODO replace text here"
+                }
+              }
+            }
+          },
+          {
+            label: record["Years played in Domestic Team"],
+            value: {
+              label: record["Domestic team Represented"],
+              value: {
+                label: record["Short description of Domestic Team"],
+                url:
+                  record["Link to the Wikipedia article of the Domestic team"],
+                image: {
+                  url: await getImageForArticle(
+                    record["Link to the IPL team logo"]
+                  ),
+                  altText: "TODO replace text here"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        title: "Awards & Honors",
+        cardType: "tag_card",
+        facts: [
+          {
+            label: record["Name of the award 1"],
+            tag: record["Year of the award 1"],
+
+            value: {
+              label: record["Short Description of the award 1"],
+              image: {
+                url: await getImageForArticle(
+                  record["Image link for the award 1"]
+                ),
+                altText: "TODO"
+              }
+            }
+          },
+          {
+            label: record["Name of the award 2"],
+            tag: record["Year of the award 2"],
+            value: {
+              label: record["Short Description of the award 2"],
+              image: {
+                url: await getImageForArticle(
+                  record["Image link for the award 2"]
+                ),
+                altText: "TODO"
+              }
+            }
+          },
+          {
+            label: record["Name of the award 3"],
+            tag: record["Year of the award 3"],
+            value: {
+              label: record["Short Description of the award 3"],
+              image: {
+                url: await getImageForArticle(
+                  record["Image link for the award 3"]
+                ),
+                altText: "TODO"
+              }
+            }
+          },
+          {
+            label: record["Name of the award 4"],
+            tag: record["Year of the award 4"],
+            value: {
+              label: record["Short Description of the award 4"],
+              image: {
+                url: await getImageForArticle(
+                  record["Image link for the award 4"]
+                ),
+                altText: "TODO"
+              }
+            }
+          }
+        ]
+      },
+      {
+        title: "Achievement & Records",
+        cardType: "stories",
+        facts: [
+          {
+            label: null,
+            value: {
+              label: record["Achievement or Record 1"],
+              image: {
+                url: await getImageForArticle(record["Image 1"]),
+                altText: "TODO"
+              }
+            }
+          },
+          {
+            label: null,
+            value: {
+              label: record["Achievement or Record 2"],
+              image: {
+                url: await getImageForArticle(record["Image 2"]),
+                altText: "TODO"
+              }
+            }
+          },
+          {
+            label: null,
+            value: {
+              label: record["Achievement or Record 3"],
+              image: {
+                url: await getImageForArticle(record["Image 3"]),
+                altText: "TODO"
+              }
+            }
+          },
+          {
+            label: null,
+            value: {
+              label: record["Achievement or Record 4"],
+              image: {
+                url: await getImageForArticle(record["Image 4"]),
+                altText: "TODO"
+              }
+            }
+          },
+          {
+            label: null,
+            value: {
+              label: record["Achievement or Record 5"],
+              image: {
+                url: await getImageForArticle(record["Image 5"]),
+                altText: "TODO"
+              }
+            }
+          }
+        ]
       }
     ]
   };
-
-  const sluggedTitle = slugify(article.title, "_").toLowerCase(); // TODO: remove slugify
 
   fs.writeFile(`./csv/${sluggedTitle}.json`, JSON.stringify(article), err => {
     if (err) console.log(err);
@@ -166,3 +442,5 @@ records.forEach(record => {
 
 // TODO: write a function which takes every url, and enters it only if the
 // link of the url exisst in our experience
+
+// TODO: if should not be empty, error state, but if can be empty, don't generate the fact at all.

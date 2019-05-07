@@ -127,3 +127,5 @@ export const FactCard = ({ cardData }) => {
 FactCard.propTypes = {
   cardData: factCardDataPropTypes.isRequired
 };
+
+// TODO: Modify simple, Add tag_card, Add list_card
