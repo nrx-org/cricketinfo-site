@@ -9,12 +9,12 @@ $border-radius-cover-image: 8px;
   align-items: flex-start;
   border-radius: $border-radius-cover-image;
   overflow: hidden;
-  padding: $gutter-xs $gutter-xs;
+  padding: $gutter-s $gutter-s;
 }
 
 .wcp-tiny-card--active {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08), 0 1px 4px rgba(0, 0, 0, 0.04),
-  0 0 4px rgba(0, 0, 0, 0.04);
+    0 0 4px rgba(0, 0, 0, 0.04);
 
   .wcp-tiny-card__title {
     color: $color-blue-dark;
@@ -34,8 +34,8 @@ $border-radius-cover-image: 8px;
 
 .wcp-tiny-card__cover-image {
   border-radius: $border-radius-cover-image;
-  max-height: 4rem;
-  max-width: 6rem;
+  max-height: 3rem;
+  max-width: 3rem;
   display: inline-block;
   height: 100%;
   object-fit: cover;
@@ -53,7 +53,7 @@ $border-radius-cover-image: 8px;
   color: $color-black-light;
   line-height: $line-height-m;
   white-space: nowrap;
-  margin-top: 0;
+  margin-top: -$gutter-s/2;
   margin-bottom: 0;
 }
 
