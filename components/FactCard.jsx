@@ -12,6 +12,7 @@ import { BarChart } from "./BarChart";
 import { Timeline } from "./Timeline";
 import { SectionTitle } from "./SectionTitle";
 import { AvatarList } from "./AvatarList";
+import { TagCard } from "./TagCard";
 
 const FactCardTable = ({ cardData }) => {
   const content = cardData.facts.map(f => (
@@ -109,6 +110,10 @@ export const FactCard = ({ cardData }) => {
 
   if (cardData.cardType === "stories") {
     return <StoriesContainer cardData={cardData} />;
+  }
+
+  if (cardData.cardType === "tag_card") {
+    return <TagCard cardData={cardData} />;
   }
 
   return null;
