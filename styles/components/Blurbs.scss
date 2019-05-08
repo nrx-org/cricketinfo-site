@@ -1,0 +1,10 @@
+.wcp-blurbs__item__label {
+  font-size: $font-size-m;
+  margin: 0;
+  line-height: $line-height-m;
+  color: $color-black-medium;
+}
+
+.wcp-blurbs__item:last-child .wcp-tiny-card-carousel {
+  padding-bottom: 0;
+}
