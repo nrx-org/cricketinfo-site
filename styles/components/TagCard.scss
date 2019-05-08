@@ -12,16 +12,10 @@
   }
 }
 
-$tagCardLabelWidth: 3rem;
-
 .wcp-tag-card__table__label {
-  width: $tagCardLabelWidth;
+  width: 3rem;
   word-wrap: break-word;
   line-height: $line-height-xs;
   font-size: $font-size-xxs;
   color: $color-black-light;
-}
-
-.wcp-fact-card .wcp-tiny-card {
-  width: calc(100% - $tagCardLabelWidth);
 }
