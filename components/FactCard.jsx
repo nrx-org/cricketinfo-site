@@ -12,7 +12,6 @@ import { BarChart } from "./BarChart";
 import { Timeline } from "./Timeline";
 import { SectionTitle } from "./SectionTitle";
 import { AvatarList } from "./AvatarList";
-import { CoverCardCarousel } from "./CoverCardCarousel";
 
 const FactCardTable = ({ cardData }) => {
   const content = cardData.facts.map(f => (
@@ -102,10 +101,6 @@ export const FactCard = ({ cardData }) => {
 
   if (cardData.cardType === "horizontal_timeline") {
     return <Timeline cardData={cardData} type="horizontal" />;
-  }
-
-  if (cardData.cardType === "large_carousel") {
-    return <CoverCardCarousel cardData={cardData} />;
   }
 
   if (cardData.cardType === "bar_chart") {
