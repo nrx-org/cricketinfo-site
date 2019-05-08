@@ -12,8 +12,16 @@ import { SwitchLanguageFloatingToolbar } from "../components/SwitchLanguageFloat
 import { factPropTypes, translationsPropTypes } from "../lib/prop_types";
 import { ModalContextProvider } from "../components/ModalContext";
 import { PlayingTeams } from "../components/PlayingTeams";
+import { FunFacts } from "../components/FunFacts";
 
-const Home = ({ lang, translations, playingTeams, participatingTeams }) => (
+const Home = ({
+  lang,
+  translations,
+  playingTeams,
+  participatingTeams,
+  scheduledFacts,
+  constantFacts
+}) => (
   <LanguageContext.Provider value={lang}>
     <ModalContextProvider>
       <BaseLayout>
@@ -31,6 +39,7 @@ const Home = ({ lang, translations, playingTeams, participatingTeams }) => (
 
         <SwitchLanguageFloatingToolbar translations={translations} />
         <PlayingTeams teams={playingTeams} allTeams={participatingTeams} />
+        <FunFacts scheduled={scheduledFacts} constant={constantFacts} />
       </BaseLayout>
     </ModalContextProvider>
   </LanguageContext.Provider>
@@ -54,7 +63,9 @@ Home.propTypes = {
   lang: PropTypes.string.isRequired,
   translations: translationsPropTypes.isRequired,
   playingTeams: PropTypes.arrayOf(factPropTypes),
-  participatingTeams: PropTypes.arrayOf(factPropTypes)
+  participatingTeams: PropTypes.arrayOf(factPropTypes),
+  scheduledFacts: PropTypes.arrayOf(factPropTypes).isRequired,
+  constantFacts: PropTypes.arrayOf(factPropTypes).isRequired
 };
 
 export default Home;
