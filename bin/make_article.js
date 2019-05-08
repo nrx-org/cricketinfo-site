@@ -1,3 +1,4 @@
+/* eslint-disable import/no-extraneous-dependencies */
 /* eslint-disable dot-notation */
 const fs = require("fs");
 const parse = require("csv-parse/lib/sync");
@@ -26,11 +27,12 @@ records.forEach(async record => {
     title: record["Name of personality"]
   };
 
-  const sluggedTitle = slugify(article.title, "_").toLowerCase(); // TODO: remove slugify
+  // Get title for URL
+  const getSluggedTitle = slugify(article.title, "_").toLowerCase(); // TODO: remove slugify
 
   // Get file name from url link
   const getFileNameFromURL = url => {
-    return url.match(/File:(.*)/).pop();
+    return url.match(/File:(.*)/)[1];
   };
 
   // Download all the images and put them in static
@@ -46,19 +48,17 @@ records.forEach(async record => {
       return null;
     }
     const image = await fetch(imageURL);
-    // debugger;
-    // const imageBuffered = await image.blob();
     const imageName = getFileNameFromURL(url);
-    const imageDirectory = `./static/images/${sluggedTitle}`;
-    const imagePath = `./static/images/${sluggedTitle}/${imageName}`;
+    const imageDirectory = `./static/images/${getSluggedTitle}`;
+    const imagePath = `./static/images/${getSluggedTitle}/${imageName}`;
     if (!fs.existsSync(imageDirectory)) {
       fs.mkdir(imageDirectory, err => {
         if (err) throw err;
       });
     }
-    const out = fs.createWriteStream(imagePath);
-    out.write(image.body);
-    return imagePath;
+    const imageFile = fs.createWriteStream(imagePath);
+    image.body.pipe(imageFile);
+    return imagePath.substring(1);
   };
 
   // Putting together the completed JS object
@@ -430,9 +430,13 @@ records.forEach(async record => {
     ]
   };
 
-  fs.writeFile(`./csv/${sluggedTitle}.json`, JSON.stringify(article), err => {
-    if (err) console.log(err);
-  });
+  fs.writeFile(
+    `./csv/${getSluggedTitle}.json`,
+    JSON.stringify(article),
+    err => {
+      if (err) console.log(err);
+    }
+  );
 });
 
 // TODO: refactor components to not dispolay things if value is empty string.
