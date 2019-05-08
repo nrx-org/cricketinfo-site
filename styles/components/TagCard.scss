@@ -1,0 +1,27 @@
+.wcp-tag-card .wcp-tiny-card--passive + .wcp-tiny-card--passive::before {
+  margin-right: 0.25rem;
+  border: none;
+}
+
+.wcp-tag-card__table__row {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  &:not(:first-child) {
+    margin-top: 1rem;
+  }
+}
+
+$tagCardLabelWidth: 3rem;
+
+.wcp-tag-card__table__label {
+  width: $tagCardLabelWidth;
+  word-wrap: break-word;
+  line-height: $line-height-xs;
+  font-size: $font-size-xxs;
+  color: $color-black-light;
+}
+
+.wcp-fact-card .wcp-tiny-card {
+  width: calc(100% - $tagCardLabelWidth);
+}
