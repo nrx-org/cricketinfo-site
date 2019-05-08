@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 
 import { factPropTypes } from "../lib/prop_types";
-import { LargeCardCarousel } from "./LargeCardCarousel";
+import { CoverCardCarousel } from "./CoverCardCarousel";
 import { Button } from "./Button";
 import { LanguageContext } from "../language_context";
 import { ModalContextConsumer } from "./ModalContext";
@@ -28,7 +28,7 @@ export const PlayingTeams = ({ teams, allTeams }) => (
         <h1 className="wcp-playing-teams__title">
           {TEAMS_TO_WATCH_MESSAGE[lang]}
         </h1>
-        <LargeCardCarousel cards={teams} />
+        <CoverCardCarousel cards={teams} />
         <ModalContextConsumer>
           {({ openModal, closeModal, registerModal, isModalOpen }) => (
             <>

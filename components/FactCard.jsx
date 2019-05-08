@@ -12,7 +12,7 @@ import { BarChart } from "./BarChart";
 import { Timeline } from "./Timeline";
 import { SectionTitle } from "./SectionTitle";
 import { AvatarList } from "./AvatarList";
-import { LargeCardCarousel } from "./LargeCardCarousel";
+import { CoverCardCarousel } from "./CoverCardCarousel";
 
 const FactCardTable = ({ cardData }) => {
   const content = cardData.facts.map(f => (
@@ -105,7 +105,7 @@ export const FactCard = ({ cardData }) => {
   }
 
   if (cardData.cardType === "large_carousel") {
-    return <LargeCardCarousel cardData={cardData} />;
+    return <CoverCardCarousel cardData={cardData} />;
   }
 
   if (cardData.cardType === "bar_chart") {

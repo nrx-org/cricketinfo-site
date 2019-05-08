@@ -5,7 +5,7 @@ import { Icon } from "./Icon";
 
 import { imagePropTypes } from "../lib/prop_types";
 
-export const LargeCard = ({
+export const CoverCard = ({
   url,
   title,
   coverImage,
@@ -16,27 +16,27 @@ export const LargeCard = ({
   return (
     <a
       href={url}
-      className={`wcp-large-card ${
-        isCarouselChild ? "wcp-large-card--carousel-child" : ""
+      className={`wcp-cover-card ${
+        isCarouselChild ? "wcp-cover-card--carousel-child" : ""
       }`}
     >
       <img
-        className="wcp-large-card__cover-image"
+        className="wcp-cover-card__cover-image"
         src={coverImage.url}
         alt={coverImage.altText}
       />
-      <section className="wcp-large-card__content">
-        <h1 className="wcp-large-card__content__title">{title}</h1>
+      <section className="wcp-cover-card__content">
+        <h1 className="wcp-cover-card__content__title">{title}</h1>
         {children && (
-          <div className="wcp-large-card__content__text">{children}</div>
+          <div className="wcp-cover-card__content__text">{children}</div>
         )}
 
         {/* eslint-disable react/jsx-one-expression-per-line */}
         {linkText && (
-          <span className="wcp-large-card__link-text">
+          <span className="wcp-cover-card__link-text">
             {linkText}{" "}
             <Icon
-              className="wcp-large-card__link-text__icon"
+              className="wcp-cover-card__link-text__icon"
               altText="Go to language"
               name="arrow_right"
               size="xs"
@@ -48,13 +48,13 @@ export const LargeCard = ({
   );
 };
 
-LargeCard.defaultProps = {
+CoverCard.defaultProps = {
   children: null,
   linkText: null,
   isCarouselChild: false
 };
 
-LargeCard.propTypes = {
+CoverCard.propTypes = {
   url: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
   coverImage: imagePropTypes.isRequired,

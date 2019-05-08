@@ -1,4 +1,4 @@
-.wcp-large-card {
+.wcp-cover-card {
   display: block;
   color: $body-color;
   margin-left: $gutter-m;
@@ -13,12 +13,12 @@
   }
 }
 
-.wcp-large-card--carousel-child {
+.wcp-cover-card--carousel-child {
   width: auto;
   min-width: 36vw;
 }
 
-.wcp-large-card__cover-image {
+.wcp-cover-card__cover-image {
   display: block;
   width: 100%;
   object-fit: cover;
@@ -26,7 +26,7 @@
   max-height: 12rem;
 }
 
-.wcp-large-card__link-text {
+.wcp-cover-card__link-text {
   font-weight: bold;
   display: block;
   text-transform: uppercase;
@@ -34,23 +34,23 @@
   color: $color-blue-dark;
 }
 
-.wcp-large-card__link-text__icon {
+.wcp-cover-card__link-text__icon {
   vertical-align: middle;
   margin-left: $gutter-s;
 }
 
-.wcp-large-card__content {
+.wcp-cover-card__content {
   padding: $gutter-s;
 }
 
-.wcp-large-card__content__title {
+.wcp-cover-card__content__title {
   font-size: $font-size-m;
   line-height: $line-height-m;
   margin-bottom: $gutter-xs;
   margin-top: $gutter-xs;
 }
 
-.wcp-large-card__content__text {
+.wcp-cover-card__content__text {
   font-size: $font-size-xxs;
   line-height: $line-height-s;
   max-height: 2 * $line-height-s;

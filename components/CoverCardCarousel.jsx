@@ -1,12 +1,12 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { LargeCard } from "./LargeCard";
+import { CoverCard } from "./CoverCard";
 import { factPropTypes } from "../lib/prop_types";
 
-export const LargeCardCarousel = ({ cards }) => (
-  <div className="wcp-large-card-carousel">
+export const CoverCardCarousel = ({ cards }) => (
+  <div className="wcp-cover-card-carousel">
     {cards.map(card => (
-      <LargeCard
+      <CoverCard
         isCarouselChild={cards.length > 2}
         key={`${card.label}-${card.id}`}
         coverImage={card.value.image}
@@ -14,11 +14,11 @@ export const LargeCardCarousel = ({ cards }) => (
         url={card.value.url || null}
       >
         {card.value.label}
-      </LargeCard>
+      </CoverCard>
     ))}
   </div>
 );
 
-LargeCardCarousel.propTypes = {
+CoverCardCarousel.propTypes = {
   cards: PropTypes.arrayOf(factPropTypes).isRequired
 };

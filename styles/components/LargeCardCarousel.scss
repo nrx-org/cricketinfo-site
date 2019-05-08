@@ -1,4 +1,4 @@
-.wcp-large-card-carousel {
+.wcp-cover-card-carousel {
   overflow-x: scroll;
   display: flex;
   flex-direction: row;
@@ -9,8 +9,8 @@
 }
 
 // Fix a bug where the right shadow is cut-off by the browser.
-.wcp-large-card-carousel::before,
-.wcp-large-card-carousel::after {
+.wcp-cover-card-carousel::before,
+.wcp-cover-card-carousel::after {
   content: "";
   display: block;
   min-width: 1rem;
