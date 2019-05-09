@@ -1,0 +1,21 @@
+.wcp-tag-card .wcp-tiny-card--passive + .wcp-tiny-card--passive::before {
+  margin-right: 0.25rem;
+  border: none;
+}
+
+.wcp-tag-card__table__row {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  &:not(:first-child) {
+    margin-top: 1rem;
+  }
+}
+
+.wcp-tag-card__table__label {
+  width: 3rem;
+  word-wrap: break-word;
+  line-height: $line-height-xs;
+  font-size: $font-size-xxs;
+  color: $color-black-light;
+}
