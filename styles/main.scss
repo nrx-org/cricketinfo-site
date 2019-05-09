@@ -6,7 +6,7 @@
 
 @import "./components/TinyCard";
 @import "./components/LanguageSelector";
-@import "components/LargeCard";
+@import "components/CoverCard";
 @import "./components/FactCard";
 @import "./components/Button";
 @import "./components/Icon";
@@ -22,7 +22,9 @@
 @import "components/FloatingToolbarButton";
 @import "components/SectionTitle";
 @import "components/TinyCardCarousel";
+@import "components/LargeCard";
 @import "components/LargeCardCarousel";
+@import "components/CoverCardCarousel";
 @import "components/PlayingTeams";
 @import "components/AvatarList";
 @import "components/FullPageModal";

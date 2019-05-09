@@ -54,7 +54,7 @@ const ArticleSummaryModalInternal = ({
       <div className="wcp-article-summary-modal__error">
         <p>{message}</p>
         <Button
-          type="inverted"
+          isInverted
           onClick={onCloseClick}
           className="wcp-article-summary-modal__error__button-close"
         >
@@ -102,8 +102,7 @@ const ArticleSummaryModalInternal = ({
         <p className="wcp-article-summary-modal__summary">{article.summary}</p>
         <Button
           className="wcp-article-summary-modal__button-read-article"
-          type="inverted"
-          isLink
+          isInverted
           href={articleUrl(slugify(article.title, "_"), lang)}
         >
           {READ_THIS_TEXT[lang]}

@@ -1,6 +1,5 @@
 .wcp-button {
   background-color: $color-blue-dark;
-  padding: $gutter-m;
   border-radius: $border-radius-s;
   border: none;
 
@@ -27,4 +26,12 @@
 
 .wcp-button--full-width {
   width: 100%;
+}
+
+.wcp-button--padding-s {
+  padding: $gutter-s;
+}
+
+.wcp-button--padding-m {
+  padding: $gutter-m;
 }

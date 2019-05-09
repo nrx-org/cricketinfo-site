@@ -111,10 +111,9 @@ export class Story extends React.Component {
             </span>
             {story.value.url && story.value.url.length > 0 ? (
               <Button
-                type="inverted"
+                isInverted
                 isFullWidth={false}
                 className="wcp-story-content__container__know-more-button"
-                isLink
                 href={story.value.url}
               >
                 Know More

@@ -32,10 +32,7 @@ export const PlayingTeams = ({ teams, allTeams }) => (
         <ModalContextConsumer>
           {({ openModal, closeModal, registerModal, isModalOpen }) => (
             <>
-              <Button
-                type="inverted"
-                onClick={() => openModal(TEAMS_LIST_MODAL_ID)}
-              >
+              <Button isInverted onClick={() => openModal(TEAMS_LIST_MODAL_ID)}>
                 {SEE_ALL_MESSAGE[lang]}
               </Button>
               <TeamsListModalContainer

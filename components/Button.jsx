@@ -3,25 +3,18 @@ import PropTypes from "prop-types";
 
 export const Button = ({
   children,
-  type,
+  isInverted,
   isFullWidth,
-  isLink,
   href,
   onClick,
-  className
+  className,
+  paddingSize
 }) => {
-  let buttonClass = type === "inverted" ? "wcp-button--inverted " : " ";
-  buttonClass += isFullWidth ? "wcp-button--full-width" : "";
+  let buttonClass = isInverted ? " wcp-button--inverted" : " ";
+  buttonClass += isFullWidth ? " wcp-button--full-width" : "";
+  buttonClass += ` wcp-button--padding-${paddingSize}`;
 
-  if (!isLink && href) {
-    // eslint-disable-next-line no-console
-    console.warn("Can't add a link to a button, ignoring href prop");
-  }
-
-  if (isLink && !href) {
-    // eslint-disable-next-line no-console
-    console.warn("Button is a link but no URL was passed.");
-  }
+  const isLink = !!href;
 
   if (isLink) {
     return (
@@ -47,20 +40,20 @@ export const Button = ({
 };
 
 Button.defaultProps = {
-  type: "",
+  isInverted: false,
   className: "",
   isFullWidth: true,
-  isLink: false,
   href: "",
-  onClick: null
+  onClick: null,
+  paddingSize: "m"
 };
 
 Button.propTypes = {
   children: PropTypes.node.isRequired,
-  type: PropTypes.oneOf(["inverted"]),
+  isInverted: PropTypes.bool,
   isFullWidth: PropTypes.bool,
-  isLink: PropTypes.bool,
   href: PropTypes.string,
   onClick: PropTypes.func,
-  className: PropTypes.string
+  className: PropTypes.string,
+  paddingSize: PropTypes.oneOf(["s", "m"])
 };
