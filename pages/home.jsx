@@ -10,9 +10,13 @@ import { homeContentUrl } from "../lib/urls";
 import { SwitchLanguageFloatingToolbar } from "../components/SwitchLanguageFloatingToolbar";
 
 import { factPropTypes, translationsPropTypes } from "../lib/prop_types";
-import { ModalContextProvider } from "../components/ModalContext";
+import {
+  ModalContextConsumer,
+  ModalContextProvider
+} from "../components/ModalContext";
 import { PlayingTeams } from "../components/PlayingTeams";
 import { FunFacts } from "../components/FunFacts";
+import { ShareModalContainer } from "../components/ShareModalContainer";
 
 const Home = ({
   lang,
@@ -40,6 +44,17 @@ const Home = ({
         <SwitchLanguageFloatingToolbar translations={translations} />
         <PlayingTeams teams={playingTeams} allTeams={participatingTeams} />
         <FunFacts scheduled={scheduledFacts} constant={constantFacts} />
+        <ModalContextConsumer>
+          {({ registerModal, isModalOpen, modalData, closeModal }) => (
+            <ShareModalContainer
+              registerModal={registerModal}
+              isModalOpen={isModalOpen}
+              modalData={modalData}
+              closeModal={closeModal}
+              lang={lang}
+            />
+          )}
+        </ModalContextConsumer>
       </BaseLayout>
     </ModalContextProvider>
   </LanguageContext.Provider>

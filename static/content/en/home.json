@@ -161,6 +161,7 @@
     {
       "label": "Sachin Tendulkar has scored most runs across all the world cup tournaments, ie 2,278.",
       "date": "2019-5-9",
+      "id": "sachinTendulkar",
       "value": {
         "url": "/wiki/en/Sachin_Tendulkar",
         "image": {
@@ -172,6 +173,7 @@
     {
       "label": "Ducks are curious and friendly creatures, they have been domesticated as pets and farm animals for more than 500 years.",
       "date": "2019-5-9",
+      "id": "viratKohli",
       "value": {
         "url": "/wiki/en/Virat_Kohli",
         "image": {
@@ -184,6 +186,7 @@
   "constantFacts": [
     {
       "label": "Mallard ducks live 5 to 10 years in the wild and 8+ years in captivity.",
+      "id": "rahulDravid",
       "value": {
         "url": "/wiki/en/Rahul_Dravid",
         "image": {
