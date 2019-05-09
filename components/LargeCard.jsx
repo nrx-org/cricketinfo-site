@@ -7,7 +7,15 @@ import { ModalContextConsumer } from "./ModalContext";
 import { SHARE_MODAL_ID } from "../lib/modal_ids";
 import { getImageShareUrl } from "../lib/urls";
 
-export const LargeCard = ({ id, href, coverImage, children, className }) => (
+const shareCard = (shareData, openModal) => {
+  if (navigator.share) {
+    navigator.share(shareData);
+  } else {
+    openModal(SHARE_MODAL_ID, shareData);
+  }
+};
+
+export const LargeCard = ({ id, href, coverImage, text, className }) => (
   <ModalContextConsumer>
     {({ openModal }) => (
       <section className={`wcp-large-card ${className}`}>
@@ -20,15 +28,18 @@ export const LargeCard = ({ id, href, coverImage, children, className }) => (
         </div>
         <div className="wcp-large-card__content">
           <div className="wcp-large-card__children wcp-font-family-heading">
-            {children}
+            <p>{text}</p>
           </div>
           <div className="wcp-large-card__controls">
             <IconButton
               onClick={() =>
-                openModal(SHARE_MODAL_ID, {
-                  text: "hi",
-                  url: getImageShareUrl(window.location.href, `#${id}`)
-                })
+                shareCard(
+                  {
+                    text,
+                    url: getImageShareUrl(window.location.href, `#${id}`)
+                  },
+                  openModal
+                )
               }
               altText="Share button"
               name="share"
@@ -60,6 +71,6 @@ LargeCard.propTypes = {
   id: PropTypes.string.isRequired,
   href: PropTypes.string,
   coverImage: imagePropTypes.isRequired,
-  children: PropTypes.node.isRequired,
+  text: PropTypes.string.isRequired,
   className: PropTypes.string
 };

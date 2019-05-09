@@ -8,12 +8,11 @@ export const LargeCardCarousel = ({ cards }) => (
     {cards.map(c => (
       <LargeCard
         id={c.id}
+        text={c.label}
         href={c.value.url}
         coverImage={c.value.image}
         className="wcp-large-card-carousel__card"
-      >
-        <p>{c.label}</p>
-      </LargeCard>
+      />
     ))}
   </div>
 );
