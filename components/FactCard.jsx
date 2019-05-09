@@ -13,6 +13,7 @@ import { Timeline } from "./Timeline";
 import { SectionTitle } from "./SectionTitle";
 import { AvatarList } from "./AvatarList";
 import { TagCard } from "./TagCard";
+import { Blurbs } from "./Blurbs";
 
 const FactCardTable = ({ cardData }) => {
   const content = cardData.facts.map(f => (
@@ -114,6 +115,10 @@ export const FactCard = ({ cardData }) => {
 
   if (cardData.cardType === "tag_card") {
     return <TagCard cardData={cardData} />;
+  }
+
+  if (cardData.cardType === "blurbs") {
+    return <Blurbs cardData={cardData} />;
   }
 
   return null;

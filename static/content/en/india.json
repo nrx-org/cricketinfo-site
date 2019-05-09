@@ -481,6 +481,83 @@
       ]
     },
     {
+      "title": "Outside Sports",
+      "cardType": "blurbs",
+      "facts": [
+        {
+          "label": "MS Dhoni co-owns many sports teams",
+          "id": 0,
+          "note": null,
+          "value": {
+            "facts": [
+              {
+                "label": "Ranchi Rays",
+                "id": 0,
+                "value": {
+                  "label": "Franchise of the Hockey India League",
+                  "image": {
+                    "url": "https://placekitten.com/200/200",
+                    "altText": "Kitten mata ki jai"
+                  }
+                }
+              },
+              {
+                "label": "Chennaiyin FC",
+                "id": 1,
+                "value": {
+                  "label": "Professional football club based in Chennai, Tamil Nadu",
+                  "image": {
+                    "url": "https://placekitten.com/220/220",
+                    "altText": "Kitten mata ki jai"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Dhoni has a lifestyle brand SEVEN",
+          "id": 1,
+          "note": null,
+          "value": {
+            "facts": [
+              {
+                "label": "SEVEN (brand)",
+                "id": 0,
+                "value": {
+                  "label": "It is an Indian lifestyle brand that manufactures and markets casual...",
+                  "image": {
+                    "url": "https://placekitten.com/180/180",
+                    "altText": "Kitten mata ki jai"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "A biographical film based on the life of Dhoni released in 2016",
+          "id": 2,
+          "note": null,
+          "value": {
+            "facts": [
+              {
+                "label": "M.S. Dhoni: The Untold Story",
+                "id": 0,
+                "value": {
+                  "label": "It is a 2016 Indian bollywood biographical sports film.",
+                  "image": {
+                    "url": "https://placekitten.com/190/190",
+                    "altText": "Kitten mata ki jai"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "title": "Hindush",
       "id": "factCardHindush",
       "cardType": "simple",
