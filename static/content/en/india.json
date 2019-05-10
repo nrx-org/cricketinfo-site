@@ -561,13 +561,19 @@
       ]
     },
     {
-      "title": "Hindush",
+      "title": "Finals Venue",
       "id": "factCardHindush",
       "cardType": "simple",
       "facts": [
         {
+          "label": "Wankhede Stadium, Mumbai",
+          "url": "https://wikipedia.com/Wankhede",
           "value": {
-            "label": "India is derived from Indus, which originates from the Old Persian word Hindush, equivalent to the Sanskrit word Sindhu."
+            "label": "The Wankhede has been host to numerous high-profile cricket matches in the past, most notable being the 2011 Cricket World Cup Final, in which India defeated Sri Lanka by 6 wickets. The stadium hosted the last match of Sachin Tendulkar's international career.",
+            "image": {
+              "url": "https://placekitten.com/190/190",
+              "altText": "Kitten mata ki jai"
+            }
           }
         }
       ]

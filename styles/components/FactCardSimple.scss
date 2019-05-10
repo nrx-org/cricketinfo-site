@@ -1,0 +1,28 @@
+.wcp-fact-card-simple__text-section {
+  background: $color-black-light;
+  color: $color-white;
+  padding: $gutter-m;
+}
+
+.wcp-fact-card-simple__image {
+  height: 17rem;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.wcp-fact-card-simple__text-section__title {
+  font-family: $font-family-title;
+  font-size: $font-size-l;
+  line-height: $line-height-m;
+  margin: 0;
+}
+
+.wcp-fact-card-simple__text-section__caption {
+  font-size: $font-size-m;
+  line-height: $line-height-m;
+}
+
+.wcp-fact-card-simple__text-section__icon {
+  margin-top: $gutter-s;
+}
