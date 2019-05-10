@@ -15,7 +15,9 @@ export const Blurbs = ({ cardData }) => {
               <div className="wcp-blurbs__item__text-content">
                 <h2 className="wcp-blurbs__item__label">{fact.label}</h2>
               </div>
-              <TinyCardCarousel cards={fact.value.facts} />
+              <div className="wcp-blurbs__tiny-cards-carousel-wrapper">
+                <TinyCardCarousel cards={fact.value.facts} />
+              </div>
             </div>
           );
         })}

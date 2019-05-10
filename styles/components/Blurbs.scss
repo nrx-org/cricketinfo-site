@@ -8,3 +8,19 @@
 .wcp-blurbs__item:last-child .wcp-tiny-card-carousel {
   padding-bottom: 0;
 }
+
+.wcp-blurbs .wcp-tiny-card-wrapper:first-child {
+  padding-left: 1rem;
+  margin-left: -1rem;
+}
+
+
+.wcp-blurbs .wcp-blurbs__tiny-cards-carousel-wrapper {
+
+}
+
+.wcp-blurbs .wcp-tiny-card-carousel {
+  margin-left: -1rem;
+  margin-right: -1rem;
+  padding-left: 1rem;
+}

@@ -23,11 +23,13 @@ export const TinyCard = ({ children, coverImage, title, href }) => {
   );
 
   return href ? (
-    <a className="wcp-tiny-card-wrapper" href={href}>
+    <a className={`wcp-tiny-card-wrapper ${activeClassName}`} href={href}>
       {contentEl}
     </a>
   ) : (
-    contentEl
+    <div className={`wcp-tiny-card-wrapper ${activeClassName}`}>
+      {contentEl}
+    </div>
   );
 };
 
