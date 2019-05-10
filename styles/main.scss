@@ -4,6 +4,8 @@
 @import "./pages/article";
 @import "./pages/home";
 
+@import "./components/Avatar";
+@import "./components/AvatarCarousel";
 @import "./components/TinyCard";
 @import "./components/LanguageSelector";
 @import "components/CoverCard";
@@ -21,6 +23,7 @@
 @import "components/FloatingToolbar";
 @import "components/FloatingToolbarButton";
 @import "components/SectionTitle";
+@import "components/LargeSectionTitle";
 @import "components/TinyCardCarousel";
 @import "components/LargeCard";
 @import "components/LargeCardCarousel";
@@ -28,7 +31,7 @@
 @import "components/PlayingTeams";
 @import "components/AvatarList";
 @import "components/FullPageModal";
-@import "components/TeamsListModal";
+@import "components/TinyCardsListModal";
 @import "components/BarChart";
 @import "components/Timeline";
 @import "components/Stories";

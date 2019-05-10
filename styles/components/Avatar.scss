@@ -1,0 +1,52 @@
+.wcp-avatar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wcp-avatar:nth-child(2) {
+  .wcp-avatar__outline {
+    border: solid 1px $color-extra-orange;
+  }
+}
+
+.wcp-avatar__outline {
+  width: 8.25rem;
+  height: 8.25rem;
+  border-radius: 50%;
+  border: solid 1px $color-extra-blue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wcp-avatar__image__container {
+  width: 7.5rem;
+  height: 7.5rem;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.wcp-avatar__image {
+  width: 100%;
+}
+
+.wcp-avatar__label {
+  width: 5.5rem;
+  height: 2.5rem;
+  word-spacing: 100vw;
+  overflow-y: hidden;
+  color: $color-white;
+  background: linear-gradient(90deg, #FE784D 6.74%, #E2664A 93.26%), $color-white;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  line-height: 0.9;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: $font-size-l;
+  margin-top: -1.5rem;
+  transform: skew(-10deg);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08), 0 1px 4px rgba(0, 0, 0, 0.04), 0 0 4px rgba(0, 0, 0, 0.04);
+}

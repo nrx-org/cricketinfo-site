@@ -3,6 +3,8 @@ import PropTypes from "prop-types";
 import { LanguageContext } from "../language_context";
 import { factPropTypes } from "../lib/prop_types";
 import { LargeCardCarousel } from "./LargeCardCarousel";
+import { LargeSectionTitle } from "./LargeSectionTitle";
+import { todayString } from "../lib/date";
 
 const SECTION_TITLE_MESSAGE = {
   en: "Fun facts",
@@ -11,16 +13,14 @@ const SECTION_TITLE_MESSAGE = {
 };
 
 export const FunFacts = ({ scheduled, constant }) => {
-  const date = new Date();
-  const dateString = `${date.getFullYear()}-${date.getMonth() +
-    1}-${date.getDate()}`;
+  const dateString = todayString();
   const facts = [...scheduled.filter(f => f.date === dateString), ...constant];
 
   return (
     <LanguageContext.Consumer>
       {lang => (
         <section>
-          <h1>{SECTION_TITLE_MESSAGE[lang]}</h1>
+          <LargeSectionTitle>{SECTION_TITLE_MESSAGE[lang]}</LargeSectionTitle>
           <LargeCardCarousel cards={facts} />
         </section>
       )}

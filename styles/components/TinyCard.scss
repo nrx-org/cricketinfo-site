@@ -44,10 +44,9 @@ $border-radius-cover-image: 8px;
 
 .wcp-tiny-card__cover-image {
   border-radius: $border-radius-cover-image;
-  max-height: 3rem;
-  max-width: 3rem;
+  height: 3rem;
+  width: 3rem;
   display: inline-block;
-  height: 100%;
   object-fit: cover;
 }
 

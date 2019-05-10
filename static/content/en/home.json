@@ -195,5 +195,104 @@
         }
       }
     }
+  ],
+  "scheduledFeaturedPlayers": [
+    {
+      "label": "Virat Kohli",
+      "id": "viratKohli",
+      "date": "2019-5-10",
+      "value": {
+        "url": "/wiki/en/Virat_Kohli",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/VIRAT_KHOLI_%2815573134623%29.jpg",
+          "altText": "Kohli looks upset"
+        }
+      }
+    }
+  ],
+  "constantFeaturedPlayers": [
+    {
+      "label": "Rahul Dravid",
+      "id": "rahulDravid",
+      "value": {
+        "url": "/wiki/en/Rahul_Dravid",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rahul_Dravid.jpg",
+          "altText": "A picture of Rahul Dravid sitting in front of a washbasin"
+        }
+      }
+    },
+    {
+      "label": "Microsoft Dhoni",
+      "id": "msDhoni",
+      "value": {
+        "url": "/wiki/en/MS_Dhoni",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Dhoni_at_Reebok_event.jpg",
+          "altText": "Dhoni is very bored"
+        }
+      }
+    },
+    {
+      "label": "Sourav Ganguly",
+      "id": "souravGanguly",
+      "value": {
+        "url": "/wiki/en/Sourav_Ganguly",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sourav_Ganguly_crop.jpg",
+          "altText": "Young Sourav Ganguly looks at things"
+        }
+      }
+    }
+  ],
+  "allPlayers": [
+    {
+      "label": "Rahul Dravid",
+      "id": "rahulDravid",
+      "value": {
+        "label": "A dog’s nose print is unique, much like a person’s fingerprint.",
+        "url": "/wiki/en/Rahul_Dravid",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rahul_Dravid.jpg",
+          "altText": "A picture of Rahul Dravid sitting in front of a washbasin"
+        }
+      }
+    },
+    {
+      "label": "Microsoft Dhoni",
+      "id": "msDhoni",
+      "value": {
+        "label": "Dog eyes have a part called the tapetum lucidum, allowing night vision.",
+        "url": "/wiki/en/MS_Dhoni",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Dhoni_at_Reebok_event.jpg",
+          "altText": "Dhoni is very bored"
+        }
+      }
+    },
+    {
+      "label": "Virat Kohli",
+      "id": "viratKohli",
+      "value": {
+        "label": "Human blood pressure goes down when petting a dog. And so does the dog’s.",
+        "url": "/wiki/en/Virat_Kohli",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/VIRAT_KHOLI_%2815573134623%29.jpg",
+          "altText": "Kohli looks upset"
+        }
+      }
+    },
+    {
+      "label": "Sourav Ganguly",
+      "id": "souravGanguly",
+      "value": {
+        "label": "Dogs are not colorblind. They also see blue and yellow.",
+        "url": "/wiki/en/Sourav_Ganguly",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sourav_Ganguly_crop.jpg",
+          "altText": "Young Sourav Ganguly looks at things"
+        }
+      }
+    }
   ]
 }

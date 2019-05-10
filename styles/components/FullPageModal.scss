@@ -1,5 +1,5 @@
 .wcp-full-page-modal {
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   right: 0;
@@ -7,4 +7,5 @@
   background-color: $color-white;
   z-index: $z-index-modal;
   padding: $gutter-m;
+  overflow-y: scroll;
 }

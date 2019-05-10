@@ -17,6 +17,7 @@ import {
 import { PlayingTeams } from "../components/PlayingTeams";
 import { FunFacts } from "../components/FunFacts";
 import { ShareModalContainer } from "../components/ShareModalContainer";
+import { FeaturedPlayers } from "../components/FeaturedPlayers";
 
 const Home = ({
   lang,
@@ -24,7 +25,10 @@ const Home = ({
   playingTeams,
   participatingTeams,
   scheduledFacts,
-  constantFacts
+  constantFacts,
+  scheduledFeaturedPlayers,
+  constantFeaturedPlayers,
+  allPlayers
 }) => (
   <LanguageContext.Provider value={lang}>
     <ModalContextProvider>
@@ -44,6 +48,11 @@ const Home = ({
         <SwitchLanguageFloatingToolbar translations={translations} />
         <PlayingTeams teams={playingTeams} allTeams={participatingTeams} />
         <FunFacts scheduled={scheduledFacts} constant={constantFacts} />
+        <FeaturedPlayers
+          scheduled={scheduledFeaturedPlayers}
+          constant={constantFeaturedPlayers}
+          all={allPlayers}
+        />
         <ModalContextConsumer>
           {({ registerModal, isModalOpen, modalData, closeModal }) => (
             <ShareModalContainer
@@ -77,10 +86,28 @@ Home.defaultProps = {
 Home.propTypes = {
   lang: PropTypes.string.isRequired,
   translations: translationsPropTypes.isRequired,
+
+  // A list of teams tagged with the dates they are playing on.
   playingTeams: PropTypes.arrayOf(factPropTypes),
+
+  // A list of all teams participating in the world cup.
   participatingTeams: PropTypes.arrayOf(factPropTypes),
+
+  // A list of "fun facts" tagged with the dates they should appear on.
   scheduledFacts: PropTypes.arrayOf(factPropTypes).isRequired,
-  constantFacts: PropTypes.arrayOf(factPropTypes).isRequired
+
+  // A static list of "fun facts" that will appear every day.
+  constantFacts: PropTypes.arrayOf(factPropTypes).isRequired,
+
+  // A list of players tagged with the dates on which they should be featured.
+  scheduledFeaturedPlayers: PropTypes.arrayOf(factPropTypes).isRequired,
+
+  // A static list of players who will always appear in the featured players
+  // list.
+  constantFeaturedPlayers: PropTypes.arrayOf(factPropTypes).isRequired,
+
+  // A static list of players who will appear in the all players modal.
+  allPlayers: PropTypes.arrayOf(factPropTypes).isRequired
 };
 
 export default Home;

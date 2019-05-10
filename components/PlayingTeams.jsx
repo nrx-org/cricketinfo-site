@@ -7,7 +7,8 @@ import { Button } from "./Button";
 import { LanguageContext } from "../language_context";
 import { ModalContextConsumer } from "./ModalContext";
 import { TEAMS_LIST_MODAL_ID } from "../lib/modal_ids";
-import { TeamsListModalContainer } from "./TeamsListModalContainer";
+import { TinyCardsListModalContainer } from "./TinyCardsListModalContainer";
+import { LargeSectionTitle } from "./LargeSectionTitle";
 
 const TEAMS_TO_WATCH_MESSAGE = {
   en: "Playing teams",
@@ -21,25 +22,43 @@ const SEE_ALL_MESSAGE = {
   ta: "TODO"
 };
 
+const ALL_TEAMS_MESSAGE = {
+  en: "Teams to watch",
+  hi: "दिलचस्प टीमें",
+  ta: "TODO"
+};
+
 export const PlayingTeams = ({ teams, allTeams }) => (
   <LanguageContext.Consumer>
     {lang => (
       <section className="wcp-playing-teams">
-        <h1 className="wcp-playing-teams__title">
-          {TEAMS_TO_WATCH_MESSAGE[lang]}
-        </h1>
+        <LargeSectionTitle>{TEAMS_TO_WATCH_MESSAGE[lang]}</LargeSectionTitle>
         <CoverCardCarousel cards={teams} />
         <ModalContextConsumer>
-          {({ openModal, closeModal, registerModal, isModalOpen }) => (
+          {({
+            openModal,
+            closeModal,
+            registerModal,
+            isModalOpen,
+            modalData
+          }) => (
             <>
-              <Button isInverted onClick={() => openModal(TEAMS_LIST_MODAL_ID)}>
+              <Button
+                isInverted
+                onClick={() =>
+                  openModal(TEAMS_LIST_MODAL_ID, {
+                    items: allTeams,
+                    title: ALL_TEAMS_MESSAGE[lang]
+                  })
+                }
+              >
                 {SEE_ALL_MESSAGE[lang]}
               </Button>
-              <TeamsListModalContainer
+              <TinyCardsListModalContainer
                 registerModal={registerModal}
                 closeModal={closeModal}
                 isModalOpen={isModalOpen}
-                teams={allTeams}
+                modalData={modalData}
               />
             </>
           )}

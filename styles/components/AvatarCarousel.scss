@@ -1,0 +1,11 @@
+.wcp-avatar-carousel {
+  margin-left: -$gutter-m;
+  margin-right: -$gutter-m;
+  display: flex;
+  overflow-x: scroll;
+  @include hide-scrollbar();
+
+  .wcp-avatar {
+    margin-left: $gutter-m;
+  }
+}

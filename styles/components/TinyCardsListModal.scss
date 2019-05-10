@@ -1,0 +1,19 @@
+.wcp-tiny-cards-list-modal {
+  .wcp-tiny-card-wrapper {
+    margin-bottom: $gutter-m;
+  }
+
+  .wcp-tiny-card {
+    width: 100%;
+  }
+}
+
+.wcp-tiny-cards-list-modal__header {
+  display: flex;
+}
+
+.wcp-tiny-cards-list-modal__title {
+  font-size: $font-size-xl;
+  line-height: $line-height-xl;
+  flex-grow: 1;
+}
