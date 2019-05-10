@@ -28,19 +28,27 @@ const FactCardSimpleContents = ({ cardData, openModal }) => {
   return (
     <section className="wcp-fact-card-simple">
       <SectionTitle>{cardData.title}</SectionTitle>
-      <div
-        className="wcp-fact-card-simple__image"
-        style={{ backgroundImage: `url(${cardData.facts[0].value.image.url})` }}
-      />
-      <div className="wcp-fact-card-simple__text-section">
-        <h4 className="wcp-fact-card-simple__text-section__title">
-          {cardData.facts[0].label}
-        </h4>
-        <p className="wcp-fact-card-simple__text-section__caption">
-          {cardData.facts[0].value.label}
-        </p>
-        <div className="wcp-fact-card-simple__text-section__icon">
-          <IconButton onClick={share} name="share-white" altText="Share Icon" />
+      <div className="wcp-fact-card-simple__content-wrapper">
+        <div
+          className="wcp-fact-card-simple__image"
+          style={{
+            backgroundImage: `url(${cardData.facts[0].value.image.url})`
+          }}
+        />
+        <div className="wcp-fact-card-simple__text-section">
+          <h4 className="wcp-fact-card-simple__text-section__title">
+            {cardData.facts[0].label}
+          </h4>
+          <p className="wcp-fact-card-simple__text-section__caption">
+            {cardData.facts[0].value.label}
+          </p>
+          <div className="wcp-fact-card-simple__text-section__icon">
+            <IconButton
+              onClick={share}
+              name="share-white"
+              altText="Share Icon"
+            />
+          </div>
         </div>
       </div>
     </section>

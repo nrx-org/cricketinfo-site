@@ -21,8 +21,14 @@
 .wcp-fact-card-simple__text-section__caption {
   font-size: $font-size-m;
   line-height: $line-height-m;
+  margin-top: 0.5rem;
 }
 
 .wcp-fact-card-simple__text-section__icon {
-  margin-top: $gutter-s;
+  margin-top: $gutter-m;
+}
+
+.wcp-fact-card-simple__content-wrapper {
+  margin-left: -1rem;
+  margin-right: -1rem;
 }
