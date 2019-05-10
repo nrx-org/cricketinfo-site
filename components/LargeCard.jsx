@@ -15,10 +15,21 @@ const shareCard = (shareData, openModal) => {
   }
 };
 
-export const LargeCard = ({ id, href, coverImage, text, className }) => (
+export const LargeCard = ({
+  id,
+  href,
+  coverImage,
+  title,
+  caption,
+  className,
+  cardOrientation,
+  buttonText
+}) => (
   <ModalContextConsumer>
     {({ openModal }) => (
-      <section className={`wcp-large-card ${className}`}>
+      <section
+        className={`wcp-large-card ${className} wcp-large-card--${cardOrientation}`}
+      >
         <div className="wcp-large-card__cover-image__container">
           <img
             className="wcp-large-card__cover-image"
@@ -27,15 +38,22 @@ export const LargeCard = ({ id, href, coverImage, text, className }) => (
           />
         </div>
         <div className="wcp-large-card__content">
-          <div className="wcp-large-card__children wcp-font-family-heading">
-            <p>{text}</p>
-          </div>
+          {cardOrientation === "horizontal" ? (
+            <div className="wcp-large-card__children wcp-font-family-heading">
+              <p>{title}</p>
+            </div>
+          ) : (
+            <div>
+              <h2 className="wcp-large-card__label">{title}</h2>
+              <div className="wcp-large-card__caption">{caption}</div>
+            </div>
+          )}
           <div className="wcp-large-card__controls">
             <IconButton
               onClick={() =>
                 shareCard(
                   {
-                    text,
+                    title,
                     url: getImageShareUrl(window.location.href, `#${id}`)
                   },
                   openModal
@@ -52,7 +70,7 @@ export const LargeCard = ({ id, href, coverImage, text, className }) => (
                 isFullWidth={false}
                 paddingSize="s"
               >
-                Read
+                {buttonText}
               </Button>
             ) : null}
           </div>
@@ -64,13 +82,20 @@ export const LargeCard = ({ id, href, coverImage, text, className }) => (
 
 LargeCard.defaultProps = {
   href: "",
-  className: ""
+  className: "",
+  cardOrientation: "horizontal",
+  buttonText: "Read",
+  title: "",
+  caption: ""
 };
 
 LargeCard.propTypes = {
   id: PropTypes.string.isRequired,
   href: PropTypes.string,
   coverImage: imagePropTypes.isRequired,
-  text: PropTypes.string.isRequired,
-  className: PropTypes.string
+  title: PropTypes.string,
+  caption: PropTypes.string,
+  className: PropTypes.string,
+  cardOrientation: PropTypes.string, // horizontal, vertical
+  buttonText: PropTypes.string
 };
