@@ -1,5 +1,10 @@
 $border-radius-cover-image: 8px;
 
+.wcp-tiny-card-wrapper {
+  height: 4rem;
+  display: flex;
+}
+
 .wcp-tiny-card {
   min-width: 70vw;
   height: 4rem;
@@ -12,7 +17,12 @@ $border-radius-cover-image: 8px;
   padding: $gutter-s $gutter-s;
 }
 
-.wcp-tiny-card--active {
+.wcp-tiny-card-wrapper.wcp-tiny-card--active {
+  padding-left: 0.2rem;
+  margin-left: -0.2rem;
+}
+
+.wcp-tiny-card.wcp-tiny-card--active {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08), 0 1px 4px rgba(0, 0, 0, 0.04),
     0 0 4px rgba(0, 0, 0, 0.04);
 
