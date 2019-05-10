@@ -1,13 +1,6 @@
 import React from "react";
-import PropTypes from "prop-types";
-
-import { IconButton } from "./IconButton";
-import { ModalContextConsumer } from "./ModalContext";
 import { StoriesContainer } from "./StoriesContainer";
-
 import { factCardDataPropTypes } from "../lib/prop_types";
-import { SHARE_MODAL_ID } from "../lib/modal_ids";
-import { getImageShareUrl } from "../lib/urls";
 import { BarChart } from "./BarChart";
 import { Timeline } from "./Timeline";
 import { SectionTitle } from "./SectionTitle";
@@ -42,8 +35,6 @@ const FactCardTable = ({ cardData }) => {
 FactCardTable.propTypes = {
   cardData: factCardDataPropTypes.isRequired
 };
-
-
 
 export const FactCard = ({ cardData }) => {
   if (cardData.cardType === "table") {
