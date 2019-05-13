@@ -33,10 +33,13 @@ records.forEach(async record => {
 
   // Get file name from url link
   const getFileNameFromURL = url => {
+    if (!url) return null;
     return url.match(/File:(.*)/)[1];
   };
 
-  const getImageName = fileName => {
+  const getImageName = url => {
+    const fileName = getFileNameFromURL(url);
+    if (!fileName) return null;
     return path.parse(fileName).name;
     // return fileName.match(/(.*)\.[^/.]+$/)[1].replace(/-|_|/, " ");
   };
@@ -72,9 +75,7 @@ records.forEach(async record => {
     ...article,
     coverImage: {
       url: await getImageForArticle(record["Header image"]),
-      altText: `Image of ${getImageName(
-        getFileNameFromURL(record["Header image"])
-      )}`
+      altText: `Image of ${getImageName(record["Header image"])}`
     },
     summary: record["Short description of personality"],
     translations: [
@@ -140,7 +141,7 @@ records.forEach(async record => {
                   record["Link to the image of relation 1"]
                 ),
                 altText: `Image of ${getImageName(
-                  getFileNameFromURL(record["Link to the image of relation 1"])
+                  record["Link to the image of relation 1"]
                 )}`
               }
             }
@@ -169,9 +170,7 @@ records.forEach(async record => {
                         record["Phase 1- Image related to the place"]
                       ),
                       altText: `Image of ${getImageName(
-                        getFileNameFromURL(
-                          record["Phase 1- Image related to the place"]
-                        )
+                        record["Phase 1- Image related to the place"]
                       )}`
                     }
                   }
@@ -221,9 +220,7 @@ records.forEach(async record => {
                     image: {
                       url: "https://placekitten.com/200/200",
                       altText: `Image of ${getImageName(
-                        getFileNameFromURL(
-                          record["Phase 1- Image related to the place"]
-                        )
+                        record["Phase 1- Image related to the place"]
                       )}`
                     }
                   }
@@ -247,7 +244,7 @@ records.forEach(async record => {
                   record["Link to image of school"]
                 ),
                 altText: `Image of ${getImageName(
-                  getFileNameFromURL(record["Link to image of school"])
+                  record["Link to image of school"]
                 )}`
               }
             }
@@ -264,7 +261,7 @@ records.forEach(async record => {
               image: {
                 url: await getImageForArticle(record["Relevant image link"]),
                 altText: `Image of ${getImageName(
-                  getFileNameFromURL(record["Relevant image link"])
+                  record["Relevant image link"]
                 )}`
               }
             }
@@ -288,9 +285,7 @@ records.forEach(async record => {
                     record["Link to the National team Logo"]
                   ),
                   altText: `Image of ${getImageName(
-                    getFileNameFromURL(
                     record["Link to the National team Logo"]
-                    )
                   )}`
                 }
               }
@@ -315,9 +310,7 @@ records.forEach(async record => {
                     record["Link to the IPL team logo"]
                   ),
                   altText: `Image of ${getImageName(
-                    getFileNameFromURL(
-                      record["Link to the IPL team logo"]
-                      )
+                    record["Link to the IPL team logo"]
                   )}`
                 }
               }
@@ -336,9 +329,7 @@ records.forEach(async record => {
                     record["Link to the IPL team logo"]
                   ),
                   altText: `Image of ${getImageName(
-                    getFileNameFromURL(
                     record["Link to the IPL team logo"]
-                      )
                   )}`
                 }
               }
@@ -361,9 +352,7 @@ records.forEach(async record => {
                   record["Image link for the award 1"]
                 ),
                 altText: `Image of ${getImageName(
-                  getFileNameFromURL(
-                    record["Image link for the award 1"]
-                    )
+                  record["Image link for the award 1"]
                 )}`
               }
             }
@@ -378,9 +367,7 @@ records.forEach(async record => {
                   record["Image link for the award 2"]
                 ),
                 altText: `Image of ${getImageName(
-                  getFileNameFromURL(
                   record["Image link for the award 2"]
-                    )
                 )}`
               }
             }
@@ -395,9 +382,7 @@ records.forEach(async record => {
                   record["Image link for the award 3"]
                 ),
                 altText: `Image of ${getImageName(
-                  getFileNameFromURL(
                   record["Image link for the award 3"]
-                  )
                 )}`
               }
             }
@@ -411,11 +396,10 @@ records.forEach(async record => {
                 url: await getImageForArticle(
                   record["Image link for the award 4"]
                 ),
-                altText:`Image of ${getImageName(
-                  getFileNameFromURL(
+                altText: `Image of ${getImageName(
                   record["Image link for the award 4"]
-                  )
                 )}`
+              }
             }
           }
         ]
@@ -430,11 +414,7 @@ records.forEach(async record => {
               label: record["Achievement or Record 1"],
               image: {
                 url: await getImageForArticle(record["Image 1"]),
-                altText: `Image of ${getImageName(
-                  getFileNameFromURL(
-                  record["Image 1"]
-                  )
-                )}`
+                altText: `Image of ${getImageName(record["Image 1"])}`
               }
             }
           },
@@ -444,11 +424,7 @@ records.forEach(async record => {
               label: record["Achievement or Record 2"],
               image: {
                 url: await getImageForArticle(record["Image 2"]),
-                altText: `Image of ${getImageName(
-                  getFileNameFromURL(
-                  record["Image 2"]
-                  )
-                )}`
+                altText: `Image of ${getImageName(record["Image 2"])}`
               }
             }
           },
@@ -458,11 +434,7 @@ records.forEach(async record => {
               label: record["Achievement or Record 3"],
               image: {
                 url: await getImageForArticle(record["Image 3"]),
-                altText: `Image of ${getImageName(
-                  getFileNameFromURL(
-                  record["Image 3"]
-                  )
-                )}`
+                altText: `Image of ${getImageName(record["Image 3"])}`
               }
             }
           },
@@ -472,11 +444,7 @@ records.forEach(async record => {
               label: record["Achievement or Record 4"],
               image: {
                 url: await getImageForArticle(record["Image 4"]),
-                altText: `Image of ${getImageName(
-                  getFileNameFromURL(
-                  record["Image 4"]
-                  )
-                )}`
+                altText: `Image of ${getImageName(record["Image 4"])}`
               }
             }
           },
@@ -486,11 +454,7 @@ records.forEach(async record => {
               label: record["Achievement or Record 5"],
               image: {
                 url: await getImageForArticle(record["Image 5"]),
-                altText: `Image of ${getImageName(
-                  getFileNameFromURL(
-                  record["Image 5"]
-                  )
-                )}`
+                altText: `Image of ${getImageName(record["Image 5"])}`
               }
             }
           }
@@ -509,9 +473,6 @@ records.forEach(async record => {
 });
 
 // TODO: refactor components to not dispolay things if value is empty string.
-
-// TODO: optimize the images by downloading them all initially and then running them
-// through ImageOptim and then moving them to static.
 
 // TODO: write a function which takes every url, and enters it only if the
 // link of the url exisst in our experience
