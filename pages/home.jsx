@@ -18,6 +18,7 @@ import { PlayingTeams } from "../components/PlayingTeams";
 import { FunFacts } from "../components/FunFacts";
 import { ShareModalContainer } from "../components/ShareModalContainer";
 import { FeaturedPlayers } from "../components/FeaturedPlayers";
+import { QuizContainer } from "../components/QuizContainer";
 
 const Home = ({
   lang,
@@ -28,7 +29,8 @@ const Home = ({
   constantFacts,
   scheduledFeaturedPlayers,
   constantFeaturedPlayers,
-  allPlayers
+  allPlayers,
+  quizQuestions
 }) => (
   <LanguageContext.Provider value={lang}>
     <ModalContextProvider>
@@ -53,6 +55,7 @@ const Home = ({
           constant={constantFeaturedPlayers}
           all={allPlayers}
         />
+        <QuizContainer questions={quizQuestions} />
         <ModalContextConsumer>
           {({ registerModal, isModalOpen, modalData, closeModal }) => (
             <ShareModalContainer
@@ -107,7 +110,20 @@ Home.propTypes = {
   constantFeaturedPlayers: PropTypes.arrayOf(factPropTypes).isRequired,
 
   // A static list of players who will appear in the all players modal.
-  allPlayers: PropTypes.arrayOf(factPropTypes).isRequired
+  allPlayers: PropTypes.arrayOf(factPropTypes).isRequired,
+
+  // A list of pre-scheduled quiz questions
+  quizQuestions: PropTypes.arrayOf(
+    PropTypes.shape({
+      label: PropTypes.string.isRequired,
+      date: PropTypes.string.isRequired,
+      options: PropTypes.shape({
+        label: PropTypes.string.isRequired
+      }).isRequired,
+      answerIndex: PropTypes.number.isRequired,
+      relatedArticle: factPropTypes
+    })
+  ).isRequired
 };
 
 export default Home;

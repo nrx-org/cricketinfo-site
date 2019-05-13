@@ -160,7 +160,7 @@
   "scheduledFacts": [
     {
       "label": "Sachin Tendulkar has scored most runs across all the world cup tournaments, ie 2,278.",
-      "date": "2019-5-9",
+      "date": "2019-05-09",
       "id": "sachinTendulkar",
       "value": {
         "url": "/wiki/en/Sachin_Tendulkar",
@@ -172,7 +172,7 @@
     },
     {
       "label": "Ducks are curious and friendly creatures, they have been domesticated as pets and farm animals for more than 500 years.",
-      "date": "2019-5-9",
+      "date": "2019-05-09",
       "id": "viratKohli",
       "value": {
         "url": "/wiki/en/Virat_Kohli",
@@ -200,7 +200,7 @@
     {
       "label": "Virat Kohli",
       "id": "viratKohli",
-      "date": "2019-5-10",
+      "date": "2019-05-10",
       "value": {
         "url": "/wiki/en/Virat_Kohli",
         "image": {
@@ -291,6 +291,59 @@
         "image": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sourav_Ganguly_crop.jpg",
           "altText": "Young Sourav Ganguly looks at things"
+        }
+      }
+    }
+  ],
+  "quizQuestions": [
+    {
+      "label": "Which cricket team has won the most number of world cups?",
+      "date": "2019-05-13",
+      "options": [
+        {
+          "label": "Australia"
+        },
+        {
+          "label": "West Indies"
+        },
+        {
+          "label": "India"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "Australia Cricket Team",
+        "value": {
+          "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+          "url": "http://foobar2000.com",
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/The_Australian_Cricket_Team_of_1884.jpg",
+            "altText": "Look at these dapper men."
+          }
+        }
+      }
+    },
+    {
+      "label": "How many matches were played in the inaugural World Cup held in 1975?",
+      "date": "2019-05-13",
+      "options": [
+        {
+          "label": "19"
+        },
+        {
+          "label": "15"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": {
+        "label": "1975 Cricket World Cup",
+        "value": {
+          "label": "The 1975 Cricket World Cup was the first edition of the Cricket World Cup, organised by the International Cricket Conference.",
+          "url": "http://foobar2000.com",
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/en/3/35/Prudential_Cup_75_logo.svg",
+            "altText": "Made this in 10 minutes."
+          }
         }
       }
     }
