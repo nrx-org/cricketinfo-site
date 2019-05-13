@@ -40,8 +40,8 @@ records.forEach(async record => {
   const getImageName = url => {
     const fileName = getFileNameFromURL(url);
     if (!fileName) return null;
-    return path.parse(fileName).name;
-    // return fileName.match(/(.*)\.[^/.]+$/)[1].replace(/-|_|/, " ");
+    return path.parse(fileName).name.replace(/[-_]/g, " ");
+    // return fileName.match(/(.*)\.[^/.]+$/)[1]
   };
 
   // Download all the images and put them in static
