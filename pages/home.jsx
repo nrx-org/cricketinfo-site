@@ -20,6 +20,7 @@ import {
   ModalContextProvider
 } from "../components/ModalContext";
 import { PlayingTeams } from "../components/PlayingTeams";
+import { PopularArticles } from "../components/PopularArticles";
 import { FunFacts } from "../components/FunFacts";
 import { Timeline } from "../components/Timeline";
 import { ShareModalContainer } from "../components/ShareModalContainer";
@@ -34,6 +35,7 @@ const Home = ({
   horizontalTimeline,
   scheduledFacts,
   constantFacts,
+  popularArticles,
   scheduledFeaturedPlayers,
   constantFeaturedPlayers,
   allPlayers,
@@ -61,6 +63,7 @@ const Home = ({
           innerCardType="large"
           cardData={horizontalTimeline}
         />
+        <PopularArticles popularArticles={popularArticles} />
         <FunFacts scheduled={scheduledFacts} constant={constantFacts} />
         <FeaturedPlayers
           scheduled={scheduledFeaturedPlayers}
@@ -109,6 +112,15 @@ Home.propTypes = {
   // A list of all teams participating in the world cup.
   participatingTeams: PropTypes.arrayOf(factPropTypes),
   horizontalTimeline: factCardDataPropTypes,
+
+  // A list of all popular articles grouped by columns.
+  popularArticles: PropTypes.shape({
+    columns: PropTypes.arrayOf(PropTypes.arrayOf(factPropTypes)),
+    title: PropTypes.string,
+    id: PropTypes.string
+  }).isRequired,
+
+  // A list of "fun facts" tagged with the dates they should appear on.
   scheduledFacts: PropTypes.arrayOf(factPropTypes).isRequired,
 
   // A static list of "fun facts" that will appear every day.
