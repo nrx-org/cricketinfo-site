@@ -1,3 +1,13 @@
+.wcp-quiz-question {
+  .wcp-tiny-card-wrapper {
+    margin-top: $gutter-m;
+  }
+}
+
+.wcp-quiz-question + .wcp-quiz-question {
+  margin-top: 2 * $gutter-m;
+}
+
 .wcp-quiz-question__answers {
   list-style-type: upper-alpha;
   list-style-position: inside;
