@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import PropTypes from "prop-types";
 import { LargeSectionTitle } from "./LargeSectionTitle";
 import { QuizQuestion } from "./QuizQuestion";
+import { quizQuestionPropType } from "../lib/prop_types";
 
 const LOCALSTORAGE_KEY = "wcpQuizContainerData";
 
@@ -53,13 +54,18 @@ export class QuizContainer extends Component {
   }
 
   render() {
-    let { questions } = this.props;
+    if (!process.browser) {
+      return null;
+    }
+
+    const { questions } = this.props;
 
     return (
       <section>
         <LargeSectionTitle>Do you know?</LargeSectionTitle>
         {questions.map(q => (
           <QuizQuestion
+            key={`quizQuestion${q.id}`}
             question={q}
             userAnswerIndex={QuizContainer.getUserAnswerIndex(q.id)}
             setUserAnswerIndex={index => this.setUserAnswerIndex(q.id, index)}
@@ -70,4 +76,6 @@ export class QuizContainer extends Component {
   }
 }
 
-QuizContainer.propTypes = {};
+QuizContainer.propTypes = {
+  questions: PropTypes.arrayOf(quizQuestionPropType).isRequired
+};

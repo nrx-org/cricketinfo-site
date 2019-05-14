@@ -1,7 +1,11 @@
+/* eslint-disable jsx-a11y/click-events-have-key-events */
+/* eslint-disable jsx-a11y/no-noninteractive-element-interactions */
+
 import React from "react";
 import PropTypes from "prop-types";
 import { LanguageContextConsumer } from "../language_context";
 import { TinyCard } from "./TinyCard";
+import { quizQuestionPropType } from "../lib/prop_types";
 
 const CORRECT_ANSWER_MESSAGE = {
   en: "Correct answer! Learn more:",
@@ -88,4 +92,8 @@ export const QuizQuestion = ({
   );
 };
 
-QuizQuestion.propTypes = {};
+QuizQuestion.propTypes = {
+  question: quizQuestionPropType.isRequired,
+  userAnswerIndex: PropTypes.oneOf([-1, 0, 1]).isRequired,
+  setUserAnswerIndex: PropTypes.func.isRequired
+};

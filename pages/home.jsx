@@ -9,7 +9,11 @@ import { makeSiteTitle } from "../lib/make_title";
 import { homeContentUrl } from "../lib/urls";
 import { SwitchLanguageFloatingToolbar } from "../components/SwitchLanguageFloatingToolbar";
 
-import { factPropTypes, translationsPropTypes } from "../lib/prop_types";
+import {
+  factPropTypes,
+  quizQuestionPropType,
+  translationsPropTypes
+} from "../lib/prop_types";
 import {
   ModalContextConsumer,
   ModalContextProvider
@@ -113,17 +117,7 @@ Home.propTypes = {
   allPlayers: PropTypes.arrayOf(factPropTypes).isRequired,
 
   // A list of pre-scheduled quiz questions
-  quizQuestions: PropTypes.arrayOf(
-    PropTypes.shape({
-      label: PropTypes.string.isRequired,
-      date: PropTypes.string.isRequired,
-      options: PropTypes.shape({
-        label: PropTypes.string.isRequired
-      }).isRequired,
-      answerIndex: PropTypes.number.isRequired,
-      relatedArticle: factPropTypes
-    })
-  ).isRequired
+  quizQuestions: PropTypes.arrayOf(quizQuestionPropType).isRequired
 };
 
 export default Home;
