@@ -47,7 +47,7 @@ records.forEach(async record => {
   // Download all the images and put them in static
   const getImageForArticle = async url => {
     if (!url) {
-      return null;
+      return "/static/images/default_person.svg";
     }
     const response = await fetch(url);
     const html = await response.text();
@@ -68,6 +68,30 @@ records.forEach(async record => {
     const imageFile = fs.createWriteStream(imagePath);
     image.body.pipe(imageFile);
     return imagePath.substring(1);
+  };
+
+  const addEducation = async () => {
+    if (!record["Name of school"]) return null;
+    const education = {
+      title: "Education",
+      cardType: "tag_card",
+      facts: [
+        {
+          label: record["Name of school"],
+          tag: record["Year of graduation"],
+          value: {
+            label: record["Caption of image of school"],
+            image: {
+              url: await getImageForArticle(record["Link to image of school"]),
+              altText: `Image of ${getImageName(
+                record["Link to image of school"]
+              )}`
+            }
+          }
+        }
+      ]
+    };
+    return education;
   };
 
   // Putting together the completed JS object
@@ -231,27 +255,6 @@ records.forEach(async record => {
         ]
       },
       {
-        title: "Education",
-        cardType: "tag_card",
-        facts: [
-          {
-            label: record["Name of school"],
-            tag: record["Year of graduation"],
-            value: {
-              label: record["Caption of image of school"],
-              image: {
-                url: await getImageForArticle(
-                  record["Link to image of school"]
-                ),
-                altText: `Image of ${getImageName(
-                  record["Link to image of school"]
-                )}`
-              }
-            }
-          }
-        ]
-      },
-      {
         title: "Style of Play",
         cardType: "simple",
         facts: [
@@ -344,7 +347,6 @@ records.forEach(async record => {
           {
             label: record["Name of the award 1"],
             tag: record["Year of the award 1"],
-
             value: {
               label: record["Short Description of the award 1"],
               image: {
@@ -404,6 +406,7 @@ records.forEach(async record => {
           }
         ]
       },
+      await addEducation(),
       {
         title: "Achievement & Records",
         cardType: "stories",
@@ -465,7 +468,7 @@ records.forEach(async record => {
 
   fs.writeFile(
     `./csv/${getSluggedTitle}.json`,
-    JSON.stringify(article),
+    JSON.stringify(article, null, 2),
     err => {
       if (err) console.log(err);
     }
