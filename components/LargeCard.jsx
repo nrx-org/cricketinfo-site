@@ -28,6 +28,7 @@ export const LargeCard = ({
   <ModalContextConsumer>
     {({ openModal }) => (
       <section
+        id={id}
         className={`wcp-large-card ${className} wcp-large-card--${cardOrientation}`}
       >
         <div className="wcp-large-card__cover-image__container">
