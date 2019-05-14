@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import { LargeSectionTitle } from "./LargeSectionTitle";
 import { QuizQuestion } from "./QuizQuestion";
 import { quizQuestionPropType } from "../lib/prop_types";
+import { todayString } from "../lib/date";
 
 const LOCALSTORAGE_KEY = "wcpQuizContainerData";
 
@@ -59,11 +60,17 @@ export class QuizContainer extends Component {
     }
 
     const { questions } = this.props;
+    const dateString = todayString();
+    const scheduledQuestions = questions.filter(q => q.date === dateString);
+
+    if (scheduledQuestions.length === 0) {
+      return null;
+    }
 
     return (
       <section>
         <LargeSectionTitle>Do you know?</LargeSectionTitle>
-        {questions.map(q => (
+        {scheduledQuestions.map(q => (
           <QuizQuestion
             key={`quizQuestion${q.id}`}
             question={q}
