@@ -1,0 +1,35 @@
+.wcp-popular-articles {
+
+}
+
+.wcp-popular-articles__columns {
+  display: flex;
+  flex-direction: row;
+  overflow-x: scroll;
+  @include hide-scrollbar();
+  scroll-snap-type: x mandatory;
+}
+
+.wcp-popular-articles__column {
+  scroll-snap-align: start;
+  flex: 1;
+}
+
+.wcp-popular-articles__columns .wcp-tiny-card-carousel {
+  flex-direction: column;
+  margin-left: 0;
+  margin-top: 0;
+  overflow: hidden;
+  &:not(:first-child) {
+    margin-left: 1rem;
+  }
+  .wcp-tiny-card--passive + .wcp-tiny-card--passive::before {
+    content: none;
+  }
+  .wcp-tiny-card-wrapper {
+    width: 70vw;
+    &:not(:first-child) {
+      margin-top: 1rem;
+    }
+  }
+}
