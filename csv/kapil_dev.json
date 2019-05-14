@@ -1,1 +1,350 @@
-{"title":"Kapil Dev","coverImage":{"url":"./static/images/kapil_dev/Kapil_Dev_at_Equation_sports_auction.jpg","altText":"Kapil Dev"},"summary":"Kapil Dev, is a former Indian cricketer who captained the Indian cricket team that won the 1983 World cup.","translations":[{"url":"/wiki/hi/महेंद्र_सिंह_धोनी","title":"महेंद्र सिंह धोनी","lang":"hi"},{"url":"/wiki/pa/মহেন্দ্র_সিং_ধোনি","title":"মহেন্দ্র সিং ধোনি","lang":"pa"}],"sections":[{"title":"About","cardType":"table","facts":[{"label":"Full Name","value":{"label":"Kapil Dev Ramlal Nikhanj","url":""}},{"label":"Born on","value":{"label":"06/01/1959","url":""}},{"label":"Birthplace","value":{"label":"Chandigarh, India","url":"https://en.wikipedia.org/wiki/Chandigarh"}},{"label":"Height","value":{"label":"","url":""}},{"label":"Other Names","value":{"label":"","url":""}},{"label":"Nationality","value":{"label":"Indian","url":"https://en.wikipedia.org/wiki/Indian_people"}},{"label":"Role","value":{"label":"All-rounder","url":""}}]},{"title":"Family","cardType":"avatar","label":"","facts":[{"label":"Contemporary player","value":{"label":"Sir Richard Hadlee","image":{"url":"./static/images/kapil_dev/Richard_Hadlee_1989.jpg","altText":"text goes here"}}}]},{"title":"Phase(s)","cardType":"vertical_timeline","facts":[{"label":"Year of Birth","id":0,"note":null,"value":{"label":"Kapil Dev was born in Chandigarh, India","facts":[{"label":"Place of Birth","id":0,"value":{"label":"Chandigarh, India","url":"https://en.wikipedia.org/wiki/Chandigarh","image":{"url":"./static/images/kapil_dev/Open_Hand_monument,_Chandigarh.jpg","altText":"Kitten mata ki jai"}}}]}},{"label":"Debut Year","id":3,"note":"1975","value":{"label":"Dev made an impressive debut for Haryana in November 1975 against Punjab","facts":[{"label":"","id":0,"value":{"label":"","url":"","image":{"url":"https://placekitten.com/200/200","altText":"Kitten mata ki jai"}}}]}},{"note":"1978","id":1,"value":{"label":"Pakistan","facts":[{"label":"","id":0,"value":{"label":"One day cricket debut against Pakistan where his individual performance was ordinary","url":"https://en.wikipedia.org/wiki/Pakistan_national_cricket_team","image":{"url":"https://placekitten.com/200/200","altText":"Kitten mata ki jai"}}}]}}]},{"title":"Education","cardType":"tag_card","facts":[{"label":"D.A.V. School Chandigarh","tag":"","value":{"label":"","image":{"url":null,"altText":"TODO"}}}]},{"title":"Style of Play","cardType":"simple","facts":[{"value":{"image":{"url":null,"altText":"add text here TODO"}}}]},{"title":"Teams","cardType":"list_card","facts":[{"label":"1978-1994","value":{"label":"Indian National Cricket team","value":{"label":"The India national cricket team, also known as Team India and Men in Blue, is governed by the Board of Control for Cricket in India","url":"https://en.wikipedia.org/wiki/India_national_cricket_team","image":{"url":"./static/images/kapil_dev/Cricket_India_Crest.svg","altText":"TODO replace text here"}}}},{"label":"","value":{"label":"","value":{"label":"","url":"","image":{"url":null,"altText":"TODO replace text here"}}}},{"label":"1975-1992","value":{"label":"Haryana","value":{"label":"Domestic Ranji trophy cricket team based in the state of Haryana ","url":"https://en.wikipedia.org/wiki/Haryana_cricket_team","image":{"url":null,"altText":"TODO replace text here"}}}}]},{"title":"Awards & Honors","cardType":"tag_card","facts":[{"label":"Arjuna Award","tag":"1980","value":{"label":"Arjuna Awards are given by the Government for outstanding achievement in sports","image":{"url":"./static/images/kapil_dev/Arjun_Award.jpg","altText":"TODO"}}},{"label":"Padma Shri","tag":"1982","value":{"label":"Padma Shri is the fourth highest civilian award in the Republic of India","image":{"url":"./static/images/kapil_dev/Padma_Shri_India_IIIe_Klasse.jpg","altText":"TODO"}}},{"label":"Padma Bhushan","tag":"1991","value":{"label":"The Padma Bhushan is the third-highest civilian award in the Republic of India","image":{"url":"./static/images/kapil_dev/Padma_Bhushan_India_IIe_Klasse.jpg","altText":"TODO"}}},{"label":"Wisden India cricketer of the century","tag":"2002","value":{"label":"Awarded by the cricketing magazine Wisden Cricketer's Almanack.","image":{"url":null,"altText":"TODO"}}}]},{"title":"Achievement & Records","cardType":"stories","facts":[{"label":null,"value":{"label":"First test century (126) at Feroz Shah Kotla, Delhi in just 124 balls versus West Indies in 1979","image":{"url":null,"altText":"TODO"}}},{"label":null,"value":{"label":"Two 5 wicket hauls against Australia in a home test series in 1980","image":{"url":null,"altText":"TODO"}}},{"label":null,"value":{"label":"Captained India for the first time in 1982-83 versus Sri Lanka.","image":{"url":null,"altText":"TODO"}}},{"label":null,"value":{"label":"Scored highest ODI score of 175 not out vs Zimbabwe in 1983 world cup","image":{"url":null,"altText":"TODO"}}},{"label":null,"value":{"label":"First captain to lead India to ODI world cup victory","image":{"url":null,"altText":"TODO"}}}]}]}
+{
+  "title": "Kapil Dev",
+  "coverImage": {
+    "url": "/static/images/kapil_dev/Kapil_Dev_at_Equation_sports_auction.jpg",
+    "altText": "Image of Kapil Dev at Equation sports auction"
+  },
+  "summary": "Kapil Dev, is a former Indian cricketer who captained the Indian cricket team that won the 1983 World cup.",
+  "translations": [
+    {
+      "url": "/wiki/hi/महेंद्र_सिंह_धोनी",
+      "title": "महेंद्र सिंह धोनी",
+      "lang": "hi"
+    },
+    {
+      "url": "/wiki/pa/মহেন্দ্র_সিং_ধোনি",
+      "title": "মহেন্দ্র সিং ধোনি",
+      "lang": "pa"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Kapil Dev Ramlal Nikhanj",
+            "url": ""
+          }
+        },
+        {
+          "label": "Born on",
+          "value": {
+            "label": "06/01/1959",
+            "url": ""
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Chandigarh, India",
+            "url": "https://en.wikipedia.org/wiki/Chandigarh"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "label": "Other Names",
+          "value": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "Indian",
+            "url": "https://en.wikipedia.org/wiki/Indian_people"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "All-rounder",
+            "url": ""
+          }
+        }
+      ]
+    },
+    {
+      "title": "Family",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "value": {
+            "label": "Sir Richard Hadlee",
+            "image": {
+              "url": "/static/images/kapil_dev/Richard_Hadlee_1989.jpg",
+              "altText": "Image of Richard Hadlee 1989"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Year of Birth",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Kapil Dev was born in Chandigarh, India",
+            "facts": [
+              {
+                "label": "Place of Birth",
+                "id": 0,
+                "value": {
+                  "label": "Chandigarh, India",
+                  "url": "https://en.wikipedia.org/wiki/Chandigarh",
+                  "image": {
+                    "url": "/static/images/kapil_dev/Open_Hand_monument,_Chandigarh.jpg",
+                    "altText": "Image of Open Hand monument, Chandigarh"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Debut Year",
+          "id": 3,
+          "note": "1975",
+          "value": {
+            "label": "Dev made an impressive debut for Haryana in November 1975 against Punjab",
+            "facts": [
+              {
+                "label": "",
+                "id": 0,
+                "value": {
+                  "label": "",
+                  "url": "",
+                  "image": {
+                    "url": "https://placekitten.com/200/200",
+                    "altText": "Kitten mata ki jai"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "note": "1978",
+          "id": 1,
+          "value": {
+            "label": "Pakistan",
+            "facts": [
+              {
+                "label": "",
+                "id": 0,
+                "value": {
+                  "label": "One day cricket debut against Pakistan where his individual performance was ordinary",
+                  "url": "https://en.wikipedia.org/wiki/Pakistan_national_cricket_team",
+                  "image": {
+                    "url": "https://placekitten.com/200/200",
+                    "altText": "Image of Open Hand monument, Chandigarh"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of Play",
+      "cardType": "simple",
+      "facts": [
+        {
+          "value": {
+            "label": "One of the greatest all-rounders to have played the game. Right-handed batsman and right-arm pace bowler.",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Teams",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "1978-1994",
+          "value": {
+            "label": "Indian National Cricket team",
+            "value": {
+              "label": "The India national cricket team, also known as Team India and Men in Blue, is governed by the Board of Control for Cricket in India",
+              "url": "https://en.wikipedia.org/wiki/India_national_cricket_team",
+              "image": {
+                "url": "/static/images/kapil_dev/Cricket_India_Crest.svg",
+                "altText": "Image of Cricket India Crest"
+              }
+            }
+          }
+        },
+        {
+          "label": "",
+          "value": {
+            "label": "",
+            "value": {
+              "label": "",
+              "url": "",
+              "image": {
+                "url": "/static/images/default_person.svg",
+                "altText": "Image of null"
+              }
+            }
+          }
+        },
+        {
+          "label": "1975-1992",
+          "value": {
+            "label": "Haryana",
+            "value": {
+              "label": "Domestic Ranji trophy cricket team based in the state of Haryana ",
+              "url": "https://en.wikipedia.org/wiki/Haryana_cricket_team",
+              "image": {
+                "url": "/static/images/default_person.svg",
+                "altText": "Image of null"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "Arjuna Award",
+          "tag": "1980",
+          "value": {
+            "label": "Arjuna Awards are given by the Government for outstanding achievement in sports",
+            "image": {
+              "url": "/static/images/kapil_dev/Arjun_Award.jpg",
+              "altText": "Image of Arjun Award"
+            }
+          }
+        },
+        {
+          "label": "Padma Shri",
+          "tag": "1982",
+          "value": {
+            "label": "Padma Shri is the fourth highest civilian award in the Republic of India",
+            "image": {
+              "url": "/static/images/kapil_dev/Padma_Shri_India_IIIe_Klasse.jpg",
+              "altText": "Image of Padma Shri India IIIe Klasse"
+            }
+          }
+        },
+        {
+          "label": "Padma Bhushan",
+          "tag": "1991",
+          "value": {
+            "label": "The Padma Bhushan is the third-highest civilian award in the Republic of India",
+            "image": {
+              "url": "/static/images/kapil_dev/Padma_Bhushan_India_IIe_Klasse.jpg",
+              "altText": "Image of Padma Bhushan India IIe Klasse"
+            }
+          }
+        },
+        {
+          "label": "Wisden India cricketer of the century",
+          "tag": "2002",
+          "value": {
+            "label": "Awarded by the cricketing magazine Wisden Cricketer's Almanack.",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "D.A.V. School Chandigarh",
+          "tag": "",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievement & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": null,
+          "value": {
+            "label": "First test century (126) at Feroz Shah Kotla, Delhi in just 124 balls versus West Indies in 1979",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "Two 5 wicket hauls against Australia in a home test series in 1980",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "Captained India for the first time in 1982-83 versus Sri Lanka.",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "Scored highest ODI score of 175 not out vs Zimbabwe in 1983 world cup",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "First captain to lead India to ODI world cup victory",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

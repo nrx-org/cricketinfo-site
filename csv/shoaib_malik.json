@@ -1,1 +1,334 @@
-{"title":"Shoaib Malik","coverImage":{"url":null,"altText":"Shoaib Malik"},"summary":"Shoaib Malik ) is a Pakistani cricketer and former captain of the Pakistani side from 2007 to 2009. ","translations":[{"url":"/wiki/hi/महेंद्र_सिंह_धोनी","title":"महेंद्र सिंह धोनी","lang":"hi"},{"url":"/wiki/pa/মহেন্দ্র_সিং_ধোনি","title":"মহেন্দ্র সিং ধোনি","lang":"pa"}],"sections":[{"title":"About","cardType":"table","facts":[{"label":"Full Name","value":{"label":"Shoaib Malik ","url":""}},{"label":"Born on","value":{"label":" 1 February 1982","url":""}},{"label":"Birthplace","value":{"label":"SialKot","url":"https://en.wikipedia.org/wiki/Sialkot"}},{"label":"Height","value":{"label":"5ft 10 in","url":""}},{"label":"Other Names","value":{"label":"","url":""}},{"label":"Nationality","value":{"label":"Pakistan","url":"https://en.wikipedia.org/wiki/Pakistan"}},{"label":"Role","value":{"label":"Batting Allrounder","url":""}}]},{"title":"Family","cardType":"avatar","label":"","facts":[{"label":"","value":{"label":"Sania Mirza","image":{"url":null,"altText":"text goes here"}}}]},{"title":"Phase(s)","cardType":"vertical_timeline","facts":[{"label":"Year of Birth","id":0,"note":null,"value":{"label":"Born in Sialkot, Shoaib Malik first played tape-ball cricket in the streets as a child.","facts":[{"label":"Place of Birth","id":0,"value":{"label":"Sialkot","url":"https://en.wikipedia.org/wiki/Sialkot","image":{"url":null,"altText":"Kitten mata ki jai"}}}]}},{"label":"Debut Year","id":3,"note":"","value":{"label":"","facts":[{"label":"","id":0,"value":{"label":"","url":"","image":{"url":"https://placekitten.com/200/200","altText":"Kitten mata ki jai"}}}]}},{"note":"","id":1,"value":{"label":"West indies","facts":[{"label":"","id":0,"value":{"label":"Shoaib Malik made his ODI debut on  14 October 1999 vs West Indies","url":"https://en.wikipedia.org/wiki/West_Indies_cricket_team","image":{"url":"https://placekitten.com/200/200","altText":"Kitten mata ki jai"}}}]}}]},{"title":"Education","cardType":"tag_card","facts":[{"label":"","tag":"","value":{"label":"","image":{"url":null,"altText":"TODO"}}}]},{"title":"Style of Play","cardType":"simple","facts":[{"value":{"image":{"url":null,"altText":"add text here TODO"}}}]},{"title":"Teams","cardType":"list_card","facts":[{"label":"1999- present","value":{"label":"Pakistan national cricket team","value":{"label":"The Pakistan Men's National Cricket Team popularly referred to as the Shaheens  Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). ","url":"https://en.wikipedia.org/wiki/Pakistan_national_cricket_team","image":{"url":null,"altText":"TODO replace text here"}}}},{"label":"","value":{"label":"","value":{"label":"","url":"","image":{"url":null,"altText":"TODO replace text here"}}}},{"label":"","value":{"label":"","value":{"label":"","url":"","image":{"url":null,"altText":"TODO replace text here"}}}}]},{"title":"Awards & Honors","cardType":"tag_card","facts":[{"label":"","tag":"","value":{"label":"","image":{"url":null,"altText":"TODO"}}},{"label":"","tag":"","value":{"label":"","image":{"url":null,"altText":"TODO"}}},{"label":"","tag":"","value":{"label":"","image":{"url":null,"altText":"TODO"}}},{"label":"","tag":"","value":{"label":"","image":{"url":null,"altText":"TODO"}}}]},{"title":"Achievement & Records","cardType":"stories","facts":[{"label":null,"value":{"label":"","image":{"url":null,"altText":"TODO"}}},{"label":null,"value":{"label":"","image":{"url":null,"altText":"TODO"}}},{"label":null,"value":{"label":"","image":{"url":null,"altText":"TODO"}}},{"label":null,"value":{"label":"","image":{"url":null,"altText":"TODO"}}},{"label":null,"value":{"label":"","image":{"url":null,"altText":"TODO"}}}]}]}
+{
+  "title": "Shoaib Malik",
+  "coverImage": {
+    "url": null,
+    "altText": "Image of Shoaib Malik"
+  },
+  "summary": "Shoaib Malik ) is a Pakistani cricketer and former captain of the Pakistani side from 2007 to 2009. ",
+  "translations": [
+    {
+      "url": "/wiki/hi/महेंद्र_सिंह_धोनी",
+      "title": "महेंद्र सिंह धोनी",
+      "lang": "hi"
+    },
+    {
+      "url": "/wiki/pa/মহেন্দ্র_সিং_ধোনি",
+      "title": "মহেন্দ্র সিং ধোনি",
+      "lang": "pa"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Shoaib Malik ",
+            "url": ""
+          }
+        },
+        {
+          "label": "Born on",
+          "value": {
+            "label": " 1 February 1982",
+            "url": ""
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "SialKot",
+            "url": "https://en.wikipedia.org/wiki/Sialkot"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "5ft 10 in",
+            "url": ""
+          }
+        },
+        {
+          "label": "Other Names",
+          "value": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "Pakistan",
+            "url": "https://en.wikipedia.org/wiki/Pakistan"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "Batting Allrounder",
+            "url": ""
+          }
+        }
+      ]
+    },
+    {
+      "title": "Family",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "value": {
+            "label": "Sania Mirza",
+            "image": {
+              "url": null,
+              "altText": "Image of Sania Mirza (35449409862)"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Year of Birth",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Born in Sialkot, Shoaib Malik first played tape-ball cricket in the streets as a child.",
+            "facts": [
+              {
+                "label": "Place of Birth",
+                "id": 0,
+                "value": {
+                  "label": "Sialkot",
+                  "url": "https://en.wikipedia.org/wiki/Sialkot",
+                  "image": {
+                    "url": null,
+                    "altText": "Image of Sialkot Boulevard"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Debut Year",
+          "id": 3,
+          "note": "",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "",
+                "id": 0,
+                "value": {
+                  "label": "",
+                  "url": "",
+                  "image": {
+                    "url": "https://placekitten.com/200/200",
+                    "altText": "Kitten mata ki jai"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "note": "",
+          "id": 1,
+          "value": {
+            "label": "West indies",
+            "facts": [
+              {
+                "label": "",
+                "id": 0,
+                "value": {
+                  "label": "Shoaib Malik made his ODI debut on  14 October 1999 vs West Indies",
+                  "url": "https://en.wikipedia.org/wiki/West_Indies_cricket_team",
+                  "image": {
+                    "url": "https://placekitten.com/200/200",
+                    "altText": "Image of Sialkot Boulevard"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of Play",
+      "cardType": "simple",
+      "facts": [
+        {
+          "value": {
+            "label": "Malik is regarded as a flexible player. He is capable of hitting big shots but is also capable of rotating the strike with good placement. He has a strike rate of 80.4 runs per 100 balls, which compares favourably to players such as Rahul Dravid and Inzamam ul-Haq. His most brazen display of \"power hitting\" came in 2003 against South Africa when he scored 82 from 41 balls",
+            "image": {
+              "url": null,
+              "altText": "Image of Shoaib Malik, Dunedin, NZ, 2009"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Teams",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "1999- present",
+          "value": {
+            "label": "Pakistan national cricket team",
+            "value": {
+              "label": "The Pakistan Men's National Cricket Team popularly referred to as the Shaheens  Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). ",
+              "url": "https://en.wikipedia.org/wiki/Pakistan_national_cricket_team",
+              "image": {
+                "url": null,
+                "altText": "Image of PakistanCricketLogo"
+              }
+            }
+          }
+        },
+        {
+          "label": "",
+          "value": {
+            "label": "",
+            "value": {
+              "label": "",
+              "url": "",
+              "image": {
+                "url": "/static/images/default_person.svg",
+                "altText": "Image of null"
+              }
+            }
+          }
+        },
+        {
+          "label": "",
+          "value": {
+            "label": "",
+            "value": {
+              "label": "",
+              "url": "",
+              "image": {
+                "url": "/static/images/default_person.svg",
+                "altText": "Image of null"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "",
+          "tag": "",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": "",
+          "tag": "",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": "",
+          "tag": "",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": "",
+          "tag": "",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        }
+      ]
+    },
+    null,
+    {
+      "title": "Achievement & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": null,
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

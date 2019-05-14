@@ -1,1 +1,350 @@
-{"title":"Sachin Tendulkar","coverImage":{"url":"./static/images/sachin_tendulkar/Sachin_Tendulkar_at_MRF_Promotion_Event.jpg","altText":"Sachin Tendulkar"},"summary":"Sachin Tendulkar is a former Indian international cricketer, regarded as one of the greatest batsmen of all time. He is the highest run scorer of all time in International cricket. ","translations":[{"url":"/wiki/hi/महेंद्र_सिंह_धोनी","title":"महेंद्र सिंह धोनी","lang":"hi"},{"url":"/wiki/pa/মহেন্দ্র_সিং_ধোনি","title":"মহেন্দ্র সিং ধোনি","lang":"pa"}],"sections":[{"title":"About","cardType":"table","facts":[{"label":"Full Name","value":{"label":"Sachin Ramesh Tendulkar","url":""}},{"label":"Born on","value":{"label":"24/04/1973","url":""}},{"label":"Birthplace","value":{"label":"Mumbai, India","url":"https://en.wikipedia.org/wiki/Mumbai"}},{"label":"Height","value":{"label":"5 ft 5 in (165 cm)","url":""}},{"label":"Other Names","value":{"label":"God of cricket","url":""}},{"label":"Nationality","value":{"label":"Indian","url":"https://en.wikipedia.org/wiki/Indian_people"}},{"label":"Role","value":{"label":"Batsman","url":""}}]},{"title":"Family","cardType":"avatar","label":"","facts":[{"label":"Teammate","value":{"label":"Rahul Dravid","image":{"url":"./static/images/sachin_tendulkar/Rahul_Dravid_at_GQ_Men_Of_The_Year_2012_AWARD.jpg","altText":"text goes here"}}}]},{"title":"Phase(s)","cardType":"vertical_timeline","facts":[{"label":"Year of Birth","id":0,"note":null,"value":{"label":"Sachin Tendulkar was born in Bombay (now Mumbai) in 1973","facts":[{"label":"Place of Birth","id":0,"value":{"label":"Mumbai","url":"https://en.wikipedia.org/wiki/Mumbai","image":{"url":null,"altText":"Kitten mata ki jai"}}}]}},{"label":"Debut Year","id":3,"note":"1988","value":{"label":"In 1988, aged 15 years and 232 days, Tendulkar made his first class debut for Bombay against Gujarat and scored 100 not out in that match","facts":[{"label":"Ranji Trophy","id":0,"value":{"label":"","url":"https://en.wikipedia.org/wiki/Ranji_Trophy","image":{"url":"https://placekitten.com/200/200","altText":"Kitten mata ki jai"}}}]}},{"note":"1989","id":1,"value":{"label":"Pakistan","facts":[{"label":"","id":0,"value":{"label":"Tendulkar made his Test debut against Pakistan in Karachi in November 1989 aged 16 years.","url":"https://en.wikipedia.org/wiki/Pakistan_national_cricket_team","image":{"url":"https://placekitten.com/200/200","altText":"Kitten mata ki jai"}}}]}}]},{"title":"Education","cardType":"tag_card","facts":[{"label":"Sharadashram Vidyamandir, Mumbai","tag":"","value":{"label":"","image":{"url":null,"altText":"TODO"}}}]},{"title":"Style of Play","cardType":"simple","facts":[{"value":{"image":{"url":null,"altText":"add text here TODO"}}}]},{"title":"Teams","cardType":"list_card","facts":[{"label":"1989-2013","value":{"label":"Indian National Cricket team","value":{"label":"The India national cricket team, also known as Team India and Men in Blue, is governed by the Board of Control for Cricket in India","url":"https://en.wikipedia.org/wiki/India_national_cricket_team","image":{"url":"./static/images/sachin_tendulkar/Cricket_India_Crest.svg","altText":"TODO replace text here"}}}},{"label":"2008-2013","value":{"label":"Mumbai Indians","value":{"label":"The Mumbai Indians are a franchise cricket team based in Mumbai, India","url":"https://en.wikipedia.org/wiki/Mumbai_Indians","image":{"url":null,"altText":"TODO replace text here"}}}},{"label":"1988-2013","value":{"label":"Mumbai","value":{"label":"Domestic Ranji trophy cricket team based in Mumbai","url":"https://en.wikipedia.org/wiki/Mumbai_cricket_team","image":{"url":null,"altText":"TODO replace text here"}}}}]},{"title":"Awards & Honors","cardType":"tag_card","facts":[{"label":"Arjuna Award","tag":"1994","value":{"label":"Arjuna Awards are given by the Government for outstanding achievement in sports","image":{"url":"./static/images/sachin_tendulkar/Arjun_Award.jpg","altText":"TODO"}}},{"label":"Rajiv Gandhi Khel Ratna","tag":"1997","value":{"label":"Rajiv Gandhi Khel Ratna Award is the highest sporting honour of the Republic of India.","image":{"url":"./static/images/sachin_tendulkar/Rajiv_Gandhi_Khel_Ratna_Award.jpg","altText":"TODO"}}},{"label":"Padma Shri","tag":"1999","value":{"label":"Padma Shri is the fourth highest civilian award in the Republic of India","image":{"url":"./static/images/sachin_tendulkar/Padma_Shri_India_IIIe_Klasse.jpg","altText":"TODO"}}},{"label":"Padma Vibhushan","tag":"2008","value":{"label":"India's second highest civilian award.","image":{"url":null,"altText":"TODO"}}}]},{"title":"Achievement & Records","cardType":"stories","facts":[{"label":null,"value":{"label":"With 664 runs, held the world record of highest unbroken partnership in any form of cricket with Vinod Kambli","image":{"url":null,"altText":"TODO"}}},{"label":null,"value":{"label":"Youngest player to debut for India in both ODI and Test matches","image":{"url":null,"altText":"TODO"}}},{"label":null,"value":{"label":"Only player to score a century on debut in all three domestic first-class tournaments - Ranji, Irani, and Duleep Trophies.","image":{"url":null,"altText":"TODO"}}},{"label":null,"value":{"label":"First batsman to complete 10,000 ODI runs","image":{"url":null,"altText":"TODO"}}},{"label":null,"value":{"label":"At the age of 19, Tendulkar became the first ever overseas-born player to represent Yorkshire.","image":{"url":null,"altText":"TODO"}}}]}]}
+{
+  "title": "Sachin Tendulkar",
+  "coverImage": {
+    "url": "/static/images/sachin_tendulkar/Sachin_Tendulkar_at_MRF_Promotion_Event.jpg",
+    "altText": "Image of Sachin Tendulkar at MRF Promotion Event"
+  },
+  "summary": "Sachin Tendulkar is a former Indian international cricketer, regarded as one of the greatest batsmen of all time. He is the highest run scorer of all time in International cricket. ",
+  "translations": [
+    {
+      "url": "/wiki/hi/महेंद्र_सिंह_धोनी",
+      "title": "महेंद्र सिंह धोनी",
+      "lang": "hi"
+    },
+    {
+      "url": "/wiki/pa/মহেন্দ্র_সিং_ধোনি",
+      "title": "মহেন্দ্র সিং ধোনি",
+      "lang": "pa"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Sachin Ramesh Tendulkar",
+            "url": ""
+          }
+        },
+        {
+          "label": "Born on",
+          "value": {
+            "label": "24/04/1973",
+            "url": ""
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Mumbai, India",
+            "url": "https://en.wikipedia.org/wiki/Mumbai"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "5 ft 5 in (165 cm)",
+            "url": ""
+          }
+        },
+        {
+          "label": "Other Names",
+          "value": {
+            "label": "God of cricket",
+            "url": ""
+          }
+        },
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "Indian",
+            "url": "https://en.wikipedia.org/wiki/Indian_people"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "Batsman",
+            "url": ""
+          }
+        }
+      ]
+    },
+    {
+      "title": "Family",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "value": {
+            "label": "Rahul Dravid",
+            "image": {
+              "url": "/static/images/sachin_tendulkar/Rahul_Dravid_at_GQ_Men_Of_The_Year_2012_AWARD.jpg",
+              "altText": "Image of Rahul Dravid at GQ Men Of The Year 2012 AWARD"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Year of Birth",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Sachin Tendulkar was born in Bombay (now Mumbai) in 1973",
+            "facts": [
+              {
+                "label": "Place of Birth",
+                "id": 0,
+                "value": {
+                  "label": "Mumbai",
+                  "url": "https://en.wikipedia.org/wiki/Mumbai",
+                  "image": {
+                    "url": null,
+                    "altText": "Image of Mumbai Aug 2018 (43397784544)"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Debut Year",
+          "id": 3,
+          "note": "1988",
+          "value": {
+            "label": "In 1988, aged 15 years and 232 days, Tendulkar made his first class debut for Bombay against Gujarat and scored 100 not out in that match",
+            "facts": [
+              {
+                "label": "Ranji Trophy",
+                "id": 0,
+                "value": {
+                  "label": "",
+                  "url": "https://en.wikipedia.org/wiki/Ranji_Trophy",
+                  "image": {
+                    "url": "https://placekitten.com/200/200",
+                    "altText": "Kitten mata ki jai"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "note": "1989",
+          "id": 1,
+          "value": {
+            "label": "Pakistan",
+            "facts": [
+              {
+                "label": "",
+                "id": 0,
+                "value": {
+                  "label": "Tendulkar made his Test debut against Pakistan in Karachi in November 1989 aged 16 years.",
+                  "url": "https://en.wikipedia.org/wiki/Pakistan_national_cricket_team",
+                  "image": {
+                    "url": "https://placekitten.com/200/200",
+                    "altText": "Image of Mumbai Aug 2018 (43397784544)"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of Play",
+      "cardType": "simple",
+      "facts": [
+        {
+          "value": {
+            "label": "Considered the most wholesome batsman of his time, he can also bowl medium pace, leg spin, and off spin. ",
+            "image": {
+              "url": null,
+              "altText": "Image of Master Blaster at work"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Teams",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "1989-2013",
+          "value": {
+            "label": "Indian National Cricket team",
+            "value": {
+              "label": "The India national cricket team, also known as Team India and Men in Blue, is governed by the Board of Control for Cricket in India",
+              "url": "https://en.wikipedia.org/wiki/India_national_cricket_team",
+              "image": {
+                "url": "/static/images/sachin_tendulkar/Cricket_India_Crest.svg",
+                "altText": "Image of Cricket India Crest"
+              }
+            }
+          }
+        },
+        {
+          "label": "2008-2013",
+          "value": {
+            "label": "Mumbai Indians",
+            "value": {
+              "label": "The Mumbai Indians are a franchise cricket team based in Mumbai, India",
+              "url": "https://en.wikipedia.org/wiki/Mumbai_Indians",
+              "image": {
+                "url": "/static/images/default_person.svg",
+                "altText": "Image of null"
+              }
+            }
+          }
+        },
+        {
+          "label": "1988-2013",
+          "value": {
+            "label": "Mumbai",
+            "value": {
+              "label": "Domestic Ranji trophy cricket team based in Mumbai",
+              "url": "https://en.wikipedia.org/wiki/Mumbai_cricket_team",
+              "image": {
+                "url": "/static/images/default_person.svg",
+                "altText": "Image of null"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "Arjuna Award",
+          "tag": "1994",
+          "value": {
+            "label": "Arjuna Awards are given by the Government for outstanding achievement in sports",
+            "image": {
+              "url": "/static/images/sachin_tendulkar/Arjun_Award.jpg",
+              "altText": "Image of Arjun Award"
+            }
+          }
+        },
+        {
+          "label": "Rajiv Gandhi Khel Ratna",
+          "tag": "1997",
+          "value": {
+            "label": "Rajiv Gandhi Khel Ratna Award is the highest sporting honour of the Republic of India.",
+            "image": {
+              "url": "/static/images/sachin_tendulkar/Rajiv_Gandhi_Khel_Ratna_Award.jpg",
+              "altText": "Image of Rajiv Gandhi Khel Ratna Award"
+            }
+          }
+        },
+        {
+          "label": "Padma Shri",
+          "tag": "1999",
+          "value": {
+            "label": "Padma Shri is the fourth highest civilian award in the Republic of India",
+            "image": {
+              "url": "/static/images/sachin_tendulkar/Padma_Shri_India_IIIe_Klasse.jpg",
+              "altText": "Image of Padma Shri India IIIe Klasse"
+            }
+          }
+        },
+        {
+          "label": "Padma Vibhushan",
+          "tag": "2008",
+          "value": {
+            "label": "India's second highest civilian award.",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "Sharadashram Vidyamandir, Mumbai",
+          "tag": "",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievement & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": null,
+          "value": {
+            "label": "With 664 runs, held the world record of highest unbroken partnership in any form of cricket with Vinod Kambli",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "Youngest player to debut for India in both ODI and Test matches",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "Only player to score a century on debut in all three domestic first-class tournaments - Ranji, Irani, and Duleep Trophies.",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "First batsman to complete 10,000 ODI runs",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "At the age of 19, Tendulkar became the first ever overseas-born player to represent Yorkshire.",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
