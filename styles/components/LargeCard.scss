@@ -41,3 +41,29 @@
 .wcp-large-card__controls__button-read-more {
   margin-left: auto;
 }
+
+
+// Large card with vertical cardOrientation
+.wcp-large-card--vertical {
+  flex-direction: column;
+  height: auto;
+  .wcp-large-card__cover-image__container {
+    height: 10rem;
+    width: 100%;
+  }
+  .wcp-large-card__cover-image {
+    height: auto;
+    width: 100%;
+  }
+  .wcp-large-card__label {
+    margin: 0;
+    font-size: $font-size-l;
+    line-height: $line-height-m;
+  }
+  .wcp-large-card__caption {
+    margin: 0;
+    font-size: $font-size-m;
+    line-height: $line-height-m;
+    margin-bottom: $gutter-m;
+  }
+}

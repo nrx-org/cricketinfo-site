@@ -4,7 +4,7 @@ import { factCardDataPropTypes } from "../lib/prop_types";
 import { TimelineItem } from "./TimelineItem";
 import { SectionTitle } from "./SectionTitle";
 
-export const Timeline = ({ cardData, type }) => {
+export const Timeline = ({ cardData, type, innerCardType }) => {
   const derivedClassName =
     type === "vertical" ? "wcp-vertical-timeline" : "wcp-horizontal-timeline";
   return (
@@ -20,6 +20,7 @@ export const Timeline = ({ cardData, type }) => {
               key={`${factLabel}-${factId}`}
               fact={fact}
               type={type}
+              innerCardType={innerCardType}
             />
           );
         })}
@@ -28,7 +29,12 @@ export const Timeline = ({ cardData, type }) => {
   );
 };
 
+Timeline.defaultProps = {
+  innerCardType: "tiny"
+};
+
 Timeline.propTypes = {
   cardData: factCardDataPropTypes.isRequired,
-  type: PropTypes.string.isRequired
+  type: PropTypes.string.isRequired,
+  innerCardType: PropTypes.string
 };

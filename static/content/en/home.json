@@ -157,6 +157,81 @@
       }
     }
   ],
+  "horizontalTimeline": {
+    "title": "History of the World Cup",
+    "id": 2,
+    "facts": [
+      {
+        "label": "1975",
+        "id": "worldCupHistory1975",
+        "note": null,
+        "value": {
+          "label": "",
+          "facts": [
+            {
+              "label": "1983 Cricket World Cup",
+              "id": "worldCupHistory1975",
+              "value": {
+                "label": "India won their first world cup in 1983 under Kapil Dev beating West Indies by 43 runs.",
+                "url": "https://placekitten.com/200/200",
+                "buttonText": "Know More",
+                "image": {
+                  "url": "https://placekitten.com/200/200",
+                  "altText": "Kitten mata ki jai"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "label": "1983",
+        "id": "worldCupHistory1983",
+        "note": null,
+        "value": {
+          "label": "",
+          "facts": [
+            {
+              "label": "1983 Cricket World Cup",
+              "id": "worldCupHistory1983",
+              "value": {
+                "label": "India won their first world cup in 1983 under Kapil Dev beating West Indies by 43 runs.",
+                "url": "https://placekitten.com/200/200",
+                "buttonText": "Know More",
+                "image": {
+                  "url": "https://placekitten.com/200/200",
+                  "altText": "Kitten mata ki jai"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "label": "1992",
+        "id": "worldCupHistory1992",
+        "note": null,
+        "value": {
+          "label": "",
+          "facts": [
+            {
+              "label": "1983 Cricket World Cup",
+              "id": "worldCupHistory1992",
+              "value": {
+                "label": "India won their first world cup in 1983 under Kapil Dev beating West Indies by 43 runs.",
+                "url": "https://placekitten.com/200/200",
+                "buttonText": "Know More",
+                "image": {
+                  "url": "https://placekitten.com/200/200",
+                  "altText": "Kitten mata ki jai"
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
   "scheduledFacts": [
     {
       "label": "Sachin Tendulkar has scored most runs across all the world cup tournaments, ie 2,278.",

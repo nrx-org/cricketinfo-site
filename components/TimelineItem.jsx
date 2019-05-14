@@ -1,8 +1,10 @@
 import React from "react";
+import PropTypes from "prop-types";
 import { factPropTypes } from "../lib/prop_types";
 import { TinyCardCarousel } from "./TinyCardCarousel";
+import { LargeCardCarousel } from "./LargeCardCarousel";
 
-export const TimelineItem = ({ fact }) => (
+export const TimelineItem = ({ fact, innerCardType }) => (
   <div className="wcp-timeline-item">
     <div className="wcp-timeline-item__text-content">
       <h2 className="wcp-timeline-item__label">
@@ -25,14 +27,20 @@ export const TimelineItem = ({ fact }) => (
       <div className="wcp-timeline-item__line-and-dot__dot" />
       <div className="wcp-timeline-item__line-and-dot__line" />
     </div>
-    <TinyCardCarousel cards={fact.value.facts} />
+    {innerCardType === "tiny" ? (
+      <TinyCardCarousel cards={fact.value.facts} />
+    ) : (
+      <LargeCardCarousel cards={fact.value.facts} cardOrientation="vertical" />
+    )}
   </div>
 );
 
 TimelineItem.propTypes = {
-  fact: factPropTypes
+  fact: factPropTypes,
+  innerCardType: PropTypes.string
 };
 
 TimelineItem.defaultProps = {
-  fact: null
+  fact: null,
+  innerCardType: "tiny"
 };

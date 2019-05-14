@@ -163,10 +163,15 @@ $timelineDotSize: 0.375rem;
   .wcp-tiny-card--passive
   + .wcp-tiny-card--passive::before {
   border: none;
-  margin-right: 0.25rem;
+  margin-right: 0rem;
 }
 
 .wcp-horizontal-timeline .wcp-tiny-card__content {
   display: flex;
   flex-direction: column-reverse;
+}
+
+.wcp-horizontal-timeline .wcp-timeline-item .wcp-large-card-carousel {
+  margin-top: $gutter-m;
+  margin-bottom: -1rem;
 }

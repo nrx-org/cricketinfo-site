@@ -12,7 +12,8 @@ import { SwitchLanguageFloatingToolbar } from "../components/SwitchLanguageFloat
 import {
   factPropTypes,
   quizQuestionPropType,
-  translationsPropTypes
+  translationsPropTypes,
+  factCardDataPropTypes
 } from "../lib/prop_types";
 import {
   ModalContextConsumer,
@@ -20,6 +21,7 @@ import {
 } from "../components/ModalContext";
 import { PlayingTeams } from "../components/PlayingTeams";
 import { FunFacts } from "../components/FunFacts";
+import { Timeline } from "../components/Timeline";
 import { ShareModalContainer } from "../components/ShareModalContainer";
 import { FeaturedPlayers } from "../components/FeaturedPlayers";
 import { QuizContainer } from "../components/QuizContainer";
@@ -29,6 +31,7 @@ const Home = ({
   translations,
   playingTeams,
   participatingTeams,
+  horizontalTimeline,
   scheduledFacts,
   constantFacts,
   scheduledFeaturedPlayers,
@@ -53,6 +56,11 @@ const Home = ({
 
         <SwitchLanguageFloatingToolbar translations={translations} />
         <PlayingTeams teams={playingTeams} allTeams={participatingTeams} />
+        <Timeline
+          type="horizontal"
+          innerCardType="large"
+          cardData={horizontalTimeline}
+        />
         <FunFacts scheduled={scheduledFacts} constant={constantFacts} />
         <FeaturedPlayers
           scheduled={scheduledFeaturedPlayers}
@@ -87,7 +95,8 @@ Home.getInitialProps = async ({ query }) => {
 
 Home.defaultProps = {
   playingTeams: [],
-  participatingTeams: []
+  participatingTeams: [],
+  horizontalTimeline: {}
 };
 
 Home.propTypes = {
@@ -99,8 +108,7 @@ Home.propTypes = {
 
   // A list of all teams participating in the world cup.
   participatingTeams: PropTypes.arrayOf(factPropTypes),
-
-  // A list of "fun facts" tagged with the dates they should appear on.
+  horizontalTimeline: factCardDataPropTypes,
   scheduledFacts: PropTypes.arrayOf(factPropTypes).isRequired,
 
   // A static list of "fun facts" that will appear every day.
