@@ -26,9 +26,9 @@ const FactCardSimpleContents = ({ cardData, openModal }) => {
   };
 
   return (
-    <section className="wcp-fact-card-simple" id={cardData.id}>
+    <section className="wcp-fact-card-simple">
       <SectionTitle>{cardData.title}</SectionTitle>
-      <div className="wcp-fact-card-simple__content-wrapper">
+      <div className="wcp-fact-card-simple__content-wrapper" id={cardData.id}>
         <div
           className="wcp-fact-card-simple__image"
           style={{
