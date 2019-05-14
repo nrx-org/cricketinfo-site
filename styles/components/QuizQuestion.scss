@@ -1,0 +1,50 @@
+.wcp-quiz-question {
+  .wcp-tiny-card-wrapper {
+    margin-top: $gutter-m;
+  }
+}
+
+.wcp-quiz-question + .wcp-quiz-question {
+  margin-top: 2 * $gutter-m;
+}
+
+.wcp-quiz-question__answers {
+  list-style-type: upper-alpha;
+  list-style-position: inside;
+  padding-left: 0;
+}
+
+.wcp-quiz-question__answers__answer {
+  padding-left: $gutter-m;
+}
+
+.wcp-quiz-question__answers__answer-wrapper {
+  text-transform: uppercase;
+  font-size: $font-size-s;
+  border: solid 1px $color-blue-dark;
+  background-color: $color-blue-light;
+  color: $color-blue-dark;
+  border-radius: $border-radius-s;
+  padding: $gutter-s;
+  padding-left: $gutter-m;
+  margin-top: $gutter-m;
+  font-weight: bold;
+}
+
+.wcp-quiz-question__answers__answer-wrapper--inactive {
+  background-color: $color-gray-lighter;
+  color: $color-gray-dark;
+  border: solid 1px transparent;
+}
+
+.wcp-quiz-question__answers__answer-wrapper--incorrect {
+  color: $color-white;
+  background-color: $color-extra-red;
+  border: solid 1px transparent;
+}
+
+.wcp-quiz-question__answers__answer-wrapper--correct {
+  color: $color-white;
+  background-color: $color-extra-green;
+  border: solid 1px transparent;
+}
