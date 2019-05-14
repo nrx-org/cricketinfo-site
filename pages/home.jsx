@@ -27,6 +27,7 @@ import { InterestingArticles } from "../components/InterestingArticles";
 import { ShareModalContainer } from "../components/ShareModalContainer";
 import { FeaturedPlayers } from "../components/FeaturedPlayers";
 import { QuizContainer } from "../components/QuizContainer";
+import { LiveScoreContainer } from "../components/LiveScoreContainer";
 
 const Home = ({
   lang,
@@ -56,6 +57,7 @@ const Home = ({
             src="/static/images/logo.svg"
             alt="World Cup logo"
           />
+          <LiveScoreContainer />
         </header>
 
         <SwitchLanguageFloatingToolbar translations={translations} />
