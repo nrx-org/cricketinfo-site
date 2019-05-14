@@ -1,6 +1,8 @@
 /* eslint-disable dot-notation */
 const fs = require("fs");
 const parse = require("csv-parse/lib/sync");
+// eslint-disable-next-line import/no-extraneous-dependencies
+const slugify = require("slugify");
 
 const pathToParsedFile = "./csv/bottom_sheets.csv";
 
@@ -14,24 +16,26 @@ const records = parse(input, {
   delimiter: ","
 });
 
-let bottomSheets;
-
-const stream = fs.createWriteStream("./csv/bottom_sheets.json", { flags: "a" });
-stream.write("{sheets: [");
+let bottomSheet;
 
 records.forEach(element => {
-  bottomSheets = {
+  bottomSheet = {
     id: element["su"],
     title: element["Title"],
-    desc: element["Short description"],
-    img: {
+    coverImg: {
       url: element["Image Link"],
       altText: element["Image caption"]
-    }
+    },
+    summary: element["Short description"]
   };
 
-  stream.write(JSON.stringify(bottomSheets, null, 2));
-  stream.write(", ");
-});
+  const getSluggedTitle = slugify(bottomSheet.title, "_").toLowerCase(); // TODO: remove slugify
 
-stream.write("]} ");
+  fs.writeFile(
+    `./csv/${getSluggedTitle}.json`,
+    JSON.stringify(bottomSheet, null, 2),
+    err => {
+      if (err) console.log(err);
+    }
+  );
+});
