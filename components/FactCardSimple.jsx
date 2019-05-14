@@ -11,7 +11,7 @@ import { SHARE_MODAL_ID } from "../lib/modal_ids";
 
 const FactCardSimpleContents = ({ cardData, openModal }) => {
   const share = () => {
-    const shareUrl = getImageShareUrl(cardData.facts[0].url, `#${cardData.id}`);
+    const shareUrl = getImageShareUrl(window.location.href, `#${cardData.id}`);
     if (navigator.share) {
       navigator.share({
         title: cardData.title,
