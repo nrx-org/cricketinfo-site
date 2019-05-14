@@ -1,5 +1,4 @@
 .wcp-popular-articles {
-
 }
 
 .wcp-popular-articles__columns {
@@ -8,6 +7,8 @@
   overflow-x: scroll;
   @include hide-scrollbar();
   scroll-snap-type: x mandatory;
+  margin-left: -1rem;
+  margin-right: -1rem;
 }
 
 .wcp-popular-articles__column {
@@ -20,9 +21,7 @@
   margin-left: 0;
   margin-top: 0;
   overflow: hidden;
-  &:not(:first-child) {
-    margin-left: 1rem;
-  }
+  margin-left: 1rem;
   .wcp-tiny-card--passive + .wcp-tiny-card--passive::before {
     content: none;
   }
