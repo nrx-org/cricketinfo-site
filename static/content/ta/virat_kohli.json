@@ -1,0 +1,335 @@
+{
+  "title": "விராத் கோலி",
+  "coverImage": {
+    "url": "/static/images/virat_kohli/Virat..Kohli.jpg",
+    "altText": "Image of Virat..Kohli"
+  },
+  "summary": "தற்போது இந்திய தேசிய அணியின் தலைவராக உள்ள இந்திய சர்வதேச கிரிக்கெட் வீரர்.",
+  "translations": [
+    {
+      "url": "/wiki/hi/महेंद्र_सिंह_धोनी",
+      "title": "महेंद्र सिंह धोनी",
+      "lang": "hi"
+    },
+    {
+      "url": "/wiki/pa/মহেন্দ্র_সিং_ধোনি",
+      "title": "মহেন্দ্র সিং ধোনি",
+      "lang": "pa"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "label": "Born on",
+          "value": {
+            "label": "5/11/1988",
+            "url": ""
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "டெல்லி, இந்தியா",
+            "url": "https://en.wikipedia.org/wiki/Delhi"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "5 அடி 9 அங்குலம் (1.75 மீ)",
+            "url": ""
+          }
+        },
+        {
+          "label": "Other Names",
+          "value": {
+            "label": "சிக்கூ",
+            "url": ""
+          }
+        },
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "இந்தியன்",
+            "url": "https://en.wikipedia.org/wiki/Indian_people"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "பேட்ஸ்மேன்",
+            "url": ""
+          }
+        }
+      ]
+    },
+    {
+      "title": "Family",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "அனுஷ்கா ஷர்மா",
+            "image": {
+              "url": "/static/images/virat_kohli/Anushka_Sharma_promoting_Zero.jpg",
+              "altText": "Image of Anushka Sharma promoting Zero"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Year of Birth",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "கோலி 1988 ல் தில்லி பிறந்தார்",
+            "facts": [
+              {
+                "label": "Place of Birth",
+                "id": 0,
+                "value": {
+                  "label": "டெல்லி, இந்தியா",
+                  "url": "https://en.wikipedia.org/wiki/Delhi",
+                  "image": {
+                    "url": "/static/images/virat_kohli/India_Gate_in_New_Delhi_03-2016.jpg",
+                    "altText": "Image of India Gate in New Delhi 03 2016"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Debut Year",
+          "id": 3,
+          "note": "2006",
+          "value": {
+            "label": "2006 ஆம் ஆண்டு, 18 வயதில், தமிழ்நாட்டிற்கு எதிராக டெல்லிக்காக தனது முதல்-வகுப்பு அறிமுகமானார்",
+            "facts": [
+              {
+                "label": "ரஞ்சி டிராபி",
+                "id": 0,
+                "value": {
+                  "label": "",
+                  "url": "https://en.wikipedia.org/wiki/Ranji_Trophy",
+                  "image": {
+                    "url": "https://placekitten.com/200/200",
+                    "altText": "Kitten mata ki jai"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "note": "2008",
+          "id": 1,
+          "value": {
+            "label": "இலங்கை",
+            "facts": [
+              {
+                "label": "",
+                "id": 0,
+                "value": {
+                  "label": "2008 ஆம் ஆண்டு இலங்கை சுற்றுப்பயணத்திற்கும் பாக்கிஸ்தான் சாம்பியன்ஸ் டிராபிக்கும் இந்திய ஒருநாள் அணியில் கோலி சேர்க்கப்பட்டார்",
+                  "url": "https://en.wikipedia.org/wiki/Sri_Lanka_national_cricket_team",
+                  "image": {
+                    "url": "https://placekitten.com/200/200",
+                    "altText": "Image of India Gate in New Delhi 03 2016"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of Play",
+      "cardType": "simple",
+      "facts": [
+        {
+          "value": {
+            "label": "கோலி ஒரு கடினமான தொழில்நுட்ப திறமை கொண்ட இயற்கையான ஆக்கிரோஷ  பேட்ஸ்மேன். அவர் பொதுவாக மிடில் ஆர்டரில் விளையாடுவர், அவ்வப்போது ஒபெநிங் பேட்ஸ்மேன் ஆகவும் விளையாடுவர் . சற்று திறந்த மார்புடைய நிலைப்பாடு மற்றும் ஒரு வலுவான அடிப்பகுதி பிடியுடன் அவர் விளையாடுவர் , விரைவான கால் இயக்கம்  இருப்பதாகவும்  கூறப்படுகிறது.",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Teams",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "2008-தற்போது",
+          "value": {
+            "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+            "value": {
+              "label": "இந்திய தேசிய கிரிக்கெட் அணி, இந்திய அணி மற்றும் மென் இன் ப்ளூ என்றழைக்கப்படும்.  இந்திய கிரிக்கெட் கட்டுப்பாட்டு வாரியத்தால் (பி.சி.சி.ஐ.) ஆளப்படுகிறது. இது சர்வதேச கிரிக்கெட் கவுன்சிலின் (ஐ.சி.சி) முழு உறுப்பினராகவும், ஒரு நாள் சர்வதேச (ODI) மற்றும் ட்வென்டி 20 சர்வதேச (T20I) தகுதி நிலைய பெற்றுள்ளது ",
+              "url": "https://en.wikipedia.org/wiki/India_national_cricket_team",
+              "image": {
+                "url": "/static/images/virat_kohli/Cricket_India_Crest.svg",
+                "altText": "Image of Cricket India Crest"
+              }
+            }
+          }
+        },
+        {
+          "label": "2008-தற்போது",
+          "value": {
+            "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
+            "value": {
+              "label": "பெங்களூரு, பெங்களூரு, ராயல் சேலஞ்சர்ஸ் பெங்களூர் (பெரும்பாலும் RCB என சுருக்கமாக அழைக்கப்படுகின்றன) என்பது இந்திய பிரீமியர் லீக் (ஐபிஎல்) போட்டிகளில் பெங்களூர், கர்நாடகாவில் அடிப்படையாகக் கொண்டது.",
+              "url": "https://en.wikipedia.org/wiki/Royal_Challengers_Bangalore",
+              "image": {
+                "url": "/static/images/default_person.svg",
+                "altText": "Image of null"
+              }
+            }
+          }
+        },
+        {
+          "label": "2006-தற்போது",
+          "value": {
+            "label": "தில்லி",
+            "value": {
+              "label": "டெல்லி கிரிக்கெட் அணி, டெல்லி மாவட்ட கிரிக்கெட் சங்கத்தால் நடத்தப்பட்டது இது  டெல்லியில் உள்ள முதல் தர கிரிக்கெட் அணிகளில் ஒன்றாகும் இது இந்தியாவின் உள்நாட்டு போட்டியில் ரஞ்சி டிராபியில் விளையாடப்படுகிறது.",
+              "url": "https://en.wikipedia.org/wiki/Delhi_cricket_team",
+              "image": {
+                "url": "/static/images/default_person.svg",
+                "altText": "Image of null"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "அர்ஜுனா விருது",
+          "tag": "2013",
+          "value": {
+            "label": "அர்ஜூனா விருதுகள் விளையாட்டுக்களில் சிறந்த சாதனைக்காக அரசாங்கத்தால் வழங்கப்படுகின்றன",
+            "image": {
+              "url": "/static/images/virat_kohli/Arjun_Award.jpg",
+              "altText": "Image of Arjun Award"
+            }
+          }
+        },
+        {
+          "label": "சர் கார்பீல்ட் சோபர்ஸ் டிராபி",
+          "tag": "2017",
+          "value": {
+            "label": "சர்வதேச கிரிக்கெட் கவுன்சில் (ஐ.சி.சி.) ஆல்  தேர்ந்தெடுக்கப்பட்ட உலக வீரருக்கு வழங்கப்படும் விருது ",
+            "image": {
+              "url": "/static/images/virat_kohli/Sir_Garfield_Sobers_Trophy.jpeg",
+              "altText": "Image of Sir Garfield Sobers Trophy"
+            }
+          }
+        },
+        {
+          "label": "பத்மா ஸ்ரீ",
+          "tag": "2017",
+          "value": {
+            "label": "பத்மா ஸ்ரீ இந்தியாவின் நான்காவது மிக உயர்ந்த குடிமகன் விருது",
+            "image": {
+              "url": "/static/images/virat_kohli/Padma_Shri_India_IIIe_Klasse.jpg",
+              "altText": "Image of Padma Shri India IIIe Klasse"
+            }
+          }
+        },
+        {
+          "label": "ஐசிசி டெஸ்ட் பிளேயர் ஆஃப் தி இயர்",
+          "tag": "2018",
+          "value": {
+            "label": "ஆண்டின் சிறந்த டெஸ்ட் வீரருக்கு சர்வதேச கிரிக்கெட் கவுன்சில் வழங்கிய ஆண்டு விருது.",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        }
+      ]
+    },
+    null,
+    {
+      "title": "Achievement & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": null,
+          "value": {
+            "label": "2008 ஆம் ஆண்டு மலேசியாவில் நடந்த 19 வயது  உலகக் கோப்பையை வென்ற இந்தியன் அணியின் தலைவர் .",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "2013 ஆம் ஆண்டில் கோலி  52 பந்துகளில் இந்திய அணியின் மிக விரைவான சதத்தை அடித்தார்",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "2012 ல் கோலி இந்திய டெஸ்ட் அணிக்கு கேப்டன் ஆனார்",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "2013 ஆம் ஆண்டில், ஐசிசி தரவரிசையில் கோலி முதல்முறை  முதலிடத்தை அடைந்தார்",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "2014 ஆம் ஆண்டில் ஐசிசி தரவரிசையில் முதலிடத்தில் உள்ள T20I பேட்ஸ்மேன் ஆனார்",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
