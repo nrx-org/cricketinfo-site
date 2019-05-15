@@ -11,16 +11,16 @@ export const TagCard = ({ cardData }) => {
         {cardData.facts.map(fact => (
           <div className="wcp-tag-card__table__row">
             <div className="wcp-tag-card__table__label wcp-tag-card__table__column">
-              {fact.label}
+              {fact.tag}
             </div>
             <TinyCard
               key={fact.id}
-              title={fact.value.label}
+              title={fact.label}
               href={fact.value.url}
               coverImage={fact.value.image}
               className="wcp-tag-card__table__tiny-card wcp-tag-card__table__column"
             >
-              {fact.value.value.label}
+              {fact.value.label}
             </TinyCard>
           </div>
         ))}

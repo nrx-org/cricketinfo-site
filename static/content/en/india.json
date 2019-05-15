@@ -348,14 +348,12 @@
       "cardType": "tag_card",
       "facts": [
         {
-          "label": "1984",
+          "label": "Padma Shri",
+          "tag": "1984",
           "id": 0,
           "note": null,
           "value": {
-            "label": "Padma Shri",
-            "value": {
-              "label": "Fourth highest civilian honor in the Republic of India"
-            },
+            "label": "Fourth highest civilian honor in the Republic of India",
             "image": {
               "url": "https://placekitten.com/200/200",
               "altText": "Kitten mata ki jai"
@@ -363,14 +361,12 @@
           }
         },
         {
-          "label": "1988",
+          "label": "Padma Bhushan",
+          "tag": "1988",
           "id": 1,
           "note": null,
           "value": {
-            "label": "Padma Bhushan",
-            "value": {
-              "label": "Fourth highest civilian honor in the Republic of India"
-            },
+            "label": "Fourth highest civilian honor in the Republic of India",
             "image": {
               "url": "https://placekitten.com/180/180",
               "altText": "Kitten mata ki jai"
@@ -378,14 +374,12 @@
           }
         },
         {
-          "label": "1994",
+          "label": "Padma Vibhushan",
+          "tag": "1994",
           "id": 2,
           "note": null,
           "value": {
-            "label": "Padma Vibhushan",
-            "value": {
-              "label": "Fourth highest civilian honor in the Republic of India"
-            },
+            "label":  "Fourth highest civilian honor in the Republic of India",
             "url": "https://disney.com",
             "image": {
               "url": "https://placekitten.com/250/250",
