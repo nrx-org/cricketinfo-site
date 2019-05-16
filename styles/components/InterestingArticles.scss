@@ -1,0 +1,52 @@
+$sectionHeight: 22rem;
+.wcp-interesting-articles {
+  position: relative;
+  min-height: $sectionHeight;
+}
+.wcp-circular-image-card-carousel-wrapper {
+  overflow-x: scroll;
+  margin-left: -1rem;
+  margin-right: -1rem;
+  @include hide-scrollbar();
+}
+.wcp-circular-image-card-carousel {
+  position: relative;
+  min-height: $sectionHeight;
+
+
+}
+
+.wcp-circular-image-card-wrapper {
+  position: absolute;
+  max-width: 8rem;
+  max-height: 8rem;
+}
+
+.wcp-circular-image-card {
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08), 0 1px 4px rgba(0, 0, 0, 0.04),
+    0 0 4px rgba(0, 0, 0, 0.04);
+  img {
+    width: 100%;
+  }
+}
+
+
+// @keyframes animateInterestingArticles {
+//   0% {
+//     transform: translateX(50%);
+//   }
+//
+//   100% {
+//     transform: translateX(-50%);
+//   }
+// }
+//
+// .wcp-circular-image-card-carousel-wrapper {
+//   animation-duration: 5s;
+//   animation-timing-function: ease-in;
+//   animation-name: animateInterestingArticles;
+// }
