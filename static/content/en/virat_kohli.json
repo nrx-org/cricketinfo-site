@@ -7,13 +7,13 @@
   "summary": "Indian international cricketer who currently captains the India national team.",
   "translations": [
     {
-      "url": "/wiki/hi/महेंद्र_सिंह_धोनी",
+      "url": "/wiki/hi/virat_kohli",
       "title": "महेंद्र सिंह धोनी",
       "lang": "hi"
     },
     {
-      "url": "/wiki/pa/মহেন্দ্র_সিং_ধোনি",
-      "title": "মহেন্দ্র সিং ধোনি",
+      "url": "/wiki/ta/virat_kohli",
+      "title": "விராத் கோலி",
       "lang": "pa"
     }
   ],
@@ -22,8 +22,20 @@
       "title": "About",
       "cardType": "table",
       "facts": [
-        { "label": "Full Name", "value": { "label": "", "url": "" } },
-        { "label": "Born on", "value": { "label": "5/11/1988", "url": "" } },
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "label": "Born on",
+          "value": {
+            "label": "5/11/1988",
+            "url": ""
+          }
+        },
         {
           "label": "Birthplace",
           "value": {
@@ -33,9 +45,18 @@
         },
         {
           "label": "Height",
-          "value": { "label": "5 ft 9 in (1.75 m)", "url": "" }
+          "value": {
+            "label": "5 ft 9 in (1.75 m)",
+            "url": ""
+          }
         },
-        { "label": "Other Names", "value": { "label": "", "url": "" } },
+        {
+          "label": "Other Names",
+          "value": {
+            "label": "",
+            "url": ""
+          }
+        },
         {
           "label": "Nationality",
           "value": {
@@ -43,7 +64,13 @@
             "url": "https://en.wikipedia.org/wiki/Indian_people"
           }
         },
-        { "label": "Role", "value": { "label": "Batsman", "url": "" } }
+        {
+          "label": "Role",
+          "value": {
+            "label": "Batsman",
+            "url": ""
+          }
+        }
       ]
     },
     {
@@ -52,6 +79,7 @@
       "label": "",
       "facts": [
         {
+          "label": "",
           "value": {
             "label": "Anuskha Sharma",
             "image": {
@@ -134,20 +162,6 @@
       ]
     },
     {
-      "title": "Education",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": { "url": null, "altText": "Image of null" }
-          }
-        }
-      ]
-    },
-    {
       "title": "Style of Play",
       "cardType": "simple",
       "facts": [
@@ -155,8 +169,8 @@
           "value": {
             "label": "Right-handed top order batsman",
             "image": {
-              "url": null,
-              "altText": "Image of Virat Kohli batting 2013"
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
             }
           }
         }
@@ -171,7 +185,7 @@
           "value": {
             "label": "Indian National Cricket team",
             "value": {
-              "label": "The India national cricket team, also known as Team India and Men in Blue, is governed by the Board of Control for Cricket in India",
+              "label": "Indian national cricket team",
               "url": "https://en.wikipedia.org/wiki/India_national_cricket_team",
               "image": {
                 "url": "/static/images/virat_kohli/Cricket_India_Crest.svg",
@@ -187,7 +201,10 @@
             "value": {
               "label": "The Royal Challengers Bangalore(RCB) are a franchise cricket team based in Bangalore, India",
               "url": "https://en.wikipedia.org/wiki/Royal_Challengers_Bangalore",
-              "image": { "url": null, "altText": "Image of null" }
+              "image": {
+                "url": "/static/images/default_person.svg",
+                "altText": "Image of null"
+              }
             }
           }
         },
@@ -198,7 +215,10 @@
             "value": {
               "label": "Domestic Ranji trophy cricket team based in Delhi",
               "url": "https://en.wikipedia.org/wiki/Delhi_cricket_team",
-              "image": { "url": null, "altText": "Image of null" }
+              "image": {
+                "url": "/static/images/default_person.svg",
+                "altText": "Image of null"
+              }
             }
           }
         }
@@ -246,7 +266,10 @@
           "tag": "2018",
           "value": {
             "label": "ICC Test Player of the Year is an annual award, presented by the International Cricket Council to the best Test player of that year.",
-            "image": { "url": null, "altText": "Image of null" }
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
           }
         }
       ]
@@ -259,35 +282,50 @@
           "label": null,
           "value": {
             "label": "He captained India Under-19s to victory at the Under-19 World Cup in Malaysia in 2008",
-            "image": { "url": null, "altText": "Image of null" }
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
           }
         },
         {
           "label": null,
           "value": {
             "label": "In 2013 Kohli scored the fastest century by an Indian cricketer in ODIs of 52 balls",
-            "image": { "url": null, "altText": "Image of null" }
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
           }
         },
         {
           "label": null,
           "value": {
             "label": "In 2012, Kohli became the captain of the Indian Test squad",
-            "image": { "url": null, "altText": "Image of null" }
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
           }
         },
         {
           "label": null,
           "value": {
             "label": "In 2013, Kohli reached the number one spot in the ICC rankings for ODI batsmen for the first time ",
-            "image": { "url": null, "altText": "Image of null" }
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
           }
         },
         {
           "label": null,
           "value": {
             "label": "In 2014, became the top-ranked T20I batsman in the ICC rankings, holding the position till 2017",
-            "image": { "url": null, "altText": "Image of null" }
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
           }
         }
       ]
