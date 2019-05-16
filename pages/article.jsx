@@ -55,13 +55,17 @@ const Article = ({
         </section>
 
         <LanguageSelector translations={translations} coverImage={coverImage} />
-        {sections.map(factCard => (
-          <FactCard
-            key={factCard.title}
-            className="wcp-summary-fact-card"
-            cardData={factCard}
-          />
-        ))}
+        {sections.map(factCard => {
+          if (factCard)
+            return (
+              <FactCard
+                key={factCard.title}
+                className="wcp-summary-fact-card"
+                cardData={factCard}
+              />
+            );
+          return null;
+        })}
       </BaseLayout>
 
       <ModalContextConsumer>
