@@ -9,7 +9,7 @@
         }
       },
       "teamB": {
-        "label": "AUS",
+        "label": "ENG",
         "score": null
       },
       "completed": false
@@ -18,13 +18,16 @@
       "teamA": {
         "label": "IND",
         "score": {
-          "runs": 286,
-          "wickets": 7
+          "runs": 182,
+          "wickets": 6
         }
       },
       "teamB": {
-        "label": "AUS",
-        "score": null
+        "label": "ENG",
+        "score": {
+          "runs": 22,
+          "wickets": 0
+        }
       }
     }
   ]

@@ -1,0 +1,71 @@
+.wcp-live-score-container {
+  color: white;
+}
+
+.wcp-live-score-container__title__dot {
+  min-width: 0.375rem;
+  min-height: 0.375rem;
+  width: 0.375rem;
+  height: 0.375rem;
+  display: inline-block;
+  background-color: $color-extra-red;
+  border-radius: 50%;
+}
+
+.wcp-live-score-container__title__text {
+  margin-left: 0.25rem;
+}
+
+.wcp-live-score-container__title {
+  display: flex;
+  font-size: $font-size-xxs;
+  text-transform: uppercase;
+  align-items: center;
+}
+
+.wcp-live-score-container__score-table {
+  border-collapse: collapse;
+  border-left: $border-divider-gray-light;
+
+  &:first-child {
+    border-left: none;
+    margin-right: 1rem;
+  }
+
+  &:last-child {
+    th {
+      padding-left: 1rem;
+    }
+
+    td {
+      padding-right: 1.5rem;
+    }
+  }
+
+  th {
+    border-right: solid $gutter-m transparent;
+    text-align: left;
+    display: flex;
+  }
+
+  td {
+    text-align: center;
+  }
+}
+
+.wcp-live-score-container__team-label {
+  margin-left: 0.5rem;
+}
+
+.wcp-live-score-container__team-flag {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.wcp-live-score-container__score-table-container {
+  max-width: 11rem;
+  overflow-x: scroll;
+  @include hide-scrollbar();
+
+  display: flex;
+}
