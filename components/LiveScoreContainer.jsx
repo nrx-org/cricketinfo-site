@@ -1,5 +1,4 @@
 import React from "react";
-import PropTypes from "prop-types";
 import { getFlagImageUrl } from "../lib/urls";
 
 export class LiveScoreContainer extends React.Component {
@@ -29,7 +28,7 @@ export class LiveScoreContainer extends React.Component {
   render() {
     const { isLoadingScore, score } = this.state;
 
-    if (!score) {
+    if (!score || isLoadingScore) {
       return null;
     }
 
