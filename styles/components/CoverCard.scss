@@ -4,7 +4,7 @@
   margin-left: $gutter-m;
   flex-grow: 1;
   flex-basis: 0;
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.08), 0 1px 6px rgba(0, 0, 0, 0.04);
+  box-shadow: $box-shadow-dark-xl, $box-shadow-light-m;
   border-radius: $border-radius-s;
   overflow: hidden;
 

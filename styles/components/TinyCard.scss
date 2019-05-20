@@ -23,8 +23,8 @@ $border-radius-cover-image: 8px;
 }
 
 .wcp-tiny-card.wcp-tiny-card--active {
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08), 0 1px 4px rgba(0, 0, 0, 0.04),
-    0 0 4px rgba(0, 0, 0, 0.04);
+  box-shadow: $box-shadow-dark-l, $box-shadow-light-s,
+    $box-shadow-light-xs;
 
   .wcp-tiny-card__title {
     color: $color-blue-dark;

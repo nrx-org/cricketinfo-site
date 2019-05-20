@@ -26,14 +26,14 @@ $line-height-xl: 33px;
 $color-white: #ffffff;
 $color-black: #000000;
 $color-black-medium: #222222;
-$color-black-light: #54595D;
+$color-black-light: #54595d;
 $color-gray-dark: #54595d;
 $color-gray-medium: #6a6e71;
-$color-gray-faded: #72777D;
-$color-gray-light: #C8CCD1;
+$color-gray-faded: #72777d;
+$color-gray-light: #c8ccd1;
 $color-gray-lighter: #f0f0f2;
-$color-gray-lightest: #F8F9FA;
-$color-blue-darker: #2A4B8D;
+$color-gray-lightest: #f8f9fa;
+$color-blue-darker: #2a4b8d;
 $color-blue-dark: #3366cc;
 $color-blue-light: #eaf3ff;
 $color-green-dark: #14cc70;
@@ -46,12 +46,12 @@ $color-yellow-light: rgba(255, 204, 51, 0.16);
 $color-beige: #fef6e7;
 
 // Extra set of colors for more visual stuff like bar-charts, etc.
-$color-extra-orange: #FF8933;
-$color-extra-green: #00AF89;
-$color-extra-purple: #6C00AF;
-$color-extra-yellow: #F2A000;
+$color-extra-orange: #ff8933;
+$color-extra-green: #00af89;
+$color-extra-purple: #6c00af;
+$color-extra-yellow: #f2a000;
 $color-extra-blue: #2f559f;
-$color-extra-red: #FF5353;
+$color-extra-red: #ff5353;
 
 // Colors for functionality
 $h1-color: $color-gray-dark;
@@ -73,8 +73,8 @@ $border-radius-m: 8px;
 $margin-main: $gutter-m;
 
 // Font families
-$font-family-title: 'Charter';
-$font-family-body: 'Lato';
+$font-family-title: "Charter";
+$font-family-body: "Lato";
 
 // z-indexes
 $z-index-base: 1;
@@ -84,3 +84,13 @@ $z-index-modal: 999;
 // Dividers between sections
 $border-divider-blue: solid 1px $color-blue-light;
 $border-divider-gray: solid 1px $color-gray-light;
+
+// Box shadows
+$box-shadow-dark-xxl: 0 4px 24px rgba(0, 0, 0, 0.08);
+$box-shadow-dark-xl: 0 6px 12px rgba(0, 0, 0, 0.08);
+$box-shadow-dark-l: 0 4px 8px rgba(0, 0, 0, 0.08);
+
+$box-shadow-light-l: 0 1px 8px rgba(0, 0, 0, 0.04);
+$box-shadow-light-m: 0 1px 6px rgba(0, 0, 0, 0.04);
+$box-shadow-light-s: 0 1px 4px rgba(0, 0, 0, 0.04);
+$box-shadow-light-xs: 0 0 4px rgba(0, 0, 0, 0.04);
