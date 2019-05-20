@@ -5,16 +5,23 @@ import { BackgroundImage } from "../BackgroundImage";
 import { Icon } from "../Icon";
 import { Button } from "../Button";
 import { ExternalUrlShareModalContainer } from "../ExternalUrlShareModalContainer";
+const LOCALSTORAGE_KEY = "wcpStoryFavorites";
 
 export class Story extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {
-      isFavorited: false
-    };
 
     this.imageLoaded = this.imageLoaded.bind(this);
-    this.toggleFavorite = this.toggleFavorite.bind(this);
+    this.getFavoritedInfoFromLocalStorage = this.getFavoritedInfoFromLocalStorage.bind(
+      this
+    );
+    this.setFavoritedInfoToLocalStorage = this.setFavoritedInfoToLocalStorage.bind(
+      this
+    );
+
+    this.state = {
+      isFavorited: this.getFavoritedInfoFromLocalStorage()[props.story.id]
+    };
   }
 
   componentDidUpdate(prevProps) {
@@ -34,9 +41,30 @@ export class Story extends React.Component {
     }
   }
 
-  toggleFavorite() {
+  getFavoritedInfoFromLocalStorage() {
+    if (!process.browser) {
+      return -1;
+    }
+
+    const { story } = this.props;
+
+    const storyFavoritesDataString = localStorage.getItem(LOCALSTORAGE_KEY);
+    const storyFavoritesData = storyFavoritesDataString && storyFavoritesDataString.length
+      ? JSON.parse(storyFavoritesDataString)
+      : {};
+
+    return storyFavoritesData;
+  }
+
+  setFavoritedInfoToLocalStorage() {
     const { isFavorited } = this.state;
-    this.setState({ isFavorited: !isFavorited });
+    const { story } = this.props;
+
+    const storyFavoritesData = this.getFavoritedInfoFromLocalStorage();
+
+    storyFavoritesData[story.id] = storyFavoritesData[story.id] ? false : true;
+    localStorage.setItem(LOCALSTORAGE_KEY, JSON.stringify(storyFavoritesData));
+    this.setState({ isFavorited: storyFavoritesData[story.id] });
   }
 
   render() {
@@ -99,7 +127,7 @@ export class Story extends React.Component {
             ) : null}
             <span
               className="wcp-story-content__info__icons-and-buttons__favorite-icon"
-              onClick={this.toggleFavorite}
+              onClick={this.setFavoritedInfoToLocalStorage}
               role="presentation"
             >
               <Icon

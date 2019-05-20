@@ -441,6 +441,7 @@
       "facts": [
         {
           "label": "Most runs",
+          "id": "most-runs",
           "value": {
             "url": "https://wikipedia.com",
             "label": "Sachin Tendulkar is the leading run scorer in World Cup history with total of 2,278.",
@@ -452,6 +453,7 @@
         },
         {
           "label": "Most wickets",
+          "id": "most-wicks",
           "value": {
             "url": "",
             "label": "Sachin Tendulkar is the leading run scorer in World Cup history with total of 2,278.",
@@ -463,6 +465,7 @@
         },
         {
           "label": "Most sixes",
+          "id": "most-sixes",
           "value": {
             "url": "https://wikipedia.com",
             "label": "Sachin Tendulkar is the leading run scorer in World Cup history with total of 2,278.",

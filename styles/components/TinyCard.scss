@@ -44,10 +44,12 @@ $border-radius-cover-image: 8px;
 
 .wcp-tiny-card__cover-image {
   border-radius: $border-radius-cover-image;
+  box-shadow: 0 0 1px $color-gray-light;
   height: 3rem;
   width: 3rem;
   display: inline-block;
   object-fit: cover;
+  box-sizing: content-box;
 }
 
 .wcp-tiny-card__content {
