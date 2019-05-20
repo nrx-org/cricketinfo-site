@@ -26,6 +26,7 @@
 .wcp-live-score-container__score-table {
   border-collapse: collapse;
   border-left: $border-divider-gray-light;
+  scroll-snap-align: start;
 
   &:first-child {
     border-left: none;
@@ -65,6 +66,7 @@
 .wcp-live-score-container__score-table-container {
   max-width: 11rem;
   overflow-x: scroll;
+  scroll-snap-type: x mandatory;
   @include hide-scrollbar();
 
   display: flex;
