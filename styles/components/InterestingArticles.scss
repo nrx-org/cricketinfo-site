@@ -1,0 +1,107 @@
+$sectionHeight: 24rem;
+.wcp-interesting-articles {
+  position: relative;
+  min-height: $sectionHeight;
+  opacity: 0;
+}
+
+.wcp-interesting-articles--loaded {
+  opacity: 1;
+}
+
+.wcp-circular-image-card-carousel-wrapper {
+  overflow-x: hidden;
+  overflow-y: visible;
+  margin-left: -1rem;
+  margin-right: -1rem;
+}
+.wcp-circular-image-card-carousel {
+  position: relative;
+  overflow-y: visible;
+  min-height: $sectionHeight;
+}
+
+.wcp-circular-image-card-carousel-group-1 {
+  animation: moveCircles 60s linear;
+  animation-iteration-count: infinite;
+}
+
+.wcp-circular-image-card-carousel-group-2 {
+  animation: moveCircles 60s linear;
+  animation-delay: 30s;
+  transform: translateX(51%);
+  animation-iteration-count: infinite;
+}
+
+.wcp-circular-image-card-wrapper {
+  position: absolute;
+  max-width: 8rem;
+  max-height: 8rem;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
+
+$animDurations: 4s 4.75s 3.5s 4.5s 2.75s;
+
+.wcp-circular-image-card {
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08), 0 1px 4px rgba(0, 0, 0, 0.04),
+    0 0 4px rgba(0, 0, 0, 0.04);
+  img {
+    width: 100%;
+  }
+}
+@for $i from 1 through length($animDurations) {
+  $random5: random(5);
+  $random10: random(10);
+  @keyframes floating-#{$i} {
+    from {
+      transform: translate(0, 0%);
+    }
+    25% {
+      transform: translate(-$random5 + px, -$random10 + 5 + px);
+    }
+    50% {
+      transform: translate(0, 0%);
+    }
+    75% {
+      transform: translate($random5 + px, $random10 - 5 + px);
+    }
+    to {
+      transform: translate(0, -0%);
+    }
+  }
+  .wcp-circular-image-card-wrapper:nth-child(#{$i + 1}n + 1) {
+    animation-name: floating-#{$i};
+    animation-duration: 2 * nth($animDurations, $i);
+    animation-delay: random(1) + s;
+  }
+}
+
+@-webkit-keyframes moveCircles {
+  0% {
+    transform: translateX(50%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+@-moz-keyframes moveCircles {
+  0% {
+    transform: translateX(50%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+@-o-keyframes moveCircles {
+  0% {
+    transform: translateX(50%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}

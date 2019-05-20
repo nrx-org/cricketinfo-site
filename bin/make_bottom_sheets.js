@@ -26,12 +26,12 @@ records.forEach(async element => {
   };
 
   const getSluggedTitle = slugify(bottomSheet.title, "_").toLowerCase(); // TODO: remove slugify
-  
+
   const getFileNameFromURL = url => {
     if (!url) return null;
     return url.match(/File:(.*)/)[1];
   };
-  
+
   const getImageForArticle = async url => {
     const image = await fetch(url);
     const imageName = getFileNameFromURL(url);

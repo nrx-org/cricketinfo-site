@@ -23,6 +23,7 @@ import { PlayingTeams } from "../components/PlayingTeams";
 import { PopularArticles } from "../components/PopularArticles";
 import { FunFacts } from "../components/FunFacts";
 import { Timeline } from "../components/Timeline";
+import { InterestingArticles } from "../components/InterestingArticles";
 import { ShareModalContainer } from "../components/ShareModalContainer";
 import { FeaturedPlayers } from "../components/FeaturedPlayers";
 import { QuizContainer } from "../components/QuizContainer";
@@ -39,7 +40,8 @@ const Home = ({
   scheduledFeaturedPlayers,
   constantFeaturedPlayers,
   allPlayers,
-  quizQuestions
+  quizQuestions,
+  interestingArticles
 }) => (
   <LanguageContext.Provider value={lang}>
     <ModalContextProvider>
@@ -71,6 +73,8 @@ const Home = ({
           all={allPlayers}
         />
         <QuizContainer questions={quizQuestions} />
+        <InterestingArticles interestingArticles={interestingArticles} />
+
         <ModalContextConsumer>
           {({ registerModal, isModalOpen, modalData, closeModal }) => (
             <ShareModalContainer
@@ -132,6 +136,9 @@ Home.propTypes = {
   // A static list of players who will always appear in the featured players
   // list.
   constantFeaturedPlayers: PropTypes.arrayOf(factPropTypes).isRequired,
+
+  // A list of all interesting articles.
+  interestingArticles: PropTypes.arrayOf(factPropTypes).isRequired,
 
   // A static list of players who will appear in the all players modal.
   allPlayers: PropTypes.arrayOf(factPropTypes).isRequired,
