@@ -1,5 +1,7 @@
 .wcp-story-content__container-wrapper {
   height: 25rem;
+  overflow: hidden;
+  border-radius: $border-radius-m;
 }
 
 .wcp-story-content__container {
@@ -104,7 +106,7 @@
     border: 1px solid $color-white;
     padding: 0.5rem;
     box-sizing: border-box;
-    border-radius: $border-radius-s;
+    border-radius: $border-radius-m;
     font-size: $font-size-s;
     line-height: $line-height-s;
     display: none;
@@ -219,7 +221,7 @@ p {
 
 .wcp-story-content__container__close-fullscreen-icon {
   position: absolute;
-  top: $gutter-m;
+  top: $gutter-l;
   right: $gutter-m;
   z-index: $z-index-modal;
   cursor: pointer;

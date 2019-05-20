@@ -157,6 +157,10 @@ $timelineDotSize: 0.375rem;
   height: 3.5rem;
   width: 70vw;
   min-width: 70vw;
+  .wcp-tiny-card__cover-image {
+    height: 2.5rem;
+    width: 2.5rem;
+  }
 }
 
 .wcp-horizontal-timeline
