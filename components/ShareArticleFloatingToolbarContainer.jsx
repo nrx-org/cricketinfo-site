@@ -71,7 +71,7 @@ export const ShareArticleFloatingToolbarContainer = ({ articleId }) => {
                     onClick={event => {
                       onShareClick(event, openModal);
                     }}
-                    icon={{ name: "share-circle", altText: "Share icon" }}
+                    icon={{ name: "share", altText: "Share icon" }}
                     label={SHARE_TEXT[lang]}
                   />
                 }
