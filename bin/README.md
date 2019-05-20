@@ -10,3 +10,4 @@
     + uncomment the second getSluggedTitle() to allow the english version to be used in places where paths are involved
     + comment out the lines of getImageForFile that actually fetch the images, because we do not want to pull the same images more than once.
     + change the paths of the written files to the appropriate directory in static
+    + uncomment the appropriate paths of the ID mappers

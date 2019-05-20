@@ -2,7 +2,6 @@
 /* eslint-disable dot-notation */
 const fs = require("fs");
 const parse = require("csv-parse/lib/sync");
-const slugify = require("slugify");
 const cheerio = require("cheerio");
 const fetch = require("isomorphic-fetch");
 const path = require("path");
@@ -21,15 +20,61 @@ const records = parse(input, {
   delimiter: ","
 });
 
+// for English, create file to map IDs
+const idMapStream = fs.createWriteStream("./bin/article_ids.json", {
+  flags: "a"
+});
+idMapStream.write(JSON.stringify(`{"IDs": [`, null, 2));
+
+// for Hindi/Tamil, append to the existing file
+//  const idMapInput = fs.readFileSync(
+//   "./bin/article_ids.json",
+//   "utf8",
+//   (err, content) => {
+//     return content;
+//   }
+// );
+// const idMap = JSON.parse(idMapInput);
+
 let article;
 
 records.forEach(async record => {
   article = {
+    id: record["Article Link ID"],
     title: record["Name of personality"]
   };
 
+  // for English, create a new object
+  const idMap = {
+    id: article["id"],
+    title: {
+      en: article["title"],
+      hi: "",
+      ta: ""
+    }
+  };
+  idMapStream.write(JSON.stringify(idMap, null, 2));
+  idMapStream.write(",");
+
+  // for Hindi/Tamil, append to the existing file
+  // idMap.map.forEach(idMapRecord => {
+  //   if (idMapRecord["id"] === article["id"]) {
+  //     idMapRecord["title"]["hi"] = article["title"];
+  //     // idMapRecord["title"]["ta"] = article["title"];
+  //   }
+  // });
+
+  fs.appendFile(JSON.stringify(article.title, null, 2), err => {
+    if (err) console.log(err);
+  });
+
   // Get title for URL
-  const getSluggedTitle = slugify(article.title, "_").toLowerCase(); // TODO: remove slugify
+  // Since toLowerCase respects locale, and there are no differences in upper and lower case
+  // for both Hindi and Tamil, I'm hoping nothing too important breaks by using this.
+  const getSluggedTitle = str => {
+    if (!str) return article.title.replace(/ /g, "_").toLowerCase();
+    return str.replace(/ /g, "_").toLowerCase();
+  };
 
   // Get file name from url link
   const getFileNameFromURL = url => {
@@ -41,7 +86,6 @@ records.forEach(async record => {
     const fileName = getFileNameFromURL(url);
     if (!fileName) return null;
     return path.parse(fileName).name.replace(/[-_]/g, " ");
-    // return fileName.match(/(.*)\.[^/.]+$/)[1]
   };
 
   // Download all the images and put them in static
@@ -56,22 +100,22 @@ records.forEach(async record => {
     if (!imageURL) {
       return null;
     }
-    const image = await fetch(imageURL);
+    // const image = await fetch(imageURL);
     const imageName = getFileNameFromURL(url);
-    const imageDirectory = `./static/images/${getSluggedTitle}`;
-    const imagePath = `./static/images/${getSluggedTitle}/${imageName}`;
-    if (!fs.existsSync(imageDirectory)) {
-      fs.mkdir(imageDirectory, err => {
-        if (err) throw err;
-      });
-    }
-    const imageFile = fs.createWriteStream(imagePath);
-    image.body.pipe(imageFile);
+    const imageDirectory = `./static/images/${getSluggedTitle()}`;
+    const imagePath = `./static/images/${getSluggedTitle()}/${imageName}`;
+    // if (!fs.existsSync(imageDirectory)) {
+    // fs.mkdir(imageDirectory, err => {
+    // if (err) throw err;
+    // });
+    // }
+    // const imageFile = fs.createWriteStream(imagePath);
+    // image.body.pipe(imageFile);
     return imagePath.substring(1);
   };
 
   const addEducation = async () => {
-    if (!record["Name of school"]) return null;
+    if (!record["Name of school"]) return;
     const education = {
       title: "Education",
       cardType: "tag_card",
@@ -91,6 +135,7 @@ records.forEach(async record => {
         }
       ]
     };
+    // eslint-disable-next-line consistent-return
     return education;
   };
 
@@ -104,13 +149,13 @@ records.forEach(async record => {
     summary: record["Short description of personality"],
     translations: [
       {
-        url: "/wiki/hi/महेंद्र_सिंह_धोनी", // TODO: make this common
-        title: "महेंद्र सिंह धोनी", // TODO: make this common
+        url: `/hi/${getSluggedTitle()}`, // TODO: make this return hindi text
+        title: "महेंद्र सिंह धोनी", // TODO: make this return hindi text
         lang: "hi"
       },
       {
-        url: "/wiki/pa/মহেন্দ্র_সিং_ধোনি", // TODO: make this common
-        title: "মহেন্দ্র সিং ধোনি", // TODO: make this common
+        url: `/ta/${getSluggedTitle()}`, // TODO: make this return tamil text
+        title: "விராத் கோலி", // TODO: make this return tamil text
         lang: "pa"
       }
     ],
@@ -467,13 +512,19 @@ records.forEach(async record => {
   };
 
   fs.writeFile(
-    `./csv/${getSluggedTitle}.json`,
+    `./static/content/ta/${getSluggedTitle()}.json`,
     JSON.stringify(article, null, 2),
     err => {
       if (err) console.log(err);
     }
   );
 });
+
+// For English, finish the ID map file
+idMapStream.write(JSON.stringify(`]}`, null, 2));
+// For Hindi/Tamil, rewrite the entire file
+// fs.writeFileSync("./bin/article_ids.json", "");
+// fs.writeFileSync("./bin/article_ids.json", idMap);
 
 // TODO: refactor components to not dispolay things if value is empty string.
 
