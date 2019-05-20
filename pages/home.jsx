@@ -138,7 +138,7 @@ Home.propTypes = {
   constantFeaturedPlayers: PropTypes.arrayOf(factPropTypes).isRequired,
 
   // A list of all interesting articles.
-  interestingArticles: PropTypes.arrayOf(factPropTypes),
+  interestingArticles: PropTypes.arrayOf(factPropTypes).isRequired,
 
   // A static list of players who will appear in the all players modal.
   allPlayers: PropTypes.arrayOf(factPropTypes).isRequired,

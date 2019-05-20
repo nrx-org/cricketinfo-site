@@ -10,7 +10,10 @@ export class InterestingArticles extends React.Component {
     this.state = {
       loaded: false,
       carouselWidth: "auto",
-      cardStyles: props.interestingArticles.map(card => {
+      interestingArticles: props.interestingArticles.concat(
+        props.interestingArticles
+      ),
+      cardStyles: props.interestingArticles.map(() => {
         return {
           width: 0,
           height: 0,
@@ -31,22 +34,26 @@ export class InterestingArticles extends React.Component {
   }
 
   computeCardStyles() {
-    const { cardStyles } = this.state;
-    const { interestingArticles } = this.props;
+    const { cardStyles, interestingArticles } = this.state;
 
     const noOfRows = 3;
-    const possibleCardSizesInVw = [6, 5.5, 5, 6.5];
-    const interCardPaddingInVw = 0.5;
+    const possibleCardSizes = [6, 5.5, 6.5, 7];
+
+    // TODO: if there are lesser circles to show, make sure
+    // they span the entire width
+    // if(interestingArticles.length < 6) {
+    //   noOfRows = 2;
+    // }
+
+    const interCardPadding = 0.5;
 
     const tempCardStyles = cardStyles.slice();
 
-    interestingArticles.map((card, articleIndex) => {
-      const rowNo = articleIndex % noOfRows;
-      const size =
-        possibleCardSizesInVw[articleIndex % possibleCardSizesInVw.length];
+    interestingArticles.forEach((card, articleIndex) => {
+      const size = possibleCardSizes[articleIndex % possibleCardSizes.length];
 
       let computedStyle = {};
-      if (articleIndex == 0) {
+      if (articleIndex === 0) {
         computedStyle = {
           width: size,
           height: size,
@@ -77,48 +84,77 @@ export class InterestingArticles extends React.Component {
           left:
             prevCardStyle.left +
             prevCardStyle.width * 1.25 +
-            2 * interCardPaddingInVw,
+            2 * interCardPadding,
           top: Math.random()
         };
       }
 
       tempCardStyles[articleIndex] = computedStyle;
     });
+
+    const carouselWidth = Math.round(
+      Math.max(
+        ...tempCardStyles.map(function(style) {
+          return style.left;
+        })
+      ) + Math.max(...possibleCardSizes.map(size => size))
+    );
     this.setState({
       cardStyles: tempCardStyles,
-      carouselWidth:
-        Math.round(
-          Math.max.apply(
-            Math,
-            tempCardStyles.map(function(style) {
-              return style.left;
-            })
-          ) + Math.max.apply(Math, possibleCardSizesInVw.map(size => size))
-        ) + "rem"
+      carouselWidth: `${carouselWidth}rem`
     });
   }
 
   render() {
-    const { interestingArticles } = this.props;
-    const { loaded, cardStyles, carouselWidth } = this.state;
+    const {
+      cardStyles,
+      carouselWidth,
+      interestingArticles,
+      loaded
+    } = this.state;
     return (
-      <section className="wcp-interesting-articles">
+      <section
+        className={`wcp-interesting-articles ${
+          loaded ? "wcp-interesting-articles--loaded" : ""
+        }`}
+      >
         <SectionTitle>Interesting Articles</SectionTitle>
         <div className="wcp-circular-image-card-carousel-wrapper">
           <div
             style={{ width: carouselWidth }}
             className="wcp-circular-image-card-carousel"
           >
-            {interestingArticles.map((card, index) => (
-              <InterestingArticleItem
-                key={`${card.label}-${card.id}`}
-                coverImage={card.value.image}
-                href={card.url || null}
-                styles={cardStyles[index]}
-              >
-                {card.value.label}
-              </InterestingArticleItem>
-            ))}
+            <div className="wcp-circular-image-card-carousel-group-1">
+              {interestingArticles
+                .slice(0, parseInt(interestingArticles.length / 2, 10))
+                .map((card, index) => (
+                  <InterestingArticleItem
+                    key={`${card.label}-${card.id}-group1`}
+                    coverImage={card.value.image}
+                    href={card.value.url || null}
+                    styles={cardStyles[index]}
+                  >
+                    {card.value.label}
+                  </InterestingArticleItem>
+                ))}
+            </div>
+            <div className="wcp-circular-image-card-carousel-group-2">
+              {interestingArticles
+                .slice(
+                  parseInt(interestingArticles.length / 2, 10),
+                  interestingArticles.length
+                )
+                .map((card, index) => (
+                  <InterestingArticleItem
+                    key={`${card.label}-${card.id}-group2`}
+                    coverImage={card.value.image}
+                    href={card.value.url || null}
+                    styles={cardStyles[index]}
+                  >
+                    {card.value.label}
+                  </InterestingArticleItem>
+                ))}
+            </div>
           </div>
         </div>
       </section>
