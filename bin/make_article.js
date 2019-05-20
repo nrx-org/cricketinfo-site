@@ -8,61 +8,69 @@ const path = require("path");
 
 // path to content from spreadsheet
 const pathToParsedFile = "./csv/personalities.csv";
+const currentLanguage = "en";
+// const currentLanguage = "hi"
+// const currentLanguage = "ta"
 
-// read content
-const input = fs.readFileSync(pathToParsedFile, "utf8", (err, content) => {
+const sheetInput = fs.readFileSync(pathToParsedFile, "utf8", (err, content) => {
   return content;
 });
+const contentUrls = JSON.parse(fs.readFileSync("./bin/content_urls.json"));
 
 //  create JS Object
-const records = parse(input, {
+const records = parse(sheetInput, {
   columns: true,
   delimiter: ","
 });
 
-// for English, create file to map IDs
-const idMapStream = fs.createWriteStream("./bin/article_ids.json", {
-  flags: "a"
-});
-idMapStream.write(JSON.stringify(`{"IDs": [`, null, 2));
-
-// for Hindi/Tamil, append to the existing file
-//  const idMapInput = fs.readFileSync(
-//   "./bin/article_ids.json",
-//   "utf8",
-//   (err, content) => {
-//     return content;
-//   }
-// );
-// const idMap = JSON.parse(idMapInput);
-
 let article;
+let enSluggedTitle;
+let idMap;
+let idMapStream;
 
+if (currentLanguage === "en") {
+  // for English, create file to map IDs
+  idMapStream = fs.createWriteStream("./bin/article_ids.json");
+  idMapStream.write('{"IDs": [');
+} else {
+  // for Hindi/Tamil, append to the existing file
+  const idMapInput = fs.readFileSync(
+    "./bin/article_ids.json",
+    "utf8",
+    (err, content) => {
+      return content;
+    }
+  );
+  idMap = JSON.parse(idMapInput);
+}
+
+debugger;
 records.forEach(async record => {
   article = {
     id: record["Article Link ID"],
     title: record["Name of personality"]
   };
 
-  // for English, create a new object
-  const idMap = {
-    id: article["id"],
-    title: {
-      en: article["title"],
-      hi: "",
-      ta: ""
-    }
-  };
-  idMapStream.write(JSON.stringify(idMap, null, 2));
-  idMapStream.write(",");
-
-  // for Hindi/Tamil, append to the existing file
-  // idMap.map.forEach(idMapRecord => {
-  //   if (idMapRecord["id"] === article["id"]) {
-  //     idMapRecord["title"]["hi"] = article["title"];
-  //     // idMapRecord["title"]["ta"] = article["title"];
-  //   }
-  // });
+  if (currentLanguage === "en") {
+    idMap = {
+      id: article["id"],
+      title: {
+        en: article["title"],
+        hi: "",
+        ta: ""
+      }
+    };
+    idMapStream.write(JSON.stringify(idMap, null, 2));
+    idMapStream.write(",");
+  } else {
+    idMap.map.forEach(idMapRecord => {
+      if (idMapRecord["id"] === article["id"]) {
+        // eslint-disable-next-line no-param-reassign
+        idMapRecord["title"][currentLanguage] = article["title"];
+        enSluggedTitle = idMapRecord["title"]["en"];
+      }
+    });
+  }
 
   fs.appendFile(JSON.stringify(article.title, null, 2), err => {
     if (err) console.log(err);
@@ -75,6 +83,8 @@ records.forEach(async record => {
     if (!str) return article.title.replace(/ /g, "_").toLowerCase();
     return str.replace(/ /g, "_").toLowerCase();
   };
+
+  enSluggedTitle = getSluggedTitle(enSluggedTitle);
 
   // Get file name from url link
   const getFileNameFromURL = url => {
@@ -89,7 +99,7 @@ records.forEach(async record => {
   };
 
   // Download all the images and put them in static
-  const getImageForArticle = async url => {
+  const getImagePathForArticle = async url => {
     if (!url) {
       return "/static/images/default_person.svg";
     }
@@ -102,8 +112,8 @@ records.forEach(async record => {
     }
     // const image = await fetch(imageURL);
     const imageName = getFileNameFromURL(url);
-    const imageDirectory = `./static/images/${getSluggedTitle()}`;
-    const imagePath = `./static/images/${getSluggedTitle()}/${imageName}`;
+    const imageDirectory = `./static/images/${enSluggedTitle}`;
+    const imagePath = `.${imageDirectory}/${imageName}`;
     // if (!fs.existsSync(imageDirectory)) {
     // fs.mkdir(imageDirectory, err => {
     // if (err) throw err;
@@ -126,7 +136,9 @@ records.forEach(async record => {
           value: {
             label: record["Caption of image of school"],
             image: {
-              url: await getImageForArticle(record["Link to image of school"]),
+              url: await getImagePathForArticle(
+                record["Link to image of school"]
+              ),
               altText: `Image of ${getImageName(
                 record["Link to image of school"]
               )}`
@@ -139,11 +151,13 @@ records.forEach(async record => {
     return education;
   };
 
+  // TODO: create a function which updates the translation URLs section using the id mapper
+
   // Putting together the completed JS object
   article = {
     ...article,
     coverImage: {
-      url: await getImageForArticle(record["Header image"]),
+      url: await getImagePathForArticle(record["Header image"]),
       altText: `Image of ${getImageName(record["Header image"])}`
     },
     summary: record["Short description of personality"],
@@ -206,7 +220,7 @@ records.forEach(async record => {
             value: {
               label: record["Relation 1"],
               image: {
-                url: await getImageForArticle(
+                url: await getImagePathForArticle(
                   record["Link to the image of relation 1"]
                 ),
                 altText: `Image of ${getImageName(
@@ -235,7 +249,7 @@ records.forEach(async record => {
                     label: record["Phase 1 - Place of birth"],
                     url: record["Phase 1 - Link to the place of birth "],
                     image: {
-                      url: await getImageForArticle(
+                      url: await getImagePathForArticle(
                         record["Phase 1- Image related to the place"]
                       ),
                       altText: `Image of ${getImageName(
@@ -307,7 +321,9 @@ records.forEach(async record => {
             value: {
               label: record["Style of play"],
               image: {
-                url: await getImageForArticle(record["Relevant image link"]),
+                url: await getImagePathForArticle(
+                  record["Relevant image link"]
+                ),
                 altText: `Image of ${getImageName(
                   record["Relevant image link"]
                 )}`
@@ -329,7 +345,7 @@ records.forEach(async record => {
                 url:
                   record["Link to the Wikipedia article of the National team"],
                 image: {
-                  url: await getImageForArticle(
+                  url: await getImagePathForArticle(
                     record["Link to the National team Logo"]
                   ),
                   altText: `Image of ${getImageName(
@@ -354,7 +370,7 @@ records.forEach(async record => {
                     "Link to the Wikipedia article of the IPL - Current Team or Team last represented"
                   ],
                 image: {
-                  url: await getImageForArticle(
+                  url: await getImagePathForArticle(
                     record["Link to the IPL team logo"]
                   ),
                   altText: `Image of ${getImageName(
@@ -373,7 +389,7 @@ records.forEach(async record => {
                 url:
                   record["Link to the Wikipedia article of the Domestic team"],
                 image: {
-                  url: await getImageForArticle(
+                  url: await getImagePathForArticle(
                     record["Link to the IPL team logo"]
                   ),
                   altText: `Image of ${getImageName(
@@ -395,7 +411,7 @@ records.forEach(async record => {
             value: {
               label: record["Short Description of the award 1"],
               image: {
-                url: await getImageForArticle(
+                url: await getImagePathForArticle(
                   record["Image link for the award 1"]
                 ),
                 altText: `Image of ${getImageName(
@@ -410,7 +426,7 @@ records.forEach(async record => {
             value: {
               label: record["Short Description of the award 2"],
               image: {
-                url: await getImageForArticle(
+                url: await getImagePathForArticle(
                   record["Image link for the award 2"]
                 ),
                 altText: `Image of ${getImageName(
@@ -425,7 +441,7 @@ records.forEach(async record => {
             value: {
               label: record["Short Description of the award 3"],
               image: {
-                url: await getImageForArticle(
+                url: await getImagePathForArticle(
                   record["Image link for the award 3"]
                 ),
                 altText: `Image of ${getImageName(
@@ -440,7 +456,7 @@ records.forEach(async record => {
             value: {
               label: record["Short Description of the award 4"],
               image: {
-                url: await getImageForArticle(
+                url: await getImagePathForArticle(
                   record["Image link for the award 4"]
                 ),
                 altText: `Image of ${getImageName(
@@ -461,7 +477,7 @@ records.forEach(async record => {
             value: {
               label: record["Achievement or Record 1"],
               image: {
-                url: await getImageForArticle(record["Image 1"]),
+                url: await getImagePathForArticle(record["Image 1"]),
                 altText: `Image of ${getImageName(record["Image 1"])}`
               }
             }
@@ -471,7 +487,7 @@ records.forEach(async record => {
             value: {
               label: record["Achievement or Record 2"],
               image: {
-                url: await getImageForArticle(record["Image 2"]),
+                url: await getImagePathForArticle(record["Image 2"]),
                 altText: `Image of ${getImageName(record["Image 2"])}`
               }
             }
@@ -481,7 +497,7 @@ records.forEach(async record => {
             value: {
               label: record["Achievement or Record 3"],
               image: {
-                url: await getImageForArticle(record["Image 3"]),
+                url: await getImagePathForArticle(record["Image 3"]),
                 altText: `Image of ${getImageName(record["Image 3"])}`
               }
             }
@@ -491,7 +507,7 @@ records.forEach(async record => {
             value: {
               label: record["Achievement or Record 4"],
               image: {
-                url: await getImageForArticle(record["Image 4"]),
+                url: await getImagePathForArticle(record["Image 4"]),
                 altText: `Image of ${getImageName(record["Image 4"])}`
               }
             }
@@ -501,7 +517,7 @@ records.forEach(async record => {
             value: {
               label: record["Achievement or Record 5"],
               image: {
-                url: await getImageForArticle(record["Image 5"]),
+                url: await getImagePathForArticle(record["Image 5"]),
                 altText: `Image of ${getImageName(record["Image 5"])}`
               }
             }
@@ -511,8 +527,14 @@ records.forEach(async record => {
     ]
   };
 
+  debugger;
+  contentUrls[currentLanguage][
+    enSluggedTitle
+  ] = `./static/content/${currentLanguage}/${getSluggedTitle()}`;
+
+  debugger;
   fs.writeFile(
-    `./static/content/ta/${getSluggedTitle()}.json`,
+    `./static/content/${currentLanguage}/${enSluggedTitle}.json`,
     JSON.stringify(article, null, 2),
     err => {
       if (err) console.log(err);
@@ -520,11 +542,18 @@ records.forEach(async record => {
   );
 });
 
-// For English, finish the ID map file
-idMapStream.write(JSON.stringify(`]}`, null, 2));
-// For Hindi/Tamil, rewrite the entire file
-// fs.writeFileSync("./bin/article_ids.json", "");
-// fs.writeFileSync("./bin/article_ids.json", idMap);
+fs.writeFileSync("./bin/content_urls.json", "");
+fs.writeFileSync("./bin/content_urls.json", JSON.stringify(contentUrls));
+
+if (currentLanguage === "en") {
+  // For English, finish the ID map file
+  idMapStream.write("]}");
+} else {
+  // For Hindi/Tamil, rewrite the entire file
+
+  fs.writeFileSync("./bin/article_ids.json", "");
+  fs.writeFileSync("./bin/article_ids.json", idMap);
+}
 
 // TODO: refactor components to not dispolay things if value is empty string.
 
