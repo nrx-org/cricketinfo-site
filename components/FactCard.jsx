@@ -6,7 +6,7 @@ import { Timeline } from "./Timeline";
 import { SectionTitle } from "./SectionTitle";
 import { AvatarList } from "./AvatarList";
 import { TagCard } from "./TagCard";
-import { Blurbs } from "./Blurbs";
+import { ListCard } from "./ListCard";
 import { FactCardSimple } from "./FactCardSimple";
 
 const FactCardTable = ({ cardData }) => {
@@ -69,8 +69,8 @@ export const FactCard = ({ cardData }) => {
     return <TagCard cardData={cardData} />;
   }
 
-  if (cardData.cardType === "blurbs") {
-    return <Blurbs cardData={cardData} />;
+  if (cardData.cardType === "list_card") {
+    return <ListCard cardData={cardData} />;
   }
 
   return null;
