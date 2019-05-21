@@ -5,6 +5,7 @@ import { BackgroundImage } from "../BackgroundImage";
 import { Icon } from "../Icon";
 import { Button } from "../Button";
 import { ExternalUrlShareModalContainer } from "../ExternalUrlShareModalContainer";
+
 const LOCALSTORAGE_KEY = "wcpStoryFavorites";
 
 export class Story extends React.Component {
@@ -12,15 +13,13 @@ export class Story extends React.Component {
     super(props);
 
     this.imageLoaded = this.imageLoaded.bind(this);
-    this.getFavoritedInfoFromLocalStorage = this.getFavoritedInfoFromLocalStorage.bind(
-      this
-    );
+
     this.setFavoritedInfoToLocalStorage = this.setFavoritedInfoToLocalStorage.bind(
       this
     );
 
     this.state = {
-      isFavorited: this.getFavoritedInfoFromLocalStorage()[props.story.id]
+      isFavorited: Story.getFavoritedInfoFromLocalStorage()[props.story.id]
     };
   }
 
@@ -31,6 +30,30 @@ export class Story extends React.Component {
     }
   }
 
+  static getFavoritedInfoFromLocalStorage() {
+    if (!process.browser) {
+      return -1;
+    }
+
+    const storyFavoritesDataString = localStorage.getItem(LOCALSTORAGE_KEY);
+    const storyFavoritesData =
+      storyFavoritesDataString && storyFavoritesDataString.length
+        ? JSON.parse(storyFavoritesDataString)
+        : {};
+
+    return storyFavoritesData;
+  }
+
+  setFavoritedInfoToLocalStorage() {
+    const { story } = this.props;
+
+    const storyFavoritesData = Story.getFavoritedInfoFromLocalStorage();
+
+    storyFavoritesData[story.id] = !storyFavoritesData[story.id];
+    localStorage.setItem(LOCALSTORAGE_KEY, JSON.stringify(storyFavoritesData));
+    this.setState({ isFavorited: storyFavoritesData[story.id] });
+  }
+
   imageLoaded() {
     const { setPlaybackAction, onStoryImageLoad } = this.props;
     try {
@@ -39,32 +62,6 @@ export class Story extends React.Component {
     } catch (e) {
       console.log(e);
     }
-  }
-
-  getFavoritedInfoFromLocalStorage() {
-    if (!process.browser) {
-      return -1;
-    }
-
-    const { story } = this.props;
-
-    const storyFavoritesDataString = localStorage.getItem(LOCALSTORAGE_KEY);
-    const storyFavoritesData = storyFavoritesDataString && storyFavoritesDataString.length
-      ? JSON.parse(storyFavoritesDataString)
-      : {};
-
-    return storyFavoritesData;
-  }
-
-  setFavoritedInfoToLocalStorage() {
-    const { isFavorited } = this.state;
-    const { story } = this.props;
-
-    const storyFavoritesData = this.getFavoritedInfoFromLocalStorage();
-
-    storyFavoritesData[story.id] = storyFavoritesData[story.id] ? false : true;
-    localStorage.setItem(LOCALSTORAGE_KEY, JSON.stringify(storyFavoritesData));
-    this.setState({ isFavorited: storyFavoritesData[story.id] });
   }
 
   render() {

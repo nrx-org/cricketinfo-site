@@ -19,7 +19,13 @@ export const SwitchLanguageFloatingToolbar = ({ translations }) => {
     />
   );
 
-  return <FloatingToolbar leftButton={leftButton} rightButton={rightButton} />;
+  return (
+    <FloatingToolbar
+      stickToTop
+      leftButton={leftButton}
+      rightButton={rightButton}
+    />
+  );
 };
 
 SwitchLanguageFloatingToolbar.propTypes = {

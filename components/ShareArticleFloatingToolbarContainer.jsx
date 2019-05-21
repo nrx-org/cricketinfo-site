@@ -59,6 +59,7 @@ export const ShareArticleFloatingToolbarContainer = ({ articleId }) => {
             <>
               {}
               <FloatingToolbar
+                stickToTop
                 leftButton={
                   <FloatingToolbarButton
                     onClick={event => onSaveForLaterClick(event, openModal)}
