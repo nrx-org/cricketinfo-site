@@ -15,7 +15,9 @@ const currentLanguage = "en";
 const sheetInput = fs.readFileSync(pathToParsedFile, "utf8", (err, content) => {
   return content;
 });
-const contentUrls = JSON.parse(fs.readFileSync("./bin/content_urls.json"));
+const contentUrls = JSON.parse(fs.readFileSync("./bin/content_urls.json"))[
+  "CONTENT_URLS"
+];
 
 //  create JS Object
 const records = parse(sheetInput, {
@@ -24,7 +26,7 @@ const records = parse(sheetInput, {
 });
 
 let article;
-let enSluggedTitle;
+let enTitle;
 let idMap;
 let idMapStream;
 
@@ -44,7 +46,6 @@ if (currentLanguage === "en") {
   idMap = JSON.parse(idMapInput);
 }
 
-debugger;
 records.forEach(async record => {
   article = {
     id: record["Article Link ID"],
@@ -60,6 +61,7 @@ records.forEach(async record => {
         ta: ""
       }
     };
+    enTitle = article["title"];
     idMapStream.write(JSON.stringify(idMap, null, 2));
     idMapStream.write(",");
   } else {
@@ -67,14 +69,14 @@ records.forEach(async record => {
       if (idMapRecord["id"] === article["id"]) {
         // eslint-disable-next-line no-param-reassign
         idMapRecord["title"][currentLanguage] = article["title"];
-        enSluggedTitle = idMapRecord["title"]["en"];
+        enTitle = idMapRecord["title"]["en"];
       }
     });
   }
 
-  fs.appendFile(JSON.stringify(article.title, null, 2), err => {
-    if (err) console.log(err);
-  });
+  // fs.appendFile(JSON.stringify(article.title, null, 2), err => {
+  //   if (err) console.log(err);
+  // });
 
   // Get title for URL
   // Since toLowerCase respects locale, and there are no differences in upper and lower case
@@ -83,8 +85,7 @@ records.forEach(async record => {
     if (!str) return article.title.replace(/ /g, "_").toLowerCase();
     return str.replace(/ /g, "_").toLowerCase();
   };
-
-  enSluggedTitle = getSluggedTitle(enSluggedTitle);
+  const enSluggedTitle = getSluggedTitle(enTitle);
 
   // Get file name from url link
   const getFileNameFromURL = url => {
@@ -123,6 +124,10 @@ records.forEach(async record => {
     // image.body.pipe(imageFile);
     return imagePath.substring(1);
   };
+
+  contentUrls[currentLanguage][
+    enSluggedTitle
+  ] = `/static/content/${currentLanguage}/${getSluggedTitle()}.json`;
 
   const addEducation = async () => {
     if (!record["Name of school"]) return;
@@ -527,12 +532,6 @@ records.forEach(async record => {
     ]
   };
 
-  debugger;
-  contentUrls[currentLanguage][
-    enSluggedTitle
-  ] = `./static/content/${currentLanguage}/${getSluggedTitle()}`;
-
-  debugger;
   fs.writeFile(
     `./static/content/${currentLanguage}/${enSluggedTitle}.json`,
     JSON.stringify(article, null, 2),
@@ -543,7 +542,10 @@ records.forEach(async record => {
 });
 
 fs.writeFileSync("./bin/content_urls.json", "");
-fs.writeFileSync("./bin/content_urls.json", JSON.stringify(contentUrls));
+fs.writeFileSync(
+  "./bin/content_urls.json",
+  JSON.stringify(contentUrls, null, 2)
+);
 
 if (currentLanguage === "en") {
   // For English, finish the ID map file
