@@ -1,5 +1,6 @@
 import React from "react";
 import { getFlagImageUrl } from "../lib/urls";
+import { getLiveScore } from "../lib/live_score";
 
 export class LiveScoreContainer extends React.Component {
   constructor(props) {
@@ -18,6 +19,7 @@ export class LiveScoreContainer extends React.Component {
 
     const scoreResponse = await fetch("/static/content/en/score.json");
     const scoreJson = await scoreResponse.json();
+    getLiveScore();
 
     this.setState({
       score: scoreJson,
