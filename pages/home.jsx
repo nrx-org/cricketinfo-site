@@ -53,7 +53,7 @@ const Home = ({
         <header className="wcp-home__header">
           <img
             className="wcp-home__logo"
-            src="/static/images/world_cup_logo.svg"
+            src="/static/images/logo.svg"
             alt="World Cup logo"
           />
         </header>
