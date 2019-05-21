@@ -8,12 +8,12 @@
   "summary": "Sourav Ganguly is a former Indian cricketer and captain of the Indian national team. During his playing career, Ganguly established himself as one of the world's leading batsmen, and also one of the greatest captains of the national cricket team.",
   "translations": [
     {
-      "url": "/hi/mushfiqur_rahim",
+      "url": "/hi/sourav_ganguly",
       "title": "महेंद्र सिंह धोनी",
       "lang": "hi"
     },
     {
-      "url": "/ta/mushfiqur_rahim",
+      "url": "/ta/sourav_ganguly",
       "title": "விராத் கோலி",
       "lang": "pa"
     }
@@ -41,7 +41,7 @@
           "label": "Birthplace",
           "value": {
             "label": "Kolkata, India",
-            "url": "https://en.wikipedia.org/wiki/Calcutta"
+            "url": "G12"
           }
         },
         {
@@ -59,10 +59,14 @@
           }
         },
         {
+          "label": "Age",
+          "value": "46"
+        },
+        {
           "label": "Nationality",
           "value": {
             "label": "Indian",
-            "url": "https://en.wikipedia.org/wiki/Indian_people"
+            "url": "G3"
           }
         },
         {
@@ -80,8 +84,10 @@
       "label": "",
       "facts": [
         {
+          "label": "",
           "value": {
             "label": "",
+            "url": "",
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of null"
@@ -95,60 +101,58 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "Year of Birth",
+          "label": "First class Debut",
           "id": 0,
-          "note": null,
+          "note": "1989",
           "value": {
-            "label": "Sourav Ganguly made his first-class cricket debut for Bengal in 1989.",
-            "facts": [
-              {
-                "label": "Place of Birth",
-                "id": 0,
-                "value": {
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
+            "label": "Sourav Ganguly made his first-class cricket debut for Bengal in 1989."
           }
         },
         {
-          "label": "Debut Year",
+          "label": "National team debut ",
           "id": 3,
+          "note": "1992",
           "value": {
-            "facts": [
-              {
-                "label": "Ranji Trophy",
-                "id": 0,
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "https://placekitten.com/200/200",
-                    "altText": "Kitten mata ki jai"
-                  }
-                }
-              }
-            ]
+            "label": "Ganguly scored three runs in his One Day International (ODI) debut for India against the West Indies in 1992."
           }
         },
         {
+          "label": "ICC Tournament Debut",
+          "id": 1,
+          "note": "1999",
+          "value": {
+            "label": "Ganguly scored 183 run from 158 balls versus Sri Lanka during the 1999 World cup, his highest ODI score."
+          }
+        },
+        {
+          "label": "Champions Trophy 2002",
+          "id": 1,
+          "note": "2002",
+          "value": {
+            "label": "India was declared co-champions of the tournament and Ganguly score 117 not out in the pool stage versus England. "
+          }
+        },
+        {
+          "label": "2003 World Cup",
           "id": 1,
           "value": {
-            "facts": [
-              {
-                "label": "",
-                "id": 0,
-                "value": {
-                  "label": "Ganguly scored three runs in his One Day International (ODI) debut for India against the West Indies in 1992.",
-                  "image": {
-                    "url": "https://placekitten.com/200/200",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
+            "label": "Under Sourav Ganguly's captainship India reached the finals of the world cup for the first time since 1983."
+          }
+        },
+        {
+          "label": "2007 World Cup",
+          "id": 1,
+          "note": "2007",
+          "value": {
+            "label": "Ganguly was the leading scorer for India although the team was knocked out of the tournament in the group stage."
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": 1,
+          "note": "2008",
+          "value": {
+            "label": "Ganguly joined the Kolkata Knight Riders team as captain for the Indian Premier League in 2008."
           }
         }
       ]
@@ -175,43 +179,55 @@
         {
           "label": "1992-2008",
           "value": {
-            "label": "Indian National Cricket team",
-            "value": {
-              "label": "The India national cricket team, also known as Team India and Men in Blue, is governed by the Board of Control for Cricket in India",
-              "url": "https://en.wikipedia.org/wiki/India_national_cricket_team",
-              "image": {
-                "url": "/static/images/sourav_ganguly/Cricket_India_Crest.svg",
-                "altText": "Image of Cricket India Crest"
+            "facts": [
+              {
+                "label": "Indian National Cricket team",
+                "url": "R1",
+                "value": {
+                  "label": "The India national cricket team, also known as Team India and Men in Blue, is governed by the Board of Control for Cricket in India",
+                  "image": {
+                    "url": "/static/images/sourav_ganguly/Cricket_India_Crest.svg",
+                    "altText": "Image of Cricket India Crest"
+                  }
+                }
               }
-            }
+            ]
           }
         },
         {
           "label": "2011-2012",
           "value": {
-            "label": "Pune Warriors India",
-            "value": {
-              "label": "Pune Warriors India were an IPL cricket team that represented the city of Pune. The team was dissolved in 2013.",
-              "url": "",
-              "image": {
-                "url": "/static/images/default_person.svg",
-                "altText": "Image of null"
+            "facts": [
+              {
+                "label": "Pune Warriors India",
+                "url": "",
+                "value": {
+                  "label": "Pune Warriors India were an IPL cricket team that represented the city of Pune. The team was dissolved in 2013.",
+                  "image": {
+                    "url": "/static/images/default_person.svg",
+                    "altText": "Image of null"
+                  }
+                }
               }
-            }
+            ]
           }
         },
         {
           "label": "1990-2010",
           "value": {
-            "label": "Bengal",
-            "value": {
-              "label": "The Bengal cricket team represents the Indian state of West Bengal in domestic first-class cricket.",
-              "url": "https://en.wikipedia.org/wiki/Bengal_cricket_team",
-              "image": {
-                "url": "/static/images/default_person.svg",
-                "altText": "Image of null"
+            "facts": [
+              {
+                "label": "Bengal",
+                "url": "https://en.wikipedia.org/wiki/Bengal_cricket_team",
+                "value": {
+                  "label": "The Bengal cricket team represents the Indian state of West Bengal in domestic first-class cricket.",
+                  "image": {
+                    "url": "/static/images/default_person.svg",
+                    "altText": "Image of null"
+                  }
+                }
               }
-            }
+            ]
           }
         }
       ]
@@ -310,15 +326,6 @@
         {
           "label": null,
           "value": {
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
             "label": "Ganguly became India's most successful Test captain leading the team to victory on 21 occasions",
             "image": {
               "url": "/static/images/default_person.svg",
@@ -329,6 +336,17 @@
         {
           "label": null,
           "value": {
+            "label": "Ganguly is India's most successful Test captain overseas, winning 11 out of 28 matches that he led",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "One of the only five cricketers to have 10,000 runs, 100 wickets & 100 catches in ODI cricket",
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of null"

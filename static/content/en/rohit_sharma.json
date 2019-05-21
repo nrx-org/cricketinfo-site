@@ -8,12 +8,12 @@
   "summary": "Rohit Sharma is an Indian international cricketer who is the vice-captain of the India national team in limited-overs formats.",
   "translations": [
     {
-      "url": "/hi/mushfiqur_rahim",
+      "url": "/hi/rohit_sharma",
       "title": "महेंद्र सिंह धोनी",
       "lang": "hi"
     },
     {
-      "url": "/ta/mushfiqur_rahim",
+      "url": "/ta/rohit_sharma",
       "title": "விராத் கோலி",
       "lang": "pa"
     }
@@ -41,7 +41,7 @@
           "label": "Birthplace",
           "value": {
             "label": "Nagpur, India",
-            "url": "https://en.wikipedia.org/wiki/Nagpur"
+            "url": "SF1"
           }
         },
         {
@@ -59,10 +59,14 @@
           }
         },
         {
+          "label": "Age",
+          "value": "31"
+        },
+        {
           "label": "Nationality",
           "value": {
             "label": "Indian",
-            "url": "https://en.wikipedia.org/wiki/Indian_people"
+            "url": "G3"
           }
         },
         {
@@ -80,8 +84,10 @@
       "label": "",
       "facts": [
         {
+          "label": "",
           "value": {
             "label": "",
+            "url": "",
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of null"
@@ -95,60 +101,58 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "Year of Birth",
+          "label": "First class Debut",
           "id": 0,
-          "note": null,
+          "note": "2006",
           "value": {
-            "label": "Sharma made his First-class debut for India A against New Zealand A, in 2006, before his Ranji trophy debut.",
-            "facts": [
-              {
-                "label": "Place of Birth",
-                "id": 0,
-                "value": {
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
+            "label": "Sharma made his First-class debut for India A against New Zealand A, in 2006, before his Ranji trophy debut."
           }
         },
         {
-          "label": "Debut Year",
+          "label": "National team debut ",
           "id": 3,
+          "note": "2007",
           "value": {
-            "facts": [
-              {
-                "label": "",
-                "id": 0,
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "https://placekitten.com/200/200",
-                    "altText": "Kitten mata ki jai"
-                  }
-                }
-              }
-            ]
+            "label": "Rohit Sharma made his One Day International debut against Ireland, although he did not bat in the match."
           }
         },
         {
+          "label": "ICC Tournament Debut",
+          "id": 1,
+          "note": "2007",
+          "value": {
+            "label": "Rohit Sharma led India to a crucial victory by scoring an unbeaten 50 against South Africa in the 2007 ICC World Twenty20, which took the team to the semi-finals."
+          }
+        },
+        {
+          "label": "2013 ICC Champions Trophy",
+          "id": 1,
+          "note": "2013",
+          "value": {
+            "label": "In 2013, he was promoted as the new opening batsman for India along with Shikhar Dhawan for the Champions Trophy."
+          }
+        },
+        {
+          "label": "2015 World Cup",
           "id": 1,
           "value": {
-            "facts": [
-              {
-                "label": "",
-                "id": 0,
-                "value": {
-                  "label": "Rohit Sharma made his One Day International debut against Ireland, although he did not bat in the match.",
-                  "image": {
-                    "url": "https://placekitten.com/200/200",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
+            "label": ""
+          }
+        },
+        {
+          "label": "",
+          "id": 1,
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": 1,
+          "note": "2008",
+          "value": {
+            "label": "Sharma was signed up by the Deccan Chargers for a sum of US$750,000 a year in 2008."
           }
         }
       ]
@@ -175,43 +179,55 @@
         {
           "label": "2007-present",
           "value": {
-            "label": "Indian National Cricket team",
-            "value": {
-              "label": "The India national cricket team, also known as Team India and Men in Blue, is governed by the Board of Control for Cricket in India",
-              "url": "https://en.wikipedia.org/wiki/India_national_cricket_team",
-              "image": {
-                "url": "/static/images/rohit_sharma/Cricket_India_Crest.svg",
-                "altText": "Image of Cricket India Crest"
+            "facts": [
+              {
+                "label": "Indian National Cricket team",
+                "url": "R1",
+                "value": {
+                  "label": "The India national cricket team, also known as Team India and Men in Blue, is governed by the Board of Control for Cricket in India",
+                  "image": {
+                    "url": "/static/images/rohit_sharma/Cricket_India_Crest.svg",
+                    "altText": "Image of Cricket India Crest"
+                  }
+                }
               }
-            }
+            ]
           }
         },
         {
           "label": "2011-present",
           "value": {
-            "label": "Mumbai Indians",
-            "value": {
-              "label": "The Mumbai Indians are a franchise cricket team based in Mumbai, India.",
-              "url": "",
-              "image": {
-                "url": "/static/images/default_person.svg",
-                "altText": "Image of null"
+            "facts": [
+              {
+                "label": "Mumbai Indians",
+                "url": "R7",
+                "value": {
+                  "label": "The Mumbai Indians are a franchise cricket team based in Mumbai, India.",
+                  "image": {
+                    "url": "/static/images/default_person.svg",
+                    "altText": "Image of null"
+                  }
+                }
               }
-            }
+            ]
           }
         },
         {
           "label": "2006-present",
           "value": {
-            "label": "Mumbai",
-            "value": {
-              "label": "Domestic Ranji trophy cricket team based in Mumbai",
-              "url": "https://en.wikipedia.org/wiki/Mumbai_cricket_team",
-              "image": {
-                "url": "/static/images/default_person.svg",
-                "altText": "Image of null"
+            "facts": [
+              {
+                "label": "Mumbai",
+                "url": "https://en.wikipedia.org/wiki/Mumbai_cricket_team",
+                "value": {
+                  "label": "Domestic Ranji trophy cricket team based in Mumbai",
+                  "image": {
+                    "url": "/static/images/default_person.svg",
+                    "altText": "Image of null"
+                  }
+                }
               }
-            }
+            ]
           }
         }
       ]
@@ -310,15 +326,6 @@
         {
           "label": null,
           "value": {
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
             "label": "Sharma broke the record for most runs from fours and sixes in an innings by scoring 186 runs in boundaries",
             "image": {
               "url": "/static/images/default_person.svg",
@@ -329,6 +336,17 @@
         {
           "label": null,
           "value": {
+            "label": "Rohit Sharma has hit most number of sixes by an Indian batsman in T20Is",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "In 2019 Rohit Sharma became the all time highest run getter of T20I",
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of null"

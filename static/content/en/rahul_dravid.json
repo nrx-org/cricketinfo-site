@@ -8,12 +8,12 @@
   "summary": "Rahul Dravid is a former Indian cricketer and captain, widely regarded as one of the greatest batsmen in the history of cricket.",
   "translations": [
     {
-      "url": "/hi/mushfiqur_rahim",
+      "url": "/hi/rahul_dravid",
       "title": "महेंद्र सिंह धोनी",
       "lang": "hi"
     },
     {
-      "url": "/ta/mushfiqur_rahim",
+      "url": "/ta/rahul_dravid",
       "title": "விராத் கோலி",
       "lang": "pa"
     }
@@ -41,7 +41,7 @@
           "label": "Birthplace",
           "value": {
             "label": "Indore, India",
-            "url": "https://en.wikipedia.org/wiki/Indore"
+            "url": ""
           }
         },
         {
@@ -59,10 +59,14 @@
           }
         },
         {
+          "label": "Age",
+          "value": "46"
+        },
+        {
           "label": "Nationality",
           "value": {
             "label": "Indian",
-            "url": "https://en.wikipedia.org/wiki/Indian_people"
+            "url": "G3"
           }
         },
         {
@@ -80,8 +84,10 @@
       "label": "",
       "facts": [
         {
+          "label": "",
           "value": {
             "label": "",
+            "url": "",
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of null"
@@ -95,60 +101,58 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "Year of Birth",
+          "label": "First class Debut",
           "id": 0,
-          "note": null,
+          "note": "1991",
           "value": {
-            "label": "Dravid made his Ranji Trophy debut in 1991versus Maharashtra.",
-            "facts": [
-              {
-                "label": "Place of Birth",
-                "id": 0,
-                "value": {
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
+            "label": "Dravid made his Ranji Trophy debut in 1991versus Maharashtra."
           }
         },
         {
-          "label": "Debut Year",
+          "label": "National team debut ",
           "id": 3,
+          "note": "1996",
           "value": {
-            "facts": [
-              {
-                "label": "Ranji Trophy",
-                "id": 0,
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "https://placekitten.com/200/200",
-                    "altText": "Kitten mata ki jai"
-                  }
-                }
-              }
-            ]
+            "label": "Dravid made his international debut in 1996 in an ODI against Sri Lanka in the Singer Cup held in Singapore."
           }
         },
         {
+          "label": "ICC Tournament Debut",
+          "id": 1,
+          "note": "1999",
+          "value": {
+            "label": "Dravid made his World Cup debut against South Africa in 1999 at Hove scoring a half century."
+          }
+        },
+        {
+          "label": "2003 World Cup",
+          "id": 1,
+          "note": "2003",
+          "value": {
+            "label": "Dravid was the vice-captain during the 2003 World Cup, playing as a wicket-keeper batsman."
+          }
+        },
+        {
+          "label": "2007 World Cup",
           "id": 1,
           "value": {
-            "facts": [
-              {
-                "label": "",
-                "id": 0,
-                "value": {
-                  "label": "Dravid made his international debut in 1996 in an ODI against Sri Lanka in the Singer Cup held in Singapore.",
-                  "image": {
-                    "url": "https://placekitten.com/200/200",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
+            "label": "Rahul Dravid was appointed the captain for the Indian team for the 2007 World Cup, where India had an unsuccessful campaign."
+          }
+        },
+        {
+          "label": "",
+          "id": 1,
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": 1,
+          "note": "2008",
+          "value": {
+            "label": "Rahul Dravid played for Royal Challengers Bangalore in IPL 2008, 2009 and 2010."
           }
         }
       ]
@@ -175,43 +179,55 @@
         {
           "label": "1996-2012",
           "value": {
-            "label": "Indian National Cricket team",
-            "value": {
-              "label": "The India national cricket team, also known as Team India and Men in Blue, is governed by the Board of Control for Cricket in India",
-              "url": "https://en.wikipedia.org/wiki/India_national_cricket_team",
-              "image": {
-                "url": "/static/images/rahul_dravid/Cricket_India_Crest.svg",
-                "altText": "Image of Cricket India Crest"
+            "facts": [
+              {
+                "label": "Indian National Cricket team",
+                "url": "R1",
+                "value": {
+                  "label": "The India national cricket team, also known as Team India and Men in Blue, is governed by the Board of Control for Cricket in India",
+                  "image": {
+                    "url": "/static/images/rahul_dravid/Cricket_India_Crest.svg",
+                    "altText": "Image of Cricket India Crest"
+                  }
+                }
               }
-            }
+            ]
           }
         },
         {
           "label": "2011-2013",
           "value": {
-            "label": "Rajasthan Royals",
-            "value": {
-              "label": "The Rajasthan Royals is an IPL cricket team based in Jaipur, Rajasthan, India.",
-              "url": "",
-              "image": {
-                "url": "/static/images/default_person.svg",
-                "altText": "Image of null"
+            "facts": [
+              {
+                "label": "Rajasthan Royals",
+                "url": "R11",
+                "value": {
+                  "label": "The Rajasthan Royals is an IPL cricket team based in Jaipur, Rajasthan, India.",
+                  "image": {
+                    "url": "/static/images/default_person.svg",
+                    "altText": "Image of null"
+                  }
+                }
               }
-            }
+            ]
           }
         },
         {
           "label": "1990-2012",
           "value": {
-            "label": "Karnataka",
-            "value": {
-              "label": "Domestic Ranji trophy cricket team based in the state of Karnataka",
-              "url": "https://en.wikipedia.org/wiki/Karnataka_cricket_team",
-              "image": {
-                "url": "/static/images/default_person.svg",
-                "altText": "Image of null"
+            "facts": [
+              {
+                "label": "Karnataka",
+                "url": "https://en.wikipedia.org/wiki/Karnataka_cricket_team",
+                "value": {
+                  "label": "Domestic Ranji trophy cricket team based in the state of Karnataka",
+                  "image": {
+                    "url": "/static/images/default_person.svg",
+                    "altText": "Image of null"
+                  }
+                }
               }
-            }
+            ]
           }
         }
       ]
@@ -310,15 +326,6 @@
         {
           "label": null,
           "value": {
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
             "label": "Dravid held the record for the most number of catches taken by a player (non-wicket-keeper) in Test cricket, with 210 catches.",
             "image": {
               "url": "/static/images/default_person.svg",
@@ -329,6 +336,17 @@
         {
           "label": null,
           "value": {
+            "label": "Dravid and VVS Laxman played a 376 run partnership during a test match against Australia, which was won by India by 171 runs.",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "Dravid put up a partnership of 331 runs with Tendulkar which was a world record",
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of null"

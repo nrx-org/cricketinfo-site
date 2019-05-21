@@ -8,12 +8,12 @@
   "summary": "Separamadu Lasith Malinga is a professional Sri Lankan cricketer and current T20I captain for Sri Lanka.",
   "translations": [
     {
-      "url": "/hi/mushfiqur_rahim",
+      "url": "/hi/lasith_malinga",
       "title": "महेंद्र सिंह धोनी",
       "lang": "hi"
     },
     {
-      "url": "/ta/mushfiqur_rahim",
+      "url": "/ta/lasith_malinga",
       "title": "விராத் கோலி",
       "lang": "pa"
     }
@@ -41,7 +41,7 @@
           "label": "Birthplace",
           "value": {
             "label": "Galle, Sri Lanka",
-            "url": "https://en.wikipedia.org/wiki/Galle"
+            "url": "SF93"
           }
         },
         {
@@ -59,10 +59,14 @@
           }
         },
         {
+          "label": "Age",
+          "value": "35"
+        },
+        {
           "label": "Nationality",
           "value": {
             "label": "Sri Lankan",
-            "url": "https://en.wikipedia.org/wiki/Sri_Lanka"
+            "url": "G7"
           }
         },
         {
@@ -80,8 +84,10 @@
       "label": "",
       "facts": [
         {
+          "label": "",
           "value": {
             "label": "",
+            "url": "",
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of null"
@@ -95,60 +101,58 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "Year of Birth",
+          "label": "First class Debut",
           "id": 0,
-          "note": null,
+          "note": "",
           "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "Place of Birth",
-                "id": 0,
-                "value": {
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
+            "label": ""
           }
         },
         {
-          "label": "Debut Year",
+          "label": "National team debut ",
           "id": 3,
+          "note": "",
           "value": {
-            "facts": [
-              {
-                "label": "",
-                "id": 0,
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "https://placekitten.com/200/200",
-                    "altText": "Kitten mata ki jai"
-                  }
-                }
-              }
-            ]
+            "label": "Malinga made his Test debut on 1 July 2004 against Australia at Marrara Oval In Darwin. "
           }
         },
         {
+          "label": "ICC Tournament Debut",
+          "id": 1,
+          "note": "2007",
+          "value": {
+            "label": "During the 2007 Cricket World Cup Super 8 match on 28 March between Sri Lanka and South Africa, Malinga became the first player to take four wickets in four consecutive balls in One Day International cricket."
+          }
+        },
+        {
+          "label": "2011 World Cup",
+          "id": 1,
+          "note": "2011",
+          "value": {
+            "label": "During the 2011 Cricket World Cup, Malinga took his second career hat-trick in Sri Lanka's group stage match against Kenya. This made him the first bowler to take two World Cup hat-tricks."
+          }
+        },
+        {
+          "label": "Captaincy",
           "id": 1,
           "value": {
-            "facts": [
-              {
-                "label": "",
-                "id": 0,
-                "value": {
-                  "label": "Malinga made his Test debut on 1 July 2004 against Australia at Marrara Oval In Darwin. ",
-                  "image": {
-                    "url": "https://placekitten.com/200/200",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
+            "label": "He became captain of Sri Lankan Cricket Team in 2014 ICC World Twenty20 after Dinesh Chandimal received a ban. He successfully led the team to win the world cup becoming the first Sri Lankan captain to win the ICC World Twenty20. "
+          }
+        },
+        {
+          "label": "2019 World Cup",
+          "id": 1,
+          "note": "2019",
+          "value": {
+            "label": "In April 2019, he was named in Sri Lanka's squad for the 2019 Cricket World Cup."
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": 1,
+          "note": "2008",
+          "value": {
+            "label": "Malinga plays for Indian Premier League (IPL) team Mumbai Indians. He is their strike bowler in this format and is a leading bowler in the competition. "
           }
         }
       ]
@@ -175,43 +179,55 @@
         {
           "label": "2004- Present",
           "value": {
-            "label": "Srilankan Cricket Team",
-            "value": {
-              "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket.",
-              "url": "https://en.wikipedia.org/wiki/Sri_Lanka_national_cricket_team",
-              "image": {
-                "url": null,
-                "altText": "Image of Sri Lanka Cricket Cap Insignia"
+            "facts": [
+              {
+                "label": "Srilankan Cricket Team",
+                "url": "R13",
+                "value": {
+                  "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket.",
+                  "image": {
+                    "url": null,
+                    "altText": "Image of Sri Lanka Cricket Cap Insignia"
+                  }
+                }
               }
-            }
+            ]
           }
         },
         {
           "label": "2008- Present",
           "value": {
-            "label": "Mumbai Indians",
-            "value": {
-              "label": "The Mumbai Indians (abbreviated as MI) are a franchise cricket team based in the city of Mumbai, Maharashtra.",
-              "url": "",
-              "image": {
-                "url": "/static/images/default_person.svg",
-                "altText": "Image of null"
+            "facts": [
+              {
+                "label": "Mumbai Indians",
+                "url": "R7",
+                "value": {
+                  "label": "The Mumbai Indians (abbreviated as MI) are a franchise cricket team based in the city of Mumbai, Maharashtra.",
+                  "image": {
+                    "url": "/static/images/default_person.svg",
+                    "altText": "Image of null"
+                  }
+                }
               }
-            }
+            ]
           }
         },
         {
           "label": "",
           "value": {
-            "label": "",
-            "value": {
-              "label": "",
-              "url": "",
-              "image": {
-                "url": "/static/images/default_person.svg",
-                "altText": "Image of null"
+            "facts": [
+              {
+                "label": "",
+                "url": "",
+                "value": {
+                  "label": "",
+                  "image": {
+                    "url": "/static/images/default_person.svg",
+                    "altText": "Image of null"
+                  }
+                }
               }
-            }
+            ]
           }
         }
       ]
@@ -310,15 +326,6 @@
         {
           "label": null,
           "value": {
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
             "label": "He is the only bowler with two World Cup hat tricks, against South Africa in the 2007 Cricket World Cup and the other against Kenya in the 2011 Cricket World Cup.",
             "image": {
               "url": "/static/images/default_person.svg",
@@ -329,6 +336,17 @@
         {
           "label": null,
           "value": {
+            "label": "As of April 2017, Malinga is the second highest wicket-taker in all Twenty20 matches with 317 wickets in 232 games.",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "Malinga holds the highest number of wickets (161) in the Indian Premier League.",
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of null"

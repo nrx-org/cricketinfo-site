@@ -8,12 +8,12 @@
   "summary": "Mahendra Singh Dhoni is an Indian international cricketer who captained the Indian national team in limited-overs formats from 2007 to 2016 and in Test cricket from 2008 to 2014.",
   "translations": [
     {
-      "url": "/hi/mushfiqur_rahim",
+      "url": "/hi/mahendra_singh_dhoni",
       "title": "महेंद्र सिंह धोनी",
       "lang": "hi"
     },
     {
-      "url": "/ta/mushfiqur_rahim",
+      "url": "/ta/mahendra_singh_dhoni",
       "title": "விராத் கோலி",
       "lang": "pa"
     }
@@ -41,7 +41,7 @@
           "label": "Birthplace",
           "value": {
             "label": "Ranchi, Bihar (now Jharkhand)",
-            "url": "https://en.wikipedia.org/wiki/Ranchi"
+            "url": "G17"
           }
         },
         {
@@ -59,10 +59,14 @@
           }
         },
         {
+          "label": "Age",
+          "value": "37"
+        },
+        {
           "label": "Nationality",
           "value": {
             "label": "Indian",
-            "url": "https://en.wikipedia.org/wiki/Indian_people"
+            "url": "G3"
           }
         },
         {
@@ -80,8 +84,10 @@
       "label": "",
       "facts": [
         {
+          "label": "",
           "value": {
             "label": "",
+            "url": "",
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of null"
@@ -95,60 +101,58 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "Year of Birth",
+          "label": "First class Debut",
           "id": 0,
-          "note": null,
+          "note": "1999",
           "value": {
-            "label": "Dhoni made his Ranji Trophy debut for Bihar in the 1999–2000 season at the age of 18.",
-            "facts": [
-              {
-                "label": "Place of Birth",
-                "id": 0,
-                "value": {
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
+            "label": "Dhoni made his Ranji Trophy debut for Bihar in the 1999–2000 season at the age of 18."
           }
         },
         {
-          "label": "Debut Year",
+          "label": "National team debut ",
           "id": 3,
+          "note": "2004",
           "value": {
-            "facts": [
-              {
-                "label": "Ranji Trophy",
-                "id": 0,
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "https://placekitten.com/200/200",
-                    "altText": "Kitten mata ki jai"
-                  }
-                }
-              }
-            ]
+            "label": "Dhoni made his ODI debut."
           }
         },
         {
+          "label": "ICC Tournament Debut",
+          "id": 1,
+          "note": "2006",
+          "value": {
+            "label": "2006 Dhoni scored a half-century against West Indies."
+          }
+        },
+        {
+          "label": "2007 World Cup",
+          "id": 1,
+          "note": "2007",
+          "value": {
+            "label": "India crashed out of the World Cup after in the group stage and Dhoni scored just 29 runs in the tournament."
+          }
+        },
+        {
+          "label": "2007 ICC World Twenty20",
           "id": 1,
           "value": {
-            "facts": [
-              {
-                "label": "",
-                "id": 0,
-                "value": {
-                  "label": "Dhoni made his ODI debut.",
-                  "image": {
-                    "url": "https://placekitten.com/200/200",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
+            "label": "Dhoni was the captain of the Indian team that won the inaugural ICC World Twenty20 championship."
+          }
+        },
+        {
+          "label": "2011 World Cup",
+          "id": 1,
+          "note": "2011",
+          "value": {
+            "label": "Under Dhoni's captaincy India won its second world cup title in 2011. He scored 91 not out, finishing the game with a historical six."
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": 1,
+          "note": "2008",
+          "value": {
+            "label": "Dhoni was contracted by the Chennai Super Kings for US$1.5 million which made him the most expensive player in the IPL for the first season."
           }
         }
       ]
@@ -175,43 +179,55 @@
         {
           "label": "2004-present",
           "value": {
-            "label": "Indian National Cricket team",
-            "value": {
-              "label": "The India national cricket team, also known as Team India and Men in Blue, is governed by the Board of Control for Cricket in India",
-              "url": "https://en.wikipedia.org/wiki/India_national_cricket_team",
-              "image": {
-                "url": "/static/images/mahendra_singh_dhoni/Cricket_India_Crest.svg",
-                "altText": "Image of Cricket India Crest"
+            "facts": [
+              {
+                "label": "Indian National Cricket team",
+                "url": "R1",
+                "value": {
+                  "label": "The India national cricket team, also known as Team India and Men in Blue, is governed by the Board of Control for Cricket in India",
+                  "image": {
+                    "url": "/static/images/mahendra_singh_dhoni/Cricket_India_Crest.svg",
+                    "altText": "Image of Cricket India Crest"
+                  }
+                }
               }
-            }
+            ]
           }
         },
         {
           "label": "2018-present",
           "value": {
-            "label": "Chennai Super Kings",
-            "value": {
-              "label": "Chennai Super Kings (CSK) is an Indian IPL cricket team based in Chennai.",
-              "url": "",
-              "image": {
-                "url": "/static/images/default_person.svg",
-                "altText": "Image of null"
+            "facts": [
+              {
+                "label": "Chennai Super Kings",
+                "url": "R5",
+                "value": {
+                  "label": "Chennai Super Kings (CSK) is an Indian IPL cricket team based in Chennai.",
+                  "image": {
+                    "url": "/static/images/default_person.svg",
+                    "altText": "Image of null"
+                  }
+                }
               }
-            }
+            ]
           }
         },
         {
           "label": "2004-present",
           "value": {
-            "label": "Jharkhand",
-            "value": {
-              "label": "The Jharkhand Cricket Team is a Ranji Trophy team based in the Indian state of Jharkhand, that replaced the Bihar Cricket team",
-              "url": "https://en.wikipedia.org/wiki/Jharkhand_cricket_team",
-              "image": {
-                "url": "/static/images/default_person.svg",
-                "altText": "Image of null"
+            "facts": [
+              {
+                "label": "Jharkhand",
+                "url": "https://en.wikipedia.org/wiki/Jharkhand_cricket_team",
+                "value": {
+                  "label": "The Jharkhand Cricket Team is a Ranji Trophy team based in the Indian state of Jharkhand, that replaced the Bihar Cricket team",
+                  "image": {
+                    "url": "/static/images/default_person.svg",
+                    "altText": "Image of null"
+                  }
+                }
               }
-            }
+            ]
           }
         }
       ]
@@ -310,15 +326,6 @@
         {
           "label": null,
           "value": {
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
             "label": "Dhoni's 224 against Australia during a Test match in Chennai is the third highest score by an Indian captain",
             "image": {
               "url": "/static/images/default_person.svg",
@@ -329,6 +336,17 @@
         {
           "label": null,
           "value": {
+            "label": "Dhoni has the most stumpings (38) by any wicket-keeper in a Test career",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "Dhoni is third captain (and the first non-Australian) overall to win 100 ODI games",
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of null"

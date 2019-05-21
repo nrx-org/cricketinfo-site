@@ -8,12 +8,12 @@
   "summary": "Kagiso Rabada is a South African international cricketer who plays all formats of the game. Rabada, who is known by the nickname KG, is a fast bowler and plays domestic cricket for the Highveld Lions. ",
   "translations": [
     {
-      "url": "/hi/mushfiqur_rahim",
+      "url": "/hi/kagiso_rabada",
       "title": "महेंद्र सिंह धोनी",
       "lang": "hi"
     },
     {
-      "url": "/ta/mushfiqur_rahim",
+      "url": "/ta/kagiso_rabada",
       "title": "விராத் கோலி",
       "lang": "pa"
     }
@@ -41,7 +41,7 @@
           "label": "Birthplace",
           "value": {
             "label": "Johannesburg, South Africa",
-            "url": "https://en.wikipedia.org/wiki/Johannesburg"
+            "url": "SF97"
           }
         },
         {
@@ -59,10 +59,14 @@
           }
         },
         {
+          "label": "Age",
+          "value": "23"
+        },
+        {
           "label": "Nationality",
           "value": {
             "label": "South African",
-            "url": "https://en.wikipedia.org/wiki/South_Africa"
+            "url": "G6"
           }
         },
         {
@@ -80,8 +84,10 @@
       "label": "",
       "facts": [
         {
+          "label": "",
           "value": {
             "label": "",
+            "url": "",
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of null"
@@ -95,60 +101,58 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "Year of Birth",
+          "label": "First class Debut",
           "id": 0,
-          "note": null,
+          "note": "2013",
           "value": {
-            "label": "Rabada made his debut for the Gauteng in the CSA Provincial One-Day Competition against Border in December 2013.",
-            "facts": [
-              {
-                "label": "Place of Birth",
-                "id": 0,
-                "value": {
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
+            "label": "Rabada made his debut for the Gauteng in the CSA Provincial One-Day Competition against Border in December 2013."
           }
         },
         {
-          "label": "Debut Year",
+          "label": "National team debut ",
           "id": 3,
+          "note": "",
           "value": {
-            "facts": [
-              {
-                "label": "CSA Provincial one day Competition",
-                "id": 0,
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "https://placekitten.com/200/200",
-                    "altText": "Kitten mata ki jai"
-                  }
-                }
-              }
-            ]
+            "label": "Rabada made his Twenty20 International debut for South Africa against Australia on 5 November 2014."
           }
         },
         {
+          "label": "ICC Tournament Debut",
+          "id": 1,
+          "note": "",
+          "value": {
+            "label": "Rabada was chosen to represent South Africa's Under-19 side for the 2014 ICC Under-19 Cricket World Cup. "
+          }
+        },
+        {
+          "label": "World Cup Appearance",
+          "id": 1,
+          "note": "2019",
+          "value": {
+            "label": "In April 2019, he was named in South Africa's squad for the 2019 Cricket World Cup."
+          }
+        },
+        {
+          "label": "",
           "id": 1,
           "value": {
-            "facts": [
-              {
-                "label": "",
-                "id": 0,
-                "value": {
-                  "label": "Rabada made his Twenty20 International debut for South Africa against Australia on 5 November 2014.",
-                  "image": {
-                    "url": "https://placekitten.com/200/200",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
+            "label": ""
+          }
+        },
+        {
+          "label": "",
+          "id": 1,
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": 1,
+          "note": "2017",
+          "value": {
+            "label": "In February 2017, Rabada was bought by the Delhi Daredevils team for the 2017 Indian Premier League for INR 50 million."
           }
         }
       ]
@@ -175,43 +179,55 @@
         {
           "label": "2014- present",
           "value": {
-            "label": "South African Nation team",
-            "value": {
-              "label": "The South African national cricket team, nicknamed the Proteas (after South Africa's national flower, Protea cynaroides, commonly known as the \"king protea\"), is administered by Cricket South Africa. ",
-              "url": "https://en.wikipedia.org/wiki/South_Africa_national_cricket_team",
-              "image": {
-                "url": null,
-                "altText": "Image of Southafrica cricket logo"
+            "facts": [
+              {
+                "label": "South African Nation team",
+                "url": "R14",
+                "value": {
+                  "label": "The South African national cricket team, nicknamed the Proteas (after South Africa's national flower, Protea cynaroides, commonly known as the \"king protea\"), is administered by Cricket South Africa. ",
+                  "image": {
+                    "url": null,
+                    "altText": "Image of Southafrica cricket logo"
+                  }
+                }
               }
-            }
+            ]
           }
         },
         {
           "label": "2017- present",
           "value": {
-            "label": "Delhi capitals",
-            "value": {
-              "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
-              "url": "",
-              "image": {
-                "url": "/static/images/default_person.svg",
-                "altText": "Image of null"
+            "facts": [
+              {
+                "label": "Delhi capitals",
+                "url": "R16",
+                "value": {
+                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "image": {
+                    "url": "/static/images/default_person.svg",
+                    "altText": "Image of null"
+                  }
+                }
               }
-            }
+            ]
           }
         },
         {
           "label": "",
           "value": {
-            "label": "",
-            "value": {
-              "label": "",
-              "url": "",
-              "image": {
-                "url": "/static/images/default_person.svg",
-                "altText": "Image of null"
+            "facts": [
+              {
+                "label": "",
+                "url": "",
+                "value": {
+                  "label": "",
+                  "image": {
+                    "url": "/static/images/default_person.svg",
+                    "altText": "Image of null"
+                  }
+                }
               }
-            }
+            ]
           }
         }
       ]
@@ -294,6 +310,7 @@
         {
           "label": null,
           "value": {
+            "label": "",
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of null"
@@ -313,6 +330,7 @@
         {
           "label": null,
           "value": {
+            "label": "",
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of null"

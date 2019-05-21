@@ -8,12 +8,12 @@
   "summary": "Shoaib Malik is a Pakistani cricketer and former captain of the Pakistani side from 2007 to 2009. ",
   "translations": [
     {
-      "url": "/hi/mushfiqur_rahim",
+      "url": "/hi/shoaib_malik",
       "title": "महेंद्र सिंह धोनी",
       "lang": "hi"
     },
     {
-      "url": "/ta/mushfiqur_rahim",
+      "url": "/ta/shoaib_malik",
       "title": "விராத் கோலி",
       "lang": "pa"
     }
@@ -41,7 +41,7 @@
           "label": "Birthplace",
           "value": {
             "label": "Sialkot, Pakistan",
-            "url": "https://en.wikipedia.org/wiki/Sialkot"
+            "url": "SF95"
           }
         },
         {
@@ -59,10 +59,14 @@
           }
         },
         {
+          "label": "Age",
+          "value": "37"
+        },
+        {
           "label": "Nationality",
           "value": {
             "label": "Pakistani",
-            "url": "https://en.wikipedia.org/wiki/Pakistan"
+            "url": "G5"
           }
         },
         {
@@ -80,8 +84,10 @@
       "label": "",
       "facts": [
         {
+          "label": "Spouse",
           "value": {
             "label": "Sania Mirza",
+            "url": "",
             "image": {
               "url": null,
               "altText": "Image of Sania Mirza (35449409862)"
@@ -95,60 +101,58 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "Year of Birth",
+          "label": "First class Debut",
           "id": 0,
-          "note": null,
+          "note": "",
           "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "Place of Birth",
-                "id": 0,
-                "value": {
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
+            "label": ""
           }
         },
         {
-          "label": "Debut Year",
+          "label": "National team debut ",
           "id": 3,
+          "note": "",
           "value": {
-            "facts": [
-              {
-                "label": "",
-                "id": 0,
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "https://placekitten.com/200/200",
-                    "altText": "Kitten mata ki jai"
-                  }
-                }
-              }
-            ]
+            "label": "Shoaib Malik made his ODI debut on  14 October 1999 vs West Indies."
           }
         },
         {
+          "label": "ICC Tournament Debut",
+          "id": 1,
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "World Cup Apperance",
+          "id": 1,
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "",
           "id": 1,
           "value": {
-            "facts": [
-              {
-                "label": "",
-                "id": 0,
-                "value": {
-                  "label": "Shoaib Malik made his ODI debut on  14 October 1999 vs West Indies.",
-                  "image": {
-                    "url": "https://placekitten.com/200/200",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
+            "label": ""
+          }
+        },
+        {
+          "label": "",
+          "id": 1,
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": 1,
+          "note": "",
+          "value": {
+            "label": ""
           }
         }
       ]
@@ -175,43 +179,55 @@
         {
           "label": "1999- present",
           "value": {
-            "label": "Pakistan national cricket team",
-            "value": {
-              "label": "The Pakistan Men's National Cricket Team popularly referred to as the Shaheens  Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). ",
-              "url": "https://en.wikipedia.org/wiki/Pakistan_national_cricket_team",
-              "image": {
-                "url": null,
-                "altText": "Image of PakistanCricketLogo"
+            "facts": [
+              {
+                "label": "Pakistan national cricket team",
+                "url": "R8",
+                "value": {
+                  "label": "The Pakistan Men's National Cricket Team popularly referred to as the Shaheens  Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). ",
+                  "image": {
+                    "url": null,
+                    "altText": "Image of PakistanCricketLogo"
+                  }
+                }
               }
-            }
+            ]
           }
         },
         {
           "label": "",
           "value": {
-            "label": "",
-            "value": {
-              "label": "",
-              "url": "",
-              "image": {
-                "url": "/static/images/default_person.svg",
-                "altText": "Image of null"
+            "facts": [
+              {
+                "label": "",
+                "url": "",
+                "value": {
+                  "label": "",
+                  "image": {
+                    "url": "/static/images/default_person.svg",
+                    "altText": "Image of null"
+                  }
+                }
               }
-            }
+            ]
           }
         },
         {
           "label": "",
           "value": {
-            "label": "",
-            "value": {
-              "label": "",
-              "url": "",
-              "image": {
-                "url": "/static/images/default_person.svg",
-                "altText": "Image of null"
+            "facts": [
+              {
+                "label": "",
+                "url": "",
+                "value": {
+                  "label": "",
+                  "image": {
+                    "url": "/static/images/default_person.svg",
+                    "altText": "Image of null"
+                  }
+                }
               }
-            }
+            ]
           }
         }
       ]
@@ -294,6 +310,7 @@
         {
           "label": null,
           "value": {
+            "label": "",
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of null"
@@ -313,6 +330,7 @@
         {
           "label": null,
           "value": {
+            "label": "",
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of null"

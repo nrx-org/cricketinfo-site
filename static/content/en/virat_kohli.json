@@ -1,4 +1,5 @@
 {
+  "id": "O1",
   "title": "Virat Kohli",
   "coverImage": {
     "url": "/static/images/virat_kohli/Virat..Kohli.jpg",
@@ -7,12 +8,12 @@
   "summary": "Indian international cricketer who currently captains the India national team.",
   "translations": [
     {
-      "url": "/wiki/hi/virat_kohli",
+      "url": "/hi/virat_kohli",
       "title": "महेंद्र सिंह धोनी",
       "lang": "hi"
     },
     {
-      "url": "/wiki/ta/virat_kohli",
+      "url": "/ta/virat_kohli",
       "title": "விராத் கோலி",
       "lang": "pa"
     }
@@ -40,7 +41,7 @@
           "label": "Birthplace",
           "value": {
             "label": "Delhi, India",
-            "url": "https://en.wikipedia.org/wiki/Delhi"
+            "url": "G16"
           }
         },
         {
@@ -53,15 +54,19 @@
         {
           "label": "Other Names",
           "value": {
-            "label": "",
+            "label": "Chikoo",
             "url": ""
           }
+        },
+        {
+          "label": "Age",
+          "value": "31"
         },
         {
           "label": "Nationality",
           "value": {
             "label": "Indian",
-            "url": "https://en.wikipedia.org/wiki/Indian_people"
+            "url": "G3"
           }
         },
         {
@@ -79,9 +84,10 @@
       "label": "",
       "facts": [
         {
-          "label": "",
+          "label": "Spouse",
           "value": {
             "label": "Anuskha Sharma",
+            "url": "O33",
             "image": {
               "url": "/static/images/virat_kohli/Anushka_Sharma_promoting_Zero.jpg",
               "altText": "Image of Anushka Sharma promoting Zero"
@@ -95,68 +101,58 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "Year of Birth",
+          "label": "First class Debut",
           "id": 0,
-          "note": null,
-          "value": {
-            "label": "Kohli was born in Delhi in 1988",
-            "facts": [
-              {
-                "label": "Place of Birth",
-                "id": 0,
-                "value": {
-                  "label": "Delhi, India",
-                  "url": "https://en.wikipedia.org/wiki/Delhi",
-                  "image": {
-                    "url": "/static/images/virat_kohli/India_Gate_in_New_Delhi_03-2016.jpg",
-                    "altText": "Image of India Gate in New Delhi 03 2016"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "Debut Year",
-          "id": 3,
           "note": "2006",
           "value": {
-            "label": "Kohli made his first-class debut for Delhi against Tamil Nadu in 2006, at the age of 18",
-            "facts": [
-              {
-                "label": "Ranji Trophy",
-                "id": 0,
-                "value": {
-                  "label": "",
-                  "url": "https://en.wikipedia.org/wiki/Ranji_Trophy",
-                  "image": {
-                    "url": "https://placekitten.com/200/200",
-                    "altText": "Kitten mata ki jai"
-                  }
-                }
-              }
-            ]
+            "label": "Kohli made his first-class debut for Delhi against Tamil Nadu in 2006, at the age of 18"
           }
         },
         {
+          "label": "National team debut ",
+          "id": 3,
           "note": "2008",
+          "value": {
+            "label": "Kohli was included in the Indian ODI squad for 2008 tour of Sri Lanka and the Champions Trophy in Pakistan"
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": 1,
+          "note": "2008",
+          "value": {
+            "label": "Kohli captained the victorious Indian team at the 2008 ICC Under-19 Cricket World Cup held in Malaysia"
+          }
+        },
+        {
+          "label": "World Cup Appearance",
+          "id": 1,
+          "note": "2011",
+          "value": {
+            "label": "Kohli played in every match of India's successful World Cup campaign in 2011"
+          }
+        },
+        {
+          "label": "ICC Champions Trophy ",
           "id": 1,
           "value": {
-            "label": "Sri Lanka",
-            "facts": [
-              {
-                "label": "",
-                "id": 0,
-                "value": {
-                  "label": "Kohli was included in the Indian ODI squad for 2008 tour of Sri Lanka and the Champions Trophy in Pakistan",
-                  "url": "https://en.wikipedia.org/wiki/Sri_Lanka_national_cricket_team",
-                  "image": {
-                    "url": "https://placekitten.com/200/200",
-                    "altText": "Image of India Gate in New Delhi 03 2016"
-                  }
-                }
-              }
-            ]
+            "label": "In June 2013, Kohli featured in the ICC Champions Trophy in England which India won"
+          }
+        },
+        {
+          "label": "ICC T20 Trophy ",
+          "id": 1,
+          "note": "2014",
+          "value": {
+            "label": "For 2014 ICC World Twenty20 and Kohli was named vice-captain."
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": 1,
+          "note": "2008",
+          "value": {
+            "label": "In March 2008, Kohli was bought on a youth contract by Royal Challengers Bangalore for $30,000. "
           }
         }
       ]
@@ -167,10 +163,10 @@
       "facts": [
         {
           "value": {
-            "label": "Right-handed top order batsman",
+            "label": "Kohli is a naturally aggressive batsman with strong technical skills. He usually bats in the middle-order, but, on many occasions, has opened the innings as well. He bats with a slightly open-chested stance and a strong bottom-hand grip,  and is said to have quick footwork. He is known for his wide range of shots, ability to pace an innings and batting under pressure.",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": null,
+              "altText": "Image of Virat Kohli batting 2013"
             }
           }
         }
@@ -183,43 +179,55 @@
         {
           "label": "2008-present",
           "value": {
-            "label": "Indian National Cricket team",
-            "value": {
-              "label": "Indian national cricket team",
-              "url": "https://en.wikipedia.org/wiki/India_national_cricket_team",
-              "image": {
-                "url": "/static/images/virat_kohli/Cricket_India_Crest.svg",
-                "altText": "Image of Cricket India Crest"
+            "facts": [
+              {
+                "label": "Indian National Cricket team",
+                "url": "R1",
+                "value": {
+                  "label": "The India national cricket team, also known as Team India and Men in Blue, is governed by the Board of Control for Cricket in India",
+                  "image": {
+                    "url": "/static/images/virat_kohli/Cricket_India_Crest.svg",
+                    "altText": "Image of Cricket India Crest"
+                  }
+                }
               }
-            }
+            ]
           }
         },
         {
           "label": "2008-present",
           "value": {
-            "label": "Royal Challengers Bangalore",
-            "value": {
-              "label": "The Royal Challengers Bangalore(RCB) are a franchise cricket team based in Bangalore, India",
-              "url": "https://en.wikipedia.org/wiki/Royal_Challengers_Bangalore",
-              "image": {
-                "url": "/static/images/default_person.svg",
-                "altText": "Image of null"
+            "facts": [
+              {
+                "label": "Royal Challengers Bangalore",
+                "url": "R6",
+                "value": {
+                  "label": "The Royal Challengers Bangalore(RCB) are a franchise cricket team based in Bangalore, India",
+                  "image": {
+                    "url": "/static/images/default_person.svg",
+                    "altText": "Image of null"
+                  }
+                }
               }
-            }
+            ]
           }
         },
         {
           "label": "2006-present",
           "value": {
-            "label": "Delhi",
-            "value": {
-              "label": "Domestic Ranji trophy cricket team based in Delhi",
-              "url": "https://en.wikipedia.org/wiki/Delhi_cricket_team",
-              "image": {
-                "url": "/static/images/default_person.svg",
-                "altText": "Image of null"
+            "facts": [
+              {
+                "label": "Delhi",
+                "url": "https://en.wikipedia.org/wiki/Delhi_cricket_team",
+                "value": {
+                  "label": "Domestic Ranji trophy cricket team based in Delhi",
+                  "image": {
+                    "url": "/static/images/default_person.svg",
+                    "altText": "Image of null"
+                  }
+                }
               }
-            }
+            ]
           }
         }
       ]
@@ -274,7 +282,23 @@
         }
       ]
     },
-    null,
+    {
+      "title": "Education",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": " ",
+          "tag": "",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        }
+      ]
+    },
     {
       "title": "Achievement & Records",
       "cardType": "stories",
@@ -284,8 +308,8 @@
           "value": {
             "label": "He captained India Under-19s to victory at the Under-19 World Cup in Malaysia in 2008",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": null,
+              "altText": "Image of 2015 CWC I v UAE 02 28 Kohli (12) (cropped)"
             }
           }
         },
@@ -294,18 +318,8 @@
           "value": {
             "label": "In 2013 Kohli scored the fastest century by an Indian cricketer in ODIs of 52 balls",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "In 2012, Kohli became the captain of the Indian Test squad",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": null,
+              "altText": "Image of Virat Kohli batting 2013"
             }
           }
         },
@@ -314,18 +328,28 @@
           "value": {
             "label": "In 2013, Kohli reached the number one spot in the ICC rankings for ODI batsmen for the first time ",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": null,
+              "altText": "Image of 2015 CWC I v UAE 02 28 Kohli (12) (cropped)"
             }
           }
         },
         {
           "label": null,
           "value": {
-            "label": "In 2014, became the top-ranked T20I batsman in the ICC rankings, holding the position till 2017",
+            "label": "In 2017, became the fastest in the world to reach 15,000 international runs.",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": null,
+              "altText": "Image of Virat Kohli batting 2013"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "In2018, became the first batsman to score 500 runs in a bilateral ODI series.",
+            "image": {
+              "url": null,
+              "altText": "Image of 2015 CWC I v UAE 02 28 Kohli (12) (cropped)"
             }
           }
         }

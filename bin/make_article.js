@@ -15,13 +15,9 @@ const currentLanguage = "en";
 const sheetInput = fs.readFileSync(pathToParsedFile, "utf8", (err, content) => {
   return content;
 });
-const contentUrls = JSON.parse(fs.readFileSync("./bin/content_urls.json"));
+const records = parse(sheetInput, { columns: true, delimiter: "," });
 
-//  create JS Object
-const records = parse(sheetInput, {
-  columns: true,
-  delimiter: ","
-});
+const contentUrls = JSON.parse(fs.readFileSync("./bin/content_urls.json"));
 
 let article;
 let enTitle;
@@ -72,10 +68,6 @@ records.forEach(async record => {
     });
   }
 
-  // fs.appendFile(JSON.stringify(article.title, null, 2), err => {
-  //   if (err) console.log(err);
-  // });
-
   // Get title for URL
   // Since toLowerCase respects locale, and there are no differences in upper and lower case
   // for both Hindi and Tamil, I'm hoping nothing too important breaks by using this.
@@ -99,6 +91,7 @@ records.forEach(async record => {
 
   // Download all the images and put them in static
   const getImagePathForArticle = async url => {
+    // TODO: Why did this stop working in half the places?
     if (!url) {
       return "/static/images/default_person.svg";
     }
@@ -125,6 +118,7 @@ records.forEach(async record => {
     return imagePath.substring(1);
   };
 
+  // Add the key with the path to the JSON file for the router
   contentUrls[currentLanguage][
     enSluggedTitle
   ] = `/static/content/${currentLanguage}/${getSluggedTitle()}.json`;
@@ -168,12 +162,12 @@ records.forEach(async record => {
     summary: record["Short description of personality"],
     translations: [
       {
-        url: `/hi/${getSluggedTitle()}`, // TODO: make this return hindi text
+        url: `/hi/${enSluggedTitle}`,
         title: "महेंद्र सिंह धोनी", // TODO: make this return hindi text
         lang: "hi"
       },
       {
-        url: `/ta/${getSluggedTitle()}`, // TODO: make this return tamil text
+        url: `/ta/${enSluggedTitle}`,
         title: "விராத் கோலி", // TODO: make this return tamil text
         lang: "pa"
       }
@@ -192,7 +186,8 @@ records.forEach(async record => {
             label: "Birthplace",
             value: {
               label: record["Birthplace"],
-              url: record["Wikipedia article link of the Birth place"]
+              // articleID
+              url: record["Place Link ID"]
             }
           },
           { label: "Height", value: { label: record["Height"], url: "" } },
@@ -200,30 +195,37 @@ records.forEach(async record => {
             label: "Other Names",
             value: { label: record["Nicknames/Other names"], url: "" }
           },
-          //   { label: "Age", value: record["Age"] },
-          //   { label: "Residence", value: record["Residence"] },
+          { label: "Age", value: record["Age"] },
           {
             label: "Nationality",
             value: {
               label: record["Nationality"],
-              url: record["Wikipedia article link of the Nationality"]
+              // articleID
+              url: record["Country Link ID"]
             }
           },
           {
             label: "Role",
-            value: { label: record["Fielding position/Role"], url: "" }
+            value: {
+              label: record["Fielding position/Role"],
+              // articleID
+              url: record["Role Link ID"]
+            }
           }
         ]
       },
       {
+        // Is often null
         title: "Family",
         cardType: "avatar",
         label: "",
         facts: [
           {
-            label: record["Relationship with personality"],
+            label: record["Relationship with personality 1"],
             value: {
               label: record["Relation 1"],
+              // articleID
+              url: record["Relation 1 card  ID "],
               image: {
                 url: await getImagePathForArticle(
                   record["Link to the image of relation 1"]
@@ -241,79 +243,106 @@ records.forEach(async record => {
         cardType: "vertical_timeline",
         facts: [
           {
-            label: "Year of Birth",
+            label: record["Phase 1 Title"],
             id: 0,
-            note: null,
+            note: record["Phase 1 - First Class Debut Year"],
             value: {
-              label: record["Phase 1 - Single line description"],
-              facts: [
-                {
-                  label: "Place of Birth",
-                  id: 0,
-                  value: {
-                    label: record["Phase 1 - Place of birth"],
-                    url: record["Phase 1 - Link to the place of birth "],
-                    image: {
-                      url: await getImagePathForArticle(
-                        record["Phase 1- Image related to the place"]
-                      ),
-                      altText: `Image of ${getImageName(
-                        record["Phase 1- Image related to the place"]
-                      )}`
-                    }
-                  }
-                }
-              ]
+              label: record["Phase 1 - Single line description"]
+              // cardID
+              // facts: record["Phase 1 card-  ID"]
+              // facts: [
+              //   {
+              //     label: "Place of Birth",
+              //     id: 0,
+              //     value: {
+              //       label: record["Phase 1 - Place of birth"],
+              //       url: record["Phase 1 - Link to the place of birth "],
+              //       image: {
+              //         url: await getImagePathForArticle(
+              //           record["Phase 1- Image related to the place"]
+              //         ),
+              //         altText: `Image of ${getImageName(
+              //           record["Phase 1- Image related to the place"]
+              //         )}`
+              //       }
+              //     }
+              //   }
+              // ]
             }
           },
           {
-            label: "Debut Year",
+            label: record["Phase 2 Title"],
             id: 3,
-            note: record["Phase 2 - First Class Debut Year"],
+            note:
+              record["Phase 2 - National team debut year in cricket form 1"],
             value: {
-              label: record["Phase 2 - Single line description"],
-              facts: [
-                {
-                  label: record["Phase 2 - Name of the debut trophy"],
-                  id: 0,
-                  value: {
-                    label: "",
-                    url: record["Phase 2 - Link to the Trophy article"],
-                    image: {
-                      url: "https://placekitten.com/200/200",
-                      altText: "Kitten mata ki jai"
-                    }
-                  }
-                }
-              ]
+              label: record["Phase 2 - Single line description"]
+              //  cardID
+              // facts: record["Phase 2 card-  ID"]
+              // facts: [
+              //   {
+              //     label: record["Phase 2 - Name of the debut trophy"],
+              //     id: 0,
+              //     value: {
+              //       label: "",
+              //       url: record["Phase 2 - Link to the Trophy article"],
+              //       image: {
+              //         url: "https://placekitten.com/200/200",
+              //         altText: "Kitten mata ki jai"
+              //       }
+              //     }
+              //   }
+              // ]
             }
           },
           {
-            label: record["National Team Debut"],
-            note:
-              record["Phase 3 - National team debut year in cricket form 1"],
+            label: record["Phase 3 Title"],
             id: 1,
+            note: record["Phase 3 -Year of the tournament"],
             value: {
-              label: record["Phase 3 - Opposition team"],
-              facts: [
-                {
-                  label: "",
-                  id: 0,
-                  value: {
-                    label: record["Phase 3 - Single line description"],
-                    url:
-                      record[
-                        "Phase 3 - Link to the opposition team's wikipedia page"
-                      ],
-                    image: {
-                      url: "https://placekitten.com/200/200",
-                      altText: `Image of ${getImageName(
-                        record["Phase 1- Image related to the place"]
-                      )}`
-                    }
-                  }
-                }
-              ]
+              label: record["Phase 3 - Single line description"]
+              // cardID
+              // facts: record["Phase 3 card-  ID"]
+            }
+          },
+          {
+            label: record["Phase 4 Title"],
+            id: 1,
+            note: record["Phase 4 -Year of the tournament"],
+            value: {
+              label: record["Phase 4 - Single line description"]
+              // cardID
+              // facts: record["Phase 4 card-  ID"]
+            }
+          },
+          {
+            label: record["Phase 5 Title"],
+            id: 1,
+            note: record["Phase 5 -Year of the tournament"],
+            value: {
+              label: record["Phase 5 - Single line description"]
+              // cardID
+              // facts: record["Phase 5 card-  ID"]
+            }
+          },
+          {
+            label: record["Phase 6 Title"],
+            id: 1,
+            note: record["Phase 6 -Year of the trophy"],
+            value: {
+              label: record["Phase 6 - Single line description"]
+              // cardID
+              // facts: record["Phase 6 card-  ID"]
+            }
+          },
+          {
+            label: record["Phase 7 Title"],
+            id: 1,
+            note: record["Phase 7  -IPL debut year"],
+            value: {
+              label: record["Phase 7 - Single line description"]
+              // cardID
+              // facts: record["Phase 7 card-  ID"]
             }
           }
         ]
@@ -344,64 +373,79 @@ records.forEach(async record => {
           {
             label: record["Years played in National team"],
             value: {
-              label: record["National Team represented"],
-              value: {
-                label: record["Short description of the National Team"],
-                url:
-                  record["Link to the Wikipedia article of the National team"],
-                image: {
-                  url: await getImagePathForArticle(
-                    record["Link to the National team Logo"]
-                  ),
-                  altText: `Image of ${getImageName(
-                    record["Link to the National team Logo"]
-                  )}`
+              facts: [
+                {
+                  label: record["National Team represented"],
+                  // cardID BUT all the info is in the sheet anyway so I guess articleID?
+                  url: record["Card - National team-  ID"],
+                  value: {
+                    label: record["Short description of the National Team"],
+                    image: {
+                      url: await getImagePathForArticle(
+                        record["Link to the National team Logo"]
+                      ),
+                      altText: `Image of ${getImageName(
+                        record["Link to the National team Logo"]
+                      )}`
+                    }
+                  }
                 }
-              }
+              ]
             }
           },
           {
             label:
               record["Years played in current / last represented IPL team"],
             value: {
-              label:
-                record[
-                  "IPL Team represented - Current team or Team last represented"
-                ],
-              value: {
-                label: record["Short description of the IPL team"],
-                url:
-                  record[
-                    "Link to the Wikipedia article of the IPL - Current Team or Team last represented"
-                  ],
-                image: {
-                  url: await getImagePathForArticle(
-                    record["Link to the IPL team logo"]
-                  ),
-                  altText: `Image of ${getImageName(
-                    record["Link to the IPL team logo"]
-                  )}`
+              facts: [
+                {
+                  label:
+                    record[
+                      "IPL Team represented - Current team or Team last represented"
+                    ],
+                  url:
+                    // articleID
+                    record["Card - IPL Team - ID"],
+                  value: {
+                    label: record["Short description of the IPL team"],
+                    image: {
+                      url: await getImagePathForArticle(
+                        record["Link to the IPL team logo"]
+                      ),
+                      altText: `Image of ${getImageName(
+                        record["Link to the IPL team logo"]
+                      )}`
+                    }
+                  }
                 }
-              }
+              ]
             }
           },
           {
             label: record["Years played in Domestic Team"],
             value: {
-              label: record["Domestic team Represented"],
-              value: {
-                label: record["Short description of Domestic Team"],
-                url:
-                  record["Link to the Wikipedia article of the Domestic team"],
-                image: {
-                  url: await getImagePathForArticle(
-                    record["Link to the IPL team logo"]
-                  ),
-                  altText: `Image of ${getImageName(
-                    record["Link to the IPL team logo"]
-                  )}`
+              facts: [
+                {
+                  label: record["Domestic team Represented"],
+                  // No article ID, what do?
+                  url:
+                    record[
+                      "Link to the Wikipedia article of the Domestic team"
+                    ],
+                  value: {
+                    label: record["Short description of Domestic Team"],
+                    // TODO: Image not present in parser
+                    image: {
+                      url: await getImagePathForArticle(
+                        record["Link to the IPL team logo"]
+                      ),
+                      altText: `Image of ${getImageName(
+                        record["Link to the IPL team logo"]
+                      )}`
+                    }
+                  }
                 }
-              }
+              ]
             }
           }
         ]
@@ -482,8 +526,12 @@ records.forEach(async record => {
             value: {
               label: record["Achievement or Record 1"],
               image: {
-                url: await getImagePathForArticle(record["Image 1"]),
-                altText: `Image of ${getImageName(record["Image 1"])}`
+                url: await getImagePathForArticle(
+                  record["Achievement Image 1"]
+                ),
+                altText: `Image of ${getImageName(
+                  record["Achievement Image 1"]
+                )}`
               }
             }
           },
@@ -492,8 +540,12 @@ records.forEach(async record => {
             value: {
               label: record["Achievement or Record 2"],
               image: {
-                url: await getImagePathForArticle(record["Image 2"]),
-                altText: `Image of ${getImageName(record["Image 2"])}`
+                url: await getImagePathForArticle(
+                  record["Achievement Image 2"]
+                ),
+                altText: `Image of ${getImageName(
+                  record["Achievement Image 2"]
+                )}`
               }
             }
           },
@@ -502,8 +554,12 @@ records.forEach(async record => {
             value: {
               label: record["Achievement or Record 3"],
               image: {
-                url: await getImagePathForArticle(record["Image 3"]),
-                altText: `Image of ${getImageName(record["Image 3"])}`
+                url: await getImagePathForArticle(
+                  record["Achievement Image 3"]
+                ),
+                altText: `Image of ${getImageName(
+                  record["Achievement Image 3"]
+                )}`
               }
             }
           },
@@ -512,8 +568,12 @@ records.forEach(async record => {
             value: {
               label: record["Achievement or Record 4"],
               image: {
-                url: await getImagePathForArticle(record["Image 4"]),
-                altText: `Image of ${getImageName(record["Image 4"])}`
+                url: await getImagePathForArticle(
+                  record["Achievement Image 4"]
+                ),
+                altText: `Image of ${getImageName(
+                  record["Achievement Image 4"]
+                )}`
               }
             }
           },
@@ -522,8 +582,12 @@ records.forEach(async record => {
             value: {
               label: record["Achievement or Record 5"],
               image: {
-                url: await getImagePathForArticle(record["Image 5"]),
-                altText: `Image of ${getImageName(record["Image 5"])}`
+                url: await getImagePathForArticle(
+                  record["Achievement Image 5"]
+                ),
+                altText: `Image of ${getImageName(
+                  record["Achievement Image 5"]
+                )}`
               }
             }
           }

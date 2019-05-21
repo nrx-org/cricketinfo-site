@@ -8,12 +8,12 @@
   "summary": "Kapil Dev, is a former Indian cricketer who captained the Indian cricket team that won the 1983 World Cup.",
   "translations": [
     {
-      "url": "/hi/mushfiqur_rahim",
+      "url": "/hi/kapil_dev",
       "title": "महेंद्र सिंह धोनी",
       "lang": "hi"
     },
     {
-      "url": "/ta/mushfiqur_rahim",
+      "url": "/ta/kapil_dev",
       "title": "விராத் கோலி",
       "lang": "pa"
     }
@@ -41,7 +41,7 @@
           "label": "Birthplace",
           "value": {
             "label": "Chandigarh, India",
-            "url": "https://en.wikipedia.org/wiki/Chandigarh"
+            "url": "G18"
           }
         },
         {
@@ -59,10 +59,14 @@
           }
         },
         {
+          "label": "Age",
+          "value": "60"
+        },
+        {
           "label": "Nationality",
           "value": {
             "label": "Indian",
-            "url": "https://en.wikipedia.org/wiki/Indian_people"
+            "url": "G3"
           }
         },
         {
@@ -80,8 +84,10 @@
       "label": "",
       "facts": [
         {
+          "label": "",
           "value": {
             "label": "",
+            "url": "",
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of null"
@@ -95,60 +101,58 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "Year of Birth",
+          "label": "First class Debut",
           "id": 0,
-          "note": null,
+          "note": "1975",
           "value": {
-            "label": "Dev made an impressive debut for Haryana in November 1975 against Punjab.",
-            "facts": [
-              {
-                "label": "Place of Birth",
-                "id": 0,
-                "value": {
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
+            "label": "Dev made an impressive debut for Haryana in November 1975 against Punjab."
           }
         },
         {
-          "label": "Debut Year",
+          "label": "National team debut ",
           "id": 3,
+          "note": "1978",
           "value": {
-            "facts": [
-              {
-                "label": "",
-                "id": 0,
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "https://placekitten.com/200/200",
-                    "altText": "Kitten mata ki jai"
-                  }
-                }
-              }
-            ]
+            "label": "One day cricket debut against Pakistan where his individual performance was ordinary."
           }
         },
         {
+          "label": "ICC Tournament Debut",
+          "id": 1,
+          "note": "1979",
+          "value": {
+            "label": "Both Kapil Dev and India had a poor campaign at the 1979 Cricket World Cup."
+          }
+        },
+        {
+          "label": "1983 World Cup Champions",
+          "id": 1,
+          "note": "1983",
+          "value": {
+            "label": "India won the 1983 world cup under Kapil Dev's captaincy."
+          }
+        },
+        {
+          "label": "1987 World Cup",
           "id": 1,
           "value": {
-            "facts": [
-              {
-                "label": "",
-                "id": 0,
-                "value": {
-                  "label": "One day cricket debut against Pakistan where his individual performance was ordinary.",
-                  "image": {
-                    "url": "https://placekitten.com/200/200",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
+            "label": "Kapil Dev was retained as the captain of the Indian team for the 1987 World Cup."
+          }
+        },
+        {
+          "label": "Final years",
+          "id": 1,
+          "note": "1992",
+          "value": {
+            "label": "Kapil Dev played his last world cup in 1992 under the captaincy of Mohammed Azharuddin"
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": 1,
+          "note": "",
+          "value": {
+            "label": ""
           }
         }
       ]
@@ -175,43 +179,55 @@
         {
           "label": "1978-1994",
           "value": {
-            "label": "Indian National Cricket team",
-            "value": {
-              "label": "The India national cricket team, also known as Team India and Men in Blue, is governed by the Board of Control for Cricket in India",
-              "url": "https://en.wikipedia.org/wiki/India_national_cricket_team",
-              "image": {
-                "url": "/static/images/kapil_dev/Cricket_India_Crest.svg",
-                "altText": "Image of Cricket India Crest"
+            "facts": [
+              {
+                "label": "Indian National Cricket team",
+                "url": "R1",
+                "value": {
+                  "label": "The India national cricket team, also known as Team India and Men in Blue, is governed by the Board of Control for Cricket in India",
+                  "image": {
+                    "url": "/static/images/kapil_dev/Cricket_India_Crest.svg",
+                    "altText": "Image of Cricket India Crest"
+                  }
+                }
               }
-            }
+            ]
           }
         },
         {
           "label": "",
           "value": {
-            "label": "",
-            "value": {
-              "label": "",
-              "url": "",
-              "image": {
-                "url": "/static/images/default_person.svg",
-                "altText": "Image of null"
+            "facts": [
+              {
+                "label": "",
+                "url": "",
+                "value": {
+                  "label": "",
+                  "image": {
+                    "url": "/static/images/default_person.svg",
+                    "altText": "Image of null"
+                  }
+                }
               }
-            }
+            ]
           }
         },
         {
           "label": "1975-1992",
           "value": {
-            "label": "Haryana",
-            "value": {
-              "label": "Domestic Ranji trophy cricket team based in the state of Haryana ",
-              "url": "https://en.wikipedia.org/wiki/Haryana_cricket_team",
-              "image": {
-                "url": "/static/images/default_person.svg",
-                "altText": "Image of null"
+            "facts": [
+              {
+                "label": "Haryana",
+                "url": "https://en.wikipedia.org/wiki/Haryana_cricket_team",
+                "value": {
+                  "label": "Domestic Ranji trophy cricket team based in the state of Haryana ",
+                  "image": {
+                    "url": "/static/images/default_person.svg",
+                    "altText": "Image of null"
+                  }
+                }
               }
-            }
+            ]
           }
         }
       ]
@@ -310,15 +326,6 @@
         {
           "label": null,
           "value": {
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
             "label": "Captained India for the first time in 1982-83 versus Sri Lanka.",
             "image": {
               "url": "/static/images/default_person.svg",
@@ -329,6 +336,17 @@
         {
           "label": null,
           "value": {
+            "label": "Scored highest ODI score of 175 not out vs Zimbabwe in 1983 world cup",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "First captain to lead India to ODI world cup victory",
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of null"
