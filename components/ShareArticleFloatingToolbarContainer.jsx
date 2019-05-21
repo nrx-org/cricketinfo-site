@@ -6,11 +6,11 @@ import PropTypes from "prop-types";
 import { ShareModalContainer } from "./ShareModalContainer";
 
 import { ModalContextConsumer } from "./ModalContext";
-import { SHARE_MODAL_ID } from "../lib/modal_ids";
+import { SHARE_MODAL_ID, WHATSAPP_SUBSCRIBE_MODAL_ID } from "../lib/modal_ids";
 import { FloatingToolbar } from "./FloatingToolbar";
 import { LanguageContext } from "../language_context";
 import { FloatingToolbarButton } from "./FloatingToolbarButton";
-import { getAbsoluteArticleUrl, getPdfShareUrl } from "../lib/urls";
+import { WhatsAppSubscribeModalContainer } from "./WhatsAppSubscribeModalContainer";
 
 const SAVE_TEXT = {
   hi: "सेव करें",
@@ -26,7 +26,8 @@ export const ShareArticleFloatingToolbarContainer = ({ articleId }) => {
   const shareData = process.browser
     ? {
         title: document.title,
-        url: window.location.href
+        url: window.location.href,
+        articleId
       }
     : "";
 
@@ -37,6 +38,11 @@ export const ShareArticleFloatingToolbarContainer = ({ articleId }) => {
       event.preventDefault();
       openModal(SHARE_MODAL_ID, shareData);
     }
+  };
+
+  const onSaveForLaterClick = (event, openModal) => {
+    event.preventDefault();
+    openModal(WHATSAPP_SUBSCRIBE_MODAL_ID, shareData);
   };
 
   return (
@@ -55,9 +61,7 @@ export const ShareArticleFloatingToolbarContainer = ({ articleId }) => {
               <FloatingToolbar
                 leftButton={
                   <FloatingToolbarButton
-                    href={getPdfShareUrl(
-                      getAbsoluteArticleUrl(articleId, lang)
-                    )}
+                    onClick={event => onSaveForLaterClick(event, openModal)}
                     icon={{ name: "bookmark", altText: "Save for later icon" }}
                     label={SAVE_TEXT[lang]}
                   />
@@ -73,6 +77,13 @@ export const ShareArticleFloatingToolbarContainer = ({ articleId }) => {
                 }
               />
               <ShareModalContainer
+                registerModal={registerModal}
+                isModalOpen={isModalOpen}
+                modalData={modalData}
+                closeModal={closeModal}
+                lang={lang}
+              />
+              <WhatsAppSubscribeModalContainer
                 registerModal={registerModal}
                 isModalOpen={isModalOpen}
                 modalData={modalData}
