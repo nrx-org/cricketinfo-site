@@ -22,14 +22,15 @@ $sectionHeight: 24rem;
 }
 
 .wcp-circular-image-card-carousel-group-1 {
-  animation: moveCircles 60s linear;
+  animation: moveCircles 80s linear;
+  animation-delay: -39s;
   animation-iteration-count: infinite;
 }
 
 .wcp-circular-image-card-carousel-group-2 {
-  animation: moveCircles 60s linear;
-  animation-delay: 30s;
-  transform: translateX(51%);
+  animation: moveCircles 80s linear;
+  animation-delay: 1s;
+  transform: translateX(52%);
   animation-iteration-count: infinite;
 }
 
@@ -41,7 +42,7 @@ $sectionHeight: 24rem;
   animation-timing-function: ease-in-out;
 }
 
-$animDurations: 4s 4.75s 3.5s 4.5s 2.75s;
+$animDurations: 3.5s 2.5s 4s 4.5s 3s;
 
 .wcp-circular-image-card {
   border-radius: 50%;
@@ -59,19 +60,13 @@ $animDurations: 4s 4.75s 3.5s 4.5s 2.75s;
   $random10: random(10);
   @keyframes floating-#{$i} {
     from {
-      transform: translate(0, 0%);
-    }
-    25% {
-      transform: translate(-$random5 + px, -$random10 + 5 + px);
+      transform: translate(0,0);
     }
     50% {
-      transform: translate(0, 0%);
-    }
-    75% {
-      transform: translate($random5 + px, $random10 - 5 + px);
+      transform: translate($random10 + px, $random10 - 8 + px);
     }
     to {
-      transform: translate(0, -0%);
+      transform: translate(0,0);
     }
   }
   .wcp-circular-image-card-wrapper:nth-child(#{$i + 1}n + 1) {
