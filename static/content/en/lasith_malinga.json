@@ -1,0 +1,341 @@
+{
+  "id": "O40",
+  "title": "Lasith Malinga",
+  "coverImage": {
+    "url": "/static/images/lasith_malinga/LASITH_MALINGA_(5155175549).jpg",
+    "altText": "Image of LASITH MALINGA (5155175549)"
+  },
+  "summary": "Separamadu Lasith Malinga is a professional Sri Lankan cricketer and current T20I captain for Sri Lanka.",
+  "translations": [
+    {
+      "url": "/hi/mushfiqur_rahim",
+      "title": "महेंद्र सिंह धोनी",
+      "lang": "hi"
+    },
+    {
+      "url": "/ta/mushfiqur_rahim",
+      "title": "விராத் கோலி",
+      "lang": "pa"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Separamadu Lasith Malinga",
+            "url": ""
+          }
+        },
+        {
+          "label": "Born on",
+          "value": {
+            "label": "28 August 1983",
+            "url": ""
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Galle, Sri Lanka",
+            "url": "https://en.wikipedia.org/wiki/Galle"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "label": "Other Names",
+          "value": {
+            "label": "Slinga, Kagawena, Malinga the Slinga, Mali, Rathgama Express",
+            "url": ""
+          }
+        },
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "Sri Lankan",
+            "url": "https://en.wikipedia.org/wiki/Sri_Lanka"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "Right Arm Fast",
+            "url": ""
+          }
+        }
+      ]
+    },
+    {
+      "title": "Family",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Year of Birth",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Place of Birth",
+                "id": 0,
+                "value": {
+                  "image": {
+                    "url": "/static/images/default_person.svg",
+                    "altText": "Image of null"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Debut Year",
+          "id": 3,
+          "value": {
+            "facts": [
+              {
+                "label": "",
+                "id": 0,
+                "value": {
+                  "label": "",
+                  "image": {
+                    "url": "https://placekitten.com/200/200",
+                    "altText": "Kitten mata ki jai"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1,
+          "value": {
+            "facts": [
+              {
+                "label": "",
+                "id": 0,
+                "value": {
+                  "label": "Malinga made his Test debut on 1 July 2004 against Australia at Marrara Oval In Darwin. ",
+                  "image": {
+                    "url": "https://placekitten.com/200/200",
+                    "altText": "Image of null"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of Play",
+      "cardType": "simple",
+      "facts": [
+        {
+          "value": {
+            "label": "Malinga's action has attracted great comment. The cricket reference text Wisden has noted that Malinga's delivery action is similar to \"slinging\". Resulting to his nickname \"Slinga Malinga\". Malinga has said that his unique round-arm bowling action was a result of learning to play cricket exclusively with a tennis ball.",
+            "image": {
+              "url": null,
+              "altText": "Image of Lasith Malinga tossing a cricket ball at practice"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Teams",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "2004- Present",
+          "value": {
+            "label": "Srilankan Cricket Team",
+            "value": {
+              "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket.",
+              "url": "https://en.wikipedia.org/wiki/Sri_Lanka_national_cricket_team",
+              "image": {
+                "url": null,
+                "altText": "Image of Sri Lanka Cricket Cap Insignia"
+              }
+            }
+          }
+        },
+        {
+          "label": "2008- Present",
+          "value": {
+            "label": "Mumbai Indians",
+            "value": {
+              "label": "The Mumbai Indians (abbreviated as MI) are a franchise cricket team based in the city of Mumbai, Maharashtra.",
+              "url": "",
+              "image": {
+                "url": "/static/images/default_person.svg",
+                "altText": "Image of null"
+              }
+            }
+          }
+        },
+        {
+          "label": "",
+          "value": {
+            "label": "",
+            "value": {
+              "label": "",
+              "url": "",
+              "image": {
+                "url": "/static/images/default_person.svg",
+                "altText": "Image of null"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "",
+          "tag": "",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": "",
+          "tag": "",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": "",
+          "tag": "",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": "",
+          "tag": "",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "Vidyaloka College",
+          "tag": "",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievement & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": null,
+          "value": {
+            "label": "Only bowler in cricketing history to take four wickets in four consecutive balls in international cricket (vs. South Africa March 2007)",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "The first and, to date, only bowler in cricketing history to take three hat-tricks in One Day International cricket, taking his third in August 2011.",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "label": "He is the only bowler with two World Cup hat tricks, against South Africa in the 2007 Cricket World Cup and the other against Kenya in the 2011 Cricket World Cup.",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "label": null,
+          "value": {
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
