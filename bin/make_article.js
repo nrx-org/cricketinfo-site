@@ -15,9 +15,7 @@ const currentLanguage = "en";
 const sheetInput = fs.readFileSync(pathToParsedFile, "utf8", (err, content) => {
   return content;
 });
-const contentUrls = JSON.parse(fs.readFileSync("./bin/content_urls.json"))[
-  "CONTENT_URLS"
-];
+const contentUrls = JSON.parse(fs.readFileSync("./bin/content_urls.json"));
 
 //  create JS Object
 const records = parse(sheetInput, {
@@ -111,17 +109,19 @@ records.forEach(async record => {
     if (!imageURL) {
       return null;
     }
-    // const image = await fetch(imageURL);
     const imageName = getFileNameFromURL(url);
     const imageDirectory = `./static/images/${enSluggedTitle}`;
-    const imagePath = `.${imageDirectory}/${imageName}`;
-    // if (!fs.existsSync(imageDirectory)) {
-    // fs.mkdir(imageDirectory, err => {
-    // if (err) throw err;
-    // });
-    // }
-    // const imageFile = fs.createWriteStream(imagePath);
-    // image.body.pipe(imageFile);
+    const imagePath = `${imageDirectory}/${imageName}`;
+    if (currentLanguage === "en") {
+      const image = await fetch(imageURL);
+      if (!fs.existsSync(imageDirectory)) {
+        fs.mkdir(imageDirectory, err => {
+          if (err) throw err;
+        });
+      }
+      const imageFile = fs.createWriteStream(imagePath);
+      image.body.pipe(imageFile);
+    }
     return imagePath.substring(1);
   };
 
