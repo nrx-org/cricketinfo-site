@@ -1,0 +1,32 @@
+.wcp-whatsapp-subscribe-modal {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+
+  h1 {
+    font-size: $font-size-m;
+    margin-left: $gutter-s;
+  }
+}
+
+.wcp-whatsapp-subscribe-modal__header {
+  display: flex;
+  align-items: center;
+}
+
+.wcp-whatsapp-subscribe-modal__body-text {
+  margin-top: $gutter-m;
+  flex-grow: 1;
+}
+
+.wcp-whatsapp-subscribe-modal__button-container {
+  margin-top: $gutter-m;
+
+  .wcp-button:last-child {
+    margin-top: $gutter-s;
+  }
+}
+
+.wcp-whatsapp-subscribe-modal__input {
+  width: 100%;
+}
