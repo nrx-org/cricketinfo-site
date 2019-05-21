@@ -23,7 +23,7 @@ const SEE_ALL_MESSAGE = {
 };
 
 const ALL_TEAMS_MESSAGE = {
-  en: "Teams to watch",
+  en: "All Participating Teams",
   hi: "दिलचस्प टीमें",
   ta: "TODO"
 };

@@ -77,7 +77,7 @@ export class Story extends React.Component {
     } = this.props;
     const { isFavorited } = this.state;
     const shareData = {
-      url: story.value.url,
+      url: story.value.image.url,
       title: story.label,
       text: story.value.label
     };
@@ -105,7 +105,7 @@ export class Story extends React.Component {
               !isFullScreen ? "wcp-hide" : "wcp-show"
             }`}
           >
-            {story.value.url && story.value.url.length > 0 ? (
+            {story.value.image.url && story.value.image.url.length > 0 ? (
               <span className="wcp-story-content__info__icons-and-buttons__share-icon">
                 <ExternalUrlShareModalContainer
                   shareData={shareData}

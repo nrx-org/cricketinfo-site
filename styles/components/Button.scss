@@ -32,9 +32,11 @@
 }
 
 .wcp-button--padding-s {
-  padding: $gutter-s;
+  padding: 0.5rem 1rem;
+  line-height: $line-height-xs;
 }
 
 .wcp-button--padding-m {
   padding: $gutter-m;
+  line-height: $line-height-xs;
 }

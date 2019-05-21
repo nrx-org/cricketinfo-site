@@ -32,7 +32,7 @@ export const FeaturedPlayers = ({ scheduled, constant, all }) => {
   return (
     <LanguageContextConsumer>
       {lang => (
-        <section>
+        <section className="wcp-featured-players">
           <LargeSectionTitle>{SECTION_TITLE_MESSAGE[lang]}</LargeSectionTitle>
           <AvatarCarousel cards={players} />
           <ModalContextConsumer>
@@ -45,6 +45,7 @@ export const FeaturedPlayers = ({ scheduled, constant, all }) => {
             }) => (
               <>
                 <Button
+                  className="wcp-featured-players__see-all-players-button"
                   isFullWidth
                   isInverted
                   onClick={() =>
