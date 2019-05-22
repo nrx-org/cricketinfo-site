@@ -6,6 +6,7 @@
   font-family: inherit;
   font-size: $font-size-s;
   color: $color-white;
+  -webkit-text-fill-color: $color-white;
   text-transform: uppercase;
   font-weight: bold;
 
@@ -20,6 +21,8 @@
 
 .wcp-button--inverted {
   color: $color-blue-dark;
+  -webkit-text-fill-color: $color-blue-dark;
+
   background-color: $color-white;
   border: 1px solid $color-blue-dark;
 }
@@ -29,9 +32,11 @@
 }
 
 .wcp-button--padding-s {
-  padding: $gutter-s;
+  padding: 0.5rem 1rem;
+  line-height: $line-height-xs;
 }
 
 .wcp-button--padding-m {
   padding: $gutter-m;
+  line-height: $line-height-xs;
 }

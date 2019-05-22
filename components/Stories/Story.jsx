@@ -6,15 +6,21 @@ import { Icon } from "../Icon";
 import { Button } from "../Button";
 import { ExternalUrlShareModalContainer } from "../ExternalUrlShareModalContainer";
 
+const LOCALSTORAGE_KEY = "wcpStoryFavorites";
+
 export class Story extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {
-      isFavorited: false
-    };
 
     this.imageLoaded = this.imageLoaded.bind(this);
-    this.toggleFavorite = this.toggleFavorite.bind(this);
+
+    this.setFavoritedInfoToLocalStorage = this.setFavoritedInfoToLocalStorage.bind(
+      this
+    );
+
+    this.state = {
+      isFavorited: Story.getFavoritedInfoFromLocalStorage()[props.story.id]
+    };
   }
 
   componentDidUpdate(prevProps) {
@@ -22,6 +28,30 @@ export class Story extends React.Component {
     if (story !== prevProps.story) {
       setPlaybackAction("pause", true);
     }
+  }
+
+  static getFavoritedInfoFromLocalStorage() {
+    if (!process.browser) {
+      return -1;
+    }
+
+    const storyFavoritesDataString = localStorage.getItem(LOCALSTORAGE_KEY);
+    const storyFavoritesData =
+      storyFavoritesDataString && storyFavoritesDataString.length
+        ? JSON.parse(storyFavoritesDataString)
+        : {};
+
+    return storyFavoritesData;
+  }
+
+  setFavoritedInfoToLocalStorage() {
+    const { story } = this.props;
+
+    const storyFavoritesData = Story.getFavoritedInfoFromLocalStorage();
+
+    storyFavoritesData[story.id] = !storyFavoritesData[story.id];
+    localStorage.setItem(LOCALSTORAGE_KEY, JSON.stringify(storyFavoritesData));
+    this.setState({ isFavorited: storyFavoritesData[story.id] });
   }
 
   imageLoaded() {
@@ -34,11 +64,6 @@ export class Story extends React.Component {
     }
   }
 
-  toggleFavorite() {
-    const { isFavorited } = this.state;
-    this.setState({ isFavorited: !isFavorited });
-  }
-
   render() {
     const {
       story,
@@ -49,7 +74,7 @@ export class Story extends React.Component {
     } = this.props;
     const { isFavorited } = this.state;
     const shareData = {
-      url: story.value.url,
+      url: story.value.image.url,
       title: story.label,
       text: story.value.label
     };
@@ -77,7 +102,7 @@ export class Story extends React.Component {
               !isFullScreen ? "wcp-hide" : "wcp-show"
             }`}
           >
-            {story.value.url && story.value.url.length > 0 ? (
+            {story.value.image.url && story.value.image.url.length > 0 ? (
               <span className="wcp-story-content__info__icons-and-buttons__share-icon">
                 <ExternalUrlShareModalContainer
                   shareData={shareData}
@@ -99,7 +124,7 @@ export class Story extends React.Component {
             ) : null}
             <span
               className="wcp-story-content__info__icons-and-buttons__favorite-icon"
-              onClick={this.toggleFavorite}
+              onClick={this.setFavoritedInfoToLocalStorage}
               role="presentation"
             >
               <Icon

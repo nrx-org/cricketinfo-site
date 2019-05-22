@@ -48,5 +48,5 @@
   font-size: $font-size-l;
   margin-top: -1.5rem;
   transform: skew(-10deg);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08), 0 1px 4px rgba(0, 0, 0, 0.04), 0 0 4px rgba(0, 0, 0, 0.04);
+  box-shadow: $box-shadow-dark-l, $box-shadow-light-s, $box-shadow-light-xs;
 }

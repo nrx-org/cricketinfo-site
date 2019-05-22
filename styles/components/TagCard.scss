@@ -10,6 +10,14 @@
   &:not(:first-child) {
     margin-top: 1rem;
   }
+  .wcp-tiny-card-wrapper {
+    width: calc(100%);
+  }
+  .wcp-tiny-card {
+    width: 100%;
+    min-width: auto;
+    margin-right: 0;
+  }
 }
 
 .wcp-tag-card__table__label {

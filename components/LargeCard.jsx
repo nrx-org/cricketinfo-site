@@ -85,7 +85,7 @@ LargeCard.defaultProps = {
   href: "",
   className: "",
   cardOrientation: "horizontal",
-  buttonText: "Read",
+  buttonText: "Know More",
   title: "",
   caption: ""
 };

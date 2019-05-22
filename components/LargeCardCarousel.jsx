@@ -12,7 +12,7 @@ export const LargeCardCarousel = ({ cards, cardOrientation }) => (
         caption={c.value.label}
         href={c.value.url}
         coverImage={c.value.image}
-        buttonText={c.value.buttonText ? c.value.buttonText : "Read"}
+        buttonText={c.value.buttonText ? c.value.buttonText : "Know More"}
         className="wcp-large-card-carousel__card"
         cardOrientation={cardOrientation}
       />
