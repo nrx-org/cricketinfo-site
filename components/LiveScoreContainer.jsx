@@ -2,6 +2,18 @@ import React from "react";
 import { getFlagImageUrl } from "../lib/urls";
 import { getLiveScore } from "../lib/live_score";
 
+const formatScore = team => {
+  if (!team.score) {
+    return null;
+  }
+
+  if (team.score.runs === 0 && team.score.wickets === 0) {
+    return "-";
+  }
+
+  return `${team.score.runs}/${team.score.wickets}`;
+};
+
 export class LiveScoreContainer extends React.Component {
   constructor(props) {
     super(props);
@@ -17,12 +29,12 @@ export class LiveScoreContainer extends React.Component {
       isLoadingScore: true
     });
 
-    const scoreResponse = await fetch("/static/content/en/score.json");
-    const scoreJson = await scoreResponse.json();
-    getLiveScore();
+    const score = await getLiveScore();
 
     this.setState({
-      score: scoreJson,
+      score: {
+        matches: score
+      },
       isLoadingScore: false
     });
   }
@@ -55,13 +67,7 @@ export class LiveScoreContainer extends React.Component {
                     {match.teamA.label}
                   </span>
                 </th>
-                {match.teamA.score ? (
-                  <td>
-                    {`${match.teamA.score.runs}/${match.teamA.score.wickets}`}
-                  </td>
-                ) : (
-                  <td>-</td>
-                )}
+                <td>{formatScore(match.teamA)}</td>
               </tr>
               <tr>
                 <th className="wcp-font-family-heading">
@@ -74,13 +80,7 @@ export class LiveScoreContainer extends React.Component {
                     {match.teamB.label}
                   </span>
                 </th>
-                {match.teamB.score ? (
-                  <td>
-                    {`${match.teamB.score.runs}/${match.teamB.score.wickets}`}
-                  </td>
-                ) : (
-                  <td>-</td>
-                )}
+                <td>{formatScore(match.teamB)}</td>
               </tr>
             </table>
           ))}
