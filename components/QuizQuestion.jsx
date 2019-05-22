@@ -35,9 +35,9 @@ export class QuizQuestion extends Component {
   scrollToRelatedArticleIfNecessary() {
     if (this.questionRef.current.offsetTop > window.scrollY)
       window.scrollTo({
-        left:0,
-        top:this.questionRef.current.offsetTop - 100,
-        behavior: 'smooth'
+        left: 0,
+        top: this.questionRef.current.offsetTop - 100,
+        behavior: "smooth"
       });
   }
 
@@ -76,6 +76,7 @@ export class QuizQuestion extends Component {
                 return (
                   <li
                     className={className}
+                    key={`quizQuestion${question.id}-option:${o.label}`}
                     onClick={() =>
                       setUserAnswerIndex(
                         index,

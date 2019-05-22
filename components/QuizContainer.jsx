@@ -38,6 +38,20 @@ export class QuizContainer extends Component {
     return quizContainerData[questionId];
   }
 
+  componentDidMount() {
+    const { questions } = this.props;
+
+    const dateString = todayString();
+    const scheduledQuestions = questions.filter(q => q.date === dateString);
+
+    if (scheduledQuestions.length > 0) {
+      this.setState({
+        showQuizComponent: true,
+        scheduledQuestions
+      });
+    }
+  }
+
   setUserAnswerIndex(questionId, userAnswerIndex, callback) {
     if (!process.browser) {
       return;
@@ -52,7 +66,10 @@ export class QuizContainer extends Component {
     }
 
     // Do not let users change the answer
-    if(typeof quizContainerData[questionId] !== 'undefined' && quizContainerData[questionId] > -1) {
+    if (
+      typeof quizContainerData[questionId] !== "undefined" &&
+      quizContainerData[questionId] > -1
+    ) {
       return;
     }
 
@@ -62,27 +79,12 @@ export class QuizContainer extends Component {
 
     this.forceUpdate();
 
-    if(callback) {
-      callback()
-    }
-  }
-
-  componentDidMount() {
-    const { questions } = this.props;
-
-    const dateString = todayString();
-    const scheduledQuestions = questions.filter(q => q.date === dateString);
-
-    if (scheduledQuestions.length > 0) {
-      this.setState({
-        showQuizComponent: true,
-        scheduledQuestions: scheduledQuestions
-      });
+    if (callback) {
+      callback();
     }
   }
 
   render() {
-    const { questions } = this.props;
     const { showQuizComponent, scheduledQuestions } = this.state;
 
     return (
