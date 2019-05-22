@@ -27,6 +27,7 @@ import { InterestingArticles } from "../components/InterestingArticles";
 import { ShareModalContainer } from "../components/ShareModalContainer";
 import { FeaturedPlayers } from "../components/FeaturedPlayers";
 import { QuizContainer } from "../components/QuizContainer";
+import { LiveScoreContainer } from "../components/LiveScoreContainer";
 
 const Home = ({
   lang,
@@ -51,11 +52,14 @@ const Home = ({
         </Head>
 
         <header className="wcp-home__header">
-          <img
-            className="wcp-home__logo"
-            src="/static/images/logo.svg"
-            alt="World Cup logo"
-          />
+          <div className="wcp-home__logo__container">
+            <img
+              className="wcp-home__logo"
+              src="/static/images/logo.svg"
+              alt="World Cup logo"
+            />
+          </div>
+          <LiveScoreContainer />
         </header>
 
         <SwitchLanguageFloatingToolbar translations={translations} />
