@@ -247,27 +247,20 @@ records.forEach(async record => {
             id: 0,
             note: record["Phase 1 - First Class Debut Year"],
             value: {
-              label: record["Phase 1 - Single line description"]
-              // cardID
-              // facts: record["Phase 1 card-  ID"]
-              // facts: [
-              //   {
-              //     label: "Place of Birth",
-              //     id: 0,
-              //     value: {
-              //       label: record["Phase 1 - Place of birth"],
-              //       url: record["Phase 1 - Link to the place of birth "],
-              //       image: {
-              //         url: await getImagePathForArticle(
-              //           record["Phase 1- Image related to the place"]
-              //         ),
-              //         altText: `Image of ${getImageName(
-              //           record["Phase 1- Image related to the place"]
-              //         )}`
-              //       }
-              //     }
-              //   }
-              // ]
+              label: record["Phase 1 - Single line description"],
+              // cardID record["Phase 1 card-  ID"]
+              facts: [
+                {
+                  label: record["Phase 1 card-  ID"],
+                  value: {
+                    label: record["Phase 1 card-  ID"],
+                    image: {
+                      url: record["Phase 1 card-  ID"],
+                      altText: record["Phase 1 card-  ID"]
+                    }
+                  }
+                }
+              ]
             }
           },
           {
@@ -276,23 +269,20 @@ records.forEach(async record => {
             note:
               record["Phase 2 - National team debut year in cricket form 1"],
             value: {
-              label: record["Phase 2 - Single line description"]
-              //  cardID
-              // facts: record["Phase 2 card-  ID"]
-              // facts: [
-              //   {
-              //     label: record["Phase 2 - Name of the debut trophy"],
-              //     id: 0,
-              //     value: {
-              //       label: "",
-              //       url: record["Phase 2 - Link to the Trophy article"],
-              //       image: {
-              //         url: "https://placekitten.com/200/200",
-              //         altText: "Kitten mata ki jai"
-              //       }
-              //     }
-              //   }
-              // ]
+              label: record["Phase 2 - Single line description"],
+              //  cardID record["Phase 2 card-  ID"]
+              facts: [
+                {
+                  label: record["Phase 2 card-  ID"],
+                  value: {
+                    label: record["Phase 2 card-  ID"],
+                    image: {
+                      url: record["Phase 2 card-  ID"],
+                      altText: record["Phase 2 card-  ID"]
+                    }
+                  }
+                }
+              ]
             }
           },
           {
@@ -300,9 +290,20 @@ records.forEach(async record => {
             id: 1,
             note: record["Phase 3 -Year of the tournament"],
             value: {
-              label: record["Phase 3 - Single line description"]
-              // cardID
-              // facts: record["Phase 3 card-  ID"]
+              label: record["Phase 3 - Single line description"],
+              // cardID record["Phase 3 card-  ID"]
+              facts: [
+                {
+                  label: record["Phase 2 card-  ID"],
+                  value: {
+                    label: record["Phase 2 card-  ID"],
+                    image: {
+                      url: record["Phase 2 card-  ID"],
+                      altText: record["Phase 2 card-  ID"]
+                    }
+                  }
+                }
+              ]
             }
           },
           {
@@ -310,9 +311,20 @@ records.forEach(async record => {
             id: 1,
             note: record["Phase 4 -Year of the tournament"],
             value: {
-              label: record["Phase 4 - Single line description"]
-              // cardID
-              // facts: record["Phase 4 card-  ID"]
+              label: record["Phase 4 - Single line description"],
+              // cardID  record["Phase 4 card-  ID"]
+              facts: [
+                {
+                  label: record["Phase 2 card-  ID"],
+                  value: {
+                    label: record["Phase 2 card-  ID"],
+                    image: {
+                      url: record["Phase 2 card-  ID"],
+                      altText: record["Phase 2 card-  ID"]
+                    }
+                  }
+                }
+              ]
             }
           },
           {
@@ -320,9 +332,20 @@ records.forEach(async record => {
             id: 1,
             note: record["Phase 5 -Year of the tournament"],
             value: {
-              label: record["Phase 5 - Single line description"]
-              // cardID
-              // facts: record["Phase 5 card-  ID"]
+              label: record["Phase 5 - Single line description"],
+              // cardID record["Phase 5 card-  ID"]
+              facts: [
+                {
+                  label: record["Phase 2 card-  ID"],
+                  value: {
+                    label: record["Phase 2 card-  ID"],
+                    image: {
+                      url: record["Phase 2 card-  ID"],
+                      altText: record["Phase 2 card-  ID"]
+                    }
+                  }
+                }
+              ]
             }
           },
           {
@@ -330,9 +353,20 @@ records.forEach(async record => {
             id: 1,
             note: record["Phase 6 -Year of the trophy"],
             value: {
-              label: record["Phase 6 - Single line description"]
-              // cardID
-              // facts: record["Phase 6 card-  ID"]
+              label: record["Phase 6 - Single line description"],
+              // cardID record["Phase 6 card-  ID"]
+              facts: [
+                {
+                  label: record["Phase 2 card-  ID"],
+                  value: {
+                    label: record["Phase 2 card-  ID"],
+                    image: {
+                      url: record["Phase 2 card-  ID"],
+                      altText: record["Phase 2 card-  ID"]
+                    }
+                  }
+                }
+              ]
             }
           },
           {
@@ -340,9 +374,20 @@ records.forEach(async record => {
             id: 1,
             note: record["Phase 7  -IPL debut year"],
             value: {
-              label: record["Phase 7 - Single line description"]
-              // cardID
-              // facts: record["Phase 7 card-  ID"]
+              label: record["Phase 7 - Single line description"],
+              // cardID record["Phase 7 card-  ID"]
+              facts: [
+                {
+                  label: record["Phase 2 card-  ID"],
+                  value: {
+                    label: record["Phase 2 card-  ID"],
+                    image: {
+                      url: record["Phase 2 card-  ID"],
+                      altText: record["Phase 2 card-  ID"]
+                    }
+                  }
+                }
+              ]
             }
           }
         ]

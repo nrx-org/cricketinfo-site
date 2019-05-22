@@ -105,7 +105,19 @@
           "id": 0,
           "note": "2006",
           "value": {
-            "label": "Kohli made his first-class debut for Delhi against Tamil Nadu in 2006, at the age of 18"
+            "label": "Kohli made his first-class debut for Delhi against Tamil Nadu in 2006, at the age of 18",
+            "facts": [
+              {
+                "label": "SF20",
+                "value": {
+                  "label": "SF20",
+                  "image": {
+                    "url": "SF20",
+                    "altText": "SF20"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -113,7 +125,19 @@
           "id": 3,
           "note": "2008",
           "value": {
-            "label": "Kohli was included in the Indian ODI squad for 2008 tour of Sri Lanka and the Champions Trophy in Pakistan"
+            "label": "Kohli was included in the Indian ODI squad for 2008 tour of Sri Lanka and the Champions Trophy in Pakistan",
+            "facts": [
+              {
+                "label": "R13",
+                "value": {
+                  "label": "R13",
+                  "image": {
+                    "url": "R13",
+                    "altText": "R13"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -121,7 +145,19 @@
           "id": 1,
           "note": "2008",
           "value": {
-            "label": "Kohli captained the victorious Indian team at the 2008 ICC Under-19 Cricket World Cup held in Malaysia"
+            "label": "Kohli captained the victorious Indian team at the 2008 ICC Under-19 Cricket World Cup held in Malaysia",
+            "facts": [
+              {
+                "label": "R13",
+                "value": {
+                  "label": "R13",
+                  "image": {
+                    "url": "R13",
+                    "altText": "R13"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -129,14 +165,38 @@
           "id": 1,
           "note": "2011",
           "value": {
-            "label": "Kohli played in every match of India's successful World Cup campaign in 2011"
+            "label": "Kohli played in every match of India's successful World Cup campaign in 2011",
+            "facts": [
+              {
+                "label": "R13",
+                "value": {
+                  "label": "R13",
+                  "image": {
+                    "url": "R13",
+                    "altText": "R13"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "ICC Champions Trophy ",
           "id": 1,
           "value": {
-            "label": "In June 2013, Kohli featured in the ICC Champions Trophy in England which India won"
+            "label": "In June 2013, Kohli featured in the ICC Champions Trophy in England which India won",
+            "facts": [
+              {
+                "label": "R13",
+                "value": {
+                  "label": "R13",
+                  "image": {
+                    "url": "R13",
+                    "altText": "R13"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -144,7 +204,19 @@
           "id": 1,
           "note": "2014",
           "value": {
-            "label": "For 2014 ICC World Twenty20 and Kohli was named vice-captain."
+            "label": "For 2014 ICC World Twenty20 and Kohli was named vice-captain.",
+            "facts": [
+              {
+                "label": "R13",
+                "value": {
+                  "label": "R13",
+                  "image": {
+                    "url": "R13",
+                    "altText": "R13"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -152,7 +224,19 @@
           "id": 1,
           "note": "2008",
           "value": {
-            "label": "In March 2008, Kohli was bought on a youth contract by Royal Challengers Bangalore for $30,000. "
+            "label": "In March 2008, Kohli was bought on a youth contract by Royal Challengers Bangalore for $30,000. ",
+            "facts": [
+              {
+                "label": "R13",
+                "value": {
+                  "label": "R13",
+                  "image": {
+                    "url": "R13",
+                    "altText": "R13"
+                  }
+                }
+              }
+            ]
           }
         }
       ]

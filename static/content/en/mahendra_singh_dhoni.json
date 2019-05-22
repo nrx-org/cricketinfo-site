@@ -105,7 +105,19 @@
           "id": 0,
           "note": "1999",
           "value": {
-            "label": "Dhoni made his Ranji Trophy debut for Bihar in the 1999–2000 season at the age of 18."
+            "label": "Dhoni made his Ranji Trophy debut for Bihar in the 1999–2000 season at the age of 18.",
+            "facts": [
+              {
+                "label": "SF20",
+                "value": {
+                  "label": "SF20",
+                  "image": {
+                    "url": "SF20",
+                    "altText": "SF20"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -113,7 +125,19 @@
           "id": 3,
           "note": "2004",
           "value": {
-            "label": "Dhoni made his ODI debut."
+            "label": "Dhoni made his ODI debut.",
+            "facts": [
+              {
+                "label": "R18",
+                "value": {
+                  "label": "R18",
+                  "image": {
+                    "url": "R18",
+                    "altText": "R18"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -121,7 +145,19 @@
           "id": 1,
           "note": "2006",
           "value": {
-            "label": "2006 Dhoni scored a half-century against West Indies."
+            "label": "2006 Dhoni scored a half-century against West Indies.",
+            "facts": [
+              {
+                "label": "R18",
+                "value": {
+                  "label": "R18",
+                  "image": {
+                    "url": "R18",
+                    "altText": "R18"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -129,14 +165,38 @@
           "id": 1,
           "note": "2007",
           "value": {
-            "label": "India crashed out of the World Cup after in the group stage and Dhoni scored just 29 runs in the tournament."
+            "label": "India crashed out of the World Cup after in the group stage and Dhoni scored just 29 runs in the tournament.",
+            "facts": [
+              {
+                "label": "R18",
+                "value": {
+                  "label": "R18",
+                  "image": {
+                    "url": "R18",
+                    "altText": "R18"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "2007 ICC World Twenty20",
           "id": 1,
           "value": {
-            "label": "Dhoni was the captain of the Indian team that won the inaugural ICC World Twenty20 championship."
+            "label": "Dhoni was the captain of the Indian team that won the inaugural ICC World Twenty20 championship.",
+            "facts": [
+              {
+                "label": "R18",
+                "value": {
+                  "label": "R18",
+                  "image": {
+                    "url": "R18",
+                    "altText": "R18"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -144,7 +204,19 @@
           "id": 1,
           "note": "2011",
           "value": {
-            "label": "Under Dhoni's captaincy India won its second world cup title in 2011. He scored 91 not out, finishing the game with a historical six."
+            "label": "Under Dhoni's captaincy India won its second world cup title in 2011. He scored 91 not out, finishing the game with a historical six.",
+            "facts": [
+              {
+                "label": "R18",
+                "value": {
+                  "label": "R18",
+                  "image": {
+                    "url": "R18",
+                    "altText": "R18"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -152,7 +224,19 @@
           "id": 1,
           "note": "2008",
           "value": {
-            "label": "Dhoni was contracted by the Chennai Super Kings for US$1.5 million which made him the most expensive player in the IPL for the first season."
+            "label": "Dhoni was contracted by the Chennai Super Kings for US$1.5 million which made him the most expensive player in the IPL for the first season.",
+            "facts": [
+              {
+                "label": "R18",
+                "value": {
+                  "label": "R18",
+                  "image": {
+                    "url": "R18",
+                    "altText": "R18"
+                  }
+                }
+              }
+            ]
           }
         }
       ]

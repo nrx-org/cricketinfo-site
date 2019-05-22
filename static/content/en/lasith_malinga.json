@@ -105,7 +105,19 @@
           "id": 0,
           "note": "",
           "value": {
-            "label": ""
+            "label": "",
+            "facts": [
+              {
+                "label": "",
+                "value": {
+                  "label": "",
+                  "image": {
+                    "url": "",
+                    "altText": ""
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -113,7 +125,19 @@
           "id": 3,
           "note": "",
           "value": {
-            "label": "Malinga made his Test debut on 1 July 2004 against Australia at Marrara Oval In Darwin. "
+            "label": "Malinga made his Test debut on 1 July 2004 against Australia at Marrara Oval In Darwin. ",
+            "facts": [
+              {
+                "label": "R2",
+                "value": {
+                  "label": "R2",
+                  "image": {
+                    "url": "R2",
+                    "altText": "R2"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -121,7 +145,19 @@
           "id": 1,
           "note": "2007",
           "value": {
-            "label": "During the 2007 Cricket World Cup Super 8 match on 28 March between Sri Lanka and South Africa, Malinga became the first player to take four wickets in four consecutive balls in One Day International cricket."
+            "label": "During the 2007 Cricket World Cup Super 8 match on 28 March between Sri Lanka and South Africa, Malinga became the first player to take four wickets in four consecutive balls in One Day International cricket.",
+            "facts": [
+              {
+                "label": "R2",
+                "value": {
+                  "label": "R2",
+                  "image": {
+                    "url": "R2",
+                    "altText": "R2"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -129,14 +165,38 @@
           "id": 1,
           "note": "2011",
           "value": {
-            "label": "During the 2011 Cricket World Cup, Malinga took his second career hat-trick in Sri Lanka's group stage match against Kenya. This made him the first bowler to take two World Cup hat-tricks."
+            "label": "During the 2011 Cricket World Cup, Malinga took his second career hat-trick in Sri Lanka's group stage match against Kenya. This made him the first bowler to take two World Cup hat-tricks.",
+            "facts": [
+              {
+                "label": "R2",
+                "value": {
+                  "label": "R2",
+                  "image": {
+                    "url": "R2",
+                    "altText": "R2"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "Captaincy",
           "id": 1,
           "value": {
-            "label": "He became captain of Sri Lankan Cricket Team in 2014 ICC World Twenty20 after Dinesh Chandimal received a ban. He successfully led the team to win the world cup becoming the first Sri Lankan captain to win the ICC World Twenty20. "
+            "label": "He became captain of Sri Lankan Cricket Team in 2014 ICC World Twenty20 after Dinesh Chandimal received a ban. He successfully led the team to win the world cup becoming the first Sri Lankan captain to win the ICC World Twenty20. ",
+            "facts": [
+              {
+                "label": "R2",
+                "value": {
+                  "label": "R2",
+                  "image": {
+                    "url": "R2",
+                    "altText": "R2"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -144,7 +204,19 @@
           "id": 1,
           "note": "2019",
           "value": {
-            "label": "In April 2019, he was named in Sri Lanka's squad for the 2019 Cricket World Cup."
+            "label": "In April 2019, he was named in Sri Lanka's squad for the 2019 Cricket World Cup.",
+            "facts": [
+              {
+                "label": "R2",
+                "value": {
+                  "label": "R2",
+                  "image": {
+                    "url": "R2",
+                    "altText": "R2"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -152,7 +224,19 @@
           "id": 1,
           "note": "2008",
           "value": {
-            "label": "Malinga plays for Indian Premier League (IPL) team Mumbai Indians. He is their strike bowler in this format and is a leading bowler in the competition. "
+            "label": "Malinga plays for Indian Premier League (IPL) team Mumbai Indians. He is their strike bowler in this format and is a leading bowler in the competition. ",
+            "facts": [
+              {
+                "label": "R2",
+                "value": {
+                  "label": "R2",
+                  "image": {
+                    "url": "R2",
+                    "altText": "R2"
+                  }
+                }
+              }
+            ]
           }
         }
       ]

@@ -105,7 +105,19 @@
           "id": 0,
           "note": "2006",
           "value": {
-            "label": "Sharma made his First-class debut for India A against New Zealand A, in 2006, before his Ranji trophy debut."
+            "label": "Sharma made his First-class debut for India A against New Zealand A, in 2006, before his Ranji trophy debut.",
+            "facts": [
+              {
+                "label": "",
+                "value": {
+                  "label": "",
+                  "image": {
+                    "url": "",
+                    "altText": ""
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -113,7 +125,19 @@
           "id": 3,
           "note": "2007",
           "value": {
-            "label": "Rohit Sharma made his One Day International debut against Ireland, although he did not bat in the match."
+            "label": "Rohit Sharma made his One Day International debut against Ireland, although he did not bat in the match.",
+            "facts": [
+              {
+                "label": "",
+                "value": {
+                  "label": "",
+                  "image": {
+                    "url": "",
+                    "altText": ""
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -121,7 +145,19 @@
           "id": 1,
           "note": "2007",
           "value": {
-            "label": "Rohit Sharma led India to a crucial victory by scoring an unbeaten 50 against South Africa in the 2007 ICC World Twenty20, which took the team to the semi-finals."
+            "label": "Rohit Sharma led India to a crucial victory by scoring an unbeaten 50 against South Africa in the 2007 ICC World Twenty20, which took the team to the semi-finals.",
+            "facts": [
+              {
+                "label": "",
+                "value": {
+                  "label": "",
+                  "image": {
+                    "url": "",
+                    "altText": ""
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -129,14 +165,38 @@
           "id": 1,
           "note": "2013",
           "value": {
-            "label": "In 2013, he was promoted as the new opening batsman for India along with Shikhar Dhawan for the Champions Trophy."
+            "label": "In 2013, he was promoted as the new opening batsman for India along with Shikhar Dhawan for the Champions Trophy.",
+            "facts": [
+              {
+                "label": "",
+                "value": {
+                  "label": "",
+                  "image": {
+                    "url": "",
+                    "altText": ""
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "2015 World Cup",
           "id": 1,
           "value": {
-            "label": ""
+            "label": "",
+            "facts": [
+              {
+                "label": "",
+                "value": {
+                  "label": "",
+                  "image": {
+                    "url": "",
+                    "altText": ""
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -144,7 +204,19 @@
           "id": 1,
           "note": "",
           "value": {
-            "label": ""
+            "label": "",
+            "facts": [
+              {
+                "label": "",
+                "value": {
+                  "label": "",
+                  "image": {
+                    "url": "",
+                    "altText": ""
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -152,7 +224,19 @@
           "id": 1,
           "note": "2008",
           "value": {
-            "label": "Sharma was signed up by the Deccan Chargers for a sum of US$750,000 a year in 2008."
+            "label": "Sharma was signed up by the Deccan Chargers for a sum of US$750,000 a year in 2008.",
+            "facts": [
+              {
+                "label": "",
+                "value": {
+                  "label": "",
+                  "image": {
+                    "url": "",
+                    "altText": ""
+                  }
+                }
+              }
+            ]
           }
         }
       ]

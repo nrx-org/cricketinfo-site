@@ -105,7 +105,19 @@
           "id": 0,
           "note": "1988",
           "value": {
-            "label": "In 1988, aged 15 years and 232 days, Tendulkar made his first class debut for Bombay against Gujarat and scored 100 not out in that match."
+            "label": "In 1988, aged 15 years and 232 days, Tendulkar made his first class debut for Bombay against Gujarat and scored 100 not out in that match.",
+            "facts": [
+              {
+                "label": "SF20",
+                "value": {
+                  "label": "SF20",
+                  "image": {
+                    "url": "SF20",
+                    "altText": "SF20"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -113,7 +125,19 @@
           "id": 3,
           "note": "1989",
           "value": {
-            "label": "Tendulkar made his Test debut against Pakistan in Karachi in November 1989 aged 16 years."
+            "label": "Tendulkar made his Test debut against Pakistan in Karachi in November 1989 aged 16 years.",
+            "facts": [
+              {
+                "label": "R8",
+                "value": {
+                  "label": "R8",
+                  "image": {
+                    "url": "R8",
+                    "altText": "R8"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -121,7 +145,19 @@
           "id": 1,
           "note": "1992",
           "value": {
-            "label": "Tendulkar was part of the Indian squad for the 1992 Cricket World Cup."
+            "label": "Tendulkar was part of the Indian squad for the 1992 Cricket World Cup.",
+            "facts": [
+              {
+                "label": "R8",
+                "value": {
+                  "label": "R8",
+                  "image": {
+                    "url": "R8",
+                    "altText": "R8"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -129,14 +165,38 @@
           "id": 1,
           "note": "1996",
           "value": {
-            "label": "Tendulkar was the leading run scorer at the 1996 World Cup, with a total of 523 runs."
+            "label": "Tendulkar was the leading run scorer at the 1996 World Cup, with a total of 523 runs.",
+            "facts": [
+              {
+                "label": "R8",
+                "value": {
+                  "label": "R8",
+                  "image": {
+                    "url": "R8",
+                    "altText": "R8"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "1999 World Cup",
           "id": 1,
           "value": {
-            "label": "Sachin's father died in the middle of the 1999 Cricket World Cup. HE flew back to India to attend the final rituals of his father, missing the match against Zimbabwe. However, he returned to the World Cup scoring a century (140 not out off 101 balls) in his very next match against Kenya in Bristol"
+            "label": "Sachin's father died in the middle of the 1999 Cricket World Cup. HE flew back to India to attend the final rituals of his father, missing the match against Zimbabwe. However, he returned to the World Cup scoring a century (140 not out off 101 balls) in his very next match against Kenya in Bristol",
+            "facts": [
+              {
+                "label": "R8",
+                "value": {
+                  "label": "R8",
+                  "image": {
+                    "url": "R8",
+                    "altText": "R8"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -144,7 +204,19 @@
           "id": 1,
           "note": "2003",
           "value": {
-            "label": "Tendulkar made 673 runs in 11 matches in the 2003 Cricket World Cup"
+            "label": "Tendulkar made 673 runs in 11 matches in the 2003 Cricket World Cup",
+            "facts": [
+              {
+                "label": "R8",
+                "value": {
+                  "label": "R8",
+                  "image": {
+                    "url": "R8",
+                    "altText": "R8"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -152,7 +224,19 @@
           "id": 1,
           "note": "2008",
           "value": {
-            "label": "Tendulkar was made the icon player and captain for his home side, the Mumbai Indians in the inaugural Indian Premier League in 2008."
+            "label": "Tendulkar was made the icon player and captain for his home side, the Mumbai Indians in the inaugural Indian Premier League in 2008.",
+            "facts": [
+              {
+                "label": "R8",
+                "value": {
+                  "label": "R8",
+                  "image": {
+                    "url": "R8",
+                    "altText": "R8"
+                  }
+                }
+              }
+            ]
           }
         }
       ]

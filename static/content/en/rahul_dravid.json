@@ -105,7 +105,19 @@
           "id": 0,
           "note": "1991",
           "value": {
-            "label": "Dravid made his Ranji Trophy debut in 1991versus Maharashtra."
+            "label": "Dravid made his Ranji Trophy debut in 1991versus Maharashtra.",
+            "facts": [
+              {
+                "label": "SF20",
+                "value": {
+                  "label": "SF20",
+                  "image": {
+                    "url": "SF20",
+                    "altText": "SF20"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -113,7 +125,19 @@
           "id": 3,
           "note": "1996",
           "value": {
-            "label": "Dravid made his international debut in 1996 in an ODI against Sri Lanka in the Singer Cup held in Singapore."
+            "label": "Dravid made his international debut in 1996 in an ODI against Sri Lanka in the Singer Cup held in Singapore.",
+            "facts": [
+              {
+                "label": "R13",
+                "value": {
+                  "label": "R13",
+                  "image": {
+                    "url": "R13",
+                    "altText": "R13"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -121,7 +145,19 @@
           "id": 1,
           "note": "1999",
           "value": {
-            "label": "Dravid made his World Cup debut against South Africa in 1999 at Hove scoring a half century."
+            "label": "Dravid made his World Cup debut against South Africa in 1999 at Hove scoring a half century.",
+            "facts": [
+              {
+                "label": "R13",
+                "value": {
+                  "label": "R13",
+                  "image": {
+                    "url": "R13",
+                    "altText": "R13"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -129,14 +165,38 @@
           "id": 1,
           "note": "2003",
           "value": {
-            "label": "Dravid was the vice-captain during the 2003 World Cup, playing as a wicket-keeper batsman."
+            "label": "Dravid was the vice-captain during the 2003 World Cup, playing as a wicket-keeper batsman.",
+            "facts": [
+              {
+                "label": "R13",
+                "value": {
+                  "label": "R13",
+                  "image": {
+                    "url": "R13",
+                    "altText": "R13"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "2007 World Cup",
           "id": 1,
           "value": {
-            "label": "Rahul Dravid was appointed the captain for the Indian team for the 2007 World Cup, where India had an unsuccessful campaign."
+            "label": "Rahul Dravid was appointed the captain for the Indian team for the 2007 World Cup, where India had an unsuccessful campaign.",
+            "facts": [
+              {
+                "label": "R13",
+                "value": {
+                  "label": "R13",
+                  "image": {
+                    "url": "R13",
+                    "altText": "R13"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -144,7 +204,19 @@
           "id": 1,
           "note": "",
           "value": {
-            "label": ""
+            "label": "",
+            "facts": [
+              {
+                "label": "R13",
+                "value": {
+                  "label": "R13",
+                  "image": {
+                    "url": "R13",
+                    "altText": "R13"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -152,7 +224,19 @@
           "id": 1,
           "note": "2008",
           "value": {
-            "label": "Rahul Dravid played for Royal Challengers Bangalore in IPL 2008, 2009 and 2010."
+            "label": "Rahul Dravid played for Royal Challengers Bangalore in IPL 2008, 2009 and 2010.",
+            "facts": [
+              {
+                "label": "R13",
+                "value": {
+                  "label": "R13",
+                  "image": {
+                    "url": "R13",
+                    "altText": "R13"
+                  }
+                }
+              }
+            ]
           }
         }
       ]

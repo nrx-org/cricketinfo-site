@@ -105,7 +105,19 @@
           "id": 0,
           "note": "1989",
           "value": {
-            "label": "Sourav Ganguly made his first-class cricket debut for Bengal in 1989."
+            "label": "Sourav Ganguly made his first-class cricket debut for Bengal in 1989.",
+            "facts": [
+              {
+                "label": "SF20",
+                "value": {
+                  "label": "SF20",
+                  "image": {
+                    "url": "SF20",
+                    "altText": "SF20"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -113,7 +125,19 @@
           "id": 3,
           "note": "1992",
           "value": {
-            "label": "Ganguly scored three runs in his One Day International (ODI) debut for India against the West Indies in 1992."
+            "label": "Ganguly scored three runs in his One Day International (ODI) debut for India against the West Indies in 1992.",
+            "facts": [
+              {
+                "label": "R3",
+                "value": {
+                  "label": "R3",
+                  "image": {
+                    "url": "R3",
+                    "altText": "R3"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -121,7 +145,19 @@
           "id": 1,
           "note": "1999",
           "value": {
-            "label": "Ganguly scored 183 run from 158 balls versus Sri Lanka during the 1999 World cup, his highest ODI score."
+            "label": "Ganguly scored 183 run from 158 balls versus Sri Lanka during the 1999 World cup, his highest ODI score.",
+            "facts": [
+              {
+                "label": "R3",
+                "value": {
+                  "label": "R3",
+                  "image": {
+                    "url": "R3",
+                    "altText": "R3"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -129,14 +165,38 @@
           "id": 1,
           "note": "2002",
           "value": {
-            "label": "India was declared co-champions of the tournament and Ganguly score 117 not out in the pool stage versus England. "
+            "label": "India was declared co-champions of the tournament and Ganguly score 117 not out in the pool stage versus England. ",
+            "facts": [
+              {
+                "label": "R3",
+                "value": {
+                  "label": "R3",
+                  "image": {
+                    "url": "R3",
+                    "altText": "R3"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "2003 World Cup",
           "id": 1,
           "value": {
-            "label": "Under Sourav Ganguly's captainship India reached the finals of the world cup for the first time since 1983."
+            "label": "Under Sourav Ganguly's captainship India reached the finals of the world cup for the first time since 1983.",
+            "facts": [
+              {
+                "label": "R3",
+                "value": {
+                  "label": "R3",
+                  "image": {
+                    "url": "R3",
+                    "altText": "R3"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -144,7 +204,19 @@
           "id": 1,
           "note": "2007",
           "value": {
-            "label": "Ganguly was the leading scorer for India although the team was knocked out of the tournament in the group stage."
+            "label": "Ganguly was the leading scorer for India although the team was knocked out of the tournament in the group stage.",
+            "facts": [
+              {
+                "label": "R3",
+                "value": {
+                  "label": "R3",
+                  "image": {
+                    "url": "R3",
+                    "altText": "R3"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -152,7 +224,19 @@
           "id": 1,
           "note": "2008",
           "value": {
-            "label": "Ganguly joined the Kolkata Knight Riders team as captain for the Indian Premier League in 2008."
+            "label": "Ganguly joined the Kolkata Knight Riders team as captain for the Indian Premier League in 2008.",
+            "facts": [
+              {
+                "label": "R3",
+                "value": {
+                  "label": "R3",
+                  "image": {
+                    "url": "R3",
+                    "altText": "R3"
+                  }
+                }
+              }
+            ]
           }
         }
       ]

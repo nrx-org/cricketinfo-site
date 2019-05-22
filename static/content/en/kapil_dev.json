@@ -105,7 +105,19 @@
           "id": 0,
           "note": "1975",
           "value": {
-            "label": "Dev made an impressive debut for Haryana in November 1975 against Punjab."
+            "label": "Dev made an impressive debut for Haryana in November 1975 against Punjab.",
+            "facts": [
+              {
+                "label": "",
+                "value": {
+                  "label": "",
+                  "image": {
+                    "url": "",
+                    "altText": ""
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -113,7 +125,19 @@
           "id": 3,
           "note": "1978",
           "value": {
-            "label": "One day cricket debut against Pakistan where his individual performance was ordinary."
+            "label": "One day cricket debut against Pakistan where his individual performance was ordinary.",
+            "facts": [
+              {
+                "label": "R8",
+                "value": {
+                  "label": "R8",
+                  "image": {
+                    "url": "R8",
+                    "altText": "R8"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -121,7 +145,19 @@
           "id": 1,
           "note": "1979",
           "value": {
-            "label": "Both Kapil Dev and India had a poor campaign at the 1979 Cricket World Cup."
+            "label": "Both Kapil Dev and India had a poor campaign at the 1979 Cricket World Cup.",
+            "facts": [
+              {
+                "label": "R8",
+                "value": {
+                  "label": "R8",
+                  "image": {
+                    "url": "R8",
+                    "altText": "R8"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -129,14 +165,38 @@
           "id": 1,
           "note": "1983",
           "value": {
-            "label": "India won the 1983 world cup under Kapil Dev's captaincy."
+            "label": "India won the 1983 world cup under Kapil Dev's captaincy.",
+            "facts": [
+              {
+                "label": "R8",
+                "value": {
+                  "label": "R8",
+                  "image": {
+                    "url": "R8",
+                    "altText": "R8"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "1987 World Cup",
           "id": 1,
           "value": {
-            "label": "Kapil Dev was retained as the captain of the Indian team for the 1987 World Cup."
+            "label": "Kapil Dev was retained as the captain of the Indian team for the 1987 World Cup.",
+            "facts": [
+              {
+                "label": "R8",
+                "value": {
+                  "label": "R8",
+                  "image": {
+                    "url": "R8",
+                    "altText": "R8"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -144,7 +204,19 @@
           "id": 1,
           "note": "1992",
           "value": {
-            "label": "Kapil Dev played his last world cup in 1992 under the captaincy of Mohammed Azharuddin"
+            "label": "Kapil Dev played his last world cup in 1992 under the captaincy of Mohammed Azharuddin",
+            "facts": [
+              {
+                "label": "R8",
+                "value": {
+                  "label": "R8",
+                  "image": {
+                    "url": "R8",
+                    "altText": "R8"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -152,7 +224,19 @@
           "id": 1,
           "note": "",
           "value": {
-            "label": ""
+            "label": "",
+            "facts": [
+              {
+                "label": "R8",
+                "value": {
+                  "label": "R8",
+                  "image": {
+                    "url": "R8",
+                    "altText": "R8"
+                  }
+                }
+              }
+            ]
           }
         }
       ]

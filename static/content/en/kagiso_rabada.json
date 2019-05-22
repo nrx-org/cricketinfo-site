@@ -105,7 +105,19 @@
           "id": 0,
           "note": "2013",
           "value": {
-            "label": "Rabada made his debut for the Gauteng in the CSA Provincial One-Day Competition against Border in December 2013."
+            "label": "Rabada made his debut for the Gauteng in the CSA Provincial One-Day Competition against Border in December 2013.",
+            "facts": [
+              {
+                "label": "",
+                "value": {
+                  "label": "",
+                  "image": {
+                    "url": "",
+                    "altText": ""
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -113,7 +125,19 @@
           "id": 3,
           "note": "",
           "value": {
-            "label": "Rabada made his Twenty20 International debut for South Africa against Australia on 5 November 2014."
+            "label": "Rabada made his Twenty20 International debut for South Africa against Australia on 5 November 2014.",
+            "facts": [
+              {
+                "label": "R2",
+                "value": {
+                  "label": "R2",
+                  "image": {
+                    "url": "R2",
+                    "altText": "R2"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -121,7 +145,19 @@
           "id": 1,
           "note": "",
           "value": {
-            "label": "Rabada was chosen to represent South Africa's Under-19 side for the 2014 ICC Under-19 Cricket World Cup. "
+            "label": "Rabada was chosen to represent South Africa's Under-19 side for the 2014 ICC Under-19 Cricket World Cup. ",
+            "facts": [
+              {
+                "label": "R2",
+                "value": {
+                  "label": "R2",
+                  "image": {
+                    "url": "R2",
+                    "altText": "R2"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -129,14 +165,38 @@
           "id": 1,
           "note": "2019",
           "value": {
-            "label": "In April 2019, he was named in South Africa's squad for the 2019 Cricket World Cup."
+            "label": "In April 2019, he was named in South Africa's squad for the 2019 Cricket World Cup.",
+            "facts": [
+              {
+                "label": "R2",
+                "value": {
+                  "label": "R2",
+                  "image": {
+                    "url": "R2",
+                    "altText": "R2"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "",
           "id": 1,
           "value": {
-            "label": ""
+            "label": "",
+            "facts": [
+              {
+                "label": "R2",
+                "value": {
+                  "label": "R2",
+                  "image": {
+                    "url": "R2",
+                    "altText": "R2"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -144,7 +204,19 @@
           "id": 1,
           "note": "",
           "value": {
-            "label": ""
+            "label": "",
+            "facts": [
+              {
+                "label": "R2",
+                "value": {
+                  "label": "R2",
+                  "image": {
+                    "url": "R2",
+                    "altText": "R2"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -152,7 +224,19 @@
           "id": 1,
           "note": "2017",
           "value": {
-            "label": "In February 2017, Rabada was bought by the Delhi Daredevils team for the 2017 Indian Premier League for INR 50 million."
+            "label": "In February 2017, Rabada was bought by the Delhi Daredevils team for the 2017 Indian Premier League for INR 50 million.",
+            "facts": [
+              {
+                "label": "R2",
+                "value": {
+                  "label": "R2",
+                  "image": {
+                    "url": "R2",
+                    "altText": "R2"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
