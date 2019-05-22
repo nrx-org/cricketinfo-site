@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/click-events-have-key-events */
 /* eslint-disable jsx-a11y/no-noninteractive-element-interactions */
 
-import React from "react";
+import React, { Component } from "react";
 import PropTypes from "prop-types";
 import { LanguageContextConsumer } from "../language_context";
 import { TinyCard } from "./TinyCard";
@@ -23,74 +23,98 @@ const INCORRECT_ANSWER_MESSAGE = (lang, answerIndex) => {
   }[lang];
 };
 
-export const QuizQuestion = ({
-  question,
-  userAnswerIndex,
-  setUserAnswerIndex
-}) => {
-  const isAnswered = userAnswerIndex !== -1;
-  const isAnsweredCorrectly = userAnswerIndex === question.answerIndex;
+export class QuizQuestion extends Component {
+  constructor(props) {
+    super(props);
+    this.questionRef = React.createRef();
+    this.scrollToRelatedArticleIfNecessary = this.scrollToRelatedArticleIfNecessary.bind(
+      this
+    );
+  }
 
-  return (
-    <LanguageContextConsumer>
-      {lang => (
-        <div className="wcp-quiz-question">
-          <p>{question.label}</p>
-          <ul className="wcp-quiz-question__answers">
-            {question.options.map((o, index) => {
-              let className = "wcp-quiz-question__answers__answer-wrapper";
+  scrollToRelatedArticleIfNecessary() {
+    if (this.questionRef.current.offsetTop > window.scrollY)
+      window.scrollTo({
+        left: 0,
+        top: this.questionRef.current.offsetTop - 100,
+        behavior: "smooth"
+      });
+  }
 
-              className = `${className} ${
-                isAnswered && index !== userAnswerIndex
-                  ? "wcp-quiz-question__answers__answer-wrapper--inactive"
-                  : ""
-              }`;
+  render() {
+    const { question, userAnswerIndex, setUserAnswerIndex } = this.props;
+    const isAnswered = userAnswerIndex !== -1;
+    const isAnsweredCorrectly = userAnswerIndex === question.answerIndex;
 
-              className = `${className} ${
-                isAnsweredCorrectly && index === question.answerIndex
-                  ? "wcp-quiz-question__answers__answer-wrapper--correct"
-                  : ""
-              }`;
+    return (
+      <LanguageContextConsumer>
+        {lang => (
+          <div className="wcp-quiz-question" ref={this.questionRef}>
+            <p>{question.label}</p>
+            <ul className="wcp-quiz-question__answers">
+              {question.options.map((o, index) => {
+                let className = "wcp-quiz-question__answers__answer-wrapper";
 
-              className = `${className} ${
-                !isAnsweredCorrectly && index === userAnswerIndex
-                  ? "wcp-quiz-question__answers__answer-wrapper--incorrect"
-                  : ""
-              }`;
+                className = `${className} ${
+                  isAnswered && index !== userAnswerIndex
+                    ? "wcp-quiz-question__answers__answer-wrapper--inactive"
+                    : ""
+                }`;
 
-              return (
-                <li
-                  className={className}
-                  onClick={() => setUserAnswerIndex(index)}
+                className = `${className} ${
+                  isAnsweredCorrectly && index === question.answerIndex
+                    ? "wcp-quiz-question__answers__answer-wrapper--correct"
+                    : ""
+                }`;
+
+                className = `${className} ${
+                  !isAnsweredCorrectly && index === userAnswerIndex
+                    ? "wcp-quiz-question__answers__answer-wrapper--incorrect"
+                    : ""
+                }`;
+
+                return (
+                  <li
+                    className={className}
+                    key={`quizQuestion${question.id}-option:${o.label}`}
+                    onClick={() =>
+                      setUserAnswerIndex(
+                        index,
+                        this.scrollToRelatedArticleIfNecessary
+                      )
+                    }
+                  >
+                    <span className="wcp-quiz-question__answers__answer">
+                      {o.label}
+                    </span>
+                  </li>
+                );
+              })}
+            </ul>
+
+            <div>
+              {isAnswered && isAnsweredCorrectly ? (
+                <p>{CORRECT_ANSWER_MESSAGE[lang]}</p>
+              ) : null}
+              {isAnswered && !isAnsweredCorrectly ? (
+                <p>{INCORRECT_ANSWER_MESSAGE(lang, question.answerIndex)}</p>
+              ) : null}
+              {isAnswered ? (
+                <TinyCard
+                  title={question.relatedArticle.label}
+                  coverImage={question.relatedArticle.value.image}
+                  href={question.relatedArticle.value.url}
                 >
-                  <span className="wcp-quiz-question__answers__answer">
-                    {o.label}
-                  </span>
-                </li>
-              );
-            })}
-          </ul>
-
-          {isAnswered && isAnsweredCorrectly ? (
-            <p>{CORRECT_ANSWER_MESSAGE[lang]}</p>
-          ) : null}
-          {isAnswered && !isAnsweredCorrectly ? (
-            <p>{INCORRECT_ANSWER_MESSAGE(lang, question.answerIndex)}</p>
-          ) : null}
-          {isAnswered ? (
-            <TinyCard
-              title={question.relatedArticle.label}
-              coverImage={question.relatedArticle.value.image}
-              href={question.relatedArticle.value.url}
-            >
-              {question.relatedArticle.value.label}
-            </TinyCard>
-          ) : null}
-        </div>
-      )}
-    </LanguageContextConsumer>
-  );
-};
+                  {question.relatedArticle.value.label}
+                </TinyCard>
+              ) : null}
+            </div>
+          </div>
+        )}
+      </LanguageContextConsumer>
+    );
+  }
+}
 
 QuizQuestion.propTypes = {
   question: quizQuestionPropType.isRequired,
