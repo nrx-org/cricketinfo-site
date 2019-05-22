@@ -3,11 +3,11 @@
   "builds": [{ "src": "package.json", "use": "@now/next" }],
   "routes": [
     {
-      "src": "/(?<lang>.*)/(?<articleId>.*)",
+      "src": "/read/(?<lang>.*)/(?<articleId>.*)",
       "dest": "/article?lang=$lang&articleId=$articleId"
     },
     {
-      "src": "/(?<lang>.*)",
+      "src": "/read/(?<lang>.*)",
       "dest": "/home?lang=$lang"
     }
   ],

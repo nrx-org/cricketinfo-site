@@ -10,7 +10,7 @@ app
   .then(() => {
     const server = express();
 
-    server.get("/:lang", (req, res) => {
+    server.get("/read/:lang", (req, res) => {
       const actualPage = "/home";
 
       const queryParams = {
@@ -20,7 +20,7 @@ app
       app.render(req, res, actualPage, queryParams);
     });
 
-    server.get("/:lang/:articleId", (req, res) => {
+    server.get("/read/:lang/:articleId", (req, res) => {
       const actualPage = "/article";
 
       const queryParams = {
