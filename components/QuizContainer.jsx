@@ -10,6 +10,10 @@ const LOCALSTORAGE_KEY = "wcpQuizContainerData";
 export class QuizContainer extends Component {
   constructor(props) {
     super(props);
+    this.state = {
+      showQuizComponent: false,
+      scheduledQuestions: []
+    };
 
     this.setUserAnswerIndex = this.setUserAnswerIndex.bind(this);
   }
@@ -34,7 +38,7 @@ export class QuizContainer extends Component {
     return quizContainerData[questionId];
   }
 
-  setUserAnswerIndex(questionId, userAnswerIndex) {
+  setUserAnswerIndex(questionId, userAnswerIndex, callback) {
     if (!process.browser) {
       return;
     }
@@ -47,38 +51,58 @@ export class QuizContainer extends Component {
       quizContainerData = JSON.parse(quizContainerDataString);
     }
 
+    // Do not let users change the answer
+    if(typeof quizContainerData[questionId] !== 'undefined' && quizContainerData[questionId] > -1) {
+      return;
+    }
+
     quizContainerData[questionId] = userAnswerIndex;
 
     localStorage.setItem(LOCALSTORAGE_KEY, JSON.stringify(quizContainerData));
 
     this.forceUpdate();
+
+    if(callback) {
+      callback()
+    }
   }
 
-  render() {
-    if (!process.browser) {
-      return null;
-    }
-
+  componentDidMount() {
     const { questions } = this.props;
+
     const dateString = todayString();
     const scheduledQuestions = questions.filter(q => q.date === dateString);
 
-    if (scheduledQuestions.length === 0) {
-      return null;
+    if (scheduledQuestions.length > 0) {
+      this.setState({
+        showQuizComponent: true,
+        scheduledQuestions: scheduledQuestions
+      });
     }
+  }
+
+  render() {
+    const { questions } = this.props;
+    const { showQuizComponent, scheduledQuestions } = this.state;
 
     return (
-      <section>
-        <LargeSectionTitle>Do you know?</LargeSectionTitle>
-        {scheduledQuestions.map(q => (
-          <QuizQuestion
-            key={`quizQuestion${q.id}`}
-            question={q}
-            userAnswerIndex={QuizContainer.getUserAnswerIndex(q.id)}
-            setUserAnswerIndex={index => this.setUserAnswerIndex(q.id, index)}
-          />
-        ))}
-      </section>
+      <React.Fragment>
+        {showQuizComponent ? (
+          <section>
+            <LargeSectionTitle>Do you know?</LargeSectionTitle>
+            {scheduledQuestions.map(q => (
+              <QuizQuestion
+                key={`quizQuestion${q.id}`}
+                question={q}
+                userAnswerIndex={QuizContainer.getUserAnswerIndex(q.id)}
+                setUserAnswerIndex={(index, callback) =>
+                  this.setUserAnswerIndex(q.id, index, callback)
+                }
+              />
+            ))}
+          </section>
+        ) : null}
+      </React.Fragment>
     );
   }
 }
