@@ -1,5 +1,11 @@
 .wcp-live-score-container {
   color: white;
+  max-width: 12rem;
+  overflow-x: scroll;
+  scroll-snap-type: x mandatory;
+  @include hide-scrollbar();
+
+  display: flex;
 }
 
 .wcp-live-score-container__title__dot {
@@ -14,34 +20,18 @@
 
 .wcp-live-score-container__title__text {
   margin-left: 0.25rem;
+  white-space: nowrap;
 }
 
 .wcp-live-score-container__title {
   display: flex;
   font-size: $font-size-xxs;
-  text-transform: uppercase;
   align-items: center;
 }
 
 .wcp-live-score-container__score-table {
   border-collapse: collapse;
   border-left: $border-divider-gray-light;
-  scroll-snap-align: start;
-
-  &:first-child {
-    border-left: none;
-    margin-right: 1rem;
-  }
-
-  &:last-child {
-    th {
-      padding-left: 1rem;
-    }
-
-    td {
-      padding-right: 1.5rem;
-    }
-  }
 
   th {
     border-right: solid $gutter-m transparent;
@@ -51,6 +41,7 @@
 
   td {
     text-align: center;
+    vertical-align: top;
   }
 
   th, td {
@@ -72,10 +63,27 @@
 }
 
 .wcp-live-score-container__score-table-container {
-  max-width: 11rem;
-  overflow-x: scroll;
-  scroll-snap-type: x mandatory;
-  @include hide-scrollbar();
+  scroll-snap-align: start;
 
-  display: flex;
+  &:first-child {
+    margin-right: 1.5rem;
+
+    .wcp-live-score-container__score-table {
+      border-left: none;
+    }
+  }
+
+  &:last-child {
+    padding-right: 1.5rem;
+
+    .wcp-live-score-container__title {
+      padding-left: 1.5rem;
+    }
+
+    .wcp-live-score-container__score-table {
+      th {
+        padding-left: 1.5rem;
+      }
+    }
+  }
 }
