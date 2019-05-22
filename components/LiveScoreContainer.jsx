@@ -60,8 +60,8 @@ export class LiveScoreContainer extends React.Component {
                 <th className="wcp-font-family-heading">
                   <img
                     className="wcp-live-score-container__team-flag"
-                    src={getFlagImageUrl(match.teamA.label)}
-                    alt={`Flag of ${match.teamA.label}`}
+                    src={getFlagImageUrl(match.teamA.name)}
+                    alt={`Flag of ${match.teamA.name}`}
                   />
                   <span className="wcp-live-score-container__team-label">
                     {match.teamA.label}
@@ -73,8 +73,8 @@ export class LiveScoreContainer extends React.Component {
                 <th className="wcp-font-family-heading">
                   <img
                     className="wcp-live-score-container__team-flag"
-                    src={getFlagImageUrl(match.teamB.label)}
-                    alt={`Flag of ${match.teamB.label}`}
+                    src={getFlagImageUrl(match.teamB.name)}
+                    alt={`Flag of ${match.teamB.name}`}
                   />
                   <span className="wcp-live-score-container__team-label">
                     {match.teamB.label}

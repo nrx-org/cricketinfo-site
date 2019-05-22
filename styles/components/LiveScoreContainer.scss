@@ -63,8 +63,12 @@
 }
 
 .wcp-live-score-container__team-flag {
-  width: 1.5rem;
+  width: 2.25rem;
   height: 1.5rem;
+  overflow: hidden;
+  border: solid 1px $color-gray-light;
+  border-radius: $border-radius-s;
+  object-fit: cover;
 }
 
 .wcp-live-score-container__score-table-container {
