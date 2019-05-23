@@ -31,6 +31,8 @@ import { Button } from "../components/Button";
 import { ContinueReadingModalContainer } from "../components/ContinueReadingModalContainer";
 import { HomeButton } from "../components/HomeButton";
 
+import track from "react-tracking";
+
 const Article = ({
   articleId,
   title,
@@ -161,4 +163,6 @@ Article.propTypes = {
   imageAttributions: PropTypes.arrayOf(imagePropTypes).isRequired
 };
 
-export default Article;
+export default track(props => {
+  return { page: "ArticlePage", language: props.lang };
+}, { dispatchOnMount: true })(Article)

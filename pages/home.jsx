@@ -9,6 +9,8 @@ import { makeSiteTitle } from "../lib/make_title";
 import { homeContentUrl } from "../lib/urls";
 import { SwitchLanguageFloatingToolbar } from "../components/SwitchLanguageFloatingToolbar";
 
+import track from "react-tracking";
+
 import {
   factPropTypes,
   quizQuestionPropType,
@@ -165,4 +167,6 @@ Home.propTypes = {
   quizQuestions: PropTypes.arrayOf(quizQuestionPropType).isRequired
 };
 
-export default Home;
+export default track(props => {
+  return { page: "HomePage", language: props.lang };
+}, { dispatchOnMount: true })(Home);

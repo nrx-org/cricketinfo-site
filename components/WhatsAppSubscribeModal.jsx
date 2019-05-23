@@ -6,16 +6,88 @@ import { Icon } from "./Icon";
 import { getAbsoluteArticleUrl, getPdfShareUrl } from "../lib/urls";
 import { articleUiStrings, commonUiStrings } from "../lib/ui_strings";
 
+import track, { useTracking } from "react-tracking";
+import {
+  SAVE_FOR_LATER_SHARE_NUMBER,
+  SAVE_FOR_LATER_INTERESTED,
+  SAVE_FOR_LATER_DOWNLOAD_PDF
+} from "../lib/matomo";
+
+const GET_UPDATES_MESSAGE = {
+  en: "Get updates on WhatsApp",
+  hi: "व्हाट्सएप पर अपडेट पाएं",
+  ta: "TODO"
+};
+
+const CONFIRM_SUBSCRIPTION_MESSAGE = {
+  en: "Do you want similar fun and engaging information on WhatsApp?",
+  hi:
+    "क्या आप व्हाट्सएप पर इसी तरह की रोचक और मनोरंजक जानकारी प्राप्त करना चाहते हैं?",
+  ta: "TODO"
+};
+
+const BUTTON_MESSAGE_YES = {
+  en: "Yes, I'm interested",
+  hi: "हाँ",
+  ta: "TODO"
+};
+
+const BUTTON_MESSAGE_NO = {
+  en: "No",
+  hi: "नहीं",
+  ta: "TODO"
+};
+
+const ENTER_NUMBER_MESSAGE = {
+  en:
+    "Enter your WhatsApp number below to start receiving interesting articles on your WhatsApp.",
+  hi: "TODO",
+  ta: "TODO"
+};
+
+const ENTER_NUMBER_INPUT_PLACEHOLDER_MESSAGE = {
+  en: "Enter WhatsApp number",
+  hi: "TODO",
+  ta: "TODO"
+};
+
+const BUTTON_MESSAGE_SUBSCRIBE = {
+  en: "Subscribe to updates",
+  hi: "TODO",
+  ta: "TODO"
+};
+
+const BUTTON_MESSAGE_CLOSE = {
+  en: "Close",
+  hi: "TODO",
+  ta: "TODO"
+};
+
+const BUTTON_MESSAGE_DOWNLOAD_PDF = {
+  en: "Download PDF",
+  hi: "TODO",
+  ta: "TODO"
+};
+
+const ERROR_SUBSCRIBING_MESSAGE = {
+  en:
+    "There was an error while subscribing you to WhatsApp updates. Please try again.",
+  hi: "TODO",
+  ta: "TODO"
+};
+
 const STEP_CONFIRM = "STEP_CONFIRM";
 const STEP_INPUT_NUMBER = "STEP_INPUT_NUMBER";
 const STEP_DOWNLOAD_PDF = "STEP_DOWNLOAD_PDF";
 
+@track({component: 'WhatsAppSubscribeModal'})
 export class WhatsAppSubscribeModal extends Component {
   constructor(props) {
     super(props);
 
     this.onAgreeClick = this.onAgreeClick.bind(this);
     this.onSubmitNumber = this.onSubmitNumber.bind(this);
+    this.onDownloadPDFClick = this.onDownloadPDFClick.bind(this);
 
     this.state = {
       currentStep: STEP_CONFIRM
@@ -32,14 +104,22 @@ export class WhatsAppSubscribeModal extends Component {
     }
   }
 
+  @track(SAVE_FOR_LATER_INTERESTED)
   onAgreeClick(event) {
     event.preventDefault();
     this.setState({ currentStep: STEP_INPUT_NUMBER });
   }
 
+  @track(SAVE_FOR_LATER_SHARE_NUMBER)
   onSubmitNumber(event) {
     event.preventDefault();
     this.setState({ currentStep: STEP_DOWNLOAD_PDF });
+  }
+
+  @track(SAVE_FOR_LATER_DOWNLOAD_PDF)
+  onDownloadPDFClick(event) {
+    const { lang, articleId } = this.props;
+    window.location.href = getPdfShareUrl(getAbsoluteArticleUrl(articleId, lang))
   }
 
   render() {
@@ -91,7 +171,7 @@ export class WhatsAppSubscribeModal extends Component {
             </p>
             <div className="wcp-whatsapp-subscribe-modal__button-container">
               <Button
-                href={getPdfShareUrl(getAbsoluteArticleUrl(articleId, lang))}
+                onClick={this.onDownloadPDFClick}
               >
                 {articleUiStrings.downloadPdf[lang]}
               </Button>

@@ -17,12 +17,12 @@ export default class extends Document {
             dangerouslySetInnerHTML={{
               __html: `
             var _paq = window._paq || [];
-            _paq.push(['trackPageView']);
+            _paq.push(["trackPageView"]);
             _paq.push(['enableLinkTracking']);
             (function(){
               _paq.push(['setTrackerUrl', "${MATOMO_TRACKER_URL}"]);
               _paq.push(['setSiteId', "${MATOMO_SITEID}"]);
-            })()  
+            })()
           `
             }}
           />

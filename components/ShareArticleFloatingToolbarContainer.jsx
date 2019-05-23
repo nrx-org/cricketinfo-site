@@ -12,7 +12,21 @@ import { FloatingToolbarButton } from "./FloatingToolbarButton";
 import { WhatsAppSubscribeModalContainer } from "./WhatsAppSubscribeModalContainer";
 import { articleUiStrings } from "../lib/ui_strings";
 
+import track, { useTracking } from "react-tracking";
+import { SAVE_FOR_LATER_CLICK } from "../lib/matomo";
+
+const SAVE_TEXT = {
+  hi: "सेव करें",
+  en: "Save for later"
+};
+
+const SHARE_TEXT = {
+  hi: "लेख शेयर करें",
+  en: "Share article"
+};
+
 export const ShareArticleFloatingToolbarContainer = ({ articleId }) => {
+  const tracking = useTracking();
   const shareData = process.browser
     ? {
         title: document.title,
@@ -52,7 +66,10 @@ export const ShareArticleFloatingToolbarContainer = ({ articleId }) => {
                 stickToTop
                 leftButton={
                   <FloatingToolbarButton
-                    onClick={event => onSaveForLaterClick(event, openModal)}
+                    onClick={event => {
+                      onSaveForLaterClick(event, openModal);
+                      tracking.trackEvent(SAVE_FOR_LATER_CLICK);
+                    }}
                     icon={{ name: "bookmark", altText: "Save for later icon" }}
                     label={articleUiStrings.saveForLater[lang]}
                   />
