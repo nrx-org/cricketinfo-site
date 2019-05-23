@@ -13,7 +13,8 @@ import {
   factPropTypes,
   quizQuestionPropType,
   translationsPropTypes,
-  factCardDataPropTypes
+  factCardDataPropTypes,
+  imagePropTypes
 } from "../lib/prop_types";
 import {
   ModalContextConsumer,
@@ -28,6 +29,9 @@ import { ShareModalContainer } from "../components/ShareModalContainer";
 import { FeaturedPlayers } from "../components/FeaturedPlayers";
 import { QuizContainer } from "../components/QuizContainer";
 import { LiveScoreContainer } from "../components/LiveScoreContainer";
+import { getImageAttributions } from "../lib/image_attributions";
+import { ImageAttributions } from "../components/ImageAttributions";
+import { ImageAttributionsModalContainer } from "../components/ImageAttributionsModalContainer";
 
 const Home = ({
   lang,
@@ -42,7 +46,8 @@ const Home = ({
   constantFeaturedPlayers,
   allPlayers,
   quizQuestions,
-  interestingArticles
+  interestingArticles,
+  imageAttributions
 }) => (
   <LanguageContext.Provider value={lang}>
     <ModalContextProvider>
@@ -78,16 +83,25 @@ const Home = ({
         />
         <QuizContainer questions={quizQuestions} />
         <InterestingArticles interestingArticles={interestingArticles} />
+        <ImageAttributions attributions={imageAttributions} lang={lang} />
 
         <ModalContextConsumer>
           {({ registerModal, isModalOpen, modalData, closeModal }) => (
-            <ShareModalContainer
-              registerModal={registerModal}
-              isModalOpen={isModalOpen}
-              modalData={modalData}
-              closeModal={closeModal}
-              lang={lang}
-            />
+            <>
+              <ShareModalContainer
+                registerModal={registerModal}
+                isModalOpen={isModalOpen}
+                modalData={modalData}
+                closeModal={closeModal}
+                lang={lang}
+              />
+              <ImageAttributionsModalContainer
+                registerModal={registerModal}
+                closeModal={closeModal}
+                isModalOpen={isModalOpen}
+                modalData={modalData}
+              />
+            </>
           )}
         </ModalContextConsumer>
       </BaseLayout>
@@ -100,8 +114,9 @@ Home.getInitialProps = async ({ query }) => {
 
   const homeResponse = await fetch(homeContentUrl(lang));
   const homeJson = await homeResponse.json();
+  const imageAttributions = getImageAttributions(homeJson);
 
-  return { lang, ...homeJson };
+  return { lang, imageAttributions, ...homeJson };
 };
 
 Home.defaultProps = {
@@ -113,6 +128,7 @@ Home.defaultProps = {
 Home.propTypes = {
   lang: PropTypes.string.isRequired,
   translations: translationsPropTypes.isRequired,
+  imageAttributions: PropTypes.arrayOf(imagePropTypes).isRequired,
 
   // A list of teams tagged with the dates they are playing on.
   playingTeams: PropTypes.arrayOf(factPropTypes),

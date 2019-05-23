@@ -23,6 +23,9 @@ import {
   imagePropTypes,
   factCardDataPropTypes
 } from "../lib/prop_types";
+import { ImageAttributions } from "../components/ImageAttributions";
+import { getImageAttributions } from "../lib/image_attributions";
+import { ImageAttributionsModalContainer } from "../components/ImageAttributionsModalContainer";
 
 const Article = ({
   articleId,
@@ -31,7 +34,8 @@ const Article = ({
   summary,
   coverImage,
   sections,
-  translations
+  translations,
+  imageAttributions
 }) => (
   <LanguageContext.Provider value={lang}>
     <ModalContextProvider>
@@ -66,16 +70,25 @@ const Article = ({
             );
           return null;
         })}
+        <ImageAttributions attributions={imageAttributions} lang={lang} />
       </BaseLayout>
 
       <ModalContextConsumer>
         {({ registerModal, isModalOpen, modalData, closeModal }) => (
-          <ArticleSummaryModalContainer
-            registerModal={registerModal}
-            isModalOpen={isModalOpen}
-            modalData={modalData}
-            closeModal={closeModal}
-          />
+          <>
+            <ArticleSummaryModalContainer
+              registerModal={registerModal}
+              isModalOpen={isModalOpen}
+              modalData={modalData}
+              closeModal={closeModal}
+            />
+            <ImageAttributionsModalContainer
+              registerModal={registerModal}
+              closeModal={closeModal}
+              isModalOpen={isModalOpen}
+              modalData={modalData}
+            />
+          </>
         )}
       </ModalContextConsumer>
     </ModalContextProvider>
@@ -86,11 +99,13 @@ Article.getInitialProps = async ({ query }) => {
   const { articleId, lang } = query;
   const articleResponse = await fetch(articleContentUrl(articleId, lang));
   const articleJson = await articleResponse.json();
+  const imageAttributions = getImageAttributions(articleJson);
 
   return {
     ...articleJson,
     articleId,
-    lang
+    lang,
+    imageAttributions
   };
 };
 
@@ -105,7 +120,8 @@ Article.propTypes = {
   summary: PropTypes.string.isRequired,
   lang: PropTypes.string.isRequired,
   translations: translationsPropTypes.isRequired,
-  sections: PropTypes.arrayOf(factCardDataPropTypes)
+  sections: PropTypes.arrayOf(factCardDataPropTypes),
+  imageAttributions: PropTypes.arrayOf(imagePropTypes).isRequired
 };
 
 export default Article;
