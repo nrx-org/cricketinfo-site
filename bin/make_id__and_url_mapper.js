@@ -3,11 +3,13 @@ const fs = require("fs");
 const parse = require("csv-parse/lib/sync");
 
 // path to content from spreadsheet
-const pathToParsedFile = "./csv/bottom_sheets.csv";
+// const pathToParsedFile = "./csv/personalities.csv";
+const pathToParsedFile = "./csv/places.csv";
 const currentLanguage = "en";
-// const currentLanguage = "hi"
+// const currentLanguage = "hi";
 // const currentLanguage = "ta"
 
+// Read from the sheet to be parsed
 const sheetInput = fs.readFileSync(pathToParsedFile, "utf8", (err, content) => {
   return content;
 });
@@ -17,8 +19,7 @@ const contentUrls = JSON.parse(
   fs.readFileSync("./bin/content_urls.json", "utf8")
 );
 
-let article;
-let enTitle;
+// Read from the object mapping IDs to article titles
 let idMap;
 let idMapStream;
 
@@ -26,32 +27,24 @@ if (currentLanguage === "en") {
   // for English, create file to map IDs
   // idMapStream = fs.createWriteStream("./bin/article_ids.json");
   // idMapStream.write('{"IDs": [');
-  const idMapInput = fs.readFileSync(
-    "./bin/article_ids.json",
-    "utf8",
-    (err, content) => {
-      return content;
-    }
-  );
+  const idMapInput = fs.readFileSync("./bin/article_ids.json", "utf8");
   idMap = JSON.parse(idMapInput);
 } else {
   // for Hindi/Tamil, append to the existing file
-  const idMapInput = fs.readFileSync(
-    "./bin/article_ids.json",
-    "utf8",
-    (err, content) => {
-      return content;
-    }
-  );
+  const idMapInput = fs.readFileSync("./bin/article_ids.json", "utf8");
   idMap = JSON.parse(idMapInput);
 }
 
+let article;
+let enTitle;
+
 records.forEach(record => {
   article = {
-    // id: record["Article Link ID"],
-    id: record["su"],
+    id: record["Article Link ID"],
+    // id: record["su"], 
     // title: record["Name of personality"]
-    title: record["Title"]
+    // title: record["Title"]
+    title: record["Name of the place"]
   };
 
   if (currentLanguage === "en") {
@@ -68,7 +61,7 @@ records.forEach(record => {
     // idMapStream.write(JSON.stringify(idMap, null, 2));
     // idMapStream.write(",");
   } else {
-    idMap.map.forEach(idMapRecord => {
+    idMap.forEach(idMapRecord => {
       if (idMapRecord["id"] === article["id"]) {
         // eslint-disable-next-line no-param-reassign
         idMapRecord["title"][currentLanguage] = article["title"];
@@ -89,7 +82,7 @@ records.forEach(record => {
   // Add the key with the path to the JSON file for the router
   contentUrls[currentLanguage][
     enSluggedTitle
-  ] = `/static/content/${currentLanguage}/${getSluggedTitle()}.json`;
+  ] = `/static/content/${currentLanguage}/${enSluggedTitle}.json`;
 });
 
 fs.writeFileSync(
@@ -97,13 +90,5 @@ fs.writeFileSync(
   JSON.stringify(contentUrls, null, 2)
 );
 
-if (currentLanguage === "en") {
-  // For English, finish the ID map file
-  fs.writeFileSync("./bin/article_ids.json", "");
-  fs.writeFileSync("./bin/article_ids.json", JSON.stringify(idMap, null, 2));
-} else {
-  // For Hindi/Tamil, rewrite the entire file
-
-  fs.writeFileSync("./bin/article_ids.json", "");
-  fs.writeFileSync("./bin/article_ids.json", idMap);
-}
+fs.writeFileSync("./bin/article_ids.json", "");
+fs.writeFileSync("./bin/article_ids.json", JSON.stringify(idMap, null, 2));
