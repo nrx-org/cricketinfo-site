@@ -1,0 +1,30 @@
+.wcp-image-attributions-modal {
+  font-size: $font-size-xs;
+  line-height: $line-height-xs;
+  background-color: $color-gray-lightest;
+
+  height: 100vh;
+  margin: -$gutter-m;
+  padding: $gutter-m;
+}
+
+.wcp-image-attributions-modal__header {
+  display: flex;
+}
+
+.wcp-image-attributions-modal__title {
+  flex-grow: 1;
+}
+
+.wcp-image-attributions-modal__attributions-list {
+  padding: 0;
+  list-style: none;
+
+  li {
+    margin-top: 1rem;
+
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+}

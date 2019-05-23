@@ -17,6 +17,7 @@
   "dependencies": {
     "@zeit/next-sass": "^1.0.1",
     "accept-language-parser": "^1.5.0",
+    "array-flat-polyfill": "^1.0.1",
     "cogo-toast": "^1.0.4",
     "csv-parse": "^4.4.1",
     "date-fns": "^1.30.1",

@@ -1,0 +1,29 @@
+.wcp-image-attributions {
+  font-size: $font-size-xs;
+  line-height: $line-height-xs;
+
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  margin-left: -$gutter-m;
+  margin-right: -$gutter-m;
+  padding-left: $gutter-m;
+  padding-right: $gutter-m;
+  margin-top: 0;
+
+  background-color: $color-gray-lightest;
+  color: $color-gray-faded;
+
+  p + p {
+    margin-top: 0.5rem;
+  }
+}
+
+.wcp-image-attributions__know-more {
+  display: flex;
+  align-items: center;
+  color: $link-color;
+
+  .wcp-icon {
+    margin-left: 0.25rem;
+  }
+}
