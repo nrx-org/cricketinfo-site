@@ -3,7 +3,7 @@ const fs = require("fs");
 const parse = require("csv-parse/lib/sync");
 
 // path to content from spreadsheet
-const pathToParsedFile = "./csv/personalities.csv";
+const pathToParsedFile = "./csv/bottom_sheets.csv";
 const currentLanguage = "en";
 // const currentLanguage = "hi"
 // const currentLanguage = "ta"
@@ -13,7 +13,9 @@ const sheetInput = fs.readFileSync(pathToParsedFile, "utf8", (err, content) => {
 });
 const records = parse(sheetInput, { columns: true, delimiter: "," });
 
-const contentUrls = JSON.parse(fs.readFileSync("./bin/content_urls.json"));
+const contentUrls = JSON.parse(
+  fs.readFileSync("./bin/content_urls.json", "utf8")
+);
 
 let article;
 let enTitle;
@@ -22,8 +24,16 @@ let idMapStream;
 
 if (currentLanguage === "en") {
   // for English, create file to map IDs
-  idMapStream = fs.createWriteStream("./bin/article_ids.json");
-  idMapStream.write('{"IDs": [');
+  // idMapStream = fs.createWriteStream("./bin/article_ids.json");
+  // idMapStream.write('{"IDs": [');
+  const idMapInput = fs.readFileSync(
+    "./bin/article_ids.json",
+    "utf8",
+    (err, content) => {
+      return content;
+    }
+  );
+  idMap = JSON.parse(idMapInput);
 } else {
   // for Hindi/Tamil, append to the existing file
   const idMapInput = fs.readFileSync(
@@ -38,12 +48,14 @@ if (currentLanguage === "en") {
 
 records.forEach(record => {
   article = {
-    id: record["Article Link ID"],
-    title: record["Name of personality"]
+    // id: record["Article Link ID"],
+    id: record["su"],
+    // title: record["Name of personality"]
+    title: record["Title"]
   };
 
   if (currentLanguage === "en") {
-    idMap = {
+    const idMapR = {
       id: article["id"],
       title: {
         en: article["title"],
@@ -52,8 +64,9 @@ records.forEach(record => {
       }
     };
     enTitle = article["title"];
-    idMapStream.write(JSON.stringify(idMap, null, 2));
-    idMapStream.write(",");
+    idMap = [...idMap, idMapR];
+    // idMapStream.write(JSON.stringify(idMap, null, 2));
+    // idMapStream.write(",");
   } else {
     idMap.map.forEach(idMapRecord => {
       if (idMapRecord["id"] === article["id"]) {
@@ -79,7 +92,6 @@ records.forEach(record => {
   ] = `/static/content/${currentLanguage}/${getSluggedTitle()}.json`;
 });
 
-fs.writeFileSync("./bin/content_urls.json", "");
 fs.writeFileSync(
   "./bin/content_urls.json",
   JSON.stringify(contentUrls, null, 2)
@@ -87,7 +99,8 @@ fs.writeFileSync(
 
 if (currentLanguage === "en") {
   // For English, finish the ID map file
-  idMapStream.write("]}");
+  fs.writeFileSync("./bin/article_ids.json", "");
+  fs.writeFileSync("./bin/article_ids.json", JSON.stringify(idMap, null, 2));
 } else {
   // For Hindi/Tamil, rewrite the entire file
 

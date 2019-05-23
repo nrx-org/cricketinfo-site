@@ -6,6 +6,9 @@ const fetch = require("isomorphic-fetch");
 const slugify = require("slugify");
 
 const pathToParsedFile = "./csv/bottom_sheets.csv";
+const currentLanguage = "en";
+// const currentLanguage = "hi";
+// const currentLanguage = "ta";
 
 // read content
 const input = fs.readFileSync(pathToParsedFile, "utf8", (err, content) => {
@@ -25,7 +28,10 @@ records.forEach(async element => {
     title: element["Title"]
   };
 
-  const getSluggedTitle = slugify(bottomSheet.title, "_").toLowerCase(); // TODO: remove slugify
+  const getSluggedTitle = str => {
+    if (!str) return bottomSheet.title.replace(/ /g, "_").toLowerCase();
+    return str.replace(/ /g, "_").toLowerCase();
+  };
 
   const getFileNameFromURL = url => {
     if (!url) return null;
@@ -33,17 +39,17 @@ records.forEach(async element => {
   };
 
   const getImageForArticle = async url => {
-    const image = await fetch(url);
+    // const image = await fetch(url);
     const imageName = getFileNameFromURL(url);
-    const imageDirectory = `./static/images/${getSluggedTitle}`;
-    const imagePath = `./static/images/${getSluggedTitle}/${imageName}`;
-    if (!fs.existsSync(imageDirectory)) {
-      fs.mkdir(imageDirectory, err => {
-        if (err) throw err;
-      });
-    }
-    const imageFile = fs.createWriteStream(imagePath);
-    image.body.pipe(imageFile);
+    const imageDirectory = `./static/images/${getSluggedTitle()}`;
+    const imagePath = `${imageDirectory}/${imageName}`;
+    // if (!fs.existsSync(imageDirectory)) {
+    // fs.mkdir(imageDirectory, err => {
+    // if (err) throw err;
+    // });
+    // }
+    // const imageFile = fs.createWriteStream(imagePath);
+    // image.body.pipe(imageFile);
     return imagePath.substring(1);
   };
 
@@ -57,7 +63,7 @@ records.forEach(async element => {
   };
 
   fs.writeFile(
-    `./csv/${getSluggedTitle}.json`,
+    `./static/content/${currentLanguage}/${getSluggedTitle()}.json`,
     JSON.stringify(bottomSheet, null, 2),
     err => {
       if (err) console.log(err);

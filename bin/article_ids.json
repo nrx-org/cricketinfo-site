@@ -1,0 +1,906 @@
+[
+  {
+    "id": "O1",
+    "title": {
+      "en": "Virat Kohli",
+      "hi": "विराट कोहली",
+      "ta": ""
+    }
+  },
+  {
+    "id": "O6",
+    "title": {
+      "en": "Kapil Dev",
+      "hi": "कपिल देव",
+      "ta": ""
+    }
+  },
+  {
+    "id": "O33",
+    "title": {
+      "en": "Anushka Sharma",
+      "hi": "अनुष्का शर्मा",
+      "ta": ""
+    }
+  },
+  {
+    "id": "O7",
+    "title": {
+      "en": "Anil Kumble",
+      "hi": "अनिल कुंबले",
+      "ta": ""
+    }
+  },
+  {
+    "id": "O5",
+    "title": {
+      "en": "Sachin Tendulkar",
+      "hi": "सचिन तेंदुलकर",
+      "ta": ""
+    }
+  },
+  {
+    "id": "O8",
+    "title": {
+      "en": "Sourav Ganguly",
+      "hi": "सौरव गांगुली",
+      "ta": ""
+    }
+  },
+  {
+    "id": "O9",
+    "title": {
+      "en": "Rahul Dravid",
+      "hi": "राहुल द्रविड़",
+      "ta": ""
+    }
+  },
+  {
+    "id": "O2",
+    "title": {
+      "en": "Mahendra Singh Dhoni",
+      "hi": "महेन्द्र सिंह धोनी",
+      "ta": ""
+    }
+  },
+  {
+    "id": "O3",
+    "title": {
+      "en": "Rohit Sharma",
+      "hi": "रोहित शर्मा",
+      "ta": ""
+    }
+  },
+  {
+    "id": "O4",
+    "title": {
+      "en": "Shikhar Dhawan",
+      "hi": "शिखर धवन",
+      "ta": ""
+    }
+  },
+  {
+    "id": "O38",
+    "title": {
+      "en": "Kagiso Rabada",
+      "hi": "कगिसो रबाडा",
+      "ta": ""
+    }
+  },
+  {
+    "id": "O39",
+    "title": {
+      "en": "Shoaib Malik",
+      "hi": "शोएब मलिक",
+      "ta": ""
+    }
+  },
+  {
+    "id": "O40",
+    "title": {
+      "en": "Lasith Malinga",
+      "hi": "लसिथ मलिंगा",
+      "ta": ""
+    }
+  },
+  {
+    "id": "O41",
+    "title": {
+      "en": "Rashid Khan",
+      "hi": "राशिद खान",
+      "ta": ""
+    }
+  },
+  {
+    "id": "O42",
+    "title": {
+      "en": "Mushfiqur Rahim",
+      "hi": "मुशफिकुर रहीम ",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF1",
+    "title": {
+      "en": "Nagpur",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF2",
+    "title": {
+      "en": "Pune",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF3",
+    "title": {
+      "en": "Ahmedabad",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF4",
+    "title": {
+      "en": "Surat",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF5",
+    "title": {
+      "en": "Jind",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF6",
+    "title": {
+      "en": "Kanpur",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF7",
+    "title": {
+      "en": "Amroha",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF8",
+    "title": {
+      "en": "Mangalore",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF9",
+    "title": {
+      "en": "Tuticorin",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF10",
+    "title": {
+      "en": "Cape Town",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF11",
+    "title": {
+      "en": "Colombo",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF12",
+    "title": {
+      "en": "Christ church",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF13",
+    "title": {
+      "en": "Dubbo",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF14",
+    "title": {
+      "en": "Sydney",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF15",
+    "title": {
+      "en": "Jamaica",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF16",
+    "title": {
+      "en": "Lahore",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF17",
+    "title": {
+      "en": "Transvaal",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF18",
+    "title": {
+      "en": "Tauranga",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF19",
+    "title": {
+      "en": "Taunton",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF20",
+    "title": {
+      "en": "Ranji trophy",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF21",
+    "title": {
+      "en": "Deodhar trophy",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF22",
+    "title": {
+      "en": "Syed Mustaq ali tournament",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF23",
+    "title": {
+      "en": "Duleep Trophy",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF24",
+    "title": {
+      "en": "Justin Langer",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF25",
+    "title": {
+      "en": "Yuvraj singh",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF26",
+    "title": {
+      "en": "Tillakaratne Dilshan",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF27",
+    "title": {
+      "en": "Zaheer Khan",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF28",
+    "title": {
+      "en": "Shahid Afridi",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF29",
+    "title": {
+      "en": "Shane Watson",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF30",
+    "title": {
+      "en": "Shaun Marsh",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF31",
+    "title": {
+      "en": "Sohail Tanvir",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF32",
+    "title": {
+      "en": "R P Singh",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF33",
+    "title": {
+      "en": "Pragyan Ojha",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF34",
+    "title": {
+      "en": "Robin Uthappa",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF35",
+    "title": {
+      "en": "Matthew hayden",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF36",
+    "title": {
+      "en": "Adam Gilchrist",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF37",
+    "title": {
+      "en": "Trent Boult",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF38",
+    "title": {
+      "en": "Martin Guptil",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF39",
+    "title": {
+      "en": "Mitchell Starc",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF40",
+    "title": {
+      "en": "Floyd Reifer",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF41",
+    "title": {
+      "en": "Martin Crowe",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF42",
+    "title": {
+      "en": "Lance klusner",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF43",
+    "title": {
+      "en": "geoff Allott",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF44",
+    "title": {
+      "en": "Mickey Arthur",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF45",
+    "title": {
+      "en": "Ottis Gibson",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF46",
+    "title": {
+      "en": "Gary Stead",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF47",
+    "title": {
+      "en": "Shane Warne",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF48",
+    "title": {
+      "en": "Ricky Ponting",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF49",
+    "title": {
+      "en": "Trevor Bayliss",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF50",
+    "title": {
+      "en": "Imran khan",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF51",
+    "title": {
+      "en": "Chaminda Vaas",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF52",
+    "title": {
+      "en": "Sunil Narine",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF53",
+    "title": {
+      "en": "Javed Miandad",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF54",
+    "title": {
+      "en": "Inzamam ul Haq",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF55",
+    "title": {
+      "en": "Allan Donald",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF56",
+    "title": {
+      "en": "Jacques Kallis",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF57",
+    "title": {
+      "en": "Brendon McCullum",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF58",
+    "title": {
+      "en": "Sanath Jayasuriya",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF59",
+    "title": {
+      "en": "Muttaiah Muralitharan",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF60",
+    "title": {
+      "en": "Arjuna Ranatunga",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF61",
+    "title": {
+      "en": "Kumar Sangakkara",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF62",
+    "title": {
+      "en": "Clive Lloyd",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF63",
+    "title": {
+      "en": "Curtly Ambrose",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF64",
+    "title": {
+      "en": "Viv Richards",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF65",
+    "title": {
+      "en": "Waqar Younis",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF66",
+    "title": {
+      "en": "Brian lara",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF67",
+    "title": {
+      "en": "Graham Gooch",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF68",
+    "title": {
+      "en": "Andre russel",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF69",
+    "title": {
+      "en": "Dwayne Bravo",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF70",
+    "title": {
+      "en": "Glenn Maxwell",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF71",
+    "title": {
+      "en": "Mohit Sharma",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF72",
+    "title": {
+      "en": "Mike Hussey",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF73",
+    "title": {
+      "en": "Nathan Astle",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF74",
+    "title": {
+      "en": "Ross Taylor",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF75",
+    "title": {
+      "en": "David Gower",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF76",
+    "title": {
+      "en": "Roger Binny",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF77",
+    "title": {
+      "en": "Gordon Greenidge",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF78",
+    "title": {
+      "en": "Mike Hendrick",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF79",
+    "title": {
+      "en": "Glenn Turner",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF80",
+    "title": {
+      "en": "Gary Gilmour",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF81",
+    "title": {
+      "en": "Andrew flintoff",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF82",
+    "title": {
+      "en": "Joe Root",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF83",
+    "title": {
+      "en": "Kevin Pietersen",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF84",
+    "title": {
+      "en": "Kyle Mills",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF85",
+    "title": {
+      "en": "Andrew Tye",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF86",
+    "title": {
+      "en": "Suresh Raina",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF87",
+    "title": {
+      "en": "Steve Smith",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF88",
+    "title": {
+      "en": "Ravichandran Ashwin",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF89",
+    "title": {
+      "en": "Prithvi Shaw",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF90",
+    "title": {
+      "en": "Rishab Pant",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF91",
+    "title": {
+      "en": "Shreyas Iyer",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF92",
+    "title": {
+      "en": "Bogra",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF93",
+    "title": {
+      "en": "Galle",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF94",
+    "title": {
+      "en": "Nangarhar",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF95",
+    "title": {
+      "en": "Sialkot",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF96",
+    "title": {
+      "en": "Ayodhya",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF97",
+    "title": {
+      "en": "Johannesburg",
+      "hi": "",
+      "ta": ""
+    }
+  },
+  {
+    "id": "SF98",
+    "title": {
+      "en": "West Indies",
+      "hi": "",
+      "ta": ""
+    }
+  }
+]
