@@ -18,10 +18,7 @@ export const BarChart = ({ cardData }) => {
         {cardData.facts.map(fact => {
           const factId = fact.id;
           const factLabel = fact.label;
-          const factPercentage = calculatePercentageForFact(
-            cardData.facts,
-            fact.value.count
-          );
+          const factPercentage = fact.value
           const barStyle = {
             width: `${factPercentage}%`
           };
