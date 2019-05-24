@@ -3,13 +3,6 @@ import { barChartPropTypes } from "../lib/prop_types";
 import { SectionTitle } from "./SectionTitle";
 
 export const BarChart = ({ cardData }) => {
-  const calculatePercentageForFact = (arr, count) => {
-    const totalCount = arr.reduce((acc, cur) => {
-      return acc + cur.value.count;
-    }, 0);
-    return ((count / totalCount) * 100).toFixed(2);
-  };
-
   return (
     <section>
       <SectionTitle>{cardData.title}</SectionTitle>
@@ -18,7 +11,7 @@ export const BarChart = ({ cardData }) => {
         {cardData.facts.map(fact => {
           const factId = fact.id;
           const factLabel = fact.label;
-          const factPercentage = fact.value
+          const factPercentage = fact.value;
           const barStyle = {
             width: `${factPercentage}%`
           };
