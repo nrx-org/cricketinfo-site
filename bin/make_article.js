@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 /* eslint-disable import/no-extraneous-dependencies */
 /* eslint-disable dot-notation */
 const fs = require("fs");
@@ -9,24 +10,39 @@ const path = require("path");
 // path to content from spreadsheet
 const pathToParsedFile = "./csv/personalities.csv";
 const currentLanguage = "en";
-// const currentLanguage = "hi"
-// const currentLanguage = "ta"
+// const currentLanguage = "hi";
+// const currentLanguage = "ta";
+const otherLanguage = [undefined, undefined];
+
+if (currentLanguage === "en") {
+  otherLanguage[0] = "hi";
+  otherLanguage[1] = "ta";
+} else if (currentLanguage === "hi") {
+  otherLanguage[0] = "en";
+  otherLanguage[1] = "ta";
+} else if (currentLanguage === "ta") {
+  otherLanguage[0] = "hi";
+  otherLanguage[1] = "en";
+} else {
+  // TODO: Write a better exit
+}
 
 const sheetInput = fs.readFileSync(pathToParsedFile, "utf8", (err, content) => {
   return content;
 });
 const records = parse(sheetInput, { columns: true, delimiter: "," });
+const idMap = JSON.parse(fs.readFileSync("./bin/article_ids.json", "utf8"));
 
 let article;
-let enTitle;
-let idMap;
-let idMapStream;
+let enSluggedTitle;
 
 records.forEach(async record => {
   article = {
     id: record["Article Link ID"],
     title: record["Name of personality"]
   };
+
+  console.log(article["title"]);
 
   // Get title for URL
   // Since toLowerCase respects locale, and there are no differences in upper and lower case
@@ -35,12 +51,26 @@ records.forEach(async record => {
     if (!str) return article.title.replace(/ /g, "_").toLowerCase();
     return str.replace(/ /g, "_").toLowerCase();
   };
-  const enSluggedTitle = getSluggedTitle(enTitle);
+
+  const getCurrentID = () =>
+    idMap.find(idMapRecord =>
+      idMapRecord["id"] === article["id"] ? idMapRecord : null
+    );
+
+  if (currentLanguage === "en") {
+    enSluggedTitle = getSluggedTitle();
+  } else {
+    enSluggedTitle = getSluggedTitle(getCurrentID()["title"]["en"]);
+  }
 
   // Get file name from url link
   const getFileNameFromURL = url => {
+    console.log(enSluggedTitle);
+
     if (!url) return null;
-    return url.match(/File:(.*)/)[1];
+    const filename = url.match(/File:(.*)/);
+    if (filename) return filename[1];
+    return null;
   };
 
   const getImageName = url => {
@@ -55,25 +85,25 @@ records.forEach(async record => {
     if (!url) {
       return "/static/images/default_person.svg";
     }
-    const response = await fetch(url);
-    const html = await response.text();
-    const $ = cheerio.load(html);
-    const imageURL = $(".fullMedia > p > a").attr("href");
-    if (!imageURL) {
-      return null;
-    }
+    // const response = await fetch(url);
+    // const html = await response.text();
+    // const $ = cheerio.load(html);
+    // const imageURL = $(".fullMedia > p > a").attr("href");
+    // if (!imageURL) {
+    //   return null;
+    // }
     const imageName = getFileNameFromURL(url);
     const imageDirectory = `./static/images/${enSluggedTitle}`;
     const imagePath = `${imageDirectory}/${imageName}`;
     if (currentLanguage === "en") {
-      const image = await fetch(imageURL);
-      if (!fs.existsSync(imageDirectory)) {
-        fs.mkdir(imageDirectory, err => {
-          if (err) throw err;
-        });
-      }
-      const imageFile = fs.createWriteStream(imagePath);
-      image.body.pipe(imageFile);
+      // const image = await fetch(imageURL);
+      // if (!fs.existsSync(imageDirectory)) {
+      //   fs.mkdir(imageDirectory, err => {
+      //     if (err) throw err;
+      //   });
+      // }
+      // const imageFile = fs.createWriteStream(imagePath);
+      // image.body.pipe(imageFile);
     }
     return imagePath.substring(1);
   };
@@ -101,6 +131,7 @@ records.forEach(async record => {
         }
       ]
     };
+
     // eslint-disable-next-line consistent-return
     return education;
   };
@@ -110,6 +141,7 @@ records.forEach(async record => {
   // Putting together the completed JS object
   article = {
     ...article,
+    wikipediaURL: record["Wikipedia article link"],
     coverImage: {
       url: await getImagePathForArticle(record["Header image"]),
       altText: `Image of ${getImageName(record["Header image"])}`
@@ -117,14 +149,14 @@ records.forEach(async record => {
     summary: record["Short description of personality"],
     translations: [
       {
-        url: `/hi/${enSluggedTitle}`,
-        title: "महेंद्र सिंह धोनी", // TODO: make this return hindi text
-        lang: "hi"
+        url: `/read/${otherLanguage[0]}/${enSluggedTitle}`,
+        title: getCurrentID()["title"][otherLanguage[0]],
+        lang: otherLanguage[0]
       },
       {
-        url: `/ta/${enSluggedTitle}`,
-        title: "விராத் கோலி", // TODO: make this return tamil text
-        lang: "pa"
+        url: `/read/${otherLanguage[1]}/${enSluggedTitle}`,
+        title: getCurrentID()["title"][otherLanguage[1]],
+        lang: otherLanguage[1]
       }
     ],
     sections: [

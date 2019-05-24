@@ -1,10 +1,12 @@
+/* eslint-disable no-undef */
+/* eslint-disable no-unused-vars */
 /* eslint-disable dot-notation */
 const fs = require("fs");
 const parse = require("csv-parse/lib/sync");
 
 // path to content from spreadsheet
 // const pathToParsedFile = "./csv/personalities.csv";
-const pathToParsedFile = "./csv/places.csv";
+// const pathToParsedFile = "./csv/places.csv";
 const currentLanguage = "en";
 // const currentLanguage = "hi";
 // const currentLanguage = "ta"
@@ -41,7 +43,7 @@ let enTitle;
 records.forEach(record => {
   article = {
     id: record["Article Link ID"],
-    // id: record["su"], 
+    // id: record["su"],
     // title: record["Name of personality"]
     // title: record["Title"]
     title: record["Name of the place"]
