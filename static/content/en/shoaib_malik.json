@@ -1,21 +1,22 @@
 {
   "id": "O39",
   "title": "Shoaib Malik",
+  "wikipediaURL": "https://en.wikipedia.org/wiki/Shoaib_Malik",
   "coverImage": {
-    "url": null,
+    "url": "/static/images/shoaib_malik/Shoaib_Malik.jpg",
     "altText": "Image of Shoaib Malik"
   },
   "summary": "Shoaib Malik is a Pakistani cricketer and former captain of the Pakistani side from 2007 to 2009. ",
   "translations": [
     {
-      "url": "/hi/shoaib_malik",
-      "title": "महेंद्र सिंह धोनी",
+      "url": "/read/hi/shoaib_malik",
+      "title": "मुशफिकुर रहीम ",
       "lang": "hi"
     },
     {
-      "url": "/ta/shoaib_malik",
-      "title": "விராத் கோலி",
-      "lang": "pa"
+      "url": "/read/ta/shoaib_malik",
+      "title": "",
+      "lang": "ta"
     }
   ],
   "sections": [
@@ -89,7 +90,7 @@
             "label": "Sania Mirza",
             "url": "",
             "image": {
-              "url": null,
+              "url": "/static/images/shoaib_malik/Sania_Mirza_(35449409862).jpg",
               "altText": "Image of Sania Mirza (35449409862)"
             }
           }
@@ -249,7 +250,7 @@
           "value": {
             "label": "Malik is regarded as a flexible player. He is capable of hitting big shots but is also capable of rotating the strike with good placement. He has a strike rate of 80.4 runs per 100 balls, which compares favourably to players such as Rahul Dravid and Inzamam ul-Haq. His most brazen display of \"power hitting\" came in 2003 against South Africa when he scored 82 from 41 balls",
             "image": {
-              "url": null,
+              "url": "/static/images/shoaib_malik/Shoaib_Malik,_Dunedin,_NZ,_2009.jpg",
               "altText": "Image of Shoaib Malik, Dunedin, NZ, 2009"
             }
           }
@@ -270,7 +271,7 @@
                 "value": {
                   "label": "The Pakistan Men's National Cricket Team popularly referred to as the Shaheens  Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). ",
                   "image": {
-                    "url": null,
+                    "url": "/static/images/shoaib_malik/PakistanCricketLogo.png",
                     "altText": "Image of PakistanCricketLogo"
                   }
                 }

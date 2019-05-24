@@ -1,6 +1,7 @@
 {
   "id": "O5",
   "title": "Sachin Tendulkar",
+  "wikipediaURL": "https://en.wikipedia.org/wiki/Sachin_Tendulkar",
   "coverImage": {
     "url": "/static/images/sachin_tendulkar/Sachin_Tendulkar_at_MRF_Promotion_Event.jpg",
     "altText": "Image of Sachin Tendulkar at MRF Promotion Event"
@@ -8,14 +9,14 @@
   "summary": "Sachin Tendulkar is a former Indian international cricketer, regarded as one of the greatest batsmen of all time. He is the highest run scorer of all time in International cricket. ",
   "translations": [
     {
-      "url": "/hi/sachin_tendulkar",
-      "title": "महेंद्र सिंह धोनी",
+      "url": "/read/hi/sachin_tendulkar",
+      "title": "मुशफिकुर रहीम ",
       "lang": "hi"
     },
     {
-      "url": "/ta/sachin_tendulkar",
-      "title": "விராத் கோலி",
-      "lang": "pa"
+      "url": "/read/ta/sachin_tendulkar",
+      "title": "",
+      "lang": "ta"
     }
   ],
   "sections": [
@@ -249,7 +250,7 @@
           "value": {
             "label": "Considered the most wholesome batsman of his time, Sachin Tendulkar can also bowl medium pace, leg spin, and off spin. ",
             "image": {
-              "url": null,
+              "url": "/static/images/sachin_tendulkar/Master_Blaster_at_work.jpg",
               "altText": "Image of Master Blaster at work"
             }
           }

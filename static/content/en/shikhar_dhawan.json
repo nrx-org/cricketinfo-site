@@ -1,6 +1,7 @@
 {
   "id": "O4",
   "title": "Shikhar Dhawan",
+  "wikipediaURL": "https://en.wikipedia.org/wiki/Shikhar_Dhawan",
   "coverImage": {
     "url": "/static/images/shikhar_dhawan/SHIKHAR_DHAWAN_(16005494418).jpg",
     "altText": "Image of SHIKHAR DHAWAN (16005494418)"
@@ -8,14 +9,14 @@
   "summary": "Shikhar Dhawan is an Indian international cricketer. ",
   "translations": [
     {
-      "url": "/hi/shikhar_dhawan",
-      "title": "महेंद्र सिंह धोनी",
+      "url": "/read/hi/shikhar_dhawan",
+      "title": "मुशफिकुर रहीम ",
       "lang": "hi"
     },
     {
-      "url": "/ta/shikhar_dhawan",
-      "title": "விராத் கோலி",
-      "lang": "pa"
+      "url": "/read/ta/shikhar_dhawan",
+      "title": "",
+      "lang": "ta"
     }
   ],
   "sections": [
@@ -249,7 +250,7 @@
           "value": {
             "label": "Viral Kohli is a left-handed opening batsman and an occasional right-arm off break bowler.",
             "image": {
-              "url": null,
+              "url": "/static/images/shikhar_dhawan/SHIKHAR_DHAWAN_(16007163087).jpg",
               "altText": "Image of SHIKHAR DHAWAN (16007163087)"
             }
           }

@@ -1,6 +1,7 @@
 {
   "id": "O8",
   "title": "Sourav Ganguly",
+  "wikipediaURL": "https://en.wikipedia.org/wiki/File:Sourav_Ganguly_closeup.jpg",
   "coverImage": {
     "url": "/static/images/sourav_ganguly/Sourav_Ganguly_closeup.jpg",
     "altText": "Image of Sourav Ganguly closeup"
@@ -8,14 +9,14 @@
   "summary": "Sourav Ganguly is a former Indian cricketer and captain of the Indian national team. During his playing career, Ganguly established himself as one of the world's leading batsmen, and also one of the greatest captains of the national cricket team.",
   "translations": [
     {
-      "url": "/hi/sourav_ganguly",
-      "title": "महेंद्र सिंह धोनी",
+      "url": "/read/hi/sourav_ganguly",
+      "title": "मुशफिकुर रहीम ",
       "lang": "hi"
     },
     {
-      "url": "/ta/sourav_ganguly",
-      "title": "விராத் கோலி",
-      "lang": "pa"
+      "url": "/read/ta/sourav_ganguly",
+      "title": "",
+      "lang": "ta"
     }
   ],
   "sections": [
@@ -249,7 +250,7 @@
           "value": {
             "label": "Ganguly is a left-handed batsman known for his elegant stroke-play. He is also a right-arm medium pace bowler.",
             "image": {
-              "url": null,
+              "url": "/static/images/sourav_ganguly/Sachin_in_action.jpg",
               "altText": "Image of Sachin in action"
             }
           }

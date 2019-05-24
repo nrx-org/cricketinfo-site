@@ -34,15 +34,13 @@ const records = parse(sheetInput, { columns: true, delimiter: "," });
 const idMap = JSON.parse(fs.readFileSync("./bin/article_ids.json", "utf8"));
 
 let article;
-let enSluggedTitle;
 
 records.forEach(async record => {
   article = {
     id: record["Article Link ID"],
     title: record["Name of personality"]
   };
-
-  console.log(article["title"]);
+  let enSluggedTitle;
 
   // Get title for URL
   // Since toLowerCase respects locale, and there are no differences in upper and lower case
@@ -65,8 +63,6 @@ records.forEach(async record => {
 
   // Get file name from url link
   const getFileNameFromURL = url => {
-    console.log(enSluggedTitle);
-
     if (!url) return null;
     const filename = url.match(/File:(.*)/);
     if (filename) return filename[1];

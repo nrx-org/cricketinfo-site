@@ -1,6 +1,7 @@
 {
   "id": "O2",
   "title": "Mahendra Singh Dhoni",
+  "wikipediaURL": "https://en.wikipedia.org/wiki/MS_Dhoni",
   "coverImage": {
     "url": "/static/images/mahendra_singh_dhoni/Dhoni_behind_Stumps.jpg",
     "altText": "Image of Dhoni behind Stumps"
@@ -8,14 +9,14 @@
   "summary": "Mahendra Singh Dhoni is an Indian international cricketer who captained the Indian national team in limited-overs formats from 2007 to 2016 and in Test cricket from 2008 to 2014.",
   "translations": [
     {
-      "url": "/hi/mahendra_singh_dhoni",
-      "title": "महेंद्र सिंह धोनी",
+      "url": "/read/hi/mahendra_singh_dhoni",
+      "title": "मुशफिकुर रहीम ",
       "lang": "hi"
     },
     {
-      "url": "/ta/mahendra_singh_dhoni",
-      "title": "விராத் கோலி",
-      "lang": "pa"
+      "url": "/read/ta/mahendra_singh_dhoni",
+      "title": "",
+      "lang": "ta"
     }
   ],
   "sections": [
@@ -249,7 +250,7 @@
           "value": {
             "label": "Dhoni is a right-handed batsman and wicket-keeper. Initially, Dhoni appeared as a lower-order attacking batsman but he gradually changed his playing style to deal with high-pressure scenarios and his growing responsibility as a captain.",
             "image": {
-              "url": null,
+              "url": "/static/images/mahendra_singh_dhoni/Mahendra_Singh_Dhoni_batting.JPG",
               "altText": "Image of Mahendra Singh Dhoni batting"
             }
           }

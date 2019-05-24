@@ -1,6 +1,7 @@
 {
   "id": "O40",
   "title": "Lasith Malinga",
+  "wikipediaURL": "https://en.wikipedia.org/wiki/Lasith_Malinga",
   "coverImage": {
     "url": "/static/images/lasith_malinga/LASITH_MALINGA_(5155175549).jpg",
     "altText": "Image of LASITH MALINGA (5155175549)"
@@ -8,14 +9,14 @@
   "summary": "Separamadu Lasith Malinga is a professional Sri Lankan cricketer and current T20I captain for Sri Lanka.",
   "translations": [
     {
-      "url": "/hi/lasith_malinga",
-      "title": "महेंद्र सिंह धोनी",
+      "url": "/read/hi/lasith_malinga",
+      "title": "मुशफिकुर रहीम ",
       "lang": "hi"
     },
     {
-      "url": "/ta/lasith_malinga",
-      "title": "விராத் கோலி",
-      "lang": "pa"
+      "url": "/read/ta/lasith_malinga",
+      "title": "",
+      "lang": "ta"
     }
   ],
   "sections": [
@@ -249,7 +250,7 @@
           "value": {
             "label": "Malinga's action has attracted great comment. The cricket reference text Wisden has noted that Malinga's delivery action is similar to \"slinging\". Resulting to his nickname \"Slinga Malinga\". Malinga has said that his unique round-arm bowling action was a result of learning to play cricket exclusively with a tennis ball.",
             "image": {
-              "url": null,
+              "url": "/static/images/lasith_malinga/Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg",
               "altText": "Image of Lasith Malinga tossing a cricket ball at practice"
             }
           }
@@ -270,7 +271,7 @@
                 "value": {
                   "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket.",
                   "image": {
-                    "url": null,
+                    "url": "/static/images/lasith_malinga/Sri_Lanka_Cricket_Cap_Insignia.svg",
                     "altText": "Image of Sri Lanka Cricket Cap Insignia"
                   }
                 }

@@ -1,6 +1,7 @@
 {
   "id": "O3",
   "title": "Rohit Sharma",
+  "wikipediaURL": "https://en.wikipedia.org/wiki/Rohit_Sharma",
   "coverImage": {
     "url": "/static/images/rohit_sharma/Rohit_Sharma_November_2016_(cropped).jpg",
     "altText": "Image of Rohit Sharma November 2016 (cropped)"
@@ -8,14 +9,14 @@
   "summary": "Rohit Sharma is an Indian international cricketer who is the vice-captain of the India national team in limited-overs formats.",
   "translations": [
     {
-      "url": "/hi/rohit_sharma",
-      "title": "महेंद्र सिंह धोनी",
+      "url": "/read/hi/rohit_sharma",
+      "title": "मुशफिकुर रहीम ",
       "lang": "hi"
     },
     {
-      "url": "/ta/rohit_sharma",
-      "title": "விராத் கோலி",
-      "lang": "pa"
+      "url": "/read/ta/rohit_sharma",
+      "title": "",
+      "lang": "ta"
     }
   ],
   "sections": [
@@ -249,7 +250,7 @@
           "value": {
             "label": "Rohit Sharma is a right-handed batsman and was an occasional right-arm off break bowler. ",
             "image": {
-              "url": null,
+              "url": "/static/images/rohit_sharma/2015_CWC_I_v_UAE_02-28_Sharma_(01)_(cropped).JPG",
               "altText": "Image of 2015 CWC I v UAE 02 28 Sharma (01) (cropped)"
             }
           }

@@ -1,20 +1,20 @@
 {
-  "id": "O9",
-  "title": "Rahul Dravid",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Rahul_Dravid",
+  "id": "O7",
+  "title": "Anil Kumble",
+  "wikipediaURL": "https://en.wikipedia.org/wiki/Anil_Kumble",
   "coverImage": {
-    "url": "/static/images/rahul_dravid/Rahul_Dravid_at_GQ_Men_Of_The_Year_2012_AWARD.jpg",
-    "altText": "Image of Rahul Dravid at GQ Men Of The Year 2012 AWARD"
+    "url": "/static/images/anil_kumble/Anil_Kumble.jpg",
+    "altText": "Image of Anil Kumble"
   },
-  "summary": "Rahul Dravid is a former Indian cricketer and captain, widely regarded as one of the greatest batsmen in the history of cricket.",
+  "summary": "Anil Kumble is a former Indian cricketer and a former captain of Tests and ODIs, who played Tests and ODIs for 18 years. ",
   "translations": [
     {
-      "url": "/read/hi/rahul_dravid",
+      "url": "/read/hi/anil_kumble",
       "title": "मुशफिकुर रहीम ",
       "lang": "hi"
     },
     {
-      "url": "/read/ta/rahul_dravid",
+      "url": "/read/ta/anil_kumble",
       "title": "",
       "lang": "ta"
     }
@@ -27,41 +27,41 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "Rahul Sharad Dravid",
+            "label": "Anil Kumble",
             "url": ""
           }
         },
         {
           "label": "Born on",
           "value": {
-            "label": "11/01/1973",
+            "label": "17/10/1970",
             "url": ""
           }
         },
         {
           "label": "Birthplace",
           "value": {
-            "label": "Indore, India",
-            "url": ""
+            "label": "Bengaluru, India",
+            "url": "G1"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "1.70 m (5 ft 7 in)",
+            "label": "6 ft 1 in (1.85 m)",
             "url": ""
           }
         },
         {
           "label": "Other Names",
           "value": {
-            "label": "The Wall",
+            "label": "Jumbo",
             "url": ""
           }
         },
         {
           "label": "Age",
-          "value": "46"
+          "value": "48"
         },
         {
           "label": "Nationality",
@@ -73,7 +73,7 @@
         {
           "label": "Role",
           "value": {
-            "label": "Batsman, wicket-keeper",
+            "label": "Leg-spin bowler",
             "url": ""
           }
         }
@@ -104,9 +104,9 @@
         {
           "label": "First class Debut",
           "id": 0,
-          "note": "1991",
+          "note": "1989",
           "value": {
-            "label": "Dravid made his Ranji Trophy debut in 1991versus Maharashtra.",
+            "label": "Kumble made his first-class debut for Karnataka against Hyderabad on 30 November 1989, taking 4 wickets.",
             "facts": [
               {
                 "label": "SF20",
@@ -124,9 +124,9 @@
         {
           "label": "National team debut ",
           "id": 3,
-          "note": "1996",
+          "note": "1990",
           "value": {
-            "label": "Dravid made his international debut in 1996 in an ODI against Sri Lanka in the Singer Cup held in Singapore.",
+            "label": "Kumble made his One Day International debut against Sri Lanka at Sharjah in the Austral-Asia Cup in 1990.",
             "facts": [
               {
                 "label": "R13",
@@ -144,9 +144,29 @@
         {
           "label": "ICC Tournament Debut",
           "id": 1,
+          "note": "1996",
+          "value": {
+            "label": "Kumble was selected in the Indian side for the 1996 World Cup and was the leading wicket-taker in the tournament.",
+            "facts": [
+              {
+                "label": "R13",
+                "value": {
+                  "label": "R13",
+                  "image": {
+                    "url": "R13",
+                    "altText": "R13"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "World Cup Apperance",
+          "id": 1,
           "note": "1999",
           "value": {
-            "label": "Dravid made his World Cup debut against South Africa in 1999 at Hove scoring a half century.",
+            "label": "",
             "facts": [
               {
                 "label": "R13",
@@ -162,50 +182,30 @@
           }
         },
         {
-          "label": "2003 World Cup",
+          "label": "World Cup",
           "id": 1,
-          "note": "2003",
-          "value": {
-            "label": "Dravid was the vice-captain during the 2003 World Cup, playing as a wicket-keeper batsman.",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2007 World Cup",
-          "id": 1,
-          "value": {
-            "label": "Rahul Dravid was appointed the captain for the Indian team for the 2007 World Cup, where India had an unsuccessful campaign.",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "note": "",
           "value": {
             "label": "",
+            "facts": [
+              {
+                "label": "R13",
+                "value": {
+                  "label": "R13",
+                  "image": {
+                    "url": "R13",
+                    "altText": "R13"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Retirement",
+          "id": 1,
+          "note": "2007",
+          "value": {
+            "label": "After the 2007 World Cup, he announced his retirement from ODIs",
             "facts": [
               {
                 "label": "R13",
@@ -225,7 +225,7 @@
           "id": 1,
           "note": "2008",
           "value": {
-            "label": "Rahul Dravid played for Royal Challengers Bangalore in IPL 2008, 2009 and 2010.",
+            "label": "Kumble agreed to honour his contract with the Royal Challengers Bangalore (RCB) after retirement and played for 3 years.",
             "facts": [
               {
                 "label": "R13",
@@ -248,10 +248,10 @@
       "facts": [
         {
           "value": {
-            "label": "Rahul Dravid is a right-handed batsman, and also an occasional wicket-keeper",
+            "label": "Kumble is a right-arm leg spinner (legbreak googly) with an unorthodox style, most famous for his flipper and a right-hand batsman He started his career as a fast bowler,which gave him a useful faster delivery. His unique bowling style can be attributed to matting pitches in Bangalore which assist top-spin and over-spin.",
             "image": {
-              "url": "/static/images/rahul_dravid/Rahul_cropped.jpg",
-              "altText": "Image of Rahul cropped"
+              "url": "/static/images/anil_kumble/null",
+              "altText": "Image of null"
             }
           }
         }
@@ -262,7 +262,7 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "1996-2012",
+          "label": "1990-2008",
           "value": {
             "facts": [
               {
@@ -271,7 +271,7 @@
                 "value": {
                   "label": "The India national cricket team, also known as Team India and Men in Blue, is governed by the Board of Control for Cricket in India",
                   "image": {
-                    "url": "/static/images/rahul_dravid/Cricket_India_Crest.svg",
+                    "url": "/static/images/anil_kumble/Cricket_India_Crest.svg",
                     "altText": "Image of Cricket India Crest"
                   }
                 }
@@ -280,14 +280,14 @@
           }
         },
         {
-          "label": "2011-2013",
+          "label": "2008-2010",
           "value": {
             "facts": [
               {
-                "label": "Rajasthan Royals",
-                "url": "R11",
+                "label": "Royal Challengers Bangalore",
+                "url": "R6",
                 "value": {
-                  "label": "The Rajasthan Royals is an IPL cricket team based in Jaipur, Rajasthan, India.",
+                  "label": "The Royal Challengers Bangalore(RCB) are a franchise cricket team based in Bangalore, India.",
                   "image": {
                     "url": "/static/images/default_person.svg",
                     "altText": "Image of null"
@@ -298,7 +298,7 @@
           }
         },
         {
-          "label": "1990-2012",
+          "label": "1989-2009",
           "value": {
             "facts": [
               {
@@ -322,46 +322,46 @@
       "cardType": "tag_card",
       "facts": [
         {
-          "label": "Arjuna Awards",
-          "tag": "1998",
+          "label": "Arjuna Award",
+          "tag": "1995",
           "value": {
             "label": "Arjuna Awards are given by the Government for outstanding achievement in sports",
             "image": {
-              "url": "/static/images/rahul_dravid/Arjun_Award.jpg",
+              "url": "/static/images/anil_kumble/Arjun_Award.jpg",
               "altText": "Image of Arjun Award"
             }
           }
         },
         {
           "label": "Padma Shri",
-          "tag": "2004",
+          "tag": "2005",
           "value": {
             "label": "Padma Shri is the fourth highest civilian award in the Republic of India",
             "image": {
-              "url": "/static/images/rahul_dravid/The_President_Dr._A.P.J_Abdul_Kalam_presenting_Padma_Shri_Award_to_Shri_Saurav_Ganguly_the_most_successful_Captain_of_Indian_Cricket_Team_at_an_investiture_Ceremony_at_Rashtrapati_Bhawan_in_New_Delhi_on_June_30,_2004.jpg",
-              "altText": "Image of The President Dr. A.P.J Abdul Kalam presenting Padma Shri Award to Shri Saurav Ganguly the most successful Captain of Indian Cricket Team at an investiture Ceremony at Rashtrapati Bhawan in New Delhi on June 30, 2004"
+              "url": "/static/images/anil_kumble/Padma_Shri_India_IIIe_Klasse.jpg",
+              "altText": "Image of Padma Shri India IIIe Klasse"
             }
           }
         },
         {
-          "label": "Padma Bhushan",
-          "tag": "2013",
-          "value": {
-            "label": "Padma Bhushan is the third-highest civilian award in the Republic of India",
-            "image": {
-              "url": "/static/images/rahul_dravid/Padma_Bhushan_India_IIe_Klasse.jpg",
-              "altText": "Image of Padma Bhushan India IIe Klasse"
-            }
-          }
-        },
-        {
-          "label": "ICC Hall of Fame",
-          "tag": "2018",
+          "label": "ICC Cricket Hall of Fame",
+          "tag": "2015",
           "value": {
             "label": "The ICC Cricket Hall of Fame recognises the achievements of the cricketing legends.",
             "image": {
-              "url": "/static/images/rahul_dravid/ICC_Hall_Of_Fame.svg",
+              "url": "/static/images/anil_kumble/ICC_Hall_Of_Fame.svg",
               "altText": "Image of ICC Hall Of Fame"
+            }
+          }
+        },
+        {
+          "label": "",
+          "tag": "",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
             }
           }
         }
@@ -372,7 +372,7 @@
       "cardType": "tag_card",
       "facts": [
         {
-          "label": "St. Joseph's Boys High School, Bengaluru",
+          "label": "Rashtreeya Vidyalaya College of Engineering",
           "tag": "",
           "value": {
             "label": "",
@@ -391,7 +391,7 @@
         {
           "label": null,
           "value": {
-            "label": "Dravid scored nearly 25000 runs in international cricket.",
+            "label": "Kumble is the second player to have taken all 10 wickets in a single innings of a test match.",
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of null"
@@ -401,7 +401,7 @@
         {
           "label": null,
           "value": {
-            "label": "Dravid has scored five double centuries in Test matches",
+            "label": "Kumble holds the record for the most wickets in a calendar year by an Indian in ODIs with 61 wickets in 1996",
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of null"
@@ -411,7 +411,7 @@
         {
           "label": null,
           "value": {
-            "label": "Dravid held the record for the most number of catches taken by a player (non-wicket-keeper) in Test cricket, with 210 catches.",
+            "label": "Kumble holds the record of bowling 40850 balls in entire Test career, highest for an Indian.",
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of null"
@@ -421,7 +421,7 @@
         {
           "label": null,
           "value": {
-            "label": "Dravid and VVS Laxman played a 376 run partnership during a test match against Australia, which was won by India by 171 runs.",
+            "label": "Kumble took his first 50 Test wickets in 10 matches",
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of null"
@@ -431,7 +431,7 @@
         {
           "label": null,
           "value": {
-            "label": "Dravid put up a partnership of 331 runs with Tendulkar which was a world record",
+            "label": "In 1993, he took six wickets for 12 runs in an ODI against the West Indies which was an Indian record for very long time.",
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of null"
