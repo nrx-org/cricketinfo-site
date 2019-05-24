@@ -1,13 +1,14 @@
 import React from "react";
 import { StoriesContainer } from "./StoriesContainer";
 import { factCardDataPropTypes } from "../lib/prop_types";
-import { BarChart } from "./BarChart";
 import { Timeline } from "./Timeline";
 import { SectionTitle } from "./SectionTitle";
 import { AvatarList } from "./AvatarList";
 import { TagCard } from "./TagCard";
 import { ListCard } from "./ListCard";
 import { FactCardSimple } from "./FactCardSimple";
+import { TinyCardCarouselWithInfo } from "./TinyCardCarouselWithInfo";
+import { BarChartWithInfo } from "./BarChartWithInfo";
 
 const FactCardTable = ({ cardData }) => {
   const content = cardData.facts.map(f => (
@@ -57,10 +58,6 @@ export const FactCard = ({ cardData }) => {
     return <Timeline cardData={cardData} type="horizontal" />;
   }
 
-  if (cardData.cardType === "bar_chart") {
-    return <BarChart cardData={cardData} />;
-  }
-
   if (cardData.cardType === "stories") {
     return <StoriesContainer cardData={cardData} />;
   }
@@ -71,6 +68,14 @@ export const FactCard = ({ cardData }) => {
 
   if (cardData.cardType === "list_card") {
     return <ListCard cardData={cardData} />;
+  }
+
+  if (cardData.cardType === "tiny_card_carousel_with_info") {
+    return <TinyCardCarouselWithInfo cardData={cardData} />;
+  }
+
+  if (cardData.cardType === "bar_chart_with_info") {
+    return <BarChartWithInfo cardData={cardData} />;
   }
 
   return null;
