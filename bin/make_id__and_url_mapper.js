@@ -8,8 +8,8 @@ const parse = require("csv-parse/lib/sync");
 const pathToParsedFile = "./csv/personalities.csv";
 // const pathToParsedFile = "./csv/places.csv";
 // const currentLanguage = "en";
-const currentLanguage = "hi";
-// const currentLanguage = "ta"
+// const currentLanguage = "hi";
+const currentLanguage = "ta";
 
 // Read from the sheet to be parsed
 const sheetInput = fs.readFileSync(pathToParsedFile, "utf8", (err, content) => {

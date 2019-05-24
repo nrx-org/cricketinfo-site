@@ -141,5 +141,21 @@
     "mumbai": "/static/content/en/mumbai.json",
     "australia": "/static/content/en/australia.json"
   },
-  "ta": {}
+  "ta": {
+    "virat_kohli": "/static/content/ta/virat_kohli.json",
+    "kapil_dev": "/static/content/ta/kapil_dev.json",
+    "anushka_sharma": "/static/content/ta/anushka_sharma.json",
+    "anil_kumble": "/static/content/ta/anil_kumble.json",
+    "sachin_tendulkar": "/static/content/ta/sachin_tendulkar.json",
+    "sourav_ganguly": "/static/content/ta/sourav_ganguly.json",
+    "rahul_dravid": "/static/content/ta/rahul_dravid.json",
+    "mahendra_singh_dhoni": "/static/content/ta/mahendra_singh_dhoni.json",
+    "rohit_sharma": "/static/content/ta/rohit_sharma.json",
+    "shikhar_dhawan": "/static/content/ta/shikhar_dhawan.json",
+    "kagiso_rabada": "/static/content/ta/kagiso_rabada.json",
+    "shoaib_malik": "/static/content/ta/shoaib_malik.json",
+    "lasith_malinga": "/static/content/ta/lasith_malinga.json",
+    "rashid_khan": "/static/content/ta/rashid_khan.json",
+    "mushfiqur_rahim": "/static/content/ta/mushfiqur_rahim.json"
+  }
 }
