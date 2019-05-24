@@ -65,7 +65,6 @@ const ui = parse(uiInput, {
 });
 
 let article;
-let enSluggedTitle;
 
 records.forEach(async record => {
   article = {
@@ -86,7 +85,7 @@ records.forEach(async record => {
       idMapRecord["id"] === article["id"] ? idMapRecord : null
     );
 
-  enSluggedTitle = getSluggedTitle(getCurrentID()["title"]["en"]);
+  const enSluggedTitle = getSluggedTitle(getCurrentID()["title"]["en"]);
 
   // Get file name from url link
   const getFileNameFromURL = url => {
@@ -207,7 +206,8 @@ records.forEach(async record => {
             id: 0,
             note: record["History Phase 1 Time period"],
             value: {
-              label: record["History Phase 1 Small description"]
+              label: record["History Phase 1 Small description"],
+              facts: []
             }
           },
           {
@@ -215,7 +215,8 @@ records.forEach(async record => {
             id: 1,
             note: record["History Phase 2 Time period"],
             value: {
-              label: record["History Phase 2  Small description"]
+              label: record["History Phase 2  Small description"],
+              facts: []
             }
           },
           {
@@ -223,7 +224,8 @@ records.forEach(async record => {
             id: 1,
             note: record["History Phase 3 Time period"],
             value: {
-              label: record["History Phase 3  Small description"]
+              label: record["History Phase 3  Small description"],
+              facts: []
             }
           },
           {
@@ -231,7 +233,8 @@ records.forEach(async record => {
             id: 1,
             note: record["History Phase 4 Time period"],
             value: {
-              label: record["History Phase 4  Small description"]
+              label: record["History Phase 4  Small description"],
+              facts: []
             }
           }
         ]
@@ -287,39 +290,48 @@ records.forEach(async record => {
             }
           }
         ]
+      },
+      {
+        title: ui[uiID]["Geography"],
+        cardType: "simple",
+        facts: [
+          {
+            label: article["title"],
+            value: {
+              label: record["Geography"],
+              image: {
+                url: await getImagePathForArticle(
+                  record["Link to relevant image  - geography"]
+                ),
+                altText: `Image of ${getImageName(
+                  record["Link to relevant image  - geography"]
+                )}`
+              }
+            }
+          }
+        ]
       }
-      //   Add In Sports, but it's all Cards so figure out how to add that first.
-      // record["Team ID Code"] record["Player 1 ID Code"] record["Player 2 ID Code"]
-      // Need to display these three players in avatar style
-      // {
-      //     title: ui[uiID]["Geography"],
-      //     cardType: "simple",
-      //     facts: [
-      //         {
-      //             value: {
-      //                 label: article["title"],
-
-      //             }
-      //         }
-      //     ]
-      // } // Get back to this after a heading can be taken
-      // {
-      //     title: ui[uiID]["Culture"],
-      //     cardType: "stories",
-      //     facts: [
-      //         {
-      //             label: record["Culture Card 1 Title"]
-      //         }
-      //     ]
-      // } // Get back to this after Chandra can fix the column images header issues
     ]
   };
+  //   Add In Sports, but it's all Cards so figure out how to add that first.
+  // record["Team ID Code"] record["Player 1 ID Code"] record["Player 2 ID Code"]
+  // Need to display these three players in avatar style
+  //   {
+  //       title: ui[uiID]["Culture"],
+  //       cardType: "stories",
+  //       facts: [
+  //           {
+  //               label: record["Culture Card 1 Title"]
+  //           }
+  //       ]
+  //   } // Get back to this after Chandra can fix the column images header issues
 
-  fs.writeFile(
+  //   if (article["id"] === "G2") {
+  // console.log(article["wikipediaURL"]);
+  //   }
+
+  fs.writeFileSync(
     `./static/content/${currentLanguage}/${enSluggedTitle}.json`,
-    JSON.stringify(article, null, 2),
-    err => {
-      if (err) console.log(err);
-    }
+    JSON.stringify(article, null, 2)
   );
 });

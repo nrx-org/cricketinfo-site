@@ -1,4 +1,186 @@
 {
   "id": "G8",
-  "title": "New Zealand"
+  "title": "New Zealand",
+  "wikipediaURL": "https://en.wikipedia.org/wiki/New_Zealand",
+  "summary": "New Zealand is a sovereign island country in the southwestern Pacific Ocean. The country geographically comprises two main landmasses and around 600 smaller islands. New Zealand is situated some 2,000 kilometres east of Australia.",
+  "coverImage": {
+    "url": "/static/images/new_zealand/Lake_Gunn.jpg",
+    "altText": "Image of Lake Gunn"
+  },
+  "translations": [
+    {
+      "title": "",
+      "url": "/read/hi/new_zealand",
+      "lang": "hi"
+    },
+    {
+      "url": "/read/ta/new_zealand",
+      "title": "",
+      "lang": "ta"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "ANZAC day",
+          "value": {
+            "label": "25 April",
+            "url": ""
+          }
+        },
+        {
+          "label": "Waitangi day",
+          "value": {
+            "label": "6 February",
+            "url": ""
+          }
+        },
+        {
+          "label": "",
+          "value": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "label": "Total Area",
+          "value": {
+            "label": "268021  km²",
+            "url": ""
+          }
+        },
+        {
+          "label": "Population",
+          "value": {
+            "label": "4,960,350 (2019 estimate)",
+            "url": ""
+          }
+        },
+        {
+          "label": "Other names",
+          "value": {
+            "label": "Aotearoa",
+            "url": ""
+          }
+        },
+        {
+          "label": "Capital",
+          "value": {
+            "label": "Wellington",
+            "url": ""
+          }
+        },
+        {
+          "value": {
+            "label": "Auckland",
+            "url": ""
+          }
+        },
+        {
+          "label": "Timezone(s)",
+          "value": {
+            "label": "UTC+12 (UTC+13, summer)",
+            "url": ""
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Early settlement",
+          "id": 0,
+          "note": "13th century CE",
+          "value": {
+            "label": "New Zealand was one of the last major landmasses settled by humans. It was discovered and settled by Polynesians, who developed a distinct Māori culture. The most current reliable evidence strongly indicates that initial settlement of New Zealand occurred 1280 – 1320 CE.",
+            "facts": []
+          }
+        },
+        {
+          "label": "Early European Exploration",
+          "id": 1,
+          "note": "16th -18th century CE",
+          "value": {
+            "label": "The first Europeans known to have reached New Zealand were Dutch explorer Abel Tasman and his crew. Europeans did not revisit New Zealand until 1769 when British explorer James Cook mapped almost the entire coastline. Numerous European and North American ships followed for trade. Between 1801 and 1840, numerous Maori inhabitants were killed during inter-tribal wars thus causing a decline in population.",
+            "facts": []
+          }
+        },
+        {
+          "label": "Early European settlement",
+          "id": 1,
+          "note": "Early 19th century CE",
+          "value": {
+            "label": "European settlement increased through the early decades of the 19th century. With signing of the Treaty of Waitangi in 1840 between Maori chiefs and the British, the latter established New Zealand as a colony under Queen Victoria. Discrepancies in the treaty led to disagreements and armed conflicts.",
+            "facts": []
+          }
+        },
+        {
+          "label": "Colonial period",
+          "id": 1,
+          "note": "Late 19th century",
+          "value": {
+            "label": "At first New Zealand was administered from Australia as part of the colony of New South Wales until New Zealand became a British colony in its own right in 1841. Some 400,000 settlers came from Britain, of whom 300,000 stayed permanently.",
+            "facts": []
+          }
+        }
+      ]
+    },
+    {
+      "cardType": "avatar",
+      "label": "The New Zealand Parliament holds legislative power and consists of the Queen and the House of Representatives. The House of Representatives is democratically elected and a government is formed from the party or coalition with the majority of seats.",
+      "facts": [
+        {
+          "value": {
+            "label": "Jacinda Ardern",
+            "url": "",
+            "image": {
+              "url": "/static/images/new_zealand/Jacinda_Ardern_at_the_University_of_Auckland_(cropped).jpg",
+              "altText": "Image of Jacinda Ardern at the University of Auckland (cropped)"
+            }
+          }
+        },
+        {
+          "value": {
+            "label": "",
+            "url": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        },
+        {
+          "value": {
+            "label": "Dame Helen Winkelmann",
+            "url": "",
+            "image": {
+              "url": "/static/images/new_zealand/Helen_Winkelmann_2014_(cropped).jpg",
+              "altText": "Image of Helen Winkelmann 2014 (cropped)"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Geography",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "Australia",
+          "value": {
+            "label": "New Zealand is located in the Southern Hemisphere and is made up of two main islands and many smaller islands. New Zealand is long and narrow with a maximum width of 400 kilometres with about 15,000 km of coastline.",
+            "image": {
+              "url": "/static/images/new_zealand/Emerald_Lakes,_New_Zealand.jpg",
+              "altText": "Image of Emerald Lakes, New Zealand"
+            }
+          }
+        }
+      ]
+    }
+  ]
 }

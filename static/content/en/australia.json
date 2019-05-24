@@ -97,7 +97,8 @@
           "id": 0,
           "note": "65,000 to 70,000 years ago",
           "value": {
-            "label": "Human habitation of the Australian continent is estimated to have begun around 65,000 to 70,000 years ago with the migration of people by land bridges and short sea-crossings from what is now Southeast Asia."
+            "label": "Human habitation of the Australian continent is estimated to have begun around 65,000 to 70,000 years ago with the migration of people by land bridges and short sea-crossings from what is now Southeast Asia.",
+            "facts": []
           }
         },
         {
@@ -105,7 +106,8 @@
           "id": 1,
           "note": "1600s",
           "value": {
-            "label": "The first recorded European sighting of the Australian mainland, and the first recorded European landfall on the Australian continent (in 1606), are attributed to the Dutch."
+            "label": "The first recorded European sighting of the Australian mainland, and the first recorded European landfall on the Australian continent (in 1606), are attributed to the Dutch.",
+            "facts": []
           }
         },
         {
@@ -113,7 +115,8 @@
           "id": 1,
           "note": "1850s",
           "value": {
-            "label": "A gold rush began in Australia in the early 1850s and the Eureka Rebellion against mining license fees in 1854 was an early expression of civil disobedience."
+            "label": "A gold rush began in Australia in the early 1850s and the Eureka Rebellion against mining license fees in 1854 was an early expression of civil disobedience.",
+            "facts": []
           }
         },
         {
@@ -121,7 +124,8 @@
           "id": 1,
           "note": "1900s",
           "value": {
-            "label": "On 1 January 1901, federation of the colonies was achieved after a decade of planning, consultation and voting. This established the Commonwealth of Australia as a dominion of the British Empire."
+            "label": "On 1 January 1901, federation of the colonies was achieved after a decade of planning, consultation and voting. This established the Commonwealth of Australia as a dominion of the British Empire.",
+            "facts": []
           }
         }
       ]
@@ -161,21 +165,18 @@
           }
         }
       ]
-    }
-  ]
-}            "image": {
-              "url": "/static/images/australia/President_of_Pakistan_Dr_Arif_Alvi.jpg",
-              "altText": "Image of President of Pakistan Dr Arif Alvi"
-            }
-          }
-        },
+    },
+    {
+      "title": "Geography",
+      "cardType": "simple",
+      "facts": [
         {
+          "label": "Australia",
           "value": {
-            "label": "Asif Saeed Khan Khosa",
-            "url": "",
+            "label": " Surrounded by the Indian and Pacific oceans, Australia is the world's smallest continent and sixth largest country by total area. Owing to its size and isolation, it is often called the \"island continent\", and is sometimes considered the world's largest island.",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": "/static/images/australia/The_great_dividing_range.jpg",
+              "altText": "Image of The great dividing range"
             }
           }
         }

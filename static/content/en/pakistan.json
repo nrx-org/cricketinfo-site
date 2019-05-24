@@ -1,4 +1,186 @@
 {
   "id": "G5",
-  "title": "Pakistan"
+  "title": "Pakistan",
+  "wikipediaURL": "https://en.wikipedia.org/wiki/Pakistan",
+  "summary": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the world’s sixth-most populous country with a population exceeding 212,742,631 people.",
+  "coverImage": {
+    "url": "/static/images/pakistan/Parliament_House,_Islamabad_by_Usman_Ghani.jpg",
+    "altText": "Image of Parliament House, Islamabad by Usman Ghani"
+  },
+  "translations": [
+    {
+      "title": "",
+      "url": "/read/hi/pakistan",
+      "lang": "hi"
+    },
+    {
+      "url": "/read/ta/pakistan",
+      "title": "",
+      "lang": "ta"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Independence Day",
+          "value": {
+            "label": "14 August 1947",
+            "url": ""
+          }
+        },
+        {
+          "label": "Republic Day",
+          "value": {
+            "label": "23 March",
+            "url": ""
+          }
+        },
+        {
+          "label": "",
+          "value": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "label": "Total Area",
+          "value": {
+            "label": "881913 km²",
+            "url": ""
+          }
+        },
+        {
+          "label": "Population",
+          "value": {
+            "label": "212742631 (2017 census)",
+            "url": ""
+          }
+        },
+        {
+          "label": "Other names",
+          "value": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "label": "Capital",
+          "value": {
+            "label": "Islamabad",
+            "url": ""
+          }
+        },
+        {
+          "value": {
+            "label": "Karachi",
+            "url": ""
+          }
+        },
+        {
+          "label": "Timezone(s)",
+          "value": {
+            "label": "UTC+5",
+            "url": ""
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Early and medieval age",
+          "id": 0,
+          "note": "2,800–1,800 BCE",
+          "value": {
+            "label": "Some of the earliest ancient human civilisations in South Asia originated from areas in present-day Pakistan. The Indus region, was the site of several successive ancient cultures including the Neolithic Mehrgarh and the Bronze Age Indus Valley Civilisation at Harappa and Mohenjo-Daro.",
+            "facts": []
+          }
+        },
+        {
+          "label": "Vedic period",
+          "id": 1,
+          "note": "1500–500 BCE",
+          "value": {
+            "label": "The Vedic period was characterised by an Indo-Aryan culture; during this period the Vedas, the oldest scriptures associated with Hinduism, were composed, and this culture later became well established in the region. Successive ancient empires and kingdoms ruled the region, including the Mauryan empire.",
+            "facts": []
+          }
+        },
+        {
+          "label": "Ancient Kingdoms",
+          "id": 1,
+          "note": "500-100 BCE",
+          "value": {
+            "label": "Successive ancient empires and kingdoms ruled the region, including the Mauryan empire. The Indo-Greek Kingdom founded by Demetrius of Bactria included Gandhara and Punjab, prospering the Greco-Buddhist culture in the region. Taxila, one of the earliest universities and centres of higher education in the world, which was established during this period.",
+            "facts": []
+          }
+        },
+        {
+          "label": "Mughal period",
+          "id": 1,
+          "note": "1526–1857 CE",
+          "value": {
+            "label": "The Mughals introduced Persian literature and high culture, establishing the roots of Indo-Persian culture in the region. In the early 16th century, the region remained under the Mughal Empire ruled by Muslim emperors. By the early 18th century, increasing European influence contributed to the slow disintegration of the Mughal Empire.",
+            "facts": []
+          }
+        }
+      ]
+    },
+    {
+      "cardType": "avatar",
+      "label": "Pakistan is an Islamic Republic and has a multi-party parliamentary system. Members of the National Assembly are elected by the citizens. The Prime Minister is the leader of the majority rule party or a coalition in the National Assembly.",
+      "facts": [
+        {
+          "value": {
+            "label": "Imran Khan",
+            "url": "",
+            "image": {
+              "url": "/static/images/pakistan/Mike_Pompeo_with_Imran_Khan_in_Islamabad_-_2018_(29559549217)_(cropped).jpg",
+              "altText": "Image of Mike Pompeo with Imran Khan in Islamabad   2018 (29559549217) (cropped)"
+            }
+          }
+        },
+        {
+          "value": {
+            "label": "Arif Alvi",
+            "url": "",
+            "image": {
+              "url": "/static/images/pakistan/President_of_Pakistan_Dr_Arif_Alvi.jpg",
+              "altText": "Image of President of Pakistan Dr Arif Alvi"
+            }
+          }
+        },
+        {
+          "value": {
+            "label": "Asif Saeed Khan Khosa",
+            "url": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of null"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Geography",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "Australia",
+          "value": {
+            "label": "Pakistan is divided into three major geographic areas: the northern highlands, the Indus River plain, and the Balochistan Plateau.",
+            "image": {
+              "url": "/static/images/pakistan/K2_2006b.jpg",
+              "altText": "Image of K2 2006b"
+            }
+          }
+        }
+      ]
+    }
+  ]
 }
