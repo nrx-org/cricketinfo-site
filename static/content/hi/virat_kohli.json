@@ -1,20 +1,22 @@
 {
+  "id": "O1",
   "title": "विराट कोहली",
+  "wikipediaURL": "https://en.wikipedia.org/wiki/Virat_Kohli",
   "coverImage": {
-    "url": "/static/images/विराट_कोहली/Virat..Kohli.jpg",
+    "url": "/static/images/virat_kohli/Virat..Kohli.jpg",
     "altText": "Image of Virat..Kohli"
   },
-  "summary": "\nभारतीय अंतर्राष्ट्रीय क्रिकेटर जो वर्तमान में भारत की राष्ट्रीय टीम की कप्तानी कर रहे हैं।",
+  "summary": "विराट कोहली भारत के एक  अन्‍तर्राष्ट्रीय क्रिकेटर हैं जो वर्तमान में भारत की राष्ट्रीय टीम के कप्तान हैं।",
   "translations": [
     {
-      "url": "/wiki/hi/विराट_कोहली",
-      "title": "महेंद्र सिंह धोनी",
-      "lang": "hi"
+      "url": "/read/en/virat_kohli",
+      "title": "Mushfiqur Rahim",
+      "lang": "en"
     },
     {
-      "url": "/wiki/ta/विराट_कोहली",
-      "title": "விராத் கோலி",
-      "lang": "pa"
+      "url": "/read/ta/virat_kohli",
+      "title": "",
+      "lang": "ta"
     }
   ],
   "sections": [
@@ -25,7 +27,7 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "",
+            "label": "विराट कोहली",
             "url": ""
           }
         },
@@ -40,34 +42,38 @@
           "label": "Birthplace",
           "value": {
             "label": "दिल्ली, भारत",
-            "url": "https://hi.wikipedia.org/wiki/%E0%A4%A6%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80"
+            "url": "G16"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "5 फीट 9 इंच (1.75 मी॰)",
+            "label": "5 फीट 9 इंच (1.75 मीटर)",
             "url": ""
           }
         },
         {
           "label": "Other Names",
           "value": {
-            "label": "",
+            "label": "चीकू",
             "url": ""
           }
+        },
+        {
+          "label": "Age",
+          "value": "31"
         },
         {
           "label": "Nationality",
           "value": {
             "label": "भारतीय",
-            "url": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%97"
+            "url": "G3"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "बल्लेबाज़",
+            "label": "बल्लेबाज",
             "url": ""
           }
         }
@@ -79,11 +85,12 @@
       "label": "",
       "facts": [
         {
-          "label": "",
+          "label": "पत्नी",
           "value": {
-            "label": "अनुष्का शर्मा",
+            "label": "अनुष्‍का शर्मा",
+            "url": "O33",
             "image": {
-              "url": "/static/images/विराट_कोहली/Anushka_Sharma_promoting_Zero.jpg",
+              "url": "/static/images/virat_kohli/Anushka_Sharma_promoting_Zero.jpg",
               "altText": "Image of Anushka Sharma promoting Zero"
             }
           }
@@ -95,43 +102,19 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "Year of Birth",
+          "label": "प्रथम श्रेणी की शुरुआत",
           "id": 0,
-          "note": null,
-          "value": {
-            "label": "कोहली का जन्म दिल्ली में नवम्बर 1988 को हुआ था",
-            "facts": [
-              {
-                "label": "Place of Birth",
-                "id": 0,
-                "value": {
-                  "label": "दिल्ली, भारत",
-                  "url": "https://hi.wikipedia.org/wiki/%E0%A4%A6%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
-                  "image": {
-                    "url": "/static/images/विराट_कोहली/India_Gate_in_New_Delhi_03-2016.jpg",
-                    "altText": "Image of India Gate in New Delhi 03 2016"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "Debut Year",
-          "id": 3,
           "note": "2006",
           "value": {
-            "label": "कोहली ने 2006 में 18 साल की उम्र में तमिलनाडु के खिलाफ दिल्ली के लिए पहला मैच खेला",
+            "label": "18 वर्ष की आयु में कोहली ने 2006 में दिल्ली की ओर से तमिलनाडु के विरुद्ध प्रथम श्रेणी क्रिकेट में पदार्पण किया। ",
             "facts": [
               {
-                "label": "रणजी ट्रॉफी",
-                "id": 0,
+                "label": "SF20",
                 "value": {
-                  "label": "",
-                  "url": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A4%A3%E0%A4%9C%E0%A5%80_%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%89%E0%A4%AB%E0%A5%80",
+                  "label": "SF20",
                   "image": {
-                    "url": "https://placekitten.com/200/200",
-                    "altText": "Kitten mata ki jai"
+                    "url": "SF20",
+                    "altText": "SF20"
                   }
                 }
               }
@@ -139,20 +122,118 @@
           }
         },
         {
+          "label": "राष्ट्रीय टीम ",
+          "id": 3,
           "note": "2008",
-          "id": 1,
           "value": {
-            "label": "श्रीलंका क्रिकेट टीम",
+            "label": "कोहली को भारत के ओडीआई दल में 2008 के श्रीलंका और पाकिस्तान में खेले गए चैंपियंस ट्रॉफी के दौरे में शामिल किया गया। ",
             "facts": [
               {
-                "label": "",
-                "id": 0,
+                "label": "R13",
                 "value": {
-                  "label": "कोहली श्रीलंका के 2008 के दौरे और पाकिस्तान में चैंपियंस ट्रॉफी के लिए भारतीय वनडे टीम में शामिल किये गये थे",
-                  "url": "https://hi.wikipedia.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B2%E0%A4%82%E0%A4%95%E0%A4%BE_%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%9F_%E0%A4%9F%E0%A5%80%E0%A4%AE",
+                  "label": "R13",
                   "image": {
-                    "url": "https://placekitten.com/200/200",
-                    "altText": "Image of India Gate in New Delhi 03 2016"
+                    "url": "R13",
+                    "altText": "R13"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "विश्व कप",
+          "id": 1,
+          "note": "2008",
+          "value": {
+            "label": "मलेशिया में आयोजित 2018 के आईसीसी अंडर-19 क्रिकेट विश्व कप में कोहली ने विजेता भारतीय टीम की कप्तानी की।   ",
+            "facts": [
+              {
+                "label": "R13",
+                "value": {
+                  "label": "R13",
+                  "image": {
+                    "url": "R13",
+                    "altText": "R13"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "विश्व कप उपस्थिति\n",
+          "id": 1,
+          "note": "2011",
+          "value": {
+            "label": "2011 के विश्व कप में भारत ने चैंपियनशिप जीतने में सफलता प्राप्त की और कोहली टुर्नामेंट के प्रत्येक मैचों में भारतीय टीम के लिए खेले। ",
+            "facts": [
+              {
+                "label": "R13",
+                "value": {
+                  "label": "R13",
+                  "image": {
+                    "url": "R13",
+                    "altText": "R13"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "चैंपियंस ट्रॉफी ",
+          "id": 1,
+          "value": {
+            "label": "जून 2013 में कोहली ने आईसीसी चैंपियंस ट्रॉफी में शिरकत की जिसे भारत ने जीता था।",
+            "facts": [
+              {
+                "label": "R13",
+                "value": {
+                  "label": "R13",
+                  "image": {
+                    "url": "R13",
+                    "altText": "R13"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "टी 20 विश्व कप ",
+          "id": 1,
+          "note": "2014 के आईसीसी विश्व ट्वेंटी 20 में कोहली को उप-कप्तान नियुक्त किया गया था। ",
+          "value": {
+            "label": "टी 20 विश्व कप ",
+            "facts": [
+              {
+                "label": "R13",
+                "value": {
+                  "label": "R13",
+                  "image": {
+                    "url": "R13",
+                    "altText": "R13"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "IPL डेब्यू",
+          "id": 1,
+          "note": "2008",
+          "value": {
+            "label": "मार्च 2008 में कोहली को युवा अनुबंध के तौर पर रॉयल चैलेंजर्स बंगलुरु ने 30 हजार डॉलर में खरीदा। ",
+            "facts": [
+              {
+                "label": "R13",
+                "value": {
+                  "label": "R13",
+                  "image": {
+                    "url": "R13",
+                    "altText": "R13"
                   }
                 }
               }
@@ -167,10 +248,10 @@
       "facts": [
         {
           "value": {
-            "label": "दायें हाथ के ऊपरी क्रम के बल्लेबाज़",
+            "label": "कोहली मजबूत तकनीकी कौशल के साथ स्वाभाविक रूप से आक्रामक बल्लेबाज हैं। वह आमतौर पर मध्य क्रम में बल्लेबाजी करते हैं, लेकिन, कई मौकों पर, उन्होंने पारी भी खोली है। वह थोड़े खुले छाती वाले रुख के साथ बल्लेबाजी करते हैं और मजबूत हाथ-नीचे की पकड़ रखते हैं, और कहा जाता है कि वे जल्दी फुटवर्क करते हैं। वह अपने विस्तृत शॉट्स, एक पारी को तेज करने की क्षमता और दबाव में बल्लेबाजी करने के लिए जाने जाते हैं।",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": "/static/images/virat_kohli/Virat_Kohli_batting_2013.jpg",
+              "altText": "Image of Virat Kohli batting 2013"
             }
           }
         }
@@ -181,45 +262,57 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "2008–वर्तमान",
+          "label": "2008-अब तक ",
           "value": {
-            "label": "भारतीय क्रिकेट टीम",
-            "value": {
-              "label": "भारतीय क्रिकेट टीम",
-              "url": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%9F_%E0%A4%9F%E0%A5%80%E0%A4%AE",
-              "image": {
-                "url": "/static/images/विराट_कोहली/Cricket_India_Crest.svg",
-                "altText": "Image of Cricket India Crest"
+            "facts": [
+              {
+                "label": "भारतीय राष्ट्रीय क्रिकेट टीम",
+                "url": "R1",
+                "value": {
+                  "label": "भारत की राष्ट्रीय क्रिकेट टीम, जिसे टीम इंडिया और मैन इन ब्लू के नाम से भी जाना जाता है, भारतीय क्रिकेट कंट्रोल बोर्ड द्वारा संचालित है",
+                  "image": {
+                    "url": "/static/images/virat_kohli/Cricket_India_Crest.svg",
+                    "altText": "Image of Cricket India Crest"
+                  }
+                }
               }
-            }
+            ]
           }
         },
         {
-          "label": "2008–वर्तमान",
+          "label": "2008-अब तक",
           "value": {
-            "label": "रॉयल चैलेंजर्स बैंगलौर",
-            "value": {
-              "label": "रॉयल चैलेंजर्स बैंगलोर (RCB) एक फ्रैंचाइज़ी क्रिकेट टीम है जो बैंगलोर, भारत में स्थित है",
-              "url": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A5%89%E0%A4%AF%E0%A4%B2_%E0%A4%9A%E0%A5%88%E0%A4%B2%E0%A5%87%E0%A4%82%E0%A4%9C%E0%A4%B0%E0%A5%8D%E0%A4%B8_%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%97%E0%A4%B2%E0%A5%8C%E0%A4%B0",
-              "image": {
-                "url": "/static/images/default_person.svg",
-                "altText": "Image of null"
+            "facts": [
+              {
+                "label": "रॉयल चैलेंजर्स बैंगलोर",
+                "url": "R6",
+                "value": {
+                  "label": "रॉयल चैलेंजर्स बैंगलोर (आरसीबी) बैंगलोर, भारत की एक फ्रैंचाइज़ी क्रिकेट टीम है।",
+                  "image": {
+                    "url": "/static/images/default_person.svg",
+                    "altText": "Image of null"
+                  }
+                }
               }
-            }
+            ]
           }
         },
         {
-          "label": "2006–वर्तमान",
+          "label": "2006-अब तक",
           "value": {
-            "label": "दिल्ली",
-            "value": {
-              "label": "दिल्ली क्रिकेट टीम, दिल्ली में स्थित प्रथम श्रेणी क्रिकेट टीमों में से एक है, जोकि भारत की घरेलू प्रतियोगिता, रणजी ट्रॉफी, में खेलता है",
-              "url": "https://hi.wikipedia.org/wiki/%E0%A4%A6%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80_%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%9F_%E0%A4%9F%E0%A5%80%E0%A4%AE",
-              "image": {
-                "url": "/static/images/default_person.svg",
-                "altText": "Image of null"
+            "facts": [
+              {
+                "label": "दिल्ली",
+                "url": "https://en.wikipedia.org/wiki/Delhi_cricket_team",
+                "value": {
+                  "label": "दिल्ली की घरेलू रणजी ट्रॉफी क्रिकेट टीम",
+                  "image": {
+                    "url": "/static/images/default_person.svg",
+                    "altText": "Image of null"
+                  }
+                }
               }
-            }
+            ]
           }
         }
       ]
@@ -229,43 +322,43 @@
       "cardType": "tag_card",
       "facts": [
         {
-          "label": "अर्जुन पुरस्कार",
+          "label": "अर्जुन पुरस्कार ",
           "tag": "2013",
           "value": {
-            "label": "खेल में उत्कृष्ट उपलब्धि के लिए सरकार द्वारा अर्जुन पुरस्कार दिए जाते हैं",
+            "label": "खेलकूद के क्षेत्र में उत्कृष्ट उपलब्धि हासिल करने के लिए सरकार द्वारा अर्जुन पुरस्कार दिया जाता है ",
             "image": {
-              "url": "/static/images/विराट_कोहली/Arjun_Award.jpg",
+              "url": "/static/images/virat_kohli/Arjun_Award.jpg",
               "altText": "Image of Arjun Award"
             }
           }
         },
         {
-          "label": "सर गारफील्ड सोबर्स ट्रॉफी",
+          "label": "सर गैरफील्ड सोबर्स ट्रॉफी ",
           "tag": "2017",
           "value": {
-            "label": "अंतर्राष्ट्रीय क्रिकेट परिषद (ICC) द्वारा वार्षिक पुरस्कार वर्ष के अपने चुने हुए विश्व खिलाड़ी को प्रदान किया जाता है।",
+            "label": "अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा दुनिया के चुने हुए खिलाड़ियों को दिया जाने वाला वार्षिक पुरस्कार।",
             "image": {
-              "url": "/static/images/विराट_कोहली/Sir_Garfield_Sobers_Trophy.jpeg",
+              "url": "/static/images/virat_kohli/Sir_Garfield_Sobers_Trophy.jpeg",
               "altText": "Image of Sir Garfield Sobers Trophy"
             }
           }
         },
         {
-          "label": "पद्मश्री",
+          "label": "पद्म श्री",
           "tag": "2017",
           "value": {
-            "label": "पद्मश्री भारत गणराज्य में चौथा सबसे बड़ा नागरिक पुरस्कार है",
+            "label": "पद्म श्री भारत गणराज्य का चौथा सर्वोच्च नागरिक पुरस्कार है",
             "image": {
-              "url": "/static/images/विराट_कोहली/Padma_Shri_India_IIIe_Klasse.jpg",
+              "url": "/static/images/virat_kohli/Padma_Shri_India_IIIe_Klasse.jpg",
               "altText": "Image of Padma Shri India IIIe Klasse"
             }
           }
         },
         {
-          "label": "ICC टेस्ट प्लेयर ऑफ द ईयर",
+          "label": "आईसीसी टेस्ट प्लेयर ऑफ द ईयर",
           "tag": "2018",
           "value": {
-            "label": "ICC टेस्ट प्लेयर ऑफ द ईयर एक वार्षिक पुरस्कार है, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद द्वारा उस वर्ष के सर्वश्रेष्ठ टेस्ट खिलाड़ी के लिए प्रस्तुत किया जाता है।",
+            "label": "आईसीसी टेस्ट प्लेयर ऑफ द ईयर एक वार्षिक पुरस्कार है, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद द्वारा उस वर्ष के सर्वश्रेष्ठ टेस्ट खिलाड़ी को दिया जाता है।",
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of null"
@@ -282,50 +375,50 @@
         {
           "label": null,
           "value": {
-            "label": "मलेशिया में आयोजित 2008 आईसीसी अंडर -19 क्रिकेट विश्व कप में विजयी भारतीय टीम की कप्तानी की",
+            "label": "इन्होंने 2008 में मलेशिया में अंडर -19 विश्व कप जीतने वाली भारत की अंडर -19 टीम की कप्तानी की थी",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": "/static/images/virat_kohli/2015_CWC_I_v_UAE_02-28_Kohli_(12)_(cropped).JPG",
+              "altText": "Image of 2015 CWC I v UAE 02 28 Kohli (12) (cropped)"
             }
           }
         },
         {
           "label": null,
           "value": {
-            "label": "2013 में कोहली ने 52 गेंदों पर एकदिवसीय मैचों में एक भारतीय क्रिकेटर द्वारा सबसे तेज़ शतक बनाया",
+            "label": "2013 में कोहली ने 52 गेंदों में किसी भी भारतीय क्रिकेटर द्वारा लगाया गया वनडे का सबसे तेज शतक ठोंका",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": "/static/images/virat_kohli/Virat_Kohli_batting_2013.jpg",
+              "altText": "Image of Virat Kohli batting 2013"
             }
           }
         },
         {
           "label": null,
           "value": {
-            "label": "2012 में, कोहली भारतीय टेस्ट टीम के कप्तान बने",
+            "label": "2013 में, कोहली पहली बार वंडे बल्लेबाजों की आईसीसी रैंकिंग में नंबर एक स्थान पर पहुंचे",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": "/static/images/virat_kohli/2015_CWC_I_v_UAE_02-28_Kohli_(12)_(cropped).JPG",
+              "altText": "Image of 2015 CWC I v UAE 02 28 Kohli (12) (cropped)"
             }
           }
         },
         {
           "label": null,
           "value": {
-            "label": "2013 में, कोहली पहली बार एकदिवसीय बल्लेबाजों के लिए आईसीसी रैंकिंग में नंबर एक स्थान पर पहुंच गए",
+            "label": "2014 में, आईसीसी की अंतर्राष्ट्रीय टीट्वेंटी रैंकिंग में शीर्ष बल्लेबाज बने, 2017 तक बने रहे",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": "/static/images/virat_kohli/Virat_Kohli_batting_2013.jpg",
+              "altText": "Image of Virat Kohli batting 2013"
             }
           }
         },
         {
           "label": null,
           "value": {
-            "label": "2014 में, ICC रैंकिंग में शीर्ष क्रम के T20I बल्लेबाज बन गए, 2017 तक यह स्थिति रही",
+            "label": "2018 में द्विपक्षीय वंडे श्रृंखला में 500 रन बनाने वाले पहले बल्लेबाज बने।",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": "/static/images/virat_kohli/2015_CWC_I_v_UAE_02-28_Kohli_(12)_(cropped).JPG",
+              "altText": "Image of 2015 CWC I v UAE 02 28 Kohli (12) (cropped)"
             }
           }
         }
