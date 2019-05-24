@@ -13,7 +13,12 @@ export const ListCard = ({ cardData }) => {
           return (
             <div className="wcp-list-card__item" key={fact.id}>
               <div className="wcp-list-card__item__text-content">
-                <h2 className="wcp-list-card__item__label">{fact.label}</h2>
+                <h4 className="wcp-list-card__item__label">{fact.label}</h4>
+                {fact.value.label ? (
+                  <div className="wcp-list-card__item__description">
+                    {fact.value.label}
+                  </div>
+                ) : null}
               </div>
               <div className="wcp-list-card__tiny-cards-carousel-wrapper">
                 <TinyCardCarousel cards={fact.value.facts} />
