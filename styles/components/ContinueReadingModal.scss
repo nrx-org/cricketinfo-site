@@ -1,0 +1,27 @@
+.wcp-continue-reading-modal {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.wcp-continue-reading-modal__header {
+  display: flex;
+
+  h1 {
+    font-size: $font-size-m;
+    line-height: $line-height-m;
+    margin-left: $gutter-s;
+    flex-grow: 1;
+  }
+}
+
+.wcp-continue-reading-modal__body {
+  flex-grow: 1;
+  margin-top: $gutter-m;
+}
+
+.wcp-continue-reading-modal__buttons {
+  .wcp-button {
+    margin-top: $gutter-s;
+  }
+}

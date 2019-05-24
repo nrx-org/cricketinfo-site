@@ -6,6 +6,7 @@ export const Button = ({
   isInverted,
   isFullWidth,
   href,
+  shouldOpenInNewTab,
   onClick,
   className,
   paddingSize
@@ -20,6 +21,7 @@ export const Button = ({
     return (
       <a
         href={href}
+        target={shouldOpenInNewTab ? "_blank" : "_self"}
         className={`wcp-button ${buttonClass} ${className}`}
         onClick={onClick}
       >
@@ -43,6 +45,7 @@ Button.defaultProps = {
   isInverted: false,
   className: "",
   isFullWidth: true,
+  shouldOpenInNewTab: false,
   href: "",
   onClick: null,
   paddingSize: "m"
@@ -52,6 +55,7 @@ Button.propTypes = {
   children: PropTypes.node.isRequired,
   isInverted: PropTypes.bool,
   isFullWidth: PropTypes.bool,
+  shouldOpenInNewTab: PropTypes.bool,
   href: PropTypes.string,
   onClick: PropTypes.func,
   className: PropTypes.string,

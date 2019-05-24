@@ -26,6 +26,9 @@ import {
 import { ImageAttributions } from "../components/ImageAttributions";
 import { getImageAttributions } from "../lib/image_attributions";
 import { ImageAttributionsModalContainer } from "../components/ImageAttributionsModalContainer";
+import { CONTINUE_READING_MODAL_ID } from "../lib/modal_ids";
+import { Button } from "../components/Button";
+import { ContinueReadingModalContainer } from "../components/ContinueReadingModalContainer";
 
 const Article = ({
   articleId,
@@ -35,7 +38,8 @@ const Article = ({
   coverImage,
   sections,
   translations,
-  imageAttributions
+  imageAttributions,
+  wikipediaUrl
 }) => (
   <LanguageContext.Provider value={lang}>
     <ModalContextProvider>
@@ -70,6 +74,20 @@ const Article = ({
             );
           return null;
         })}
+        <ModalContextConsumer>
+          {({ openModal }) => (
+            <Button
+              className="wcp-article__button-read-more"
+              isInverted
+              isFullWidth
+              onClick={() =>
+                openModal(CONTINUE_READING_MODAL_ID, { wikipediaUrl })
+              }
+            >
+              Read more on Wikipedia
+            </Button>
+          )}
+        </ModalContextConsumer>
         <ImageAttributions attributions={imageAttributions} lang={lang} />
       </BaseLayout>
 
@@ -87,6 +105,13 @@ const Article = ({
               closeModal={closeModal}
               isModalOpen={isModalOpen}
               modalData={modalData}
+            />
+            <ContinueReadingModalContainer
+              registerModal={registerModal}
+              closeModal={closeModal}
+              isModalOpen={isModalOpen}
+              modalData={modalData}
+              lang={lang}
             />
           </>
         )}
@@ -116,6 +141,7 @@ Article.defaultProps = {
 Article.propTypes = {
   articleId: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
+  wikipediaUrl: PropTypes.string.isRequired,
   coverImage: imagePropTypes.isRequired,
   summary: PropTypes.string.isRequired,
   lang: PropTypes.string.isRequired,
