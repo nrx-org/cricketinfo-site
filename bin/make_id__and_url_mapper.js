@@ -5,11 +5,11 @@ const fs = require("fs");
 const parse = require("csv-parse/lib/sync");
 
 // path to content from spreadsheet
-const pathToParsedFile = "./csv/personalities.csv";
-// const pathToParsedFile = "./csv/places.csv";
+// const pathToParsedFile = "./csv/personalities.csv";
+const pathToParsedFile = "./csv/places.csv";
 // const currentLanguage = "en";
-// const currentLanguage = "hi";
-const currentLanguage = "ta";
+const currentLanguage = "hi";
+// const currentLanguage = "ta";
 
 // Read from the sheet to be parsed
 const sheetInput = fs.readFileSync(pathToParsedFile, "utf8", (err, content) => {
@@ -44,9 +44,9 @@ records.forEach(record => {
   article = {
     id: record["Article Link ID"],
     // id: record["su"],
-    title: record["Name of personality"]
+    // title: record["Name of personality"]
     // title: record["Title"]
-    // title: record["Name of the place"]
+    title: record["Name of the place"]
   };
 
   if (currentLanguage === "en") {

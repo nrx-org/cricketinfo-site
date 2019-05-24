@@ -1,0 +1,186 @@
+{
+  "id": "G3",
+  "title": "भारत",
+  "wikipediaURL": "https://en.wikipedia.org/wiki/India",
+  "summary": "भारत, जिसे भारत गणराज्य के रूप में भी जाना जाता है, दक्षिण एशिया का एक देश है। यह 1.3 बिलियन से ज्यादा आबादी के साथ  क्षेत्रफल में सातवां सबसे बड़ा देश है जहां  के साथ स्थित है  यह दूसरा सबसे अधिक आबादी वाला देश है और साथ ही दुनिया में सबसे अधिक आबादी वाला लोकतंत्र है।",
+  "coverImage": {
+    "url": "/static/images/india/India_topo_big.jpg",
+    "altText": "Image of India topo big"
+  },
+  "translations": [
+    {
+      "title": "Australia",
+      "url": "/read/en/india",
+      "lang": "en"
+    },
+    {
+      "url": "/read/ta/india",
+      "title": "",
+      "lang": "ta"
+    }
+  ],
+  "sections": [
+    {
+      "title": "",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "स्वतंत्रता दिवस\n",
+          "value": {
+            "label": "15 अगस्त 1947",
+            "url": ""
+          }
+        },
+        {
+          "label": "गणतंत्र दिवस\n",
+          "value": {
+            "label": "26 January 1950",
+            "url": ""
+          }
+        },
+        {
+          "label": "",
+          "value": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "label": "",
+          "value": {
+            "label": "3287263 वर्ग किमी",
+            "url": ""
+          }
+        },
+        {
+          "label": "",
+          "value": {
+            "label": "1324171354 (2016 अनुमान)",
+            "url": ""
+          }
+        },
+        {
+          "label": "",
+          "value": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "label": "",
+          "value": {
+            "label": "नई दिल्ली",
+            "url": ""
+          }
+        },
+        {
+          "value": {
+            "label": "मुंबई",
+            "url": ""
+          }
+        },
+        {
+          "label": "",
+          "value": {
+            "label": "UTC +05:30",
+            "url": ""
+          }
+        }
+      ]
+    },
+    {
+      "title": "",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "प्राचीन भारत",
+          "id": 0,
+          "note": "`- 600 ईस्वी",
+          "value": {
+            "label": "सिंधु घाटी सभ्यता दक्षिण एशिया में पहली शहरी संस्कृति थी।",
+            "facts": []
+          }
+        },
+        {
+          "label": "मध्यकालीन भारत",
+          "id": 1,
+          "note": "600 - 1500 ईस्वी",
+          "value": {
+            "label": "6 और 7वीं शताब्दी में, पहला भक्ति भजन तमिल भाषा में बनाया गया था। पूरे भारत में उनकी नकल की गई और इसने हिंदू धर्म के पुनरुत्थान और उपमहाद्वीप की सभी आधुनिक भाषाओं के विकास का नेतृत्व किया।",
+            "facts": []
+          }
+        },
+        {
+          "label": "प्रारंभिक आधुनिक भारत",
+          "id": 1,
+          "note": "1500 - 1850 ईस्वी",
+          "value": {
+            "label": "17वीं शताब्दी के दौरान मुगल साम्राज्य द्वारा बनाई रखी गई आपेक्षिक शांति भारत के आर्थिक विस्तार की कारक थी। 18वीं शताब्दी की शुरुआत में कई यूरोपीय व्यापारिक कंपनियों ने तटीय चौकियों की स्थापना की थी।",
+            "facts": []
+          }
+        },
+        {
+          "label": "ब्रिटिश शासन",
+          "id": 1,
+          "note": "1858 - 1947 ईस्वी",
+          "value": {
+            "label": "1857 के भारतीय विद्रोह ने ब्रिटिश सरकार द्वारा ईस्ट इंडिया कंपनी के विघटन और भारत पर प्रत्यक्ष प्रशासन का आरंभ करवा दिया।",
+            "facts": []
+          }
+        }
+      ]
+    },
+    {
+      "cardType": "avatar",
+      "label": "भारत में एक संसदीय गणतंत्र एक बहुदलीय प्रणाली है।",
+      "facts": [
+        {
+          "value": {
+            "label": "नरेंद्र मोदी",
+            "url": "",
+            "image": {
+              "url": "/static/images/india/PM_Modi_Portrait(cropped).jpg",
+              "altText": "Image of PM Modi Portrait(cropped)"
+            }
+          }
+        },
+        {
+          "value": {
+            "label": "रामनाथ कोविन्द ",
+            "url": "",
+            "image": {
+              "url": "/static/images/india/Ram_Nath_Kovind_official_portrait.jpg",
+              "altText": "Image of Ram Nath Kovind official portrait"
+            }
+          }
+        },
+        {
+          "value": {
+            "label": "रंजन गोगोई ",
+            "url": "",
+            "image": {
+              "url": "/static/images/india/CJI_Ranjan_gogoi.jpg",
+              "altText": "Image of CJI Ranjan gogoi"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "ऑस्ट्रेलिया",
+          "value": {
+            "label": "भारत में भारतीय उपमहाद्वीप का बड़ा हिस्सा है, जो भारतीय टेक्टॉनिक प्लेट के ऊपर स्थित है, जो इंडो-ऑस्ट्रेलियन प्लेट का एक हिस्सा है।",
+            "image": {
+              "url": "/static/images/india/India_topo_big.jpg",
+              "altText": "Image of India topo big"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

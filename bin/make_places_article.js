@@ -9,8 +9,8 @@ const path = require("path");
 
 // path to content from spreadsheet
 const pathToParsedFile = "./csv/places.csv";
-const currentLanguage = "en";
-// const currentLanguage = "hi";
+// const currentLanguage = "en";
+const currentLanguage = "hi";
 // const currentLanguage = "ta";
 const otherLanguage = [undefined, undefined];
 let uiID;
