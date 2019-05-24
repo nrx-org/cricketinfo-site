@@ -162,50 +162,50 @@
           }
         },
         {
-          "label": "World Cup Apperance",
-          "id": 1,
-          "note": "1999",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "World Cup",
-          "id": 1,
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
           "label": "Retirement",
           "id": 1,
-          "note": "2007",
+          "note": "World Cup",
           "value": {
-            "label": "After the 2007 World Cup, he announced his retirement from ODIs",
+            "label": "2007",
+            "facts": [
+              {
+                "label": "R13",
+                "value": {
+                  "label": "R13",
+                  "image": {
+                    "url": "R13",
+                    "altText": "R13"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "",
+          "id": 1,
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "R13",
+                "value": {
+                  "label": "R13",
+                  "image": {
+                    "url": "R13",
+                    "altText": "R13"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "",
+          "id": 1,
+          "note": "",
+          "value": {
+            "label": "",
             "facts": [
               {
                 "label": "R13",
