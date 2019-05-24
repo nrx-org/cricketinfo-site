@@ -1,3 +1,50 @@
+.wcp-bar-chart-with-info .wcp-section-title {
+  margin-bottom: 0.5rem;
+}
+
+.wcp-bar-chart-with-info__item__label {
+  font-size: $font-size-m;
+  margin: 0;
+  line-height: $line-height-m;
+  color: $color-black-medium;
+}
+
+.wcp-bar-chart-with-info__item__description {
+  margin: 0;
+  font-size: $font-size-s;
+  line-height: $line-height-m;
+}
+
+.wcp-bar-chart-with-info__item:last-child .wcp-tiny-card-carousel {
+}
+
+.wcp-bar-chart-with-info .wcp-tiny-card-wrapper:first-child {
+  padding-left: 1rem;
+  margin-left: -1rem;
+}
+
+
+.wcp-bar-chart-with-info .wcp-bar-chart-with-info__tiny-cards-carousel-wrapper {
+
+}
+
+.wcp-bar-chart-with-info .wcp-tiny-card-carousel {
+  margin-left: -1rem;
+  margin-right: -1rem;
+  padding-left: 1rem;
+}
+
+.wcp-bar-chart-with-info__item:not(:first-child) {
+  margin-top: $gutter-s;
+}
+
+
+
+.wcp-bar-chart-with-info__bar-chart-section {
+  margin-top: $gutter-s;
+}
+
+
 .wcp-bar-chart {
   width: 100%;
 }

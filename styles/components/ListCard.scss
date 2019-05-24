@@ -5,8 +5,13 @@
   color: $color-black-medium;
 }
 
+.wcp-list-card__item__description {
+  margin: 0;
+  font-size: $font-size-s;
+  line-height: $line-height-m;
+}
+
 .wcp-list-card__item:last-child .wcp-tiny-card-carousel {
-  padding-bottom: 0;
 }
 
 .wcp-list-card .wcp-tiny-card-wrapper:first-child {
@@ -23,4 +28,8 @@
   margin-left: -1rem;
   margin-right: -1rem;
   padding-left: 1rem;
+}
+
+.wcp-list-card__item:not(:first-child) {
+  margin-top: $gutter-s;
 }

@@ -1,14 +1,12 @@
 import React from "react";
-import { barChartPropTypes } from "../lib/prop_types";
-import { SectionTitle } from "./SectionTitle";
+import PropTypes from "prop-types";
+import { factPropTypes } from "../lib/prop_types";
 
-export const BarChart = ({ cardData }) => {
+export const BarChart = ({ facts }) => {
   return (
     <section>
-      <SectionTitle>{cardData.title}</SectionTitle>
-
       <div className="wcp-bar-chart">
-        {cardData.facts.map(fact => {
+        {facts.map(fact => {
           const factId = fact.id;
           const factLabel = fact.label;
           const factPercentage = fact.value;
@@ -38,5 +36,5 @@ export const BarChart = ({ cardData }) => {
 };
 
 BarChart.propTypes = {
-  cardData: barChartPropTypes.isRequired
+  facts: PropTypes.arrayOf(factPropTypes).isRequired
 };
