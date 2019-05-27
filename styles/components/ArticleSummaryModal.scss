@@ -2,16 +2,18 @@
   display: flex;
   flex-direction: column;
   height: 100%;
+  position: relative;
 }
 
 .wcp-article-summary-modal__cover-image-container {
-  height: 25vh;
   position: relative;
+  .wcp-article-summary-modal__cover-image {
+    height: 25vh;
+  }
 }
 
 .wcp-article-summary-modal__cover-image {
   width: 100%;
-  height: 25vh;
   object-fit: cover;
 }
 

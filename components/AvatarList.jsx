@@ -4,6 +4,8 @@ import { SectionTitle } from "./SectionTitle";
 
 import { factCardDataPropTypes } from "../lib/prop_types";
 
+import ArticleSummaryLink from "./ArticleSummaryLink";
+
 export const AvatarList = ({ cardData }) => (
   <section className="wcp-avatar-list">
     <SectionTitle>{cardData.title}</SectionTitle>
@@ -31,12 +33,12 @@ export const AvatarList = ({ cardData }) => (
         );
 
         return f.value.url ? (
-          <a
+          <ArticleSummaryLink
             className="wcp-avatar-list__item-wrapper wcp-avatar-list__item-wrapper--active"
             href={f.value.url}
           >
             {content}
-          </a>
+          </ArticleSummaryLink>
         ) : (
           <div className="wcp-avatar-list__item-wrapper">{content}</div>
         );

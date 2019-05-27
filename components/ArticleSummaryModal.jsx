@@ -78,22 +78,18 @@ const ArticleSummaryModalInternal = ({
   return (
     <div className="wcp-article-summary-modal">
       <div className="wcp-article-summary-modal__cover-image-container">
-        <img
-          className="wcp-article-summary-modal__cover-image"
-          src={article.coverImage.url}
-          alt={article.coverImage.altText}
-        />
+        {article.coverImage ? (
+          <img
+            className="wcp-article-summary-modal__cover-image"
+            src={article.coverImage.url}
+            alt={article.coverImage.altText}
+          />
+        ) : null}
         <IconButton
           name="close"
           className="wcp-article-summary-modal__icon-close"
           altText="Close"
           onClick={onCloseClick}
-          size="l"
-        />
-        <IconButton
-          name="bookmark"
-          className="wcp-article-summary-modal__icon-bookmark"
-          altText="Bookmark"
           size="l"
         />
       </div>
@@ -103,7 +99,7 @@ const ArticleSummaryModalInternal = ({
         <Button
           className="wcp-article-summary-modal__button-read-article"
           isInverted
-          href={articleUrl(slugify(article.title, "_"), lang)}
+          href={articleUrl(slugify(article.id, "_"), lang)}
         >
           {READ_THIS_TEXT[lang]}
         </Button>
@@ -122,7 +118,7 @@ ArticleSummaryModalInternal.propTypes = {
   article: PropTypes.shape({
     title: PropTypes.string.isRequired,
     summary: PropTypes.string.isRequired,
-    coverImage: imagePropTypes.isRequired
+    coverImage: imagePropTypes
   }),
   onCloseClick: PropTypes.func.isRequired,
   error: PropTypes.string,

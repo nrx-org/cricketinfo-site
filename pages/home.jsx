@@ -32,6 +32,7 @@ import { LiveScoreContainer } from "../components/LiveScoreContainer";
 import { getImageAttributions } from "../lib/image_attributions";
 import { ImageAttributions } from "../components/ImageAttributions";
 import { ImageAttributionsModalContainer } from "../components/ImageAttributionsModalContainer";
+import { ArticleSummaryModalContainer } from "../components/ArticleSummaryModalContainer";
 
 const Home = ({
   lang,
@@ -88,6 +89,12 @@ const Home = ({
         <ModalContextConsumer>
           {({ registerModal, isModalOpen, modalData, closeModal }) => (
             <>
+              <ArticleSummaryModalContainer
+                registerModal={registerModal}
+                isModalOpen={isModalOpen}
+                modalData={modalData}
+                closeModal={closeModal}
+              />
               <ShareModalContainer
                 registerModal={registerModal}
                 isModalOpen={isModalOpen}

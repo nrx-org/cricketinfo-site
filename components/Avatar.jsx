@@ -1,8 +1,10 @@
 import React from "react";
 import { factPropTypes } from "../lib/prop_types";
 
+import ArticleSummaryLink from "./ArticleSummaryLink";
+
 export const Avatar = ({ card }) => (
-  <a href={card.value.url} className="wcp-avatar">
+  <ArticleSummaryLink href={card.value.url} className="wcp-avatar">
     <div className="wcp-avatar__outline">
       <div className="wcp-avatar__image__container">
         <img
@@ -13,7 +15,7 @@ export const Avatar = ({ card }) => (
       </div>
     </div>
     <div className="wcp-avatar__label wcp-font-family-body">{card.label}</div>
-  </a>
+  </ArticleSummaryLink>
 );
 
 Avatar.propTypes = {
