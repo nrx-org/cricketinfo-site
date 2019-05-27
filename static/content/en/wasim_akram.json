@@ -1,0 +1,66 @@
+{
+  "title": "Wasim Akram",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wasim_Akram",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:Wasim-akram-gesf-2018-7878.jpg",
+    "altText": "Image of Wasim Akram"
+  },
+  "summary": "Wasim Akram is a former Pakistani cricketer and captain of Pakistan national cricket team.",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/wasim_akram"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/wasim_akram"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Wasim Akram"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "Invalid Date (age 52)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Lahore, Pakistan",
+            "url": "https://en.wikipedia.org/wiki/Lahore",
+            "contentUrl": "/static/content/en/lahore.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "6 ft 2 in (1.88 m)"
+          }
+        },
+        null,
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "Pakistani"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "All-rounder"
+          }
+        }
+      ]
+    }
+  ]
+}

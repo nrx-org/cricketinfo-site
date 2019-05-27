@@ -1,0 +1,66 @@
+{
+  "title": "Stephen Fleming",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Stephen_Fleming",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:Stephen_Fleming_slip.jpg",
+    "altText": "Image of Stephen Fleming"
+  },
+  "summary": "Stephen Fleming is a former cricketer from New Zealand who also captained the team.",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/stephen_fleming"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/stephen_fleming"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Stephen Paul Fleming"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "Invalid Date (age 46)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Christchurch, New Zealand",
+            "url": "https://en.wikipedia.org/wiki/Christchurch",
+            "contentUrl": "/static/content/en/christ_church.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "1.88 m (6 ft 2 in)"
+          }
+        },
+        null,
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "New Zealander"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "Batsman"
+          }
+        }
+      ]
+    }
+  ]
+}

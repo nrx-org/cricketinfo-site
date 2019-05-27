@@ -1,22 +1,21 @@
 {
-  "id": "O2",
   "title": "Mahendra Singh Dhoni",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/MS_Dhoni",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/MS_Dhoni",
   "coverImage": {
-    "url": "/static/images/mahendra_singh_dhoni/Dhoni_behind_Stumps.jpg",
-    "altText": "Image of Dhoni behind Stumps"
+    "url": "https://commons.wikimedia.org/wiki/File:Dhoni_behind_Stumps.jpg",
+    "altText": "Image of Mahendra Singh Dhoni"
   },
   "summary": "Mahendra Singh Dhoni is an Indian international cricketer who captained the Indian national team in limited-overs formats from 2007 to 2016 and in Test cricket from 2008 to 2014.",
   "translations": [
     {
-      "url": "/read/hi/mahendra_singh_dhoni",
-      "title": "मुशफिकुर रहीम ",
-      "lang": "hi"
+      "lang": "hi",
+      "title": "महेन्द्र सिंह धोनी",
+      "url": "/read/hi/mahendra_singh_dhoni"
     },
     {
-      "url": "/read/ta/mahendra_singh_dhoni",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "மகேந்திர சிங் தோனி",
+      "url": "/read/ta/mahendra_singh_dhoni"
     }
   ],
   "sections": [
@@ -27,415 +26,44 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "Mahendra Singh Dhoni",
-            "url": ""
+            "label": "Mahendra Singh Dhoni"
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "07/07/1981",
-            "url": ""
+            "label": "07 Jul 1981 (age 37)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "Ranchi, Bihar (now Jharkhand)",
-            "url": "G17"
+            "url": "https://en.wikipedia.org/wiki/Ranchi"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "5 ft 10 in (1.78 m)",
-            "url": ""
+            "label": "5 ft 10 in (1.78 m)"
           }
         },
         {
           "label": "Other Names",
           "value": {
-            "label": "Mahi",
-            "url": ""
+            "label": "Mahi"
           }
-        },
-        {
-          "label": "Age",
-          "value": "37"
         },
         {
           "label": "Nationality",
           "value": {
-            "label": "Indian",
-            "url": "G3"
+            "label": "Indian"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "Wicket- keeper batsman",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "Family",
-      "cardType": "avatar",
-      "label": "",
-      "facts": [
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Phase(s)",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "First class Debut",
-          "id": 0,
-          "note": "1999",
-          "value": {
-            "label": "Dhoni made his Ranji Trophy debut for Bihar in the 1999–2000 season at the age of 18.",
-            "facts": [
-              {
-                "label": "SF20",
-                "value": {
-                  "label": "SF20",
-                  "image": {
-                    "url": "SF20",
-                    "altText": "SF20"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "National team debut ",
-          "id": 3,
-          "note": "2004",
-          "value": {
-            "label": "Dhoni made his ODI debut.",
-            "facts": [
-              {
-                "label": "R18",
-                "value": {
-                  "label": "R18",
-                  "image": {
-                    "url": "R18",
-                    "altText": "R18"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "ICC Tournament Debut",
-          "id": 1,
-          "note": "2006",
-          "value": {
-            "label": "2006 Dhoni scored a half-century against West Indies.",
-            "facts": [
-              {
-                "label": "R18",
-                "value": {
-                  "label": "R18",
-                  "image": {
-                    "url": "R18",
-                    "altText": "R18"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2007 World Cup",
-          "id": 1,
-          "note": "2007",
-          "value": {
-            "label": "India crashed out of the World Cup after in the group stage and Dhoni scored just 29 runs in the tournament.",
-            "facts": [
-              {
-                "label": "R18",
-                "value": {
-                  "label": "R18",
-                  "image": {
-                    "url": "R18",
-                    "altText": "R18"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2007 ICC World Twenty20",
-          "id": 1,
-          "value": {
-            "label": "Dhoni was the captain of the Indian team that won the inaugural ICC World Twenty20 championship.",
-            "facts": [
-              {
-                "label": "R18",
-                "value": {
-                  "label": "R18",
-                  "image": {
-                    "url": "R18",
-                    "altText": "R18"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2011 World Cup",
-          "id": 1,
-          "note": "2011",
-          "value": {
-            "label": "Under Dhoni's captaincy India won its second world cup title in 2011. He scored 91 not out, finishing the game with a historical six.",
-            "facts": [
-              {
-                "label": "R18",
-                "value": {
-                  "label": "R18",
-                  "image": {
-                    "url": "R18",
-                    "altText": "R18"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "IPL Debut",
-          "id": 1,
-          "note": "2008",
-          "value": {
-            "label": "Dhoni was contracted by the Chennai Super Kings for US$1.5 million which made him the most expensive player in the IPL for the first season.",
-            "facts": [
-              {
-                "label": "R18",
-                "value": {
-                  "label": "R18",
-                  "image": {
-                    "url": "R18",
-                    "altText": "R18"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "Dhoni is a right-handed batsman and wicket-keeper. Initially, Dhoni appeared as a lower-order attacking batsman but he gradually changed his playing style to deal with high-pressure scenarios and his growing responsibility as a captain.",
-            "image": {
-              "url": "/static/images/mahendra_singh_dhoni/Mahendra_Singh_Dhoni_batting.JPG",
-              "altText": "Image of Mahendra Singh Dhoni batting"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2004-present",
-          "value": {
-            "facts": [
-              {
-                "label": "Indian National Cricket team",
-                "url": "R1",
-                "value": {
-                  "label": "The India national cricket team, also known as Team India and Men in Blue, is governed by the Board of Control for Cricket in India",
-                  "image": {
-                    "url": "/static/images/mahendra_singh_dhoni/Cricket_India_Crest.svg",
-                    "altText": "Image of Cricket India Crest"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2018-present",
-          "value": {
-            "facts": [
-              {
-                "label": "Chennai Super Kings",
-                "url": "R5",
-                "value": {
-                  "label": "Chennai Super Kings (CSK) is an Indian IPL cricket team based in Chennai.",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2004-present",
-          "value": {
-            "facts": [
-              {
-                "label": "Jharkhand",
-                "url": "https://en.wikipedia.org/wiki/Jharkhand_cricket_team",
-                "value": {
-                  "label": "The Jharkhand Cricket Team is a Ranji Trophy team based in the Indian state of Jharkhand, that replaced the Bihar Cricket team",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "Rajiv Gandhi Khel Ratna",
-          "tag": "2008",
-          "value": {
-            "label": "Rajiv Gandhi Khel Ratna Award is the highest sporting honour of the Republic of India.",
-            "image": {
-              "url": "/static/images/mahendra_singh_dhoni/Rajiv_Gandhi_Khel_Ratna_Award.jpg",
-              "altText": "Image of Rajiv Gandhi Khel Ratna Award"
-            }
-          }
-        },
-        {
-          "label": "Padma Shri",
-          "tag": "2009",
-          "value": {
-            "label": "Padma Shri is the fourth highest civilian award in the Republic of India",
-            "image": {
-              "url": "/static/images/mahendra_singh_dhoni/Padma_Shri_India_IIIe_Klasse.jpg",
-              "altText": "Image of Padma Shri India IIIe Klasse"
-            }
-          }
-        },
-        {
-          "label": "Padma Bhushan",
-          "tag": "2018",
-          "value": {
-            "label": "Padma Bhushan is the third-highest civilian award in the Republic of India",
-            "image": {
-              "url": "/static/images/mahendra_singh_dhoni/Padma_Bhushan_India_IIe_Klasse.jpg",
-              "altText": "Image of Padma Bhushan India IIe Klasse"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": " DAV Jawahar Vidya Mandir, Ranchi,",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "Dhoni is the most successful Indian Test captain.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "Dhoni is the first Indian wicket-keeper to complete 4,000 Test runs",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "Dhoni's 224 against Australia during a Test match in Chennai is the third highest score by an Indian captain",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "Dhoni has the most stumpings (38) by any wicket-keeper in a Test career",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "Dhoni is third captain (and the first non-Australian) overall to win 100 ODI games",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": "Wicket- keeper batsman"
           }
         }
       ]

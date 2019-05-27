@@ -2,12 +2,7 @@ const fs = require("fs");
 const parse = require("csv-parse/lib/sync");
 
 const { csvExports } = require("./exports_map");
-
-const findEntryById = (idMap, id) => {
-  return idMap.find(entry => entry.id === id);
-};
-
-const getSluggedTitle = str => str.replace(/\s+/g, "_").toLowerCase();
+const { findIdMapEntryById, getSluggedTitle } = require("./lib");
 
 const createIdMappings = () => {
   const idMap = [];
@@ -26,7 +21,10 @@ const createIdMappings = () => {
 
       const records = parse(fileContent, { columns: true, delimiter: "," });
       records.forEach(record => {
-        let idMapEntry = findEntryById(idMap, record[csvExport.idFieldName]);
+        let idMapEntry = findIdMapEntryById(
+          idMap,
+          record[csvExport.idFieldName]
+        );
 
         if (!idMapEntry) {
           idMapEntry = {
@@ -73,7 +71,7 @@ const createUrlMappings = () => {
       const records = parse(fileContent, { columns: true, delimiter: "," });
       records.forEach(record => {
         const id = record[csvExport.idFieldName];
-        const englishTitle = findEntryById(idMap, id).title.en;
+        const englishTitle = findIdMapEntryById(idMap, id).title.en;
         const slug = getSluggedTitle(englishTitle);
         urlMap[lang][slug] = `/static/content/${lang}/${slug}.json`;
       });

@@ -1,0 +1,71 @@
+{
+  "title": "David Warner",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Warner_(cricketer)",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:DAVID_WARNER_(11704782453).jpg",
+    "altText": "Image of David Warner"
+  },
+  "summary": "David Warner is an Australian international cricketer and a former captain of the Australian national team.",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/david_warner"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/david_warner"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "David Andrew Warner"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "Invalid Date (age 32)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Paddington, New South Wales, Australia",
+            "url": "https://en.wikipedia.org/wiki/Paddington,_New_South_Wales",
+            "contentUrl": "/static/content/en/.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "170 cm (5 ft 7 in)"
+          }
+        },
+        {
+          "label": "Other Names",
+          "value": {
+            "label": "Reverend"
+          }
+        },
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "Australian"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "Opening batsman"
+          }
+        }
+      ]
+    }
+  ]
+}

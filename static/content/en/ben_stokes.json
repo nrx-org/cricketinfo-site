@@ -1,0 +1,66 @@
+{
+  "title": "Ben Stokes",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben_Stokes",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:BEN_STOKES_(11704837023)_(cropped).jpg",
+    "altText": "Image of Ben Stokes"
+  },
+  "summary": "Ben Stokes is an English international cricketer and former vice-captain of the England Test team.",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/ben_stokes"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/ben_stokes"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Benjamin Andrew Stokes"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "Invalid Date (age 27)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Christchurch, New Zealand",
+            "url": "https://en.wikipedia.org/wiki/Christchurch",
+            "contentUrl": "/static/content/en/.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "6 ft 2 in (1.88 m)"
+          }
+        },
+        null,
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "British"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "All-rounder"
+          }
+        }
+      ]
+    }
+  ]
+}

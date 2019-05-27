@@ -1,22 +1,21 @@
 {
-  "id": "O3",
   "title": "रोहित शर्मा",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Rohit_Sharma",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rohit_Sharma",
   "coverImage": {
-    "url": "/static/images/rohit_sharma/Rohit_Sharma_November_2016_(cropped).jpg",
-    "altText": "Image of Rohit Sharma November 2016 (cropped)"
+    "url": "https://commons.wikimedia.org/wiki/File:Rohit_Sharma_November_2016_(cropped).jpg",
+    "altText": "Image of रोहित शर्मा"
   },
   "summary": "रोहित शर्मा एक भारतीय अन्‍तर्राष्ट्रीय क्रिकेटर हैं जो सीमित ओवरों के प्रारूप में भारत की राष्ट्रीय टीम के उप-कप्तान हैं।",
   "translations": [
     {
-      "url": "/read/en/rohit_sharma",
-      "title": "Mushfiqur Rahim",
-      "lang": "en"
+      "lang": "en",
+      "title": "Rohit Sharma",
+      "url": "/read/en/rohit_sharma"
     },
     {
-      "url": "/read/ta/rohit_sharma",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "ரோஹித் ஷர்மா",
+      "url": "/read/ta/rohit_sharma"
     }
   ],
   "sections": [
@@ -27,415 +26,40 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "रोहित शर्मा ",
-            "url": ""
+            "label": "रोहित शर्मा "
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "30/04/1987",
-            "url": ""
+            "label": "30 Apr 1987 (age 31)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "नागपुर, भारत",
-            "url": "SF1"
+            "url": "https://en.wikipedia.org/wiki/Nagpur",
+            "contentUrl": "/static/content/hi/nagpur.json"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "5 फीट 8 इंच (1.73 मीटर)",
-            "url": ""
+            "label": "5 फीट 8 इंच (1.73 मीटर)"
           }
         },
-        {
-          "label": "Other Names",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Age",
-          "value": "31"
-        },
+        null,
         {
           "label": "Nationality",
           "value": {
-            "label": "भारतीय",
-            "url": "G3"
+            "label": "भारतीय"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "बल्लेबाज",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "Family",
-      "cardType": "avatar",
-      "label": "",
-      "facts": [
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Phase(s)",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "प्रथम श्रेणी की शुरुआत",
-          "id": 0,
-          "note": "2006",
-          "value": {
-            "label": "शर्मा ने भारत ए की ओर से न्यूजीलैंड ए के विरुद्ध 2006 में रणजी मैच खेलने से पूर्व ही प्रथम श्रेणी क्रिकेट में पदार्पण किया। ",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "राष्ट्रीय टीम ",
-          "id": 3,
-          "note": "2007",
-          "value": {
-            "label": "रोहित शर्मा ने आयरलैंड के विरुद्ध वनडे इंटरनेशनल में पदार्पण किया, हालांकि इस मैच में उन्हें बल्लेबाजी का अवसर नहीं मिला। ",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "टी 20 विश्व कप ",
-          "id": 1,
-          "note": "2007",
-          "value": {
-            "label": "2007 के आईसीसी विश्व ट्वेंटी 20 में रोहित शर्मा ने दक्षिण अफ्रीक के विरुद्ध  नाबाद 50 रन बनाए जिसकी मदद से भारतीय टीम सेमी फाइनल में पहुंची।  ",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "\n2013 आईसीसी चैंपियंस ट्रॉफी",
-          "id": 1,
-          "note": "2013",
-          "value": {
-            "label": "2013 में चैंपियंस ट्रॉफी में उन्हें सलामी बल्लेबाज के रूप में प्रोन्नत करते हुए शिखर धवन के साथ पारी शुरू करने के लिए भेजा गया।  ",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "विश्व कप ",
-          "id": 1,
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "IPL डेब्यू",
-          "id": 1,
-          "note": "2008",
-          "value": {
-            "label": "शर्मा को डेक्कन चार्जर्स ने प्रति वर्ष यूएस डॉलर 750,000 में 2008 के लिए साइन किया। ",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "रोहित शर्मा दाएं हाथ के बल्लेबाज हैं और कभी-कभी दाएं हाथ के ऑफ ब्रेक गेंदबाज भी रहे हैं।",
-            "image": {
-              "url": "/static/images/rohit_sharma/2015_CWC_I_v_UAE_02-28_Sharma_(01)_(cropped).JPG",
-              "altText": "Image of 2015 CWC I v UAE 02 28 Sharma (01) (cropped)"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2007-अब तक ",
-          "value": {
-            "facts": [
-              {
-                "label": "भारतीय राष्ट्रीय क्रिकेट टीम",
-                "url": "R1",
-                "value": {
-                  "label": "भारत की राष्ट्रीय क्रिकेट टीम, जिसे टीम इंडिया और मैन इन ब्लू के नाम से भी जाना जाता है, भारतीय क्रिकेट कंट्रोल बोर्ड द्वारा संचालित है",
-                  "image": {
-                    "url": "/static/images/rohit_sharma/Cricket_India_Crest.svg",
-                    "altText": "Image of Cricket India Crest"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2011-अब तक",
-          "value": {
-            "facts": [
-              {
-                "label": "मुंबई इंडियंस",
-                "url": "R7",
-                "value": {
-                  "label": "मुंबई इंडियंस मुंबई, भारत की एक फ्रैंचाइज़ी क्रिकेट टीम है।",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2006-अब तक",
-          "value": {
-            "facts": [
-              {
-                "label": "मुंबई",
-                "url": "https://en.wikipedia.org/wiki/Mumbai_cricket_team",
-                "value": {
-                  "label": "मुंबई की घरेलू रणजी ट्रॉफी क्रिकेट टीम",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "दिलीप सरदेसाई पुरस्कार ",
-          "tag": "2013",
-          "value": {
-            "label": "बीसीसीआई का दिलीप सरदेसाई पुरस्कार वर्ष के सर्वश्रेष्ठ क्रिकेटर को दिया जाता है ",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "अर्जुन पुरस्कार ",
-          "tag": "2015",
-          "value": {
-            "label": "खेल में शानदार उपलब्धि के लिए सरकार द्वारा अर्जुन पुरस्कार दिए जाते हैं",
-            "image": {
-              "url": "/static/images/rohit_sharma/Arjun_Award.jpg",
-              "altText": "Image of Arjun Award"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "स्वामी विवेकानंद इंटरनेशनल स्कूल, मुंबई",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "वह 2014 में, अंतर्राष्ट्रीय एक-दिवसीय मैच में 250 से अधिक रन बनाने वाले पहले व्यक्ति बने",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "रोहित शर्मा इकलौते ऐसे भारतीय बल्लेबाज हैं जिन्होंने किसी पूर्ण वनडे मैच में दो अलग-अलग मौकों पर विपक्षी टीम के कुल स्कोर से ज़्यादा रन बनाये हैं।",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "शर्मा ने बाउंड्री से 186 रन बना कर एक पारी में चौकों और छक्कों की मदद से बनाये गए सर्वाधिक रन का रिकॉर्ड तोड़ा",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "अंतर्राष्ट्रीय टीट्वेंटी में किसी भारतीय बल्लेबाज द्वारा लगाए गए सर्वाधिक छक्के रोहित शर्मा ने लगाए हैं",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "2019 में रोहित शर्मा अंतर्राष्ट्रीय टीट्वेंटी के इतिहास में सर्वाधिक रन बनाने वाले खिलाड़ी बने",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": "बल्लेबाज"
           }
         }
       ]

@@ -1,0 +1,66 @@
+{
+  "title": "Mohammed Shami",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammed_Shami",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:Indian_Cricket_team_training_SCG_2015_(16007161637).jpg",
+    "altText": "Image of Mohammed Shami"
+  },
+  "summary": "Mohammed Shami is an Indian international cricketer",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/mohammed_shami"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/mohammed_shami"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Mohammed Shami Ahmed"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "Invalid Date (age 28)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Amroha",
+            "url": "https://en.wikipedia.org/wiki/Amroha",
+            "contentUrl": "/static/content/en/amroha.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "5 ft 6.5 in (1.69 m)"
+          }
+        },
+        null,
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "Indian"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "Bowler"
+          }
+        }
+      ]
+    }
+  ]
+}

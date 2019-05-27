@@ -1,22 +1,21 @@
 {
-  "id": "O6",
   "title": "Kapil Dev",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Kapil_Dev",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kapil_Dev",
   "coverImage": {
-    "url": "/static/images/kapil_dev/Kapil_Dev_at_Equation_sports_auction.jpg",
-    "altText": "Image of Kapil Dev at Equation sports auction"
+    "url": "https://commons.wikimedia.org/wiki/File:Kapil_Dev_at_Equation_sports_auction.jpg",
+    "altText": "Image of Kapil Dev"
   },
   "summary": "Kapil Dev, is a former Indian cricketer who captained the Indian cricket team that won the 1983 World Cup.",
   "translations": [
     {
-      "url": "/read/hi/kapil_dev",
-      "title": "मुशफिकुर रहीम ",
-      "lang": "hi"
+      "lang": "hi",
+      "title": "कपिल देव",
+      "url": "/read/hi/kapil_dev"
     },
     {
-      "url": "/read/ta/kapil_dev",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "கபில்தேவ்",
+      "url": "/read/ta/kapil_dev"
     }
   ],
   "sections": [
@@ -27,415 +26,39 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "Kapil Dev Ramlal Nikhanj",
-            "url": ""
+            "label": "Kapil Dev Ramlal Nikhanj"
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "06/01/1959",
-            "url": ""
+            "label": "06 Jan 1959 (age 60)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "Chandigarh, India",
-            "url": "G18"
+            "url": "https://en.wikipedia.org/wiki/Chandigarh"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "",
-            "url": ""
+            "label": ""
           }
         },
-        {
-          "label": "Other Names",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Age",
-          "value": "60"
-        },
+        null,
         {
           "label": "Nationality",
           "value": {
-            "label": "Indian",
-            "url": "G3"
+            "label": "Indian"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "All-rounder",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "Family",
-      "cardType": "avatar",
-      "label": "",
-      "facts": [
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Phase(s)",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "First class Debut",
-          "id": 0,
-          "note": "1975",
-          "value": {
-            "label": "Dev made an impressive debut for Haryana in November 1975 against Punjab.",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "National team debut ",
-          "id": 3,
-          "note": "1978",
-          "value": {
-            "label": "One day cricket debut against Pakistan where his individual performance was ordinary.",
-            "facts": [
-              {
-                "label": "R8",
-                "value": {
-                  "label": "R8",
-                  "image": {
-                    "url": "R8",
-                    "altText": "R8"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "ICC Tournament Debut",
-          "id": 1,
-          "note": "1979",
-          "value": {
-            "label": "Both Kapil Dev and India had a poor campaign at the 1979 Cricket World Cup.",
-            "facts": [
-              {
-                "label": "R8",
-                "value": {
-                  "label": "R8",
-                  "image": {
-                    "url": "R8",
-                    "altText": "R8"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "1983 World Cup Champions",
-          "id": 1,
-          "note": "1983",
-          "value": {
-            "label": "India won the 1983 world cup under Kapil Dev's captaincy.",
-            "facts": [
-              {
-                "label": "R8",
-                "value": {
-                  "label": "R8",
-                  "image": {
-                    "url": "R8",
-                    "altText": "R8"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "1987 World Cup",
-          "id": 1,
-          "value": {
-            "label": "Kapil Dev was retained as the captain of the Indian team for the 1987 World Cup.",
-            "facts": [
-              {
-                "label": "R8",
-                "value": {
-                  "label": "R8",
-                  "image": {
-                    "url": "R8",
-                    "altText": "R8"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "Final years",
-          "id": 1,
-          "note": "1992",
-          "value": {
-            "label": "Kapil Dev played his last world cup in 1992 under the captaincy of Mohammed Azharuddin",
-            "facts": [
-              {
-                "label": "R8",
-                "value": {
-                  "label": "R8",
-                  "image": {
-                    "url": "R8",
-                    "altText": "R8"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "IPL Debut",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R8",
-                "value": {
-                  "label": "R8",
-                  "image": {
-                    "url": "R8",
-                    "altText": "R8"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "One of the greatest all-rounders to have played the game. Right-handed batsman and right-arm pace bowler.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "1978-1994",
-          "value": {
-            "facts": [
-              {
-                "label": "Indian National Cricket team",
-                "url": "R1",
-                "value": {
-                  "label": "The India national cricket team, also known as Team India and Men in Blue, is governed by the Board of Control for Cricket in India",
-                  "image": {
-                    "url": "/static/images/kapil_dev/Cricket_India_Crest.svg",
-                    "altText": "Image of Cricket India Crest"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "facts": [
-              {
-                "label": "",
-                "url": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "1975-1992",
-          "value": {
-            "facts": [
-              {
-                "label": "Haryana",
-                "url": "https://en.wikipedia.org/wiki/Haryana_cricket_team",
-                "value": {
-                  "label": "Domestic Ranji trophy cricket team based in the state of Haryana ",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "Arjuna Award",
-          "tag": "1980",
-          "value": {
-            "label": "Arjuna Awards are given by the Government for outstanding achievement in sports",
-            "image": {
-              "url": "/static/images/kapil_dev/Arjun_Award.jpg",
-              "altText": "Image of Arjun Award"
-            }
-          }
-        },
-        {
-          "label": "Padma Shri",
-          "tag": "1982",
-          "value": {
-            "label": "Padma Shri is the fourth highest civilian award in the Republic of India",
-            "image": {
-              "url": "/static/images/kapil_dev/Padma_Shri_India_IIIe_Klasse.jpg",
-              "altText": "Image of Padma Shri India IIIe Klasse"
-            }
-          }
-        },
-        {
-          "label": "Padma Bhushan",
-          "tag": "1991",
-          "value": {
-            "label": "The Padma Bhushan is the third-highest civilian award in the Republic of India",
-            "image": {
-              "url": "/static/images/kapil_dev/Padma_Bhushan_India_IIe_Klasse.jpg",
-              "altText": "Image of Padma Bhushan India IIe Klasse"
-            }
-          }
-        },
-        {
-          "label": "Wisden India cricketer of the century",
-          "tag": "2002",
-          "value": {
-            "label": "Awarded by the cricketing magazine Wisden Cricketer's Almanack.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "D.A.V. School Chandigarh",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "First test century (126) at Feroz Shah Kotla, Delhi in just 124 balls versus West Indies in 1979",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "Two 5 wicket hauls against Australia in a home test series in 1980",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "Captained India for the first time in 1982-83 versus Sri Lanka.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "Scored highest ODI score of 175 not out vs Zimbabwe in 1983 world cup",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "First captain to lead India to ODI world cup victory",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": "All-rounder"
           }
         }
       ]

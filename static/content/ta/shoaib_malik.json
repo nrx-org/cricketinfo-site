@@ -1,22 +1,21 @@
 {
-  "id": "O39",
   "title": "ஷோயப் மாலிக்",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Shoaib_Malik",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shoaib_Malik",
   "coverImage": {
-    "url": "/static/images/shoaib_malik/Shoaib_Malik.jpg",
-    "altText": "Image of Shoaib Malik"
+    "url": "https://en.wikipedia.org/wiki/Shoaib_Malik#/media/File:Shoaib_Malik.jpg",
+    "altText": "Image of ஷோயப் மாலிக்"
   },
   "summary": "ஷோயப் மாலிக் ஒரு பாகிஸ்தான் கிரிக்கெட் வீரர், பாகிஸ்தான் அணியின் முன்னாள் கேப்டன், 2007 முதல் 2009 வரை கேப்டனாக இருந்திருக்கிறார்.",
   "translations": [
     {
-      "url": "/read/hi/shoaib_malik",
-      "title": "मुशफिकुर रहीम ",
-      "lang": "hi"
+      "lang": "en",
+      "title": "Shoaib Malik",
+      "url": "/read/en/shoaib_malik"
     },
     {
-      "url": "/read/en/shoaib_malik",
-      "title": "Mushfiqur Rahim",
-      "lang": "en"
+      "lang": "hi",
+      "title": "शोएब मलिक",
+      "url": "/read/hi/shoaib_malik"
     }
   ],
   "sections": [
@@ -27,54 +26,40 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "ஷோயப் மாலிக்",
-            "url": ""
+            "label": "ஷோயப் மாலிக்"
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": " 1 February 1982",
-            "url": ""
+            "label": "Invalid Date (age 37)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "சியால்கோட், பாகிஸ்தான்",
-            "url": "SF95"
+            "url": "https://en.wikipedia.org/wiki/Sialkot",
+            "contentUrl": "/static/content/ta/galle.json"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "5 அடி 10 அங்குலம்",
-            "url": ""
+            "label": "5 அடி 10 அங்குலம்"
           }
         },
-        {
-          "label": "Other Names",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Age",
-          "value": "37"
-        },
+        null,
         {
           "label": "Nationality",
           "value": {
-            "label": "பாகிஸ்தானி",
-            "url": "G5"
+            "label": "பாகிஸ்தானி"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "பேட்டிங் ஆல்ரவுண்டர்",
-            "url": ""
+            "label": "பேட்டிங் ஆல்ரவுண்டர்"
           }
         }
       ]
@@ -82,343 +67,16 @@
     {
       "title": "Family",
       "cardType": "avatar",
-      "label": "",
       "facts": [
         {
           "label": "வாழ்க்கைத் துணை",
           "value": {
             "label": "சானியா மிர்ஸா",
-            "url": "",
+            "url": "/read/ta/",
+            "contentUrl": "/static/content/ta/.json",
             "image": {
-              "url": "/static/images/shoaib_malik/Sania_Mirza_(35449409862).jpg",
-              "altText": "Image of Sania Mirza (35449409862)"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Phase(s)",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "முதல் வகுப்பு",
-          "id": 0,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "தேசிய அணி அறிமுகம்",
-          "id": 3,
-          "note": "",
-          "value": {
-            "label": "ஷோயப் மாலிக் 1999 இல் மேற்கிந்தியத் தீவுகளுக்கு எதிராகத் தன்னுடைய முதல் சர்வதேச ஒருநாள் போட்டியில் ஆடினார்.",
-            "facts": [
-              {
-                "label": "R3",
-                "value": {
-                  "label": "R3",
-                  "image": {
-                    "url": "R3",
-                    "altText": "R3"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "முதல் ஐசிசி போட்டி ",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R3",
-                "value": {
-                  "label": "R3",
-                  "image": {
-                    "url": "R3",
-                    "altText": "R3"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "உலக கோப்பை தோற்றம்",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R3",
-                "value": {
-                  "label": "R3",
-                  "image": {
-                    "url": "R3",
-                    "altText": "R3"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R3",
-                "value": {
-                  "label": "R3",
-                  "image": {
-                    "url": "R3",
-                    "altText": "R3"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R3",
-                "value": {
-                  "label": "R3",
-                  "image": {
-                    "url": "R3",
-                    "altText": "R3"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R3",
-                "value": {
-                  "label": "R3",
-                  "image": {
-                    "url": "R3",
-                    "altText": "R3"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "மாலிக் எல்லாவிதத்திலும் ஆடக்கூடிய திறமையான ஆட்டக்காரர். அவர் அதிரடியாக ஆடக்கூடிய திறனுள்ளவர் ஆனால் இடைவெளியில் பந்தைத் தட்டிவிட்டு ஸ்ட்ரைக் ரொட்டேட் செய்யவும் கூடியவர். அவர் எதிர்கொள்ளும் 100 பந்துகளில் 80.4 ரன்கள் என்ற ஸ்ட்ரைக் ரேட் வைத்திருக்கிறார். இது அவரை ராகுல் டிராவிட் மற்றும் இன்சமாம் உல்-ஹக் போன்ற வீரர்களுக்கு சமமாக வைக்கிறது. அவருடைய மிக அதிரடியான ஆட்டம், 2003 ஆம் ஆண்டு தென்னாப்பிரிவுக்கு எதிரான ஆட்டத்தில் 41 பந்துகளில் 82 ரன்கள் எடுத்தபோது வெளிப்பட்டது.",
-            "image": {
-              "url": "/static/images/shoaib_malik/Shoaib_Malik,_Dunedin,_NZ,_2009.jpg",
-              "altText": "Image of Shoaib Malik, Dunedin, NZ, 2009"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "1999 முதல் தற்போது வரை",
-          "value": {
-            "facts": [
-              {
-                "label": "பாகிஸ்தான் தேசிய கிரிக்கெட் அணி",
-                "url": "R8",
-                "value": {
-                  "label": "பாகிஸ்தான் ஆண்கள் கிரிக்கெட் அணி, ஷாஹீன்ஸ் கிரீன் ஷர்ட்ஸ் மற்றும் மென் இன் கிரீன் எனப் பிரபலமாக அழைக்கப்படுகிறது, பாகிஸ்தான் கிரிக்கெட் வாரியம் (பிசிபி) இதை நிர்வகிக்கிறது.",
-                  "image": {
-                    "url": "/static/images/shoaib_malik/PakistanCricketLogo.png",
-                    "altText": "Image of PakistanCricketLogo"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "facts": [
-              {
-                "label": "",
-                "url": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "facts": [
-              {
-                "label": "",
-                "url": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    null,
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": "https://en.wikipedia.org/wiki/Sania_Mirza#/media/File:Sania_Mirza_(35449409862).jpg",
+              "altText": "Picture of சானியா மிர்ஸா"
             }
           }
         }

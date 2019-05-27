@@ -1,22 +1,21 @@
 {
-  "id": "O1",
   "title": "विराट कोहली",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Virat_Kohli",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Virat_Kohli",
   "coverImage": {
-    "url": "/static/images/virat_kohli/Virat..Kohli.jpg",
-    "altText": "Image of Virat..Kohli"
+    "url": "https://commons.wikimedia.org/wiki/File:Virat..Kohli.jpg",
+    "altText": "Image of विराट कोहली"
   },
   "summary": "विराट कोहली भारत के एक  अन्‍तर्राष्ट्रीय क्रिकेटर हैं जो वर्तमान में भारत की राष्ट्रीय टीम के कप्तान हैं।",
   "translations": [
     {
-      "url": "/read/en/virat_kohli",
-      "title": "Mushfiqur Rahim",
-      "lang": "en"
+      "lang": "en",
+      "title": "Virat Kohli",
+      "url": "/read/en/virat_kohli"
     },
     {
-      "url": "/read/ta/virat_kohli",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "விராட் கோலி",
+      "url": "/read/ta/virat_kohli"
     }
   ],
   "sections": [
@@ -27,54 +26,45 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "विराट कोहली",
-            "url": ""
+            "label": "विराट कोहली"
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "5/11/1988",
-            "url": ""
+            "label": "05 Nov 1988 (age 31)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "दिल्ली, भारत",
-            "url": "G16"
+            "url": "https://en.wikipedia.org/wiki/Delhi",
+            "contentUrl": "/static/content/hi/delhi.json"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "5 फीट 9 इंच (1.75 मीटर)",
-            "url": ""
+            "label": "5 फीट 9 इंच (1.75 मीटर)"
           }
         },
         {
           "label": "Other Names",
           "value": {
-            "label": "चीकू",
-            "url": ""
+            "label": "चीकू"
           }
-        },
-        {
-          "label": "Age",
-          "value": "31"
         },
         {
           "label": "Nationality",
           "value": {
-            "label": "भारतीय",
-            "url": "G3"
+            "label": "भारतीय"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "बल्लेबाज",
-            "url": ""
+            "label": "बल्लेबाज"
           }
         }
       ]
@@ -82,343 +72,16 @@
     {
       "title": "Family",
       "cardType": "avatar",
-      "label": "",
       "facts": [
         {
           "label": "पत्नी",
           "value": {
             "label": "अनुष्‍का शर्मा",
-            "url": "O33",
+            "url": "/read/hi/anushka_sharma",
+            "contentUrl": "/static/content/hi/anushka_sharma.json",
             "image": {
-              "url": "/static/images/virat_kohli/Anushka_Sharma_promoting_Zero.jpg",
-              "altText": "Image of Anushka Sharma promoting Zero"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Phase(s)",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "प्रथम श्रेणी की शुरुआत",
-          "id": 0,
-          "note": "2006",
-          "value": {
-            "label": "18 वर्ष की आयु में कोहली ने 2006 में दिल्ली की ओर से तमिलनाडु के विरुद्ध प्रथम श्रेणी क्रिकेट में पदार्पण किया। ",
-            "facts": [
-              {
-                "label": "SF20",
-                "value": {
-                  "label": "SF20",
-                  "image": {
-                    "url": "SF20",
-                    "altText": "SF20"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "राष्ट्रीय टीम ",
-          "id": 3,
-          "note": "2008",
-          "value": {
-            "label": "कोहली को भारत के ओडीआई दल में 2008 के श्रीलंका और पाकिस्तान में खेले गए चैंपियंस ट्रॉफी के दौरे में शामिल किया गया। ",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "विश्व कप",
-          "id": 1,
-          "note": "2008",
-          "value": {
-            "label": "मलेशिया में आयोजित 2018 के आईसीसी अंडर-19 क्रिकेट विश्व कप में कोहली ने विजेता भारतीय टीम की कप्तानी की।   ",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "विश्व कप उपस्थिति\n",
-          "id": 1,
-          "note": "2011",
-          "value": {
-            "label": "2011 के विश्व कप में भारत ने चैंपियनशिप जीतने में सफलता प्राप्त की और कोहली टुर्नामेंट के प्रत्येक मैचों में भारतीय टीम के लिए खेले। ",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "चैंपियंस ट्रॉफी ",
-          "id": 1,
-          "value": {
-            "label": "जून 2013 में कोहली ने आईसीसी चैंपियंस ट्रॉफी में शिरकत की जिसे भारत ने जीता था।",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "टी 20 विश्व कप ",
-          "id": 1,
-          "note": "2014 के आईसीसी विश्व ट्वेंटी 20 में कोहली को उप-कप्तान नियुक्त किया गया था। ",
-          "value": {
-            "label": "टी 20 विश्व कप ",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "IPL डेब्यू",
-          "id": 1,
-          "note": "2008",
-          "value": {
-            "label": "मार्च 2008 में कोहली को युवा अनुबंध के तौर पर रॉयल चैलेंजर्स बंगलुरु ने 30 हजार डॉलर में खरीदा। ",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "कोहली मजबूत तकनीकी कौशल के साथ स्वाभाविक रूप से आक्रामक बल्लेबाज हैं। वह आमतौर पर मध्य क्रम में बल्लेबाजी करते हैं, लेकिन, कई मौकों पर, उन्होंने पारी भी खोली है। वह थोड़े खुले छाती वाले रुख के साथ बल्लेबाजी करते हैं और मजबूत हाथ-नीचे की पकड़ रखते हैं, और कहा जाता है कि वे जल्दी फुटवर्क करते हैं। वह अपने विस्तृत शॉट्स, एक पारी को तेज करने की क्षमता और दबाव में बल्लेबाजी करने के लिए जाने जाते हैं।",
-            "image": {
-              "url": "/static/images/virat_kohli/Virat_Kohli_batting_2013.jpg",
-              "altText": "Image of Virat Kohli batting 2013"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2008-अब तक ",
-          "value": {
-            "facts": [
-              {
-                "label": "भारतीय राष्ट्रीय क्रिकेट टीम",
-                "url": "R1",
-                "value": {
-                  "label": "भारत की राष्ट्रीय क्रिकेट टीम, जिसे टीम इंडिया और मैन इन ब्लू के नाम से भी जाना जाता है, भारतीय क्रिकेट कंट्रोल बोर्ड द्वारा संचालित है",
-                  "image": {
-                    "url": "/static/images/virat_kohli/Cricket_India_Crest.svg",
-                    "altText": "Image of Cricket India Crest"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2008-अब तक",
-          "value": {
-            "facts": [
-              {
-                "label": "रॉयल चैलेंजर्स बैंगलोर",
-                "url": "R6",
-                "value": {
-                  "label": "रॉयल चैलेंजर्स बैंगलोर (आरसीबी) बैंगलोर, भारत की एक फ्रैंचाइज़ी क्रिकेट टीम है।",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2006-अब तक",
-          "value": {
-            "facts": [
-              {
-                "label": "दिल्ली",
-                "url": "https://en.wikipedia.org/wiki/Delhi_cricket_team",
-                "value": {
-                  "label": "दिल्ली की घरेलू रणजी ट्रॉफी क्रिकेट टीम",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "अर्जुन पुरस्कार ",
-          "tag": "2013",
-          "value": {
-            "label": "खेलकूद के क्षेत्र में उत्कृष्ट उपलब्धि हासिल करने के लिए सरकार द्वारा अर्जुन पुरस्कार दिया जाता है ",
-            "image": {
-              "url": "/static/images/virat_kohli/Arjun_Award.jpg",
-              "altText": "Image of Arjun Award"
-            }
-          }
-        },
-        {
-          "label": "सर गैरफील्ड सोबर्स ट्रॉफी ",
-          "tag": "2017",
-          "value": {
-            "label": "अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा दुनिया के चुने हुए खिलाड़ियों को दिया जाने वाला वार्षिक पुरस्कार।",
-            "image": {
-              "url": "/static/images/virat_kohli/Sir_Garfield_Sobers_Trophy.jpeg",
-              "altText": "Image of Sir Garfield Sobers Trophy"
-            }
-          }
-        },
-        {
-          "label": "पद्म श्री",
-          "tag": "2017",
-          "value": {
-            "label": "पद्म श्री भारत गणराज्य का चौथा सर्वोच्च नागरिक पुरस्कार है",
-            "image": {
-              "url": "/static/images/virat_kohli/Padma_Shri_India_IIIe_Klasse.jpg",
-              "altText": "Image of Padma Shri India IIIe Klasse"
-            }
-          }
-        },
-        {
-          "label": "आईसीसी टेस्ट प्लेयर ऑफ द ईयर",
-          "tag": "2018",
-          "value": {
-            "label": "आईसीसी टेस्ट प्लेयर ऑफ द ईयर एक वार्षिक पुरस्कार है, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद द्वारा उस वर्ष के सर्वश्रेष्ठ टेस्ट खिलाड़ी को दिया जाता है।",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    null,
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "इन्होंने 2008 में मलेशिया में अंडर -19 विश्व कप जीतने वाली भारत की अंडर -19 टीम की कप्तानी की थी",
-            "image": {
-              "url": "/static/images/virat_kohli/2015_CWC_I_v_UAE_02-28_Kohli_(12)_(cropped).JPG",
-              "altText": "Image of 2015 CWC I v UAE 02 28 Kohli (12) (cropped)"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "2013 में कोहली ने 52 गेंदों में किसी भी भारतीय क्रिकेटर द्वारा लगाया गया वनडे का सबसे तेज शतक ठोंका",
-            "image": {
-              "url": "/static/images/virat_kohli/Virat_Kohli_batting_2013.jpg",
-              "altText": "Image of Virat Kohli batting 2013"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "2013 में, कोहली पहली बार वंडे बल्लेबाजों की आईसीसी रैंकिंग में नंबर एक स्थान पर पहुंचे",
-            "image": {
-              "url": "/static/images/virat_kohli/2015_CWC_I_v_UAE_02-28_Kohli_(12)_(cropped).JPG",
-              "altText": "Image of 2015 CWC I v UAE 02 28 Kohli (12) (cropped)"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "2014 में, आईसीसी की अंतर्राष्ट्रीय टीट्वेंटी रैंकिंग में शीर्ष बल्लेबाज बने, 2017 तक बने रहे",
-            "image": {
-              "url": "/static/images/virat_kohli/Virat_Kohli_batting_2013.jpg",
-              "altText": "Image of Virat Kohli batting 2013"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "2018 में द्विपक्षीय वंडे श्रृंखला में 500 रन बनाने वाले पहले बल्लेबाज बने।",
-            "image": {
-              "url": "/static/images/virat_kohli/2015_CWC_I_v_UAE_02-28_Kohli_(12)_(cropped).JPG",
-              "altText": "Image of 2015 CWC I v UAE 02 28 Kohli (12) (cropped)"
+              "url": "https://commons.wikimedia.org/wiki/File:Anushka_Sharma_promoting_Zero.jpg",
+              "altText": "Picture of अनुष्‍का शर्मा"
             }
           }
         }

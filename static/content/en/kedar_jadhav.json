@@ -1,0 +1,66 @@
+{
+  "title": "Kedar Jadhav",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kedar_Jadhav",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:Batting_shadow_figure.png",
+    "altText": "Image of Kedar Jadhav"
+  },
+  "summary": "Kedar Jadhav is an Indian cricketer",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/kedar_jadhav"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/kedar_jadhav"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Kedar Mahadev Jadhav"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "Invalid Date (age 34)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Pune, India",
+            "url": "https://en.wikipedia.org/wiki/Pune",
+            "contentUrl": "/static/content/en/pune.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": ""
+          }
+        },
+        null,
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "Indian"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "All-rounder"
+          }
+        }
+      ]
+    }
+  ]
+}

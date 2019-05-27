@@ -1,0 +1,71 @@
+{
+  "title": "Chris Gayle",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Gayle",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:ChrisGayle_Cropped.jpg",
+    "altText": "Image of Chris Gayle"
+  },
+  "summary": "Chris Gayle, is a Jamaican cricketer who plays international cricket for the West Indies.",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/chris_gayle"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/chris_gayle"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Christopher Henry Gayle"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "Invalid Date (age 39)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Kingston, Jamaica",
+            "url": "https://en.wikipedia.org/wiki/Kingston,_Jamaica",
+            "contentUrl": "/static/content/en/.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "Other Names",
+          "value": {
+            "label": "Gayle Storm"
+          }
+        },
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "Jamaican"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "All-rounder"
+          }
+        }
+      ]
+    }
+  ]
+}

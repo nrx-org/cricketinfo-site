@@ -1,0 +1,71 @@
+{
+  "title": "AB de Villiers",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/AB_de_Villiers",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:AB_de_Villiers_2.jpg",
+    "altText": "Image of AB de Villiers"
+  },
+  "summary": "AB de Villiers is a former South African international cricketer.",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/ab_de_villiers"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/ab_de_villiers"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Abraham Benjamin de Villiers"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "Invalid Date (age 35)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Warmbad, Transvaal, South Africa",
+            "url": "https://en.wikipedia.org/wiki/Bela-Bela",
+            "contentUrl": "/static/content/en/transvaal.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "1.72 m (5 ft 8 in)"
+          }
+        },
+        {
+          "label": "Other Names",
+          "value": {
+            "label": "ABD"
+          }
+        },
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "South African"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "Batsman, Wicketkeeper"
+          }
+        }
+      ]
+    }
+  ]
+}
