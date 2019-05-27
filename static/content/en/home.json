@@ -1,11 +1,11 @@
 {
   "translations": [
     {
-      "url": "/wiki/hi",
+      "url": "/read/hi",
       "title": "हिंदी में पढ़े"
     },
     {
-      "url": "/wiki/ta",
+      "url": "/read/ta",
       "title": "தமிழ் படிக்கவும்"
     }
   ],
@@ -15,7 +15,7 @@
       "id": "0",
       "value": {
         "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-        "url": "/wiki/en/Team_India",
+        "url": "/read/en/Team_India",
         "image": {
           "url": "/static/images/india.png",
           "altText": "An image of the Indian flag",
@@ -29,7 +29,7 @@
       "id": "1",
       "value": {
         "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
+        "url": "/read/en/Team_England",
         "image": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
           "altText": "An image of the English flag",
@@ -43,7 +43,7 @@
       "id": "2",
       "value": {
         "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
+        "url": "/read/en/Team_Koala",
         "image": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
           "altText": "An image of the Australian flag",
@@ -57,7 +57,7 @@
       "id": "2",
       "value": {
         "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
+        "url": "/read/en/Team_Rocket",
         "image": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
           "altText": "An image of the Pakistani flag",
@@ -71,7 +71,7 @@
       "id": "0",
       "value": {
         "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-        "url": "/wiki/en/Team_India",
+        "url": "/read/en/Team_India",
         "image": {
           "url": "/static/images/india.png",
           "altText": "An image of the Indian flag",
@@ -85,7 +85,7 @@
       "id": "1",
       "value": {
         "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
+        "url": "/read/en/Team_England",
         "image": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
           "altText": "An image of the English flag",
@@ -99,7 +99,7 @@
       "id": "2",
       "value": {
         "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
+        "url": "/read/en/Team_Koala",
         "image": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
           "altText": "An image of the Australian flag",
@@ -113,7 +113,7 @@
       "id": "2",
       "value": {
         "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
+        "url": "/read/en/Team_Rocket",
         "image": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
           "altText": "An image of the Pakistani flag",
@@ -130,7 +130,7 @@
       "id": "0",
       "value": {
         "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-        "url": "/wiki/en/Team_India",
+        "url": "/read/en/Team_India",
         "image": {
           "url": "/static/images/india.png",
           "altText": "An image of the Indian flag",
@@ -145,7 +145,7 @@
       "id": "1",
       "value": {
         "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
+        "url": "/read/en/Team_England",
         "image": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
           "altText": "An image of the English flag",
@@ -160,7 +160,7 @@
       "id": "2",
       "value": {
         "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
+        "url": "/read/en/Team_Koala",
         "image": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
           "altText": "An image of the Australian flag",
@@ -175,7 +175,7 @@
       "id": "2",
       "value": {
         "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
+        "url": "/read/en/Team_Rocket",
         "image": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
           "altText": "An image of the Pakistani flag"
@@ -266,10 +266,10 @@
         {
           "label": "India",
           "id": "0",
-          "url": "/wiki/en/Team_India",
+          "url": "/read/en/Team_India",
           "value": {
             "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-            "url": "/wiki/en/Team_India",
+            "url": "/read/en/Team_India",
             "image": {
               "url": "/static/images/india.png",
               "altText": "An image of the Indian flag"
@@ -281,7 +281,7 @@
           "id": "1",
           "value": {
             "label": "Represents England and Wales in international cricket and drinks too much tea.",
-            "url": "/wiki/en/Team_England",
+            "url": "/read/en/Team_England",
             "image": {
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
               "altText": "An image of the English flag"
@@ -291,10 +291,10 @@
         {
           "label": "Australia",
           "id": "2",
-          "url": "/wiki/en/Team_Koala",
+          "url": "/read/en/Team_Koala",
           "value": {
             "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-            "url": "/wiki/en/Team_Koala",
+            "url": "/read/en/Team_Koala",
             "image": {
               "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
               "altText": "An image of the Australian flag"
@@ -306,7 +306,7 @@
           "id": "2",
           "value": {
             "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-            "url": "/wiki/en/Team_Rocket",
+            "url": "/read/en/Team_Rocket",
             "image": {
               "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
               "altText": "An image of the Pakistani flag"
@@ -320,7 +320,7 @@
           "id": "0",
           "value": {
             "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-            "url": "/wiki/en/Team_India",
+            "url": "/read/en/Team_India",
             "image": {
               "url": "/static/images/india.png",
               "altText": "An image of the Indian flag"
@@ -332,7 +332,7 @@
           "id": "1",
           "value": {
             "label": "Represents England and Wales in international cricket and drinks too much tea.",
-            "url": "/wiki/en/Team_England",
+            "url": "/read/en/Team_England",
             "image": {
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
               "altText": "An image of the English flag"
@@ -344,7 +344,7 @@
           "id": "2",
           "value": {
             "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-            "url": "/wiki/en/Team_Koala",
+            "url": "/read/en/Team_Koala",
             "image": {
               "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
               "altText": "An image of the Australian flag"
@@ -356,7 +356,7 @@
           "id": "2",
           "value": {
             "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-            "url": "/wiki/en/Team_Rocket",
+            "url": "/read/en/Team_Rocket",
             "image": {
               "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
               "altText": "An image of the Pakistani flag"
@@ -370,7 +370,7 @@
           "id": "0",
           "value": {
             "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-            "url": "/wiki/en/Team_India",
+            "url": "/read/en/Team_India",
             "image": {
               "url": "/static/images/india.png",
               "altText": "An image of the Indian flag"
@@ -382,7 +382,7 @@
           "id": "1",
           "value": {
             "label": "Represents England and Wales in international cricket and drinks too much tea.",
-            "url": "/wiki/en/Team_England",
+            "url": "/read/en/Team_England",
             "image": {
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
               "altText": "An image of the English flag"
@@ -394,7 +394,7 @@
           "id": "2",
           "value": {
             "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-            "url": "/wiki/en/Team_Koala",
+            "url": "/read/en/Team_Koala",
             "image": {
               "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
               "altText": "An image of the Australian flag"
@@ -406,7 +406,7 @@
           "id": "2",
           "value": {
             "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-            "url": "/wiki/en/Team_Rocket",
+            "url": "/read/en/Team_Rocket",
             "image": {
               "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
               "altText": "An image of the Pakistani flag"
@@ -422,7 +422,7 @@
       "id": "50",
       "value": {
         "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-        "url": "/wiki/en/Team_India",
+        "url": "/read/en/mahendra_singh_dhoni",
         "image": {
           "url": "https://placekitten.com/200/200",
           "altText": "An image of the Indian flag"
@@ -434,7 +434,7 @@
       "id": "51",
       "value": {
         "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
+        "url": "/read/en/mahendra_singh_dhoni",
         "image": {
           "url": "https://placekitten.com/180/180",
           "altText": "An image of the English flag"
@@ -446,7 +446,7 @@
       "id": "52",
       "value": {
         "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
+        "url": "/read/en/allan_donald",
         "image": {
           "url": "https://placekitten.com/190/190",
           "altText": "An image of the Australian flag"
@@ -458,7 +458,7 @@
       "id": "53",
       "value": {
         "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
+        "url": "/read/en/adam_gilchrist",
         "image": {
           "url": "https://placekitten.com/220/220",
           "altText": "An image of the Pakistani flag"
@@ -470,7 +470,7 @@
       "id": "0",
       "value": {
         "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-        "url": "/wiki/en/Team_India",
+        "url": "/read/en/andrew_flintoff",
         "image": {
           "url": "https://placekitten.com/200/200",
           "altText": "An image of the Indian flag"
@@ -482,7 +482,7 @@
       "id": "1",
       "value": {
         "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
+        "url": "/read/en/andre_russel",
         "image": {
           "url": "https://placekitten.com/180/180",
           "altText": "An image of the English flag"
@@ -494,7 +494,7 @@
       "id": "2",
       "value": {
         "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
+        "url": "/read/en/anil_kumble",
         "image": {
           "url": "https://placekitten.com/190/190",
           "altText": "An image of the Australian flag"
@@ -506,7 +506,7 @@
       "id": "3",
       "value": {
         "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
+        "url": "/read/en/arjuna_ranatunga",
         "image": {
           "url": "https://placekitten.com/220/220",
           "altText": "An image of the Pakistani flag"
@@ -518,7 +518,7 @@
       "id": "10",
       "value": {
         "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-        "url": "/wiki/en/Team_India",
+        "url": "/read/en/australia",
         "image": {
           "url": "https://placekitten.com/200/200",
           "altText": "An image of the Indian flag"
@@ -530,7 +530,7 @@
       "id": "11",
       "value": {
         "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
+        "url": "/read/en/ayodhya",
         "image": {
           "url": "https://placekitten.com/180/180",
           "altText": "An image of the English flag"
@@ -542,7 +542,7 @@
       "id": "12",
       "value": {
         "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
+        "url": "/read/en/andrew_tye",
         "image": {
           "url": "https://placekitten.com/190/190",
           "altText": "An image of the Australian flag"
@@ -554,7 +554,7 @@
       "id": "13",
       "value": {
         "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
+        "url": "/read/en/bogra",
         "image": {
           "url": "https://placekitten.com/220/220",
           "altText": "An image of the Pakistani flag"
@@ -566,7 +566,7 @@
       "id": "41",
       "value": {
         "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
+        "url": "/read/en/brian_lara",
         "image": {
           "url": "https://placekitten.com/180/180",
           "altText": "An image of the English flag"
@@ -578,7 +578,7 @@
       "id": "42",
       "value": {
         "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
+        "url": "/read/en/cape_town",
         "image": {
           "url": "https://placekitten.com/190/190",
           "altText": "An image of the Australian flag"
@@ -590,7 +590,7 @@
       "id": "43",
       "value": {
         "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
+        "url": "/read/en/clive_lloyd",
         "image": {
           "url": "https://placekitten.com/220/220",
           "altText": "An image of the Pakistani flag"
@@ -604,7 +604,7 @@
       "date": "2019-05-09",
       "id": "sachinTendulkar",
       "value": {
-        "url": "/wiki/en/Sachin_Tendulkar",
+        "url": "/read/en/colombo",
         "image": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Sachin_Tendulkar.jpg",
           "altText": "A picture of Sachin Tendulkar, not a duck"
@@ -616,7 +616,7 @@
       "date": "2019-05-09",
       "id": "viratKohli",
       "value": {
-        "url": "/wiki/en/Virat_Kohli",
+        "url": "/read/en/virat_kohli",
         "image": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/VIRAT_KOHLI_JAN_2015_%28cropped%29.jpg",
           "altText": "A picture of Sachin Tendulkar, not a duck"
@@ -629,7 +629,7 @@
       "label": "Mallard ducks live 5 to 10 years in the wild and 8+ years in captivity.",
       "id": "rahulDravid",
       "value": {
-        "url": "/wiki/en/Rahul_Dravid",
+        "url": "/read/en/delhi",
         "image": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rahul_Dravid.jpg",
           "altText": "A picture of Rahul Dravid sitting in front of a washbasin"
@@ -643,7 +643,7 @@
       "id": "viratKohli",
       "date": "2019-05-10",
       "value": {
-        "url": "/wiki/en/Virat_Kohli",
+        "url": "/read/en/david_gower",
         "image": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/VIRAT_KHOLI_%2815573134623%29.jpg",
           "altText": "Kohli looks upset"
@@ -656,7 +656,7 @@
       "label": "Rahul Dravid",
       "id": "rahulDravid",
       "value": {
-        "url": "/wiki/en/Rahul_Dravid",
+        "url": "/read/en/Rahul_Dravid",
         "image": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rahul_Dravid.jpg",
           "altText": "A picture of Rahul Dravid sitting in front of a washbasin"
@@ -667,7 +667,7 @@
       "label": "Microsoft Dhoni",
       "id": "msDhoni",
       "value": {
-        "url": "/wiki/en/MS_Dhoni",
+        "url": "/read/en/MS_Dhoni",
         "image": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Dhoni_at_Reebok_event.jpg",
           "altText": "Dhoni is very bored"
@@ -678,7 +678,7 @@
       "label": "Sourav Ganguly",
       "id": "souravGanguly",
       "value": {
-        "url": "/wiki/en/Sourav_Ganguly",
+        "url": "/read/en/Sourav_Ganguly",
         "image": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sourav_Ganguly_crop.jpg",
           "altText": "Young Sourav Ganguly looks at things"
@@ -692,7 +692,7 @@
       "id": "rahulDravid",
       "value": {
         "label": "A dog’s nose print is unique, much like a person’s fingerprint.",
-        "url": "/wiki/en/Rahul_Dravid",
+        "url": "/read/en/Rahul_Dravid",
         "image": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rahul_Dravid.jpg",
           "altText": "A picture of Rahul Dravid sitting in front of a washbasin"
@@ -704,7 +704,7 @@
       "id": "msDhoni",
       "value": {
         "label": "Dog eyes have a part called the tapetum lucidum, allowing night vision.",
-        "url": "/wiki/en/MS_Dhoni",
+        "url": "/read/en/MS_Dhoni",
         "image": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Dhoni_at_Reebok_event.jpg",
           "altText": "Dhoni is very bored"
@@ -716,7 +716,7 @@
       "id": "viratKohli",
       "value": {
         "label": "Human blood pressure goes down when petting a dog. And so does the dog’s.",
-        "url": "/wiki/en/Virat_Kohli",
+        "url": "/read/en/Virat_Kohli",
         "image": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/VIRAT_KHOLI_%2815573134623%29.jpg",
           "altText": "Kohli looks upset"
@@ -728,7 +728,7 @@
       "id": "souravGanguly",
       "value": {
         "label": "Dogs are not colorblind. They also see blue and yellow.",
-        "url": "/wiki/en/Sourav_Ganguly",
+        "url": "/read/en/Sourav_Ganguly",
         "image": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sourav_Ganguly_crop.jpg",
           "altText": "Young Sourav Ganguly looks at things"

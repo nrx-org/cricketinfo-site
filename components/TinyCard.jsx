@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-
+import ArticleSummaryLink from "./ArticleSummaryLink";
 import { imagePropTypes } from "../lib/prop_types";
 
 export const TinyCard = ({ children, coverImage, title, href }) => {
@@ -23,9 +23,12 @@ export const TinyCard = ({ children, coverImage, title, href }) => {
   );
 
   return href ? (
-    <a className={`wcp-tiny-card-wrapper ${activeClassName}`} href={href}>
+    <ArticleSummaryLink
+      className={`wcp-tiny-card-wrapper ${activeClassName}`}
+      href={href}
+    >
       {contentEl}
-    </a>
+    </ArticleSummaryLink>
   ) : (
     <div className={`wcp-tiny-card-wrapper ${activeClassName}`}>
       {contentEl}

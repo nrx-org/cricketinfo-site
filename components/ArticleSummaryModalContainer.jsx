@@ -42,7 +42,7 @@ export class ArticleSummaryModalContainer extends React.Component {
 
     const { modalData } = this.props;
     const lang = this.context;
-    const url = articleContentUrl(modalData.articleId, lang);
+    const url = articleContentUrl(modalData.articleSlug, lang);
     if (url === null) {
       this.setState({ error: ERROR_NOT_FOUND });
       return;
@@ -71,6 +71,7 @@ export class ArticleSummaryModalContainer extends React.Component {
       <BottomSheet
         isOpen={isModalOpen(ARTICLE_SUMMARY_MODAL_ID)}
         onOverlayClick={this.onCloseClick}
+        size="3up"
       >
         <ArticleSummaryModal
           isLoading={isLoading}
@@ -94,7 +95,7 @@ ArticleSummaryModalContainer.propTypes = {
   registerModal: PropTypes.func.isRequired,
   isModalOpen: PropTypes.func.isRequired,
   modalData: PropTypes.shape({
-    articleId: PropTypes.string
+    articleSlug: PropTypes.string
   }),
   closeModal: PropTypes.func.isRequired
 };

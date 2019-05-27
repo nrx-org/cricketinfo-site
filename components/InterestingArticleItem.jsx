@@ -3,6 +3,8 @@ import PropTypes from "prop-types";
 
 import { imagePropTypes } from "../lib/prop_types";
 
+import ArticleSummaryLink from "./ArticleSummaryLink";
+
 export const InterestingArticleItem = ({ coverImage, href, styles }) => {
   const unit = "rem";
 
@@ -22,13 +24,13 @@ export const InterestingArticleItem = ({ coverImage, href, styles }) => {
     </div>
   );
   return href ? (
-    <a
+    <ArticleSummaryLink
       className="wcp-circular-image-card-wrapper"
-      style={stylesWithUnits}
+      styles={stylesWithUnits}
       href={href}
     >
       {contentEl}
-    </a>
+    </ArticleSummaryLink>
   ) : (
     <div className="wcp-circular-image-card-wrapper" style={stylesWithUnits}>
       {contentEl}
