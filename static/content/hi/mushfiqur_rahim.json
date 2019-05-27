@@ -49,7 +49,6 @@
             "label": "5 फीट 4 इंच"
           }
         },
-        null,
         {
           "label": "Nationality",
           "value": {
@@ -60,6 +59,39 @@
           "label": "Role",
           "value": {
             "label": "विकेट कीपर बल्लेबाज"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "जहांगीरनगर_यूनिवर्सिटी ",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of जहांगीरनगर_यूनिवर्सिटी "
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "9khkv-B1QEU",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Mushfiqur_Rahim#/media/File:Mushfiqur_Rahim_batting_against_England_at_Lords_in_2010,_cropped.jpg",
+              "altText": "Style of play for मुशफिकुर रहीम "
+            }
           }
         }
       ]

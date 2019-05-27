@@ -47,7 +47,6 @@
             "label": "5 ft 9 in (1.75 m)"
           }
         },
-        null,
         {
           "label": "Nationality",
           "value": {
@@ -58,6 +57,35 @@
           "label": "Role",
           "value": {
             "label": "Batsman"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "Tauranga Boys' College",
+          "value": {
+            "label": "Williamson scored 40 centuries before he left school.",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/File:Tbc_crest.png",
+              "altText": "Image of Tauranga Boys' College"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "6naexyqeKP6",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Right-handed batsman and an occasional off spin bowler"
           }
         }
       ]

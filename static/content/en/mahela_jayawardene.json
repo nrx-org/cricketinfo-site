@@ -66,6 +66,35 @@
           }
         }
       ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "Nalanda College, Colombo",
+          "value": {
+            "label": "Jayawardene captained Nalanda College Colombo's first XI cricket team in 1994",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/File:Nalanda_Crest.png",
+              "altText": "Image of Nalanda College, Colombo"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "XXj5pBO-vad",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Right-handed batsman and right-arm medium bowler"
+          }
+        }
+      ]
     }
   ]
 }

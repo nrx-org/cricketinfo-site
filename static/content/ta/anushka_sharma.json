@@ -49,7 +49,6 @@
             "label": ""
           }
         },
-        null,
         {
           "label": "Nationality",
           "value": {
@@ -78,6 +77,35 @@
               "url": "https://commons.wikimedia.org/wiki/File:Virat..Kohli.jpg",
               "altText": "Picture of விராட் கோலி"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "மவுண்ட் கார்மல் கல்லூரி, பெங்களூரு",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of மவுண்ட் கார்மல் கல்லூரி, பெங்களூரு"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "b2kCp4mwj_X",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": ""
           }
         }
       ]

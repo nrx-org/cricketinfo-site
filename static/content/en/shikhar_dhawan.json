@@ -49,7 +49,6 @@
             "label": "5 ft 11 in (180 cm)"
           }
         },
-        null,
         {
           "label": "Nationality",
           "value": {
@@ -60,6 +59,39 @@
           "label": "Role",
           "value": {
             "label": "Batsman"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "St. Mark's Senior Secondary Public School, Delhi",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of St. Mark's Senior Secondary Public School, Delhi"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "z_E72g-n_k",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Viral Kohli is a left-handed opening batsman and an occasional right-arm off break bowler.",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Shikhar_Dhawan#/media/File:SHIKHAR_DHAWAN_(16007163087).jpg",
+              "altText": "Style of play for Shikhar Dhawan"
+            }
           }
         }
       ]

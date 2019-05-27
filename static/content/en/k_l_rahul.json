@@ -47,7 +47,6 @@
             "label": "5 ft 11 in (180 cm)"
           }
         },
-        null,
         {
           "label": "Nationality",
           "value": {
@@ -58,6 +57,35 @@
           "label": "Role",
           "value": {
             "label": "Batsman, Wicket-keeper"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "Jain University, Bengaluru, India",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "https://commons.wikimedia.org/wiki/File:Jain-University-Bangalore.jpg",
+              "altText": "Image of Jain University, Bengaluru, India"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "ZHWVl8ws2B3",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Top-order right-handed batsman and occasional wicket-keeper"
           }
         }
       ]

@@ -49,7 +49,6 @@
             "label": "5 அடி 8 அங்குலம் (1.73 மீ)"
           }
         },
-        null,
         {
           "label": "Nationality",
           "value": {
@@ -60,6 +59,39 @@
           "label": "Role",
           "value": {
             "label": "பேட்ஸ்மென்"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "சுவாமி விவேகானந் இண்டர்நேஷனல் ஸ்கூல், மும்பை",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of சுவாமி விவேகானந் இண்டர்நேஷனல் ஸ்கூல், மும்பை"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "UVycIkfs3Dj",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "ரோஹித் ஷர்மா வலது கை பேட்ஸ்மேன் மேலும் எப்போதாவது வலது கையில் சுழற்பந்து வீசுவார்.",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Rohit_Sharma#/media/File:2015_CWC_I_v_UAE_02-28_Sharma_(01)_(cropped).JPG",
+              "altText": "Style of play for ரோஹித் ஷர்மா"
+            }
           }
         }
       ]

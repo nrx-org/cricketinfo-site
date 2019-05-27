@@ -66,6 +66,35 @@
           }
         }
       ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "Afrikaanse Hoër Seunskool",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/File:Affie_wapen.jpg",
+              "altText": "Image of Afrikaanse Hoër Seunskool"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "Gyvn9AiUJ9t",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "De Villiers is a right-handed batsman and an occasional wicket-keeper"
+          }
+        }
+      ]
     }
   ]
 }

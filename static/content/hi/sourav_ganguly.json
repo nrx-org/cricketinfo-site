@@ -67,6 +67,39 @@
           }
         }
       ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "सेंट जेवियर्स कॉलेजिएट स्कूल, कोलकाता",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of सेंट जेवियर्स कॉलेजिएट स्कूल, कोलकाता"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "Ikr3X92cxFb",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "गांगुली एक बाएं हाथ के बल्लेबाज हैं, जो अपने सुरुचिपूर्ण स्ट्रोक-प्ले के लिए जाने जाते हैं। वह दाएं हाथ के मध्यम गति के गेंदबाज भी हैं।",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Sourav_Ganguly#/media/File:Sachin_in_action.jpg",
+              "altText": "Style of play for सौरव गांगुली"
+            }
+          }
+        }
+      ]
     }
   ]
 }

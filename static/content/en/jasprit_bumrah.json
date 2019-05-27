@@ -47,7 +47,6 @@
             "label": ""
           }
         },
-        null,
         {
           "label": "Nationality",
           "value": {
@@ -58,6 +57,19 @@
           "label": "Role",
           "value": {
             "label": "Bowler"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "B3PeMqF4Dqx",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Bumrah is a right arm fast bowler who consistently bowls at 140–145 kmph making him one of the fastest bowlers in India."
           }
         }
       ]

@@ -47,7 +47,6 @@
             "label": "5 ft 7 in (1.70 m)"
           }
         },
-        null,
         {
           "label": "Nationality",
           "value": {
@@ -58,6 +57,35 @@
           "label": "Role",
           "value": {
             "label": "Middle-order right handed batsman"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "SV Joshi High School, Mumbai",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "https://commons.wikimedia.org/wiki/File:S_v_joshi_high_school_dombivali_(E).jpg",
+              "altText": "Image of SV Joshi High School, Mumbai"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "rXw7QGsGDSX",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Rahane is a right-handed middle order batsman"
           }
         }
       ]

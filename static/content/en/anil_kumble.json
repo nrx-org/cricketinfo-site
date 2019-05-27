@@ -68,6 +68,39 @@
           }
         }
       ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "Rashtreeya Vidyalaya College of Engineering",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of Rashtreeya Vidyalaya College of Engineering"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "1c0lOcXekR",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Kumble is a right-arm leg spinner (legbreak googly) with an unorthodox style, most famous for his flipper and a right-hand batsman He started his career as a fast bowler,which gave him a useful faster delivery. His unique bowling style can be attributed to matting pitches in Bangalore which assist top-spin and over-spin.",
+            "image": {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/GandM_Flare_DXM_bat-Purist_156g_ball.jpg",
+              "altText": "Style of play for Anil Kumble"
+            }
+          }
+        }
+      ]
     }
   ]
 }

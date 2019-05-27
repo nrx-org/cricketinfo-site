@@ -49,7 +49,6 @@
             "label": ""
           }
         },
-        null,
         {
           "label": "Nationality",
           "value": {
@@ -78,6 +77,35 @@
               "url": "https://commons.wikimedia.org/wiki/File:Virat..Kohli.jpg",
               "altText": "Picture of विराट कोहली"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "माउंट कार्मेल कॉलेज, बैंगलोर",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of माउंट कार्मेल कॉलेज, बैंगलोर"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "cR_NbVLArQP",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": ""
           }
         }
       ]

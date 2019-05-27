@@ -49,7 +49,6 @@
             "label": ""
           }
         },
-        null,
         {
           "label": "Nationality",
           "value": {
@@ -78,6 +77,35 @@
               "url": "https://commons.wikimedia.org/wiki/File:Virat..Kohli.jpg",
               "altText": "Picture of Virat Kohli"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "Mount Carmel College, Bangalore",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of Mount Carmel College, Bangalore"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "vMR6KADw9c",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": " "
           }
         }
       ]

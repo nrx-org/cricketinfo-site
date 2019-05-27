@@ -68,6 +68,39 @@
           }
         }
       ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "St. Joseph's Boys High School, Bengaluru",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of St. Joseph's Boys High School, Bengaluru"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "sKHkuBA6Ng",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Rahul Dravid is a right-handed batsman, and also an occasional wicket-keeper",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Rahul_Dravid#/media/File:Rahul_cropped.jpg",
+              "altText": "Style of play for Rahul Dravid"
+            }
+          }
+        }
+      ]
     }
   ]
 }

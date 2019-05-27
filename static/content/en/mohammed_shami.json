@@ -47,7 +47,6 @@
             "label": "5 ft 6.5 in (1.69 m)"
           }
         },
-        null,
         {
           "label": "Nationality",
           "value": {
@@ -58,6 +57,19 @@
           "label": "Role",
           "value": {
             "label": "Bowler"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "ZFYPVznDsD2",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Right-arm fast-medium bowler"
           }
         }
       ]

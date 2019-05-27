@@ -67,6 +67,39 @@
           }
         }
       ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "St.Xavier's Collegiate School, Kolkata",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of St.Xavier's Collegiate School, Kolkata"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "etlZvdF7oe",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Ganguly is a left-handed batsman known for his elegant stroke-play. He is also a right-arm medium pace bowler.",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Sourav_Ganguly#/media/File:Sachin_in_action.jpg",
+              "altText": "Style of play for Sourav Ganguly"
+            }
+          }
+        }
+      ]
     }
   ]
 }

@@ -68,6 +68,39 @@
           }
         }
       ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "विद्यालोक कॉलेज",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of विद्यालोक कॉलेज"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "zPW7xGOLq8F",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "मलिंगा का एक्‍शन शानदार टिप्पणी करने के प्रति आकर्षित करता है। क्रिकेट संदर्भ टेक्‍स्‍ट विजडन में कहा गया है कि मलिंगा का डिलीवरी एक्‍शन \"स्लिंग\" के समान है। इसी कारण उन्‍हें \"स्लिंगा मलिंगा\" उपनाम से भी जाना जाता है। मलिंगा का कहना है कि उनका अनूठा राइट-आर्म बॉलिंग एक्‍शन विशेष रूप से टेनिस बॉल के साथ क्रिकेट खेलना सीखने का नतीजा था।",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Lasith_Malinga#/media/File:Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg",
+              "altText": "Style of play for लसिथ मलिंगा"
+            }
+          }
+        }
+      ]
     }
   ]
 }

@@ -48,7 +48,6 @@
             "label": ""
           }
         },
-        null,
         {
           "label": "Nationality",
           "value": {
@@ -59,6 +58,35 @@
           "label": "Role",
           "value": {
             "label": "All-rounder"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "D.A.V. School Chandigarh",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of D.A.V. School Chandigarh"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "TaE-PvCFSl",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "One of the greatest all-rounders to have played the game. Right-handed batsman and right-arm pace bowler."
           }
         }
       ]

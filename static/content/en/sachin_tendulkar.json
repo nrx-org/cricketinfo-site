@@ -68,6 +68,39 @@
           }
         }
       ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "Sharadashram Vidyamandir, Mumbai",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of Sharadashram Vidyamandir, Mumbai"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "yS-jijPVp9",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Considered the most wholesome batsman of his time, Sachin Tendulkar can also bowl medium pace, leg spin, and off spin. ",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Sachin_Tendulkar#/media/File:Master_Blaster_at_work.jpg",
+              "altText": "Style of play for Sachin Tendulkar"
+            }
+          }
+        }
+      ]
     }
   ]
 }

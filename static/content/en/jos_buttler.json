@@ -47,7 +47,6 @@
             "label": "5 ft 11 in (1.80 m)"
           }
         },
-        null,
         {
           "label": "Nationality",
           "value": {
@@ -58,6 +57,35 @@
           "label": "Role",
           "value": {
             "label": "Batsman, wicket-keeper"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "King's College, Taunton",
+          "value": {
+            "label": "Buttler was named Young Wisden Schools Cricketer of the Year in 2010.",
+            "image": {
+              "url": "https://commons.wikimedia.org/wiki/File:Kingscollegetaunton.jpg",
+              "altText": "Image of King's College, Taunton"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "eryQ8VhR2yZ",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Right-handed batsman and wicket-keeper "
           }
         }
       ]

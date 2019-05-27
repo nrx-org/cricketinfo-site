@@ -66,6 +66,35 @@
           }
         }
       ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "Randwick Boys High School",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/File:RBHS_badge.jpg",
+              "altText": "Image of Randwick Boys High School"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "KUlzklrX5Yj",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Left-handed opening batsman, part-time spin bowler and aggressive fielder"
+          }
+        }
+      ]
     }
   ]
 }
