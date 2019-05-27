@@ -18,7 +18,7 @@ const sheetInput = fs.readFileSync(pathToParsedFile, "utf8", (err, content) => {
 const records = parse(sheetInput, { columns: true, delimiter: "," });
 
 const contentUrls = JSON.parse(
-  fs.readFileSync("./bin/content_urls.json", "utf8")
+  fs.readFileSync("./content_parser/content_urls.json", "utf8")
 );
 
 // Read from the object mapping IDs to article titles
@@ -27,13 +27,19 @@ let idMapStream;
 
 if (currentLanguage === "en") {
   // for English, create file to map IDs
-  // idMapStream = fs.createWriteStream("./bin/article_ids.json");
+  // idMapStream = fs.createWriteStream("./content_parser/article_ids.json");
   // idMapStream.write('{"IDs": [');
-  const idMapInput = fs.readFileSync("./bin/article_ids.json", "utf8");
+  const idMapInput = fs.readFileSync(
+    "./content_parser/article_ids.json",
+    "utf8"
+  );
   idMap = JSON.parse(idMapInput);
 } else {
   // for Hindi/Tamil, append to the existing file
-  const idMapInput = fs.readFileSync("./bin/article_ids.json", "utf8");
+  const idMapInput = fs.readFileSync(
+    "./content_parser/article_ids.json",
+    "utf8"
+  );
   idMap = JSON.parse(idMapInput);
 }
 
@@ -88,9 +94,12 @@ records.forEach(record => {
 });
 
 fs.writeFileSync(
-  "./bin/content_urls.json",
+  "./content_parser/content_urls.json",
   JSON.stringify(contentUrls, null, 2)
 );
 
-fs.writeFileSync("./bin/article_ids.json", "");
-fs.writeFileSync("./bin/article_ids.json", JSON.stringify(idMap, null, 2));
+fs.writeFileSync("./content_parser/article_ids.json", "");
+fs.writeFileSync(
+  "./content_parser/article_ids.json",
+  JSON.stringify(idMap, null, 2)
+);

@@ -3,8 +3,6 @@
 /* eslint-disable dot-notation */
 const fs = require("fs");
 const parse = require("csv-parse/lib/sync");
-const cheerio = require("cheerio");
-const fetch = require("isomorphic-fetch");
 const path = require("path");
 
 // path to content from spreadsheet
@@ -31,7 +29,9 @@ const sheetInput = fs.readFileSync(pathToParsedFile, "utf8", (err, content) => {
   return content;
 });
 const records = parse(sheetInput, { columns: true, delimiter: "," });
-const idMap = JSON.parse(fs.readFileSync("./bin/article_ids.json", "utf8"));
+const idMap = JSON.parse(
+  fs.readFileSync("./content_parser/article_ids.json", "utf8")
+);
 
 let article;
 
