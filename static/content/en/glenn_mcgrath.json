@@ -1,0 +1,71 @@
+{
+  "title": "Glenn McGrath",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Glenn_McGrath",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:Glenn_McGrath_01_crop_2.jpg",
+    "altText": "Image of Glenn McGrath"
+  },
+  "summary": "Glenn McGrath is a former Australian cricketer who is considered one of the greatest bowlers in cricketing history",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/glenn_mcgrath"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/glenn_mcgrath"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Glenn Donald McGrath"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "Invalid Date (age 59)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Dubbo, NSW, Australia",
+            "url": "https://en.wikipedia.org/wiki/Dubbo",
+            "contentUrl": "/static/content/en/dubbo.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "197 cm (6 ft 6 in)"
+          }
+        },
+        {
+          "label": "Other Names",
+          "value": {
+            "label": "Pigeon"
+          }
+        },
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "Australian"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "Bowler"
+          }
+        }
+      ]
+    }
+  ]
+}

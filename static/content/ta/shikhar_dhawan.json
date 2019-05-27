@@ -1,22 +1,21 @@
 {
-  "id": "O4",
   "title": "சிக்கர் தவான்",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Shikhar_Dhawan",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shikhar_Dhawan",
   "coverImage": {
-    "url": "/static/images/shikhar_dhawan/SHIKHAR_DHAWAN_(16005494418).jpg",
-    "altText": "Image of SHIKHAR DHAWAN (16005494418)"
+    "url": "https://commons.wikimedia.org/wiki/File:SHIKHAR_DHAWAN_(16005494418).jpg",
+    "altText": "Image of சிக்கர் தவான்"
   },
   "summary": "சிக்கர் தவான் இந்தியாவைச் சேர்ந்த சர்வதேச கிரிக்கெட் வீரர்.",
   "translations": [
     {
-      "url": "/read/hi/shikhar_dhawan",
-      "title": "मुशफिकुर रहीम ",
-      "lang": "hi"
+      "lang": "en",
+      "title": "Shikhar Dhawan",
+      "url": "/read/en/shikhar_dhawan"
     },
     {
-      "url": "/read/en/shikhar_dhawan",
-      "title": "Mushfiqur Rahim",
-      "lang": "en"
+      "lang": "hi",
+      "title": "शिखर धवन",
+      "url": "/read/hi/shikhar_dhawan"
     }
   ],
   "sections": [
@@ -27,415 +26,40 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "சிக்கர் தவான்",
-            "url": ""
+            "label": "சிக்கர் தவான்"
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "05/12/1985",
-            "url": ""
+            "label": "05 Dec 1985 (age 33)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "டெல்லி, இந்தியா",
-            "url": "G16"
+            "url": "https://en.wikipedia.org/wiki/Delhi",
+            "contentUrl": "/static/content/ta/delhi.json"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "5 அடி 11 அங்குலம் (180 செமீ)",
-            "url": ""
+            "label": "5 அடி 11 அங்குலம் (180 செமீ)"
           }
         },
-        {
-          "label": "Other Names",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Age",
-          "value": "33"
-        },
+        null,
         {
           "label": "Nationality",
           "value": {
-            "label": "இந்தியர்",
-            "url": "G3"
+            "label": "இந்தியர்"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "பேட்ஸ்மென்",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "Family",
-      "cardType": "avatar",
-      "label": "",
-      "facts": [
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Phase(s)",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "முதல் வகுப்பு",
-          "id": 0,
-          "note": "2004",
-          "value": {
-            "label": "தவான் 2004 ஆம் ஆண்டு ரஞ்சி டிராஃபி போட்டியில் தன்னுடைய முதல் பர்ஸ் கிளாஸ் போட்டியை டெல்லி அணிக்காக ஆடினார்.",
-            "facts": [
-              {
-                "label": "SF20",
-                "value": {
-                  "label": "SF20",
-                  "image": {
-                    "url": "SF20",
-                    "altText": "SF20"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "தேசிய அணி அறிமுகம்",
-          "id": 3,
-          "note": "2010",
-          "value": {
-            "label": "தவான் ஆஸ்திரேலியாவுக்கு எதிராக தன்னுடைய முதல் சர்வதேச ஒரு நாள் போட்டியில் ஆடினார், ஆனால் பூஜ்ஜியத்தில் அவுட் ஆகிவிட்டார்.",
-            "facts": [
-              {
-                "label": "R2",
-                "value": {
-                  "label": "R2",
-                  "image": {
-                    "url": "R2",
-                    "altText": "R2"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "முதல் ஐசிசி போட்டி ",
-          "id": 1,
-          "note": "2013",
-          "value": {
-            "label": "தவான், தொடரில் அதிக ரன்களைக் குவித்ததுடன், தொடரின் ஆட்ட நாயகன் என்ற பட்டதையும் பெற்றார்.",
-            "facts": [
-              {
-                "label": "R2",
-                "value": {
-                  "label": "R2",
-                  "image": {
-                    "url": "R2",
-                    "altText": "R2"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "விளையாட்டில் போராட்டம்",
-          "id": 1,
-          "note": "2014",
-          "value": {
-            "label": "தவானால் பெரிய ரன்களை எடுக்க முடியாத காரணத்தால் அவர் அணியிலிருந்து விலக்கப்பட்டார்.",
-            "facts": [
-              {
-                "label": "R2",
-                "value": {
-                  "label": "R2",
-                  "image": {
-                    "url": "R2",
-                    "altText": "R2"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "உலகக் கோப்பை",
-          "id": 1,
-          "value": {
-            "label": "தவான் 2015 உலகக் கோப்பையில் ஐந்தாவது அதிக ரன் எடுத்தவர் என்ற பெருமையைப் பெற்றார்.",
-            "facts": [
-              {
-                "label": "R2",
-                "value": {
-                  "label": "R2",
-                  "image": {
-                    "url": "R2",
-                    "altText": "R2"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "சேம்பியன்ஸ் டிராஃபி",
-          "id": 1,
-          "note": "தவான், டோர்னமெண்டில் அதிக ரன்களை குவித்து தங்க பேட் வென்றார்.",
-          "value": {
-            "label": "சேம்பியன்ஸ் டிராஃபி",
-            "facts": [
-              {
-                "label": "R2",
-                "value": {
-                  "label": "R2",
-                  "image": {
-                    "url": "R2",
-                    "altText": "R2"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2008",
-          "id": 1,
-          "note": "டெல்லி டேர்டெவில்ஸ்",
-          "value": {
-            "label": "டெல்லி டேர்டெவில்ஸ்",
-            "facts": [
-              {
-                "label": "R2",
-                "value": {
-                  "label": "R2",
-                  "image": {
-                    "url": "R2",
-                    "altText": "R2"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "விராட் கோலி வலது கை ஓப்பனிங் பேட்ஸ்மேன் மற்றும் எப்போதாவது வலது கையில் ஆஃப் பிரேக் பந்துவீசுவார்.",
-            "image": {
-              "url": "/static/images/shikhar_dhawan/SHIKHAR_DHAWAN_(16007163087).jpg",
-              "altText": "Image of SHIKHAR DHAWAN (16007163087)"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2010 முதல் தற்போது வரை",
-          "value": {
-            "facts": [
-              {
-                "label": "இந்திய கிரிக்கெட் அணி",
-                "url": "R1",
-                "value": {
-                  "label": "இந்திய கிரிக்கெட் அணி டீம் இந்தியா மற்றும் மென் இன் புளூ என்றும் அழைக்கப்படுகிறது. இந்திய கிரிக்கெட் கட்டுப்பாட்டு வாரியம் இதை நிர்வகிக்கிறது",
-                  "image": {
-                    "url": "/static/images/shikhar_dhawan/Cricket_India_Crest.svg",
-                    "altText": "Image of Cricket India Crest"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2019 முதல் தற்போது வரை",
-          "value": {
-            "facts": [
-              {
-                "label": "டெல்லி கேப்பிட்டல்ஸ்",
-                "url": "R16",
-                "value": {
-                  "label": "டெல்லி கேப்பிட்டல்ஸ்  முன்னர் டெல்லி டேர்டெவில் என அழைக்கப்பட்டது. இது இந்தியாவில் டெல்லியைச் சேர்ந்த ஐபிஎல் கிரிக்கெட் அணி.",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2004 முதல் தற்போது வரை",
-          "value": {
-            "facts": [
-              {
-                "label": "டெல்லி",
-                "url": "https://en.wikipedia.org/wiki/Delhi_cricket_team",
-                "value": {
-                  "label": "டெல்லியைச் சேர்ந்த உள்ளூர் ரஞ்சி டிராஃபி கிரிக்கெட் அணி",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "விஸ்டென் கிரிக்கெட்டர்ஸ் ஆஃப் தி இயர்",
-          "tag": "2014",
-          "value": {
-            "label": "விஸ்டென் கிரிக்கெட்டர்ஸ் அல்மனாக் வழங்கும் வருடாந்திர விருது",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "செய்ண்ட் மார்க்ஸ் சீனியர் செகண்டரி பப்ளிக் ஸ்கூல், டெல்லி",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "ஷிகர் தவான், தனது முதல் டெஸ்ட் போட்டியில் மிக விரைவாக சதம் அடித்த வீரராவார்",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "2015 ஐசிசி உலகக் கோப்பையில் இந்திய வீரர் எடுத்த அதிக ரன்கள்",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி போட்டிகளில் மிக அதிகமான ரன்கள் குவித்து தொடர்ச்சியாக 2 முறை கோல்டன் பேட்ஸ் வாங்கிய ஒரே வீரர்",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "தவான் டெஸ்ட் போட்டியின் முதல் நாளில் மதிய உணவு இடைவேளைக்கு முன்னரே சதம் அடித்த முதல் இந்திய பேட்ஸ்மேன் ஆவார்.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": "பேட்ஸ்மென்"
           }
         }
       ]

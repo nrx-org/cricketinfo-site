@@ -1,22 +1,21 @@
 {
-  "id": "O39",
   "title": "शोएब मलिक",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Shoaib_Malik",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shoaib_Malik",
   "coverImage": {
-    "url": "/static/images/shoaib_malik/Shoaib_Malik.jpg",
-    "altText": "Image of Shoaib Malik"
+    "url": "https://en.wikipedia.org/wiki/Shoaib_Malik#/media/File:Shoaib_Malik.jpg",
+    "altText": "Image of शोएब मलिक"
   },
   "summary": "शोएब मलिक एक पाकिस्तानी क्रिकेटर हैं और 2007 से 2009 तक पाकिस्तान टीम के कप्तान रहे हैं।",
   "translations": [
     {
-      "url": "/read/en/shoaib_malik",
-      "title": "Mushfiqur Rahim",
-      "lang": "en"
+      "lang": "en",
+      "title": "Shoaib Malik",
+      "url": "/read/en/shoaib_malik"
     },
     {
-      "url": "/read/ta/shoaib_malik",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "ஷோயப் மாலிக்",
+      "url": "/read/ta/shoaib_malik"
     }
   ],
   "sections": [
@@ -27,54 +26,40 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "शोयब मलिक ",
-            "url": ""
+            "label": "शोयब मलिक "
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": " 1 February 1982",
-            "url": ""
+            "label": "Invalid Date (age 37)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "सियालकोट, पाकिस्तान",
-            "url": "SF95"
+            "url": "https://en.wikipedia.org/wiki/Sialkot",
+            "contentUrl": "/static/content/hi/galle.json"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "5 फीट 10 इंच",
-            "url": ""
+            "label": "5 फीट 10 इंच"
           }
         },
-        {
-          "label": "Other Names",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Age",
-          "value": "37"
-        },
+        null,
         {
           "label": "Nationality",
           "value": {
-            "label": "पाकिस्तानी",
-            "url": "G5"
+            "label": "पाकिस्तानी"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "ऑलराउंडर बल्लेबाज",
-            "url": ""
+            "label": "ऑलराउंडर बल्लेबाज"
           }
         }
       ]
@@ -82,343 +67,16 @@
     {
       "title": "Family",
       "cardType": "avatar",
-      "label": "",
       "facts": [
         {
           "label": "पत्नी",
           "value": {
             "label": "सानिया मिर्जा",
-            "url": "",
+            "url": "/read/hi/",
+            "contentUrl": "/static/content/hi/.json",
             "image": {
-              "url": "/static/images/shoaib_malik/Sania_Mirza_(35449409862).jpg",
-              "altText": "Image of Sania Mirza (35449409862)"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Phase(s)",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "प्रथम श्रेणी की शुरुआत",
-          "id": 0,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "राष्ट्रीय टीम ",
-          "id": 3,
-          "note": "",
-          "value": {
-            "label": "शोएब मलिक ने 14 अक्तूबर, 1999 को वेस्ट इंडीज के विरुद्ध ओडीआई में पदार्पण किया। ",
-            "facts": [
-              {
-                "label": "R3",
-                "value": {
-                  "label": "R3",
-                  "image": {
-                    "url": "R3",
-                    "altText": "R3"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R3",
-                "value": {
-                  "label": "R3",
-                  "image": {
-                    "url": "R3",
-                    "altText": "R3"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R3",
-                "value": {
-                  "label": "R3",
-                  "image": {
-                    "url": "R3",
-                    "altText": "R3"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R3",
-                "value": {
-                  "label": "R3",
-                  "image": {
-                    "url": "R3",
-                    "altText": "R3"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R3",
-                "value": {
-                  "label": "R3",
-                  "image": {
-                    "url": "R3",
-                    "altText": "R3"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "IPL डेब्यू",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R3",
-                "value": {
-                  "label": "R3",
-                  "image": {
-                    "url": "R3",
-                    "altText": "R3"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "मलिक को एक लचीला खिलाड़ी माना जाता है। वे बड़े शॉट्स लगाने के साथ ही अच्छे प्‍लेसमेंट के साथ स्ट्राइक रोटेट करने में भी सक्षम हैं। प्रति 100 गेंदों पर उनकी स्‍ट्राइक रेट 80.4 रन है, जो उन्‍हें राहुल द्रविड़ और इंजमाम उल-हक जैसे खिलाड़ियों के समकक्ष लाती है। \"पॉवर हिटिंग\" का उनका सर्वश्रेष्‍ठ प्रदर्शन 2003 में दक्षिण अफ्रीका के खिलाफ आया जब उन्होंने 41 गेंदों पर 82 रन बनाए।",
-            "image": {
-              "url": "/static/images/shoaib_malik/Shoaib_Malik,_Dunedin,_NZ,_2009.jpg",
-              "altText": "Image of Shoaib Malik, Dunedin, NZ, 2009"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "1999- अब तक ",
-          "value": {
-            "facts": [
-              {
-                "label": "पाकिस्तानी राष्ट्रीय क्रिकेट टीम",
-                "url": "R8",
-                "value": {
-                  "label": "पाकिस्तानी पुरूष राष्‍ट्रीय क्रिकेट टीम जो शाहीन ग्रीन शर्ट और मैन इन ग्रीन के रूप में लो‍कप्रिय है, पाकिस्तान क्रिकेट बोर्ड (पीसीबी) द्वारा शासित है।",
-                  "image": {
-                    "url": "/static/images/shoaib_malik/PakistanCricketLogo.png",
-                    "altText": "Image of PakistanCricketLogo"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "facts": [
-              {
-                "label": "",
-                "url": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "facts": [
-              {
-                "label": "",
-                "url": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    null,
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": "https://en.wikipedia.org/wiki/Sania_Mirza#/media/File:Sania_Mirza_(35449409862).jpg",
+              "altText": "Picture of सानिया मिर्जा"
             }
           }
         }

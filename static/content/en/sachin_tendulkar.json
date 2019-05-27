@@ -1,22 +1,21 @@
 {
-  "id": "O5",
   "title": "Sachin Tendulkar",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Sachin_Tendulkar",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sachin_Tendulkar",
   "coverImage": {
-    "url": "/static/images/sachin_tendulkar/Sachin_Tendulkar_at_MRF_Promotion_Event.jpg",
-    "altText": "Image of Sachin Tendulkar at MRF Promotion Event"
+    "url": "https://commons.wikimedia.org/wiki/File:Sachin_Tendulkar_at_MRF_Promotion_Event.jpg",
+    "altText": "Image of Sachin Tendulkar"
   },
   "summary": "Sachin Tendulkar is a former Indian international cricketer, regarded as one of the greatest batsmen of all time. He is the highest run scorer of all time in International cricket. ",
   "translations": [
     {
-      "url": "/read/hi/sachin_tendulkar",
-      "title": "मुशफिकुर रहीम ",
-      "lang": "hi"
+      "lang": "hi",
+      "title": "सचिन तेंदुलकर",
+      "url": "/read/hi/sachin_tendulkar"
     },
     {
-      "url": "/read/ta/sachin_tendulkar",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "சச்சின் டெண்டுல்கர்",
+      "url": "/read/ta/sachin_tendulkar"
     }
   ],
   "sections": [
@@ -27,415 +26,45 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "Sachin Ramesh Tendulkar",
-            "url": ""
+            "label": "Sachin Ramesh Tendulkar"
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "24/04/1973",
-            "url": ""
+            "label": "24 Apr 1973 (age 46)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "Mumbai, India",
-            "url": "G2"
+            "url": "https://en.wikipedia.org/wiki/Mumbai",
+            "contentUrl": "/static/content/en/mumbai.json"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "5 ft 5 in (165 cm)",
-            "url": ""
+            "label": "5 ft 5 in (165 cm)"
           }
         },
         {
           "label": "Other Names",
           "value": {
-            "label": "God of cricket",
-            "url": ""
+            "label": "God of cricket"
           }
-        },
-        {
-          "label": "Age",
-          "value": "46"
         },
         {
           "label": "Nationality",
           "value": {
-            "label": "Indian",
-            "url": "G3"
+            "label": "Indian"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "Batsman",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "Family",
-      "cardType": "avatar",
-      "label": "",
-      "facts": [
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Phase(s)",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "First class Debut",
-          "id": 0,
-          "note": "1988",
-          "value": {
-            "label": "In 1988, aged 15 years and 232 days, Tendulkar made his first class debut for Bombay against Gujarat and scored 100 not out in that match.",
-            "facts": [
-              {
-                "label": "SF20",
-                "value": {
-                  "label": "SF20",
-                  "image": {
-                    "url": "SF20",
-                    "altText": "SF20"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "National team debut ",
-          "id": 3,
-          "note": "1989",
-          "value": {
-            "label": "Tendulkar made his Test debut against Pakistan in Karachi in November 1989 aged 16 years.",
-            "facts": [
-              {
-                "label": "R8",
-                "value": {
-                  "label": "R8",
-                  "image": {
-                    "url": "R8",
-                    "altText": "R8"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "ICC Tournament Debut",
-          "id": 1,
-          "note": "1992",
-          "value": {
-            "label": "Tendulkar was part of the Indian squad for the 1992 Cricket World Cup.",
-            "facts": [
-              {
-                "label": "R8",
-                "value": {
-                  "label": "R8",
-                  "image": {
-                    "url": "R8",
-                    "altText": "R8"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "Rise through the ranks",
-          "id": 1,
-          "note": "1996",
-          "value": {
-            "label": "Tendulkar was the leading run scorer at the 1996 World Cup, with a total of 523 runs.",
-            "facts": [
-              {
-                "label": "R8",
-                "value": {
-                  "label": "R8",
-                  "image": {
-                    "url": "R8",
-                    "altText": "R8"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "1999 World Cup",
-          "id": 1,
-          "value": {
-            "label": "Sachin's father died in the middle of the 1999 Cricket World Cup. HE flew back to India to attend the final rituals of his father, missing the match against Zimbabwe. However, he returned to the World Cup scoring a century (140 not out off 101 balls) in his very next match against Kenya in Bristol",
-            "facts": [
-              {
-                "label": "R8",
-                "value": {
-                  "label": "R8",
-                  "image": {
-                    "url": "R8",
-                    "altText": "R8"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2003 Cricket World Cup",
-          "id": 1,
-          "note": "2003",
-          "value": {
-            "label": "Tendulkar made 673 runs in 11 matches in the 2003 Cricket World Cup",
-            "facts": [
-              {
-                "label": "R8",
-                "value": {
-                  "label": "R8",
-                  "image": {
-                    "url": "R8",
-                    "altText": "R8"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "IPL Debut",
-          "id": 1,
-          "note": "2008",
-          "value": {
-            "label": "Tendulkar was made the icon player and captain for his home side, the Mumbai Indians in the inaugural Indian Premier League in 2008.",
-            "facts": [
-              {
-                "label": "R8",
-                "value": {
-                  "label": "R8",
-                  "image": {
-                    "url": "R8",
-                    "altText": "R8"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "Considered the most wholesome batsman of his time, Sachin Tendulkar can also bowl medium pace, leg spin, and off spin. ",
-            "image": {
-              "url": "/static/images/sachin_tendulkar/Master_Blaster_at_work.jpg",
-              "altText": "Image of Master Blaster at work"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "1989-2013",
-          "value": {
-            "facts": [
-              {
-                "label": "Indian National Cricket team",
-                "url": "R1",
-                "value": {
-                  "label": "The India national cricket team, also known as Team India and Men in Blue, is governed by the Board of Control for Cricket in India",
-                  "image": {
-                    "url": "/static/images/sachin_tendulkar/Cricket_India_Crest.svg",
-                    "altText": "Image of Cricket India Crest"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2008-2013",
-          "value": {
-            "facts": [
-              {
-                "label": "Mumbai Indians",
-                "url": "R7",
-                "value": {
-                  "label": "The Mumbai Indians are a franchise cricket team based in Mumbai, India.",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "1988-2013",
-          "value": {
-            "facts": [
-              {
-                "label": "Mumbai",
-                "url": "https://en.wikipedia.org/wiki/Mumbai_cricket_team",
-                "value": {
-                  "label": "Domestic Ranji trophy cricket team based in Mumbai",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "Arjuna Award",
-          "tag": "1994",
-          "value": {
-            "label": "Arjuna Awards are given by the Government for outstanding achievement in sports",
-            "image": {
-              "url": "/static/images/sachin_tendulkar/Arjun_Award.jpg",
-              "altText": "Image of Arjun Award"
-            }
-          }
-        },
-        {
-          "label": "Rajiv Gandhi Khel Ratna",
-          "tag": "1997",
-          "value": {
-            "label": "Rajiv Gandhi Khel Ratna Award is the highest sporting honour of the Republic of India.",
-            "image": {
-              "url": "/static/images/sachin_tendulkar/Rajiv_Gandhi_Khel_Ratna_Award.jpg",
-              "altText": "Image of Rajiv Gandhi Khel Ratna Award"
-            }
-          }
-        },
-        {
-          "label": "Padma Shri",
-          "tag": "1999",
-          "value": {
-            "label": "Padma Shri is the fourth highest civilian award in the Republic of India",
-            "image": {
-              "url": "/static/images/sachin_tendulkar/Padma_Shri_India_IIIe_Klasse.jpg",
-              "altText": "Image of Padma Shri India IIIe Klasse"
-            }
-          }
-        },
-        {
-          "label": "Padma Vibhushan",
-          "tag": "2008",
-          "value": {
-            "label": "India's second highest civilian award.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "Sharadashram Vidyamandir, Mumbai",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "With 664 runs, held the world record of highest unbroken partnership in any form of cricket with Vinod Kambli",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "Youngest player to debut for India in both ODI and Test matches",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "Only player to score a century on debut in all three domestic first-class tournaments - Ranji, Irani, and Duleep Trophies.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "First batsman to complete 10,000 ODI runs",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "At the age of 19, Tendulkar became the first ever overseas-born player to represent Yorkshire.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": "Batsman"
           }
         }
       ]

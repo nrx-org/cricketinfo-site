@@ -1,0 +1,71 @@
+{
+  "title": "Mahela Jayawardene",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahela_Jayawardene",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:Mahela_Jayawardene_3.JPG",
+    "altText": "Image of Mahela Jayawardene"
+  },
+  "summary": "Mahela Jayawardene, is a Sri Lankan cricket coach and former international cricketer",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/mahela_jayawardene"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/mahela_jayawardene"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Denagamage Praboth Mahela de Silva Jayawardene"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "Invalid Date (age 41)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Colombo, Sri Lanka",
+            "url": "https://en.wikipedia.org/wiki/Colombo",
+            "contentUrl": "/static/content/en/.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "5 ft 7 in (1.70 m)"
+          }
+        },
+        {
+          "label": "Other Names",
+          "value": {
+            "label": "Maiya"
+          }
+        },
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "Sri Lankan"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "Batsman"
+          }
+        }
+      ]
+    }
+  ]
+}

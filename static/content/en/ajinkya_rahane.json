@@ -1,0 +1,66 @@
+{
+  "title": "Ajinkya Rahane",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ajinkya_Rahane",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:Ajinkya_Rahane_2016_(cropped).jpg",
+    "altText": "Image of Ajinkya Rahane"
+  },
+  "summary": "Ajinkya Rahane is an Indian international cricketer.",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/ajinkya_rahane"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/ajinkya_rahane"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Ajinkya Madhukar Rahane"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "Invalid Date (age 30)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Sangamner, Maharashtra, India",
+            "url": "https://en.wikipedia.org/wiki/Sangamner",
+            "contentUrl": "/static/content/en/.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "5 ft 7 in (1.70 m)"
+          }
+        },
+        null,
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "Indian"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "Middle-order right handed batsman"
+          }
+        }
+      ]
+    }
+  ]
+}

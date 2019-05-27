@@ -1,22 +1,21 @@
 {
-  "id": "O4",
   "title": "शिखर धवन",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Shikhar_Dhawan",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shikhar_Dhawan",
   "coverImage": {
-    "url": "/static/images/shikhar_dhawan/SHIKHAR_DHAWAN_(16005494418).jpg",
-    "altText": "Image of SHIKHAR DHAWAN (16005494418)"
+    "url": "https://commons.wikimedia.org/wiki/File:SHIKHAR_DHAWAN_(16005494418).jpg",
+    "altText": "Image of शिखर धवन"
   },
   "summary": "शिखर धवन भारत के एक अन्‍तर्राष्ट्रीय क्रिकेटर हैं।",
   "translations": [
     {
-      "url": "/read/en/shikhar_dhawan",
-      "title": "Mushfiqur Rahim",
-      "lang": "en"
+      "lang": "en",
+      "title": "Shikhar Dhawan",
+      "url": "/read/en/shikhar_dhawan"
     },
     {
-      "url": "/read/ta/shikhar_dhawan",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "சிக்கர் தவான்",
+      "url": "/read/ta/shikhar_dhawan"
     }
   ],
   "sections": [
@@ -27,415 +26,40 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "शिखर धवन",
-            "url": ""
+            "label": "शिखर धवन"
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "05/12/1985",
-            "url": ""
+            "label": "05 Dec 1985 (age 33)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "दिल्ली, भारत",
-            "url": "G16"
+            "url": "https://en.wikipedia.org/wiki/Delhi",
+            "contentUrl": "/static/content/hi/delhi.json"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "5 फीट 11 इंच (180 सेमी)",
-            "url": ""
+            "label": "5 फीट 11 इंच (180 सेमी)"
           }
         },
-        {
-          "label": "Other Names",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Age",
-          "value": "33"
-        },
+        null,
         {
           "label": "Nationality",
           "value": {
-            "label": "भारतीय",
-            "url": "G3"
+            "label": "भारतीय"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "बल्लेबाज",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "Family",
-      "cardType": "avatar",
-      "label": "",
-      "facts": [
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Phase(s)",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "प्रथम श्रेणी की शुरुआत",
-          "id": 0,
-          "note": "2004",
-          "value": {
-            "label": "धवन ने 2004 में दिल्ली की ओर से आंध्र के खिलाफ रणजी ट्रॉफी क्रिकेट में पदार्पण किया। ",
-            "facts": [
-              {
-                "label": "SF20",
-                "value": {
-                  "label": "SF20",
-                  "image": {
-                    "url": "SF20",
-                    "altText": "SF20"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "राष्ट्रीय टीम ",
-          "id": 3,
-          "note": "2010",
-          "value": {
-            "label": "धवन ने आस्ट्रेलिया के विरुद्ध अंतराष्ट्रीय मैच में पदार्पण किया लेकिन इसमें वे शून्य रन पर आउट हो गए। ",
-            "facts": [
-              {
-                "label": "R2",
-                "value": {
-                  "label": "R2",
-                  "image": {
-                    "url": "R2",
-                    "altText": "R2"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "चैंपियंस ट्रॉफी ",
-          "id": 1,
-          "note": "2013",
-          "value": {
-            "label": "धवन ने टुर्नामेंट में सबसे ज्यादा रन बनाए और उन्हें प्लेयर ऑफ द टुर्नामेंट घोषित किया गया। ",
-            "facts": [
-              {
-                "label": "R2",
-                "value": {
-                  "label": "R2",
-                  "image": {
-                    "url": "R2",
-                    "altText": "R2"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "अच्छा खेल नहीं पा रहे हैं\n",
-          "id": 1,
-          "note": "2014",
-          "value": {
-            "label": "धवन ज्यादा रन बनाने में नाकाम रहे और उन्हें टीम से हटा दिया गया। ",
-            "facts": [
-              {
-                "label": "R2",
-                "value": {
-                  "label": "R2",
-                  "image": {
-                    "url": "R2",
-                    "altText": "R2"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "विश्व कप ",
-          "id": 1,
-          "value": {
-            "label": "2015 के विश्व कप में सबसे ज्यादा रन बनाने वाले बल्लेबाजों में धवन पांचवें स्थान पर रहे। ",
-            "facts": [
-              {
-                "label": "R2",
-                "value": {
-                  "label": "R2",
-                  "image": {
-                    "url": "R2",
-                    "altText": "R2"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "चैंपियंस ट्रॉफी ",
-          "id": 1,
-          "note": "टुर्नामेंट में सबसे ज्यादा रन बनाने वाले धवन को गोल्डन बैट का पुरस्कार प्राप्त हुआ। ",
-          "value": {
-            "label": "चैंपियंस ट्रॉफी ",
-            "facts": [
-              {
-                "label": "R2",
-                "value": {
-                  "label": "R2",
-                  "image": {
-                    "url": "R2",
-                    "altText": "R2"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "IPL डेब्यू",
-          "id": 1,
-          "note": "2008",
-          "value": {
-            "label": "आशीष नेहरा के बदले शिखर धवन को 2009 में मुंबई इंडियंस द्वारा खरीदा गया, इससे पहले तक वे देल्ही डेयरडेविल्स के लिए खेले।  ",
-            "facts": [
-              {
-                "label": "R2",
-                "value": {
-                  "label": "R2",
-                  "image": {
-                    "url": "R2",
-                    "altText": "R2"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "विराट कोहली बाएं हाथ के सलामी बल्लेबाज हैं और कभी-कभी दाएं हाथ के ऑफ ब्रेक गेंदबाजी भी करते हैं।",
-            "image": {
-              "url": "/static/images/shikhar_dhawan/SHIKHAR_DHAWAN_(16007163087).jpg",
-              "altText": "Image of SHIKHAR DHAWAN (16007163087)"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2010-अब तक ",
-          "value": {
-            "facts": [
-              {
-                "label": "भारतीय राष्ट्रीय क्रिकेट टीम",
-                "url": "R1",
-                "value": {
-                  "label": "भारत की राष्ट्रीय क्रिकेट टीम, जिसे टीम इंडिया और मैन इन ब्लू के नाम से भी जाना जाता है, भारतीय क्रिकेट कंट्रोल बोर्ड द्वारा संचालित है",
-                  "image": {
-                    "url": "/static/images/shikhar_dhawan/Cricket_India_Crest.svg",
-                    "altText": "Image of Cricket India Crest"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2019 -अब तक",
-          "value": {
-            "facts": [
-              {
-                "label": "देल्ही केपिटल्‍स ",
-                "url": "R16",
-                "value": {
-                  "label": "देल्ही केपिटल्‍स (पहले देहली डेयरडेविल्स के नाम से चर्चित) दिल्ली, भारत की एक आईपीएल क्रिकेट टीम हैं।",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2004-अब तक",
-          "value": {
-            "facts": [
-              {
-                "label": "दिल्ली",
-                "url": "https://en.wikipedia.org/wiki/Delhi_cricket_team",
-                "value": {
-                  "label": "दिल्ली की घरेलू रणजी ट्रॉफी क्रिकेट टीम",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "विसडेन क्रिकेटर ऑफ द ईयर ",
-          "tag": "2014",
-          "value": {
-            "label": "विस्डन क्रिकेटर्स अलमानैक द्वारा दिया जाना वाला वार्षिक पुरस्कार ",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "सेंट मार्क सीनियर सेकेंडरी पब्लिक स्कूल, दिल्ली",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "शिखर धवन ने अपने पदार्पण टेस्ट मैच में किसी खिलाड़ी द्वारा बनाया गया सबसे तेज़ शतक बनाया",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "आईसीसी विश्व कप 2015 में भारत की ओर से सर्वाधिक रन बनाये ",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "इकलौते खिलाड़ी जिन्होंने आईसीसी चैंपियंस ट्रॉफी में सबसे अधिक रन बना बना कर लगातार 2 बार गोल्डन बैट जीता",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "धवन टेस्ट मैच के पहले दिन लंच से पहले शतक लगाने वाले पहले भारतीय बल्लेबाज हैं।",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": "बल्लेबाज"
           }
         }
       ]

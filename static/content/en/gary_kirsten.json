@@ -1,0 +1,71 @@
+{
+  "title": "Gary Kirsten",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gary_Kirsten",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:GaryKirsten.jpg",
+    "altText": "Image of Gary Kirsten"
+  },
+  "summary": "Gary Kirsten is a former South African cricketer. He was also the coach of the Indian cricket team that won the 2011 world cup.",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/gary_kirsten"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/gary_kirsten"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Gary Kirsten"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "23 Nov 1967 (age 51)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Cape Town, South Africa",
+            "url": "https://en.wikipedia.org/wiki/Cape_Town",
+            "contentUrl": "/static/content/en/cape_town.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "Other Names",
+          "value": {
+            "label": "Gazza"
+          }
+        },
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "South African"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "Left arm opening batsman and right arm off-break bowler"
+          }
+        }
+      ]
+    }
+  ]
+}

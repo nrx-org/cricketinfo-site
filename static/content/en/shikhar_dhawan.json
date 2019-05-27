@@ -1,22 +1,21 @@
 {
-  "id": "O4",
   "title": "Shikhar Dhawan",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Shikhar_Dhawan",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shikhar_Dhawan",
   "coverImage": {
-    "url": "/static/images/shikhar_dhawan/SHIKHAR_DHAWAN_(16005494418).jpg",
-    "altText": "Image of SHIKHAR DHAWAN (16005494418)"
+    "url": "https://commons.wikimedia.org/wiki/File:SHIKHAR_DHAWAN_(16005494418).jpg",
+    "altText": "Image of Shikhar Dhawan"
   },
   "summary": "Shikhar Dhawan is an Indian international cricketer. ",
   "translations": [
     {
-      "url": "/read/hi/shikhar_dhawan",
-      "title": "मुशफिकुर रहीम ",
-      "lang": "hi"
+      "lang": "hi",
+      "title": "शिखर धवन",
+      "url": "/read/hi/shikhar_dhawan"
     },
     {
-      "url": "/read/ta/shikhar_dhawan",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "சிக்கர் தவான்",
+      "url": "/read/ta/shikhar_dhawan"
     }
   ],
   "sections": [
@@ -27,415 +26,40 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "Shikhar Dhawan",
-            "url": ""
+            "label": "Shikhar Dhawan"
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "05/12/1985",
-            "url": ""
+            "label": "05 Dec 1985 (age 33)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "Delhi, India",
-            "url": "G16"
+            "url": "https://en.wikipedia.org/wiki/Delhi",
+            "contentUrl": "/static/content/en/delhi.json"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "5 ft 11 in (180 cm)",
-            "url": ""
+            "label": "5 ft 11 in (180 cm)"
           }
         },
-        {
-          "label": "Other Names",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Age",
-          "value": "33"
-        },
+        null,
         {
           "label": "Nationality",
           "value": {
-            "label": "Indian",
-            "url": "G3"
+            "label": "Indian"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "Batsman",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "Family",
-      "cardType": "avatar",
-      "label": "",
-      "facts": [
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Phase(s)",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "First class Debut",
-          "id": 0,
-          "note": "2004",
-          "value": {
-            "label": "Dhawan made his first-class debut for Delhi against Andhra during Ranji Trophy in the year 2004.",
-            "facts": [
-              {
-                "label": "SF20",
-                "value": {
-                  "label": "SF20",
-                  "image": {
-                    "url": "SF20",
-                    "altText": "SF20"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "National team debut ",
-          "id": 3,
-          "note": "2010",
-          "value": {
-            "label": "Dhawan made his international debut versus Australia but got out on a duck.",
-            "facts": [
-              {
-                "label": "R2",
-                "value": {
-                  "label": "R2",
-                  "image": {
-                    "url": "R2",
-                    "altText": "R2"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "ICC Tournament Debut",
-          "id": 1,
-          "note": "2013",
-          "value": {
-            "label": "Dhawan scored the most runs in the tournament and was also named as the player of the tournament.",
-            "facts": [
-              {
-                "label": "R2",
-                "value": {
-                  "label": "R2",
-                  "image": {
-                    "url": "R2",
-                    "altText": "R2"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "Struggle with form",
-          "id": 1,
-          "note": "2014",
-          "value": {
-            "label": "Dhawan failed to score big runs and was dropped from the team.",
-            "facts": [
-              {
-                "label": "R2",
-                "value": {
-                  "label": "R2",
-                  "image": {
-                    "url": "R2",
-                    "altText": "R2"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2015 World Cup",
-          "id": 1,
-          "value": {
-            "label": "Dhawan finished the 2015 world cup as the fifth-highest run scorer.",
-            "facts": [
-              {
-                "label": "R2",
-                "value": {
-                  "label": "R2",
-                  "image": {
-                    "url": "R2",
-                    "altText": "R2"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2017 Champions Trophy",
-          "id": 1,
-          "note": "2017",
-          "value": {
-            "label": "Dhawan won the Golden bat for the most runs scored during the tournament",
-            "facts": [
-              {
-                "label": "R2",
-                "value": {
-                  "label": "R2",
-                  "image": {
-                    "url": "R2",
-                    "altText": "R2"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "IPL Debut",
-          "id": 1,
-          "note": "2008",
-          "value": {
-            "label": "Shikhar Dhawan played for the Delhi Daredevils in the Indian Premier League until he was traded to the Mumbai Indians in 2009 in exchange for Ashish Nehra.",
-            "facts": [
-              {
-                "label": "R2",
-                "value": {
-                  "label": "R2",
-                  "image": {
-                    "url": "R2",
-                    "altText": "R2"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "Viral Kohli is a left-handed opening batsman and an occasional right-arm off break bowler.",
-            "image": {
-              "url": "/static/images/shikhar_dhawan/SHIKHAR_DHAWAN_(16007163087).jpg",
-              "altText": "Image of SHIKHAR DHAWAN (16007163087)"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2010-present",
-          "value": {
-            "facts": [
-              {
-                "label": "Indian National Cricket team",
-                "url": "R1",
-                "value": {
-                  "label": "The India national cricket team, also known as Team India and Men in Blue, is governed by the Board of Control for Cricket in India",
-                  "image": {
-                    "url": "/static/images/shikhar_dhawan/Cricket_India_Crest.svg",
-                    "altText": "Image of Cricket India Crest"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2019-present",
-          "value": {
-            "facts": [
-              {
-                "label": "Delhi Capitals",
-                "url": "R16",
-                "value": {
-                  "label": "The Delhi Capitals (formerly known as Delhi Daredevils) are an IPL cricket team based in Delhi, India.",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2004-present",
-          "value": {
-            "facts": [
-              {
-                "label": "Delhi",
-                "url": "https://en.wikipedia.org/wiki/Delhi_cricket_team",
-                "value": {
-                  "label": "Domestic Ranji trophy cricket team based in Delhi",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "Wisden Cricketer of the year.",
-          "tag": "2014",
-          "value": {
-            "label": "An yearly award by the Wisden Cricketers' Almanack",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "St. Mark's Senior Secondary Public School, Delhi",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "Shikhar Dhawan scored the fastest century by a player on their Test debut ",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "Most Runs from Indian Player in ICC World Cup 2015",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "Only player to get 2 consecutive golden bats at ICC Champions Trophy for being the highest run scorer of the tournament",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "Dhawan is the first Indian batsman to score a century before lunch on the first day of a Test match.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": "Batsman"
           }
         }
       ]

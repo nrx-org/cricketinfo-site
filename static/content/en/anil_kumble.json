@@ -1,22 +1,21 @@
 {
-  "id": "O7",
   "title": "Anil Kumble",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Anil_Kumble",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anil_Kumble",
   "coverImage": {
-    "url": "/static/images/anil_kumble/Anil_Kumble.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Anil_Kumble.jpg",
     "altText": "Image of Anil Kumble"
   },
   "summary": "Anil Kumble is a former Indian cricketer and a former captain of Tests and ODIs, who played Tests and ODIs for 18 years. ",
   "translations": [
     {
-      "url": "/read/hi/anil_kumble",
-      "title": "मुशफिकुर रहीम ",
-      "lang": "hi"
+      "lang": "hi",
+      "title": "अनिल कुंबले",
+      "url": "/read/hi/anil_kumble"
     },
     {
-      "url": "/read/ta/anil_kumble",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "அனில் கும்ப்ளே",
+      "url": "/read/ta/anil_kumble"
     }
   ],
   "sections": [
@@ -27,415 +26,45 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "Anil Kumble",
-            "url": ""
+            "label": "Anil Kumble"
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "17/10/1970",
-            "url": ""
+            "label": "17 Oct 1970 (age 48)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "Bengaluru, India",
-            "url": "G1"
+            "url": "https://en.wikipedia.org/wiki/Bangalore",
+            "contentUrl": "/static/content/en/bangalore.json"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "6 ft 1 in (1.85 m)",
-            "url": ""
+            "label": "6 ft 1 in (1.85 m)"
           }
         },
         {
           "label": "Other Names",
           "value": {
-            "label": "Jumbo",
-            "url": ""
+            "label": "Jumbo"
           }
-        },
-        {
-          "label": "Age",
-          "value": "48"
         },
         {
           "label": "Nationality",
           "value": {
-            "label": "Indian",
-            "url": "G3"
+            "label": "Indian"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "Leg-spin bowler",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "Family",
-      "cardType": "avatar",
-      "label": "",
-      "facts": [
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Phase(s)",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "First class Debut",
-          "id": 0,
-          "note": "1989",
-          "value": {
-            "label": "Kumble made his first-class debut for Karnataka against Hyderabad on 30 November 1989, taking 4 wickets.",
-            "facts": [
-              {
-                "label": "SF20",
-                "value": {
-                  "label": "SF20",
-                  "image": {
-                    "url": "SF20",
-                    "altText": "SF20"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "National team debut ",
-          "id": 3,
-          "note": "1990",
-          "value": {
-            "label": "Kumble made his One Day International debut against Sri Lanka at Sharjah in the Austral-Asia Cup in 1990.",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "ICC Tournament Debut",
-          "id": 1,
-          "note": "1996",
-          "value": {
-            "label": "Kumble was selected in the Indian side for the 1996 World Cup and was the leading wicket-taker in the tournament.",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "Retirement",
-          "id": 1,
-          "note": "World Cup",
-          "value": {
-            "label": "2007",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "IPL Debut",
-          "id": 1,
-          "note": "2008",
-          "value": {
-            "label": "Kumble agreed to honour his contract with the Royal Challengers Bangalore (RCB) after retirement and played for 3 years.",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "Kumble is a right-arm leg spinner (legbreak googly) with an unorthodox style, most famous for his flipper and a right-hand batsman He started his career as a fast bowler,which gave him a useful faster delivery. His unique bowling style can be attributed to matting pitches in Bangalore which assist top-spin and over-spin.",
-            "image": {
-              "url": "/static/images/anil_kumble/null",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "1990-2008",
-          "value": {
-            "facts": [
-              {
-                "label": "Indian National Cricket team",
-                "url": "R1",
-                "value": {
-                  "label": "The India national cricket team, also known as Team India and Men in Blue, is governed by the Board of Control for Cricket in India",
-                  "image": {
-                    "url": "/static/images/anil_kumble/Cricket_India_Crest.svg",
-                    "altText": "Image of Cricket India Crest"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2008-2010",
-          "value": {
-            "facts": [
-              {
-                "label": "Royal Challengers Bangalore",
-                "url": "R6",
-                "value": {
-                  "label": "The Royal Challengers Bangalore(RCB) are a franchise cricket team based in Bangalore, India.",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "1989-2009",
-          "value": {
-            "facts": [
-              {
-                "label": "Karnataka",
-                "url": "https://en.wikipedia.org/wiki/Karnataka_cricket_team",
-                "value": {
-                  "label": "Domestic Ranji trophy cricket team based in the state of Karnataka",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "Arjuna Award",
-          "tag": "1995",
-          "value": {
-            "label": "Arjuna Awards are given by the Government for outstanding achievement in sports",
-            "image": {
-              "url": "/static/images/anil_kumble/Arjun_Award.jpg",
-              "altText": "Image of Arjun Award"
-            }
-          }
-        },
-        {
-          "label": "Padma Shri",
-          "tag": "2005",
-          "value": {
-            "label": "Padma Shri is the fourth highest civilian award in the Republic of India",
-            "image": {
-              "url": "/static/images/anil_kumble/Padma_Shri_India_IIIe_Klasse.jpg",
-              "altText": "Image of Padma Shri India IIIe Klasse"
-            }
-          }
-        },
-        {
-          "label": "ICC Cricket Hall of Fame",
-          "tag": "2015",
-          "value": {
-            "label": "The ICC Cricket Hall of Fame recognises the achievements of the cricketing legends.",
-            "image": {
-              "url": "/static/images/anil_kumble/ICC_Hall_Of_Fame.svg",
-              "altText": "Image of ICC Hall Of Fame"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "Rashtreeya Vidyalaya College of Engineering",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "Kumble is the second player to have taken all 10 wickets in a single innings of a test match.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "Kumble holds the record for the most wickets in a calendar year by an Indian in ODIs with 61 wickets in 1996",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "Kumble holds the record of bowling 40850 balls in entire Test career, highest for an Indian.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "Kumble took his first 50 Test wickets in 10 matches",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "In 1993, he took six wickets for 12 runs in an ODI against the West Indies which was an Indian record for very long time.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": "Leg-spin bowler"
           }
         }
       ]

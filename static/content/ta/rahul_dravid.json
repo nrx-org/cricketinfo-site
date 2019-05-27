@@ -1,22 +1,21 @@
 {
-  "id": "O9",
   "title": "ராகுல் டிராவிட்",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Rahul_Dravid",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rahul_Dravid",
   "coverImage": {
-    "url": "/static/images/rahul_dravid/Rahul_Dravid_at_GQ_Men_Of_The_Year_2012_AWARD.jpg",
-    "altText": "Image of Rahul Dravid at GQ Men Of The Year 2012 AWARD"
+    "url": "https://commons.wikimedia.org/wiki/File:Rahul_Dravid_at_GQ_Men_Of_The_Year_2012_AWARD.jpg",
+    "altText": "Image of ராகுல் டிராவிட்"
   },
   "summary": "ராகுல் டிராவிட் முன்னாள் இந்திய கிரிக்கெட் வீரர் மற்றும் கேப்டன். கிரிக்கெட் வரலாற்றில் தலைசிறந்த பேட்ஸ்மென்களில் ஒருவர் என எல்லோராலும் கருதப்படுபவர்",
   "translations": [
     {
-      "url": "/read/hi/rahul_dravid",
-      "title": "मुशफिकुर रहीम ",
-      "lang": "hi"
+      "lang": "en",
+      "title": "Rahul Dravid",
+      "url": "/read/en/rahul_dravid"
     },
     {
-      "url": "/read/en/rahul_dravid",
-      "title": "Mushfiqur Rahim",
-      "lang": "en"
+      "lang": "hi",
+      "title": "राहुल द्रविड़",
+      "url": "/read/hi/rahul_dravid"
     }
   ],
   "sections": [
@@ -27,415 +26,45 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "ராகுல் ஷரத் டிராவிட்",
-            "url": ""
+            "label": "ராகுல் ஷரத் டிராவிட்"
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "11/01/1973",
-            "url": ""
+            "label": "11 Jan 1973 (age 46)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "இந்தூர், இந்தியா",
-            "url": ""
+            "url": "https://en.wikipedia.org/wiki/Indore",
+            "contentUrl": "/static/content/ta/.json"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "1.7 மீ (5 அடி 7 அங்குலம்)",
-            "url": ""
+            "label": "1.7 மீ (5 அடி 7 அங்குலம்)"
           }
         },
         {
           "label": "Other Names",
           "value": {
-            "label": "தி வால்",
-            "url": ""
+            "label": "தி வால்"
           }
-        },
-        {
-          "label": "Age",
-          "value": "46"
         },
         {
           "label": "Nationality",
           "value": {
-            "label": "இந்தியர்",
-            "url": "G3"
+            "label": "இந்தியர்"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "பேட்ஸ்மென், விக்கெட் கீப்பர்",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "Family",
-      "cardType": "avatar",
-      "label": "",
-      "facts": [
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Phase(s)",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "முதல் வகுப்பு",
-          "id": 0,
-          "note": "1991",
-          "value": {
-            "label": "டிராவின் 1991 இல் மகாராஷ்டிராவுக்கு எதிரான போட்டியில் தன்னுடைய முதல் ரஞ்சி டிராஃபி போட்டியை விளையாடினார்.",
-            "facts": [
-              {
-                "label": "SF20",
-                "value": {
-                  "label": "SF20",
-                  "image": {
-                    "url": "SF20",
-                    "altText": "SF20"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "தேசிய அணி அறிமுகம்",
-          "id": 3,
-          "note": "1996",
-          "value": {
-            "label": "டிராவிட் 1996 ஆம் ஆண்டு சிங்கப்பூரில் நடந்த சிங்கர் கோப்பை போட்டியில் இலங்கைக்கு எதிராகத் தன்னுடைய முதல் சர்வதேச ஒரு நாள் போட்டியில் ஆடினார்",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "முதல் ஐசிசி போட்டி ",
-          "id": 1,
-          "note": "1999",
-          "value": {
-            "label": "டிராவிட் 1999 ஆம் ஆண்டு ஹோவில் நடைபெற்ற தென்னாப்பிரிக்காவுக்கு எதிரான தனது முதல் உலகக் கோப்பை போட்டியில் அரை சதம் அடித்தார்.",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2003 உலக கோப்பை",
-          "id": 1,
-          "note": "2003",
-          "value": {
-            "label": "2003 உலகக் கோப்பையின் போது டிராவிட் துணை கேப்டனாகவும், விக்கெட் கீப்பர் பேட்ஸ்மேனாகவும் விளையாடினார்.",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "உலகக் கோப்பை",
-          "id": 1,
-          "value": {
-            "label": "2007 உலகக் கோப்பை அணிக்கு இந்திய அணி கேப்டனாக ராகுல் டிராவிட் நியமிக்கப்பட்டார், இதில் இந்தியா மோசமான தோல்வியைத் தழுவியது.",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2008",
-          "id": 1,
-          "note": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
-          "value": {
-            "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "ராகுல் டிராவிட் வலது கை பேட்ஸ்மேன், அவ்வப்போது விக்கெட் கீப்பராகவும் செயல்படுவார்.",
-            "image": {
-              "url": "/static/images/rahul_dravid/Rahul_cropped.jpg",
-              "altText": "Image of Rahul cropped"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "1996-2012",
-          "value": {
-            "facts": [
-              {
-                "label": "இந்திய கிரிக்கெட் அணி",
-                "url": "R1",
-                "value": {
-                  "label": "இந்திய கிரிக்கெட் அணி டீம் இந்தியா மற்றும் மென் இன் புளூ என்றும் அழைக்கப்படுகிறது. இந்திய கிரிக்கெட் கட்டுப்பாட்டு வாரியம் இதை நிர்வகிக்கிறது",
-                  "image": {
-                    "url": "/static/images/rahul_dravid/Cricket_India_Crest.svg",
-                    "altText": "Image of Cricket India Crest"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2011-2013",
-          "value": {
-            "facts": [
-              {
-                "label": "ராஜஸ்தான் ராயல்ஸ்",
-                "url": "R11",
-                "value": {
-                  "label": "ராஜஸ்தான் ராயல்ஸ், இந்தியாவில் ராஜஸ்தானைச் சேர்ந்த ஐபிஎல் கிரிக்கெட் அணி.",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "1990-2012",
-          "value": {
-            "facts": [
-              {
-                "label": "கர்நாடகா",
-                "url": "https://en.wikipedia.org/wiki/Karnataka_cricket_team",
-                "value": {
-                  "label": "கர்நாடகா மாநிலத்தைச் சேர்ந்த உள்ளூர் ரஞ்சி டிராஃபி கிரிக்கெட் அணி.",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "அர்ஜுனா விருதுகள்",
-          "tag": "1998",
-          "value": {
-            "label": "அர்ஜூனா விருதுகள் விளையாட்டுத் துறையில் சிறந்த சாதனைப் படைத்தவர்களுக்காக அரசாங்கத்தால் வழங்கப்படுகிறது",
-            "image": {
-              "url": "/static/images/rahul_dravid/Arjun_Award.jpg",
-              "altText": "Image of Arjun Award"
-            }
-          }
-        },
-        {
-          "label": "பத்ம ஸ்ரீ",
-          "tag": "2004",
-          "value": {
-            "label": "இந்தியக் குடியரசின் நான்காவது மிக உயரிய குடிமக்கள் விருது பத்ம ஸ்ரீ ஆகும்",
-            "image": {
-              "url": "/static/images/rahul_dravid/The_President_Dr._A.P.J_Abdul_Kalam_presenting_Padma_Shri_Award_to_Shri_Saurav_Ganguly_the_most_successful_Captain_of_Indian_Cricket_Team_at_an_investiture_Ceremony_at_Rashtrapati_Bhawan_in_New_Delhi_on_June_30,_2004.jpg",
-              "altText": "Image of The President Dr. A.P.J Abdul Kalam presenting Padma Shri Award to Shri Saurav Ganguly the most successful Captain of Indian Cricket Team at an investiture Ceremony at Rashtrapati Bhawan in New Delhi on June 30, 2004"
-            }
-          }
-        },
-        {
-          "label": "பத்ம பூஷன்",
-          "tag": "2013",
-          "value": {
-            "label": "இந்தியக் குடியரசின் மூன்றாவது மிக உயரிய குடிமக்கள் விருது பத்ம பூஷன் ஆகும்",
-            "image": {
-              "url": "/static/images/rahul_dravid/Padma_Bhushan_India_IIe_Klasse.jpg",
-              "altText": "Image of Padma Bhushan India IIe Klasse"
-            }
-          }
-        },
-        {
-          "label": "ஐசிசி ஹால் ஆஃப் ஃபேம்",
-          "tag": "2018",
-          "value": {
-            "label": "ஐசிசி கிரிக்கெட் ஹால் ஆஃப் ஃபேம் கிரிக்கெட் ஜாம்பவான்களின் சாதனைகளைக் கண்டறிந்து கௌரவிக்கிறது.",
-            "image": {
-              "url": "/static/images/rahul_dravid/ICC_Hall_Of_Fame.svg",
-              "altText": "Image of ICC Hall Of Fame"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "செய்ண்ட் ஜோசப் ஆண்கள் உயர்நிலைப் பள்ளி, பெங்களூரூ",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "டிராவிட் சர்வதேச கிரிக்கெட் போட்டிகளில் கிட்டத்தட்ட 25000 ரன்கள் குவித்துள்ளார்.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "டிராவிட், டெஸ்ட் போட்டிகளில் ஐந்து இரட்டை சதங்களை அடித்துள்ளார்",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "டிராவிட், டெஸ்ட் கிரிக்கெட் போட்டிகளில் ஒரு வீரராக (விக்கெட் கீப்பர் இல்லாமல்) 210 கேட்ச்கள் பிடித்து, அதிக எண்ணிக்கையிலான கேட்ச் பிடித்தவர் என்ற சாதனையைப் படைத்துள்ளார்.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "ஆஸ்திரேலியாவுக்கு எதிரான டெஸ்ட் போட்டியில் டிராவிட் மற்றும் விவிஎஸ் லஷ்மன் சேர்ந்து விளையாடி 376 ரன்கள் குவித்தனர், இந்தப் போட்டியில் இந்தியா 171 ரன்கள் வித்தியாசத்தில் வெற்றி பெற்றது.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "டிராவிட் மற்றும் டெண்டுல்கர் பார்ட்னர்ஷிப்பில் 331 ரன்கள் எடுத்து, உலக சாதனைப் படைத்தனர்",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": "பேட்ஸ்மென், விக்கெட் கீப்பர்"
           }
         }
       ]

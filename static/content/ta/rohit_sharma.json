@@ -1,22 +1,21 @@
 {
-  "id": "O3",
   "title": "ரோஹித் ஷர்மா",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Rohit_Sharma",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rohit_Sharma",
   "coverImage": {
-    "url": "/static/images/rohit_sharma/Rohit_Sharma_November_2016_(cropped).jpg",
-    "altText": "Image of Rohit Sharma November 2016 (cropped)"
+    "url": "https://commons.wikimedia.org/wiki/File:Rohit_Sharma_November_2016_(cropped).jpg",
+    "altText": "Image of ரோஹித் ஷர்மா"
   },
   "summary": "ரோஹித் ஷர்மா இந்தியாவைச் சேர்ந்த சர்வதேச கிரிக்கெட் வீரர், அவர் இந்திய கிரிக்கெட் அணிக்கு ஒரு நாள் போட்டிகளில் துணை கேப்டனாக இருக்கிறார்.",
   "translations": [
     {
-      "url": "/read/hi/rohit_sharma",
-      "title": "मुशफिकुर रहीम ",
-      "lang": "hi"
+      "lang": "en",
+      "title": "Rohit Sharma",
+      "url": "/read/en/rohit_sharma"
     },
     {
-      "url": "/read/en/rohit_sharma",
-      "title": "Mushfiqur Rahim",
-      "lang": "en"
+      "lang": "hi",
+      "title": "रोहित शर्मा",
+      "url": "/read/hi/rohit_sharma"
     }
   ],
   "sections": [
@@ -27,415 +26,40 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "ரோஹித் குருநாத் ஷர்மா",
-            "url": ""
+            "label": "ரோஹித் குருநாத் ஷர்மா"
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "30/04/1987",
-            "url": ""
+            "label": "30 Apr 1987 (age 31)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "நாக்பூர், இந்தியா",
-            "url": "SF1"
+            "url": "https://en.wikipedia.org/wiki/Nagpur",
+            "contentUrl": "/static/content/ta/nagpur.json"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "5 அடி 8 அங்குலம் (1.73 மீ)",
-            "url": ""
+            "label": "5 அடி 8 அங்குலம் (1.73 மீ)"
           }
         },
-        {
-          "label": "Other Names",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Age",
-          "value": "31"
-        },
+        null,
         {
           "label": "Nationality",
           "value": {
-            "label": "இந்தியர்",
-            "url": "G3"
+            "label": "இந்தியர்"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "பேட்ஸ்மென்",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "Family",
-      "cardType": "avatar",
-      "label": "",
-      "facts": [
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Phase(s)",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "முதல் வகுப்பு",
-          "id": 0,
-          "note": "2006",
-          "value": {
-            "label": "ஷர்மா, ரஞ்சி டிராஃபியில் ஆடுவதற்கு முன்னர், 2006 ஆம் ஆண்டு நியுசிலாந்து ஏ அணிக்கு எதிரான போட்டியில் இந்திய ஏ அணிக்காக தன்னுடைய முதல் பர்ஸ் கிளாஸ் போட்டியில் விளையாடினார்.",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "தேசிய அணி அறிமுகம்",
-          "id": 3,
-          "note": "2007",
-          "value": {
-            "label": "ரோஹித் ஷர்மா அயர்லாந்துக்கு எதிராக தன்னுடைய முதல் சர்வதேச ஒரு நாள் போட்டியில் ஆடினார், ஆனால் அந்தப் போட்டியில் அவர் பேட்டிங் செய்யவில்லை.",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "முதல் ஐசிசி போட்டி ",
-          "id": 1,
-          "note": "2007",
-          "value": {
-            "label": "ரோஹித் ஷர்மா 2007 ஐசிசி வேர்ல்டு ட்வென்டி20 தென்னாப்பிரிக்காவுக்கு எதிரான போட்டியில் அவுட் ஆகாமல் 50 ரன்கள் எடுத்து இந்தியாவின் முக்கியமான வெற்றிக்கு வழிவகுத்தார், இந்த வெற்றி இந்தியாவை அரையிறுதிப் போட்டிக்கு முன்னேறச் செய்தது.",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2013 ஐசிசி சாம்பியன்ஸ் டிராபி",
-          "id": 1,
-          "note": "2013",
-          "value": {
-            "label": "2013 இல், சேம்பியன்ஸ் டிராஃபியில் ஷிகர் தவானுடன் இணைந்து இந்தியாவின் புதிய தொடக்க ஆட்டக்காரராக நியமிக்கப்பட்டார்.",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "உலகக் கோப்பை",
-          "id": 1,
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2008",
-          "id": 1,
-          "note": "டெக்கான் சார்ஜர்ஸ்",
-          "value": {
-            "label": "டெக்கான் சார்ஜர்ஸ்",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "ரோஹித் ஷர்மா வலது கை பேட்ஸ்மேன் மேலும் எப்போதாவது வலது கையில் சுழற்பந்து வீசுவார்.",
-            "image": {
-              "url": "/static/images/rohit_sharma/2015_CWC_I_v_UAE_02-28_Sharma_(01)_(cropped).JPG",
-              "altText": "Image of 2015 CWC I v UAE 02 28 Sharma (01) (cropped)"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2007 முதல் தற்போது வரை",
-          "value": {
-            "facts": [
-              {
-                "label": "இந்திய கிரிக்கெட் அணி",
-                "url": "R1",
-                "value": {
-                  "label": "இந்திய கிரிக்கெட் அணி டீம் இந்தியா மற்றும் மென் இன் புளூ என்றும் அழைக்கப்படுகிறது. இந்திய கிரிக்கெட் கட்டுப்பாட்டு வாரியம் இதை நிர்வகிக்கிறது",
-                  "image": {
-                    "url": "/static/images/rohit_sharma/Cricket_India_Crest.svg",
-                    "altText": "Image of Cricket India Crest"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2011 முதல் தற்போது வரை",
-          "value": {
-            "facts": [
-              {
-                "label": "மும்பை இந்தியன்ஸ்",
-                "url": "R7",
-                "value": {
-                  "label": "மும்பை இந்தியன்ஸ், இந்தியாவில் மும்பையைச் சேர்ந்த ஐபிஎல் கிரிக்கெட் அணி.",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2006 முதல் தற்போது வரை",
-          "value": {
-            "facts": [
-              {
-                "label": "மும்பை",
-                "url": "https://en.wikipedia.org/wiki/Mumbai_cricket_team",
-                "value": {
-                  "label": "மும்பையைச் சேர்ந்த உள்ளூர் ரஞ்சி டிராஃபி கிரிக்கெட் அணி",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "திலீப் சர்தேசாய் விருது",
-          "tag": "2013",
-          "value": {
-            "label": "பிசிசிஐ’ன் திலீப் சர்தேசாய் விருது ஆண்டின் சிறந்த இந்திய கிரிக்கெட் வீரருக்கு வழங்கப்படுகிறது",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "அர்ஜுனா விருது",
-          "tag": "2015",
-          "value": {
-            "label": "அர்ஜூனா விருதுகள் விளையாட்டுத் துறையில் சிறந்த சாதனைப் படைத்தவர்களுக்காக அரசாங்கத்தால் வழங்கப்படுவது ஆகும்.",
-            "image": {
-              "url": "/static/images/rohit_sharma/Arjun_Award.jpg",
-              "altText": "Image of Arjun Award"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "சுவாமி விவேகானந் இண்டர்நேஷனல் ஸ்கூல், மும்பை",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "2014 ஆம் ஆண்டில், ஒரே சர்வதேச ஒரு நாள் கிரிக்கெட் போட்டியில் 250-க்கும் அதிகமான ரன்கள் குவித்த முதல் நபர் ஆனார்",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "ரோஹித் ஷர்மா, இரண்டு வெவ்வேறு முறைகள் முழுமையடைந்த சர்வதேச ஒரு நாள் போட்டிகளில், எதிரணியை விட அதிக ரன்கள் பெற்ற ஒரே இந்திய பேட்ஸ்மேன் என்ற பெருமைக்குரியவராவார்.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "ஷர்மா, பவுண்டரிகளில் மட்டும் 186 ரன்கள் எடுத்து ஒரே இன்னிங்க்ஸில் நான்குகள் மற்றும் ஆறுகள் மூலம் அதிக ரன்கள் எடுத்து சாதனையை முறியடித்தார். ",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "இந்திய பேட்ஸ்மேன்களில், ரோஹித் ஷர்மா டி20 போட்டிகளில் அதிக எண்ணிக்கையிலான சிக்ஸ்களை அடித்துள்ளார். ",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "ரோஹித் ஷர்மா 2019 ஆம் ஆண்டு டி20ஐ இன் அதிகபட்ச ரன்னை குவித்தார்",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": "பேட்ஸ்மென்"
           }
         }
       ]

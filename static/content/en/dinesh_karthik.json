@@ -1,0 +1,66 @@
+{
+  "title": "Dinesh Karthik",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dinesh_Karthik",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:Dinesh.Karthik.jpg",
+    "altText": "Image of Dinesh Karthik"
+  },
+  "summary": "Dinesh Karthik is an international cricketer from India",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/dinesh_karthik"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/dinesh_karthik"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Krishna Kumar Dinesh Karthik"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "Invalid Date (age 33)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Tiruchendur, Tamil Nadu, India",
+            "url": "https://en.wikipedia.org/wiki/Tiruchendur",
+            "contentUrl": "/static/content/en/.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "1.70 m (5 ft 7 in)"
+          }
+        },
+        null,
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "Indian"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "Wicket-keeper batsman"
+          }
+        }
+      ]
+    }
+  ]
+}

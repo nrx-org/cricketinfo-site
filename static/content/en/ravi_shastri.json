@@ -1,0 +1,66 @@
+{
+  "title": "Ravi Shastri",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ravi_Shastri",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:Ravi_Shastri.jpg",
+    "altText": "Image of Ravi Shastri"
+  },
+  "summary": "Ravi Shastri is a former Indian cricket player, and current head coach of the Indian national cricket team. He is also a cricket commentator.",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/ravi_shastri"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/ravi_shastri"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Ravishankar Jayadritha Shastri"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "27 May 1962 (age 56)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Mumbai, India",
+            "url": "https://en.wikipedia.org/wiki/Mumbai",
+            "contentUrl": "/static/content/en/mumbai.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": ""
+          }
+        },
+        null,
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "Indian"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "All-rounder"
+          }
+        }
+      ]
+    }
+  ]
+}

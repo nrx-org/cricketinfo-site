@@ -1,22 +1,21 @@
 {
-  "id": "O8",
   "title": "Sourav Ganguly",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/File:Sourav_Ganguly_closeup.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/File:Sourav_Ganguly_closeup.jpg",
   "coverImage": {
-    "url": "/static/images/sourav_ganguly/Sourav_Ganguly_closeup.jpg",
-    "altText": "Image of Sourav Ganguly closeup"
+    "url": "https://commons.wikimedia.org/wiki/File:Sourav_Ganguly_closeup.jpg",
+    "altText": "Image of Sourav Ganguly"
   },
   "summary": "Sourav Ganguly is a former Indian cricketer and captain of the Indian national team. During his playing career, Ganguly established himself as one of the world's leading batsmen, and also one of the greatest captains of the national cricket team.",
   "translations": [
     {
-      "url": "/read/hi/sourav_ganguly",
-      "title": "मुशफिकुर रहीम ",
-      "lang": "hi"
+      "lang": "hi",
+      "title": "सौरव गांगुली",
+      "url": "/read/hi/sourav_ganguly"
     },
     {
-      "url": "/read/ta/sourav_ganguly",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "சவுரவ் கங்குலி",
+      "url": "/read/ta/sourav_ganguly"
     }
   ],
   "sections": [
@@ -27,415 +26,44 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "Sourav Ganguly",
-            "url": ""
+            "label": "Sourav Ganguly"
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "08/07/1972",
-            "url": ""
+            "label": "08 Jul 1972 (age 46)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "Kolkata, India",
-            "url": "G12"
+            "url": "https://en.wikipedia.org/wiki/Calcutta"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "5 ft 11 in (1.80 m)",
-            "url": ""
+            "label": "5 ft 11 in (1.80 m)"
           }
         },
         {
           "label": "Other Names",
           "value": {
-            "label": "Maharaj",
-            "url": ""
+            "label": "Maharaj"
           }
-        },
-        {
-          "label": "Age",
-          "value": "46"
         },
         {
           "label": "Nationality",
           "value": {
-            "label": "Indian",
-            "url": "G3"
+            "label": "Indian"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "Batsman",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "Family",
-      "cardType": "avatar",
-      "label": "",
-      "facts": [
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Phase(s)",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "First class Debut",
-          "id": 0,
-          "note": "1989",
-          "value": {
-            "label": "Sourav Ganguly made his first-class cricket debut for Bengal in 1989.",
-            "facts": [
-              {
-                "label": "SF20",
-                "value": {
-                  "label": "SF20",
-                  "image": {
-                    "url": "SF20",
-                    "altText": "SF20"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "National team debut ",
-          "id": 3,
-          "note": "1992",
-          "value": {
-            "label": "Ganguly scored three runs in his One Day International (ODI) debut for India against the West Indies in 1992.",
-            "facts": [
-              {
-                "label": "R3",
-                "value": {
-                  "label": "R3",
-                  "image": {
-                    "url": "R3",
-                    "altText": "R3"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "ICC Tournament Debut",
-          "id": 1,
-          "note": "1999",
-          "value": {
-            "label": "Ganguly scored 183 run from 158 balls versus Sri Lanka during the 1999 World cup, his highest ODI score.",
-            "facts": [
-              {
-                "label": "R3",
-                "value": {
-                  "label": "R3",
-                  "image": {
-                    "url": "R3",
-                    "altText": "R3"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "Champions Trophy 2002",
-          "id": 1,
-          "note": "2002",
-          "value": {
-            "label": "India was declared co-champions of the tournament and Ganguly score 117 not out in the pool stage versus England. ",
-            "facts": [
-              {
-                "label": "R3",
-                "value": {
-                  "label": "R3",
-                  "image": {
-                    "url": "R3",
-                    "altText": "R3"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2003 World Cup",
-          "id": 1,
-          "value": {
-            "label": "Under Sourav Ganguly's captainship India reached the finals of the world cup for the first time since 1983.",
-            "facts": [
-              {
-                "label": "R3",
-                "value": {
-                  "label": "R3",
-                  "image": {
-                    "url": "R3",
-                    "altText": "R3"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2007 World Cup",
-          "id": 1,
-          "note": "2007",
-          "value": {
-            "label": "Ganguly was the leading scorer for India although the team was knocked out of the tournament in the group stage.",
-            "facts": [
-              {
-                "label": "R3",
-                "value": {
-                  "label": "R3",
-                  "image": {
-                    "url": "R3",
-                    "altText": "R3"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "IPL Debut",
-          "id": 1,
-          "note": "2008",
-          "value": {
-            "label": "Ganguly joined the Kolkata Knight Riders team as captain for the Indian Premier League in 2008.",
-            "facts": [
-              {
-                "label": "R3",
-                "value": {
-                  "label": "R3",
-                  "image": {
-                    "url": "R3",
-                    "altText": "R3"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "Ganguly is a left-handed batsman known for his elegant stroke-play. He is also a right-arm medium pace bowler.",
-            "image": {
-              "url": "/static/images/sourav_ganguly/Sachin_in_action.jpg",
-              "altText": "Image of Sachin in action"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "1992-2008",
-          "value": {
-            "facts": [
-              {
-                "label": "Indian National Cricket team",
-                "url": "R1",
-                "value": {
-                  "label": "The India national cricket team, also known as Team India and Men in Blue, is governed by the Board of Control for Cricket in India",
-                  "image": {
-                    "url": "/static/images/sourav_ganguly/Cricket_India_Crest.svg",
-                    "altText": "Image of Cricket India Crest"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2011-2012",
-          "value": {
-            "facts": [
-              {
-                "label": "Pune Warriors India",
-                "url": "",
-                "value": {
-                  "label": "Pune Warriors India were an IPL cricket team that represented the city of Pune. The team was dissolved in 2013.",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "1990-2010",
-          "value": {
-            "facts": [
-              {
-                "label": "Bengal",
-                "url": "https://en.wikipedia.org/wiki/Bengal_cricket_team",
-                "value": {
-                  "label": "The Bengal cricket team represents the Indian state of West Bengal in domestic first-class cricket.",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "Arjuna Award",
-          "tag": "1997",
-          "value": {
-            "label": "Arjuna Awards are given by the Government for outstanding achievement in sports",
-            "image": {
-              "url": "/static/images/sourav_ganguly/Arjun_Award.jpg",
-              "altText": "Image of Arjun Award"
-            }
-          }
-        },
-        {
-          "label": "Padma Shri",
-          "tag": "2004",
-          "value": {
-            "label": "Padma Shri is the fourth highest civilian award in the Republic of India",
-            "image": {
-              "url": "/static/images/sourav_ganguly/The_President_Dr._A.P.J_Abdul_Kalam_presenting_Padma_Shri_Award_to_Shri_Saurav_Ganguly_the_most_successful_Captain_of_Indian_Cricket_Team_at_an_investiture_Ceremony_at_Rashtrapati_Bhawan_in_New_Delhi_on_June_30,_2004.jpg",
-              "altText": "Image of The President Dr. A.P.J Abdul Kalam presenting Padma Shri Award to Shri Saurav Ganguly the most successful Captain of Indian Cricket Team at an investiture Ceremony at Rashtrapati Bhawan in New Delhi on June 30, 2004"
-            }
-          }
-        },
-        {
-          "label": "Banga Bibhushan",
-          "tag": "2013",
-          "value": {
-            "label": "Banga Bibhushan Samman  is a title instituted by the West Bengal Government to honour the services of personalities in various fields",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "St.Xavier's Collegiate School, Kolkata",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "Sourav Ganguly scored a century on his test debut versus England at Lord's",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "Ganguly has the highest individual score by an Indian batsman (183) in the Cricket World Cup",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "Ganguly became India's most successful Test captain leading the team to victory on 21 occasions",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "Ganguly is India's most successful Test captain overseas, winning 11 out of 28 matches that he led",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "One of the only five cricketers to have 10,000 runs, 100 wickets & 100 catches in ODI cricket",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": "Batsman"
           }
         }
       ]

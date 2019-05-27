@@ -1,0 +1,66 @@
+{
+  "title": "Kane Williamson",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kane_Williamson",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:Kane_Williamson_(9773667991).jpg",
+    "altText": "Image of Kane Williamson"
+  },
+  "summary": "Kane Williamson is an international cricket player from New Zealand and also the current captain of the team.",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/kane_williamson"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/kane_williamson"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Kane Stuart Williamson"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "Invalid Date (age 28)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Tauranga, New Zealand",
+            "url": "https://en.wikipedia.org/wiki/Tauranga",
+            "contentUrl": "/static/content/en/.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "5 ft 9 in (1.75 m)"
+          }
+        },
+        null,
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "New Zealander"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "Batsman"
+          }
+        }
+      ]
+    }
+  ]
+}

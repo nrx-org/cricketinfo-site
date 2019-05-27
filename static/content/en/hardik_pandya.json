@@ -1,0 +1,66 @@
+{
+  "title": "Hardik Pandya",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hardik_Pandya",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:Hardik_Pandya_(cropped).jpg",
+    "altText": "Image of Hardik Pandya"
+  },
+  "summary": "Hardik is an international cricketer who currently plays for India.",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/hardik_pandya"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/hardik_pandya"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Hardik Himanshu Pandya"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "Invalid Date (age 25)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Surat, India",
+            "url": "https://en.wikipedia.org/wiki/Surat",
+            "contentUrl": "/static/content/en/surat.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "1.83 m (6 ft 0 in)"
+          }
+        },
+        null,
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "Indian"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "All-rounder"
+          }
+        }
+      ]
+    }
+  ]
+}
