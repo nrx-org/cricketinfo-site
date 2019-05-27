@@ -9,7 +9,8 @@
     "now-build": "COMMIT_SHA1=$(git rev-parse HEAD) IS_NOW=true next build",
     "start": "NODE_ENV=production node server.js",
     "eslint": "eslint '**/*.{js,jsx}'",
-    "eslint-watch": "esw '**/*.{js,jsx}' -w --color"
+    "eslint-watch": "esw '**/*.{js,jsx}' -w --color",
+    "import": "node content_parser/index.js"
   },
   "keywords": [],
   "author": "",
