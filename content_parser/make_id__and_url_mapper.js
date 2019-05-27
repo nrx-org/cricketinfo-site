@@ -1,15 +1,39 @@
-/* eslint-disable no-undef */
-/* eslint-disable no-unused-vars */
-/* eslint-disable dot-notation */
 const fs = require("fs");
 const parse = require("csv-parse/lib/sync");
 
+const csvExports = {
+  en: [
+    "./csv/personalities.en.csv",
+    "./csv/places.en.csv",
+    "./csv/teams.en.csv",
+    "./csv/events_individual.en.csv",
+    "./csv/events_major.en.csv",
+    "./csv/bottom_sheets.en.csv"
+  ],
+  hi: [
+    "./csv/personalities.hi.csv",
+    "./csv/places.hi.csv",
+    "./csv/teams.hi.csv",
+    "./csv/events_individual.hi.csv",
+    "./csv/events_major.hi.csv",
+    "./csv/bottom_sheets.en.csv"
+  ],
+  ta: [
+    "./csv/personalities.ta.csv",
+    "./csv/places.ta.csv",
+    "./csv/teams.ta.csv",
+    "./csv/events_individual.ta.csv",
+    "./csv/events_major.ta.csv",
+    "./csv/bottom_sheets.en.csv"
+  ]
+};
+
 // path to content from spreadsheet
-// const pathToParsedFile = "./csv/personalities.csv";
-const pathToParsedFile = "./csv/places.csv";
-// const currentLanguage = "en";
+const pathToParsedFile = "./csv/personalities.csv";
+// const pathToParsedFile = "./csv/places.csv";
+const currentLanguage = "en";
 // const currentLanguage = "hi";
-const currentLanguage = "ta";
+// const currentLanguage = "ta";
 
 // Read from the sheet to be parsed
 const sheetInput = fs.readFileSync(pathToParsedFile, "utf8", (err, content) => {
