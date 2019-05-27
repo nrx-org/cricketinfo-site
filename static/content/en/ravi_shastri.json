@@ -47,7 +47,6 @@
             "label": ""
           }
         },
-        null,
         {
           "label": "Nationality",
           "value": {
@@ -58,6 +57,35 @@
           "label": "Role",
           "value": {
             "label": "All-rounder"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "Don Bosco High School, Matunga, Mumbai",
+          "value": {
+            "label": "Under Shastri's captaincy, Don Bosco (Matunga) won the inter-school Giles Shield cricket tournament in 1977, the first time in the history of the school.",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/File:School_emblem_of_Don_Bosco,_Matunga.gif",
+              "altText": "Image of Don Bosco High School, Matunga, Mumbai"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "Y0sJ5fxkiL",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Ravi Shastri started his career as a left arm spin bowler and later transformed into a batting all-rounder."
           }
         }
       ]

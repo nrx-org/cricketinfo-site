@@ -49,7 +49,6 @@
             "label": "5 அடி 4 அங்குலம்"
           }
         },
-        null,
         {
           "label": "Nationality",
           "value": {
@@ -60,6 +59,39 @@
           "label": "Role",
           "value": {
             "label": "விக்கெட் கீப்பர் பேட்ஸ்மென்"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "ஜஹாங்கிர்நகர் பல்கலைக்கழகம்",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of ஜஹாங்கிர்நகர் பல்கலைக்கழகம்"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "91PFi_RbFZo",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Mushfiqur_Rahim#/media/File:Mushfiqur_Rahim_batting_against_England_at_Lords_in_2010,_cropped.jpg",
+              "altText": "Style of play for முஷ்ஃபிகுர் ரஹீம்"
+            }
           }
         }
       ]

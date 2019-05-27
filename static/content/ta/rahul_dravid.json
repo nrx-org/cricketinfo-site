@@ -68,6 +68,39 @@
           }
         }
       ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "செய்ண்ட் ஜோசப் ஆண்கள் உயர்நிலைப் பள்ளி, பெங்களூரூ",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of செய்ண்ட் ஜோசப் ஆண்கள் உயர்நிலைப் பள்ளி, பெங்களூரூ"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "bbHANMc1HQM",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "ராகுல் டிராவிட் வலது கை பேட்ஸ்மேன், அவ்வப்போது விக்கெட் கீப்பராகவும் செயல்படுவார்.",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Rahul_Dravid#/media/File:Rahul_cropped.jpg",
+              "altText": "Style of play for ராகுல் டிராவிட்"
+            }
+          }
+        }
+      ]
     }
   ]
 }

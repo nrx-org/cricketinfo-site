@@ -68,6 +68,39 @@
           }
         }
       ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "शारदाश्रम विद्यामंदिर, मुंबई",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of शारदाश्रम विद्यामंदिर, मुंबई"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "PjnvDsbZsAu",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "अपने समय के सबसे शानदार बल्लेबाज़ माने जाने वाले सचिन तेंदुलकर मध्यम गति, लेग स्पिन, और ऑफ स्पिन गेंदबाजी भी कर सकते हैं।",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Sachin_Tendulkar#/media/File:Master_Blaster_at_work.jpg",
+              "altText": "Style of play for सचिन तेंदुलकर"
+            }
+          }
+        }
+      ]
     }
   ]
 }

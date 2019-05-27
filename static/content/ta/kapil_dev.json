@@ -48,7 +48,6 @@
             "label": ""
           }
         },
-        null,
         {
           "label": "Nationality",
           "value": {
@@ -59,6 +58,35 @@
           "label": "Role",
           "value": {
             "label": "ஆல்ரவுண்டர்"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "டி.ஏ.வி பள்ளி, சண்டிகர்",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of டி.ஏ.வி பள்ளி, சண்டிகர்"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "xXoMSlvHLdG",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "கிரிக்கெட்டில் தலைசிறந்த ஆல்ரவுண்டர்களில் ஒருவர். வலதுகை பேட்ஸ்மென் மற்றும் வலதுகை வேகப் பந்துவீச்சாளர்."
           }
         }
       ]

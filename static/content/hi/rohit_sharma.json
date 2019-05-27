@@ -49,7 +49,6 @@
             "label": "5 फीट 8 इंच (1.73 मीटर)"
           }
         },
-        null,
         {
           "label": "Nationality",
           "value": {
@@ -60,6 +59,39 @@
           "label": "Role",
           "value": {
             "label": "बल्लेबाज"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "स्वामी विवेकानंद इंटरनेशनल स्कूल, मुंबई",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of स्वामी विवेकानंद इंटरनेशनल स्कूल, मुंबई"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "2qVskAZyNGY",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "रोहित शर्मा दाएं हाथ के बल्लेबाज हैं और कभी-कभी दाएं हाथ के ऑफ ब्रेक गेंदबाज भी रहे हैं।",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Rohit_Sharma#/media/File:2015_CWC_I_v_UAE_02-28_Sharma_(01)_(cropped).JPG",
+              "altText": "Style of play for रोहित शर्मा"
+            }
           }
         }
       ]

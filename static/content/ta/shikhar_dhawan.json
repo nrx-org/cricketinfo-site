@@ -49,7 +49,6 @@
             "label": "5 அடி 11 அங்குலம் (180 செமீ)"
           }
         },
-        null,
         {
           "label": "Nationality",
           "value": {
@@ -60,6 +59,39 @@
           "label": "Role",
           "value": {
             "label": "பேட்ஸ்மென்"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "செய்ண்ட் மார்க்ஸ் சீனியர் செகண்டரி பப்ளிக் ஸ்கூல், டெல்லி",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of செய்ண்ட் மார்க்ஸ் சீனியர் செகண்டரி பப்ளிக் ஸ்கூல், டெல்லி"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "b2-1NyL7kNw",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "விராட் கோலி வலது கை ஓப்பனிங் பேட்ஸ்மேன் மற்றும் எப்போதாவது வலது கையில் ஆஃப் பிரேக் பந்துவீசுவார்.",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Shikhar_Dhawan#/media/File:SHIKHAR_DHAWAN_(16007163087).jpg",
+              "altText": "Style of play for சிக்கர் தவான்"
+            }
           }
         }
       ]

@@ -66,6 +66,35 @@
           }
         }
       ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "Rondebosch Boys' High School, Cape Town",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/File:Rondebosch_Boys%27_High_School_logo.gif",
+              "altText": "Image of Rondebosch Boys' High School, Cape Town"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "QpBNX8NcOYW",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Gary Kirsten is a left-handed opening batsman, and a right arm off-break bowler."
+          }
+        }
+      ]
     }
   ]
 }

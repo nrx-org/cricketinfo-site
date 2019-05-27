@@ -68,6 +68,39 @@
           }
         }
       ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "வித்யலோகா கல்லூரி",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of வித்யலோகா கல்லூரி"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "XSWXzweZE5e",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "மலிங்காவின் பந்து வீசும் முறை பல்வேறு கருத்துக்களை எதிர்கொண்டது. கிரிக்கெட்டின் பிரபலமான விமர்சனப் புத்தகம் விஸ்டென், மலிங்காவின் பந்து வீச்சு \"ஸ்லிங்கிங்\" போல உள்ளதாகக் குறிப்பிட்டுள்ளது. இதன் விளைவாக அவருக்கு \"ஸ்லிங்க மலிங்கா\" என்ற செல்லப்பெயர் வந்தது. தனித்துவமான இந்த ரவுண்ட் ஆர்ம் ஆக்ஷன் பிரத்யேகமாக டென்னிஸ் பந்தில் கிரிக்கெட் விளையாடக் கற்றுக் கொண்டதால் வந்ததாக மலிங்கா கூறியிருக்கிறார்.",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Lasith_Malinga#/media/File:Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg",
+              "altText": "Style of play for லசித் மலிங்கா"
+            }
+          }
+        }
+      ]
     }
   ]
 }

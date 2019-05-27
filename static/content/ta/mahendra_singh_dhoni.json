@@ -67,6 +67,39 @@
           }
         }
       ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "டிஏவி ஜவகர் வித்யா மந்திர், ராஞ்சி",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of டிஏவி ஜவகர் வித்யா மந்திர், ராஞ்சி"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "ymttmo5bFuV",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "தோனி வலது கை பேட்ஸ்மேன் மற்றும் விக்கெட் கீப்பர். தொடக்கத்தில், தோனி பின் வரிசையில் ஆடும் தடாலடி பேட்ஸ்மேனாக இருந்தார், ஆனால் காலப்போக்கில் அதிக அழுத்தம் உள்ள சூழல் மற்றும் கேப்டன் என்ற முறையில் அதிகரித்து வந்த பொறுப்பு காரணமாக அவருடைய விளையாட்டு முறையை மாற்றிக் கொண்டார்.",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/MS_Dhoni#/media/File:Mahendra_Singh_Dhoni_batting.JPG",
+              "altText": "Style of play for மகேந்திர சிங் தோனி"
+            }
+          }
+        }
+      ]
     }
   ]
 }

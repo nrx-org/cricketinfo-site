@@ -48,7 +48,6 @@
             "label": ""
           }
         },
-        null,
         {
           "label": "Nationality",
           "value": {
@@ -59,6 +58,35 @@
           "label": "Role",
           "value": {
             "label": "ऑलराउंडर"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "डी.ए.वी. स्कूल चंडीगढ़",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of डी.ए.वी. स्कूल चंडीगढ़"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "i9ROUIDPC-3",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "खेल खेलने वाले सबसे महान ऑलराउंडरों में से एक। दाएं हाथ के बल्लेबाज और दाएं हाथ के तेज गेंदबाज।"
           }
         }
       ]

@@ -68,6 +68,39 @@
           }
         }
       ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "Vidyaloka College",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of Vidyaloka College"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "apVYBHb8gu",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Malinga's action has attracted great comment. The cricket reference text Wisden has noted that Malinga's delivery action is similar to \"slinging\". Resulting to his nickname \"Slinga Malinga\". Malinga has said that his unique round-arm bowling action was a result of learning to play cricket exclusively with a tennis ball.",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Lasith_Malinga#/media/File:Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg",
+              "altText": "Style of play for Lasith Malinga"
+            }
+          }
+        }
+      ]
     }
   ]
 }

@@ -68,6 +68,39 @@
           }
         }
       ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "सेंट जोसेफ बॉयज़ हाई स्कूल, बेंगलुरु",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of सेंट जोसेफ बॉयज़ हाई स्कूल, बेंगलुरु"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "QTdzmgWcUd_",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "राहुल द्रविड़ दाएं हाथ के बल्लेबाज हैं, और कभी-कभार विकेट कीपिंग भी करते हैं।  ",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Rahul_Dravid#/media/File:Rahul_cropped.jpg",
+              "altText": "Style of play for राहुल द्रविड़"
+            }
+          }
+        }
+      ]
     }
   ]
 }

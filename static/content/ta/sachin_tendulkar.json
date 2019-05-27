@@ -68,6 +68,39 @@
           }
         }
       ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "சாரதாஷ்ரமம் வித்யாமந்திர், மும்பை",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of சாரதாஷ்ரமம் வித்யாமந்திர், மும்பை"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "zCr9hf4mfw-",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "அவருடைய காலத்தின் முழுமையான பேட்ஸ்மேனாக கருதப்பட்ட சச்சின் டெண்டுல்கரால், மிதவேகப் பந்துவீச்சு, லெக் ஸ்பின் மற்றும் ஆஃப் ஸ்பின் என அனைத்து விதத்திலும் பந்து வீச மூடியும்.",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Sachin_Tendulkar#/media/File:Master_Blaster_at_work.jpg",
+              "altText": "Style of play for சச்சின் டெண்டுல்கர்"
+            }
+          }
+        }
+      ]
     }
   ]
 }

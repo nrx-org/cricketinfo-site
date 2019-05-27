@@ -49,7 +49,6 @@
             "label": "5 फीट 11 इंच (180 सेमी)"
           }
         },
-        null,
         {
           "label": "Nationality",
           "value": {
@@ -60,6 +59,39 @@
           "label": "Role",
           "value": {
             "label": "बल्लेबाज"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "सेंट मार्क सीनियर सेकेंडरी पब्लिक स्कूल, दिल्ली",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of सेंट मार्क सीनियर सेकेंडरी पब्लिक स्कूल, दिल्ली"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "Zm86He8v1xp",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "विराट कोहली बाएं हाथ के सलामी बल्लेबाज हैं और कभी-कभी दाएं हाथ के ऑफ ब्रेक गेंदबाजी भी करते हैं।",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Shikhar_Dhawan#/media/File:SHIKHAR_DHAWAN_(16007163087).jpg",
+              "altText": "Style of play for शिखर धवन"
+            }
           }
         }
       ]

@@ -1,6 +1,8 @@
 const fs = require("fs");
 const parse = require("csv-parse/lib/sync");
 const { parse: parseDate, format } = require("date-fns");
+const shortid = require("shortid");
+
 const idMap = require("../static/content/article_ids.json");
 const {
   findIdMapEntryById,
@@ -34,6 +36,12 @@ const RELATION_1_KEY = "Relation 1";
 const RELATION_1_ID_KEY = "Relation 1 card  ID ";
 const RELATION_1_RELATIONSHIP_KEY = "Relationship with personality 1";
 const RELATION_1_IMAGE_KEY = "Link to the image of relation 1";
+const ALMA_MATER_KEY = "Name of school";
+const ALMA_MATER_DESCRIPTION_KEY =
+  "Short notable description on area of study/events during personalities time in school";
+const ALMA_MATER_IMAGE_KEY = "Link to image of school";
+const STYLE_OF_PLAY_KEY = "Style of play";
+const STYLE_OF_PLAY_IMAGE_KEY = "Relevant image link";
 
 module.exports.exportPersonalities = () => {
   Object.keys(csvExports).forEach(lang => {
@@ -102,6 +110,7 @@ module.exports.exportPersonalities = () => {
         };
       }
 
+      // About table.
       // TODO: translate the UI strings.
       personality.sections.push({
         title: "About",
@@ -142,9 +151,10 @@ module.exports.exportPersonalities = () => {
               label: record[ROLE_KEY]
             }
           }
-        ]
+        ].filter(f => !!f)
       });
 
+      // Relationship table.
       if (record[RELATION_1_KEY]) {
         const relationshipArticleEntry = findIdMapEntryById(
           idMap,
@@ -184,6 +194,63 @@ module.exports.exportPersonalities = () => {
           ]
         });
       }
+
+      // Alma mater.
+      if (record[ALMA_MATER_KEY].trim()) {
+        personality.sections.push({
+          title: "Alma mater",
+          cardType: "avatar",
+          facts: [
+            {
+              label: record[ALMA_MATER_KEY],
+              value: {
+                label: record[ALMA_MATER_DESCRIPTION_KEY],
+                image: {
+                  url:
+                    record[ALMA_MATER_IMAGE_KEY] ||
+                    "/static/images/default_person.svg",
+                  altText: `Image of ${record[ALMA_MATER_KEY]}`
+                }
+              }
+            }
+          ]
+        });
+      }
+
+      // Style of play.
+
+      const styleOfPlaySection = {
+        title: "Style of play",
+        id: shortid.generate(),
+        cardType: "simple",
+        facts: [
+          {
+            label: "",
+            value: {
+              label: record[STYLE_OF_PLAY_KEY]
+            }
+          }
+        ]
+      };
+
+      if (record[STYLE_OF_PLAY_IMAGE_KEY].trim()) {
+        styleOfPlaySection.facts[0].value.image = {
+          url: record[STYLE_OF_PLAY_IMAGE_KEY],
+          altText: `Style of play for ${personality.title}`
+        };
+      }
+
+      personality.sections.push(styleOfPlaySection);
+
+      // Career phase(s).
+
+      // Achievements and records.
+
+      // Teams.
+
+      // Awards and honors.
+
+      // Outside sports.
 
       // TODO: remove null facts from all sections.
 

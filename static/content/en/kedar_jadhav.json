@@ -47,7 +47,6 @@
             "label": ""
           }
         },
-        null,
         {
           "label": "Nationality",
           "value": {
@@ -58,6 +57,19 @@
           "label": "Role",
           "value": {
             "label": "All-rounder"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "wC1tuMGF0Nm",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Jadhav bats right-handed and bowls right-arm off-breaks, and occasionally keeps wicket"
           }
         }
       ]

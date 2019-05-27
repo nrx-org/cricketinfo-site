@@ -49,7 +49,6 @@
             "label": "5 ft 8 in (1.73 m)"
           }
         },
-        null,
         {
           "label": "Nationality",
           "value": {
@@ -60,6 +59,39 @@
           "label": "Role",
           "value": {
             "label": "Batsman"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "Swami Vivekanand International School, Mumbai",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of Swami Vivekanand International School, Mumbai"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "LQdviuX41Q",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Rohit Sharma is a right-handed batsman and was an occasional right-arm off break bowler. ",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Rohit_Sharma#/media/File:2015_CWC_I_v_UAE_02-28_Sharma_(01)_(cropped).JPG",
+              "altText": "Style of play for Rohit Sharma"
+            }
           }
         }
       ]

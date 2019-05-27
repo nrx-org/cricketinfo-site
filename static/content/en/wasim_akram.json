@@ -47,7 +47,6 @@
             "label": "6 ft 2 in (1.88 m)"
           }
         },
-        null,
         {
           "label": "Nationality",
           "value": {
@@ -58,6 +57,35 @@
           "label": "Role",
           "value": {
             "label": "All-rounder"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "Islamia College, Lahore",
+          "value": {
+            "label": "Wasim Akram was educated at Government Islamia College Civil Lines Lahore, where he played as an opening bowler and batsman.",
+            "image": {
+              "url": "https://commons.wikimedia.org/wiki/File:Islamia_College_Lahore_1.jpg",
+              "altText": "Image of Islamia College, Lahore"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "kJRSAXQ2vov",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Wasim Akram was a left-arm fast bowler who could bowl with significant pace,"
           }
         }
       ]
