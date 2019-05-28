@@ -39,7 +39,8 @@
           "label": "Birthplace",
           "value": {
             "label": "சண்டிகர், இந்தியா",
-            "url": "https://en.wikipedia.org/wiki/Chandigarh"
+            "url": "https://en.wikipedia.org/wiki/Chandigarh",
+            "contentUrl": "/static/content/ta/chandigarh.json"
           }
         },
         {
@@ -80,7 +81,7 @@
     },
     {
       "title": "Style of play",
-      "id": "xXoMSlvHLdG",
+      "id": "RhCdACBavpD",
       "cardType": "simple",
       "facts": [
         {

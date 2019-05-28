@@ -29,7 +29,12 @@ module.exports.csvExports = {
       path: "./csv/bottom_sheets.en.csv",
       idFieldName: "No",
       titleFieldName: "Title"
-    }
+    },
+    {
+      path: "./csv/home_ids.en.csv",
+      idFieldName: "ID",
+      titleFieldName: "Title"
+    },
   ],
   hi: [
     {

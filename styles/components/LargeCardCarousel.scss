@@ -6,6 +6,11 @@
   margin-right: -$gutter-m;
   margin-left: -$gutter-m;
   @include hide-scrollbar();
+  scroll-snap-type: x mandatory;
+}
+
+.wcp-large-card-wrapper {
+  scroll-snap-align: start;
 }
 
 .wcp-large-card-carousel__card {

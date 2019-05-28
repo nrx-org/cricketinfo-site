@@ -9,7 +9,7 @@
   "translations": [
     {
       "lang": "en",
-      "title": "Sourav Ganguly",
+      "title": "Sourav ganguly",
       "url": "/read/en/sourav_ganguly"
     },
     {
@@ -39,7 +39,8 @@
           "label": "Birthplace",
           "value": {
             "label": "கொல்கத்தா, இந்தியா",
-            "url": "https://en.wikipedia.org/wiki/Calcutta"
+            "url": "https://en.wikipedia.org/wiki/Calcutta",
+            "contentUrl": "/static/content/ta/kolkatta.json"
           }
         },
         {
@@ -86,7 +87,7 @@
     },
     {
       "title": "Style of play",
-      "id": "jHJgvYLjxWT",
+      "id": "pQkH70n9_y7",
       "cardType": "simple",
       "facts": [
         {

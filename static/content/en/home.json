@@ -600,26 +600,390 @@
   ],
   "scheduledFacts": [
     {
-      "label": "Sachin Tendulkar has scored most runs across all the world cup tournaments, ie 2,278.",
-      "date": "2019-05-09",
-      "id": "sachinTendulkar",
+      "label": "Infamous 36",
+      "dates": [
+        "2019-06-09"
+      ],
+      "id": "F5",
       "value": {
-        "url": "/wiki/en/Sachin_Tendulkar",
+        "url": "/read/en/indian_cricket_team",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Sachin_Tendulkar.jpg",
-          "altText": "A picture of Sachin Tendulkar, not a duck"
+          "url": "/static/images/home/Prudential_Cup_75_logo.svg",
+          "altText": "Image for Infamous 36"
         }
       }
     },
     {
-      "label": "Ducks are curious and friendly creatures, they have been domesticated as pets and farm animals for more than 500 years.",
-      "date": "2019-05-09",
-      "id": "viratKohli",
+      "label": "No wins for India",
+      "dates": [
+        "2019-06-13"
+      ],
+      "id": "F9",
       "value": {
-        "url": "/wiki/en/Virat_Kohli",
+        "url": "/read/en/indian_cricket_team",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/VIRAT_KOHLI_JAN_2015_%28cropped%29.jpg",
-          "altText": "A picture of Sachin Tendulkar, not a duck"
+          "url": "/static/images/home/Flagcricket.jpg",
+          "altText": "Image for No wins for India"
+        }
+      }
+    },
+    {
+      "label": "Beyond the group stage",
+      "dates": [
+        "2019-06-16"
+      ],
+      "id": "F12",
+      "value": {
+        "url": "/read/en/indian_cricket_team",
+        "image": {
+          "url": "/static/images/home/Flagcricket.jpg",
+          "altText": "Image for Beyond the group stage"
+        }
+      }
+    },
+    {
+      "label": "Lowest score defended",
+      "dates": [
+        "2019-06-22"
+      ],
+      "id": "F13",
+      "value": {
+        "url": "/read/en/indian_cricket_team",
+        "image": {
+          "url": "/static/images/home/Prudential_Cup_83_logo.svg",
+          "altText": "Image for Lowest score defended"
+        }
+      }
+    },
+    {
+      "label": "Close fight",
+      "dates": [
+        "2019-06-09",
+        "2019-06-20",
+        "2019-06-29"
+      ],
+      "id": "F16",
+      "value": {
+        "url": "/read/en/australian_cricket_team",
+        "image": {
+          "url": "/static/images/home/Australian_World_Cup_treble.jpg",
+          "altText": "Image for Close fight"
+        }
+      }
+    },
+    {
+      "label": "End of Apartheid",
+      "dates": [
+        "2019-05-30",
+        "2019-06-02",
+        "2019-06-15",
+        "2019-06-23",
+        "2019-07-06"
+      ],
+      "id": "F20",
+      "value": {
+        "url": "/read/en/south_african_cricket_team",
+        "image": {
+          "url": "/static/images/home/South_African_Cricket_team_2008.jpg",
+          "altText": "Image for End of Apartheid"
+        }
+      }
+    },
+    {
+      "label": "22 runs off of 1 ball",
+      "dates": [
+        "2019-06-05",
+        "2019-06-10",
+        "2019-06-19",
+        "2019-06-28"
+      ],
+      "id": "F22",
+      "value": {
+        "url": "/read/en/south_african_cricket_team",
+        "image": {
+          "url": "/static/images/home/South_African_Cricket_team_2008.jpg",
+          "altText": "Image for 22 runs off of 1 ball"
+        }
+      }
+    },
+    {
+      "label": "Host win",
+      "dates": [
+        "2019-06-01"
+      ],
+      "id": "F24",
+      "value": {
+        "url": "/read/en/1996_world_cup",
+        "image": {
+          "url": "/static/images/home/Wills_World_Cup_1996.svg",
+          "altText": "Image for Host win"
+        }
+      }
+    },
+    {
+      "label": "Srilankan Cricket Team",
+      "dates": [
+        "2019-06-04",
+        "2019-06-07",
+        "2019-06-11",
+        "2019-06-15",
+        "2019-06-21",
+        "2019-06-28",
+        "2019-07-01",
+        "2019-07-06"
+      ],
+      "id": "F25",
+      "value": {
+        "url": "/read/en/srilankan_cricket_team",
+        "image": {
+          "url": "/static/images/home/Sri_Lanka_Cricket_Cap_Insignia.svg",
+          "altText": "Image for Srilankan Cricket Team"
+        }
+      }
+    },
+    {
+      "label": "At war",
+      "dates": [
+        "2019-05-31",
+        "2019-06-03",
+        "2019-06-07",
+        "2019-06-12",
+        "2019-06-16",
+        "2019-06-23",
+        "2019-06-26",
+        "2019-06-29",
+        "2019-07-05"
+      ],
+      "id": "F27",
+      "value": {
+        "url": "/read/en/1999_world_cup",
+        "image": {
+          "url": "/static/images/home/Wc99.png",
+          "altText": "Image for At war"
+        }
+      }
+    },
+    {
+      "label": "At war",
+      "dates": [
+        "2019-06-27"
+      ],
+      "id": "F28",
+      "value": {
+        "url": "/read/en/indian_cricket_team",
+        "image": {
+          "url": "/static/images/home/Flagcricket.jpg",
+          "altText": "Image for At war"
+        }
+      }
+    },
+    {
+      "label": "Unbeaten Australia",
+      "dates": [
+        "2019-06-01",
+        "2019-06-12",
+        "2019-06-25",
+        "2019-07-06"
+      ],
+      "id": "F34",
+      "value": {
+        "url": "/read/en/australian_cricket_team",
+        "image": {
+          "url": "/static/images/home/Australian_World_Cup_treble.jpg",
+          "altText": "Image for Unbeaten Australia"
+        }
+      }
+    },
+    {
+      "label": "Dismal Indian performance",
+      "dates": [
+        "2019-06-30"
+      ],
+      "id": "F36",
+      "value": {
+        "url": "/read/en/indian_cricket_team",
+        "image": {
+          "url": "/static/images/home/Wills_World_Cup_1996.svg",
+          "altText": "Image for Dismal Indian performance"
+        }
+      }
+    },
+    {
+      "label": "Win on Home soil",
+      "dates": [
+        "2019-07-02"
+      ],
+      "id": "F38",
+      "value": {
+        "url": "/read/en/indian_cricket_team",
+        "image": {
+          "url": "/static/images/home/Wills_World_Cup_1996.svg",
+          "altText": "Image for Win on Home soil"
+        }
+      }
+    },
+    {
+      "label": "Youngest player",
+      "dates": [
+        "2019-06-01"
+      ],
+      "id": "F49",
+      "value": {
+        "url": "/read/en/kane_williamson",
+        "image": {
+          "url": "/static/images/home/Kane_Williamson_(9773667991).jpg",
+          "altText": "Image for Youngest player"
+        }
+      }
+    },
+    {
+      "label": "300+",
+      "dates": [
+        "2019-06-05",
+        "2019-07-06"
+      ],
+      "id": "F53",
+      "value": {
+        "url": "/read/en/indian_cricket_team",
+        "image": {
+          "url": "/static/images/home/Wills_World_Cup_1996.svg",
+          "altText": "Image for 300+"
+        }
+      }
+    },
+    {
+      "label": "Four World cup finals ",
+      "dates": [
+        "2019-06-06",
+        "2019-06-15"
+      ],
+      "id": "F54",
+      "value": {
+        "url": "/read/en/australian_cricket_team",
+        "image": {
+          "url": "/static/images/home/Australian_World_Cup_treble.jpg",
+          "altText": "Image for Four World cup finals "
+        }
+      }
+    },
+    {
+      "label": "Oldest Cricket team",
+      "dates": [
+        "2019-05-30",
+        "2019-06-03",
+        "2019-06-08",
+        "2019-06-14",
+        "2019-06-18",
+        "2019-06-21",
+        "2019-06-25",
+        "2019-06-30",
+        "2019-07-03"
+      ],
+      "id": "F55",
+      "value": {
+        "url": "/read/en/england_cricket_team",
+        "image": {
+          "url": "/static/images/home/The_England_Cricket_Team_Ashes_2015.jpg",
+          "altText": "Image for Oldest Cricket team"
+        }
+      }
+    },
+    {
+      "label": "West Indies power",
+      "dates": [
+        "2019-05-31",
+        "2019-06-06",
+        "2019-06-10",
+        "2019-06-14",
+        "2019-06-17",
+        "2019-06-22",
+        "2019-06-27",
+        "2019-07-01",
+        "2019-07-04"
+      ],
+      "id": "F56",
+      "value": {
+        "url": "/read/en/west_indies_team",
+        "image": {
+          "url": "/static/images/home/BrianLaraUkexpat.jpg",
+          "altText": "Image for West Indies power"
+        }
+      }
+    },
+    {
+      "label": "Hat Trick Debut",
+      "dates": [
+        "2019-06-02",
+        "2019-06-05",
+        "2019-06-08",
+        "2019-06-11",
+        "2019-06-17",
+        "2019-06-20",
+        "2019-06-24",
+        "2019-07-02",
+        "2019-07-05"
+      ],
+      "id": "F57",
+      "value": {
+        "url": "/read/en/bangladesh_team",
+        "image": {
+          "url": "/static/images/home/Flag_of_Bangladesh.svg",
+          "altText": "Image for Hat Trick Debut"
+        }
+      }
+    },
+    {
+      "label": "Not A-Ban-Doned!",
+      "dates": [
+        "2019-06-01",
+        "2019-06-08",
+        "2019-06-18",
+        "2019-06-24",
+        "2019-07-04"
+      ],
+      "id": "F58",
+      "value": {
+        "url": "/read/en/afghanistan_team",
+        "image": {
+          "url": "/static/images/home/Afghanistan_cricket_board_logo.jpg",
+          "altText": "Image for Not A-Ban-Doned!"
+        }
+      }
+    },
+    {
+      "label": "A Bilateral Record",
+      "dates": [
+        "2019-06-04",
+        "2019-06-15",
+        "2019-06-22",
+        "2019-06-29"
+      ],
+      "id": "F59",
+      "value": {
+        "url": "/read/en/afghanistan_team",
+        "image": {
+          "url": "/static/images/home/Afghanistan_cricket_board_logo.jpg",
+          "altText": "Image for A Bilateral Record"
+        }
+      }
+    },
+    {
+      "label": "Team of the Match",
+      "dates": [
+        "2019-06-05",
+        "2019-06-08",
+        "2019-06-13",
+        "2019-06-19",
+        "2019-06-22",
+        "2019-06-26",
+        "2019-06-29"
+      ],
+      "id": "F60",
+      "value": {
+        "url": "/read/en/new_zealand_team",
+        "image": {
+          "url": "/static/images/home/New_Zealand_Cricket_Cap_Insignia.svg",
+          "altText": "Image for Team of the Match"
         }
       }
     }

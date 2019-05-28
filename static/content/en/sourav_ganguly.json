@@ -39,7 +39,8 @@
           "label": "Birthplace",
           "value": {
             "label": "Kolkata, India",
-            "url": "https://en.wikipedia.org/wiki/Calcutta"
+            "url": "https://en.wikipedia.org/wiki/Calcutta",
+            "contentUrl": "/static/content/en/kolkatta.json"
           }
         },
         {
@@ -86,7 +87,7 @@
     },
     {
       "title": "Style of play",
-      "id": "etlZvdF7oe",
+      "id": "yYvuFWJjQk",
       "cardType": "simple",
       "facts": [
         {
