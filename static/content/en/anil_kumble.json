@@ -87,7 +87,7 @@
     },
     {
       "title": "Style of play",
-      "id": "vY9zsym0eG",
+      "id": "KDyMCC2StlJ",
       "cardType": "simple",
       "facts": [
         {
@@ -108,14 +108,85 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "FHLjW5T_uW",
+          "id": "T2CkN7evwnW",
           "note": "1989",
           "value": {
-            "label": "Kumble made his first-class debut for Karnataka against Hyderabad on 30 November 1989, taking 4 wickets.",
+            "label": "Kumble made his first-class debut for Karnataka against Hyderabad on 30 November 1989, taking 4 wickets."
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "txcWkjf9Mqf",
+          "note": "1990",
+          "value": {
+            "label": "Kumble made his One Day International debut against Sri Lanka at Sharjah in the Austral-Asia Cup in 1990.",
             "facts": [
               {
-                "label": "Ranji Trophy",
-                "id": "QOeyOSHgI4"
+                "url": "/read/en/sri_lanka_national_cricket_team",
+                "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
+                "label": "Sri Lanka national cricket team",
+                "id": "zU-XOUhebEO",
+                "value": {
+                  "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Sri_Lanka_national_cricket_team#/media/File:Sri_Lanka_Cricket_Cap_Insignia.svg",
+                    "altText": "Image of Sri Lanka national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "Cyx9_pZDoUx",
+          "note": "1996",
+          "value": {
+            "label": "Kumble was selected in the Indian side for the 1996 World Cup and was the leading wicket-taker in the tournament.",
+            "facts": [
+              {
+                "url": "/read/en/1996_cricket_world_cup",
+                "contentUrl": "/static/content/en/1996_cricket_world_cup.json",
+                "label": "1996 Cricket World Cup",
+                "id": "RmBnKlQXJr9",
+                "value": {
+                  "label": "The 1996 Cricket World Cup, also called the Wills World Cup 1996 after its official sponsors, ITC's Wills brand, was the sixth Cricket World Cup. It was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/1996_Cricket_World_Cup#/media/File:Wills_World_Cup_1996.svg",
+                    "altText": "Image of 1996 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Retirement",
+          "id": "pMoc3clDl5U",
+          "note": "2007",
+          "value": {
+            "label": "After the 2007 World Cup, he announced his retirement from ODIs"
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "thqbVWxkwPp",
+          "note": "2008",
+          "value": {
+            "label": "Kumble agreed to honour his contract with the Royal Challengers Bangalore (RCB) after retirement and played for 3 years.",
+            "facts": [
+              {
+                "url": "/read/en/royal_challengers_bangalore",
+                "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
+                "label": "Royal Challengers Bangalore",
+                "id": "ILaNuYE0j0X",
+                "value": {
+                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Royal_Challengers_Bangalore#/media/File:Royal_Challengers_Bangalore_Logo_2016.svg",
+                    "altText": "Image of Royal Challengers Bangalore"
+                  }
+                }
               }
             ]
           }

@@ -81,7 +81,7 @@
     },
     {
       "title": "Style of play",
-      "id": "KNBvT6XxsoQ",
+      "id": "7USMEDYWQpBH",
       "cardType": "simple",
       "facts": [
         {
@@ -102,16 +102,72 @@
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "KrN3gs029U-",
+          "id": "SRLtIdVgf4L9",
           "note": "",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "தேசிய அணி அறிமுகம்",
+          "id": "uz6faLeSVsaG",
+          "note": "",
+          "value": {
+            "label": "2005 இல் பங்களாதேஷின் இங்கிலாந்து டூருக்கு ரஹீம் தேர்ந்தெடுக்கப்பட்டார். அதுதான் பங்களாதேஷ் இங்கிலாந்து செல்வது முதல் முறை ஆகும்."
+          }
+        },
+        {
+          "label": "முதல் ஐசிசி போட்டி ",
+          "id": "2jg-AssxlY2W",
+          "note": "2007",
           "value": {
             "label": "",
             "facts": [
               {
-                "label": "",
-                "id": "K261HSjwf73"
+                "url": "/read/ta/2007_cricket_world_cup",
+                "contentUrl": "/static/content/ta/2007_cricket_world_cup.json",
+                "label": "2007 கிரிக்கெட் உலகக் கோப்பை",
+                "id": "T90b7CrwwWrl",
+                "value": {
+                  "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/2007_Cricket_World_Cup#/media/File:2007_Cricket_World_Cup_logo.svg",
+                    "altText": "Image of 2007 கிரிக்கெட் உலகக் கோப்பை"
+                  }
+                }
               }
             ]
+          }
+        },
+        {
+          "label": "2011 உலக கோப்பை",
+          "id": "SInjXoQfmczD",
+          "note": "2011",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "url": "/read/ta/2011_cricket_world_cup",
+                "contentUrl": "/static/content/ta/2011_cricket_world_cup.json",
+                "label": "2011 கிரிக்கெட் உலகக் கோப்பை",
+                "id": "WjWKqu5yNrIT",
+                "value": {
+                  "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/2011_Cricket_World_Cup#/media/File:2011_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2011 கிரிக்கெட் உலகக் கோப்பை"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "உலகக் கோப்பை",
+          "id": "47v23XYNuQtr",
+          "note": "2019",
+          "value": {
+            "label": ""
           }
         }
       ]

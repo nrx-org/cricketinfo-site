@@ -71,7 +71,7 @@
     },
     {
       "title": "Style of play",
-      "id": "-pwI6DeA7cd",
+      "id": "sH4br71qTTA",
       "cardType": "simple",
       "facts": [
         {
@@ -92,14 +92,70 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "kGixlDdZ_t7",
+          "id": "0XNBoY3v3Jp",
           "note": "2013",
           "value": {
-            "label": "Rabada made his debut for the Gauteng in the CSA Provincial One-Day Competition against Border in December 2013.",
+            "label": "Rabada made his debut for the Gauteng in the CSA Provincial One-Day Competition against Border in December 2013."
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "T4PAv2-gOsb",
+          "note": "",
+          "value": {
+            "label": "Rabada made his Twenty20 International debut for South Africa against Australia on 5 November 2014.",
             "facts": [
               {
-                "label": "CSA Provincial one day Competition",
-                "id": "4cUGnfy3kPe"
+                "url": "/read/en/australia_cricket_team",
+                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "label": "Australia Cricket team",
+                "id": "poXdo4qzUo7",
+                "value": {
+                  "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Australia_national_cricket_team#/media/File:Australia_cricket_logo.svg",
+                    "altText": "Image of Australia Cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "Rv-rB2_HyWZ",
+          "note": "",
+          "value": {
+            "label": "Rabada was chosen to represent South Africa's Under-19 side for the 2014 ICC Under-19 Cricket World Cup. "
+          }
+        },
+        {
+          "label": "World Cup Appearance",
+          "id": "Z1lDzZbPUVd",
+          "note": "2019",
+          "value": {
+            "label": "In April 2019, he was named in South Africa's squad for the 2019 Cricket World Cup."
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "dAr9hGkAou1",
+          "note": "2017",
+          "value": {
+            "label": "In February 2017, Rabada was bought by the Delhi Daredevils team for the 2017 Indian Premier League for INR 50 million.",
+            "facts": [
+              {
+                "url": "/read/en/delhi_capitals",
+                "contentUrl": "/static/content/en/delhi_capitals.json",
+                "label": "Delhi Capitals",
+                "id": "ODeE358O7nf",
+                "value": {
+                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Delhi_Capitals#/media/File:Delhi_Capitals_Logo.svg",
+                    "altText": "Image of Delhi Capitals"
+                  }
+                }
               }
             ]
           }

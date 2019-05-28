@@ -83,7 +83,7 @@
     },
     {
       "title": "Style of play",
-      "id": "caY6uoLoEct",
+      "id": "nPMTxYc8Npr",
       "cardType": "simple",
       "facts": [
         {
@@ -104,16 +104,57 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "G0EsPUau7jq",
+          "id": "S4eS-1_MnVi",
           "note": "",
           "value": {
-            "label": "",
+            "label": ""
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "1KVow5YfdRX",
+          "note": "",
+          "value": {
+            "label": "Shoaib Malik made his ODI debut on  14 October 1999 vs West Indies.",
             "facts": [
               {
-                "label": "",
-                "id": "3dePdIka8zy"
+                "url": "/read/en/west_indies_cricket_team",
+                "contentUrl": "/static/content/en/west_indies_cricket_team.json",
+                "label": "West Indies cricket team",
+                "id": "QTR7-Ef8nGE",
+                "value": {
+                  "label": "The West Indies cricket team, traditionally known as the Windies, is a multi-national cricket team representing the Anglophone Caribbean region and administered by Cricket West Indies. The players on this composite team are selected from a chain of fifteen Caribbean territories",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/West_Indies_cricket_team#/media/File:West_indies_cricket_board_flag.png",
+                    "altText": "Image of West Indies cricket team"
+                  }
+                }
               }
             ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "lb5xj8A7qWh",
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "World Cup Apperance",
+          "id": "9BSioF7stZS",
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "1Ug6nLkGMLU",
+          "note": "",
+          "value": {
+            "label": ""
           }
         }
       ]

@@ -63,7 +63,7 @@
     },
     {
       "title": "Style of play",
-      "id": "_SapLvt52kt",
+      "id": "IZ11vTmf0OW",
       "cardType": "simple",
       "facts": [
         {
@@ -80,14 +80,62 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "wRGdtsVvWaa",
+          "id": "csrwb35SvyL",
           "note": "2007",
           "value": {
-            "label": "",
+            "label": ""
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "kpKRZAmYZeZ",
+          "note": "2014",
+          "value": {
+            "label": "Jadhav made his international debut in 2014 versus Sri Lanka",
             "facts": [
               {
-                "label": "",
-                "id": "zMNUNVfMcld"
+                "url": "/read/en/sri_lanka_national_cricket_team",
+                "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
+                "label": "Sri Lanka national cricket team",
+                "id": "oLUVoxtrIBa",
+                "value": {
+                  "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Sri_Lanka_national_cricket_team#/media/File:Sri_Lanka_Cricket_Cap_Insignia.svg",
+                    "altText": "Image of Sri Lanka national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "93D-WQOQQoH",
+          "note": "2017",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "ID1YmJsFjPO",
+          "note": "2010",
+          "value": {
+            "label": "Jadhav won the Man of the match award in his debut IPL match",
+            "facts": [
+              {
+                "url": "/read/en/delhi_capitals",
+                "contentUrl": "/static/content/en/delhi_capitals.json",
+                "label": "Delhi Capitals",
+                "id": "9znRh8XVFlL",
+                "value": {
+                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Delhi_Capitals#/media/File:Delhi_Capitals_Logo.svg",
+                    "altText": "Image of Delhi Capitals"
+                  }
+                }
               }
             ]
           }

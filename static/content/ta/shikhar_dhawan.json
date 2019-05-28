@@ -81,7 +81,7 @@
     },
     {
       "title": "Style of play",
-      "id": "b1tU-OSe5hs",
+      "id": "pMUpAimbuzEa",
       "cardType": "simple",
       "facts": [
         {
@@ -102,16 +102,118 @@
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "yisjY_8iN9S",
+          "id": "mCRB4jtOhFL9",
           "note": "2004",
           "value": {
-            "label": "தவான் 2004 ஆம் ஆண்டு ரஞ்சி டிராஃபி போட்டியில் தன்னுடைய முதல் பர்ஸ் கிளாஸ் போட்டியை டெல்லி அணிக்காக ஆடினார்.",
+            "label": "தவான் 2004 ஆம் ஆண்டு ரஞ்சி டிராஃபி போட்டியில் தன்னுடைய முதல் பர்ஸ் கிளாஸ் போட்டியை டெல்லி அணிக்காக ஆடினார்."
+          }
+        },
+        {
+          "label": "தேசிய அணி அறிமுகம்",
+          "id": "eyL421SiKLzg",
+          "note": "2010",
+          "value": {
+            "label": "தவான் ஆஸ்திரேலியாவுக்கு எதிராக தன்னுடைய முதல் சர்வதேச ஒரு நாள் போட்டியில் ஆடினார், ஆனால் பூஜ்ஜியத்தில் அவுட் ஆகிவிட்டார்."
+          }
+        },
+        {
+          "label": "முதல் ஐசிசி போட்டி ",
+          "id": "RlYDdTbyyMmJ",
+          "note": "2013",
+          "value": {
+            "label": "தவான், தொடரில் அதிக ரன்களைக் குவித்ததுடன், தொடரின் ஆட்ட நாயகன் என்ற பட்டதையும் பெற்றார்.",
             "facts": [
               {
-                "label": "https://en.wikipedia.org/wiki/Ranji_Trophy",
-                "id": "8U0KP3pQZ2C"
+                "url": "/read/ta/icc_champions_trophy",
+                "contentUrl": "/static/content/ta/icc_champions_trophy.json",
+                "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி",
+                "id": "PEHmktsLxCXP",
+                "value": {
+                  "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி என்பது இன்டர்நேஷனல் கிரிக்கெட் கவுன்சிலால் (ஐசிசி) நடத்தப்படும் ஒன் டே இன்டர்நேஷனல் (ODI) கிரிக்கெட் டோர்னமென்ட் ஆகும். இது கிரிக்கெட் உலகக்கோப்பைக்கு அடுத்தபடியாக முக்கியமாக கருதப்படும் டோர்னமென்ட் ஆகும். 2002-ஆம் ஆண்டு இதன் பெயர் சேம்பியன்ஸ் டிராஃபி என்று மாற்றப்பட்டது.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/ICC_Champions_Trophy#/media/File:ICC_Champions_Trophy_cricket_logo.png",
+                    "altText": "Image of ஐசிசி சேம்பியன்ஸ் டிராஃபி"
+                  }
+                }
               }
             ]
+          }
+        },
+        {
+          "label": "விளையாட்டில் போராட்டம்",
+          "id": "nQ4barsxyQhs",
+          "note": "2014",
+          "value": {
+            "label": "தவானால் பெரிய ரன்களை எடுக்க முடியாத காரணத்தால் அவர் அணியிலிருந்து விலக்கப்பட்டார்.",
+            "facts": [
+              {
+                "url": "/read/ta/icc_t20_world_cup",
+                "contentUrl": "/static/content/ta/icc_t20_world_cup.json",
+                "label": "ஐசிசி டி20 உலகக் கோப்பை",
+                "id": "DcuOzHnFVcbT",
+                "value": {
+                  "label": "ஐசிசி டி20 உலகக் கோப்பை (முன்னர் ஐசிசி வேர்ல்ட் ட்வென்டி20 என்று அழைக்கப்படும்), ட்வென்டி20 இன்டர்நேஷனல் கிரிக்கெட்டின் இன்டர்நேஷனல் சேம்பியன்ஷிப் ஆகும். டோர்னமென்ட்டில் தற்போது 16 அணிகள் இடம்பெற்றுள்ளன. அதில் கொடுக்கப்பட்ட நேரத்திற்குள் தரவரிசையில் முதல் எட்டு இடங்களைப் பிடித்த அணிகளும், டி20 உலகக் கோப்பை குவாலிஃபயர் மூலமாக தேர்வு செய்யப்பட்ட நான்கு அணிகளும் உள்ளடங்கும்.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/ICC_T20_World_Cup#/media/File:ICC_World_Twenty20_Trophy.jpg",
+                    "altText": "Image of ஐசிசி டி20 உலகக் கோப்பை"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "உலகக் கோப்பை",
+          "id": "Sko88xhCzSmR",
+          "note": "2015",
+          "value": {
+            "label": "தவான் 2015 உலகக் கோப்பையில் ஐந்தாவது அதிக ரன் எடுத்தவர் என்ற பெருமையைப் பெற்றார்.",
+            "facts": [
+              {
+                "url": "/read/ta/2015_cricket_world_cup",
+                "contentUrl": "/static/content/ta/2015_cricket_world_cup.json",
+                "label": "2015 கிரிக்கெட் உலகக் கோப்பை",
+                "id": "KmAE2Cf5qtxP",
+                "value": {
+                  "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/2015_Cricket_World_Cup#/media/File:2015_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2015 கிரிக்கெட் உலகக் கோப்பை"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "சேம்பியன்ஸ் டிராஃபி",
+          "id": "x3j6ALoYmtrR",
+          "note": "தவான், டோர்னமெண்டில் அதிக ரன்களை குவித்து தங்க பேட் வென்றார்.",
+          "value": {
+            "label": "சேம்பியன்ஸ் டிராஃபி",
+            "facts": [
+              {
+                "url": "/read/ta/icc_champions_trophy",
+                "contentUrl": "/static/content/ta/icc_champions_trophy.json",
+                "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி",
+                "id": "Y1BD0MKsBfSN",
+                "value": {
+                  "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி என்பது இன்டர்நேஷனல் கிரிக்கெட் கவுன்சிலால் (ஐசிசி) நடத்தப்படும் ஒன் டே இன்டர்நேஷனல் (ODI) கிரிக்கெட் டோர்னமென்ட் ஆகும். இது கிரிக்கெட் உலகக்கோப்பைக்கு அடுத்தபடியாக முக்கியமாக கருதப்படும் டோர்னமென்ட் ஆகும். 2002-ஆம் ஆண்டு இதன் பெயர் சேம்பியன்ஸ் டிராஃபி என்று மாற்றப்பட்டது.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/ICC_Champions_Trophy#/media/File:ICC_Champions_Trophy_cricket_logo.png",
+                    "altText": "Image of ஐசிசி சேம்பியன்ஸ் டிராஃபி"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2008",
+          "id": "RG_N-TrtdKM4",
+          "note": "டெல்லி டேர்டெவில்ஸ்",
+          "value": {
+            "label": "டெல்லி டேர்டெவில்ஸ்"
           }
         }
       ]

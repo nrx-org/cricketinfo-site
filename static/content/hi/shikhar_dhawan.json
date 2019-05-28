@@ -81,7 +81,7 @@
     },
     {
       "title": "Style of play",
-      "id": "fhrqMT4sAy2",
+      "id": "hp8sANwpIfJK",
       "cardType": "simple",
       "facts": [
         {
@@ -102,16 +102,118 @@
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": "KvfP_SNjlrF",
+          "id": "oItBKZztnttG",
           "note": "2004",
           "value": {
-            "label": "धवन ने 2004 में दिल्ली की ओर से आंध्र के खिलाफ रणजी ट्रॉफी क्रिकेट में पदार्पण किया। ",
+            "label": "धवन ने 2004 में दिल्ली की ओर से आंध्र के खिलाफ रणजी ट्रॉफी क्रिकेट में पदार्पण किया। "
+          }
+        },
+        {
+          "label": "राष्ट्रीय टीम ",
+          "id": "-CPBb1lM5URV",
+          "note": "2010",
+          "value": {
+            "label": "धवन ने आस्ट्रेलिया के विरुद्ध अंतराष्ट्रीय मैच में पदार्पण किया लेकिन इसमें वे शून्य रन पर आउट हो गए। "
+          }
+        },
+        {
+          "label": "चैंपियंस ट्रॉफी ",
+          "id": "6R_PgUR-NJ5P",
+          "note": "2013",
+          "value": {
+            "label": "धवन ने टुर्नामेंट में सबसे ज्यादा रन बनाए और उन्हें प्लेयर ऑफ द टुर्नामेंट घोषित किया गया। ",
             "facts": [
               {
-                "label": "रणजी ट्रॉफी ",
-                "id": "7QDoX2Zn6UX"
+                "url": "/read/hi/icc_champions_trophy",
+                "contentUrl": "/static/content/hi/icc_champions_trophy.json",
+                "label": "आईसीसी चैंपियंस ट्रॉफी",
+                "id": "45dmQXjI8zI3",
+                "value": {
+                  "label": "आईसीसी चैंपियंस ट्रॉफी एक दिवसीय अंतर्राष्ट्रीय (वनडे) क्रिकेट टूर्नामेंट था जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया जाता था, जो क्रिकेट विश्व कप के बाद दूसरा सबसे महत्वपूर्ण आयोजन था। 2002 में इसका नाम बदलकर चैंपियंस ट्रॉफी रखा गया।",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/ICC_Champions_Trophy#/media/File:ICC_Champions_Trophy_cricket_logo.png",
+                    "altText": "Image of आईसीसी चैंपियंस ट्रॉफी"
+                  }
+                }
               }
             ]
+          }
+        },
+        {
+          "label": "अच्छा खेल नहीं पा रहे हैं\n",
+          "id": "rr9CnRwCAOZR",
+          "note": "2014",
+          "value": {
+            "label": "धवन ज्यादा रन बनाने में नाकाम रहे और उन्हें टीम से हटा दिया गया। ",
+            "facts": [
+              {
+                "url": "/read/hi/icc_t20_world_cup",
+                "contentUrl": "/static/content/hi/icc_t20_world_cup.json",
+                "label": "आईसीसी टी20 विश्व कप",
+                "id": "vDY68Z-UbFwC",
+                "value": {
+                  "label": "आईसीसी टी20 विश्व कप (जिसे पहले आईसीसी विश्व ट्वेंटी20 के नाम से जाना जाता था) ट्वेंटी20 क्रिकेट की अंतर्राष्ट्रीय चैम्पियनशिप है। वर्तमान में इस टूर्नामेंट में 16 टीमें भाग लेती हैं, जिसमें आठ टीमें दी गई समय सीमा के भीतर रैंकिंग के शीर्ष आठ में रहने वाली टीमें होती हैं जबकि चार अन्य टीमें टी20 विश्व कप क्वालीफायर के माध्यम से चुनी जातीं हैं।",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/ICC_T20_World_Cup#/media/File:ICC_World_Twenty20_Trophy.jpg",
+                    "altText": "Image of आईसीसी टी20 विश्व कप"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "विश्व कप ",
+          "id": "f-XEqdaDthuu",
+          "note": "2015",
+          "value": {
+            "label": "2015 के विश्व कप में सबसे ज्यादा रन बनाने वाले बल्लेबाजों में धवन पांचवें स्थान पर रहे। ",
+            "facts": [
+              {
+                "url": "/read/hi/2015_cricket_world_cup",
+                "contentUrl": "/static/content/hi/2015_cricket_world_cup.json",
+                "label": "2015 क्रिकेट विश्व कप",
+                "id": "2l1Gs9Qmry4S",
+                "value": {
+                  "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/2015_Cricket_World_Cup#/media/File:2015_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2015 क्रिकेट विश्व कप"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "चैंपियंस ट्रॉफी ",
+          "id": "Gp46pypqqO7u",
+          "note": "टुर्नामेंट में सबसे ज्यादा रन बनाने वाले धवन को गोल्डन बैट का पुरस्कार प्राप्त हुआ। ",
+          "value": {
+            "label": "चैंपियंस ट्रॉफी ",
+            "facts": [
+              {
+                "url": "/read/hi/icc_champions_trophy",
+                "contentUrl": "/static/content/hi/icc_champions_trophy.json",
+                "label": "आईसीसी चैंपियंस ट्रॉफी",
+                "id": "KVmIhqI0xXFh",
+                "value": {
+                  "label": "आईसीसी चैंपियंस ट्रॉफी एक दिवसीय अंतर्राष्ट्रीय (वनडे) क्रिकेट टूर्नामेंट था जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया जाता था, जो क्रिकेट विश्व कप के बाद दूसरा सबसे महत्वपूर्ण आयोजन था। 2002 में इसका नाम बदलकर चैंपियंस ट्रॉफी रखा गया।",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/ICC_Champions_Trophy#/media/File:ICC_Champions_Trophy_cricket_logo.png",
+                    "altText": "Image of आईसीसी चैंपियंस ट्रॉफी"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "IPL डेब्यू",
+          "id": "1vjsD2QX_1VT",
+          "note": "2008",
+          "value": {
+            "label": "आशीष नेहरा के बदले शिखर धवन को 2009 में मुंबई इंडियंस द्वारा खरीदा गया, इससे पहले तक वे देल्ही डेयरडेविल्स के लिए खेले।  "
           }
         }
       ]

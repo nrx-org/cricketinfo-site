@@ -43,11 +43,58 @@ const ALMA_MATER_DESCRIPTION_KEY =
 const ALMA_MATER_IMAGE_KEY = "Link to image of school";
 const STYLE_OF_PLAY_KEY = "Style of play";
 const STYLE_OF_PLAY_IMAGE_KEY = "Relevant image link";
-const PHASE_1_KEY = "Phase 1 Title";
-const PHASE_1_CARD_ID_KEY = "Phase 1 card-  ID";
-const PHASE_1_DEBUT_YEAR_KEY = "Phase 1 - First Class Debut Year";
-const PHASE_1_SINGLE_LINE_KEY = "Phase 1 - Single line description";
-const PHASE_1_DEBUT_TROPHY_KEY = "Phase 1 - Name of the debut trophy";
+
+const PHASES = [
+  {
+    KEY: "Phase 1 Title",
+    CARD_ID_KEY: "Phase 1 card-  ID",
+    YEAR_KEY: "Phase 1 - First Class Debut Year",
+    DESCRIPTION_KEY: "Phase 1 - Single line description",
+    CARD_LABEL_KEY: "Phase 1 - Name of the debut trophy"
+  },
+  {
+    KEY: "Phase 2 Title",
+    CARD_ID_KEY: "Phase 2 card-  ID",
+    YEAR_KEY: "Phase 2 - National team debut year in cricket form 1",
+    DESCRIPTION_KEY: "Phase 2 - Single line description",
+    CARD_LABEL_KEY: "Phase 2 - Opposition team"
+  },
+  {
+    KEY: "Phase 3 Title",
+    CARD_ID_KEY: "Phase 3 card-  ID",
+    YEAR_KEY: "Phase 3 -Year of the tournament",
+    DESCRIPTION_KEY: "Phase 3 - Single line description",
+    CARD_LABEL_KEY: "Phase 3 - Name of the ICC tournament"
+  },
+  {
+    KEY: "Phase 4 Title",
+    CARD_ID_KEY: "Phase 4 card-  ID",
+    YEAR_KEY: "Phase 4 -Year of the tournament",
+    DESCRIPTION_KEY: "Phase 4 - Single line description",
+    CARD_LABEL_KEY: "Phase 4 - Name of the ICC tournament"
+  },
+  {
+    KEY: "Phase 5 Title",
+    CARD_ID_KEY: "Phase 5 card-  ID",
+    YEAR_KEY: "Phase 5 -Year of the trophy",
+    DESCRIPTION_KEY: "Phase 5 - Single line description",
+    CARD_LABEL_KEY: "Phase 5 - Name of the ICC trophy"
+  },
+  {
+    KEY: "Phase 6 Title",
+    CARD_ID_KEY: "Phase 6 card-  ID",
+    YEAR_KEY: "Phase 6 -Year of the trophy",
+    DESCRIPTION_KEY: "Phase 6 - Single line description",
+    CARD_LABEL_KEY: "Phase 6 - Name of the ICC trophy"
+  },
+  {
+    KEY: "Phase 7 Title",
+    CARD_ID_KEY: "Phase 7 card-  ID",
+    YEAR_KEY: "Phase 7  -IPL debut year",
+    DESCRIPTION_KEY: "Phase 7 - Single line description",
+    CARD_LABEL_KEY: "Phase 7  -IPL debut team"
+  }
+];
 
 module.exports.exportPersonalities = () => {
   Object.keys(csvExports).forEach(lang => {
@@ -252,49 +299,46 @@ module.exports.exportPersonalities = () => {
       const careerPhasesSection = {
         title: "Phase(s)",
         cardType: "vertical_timeline",
-        facts: []
-      };
-
-      let phase1Fact = null;
-      if (record[PHASE_1_KEY]) {
-        phase1Fact = {
-          label: record[PHASE_1_KEY],
-          id: shortid.generate(),
-          note: record[PHASE_1_DEBUT_YEAR_KEY],
-          value: {
-            label: record[PHASE_1_SINGLE_LINE_KEY],
-            facts: [
-              {
-                label: record[PHASE_1_DEBUT_TROPHY_KEY],
-                id: shortid.generate()
-              }
-            ]
+        facts: PHASES.map(phase => {
+          if (!record[phase.KEY]) {
+            return null;
           }
-        };
 
-        const cardData = getCardInfoFromId(
-          idMap,
-          record[PHASE_1_CARD_ID_KEY],
-          lang
-        );
-        if (cardData) {
-          phase1Fact.value.facts[0].url = cardData.url;
-          phase1Fact.value.facts[0].contentUrl = cardData.contentUrl;
-          phase1Fact.value.facts[0] = {
-            ...phase1Fact.value.facts[0],
-            label: cardData.title,
+          const phaseFact = {
+            label: record[phase.KEY],
             id: shortid.generate(),
+            note: record[phase.YEAR_KEY],
             value: {
-              label: cardData.summary,
-              image: {
-                url: cardData.imageUrl,
-                altText: `Image of ${cardData.title}`
-              }
+              label: record[phase.DESCRIPTION_KEY]
             }
           };
-        }
-        careerPhasesSection.facts.push(phase1Fact);
-      }
+
+          const cardData = getCardInfoFromId(
+            idMap,
+            record[phase.CARD_ID_KEY],
+            lang
+          );
+          if (cardData) {
+            phaseFact.value.facts = [
+              {
+                url: cardData.url,
+                contentUrl: cardData.contentUrl,
+                label: cardData.title || record[phase.CARD_LABEL_KEY],
+                id: shortid.generate(),
+                value: {
+                  label: cardData.summary,
+                  image: {
+                    url: cardData.imageUrl,
+                    altText: `Image of ${cardData.title}`
+                  }
+                }
+              }
+            ];
+          }
+
+          return phaseFact;
+        }).filter(f => !!f)
+      };
 
       personality.sections.push(careerPhasesSection);
 
