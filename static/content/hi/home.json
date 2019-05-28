@@ -1,128 +1,15 @@
 {
   "translations": [
     {
-      "url": "/wiki/hi",
+      "url": "/read/hi",
       "title": "हिंदी में पढ़े"
     },
     {
-      "url": "/wiki/ta",
+      "url": "/read/ta",
       "title": "தமிழ் படிக்கவும்"
     }
   ],
-  "participatingTeams": [
-    {
-      "label": "India",
-      "id": "0",
-      "value": {
-        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-        "url": "/wiki/en/Team_India",
-        "image": {
-          "url": "/static/images/india.png",
-          "altText": "An image of the Indian flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "England",
-      "id": "1",
-      "value": {
-        "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
-          "altText": "An image of the English flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "Australia",
-      "id": "2",
-      "value": {
-        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
-          "altText": "An image of the Australian flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "Pakistan",
-      "id": "2",
-      "value": {
-        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
-          "altText": "An image of the Pakistani flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "India",
-      "id": "0",
-      "value": {
-        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-        "url": "/wiki/en/Team_India",
-        "image": {
-          "url": "/static/images/india.png",
-          "altText": "An image of the Indian flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "England",
-      "id": "1",
-      "value": {
-        "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
-          "altText": "An image of the English flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "Australia",
-      "id": "2",
-      "value": {
-        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
-          "altText": "An image of the Australian flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "Pakistan",
-      "id": "2",
-      "value": {
-        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
-          "altText": "An image of the Pakistani flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    }
-  ],
+  "participatingTeams": [],
   "playingTeams": [
     {
       "label": "India",
@@ -260,11 +147,9 @@
   },
   "popularArticles": {
     "title": "Popular Articles",
-    "id": 1,
+    "id": "popularArticlesHome",
     "columns": [
       [
-        null,
-        null,
         {
           "label": "2007 क्रिकेट विश्व कप",
           "id": "P6",
@@ -290,9 +175,7 @@
               "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
-        }
-      ],
-      [
+        },
         {
           "label": "विराट कोहली",
           "id": "O1",
@@ -318,7 +201,9 @@
               "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
-        },
+        }
+      ],
+      [
         {
           "label": "रोहित शर्मा",
           "id": "O3",
@@ -344,9 +229,7 @@
               "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
-        }
-      ],
-      [
+        },
         {
           "label": "सचिन तेंदुलकर",
           "id": "O5",
@@ -372,7 +255,9 @@
               "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
-        },
+        }
+      ],
+      [
         {
           "label": "अनिल कुंबले",
           "id": "O7",
@@ -398,9 +283,7 @@
               "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
-        }
-      ],
-      [
+        },
         {
           "label": "राहुल द्रविड़",
           "id": "O9",
@@ -426,7 +309,9 @@
               "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
-        },
+        }
+      ],
+      [
         {
           "label": "मुंबई",
           "id": "G2",
@@ -452,9 +337,7 @@
               "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
-        }
-      ],
-      [
+        },
         {
           "label": "ऑस्ट्रेलिया",
           "id": "G4",
@@ -480,7 +363,9 @@
               "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
-        },
+        }
+      ],
+      [
         {
           "label": "दक्षिण अफ्रीका",
           "id": "G6",
@@ -506,9 +391,7 @@
               "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
-        }
-      ],
-      [
+        },
         {
           "label": "न्यूजीलैंड",
           "id": "G8",
@@ -534,20 +417,7 @@
               "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
-        },
-        null,
-        null
-      ],
-      [
-        null,
-        null,
-        null,
-        null
-      ],
-      [
-        null,
-        null,
-        null
+        }
       ]
     ]
   },
@@ -971,7 +841,7 @@
   ],
   "scheduledFacts": [
     {
-      "label": "अलोकप्रिय 36",
+      "label": "1975 के विश्व कप के पहले मैच में, सुनील गावस्कर ने इंग्लैंड के खिलाफ 174 गेंदों पर अलोकप्रिय 36 रन बनाए।",
       "dates": [
         "2019-06-09"
       ],
@@ -985,7 +855,7 @@
       }
     },
     {
-      "label": "भारत की कोई जीत नहीं",
+      "label": "भारत प्रतियोगिता में एक भी मैच जीतने में असफल रहा, टेस्‍ट-खेलने वाले देशों में से ऐसा प्रदर्शन करने वाला एकमात्र देश।",
       "dates": [
         "2019-06-13"
       ],
@@ -999,7 +869,7 @@
       }
     },
     {
-      "label": "ग्रुप स्‍टेज से आगे",
+      "label": "भारत टूर्नामेंट के पहले के संस्करणों में कभी भी ग्रुप स्टेज से आगे नहीं बढ़ा था, लेकिन उसने 1983 विश्व कप जीता।",
       "dates": [
         "2019-06-16"
       ],
@@ -1013,7 +883,7 @@
       }
     },
     {
-      "label": "सबसे कम स्कोर के लक्ष्‍य को बचाया",
+      "label": "भारत ने फाइनल में 183 रन बनाए थे जो विश्व कप फाइनल में किसी भी देश द्वारा सबसे कम स्कोर बनाकर जीतना है।",
       "dates": [
         "2019-06-22"
       ],
@@ -1027,7 +897,7 @@
       }
     },
     {
-      "label": "करीबी मुकाबला",
+      "label": "ऑस्ट्रेलिया ने अपने कट्टर प्रतिद्वंद्वी इंग्लैंड को कोलकाता के ईडन गार्डन में सबसे रोमांचक विश्व कप फाइनल में 7 रन से हराया।",
       "dates": [
         "2019-06-09",
         "2019-06-20",
@@ -1043,7 +913,7 @@
       }
     },
     {
-      "label": "रंगभेद की समाप्ति",
+      "label": "1992 विश्व कप में रंगभेद की समाप्ति के बाद दक्षिण अफ्रीका ने पहली बार हिस्सा लिया था।",
       "dates": [
         "2019-05-30",
         "2019-06-02",
@@ -1061,7 +931,7 @@
       }
     },
     {
-      "label": "1 गेंद पर 22 रन",
+      "label": "इंग्लैंड और दक्षिण अफ्रीका के बीच खेले गये बारिश से बाधित सेमीफाइनल मैच में, \"सबसे अधिक रन वाले ओवर\" विधि का उपयोग करके अंतिम स्कोर की गणना की गई थी – जिसमें 13 गेंदों पर 22 रन के आवश्यक स्कोर को घटाकर 1 गेंद पर 22 रन करते हुए, उस वर्ष दक्षिण अफ्रीका के विश्व कप जीतने के सपने समाप्त हो गये। ",
       "dates": [
         "2019-06-05",
         "2019-06-10",
@@ -1078,7 +948,7 @@
       }
     },
     {
-      "label": "मेजबान की जीत",
+      "label": "1996 विश्व कप में, श्रीलंका विश्व कप जीतने वाला पहला सह-मेजबान देश बना।",
       "dates": [
         "2019-06-01"
       ],
@@ -1092,7 +962,7 @@
       }
     },
     {
-      "label": "श्रीलंकाई क्रिकेट टीम",
+      "label": "1996 विश्व कप में, श्रीलंका विश्व कप जीतने वाला पहला सह-मेजबान देश बना।",
       "dates": [
         "2019-06-04",
         "2019-06-07",
@@ -1113,7 +983,7 @@
       }
     },
     {
-      "label": "युद्ध में",
+      "label": "विश्व कप के इस संस्करण में अपने मैच के दौरान भारत और पाकिस्तान आधिकारिक तौर पर राजनीतिक परिदृश्‍य के युद्ध में लिप्‍त थे, दो देशों का किसी भी तरह का खेल खेलने का यह एकमात्र उदाहरण है। ",
       "dates": [
         "2019-05-31",
         "2019-06-03",
@@ -1135,7 +1005,7 @@
       }
     },
     {
-      "label": "युद्ध में",
+      "label": "विश्व कप के इस संस्करण में अपने मैच के दौरान भारत और पाकिस्तान आधिकारिक तौर पर राजनीतिक परिदृश्‍य के युद्ध में लिप्‍त थे, दो देशों का किसी भी तरह का खेल खेलने का यह एकमात्र उदाहरण है। ",
       "dates": [
         "2019-06-27"
       ],
@@ -1149,7 +1019,7 @@
       }
     },
     {
-      "label": "अजेय ऑस्ट्रेलिया",
+      "label": "टूर्नामेंट में ऑस्ट्रेलिया ने लगातार जीत के रिकॉर्ड के बढ़ाकर 29 लगातार जीत तक पहुंचाया। ",
       "dates": [
         "2019-06-01",
         "2019-06-12",
@@ -1166,7 +1036,7 @@
       }
     },
     {
-      "label": "निराशाजनक भारतीय प्रदर्शन",
+      "label": "1979 के बाद पहली बार भारत ग्रुप स्‍टेज में क्वालीफाई करने में असफल रहा।",
       "dates": [
         "2019-06-30"
       ],
@@ -1180,7 +1050,7 @@
       }
     },
     {
-      "label": "घरेलू मैदान पर जीत",
+      "label": "भारत घरेलू मैदान पर विश्व कप जीतने वाला पहला देश बना। ",
       "dates": [
         "2019-07-02"
       ],
@@ -1194,7 +1064,7 @@
       }
     },
     {
-      "label": "सबसे युवा खिलाड़ी",
+      "label": "केन विलियमसन सभी टेस्ट खेलने वाले देशों के खिलाफ शतक लगाने वाले सबसे युवा खिलाड़ी हैं",
       "dates": [
         "2019-06-01"
       ],
@@ -1208,7 +1078,7 @@
       }
     },
     {
-      "label": "300+",
+      "label": "भारतीय क्रिकेट टीम ने 300+ स्कोर का सबसे अधिक 90 बार स्कोर करने का रिकॉर्ड बनाया है।",
       "dates": [
         "2019-06-05",
         "2019-07-06"
@@ -1223,7 +1093,7 @@
       }
     },
     {
-      "label": "चार विश्व कप फाइनल",
+      "label": "ऑस्ट्रेलियाई टीम ने 1996 से 2007 के बीच लगातार चार विश्व कप फाइनल खेलने का रिकॉर्ड बनाया।",
       "dates": [
         "2019-06-06",
         "2019-06-15"
@@ -1238,7 +1108,7 @@
       }
     },
     {
-      "label": "सबसे पुरानी क्रिकेट टीम",
+      "label": "इंग्लैंड का प्रतिनिधित्व करने का दावा करने वाली पहली टीम का रिकॉर्ड 9 जुलाई 1739 से मिलता है। ",
       "dates": [
         "2019-05-30",
         "2019-06-03",
@@ -1260,7 +1130,7 @@
       }
     },
     {
-      "label": "वेस्ट इंडीज की ताकत",
+      "label": "वेस्टइंडीज एक बहु-राष्ट्रीय क्रिकेट टीम है, जो पंद्रह कैरेबियाई क्षेत्रों की श्रृंखला से चुने गए खिलाड़ियों के साथ एंग्लोफोन कैरेबियन क्षेत्र का प्रतिनिधित्व करती है।",
       "dates": [
         "2019-05-31",
         "2019-06-06",
@@ -1282,114 +1152,257 @@
       }
     }
   ],
-  "constantFacts": [
-    {
-      "label": "Mallard ducks live 5 to 10 years in the wild and 8+ years in captivity.",
-      "id": "rahulDravid",
-      "value": {
-        "url": "/wiki/en/Rahul_Dravid",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rahul_Dravid.jpg",
-          "altText": "A picture of Rahul Dravid sitting in front of a washbasin"
-        }
-      }
-    }
-  ],
+  "constantFacts": [],
   "scheduledFeaturedPlayers": [
     {
-      "label": "Virat Kohli",
-      "id": "viratKohli",
-      "date": "2019-05-10",
+      "label": "कगिसो रबाडा",
+      "id": "कगिसो_रबाडा",
+      "dates": [
+        "2019-06-02",
+        "2019-06-10",
+        "2019-06-15",
+        "2019-06-19",
+        "2019-06-23",
+        "2019-06-28",
+        "2019-07-06"
+      ],
       "value": {
-        "url": "/wiki/en/Virat_Kohli",
+        "url": "/read/hi/kagiso_rabada",
+        "label": "कैगिसो रबाडा एक दक्षिण अफ्रीकी अन्‍तर्राष्ट्रीय क्रिकेटर हैं जो क्रिकेट के सभी प्रारूपों में खेलते हैं। रबाडा को केजी उपनाम से जाना जाता है, वे एक तेज गेंदबाज हैं और हाईवेल्ड लायंस के लिए घरेलू क्रिकेट खेलते हैं।",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/VIRAT_KHOLI_%2815573134623%29.jpg",
-          "altText": "Kohli looks upset"
-        }
-      }
-    }
-  ],
-  "constantFeaturedPlayers": [
-    {
-      "label": "Rahul Dravid",
-      "id": "rahulDravid",
-      "value": {
-        "url": "/wiki/en/Rahul_Dravid",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rahul_Dravid.jpg",
-          "altText": "A picture of Rahul Dravid sitting in front of a washbasin"
+          "altText": "Image for कगिसो रबाडा",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Microsoft Dhoni",
-      "id": "msDhoni",
+      "label": "शोएब मलिक",
+      "id": "शोएब_मलिक",
+      "dates": [
+        "2019-05-31",
+        "2019-06-07",
+        "2019-06-12",
+        "2019-06-23",
+        "2019-06-26",
+        "2019-06-29",
+        "2019-07-05"
+      ],
       "value": {
-        "url": "/wiki/en/MS_Dhoni",
+        "url": "/read/hi/shoaib_malik",
+        "label": "शोएब मलिक एक पाकिस्तानी क्रिकेटर हैं और 2007 से 2009 तक पाकिस्तान टीम के कप्तान रहे हैं।",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Dhoni_at_Reebok_event.jpg",
-          "altText": "Dhoni is very bored"
+          "altText": "Image for शोएब मलिक",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Sourav Ganguly",
-      "id": "souravGanguly",
+      "label": "लसिथ मलिंगा",
+      "id": "लसिथ_मलिंगा",
+      "dates": [
+        "2019-06-01",
+        "2019-06-04",
+        "2019-06-07",
+        "2019-06-11",
+        "2019-06-15",
+        "2019-06-28",
+        "2019-07-01"
+      ],
       "value": {
-        "url": "/wiki/en/Sourav_Ganguly",
+        "url": "/read/hi/lasith_malinga",
+        "label": "सेपारामाडू लसिथ मलिंगा पेशेवर श्रीलंकाई क्रिकेटर हैं और वर्तमान में श्रीलंका की अन्‍तर्राष्ट्रीय टी20 टीम के कप्तान हैं।",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sourav_Ganguly_crop.jpg",
-          "altText": "Young Sourav Ganguly looks at things"
+          "altText": "Image for लसिथ मलिंगा",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "राशिद खान",
+      "id": "राशिद_खान",
+      "dates": [
+        "2019-06-01",
+        "2019-06-04",
+        "2019-06-08",
+        "2019-06-15",
+        "2019-06-24",
+        "2019-06-29",
+        "2019-07-04"
+      ],
+      "value": {
+        "url": "/read/hi/rashid_khan",
+        "label": "राशिद खान अरमान, जो राशिद खान के नाम से जाने जाते हैं, एक अफगानी क्रिकेटर हैं और वर्तमान में अन्‍तर्राष्ट्रीय ट्वेंटी20 (टी20आई) की राष्‍ट्रीय टीम के कप्तान हैं।",
+        "image": {
+          "altText": "Image for राशिद खान",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "मुशफिकुर रहीम ",
+      "id": "मुशफिकुर_रहीम_",
+      "dates": [
+        "2019-06-02",
+        "2019-06-05",
+        "2019-06-11",
+        "2019-06-17",
+        "2019-06-20",
+        "2019-06-24",
+        "2019-07-05"
+      ],
+      "value": {
+        "url": "/read/hi/mushfiqur_rahim",
+        "label": "मोहम्मद मुशफिकुर रहीम बांग्लादेशी क्रिकेटर हैं और बांग्लादेश की राष्ट्रीय क्रिकेट टीम के पूर्व कप्तान हैं।",
+        "image": {
+          "altText": "Image for मुशफिकुर रहीम ",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "विराट कोहली",
+      "id": "विराट_कोहली",
+      "dates": [
+        "2019-06-05",
+        "2019-06-09",
+        "2019-06-13",
+        "2019-06-16",
+        "2019-06-22",
+        "2019-06-27",
+        "2019-06-30",
+        "2019-07-02",
+        "2019-07-06"
+      ],
+      "value": {
+        "url": "/read/hi/virat_kohli",
+        "label": "विराट कोहली भारत के एक  अन्‍तर्राष्ट्रीय क्रिकेटर हैं जो वर्तमान में भारत की राष्ट्रीय टीम के कप्तान हैं।",
+        "image": {
+          "altText": "Image for विराट कोहली",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "महेन्द्र सिंह धोनी",
+      "id": "महेन्द्र_सिंह_धोनी",
+      "dates": [
+        "2019-06-05",
+        "2019-06-09",
+        "2019-06-13",
+        "2019-06-16",
+        "2019-06-22",
+        "2019-06-27",
+        "2019-06-30",
+        "2019-07-02",
+        "2019-07-06"
+      ],
+      "value": {
+        "url": "/read/hi/mahendra_singh_dhoni",
+        "label": "महेंद्र सिंह धोनी एक भारतीय अन्‍तर्राष्ट्रीय क्रिकेटर हैं, जिन्होंने 2007 से 2016 तक सीमित ओवरों के प्रारूप में और 2008 से 2014 तक टेस्ट क्रिकेट में भारतीय राष्ट्रीय टीम की कप्तानी की।",
+        "image": {
+          "altText": "Image for महेन्द्र सिंह धोनी",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     }
   ],
+  "constantFeaturedPlayers": [],
   "allPlayers": [
     {
-      "label": "Rahul Dravid",
-      "id": "rahulDravid",
+      "label": "कगिसो रबाडा",
+      "id": "कगिसो_रबाडा",
       "value": {
-        "label": "A dog’s nose print is unique, much like a person’s fingerprint.",
-        "url": "/wiki/en/Rahul_Dravid",
+        "url": "/read/hi/kagiso_rabada",
+        "label": "कैगिसो रबाडा एक दक्षिण अफ्रीकी अन्‍तर्राष्ट्रीय क्रिकेटर हैं जो क्रिकेट के सभी प्रारूपों में खेलते हैं। रबाडा को केजी उपनाम से जाना जाता है, वे एक तेज गेंदबाज हैं और हाईवेल्ड लायंस के लिए घरेलू क्रिकेट खेलते हैं।",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rahul_Dravid.jpg",
-          "altText": "A picture of Rahul Dravid sitting in front of a washbasin"
+          "altText": "Image for कगिसो रबाडा",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Microsoft Dhoni",
-      "id": "msDhoni",
+      "label": "शोएब मलिक",
+      "id": "शोएब_मलिक",
       "value": {
-        "label": "Dog eyes have a part called the tapetum lucidum, allowing night vision.",
-        "url": "/wiki/en/MS_Dhoni",
+        "url": "/read/hi/shoaib_malik",
+        "label": "शोएब मलिक एक पाकिस्तानी क्रिकेटर हैं और 2007 से 2009 तक पाकिस्तान टीम के कप्तान रहे हैं।",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Dhoni_at_Reebok_event.jpg",
-          "altText": "Dhoni is very bored"
+          "altText": "Image for शोएब मलिक",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Virat Kohli",
-      "id": "viratKohli",
+      "label": "लसिथ मलिंगा",
+      "id": "लसिथ_मलिंगा",
       "value": {
-        "label": "Human blood pressure goes down when petting a dog. And so does the dog’s.",
-        "url": "/wiki/en/Virat_Kohli",
+        "url": "/read/hi/lasith_malinga",
+        "label": "सेपारामाडू लसिथ मलिंगा पेशेवर श्रीलंकाई क्रिकेटर हैं और वर्तमान में श्रीलंका की अन्‍तर्राष्ट्रीय टी20 टीम के कप्तान हैं।",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/VIRAT_KHOLI_%2815573134623%29.jpg",
-          "altText": "Kohli looks upset"
+          "altText": "Image for लसिथ मलिंगा",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Sourav Ganguly",
-      "id": "souravGanguly",
+      "label": "राशिद खान",
+      "id": "राशिद_खान",
       "value": {
-        "label": "Dogs are not colorblind. They also see blue and yellow.",
-        "url": "/wiki/en/Sourav_Ganguly",
+        "url": "/read/hi/rashid_khan",
+        "label": "राशिद खान अरमान, जो राशिद खान के नाम से जाने जाते हैं, एक अफगानी क्रिकेटर हैं और वर्तमान में अन्‍तर्राष्ट्रीय ट्वेंटी20 (टी20आई) की राष्‍ट्रीय टीम के कप्तान हैं।",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sourav_Ganguly_crop.jpg",
-          "altText": "Young Sourav Ganguly looks at things"
+          "altText": "Image for राशिद खान",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "मुशफिकुर रहीम ",
+      "id": "मुशफिकुर_रहीम_",
+      "value": {
+        "url": "/read/hi/mushfiqur_rahim",
+        "label": "मोहम्मद मुशफिकुर रहीम बांग्लादेशी क्रिकेटर हैं और बांग्लादेश की राष्ट्रीय क्रिकेट टीम के पूर्व कप्तान हैं।",
+        "image": {
+          "altText": "Image for मुशफिकुर रहीम ",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "विराट कोहली",
+      "id": "विराट_कोहली",
+      "value": {
+        "url": "/read/hi/virat_kohli",
+        "label": "विराट कोहली भारत के एक  अन्‍तर्राष्ट्रीय क्रिकेटर हैं जो वर्तमान में भारत की राष्ट्रीय टीम के कप्तान हैं।",
+        "image": {
+          "altText": "Image for विराट कोहली",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "महेन्द्र सिंह धोनी",
+      "id": "महेन्द्र_सिंह_धोनी",
+      "value": {
+        "url": "/read/hi/mahendra_singh_dhoni",
+        "label": "महेंद्र सिंह धोनी एक भारतीय अन्‍तर्राष्ट्रीय क्रिकेटर हैं, जिन्होंने 2007 से 2016 तक सीमित ओवरों के प्रारूप में और 2008 से 2014 तक टेस्ट क्रिकेट में भारतीय राष्ट्रीय टीम की कप्तानी की।",
+        "image": {
+          "altText": "Image for महेन्द्र सिंह धोनी",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     }

@@ -1,128 +1,15 @@
 {
   "translations": [
     {
-      "url": "/wiki/hi",
+      "url": "/read/hi",
       "title": "हिंदी में पढ़े"
     },
     {
-      "url": "/wiki/ta",
+      "url": "/read/ta",
       "title": "தமிழ் படிக்கவும்"
     }
   ],
-  "participatingTeams": [
-    {
-      "label": "India",
-      "id": "0",
-      "value": {
-        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-        "url": "/wiki/en/Team_India",
-        "image": {
-          "url": "/static/images/india.png",
-          "altText": "An image of the Indian flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "England",
-      "id": "1",
-      "value": {
-        "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
-          "altText": "An image of the English flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "Australia",
-      "id": "2",
-      "value": {
-        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
-          "altText": "An image of the Australian flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "Pakistan",
-      "id": "2",
-      "value": {
-        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
-          "altText": "An image of the Pakistani flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "India",
-      "id": "0",
-      "value": {
-        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-        "url": "/wiki/en/Team_India",
-        "image": {
-          "url": "/static/images/india.png",
-          "altText": "An image of the Indian flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "England",
-      "id": "1",
-      "value": {
-        "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
-          "altText": "An image of the English flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "Australia",
-      "id": "2",
-      "value": {
-        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
-          "altText": "An image of the Australian flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "Pakistan",
-      "id": "2",
-      "value": {
-        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
-          "altText": "An image of the Pakistani flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    }
-  ],
+  "participatingTeams": [],
   "playingTeams": [
     {
       "label": "India",
@@ -260,11 +147,9 @@
   },
   "popularArticles": {
     "title": "Popular Articles",
-    "id": 1,
+    "id": "popularArticlesHome",
     "columns": [
       [
-        null,
-        null,
         {
           "label": "2007 கிரிக்கெட் உலகக் கோப்பை",
           "id": "P6",
@@ -290,9 +175,7 @@
               "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
-        }
-      ],
-      [
+        },
         {
           "label": "விராட் கோலி",
           "id": "O1",
@@ -318,7 +201,9 @@
               "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
-        },
+        }
+      ],
+      [
         {
           "label": "ரோஹித் ஷர்மா",
           "id": "O3",
@@ -344,9 +229,7 @@
               "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
-        }
-      ],
-      [
+        },
         {
           "label": "சச்சின் டெண்டுல்கர்",
           "id": "O5",
@@ -372,7 +255,9 @@
               "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
-        },
+        }
+      ],
+      [
         {
           "label": "அனில் கும்ப்ளே",
           "id": "O7",
@@ -398,9 +283,7 @@
               "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
-        }
-      ],
-      [
+        },
         {
           "label": "ராகுல் டிராவிட்",
           "id": "O9",
@@ -426,7 +309,9 @@
               "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
-        },
+        }
+      ],
+      [
         {
           "label": "மும்பை",
           "id": "G2",
@@ -452,9 +337,7 @@
               "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
-        }
-      ],
-      [
+        },
         {
           "label": "ஆஸ்திரேலியா",
           "id": "G4",
@@ -480,7 +363,9 @@
               "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
-        },
+        }
+      ],
+      [
         {
           "label": "தென்னாப்பிரிக்கா",
           "id": "G6",
@@ -506,9 +391,7 @@
               "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
-        }
-      ],
-      [
+        },
         {
           "label": "நியூசிலாந்து",
           "id": "G8",
@@ -534,20 +417,7 @@
               "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
-        },
-        null,
-        null
-      ],
-      [
-        null,
-        null,
-        null,
-        null
-      ],
-      [
-        null,
-        null,
-        null
+        }
       ]
     ]
   },
@@ -971,7 +841,7 @@
   ],
   "scheduledFacts": [
     {
-      "label": "பிரபலமற்ற 36",
+      "label": "1976 உலகக் கோப்பையின் தொடக்க ஆட்டத்தில் சுனில் கவாஸ்கர் இங்கிலாந்துக்கு எதிரான ஆட்டத்தில் 174 பந்துகளில் 36 ரன்கள் அடித்தார்.",
       "dates": [
         "2019-06-09"
       ],
@@ -985,7 +855,7 @@
       }
     },
     {
-      "label": "இந்தியாவுக்கு வெற்றிகள் இல்லை",
+      "label": "இந்தப் போட்டியில் டெஸ்ட் ஆடும் நாடுகளில் இந்தியா மட்டுமே ஒரு ஆட்டத்தில் கூட வெற்றி பெறத் தவறியது, ",
       "dates": [
         "2019-06-13"
       ],
@@ -999,7 +869,7 @@
       }
     },
     {
-      "label": "குரூப் பிரிவுகளின் நிலைகளுக்கு அப்பால்",
+      "label": "இந்த உலகக் கோப்பைப் போட்டியின் முந்தைய போட்டிகளில் குரூப் நிலைகளுக்கு அப்பால் இந்தியா தகுதிபெறவில்லை ஆனால் 1983 உலகக் கோப்பையை வென்றது.",
       "dates": [
         "2019-06-16"
       ],
@@ -1013,7 +883,7 @@
       }
     },
     {
-      "label": "குறைந்த ஸ்கோர் வெற்றி",
+      "label": "இறுதிப் போட்டியில் இந்தியா 183 ரன்கள் எடுத்தது, இது உலகக் கோப்பை இறுதிப் போட்டியில் ஒரு நாடு எடுத்த மிகக் குறைந்த ஸ்கோர் ஆகும்.",
       "dates": [
         "2019-06-22"
       ],
@@ -1027,7 +897,7 @@
       }
     },
     {
-      "label": "அருகாமை வெற்றி",
+      "label": "கொல்கத்தாவின் ஈடன் கார்டன்ஸில் நடந்த உலகக் கோப்பை இறுதி ஆட்டத்தில் இங்கிலாந்துக்கு எதிராக ஆஸ்திரேலியா 7 ரன்கள் வித்தியாசத்தில் வெற்றி பெற்றது.",
       "dates": [
         "2019-06-09",
         "2019-06-20",
@@ -1043,7 +913,7 @@
       }
     },
     {
-      "label": "நிறவெறி முடிவு",
+      "label": "நிறவெறி முடிவடைந்த பிறகு 1992 உலகக் கோப்பையில் தென்னாப்பிரிக்கா முதன் முதலாகப் பங்கேற்றது",
       "dates": [
         "2019-05-30",
         "2019-06-02",
@@ -1061,7 +931,7 @@
       }
     },
     {
-      "label": "2 பந்தில் 22 ரன்கள்",
+      "label": "இங்கிலாந்து மற்றும் தென்னாப்பிரிக்கா இடையே மழையால் பாதிக்கப்பட்ட அரையிறுதிப் போட்டியில், இறுதி ஸ்கோர் \"மிகவும் ஆக்கப்பூர்வமான ஓவர்கள்\" முறையைப் பயன்படுத்திக் கணக்கிடப்பட்டது -   13 பந்துகளில் 22 ரன்கள் என இருந்ததை 1 பந்தில் 22 ரன்கள் எடுக்க வேண்டும் எனக் குறைத்தது, அந்த வருடத்தில் தென்னாப்பிரிக்காவின் உலகக் கோப்பைக் கனவை முடிவுக்குக் கொண்டு வந்தது.",
       "dates": [
         "2019-06-05",
         "2019-06-10",
@@ -1078,7 +948,7 @@
       }
     },
     {
-      "label": "போட்டி நடத்தியவர் பெற்ற வெற்றி",
+      "label": "1996 உலகக் கோப்பைப் போட்டியில், முதல் முறையாகப் போட்டியை இணைந்து நடத்திய இலங்கையே உலகக் கோப்பையை வென்றது.",
       "dates": [
         "2019-06-01"
       ],
@@ -1092,7 +962,7 @@
       }
     },
     {
-      "label": "இலங்கை கிரிக்கெட் அணி",
+      "label": "1996 உலகக் கோப்பைப் போட்டியில், முதல் முறையாகப் போட்டியை இணைந்து நடத்திய இலங்கையே உலகக் கோப்பையை வென்றது.",
       "dates": [
         "2019-06-04",
         "2019-06-07",
@@ -1113,7 +983,7 @@
       }
     },
     {
-      "label": "போரின் போது",
+      "label": "இந்த உலகக் கோப்பைப் போட்டியின் போது, இந்தியாவும் பாகிஸ்தானும் அதிகாரப்பூர்வமாகப் போரில் ஈடுபட்டிருந்தன, அரசியல் சூழ்நிலையில், இரு நாடுகள் போரில் இருக்கும்போதும் ஒரு விளையாட்டில் ஈடுபட்டிருப்பது இந்த முறை மட்டுமே.",
       "dates": [
         "2019-05-31",
         "2019-06-03",
@@ -1135,7 +1005,7 @@
       }
     },
     {
-      "label": "போரின் போது",
+      "label": "இந்த உலகக் கோப்பைப் போட்டியின் போது, இந்தியாவும் பாகிஸ்தானும் அதிகாரப்பூர்வமாகப் போரில் ஈடுபட்டிருந்தன, அரசியல் சூழ்நிலையில், இரு நாடுகள் போரில் இருக்கும்போதும் ஒரு விளையாட்டில் ஈடுபட்டிருப்பது இந்த முறை மட்டுமே.",
       "dates": [
         "2019-06-27"
       ],
@@ -1149,7 +1019,7 @@
       }
     },
     {
-      "label": "தோற்கடிக்கப்படாத ஆஸ்திரேலியா",
+      "label": "இந்தப் போட்டியில் ஆஸ்திரேலியாவின் தோற்கடிக்கப்படாத சாதனை என்பது உலகக் கோப்பைப் போட்டிகளில் தொடர்ச்சியாகப் பெற்ற 29 வெற்றிகள் அவர்களுடைய மொத்த வெற்றிகளின் எண்ணிக்கையை அதிகரித்தது.",
       "dates": [
         "2019-06-01",
         "2019-06-12",
@@ -1166,7 +1036,7 @@
       }
     },
     {
-      "label": "மோசமான இந்திய ஆட்டம்",
+      "label": "1979 ஆம் ஆண்டு முதல், இந்தியா குரூப் நிலையில் தகுதி பெறாதது இதுவே முதல் தடவையாகும்.",
       "dates": [
         "2019-06-30"
       ],
@@ -1180,7 +1050,7 @@
       }
     },
     {
-      "label": "சொந்த மண்ணில் வெற்றி",
+      "label": "சொந்த மண்ணில் உலகக் கோப்பையை வென்ற முதல் நாடு இந்தியாவாகும்.",
       "dates": [
         "2019-07-02"
       ],
@@ -1194,7 +1064,7 @@
       }
     },
     {
-      "label": "இளம் வீரர்",
+      "label": "கேன் வில்லியம்சன் டெஸ்ட் விளையாடும் அனைத்து நாடுகளுக்கும் எதிராகச் செஞ்சுரி அடித்த இளம் வீரர்",
       "dates": [
         "2019-06-01"
       ],
@@ -1208,7 +1078,7 @@
       }
     },
     {
-      "label": "300+",
+      "label": "இந்தியக் கிரிக்கெட் அணி 300+ ரன்களை அதிக தடவை பதிவு செய்திருக்கிறது: 90 முறை.",
       "dates": [
         "2019-06-05",
         "2019-07-06"
@@ -1223,7 +1093,7 @@
       }
     },
     {
-      "label": "நான்கு உலகக் கோப்பை இறுதிப்பபோட்டிகள்",
+      "label": "1996 முதல் 2007 வரை நான்கு தொடர்ச்சியான உலகக் கோப்பை இறுதிப் போட்டிகளில் ஆஸ்திரேலிய அணி ஆடிய சாதனையைக் கொண்டுள்ளது..",
       "dates": [
         "2019-06-06",
         "2019-06-15"
@@ -1238,7 +1108,7 @@
       }
     },
     {
-      "label": "பழமையான கிரிக்கெட் அணி",
+      "label": "இங்கிலாந்தைப் பிரதிநிதித்துவம் செய்யும் உரிமையுடன் ஓர் அணியின் பதிவுசெய்யப்பட்ட முதல் நிகழ்வு ஜூலை 9, 1739-இலிருந்து கிடைக்கிறது.",
       "dates": [
         "2019-05-30",
         "2019-06-03",
@@ -1260,7 +1130,7 @@
       }
     },
     {
-      "label": "மேற்கிந்திய தீவுகளின் பலம்",
+      "label": "பதினைந்து கரிபீயப் பிரதேசங்களின் சங்கிலியிலிருந்து தேர்ந்தெடுக்கப்பட்ட வீரர்களுடன் அங்க்லோஃபோன் கரீபியன் பிராந்தியத்தைப் பிரதிநிதித்துவப்படுத்தும் ஒரு பல-தேசியக் கிரிக்கெட் அணி மேற்கிந்தியத் தீவுகள் ஆகும்.",
       "dates": [
         "2019-05-31",
         "2019-06-06",
@@ -1282,114 +1152,257 @@
       }
     }
   ],
-  "constantFacts": [
-    {
-      "label": "Mallard ducks live 5 to 10 years in the wild and 8+ years in captivity.",
-      "id": "rahulDravid",
-      "value": {
-        "url": "/wiki/en/Rahul_Dravid",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rahul_Dravid.jpg",
-          "altText": "A picture of Rahul Dravid sitting in front of a washbasin"
-        }
-      }
-    }
-  ],
+  "constantFacts": [],
   "scheduledFeaturedPlayers": [
     {
-      "label": "Virat Kohli",
-      "id": "viratKohli",
-      "date": "2019-05-10",
+      "label": "ககிசோ ரபாடா",
+      "id": "ககிசோ_ரபாடா",
+      "dates": [
+        "2019-06-02",
+        "2019-06-10",
+        "2019-06-15",
+        "2019-06-19",
+        "2019-06-23",
+        "2019-06-28",
+        "2019-07-06"
+      ],
       "value": {
-        "url": "/wiki/en/Virat_Kohli",
+        "url": "/read/ta/kagiso_rabada",
+        "label": "காகிசோ ரபாடா தென்னாப்பிரிக்கவைச் சேர்ந்த சர்வதேச கிரிக்கெட் வீரர், இவர் அனைத்து ஃபார்மட்களிலும் விளையாடுகிறார். ரபாடா கேஜி என்ற செல்லப் பெயரால் அறியப்படுகிறார். இவர் ஒரு வேகப் பந்துவீச்சாளர், உள்ளூர் போட்டிகளில் ஹைவெல்டு லயன்ஸ் அணிக்கு விளையாடுகிறார்.",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/VIRAT_KHOLI_%2815573134623%29.jpg",
-          "altText": "Kohli looks upset"
-        }
-      }
-    }
-  ],
-  "constantFeaturedPlayers": [
-    {
-      "label": "Rahul Dravid",
-      "id": "rahulDravid",
-      "value": {
-        "url": "/wiki/en/Rahul_Dravid",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rahul_Dravid.jpg",
-          "altText": "A picture of Rahul Dravid sitting in front of a washbasin"
+          "altText": "Image for ககிசோ ரபாடா",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Microsoft Dhoni",
-      "id": "msDhoni",
+      "label": "ஷோயப் மாலிக்",
+      "id": "ஷோயப்_மாலிக்",
+      "dates": [
+        "2019-05-31",
+        "2019-06-07",
+        "2019-06-12",
+        "2019-06-23",
+        "2019-06-26",
+        "2019-06-29",
+        "2019-07-05"
+      ],
       "value": {
-        "url": "/wiki/en/MS_Dhoni",
+        "url": "/read/ta/shoaib_malik",
+        "label": "ஷோயப் மாலிக் ஒரு பாகிஸ்தான் கிரிக்கெட் வீரர், பாகிஸ்தான் அணியின் முன்னாள் கேப்டன், 2007 முதல் 2009 வரை கேப்டனாக இருந்திருக்கிறார்.",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Dhoni_at_Reebok_event.jpg",
-          "altText": "Dhoni is very bored"
+          "altText": "Image for ஷோயப் மாலிக்",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Sourav Ganguly",
-      "id": "souravGanguly",
+      "label": "லசித் மலிங்கா",
+      "id": "லசித்_மலிங்கா",
+      "dates": [
+        "2019-06-01",
+        "2019-06-04",
+        "2019-06-07",
+        "2019-06-11",
+        "2019-06-15",
+        "2019-06-28",
+        "2019-07-01"
+      ],
       "value": {
-        "url": "/wiki/en/Sourav_Ganguly",
+        "url": "/read/ta/lasith_malinga",
+        "label": "செபரமாது லசித் மலிங்கா இலங்கையைச் சேர்ந்த தொழில்முறை கிரிக்கெட் வீரர், அவர் இலங்கை டி20 கிரிக்கெட் அணியின் தற்போதைய கேப்டன்.",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sourav_Ganguly_crop.jpg",
-          "altText": "Young Sourav Ganguly looks at things"
+          "altText": "Image for லசித் மலிங்கா",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "ரஷீத் கான்",
+      "id": "ரஷீத்_கான்",
+      "dates": [
+        "2019-06-01",
+        "2019-06-04",
+        "2019-06-08",
+        "2019-06-15",
+        "2019-06-24",
+        "2019-06-29",
+        "2019-07-04"
+      ],
+      "value": {
+        "url": "/read/ta/rashid_khan",
+        "label": "ரஷீத் கான் அர்மான், பொதுவாக ரஷீத் கான் என அறியப்படுகிறார், இவர் ஒரு ஆப்கானிஸ்தான் கிரிக்கெட் வீரர், அவர்களின் தேசிய அணிக்கு டி20 சர்வதேசப் போட்டிகளில் கேப்டனாக இருக்கிறார்.",
+        "image": {
+          "altText": "Image for ரஷீத் கான்",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "முஷ்ஃபிகுர் ரஹீம்",
+      "id": "முஷ்ஃபிகுர்_ரஹீம்",
+      "dates": [
+        "2019-06-02",
+        "2019-06-05",
+        "2019-06-11",
+        "2019-06-17",
+        "2019-06-20",
+        "2019-06-24",
+        "2019-07-05"
+      ],
+      "value": {
+        "url": "/read/ta/mushfiqur_rahim",
+        "label": "மொஹம்மத் முஷ்ஃபிகுர் ரஹீம் ஒரு பங்களாதேஷ் கிரிக்கெட் வீரர், அவர் பங்களாதேஷ் கிரிக்கெட் அணியின் முன்னாள் கேப்டன்.",
+        "image": {
+          "altText": "Image for முஷ்ஃபிகுர் ரஹீம்",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "விராட் கோலி",
+      "id": "விராட்_கோலி",
+      "dates": [
+        "2019-06-05",
+        "2019-06-09",
+        "2019-06-13",
+        "2019-06-16",
+        "2019-06-22",
+        "2019-06-27",
+        "2019-06-30",
+        "2019-07-02",
+        "2019-07-06"
+      ],
+      "value": {
+        "url": "/read/ta/virat_kohli",
+        "label": "விராட் கோலி இந்திய கிரிக்கெட் வீரர், அவர் இந்திய அணியின் கேப்டனாக இருக்கிறார்.",
+        "image": {
+          "altText": "Image for விராட் கோலி",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "மகேந்திர சிங் தோனி",
+      "id": "மகேந்திர_சிங்_தோனி",
+      "dates": [
+        "2019-06-05",
+        "2019-06-09",
+        "2019-06-13",
+        "2019-06-16",
+        "2019-06-22",
+        "2019-06-27",
+        "2019-06-30",
+        "2019-07-02",
+        "2019-07-06"
+      ],
+      "value": {
+        "url": "/read/ta/mahendra_singh_dhoni",
+        "label": "மகேந்திர சிங் தோனி இந்தியாவைச் சேர்ந்த சர்வதேச கிரிக்கெட் வீரர், அவர் 2007 முதல் 2016 வரை ஒருநாள் போட்டிகளிலும் 2008 முதல் 2014 வரை டெஸ்ட் போட்டிகளிலும் இந்திய கிரிக்கெட் அணியின் கேப்டனாக இருந்திருக்கிறார்.",
+        "image": {
+          "altText": "Image for மகேந்திர சிங் தோனி",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     }
   ],
+  "constantFeaturedPlayers": [],
   "allPlayers": [
     {
-      "label": "Rahul Dravid",
-      "id": "rahulDravid",
+      "label": "ககிசோ ரபாடா",
+      "id": "ககிசோ_ரபாடா",
       "value": {
-        "label": "A dog’s nose print is unique, much like a person’s fingerprint.",
-        "url": "/wiki/en/Rahul_Dravid",
+        "url": "/read/ta/kagiso_rabada",
+        "label": "காகிசோ ரபாடா தென்னாப்பிரிக்கவைச் சேர்ந்த சர்வதேச கிரிக்கெட் வீரர், இவர் அனைத்து ஃபார்மட்களிலும் விளையாடுகிறார். ரபாடா கேஜி என்ற செல்லப் பெயரால் அறியப்படுகிறார். இவர் ஒரு வேகப் பந்துவீச்சாளர், உள்ளூர் போட்டிகளில் ஹைவெல்டு லயன்ஸ் அணிக்கு விளையாடுகிறார்.",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rahul_Dravid.jpg",
-          "altText": "A picture of Rahul Dravid sitting in front of a washbasin"
+          "altText": "Image for ககிசோ ரபாடா",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Microsoft Dhoni",
-      "id": "msDhoni",
+      "label": "ஷோயப் மாலிக்",
+      "id": "ஷோயப்_மாலிக்",
       "value": {
-        "label": "Dog eyes have a part called the tapetum lucidum, allowing night vision.",
-        "url": "/wiki/en/MS_Dhoni",
+        "url": "/read/ta/shoaib_malik",
+        "label": "ஷோயப் மாலிக் ஒரு பாகிஸ்தான் கிரிக்கெட் வீரர், பாகிஸ்தான் அணியின் முன்னாள் கேப்டன், 2007 முதல் 2009 வரை கேப்டனாக இருந்திருக்கிறார்.",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Dhoni_at_Reebok_event.jpg",
-          "altText": "Dhoni is very bored"
+          "altText": "Image for ஷோயப் மாலிக்",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Virat Kohli",
-      "id": "viratKohli",
+      "label": "லசித் மலிங்கா",
+      "id": "லசித்_மலிங்கா",
       "value": {
-        "label": "Human blood pressure goes down when petting a dog. And so does the dog’s.",
-        "url": "/wiki/en/Virat_Kohli",
+        "url": "/read/ta/lasith_malinga",
+        "label": "செபரமாது லசித் மலிங்கா இலங்கையைச் சேர்ந்த தொழில்முறை கிரிக்கெட் வீரர், அவர் இலங்கை டி20 கிரிக்கெட் அணியின் தற்போதைய கேப்டன்.",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/VIRAT_KHOLI_%2815573134623%29.jpg",
-          "altText": "Kohli looks upset"
+          "altText": "Image for லசித் மலிங்கா",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Sourav Ganguly",
-      "id": "souravGanguly",
+      "label": "ரஷீத் கான்",
+      "id": "ரஷீத்_கான்",
       "value": {
-        "label": "Dogs are not colorblind. They also see blue and yellow.",
-        "url": "/wiki/en/Sourav_Ganguly",
+        "url": "/read/ta/rashid_khan",
+        "label": "ரஷீத் கான் அர்மான், பொதுவாக ரஷீத் கான் என அறியப்படுகிறார், இவர் ஒரு ஆப்கானிஸ்தான் கிரிக்கெட் வீரர், அவர்களின் தேசிய அணிக்கு டி20 சர்வதேசப் போட்டிகளில் கேப்டனாக இருக்கிறார்.",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sourav_Ganguly_crop.jpg",
-          "altText": "Young Sourav Ganguly looks at things"
+          "altText": "Image for ரஷீத் கான்",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "முஷ்ஃபிகுர் ரஹீம்",
+      "id": "முஷ்ஃபிகுர்_ரஹீம்",
+      "value": {
+        "url": "/read/ta/mushfiqur_rahim",
+        "label": "மொஹம்மத் முஷ்ஃபிகுர் ரஹீம் ஒரு பங்களாதேஷ் கிரிக்கெட் வீரர், அவர் பங்களாதேஷ் கிரிக்கெட் அணியின் முன்னாள் கேப்டன்.",
+        "image": {
+          "altText": "Image for முஷ்ஃபிகுர் ரஹீம்",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "விராட் கோலி",
+      "id": "விராட்_கோலி",
+      "value": {
+        "url": "/read/ta/virat_kohli",
+        "label": "விராட் கோலி இந்திய கிரிக்கெட் வீரர், அவர் இந்திய அணியின் கேப்டனாக இருக்கிறார்.",
+        "image": {
+          "altText": "Image for விராட் கோலி",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "மகேந்திர சிங் தோனி",
+      "id": "மகேந்திர_சிங்_தோனி",
+      "value": {
+        "url": "/read/ta/mahendra_singh_dhoni",
+        "label": "மகேந்திர சிங் தோனி இந்தியாவைச் சேர்ந்த சர்வதேச கிரிக்கெட் வீரர், அவர் 2007 முதல் 2016 வரை ஒருநாள் போட்டிகளிலும் 2008 முதல் 2014 வரை டெஸ்ட் போட்டிகளிலும் இந்திய கிரிக்கெட் அணியின் கேப்டனாக இருந்திருக்கிறார்.",
+        "image": {
+          "altText": "Image for மகேந்திர சிங் தோனி",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     }

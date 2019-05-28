@@ -23,21 +23,24 @@ const csvExports = {
     quiz: { path: "./csv/home_quiz.en.csv" },
     strategy: { path: "./csv/home_strategy.csv" },
     popular_articles: { path: "./csv/home_popular_articles.csv" },
-    interesting_articles: { path: "./csv/home_interesting_articles.csv" }
+    interesting_articles: { path: "./csv/home_interesting_articles.csv" },
+    featured_players: { path: "./csv/home_featured_players.csv" }
   },
   hi: {
     facts: { path: "./csv/home_facts.hi.csv" },
     quiz: { path: "./csv/home_quiz.hi.csv" },
     strategy: { path: "./csv/home_strategy.csv" },
     popular_articles: { path: "./csv/home_popular_articles.csv" },
-    interesting_articles: { path: "./csv/home_interesting_articles.csv" }
+    interesting_articles: { path: "./csv/home_interesting_articles.csv" },
+    featured_players: { path: "./csv/home_featured_players.csv" }
   },
   ta: {
     facts: { path: "./csv/home_facts.ta.csv" },
     quiz: { path: "./csv/home_quiz.ta.csv" },
     strategy: { path: "./csv/home_strategy.csv" },
     popular_articles: { path: "./csv/home_popular_articles.csv" },
-    interesting_articles: { path: "./csv/home_interesting_articles.csv" }
+    interesting_articles: { path: "./csv/home_interesting_articles.csv" },
+    featured_players: { path: "./csv/home_featured_players.csv" }
   }
 };
 
@@ -75,6 +78,7 @@ const HOME_FACTS_ARTICLE_ID = "Article ID";
 
 const HOME_POPULAR_ARTICLES_ARTICLEID = "Article Code";
 const HOME_INTERESTING_ARTICLES_ARTICLEID = "Article Code";
+const HOME_FEATURED_PLAYERS_ARTICLEID = "Article Code";
 
 const groupArr = (data, n) => {
   let group = [];
@@ -86,253 +90,344 @@ const groupArr = (data, n) => {
   return group;
 };
 
-Object.keys(csvExports).forEach(async lang => {
-  let homeJSON = require(`../static/content/home_schema.json`) || {};
-
-  const factsFileContent = fs.readFileSync(csvExports[lang].facts.path, "utf8");
-  const quizFileContent = fs.readFileSync(csvExports[lang].quiz.path, "utf8");
-  const strategyFileContent = fs.readFileSync(
-    csvExports[lang].strategy.path,
-    "utf8"
-  );
-  const popularArticlesFileContent = fs.readFileSync(
-    csvExports[lang].popular_articles.path,
-    "utf8"
-  );
-  const interestingArticlesFileContent = fs.readFileSync(
-    csvExports[lang].interesting_articles.path,
-    "utf8"
-  );
-
-  let factRecords = parse(factsFileContent, { columns: true, delimiter: "," });
-  const quizRecords = parse(quizFileContent, { columns: true, delimiter: "," });
-  const strategyRecords = parse(strategyFileContent, {
-    columns: true,
-    delimiter: ","
-  });
-  const popularArticlesRecords = parse(popularArticlesFileContent, {
-    columns: true,
-    delimiter: ","
-  });
-  const interestingArticlesRecords = parse(interestingArticlesFileContent, {
-    columns: true,
-    delimiter: ","
-  });
-
-  const getImagePathForArticle = async url => {
-    // TODO: Why did this stop working in half the places?
-    if (!url) {
-      return "/static/images/default_person.svg";
-    }
-    // const response = await fetch(url);
-    // const html = await response.text();
-    // const $ = cheerio.load(html);
-    // const imageURL = $(".fullMedia > p > a").attr("href");
-    // if (!imageURL) {
-    //   return null;
-    // }
-    const imageName = getFileNameFromURL(url);
-    const imageDirectory = `./static/images/home`;
-    const imagePath = `${imageDirectory}/${imageName}`;
-    if (lang === "en") {
-      const image = await fetch(url);
-      // const image = await fetch(imageURL);
-      if (!fs.existsSync(imageDirectory)) {
-        fs.mkdir(imageDirectory, err => {
-          if (err) throw err;
-        });
-      }
-      const imageFile = fs.createWriteStream(imagePath);
-      image.body.pipe(imageFile);
-    }
-    return imagePath.substring(1);
-  };
-
-  const getFactsRecordsWithImagesDownloaded = async () => {
-    return await Promise.all(
-      factRecords.map(async record => {
-        const imagePath = await getImagePathForArticle(
-          record[HOME_FACTS_RELEVANT_IMAGE]
-        );
-        record[HOME_FACTS_RELEVANT_IMAGE] = imagePath;
-        return record;
-      })
+const flatten = arr => {
+  return arr.reduce(function(flat, toFlatten) {
+    return flat.concat(
+      Array.isArray(toFlatten) ? flatten(toFlatten) : toFlatten
     );
-  };
+  }, []);
+};
 
-  const getDatesForIDFromStrategySheet = (id, type) => {
-    let dates = [];
+module.exports.exportHome = () => {
+  Object.keys(csvExports).forEach(async lang => {
+    let homeJSON = require(`../static/content/home_schema.json`) || {};
 
-    let arrayToCheck = null;
+    const factsFileContent = fs.readFileSync(
+      csvExports[lang].facts.path,
+      "utf8"
+    );
+    const quizFileContent = fs.readFileSync(csvExports[lang].quiz.path, "utf8");
+    const strategyFileContent = fs.readFileSync(
+      csvExports[lang].strategy.path,
+      "utf8"
+    );
+    const popularArticlesFileContent = fs.readFileSync(
+      csvExports[lang].popular_articles.path,
+      "utf8"
+    );
+    const interestingArticlesFileContent = fs.readFileSync(
+      csvExports[lang].interesting_articles.path,
+      "utf8"
+    );
 
-    strategyRecords.forEach((strategyRecord, index) => {
-      if (type === "STRATEGY_PLAYER_TO_WATCH")
-        arrayToCheck = [
-          strategyRecord[eval(`HOME_STRATEGY_${type}_1`)],
-          strategyRecord[eval(`HOME_STRATEGY_${type}_2`)],
-          strategyRecord[eval(`HOME_STRATEGY_${type}_3`)]
-        ];
-      else
-        arrayToCheck = [
-          strategyRecord[eval(`HOME_STRATEGY_${type}_1`)],
-          strategyRecord[eval(`HOME_STRATEGY_${type}_2`)]
-        ];
-
-      if (arrayToCheck.indexOf(id) > -1) {
-        let recordDateString = strategyRecord[HOME_STRATEGY_DATE];
-        if (!recordDateString.length) {
-          recordDateString = strategyRecords[index - 1][HOME_STRATEGY_DATE];
-        }
-        dates.push(
-          format(
-            parseDate(
-              recordDateString.split(",")[0] + " 2019",
-              "MMM dd yyyy",
-              new Date(),
-              { awareOfUnicodeTokens: true }
-            ),
-            "yyyy-MM-dd",
-            { awareOfUnicodeTokens: true }
-          )
-        );
-      }
+    let factRecords = parse(factsFileContent, {
+      columns: true,
+      delimiter: ","
     });
-    return dates;
-  };
+    const quizRecords = parse(quizFileContent, {
+      columns: true,
+      delimiter: ","
+    });
+    const strategyRecords = parse(strategyFileContent, {
+      columns: true,
+      delimiter: ","
+    });
+    const popularArticlesRecords = parse(popularArticlesFileContent, {
+      columns: true,
+      delimiter: ","
+    });
+    const interestingArticlesRecords = parse(interestingArticlesFileContent, {
+      columns: true,
+      delimiter: ","
+    });
 
-  // NEEDS TO BE CHANGED - NEED BETTER FACT -> ARTICLE MAPPING IN THE CSV
-  const getUrlFromArticleTitle = articleTitle => {
-    // const idMapRecord = findIdMapEntryByTitle(idMap, articleTitle, lang);
-    // console.log(articleTitle, idMapRecord && idMapRecord.title[lang]);
-    const englishSlug = getSluggedTitle(articleTitle);
-    return makeArticleUrl(lang, englishSlug);
-  };
-
-  factRecords = await getFactsRecordsWithImagesDownloaded();
-
-  factRecords = factRecords.map(factRecord => ({
-    label: factRecord[HOME_FACTS_HEADING],
-    dates: getDatesForIDFromStrategySheet(
-      factRecord[HOME_FACTS_FACTID],
-      "FACT_OF_THE_DAY"
-    ),
-    id: factRecord[HOME_FACTS_FACTID],
-    value: {
-      url: getUrlFromArticleTitle(factRecord[HOME_FACTS_LINKING_ARTICLE]),
-      image: {
-        url: factRecord[HOME_FACTS_RELEVANT_IMAGE],
-        altText: `Image for ${factRecord[HOME_FACTS_HEADING]}`
+    const getImagePathForArticle = async url => {
+      // TODO: Why did this stop working in half the places?
+      if (!url) {
+        return "/static/images/default_person.svg";
       }
-    }
-  }));
+      // const response = await fetch(url);
+      // const html = await response.text();
+      // const $ = cheerio.load(html);
+      // const imageURL = $(".fullMedia > p > a").attr("href");
+      // if (!imageURL) {
+      //   return null;
+      // }
+      const imageName = getFileNameFromURL(url);
+      const imageDirectory = `./static/images/home`;
+      const imagePath = `${imageDirectory}/${imageName}`;
+      if (lang === "en") {
+        const image = await fetch(url);
+        // const image = await fetch(imageURL);
+        if (!fs.existsSync(imageDirectory)) {
+          fs.mkdir(imageDirectory, err => {
+            if (err) throw err;
+          });
+        }
+        const imageFile = fs.createWriteStream(imagePath);
+        image.body.pipe(imageFile);
+      }
+      return imagePath.substring(1);
+    };
 
-  homeJSON.scheduledFacts = factRecords.filter(
-    factRecord => factRecord.dates.length > 0
-  );
+    const getFactsRecordsWithImagesDownloaded = async () => {
+      return await Promise.all(
+        factRecords.map(async record => {
+          const imagePath = await getImagePathForArticle(
+            record[HOME_FACTS_RELEVANT_IMAGE]
+          );
+          record[HOME_FACTS_RELEVANT_IMAGE] = imagePath;
+          return record;
+        })
+      );
+    };
 
-  homeJSON.quizQuestions = quizRecords.map(quizRecord => {
-    const relatedArticleInfo = getCardInfoFromId(
-      idMap,
-      quizRecord[HOME_QUIZ_ARTICLE_ID],
-      lang
+    const getDatesForIDFromStrategySheet = (id, type) => {
+      let dates = [];
+
+      let arrayToCheck = null;
+
+      strategyRecords.forEach((strategyRecord, index) => {
+        if (type === "STRATEGY_PLAYER_TO_WATCH")
+          arrayToCheck = [
+            strategyRecord[eval(`HOME_STRATEGY_${type}_1`)],
+            strategyRecord[eval(`HOME_STRATEGY_${type}_2`)],
+            strategyRecord[eval(`HOME_STRATEGY_${type}_3`)]
+          ];
+        else
+          arrayToCheck = [
+            strategyRecord[eval(`HOME_STRATEGY_${type}_1`)],
+            strategyRecord[eval(`HOME_STRATEGY_${type}_2`)]
+          ];
+
+        if (arrayToCheck.indexOf(id) > -1) {
+          let recordDateString = strategyRecord[HOME_STRATEGY_DATE];
+          if (!recordDateString.length) {
+            recordDateString = strategyRecords[index - 1][HOME_STRATEGY_DATE];
+          }
+          dates.push(
+            format(
+              parseDate(
+                recordDateString.split(",")[0] + " 2019",
+                "MMM dd yyyy",
+                new Date(),
+                { awareOfUnicodeTokens: true }
+              ),
+              "yyyy-MM-dd",
+              { awareOfUnicodeTokens: true }
+            )
+          );
+        }
+      });
+      return dates;
+    };
+
+    // NEEDS TO BE CHANGED - NEED BETTER FACT -> ARTICLE MAPPING IN THE CSV
+    const getUrlFromArticleTitle = articleTitle => {
+      // const idMapRecord = findIdMapEntryByTitle(idMap, articleTitle, lang);
+      // console.log(articleTitle, idMapRecord && idMapRecord.title[lang]);
+      const englishSlug = getSluggedTitle(articleTitle);
+      return makeArticleUrl(lang, englishSlug);
+    };
+
+    factRecords = await getFactsRecordsWithImagesDownloaded();
+
+    factRecords = factRecords.map(factRecord => ({
+      label: factRecord[HOME_FACTS_FACT],
+      dates: getDatesForIDFromStrategySheet(
+        factRecord[HOME_FACTS_FACTID],
+        "FACT_OF_THE_DAY"
+      ),
+      id: factRecord[HOME_FACTS_FACTID],
+      value: {
+        url: getUrlFromArticleTitle(factRecord[HOME_FACTS_LINKING_ARTICLE]),
+        image: {
+          url: factRecord[HOME_FACTS_RELEVANT_IMAGE],
+          altText: `Image for ${factRecord[HOME_FACTS_HEADING]}`
+        }
+      }
+    }));
+
+    homeJSON.scheduledFacts = factRecords.filter(
+      factRecord => factRecord.dates.length > 0
     );
 
-    return {
-      label: quizRecord[HOME_QUIZ_QUESTIONS],
-      id: getSluggedTitle(quizRecord[HOME_QUIZ_QUESTIONS]),
-      dates: getDatesForIDFromStrategySheet(
-        quizRecord[HOME_QUIZ_QNO],
-        "QUIZ_OF_THE_DAY"
-      ),
-      options: [
-        {
-          label: quizRecord[HOME_QUIZ_ANSWER_A]
-        },
-        {
-          label: quizRecord[HOME_QUIZ_ANSWER_B]
-        }
-      ],
-      answerIndex: quizRecord[HOME_QUIZ_CORRECT_ANSWER] === "A" ? 0 : 1,
-      relatedArticle: relatedArticleInfo
-        ? {
-            label: relatedArticleInfo.title,
-            value: {
-              label: relatedArticleInfo.summary,
-              url: relatedArticleInfo.url,
-              image: {
-                url: relatedArticleInfo.imageURL,
-                altText: `Image for ${relatedArticleInfo.title}`,
-                license:
-                  "Creative Commons Attribution-Share Alike 4.0 International",
-                licenseUrl:
-                  "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+    homeJSON.quizQuestions = quizRecords.map(quizRecord => {
+      const relatedArticleInfo = getCardInfoFromId(
+        idMap,
+        quizRecord[HOME_QUIZ_ARTICLE_ID],
+        lang
+      );
+
+      return {
+        label: quizRecord[HOME_QUIZ_QUESTIONS],
+        id: getSluggedTitle(quizRecord[HOME_QUIZ_QUESTIONS]),
+        dates: getDatesForIDFromStrategySheet(
+          quizRecord[HOME_QUIZ_QNO],
+          "QUIZ_OF_THE_DAY"
+        ),
+        options: [
+          {
+            label: quizRecord[HOME_QUIZ_ANSWER_A]
+          },
+          {
+            label: quizRecord[HOME_QUIZ_ANSWER_B]
+          }
+        ],
+        answerIndex: quizRecord[HOME_QUIZ_CORRECT_ANSWER] === "A" ? 0 : 1,
+        relatedArticle: relatedArticleInfo
+          ? {
+              label: relatedArticleInfo.title,
+              value: {
+                label: relatedArticleInfo.summary,
+                url: relatedArticleInfo.url,
+                image: {
+                  url: relatedArticleInfo.imageURL,
+                  altText: `Image for ${relatedArticleInfo.title}`,
+                  license:
+                    "Creative Commons Attribution-Share Alike 4.0 International",
+                  licenseUrl:
+                    "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+                }
               }
             }
-          }
-        : null
-    };
+          : null
+      };
+    });
+
+    homeJSON.popularArticles.columns = groupArr(
+      popularArticlesRecords
+        .map(popularArticlesRecord => {
+          const articleInfo = getCardInfoFromId(
+            idMap,
+            popularArticlesRecord[HOME_POPULAR_ARTICLES_ARTICLEID],
+            lang
+          );
+
+          return articleInfo
+            ? {
+                label: articleInfo.title,
+                id: popularArticlesRecord[HOME_POPULAR_ARTICLES_ARTICLEID],
+                url: articleInfo.url,
+                value: {
+                  label: articleInfo.summary,
+                  image: {
+                    url: articleInfo.imageURL,
+                    altText: `Image for ${articleInfo.title}`,
+                    license:
+                      "Creative Commons Attribution-Share Alike 4.0 International",
+                    licenseUrl:
+                      "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+                  }
+                }
+              }
+            : null;
+        })
+        .filter(Boolean),
+      4
+    );
+
+    homeJSON.interestingArticles = interestingArticlesRecords
+      .map(interestingArticlesRecord => {
+        const articleInfo = getCardInfoFromId(
+          idMap,
+          interestingArticlesRecord[HOME_INTERESTING_ARTICLES_ARTICLEID],
+          lang
+        );
+        return articleInfo
+          ? {
+              label: articleInfo.title,
+              id:
+                interestingArticlesRecord[HOME_INTERESTING_ARTICLES_ARTICLEID],
+              value: {
+                url: articleInfo.url,
+                label: articleInfo.summary,
+                image: {
+                  url: articleInfo.imageURL,
+                  altText: `Image for ${articleInfo.title}`,
+                  license:
+                    "Creative Commons Attribution-Share Alike 4.0 International",
+                  licenseUrl:
+                    "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+                }
+              }
+            }
+          : null;
+      })
+      .filter(Boolean);
+
+    let featuredPlayers = strategyRecords.map(strategyRecord => {
+      return [
+        strategyRecord[HOME_STRATEGY_PLAYER_TO_WATCH_1],
+        strategyRecord[HOME_STRATEGY_PLAYER_TO_WATCH_2],
+        strategyRecord[HOME_STRATEGY_PLAYER_TO_WATCH_3].length
+          ? strategyRecord[HOME_STRATEGY_PLAYER_TO_WATCH_3]
+          : null
+      ];
+    });
+
+    featuredPlayers = flatten(featuredPlayers).filter(Boolean);
+    featuredPlayers = [...new Set(featuredPlayers)];
+
+    homeJSON.allPlayers = featuredPlayers
+      .map(featuredPlayer => {
+        const articleInfo = getCardInfoFromId(idMap, featuredPlayer, lang);
+
+        return articleInfo
+          ? {
+              label: articleInfo.title,
+              id: getSluggedTitle(articleInfo.title),
+              value: {
+                url: articleInfo.url,
+                label: articleInfo.summary,
+                image: {
+                  url: articleInfo.imageURL,
+                  altText: `Image for ${articleInfo.title}`,
+                  license:
+                    "Creative Commons Attribution-Share Alike 4.0 International",
+                  licenseUrl:
+                    "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+                }
+              }
+            }
+          : null;
+      })
+      .filter(Boolean);
+
+    homeJSON.scheduledFeaturedPlayers = featuredPlayers
+      .map(featuredPlayer => {
+        const articleInfo = getCardInfoFromId(idMap, featuredPlayer, lang);
+
+        const dates = getDatesForIDFromStrategySheet(
+          featuredPlayer,
+          "PLAYER_TO_WATCH"
+        );
+
+        return articleInfo && dates.length
+          ? {
+              label: articleInfo.title,
+              id: getSluggedTitle(articleInfo.title),
+              dates: dates,
+              value: {
+                url: articleInfo.url,
+                label: articleInfo.summary,
+                image: {
+                  url: articleInfo.imageURL,
+                  altText: `Image for ${articleInfo.title}`,
+                  license:
+                    "Creative Commons Attribution-Share Alike 4.0 International",
+                  licenseUrl:
+                    "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+                }
+              }
+            }
+          : null;
+      })
+      .filter(Boolean);
+
+    fs.writeFileSync(
+      `./static/content/${lang}/home.json`,
+      JSON.stringify(homeJSON, null, 2)
+    );
   });
-
-  homeJSON.popularArticles.columns = groupArr(
-    popularArticlesRecords.map(popularArticlesRecord => {
-      const articleInfo = getCardInfoFromId(
-        idMap,
-        popularArticlesRecord[HOME_POPULAR_ARTICLES_ARTICLEID],
-        lang
-      );
-
-      return articleInfo
-        ? {
-            label: articleInfo.title,
-            id: popularArticlesRecord[HOME_POPULAR_ARTICLES_ARTICLEID],
-            url: articleInfo.url,
-            value: {
-              label: articleInfo.summary,
-              image: {
-                url: articleInfo.imageURL,
-                altText: `Image for ${articleInfo.title}`,
-                license:
-                  "Creative Commons Attribution-Share Alike 4.0 International",
-                licenseUrl:
-                  "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-              }
-            }
-          }
-        : null;
-    }),
-    4
-  );
-
-  homeJSON.interestingArticles = interestingArticlesRecords.map(
-    interestingArticlesRecord => {
-      const articleInfo = getCardInfoFromId(
-        idMap,
-        interestingArticlesRecord[HOME_INTERESTING_ARTICLES_ARTICLEID],
-        lang
-      );
-      return articleInfo
-        ? {
-            label: articleInfo.title,
-            id: interestingArticlesRecord[HOME_INTERESTING_ARTICLES_ARTICLEID],
-            value: {
-              url: articleInfo.url,
-              label: articleInfo.summary,
-              image: {
-                url: articleInfo.imageURL,
-                altText: `Image for ${articleInfo.title}`,
-                license:
-                  "Creative Commons Attribution-Share Alike 4.0 International",
-                licenseUrl:
-                  "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-              }
-            }
-          }
-        : null;
-    }
-  ).filter(Boolean);
-
-  fs.writeFileSync(
-    `./static/content/${lang}/home.json`,
-    JSON.stringify(homeJSON, null, 2)
-  );
-});
+};
