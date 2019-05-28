@@ -20,6 +20,13 @@ const makeArticleUrl = (lang, slug) => `/read/${lang}/${slug}`;
 
 const makeContentUrl = (lang, slug) => `/static/content/${lang}/${slug}.json`;
 
+const getFileNameFromURL = url => {
+  if (!url) return null;
+  const filename = url.match(/File:(.*)/);
+  if (filename) return filename[1];
+  return null;
+};
+
 const getCardInfoFromId = (idMap, id, lang) => {
   if (!id.trim()) {
     return null;
@@ -80,5 +87,6 @@ module.exports = {
   makeArticleUrl,
   makeContentUrl,
   getCardInfoFromId,
-  findIdMapEntryByTitle
+  findIdMapEntryByTitle,
+  getFileNameFromURL
 };
