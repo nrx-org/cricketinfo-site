@@ -1,186 +1,23 @@
 {
-  "id": "G10",
   "title": "இங்கிலாந்து",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/England",
   "summary": "இங்கிலாந்து ஐக்கிய இராஜ்ஜியத்தின் ஒரு பகுதியாகும். இது மேற்கே வேல்ஸ் மற்றும் வடகிழக்கில் ஸ்காட்லாந்து வரை பரவியுள்ளது. ",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/England",
   "coverImage": {
     "url": "/static/images/england/Flag_of_England.svg",
-    "altText": "Image of Flag of England"
+    "altText": "Image of இங்கிலாந்து",
+    "license": "<p><i>This work has been released into the <b><a href=\"/wiki/Public_domain\" title=\"Public domain\">public domain</a></b> by the copyright holder. This applies worldwide.</i><br>\n<hr>\n<p>In case this is not legally possible:<br>\n<i>The copyright holder grants any entity the right to use this work <b>for any purpose</b>, without any conditions, unless such conditions are required by law.</i>\n</p>\n<div style=\"display: none\">\n<p><span class=\"licensetpl_short licensetpl_long\">Public domain</span>\n<span class=\"licensetpl_link\">//en.wikipedia.org/wiki/File:Flag_of_England.svg</span>\n</p>\n</div></p><p>This image shows a <a href=\"/wiki/Flag\" title=\"Flag\">flag</a>, a <a href=\"/wiki/Coat_of_arms\" title=\"Coat of arms\">coat of arms</a>, a <a href=\"/wiki/Seal_(device)\" class=\"mw-redirect\" title=\"Seal (device)\">seal</a> or some other official <b><a href=\"https://en.wiktionary.org/wiki/insignia\" class=\"extiw\" title=\"wikt:insignia\">insignia</a></b>. The use of such symbols is restricted in many countries.<br>These restrictions are <b><a href=\"/wiki/Wikipedia:SOSUMI\" class=\"mw-redirect\" title=\"Wikipedia:SOSUMI\">independent of the copyright status</a></b>.\n<hr>\n<small>This tag does not indicate the copyright status or the source of the attached work. A normal copyright tag, a source (and a detailed <a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">non-free use rationale</a>, if necessary) are still required. See <a href=\"/wiki/Wikipedia:Copyrights\" title=\"Wikipedia:Copyrights\">Wikipedia:Copyrights</a> and <a href=\"/wiki/Wikipedia:Uploading_images\" title=\"Wikipedia:Uploading images\">Wikipedia:Uploading images</a> for more information.</small></p>"
   },
   "translations": [
     {
-      "title": "ऑस्ट्रेलिया",
-      "url": "/read/hi/england",
-      "lang": "hi"
+      "lang": "en",
+      "title": "England",
+      "url": "/read/en/england"
     },
     {
-      "url": "/read/en/england",
-      "title": "Australia",
-      "lang": "en"
+      "lang": "hi",
+      "title": "इंगलैंड",
+      "url": "/read/hi/england"
     }
   ],
-  "sections": [
-    {
-      "title": "",
-      "cardType": "table",
-      "facts": [
-        {
-          "label": "செயிண்ட் ஜார்ஜ் தினம்",
-          "value": {
-            "label": "23 ஏப்ரல்\n",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "130,279 சதுர கிமீ",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "55619400 (2017 மதிப்பீட்டின் படி)",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "லண்டன்",
-            "url": ""
-          }
-        },
-        {
-          "value": {
-            "label": "லண்டன்",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "UTC, UTC+1 (கோடை)",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "Palaeolithic",
-          "id": 0,
-          "note": "500000 ஆண்டுகளுக்கு முன்பு",
-          "value": {
-            "label": "பிரிட்டனில் பழைய கற்காலத்தில் இருந்து மனிதர்கள் வாழ்ந்து வந்ததாக அறியப்படுகிறது. இந்த காலத்தில் இந்த பூமி சுற்றுச்சூழலில் பல்வேறு மாற்றங்களைக் கண்டது. அதில் மனிதக் குடியேற்றத்தைப் பெருமளவில் பாதித்த பனி யுகமும் அடங்கும்.",
-            "facts": []
-          }
-        },
-        {
-          "label": "நியோலித்திக்",
-          "id": 1,
-          "note": "கிமு 4300 - 2000",
-          "value": {
-            "label": "நியோலித்திக் காலத்தில் மிகவும் சீரான வாழ்க்கை முறை துவங்கியது, இருந்தாலும் பிரிட்டனில் மிகவும் சொற்பமான சில குடியேற்றங்கள் மட்டுமே தெரியவந்துள்ளன.",
-            "facts": []
-          }
-        },
-        {
-          "label": "இரும்புக்காலம்",
-          "id": 1,
-          "note": "கிமு 750 - கிபி 43",
-          "value": {
-            "label": "கிமு 500 ஆம் ஆண்டில் பிரித்தானியத் தீவுகளில் குடியேறிய பெரும்பான்மையானவர்கள் பொது பிரித்தோனிய மொழி பேசியதாக பொதுவாகக் கருதப்படுகிறது. இரும்புக்கால பிரட்டானியர்கள் செஃப்டெயின் ஆளுகைக்குட்பட்ட ஒழுங்குபடுத்தப்பட்ட பழங்குடியினக் குழுக்களாக வாழ்ந்து வந்தனர். மக்கள்தொகை பெருக்கம் அதிகரிக்க அதிகரிக்க எதிர்தரப்பு பழங்குடியினர்களுக்கு இடையே போர்கள் மூண்டன.",
-            "facts": []
-          }
-        },
-        {
-          "label": "இடைக்காலம்",
-          "id": 1,
-          "note": "கிபி - 5 முதல் 15 ஆம் நூற்றாண்டு",
-          "value": {
-            "label": "ரோமானியப் பேரரசு வீழ்ச்சியடைந்து இங்கிலாந்து எழுச்சியடைந்த போது, பொருளாதாரம் சீர்குலைந்திருந்தது, பெரும்பாலான நகரங்கள் கைவிடப்பட்டிருந்தன. ஆங்கிலோ-சாக்ஸன்களின் கீழ் ஒரு செல்வந்தக் கலை கலாச்சாரம் செழித்தோங்கியது. 7 ஆம் நூற்றாண்டில் அவர்கள் மக்களை கிறித்துவ மதத்திற்கு மாற்றியதுடன், இங்கிலாந்து முழுவதும் தேவாலயங்கள் மற்றும் மடங்களின் நெட்வொர்க்கை ஏற்படுத்தினர்.",
-            "facts": []
-          }
-        }
-      ]
-    },
-    {
-      "cardType": "avatar",
-      "label": "ஐக்கிய ராஜ்ஜியத்தின் பகுதியான இங்கிலாந்தில் அடிப்படை அரசியல் முறையானது அரசியலமைப்பு முடியாட்சி மற்றும் பாராளுமன்ற முறைமை கொண்டு விளங்குகிறது.",
-      "facts": [
-        {
-          "value": {
-            "label": "தெரசா மே",
-            "url": "",
-            "image": {
-              "url": "/static/images/england/Theresa_May_portrait.jpg",
-              "altText": "Image of Theresa May portrait"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "இயன் டங்கன் பர்னேட், மாலனின் பரோன் பெர்னெட், பிசி",
-            "url": "",
-            "image": {
-              "url": "/static/images/england/Royal_Coat_of_Arms_of_the_United_Kingdom.svg",
-              "altText": "Image of Royal Coat of Arms of the United Kingdom"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "",
-      "cardType": "simple",
-      "facts": [
-        {
-          "label": "ஆஸ்திரேலியா",
-          "value": {
-            "label": "இங்கிலாந்து பிரிட்டனின் மத்திய மற்றும் தெற்கு பகுதியில் இருக்கும் மூன்றில் இரண்டு பகுதி நிலப்பரப்பையும் சில கடல் தீவுகளையும் கொண்டுள்ளது. இதன் வடக்கில் ஸ்காட்லாந்தும் மேற்கில் வேல்ஸும் எல்லைப்பகுதியாக அமைந்துள்ளன.",
-            "image": {
-              "url": "/static/images/england/Widecombe_in_the_Moor,_Devon.jpg",
-              "altText": "Image of Widecombe in the Moor, Devon"
-            }
-          }
-        }
-      ]
-    }
-  ]
+  "sections": []
 }

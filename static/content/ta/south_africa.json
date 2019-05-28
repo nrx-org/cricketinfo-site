@@ -1,186 +1,23 @@
 {
-  "id": "G6",
   "title": "தென்னாப்பிரிக்கா",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/South_Africa",
   "summary": "ஆப்பிரிக்காவின் தெற்குப்பகுதியில் அமைந்துள்ள தென் ஆப்பிரிக்கா, அதிகாரப்பூர்வமாக தென்னாப்பிரிக்க குடியரசு (RSA) என அழைக்கப்படுகிறது. ",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/South_Africa",
   "coverImage": {
     "url": "/static/images/south_africa/MapungubweHill.jpg",
-    "altText": "Image of MapungubweHill"
+    "altText": "Image of தென்னாப்பிரிக்கா",
+    "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
   },
   "translations": [
     {
-      "title": "ऑस्ट्रेलिया",
-      "url": "/read/hi/south_africa",
-      "lang": "hi"
+      "lang": "en",
+      "title": "South Africa",
+      "url": "/read/en/south_africa"
     },
     {
-      "url": "/read/en/south_africa",
-      "title": "Australia",
-      "lang": "en"
+      "lang": "hi",
+      "title": "दक्षिण अफ्रीका",
+      "url": "/read/hi/south_africa"
     }
   ],
-  "sections": [
-    {
-      "title": "",
-      "cardType": "table",
-      "facts": [
-        {
-          "label": "சுதந்திர தினம்\n",
-          "value": {
-            "label": "31 மே 1910",
-            "url": ""
-          }
-        },
-        {
-          "label": "குடியரசு தினம்\n",
-          "value": {
-            "label": "31 May 1961",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "1221037 சதுர கிமீ",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "57725600 (2018 மதிப்பீட்டின் படி)",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "Union of South Africa, Republic of South Africa, Mzansi, Azania",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "\nபிரிட்டோரியா (எக்ஸிகியூட்டிவ்), ப்லோம்ஃபோன்டைன் (நீதித்துறை), கேப் டவுன் (சட்டமன்றம்)",
-            "url": ""
-          }
-        },
-        {
-          "value": {
-            "label": "ஜோஹனஸ்பர்க்",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "UTC+2",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "Prehistoric archaeology",
-          "id": 0,
-          "note": "",
-          "value": {
-            "label": "சுமார் மூன்று மில்லியன் ஆண்டுகளுக்கு முன்னரே தென்னாப்பிரிக்காவில் ஆஸ்ட்ரலோபிதகஸ் ஆஃப்ரிகானஸ் துவங்கி பல்வேறு மனித இனங்கள் இருந்தன. அங்குள்ள கெளதங்க் மாகாணத்தில் உள்ள குகைத் தொடர்களில் இருந்து பெருமளவில் புதைப்படிமங்களை தொல்பொருள் ஆராய்ச்சியாளர்கள் மீட்டனர்.",
-            "facts": []
-          }
-        },
-        {
-          "label": "பாண்டு விரிவாக்கம்",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "இரும்பினைப் பயன்படுத்தி விவசாயம் மேற்கொள்ளும் மற்றும் கால்நடைகள் மேய்ச்சல் தொழில் செய்து வந்த பாண்டு மொழி பேசும் மக்களின் குடியேற்றங்கள், கிமு 4 ஆம் அல்லது 5 ஆம் நூற்றாண்டில் லிம்போபோ நதியின் தெற்குப் பகுதியில் (தற்போதைய போட்ஸ்வானா மற்றும் ஜிம்பாப்வேயின் வடக்கு எல்லை) ஏற்கனவே இருந்தன. அவர்கள் அசல் கோய்சான் மொழி பேசி வந்த கோய்காய் மற்றும் சான் மக்கள் போரிட்டு வென்று இடம்பெயரச் செய்தனர். ",
-            "facts": []
-          }
-        },
-        {
-          "label": "போர்த்துகீசிய தொடர்புகள்",
-          "id": 1,
-          "note": "1487",
-          "value": {
-            "label": "ஐரோப்பியர்கள் அங்கு வருகைபுரிந்த போது, ஆப்பிரிக்காவின் மற்ற பகுதிகளில் இருந்து சுமார் ஆயிரம் ஆண்டுகளுக்கு முன்பு குடிபெயர்ந்து வந்தவர்களான பாண்டு மொழி பேசும் மக்கள் ஆதிக்கம் செலுத்தி வந்தனர். அவர்களில் சோஸாவும் ஜூலுவும் இரண்டு முக்கியமான வரலாற்றுக் குழுக்கள் ஆகும். 1487 ஆம் ஆண்டில், போர்த்துகீசிய ஆராய்ச்சியாளரான பார்டோலோமியா டயஸ் தலைமைவகித்து தென்னாப்பிரிக்காவில் முதல் ஐரோப்பிய பயணத்தை மேற்கொண்டார்.",
-            "facts": []
-          }
-        },
-        {
-          "label": "டச்சு குடியேற்றம்",
-          "id": 1,
-          "note": "1652",
-          "value": {
-            "label": "கேப் கடல் வழி கண்டறியப்பட்டு ஒன்னரை நூற்றாண்டுக்குப் பிறகு, ஜான் வான் ரீபக் கேப் ஆஃப் குட் ஹோப்பில் உணவளிக்கும் நிலையத்தை நிறுவினார். அது பின்னர் டச்சு கிழக்கிந்தியக் கம்பெனியால் கேப் டவுனாக மாற்றப்பட்டது. ",
-            "facts": []
-          }
-        }
-      ]
-    },
-    {
-      "cardType": "avatar",
-      "label": "தென்னாப்பிரிக்கா ஒரு நாடாளுமன்ற குடியரசு நாடாக இருந்தாலும் மற்ற குடியரசுகளைப் போலல்லாமல், ஜனாதிபதியே நாட்டின் தலைவராகவும் அரசாங்கத்தின் தலைவராகவும் இருக்கின்றார், பாராளுமன்றத்தின் நம்பிக்கையை நிலைநாட்டியுள்ள வரை அவர் பதவி வகிப்பார்.",
-      "facts": [
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "சிரில் ராமபோசா",
-            "url": "",
-            "image": {
-              "url": "/static/images/south_africa/Cyril_Ramaphosa_(42783408010).jpg",
-              "altText": "Image of Cyril Ramaphosa (42783408010)"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "தாமஸ் ரீட்சாங் மோகோங்",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "",
-      "cardType": "simple",
-      "facts": [
-        {
-          "label": "ஆஸ்திரேலியா",
-          "value": {
-            "label": "தென் ஆப்பிரிக்காவானது ஆப்பிரிக்காவின் தென் மூலையில் அமைந்துள்ளது, அதன் நீண்ட கடற்கரை 2,500 கிமீ (1,553 மைல்) தூர அளவிற்குப் பரந்துள்ளதுடன் இரண்டு பெருங்கடல்களின் அருகாமையில் அமைந்துள்ளது (தென் அட்லாண்டிக் மற்றும் இந்தியப் பெருங்கடல்).",
-            "image": {
-              "url": "/static/images/south_africa/Map_of_South_Africa_with_English_labels.svg",
-              "altText": "Image of Map of South Africa with English labels"
-            }
-          }
-        }
-      ]
-    }
-  ]
+  "sections": []
 }

@@ -1,186 +1,23 @@
 {
-  "id": "G4",
   "title": "Australia",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Australia",
   "summary": "Australia, officially the Commonwealth of Australia, is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Australia",
   "coverImage": {
-    "url": "/static/images/australia/Flag_of_Australia_(converted).svg",
-    "altText": "Image of Flag of Australia (converted)"
+    "url": "/static/images/australia/Flag_of_Australia_%28converted%29.svg",
+    "altText": "Image of Australia",
+    "license": ""
   },
   "translations": [
     {
-      "title": "",
-      "url": "/read/hi/australia",
-      "lang": "hi"
+      "lang": "hi",
+      "title": "ऑस्ट्रेलिया",
+      "url": "/read/hi/australia"
     },
     {
-      "url": "/read/ta/australia",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "ஆஸ்திரேலியா",
+      "url": "/read/ta/australia"
     }
   ],
-  "sections": [
-    {
-      "title": "About",
-      "cardType": "table",
-      "facts": [
-        {
-          "label": "Federation Constitution",
-          "value": {
-            "label": "1 January 1901",
-            "url": ""
-          }
-        },
-        {
-          "label": "Statute of Westminster Adoption Act",
-          "value": {
-            "label": "9 October 1942",
-            "url": ""
-          }
-        },
-        {
-          "label": "Australia Act",
-          "value": {
-            "label": "3 March 1986",
-            "url": ""
-          }
-        },
-        {
-          "label": "Total Area",
-          "value": {
-            "label": "7692024 km²",
-            "url": ""
-          }
-        },
-        {
-          "label": "Population",
-          "value": {
-            "label": "25,346,300 (2019 estimate)",
-            "url": ""
-          }
-        },
-        {
-          "label": "Other names",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Capital",
-          "value": {
-            "label": "Canberra",
-            "url": ""
-          }
-        },
-        {
-          "value": {
-            "label": "Sydney",
-            "url": ""
-          }
-        },
-        {
-          "label": "Timezone(s)",
-          "value": {
-            "label": "UTC+8; +9.5; +10; Summer UTC+8; +9.5; +10; +10.5; +11",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "History",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "Pre-colonial history",
-          "id": 0,
-          "note": "65,000 to 70,000 years ago",
-          "value": {
-            "label": "Human habitation of the Australian continent is estimated to have begun around 65,000 to 70,000 years ago with the migration of people by land bridges and short sea-crossings from what is now Southeast Asia.",
-            "facts": []
-          }
-        },
-        {
-          "label": "European arrival",
-          "id": 1,
-          "note": "1600s",
-          "value": {
-            "label": "The first recorded European sighting of the Australian mainland, and the first recorded European landfall on the Australian continent (in 1606), are attributed to the Dutch.",
-            "facts": []
-          }
-        },
-        {
-          "label": "Colonial Expansion",
-          "id": 1,
-          "note": "1850s",
-          "value": {
-            "label": "A gold rush began in Australia in the early 1850s and the Eureka Rebellion against mining license fees in 1854 was an early expression of civil disobedience.",
-            "facts": []
-          }
-        },
-        {
-          "label": "Nationhood",
-          "id": 1,
-          "note": "1900s",
-          "value": {
-            "label": "On 1 January 1901, federation of the colonies was achieved after a decade of planning, consultation and voting. This established the Commonwealth of Australia as a dominion of the British Empire.",
-            "facts": []
-          }
-        }
-      ]
-    },
-    {
-      "cardType": "avatar",
-      "label": "Australia is a federal parliamentary constitutional monarchy. Elizabeth II reigns as Queen of Australia. Since she resides in the United Kingdom, she is represented in Australia by the governor-general at the federal level and by the governors at the state level, who by convention act on the advice of her ministers.",
-      "facts": [
-        {
-          "value": {
-            "label": "Scott Morrison",
-            "url": "",
-            "image": {
-              "url": "/static/images/australia/01_Scott_Morrison_2016.jpg",
-              "altText": "Image of 01 Scott Morrison 2016"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "Governor General Peter Cosgrove",
-            "url": "",
-            "image": {
-              "url": "/static/images/australia/Peter_Cosgrove_2017_(1)_crop.jpg",
-              "altText": "Image of Peter Cosgrove 2017 (1) crop"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Geography",
-      "cardType": "simple",
-      "facts": [
-        {
-          "label": "Australia",
-          "value": {
-            "label": " Surrounded by the Indian and Pacific oceans, Australia is the world's smallest continent and sixth largest country by total area. Owing to its size and isolation, it is often called the \"island continent\", and is sometimes considered the world's largest island.",
-            "image": {
-              "url": "/static/images/australia/The_great_dividing_range.jpg",
-              "altText": "Image of The great dividing range"
-            }
-          }
-        }
-      ]
-    }
-  ]
+  "sections": []
 }

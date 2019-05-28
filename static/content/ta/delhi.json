@@ -1,186 +1,23 @@
 {
-  "id": "G16",
   "title": "டெல்லி",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Delhi",
   "summary": "டெல்லி அதிகாரப்பூர்வமாக டெல்லி தேசிய தலைநகரப் பிரதேசம் என்று அழைக்கப்படுகிறது. இது முக்கிய நகரமாக விளங்குவதுடன் யூனியன் பிரதேசங்களுள் ஒன்றாகும், புதுடெல்லி இந்தியாவின் தலைநகரமாகத் திகழ்கிறது.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Delhi",
   "coverImage": {
     "url": "/static/images/delhi/India_Gate_in_New_Delhi_03-2016.jpg",
-    "altText": "Image of India Gate in New Delhi 03 2016"
+    "altText": "Image of டெல்லி",
+    "license": "<p>Copyleft: This work of art is free; you can redistribute it and/or modify it according to terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:Free_Art_License\" class=\"extiw\" title=\"w:en:Free Art License\">Free Art License</a></b>. You will find a specimen of this license on the <a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">Copyleft Attitude site</a> as well as <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Commons:Free_Art_License_1.3\">on other sites</a>. <span class=\"licensetpl_link\" style=\"display:none;\">http://artlibre.org/licence/lal/en</span><span class=\"licensetpl_short\" style=\"display:none;\">FAL</span><span class=\"licensetpl_long\" style=\"display:none;\">Free Art License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
   },
   "translations": [
     {
-      "title": "ऑस्ट्रेलिया",
-      "url": "/read/hi/delhi",
-      "lang": "hi"
+      "lang": "en",
+      "title": "Delhi",
+      "url": "/read/en/delhi"
     },
     {
-      "url": "/read/en/delhi",
-      "title": "Australia",
-      "lang": "en"
+      "lang": "hi",
+      "title": "दिल्ली",
+      "url": "/read/hi/delhi"
     }
   ],
-  "sections": [
-    {
-      "title": "",
-      "cardType": "table",
-      "facts": [
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "1484 சதுர கிமீ",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "16,787,941",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "UTC+5:30",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "Ancient and Early Medieval Periods",
-          "id": 0,
-          "note": "கிமு 6 ஆம் நூற்றாண்டு",
-          "value": {
-            "label": "குறைந்தபட்சம் கிமு 6ஆம் நூற்றாண்டில் இருந்து டெல்லியில் தொடர்ந்து குடியிருப்புகள் இருந்ததற்கான சான்றுகள் உள்ளன. ஆரம்ப கால கட்டடக்கலை நினைவுச்சின்னங்கள் மெளரிய காலத்தியவை. எட்டு பெரிய நகரங்களின் இடிபாடுகள் டெல்லியில் கண்டறியப்பட்டுள்ளன.",
-            "facts": []
-          }
-        },
-        {
-          "label": "இடைக்காலத்தின் பிற்பகுதி",
-          "id": 1,
-          "note": "கிபி 11 - 14 ஆம் நூற்றாண்டு",
-          "value": {
-            "label": "டெல்லி சுல்தானகத்தின் அடித்தளம் உருவாக்கப்பட்டது. இந்தக் காலத்தில் சூஃபியிசத்தின் முக்கிய மையமாக தில்லி இருந்தது.",
-            "facts": []
-          }
-        },
-        {
-          "label": "முகலாயர் காலம்",
-          "id": 1,
-          "note": "கிபி 15 - 18 ஆம் நூற்றாண்டு",
-          "value": {
-            "label": "பாபர் இந்தியாவில் ஆக்கிரமிப்பு செய்து டெல்லி மற்றும் ஆக்ராவில் இருந்து ஆட்சி புரிந்து முகலாய சாம்ராஜ்ஜியத்தை நிறுவினார்.",
-            "facts": []
-          }
-        },
-        {
-          "label": "காலனி ஆதிக்க காலம்",
-          "id": 1,
-          "note": "19 ஆம் நூற்றாண்டு",
-          "value": {
-            "label": "1857 ஆம் ஆண்டில் சிப்பாய் கலகத்தின் போது டெல்லி கிழக்கிந்தியக் கம்பெனியின் படைகளால் முற்றுகையிடப்பட்டு வீழ்ச்சியடைந்தது. இது டெல்லி முற்றுகை என அறியப்படுகிறது. 1858 ஆம் ஆண்டு இந்த நகரம் பிரிட்டிஷ் அரசாங்கத்தின் நேரடி கட்டுப்பாட்டின் கீழ் வந்தது.",
-            "facts": []
-          }
-        }
-      ]
-    },
-    {
-      "cardType": "avatar",
-      "label": "டெல்லியானது சட்டமன்றம், உயர் நீதிமன்றம் மற்றும் ஒரு முதலமைச்சரின் தலைமையிலான அமைச்சர்களின் நிர்வாகக் குழு ஆகியவற்றைக் கொண்டுள்ள தனி யூனியன் பிரதேசமாகும்.",
-      "facts": [
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "",
-      "cardType": "simple",
-      "facts": [
-        {
-          "label": "ஆஸ்திரேலியா",
-          "value": {
-            "label": "டெல்லி இந்தியாவின் வடக்குப் பகுதியில், யமுனை ஆற்றின் கரையில் அமைந்துள்ளது.",
-            "image": {
-              "url": "/static/images/delhi/Delhi_aerial_photo_04-2016_img11.jpg",
-              "altText": "Image of Delhi aerial photo 04 2016 img11"
-            }
-          }
-        }
-      ]
-    }
-  ]
+  "sections": []
 }
