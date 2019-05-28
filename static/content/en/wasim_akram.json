@@ -79,7 +79,7 @@
     },
     {
       "title": "Style of play",
-      "id": "tV4IGnauj9Fa",
+      "id": "9sqrdisXVSo_",
       "cardType": "simple",
       "facts": [
         {
@@ -96,7 +96,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "MiyIcuKBvk1T",
+          "id": "43Fa4Uw9mFY7",
           "note": "1984",
           "value": {
             "label": "Wasim Akram made his first class debut in 1984 as part of the Pakistan Automobiles Corporation team."
@@ -104,7 +104,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "41VqtGEODScM",
+          "id": "DK3NVk6D8mB5",
           "note": "1984",
           "value": {
             "label": "Akram started his ODI career against New Zealand in Pakistan in 1984 under the captaincy of Zaheer Abbas.",
@@ -113,7 +113,7 @@
                 "url": "/read/en/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
                 "label": "New Zealand national cricket team",
-                "id": "aHRUxYAueapv",
+                "id": "gjReOBoWa3A7",
                 "value": {
                   "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
                   "image": {
@@ -127,7 +127,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "tk1XmG-Fe5B4",
+          "id": "OVgjg9BtOb8k",
           "note": "1987",
           "value": {
             "label": "In the 1987 Cricket World Cup held for the 1st time in South Asia, Akram struggled on Pakistani pitches."
@@ -135,7 +135,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "DXz-wMP_82jM",
+          "id": "FVAFEGneZ9DH",
           "note": "",
           "value": {
             "label": ""
@@ -210,13 +210,13 @@
       "facts": [
         {
           "label": "Pakistan National Cricket team (1984-2003)",
-          "id": "g8Op9PR8ECS6",
+          "id": "QT5-x3a59Vct",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Pakistan national cricket team",
-                "id": "wS3Xh8LBY1nz",
+                "id": "mZ26BLEB-MRi",
                 "url": "/read/en/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
                 "value": {
@@ -232,9 +232,51 @@
         },
         {
           "label": "Pakistan Automobiles Corporation (1984-86)",
-          "id": "N7IsmYIDjhhs",
+          "id": "85BDvV1aA8_s",
           "value": {
             "label": "Pakistan Automobiles Corporation was a first-class cricket team that played in the domestic league in Pakistan between 1983 and 1994."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "Pride of Performance Award",
+          "tag": "1992",
+          "id": "award-0",
+          "value": {
+            "label": "Pride of Performance Award is a civil award given by the Government of Pakistan to Pakistani citizens for meritorious service in various fields.",
+            "image": {
+              "url": "",
+              "altText": "Image of Pride of Performance Award"
+            }
+          }
+        },
+        {
+          "label": "Wisden Cricketer of the Year",
+          "tag": "1993",
+          "id": "award-1",
+          "value": {
+            "label": "Wisden Cricketers of the Year are cricketers selected for the honour by the annual publication Wisden Cricketers' Almanack",
+            "image": {
+              "url": "",
+              "altText": "Image of Wisden Cricketer of the Year"
+            }
+          }
+        },
+        {
+          "label": "Hilal-e-Imtiaz",
+          "tag": "2019",
+          "id": "award-2",
+          "value": {
+            "label": "Hilal-e-Imtiaz is the second highest civilian award and honour given to both civilians and military officers of the Pakistan.",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/File:Hilal-i-imtiaz.jpg",
+              "altText": "Image of Hilal-e-Imtiaz"
+            }
           }
         }
       ]

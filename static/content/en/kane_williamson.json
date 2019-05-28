@@ -79,7 +79,7 @@
     },
     {
       "title": "Style of play",
-      "id": "qd9lYu4g7ZsQ",
+      "id": "Q80e216nLjje",
       "cardType": "simple",
       "facts": [
         {
@@ -100,7 +100,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "xjRBZp8QFcJe",
+          "id": "NQMRS8WF3gr1",
           "note": "2007",
           "value": {
             "label": "Williamson made his first-class cricket debut in December 2007"
@@ -108,7 +108,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "J-ZteArSaVkY",
+          "id": "uqThaspciFFA",
           "note": "2010",
           "value": {
             "label": "Williamson made his One-Day International debut against India, and was dismissed for a duck.",
@@ -117,7 +117,7 @@
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "label": "India national cricket team",
-                "id": "AHIbjgiqWyC6",
+                "id": "LldDWYzZS3Re",
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
@@ -131,7 +131,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "08C08K9JNezv",
+          "id": "AWg7l8TaQPlB",
           "note": "2011",
           "value": {
             "label": ""
@@ -139,7 +139,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "EUVwAHfPRkwv",
+          "id": "xv9ojASRzlVJ",
           "note": "",
           "value": {
             "label": ""
@@ -214,13 +214,13 @@
       "facts": [
         {
           "label": "New Zealand (2010 - present)",
-          "id": "neWkPEiTrs4p",
+          "id": "k4h6URZf5B5h",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "New Zealand national cricket team",
-                "id": "gZEzRnOvB_wT",
+                "id": "w0fqcckegIou",
                 "url": "/read/en/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
                 "value": {
@@ -236,13 +236,13 @@
         },
         {
           "label": "Sunrisers Hyderabad (2015 - present)",
-          "id": "iPeM1Z_jGH95",
+          "id": "ISdJzDSjSpk2",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Sunrisers Hyderabad",
-                "id": "aLPxltx0ROrm",
+                "id": "gc2f2hEDSOh-",
                 "url": "/read/en/sunrisers_hyderabad",
                 "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
                 "value": {
@@ -258,9 +258,39 @@
         },
         {
           "label": "Northern Districts (2007 - present)",
-          "id": "xsjYzRiL_hRV",
+          "id": "6MdzboDan4U5",
           "value": {
             "label": "Northern Districts cricket team is a first-class cricket team from New Zealand."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "Halberg Award",
+          "tag": "2015",
+          "id": "award-0",
+          "value": {
+            "label": "Halberg Awards are given annually to New Zealand's top sportperson.",
+            "image": {
+              "url": "",
+              "altText": "Image of Halberg Award"
+            }
+          }
+        },
+        {
+          "label": "Wisden Leading Cricketer of the World",
+          "tag": "2015",
+          "id": "award-1",
+          "value": {
+            "label": "Wisden Leading Cricketer in the World is an annual cricket award selected by Wisden Cricketers' Almanack",
+            "image": {
+              "url": "",
+              "altText": "Image of Wisden Leading Cricketer of the World"
+            }
           }
         }
       ]

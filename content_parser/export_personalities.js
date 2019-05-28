@@ -140,6 +140,39 @@ const TEAMS = [
   }
 ];
 
+const AWARDS_AND_HONORS = [
+  {
+    YEAR_KEY: "Year of the award 1",
+    LABEL_KEY: "Name of the award 1",
+    DESCRIPTION_KEY: "Short Description of the award 1",
+    IMAGE_KEY: "Image link for the award 1"
+  },
+  {
+    YEAR_KEY: "Year of the award 2",
+    LABEL_KEY: "Name of the award 2",
+    DESCRIPTION_KEY: "Short Description of the award 2",
+    IMAGE_KEY: "Image link for the award 2"
+  },
+  {
+    YEAR_KEY: "Year of the award 3",
+    LABEL_KEY: "Name of the award 3",
+    DESCRIPTION_KEY: "Short Description of the award 3",
+    IMAGE_KEY: "Image link for the award 3"
+  },
+  {
+    YEAR_KEY: "Year of the award 4",
+    LABEL_KEY: "Name of the award 4",
+    DESCRIPTION_KEY: "Short Description of the award 4",
+    IMAGE_KEY: "Image link for the award 4"
+  },
+  {
+    YEAR_KEY: "Year of the award 5",
+    LABEL_KEY: "Name of the award 5",
+    DESCRIPTION_KEY: "Short Description of the award 5",
+    IMAGE_KEY: "Image link for the award 5"
+  }
+];
+
 module.exports.exportPersonalities = () => {
   Object.keys(csvExports).forEach(lang => {
     const fileContent = fs.readFileSync(csvExports[lang].path, "utf8");
@@ -445,6 +478,28 @@ module.exports.exportPersonalities = () => {
       });
 
       // Awards and honors.
+      personality.sections.push({
+        title: "Awards & Honors",
+        cardType: "tag_card",
+        facts: AWARDS_AND_HONORS.map((award, index) => {
+          if (!record[award.LABEL_KEY]) {
+            return null;
+          }
+
+          return {
+            label: record[award.LABEL_KEY],
+            tag: record[award.YEAR_KEY],
+            id: `award-${index}`,
+            value: {
+              label: record[award.DESCRIPTION_KEY],
+              image: {
+                url: record[award.IMAGE_KEY],
+                altText: `Image of ${record[award.LABEL_KEY]}`
+              }
+            }
+          };
+        }).filter(a => !!a)
+      });
 
       // Outside sports.
 

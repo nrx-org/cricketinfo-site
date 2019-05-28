@@ -85,7 +85,7 @@
     },
     {
       "title": "Style of play",
-      "id": "s3_i_7FTwPNi",
+      "id": "EDito-goTy0h",
       "cardType": "simple",
       "facts": [
         {
@@ -106,7 +106,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "lpV81kxXqaX6",
+          "id": "7LrLmLnrCYNC",
           "note": "2004",
           "value": {
             "label": "De Villiers made his first class debut for the South African domestic team Northerns"
@@ -114,7 +114,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "5Tb0lac31RTw",
+          "id": "pRtMBf6bkjWE",
           "note": "2004",
           "value": {
             "label": "AB de Villiers made his international debut in a Test match against England",
@@ -123,7 +123,7 @@
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "label": "England cricket team",
-                "id": "S_ea270goXNj",
+                "id": "fk0jMa6YISM2",
                 "value": {
                   "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
                   "image": {
@@ -137,7 +137,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "53aXl6G8rPU-",
+          "id": "pxt7GFTr54Gl",
           "note": "2007",
           "value": {
             "label": "De Villiers' batting during the World Cup was inconsistent as he also failed to score on 4 occasions"
@@ -145,7 +145,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "vvOHfRRoyv-i",
+          "id": "AqKw3x9JJVzg",
           "note": "2008",
           "value": {
             "label": "De Villiers played for the Delhi Daredevils in the first 3 seasons of IPL",
@@ -154,7 +154,7 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-                "id": "XklE2sRvWIyu",
+                "id": "xoemNKcL6SNu",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
@@ -235,13 +235,13 @@
       "facts": [
         {
           "label": "South African Nation team (2004-2018)",
-          "id": "jh4IP23wLNlh",
+          "id": "-Ghoo8SOkKj9",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "South Africa national cricket team",
-                "id": "4jxcFWXQJi_4",
+                "id": "WCzT469ACxEO",
                 "url": "/read/en/south_africa_national_cricket_team",
                 "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
                 "value": {
@@ -257,13 +257,13 @@
         },
         {
           "label": "Royal Challengers Bangalore (2011 - present)",
-          "id": "KiEkUmU1mmB4",
+          "id": "Xrua6KYZHb-a",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Royal Challengers Bangalore",
-                "id": "EWBY8GUipFWM",
+                "id": "G1bPBAWin3h1",
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "value": {
@@ -279,9 +279,51 @@
         },
         {
           "label": "Northerns (2003-2004)",
-          "id": "eDIBQySfmFFX",
+          "id": "XNPQm8npmas3",
           "value": {
             "label": "Northerns is a first-class cricket team in South Africa and represents area nother of Johannesburg, and includes Pretoria"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "ICC ODI player of the year",
+          "tag": "2010",
+          "id": "award-0",
+          "value": {
+            "label": "A cricket trophy awarded annually by the International Cricket Council (ICC) to its chosen world player of the year",
+            "image": {
+              "url": "",
+              "altText": "Image of ICC ODI player of the year"
+            }
+          }
+        },
+        {
+          "label": "ICC ODI player of the year",
+          "tag": "2014",
+          "id": "award-1",
+          "value": {
+            "label": "A cricket trophy awarded annually by the International Cricket Council (ICC) to its chosen world player of the year",
+            "image": {
+              "url": "",
+              "altText": "Image of ICC ODI player of the year"
+            }
+          }
+        },
+        {
+          "label": "ICC ODI player of the year",
+          "tag": "2015",
+          "id": "award-2",
+          "value": {
+            "label": "A cricket trophy awarded annually by the International Cricket Council (ICC) to its chosen world player of the year",
+            "image": {
+              "url": "",
+              "altText": "Image of ICC ODI player of the year"
+            }
           }
         }
       ]

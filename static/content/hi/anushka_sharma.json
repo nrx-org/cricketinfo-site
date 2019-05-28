@@ -99,7 +99,7 @@
     },
     {
       "title": "Style of play",
-      "id": "e374wWcadjw",
+      "id": "f1C8RJ_6X3Rr",
       "cardType": "simple",
       "facts": [
         {
@@ -116,7 +116,7 @@
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": "UlDuiCRAHtL",
+          "id": "7Keh8SwtO35i",
           "note": "",
           "value": {
             "label": ""
@@ -124,7 +124,7 @@
         },
         {
           "label": "राष्ट्रीय टीम ",
-          "id": "vhW_xXgkh99",
+          "id": "g6lOXzCTGN-g",
           "note": "",
           "value": {
             "label": ""
@@ -132,7 +132,7 @@
         },
         {
           "label": "IPL डेब्यू",
-          "id": "0aNRix2WY4T",
+          "id": "ERmVWRX2WUeq",
           "note": "",
           "value": {
             "label": ""
@@ -204,6 +204,11 @@
     {
       "title": "Team(s)",
       "cardType": "list_card",
+      "facts": []
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
       "facts": []
     }
   ]

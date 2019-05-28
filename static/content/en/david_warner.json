@@ -84,7 +84,7 @@
     },
     {
       "title": "Style of play",
-      "id": "IR1BvBpY5TvY",
+      "id": "VIoEjtJ2LvW6",
       "cardType": "simple",
       "facts": [
         {
@@ -105,7 +105,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "nkPrCZotcGIz",
+          "id": "KYYdelny5VjS",
           "note": "2009",
           "value": {
             "label": "Warner made his first-class debut playing for New South Wales against Western Australia."
@@ -113,7 +113,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "o8-80-Y7ZyT4",
+          "id": "wBWS34qoDTVS",
           "note": "2009",
           "value": {
             "label": "Warner made his international debut for Australia in a Twenty20 International against South Africa at the Melbourne.",
@@ -122,7 +122,7 @@
                 "url": "/read/en/south_africa_national_cricket_team",
                 "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
                 "label": "South Africa national cricket team",
-                "id": "z4QhMHDrZoN0",
+                "id": "GEZ9UyhRFChU",
                 "value": {
                   "label": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
                   "image": {
@@ -136,7 +136,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "YxlN1G-wf7VV",
+          "id": "quEX8gfX2blT",
           "note": "2013",
           "value": {
             "label": "Warner was dropped from the team after the first match due to a off-field fight with English player Joe Root"
@@ -144,7 +144,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "TcCr-Hr2I-BK",
+          "id": "5sUC_HM-wY0G",
           "note": "2009",
           "value": {
             "label": "Warner was signed by IPL team Delhi Daredevils for 2009–10 seasons.",
@@ -153,7 +153,7 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-                "id": "G3_XI0gxuL23",
+                "id": "XA5itcTvgYZk",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
@@ -234,13 +234,13 @@
       "facts": [
         {
           "label": "Australia (2009 - present)",
-          "id": "TdXW5Fj9NdDI",
+          "id": "_I9fWlCTjudR",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Australia Cricket team",
-                "id": "70G9Hiw91NSs",
+                "id": "N0iI2F230XYa",
                 "url": "/read/en/australia_cricket_team",
                 "contentUrl": "/static/content/en/australia_cricket_team.json",
                 "value": {
@@ -256,13 +256,13 @@
         },
         {
           "label": "Sunrisers Hyderabad (2014 - present)",
-          "id": "HbJtF-CciFZj",
+          "id": "BcELS4w3_yuf",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Sunrisers Hyderabad",
-                "id": "KberG7T3LRQt",
+                "id": "K76dDorK-5GY",
                 "url": "/read/en/sunrisers_hyderabad",
                 "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
                 "value": {
@@ -278,9 +278,51 @@
         },
         {
           "label": "New South Wales (2006-2018)",
-          "id": "m_4c2xU841AX",
+          "id": "NhLLB0h7T7T6",
           "value": {
             "label": "The New South Wales cricket team (currently named NSW Blues) are an Australian men's professional first class cricket team based in Sydney."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "Bradman Young Cricketer of the Year",
+          "tag": "2012",
+          "id": "award-0",
+          "value": {
+            "label": "Bradman Young Cricketer award is part of the Australian Cricket Awards",
+            "image": {
+              "url": "",
+              "altText": "Image of Bradman Young Cricketer of the Year"
+            }
+          }
+        },
+        {
+          "label": "Allan Border Medal",
+          "tag": "2016",
+          "id": "award-1",
+          "value": {
+            "label": "Allan Border Medal is considered to be the most prestigious individual prize in Australian men's cricket",
+            "image": {
+              "url": "",
+              "altText": "Image of Allan Border Medal"
+            }
+          }
+        },
+        {
+          "label": "Australian Test Player of the Year",
+          "tag": "2016",
+          "id": "award-2",
+          "value": {
+            "label": "Australian Test Player of the Year is awarded during the Australian Cricket Awards",
+            "image": {
+              "url": "",
+              "altText": "Image of Australian Test Player of the Year"
+            }
           }
         }
       ]

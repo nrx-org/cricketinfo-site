@@ -87,7 +87,7 @@
     },
     {
       "title": "Style of play",
-      "id": "tEP6Zdm_5rJ",
+      "id": "OldZQaAzq7Q",
       "cardType": "simple",
       "facts": [
         {
@@ -108,7 +108,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "KltfWWd17X4",
+          "id": "l3OVdppyx1n",
           "note": "1989",
           "value": {
             "label": "Kumble made his first-class debut for Karnataka against Hyderabad on 30 November 1989, taking 4 wickets."
@@ -116,7 +116,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "Tn_WKgpmGge",
+          "id": "brXCuEGlOoo",
           "note": "1990",
           "value": {
             "label": "Kumble made his One Day International debut against Sri Lanka at Sharjah in the Austral-Asia Cup in 1990.",
@@ -125,7 +125,7 @@
                 "url": "/read/en/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
                 "label": "Sri Lanka national cricket team",
-                "id": "pJFU-2UqR_8",
+                "id": "74NsRw2kDcU",
                 "value": {
                   "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
                   "image": {
@@ -139,7 +139,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "pMIGIWN79BC",
+          "id": "4Rs_UdWyjt-",
           "note": "1996",
           "value": {
             "label": "Kumble was selected in the Indian side for the 1996 World Cup and was the leading wicket-taker in the tournament.",
@@ -148,7 +148,7 @@
                 "url": "/read/en/1996_cricket_world_cup",
                 "contentUrl": "/static/content/en/1996_cricket_world_cup.json",
                 "label": "1996 Cricket World Cup",
-                "id": "t5FvgdN5LWz",
+                "id": "Px6nOD8QnB-",
                 "value": {
                   "label": "The 1996 Cricket World Cup, also called the Wills World Cup 1996 after its official sponsors, ITC's Wills brand, was the sixth Cricket World Cup. It was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka.",
                   "image": {
@@ -162,7 +162,7 @@
         },
         {
           "label": "Retirement",
-          "id": "4lL0J7w9cP1",
+          "id": "nsmD_l074i7",
           "note": "2007",
           "value": {
             "label": "After the 2007 World Cup, he announced his retirement from ODIs"
@@ -170,7 +170,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "FdHN86CfQdM",
+          "id": "N796kKtkCUw",
           "note": "2008",
           "value": {
             "label": "Kumble agreed to honour his contract with the Royal Challengers Bangalore (RCB) after retirement and played for 3 years.",
@@ -179,7 +179,7 @@
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "label": "Royal Challengers Bangalore",
-                "id": "K9o56g062Eu",
+                "id": "97xmfNkjd4V",
                 "value": {
                   "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
                   "image": {
@@ -260,13 +260,13 @@
       "facts": [
         {
           "label": "Indian National Cricket team (1990-2008)",
-          "id": "uy4jvmaKO97",
+          "id": "yrWeWwifH54",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "7FY_o2D7iay",
+                "id": "PR7MZxjGioe",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -282,13 +282,13 @@
         },
         {
           "label": "Royal Challengers Bangalore (2008-2010)",
-          "id": "chkwju3Cmng",
+          "id": "rzkyAhfaVZN",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Royal Challengers Bangalore",
-                "id": "cSyF_6deYLT",
+                "id": "VGiP8xPZPhA",
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "value": {
@@ -304,9 +304,51 @@
         },
         {
           "label": "Karnataka (1989-2009)",
-          "id": "iG323VX0O5d",
+          "id": "qgudmQ9nhXc",
           "value": {
             "label": "Domestic Ranji trophy cricket team based in the state of Karnataka"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "Arjuna Award",
+          "tag": "1995",
+          "id": "award-0",
+          "value": {
+            "label": "Arjuna Awards are given by the Government for outstanding achievement in sports",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/File:Arjun_Award.jpg",
+              "altText": "Image of Arjuna Award"
+            }
+          }
+        },
+        {
+          "label": "Padma Shri",
+          "tag": "2005",
+          "id": "award-1",
+          "value": {
+            "label": "Padma Shri is the fourth highest civilian award in the Republic of India",
+            "image": {
+              "url": "https://commons.wikimedia.org/wiki/File:Padma_Shri_India_IIIe_Klasse.jpg",
+              "altText": "Image of Padma Shri"
+            }
+          }
+        },
+        {
+          "label": "ICC Cricket Hall of Fame",
+          "tag": "2015",
+          "id": "award-2",
+          "value": {
+            "label": "The ICC Cricket Hall of Fame recognises the achievements of the cricketing legends.",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/File:ICC_Hall_Of_Fame.svg",
+              "altText": "Image of ICC Cricket Hall of Fame"
+            }
           }
         }
       ]
