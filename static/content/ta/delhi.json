@@ -80,6 +80,23 @@
           }
         }
       ]
+    },
+    {
+      "title": "Geography",
+      "id": "delhi_geography",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "டெல்லி",
+          "value": {
+            "label": "டெல்லி இந்தியாவின் வடக்குப் பகுதியில், யமுனை ஆற்றின் கரையில் அமைந்துள்ளது.",
+            "image": {
+              "url": "/static/images/delhi/Delhi_aerial_photo_04-2016_img11.jpg",
+              "altText": "An image of டெல்லி"
+            }
+          }
+        }
+      ]
     }
   ]
 }

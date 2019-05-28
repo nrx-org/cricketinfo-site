@@ -125,6 +125,24 @@
           }
         }
       ]
+    },
+    {
+      "title": "Geography",
+      "id": "england_geography",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "இங்கிலாந்து",
+          "value": {
+            "label": "இங்கிலாந்து பிரிட்டனின் மத்திய மற்றும் தெற்கு பகுதியில் இருக்கும் மூன்றில் இரண்டு பகுதி நிலப்பரப்பையும் சில கடல் தீவுகளையும் கொண்டுள்ளது. இதன் வடக்கில் ஸ்காட்லாந்தும் மேற்கில் வேல்ஸும் எல்லைப்பகுதியாக அமைந்துள்ளன.",
+            "image": {
+              "url": "/static/images/england/Widecombe_in_the_Moor%2C_Devon.jpg",
+              "altText": "An image of இங்கிலாந்து",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        }
+      ]
     }
   ]
 }

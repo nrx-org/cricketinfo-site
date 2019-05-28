@@ -139,6 +139,24 @@
           }
         }
       ]
+    },
+    {
+      "title": "Geography",
+      "id": "new_zealand_geography",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "நியூசிலாந்து",
+          "value": {
+            "label": "நியூசிலாந்து தெற்கு அரைக்கோள வடிவத்தில் அமைந்துள்ளது, மேலும் இது இரண்டு முக்கிய தீவுகள் மற்றும் பல சிறிய தீவுகளால் ஆனது. அதிகபட்சமாக 400 கிலோமீட்டர் அகலத்துடன், ஏறத்தாழ 15,000 கிமீ நீளத்துடனும் அமைந்துள்ளது.",
+            "image": {
+              "url": "/static/images/new_zealand/Emerald_Lakes%2C_New_Zealand.jpg",
+              "altText": "An image of நியூசிலாந்து",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        }
+      ]
     }
   ]
 }

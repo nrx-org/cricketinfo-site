@@ -152,8 +152,26 @@
             "url": "/read/en/australia_cricket_team",
             "contentUrl": "/static/content/en/australia_cricket_team.json",
             "image": {
-              "url": "/static/images/undefined/Australia_cricket_logo.svg",
-              "altText": "Picture of Australia Cricket team"
+              "url": "/static/images/australia/Australia_cricket_logo.svg",
+              "altText": "Picture of Australia Cricket team",
+              "license": "<p>Logo for the Australia national cricket team.</p><p></p><p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.cricket.com.au/\">http://www.cricket.com.au/</a></p><p><b><a href=\"/wiki/Australia_national_cricket_team\" title=\"Australia national cricket team\">Australia national cricket team</a></b></p><p>to serve as the primary means of visual identification at the top of the article dedicated to the entity in question.</p><p>n.a.</p><p>For identification purposes only.</p><p>n.a.</p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:Australia_cricket_logo.svg</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p><p>This is a <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">Scalable Vector Graphics</a> (SVG) image of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or <a href=\"/wiki/Copyright\" title=\"Copyright\">copyrighted</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>. If <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content restrictions</a> apply, this image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. See <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.</p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Geography",
+      "id": "australia_geography",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "Australia",
+          "value": {
+            "label": " Surrounded by the Indian and Pacific oceans, Australia is the world's smallest continent and sixth largest country by total area. Owing to its size and isolation, it is often called the \"island continent\", and is sometimes considered the world's largest island.",
+            "image": {
+              "url": "/static/images/australia/The_great_dividing_range.jpg",
+              "altText": "An image of Australia"
             }
           }
         }

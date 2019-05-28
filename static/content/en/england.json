@@ -138,8 +138,27 @@
             "url": "/read/en/england_cricket_team",
             "contentUrl": "/static/content/en/england_cricket_team.json",
             "image": {
-              "url": "/static/images/undefined/England_cricket_team_logo.svg",
-              "altText": "Picture of England cricket team"
+              "url": "/static/images/england/England_cricket_team_logo.svg",
+              "altText": "Picture of England cricket team",
+              "license": "<p>Logo for the cricket team representing England and Wales</p><p></p><p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.ecb.co.uk/\">http://www.ecb.co.uk/</a></p><p><b><a href=\"/wiki/England_cricket_team\" title=\"England cricket team\">England cricket team</a></b></p><p>to serve as the primary means of visual identification at the top of the article dedicated to the entity in question.</p><p>n.a.</p><p>For identification purposes only.</p><p>n.a.</p><p>Logo for the cricket team representing England and Wales</p><p></p><p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.ecb.co.uk/\">http://www.ecb.co.uk/</a></p><p><b><a href=\"/wiki/England_women%27s_cricket_team\" title=\"England women&apos;s cricket team\">England women&apos;s cricket team</a></b></p><p>to serve as the primary means of visual identification at the top of the article dedicated to the entity in question.</p><p>n.a.</p><p>For identification purposes only.</p><p>n.a.</p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:England_cricket_team_logo.svg</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p><p>This is a <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">Scalable Vector Graphics</a> (SVG) image of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or <a href=\"/wiki/Copyright\" title=\"Copyright\">copyrighted</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>. If <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content restrictions</a> apply, this image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. See <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.</p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Geography",
+      "id": "england_geography",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "England",
+          "value": {
+            "label": "England includes the central and southern two-thirds of the island of Great Britain, plus some offshore islands. It is bordered by Scotland to the north, and Wales to the west.",
+            "image": {
+              "url": "/static/images/england/Widecombe_in_the_Moor%2C_Devon.jpg",
+              "altText": "An image of England",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         }

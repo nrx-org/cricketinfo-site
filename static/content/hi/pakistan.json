@@ -142,6 +142,23 @@
           }
         }
       ]
+    },
+    {
+      "title": "Geography",
+      "id": "pakistan_geography",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "पाकिस्तान",
+          "value": {
+            "label": "पाकिस्तान तीन प्रमुख भौगोलिक क्षेत्रों में विभाजित है: उत्तरी हाइलैंड्स, सिंधु नदी का मैदान और बलूचिस्तान का पठार।",
+            "image": {
+              "url": "/static/images/pakistan/K2_2006b.jpg",
+              "altText": "An image of पाकिस्तान"
+            }
+          }
+        }
+      ]
     }
   ]
 }

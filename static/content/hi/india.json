@@ -142,6 +142,23 @@
           }
         }
       ]
+    },
+    {
+      "title": "Geography",
+      "id": "india_geography",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "भारत",
+          "value": {
+            "label": "भारत में भारतीय उपमहाद्वीप का बड़ा हिस्सा है, जो भारतीय टेक्टॉनिक प्लेट के ऊपर स्थित है, जो इंडो-ऑस्ट्रेलियन प्लेट का एक हिस्सा है।",
+            "image": {
+              "url": "/static/images/india/India_topo_big.jpg",
+              "altText": "An image of भारत"
+            }
+          }
+        }
+      ]
     }
   ]
 }
