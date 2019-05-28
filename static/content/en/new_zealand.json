@@ -18,5 +18,146 @@
       "url": "/read/ta/new_zealand"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "ANZAC day",
+          "value": {
+            "label": "25 April"
+          }
+        },
+        {
+          "label": "Waitangi day",
+          "value": {
+            "label": "6 February"
+          }
+        },
+        {
+          "label": "Total Area of country (km squared)",
+          "value": {
+            "label": "268021  km²"
+          }
+        },
+        {
+          "label": "Population",
+          "value": {
+            "label": "4,960,350 (2019 estimate)"
+          }
+        },
+        {
+          "label": "Other names",
+          "value": {
+            "label": "Aotearoa"
+          }
+        },
+        {
+          "label": "Capital city",
+          "value": {
+            "label": "Wellington"
+          }
+        },
+        {
+          "label": "Largest city",
+          "value": {
+            "label": "Auckland"
+          }
+        },
+        {
+          "label": "Timezone",
+          "value": {
+            "label": "UTC+12 (UTC+13, summer)"
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Early settlement",
+          "id": "history_phase_1_title",
+          "note": "13th century CE",
+          "value": {
+            "label": "New Zealand was one of the last major landmasses settled by humans. It was discovered and settled by Polynesians, who developed a distinct Māori culture. The most current reliable evidence strongly indicates that initial settlement of New Zealand occurred 1280 – 1320 CE."
+          }
+        },
+        {
+          "label": "Early European Exploration",
+          "id": "history_phase_2_title",
+          "note": "16th -18th century CE",
+          "value": {
+            "label": "The first Europeans known to have reached New Zealand were Dutch explorer Abel Tasman and his crew. Europeans did not revisit New Zealand until 1769 when British explorer James Cook mapped almost the entire coastline. Numerous European and North American ships followed for trade. Between 1801 and 1840, numerous Maori inhabitants were killed during inter-tribal wars thus causing a decline in population."
+          }
+        },
+        {
+          "label": "Early European settlement",
+          "id": "history_phase_3_title",
+          "note": "Early 19th century CE",
+          "value": {
+            "label": "European settlement increased through the early decades of the 19th century. With signing of the Treaty of Waitangi in 1840 between Maori chiefs and the British, the latter established New Zealand as a colony under Queen Victoria. Discrepancies in the treaty led to disagreements and armed conflicts."
+          }
+        },
+        {
+          "label": "Colonial period",
+          "id": "history_phase_4_title",
+          "note": "Late 19th century",
+          "value": {
+            "label": "At first New Zealand was administered from Australia as part of the colony of New South Wales until New Zealand became a British colony in its own right in 1841. Some 400,000 settlers came from Britain, of whom 300,000 stayed permanently."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Government",
+      "cardType": "avatar",
+      "label": "The New Zealand Parliament holds legislative power and consists of the Queen and the House of Representatives. The House of Representatives is democratically elected and a government is formed from the party or coalition with the majority of seats.",
+      "facts": [
+        {
+          "label": "Prime minister name",
+          "value": {
+            "label": "Jacinda Ardern",
+            "image": {
+              "url": "/static/images/new_zealand/Jacinda_Ardern_at_the_University_of_Auckland_%28cropped%29.jpg",
+              "altText": "Picture of Jacinda Ardern",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Chief Justice name",
+          "value": {
+            "label": "Dame Helen Winkelmann",
+            "image": {
+              "url": "/static/images/new_zealand/Helen_Winkelmann_2014_%28cropped%29.jpg",
+              "altText": "Picture of Dame Helen Winkelmann",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">Attribution 4.0 International</a> license.</p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "New Zealand national cricket team",
+            "url": "/read/en/new_zealand_national_cricket_team",
+            "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
+            "image": {
+              "url": "/static/images/undefined/New_Zealand_Cricket_Cap_Insignia.svg",
+              "altText": "Picture of New Zealand national cricket team"
+            }
+          }
+        }
+      ]
+    }
+  ]
 }

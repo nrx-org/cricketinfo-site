@@ -18,5 +18,93 @@
       "url": "/read/ta/mumbai"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Total Area of country (km squared)",
+          "value": {
+            "label": "4355 km²"
+          }
+        },
+        {
+          "label": "Population",
+          "value": {
+            "label": "20,748,395"
+          }
+        },
+        {
+          "label": "Other names",
+          "value": {
+            "label": "Bombay, City of Seven Islands, City of Dreams, Gateway to India, Hollywood of India"
+          }
+        },
+        {
+          "label": "Timezone",
+          "value": {
+            "label": "UTC+5:30"
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Early history",
+          "id": "history_phase_1_title",
+          "note": "Unknown",
+          "value": {
+            "label": "Mumbai is built on what was once an archipelago of seven islands: Isle of Bombay, Parel, Mazagaon, Mahim, Colaba, Worli, and Old Woman's Island (also known as Little Colaba). It is not exactly known when these islands were first inhabited."
+          }
+        },
+        {
+          "label": "Portuguese rule",
+          "id": "history_phase_2_title",
+          "note": "1500s",
+          "value": {
+            "label": "The Portuguese were actively involved in the foundation and growth of their Roman Catholic religious orders in Bombay. They called the islands by various names, which finally took the written form Bombaim."
+          }
+        },
+        {
+          "label": "English rule",
+          "id": "history_phase_3_title",
+          "note": "17th Century",
+          "value": {
+            "label": "The English were in constant struggle with the Portuguese vying for  Bombay, as they recognised its strategic natural harbour and its natural isolation from land-attacks. By the middle of the 17th century the growing power of the Dutch Empire forced the English to acquire a station in western India."
+          }
+        },
+        {
+          "label": "Independent India",
+          "id": "history_phase_4_title",
+          "note": "1947",
+          "value": {
+            "label": "After India's independence in 1947, the territory of the Bombay Presidency retained by India was restructured into Bombay State. "
+          }
+        }
+      ]
+    },
+    {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "Mumbai Indians",
+            "url": "/read/en/mumbai_indians",
+            "contentUrl": "/static/content/en/mumbai_indians.json",
+            "image": {
+              "url": "/static/images/undefined/Mumbai_Indians_Logo.svg",
+              "altText": "Picture of Mumbai Indians"
+            }
+          }
+        }
+      ]
+    }
+  ]
 }

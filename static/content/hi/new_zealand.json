@@ -18,5 +18,127 @@
       "url": "/read/ta/new_zealand"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "ANZAC दिवस",
+          "value": {
+            "label": "25 अप्रैल"
+          }
+        },
+        {
+          "label": "वैतांगी दिवस",
+          "value": {
+            "label": "6 February"
+          }
+        },
+        {
+          "label": "Total Area of country (km squared)",
+          "value": {
+            "label": "268,021 वर्ग किमी"
+          }
+        },
+        {
+          "label": "Population",
+          "value": {
+            "label": "4,960,350 (2019 अनुमान)"
+          }
+        },
+        {
+          "label": "Other names",
+          "value": {
+            "label": "एटोरिया"
+          }
+        },
+        {
+          "label": "Capital city",
+          "value": {
+            "label": "वेलिंगटन"
+          }
+        },
+        {
+          "label": "Largest city",
+          "value": {
+            "label": "ऑकलैंड"
+          }
+        },
+        {
+          "label": "Timezone",
+          "value": {
+            "label": "UTC+12 (UTC+13, ग्रीष्म)"
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "प्रारंभिक बस्ती",
+          "id": "history_phase_1_title",
+          "note": "13 वीं शताब्दी ई.पू.",
+          "value": {
+            "label": "न्यूज़ीलैंड मनुष्यों द्वारा बसे अंतिम प्रमुख भूस्थलों में से एक था। इसे पॉलिनेशियनों द्वारा खोजा और बसाया गया, जिन्होंने एक विशिष्ट माओरी संस्कृति विकसित की। सबसे वर्तमान विश्वसनीय सबूत दृढ़ता से इंगित करता है कि न्यूजीलैंड का प्रारंभिक आवासन 1280 - 1320 ईस्वी में हुआ।"
+          }
+        },
+        {
+          "label": "प्रारंभिक यूरोपीय अन्वेषण",
+          "id": "history_phase_2_title",
+          "note": "16वीं -18वीं सदी ईस्वी",
+          "value": {
+            "label": "न्यूजीलैंड पहुंचने वाले पहले यूरोपीय डच अन्वेषक हाबिल तस्मान और उनका कर्मी दल था। यूरोपीय लोग 1769 तक न्यूजीलैंड वापस नहीं आए, जब ब्रिटिश खोजकर्ता जेम्स कुक ने लगभग पूरे समुद्र तट की मैपिंग की। कई यूरोपीय और उत्तरी अमेरिकी जहाज़ें व्यापार के लिए पीछे-पीछे आए। 1801 और 1840 के बीच, अंतर-आदिवासी युद्धों के दौरान कई माओरी निवासी मारे गए और इस तरह जनसंख्या में गिरावट आई।"
+          }
+        },
+        {
+          "label": "प्रारंभिक यूरोपीय बस्ती",
+          "id": "history_phase_3_title",
+          "note": "आरंभिक 19वीं सदी ईस्वी",
+          "value": {
+            "label": "19वीं शताब्दी के शुरुआती दशकों में यूरोपीय बस्तियों में वृद्धि हुई। 1840 में माओरी प्रमुखों और अंग्रेजों के बीच वतांगी की संधि पर हस्ताक्षर करने के साथ, बाद में क्वीन विक्टोरिया के तहत एक उपनिवेश के रूप में न्यूजीलैंड की स्थापना हुई। संधि की विसंगतियों के कारण असहमति और सशस्त्र संघर्ष उत्पन्ऩ हुए।"
+          }
+        },
+        {
+          "label": "उपनिवेश काल",
+          "id": "history_phase_4_title",
+          "note": "परवर्ती 19वीं सदी",
+          "value": {
+            "label": "सबसे पहले न्यूजीलैंड को न्यू साउथ वेल्स की कॉलोनी के हिस्से के रूप में ऑस्ट्रेलिया से प्रशासित किया गया था जब तक कि 1841 में न्यूजीलैंड अपने आप में एक ब्रिटिश कॉलोनी नहीं बन गया। कुछ 400,000 आबादकार ब्रिटेन से आए, जिनमें से 300,000 स्थायी रूप से बसे रहे।"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Government",
+      "cardType": "avatar",
+      "label": "न्यूजीलैंड की संसद में विधायी शक्ति है और इसमें महारानी और प्रतिनिधि सभा शामिल हैं। प्रतिनिधि सभा लोकतांत्रिक रूप से चुनी जाती है और बहुमत से सीटों के साथ पार्टी या गठबंधन से सरकार बनाई जाती है।",
+      "facts": [
+        {
+          "label": "Prime minister name",
+          "value": {
+            "label": "जैकिंडा अर्डर्न",
+            "image": {
+              "url": "/static/images/new_zealand/Jacinda_Ardern_at_the_University_of_Auckland_%28cropped%29.jpg",
+              "altText": "Picture of जैकिंडा अर्डर्न",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Chief Justice name",
+          "value": {
+            "label": "डेम हेलेन विंकेलमैन",
+            "image": {
+              "url": "/static/images/new_zealand/Helen_Winkelmann_2014_%28cropped%29.jpg",
+              "altText": "Picture of डेम हेलेन विंकेलमैन",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">Attribution 4.0 International</a> license.</p>"
+            }
+          }
+        }
+      ]
+    }
+  ]
 }

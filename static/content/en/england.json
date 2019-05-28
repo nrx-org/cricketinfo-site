@@ -18,5 +18,132 @@
       "url": "/read/ta/england"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "St George's Day",
+          "value": {
+            "label": "23 April"
+          }
+        },
+        {
+          "label": "Total Area of country (km squared)",
+          "value": {
+            "label": "130,279 km²"
+          }
+        },
+        {
+          "label": "Population",
+          "value": {
+            "label": "55619400 (2017 estimate)"
+          }
+        },
+        {
+          "label": "Capital city",
+          "value": {
+            "label": "London"
+          }
+        },
+        {
+          "label": "Largest city",
+          "value": {
+            "label": "London"
+          }
+        },
+        {
+          "label": "Timezone",
+          "value": {
+            "label": "UTC, UTC+1 (Summer)"
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Palaeolithic",
+          "id": "history_phase_1_title",
+          "note": "500000 years ago and prior",
+          "value": {
+            "label": "The earliest known occupation of Britain by humans was during the old stone age. This huge period saw many changes in the environment, including the ice ages that greatly affecting human settlement in the region."
+          }
+        },
+        {
+          "label": "Neolithic",
+          "id": "history_phase_2_title",
+          "note": "4300 – 2000 BC",
+          "value": {
+            "label": "During the Neolithic era a more settled way of life was introduced although only a few actual settlement sites are known in Britain. "
+          }
+        },
+        {
+          "label": "Iron Age",
+          "id": "history_phase_3_title",
+          "note": "750 BC – 43 AD",
+          "value": {
+            "label": "It is generally thought that by 500 BC most people inhabiting the British Isles were speaking Common Brythonic. Iron Age Britons lived in organised tribal groups, ruled by a chieftain. As people became more numerous, wars broke out between opposing tribes."
+          }
+        },
+        {
+          "label": "Middle ages",
+          "id": "history_phase_4_title",
+          "note": "5th to 15th century AD",
+          "value": {
+            "label": "When England emerged from the collapse of the Roman Empire, the economy was in tatters and many of the towns abandoned. A rich artistic culture flourished under the Anglo-Saxons. They converted to Christianity in the 7th century and a network of monasteries and convents was built across England."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Government",
+      "cardType": "avatar",
+      "label": "As part of the United Kingdom, the basic political system in England is a constitutional monarchy and parliamentary system.",
+      "facts": [
+        {
+          "label": "Prime minister name",
+          "value": {
+            "label": "Theresa May",
+            "image": {
+              "url": "/static/images/england/Theresa_May_portrait.jpg",
+              "altText": "Picture of Theresa May"
+            }
+          }
+        },
+        {
+          "label": "Chief Justice name",
+          "value": {
+            "label": "Ian Duncan Burnett, Baron Burnett of Maldon, PC",
+            "image": {
+              "url": "/static/images/england/Royal_Coat_of_Arms_of_the_United_Kingdom.svg",
+              "altText": "Picture of Ian Duncan Burnett, Baron Burnett of Maldon, PC"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "England cricket team",
+            "url": "/read/en/england_cricket_team",
+            "contentUrl": "/static/content/en/england_cricket_team.json",
+            "image": {
+              "url": "/static/images/undefined/England_cricket_team_logo.svg",
+              "altText": "Picture of England cricket team"
+            }
+          }
+        }
+      ]
+    }
+  ]
 }

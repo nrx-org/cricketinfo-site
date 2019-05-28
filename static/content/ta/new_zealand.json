@@ -18,5 +18,127 @@
       "url": "/read/hi/new_zealand"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "அன்சாக் நாள் ",
+          "value": {
+            "label": "25 ஏப்ரல்"
+          }
+        },
+        {
+          "label": "Waitangi day",
+          "value": {
+            "label": "6 February"
+          }
+        },
+        {
+          "label": "Total Area of country (km squared)",
+          "value": {
+            "label": "268021 சதுர கிமீ"
+          }
+        },
+        {
+          "label": "Population",
+          "value": {
+            "label": "4,960,350 (2019 மதிப்பீட்டின் படி)"
+          }
+        },
+        {
+          "label": "Other names",
+          "value": {
+            "label": "Aotearoa"
+          }
+        },
+        {
+          "label": "Capital city",
+          "value": {
+            "label": "வெல்லிங்டன்"
+          }
+        },
+        {
+          "label": "Largest city",
+          "value": {
+            "label": "ஆக்லாந்து"
+          }
+        },
+        {
+          "label": "Timezone",
+          "value": {
+            "label": "UTC+12 (UTC+13, கோடை)"
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Early settlement",
+          "id": "history_phase_1_title",
+          "note": "கிபி 13 ஆம் நூற்றாண்டு",
+          "value": {
+            "label": "மனிதர்கள் இறுதியாக வந்து குடியேறிய பெரும் நிலப்பரப்புகளில் ஒன்றாக நியூசிலாந்து இருந்தது. தனித்துவம் வாய்ந்த மாவோரி கலாச்சாரத்தை உருவாக்கிய பாலினேசியர்கள் அதனைக் கண்டறிந்து அங்கு குடியேறினர். தற்போதைய நம்பகமான சான்றுகள், கிமு 1280 முதல் கிமு 1320 வரையிலான காலகட்டத்தில் நியூசிலாந்தின் ஆரம்பகாலக் குடியேற்றங்கள் நிகழ்ந்ததாக வலுவாகச் சுட்டிக் காட்டுகின்றன."
+          }
+        },
+        {
+          "label": "ஆரம்பகால ஐரோப்பிய ஆய்வுப்பயணம்",
+          "id": "history_phase_2_title",
+          "note": "கிபி 16 - 18 ஆம் நூற்றாண்டு",
+          "value": {
+            "label": "டச்சு ஆராய்ச்சியாளரான ஆபெல் டாஸ்மான் மற்றும் அவருடைய குழுவினர் நியூசிலாந்துக்கு வருகைபுரிந்த முதல் ஐரோப்பியர்களாக அறியப்படுகின்றனர். 1769 வரை ஐரோப்பியர்கள் நியூசிலார்ந்துக்கு மீண்டும் செல்லவில்லை. பிரிட்டனைச் சேர்ந்த ஆய்வுப்பயணம் மேற்கொள்பவரான ஜேம்ஸ் குக், கிட்டத்தட்ட முழுக் கடல்வழிகளையும் வரைபடமாக வரைந்த பின்னர், பல ஐரோப்பிய மற்றும் வட அமெரிக்கக் கப்பல்கள் வணிகம் மேற்கொள்வதற்காக அங்கு சென்றன. 1801 மற்றும் 1840 க்கு இடைப்பட்ட காலத்தில், உள்நாட்டுப் பழங்குடியினருக்கு இடையே ஏற்பட்ட போரில் பல்வேறு மாவோரி பழங்குடியினர் கொல்லப்பட்டனர். இதனால் மக்கள்தொகையில் ஒரு சரிவு ஏற்பட்டது."
+          }
+        },
+        {
+          "label": "ஆரம்பகால ஐரோப்பியக் குடியேற்றம்",
+          "id": "history_phase_3_title",
+          "note": "கிபி - 19 ஆம் நூற்றாண்டின் ஆரம்பம்",
+          "value": {
+            "label": "19 ஆம் நூற்றாண்டின் ஆரம்ப தசாப்தங்களில் ஐரோப்பியக் குடியேற்றம் அதிகரித்தது. 1840 ஆம் ஆண்டில் மாவோரித் தலைவர்களுக்கும் பிரிட்டனுக்கும் இடையே வைட்டாங்கி உடன்படிக்கை கையெழுத்திடப்பட்டதன் மூலம், நியூசிலாந்து விக்டோரியா மகாராணியின் கீழ் ஒரு காலணியாக நிறுவப்பட்டது. அந்த உடன்படிக்கையில் பல முரண்பாடுகள் இருந்ததால் அது கருத்து வேறுபாடுகள் ஏற்படவும் மோதலுக்கும் வழிவகுத்தது."
+          }
+        },
+        {
+          "label": "காலனி ஆதிக்கக் காலம்",
+          "id": "history_phase_4_title",
+          "note": "19 ஆம் நூற்றாண்டின் பிற்பகுதி",
+          "value": {
+            "label": "1841 ஆம் ஆண்டில் நியூசிலாந்து தனக்கென்ற உரிமைகளுடன் பிரிட்டிஷ் காலனி ஆதிக்கத்தின் கீழ் வருவதற்கு முன்பு வரை, நியூசிலாந்து நியூ சவுத் வேல்ல் காலனியின் ஒரு பகுதியாக ஆஸ்திரேலியாவில் இருந்து நிர்வகிக்கப்பட்டு வந்தது. அந்த சமயத்தில் சுமார் 400,000 மக்கள் அங்கு வந்து குடியேறினர், அவர்களில் சுமார் 300,000 மக்கள் நிரந்தரமாக அங்கேயே தங்கிவிட்டனர். "
+          }
+        }
+      ]
+    },
+    {
+      "title": "Government",
+      "cardType": "avatar",
+      "label": "நியூசிலாந்து பாராளுமன்றம் சட்டசபை அதிகாரத்தைக் கொண்டுள்ளதுடன் ராணி மற்றும் பிரதிநிதிகள் சபையை உள்ளடக்கியுள்ளது. பிரதிநிதிகள் மன்றம் ஜனநாயக முறையில் தேர்ந்தெடுக்கப்படுவதோடு பெரும்பான்மை இடங்களைக் கொண்ட கட்சி அல்லது கூட்டணியின் மூலம் சட்டசபை அமைக்கப்படுகிறது.",
+      "facts": [
+        {
+          "label": "Prime minister name",
+          "value": {
+            "label": "ஜெசிந்தா ஆர்டர்ன்",
+            "image": {
+              "url": "/static/images/new_zealand/Jacinda_Ardern_at_the_University_of_Auckland_%28cropped%29.jpg",
+              "altText": "Picture of ஜெசிந்தா ஆர்டர்ன்",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Chief Justice name",
+          "value": {
+            "label": "டேம் ஹெலன் வின்கெல்மேன்",
+            "image": {
+              "url": "/static/images/new_zealand/Helen_Winkelmann_2014_%28cropped%29.jpg",
+              "altText": "Picture of டேம் ஹெலன் வின்கெல்மேன்",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">Attribution 4.0 International</a> license.</p>"
+            }
+          }
+        }
+      ]
+    }
+  ]
 }

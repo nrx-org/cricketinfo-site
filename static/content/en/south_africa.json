@@ -18,5 +18,145 @@
       "url": "/read/ta/south_africa"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Independence Day",
+          "value": {
+            "label": "31 May 1910"
+          }
+        },
+        {
+          "label": "Republic Day",
+          "value": {
+            "label": "31 May 1961"
+          }
+        },
+        {
+          "label": "Total Area of country (km squared)",
+          "value": {
+            "label": "1221037 km²"
+          }
+        },
+        {
+          "label": "Population",
+          "value": {
+            "label": "57725600 (2018 estimate)"
+          }
+        },
+        {
+          "label": "Other names",
+          "value": {
+            "label": "Union of South Africa, Republic of South Africa, Mzansi, Azania"
+          }
+        },
+        {
+          "label": "Capital city",
+          "value": {
+            "label": "Pretoria (executive), Bloemfontein (judicial), Cape Town (legislative)"
+          }
+        },
+        {
+          "label": "Largest city",
+          "value": {
+            "label": "Johannesburg"
+          }
+        },
+        {
+          "label": "Timezone",
+          "value": {
+            "label": "UTC+2"
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Prehistoric archaeology",
+          "id": "history_phase_1_title",
+          "note": "",
+          "value": {
+            "label": "Various hominid species existed in South Africa from about three million years ago, starting with Australopithecus africanus. Archaeologists have recovered extensive fossil remains from a series of caves in Gauteng Province."
+          }
+        },
+        {
+          "label": "Bantu expansion",
+          "id": "history_phase_2_title",
+          "note": "",
+          "value": {
+            "label": "Settlements of Bantu-speaking peoples, who were iron-using agriculturists and herdsmen, were already present south of the Limpopo River (now the northern border with Botswana and Zimbabwe) by the 4th or 5th century CE. They displaced, conquered and absorbed the original Khoisan speakers, the Khoikhoi and San peoples."
+          }
+        },
+        {
+          "label": "Portuguese contacts",
+          "id": "history_phase_3_title",
+          "note": "1487",
+          "value": {
+            "label": "At the time of European contact, the dominant ethnic group were Bantu-speaking peoples who had migrated from other parts of Africa about one thousand years before. The two major historic groups were the Xhosa and Zulu peoples. In 1487, the Portuguese explorer Bartolomeu Dias led the first European voyage to land in southern Africa."
+          }
+        },
+        {
+          "label": "Dutch colonisation",
+          "id": "history_phase_4_title",
+          "note": "1652",
+          "value": {
+            "label": "A century and a half after the discovery of the Cape sea route, Jan van Riebeeck established a victualling station at the Cape of Good Hope, at what would become Cape Town, on behalf of the Dutch East India Company."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Government",
+      "cardType": "avatar",
+      "label": "South Africa is a parliamentary republic, although unlike most such republics the President is both head of state and head of government, and depends for his tenure on the confidence of Parliament.",
+      "facts": [
+        {
+          "label": "President",
+          "value": {
+            "label": "Cyril Ramaphosa",
+            "image": {
+              "url": "/static/images/south_africa/Cyril_Ramaphosa_%2842783408010%29.jpg",
+              "altText": "Picture of Cyril Ramaphosa",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Chief Justice name",
+          "value": {
+            "label": "Thomas Reetsang Mogoeng",
+            "image": {
+              "url": "",
+              "altText": "Picture of Thomas Reetsang Mogoeng"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "South Africa national cricket team",
+            "url": "/read/en/south_africa_national_cricket_team",
+            "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
+            "image": {
+              "url": "/static/images/undefined/Southafrica_cricket_logo.svg",
+              "altText": "Picture of South Africa national cricket team"
+            }
+          }
+        }
+      ]
+    }
+  ]
 }

@@ -18,5 +18,146 @@
       "url": "/read/ta/australia"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Federation Constitution",
+          "value": {
+            "label": "1 January 1901"
+          }
+        },
+        {
+          "label": "Statute of Westminster Adoption Act",
+          "value": {
+            "label": "9 October 1942"
+          }
+        },
+        {
+          "label": "Australia Act",
+          "value": {
+            "label": "3 March 1986"
+          }
+        },
+        {
+          "label": "Total Area of country (km squared)",
+          "value": {
+            "label": "7692024 km²"
+          }
+        },
+        {
+          "label": "Population",
+          "value": {
+            "label": "25,346,300 (2019 estimate)"
+          }
+        },
+        {
+          "label": "Capital city",
+          "value": {
+            "label": "Canberra"
+          }
+        },
+        {
+          "label": "Largest city",
+          "value": {
+            "label": "Sydney"
+          }
+        },
+        {
+          "label": "Timezone",
+          "value": {
+            "label": "UTC+8; +9.5; +10; Summer UTC+8; +9.5; +10; +10.5; +11"
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Pre-colonial history",
+          "id": "history_phase_1_title",
+          "note": "65,000 to 70,000 years ago",
+          "value": {
+            "label": "Human habitation of the Australian continent is estimated to have begun around 65,000 to 70,000 years ago with the migration of people by land bridges and short sea-crossings from what is now Southeast Asia."
+          }
+        },
+        {
+          "label": "European arrival",
+          "id": "history_phase_2_title",
+          "note": "1600s",
+          "value": {
+            "label": "The first recorded European sighting of the Australian mainland, and the first recorded European landfall on the Australian continent (in 1606), are attributed to the Dutch."
+          }
+        },
+        {
+          "label": "Colonial Expansion",
+          "id": "history_phase_3_title",
+          "note": "1850s",
+          "value": {
+            "label": "A gold rush began in Australia in the early 1850s and the Eureka Rebellion against mining license fees in 1854 was an early expression of civil disobedience."
+          }
+        },
+        {
+          "label": "Nationhood",
+          "id": "history_phase_4_title",
+          "note": "1900s",
+          "value": {
+            "label": "On 1 January 1901, federation of the colonies was achieved after a decade of planning, consultation and voting. This established the Commonwealth of Australia as a dominion of the British Empire."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Government",
+      "cardType": "avatar",
+      "label": "Australia is a federal parliamentary constitutional monarchy. Elizabeth II reigns as Queen of Australia. Since she resides in the United Kingdom, she is represented in Australia by the governor-general at the federal level and by the governors at the state level, who by convention act on the advice of her ministers.",
+      "facts": [
+        {
+          "label": "Prime minister name",
+          "value": {
+            "label": "Scott Morrison",
+            "image": {
+              "url": "/static/images/australia/Scott_Morrison_2014.jpg",
+              "altText": "Picture of Scott Morrison",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">Attribution 4.0 International</a> license.</p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Chief Justice name",
+          "value": {
+            "label": "Governor General Peter Cosgrove",
+            "image": {
+              "url": "/static/images/australia/Peter_Cosgrove_2017_%281%29_crop.jpg",
+              "altText": "Picture of Governor General Peter Cosgrove",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "Australia Cricket team",
+            "url": "/read/en/australia_cricket_team",
+            "contentUrl": "/static/content/en/australia_cricket_team.json",
+            "image": {
+              "url": "/static/images/undefined/Australia_cricket_logo.svg",
+              "altText": "Picture of Australia Cricket team"
+            }
+          }
+        }
+      ]
+    }
+  ]
 }

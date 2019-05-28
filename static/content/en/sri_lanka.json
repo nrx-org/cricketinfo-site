@@ -18,5 +18,156 @@
       "url": "/read/ta/sri_lanka"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Independence Day",
+          "value": {
+            "label": "4 February 1948"
+          }
+        },
+        {
+          "label": "Republic Day",
+          "value": {
+            "label": "22 May 1972 "
+          }
+        },
+        {
+          "label": "Total Area of country (km squared)",
+          "value": {
+            "label": "65610 km²"
+          }
+        },
+        {
+          "label": "Population",
+          "value": {
+            "label": "21,670,000 (2018)"
+          }
+        },
+        {
+          "label": "Other names",
+          "value": {
+            "label": "Ceylon"
+          }
+        },
+        {
+          "label": "Capital city",
+          "value": {
+            "label": "Sri Jayawardenepura Kotte"
+          }
+        },
+        {
+          "label": "Largest city",
+          "value": {
+            "label": "Colombo"
+          }
+        },
+        {
+          "label": "Timezone",
+          "value": {
+            "label": "UTC+5:30"
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Prehistory",
+          "id": "history_phase_1_title",
+          "note": "",
+          "value": {
+            "label": "Evidence of human colonization in Sri Lanka appears at the site of Balangoda. Balangoda Man arrived on the island about 34,000 years ago and have been identified as Mesolithic hunter gatherers who lived in caves. "
+          }
+        },
+        {
+          "label": "Pre Anuradhapura period",
+          "id": "history_phase_2_title",
+          "note": "377 BCE–1017",
+          "value": {
+            "label": "The Pre Anuradhapura period or the Early kingdoms period of Sri Lankan history begins with the gradual onset of historical records in the final centuries of the prehistoric period and ending in 377 BC. According to the Mahavamsa, the original inhabitants of Sri Lanka are the Yakshas and northern Naga tribes."
+          }
+        },
+        {
+          "label": "Anuradhapura period",
+          "id": "history_phase_3_title",
+          "note": "377 BCE–1017",
+          "value": {
+            "label": "The Anuradhapura period was a period in the history of Sri Lanka of the Anuradhapura Kingdom from 377 BC to 1017 AD. The period begins when Pandukabhaya, King of Upatissa Nuwara moved the administration to Anuradhapura, becoming the kingdom's first monarch. Anuradhapura is heralded as an ancient cosmopolitan citadel with diverse populations."
+          }
+        },
+        {
+          "label": "Polonnaruwa period",
+          "id": "history_phase_4_title",
+          "note": "1056–1232",
+          "value": {
+            "label": "The Polonnaruwa period was a period in the history of Sri Lanka of the Kingdom of Polonnaruwa from 1056 to 1236. The period begins after the Chola conquest of Anuradhapura."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Government",
+      "cardType": "avatar",
+      "label": "Politics of Sri Lanka takes place in a framework of a semi-presidential representative democratic republic, whereby the President of Sri Lanka is both head of state and head of government, and of a multi-party system. Executive power is exercised by the government. Legislative power is vested in both the government and Parliament.",
+      "facts": [
+        {
+          "label": "Prime minister name",
+          "value": {
+            "label": "Ranil Wickremesinghe",
+            "image": {
+              "url": "/static/images/sri_lanka/Prime_Minister_Ranil_Wickremesinghe_Portrait%2C_2017.jpg",
+              "altText": "Picture of Ranil Wickremesinghe",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "President",
+          "value": {
+            "label": "Maithripala Sirisena",
+            "image": {
+              "url": "/static/images/sri_lanka/Maithripala-_Russia_%28portrait%29.jpg",
+              "altText": "Picture of Maithripala Sirisena",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">Attribution 4.0 International</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Chief Justice name",
+          "value": {
+            "label": "Justice Hettikankanange Nalin Jayalath Perera ",
+            "image": {
+              "url": "",
+              "altText": "Picture of Justice Hettikankanange Nalin Jayalath Perera "
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "Sri Lanka national cricket team",
+            "url": "/read/en/sri_lanka_national_cricket_team",
+            "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
+            "image": {
+              "url": "/static/images/undefined/Sri_Lanka_Cricket_Cap_Insignia.svg",
+              "altText": "Picture of Sri Lanka national cricket team"
+            }
+          }
+        }
+      ]
+    }
+  ]
 }

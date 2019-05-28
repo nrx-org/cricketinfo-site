@@ -18,5 +18,126 @@
       "url": "/read/ta/south_africa"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "स्वतंत्रता दिवस\n",
+          "value": {
+            "label": "31 मई 1910"
+          }
+        },
+        {
+          "label": "गणतंत्र दिवस\n",
+          "value": {
+            "label": "31 May 1961"
+          }
+        },
+        {
+          "label": "Total Area of country (km squared)",
+          "value": {
+            "label": "1221037 वर्ग किमी"
+          }
+        },
+        {
+          "label": "Population",
+          "value": {
+            "label": "57725600 (2018 अनुमान)"
+          }
+        },
+        {
+          "label": "Other names",
+          "value": {
+            "label": "दक्षिण अफ्रीका, दक्षिण अफ्रीका के गणराज्य, मन्ज़सी, अज़ानिया का संघ"
+          }
+        },
+        {
+          "label": "Capital city",
+          "value": {
+            "label": "प्रिटोरिया (कार्यकारी), ब्लोम्फोनेटिन (न्यायिक), केप टाउन (विधायी)"
+          }
+        },
+        {
+          "label": "Largest city",
+          "value": {
+            "label": "जोहानसबर्ग"
+          }
+        },
+        {
+          "label": "Timezone",
+          "value": {
+            "label": "UTC+2"
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "प्रागैतिहासिक पुरातत्व",
+          "id": "history_phase_1_title",
+          "note": "",
+          "value": {
+            "label": "विभिन्न होमिनिड प्रजातियाँ दक्षिण अफ्रीका में लगभग तीस लाख साल पहले से मौजूद थीं, जिसकी शुरुआत आस्ट्रेलोपिथेकस अफ्रीकी से हुई थी। पुरातत्वविदों ने गौतेंग प्रांत में गुफाओं की श्रृंखला से व्यापक जीवाश्म अवशेष बरामद किए हैं।"
+          }
+        },
+        {
+          "label": "बंटू विस्तरण",
+          "id": "history_phase_2_title",
+          "note": "",
+          "value": {
+            "label": "बंटू बोलने वाले लोगों की बस्तियाँ, जो लोहे का उपयोग करने वाले कृषक और चरवाहे थे, पहले से ही 4 या 5 वीं शताब्दी तक लिम्पोपो नदी (अब बोत्सवाना और जिम्बाब्वे के बीच उत्तरी सीमा) के दक्षिण में मौजूद थे। उन्होंने मूल खोइसन बोलने वाले, खोईखोई और सैन लोगों को विस्थापित किया, जीत लिया और अवशोषित कर लिया।"
+          }
+        },
+        {
+          "label": "पुर्तगाली संपर्क",
+          "id": "history_phase_3_title",
+          "note": "1487",
+          "value": {
+            "label": "यूरोपीय संपर्क के समय, प्रमुख जातीय समूह बंटू बोलने वाले लोग थे, जो लगभग एक हजार साल पहले अफ्रीका के अन्य हिस्सों से चले गए थे। दो प्रमुख ऐतिहासिक समूह झोसा और ज़ुलु लोग थे। 1487 में, पुर्तगाली खोजकर्ता बार्टोलोमू डायस ने दक्षिणी अफ्रीका में उतरने वाली पहली यूरोपीय यात्रा का नेतृत्व किया।"
+          }
+        },
+        {
+          "label": "डच उपनिवेशिकरण",
+          "id": "history_phase_4_title",
+          "note": "1652",
+          "value": {
+            "label": "केप समुद्री मार्ग की खोज के डेढ़ सदी बाद, जन वैन रिबेक ने डच ईस्ट इंडिया कंपनी की ओर से केप टाउन ऑफ गुड होप में एक विक्चुअलाइजिंग स्टेशन की स्थापना की।"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Government",
+      "cardType": "avatar",
+      "label": "दक्षिण अफ्रीका एक संसदीय गणतंत्र है, हालांकि अधिकांश ऐसे गणराज्यों के विपरीत राष्ट्रपति राज्य के प्रमुख और सरकार के प्रमुख हैं, और संसद के विश्वास पर उनके कार्यकाल के लिए निर्भर करता है।",
+      "facts": [
+        {
+          "label": "President",
+          "value": {
+            "label": "सिरिल रामाफोसा",
+            "image": {
+              "url": "/static/images/south_africa/Cyril_Ramaphosa_%2842783408010%29.jpg",
+              "altText": "Picture of सिरिल रामाफोसा",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Chief Justice name",
+          "value": {
+            "label": "थॉमस रेत्सांग मोगेंग",
+            "image": {
+              "url": "",
+              "altText": "Picture of थॉमस रेत्सांग मोगेंग"
+            }
+          }
+        }
+      ]
+    }
+  ]
 }

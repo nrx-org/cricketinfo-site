@@ -18,5 +18,127 @@
       "url": "/read/ta/australia"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "संघ संविधान",
+          "value": {
+            "label": "1 जनवरी 1901"
+          }
+        },
+        {
+          "label": "वेस्टमिंस्टर दत्तक ग्रहण अधिनियम",
+          "value": {
+            "label": "9 अक्टूबर 1942 का क़ानून"
+          }
+        },
+        {
+          "label": "आस्ट्रेलिया एक्ट ",
+          "value": {
+            "label": "3 मार्च 1986"
+          }
+        },
+        {
+          "label": "Total Area of country (km squared)",
+          "value": {
+            "label": "7692024 वर्ग किमी"
+          }
+        },
+        {
+          "label": "Population",
+          "value": {
+            "label": "25,346,300 (2019 अनुमान)"
+          }
+        },
+        {
+          "label": "Capital city",
+          "value": {
+            "label": "कैनबरा"
+          }
+        },
+        {
+          "label": "Largest city",
+          "value": {
+            "label": "सिडनी"
+          }
+        },
+        {
+          "label": "Timezone",
+          "value": {
+            "label": "UTC+8; +9.5; +10; ग्रीष्म UTC+8; +9.5; +10; +10.5; +11"
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "पूर्व-औपनिवेशिक इतिहास",
+          "id": "history_phase_1_title",
+          "note": "65,000 से 70,000 साल पहले",
+          "value": {
+            "label": "ऑस्ट्रेलियाई महाद्वीप की मानव बस्ती लगभग 65,000 से 70,000 साल पहले अब के दक्षिण-पूर्व एशिया में भूमि पुलों और छोटे समुद्री-क्रॉसिंग द्वारा लोगों के प्रवास के साथ शुरू हुई थी।"
+          }
+        },
+        {
+          "label": "यूरोपीय आगमन",
+          "id": "history_phase_2_title",
+          "note": "16वीं सदी",
+          "value": {
+            "label": "ऑस्ट्रेलियाई मुख्य भूमि पर यूरोपीयों की उपस्थिति के पहले रिकॉर्ड, और (1606 में) ऑस्ट्रेलियाई महाद्वीप पर पहला रिकॉर्ड किए गए यूरोपीय लैंडफॉल के लिए डच को श्रेय दिया जाता है।"
+          }
+        },
+        {
+          "label": "औपनिवेशिक विस्तार",
+          "id": "history_phase_3_title",
+          "note": "1850 का समय",
+          "value": {
+            "label": "ऑस्ट्रेलिया में 1850 के दशक की शुरुआत में सोने के लिए एक दौड़ शुरू हुई और 1854 में खनन लाइसेंस फीस के खिलाफ यूरेका विद्रोह सविनय अवज्ञा की प्रारंभिक अभिव्यक्ति थी।"
+          }
+        },
+        {
+          "label": "राष्ट्रीयता",
+          "id": "history_phase_4_title",
+          "note": "1900 का समय",
+          "value": {
+            "label": "1 जनवरी 1901 को, एक दशक की योजना, परामर्श और मतदान के बाद कॉलोनियों के महासंघ की स्थापना हुई। इसने ब्रिटिश साम्राज्य के प्रभुत्व में ऑस्ट्रेलिया के राष्ट्रमंडल की स्थापना की।"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Government",
+      "cardType": "avatar",
+      "label": "ऑस्ट्रेलिया एक संघीय संसदीय संवैधानिक राजतंत्र है। एलिजाबेथ द्वितीय ने ऑस्ट्रेलिया की रानी के रूप में शासन किया। चूंकि वह यूनाइटेड किंगडम में रहती है, इसलिए उसका प्रतिनिधित्व ऑस्ट्रेलिया में संघीय स्तर पर गवर्नर-जनरल और राज्य स्तर पर राज्यपालों द्वारा किया जाता है, जो उसके मंत्रियों की सलाह पर कन्वेंशन एक्ट द्वारा किया जाता है।",
+      "facts": [
+        {
+          "label": "Prime minister name",
+          "value": {
+            "label": "स्कॉट मॉरिसन ",
+            "image": {
+              "url": "/static/images/australia/Scott_Morrison_2014.jpg",
+              "altText": "Picture of स्कॉट मॉरिसन ",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">Attribution 4.0 International</a> license.</p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Chief Justice name",
+          "value": {
+            "label": "गवर्नर जनरल पीटर कॉसग्रोव",
+            "image": {
+              "url": "/static/images/australia/Peter_Cosgrove_2017_%281%29_crop.jpg",
+              "altText": "Picture of गवर्नर जनरल पीटर कॉसग्रोव",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            }
+          }
+        }
+      ]
+    }
+  ]
 }
