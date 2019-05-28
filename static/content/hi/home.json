@@ -263,337 +263,708 @@
     "id": 1,
     "columns": [
       [
+        null,
+        null,
         {
-          "label": "India",
-          "id": "0",
-          "url": "/wiki/en/Team_India",
+          "label": "2007 क्रिकेट विश्व कप",
+          "id": "P6",
+          "url": "/read/hi/2007_cricket_world_cup",
           "value": {
-            "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-            "url": "/wiki/en/Team_India",
+            "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
             "image": {
-              "url": "/static/images/india.png",
-              "altText": "An image of the Indian flag"
+              "altText": "Image for 2007 क्रिकेट विश्व कप",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "England",
-          "id": "1",
+          "label": "2011 क्रिकेट विश्व कप",
+          "id": "P7",
+          "url": "/read/hi/2011_cricket_world_cup",
           "value": {
-            "label": "Represents England and Wales in international cricket and drinks too much tea.",
-            "url": "/wiki/en/Team_England",
+            "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
-              "altText": "An image of the English flag"
-            }
-          }
-        },
-        {
-          "label": "Australia",
-          "id": "2",
-          "url": "/wiki/en/Team_Koala",
-          "value": {
-            "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-            "url": "/wiki/en/Team_Koala",
-            "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
-              "altText": "An image of the Australian flag"
-            }
-          }
-        },
-        {
-          "label": "Pakistan",
-          "id": "2",
-          "value": {
-            "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-            "url": "/wiki/en/Team_Rocket",
-            "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
-              "altText": "An image of the Pakistani flag"
+              "altText": "Image for 2011 क्रिकेट विश्व कप",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         }
       ],
       [
         {
-          "label": "India",
-          "id": "0",
+          "label": "विराट कोहली",
+          "id": "O1",
+          "url": "/read/hi/virat_kohli",
           "value": {
-            "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-            "url": "/wiki/en/Team_India",
+            "label": "विराट कोहली भारत के एक  अन्‍तर्राष्ट्रीय क्रिकेटर हैं जो वर्तमान में भारत की राष्ट्रीय टीम के कप्तान हैं।",
             "image": {
-              "url": "/static/images/india.png",
-              "altText": "An image of the Indian flag"
+              "altText": "Image for विराट कोहली",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "England",
-          "id": "1",
+          "label": "महेन्द्र सिंह धोनी",
+          "id": "O2",
+          "url": "/read/hi/mahendra_singh_dhoni",
           "value": {
-            "label": "Represents England and Wales in international cricket and drinks too much tea.",
-            "url": "/wiki/en/Team_England",
+            "label": "महेंद्र सिंह धोनी एक भारतीय अन्‍तर्राष्ट्रीय क्रिकेटर हैं, जिन्होंने 2007 से 2016 तक सीमित ओवरों के प्रारूप में और 2008 से 2014 तक टेस्ट क्रिकेट में भारतीय राष्ट्रीय टीम की कप्तानी की।",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
-              "altText": "An image of the English flag"
+              "altText": "Image for महेन्द्र सिंह धोनी",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "Australia",
-          "id": "2",
+          "label": "रोहित शर्मा",
+          "id": "O3",
+          "url": "/read/hi/rohit_sharma",
           "value": {
-            "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-            "url": "/wiki/en/Team_Koala",
+            "label": "रोहित शर्मा एक भारतीय अन्‍तर्राष्ट्रीय क्रिकेटर हैं जो सीमित ओवरों के प्रारूप में भारत की राष्ट्रीय टीम के उप-कप्तान हैं।",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
-              "altText": "An image of the Australian flag"
+              "altText": "Image for रोहित शर्मा",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "Pakistan",
-          "id": "2",
+          "label": "शिखर धवन",
+          "id": "O4",
+          "url": "/read/hi/shikhar_dhawan",
           "value": {
-            "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-            "url": "/wiki/en/Team_Rocket",
+            "label": "शिखर धवन भारत के एक अन्‍तर्राष्ट्रीय क्रिकेटर हैं।",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
-              "altText": "An image of the Pakistani flag"
+              "altText": "Image for शिखर धवन",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         }
       ],
       [
         {
-          "label": "India",
-          "id": "0",
+          "label": "सचिन तेंदुलकर",
+          "id": "O5",
+          "url": "/read/hi/sachin_tendulkar",
           "value": {
-            "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-            "url": "/wiki/en/Team_India",
+            "label": "सचिन तेंदुलकर भारत के पूर्व अन्‍तर्राष्ट्रीय क्रिकेटर हैं, जिन्हें अब तक के महानतम बल्लेबाजों में से एक माना जाता है। वे अन्‍तर्राष्ट्रीय क्रिकेट में अब तक के सबसे ज्यादा रन बनाने वाले खिलाड़ी हैं।",
             "image": {
-              "url": "/static/images/india.png",
-              "altText": "An image of the Indian flag"
+              "altText": "Image for सचिन तेंदुलकर",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "England",
-          "id": "1",
+          "label": "कपिल देव",
+          "id": "O6",
+          "url": "/read/hi/kapil_dev",
           "value": {
-            "label": "Represents England and Wales in international cricket and drinks too much tea.",
-            "url": "/wiki/en/Team_England",
+            "label": "कपिल देव, एक पूर्व भारतीय क्रिकेटर हैं जिन्होंने 1983 में विश्व कप जीतने वाली भारतीय क्रिकेट टीम की कप्तानी की थी।",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
-              "altText": "An image of the English flag"
+              "altText": "Image for कपिल देव",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "Australia",
-          "id": "2",
+          "label": "अनिल कुंबले",
+          "id": "O7",
+          "url": "/read/hi/anil_kumble",
           "value": {
-            "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-            "url": "/wiki/en/Team_Koala",
+            "label": "अनिल कुंबले भारत के एक पूर्व क्रिकेटर और टेस्ट तथा अन्‍तर्राष्ट्रीय एक दिवसीय मैचों (वनडे) के पूर्व कप्तान रहे हैं, जिन्होंने 18 वर्षों तक टेस्ट और अन्‍तर्राष्ट्रीय एकदिवसीय मैच खेले।",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
-              "altText": "An image of the Australian flag"
+              "altText": "Image for अनिल कुंबले",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "Pakistan",
-          "id": "2",
+          "label": "सौरव गांगुली",
+          "id": "O8",
+          "url": "/read/hi/sourav_ganguly",
           "value": {
-            "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-            "url": "/wiki/en/Team_Rocket",
+            "label": "सौरव गांगुली एक पूर्व भारतीय क्रिकेटर और भारत की राष्ट्रीय टीम के कप्तान रहे हैं। अपने खेल करियर के दौरान, गांगुली ने स्‍वयं को विश्‍व के प्रमुख बल्लेबाजों और राष्ट्रीय क्रिकेट टीम के सबसे महान कप्तानों में से एक के रूप में स्थापित किया ।",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
-              "altText": "An image of the Pakistani flag"
+              "altText": "Image for सौरव गांगुली",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         }
+      ],
+      [
+        {
+          "label": "राहुल द्रविड़",
+          "id": "O9",
+          "url": "/read/hi/rahul_dravid",
+          "value": {
+            "label": "राहुल द्रविड़ एक पूर्व भारतीय क्रिकेटर और कप्तान रहे हैं, जिन्हें क्रिकेट इतिहास के महान बल्लेबाजों में से एक माना जाता है।",
+            "image": {
+              "altText": "Image for राहुल द्रविड़",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "बैंगलोर",
+          "id": "G1",
+          "url": "/read/hi/bangalore",
+          "value": {
+            "label": "बैंगलोर, जिसे आधिकारिक तौर पर बेंगलुरु के रूप में जाना जाता है, भारतीय राज्य कर्नाटक की राजधानी है। इसकी आबादी दस मिलियन से अधिक है, जो इसे एक मेगासिटी बनाता है और भारत में तीसरा सबसे अधिक आबादी वाला शहर और पांचवां सबसे अधिक आबादी वाला शहरी समूह है।",
+            "image": {
+              "altText": "Image for बैंगलोर",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "मुंबई",
+          "id": "G2",
+          "url": "/read/hi/mumbai",
+          "value": {
+            "label": "मुंबई, जिसे बॉम्बे के नाम से भी जाना जाता है, 1995 तक आधिकारिक नाम, भारतीय राज्य महाराष्ट्र की राजधानी है। 2011 तक यह भारत का सबसे अधिक आबादी वाला शहर है।",
+            "image": {
+              "altText": "Image for मुंबई",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "भारत",
+          "id": "G3",
+          "url": "/read/hi/india",
+          "value": {
+            "label": "भारत, जिसे भारत गणराज्य के रूप में भी जाना जाता है, दक्षिण एशिया का एक देश है। यह 1.3 बिलियन से ज्यादा आबादी के साथ  क्षेत्रफल में सातवां सबसे बड़ा देश है जहां  के साथ स्थित है  यह दूसरा सबसे अधिक आबादी वाला देश है और साथ ही दुनिया में सबसे अधिक आबादी वाला लोकतंत्र है।",
+            "image": {
+              "altText": "Image for भारत",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        }
+      ],
+      [
+        {
+          "label": "ऑस्ट्रेलिया",
+          "id": "G4",
+          "url": "/read/hi/australia",
+          "value": {
+            "label": "ऑस्ट्रेलिया, आधिकारिक तौर पर ऑस्ट्रेलिया का राष्ट्रमंडल, एक संप्रभु देश है जिसमें ऑस्ट्रेलियाई महाद्वीप की मुख्य भूमि, तस्मानिया द्वीप और कई छोटे द्वीप शामिल हैं।",
+            "image": {
+              "altText": "Image for ऑस्ट्रेलिया",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "पाकिस्तान",
+          "id": "G5",
+          "url": "/read/hi/pakistan",
+          "value": {
+            "label": "पाकिस्तान, आधिकारिक तौर पर इस्लामिक गणराज्य, दक्षिण एशिया का एक देश है। यह दुनिया का छठा सबसे अधिक आबादी वाला देश है जिसकी जनसंख्या 212,742,631 से अधिक है।",
+            "image": {
+              "altText": "Image for पाकिस्तान",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "दक्षिण अफ्रीका",
+          "id": "G6",
+          "url": "/read/hi/south_africa",
+          "value": {
+            "label": "दक्षिण अफ्रीका, आधिकारिक तौर पर दक्षिण अफ्रीका गणराज्य (आरएसए), अफ्रीका का सबसे दक्षिणी देश है। यह दक्षिण में दक्षिणी अटलांटिक और हिन्द महासागरों से 2,798 किलोमीटर लंबे समुद्र तट से घिरा हुआ है।",
+            "image": {
+              "altText": "Image for दक्षिण अफ्रीका",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "श्री लंका",
+          "id": "G7",
+          "url": "/read/hi/sri_lanka",
+          "value": {
+            "label": "श्रीलंका, आधिकारिक रूप से डेमोक्रेटिक सोशलिस्ट रिपब्लिक ऑफ़ श्रीलंका, दक्षिण एशिया का एक द्वीप देश है, जो हिंद महासागर में बंगाल की खाड़ी के दक्षिण-पश्चिम में और अरब सागर के दक्षिण-पूर्व में स्थित है।",
+            "image": {
+              "altText": "Image for श्री लंका",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        }
+      ],
+      [
+        {
+          "label": "न्यूजीलैंड",
+          "id": "G8",
+          "url": "/read/hi/new_zealand",
+          "value": {
+            "label": "न्यूजीलैंड दक्षिण पश्चिमी प्रशांत महासागर में एक संप्रभु द्वीप देश है। भौगोलिक रूप से देश में दो मुख्य भूभाग और लगभग 600 छोटे द्वीप हैं। न्यूजीलैंड ऑस्ट्रेलिया से लगभग 2,000 किलोमीटर पूर्व में स्थित है।",
+            "image": {
+              "altText": "Image for न्यूजीलैंड",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "इंगलैंड",
+          "id": "G10",
+          "url": "/read/hi/england",
+          "value": {
+            "label": "इंग्लैंड एक ऐसा देश है जो यूनाइटेड किंगडम का हिस्सा है। यह पश्चिम में स्कॉटलैंड और उत्तर-पश्चिम में वेल्स के साथ भूमि की सीमाओं को साझा करता है।",
+            "image": {
+              "altText": "Image for इंगलैंड",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
       ]
     ]
   },
   "interestingArticles": [
     {
-      "label": "India",
-      "id": "50",
+      "label": "1983 क्रिकेट विश्व कप",
+      "id": "P2",
       "value": {
-        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-        "url": "/wiki/en/Team_India",
+        "url": "/read/hi/1983_cricket_world_cup",
+        "label": "1983 क्रिकेट विश्व कप (आधिकारिक रूप से प्रूडेंशियल कप '83) क्रिकेट विश्व कप टूर्नामेंट का तीसरा संस्करण था। यह 9 जून से 25 जून 1983 तक इंग्लैंड और वेल्स में आयोजित किया गया था और इसे भारत ने जीता था।",
         "image": {
-          "url": "https://placekitten.com/200/200",
-          "altText": "An image of the Indian flag"
+          "altText": "Image for 1983 क्रिकेट विश्व कप",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "England",
-      "id": "51",
+      "label": "1996 क्रिकेट विश्व कप",
+      "id": "P3",
       "value": {
-        "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
+        "url": "/read/hi/1996_cricket_world_cup",
+        "label": "1996 क्रिकेट विश्व कप, जिसे उसके आधिकारिक प्रायोजकों (आईटीसी के विल्स ब्रांड) के नाम पर, विल्स वर्ल्ड कप 1996 भी कहा जाता है, छठा क्रिकेट विश्व कप था। यह पाकिस्तान और भारत द्वारा आयोजित होने वाला दूसरा, और श्रीलंका आयोजित होने वाला पहला विश्व कप था।",
         "image": {
-          "url": "https://placekitten.com/180/180",
-          "altText": "An image of the English flag"
+          "altText": "Image for 1996 क्रिकेट विश्व कप",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Australia",
-      "id": "52",
+      "label": "1999 क्रिकेट विश्व कप",
+      "id": "P4",
       "value": {
-        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
+        "url": "/read/hi/1999_cricket_world_cup",
+        "label": "1999 का क्रिकेट विश्व कप क्रिकेट विश्व कप का सातवां संस्करण था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेज़बानी मुख्य रूप से इंग्लैंड ने की थी, जिसमें कुछ मैच स्कॉटलैंड, आयरलैंड, वेल्स और नीदरलैंड में भी खेले गए थे।",
         "image": {
-          "url": "https://placekitten.com/190/190",
-          "altText": "An image of the Australian flag"
+          "altText": "Image for 1999 क्रिकेट विश्व कप",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Pakistan",
-      "id": "53",
+      "label": "2003 क्रिकेट विश्व कप",
+      "id": "P5",
       "value": {
-        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
+        "url": "/read/hi/2003_cricket_world_cup",
+        "label": "2003 का क्रिकेट विश्व कप आठवां क्रिकेट विश्व कप था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेजबानी दक्षिण अफ्रीका, जिम्बाब्वे और केन्या ने मिल कर की थी।",
         "image": {
-          "url": "https://placekitten.com/220/220",
-          "altText": "An image of the Pakistani flag"
+          "altText": "Image for 2003 क्रिकेट विश्व कप",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "India",
-      "id": "0",
+      "label": "2007 क्रिकेट विश्व कप",
+      "id": "P6",
       "value": {
-        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-        "url": "/wiki/en/Team_India",
+        "url": "/read/hi/2007_cricket_world_cup",
+        "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
         "image": {
-          "url": "https://placekitten.com/200/200",
-          "altText": "An image of the Indian flag"
+          "altText": "Image for 2007 क्रिकेट विश्व कप",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "England",
-      "id": "1",
+      "label": "2011 क्रिकेट विश्व कप",
+      "id": "P7",
       "value": {
-        "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
+        "url": "/read/hi/2011_cricket_world_cup",
+        "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
         "image": {
-          "url": "https://placekitten.com/180/180",
-          "altText": "An image of the English flag"
+          "altText": "Image for 2011 क्रिकेट विश्व कप",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Australia",
-      "id": "2",
+      "label": "2015 क्रिकेट विश्व कप",
+      "id": "P8",
       "value": {
-        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
+        "url": "/read/hi/2015_cricket_world_cup",
+        "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
         "image": {
-          "url": "https://placekitten.com/190/190",
-          "altText": "An image of the Australian flag"
+          "altText": "Image for 2015 क्रिकेट विश्व कप",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Pakistan",
-      "id": "3",
+      "label": "आईसीसी टी20 विश्व कप",
+      "id": "P9",
       "value": {
-        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
+        "url": "/read/hi/icc_t20_world_cup",
+        "label": "आईसीसी टी20 विश्व कप (जिसे पहले आईसीसी विश्व ट्वेंटी20 के नाम से जाना जाता था) ट्वेंटी20 क्रिकेट की अंतर्राष्ट्रीय चैम्पियनशिप है। वर्तमान में इस टूर्नामेंट में 16 टीमें भाग लेती हैं, जिसमें आठ टीमें दी गई समय सीमा के भीतर रैंकिंग के शीर्ष आठ में रहने वाली टीमें होती हैं जबकि चार अन्य टीमें टी20 विश्व कप क्वालीफायर के माध्यम से चुनी जातीं हैं।",
         "image": {
-          "url": "https://placekitten.com/220/220",
-          "altText": "An image of the Pakistani flag"
+          "altText": "Image for आईसीसी टी20 विश्व कप",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "India",
-      "id": "10",
+      "label": "आईसीसी चैंपियंस ट्रॉफी",
+      "id": "P10",
       "value": {
-        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-        "url": "/wiki/en/Team_India",
+        "url": "/read/hi/icc_champions_trophy",
+        "label": "आईसीसी चैंपियंस ट्रॉफी एक दिवसीय अंतर्राष्ट्रीय (वनडे) क्रिकेट टूर्नामेंट था जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया जाता था, जो क्रिकेट विश्व कप के बाद दूसरा सबसे महत्वपूर्ण आयोजन था। 2002 में इसका नाम बदलकर चैंपियंस ट्रॉफी रखा गया।",
         "image": {
-          "url": "https://placekitten.com/200/200",
-          "altText": "An image of the Indian flag"
+          "altText": "Image for आईसीसी चैंपियंस ट्रॉफी",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "England",
-      "id": "11",
+      "label": "इंडियन प्रीमियर लीग",
+      "id": "P11",
       "value": {
-        "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
+        "url": "/read/hi/indian_premier_league",
+        "label": "इंडियन प्रीमियर लीग (आईपीएल) भारत की एक पेशेवर ट्वेंटी20 क्रिकेट लीग है, जो हर साल मार्च या अप्रैल और मई के दौरान आयोजित होती है जिसमें भारत के आठ अलग-अलग शहरों का प्रतिनिधित्व करने वाली आठ टीमें आपस में टकरातीं हैं।",
         "image": {
-          "url": "https://placekitten.com/180/180",
-          "altText": "An image of the English flag"
+          "altText": "Image for इंडियन प्रीमियर लीग",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Australia",
-      "id": "12",
+      "label": "2010 इंडियन प्रीमियर लीग",
+      "id": "P12",
       "value": {
-        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
+        "url": "/read/hi/2010_indian_premier_league",
+        "label": "The 2010 Indian Premier League season, abbreviated as IPL 3 or the 2010 IPL, was the third season of the Indian Premier League",
         "image": {
-          "url": "https://placekitten.com/190/190",
-          "altText": "An image of the Australian flag"
+          "altText": "Image for 2010 इंडियन प्रीमियर लीग",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Pakistan",
-      "id": "13",
+      "label": "2011 इंडियन प्रीमियर लीग",
+      "id": "P13",
       "value": {
-        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
+        "url": "/read/hi/2011_indian_premier_league",
+        "label": "The 2011 Indian Premier League season, abbreviated as IPL 4 or the IPL 2011, was the fourth season of the Indian Premier League, the top Twenty20 cricket league in India",
         "image": {
-          "url": "https://placekitten.com/220/220",
-          "altText": "An image of the Pakistani flag"
+          "altText": "Image for 2011 इंडियन प्रीमियर लीग",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "England",
-      "id": "41",
+      "label": "2016 इंडियन प्रीमियर लीग",
+      "id": "P14",
       "value": {
-        "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
+        "url": "/read/hi/2016_indian_premier_league",
+        "label": "The 2016 season of the Indian Premier League, also known as IPL 9, and branded as Vivo IPL 2016 for sponsorship reasons, was the ninth season of the IPL",
         "image": {
-          "url": "https://placekitten.com/180/180",
-          "altText": "An image of the English flag"
+          "altText": "Image for 2016 इंडियन प्रीमियर लीग",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Australia",
-      "id": "42",
+      "label": "2017 Indian Premier League",
+      "id": "P15",
       "value": {
-        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
+        "url": "/read/hi/2017_indian_premier_league",
+        "label": "The 2017 season of the Indian Premier League, also known as IPL 10 and branded as Vivo IPL 2017, was the tenth edition of the IPL",
         "image": {
-          "url": "https://placekitten.com/190/190",
-          "altText": "An image of the Australian flag"
+          "altText": "Image for 2017 Indian Premier League",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Pakistan",
-      "id": "43",
+      "label": "बैंगलोर",
+      "id": "G1",
       "value": {
-        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
+        "url": "/read/hi/bangalore",
+        "label": "बैंगलोर, जिसे आधिकारिक तौर पर बेंगलुरु के रूप में जाना जाता है, भारतीय राज्य कर्नाटक की राजधानी है। इसकी आबादी दस मिलियन से अधिक है, जो इसे एक मेगासिटी बनाता है और भारत में तीसरा सबसे अधिक आबादी वाला शहर और पांचवां सबसे अधिक आबादी वाला शहरी समूह है।",
         "image": {
-          "url": "https://placekitten.com/220/220",
-          "altText": "An image of the Pakistani flag"
+          "altText": "Image for बैंगलोर",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "मुंबई",
+      "id": "G2",
+      "value": {
+        "url": "/read/hi/mumbai",
+        "label": "मुंबई, जिसे बॉम्बे के नाम से भी जाना जाता है, 1995 तक आधिकारिक नाम, भारतीय राज्य महाराष्ट्र की राजधानी है। 2011 तक यह भारत का सबसे अधिक आबादी वाला शहर है।",
+        "image": {
+          "altText": "Image for मुंबई",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "भारत",
+      "id": "G3",
+      "value": {
+        "url": "/read/hi/india",
+        "label": "भारत, जिसे भारत गणराज्य के रूप में भी जाना जाता है, दक्षिण एशिया का एक देश है। यह 1.3 बिलियन से ज्यादा आबादी के साथ  क्षेत्रफल में सातवां सबसे बड़ा देश है जहां  के साथ स्थित है  यह दूसरा सबसे अधिक आबादी वाला देश है और साथ ही दुनिया में सबसे अधिक आबादी वाला लोकतंत्र है।",
+        "image": {
+          "altText": "Image for भारत",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "ऑस्ट्रेलिया",
+      "id": "G4",
+      "value": {
+        "url": "/read/hi/australia",
+        "label": "ऑस्ट्रेलिया, आधिकारिक तौर पर ऑस्ट्रेलिया का राष्ट्रमंडल, एक संप्रभु देश है जिसमें ऑस्ट्रेलियाई महाद्वीप की मुख्य भूमि, तस्मानिया द्वीप और कई छोटे द्वीप शामिल हैं।",
+        "image": {
+          "altText": "Image for ऑस्ट्रेलिया",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "पाकिस्तान",
+      "id": "G5",
+      "value": {
+        "url": "/read/hi/pakistan",
+        "label": "पाकिस्तान, आधिकारिक तौर पर इस्लामिक गणराज्य, दक्षिण एशिया का एक देश है। यह दुनिया का छठा सबसे अधिक आबादी वाला देश है जिसकी जनसंख्या 212,742,631 से अधिक है।",
+        "image": {
+          "altText": "Image for पाकिस्तान",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "दक्षिण अफ्रीका",
+      "id": "G6",
+      "value": {
+        "url": "/read/hi/south_africa",
+        "label": "दक्षिण अफ्रीका, आधिकारिक तौर पर दक्षिण अफ्रीका गणराज्य (आरएसए), अफ्रीका का सबसे दक्षिणी देश है। यह दक्षिण में दक्षिणी अटलांटिक और हिन्द महासागरों से 2,798 किलोमीटर लंबे समुद्र तट से घिरा हुआ है।",
+        "image": {
+          "altText": "Image for दक्षिण अफ्रीका",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "श्री लंका",
+      "id": "G7",
+      "value": {
+        "url": "/read/hi/sri_lanka",
+        "label": "श्रीलंका, आधिकारिक रूप से डेमोक्रेटिक सोशलिस्ट रिपब्लिक ऑफ़ श्रीलंका, दक्षिण एशिया का एक द्वीप देश है, जो हिंद महासागर में बंगाल की खाड़ी के दक्षिण-पश्चिम में और अरब सागर के दक्षिण-पूर्व में स्थित है।",
+        "image": {
+          "altText": "Image for श्री लंका",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "न्यूजीलैंड",
+      "id": "G8",
+      "value": {
+        "url": "/read/hi/new_zealand",
+        "label": "न्यूजीलैंड दक्षिण पश्चिमी प्रशांत महासागर में एक संप्रभु द्वीप देश है। भौगोलिक रूप से देश में दो मुख्य भूभाग और लगभग 600 छोटे द्वीप हैं। न्यूजीलैंड ऑस्ट्रेलिया से लगभग 2,000 किलोमीटर पूर्व में स्थित है।",
+        "image": {
+          "altText": "Image for न्यूजीलैंड",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "इंगलैंड",
+      "id": "G10",
+      "value": {
+        "url": "/read/hi/england",
+        "label": "इंग्लैंड एक ऐसा देश है जो यूनाइटेड किंगडम का हिस्सा है। यह पश्चिम में स्कॉटलैंड और उत्तर-पश्चिम में वेल्स के साथ भूमि की सीमाओं को साझा करता है।",
+        "image": {
+          "altText": "Image for इंगलैंड",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "विराट कोहली",
+      "id": "O1",
+      "value": {
+        "url": "/read/hi/virat_kohli",
+        "label": "विराट कोहली भारत के एक  अन्‍तर्राष्ट्रीय क्रिकेटर हैं जो वर्तमान में भारत की राष्ट्रीय टीम के कप्तान हैं।",
+        "image": {
+          "altText": "Image for विराट कोहली",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "महेन्द्र सिंह धोनी",
+      "id": "O2",
+      "value": {
+        "url": "/read/hi/mahendra_singh_dhoni",
+        "label": "महेंद्र सिंह धोनी एक भारतीय अन्‍तर्राष्ट्रीय क्रिकेटर हैं, जिन्होंने 2007 से 2016 तक सीमित ओवरों के प्रारूप में और 2008 से 2014 तक टेस्ट क्रिकेट में भारतीय राष्ट्रीय टीम की कप्तानी की।",
+        "image": {
+          "altText": "Image for महेन्द्र सिंह धोनी",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "रोहित शर्मा",
+      "id": "O3",
+      "value": {
+        "url": "/read/hi/rohit_sharma",
+        "label": "रोहित शर्मा एक भारतीय अन्‍तर्राष्ट्रीय क्रिकेटर हैं जो सीमित ओवरों के प्रारूप में भारत की राष्ट्रीय टीम के उप-कप्तान हैं।",
+        "image": {
+          "altText": "Image for रोहित शर्मा",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "शिखर धवन",
+      "id": "O4",
+      "value": {
+        "url": "/read/hi/shikhar_dhawan",
+        "label": "शिखर धवन भारत के एक अन्‍तर्राष्ट्रीय क्रिकेटर हैं।",
+        "image": {
+          "altText": "Image for शिखर धवन",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "सचिन तेंदुलकर",
+      "id": "O5",
+      "value": {
+        "url": "/read/hi/sachin_tendulkar",
+        "label": "सचिन तेंदुलकर भारत के पूर्व अन्‍तर्राष्ट्रीय क्रिकेटर हैं, जिन्हें अब तक के महानतम बल्लेबाजों में से एक माना जाता है। वे अन्‍तर्राष्ट्रीय क्रिकेट में अब तक के सबसे ज्यादा रन बनाने वाले खिलाड़ी हैं।",
+        "image": {
+          "altText": "Image for सचिन तेंदुलकर",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "कपिल देव",
+      "id": "O6",
+      "value": {
+        "url": "/read/hi/kapil_dev",
+        "label": "कपिल देव, एक पूर्व भारतीय क्रिकेटर हैं जिन्होंने 1983 में विश्व कप जीतने वाली भारतीय क्रिकेट टीम की कप्तानी की थी।",
+        "image": {
+          "altText": "Image for कपिल देव",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "अनिल कुंबले",
+      "id": "O7",
+      "value": {
+        "url": "/read/hi/anil_kumble",
+        "label": "अनिल कुंबले भारत के एक पूर्व क्रिकेटर और टेस्ट तथा अन्‍तर्राष्ट्रीय एक दिवसीय मैचों (वनडे) के पूर्व कप्तान रहे हैं, जिन्होंने 18 वर्षों तक टेस्ट और अन्‍तर्राष्ट्रीय एकदिवसीय मैच खेले।",
+        "image": {
+          "altText": "Image for अनिल कुंबले",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "सौरव गांगुली",
+      "id": "O8",
+      "value": {
+        "url": "/read/hi/sourav_ganguly",
+        "label": "सौरव गांगुली एक पूर्व भारतीय क्रिकेटर और भारत की राष्ट्रीय टीम के कप्तान रहे हैं। अपने खेल करियर के दौरान, गांगुली ने स्‍वयं को विश्‍व के प्रमुख बल्लेबाजों और राष्ट्रीय क्रिकेट टीम के सबसे महान कप्तानों में से एक के रूप में स्थापित किया ।",
+        "image": {
+          "altText": "Image for सौरव गांगुली",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "राहुल द्रविड़",
+      "id": "O9",
+      "value": {
+        "url": "/read/hi/rahul_dravid",
+        "label": "राहुल द्रविड़ एक पूर्व भारतीय क्रिकेटर और कप्तान रहे हैं, जिन्हें क्रिकेट इतिहास के महान बल्लेबाजों में से एक माना जाता है।",
+        "image": {
+          "altText": "Image for राहुल द्रविड़",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     }

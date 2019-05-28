@@ -264,152 +264,419 @@
     "columns": [
       [
         {
-          "label": "India",
-          "id": "0",
-          "url": "/wiki/en/Team_India",
+          "label": "India national cricket team",
+          "id": "R1",
+          "url": "/read/en/india_national_cricket_team",
           "value": {
-            "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-            "url": "/wiki/en/Team_India",
+            "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
             "image": {
-              "url": "/static/images/india.png",
-              "altText": "An image of the Indian flag"
+              "altText": "Image for India national cricket team",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "England",
-          "id": "1",
+          "label": "Australia Cricket team",
+          "id": "R2",
+          "url": "/read/en/australia_cricket_team",
           "value": {
-            "label": "Represents England and Wales in international cricket and drinks too much tea.",
-            "url": "/wiki/en/Team_England",
+            "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
-              "altText": "An image of the English flag"
+              "altText": "Image for Australia Cricket team",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "Australia",
-          "id": "2",
-          "url": "/wiki/en/Team_Koala",
+          "label": "2007 Cricket World Cup",
+          "id": "P6",
+          "url": "/read/en/2007_cricket_world_cup",
           "value": {
-            "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-            "url": "/wiki/en/Team_Koala",
+            "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
-              "altText": "An image of the Australian flag"
+              "altText": "Image for 2007 Cricket World Cup",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "Pakistan",
-          "id": "2",
+          "label": "2011 Cricket World Cup",
+          "id": "P7",
+          "url": "/read/en/2011_cricket_world_cup",
           "value": {
-            "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-            "url": "/wiki/en/Team_Rocket",
+            "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
-              "altText": "An image of the Pakistani flag"
+              "altText": "Image for 2011 Cricket World Cup",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         }
       ],
       [
         {
-          "label": "India",
-          "id": "0",
+          "label": "Virat Kohli",
+          "id": "O1",
+          "url": "/read/en/virat_kohli",
           "value": {
-            "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-            "url": "/wiki/en/Team_India",
+            "label": "Indian international cricketer who currently captains the India national team.",
             "image": {
-              "url": "/static/images/india.png",
-              "altText": "An image of the Indian flag"
+              "altText": "Image for Virat Kohli",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "England",
-          "id": "1",
+          "label": "Mahendra Singh Dhoni",
+          "id": "O2",
+          "url": "/read/en/mahendra_singh_dhoni",
           "value": {
-            "label": "Represents England and Wales in international cricket and drinks too much tea.",
-            "url": "/wiki/en/Team_England",
+            "label": "Mahendra Singh Dhoni is an Indian international cricketer who captained the Indian national team in limited-overs formats from 2007 to 2016 and in Test cricket from 2008 to 2014.",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
-              "altText": "An image of the English flag"
+              "altText": "Image for Mahendra Singh Dhoni",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "Australia",
-          "id": "2",
+          "label": "Rohit Sharma",
+          "id": "O3",
+          "url": "/read/en/rohit_sharma",
           "value": {
-            "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-            "url": "/wiki/en/Team_Koala",
+            "label": "Rohit Sharma is an Indian international cricketer who is the vice-captain of the India national team in limited-overs formats.",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
-              "altText": "An image of the Australian flag"
+              "altText": "Image for Rohit Sharma",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "Pakistan",
-          "id": "2",
+          "label": "Shikhar Dhawan",
+          "id": "O4",
+          "url": "/read/en/shikhar_dhawan",
           "value": {
-            "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-            "url": "/wiki/en/Team_Rocket",
+            "label": "Shikhar Dhawan is an Indian international cricketer. ",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
-              "altText": "An image of the Pakistani flag"
+              "altText": "Image for Shikhar Dhawan",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         }
       ],
       [
         {
-          "label": "India",
-          "id": "0",
+          "label": "Sachin Tendulkar",
+          "id": "O5",
+          "url": "/read/en/sachin_tendulkar",
           "value": {
-            "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-            "url": "/wiki/en/Team_India",
+            "label": "Sachin Tendulkar is a former Indian international cricketer, regarded as one of the greatest batsmen of all time. He is the highest run scorer of all time in International cricket. ",
             "image": {
-              "url": "/static/images/india.png",
-              "altText": "An image of the Indian flag"
+              "altText": "Image for Sachin Tendulkar",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "England",
-          "id": "1",
+          "label": "Kapil Dev",
+          "id": "O6",
+          "url": "/read/en/kapil_dev",
           "value": {
-            "label": "Represents England and Wales in international cricket and drinks too much tea.",
-            "url": "/wiki/en/Team_England",
+            "label": "Kapil Dev, is a former Indian cricketer who captained the Indian cricket team that won the 1983 World Cup.",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
-              "altText": "An image of the English flag"
+              "altText": "Image for Kapil Dev",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
+        {
+          "label": "Anil Kumble",
+          "id": "O7",
+          "url": "/read/en/anil_kumble",
+          "value": {
+            "label": "Anil Kumble is a former Indian cricketer and a former captain of Tests and ODIs, who played Tests and ODIs for 18 years. ",
+            "image": {
+              "altText": "Image for Anil Kumble",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "Sourav Ganguly",
+          "id": "O8",
+          "url": "/read/en/sourav_ganguly",
+          "value": {
+            "label": "Sourav Ganguly is a former Indian cricketer and captain of the Indian national team. During his playing career, Ganguly established himself as one of the world's leading batsmen, and also one of the greatest captains of the national cricket team.",
+            "image": {
+              "altText": "Image for Sourav Ganguly",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        }
+      ],
+      [
+        {
+          "label": "Rahul Dravid",
+          "id": "O9",
+          "url": "/read/en/rahul_dravid",
+          "value": {
+            "label": "Rahul Dravid is a former Indian cricketer and captain, widely regarded as one of the greatest batsmen in the history of cricket.",
+            "image": {
+              "altText": "Image for Rahul Dravid",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "Bangalore",
+          "id": "G1",
+          "url": "/read/en/bangalore",
+          "value": {
+            "label": "Bangalore, officially known as Bengaluru, is the capital of the Indian state of Karnataka. It has a population of over ten million, making it a megacity and the third-most populous city and fifth-most populous urban agglomeration in India.",
+            "image": {
+              "altText": "Image for Bangalore",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "Mumbai",
+          "id": "G2",
+          "url": "/read/en/mumbai",
+          "value": {
+            "label": "Mumbai, also known as Bombay, the official name until 1995, is the capital city of the Indian state of Maharashtra. As of 2011 it is the most populous city in India.",
+            "image": {
+              "altText": "Image for Mumbai",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "India",
+          "id": "G3",
+          "url": "/read/en/india",
+          "value": {
+            "label": "India, also known as the Republic of India is a country in South Asia. It is the seventh largest country by area with more than 1.3 billion people. It is the second most populous country as well as the most populous democracy in the world.",
+            "image": {
+              "altText": "Image for India",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        }
+      ],
+      [
         {
           "label": "Australia",
-          "id": "2",
+          "id": "G4",
+          "url": "/read/en/australia",
           "value": {
-            "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-            "url": "/wiki/en/Team_Koala",
+            "label": "Australia, officially the Commonwealth of Australia, is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands.",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
-              "altText": "An image of the Australian flag"
+              "altText": "Image for Australia",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
           "label": "Pakistan",
-          "id": "2",
+          "id": "G5",
+          "url": "/read/en/pakistan",
           "value": {
-            "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-            "url": "/wiki/en/Team_Rocket",
+            "label": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the world’s sixth-most populous country with a population exceeding 212,742,631 people.",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
-              "altText": "An image of the Pakistani flag"
+              "altText": "Image for Pakistan",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "South Africa",
+          "id": "G6",
+          "url": "/read/en/south_africa",
+          "value": {
+            "label": "South Africa, officially the Republic of South Africa (RSA), is the southernmost country in Africa. It is bounded to the south by 2,798 kilometres of coastline of Southern Africa stretching along the South Atlantic and Indian Oceans.",
+            "image": {
+              "altText": "Image for South Africa",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "Sri Lanka",
+          "id": "G7",
+          "url": "/read/en/sri_lanka",
+          "value": {
+            "label": "Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka, is an island country in South Asia, located in the Indian Ocean to the southwest of the Bay of Bengal and to the southeast of the Arabian Sea. ",
+            "image": {
+              "altText": "Image for Sri Lanka",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        }
+      ],
+      [
+        {
+          "label": "New Zealand",
+          "id": "G8",
+          "url": "/read/en/new_zealand",
+          "value": {
+            "label": "New Zealand is a sovereign island country in the southwestern Pacific Ocean. The country geographically comprises two main landmasses and around 600 smaller islands. New Zealand is situated some 2,000 kilometres east of Australia.",
+            "image": {
+              "altText": "Image for New Zealand",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "England",
+          "id": "G10",
+          "url": "/read/en/england",
+          "value": {
+            "label": "England is a country that is part of the United Kingdom. It shares land borders with Wales to the west and Scotland to the north-northwest.",
+            "image": {
+              "altText": "Image for England",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "India national cricket team",
+          "id": "R1",
+          "url": "/read/en/india_national_cricket_team",
+          "value": {
+            "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+            "image": {
+              "altText": "Image for India national cricket team",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "Australia Cricket team",
+          "id": "R2",
+          "url": "/read/en/australia_cricket_team",
+          "value": {
+            "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+            "image": {
+              "altText": "Image for Australia Cricket team",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        }
+      ],
+      [
+        {
+          "label": "West Indies cricket team",
+          "id": "R3",
+          "url": "/read/en/west_indies_cricket_team",
+          "value": {
+            "label": "The West Indies cricket team, traditionally known as the Windies, is a multi-national cricket team representing the Anglophone Caribbean region and administered by Cricket West Indies. The players on this composite team are selected from a chain of fifteen Caribbean territories",
+            "image": {
+              "altText": "Image for West Indies cricket team",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "England cricket team",
+          "id": "R4",
+          "url": "/read/en/england_cricket_team",
+          "value": {
+            "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
+            "image": {
+              "altText": "Image for England cricket team",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "Chennai Super Kings",
+          "id": "R5",
+          "url": "/read/en/chennai_super_kings",
+          "value": {
+            "label": "Founded in 2008, The Chennai Super Kings (CSK) is an Indian franchise cricket team based in Chennai, Tamil Nadu, which plays in the Indian Premier League (IPL).",
+            "image": {
+              "altText": "Image for Chennai Super Kings",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "Royal Challengers Bangalore",
+          "id": "R6",
+          "url": "/read/en/royal_challengers_bangalore",
+          "value": {
+            "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
+            "image": {
+              "altText": "Image for Royal Challengers Bangalore",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        }
+      ],
+      [
+        {
+          "label": "Mumbai Indians",
+          "id": "R7",
+          "url": "/read/en/mumbai_indians",
+          "value": {
+            "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
+            "image": {
+              "altText": "Image for Mumbai Indians",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "Pakistan national cricket team",
+          "id": "R8",
+          "url": "/read/en/pakistan_national_cricket_team",
+          "value": {
+            "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
+            "image": {
+              "altText": "Image for Pakistan national cricket team",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "Kings XI Punjab",
+          "id": "R9",
+          "url": "/read/en/kings_xi_punjab",
+          "value": {
+            "label": "The Kings XI Punjab (KXIP) are a franchise cricket team based in Mohali (Chandigarh CR), Punjab, that plays in the Indian Premier League. ",
+            "image": {
+              "altText": "Image for Kings XI Punjab",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         }
@@ -418,182 +685,418 @@
   },
   "interestingArticles": [
     {
+      "label": "1983 Cricket World Cup",
+      "id": "P2",
+      "value": {
+        "url": "/read/en/1983_cricket_world_cup",
+        "label": "The 1983 Cricket World Cup (officially the Prudential Cup '83) was the 3rd edition of the Cricket World Cup tournament. It was held from 9 June to 25 June 1983 in England and Wales and was won by India.",
+        "image": {
+          "altText": "Image for 1983 Cricket World Cup",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "1996 Cricket World Cup",
+      "id": "P3",
+      "value": {
+        "url": "/read/en/1996_cricket_world_cup",
+        "label": "The 1996 Cricket World Cup, also called the Wills World Cup 1996 after its official sponsors, ITC's Wills brand, was the sixth Cricket World Cup. It was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka.",
+        "image": {
+          "altText": "Image for 1996 Cricket World Cup",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "1999 Cricket World Cup",
+      "id": "P4",
+      "value": {
+        "url": "/read/en/1999_cricket_world_cup",
+        "label": "The 1999 Cricket World Cup was the seventh edition of the Cricket World Cup, organised by the International Cricket Council (ICC). It was hosted primarily by England, with some games being played in Scotland, Ireland, Wales and the Netherlands.",
+        "image": {
+          "altText": "Image for 1999 Cricket World Cup",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "2003 Cricket World Cup",
+      "id": "P5",
+      "value": {
+        "url": "/read/en/2003_cricket_world_cup",
+        "label": "The 2003 Cricket World Cup was the eighth Cricket World Cup, organized by the International Cricket Council (ICC). It was co-hosted by South Africa, Zimbabwe and Kenya.",
+        "image": {
+          "altText": "Image for 2003 Cricket World Cup",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "2007 Cricket World Cup",
+      "id": "P6",
+      "value": {
+        "url": "/read/en/2007_cricket_world_cup",
+        "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
+        "image": {
+          "altText": "Image for 2007 Cricket World Cup",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "2011 Cricket World Cup",
+      "id": "P7",
+      "value": {
+        "url": "/read/en/2011_cricket_world_cup",
+        "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
+        "image": {
+          "altText": "Image for 2011 Cricket World Cup",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "2015 Cricket World Cup",
+      "id": "P8",
+      "value": {
+        "url": "/read/en/2015_cricket_world_cup",
+        "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
+        "image": {
+          "altText": "Image for 2015 Cricket World Cup",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "ICC T20 World Cup",
+      "id": "P9",
+      "value": {
+        "url": "/read/en/icc_t20_world_cup",
+        "label": "The ICC T20 World Cup (earlier known as ICC World Twenty20) is the international championship of Twenty20 International cricket. The tournament currently consists of 16 teams, comprising the top eight teams from the rankings at the given deadline and four other teams chosen through the T20 World Cup Qualifier. ",
+        "image": {
+          "altText": "Image for ICC T20 World Cup",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "ICC Champions Trophy",
+      "id": "P10",
+      "value": {
+        "url": "/read/en/icc_champions_trophy",
+        "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
+        "image": {
+          "altText": "Image for ICC Champions Trophy",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Indian Premier League",
+      "id": "P11",
+      "value": {
+        "url": "/read/en/indian_premier_league",
+        "label": "The Indian Premier League (IPL) is a professional Twenty20 cricket league in India contested during March or April and May of every year by eight teams representing eight different cities in India.",
+        "image": {
+          "altText": "Image for Indian Premier League",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "2010 Indian Premier League",
+      "id": "P12",
+      "value": {
+        "url": "/read/en/2010_indian_premier_league",
+        "label": "The 2010 Indian Premier League season, abbreviated as IPL 3 or the 2010 IPL, was the third season of the Indian Premier League",
+        "image": {
+          "altText": "Image for 2010 Indian Premier League",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "2011 Indian Premier League",
+      "id": "P13",
+      "value": {
+        "url": "/read/en/2011_indian_premier_league",
+        "label": "The 2011 Indian Premier League season, abbreviated as IPL 4 or the IPL 2011, was the fourth season of the Indian Premier League, the top Twenty20 cricket league in India",
+        "image": {
+          "altText": "Image for 2011 Indian Premier League",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "2016 Indian Premier League",
+      "id": "P14",
+      "value": {
+        "url": "/read/en/2016_indian_premier_league",
+        "label": "The 2016 season of the Indian Premier League, also known as IPL 9, and branded as Vivo IPL 2016 for sponsorship reasons, was the ninth season of the IPL",
+        "image": {
+          "altText": "Image for 2016 Indian Premier League",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "2017 Indian Premier League",
+      "id": "P15",
+      "value": {
+        "url": "/read/en/2017_indian_premier_league",
+        "label": "The 2017 season of the Indian Premier League, also known as IPL 10 and branded as Vivo IPL 2017, was the tenth edition of the IPL",
+        "image": {
+          "altText": "Image for 2017 Indian Premier League",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Bangalore",
+      "id": "G1",
+      "value": {
+        "url": "/read/en/bangalore",
+        "label": "Bangalore, officially known as Bengaluru, is the capital of the Indian state of Karnataka. It has a population of over ten million, making it a megacity and the third-most populous city and fifth-most populous urban agglomeration in India.",
+        "image": {
+          "altText": "Image for Bangalore",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Mumbai",
+      "id": "G2",
+      "value": {
+        "url": "/read/en/mumbai",
+        "label": "Mumbai, also known as Bombay, the official name until 1995, is the capital city of the Indian state of Maharashtra. As of 2011 it is the most populous city in India.",
+        "image": {
+          "altText": "Image for Mumbai",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
       "label": "India",
-      "id": "50",
+      "id": "G3",
       "value": {
-        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-        "url": "/wiki/en/Team_India",
+        "url": "/read/en/india",
+        "label": "India, also known as the Republic of India is a country in South Asia. It is the seventh largest country by area with more than 1.3 billion people. It is the second most populous country as well as the most populous democracy in the world.",
         "image": {
-          "url": "https://placekitten.com/200/200",
-          "altText": "An image of the Indian flag"
-        }
-      }
-    },
-    {
-      "label": "England",
-      "id": "51",
-      "value": {
-        "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
-        "image": {
-          "url": "https://placekitten.com/180/180",
-          "altText": "An image of the English flag"
+          "altText": "Image for India",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
       "label": "Australia",
-      "id": "52",
+      "id": "G4",
       "value": {
-        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
+        "url": "/read/en/australia",
+        "label": "Australia, officially the Commonwealth of Australia, is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands.",
         "image": {
-          "url": "https://placekitten.com/190/190",
-          "altText": "An image of the Australian flag"
+          "altText": "Image for Australia",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
       "label": "Pakistan",
-      "id": "53",
+      "id": "G5",
       "value": {
-        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
+        "url": "/read/en/pakistan",
+        "label": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the world’s sixth-most populous country with a population exceeding 212,742,631 people.",
         "image": {
-          "url": "https://placekitten.com/220/220",
-          "altText": "An image of the Pakistani flag"
+          "altText": "Image for Pakistan",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "India",
-      "id": "0",
+      "label": "South Africa",
+      "id": "G6",
       "value": {
-        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-        "url": "/wiki/en/Team_India",
+        "url": "/read/en/south_africa",
+        "label": "South Africa, officially the Republic of South Africa (RSA), is the southernmost country in Africa. It is bounded to the south by 2,798 kilometres of coastline of Southern Africa stretching along the South Atlantic and Indian Oceans.",
         "image": {
-          "url": "https://placekitten.com/200/200",
-          "altText": "An image of the Indian flag"
+          "altText": "Image for South Africa",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Sri Lanka",
+      "id": "G7",
+      "value": {
+        "url": "/read/en/sri_lanka",
+        "label": "Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka, is an island country in South Asia, located in the Indian Ocean to the southwest of the Bay of Bengal and to the southeast of the Arabian Sea. ",
+        "image": {
+          "altText": "Image for Sri Lanka",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "New Zealand",
+      "id": "G8",
+      "value": {
+        "url": "/read/en/new_zealand",
+        "label": "New Zealand is a sovereign island country in the southwestern Pacific Ocean. The country geographically comprises two main landmasses and around 600 smaller islands. New Zealand is situated some 2,000 kilometres east of Australia.",
+        "image": {
+          "altText": "Image for New Zealand",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
       "label": "England",
-      "id": "1",
+      "id": "G10",
       "value": {
-        "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
+        "url": "/read/en/england",
+        "label": "England is a country that is part of the United Kingdom. It shares land borders with Wales to the west and Scotland to the north-northwest.",
         "image": {
-          "url": "https://placekitten.com/180/180",
-          "altText": "An image of the English flag"
+          "altText": "Image for England",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Australia",
-      "id": "2",
+      "label": "Virat Kohli",
+      "id": "O1",
       "value": {
-        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
+        "url": "/read/en/virat_kohli",
+        "label": "Indian international cricketer who currently captains the India national team.",
         "image": {
-          "url": "https://placekitten.com/190/190",
-          "altText": "An image of the Australian flag"
+          "altText": "Image for Virat Kohli",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Pakistan",
-      "id": "3",
+      "label": "Mahendra Singh Dhoni",
+      "id": "O2",
       "value": {
-        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
+        "url": "/read/en/mahendra_singh_dhoni",
+        "label": "Mahendra Singh Dhoni is an Indian international cricketer who captained the Indian national team in limited-overs formats from 2007 to 2016 and in Test cricket from 2008 to 2014.",
         "image": {
-          "url": "https://placekitten.com/220/220",
-          "altText": "An image of the Pakistani flag"
+          "altText": "Image for Mahendra Singh Dhoni",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "India",
-      "id": "10",
+      "label": "Rohit Sharma",
+      "id": "O3",
       "value": {
-        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-        "url": "/wiki/en/Team_India",
+        "url": "/read/en/rohit_sharma",
+        "label": "Rohit Sharma is an Indian international cricketer who is the vice-captain of the India national team in limited-overs formats.",
         "image": {
-          "url": "https://placekitten.com/200/200",
-          "altText": "An image of the Indian flag"
+          "altText": "Image for Rohit Sharma",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "England",
-      "id": "11",
+      "label": "Shikhar Dhawan",
+      "id": "O4",
       "value": {
-        "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
+        "url": "/read/en/shikhar_dhawan",
+        "label": "Shikhar Dhawan is an Indian international cricketer. ",
         "image": {
-          "url": "https://placekitten.com/180/180",
-          "altText": "An image of the English flag"
+          "altText": "Image for Shikhar Dhawan",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Australia",
-      "id": "12",
+      "label": "Sachin Tendulkar",
+      "id": "O5",
       "value": {
-        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
+        "url": "/read/en/sachin_tendulkar",
+        "label": "Sachin Tendulkar is a former Indian international cricketer, regarded as one of the greatest batsmen of all time. He is the highest run scorer of all time in International cricket. ",
         "image": {
-          "url": "https://placekitten.com/190/190",
-          "altText": "An image of the Australian flag"
+          "altText": "Image for Sachin Tendulkar",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Pakistan",
-      "id": "13",
+      "label": "Kapil Dev",
+      "id": "O6",
       "value": {
-        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
+        "url": "/read/en/kapil_dev",
+        "label": "Kapil Dev, is a former Indian cricketer who captained the Indian cricket team that won the 1983 World Cup.",
         "image": {
-          "url": "https://placekitten.com/220/220",
-          "altText": "An image of the Pakistani flag"
+          "altText": "Image for Kapil Dev",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "England",
-      "id": "41",
+      "label": "Anil Kumble",
+      "id": "O7",
       "value": {
-        "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
+        "url": "/read/en/anil_kumble",
+        "label": "Anil Kumble is a former Indian cricketer and a former captain of Tests and ODIs, who played Tests and ODIs for 18 years. ",
         "image": {
-          "url": "https://placekitten.com/180/180",
-          "altText": "An image of the English flag"
+          "altText": "Image for Anil Kumble",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Australia",
-      "id": "42",
+      "label": "Sourav Ganguly",
+      "id": "O8",
       "value": {
-        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
+        "url": "/read/en/sourav_ganguly",
+        "label": "Sourav Ganguly is a former Indian cricketer and captain of the Indian national team. During his playing career, Ganguly established himself as one of the world's leading batsmen, and also one of the greatest captains of the national cricket team.",
         "image": {
-          "url": "https://placekitten.com/190/190",
-          "altText": "An image of the Australian flag"
+          "altText": "Image for Sourav Ganguly",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Pakistan",
-      "id": "43",
+      "label": "Rahul Dravid",
+      "id": "O9",
       "value": {
-        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
+        "url": "/read/en/rahul_dravid",
+        "label": "Rahul Dravid is a former Indian cricketer and captain, widely regarded as one of the greatest batsmen in the history of cricket.",
         "image": {
-          "url": "https://placekitten.com/220/220",
-          "altText": "An image of the Pakistani flag"
+          "altText": "Image for Rahul Dravid",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     }
