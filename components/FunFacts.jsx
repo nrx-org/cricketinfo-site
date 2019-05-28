@@ -14,8 +14,17 @@ const SECTION_TITLE_MESSAGE = {
 
 export const FunFacts = ({ scheduled, constant }) => {
   const dateString = todayString();
-  const facts = [...scheduled.filter(f => f.date === dateString), ...constant];
+  let facts = [
+    ...scheduled.filter(f => f.dates.indexOf[dateString] > -1),
+    ...constant
+  ];
 
+  if (scheduled.filter(f => f.dates.indexOf[dateString] > -1).length === 0) {
+    facts = [
+      ...scheduled.filter(f => f.dates.indexOf("2019-05-31") > -1),
+      ...constant
+    ];
+  }
   return (
     <LanguageContext.Consumer>
       {lang => (

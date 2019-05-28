@@ -41,6 +41,11 @@ module.exports.csvExports = {
       titleFieldName: "Title",
       descriptionFieldName: "Short description",
       imageFieldName: "Image Link"
+    },
+    {
+      path: "./csv/home_ids.en.csv",
+      idFieldName: "ID",
+      titleFieldName: "Title"
     }
   ],
   hi: [

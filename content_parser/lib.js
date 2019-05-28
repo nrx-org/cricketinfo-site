@@ -14,6 +14,12 @@ const makeArticleUrl = (lang, slug) => `/read/${lang}/${slug}`;
 
 const makeContentUrl = (lang, slug) => `/static/content/${lang}/${slug}.json`;
 
+const findIdMapEntryByTitle = (idMap, title, lang) => {
+  return idMap.find(
+    entry => entry.title[lang].toLowerCase() === title.toLowerCase()
+  );
+};
+
 const getCardInfoFromId = (idMap, id, lang) => {
   if (!id.trim()) {
     return null;
@@ -55,6 +61,7 @@ const getCardInfoFromId = (idMap, id, lang) => {
 
 module.exports = {
   findIdMapEntryById,
+  findIdMapEntryByTitle,
   getSluggedTitle,
   makeArticleUrl,
   makeContentUrl,

@@ -27,56 +27,58 @@ export const LargeCard = ({
 }) => (
   <ModalContextConsumer>
     {({ openModal }) => (
-      <section
-        id={id}
-        className={`wcp-large-card ${className} wcp-large-card--${cardOrientation}`}
-      >
-        <div className="wcp-large-card__cover-image__container">
-          <img
-            className="wcp-large-card__cover-image"
-            src={coverImage.url}
-            alt={coverImage.altText}
-          />
-        </div>
-        <div className="wcp-large-card__content">
-          {cardOrientation === "horizontal" ? (
-            <div className="wcp-large-card__children wcp-font-family-heading">
-              <p>{title}</p>
-            </div>
-          ) : (
-            <div>
-              <h2 className="wcp-large-card__label">{title}</h2>
-              <div className="wcp-large-card__caption">{caption}</div>
-            </div>
-          )}
-          <div className="wcp-large-card__controls">
-            <IconButton
-              onClick={() =>
-                shareCard(
-                  {
-                    title,
-                    url: getImageShareUrl(window.location.href, `#${id}`)
-                  },
-                  openModal
-                )
-              }
-              altText="Share button"
-              name="share"
+      <div className="wcp-large-card-wrapper">
+        <section
+          id={id}
+          className={`wcp-large-card ${className} wcp-large-card--${cardOrientation}`}
+        >
+          <div className="wcp-large-card__cover-image__container">
+            <img
+              className="wcp-large-card__cover-image"
+              src={coverImage.url}
+              alt={coverImage.altText}
             />
-            {href ? (
-              <Button
-                className="wcp-large-card__controls__button-read-more"
-                href={href}
-                isInverted
-                isFullWidth={false}
-                paddingSize="s"
-              >
-                {buttonText}
-              </Button>
-            ) : null}
           </div>
-        </div>
-      </section>
+          <div className="wcp-large-card__content">
+            {cardOrientation === "horizontal" ? (
+              <div className="wcp-large-card__children wcp-font-family-heading">
+                <p>{title}</p>
+              </div>
+            ) : (
+              <div>
+                <h2 className="wcp-large-card__label">{title}</h2>
+                <div className="wcp-large-card__caption">{caption}</div>
+              </div>
+            )}
+            <div className="wcp-large-card__controls">
+              <IconButton
+                onClick={() =>
+                  shareCard(
+                    {
+                      title,
+                      url: getImageShareUrl(window.location.href, `#${id}`)
+                    },
+                    openModal
+                  )
+                }
+                altText="Share button"
+                name="share"
+              />
+              {href ? (
+                <Button
+                  className="wcp-large-card__controls__button-read-more"
+                  href={href}
+                  isInverted
+                  isFullWidth={false}
+                  paddingSize="s"
+                >
+                  {buttonText}
+                </Button>
+              ) : null}
+            </div>
+          </div>
+        </section>
+      </div>
     )}
   </ModalContextConsumer>
 );
