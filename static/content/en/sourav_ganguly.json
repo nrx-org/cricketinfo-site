@@ -86,7 +86,7 @@
     },
     {
       "title": "Style of play",
-      "id": "Z0728T-n0M",
+      "id": "153__nzb2H",
       "cardType": "simple",
       "facts": [
         {
@@ -107,14 +107,146 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "YWaxdnNkbHz",
+          "id": "L2QOGeL57z",
           "note": "1989",
           "value": {
-            "label": "Sourav Ganguly made his first-class cricket debut for Bengal in 1989.",
+            "label": "Sourav Ganguly made his first-class cricket debut for Bengal in 1989."
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "n_nMjiP2Zf",
+          "note": "1992",
+          "value": {
+            "label": "Ganguly scored three runs in his One Day International (ODI) debut for India against the West Indies in 1992.",
             "facts": [
               {
-                "label": "Ranji Trophy",
-                "id": "05Tjytfs90g"
+                "url": "/read/en/west_indies_cricket_team",
+                "contentUrl": "/static/content/en/west_indies_cricket_team.json",
+                "label": "West Indies cricket team",
+                "id": "jPUynGNeNL",
+                "value": {
+                  "label": "The West Indies cricket team, traditionally known as the Windies, is a multi-national cricket team representing the Anglophone Caribbean region and administered by Cricket West Indies. The players on this composite team are selected from a chain of fifteen Caribbean territories",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/West_Indies_cricket_team#/media/File:West_indies_cricket_board_flag.png",
+                    "altText": "Image of West Indies cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "Fft7VNkOXa",
+          "note": "1999",
+          "value": {
+            "label": "Ganguly scored 183 run from 158 balls versus Sri Lanka during the 1999 World cup, his highest ODI score.",
+            "facts": [
+              {
+                "url": "/read/en/1999_cricket_world_cup",
+                "contentUrl": "/static/content/en/1999_cricket_world_cup.json",
+                "label": "1999 Cricket World Cup",
+                "id": "XGsNXiy8XP",
+                "value": {
+                  "label": "The 1999 Cricket World Cup was the seventh edition of the Cricket World Cup, organised by the International Cricket Council (ICC). It was hosted primarily by England, with some games being played in Scotland, Ireland, Wales and the Netherlands.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/1999_Cricket_World_Cup#/media/File:Wc99.png",
+                    "altText": "Image of 1999 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Champions Trophy 2002",
+          "id": "O9k9NPO0NG",
+          "note": "2002",
+          "value": {
+            "label": "India was declared co-champions of the tournament and Ganguly score 117 not out in the pool stage versus England. ",
+            "facts": [
+              {
+                "url": "/read/en/icc_champions_trophy",
+                "contentUrl": "/static/content/en/icc_champions_trophy.json",
+                "label": "ICC Champions Trophy",
+                "id": "zl9kOW72Q0",
+                "value": {
+                  "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/ICC_Champions_Trophy#/media/File:ICC_Champions_Trophy_cricket_logo.png",
+                    "altText": "Image of ICC Champions Trophy"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2003 World Cup",
+          "id": "2IfWw86gIR",
+          "note": "2003",
+          "value": {
+            "label": "Under Sourav Ganguly's captainship India reached the finals of the world cup for the first time since 1983.",
+            "facts": [
+              {
+                "url": "/read/en/2003_cricket_world_cup",
+                "contentUrl": "/static/content/en/2003_cricket_world_cup.json",
+                "label": "2003 Cricket World Cup",
+                "id": "gaCMmtT_2e",
+                "value": {
+                  "label": "The 2003 Cricket World Cup was the eighth Cricket World Cup, organized by the International Cricket Council (ICC). It was co-hosted by South Africa, Zimbabwe and Kenya.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/2003_Cricket_World_Cup#/media/File:Cricket_World_Cup_Logo_2003.svg",
+                    "altText": "Image of 2003 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2007 World Cup",
+          "id": "ycDTmHcWvU",
+          "note": "2007",
+          "value": {
+            "label": "Ganguly was the leading scorer for India although the team was knocked out of the tournament in the group stage.",
+            "facts": [
+              {
+                "url": "/read/en/2007_cricket_world_cup",
+                "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
+                "label": "2007 Cricket World Cup",
+                "id": "0VlMoI6aIP",
+                "value": {
+                  "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/2007_Cricket_World_Cup#/media/File:2007_Cricket_World_Cup_logo.svg",
+                    "altText": "Image of 2007 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "hvVowhs8xl",
+          "note": "2008",
+          "value": {
+            "label": "Ganguly joined the Kolkata Knight Riders team as captain for the Indian Premier League in 2008.",
+            "facts": [
+              {
+                "url": "/read/en/kolkata_knight_riders",
+                "contentUrl": "/static/content/en/kolkata_knight_riders.json",
+                "label": "Kolkata Knight Riders",
+                "id": "CRClYX8XD",
+                "value": {
+                  "label": "The Kolkata Knight Riders (also known by the acronym KKR) are a franchise cricket team representing the city of Kolkata in the Indian Premier League. ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Kolkata_Knight_Riders#/media/File:Kolkata_Knight_Riders_Logo.svg",
+                    "altText": "Image of Kolkata Knight Riders"
+                  }
+                }
               }
             ]
           }

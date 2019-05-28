@@ -63,7 +63,7 @@
     },
     {
       "title": "Style of play",
-      "id": "FX3lSNA44_S",
+      "id": "t6Ujdc-eyR",
       "cardType": "simple",
       "facts": [
         {
@@ -84,16 +84,34 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "9zdrh5_O-go",
+          "id": "s1Kg7x3mHs",
           "note": "2010",
           "value": {
-            "label": "Stokes made his first-class debut for Durham against the Marylebone Cricket Club (MCC)",
-            "facts": [
-              {
-                "label": "",
-                "id": "4EEv22rFSIO"
-              }
-            ]
+            "label": "Stokes made his first-class debut for Durham against the Marylebone Cricket Club (MCC)"
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "mHOef0AxzZ",
+          "note": "2011",
+          "value": {
+            "label": "Stokes made his international debut in a One Day International (ODI) against Ireland in August 2011."
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "KJ-AGwzC1L",
+          "note": "2016",
+          "value": {
+            "label": "Stokes was part of the England team that finished as runner's up in the tournament"
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "vBi2u_Z9u4",
+          "note": "2017",
+          "value": {
+            "label": "Rising Pune Supergiant was an IPL cricket team based in Pune"
           }
         }
       ]

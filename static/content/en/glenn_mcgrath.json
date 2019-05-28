@@ -69,7 +69,7 @@
     },
     {
       "title": "Style of play",
-      "id": "BOSg5uUbR0Q",
+      "id": "GqTQ_jtKmCU",
       "cardType": "simple",
       "facts": [
         {
@@ -90,14 +90,62 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "w710sNJEKQp",
+          "id": "hUlUone-7yk",
           "note": "1992",
           "value": {
-            "label": "Glenn McGrath made his first class debut for New South Wales during the 1992–93 season",
+            "label": "Glenn McGrath made his first class debut for New South Wales during the 1992–93 season"
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "Za-4_U25WB1",
+          "note": "1993",
+          "value": {
+            "label": "McGrath's Test debut was against New Zealand at Perth in 1993",
             "facts": [
               {
-                "label": "",
-                "id": "cEFWVAa6w1y"
+                "url": "/read/en/new_zealand_national_cricket_team",
+                "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
+                "label": "New Zealand national cricket team",
+                "id": "5djYYOc8k",
+                "value": {
+                  "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/New_Zealand_national_cricket_team#/media/File:New_Zealand_Cricket_Cap_Insignia.svg",
+                    "altText": "Image of New Zealand national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "sR7MvNvac1",
+          "note": "1996",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "ONh0AxQyrf",
+          "note": "2008",
+          "value": {
+            "label": "McGrath was signed by the Delhi DareDevils for the first season of the Indian Premier League in 2008, for a sum of US$350,000.",
+            "facts": [
+              {
+                "url": "/read/en/delhi_capitals",
+                "contentUrl": "/static/content/en/delhi_capitals.json",
+                "label": "Delhi Capitals",
+                "id": "V1bfYqJcEm",
+                "value": {
+                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Delhi_Capitals#/media/File:Delhi_Capitals_Logo.svg",
+                    "altText": "Image of Delhi Capitals"
+                  }
+                }
               }
             ]
           }

@@ -86,7 +86,7 @@
     },
     {
       "title": "Style of play",
-      "id": "UxVNyjYlVN1",
+      "id": "K1K0P-OVBL",
       "cardType": "simple",
       "facts": [
         {
@@ -107,14 +107,146 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "6egkRiRjCur",
+          "id": "_mktxK6Ol-",
           "note": "1999",
           "value": {
-            "label": "Dhoni made his Ranji Trophy debut for Bihar in the 1999–2000 season at the age of 18.",
+            "label": "Dhoni made his Ranji Trophy debut for Bihar in the 1999–2000 season at the age of 18."
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "HEUhZ7SW7K",
+          "note": "2004",
+          "value": {
+            "label": "Dhoni made his ODI debut.",
             "facts": [
               {
-                "label": "Ranji Trophy",
-                "id": "1iwEgoOm_tK"
+                "url": "/read/en/bangladesh_national_cricket_team",
+                "contentUrl": "/static/content/en/bangladesh_national_cricket_team.json",
+                "label": "Bangladesh national cricket team",
+                "id": "YK0s8ONi6",
+                "value": {
+                  "label": "The Bangladesh national cricket team, popularly known as \"The Tigers\", is administered by the Bangladesh Cricket Board (BCB). Bangladesh is a full member of the International Cricket Council (ICC) with Test and One Day International (ODI) status.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Bangladesh_national_cricket_team#/media/File:Flag_of_Bangladesh.svg",
+                    "altText": "Image of Bangladesh national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "S9bKYkGBSY",
+          "note": "2006",
+          "value": {
+            "label": "2006 Dhoni scored a half-century against West Indies.",
+            "facts": [
+              {
+                "url": "/read/en/icc_champions_trophy",
+                "contentUrl": "/static/content/en/icc_champions_trophy.json",
+                "label": "ICC Champions Trophy",
+                "id": "PK0HfjyHoV",
+                "value": {
+                  "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/ICC_Champions_Trophy#/media/File:ICC_Champions_Trophy_cricket_logo.png",
+                    "altText": "Image of ICC Champions Trophy"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2007 World Cup",
+          "id": "DDCvqrqNqG",
+          "note": "2007",
+          "value": {
+            "label": "India crashed out of the World Cup after in the group stage and Dhoni scored just 29 runs in the tournament.",
+            "facts": [
+              {
+                "url": "/read/en/2007_cricket_world_cup",
+                "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
+                "label": "2007 Cricket World Cup",
+                "id": "aqCDQwCNE8",
+                "value": {
+                  "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/2007_Cricket_World_Cup#/media/File:2007_Cricket_World_Cup_logo.svg",
+                    "altText": "Image of 2007 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2007 ICC World Twenty20",
+          "id": "fSF2B1HEGW",
+          "note": "2007",
+          "value": {
+            "label": "Dhoni was the captain of the Indian team that won the inaugural ICC World Twenty20 championship.",
+            "facts": [
+              {
+                "url": "/read/en/2007_cricket_world_cup",
+                "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
+                "label": "2007 Cricket World Cup",
+                "id": "wTliuz1KoU",
+                "value": {
+                  "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/2007_Cricket_World_Cup#/media/File:2007_Cricket_World_Cup_logo.svg",
+                    "altText": "Image of 2007 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2011 World Cup",
+          "id": "kViMw68-sy",
+          "note": "2011",
+          "value": {
+            "label": "Under Dhoni's captaincy India won its second world cup title in 2011. He scored 91 not out, finishing the game with a historical six.",
+            "facts": [
+              {
+                "url": "/read/en/2011_cricket_world_cup",
+                "contentUrl": "/static/content/en/2011_cricket_world_cup.json",
+                "label": "2011 Cricket World Cup",
+                "id": "xwaOvVlE90",
+                "value": {
+                  "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/2011_Cricket_World_Cup#/media/File:2011_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2011 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "rC5jyZKlGE",
+          "note": "2008",
+          "value": {
+            "label": "Dhoni was contracted by the Chennai Super Kings for US$1.5 million which made him the most expensive player in the IPL for the first season.",
+            "facts": [
+              {
+                "url": "/read/en/chennai_super_kings",
+                "contentUrl": "/static/content/en/chennai_super_kings.json",
+                "label": "Chennai Super Kings",
+                "id": "Xhxzqxslp5",
+                "value": {
+                  "label": "Founded in 2008, The Chennai Super Kings (CSK) is an Indian franchise cricket team based in Chennai, Tamil Nadu, which plays in the Indian Premier League (IPL).",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Chennai_Super_Kings#/media/File:Chennai_Super_Kings_Logo.svg",
+                    "altText": "Image of Chennai Super Kings"
+                  }
+                }
               }
             ]
           }

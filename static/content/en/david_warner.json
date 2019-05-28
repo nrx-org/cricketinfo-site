@@ -84,7 +84,7 @@
     },
     {
       "title": "Style of play",
-      "id": "ime_tg5CXlu",
+      "id": "o15R9KhxIF",
       "cardType": "simple",
       "facts": [
         {
@@ -105,14 +105,62 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "fdHiUGBz17U",
+          "id": "zomPVUeRyS",
           "note": "2009",
           "value": {
-            "label": "Warner made his first-class debut playing for New South Wales against Western Australia.",
+            "label": "Warner made his first-class debut playing for New South Wales against Western Australia."
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "jltLE9VdF5",
+          "note": "2009",
+          "value": {
+            "label": "Warner made his international debut for Australia in a Twenty20 International against South Africa at the Melbourne.",
             "facts": [
               {
-                "label": "Sheffield Sheild",
-                "id": "KmGZUBAXlcH"
+                "url": "/read/en/south_africa_national_cricket_team",
+                "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
+                "label": "South Africa national cricket team",
+                "id": "i24aa9MyvR-",
+                "value": {
+                  "label": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/South_Africa_national_cricket_team#/media/File:Southafrica_cricket_logo.svg",
+                    "altText": "Image of South Africa national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "qfEqkN1oeY2",
+          "note": "2013",
+          "value": {
+            "label": "Warner was dropped from the team after the first match due to a off-field fight with English player Joe Root"
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "wcCBjx06EtO",
+          "note": "2009",
+          "value": {
+            "label": "Warner was signed by IPL team Delhi Daredevils for 2009–10 seasons.",
+            "facts": [
+              {
+                "url": "/read/en/delhi_capitals",
+                "contentUrl": "/static/content/en/delhi_capitals.json",
+                "label": "Delhi Capitals",
+                "id": "nMkq80InVTb",
+                "value": {
+                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Delhi_Capitals#/media/File:Delhi_Capitals_Logo.svg",
+                    "altText": "Image of Delhi Capitals"
+                  }
+                }
               }
             ]
           }

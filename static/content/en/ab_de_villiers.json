@@ -85,7 +85,7 @@
     },
     {
       "title": "Style of play",
-      "id": "-IyExi2yyUr",
+      "id": "wLB_kjB4h5",
       "cardType": "simple",
       "facts": [
         {
@@ -106,14 +106,62 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "UUdm8PtD8jy",
+          "id": "1_-GjSu3bh",
           "note": "2004",
           "value": {
-            "label": "De Villiers made his first class debut for the South African domestic team Northerns",
+            "label": "De Villiers made his first class debut for the South African domestic team Northerns"
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "_TqhbAUerv",
+          "note": "2004",
+          "value": {
+            "label": "AB de Villiers made his international debut in a Test match against England",
             "facts": [
               {
-                "label": "",
-                "id": "IiYFmnqB8Sz"
+                "url": "/read/en/england_cricket_team",
+                "contentUrl": "/static/content/en/england_cricket_team.json",
+                "label": "England cricket team",
+                "id": "Ud8_14vz6Q",
+                "value": {
+                  "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/England_cricket_team#/media/File:England_cricket_team_logo.svg",
+                    "altText": "Image of England cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "erbGkDQDJ4",
+          "note": "2007",
+          "value": {
+            "label": "De Villiers' batting during the World Cup was inconsistent as he also failed to score on 4 occasions"
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "FhX4LzF6Z4",
+          "note": "2008",
+          "value": {
+            "label": "De Villiers played for the Delhi Daredevils in the first 3 seasons of IPL",
+            "facts": [
+              {
+                "url": "/read/en/delhi_capitals",
+                "contentUrl": "/static/content/en/delhi_capitals.json",
+                "label": "Delhi Capitals",
+                "id": "23fOxBqc1Q5",
+                "value": {
+                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Delhi_Capitals#/media/File:Delhi_Capitals_Logo.svg",
+                    "altText": "Image of Delhi Capitals"
+                  }
+                }
               }
             ]
           }

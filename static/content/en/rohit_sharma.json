@@ -81,7 +81,7 @@
     },
     {
       "title": "Style of play",
-      "id": "L3Y6c1Gu1RD",
+      "id": "vrXK9kAmEu",
       "cardType": "simple",
       "facts": [
         {
@@ -102,14 +102,108 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "m2mb15jPlxR",
+          "id": "20E24D160N",
           "note": "2006",
           "value": {
-            "label": "Sharma made his First-class debut for India A against New Zealand A, in 2006, before his Ranji trophy debut.",
+            "label": "Sharma made his First-class debut for India A against New Zealand A, in 2006, before his Ranji trophy debut."
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "qRl9eM3OY5",
+          "note": "2007",
+          "value": {
+            "label": "Rohit Sharma made his One Day International debut against Ireland, although he did not bat in the match."
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "z9SBbPyFzQ",
+          "note": "2007",
+          "value": {
+            "label": "Rohit Sharma led India to a crucial victory by scoring an unbeaten 50 against South Africa in the 2007 ICC World Twenty20, which took the team to the semi-finals.",
             "facts": [
               {
-                "label": "",
-                "id": "srmmJ6r5MIo"
+                "url": "/read/en/icc_t20_world_cup",
+                "contentUrl": "/static/content/en/icc_t20_world_cup.json",
+                "label": "ICC T20 World Cup",
+                "id": "SkqBm_5P7f",
+                "value": {
+                  "label": "The ICC T20 World Cup (earlier known as ICC World Twenty20) is the international championship of Twenty20 International cricket. The tournament currently consists of 16 teams, comprising the top eight teams from the rankings at the given deadline and four other teams chosen through the T20 World Cup Qualifier. ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/ICC_T20_World_Cup#/media/File:ICC_World_Twenty20_Trophy.jpg",
+                    "altText": "Image of ICC T20 World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2013 ICC Champions Trophy",
+          "id": "d-qjzTybhqM",
+          "note": "2013",
+          "value": {
+            "label": "In 2013, he was promoted as the new opening batsman for India along with Shikhar Dhawan for the Champions Trophy.",
+            "facts": [
+              {
+                "url": "/read/en/icc_champions_trophy",
+                "contentUrl": "/static/content/en/icc_champions_trophy.json",
+                "label": "ICC Champions Trophy",
+                "id": "s-nm7J8KVp_",
+                "value": {
+                  "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/ICC_Champions_Trophy#/media/File:ICC_Champions_Trophy_cricket_logo.png",
+                    "altText": "Image of ICC Champions Trophy"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2015 World Cup",
+          "id": "VwOVp6J3tFz",
+          "note": "2015",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "url": "/read/en/2015_cricket_world_cup",
+                "contentUrl": "/static/content/en/2015_cricket_world_cup.json",
+                "label": "2015 Cricket World Cup",
+                "id": "9fMa58j94EM",
+                "value": {
+                  "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/2015_Cricket_World_Cup#/media/File:2015_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2015 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "cwpLx1iGRqY",
+          "note": "2008",
+          "value": {
+            "label": "Sharma was signed up by the Deccan Chargers for a sum of US$750,000 a year in 2008.",
+            "facts": [
+              {
+                "url": "/read/en/sunrisers_hyderabad",
+                "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
+                "label": "Sunrisers Hyderabad",
+                "id": "7NWcOdPKOVG",
+                "value": {
+                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "https://upload.wikimedia.org/wikipedia/en/8/81/Sunrisers_Hyderabad.svg",
+                    "altText": "Image of Sunrisers Hyderabad"
+                  }
+                }
               }
             ]
           }

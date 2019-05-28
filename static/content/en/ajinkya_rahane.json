@@ -78,7 +78,7 @@
     },
     {
       "title": "Style of play",
-      "id": "CixoiVNmLUB",
+      "id": "7sgAk-x0Zp0",
       "cardType": "simple",
       "facts": [
         {
@@ -95,14 +95,62 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "m3ky-oxgoHe",
+          "id": "WfN3kFIH8HT",
           "note": "Rahane made his first-class debut, at the age of 19, for Mumbai against Karachi Urban in the Mohammad Nissar Trophy in September 2007",
           "value": {
-            "label": "Mohammad Nissar Trophy was an annual first class cricket competition played over four days between the winners of the Ranji Trophy from India and Quaid-i-Azam Trophy from Pakistan.",
+            "label": "Mohammad Nissar Trophy was an annual first class cricket competition played over four days between the winners of the Ranji Trophy from India and Quaid-i-Azam Trophy from Pakistan."
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "NhvZ1uFyRLX",
+          "note": "2011",
+          "value": {
+            "label": "Rahane made his debut against England in 2011 as a replacement for opener Virender Sehwag",
             "facts": [
               {
-                "label": "Mohammad Nissar Trophy",
-                "id": "T-0nI1VeqSC"
+                "url": "/read/en/england_cricket_team",
+                "contentUrl": "/static/content/en/england_cricket_team.json",
+                "label": "England cricket team",
+                "id": "ChomFFPqs",
+                "value": {
+                  "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/England_cricket_team#/media/File:England_cricket_team_logo.svg",
+                    "altText": "Image of England cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "pWo0ZBk0S0",
+          "note": "2014",
+          "value": {
+            "label": "Rahane was part of Indian team make it to the final of 2014 World T20"
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "SaoBDbodbh",
+          "note": "2008",
+          "value": {
+            "label": "Rahane was initially in the Mumbai Indians squad but got limited opportunities",
+            "facts": [
+              {
+                "url": "/read/en/bangladesh_national_cricket_team",
+                "contentUrl": "/static/content/en/bangladesh_national_cricket_team.json",
+                "label": "Bangladesh national cricket team",
+                "id": "eRJXs0TMVy",
+                "value": {
+                  "label": "The Bangladesh national cricket team, popularly known as \"The Tigers\", is administered by the Bangladesh Cricket Board (BCB). Bangladesh is a full member of the International Cricket Council (ICC) with Test and One Day International (ODI) status.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Bangladesh_national_cricket_team#/media/File:Flag_of_Bangladesh.svg",
+                    "altText": "Image of Bangladesh national cricket team"
+                  }
+                }
               }
             ]
           }

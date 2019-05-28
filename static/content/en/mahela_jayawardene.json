@@ -85,7 +85,7 @@
     },
     {
       "title": "Style of play",
-      "id": "DB7TbUO_cOq",
+      "id": "UmtIScr5Mj",
       "cardType": "simple",
       "facts": [
         {
@@ -106,14 +106,62 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "Fb18lbdOrQW",
+          "id": "_X9TwgGtfX",
           "note": "1995",
           "value": {
-            "label": "Mahela Jayawardene made his first class debut while playing for the Sinhalese Sports Club",
+            "label": "Mahela Jayawardene made his first class debut while playing for the Sinhalese Sports Club"
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "0BW93L6eQG",
+          "note": "1997",
+          "value": {
+            "label": "Mahela Jayawardene made his international debut against India at Colombo in 1997",
             "facts": [
               {
-                "label": "",
-                "id": "yx2ISVTig0j"
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "label": "India national cricket team",
+                "id": "3ScO7c6siS",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India#/media/File:Cricket_India_Crest.svg",
+                    "altText": "Image of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "rl7BPjpPwz",
+          "note": "1999",
+          "value": {
+            "label": "Jayawardene was a key member of the 1999 world cup team"
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "jD_g8hwIcf",
+          "note": "2008",
+          "value": {
+            "label": "Jayawardene played for the Kings XI Punjab from 2008 to 2010",
+            "facts": [
+              {
+                "url": "/read/en/kings_xi_punjab",
+                "contentUrl": "/static/content/en/kings_xi_punjab.json",
+                "label": "Kings XI Punjab",
+                "id": "7Hnz8WkltU",
+                "value": {
+                  "label": "The Kings XI Punjab (KXIP) are a franchise cricket team based in Mohali (Chandigarh CR), Punjab, that plays in the Indian Premier League. ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Kings_XI_Punjab#/media/File:Kings_XI_Punjab_logo.svg",
+                    "altText": "Image of Kings XI Punjab"
+                  }
+                }
               }
             ]
           }

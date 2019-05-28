@@ -85,7 +85,7 @@
     },
     {
       "title": "Style of play",
-      "id": "P9J0I6f9_Gl",
+      "id": "8t3PAry7r3",
       "cardType": "simple",
       "facts": [
         {
@@ -99,7 +99,62 @@
     {
       "title": "Phase(s)",
       "cardType": "vertical_timeline",
-      "facts": []
+      "facts": [
+        {
+          "label": "National team debut ",
+          "id": "I6OyBv-VBw",
+          "note": "1993",
+          "value": {
+            "label": "Kirsten made his international debut in a ODI versus Australia in 1993",
+            "facts": [
+              {
+                "url": "/read/en/australia_cricket_team",
+                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "label": "Australia Cricket team",
+                "id": "WfM9x4KcRR",
+                "value": {
+                  "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Australia_national_cricket_team#/media/File:Australia_cricket_logo.svg",
+                    "altText": "Image of Australia Cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "1HtA6wqlm4",
+          "note": "1996",
+          "value": {
+            "label": "Kirsten scored 188 not-outagainst the United Arab Emirates during the 1996 World Cup",
+            "facts": [
+              {
+                "url": "/read/en/1996_cricket_world_cup",
+                "contentUrl": "/static/content/en/1996_cricket_world_cup.json",
+                "label": "1996 Cricket World Cup",
+                "id": "iS95ZNZWz6",
+                "value": {
+                  "label": "The 1996 Cricket World Cup, also called the Wills World Cup 1996 after its official sponsors, ITC's Wills brand, was the sixth Cricket World Cup. It was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/1996_Cricket_World_Cup#/media/File:Wills_World_Cup_1996.svg",
+                    "altText": "Image of 1996 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "bSFRBgVPEC",
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        }
+      ]
     }
   ]
 }

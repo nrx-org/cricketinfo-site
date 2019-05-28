@@ -89,7 +89,7 @@
     },
     {
       "title": "Style of play",
-      "id": "GOmVY6at_",
+      "id": "ZN9T5xe5A",
       "cardType": "simple",
       "facts": [
         {
@@ -110,14 +110,116 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "Px2QyUZ9MA",
+          "id": "3q2dwoCNg2",
           "note": "2006",
           "value": {
-            "label": "Kohli made his first-class debut for Delhi against Tamil Nadu in 2006, at the age of 18",
+            "label": "Kohli made his first-class debut for Delhi against Tamil Nadu in 2006, at the age of 18"
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "fItav9o8qO",
+          "note": "2008",
+          "value": {
+            "label": "Kohli was included in the Indian ODI squad for 2008 tour of Sri Lanka and the Champions Trophy in Pakistan",
             "facts": [
               {
-                "label": "Ranji Trophy",
-                "id": "7UmYAHU9hZ"
+                "url": "/read/en/sri_lanka_national_cricket_team",
+                "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
+                "label": "Sri Lanka national cricket team",
+                "id": "2FO9zQocUe",
+                "value": {
+                  "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Sri_Lanka_national_cricket_team#/media/File:Sri_Lanka_Cricket_Cap_Insignia.svg",
+                    "altText": "Image of Sri Lanka national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "tNdOpJWyCf",
+          "note": "2008",
+          "value": {
+            "label": "Kohli captained the victorious Indian team at the 2008 ICC Under-19 Cricket World Cup held in Malaysia"
+          }
+        },
+        {
+          "label": "World Cup Appearance",
+          "id": "mAZI_H1q3J",
+          "note": "2011",
+          "value": {
+            "label": "Kohli played in every match of India's successful World Cup campaign in 2011"
+          }
+        },
+        {
+          "label": "ICC Champions Trophy ",
+          "id": "8wOXVqg2oW",
+          "note": "2013",
+          "value": {
+            "label": "In June 2013, Kohli featured in the ICC Champions Trophy in England which India won",
+            "facts": [
+              {
+                "url": "/read/en/icc_champions_trophy",
+                "contentUrl": "/static/content/en/icc_champions_trophy.json",
+                "label": "ICC Champions Trophy",
+                "id": "5pfYJLf5xr",
+                "value": {
+                  "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/ICC_Champions_Trophy#/media/File:ICC_Champions_Trophy_cricket_logo.png",
+                    "altText": "Image of ICC Champions Trophy"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC T20 Trophy ",
+          "id": "g5mpemE73J",
+          "note": "2014",
+          "value": {
+            "label": "For 2014 ICC World Twenty20 and Kohli was named vice-captain.",
+            "facts": [
+              {
+                "url": "/read/en/icc_t20_world_cup",
+                "contentUrl": "/static/content/en/icc_t20_world_cup.json",
+                "label": "ICC T20 World Cup",
+                "id": "jjdI84o336",
+                "value": {
+                  "label": "The ICC T20 World Cup (earlier known as ICC World Twenty20) is the international championship of Twenty20 International cricket. The tournament currently consists of 16 teams, comprising the top eight teams from the rankings at the given deadline and four other teams chosen through the T20 World Cup Qualifier. ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/ICC_T20_World_Cup#/media/File:ICC_World_Twenty20_Trophy.jpg",
+                    "altText": "Image of ICC T20 World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "Ke6quRoaQo",
+          "note": "2008",
+          "value": {
+            "label": "In March 2008, Kohli was bought on a youth contract by Royal Challengers Bangalore for $30,000. ",
+            "facts": [
+              {
+                "url": "/read/en/royal_challengers_bangalore",
+                "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
+                "label": "Royal Challengers Bangalore",
+                "id": "GHEjQTZbbj",
+                "value": {
+                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Royal_Challengers_Bangalore#/media/File:Royal_Challengers_Bangalore_Logo_2016.svg",
+                    "altText": "Image of Royal Challengers Bangalore"
+                  }
+                }
               }
             ]
           }

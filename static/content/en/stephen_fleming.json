@@ -63,7 +63,7 @@
     },
     {
       "title": "Style of play",
-      "id": "E3_pMk5yEeg",
+      "id": "utZLKUXuew",
       "cardType": "simple",
       "facts": [
         {
@@ -84,14 +84,62 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "J-haOq_jkQc",
+          "id": "l1sTPdOfk3",
           "note": "1991",
           "value": {
-            "label": "Fleming first played for the Canterbury, first class team during the 1991-92 season.",
+            "label": "Fleming first played for the Canterbury, first class team during the 1991-92 season."
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "OmomaVAbWi",
+          "note": "1994",
+          "value": {
+            "label": "Fleming made his Test debut in March 1994 against India, winning the Man of the Match award in the match.",
             "facts": [
               {
-                "label": "",
-                "id": "sPhCLqkTwu-"
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "label": "India national cricket team",
+                "id": "ZASmkiWoDd",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India#/media/File:Cricket_India_Crest.svg",
+                    "altText": "Image of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "L0qMQ7nuB4",
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "3wmnXMuJrG",
+          "note": "2008",
+          "value": {
+            "label": "Fleming played for the Chennai Super Kings in the 2008 and scored 196 runs in 10 matches.",
+            "facts": [
+              {
+                "url": "/read/en/chennai_super_kings",
+                "contentUrl": "/static/content/en/chennai_super_kings.json",
+                "label": "Chennai Super Kings",
+                "id": "Z6EG04xtIKa",
+                "value": {
+                  "label": "Founded in 2008, The Chennai Super Kings (CSK) is an Indian franchise cricket team based in Chennai, Tamil Nadu, which plays in the Indian Premier League (IPL).",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Chennai_Super_Kings#/media/File:Chennai_Super_Kings_Logo.svg",
+                    "altText": "Image of Chennai Super Kings"
+                  }
+                }
               }
             ]
           }

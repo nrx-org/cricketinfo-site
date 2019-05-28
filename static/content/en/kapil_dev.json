@@ -80,7 +80,7 @@
     },
     {
       "title": "Style of play",
-      "id": "DEKVzfzPmB",
+      "id": "zmffTg2T2L",
       "cardType": "simple",
       "facts": [
         {
@@ -97,16 +97,88 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "tfRqTO4gjp",
+          "id": "kSlwavDnxW",
           "note": "1975",
           "value": {
-            "label": "Dev made an impressive debut for Haryana in November 1975 against Punjab.",
+            "label": "Dev made an impressive debut for Haryana in November 1975 against Punjab."
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "iP-JYFeo_K",
+          "note": "1978",
+          "value": {
+            "label": "One day cricket debut against Pakistan where his individual performance was ordinary.",
             "facts": [
               {
-                "label": "",
-                "id": "j7GaQ-Dp4R"
+                "url": "/read/en/pakistan_national_cricket_team",
+                "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
+                "label": "Pakistan national cricket team",
+                "id": "foU6pTvQM",
+                "value": {
+                  "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Pakistan_national_cricket_team#/media/File:PakistanCricketLogo.png",
+                    "altText": "Image of Pakistan national cricket team"
+                  }
+                }
               }
             ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "uIyhiIQJht",
+          "note": "1979",
+          "value": {
+            "label": "Both Kapil Dev and India had a poor campaign at the 1979 Cricket World Cup."
+          }
+        },
+        {
+          "label": "1983 World Cup Champions",
+          "id": "Lmxu31xAW3",
+          "note": "1983",
+          "value": {
+            "label": "India won the 1983 world cup under Kapil Dev's captaincy.",
+            "facts": [
+              {
+                "url": "/read/en/1983_cricket_world_cup",
+                "contentUrl": "/static/content/en/1983_cricket_world_cup.json",
+                "label": "1983 Cricket World Cup",
+                "id": "y1W2x40CGk",
+                "value": {
+                  "label": "The 1983 Cricket World Cup (officially the Prudential Cup '83) was the 3rd edition of the Cricket World Cup tournament. It was held from 9 June to 25 June 1983 in England and Wales and was won by India.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/1983_Cricket_World_Cup#/media/File:Prudential_Cup_83_logo.svg",
+                    "altText": "Image of 1983 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "1987 World Cup",
+          "id": "qBXNupWHni",
+          "note": "1987",
+          "value": {
+            "label": "Kapil Dev was retained as the captain of the Indian team for the 1987 World Cup."
+          }
+        },
+        {
+          "label": "Final years",
+          "id": "q3x3czjCl2",
+          "note": "1992",
+          "value": {
+            "label": "Kapil Dev played his last world cup in 1992 under the captaincy of Mohammed Azharuddin"
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "uGNRF-1j3K",
+          "note": "",
+          "value": {
+            "label": ""
           }
         }
       ]

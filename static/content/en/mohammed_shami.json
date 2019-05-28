@@ -63,7 +63,7 @@
     },
     {
       "title": "Style of play",
-      "id": "JMOsETdhjh8",
+      "id": "fkcTOmbKcy",
       "cardType": "simple",
       "facts": [
         {
@@ -80,14 +80,62 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "r-Gf0tb9m4t",
+          "id": "1dMtXOh1gp",
           "note": "2010",
           "value": {
-            "label": "Shami made his first-class debut in 2010 against Assam, picking up three wickets.",
+            "label": "Shami made his first-class debut in 2010 against Assam, picking up three wickets."
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "wLp5jCZ5Rr",
+          "note": "2013",
+          "value": {
+            "label": "Shami made his ODI debut versus Pakistan in 2013.",
             "facts": [
               {
-                "label": "Ranji Trophy",
-                "id": "fDW_P2qJ-0P"
+                "url": "/read/en/pakistan_national_cricket_team",
+                "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
+                "label": "Pakistan national cricket team",
+                "id": "MYNaPcwZ61",
+                "value": {
+                  "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Pakistan_national_cricket_team#/media/File:PakistanCricketLogo.png",
+                    "altText": "Image of Pakistan national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "FHx67EStH3",
+          "note": "2014",
+          "value": {
+            "label": "Shami made his T20 debut in the opening match of the T20 world cup"
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "HHC0hbL13tL",
+          "note": "2014",
+          "value": {
+            "label": "Shami played for the Delhi Daredevils from 2014 to 2018",
+            "facts": [
+              {
+                "url": "/read/en/delhi_capitals",
+                "contentUrl": "/static/content/en/delhi_capitals.json",
+                "label": "Delhi Capitals",
+                "id": "z0S-vrIjbca",
+                "value": {
+                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Delhi_Capitals#/media/File:Delhi_Capitals_Logo.svg",
+                    "altText": "Image of Delhi Capitals"
+                  }
+                }
               }
             ]
           }

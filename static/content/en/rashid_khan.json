@@ -65,7 +65,7 @@
     },
     {
       "title": "Style of play",
-      "id": "Kz8A7WeORUM",
+      "id": "Sa9kf4HwHt",
       "cardType": "simple",
       "facts": [
         {
@@ -82,14 +82,47 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "u8z7vCeHnMq",
+          "id": "q70CfARkDQ",
           "note": "",
           "value": {
-            "label": "",
+            "label": ""
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "Z1ABpGSMbq",
+          "note": "",
+          "value": {
+            "label": "He made his One Day International (ODI) debut for Afghanistan against Zimbabwe on 18 October 2015."
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "sDQ3vH0ErrR",
+          "note": "",
+          "value": {
+            "label": "In April 2019, he was named in Afghanistan's squad for the 2019 Cricket World Cup."
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "UCCNRGHWaA5",
+          "note": "2017",
+          "value": {
+            "label": "In February 2017, he was bought by Sunrisers Hyderabad for the 2017 Indian Premier League (IPL) for 4 crores.He was also amongst the two first ever Afghan players to be selected for the IPL.",
             "facts": [
               {
-                "label": "",
-                "id": "-C2H5oOp_TW"
+                "url": "/read/en/sunrisers_hyderabad",
+                "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
+                "label": "Sunrisers Hyderabad",
+                "id": "9mAQmgbiaZb",
+                "value": {
+                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "https://upload.wikimedia.org/wikipedia/en/8/81/Sunrisers_Hyderabad.svg",
+                    "altText": "Image of Sunrisers Hyderabad"
+                  }
+                }
               }
             ]
           }

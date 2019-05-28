@@ -81,7 +81,7 @@
     },
     {
       "title": "Style of play",
-      "id": "5r3OWwr4jfs",
+      "id": "ooMG9jSHzGY",
       "cardType": "simple",
       "facts": [
         {
@@ -102,14 +102,146 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "TbCExlM6gZa",
+          "id": "g-FK48sJQ4R",
           "note": "2004",
           "value": {
-            "label": "Dhawan made his first-class debut for Delhi against Andhra during Ranji Trophy in the year 2004.",
+            "label": "Dhawan made his first-class debut for Delhi against Andhra during Ranji Trophy in the year 2004."
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "fbq0gTZa2Cm",
+          "note": "2010",
+          "value": {
+            "label": "Dhawan made his international debut versus Australia but got out on a duck.",
             "facts": [
               {
-                "label": "Ranji Trophy",
-                "id": "2Gx2zzRYVcp"
+                "url": "/read/en/australia_cricket_team",
+                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "label": "Australia Cricket team",
+                "id": "Z6FLtQh4j",
+                "value": {
+                  "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Australia_national_cricket_team#/media/File:Australia_cricket_logo.svg",
+                    "altText": "Image of Australia Cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "ISX1fHhrxz",
+          "note": "2013",
+          "value": {
+            "label": "Dhawan scored the most runs in the tournament and was also named as the player of the tournament.",
+            "facts": [
+              {
+                "url": "/read/en/icc_champions_trophy",
+                "contentUrl": "/static/content/en/icc_champions_trophy.json",
+                "label": "ICC Champions Trophy",
+                "id": "F_gaKpamYL",
+                "value": {
+                  "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/ICC_Champions_Trophy#/media/File:ICC_Champions_Trophy_cricket_logo.png",
+                    "altText": "Image of ICC Champions Trophy"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Struggle with form",
+          "id": "1jMJQZuZxf",
+          "note": "2014",
+          "value": {
+            "label": "Dhawan failed to score big runs and was dropped from the team.",
+            "facts": [
+              {
+                "url": "/read/en/icc_t20_world_cup",
+                "contentUrl": "/static/content/en/icc_t20_world_cup.json",
+                "label": "ICC T20 World Cup",
+                "id": "Hc5dZV1QvS",
+                "value": {
+                  "label": "The ICC T20 World Cup (earlier known as ICC World Twenty20) is the international championship of Twenty20 International cricket. The tournament currently consists of 16 teams, comprising the top eight teams from the rankings at the given deadline and four other teams chosen through the T20 World Cup Qualifier. ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/ICC_T20_World_Cup#/media/File:ICC_World_Twenty20_Trophy.jpg",
+                    "altText": "Image of ICC T20 World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2015 World Cup",
+          "id": "QGKo42QuDF",
+          "note": "2015",
+          "value": {
+            "label": "Dhawan finished the 2015 world cup as the fifth-highest run scorer.",
+            "facts": [
+              {
+                "url": "/read/en/2015_cricket_world_cup",
+                "contentUrl": "/static/content/en/2015_cricket_world_cup.json",
+                "label": "2015 Cricket World Cup",
+                "id": "LhzZw1gtOP",
+                "value": {
+                  "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/2015_Cricket_World_Cup#/media/File:2015_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2015 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2017 Champions Trophy",
+          "id": "c7K-LVSZrq",
+          "note": "2017",
+          "value": {
+            "label": "Dhawan won the Golden bat for the most runs scored during the tournament",
+            "facts": [
+              {
+                "url": "/read/en/icc_champions_trophy",
+                "contentUrl": "/static/content/en/icc_champions_trophy.json",
+                "label": "ICC Champions Trophy",
+                "id": "cERk8hDZuQ",
+                "value": {
+                  "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/ICC_Champions_Trophy#/media/File:ICC_Champions_Trophy_cricket_logo.png",
+                    "altText": "Image of ICC Champions Trophy"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "Yh3xDaj8NI",
+          "note": "2008",
+          "value": {
+            "label": "Shikhar Dhawan played for the Delhi Daredevils in the Indian Premier League until he was traded to the Mumbai Indians in 2009 in exchange for Ashish Nehra.",
+            "facts": [
+              {
+                "url": "/read/en/delhi_capitals",
+                "contentUrl": "/static/content/en/delhi_capitals.json",
+                "label": "Delhi Capitals",
+                "id": "7gW0NhGqOQ",
+                "value": {
+                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Delhi_Capitals#/media/File:Delhi_Capitals_Logo.svg",
+                    "altText": "Image of Delhi Capitals"
+                  }
+                }
               }
             ]
           }

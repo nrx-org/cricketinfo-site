@@ -9,7 +9,7 @@
   "translations": [
     {
       "lang": "en",
-      "title": "Rahul dravid",
+      "title": "Rahul Dravid",
       "url": "/read/en/rahul_dravid"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "title": "Style of play",
-      "id": "I7-cK4cqHXZ",
+      "id": "tBJykiJ2BzJ",
       "cardType": "simple",
       "facts": [
         {
@@ -107,16 +107,95 @@
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": "QTsVOycddqx",
+          "id": "zMXAc_yd83z",
           "note": "1991",
           "value": {
-            "label": "द्रविड़ ने महाराष्ट्र के खिलाफ 1991 में रणजी ट्रॉफी क्रिकेट में पदार्पण किया। ",
+            "label": "द्रविड़ ने महाराष्ट्र के खिलाफ 1991 में रणजी ट्रॉफी क्रिकेट में पदार्पण किया। "
+          }
+        },
+        {
+          "label": "राष्ट्रीय टीम ",
+          "id": "baM41nLBmS-",
+          "note": "1996",
+          "value": {
+            "label": "द्रविड़ ने 1996 में सिंगापोर में सिंगर कप के दौरान ओडीआई क्रिकेट में श्रीलंका के विरुद्ध वनडे इंटरनेशनल में पदार्पण किया। "
+          }
+        },
+        {
+          "label": "विश्व कप",
+          "id": "Q4L6izwC5qK",
+          "note": "1999",
+          "value": {
+            "label": "द्रविड़ ने दक्षिण अफ्रीका के विरुद्ध होव में 1999 में क्रिकेट विश्व कप के मैचों में अपना पदार्पण किया और अर्द्ध शतक बनाया।",
             "facts": [
               {
-                "label": "रणजी ट्रॉफी ",
-                "id": "tZivTdFlaH1"
+                "url": "/read/hi/1999_cricket_world_cup",
+                "contentUrl": "/static/content/hi/1999_cricket_world_cup.json",
+                "label": "1999 क्रिकेट विश्व कप",
+                "id": "toVLyxXkBAv",
+                "value": {
+                  "label": "1999 का क्रिकेट विश्व कप क्रिकेट विश्व कप का सातवां संस्करण था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेज़बानी मुख्य रूप से इंग्लैंड ने की थी, जिसमें कुछ मैच स्कॉटलैंड, आयरलैंड, वेल्स और नीदरलैंड में भी खेले गए थे।",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/1999_Cricket_World_Cup#/media/File:Wc99.png",
+                    "altText": "Image of 1999 क्रिकेट विश्व कप"
+                  }
+                }
               }
             ]
+          }
+        },
+        {
+          "label": "2003 विश्व कप\n",
+          "id": "J6VkG-Qr-j1",
+          "note": "2003",
+          "value": {
+            "label": "2003 के विश्व कप के दौरान द्रविड़ उप-कप्तान रहे और एक विकेटकीपर बल्लेबाज के रूप में मैच खेले। ",
+            "facts": [
+              {
+                "url": "/read/hi/2003_cricket_world_cup",
+                "contentUrl": "/static/content/hi/2003_cricket_world_cup.json",
+                "label": "2003 क्रिकेट विश्व कप",
+                "id": "jDlWLYYClYU",
+                "value": {
+                  "label": "2003 का क्रिकेट विश्व कप आठवां क्रिकेट विश्व कप था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेजबानी दक्षिण अफ्रीका, जिम्बाब्वे और केन्या ने मिल कर की थी।",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/2003_Cricket_World_Cup#/media/File:Cricket_World_Cup_Logo_2003.svg",
+                    "altText": "Image of 2003 क्रिकेट विश्व कप"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "विश्व कप ",
+          "id": "fKIpf2FO1TG",
+          "note": "2007",
+          "value": {
+            "label": "2007 के विश्व कप में राहुल द्रविड़ को भारत का कप्तान नियुक्त किया गया जिसमें भारत नाकामयाब रहा। ",
+            "facts": [
+              {
+                "url": "/read/hi/2007_cricket_world_cup",
+                "contentUrl": "/static/content/hi/2007_cricket_world_cup.json",
+                "label": "2007 क्रिकेट विश्व कप",
+                "id": "hgX4YPPEO",
+                "value": {
+                  "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/2007_Cricket_World_Cup#/media/File:2007_Cricket_World_Cup_logo.svg",
+                    "altText": "Image of 2007 क्रिकेट विश्व कप"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "IPL डेब्यू",
+          "id": "QyrKT9NzBY",
+          "note": "2008",
+          "value": {
+            "label": "आईपीएल 2008, 2009 और 2010 में राहुल द्रविड़ रॉयल चैलेंजर्स बंगलुरु के लिए खेले। "
           }
         }
       ]

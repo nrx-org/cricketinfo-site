@@ -79,7 +79,7 @@
     },
     {
       "title": "Style of play",
-      "id": "WjHaxQYvqXh",
+      "id": "BWLmhPqUOp",
       "cardType": "simple",
       "facts": [
         {
@@ -96,14 +96,62 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "aC5X8Rcar6B",
+          "id": "8ZiE7bF9_o",
           "note": "2012",
           "value": {
-            "label": "Rahul made his first-class cricket debut for Karnataka in the 2012–13 season",
+            "label": "Rahul made his first-class cricket debut for Karnataka in the 2012–13 season"
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "1S1x82T0DE",
+          "note": "2014",
+          "value": {
+            "label": "Rahul made his Test debut in the 2014 Boxing Day Test at the Melbourne, versus Australia",
             "facts": [
               {
-                "label": "Ranji Trophy",
-                "id": "XmbPs1Rb3UB"
+                "url": "/read/en/australia_cricket_team",
+                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "label": "Australia Cricket team",
+                "id": "StJc-gb2cc",
+                "value": {
+                  "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Australia_national_cricket_team#/media/File:Australia_cricket_logo.svg",
+                    "altText": "Image of Australia Cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "cL2ga55ECj",
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "wnbctyX07-",
+          "note": "2013",
+          "value": {
+            "label": "Rahul made his IPL debut in 2013 for Royal Challengers Bangalore as a wicket-keeper batsman",
+            "facts": [
+              {
+                "url": "/read/en/royal_challengers_bangalore",
+                "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
+                "label": "Royal Challengers Bangalore",
+                "id": "FW3p2BYYfX",
+                "value": {
+                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Royal_Challengers_Bangalore#/media/File:Royal_Challengers_Bangalore_Logo_2016.svg",
+                    "altText": "Image of Royal Challengers Bangalore"
+                  }
+                }
               }
             ]
           }

@@ -63,7 +63,7 @@
     },
     {
       "title": "Style of play",
-      "id": "R6bGGEArZvB",
+      "id": "vJJ70y7KxLh",
       "cardType": "simple",
       "facts": [
         {
@@ -80,14 +80,62 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "iE06qqTGt9s",
+          "id": "bQ4IwdiRFIQ",
           "note": "2014",
           "value": {
-            "label": "Kuldeep Yadav plays first class Indian domestic cricket for Uttar Pradesh",
+            "label": "Kuldeep Yadav plays first class Indian domestic cricket for Uttar Pradesh"
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "d4zGbp1LysM",
+          "note": "2017",
+          "value": {
+            "label": "Yadav made his Test debut for India against Australia in 2017, at Dharamshala",
             "facts": [
               {
-                "label": "",
-                "id": "AEzFhafFKJN"
+                "url": "/read/en/australia_cricket_team",
+                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "label": "Australia Cricket team",
+                "id": "cfbqOGQkf",
+                "value": {
+                  "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Australia_national_cricket_team#/media/File:Australia_cricket_logo.svg",
+                    "altText": "Image of Australia Cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "7guPPm1JO_",
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "JG27VZccUb",
+          "note": "2012",
+          "value": {
+            "label": "Yadav was a member of the Mumbai Indians squad in 2012",
+            "facts": [
+              {
+                "url": "/read/en/mumbai_indians",
+                "contentUrl": "/static/content/en/mumbai_indians.json",
+                "label": "Mumbai Indians",
+                "id": "yqMih7Cizw",
+                "value": {
+                  "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Mumbai_Indians#/media/File:Mumbai_Indians_Logo.svg",
+                    "altText": "Image of Mumbai Indians"
+                  }
+                }
               }
             ]
           }
