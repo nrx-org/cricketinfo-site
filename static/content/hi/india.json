@@ -18,5 +18,130 @@
       "url": "/read/ta/india"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "स्वतंत्रता दिवस\n",
+          "value": {
+            "label": "15 अगस्त 1947"
+          }
+        },
+        {
+          "label": "गणतंत्र दिवस\n",
+          "value": {
+            "label": "26 January 1950"
+          }
+        },
+        {
+          "label": "Total Area of country (km squared)",
+          "value": {
+            "label": "3287263 वर्ग किमी"
+          }
+        },
+        {
+          "label": "Population",
+          "value": {
+            "label": "1324171354 (2016 अनुमान)"
+          }
+        },
+        {
+          "label": "Capital city",
+          "value": {
+            "label": "नई दिल्ली"
+          }
+        },
+        {
+          "label": "Largest city",
+          "value": {
+            "label": "मुंबई"
+          }
+        },
+        {
+          "label": "Timezone",
+          "value": {
+            "label": "UTC +05:30"
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "प्राचीन भारत",
+          "id": "history_phase_1_title",
+          "note": "`- 600 ईस्वी",
+          "value": {
+            "label": "सिंधु घाटी सभ्यता दक्षिण एशिया में पहली शहरी संस्कृति थी।"
+          }
+        },
+        {
+          "label": "मध्यकालीन भारत",
+          "id": "history_phase_2_title",
+          "note": "600 - 1500 ईस्वी",
+          "value": {
+            "label": "6 और 7वीं शताब्दी में, पहला भक्ति भजन तमिल भाषा में बनाया गया था। पूरे भारत में उनकी नकल की गई और इसने हिंदू धर्म के पुनरुत्थान और उपमहाद्वीप की सभी आधुनिक भाषाओं के विकास का नेतृत्व किया।"
+          }
+        },
+        {
+          "label": "प्रारंभिक आधुनिक भारत",
+          "id": "history_phase_3_title",
+          "note": "1500 - 1850 ईस्वी",
+          "value": {
+            "label": "17वीं शताब्दी के दौरान मुगल साम्राज्य द्वारा बनाई रखी गई आपेक्षिक शांति भारत के आर्थिक विस्तार की कारक थी। 18वीं शताब्दी की शुरुआत में कई यूरोपीय व्यापारिक कंपनियों ने तटीय चौकियों की स्थापना की थी।"
+          }
+        },
+        {
+          "label": "ब्रिटिश शासन",
+          "id": "history_phase_4_title",
+          "note": "1858 - 1947 ईस्वी",
+          "value": {
+            "label": "1857 के भारतीय विद्रोह ने ब्रिटिश सरकार द्वारा ईस्ट इंडिया कंपनी के विघटन और भारत पर प्रत्यक्ष प्रशासन का आरंभ करवा दिया।"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Government",
+      "cardType": "avatar",
+      "label": "भारत में एक संसदीय गणतंत्र एक बहुदलीय प्रणाली है।",
+      "facts": [
+        {
+          "label": "Prime minister name",
+          "value": {
+            "label": "नरेंद्र मोदी",
+            "image": {
+              "url": "/static/images/india/PM_Modi_Portrait%28cropped%29.jpg",
+              "altText": "Picture of नरेंद्र मोदी",
+              "license": "<p><i></i><div lang=\"en\" class=\"description en\" style=\"display:inline;\"><i>This file is a copyrighted work of the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.india.gov.in/\">Government of India</a></b>, licensed under the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf\">Government Open Data License - India (GODL)</a></b>.</i>\n<p>Following the mandate of the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://data.gov.in/sites/default/files/NDSAP.pdf\">National Data Sharing and Accessibility Policy (NDSAP) of Government of India</a></b> that\napplies to all shareable non-sensitive data available either in digital or analog forms but generated using public funds by\nvarious agencies of the Government of India, all users are provided a worldwide, royalty-free, non-exclusive license to <b>use, adapt, publish</b> (either in original, or in adapted and/or derivative forms), translate, display, add value, and create derivative works (including products and services), for all lawful <b>commercial and non-commercial purposes</b>, and for the duration of existence of such rights over the data or information. \n</p><p>The user must acknowledge the provider, source, and license of data by explicitly publishing the <b>attribution statement</b>, including the DOI (Digital Object Identifier), or the URL (Uniform Resource Locator), or the URI (Uniform Resource Identifier) of the data concerned. \n</p><p>The user must not indicate or suggest in any manner that the data provider(s) endorses their use and/or the user. \nThe data provider(s) are not liable for any errors or omissions, and will not under any circumstances be liable for any loss, injury or damage caused by its use.  \n</p><p>The data provider(s) do not guarantee the continued supply of updated or up-to-date versions of the data, and will not be held liable in case the continued supply of updated data is not provided. \n</p><p><b>Exemptions:</b> The license does not cover the following kinds of data: a. personal information; b. data that is non-shareable and/or sensitive; c. names, crests, logos and other official symbols of the data provider(s); d. data subject to other intellectual property rights, including patents, trade-marks and official marks; e. military insignia; f. identity documents; and g. any data that should not have been publicly disclosed for the grounds provided under section 8 of the <a rel=\"nofollow\" class=\"external text\" href=\"http://rti.gov.in/webactrti.htm\">Right to Information Act, 2005</a>.\n</p><p><span class=\"licensetpl_link\" style=\"display:none;\">https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf</span>\n<span class=\"licensetpl_short\" style=\"display:none;\">GODL-India</span>\n<span class=\"licensetpl_long\" style=\"display:none;\">Government Open Data License &#x2013; India</span>\n<span class=\"licensetpl_link_req\" style=\"display:none;\">true</span>\n</p>\n<span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div><i></i></p><p></p><p><hr>\n<p><span style=\"font-size:x-small;line-height:140%\" class=\"plainlinks noprint\"><a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/en\">English</a>&#xA0;| <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/fr\">fran&#xE7;ais</a>&#xA0;| <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/ml\">&#xD2E;&#xD32;&#xD2F;&#xD3E;&#xD33;&#xD02;</a>&#xA0;| <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/mr\">&#x92E;&#x930;&#x93E;&#x920;&#x940;</a>&#xA0;| <small class=\"plainlinks\"><a class=\"external text\" href=\"//commons.wikimedia.org/w/index.php?title=Template:GODL-India/lang&amp;action=edit\">+/&#x2212;</a></small></span>\n<span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=GODL-India 1%3D\">&#xA0;</span>\n</p></p>"
+            }
+          }
+        },
+        {
+          "label": "President",
+          "value": {
+            "label": "रामनाथ कोविन्द ",
+            "image": {
+              "url": "/static/images/india/Ram_Nath_Kovind_official_portrait.jpg",
+              "altText": "Picture of रामनाथ कोविन्द "
+            }
+          }
+        },
+        {
+          "label": "Chief Justice name",
+          "value": {
+            "label": "रंजन गोगोई ",
+            "image": {
+              "url": "/static/images/india/CJI_Ranjan_gogoi.jpg",
+              "altText": "Picture of रंजन गोगोई "
+            }
+          }
+        }
+      ]
+    }
+  ]
 }

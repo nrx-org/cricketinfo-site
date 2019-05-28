@@ -18,5 +18,87 @@
       "url": "/read/ta/delhi"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Total Area of country (km squared)",
+          "value": {
+            "label": "1484 km²"
+          }
+        },
+        {
+          "label": "Population",
+          "value": {
+            "label": "16,787,941"
+          }
+        },
+        {
+          "label": "Timezone",
+          "value": {
+            "label": "UTC+5:30"
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Ancient and Early Medieval Periods",
+          "id": "history_phase_1_title",
+          "note": "6th century BCE",
+          "value": {
+            "label": "There is evidence of continuous inhabitation in Delhi since at least the 6th century BCE. The earliest architectural relics date back to the Maurya period. Remains of eight major cities have been discovered in Delhi."
+          }
+        },
+        {
+          "label": "Late Medieval Period",
+          "id": "history_phase_2_title",
+          "note": "11th -14th century CE",
+          "value": {
+            "label": "Foundation of the Delhi Sultanate was laid. Delhi was a major centre of Sufism during this period."
+          }
+        },
+        {
+          "label": "Mughal period",
+          "id": "history_phase_3_title",
+          "note": "15th-18th century CE",
+          "value": {
+            "label": "Babur invaded India and founded the Mughal Empire that ruled from Delhi and Agra."
+          }
+        },
+        {
+          "label": "Colonial period",
+          "id": "history_phase_4_title",
+          "note": "19th century",
+          "value": {
+            "label": "During the sepoy mutiny of 1857, Delhi fell to the forces of East India Company after a fight known as the Siege of Delhi. The city came under the direct control of the British Government in 1858."
+          }
+        }
+      ]
+    },
+    {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "Delhi Capitals",
+            "url": "/read/en/delhi_capitals",
+            "contentUrl": "/static/content/en/delhi_capitals.json",
+            "image": {
+              "url": "/static/images/undefined/Delhi_Capitals_Logo.svg",
+              "altText": "Picture of Delhi Capitals"
+            }
+          }
+        }
+      ]
+    }
+  ]
 }

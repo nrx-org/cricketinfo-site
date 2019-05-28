@@ -18,5 +18,149 @@
       "url": "/read/ta/pakistan"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Independence Day",
+          "value": {
+            "label": "14 August 1947"
+          }
+        },
+        {
+          "label": "Republic Day",
+          "value": {
+            "label": "23 March"
+          }
+        },
+        {
+          "label": "Total Area of country (km squared)",
+          "value": {
+            "label": "881913 km²"
+          }
+        },
+        {
+          "label": "Population",
+          "value": {
+            "label": "212742631 (2017 census)"
+          }
+        },
+        {
+          "label": "Capital city",
+          "value": {
+            "label": "Islamabad"
+          }
+        },
+        {
+          "label": "Largest city",
+          "value": {
+            "label": "Karachi"
+          }
+        },
+        {
+          "label": "Timezone",
+          "value": {
+            "label": "UTC+5"
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Early and medieval age",
+          "id": "history_phase_1_title",
+          "note": "2,800–1,800 BCE",
+          "value": {
+            "label": "Some of the earliest ancient human civilisations in South Asia originated from areas in present-day Pakistan. The Indus region, was the site of several successive ancient cultures including the Neolithic Mehrgarh and the Bronze Age Indus Valley Civilisation at Harappa and Mohenjo-Daro."
+          }
+        },
+        {
+          "label": "Vedic period",
+          "id": "history_phase_2_title",
+          "note": "1500–500 BCE",
+          "value": {
+            "label": "The Vedic period was characterised by an Indo-Aryan culture; during this period the Vedas, the oldest scriptures associated with Hinduism, were composed, and this culture later became well established in the region. Successive ancient empires and kingdoms ruled the region, including the Mauryan empire."
+          }
+        },
+        {
+          "label": "Ancient Kingdoms",
+          "id": "history_phase_3_title",
+          "note": "500-100 BCE",
+          "value": {
+            "label": "Successive ancient empires and kingdoms ruled the region, including the Mauryan empire. The Indo-Greek Kingdom founded by Demetrius of Bactria included Gandhara and Punjab, prospering the Greco-Buddhist culture in the region. Taxila, one of the earliest universities and centres of higher education in the world, which was established during this period."
+          }
+        },
+        {
+          "label": "Mughal period",
+          "id": "history_phase_4_title",
+          "note": "1526–1857 CE",
+          "value": {
+            "label": "The Mughals introduced Persian literature and high culture, establishing the roots of Indo-Persian culture in the region. In the early 16th century, the region remained under the Mughal Empire ruled by Muslim emperors. By the early 18th century, increasing European influence contributed to the slow disintegration of the Mughal Empire."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Government",
+      "cardType": "avatar",
+      "label": "Pakistan is an Islamic Republic and has a multi-party parliamentary system. Members of the National Assembly are elected by the citizens. The Prime Minister is the leader of the majority rule party or a coalition in the National Assembly.",
+      "facts": [
+        {
+          "label": "Prime minister name",
+          "value": {
+            "label": "Imran Khan",
+            "image": {
+              "url": "/static/images/pakistan/Mike_Pompeo_with_Imran_Khan_in_Islamabad_-_2018_%2829559549217%29_%28cropped%29.jpg",
+              "altText": "Picture of Imran Khan",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "President",
+          "value": {
+            "label": "Arif Alvi",
+            "image": {
+              "url": "/static/images/pakistan/President_of_Pakistan_Dr_Arif_Alvi.jpg",
+              "altText": "Picture of Arif Alvi"
+            }
+          }
+        },
+        {
+          "label": "Chief Justice name",
+          "value": {
+            "label": "Asif Saeed Khan Khosa",
+            "image": {
+              "url": "",
+              "altText": "Picture of Asif Saeed Khan Khosa"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "Pakistan national cricket team",
+            "url": "/read/en/pakistan_national_cricket_team",
+            "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
+            "image": {
+              "url": "/static/images/undefined/PakistanCricketLogo.png",
+              "altText": "Picture of Pakistan national cricket team"
+            }
+          }
+        }
+      ]
+    }
+  ]
 }

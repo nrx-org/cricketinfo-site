@@ -18,5 +18,121 @@
       "url": "/read/hi/australia"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "கூட்டு அரசியலமைப்பு 1 ஜனவரி 1901",
+          "value": {
+            "label": "1 ஜனவரி 1901"
+          }
+        },
+        {
+          "label": "ஆஸ்திரேலியா சட்டம்",
+          "value": {
+            "label": "3 மார்ச் 1986"
+          }
+        },
+        {
+          "label": "Total Area of country (km squared)",
+          "value": {
+            "label": "7692024 சதுர கிமீ"
+          }
+        },
+        {
+          "label": "Population",
+          "value": {
+            "label": "25,346,300 (2019 மதிப்பீட்டின் படி)"
+          }
+        },
+        {
+          "label": "Capital city",
+          "value": {
+            "label": "கேன்பெரா"
+          }
+        },
+        {
+          "label": "Largest city",
+          "value": {
+            "label": "சிட்னி"
+          }
+        },
+        {
+          "label": "Timezone",
+          "value": {
+            "label": "UTC+8; +9.5; +10; கோடை UTC+8; +9.5; +10; +10.5; +11"
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Pre-colonial history",
+          "id": "history_phase_1_title",
+          "note": "65,000 - 70,000 ஆண்டுகளுக்கு முன்பு",
+          "value": {
+            "label": "ஆஸ்திரேலிய கண்டத்தில் சுமார் 65,000 முதல் 70,000 ஆண்டுகளுக்கு முன்னர், தற்போதைய தென்கிழக்கு ஆசியப் பகுதிகளில் இருந்து நிலப் பாலங்கள் மற்றும் குறுகிய கடல் பரப்புகளைக் கடந்து மக்கள் குடிபெயர்ந்ததாக மதிப்பிடப்பட்டுள்ளது."
+          }
+        },
+        {
+          "label": "ஐரோப்பியர்கள் வருகை",
+          "id": "history_phase_2_title",
+          "note": "1600கள்",
+          "value": {
+            "label": "ஆஸ்திரேலியா கண்டத்தின் மீது முதன் முதலில் பார்வை பதித்தவர்கள் மற்றும் அதன் நிலப்பகுதியில் முதன்முதலில் கால்பதித்தவர்கள் (1606 இல்) டச்சுக்காரர்கள்."
+          }
+        },
+        {
+          "label": "காலனித்துவ விரிவாக்கம்",
+          "id": "history_phase_3_title",
+          "note": "1850 கள்",
+          "value": {
+            "label": "1850 ஆம் ஆண்டின் ஆரம்பத்தில் ஆஸ்திரேலியாவில் தங்கத்திற்கான தேடல் தொடங்கியது. 1854 ஆம் ஆண்டில் சுரங்க உரிமக் கட்டணத்திற்கு எதிராக யுரேகா கலகம் தொடங்கியது. இது உள்நாட்டு ஒத்துழையாமையின் ஆரம்ப வெளிப்பாடாக இருந்தது. "
+          }
+        },
+        {
+          "label": "தேசம்",
+          "id": "history_phase_4_title",
+          "note": "1900 கள்",
+          "value": {
+            "label": "1901 ஆம் ஆண்டு ஜனவரி 1 அன்று, காலனிகளின் கூட்டமைப்பு பத்தாண்டு கால திட்டமிடல், ஆலோசனை மற்றும் வாக்கெடுப்பிற்குப் பிறகு உருவாக்கப்பட்டது. இது பிரிட்டிஷ் பேரரசின் ஆதிக்கத்தை நிலைநாட்டும் விதமாக ஆஸ்திரேலிய காமன்வெல்த் அமைப்பை நிறுவியது. "
+          }
+        }
+      ]
+    },
+    {
+      "title": "Government",
+      "cardType": "avatar",
+      "label": "ஆஸ்திரேலியா கூட்டாட்சி முறையில் பாராளுமன்ற அரசியலமைப்பு மன்னராட்சியை கொண்டுள்ள நாடாகும்.இரண்டாம் எலிசபெத் அந்நாட்டின் அரசியாக இருக்கிறார். அவர் ஐக்கிய இராஜ்ஜியத்தில் இருப்பதனால், அவர் கூட்டாட்சி மட்டத்தில் கவர்னர் ஜெனராலும் மாநில அளவில் ஆளுநர்களாலும் அமைச்சர்களின் அறிவுரையின்படி ஆஸ்திரேலியாவை பிரதிநிதித்துவப்படுத்தப்படுகிறார்.",
+      "facts": [
+        {
+          "label": "Prime minister name",
+          "value": {
+            "label": "ஸ்காட் மோரிசன்",
+            "image": {
+              "url": "/static/images/australia/Scott_Morrison_2014.jpg",
+              "altText": "Picture of ஸ்காட் மோரிசன்",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">Attribution 4.0 International</a> license.</p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Chief Justice name",
+          "value": {
+            "label": "கவர்னர் ஜெனரல் பீட்டர் காஸ்ரூவ்",
+            "image": {
+              "url": "/static/images/australia/Peter_Cosgrove_2017_%281%29_crop.jpg",
+              "altText": "Picture of கவர்னர் ஜெனரல் பீட்டர் காஸ்ரூவ்",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            }
+          }
+        }
+      ]
+    }
+  ]
 }

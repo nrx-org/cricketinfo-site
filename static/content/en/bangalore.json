@@ -18,5 +18,93 @@
       "url": "/read/ta/bangalore"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Total Area of country (km squared)",
+          "value": {
+            "label": "8005 km²"
+          }
+        },
+        {
+          "label": "Population",
+          "value": {
+            "label": "10,456,000"
+          }
+        },
+        {
+          "label": "Other names",
+          "value": {
+            "label": "Bengaluru, Silicon Valley of India, Garden City"
+          }
+        },
+        {
+          "label": "Timezone",
+          "value": {
+            "label": "UTC+05:30"
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Early and Medieval History",
+          "id": "history_phase_1_title",
+          "note": "4000 BCE",
+          "value": {
+            "label": "A discovery of Stone Age artefacts during the 2001 census of India at Jalahalli, Sidhapura and Jadigenahalli, all of which are located on Bangalore's outskirts today, suggest probable human settlement around 4,000 BCE."
+          }
+        },
+        {
+          "label": "Foundation and early modern history",
+          "id": "history_phase_2_title",
+          "note": "1537",
+          "value": {
+            "label": "Modern Bangalore was begun in 1537 by a vassal of the Vijayanagara Empire, Kempe Gowda I, who built a mud-brick fort for the people at the site that would become the central part of modern Bangalore."
+          }
+        },
+        {
+          "label": "Later modern and contemporary history",
+          "id": "history_phase_3_title",
+          "note": "19th Century",
+          "value": {
+            "label": "Bangalore essentially became a twin city, with the \"pētē\", whose residents were predominantly Kannadigas and the cantonment created by the British."
+          }
+        },
+        {
+          "label": "Mahatma Gandhi visits",
+          "id": "history_phase_4_title",
+          "note": "1927",
+          "value": {
+            "label": "Bangalore played an important role during the Indian independence movement. Mahatma Gandhi visited the city in 1927 and 1934 and addressed public meetings here."
+          }
+        }
+      ]
+    },
+    {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "Royal Challengers Bangalore",
+            "url": "/read/en/royal_challengers_bangalore",
+            "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
+            "image": {
+              "url": "/static/images/undefined/Royal_Challengers_Bangalore_Logo_2016.svg",
+              "altText": "Picture of Royal Challengers Bangalore"
+            }
+          }
+        }
+      ]
+    }
+  ]
 }
