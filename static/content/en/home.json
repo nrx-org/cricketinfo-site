@@ -1,128 +1,15 @@
 {
   "translations": [
     {
-      "url": "/wiki/hi",
+      "url": "/read/hi",
       "title": "हिंदी में पढ़े"
     },
     {
-      "url": "/wiki/ta",
+      "url": "/read/ta",
       "title": "தமிழ் படிக்கவும்"
     }
   ],
-  "participatingTeams": [
-    {
-      "label": "India",
-      "id": "0",
-      "value": {
-        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-        "url": "/wiki/en/Team_India",
-        "image": {
-          "url": "/static/images/india.png",
-          "altText": "An image of the Indian flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "England",
-      "id": "1",
-      "value": {
-        "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
-          "altText": "An image of the English flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "Australia",
-      "id": "2",
-      "value": {
-        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
-          "altText": "An image of the Australian flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "Pakistan",
-      "id": "2",
-      "value": {
-        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
-          "altText": "An image of the Pakistani flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "India",
-      "id": "0",
-      "value": {
-        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-        "url": "/wiki/en/Team_India",
-        "image": {
-          "url": "/static/images/india.png",
-          "altText": "An image of the Indian flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "England",
-      "id": "1",
-      "value": {
-        "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
-          "altText": "An image of the English flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "Australia",
-      "id": "2",
-      "value": {
-        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
-          "altText": "An image of the Australian flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "Pakistan",
-      "id": "2",
-      "value": {
-        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
-          "altText": "An image of the Pakistani flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    }
-  ],
+  "participatingTeams": [],
   "playingTeams": [
     {
       "label": "India",
@@ -260,7 +147,7 @@
   },
   "popularArticles": {
     "title": "Popular Articles",
-    "id": 1,
+    "id": "popularArticlesHome",
     "columns": [
       [
         {
@@ -1103,7 +990,7 @@
   ],
   "scheduledFacts": [
     {
-      "label": "Infamous 36",
+      "label": "In the opening match for the 1975 World Cup, Sunil Gavaskar scored his infamous 36 runs off of 174 balls against England.",
       "dates": [
         "2019-06-09"
       ],
@@ -1117,7 +1004,7 @@
       }
     },
     {
-      "label": "No wins for India",
+      "label": "India failed to win a single match in the competition, the only test-playing nation to do so.",
       "dates": [
         "2019-06-13"
       ],
@@ -1131,7 +1018,7 @@
       }
     },
     {
-      "label": "Beyond the group stage",
+      "label": "India had never qualified beyond the group stages in the previous editions of the tournament but went on to win the 1983 World Cup.",
       "dates": [
         "2019-06-16"
       ],
@@ -1145,7 +1032,7 @@
       }
     },
     {
-      "label": "Lowest score defended",
+      "label": "India scored 183 runs in the final which is the lowest score defended by a country in the World Cup final.",
       "dates": [
         "2019-06-22"
       ],
@@ -1159,7 +1046,7 @@
       }
     },
     {
-      "label": "Close fight",
+      "label": "Australia defeated their arch-rivals England by 7 runs in the closest  World Cup final  at Kolkata's Eden Gardens.  ",
       "dates": [
         "2019-06-09",
         "2019-06-20",
@@ -1175,7 +1062,7 @@
       }
     },
     {
-      "label": "End of Apartheid",
+      "label": "1992 World cup was the first to have South Africa participate after the end of the Apartheid.",
       "dates": [
         "2019-05-30",
         "2019-06-02",
@@ -1193,7 +1080,7 @@
       }
     },
     {
-      "label": "22 runs off of 1 ball",
+      "label": "In the rain-affected semi-final match between England and South Africa, the final score was calculated using the “Most Productive Overs” method - reducing the required score of 22 off 13 balls to 22 off 1 ball, ending South Africa’s World Cup dreams that year.",
       "dates": [
         "2019-06-05",
         "2019-06-10",
@@ -1210,7 +1097,7 @@
       }
     },
     {
-      "label": "Host win",
+      "label": "In the 1996 World Cup, Sri Lanka won to become the first co-host country to win the World Cup.",
       "dates": [
         "2019-06-01"
       ],
@@ -1224,7 +1111,7 @@
       }
     },
     {
-      "label": "Srilankan Cricket Team",
+      "label": "In the 1996 World Cup, Sri Lanka won to become the first co-host country to win the World Cup.",
       "dates": [
         "2019-06-04",
         "2019-06-07",
@@ -1245,7 +1132,7 @@
       }
     },
     {
-      "label": "At war",
+      "label": "India and Pakistan were officially at war during their match in this edition of the World Cup, the only time two nations at war to have engaged in a sports game in the political scenario.",
       "dates": [
         "2019-05-31",
         "2019-06-03",
@@ -1267,7 +1154,7 @@
       }
     },
     {
-      "label": "At war",
+      "label": "India and Pakistan were officially at war during their match in this edition of the World Cup, the only time two nations at war to have engaged in a sports game in the political scenario.",
       "dates": [
         "2019-06-27"
       ],
@@ -1281,7 +1168,7 @@
       }
     },
     {
-      "label": "Unbeaten Australia",
+      "label": "Australia's unbeaten record in the tournament increased their total wins to 29 consecutive World Cup matches.",
       "dates": [
         "2019-06-01",
         "2019-06-12",
@@ -1298,7 +1185,7 @@
       }
     },
     {
-      "label": "Dismal Indian performance",
+      "label": "Since 1979, this was the first time India failed to qualify the group stage.",
       "dates": [
         "2019-06-30"
       ],
@@ -1312,7 +1199,7 @@
       }
     },
     {
-      "label": "Win on Home soil",
+      "label": "India became the first country to win the World Cup on home grounds. ",
       "dates": [
         "2019-07-02"
       ],
@@ -1326,7 +1213,7 @@
       }
     },
     {
-      "label": "Youngest player",
+      "label": "Kane Williamson is the youngest player to score centuries against all test playing nations",
       "dates": [
         "2019-06-01"
       ],
@@ -1340,7 +1227,7 @@
       }
     },
     {
-      "label": "300+",
+      "label": "Indian cricket team holds the record for most number of times scoring 300+ score: 90 times.",
       "dates": [
         "2019-06-05",
         "2019-07-06"
@@ -1355,7 +1242,7 @@
       }
     },
     {
-      "label": "Four World cup finals ",
+      "label": "Australian team holds the record for appearing in four consecutive World Cup finals between 1996 - 2007.",
       "dates": [
         "2019-06-06",
         "2019-06-15"
@@ -1370,7 +1257,7 @@
       }
     },
     {
-      "label": "Oldest Cricket team",
+      "label": "The first recorded incidence of a team with a claim to represent England comes from 9 July 1739.",
       "dates": [
         "2019-05-30",
         "2019-06-03",
@@ -1392,7 +1279,7 @@
       }
     },
     {
-      "label": "West Indies power",
+      "label": "West Indies is a multi-national cricket team representing the Anglophone Caribbean region with players selected from a chain of fifteen Caribbean territories.",
       "dates": [
         "2019-05-31",
         "2019-06-06",
@@ -1414,114 +1301,434 @@
       }
     }
   ],
-  "constantFacts": [
-    {
-      "label": "Mallard ducks live 5 to 10 years in the wild and 8+ years in captivity.",
-      "id": "rahulDravid",
-      "value": {
-        "url": "/wiki/en/Rahul_Dravid",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rahul_Dravid.jpg",
-          "altText": "A picture of Rahul Dravid sitting in front of a washbasin"
-        }
-      }
-    }
-  ],
+  "constantFacts": [],
   "scheduledFeaturedPlayers": [
     {
+      "label": "Ben Stokes",
+      "id": "ben_stokes",
+      "dates": [
+        "2019-05-30",
+        "2019-06-03",
+        "2019-06-08",
+        "2019-06-14",
+        "2019-06-18",
+        "2019-06-21",
+        "2019-06-25",
+        "2019-07-03"
+      ],
+      "value": {
+        "url": "/read/en/ben_stokes",
+        "label": "Ben Stokes is an English international cricketer and former vice-captain of the England Test team.",
+        "image": {
+          "altText": "Image for Ben Stokes",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Jos Buttler",
+      "id": "jos_buttler",
+      "dates": [
+        "2019-05-30",
+        "2019-06-03",
+        "2019-06-08",
+        "2019-06-14",
+        "2019-06-18",
+        "2019-06-21",
+        "2019-06-25",
+        "2019-07-03"
+      ],
+      "value": {
+        "url": "/read/en/jos_buttler",
+        "label": "Jos Buttler is an English international cricketer who is currently vice-captain of the England cricket team.",
+        "image": {
+          "altText": "Image for Jos Buttler",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Kagiso Rabada",
+      "id": "kagiso_rabada",
+      "dates": [
+        "2019-06-02",
+        "2019-06-10",
+        "2019-06-15",
+        "2019-06-19",
+        "2019-06-23",
+        "2019-06-28",
+        "2019-07-06"
+      ],
+      "value": {
+        "url": "/read/en/kagiso_rabada",
+        "label": "Kagiso Rabada is a South African international cricketer who plays all formats of the game. Rabada, who is known by the nickname KG, is a fast bowler and plays domestic cricket for the Highveld Lions. ",
+        "image": {
+          "altText": "Image for Kagiso Rabada",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Chris Gayle",
+      "id": "chris_gayle",
+      "dates": [
+        "2019-05-31",
+        "2019-06-06",
+        "2019-06-10",
+        "2019-06-17",
+        "2019-06-22",
+        "2019-06-29",
+        "2019-07-01",
+        "2019-07-04"
+      ],
+      "value": {
+        "url": "/read/en/chris_gayle",
+        "label": "Chris Gayle, is a Jamaican cricketer who plays international cricket for the West Indies.",
+        "image": {
+          "altText": "Image for Chris Gayle",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Shoaib Malik",
+      "id": "shoaib_malik",
+      "dates": [
+        "2019-05-31",
+        "2019-06-07",
+        "2019-06-12",
+        "2019-06-23",
+        "2019-06-26",
+        "2019-06-29",
+        "2019-07-05"
+      ],
+      "value": {
+        "url": "/read/en/shoaib_malik",
+        "label": "Shoaib Malik is a Pakistani cricketer and former captain of the Pakistani side from 2007 to 2009. ",
+        "image": {
+          "altText": "Image for Shoaib Malik",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Kane Williamson",
+      "id": "kane_williamson",
+      "dates": [
+        "2019-06-01",
+        "2019-06-05",
+        "2019-06-08",
+        "2019-06-19",
+        "2019-06-22",
+        "2019-06-26"
+      ],
+      "value": {
+        "url": "/read/en/kane_williamson",
+        "label": "Kane Williamson is an international cricket player from New Zealand and also the current captain of the team.",
+        "image": {
+          "altText": "Image for Kane Williamson",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Lasith Malinga",
+      "id": "lasith_malinga",
+      "dates": [
+        "2019-06-01",
+        "2019-06-04",
+        "2019-06-07",
+        "2019-06-11",
+        "2019-06-15",
+        "2019-06-28",
+        "2019-07-01"
+      ],
+      "value": {
+        "url": "/read/en/lasith_malinga",
+        "label": "Separamadu Lasith Malinga is a professional Sri Lankan cricketer and current T20I captain for Sri Lanka.",
+        "image": {
+          "altText": "Image for Lasith Malinga",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "David Warner",
+      "id": "david_warner",
+      "dates": [
+        "2019-06-01",
+        "2019-06-06",
+        "2019-06-12",
+        "2019-06-15",
+        "2019-06-20",
+        "2019-06-29",
+        "2019-07-06"
+      ],
+      "value": {
+        "url": "/read/en/david_warner",
+        "label": "David Warner is an Australian international cricketer and a former captain of the Australian national team.",
+        "image": {
+          "altText": "Image for David Warner",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Rashid Khan",
+      "id": "rashid_khan",
+      "dates": [
+        "2019-06-01",
+        "2019-06-04",
+        "2019-06-08",
+        "2019-06-15",
+        "2019-06-24",
+        "2019-06-29",
+        "2019-07-04"
+      ],
+      "value": {
+        "url": "/read/en/rashid_khan",
+        "label": "Rashid Khan Arman, commonly known as Rashid Khan, is an Afghan cricketer and the current Twenty20 International (T20I) captain of the national team.",
+        "image": {
+          "altText": "Image for Rashid Khan",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Mushfiqur Rahim",
+      "id": "mushfiqur_rahim",
+      "dates": [
+        "2019-06-02",
+        "2019-06-05",
+        "2019-06-11",
+        "2019-06-17",
+        "2019-06-20",
+        "2019-06-24",
+        "2019-07-05"
+      ],
+      "value": {
+        "url": "/read/en/mushfiqur_rahim",
+        "label": "Mohammad Mushfiqur Rahim is a Bangladeshi cricketer and the former captain of the Bangladesh national cricket team. ",
+        "image": {
+          "altText": "Image for Mushfiqur Rahim",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
       "label": "Virat Kohli",
-      "id": "viratKohli",
-      "date": "2019-05-10",
+      "id": "virat_kohli",
+      "dates": [
+        "2019-06-05",
+        "2019-06-09",
+        "2019-06-13",
+        "2019-06-16",
+        "2019-06-22",
+        "2019-06-27",
+        "2019-06-30",
+        "2019-07-02",
+        "2019-07-06"
+      ],
       "value": {
-        "url": "/wiki/en/Virat_Kohli",
+        "url": "/read/en/virat_kohli",
+        "label": "Indian international cricketer who currently captains the India national team.",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/VIRAT_KHOLI_%2815573134623%29.jpg",
-          "altText": "Kohli looks upset"
-        }
-      }
-    }
-  ],
-  "constantFeaturedPlayers": [
-    {
-      "label": "Rahul Dravid",
-      "id": "rahulDravid",
-      "value": {
-        "url": "/wiki/en/Rahul_Dravid",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rahul_Dravid.jpg",
-          "altText": "A picture of Rahul Dravid sitting in front of a washbasin"
-        }
-      }
-    },
-    {
-      "label": "Microsoft Dhoni",
-      "id": "msDhoni",
-      "value": {
-        "url": "/wiki/en/MS_Dhoni",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Dhoni_at_Reebok_event.jpg",
-          "altText": "Dhoni is very bored"
+          "altText": "Image for Virat Kohli",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Sourav Ganguly",
-      "id": "souravGanguly",
+      "label": "Mahendra Singh Dhoni",
+      "id": "mahendra_singh_dhoni",
+      "dates": [
+        "2019-06-05",
+        "2019-06-09",
+        "2019-06-13",
+        "2019-06-16",
+        "2019-06-22",
+        "2019-06-27",
+        "2019-06-30",
+        "2019-07-02",
+        "2019-07-06"
+      ],
       "value": {
-        "url": "/wiki/en/Sourav_Ganguly",
+        "url": "/read/en/mahendra_singh_dhoni",
+        "label": "Mahendra Singh Dhoni is an Indian international cricketer who captained the Indian national team in limited-overs formats from 2007 to 2016 and in Test cricket from 2008 to 2014.",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sourav_Ganguly_crop.jpg",
-          "altText": "Young Sourav Ganguly looks at things"
+          "altText": "Image for Mahendra Singh Dhoni",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     }
   ],
+  "constantFeaturedPlayers": [],
   "allPlayers": [
     {
-      "label": "Rahul Dravid",
-      "id": "rahulDravid",
+      "label": "Ben Stokes",
+      "id": "ben_stokes",
       "value": {
-        "label": "A dog’s nose print is unique, much like a person’s fingerprint.",
-        "url": "/wiki/en/Rahul_Dravid",
+        "url": "/read/en/ben_stokes",
+        "label": "Ben Stokes is an English international cricketer and former vice-captain of the England Test team.",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rahul_Dravid.jpg",
-          "altText": "A picture of Rahul Dravid sitting in front of a washbasin"
+          "altText": "Image for Ben Stokes",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Microsoft Dhoni",
-      "id": "msDhoni",
+      "label": "Jos Buttler",
+      "id": "jos_buttler",
       "value": {
-        "label": "Dog eyes have a part called the tapetum lucidum, allowing night vision.",
-        "url": "/wiki/en/MS_Dhoni",
+        "url": "/read/en/jos_buttler",
+        "label": "Jos Buttler is an English international cricketer who is currently vice-captain of the England cricket team.",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Dhoni_at_Reebok_event.jpg",
-          "altText": "Dhoni is very bored"
+          "altText": "Image for Jos Buttler",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Kagiso Rabada",
+      "id": "kagiso_rabada",
+      "value": {
+        "url": "/read/en/kagiso_rabada",
+        "label": "Kagiso Rabada is a South African international cricketer who plays all formats of the game. Rabada, who is known by the nickname KG, is a fast bowler and plays domestic cricket for the Highveld Lions. ",
+        "image": {
+          "altText": "Image for Kagiso Rabada",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Chris Gayle",
+      "id": "chris_gayle",
+      "value": {
+        "url": "/read/en/chris_gayle",
+        "label": "Chris Gayle, is a Jamaican cricketer who plays international cricket for the West Indies.",
+        "image": {
+          "altText": "Image for Chris Gayle",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Shoaib Malik",
+      "id": "shoaib_malik",
+      "value": {
+        "url": "/read/en/shoaib_malik",
+        "label": "Shoaib Malik is a Pakistani cricketer and former captain of the Pakistani side from 2007 to 2009. ",
+        "image": {
+          "altText": "Image for Shoaib Malik",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Kane Williamson",
+      "id": "kane_williamson",
+      "value": {
+        "url": "/read/en/kane_williamson",
+        "label": "Kane Williamson is an international cricket player from New Zealand and also the current captain of the team.",
+        "image": {
+          "altText": "Image for Kane Williamson",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Lasith Malinga",
+      "id": "lasith_malinga",
+      "value": {
+        "url": "/read/en/lasith_malinga",
+        "label": "Separamadu Lasith Malinga is a professional Sri Lankan cricketer and current T20I captain for Sri Lanka.",
+        "image": {
+          "altText": "Image for Lasith Malinga",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "David Warner",
+      "id": "david_warner",
+      "value": {
+        "url": "/read/en/david_warner",
+        "label": "David Warner is an Australian international cricketer and a former captain of the Australian national team.",
+        "image": {
+          "altText": "Image for David Warner",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Rashid Khan",
+      "id": "rashid_khan",
+      "value": {
+        "url": "/read/en/rashid_khan",
+        "label": "Rashid Khan Arman, commonly known as Rashid Khan, is an Afghan cricketer and the current Twenty20 International (T20I) captain of the national team.",
+        "image": {
+          "altText": "Image for Rashid Khan",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Mushfiqur Rahim",
+      "id": "mushfiqur_rahim",
+      "value": {
+        "url": "/read/en/mushfiqur_rahim",
+        "label": "Mohammad Mushfiqur Rahim is a Bangladeshi cricketer and the former captain of the Bangladesh national cricket team. ",
+        "image": {
+          "altText": "Image for Mushfiqur Rahim",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
       "label": "Virat Kohli",
-      "id": "viratKohli",
+      "id": "virat_kohli",
       "value": {
-        "label": "Human blood pressure goes down when petting a dog. And so does the dog’s.",
-        "url": "/wiki/en/Virat_Kohli",
+        "url": "/read/en/virat_kohli",
+        "label": "Indian international cricketer who currently captains the India national team.",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/VIRAT_KHOLI_%2815573134623%29.jpg",
-          "altText": "Kohli looks upset"
+          "altText": "Image for Virat Kohli",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Sourav Ganguly",
-      "id": "souravGanguly",
+      "label": "Mahendra Singh Dhoni",
+      "id": "mahendra_singh_dhoni",
       "value": {
-        "label": "Dogs are not colorblind. They also see blue and yellow.",
-        "url": "/wiki/en/Sourav_Ganguly",
+        "url": "/read/en/mahendra_singh_dhoni",
+        "label": "Mahendra Singh Dhoni is an Indian international cricketer who captained the Indian national team in limited-overs formats from 2007 to 2016 and in Test cricket from 2008 to 2014.",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sourav_Ganguly_crop.jpg",
-          "altText": "Young Sourav Ganguly looks at things"
+          "altText": "Image for Mahendra Singh Dhoni",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     }
