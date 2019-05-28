@@ -2,8 +2,9 @@
   "title": "Stephen Fleming",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Stephen_Fleming",
   "coverImage": {
-    "url": "https://commons.wikimedia.org/wiki/File:Stephen_Fleming_slip.jpg",
-    "altText": "Image of Stephen Fleming"
+    "url": "/static/images/stephen_fleming/Stephen_Fleming_slip.jpg",
+    "altText": "Image of Stephen Fleming",
+    "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
   },
   "summary": "Stephen Fleming is a former cricketer from New Zealand who also captained the team.",
   "translations": [
@@ -63,7 +64,7 @@
     },
     {
       "title": "Style of play",
-      "id": "6BsfAkRKz_f",
+      "id": "8ccntiX9yf",
       "cardType": "simple",
       "facts": [
         {
@@ -71,8 +72,9 @@
           "value": {
             "label": "Fleming was an elegant left handed batsman, off-break bowler, and prolific fielder in the slips",
             "image": {
-              "url": "https://en.wikipedia.org/wiki/Stephen_Fleming#/media/File:Stephen_Fleming_captain.jpg",
-              "altText": "Style of play for Stephen Fleming"
+              "url": "//upload.wikimedia.org/wikipedia/commons/f/f2/Stephen_Fleming_captain.jpg",
+              "altText": "Style of play for Stephen Fleming",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
             }
           }
         }
@@ -84,7 +86,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "bif4FhlnfH9",
+          "id": "nBLfeYQzGg",
           "note": "1991",
           "value": {
             "label": "Fleming first played for the Canterbury, first class team during the 1991-92 season."
@@ -92,7 +94,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "IBsWEV3EzPs",
+          "id": "yNoDehNY-_",
           "note": "1994",
           "value": {
             "label": "Fleming made his Test debut in March 1994 against India, winning the Man of the Match award in the match.",
@@ -101,12 +103,13 @@
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "label": "India national cricket team",
-                "id": "WqpLsztHxas",
+                "id": "IVoEsWur6b",
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
-                    "url": "https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India#/media/File:Cricket_India_Crest.svg",
-                    "altText": "Image of India national cricket team"
+                    "url": "//upload.wikimedia.org/wikipedia/en/8/8d/Cricket_India_Crest.svg",
+                    "altText": "Image of India national cricket team",
+                    "license": "<p><p>This is a logo owned by BCCI for Indicating the logo of the BCCI.  Further details: This is the logo of the <a href=\"/wiki/Board_of_Control_for_Cricket_in_India\" title=\"Board of Control for Cricket in India\">BCCI</a>. This is used in the article describing the <a href=\"/wiki/Board_of_Control_for_Cricket_in_India\" title=\"Board of Control for Cricket in India\">BCCI</a>. It is considered fair use as the usage of the logo is about the organization that owns the logo.\n</p></p><p><p>The logo is from the www.bcci.tv website. www.bcci.tv\n</p></p><p><p><a href=\"/wiki/Board_of_Control_for_Cricket_in_India\" title=\"Board of Control for Cricket in India\">Board of Control for Cricket in India</a>\n</p></p><p><p>The entire logo is used to convey the meaning intended and avoid tarnishing or misrepresenting the intended image.\n</p></p><p><p>This is an <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">SVG</a> <a href=\"/wiki/Vector_graphics\" title=\"Vector graphics\">vector image</a> of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or a <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright-protected</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>, <a href=\"/wiki/Seal_(emblem)\" title=\"Seal (emblem)\">seal</a> or <a href=\"/wiki/Icon_(computing)\" title=\"Icon (computing)\">computer icon</a>. This image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. The default rendering of this image is of a size and resolution sufficient to maintain the quality intended by the company or organization, without being unnecessarily high resolution.\n</p></p><p><p>The image is used to identify the organization Indicating the logo of the BCCI, a subject of public interest. The significance of the logo is to help the reader identify the organization, assure the readers that they have reached the right article containing critical commentary about the organization, and illustrate the organization&apos;s intended branding message in a way that words alone could not convey.\n</p></p><p><p>As this logo belongs to the BCCI, no free version of the logo is available.\n</p></p><p><p>Use of the logo in the article complies with Wikipedia <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content policy</a>, <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">logo guidelines</a>, and <a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a> under <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">United States copyright law</a> as described above.\n</p></p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:Cricket_India_Crest.svg</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p><p>This is a <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">Scalable Vector Graphics</a> (SVG) image of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or <a href=\"/wiki/Copyright\" title=\"Copyright\">copyrighted</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>. If <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content restrictions</a> apply, this image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. See <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.</p>"
                   }
                 }
               }
@@ -115,7 +118,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "OAH0WHADqAq",
+          "id": "bCf1hqSfKx",
           "note": "",
           "value": {
             "label": ""
@@ -123,7 +126,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "9PaysrdSXM4",
+          "id": "f-vbwzgT6g",
           "note": "2008",
           "value": {
             "label": "Fleming played for the Chennai Super Kings in the 2008 and scored 196 runs in 10 matches.",
@@ -132,12 +135,13 @@
                 "url": "/read/en/chennai_super_kings",
                 "contentUrl": "/static/content/en/chennai_super_kings.json",
                 "label": "Chennai Super Kings",
-                "id": "Cm5pPTJBF",
+                "id": "8INlNXaZi3",
                 "value": {
                   "label": "Founded in 2008, The Chennai Super Kings (CSK) is an Indian franchise cricket team based in Chennai, Tamil Nadu, which plays in the Indian Premier League (IPL).",
                   "image": {
-                    "url": "https://en.wikipedia.org/wiki/Chennai_Super_Kings#/media/File:Chennai_Super_Kings_Logo.svg",
-                    "altText": "Image of Chennai Super Kings"
+                    "url": "//upload.wikimedia.org/wikipedia/en/2/2b/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Image of Chennai Super Kings",
+                    "license": "<p><p>This is a logo  for Chennai Super Kings.\n</p></p><p><p>The logo is from the <a rel=\"nofollow\" class=\"external free\" href=\"http://www.chennaisuperkings.com/\">http://www.chennaisuperkings.com/</a> website.\n</p></p><p><p><a href=\"/wiki/Chennai_Super_Kings\" title=\"Chennai Super Kings\">Chennai Super Kings</a>\n</p></p><p><p>The entire logo is used to convey the meaning intended and avoid tarnishing or misrepresenting the intended image.\n</p></p><p><p>This is an <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">SVG</a> <a href=\"/wiki/Vector_graphics\" title=\"Vector graphics\">vector image</a> of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or a <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright-protected</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>, <a href=\"/wiki/Seal_(emblem)\" title=\"Seal (emblem)\">seal</a> or <a href=\"/wiki/Icon_(computing)\" title=\"Icon (computing)\">computer icon</a>. This image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. The default rendering of this image is of a size and resolution sufficient to maintain the quality intended by the company or organization, without being unnecessarily high resolution.\n</p></p><p><p>The image is placed in the infobox at the top of the article discussing Chennai Super Kings, a subject of public interest. The significance of the logo is to help the reader identify the organization, assure the readers that they have reached the right article containing critical commentary about the organization, and illustrate the organization&apos;s intended branding message in a way that words alone could not convey.\n</p></p><p><p>Because it is a non-free logo, there is almost certainly no free representation. Any substitute that is not a derivative work would fail to convey the meaning intended, would tarnish or misrepresent its image, or would fail its purpose of identification or commentary.\n</p></p><p><p>Use of the logo in the article complies with Wikipedia <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content policy</a>, <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">logo guidelines</a>, and <a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a> under <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">United States copyright law</a> as described above.\n</p></p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:Chennai_Super_Kings_Logo.svg</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p><p><b>To the uploader</b>: \n<ol><li>This tag is only for use on images of logos.</li>\n<li>This tag is not sufficient on its own. Please add a detailed <b><a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">fair use rationale</a></b> for each use, as well as the <b>source</b> of the work and copyright information.</li>\n<li>For an example fair use rationale for a logo, see <a href=\"/wiki/Wikipedia:Use_rationale_examples#Logo_in_the_article_about_the_topic_that_the_logo_represents\" title=\"Wikipedia:Use rationale examples\">here</a>.</li>\n<li><b><a href=\"/wiki/Template:Non-free_use_rationale_logo\" title=\"Template:Non-free use rationale logo\">Template:Non-free use rationale logo</a></b> may be helpful for stating the rationale.</li>\n<li>Please do not use this template to tag non-free icons of computer software. Such items should be tagged with {{<a href=\"/wiki/Template:Non-free_computer_icon\" title=\"Template:Non-free computer icon\">Non-free computer icon</a>}} template.</li></ol>\n<p><b>Regarding uses other than in the original article:</b>\n</p>\n<ul><li>A detailed <b><a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">non-free use rationale</a></b> is required for <b>every</b> article the logo is used in. Check the <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free use criteria</a> and do not assume that existing rationales can be simply copied and pasted, as they may not necessarily apply.</li></ul>\n<b> To patrollers and administrators</b>: If this image has an &apos;appropriate&apos; rationale please append <code>|image has rationale=yes</code> as a parameter to the license template.</p><p>This is a <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">Scalable Vector Graphics</a> (SVG) image of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or <a href=\"/wiki/Copyright\" title=\"Copyright\">copyrighted</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>. If <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content restrictions</a> apply, this image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. See <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.</p>"
                   }
                 }
               }
@@ -156,8 +160,9 @@
           "value": {
             "label": "1996/97 - became New Zealand's youngest captain at 23 years and 321 days",
             "image": {
-              "url": "https://commons.wikimedia.org/wiki/File:Stephen_Fleming_captain.jpg",
-              "altText": "1996/97 - became New Zealand's youngest captain at 23 years and 321 days"
+              "url": "/static/images/stephen_fleming/Stephen_Fleming_captain.jpg",
+              "altText": "1996/97 - became New Zealand's youngest captain at 23 years and 321 days",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
             }
           }
         },
@@ -213,20 +218,21 @@
       "facts": [
         {
           "label": "New Zealand (1994-2008)",
-          "id": "FCSSWHPqCs",
+          "id": "9cXLH-lHuAZ",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "New Zealand national cricket team",
-                "id": "zwzZjr5tbj",
+                "id": "QhuwJm90GNl",
                 "url": "/read/en/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
                 "value": {
                   "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
                   "image": {
-                    "url": "https://en.wikipedia.org/wiki/New_Zealand_national_cricket_team#/media/File:New_Zealand_Cricket_Cap_Insignia.svg",
-                    "altText": "Picture of New Zealand national cricket team"
+                    "url": "//upload.wikimedia.org/wikipedia/en/3/35/New_Zealand_Cricket_Cap_Insignia.svg",
+                    "altText": "Picture of New Zealand national cricket team",
+                    "license": "<p><p>This is a logo  for New Zealand national cricket team.  Further details: The official logo of the Bangladesh Cricket Board\n</p></p><p><p>The logo is from the <a rel=\"nofollow\" class=\"external free\" href=\"http://www.blackcaps.co.nz\">http://www.blackcaps.co.nz</a> website.\n</p></p><p><p><a href=\"/wiki/New_Zealand_national_cricket_team\" title=\"New Zealand national cricket team\">New Zealand national cricket team</a>\n</p></p><p><p>The entire logo is used to convey the meaning intended and avoid tarnishing or misrepresenting the intended image.\n</p></p><p><p>The logo is of a size and resolution sufficient to maintain the quality intended by the company or organization, without being unnecessarily high resolution.\n</p></p><p><p>The image is used to identify the organization New Zealand national cricket team, a subject of public interest. The significance of the logo is to help the reader identify the organization, assure the readers that they have reached the right article containing critical commentary about the organization, and illustrate the organization&apos;s intended branding message in a way that words alone could not convey.\n</p></p><p><p>un-replaceable\n</p></p><p><p>Use of the logo in the article complies with Wikipedia <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content policy</a>, <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">logo guidelines</a>, and <a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a> under <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">United States copyright law</a> as described above.\n</p></p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:New_Zealand_Cricket_Cap_Insignia.svg</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p><p>This is a <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">Scalable Vector Graphics</a> (SVG) image of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or <a href=\"/wiki/Copyright\" title=\"Copyright\">copyrighted</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>. If <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content restrictions</a> apply, this image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. See <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.</p>"
                   }
                 }
               }
@@ -235,20 +241,21 @@
         },
         {
           "label": "Chennai Super Kings (2008)",
-          "id": "L7bFeHxSG-",
+          "id": "ynOO_dIYnrf",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Chennai Super Kings",
-                "id": "QEYYUTx3D4",
+                "id": "OWghG16uFp-",
                 "url": "/read/en/chennai_super_kings",
                 "contentUrl": "/static/content/en/chennai_super_kings.json",
                 "value": {
                   "label": "Founded in 2008, The Chennai Super Kings (CSK) is an Indian franchise cricket team based in Chennai, Tamil Nadu, which plays in the Indian Premier League (IPL).",
                   "image": {
-                    "url": "https://en.wikipedia.org/wiki/Chennai_Super_Kings#/media/File:Chennai_Super_Kings_Logo.svg",
-                    "altText": "Picture of Chennai Super Kings"
+                    "url": "//upload.wikimedia.org/wikipedia/en/2/2b/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Picture of Chennai Super Kings",
+                    "license": "<p><p>This is a logo  for Chennai Super Kings.\n</p></p><p><p>The logo is from the <a rel=\"nofollow\" class=\"external free\" href=\"http://www.chennaisuperkings.com/\">http://www.chennaisuperkings.com/</a> website.\n</p></p><p><p><a href=\"/wiki/Chennai_Super_Kings\" title=\"Chennai Super Kings\">Chennai Super Kings</a>\n</p></p><p><p>The entire logo is used to convey the meaning intended and avoid tarnishing or misrepresenting the intended image.\n</p></p><p><p>This is an <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">SVG</a> <a href=\"/wiki/Vector_graphics\" title=\"Vector graphics\">vector image</a> of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or a <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright-protected</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>, <a href=\"/wiki/Seal_(emblem)\" title=\"Seal (emblem)\">seal</a> or <a href=\"/wiki/Icon_(computing)\" title=\"Icon (computing)\">computer icon</a>. This image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. The default rendering of this image is of a size and resolution sufficient to maintain the quality intended by the company or organization, without being unnecessarily high resolution.\n</p></p><p><p>The image is placed in the infobox at the top of the article discussing Chennai Super Kings, a subject of public interest. The significance of the logo is to help the reader identify the organization, assure the readers that they have reached the right article containing critical commentary about the organization, and illustrate the organization&apos;s intended branding message in a way that words alone could not convey.\n</p></p><p><p>Because it is a non-free logo, there is almost certainly no free representation. Any substitute that is not a derivative work would fail to convey the meaning intended, would tarnish or misrepresent its image, or would fail its purpose of identification or commentary.\n</p></p><p><p>Use of the logo in the article complies with Wikipedia <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content policy</a>, <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">logo guidelines</a>, and <a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a> under <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">United States copyright law</a> as described above.\n</p></p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:Chennai_Super_Kings_Logo.svg</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p><p><b>To the uploader</b>: \n<ol><li>This tag is only for use on images of logos.</li>\n<li>This tag is not sufficient on its own. Please add a detailed <b><a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">fair use rationale</a></b> for each use, as well as the <b>source</b> of the work and copyright information.</li>\n<li>For an example fair use rationale for a logo, see <a href=\"/wiki/Wikipedia:Use_rationale_examples#Logo_in_the_article_about_the_topic_that_the_logo_represents\" title=\"Wikipedia:Use rationale examples\">here</a>.</li>\n<li><b><a href=\"/wiki/Template:Non-free_use_rationale_logo\" title=\"Template:Non-free use rationale logo\">Template:Non-free use rationale logo</a></b> may be helpful for stating the rationale.</li>\n<li>Please do not use this template to tag non-free icons of computer software. Such items should be tagged with {{<a href=\"/wiki/Template:Non-free_computer_icon\" title=\"Template:Non-free computer icon\">Non-free computer icon</a>}} template.</li></ol>\n<p><b>Regarding uses other than in the original article:</b>\n</p>\n<ul><li>A detailed <b><a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">non-free use rationale</a></b> is required for <b>every</b> article the logo is used in. Check the <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free use criteria</a> and do not assume that existing rationales can be simply copied and pasted, as they may not necessarily apply.</li></ul>\n<b> To patrollers and administrators</b>: If this image has an &apos;appropriate&apos; rationale please append <code>|image has rationale=yes</code> as a parameter to the license template.</p><p>This is a <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">Scalable Vector Graphics</a> (SVG) image of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or <a href=\"/wiki/Copyright\" title=\"Copyright\">copyrighted</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>. If <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content restrictions</a> apply, this image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. See <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.</p>"
                   }
                 }
               }
@@ -257,7 +264,7 @@
         },
         {
           "label": "Canterbury (1991-2000)",
-          "id": "wFB01SRoom",
+          "id": "sEPygHxx_fY",
           "value": {
             "label": "Canterbury is a New Zealand First-class cricket team based in Canterbury, New Zealand."
           }
@@ -275,8 +282,9 @@
           "value": {
             "label": "New Zealand Order of Merit is an honour established by royal warrant by Queen Elizabeth II, to honour persons who have rendered meritorious service in any field of endeavour.",
             "image": {
-              "url": "https://commons.wikimedia.org/wiki/File:New_Zealand_Order_of_Merit_badge_WP.svg",
-              "altText": "Image of New Zealand Order of Merit"
+              "url": "/static/images/stephen_fleming/New_Zealand_Order_of_Merit_badge_WP.svg",
+              "altText": "Image of New Zealand Order of Merit",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
             }
           }
         }

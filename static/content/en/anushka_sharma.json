@@ -2,8 +2,9 @@
   "title": "Anushka Sharma",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Anushka_Sharma",
   "coverImage": {
-    "url": "https://commons.wikimedia.org/wiki/File:Anushka_Sharma_promoting_Zero.jpg",
-    "altText": "Image of Anushka Sharma"
+    "url": "/static/images/anushka_sharma/Anushka_Sharma_promoting_Zero.jpg",
+    "altText": "Image of Anushka Sharma",
+    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
   },
   "summary": "Anushka Sharma is an Indian actor and film producer who works in Hindi films.",
   "translations": [
@@ -74,8 +75,9 @@
             "url": "/read/en/virat_kohli",
             "contentUrl": "/static/content/en/virat_kohli.json",
             "image": {
-              "url": "https://commons.wikimedia.org/wiki/File:Virat..Kohli.jpg",
-              "altText": "Picture of Virat Kohli"
+              "url": "/static/images/anushka_sharma/Virat..Kohli.jpg",
+              "altText": "Picture of Virat Kohli",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
             }
           }
         }
@@ -99,7 +101,7 @@
     },
     {
       "title": "Style of play",
-      "id": "KRXqIhjrzZb",
+      "id": "g-HHVewEU7h",
       "cardType": "simple",
       "facts": [
         {
@@ -116,7 +118,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "kSuPwkiiBcv",
+          "id": "RCOcJKRS6Zh",
           "note": "",
           "value": {
             "label": ""
@@ -124,7 +126,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "ar0of-39yac",
+          "id": "WikHeXG225w",
           "note": "",
           "value": {
             "label": ""
