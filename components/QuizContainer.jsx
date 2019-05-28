@@ -42,10 +42,14 @@ export class QuizContainer extends Component {
     const { questions } = this.props;
 
     const dateString = todayString();
-    let scheduledQuestions = questions.filter(q => q.dates.indexOf(dateString) > -1);
+    let scheduledQuestions = questions.filter(
+      q => q.dates.indexOf(dateString) > -1
+    );
 
-    if(!scheduledQuestions.length) {
-      scheduledQuestions = questions.filter(q => q.dates.indexOf('2019-05-31') > -1);
+    if (!scheduledQuestions.length) {
+      scheduledQuestions = questions.filter(
+        q => q.dates.indexOf("2019-05-31") > -1
+      );
     }
 
     if (scheduledQuestions.length > 0) {
