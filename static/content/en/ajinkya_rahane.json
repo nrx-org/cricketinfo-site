@@ -78,7 +78,7 @@
     },
     {
       "title": "Style of play",
-      "id": "7sgAk-x0Zp0",
+      "id": "FlekNsluPQav",
       "cardType": "simple",
       "facts": [
         {
@@ -95,7 +95,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "WfN3kFIH8HT",
+          "id": "1MCDJAgeVqM2",
           "note": "Rahane made his first-class debut, at the age of 19, for Mumbai against Karachi Urban in the Mohammad Nissar Trophy in September 2007",
           "value": {
             "label": "Mohammad Nissar Trophy was an annual first class cricket competition played over four days between the winners of the Ranji Trophy from India and Quaid-i-Azam Trophy from Pakistan."
@@ -103,7 +103,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "NhvZ1uFyRLX",
+          "id": "I3rNYPx494Ub",
           "note": "2011",
           "value": {
             "label": "Rahane made his debut against England in 2011 as a replacement for opener Virender Sehwag",
@@ -112,7 +112,7 @@
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "label": "England cricket team",
-                "id": "ChomFFPqs",
+                "id": "BgDAxVeBE3S9",
                 "value": {
                   "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
                   "image": {
@@ -126,7 +126,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "pWo0ZBk0S0",
+          "id": "dJ-vz5cxywJY",
           "note": "2014",
           "value": {
             "label": "Rahane was part of Indian team make it to the final of 2014 World T20"
@@ -134,7 +134,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "SaoBDbodbh",
+          "id": "aNxJ0i3d5qwS",
           "note": "2008",
           "value": {
             "label": "Rahane was initially in the Mumbai Indians squad but got limited opportunities",
@@ -143,7 +143,7 @@
                 "url": "/read/en/bangladesh_national_cricket_team",
                 "contentUrl": "/static/content/en/bangladesh_national_cricket_team.json",
                 "label": "Bangladesh national cricket team",
-                "id": "eRJXs0TMVy",
+                "id": "zsdA1GLxetG9",
                 "value": {
                   "label": "The Bangladesh national cricket team, popularly known as \"The Tigers\", is administered by the Bangladesh Cricket Board (BCB). Bangladesh is a full member of the International Cricket Council (ICC) with Test and One Day International (ODI) status.",
                   "image": {
@@ -153,6 +153,124 @@
                 }
               }
             ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "Rahane has the highest number of catches (8) by a non wicketkeeper in a single Test match",
+            "image": {
+              "url": "",
+              "altText": "Rahane has the highest number of catches (8) by a non wicketkeeper in a single Test match"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "Rahane is the 5th Indian Batsman to score centuries in each innings of a Test",
+            "image": {
+              "url": "",
+              "altText": "Rahane is the 5th Indian Batsman to score centuries in each innings of a Test"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "Rahane jointly holds the record of winning his first test match as a captain",
+            "image": {
+              "url": "",
+              "altText": "Rahane jointly holds the record of winning his first test match as a captain"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "Rahane was the first batsman to hit six fours in an over in IPL",
+            "image": {
+              "url": "",
+              "altText": "Rahane was the first batsman to hit six fours in an over in IPL"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "Rahane is the fourth Indian batsman to score a Test century on their first match at the Lord's cricket ground.",
+            "image": {
+              "url": "",
+              "altText": "Rahane is the fourth Indian batsman to score a Test century on their first match at the Lord's cricket ground."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Indian national cricket team (2011-present)",
+          "id": "4tdE6WhcMHlC",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India national cricket team",
+                "id": "fsEy7HDut8eV",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India#/media/File:Cricket_India_Crest.svg",
+                    "altText": "Picture of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Rajasthan Royals (2011-present)",
+          "id": "j3FeGqd2QNKu",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Rajasthan Royals",
+                "id": "LWiaeiQUVGF0",
+                "url": "/read/en/rajasthan_royals",
+                "contentUrl": "/static/content/en/rajasthan_royals.json",
+                "value": {
+                  "label": "The Rajasthan Royals (often abbreviated as RR) are a franchise cricket team based in Jaipur, Rajasthan, that plays in the Indian Premier League.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Rajasthan_Royals#/media/File:RR-LOGO-1.png",
+                    "altText": "Picture of Rajasthan Royals"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Mumbai (2007-present)",
+          "id": "t0mwxHxuBz6-",
+          "value": {
+            "label": "Domestic Ranji trophy cricket team based in Mumbai"
           }
         }
       ]

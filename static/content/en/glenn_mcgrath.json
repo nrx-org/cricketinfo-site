@@ -69,7 +69,7 @@
     },
     {
       "title": "Style of play",
-      "id": "GqTQ_jtKmCU",
+      "id": "Td4MT7XnsYW",
       "cardType": "simple",
       "facts": [
         {
@@ -90,7 +90,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "hUlUone-7yk",
+          "id": "ddA7gpuZrcI",
           "note": "1992",
           "value": {
             "label": "Glenn McGrath made his first class debut for New South Wales during the 1992–93 season"
@@ -98,7 +98,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "Za-4_U25WB1",
+          "id": "biBEkgrrYdj",
           "note": "1993",
           "value": {
             "label": "McGrath's Test debut was against New Zealand at Perth in 1993",
@@ -107,7 +107,7 @@
                 "url": "/read/en/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
                 "label": "New Zealand national cricket team",
-                "id": "5djYYOc8k",
+                "id": "eZ3NU6t_lak",
                 "value": {
                   "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
                   "image": {
@@ -121,7 +121,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "sR7MvNvac1",
+          "id": "YrmEfe2PjJJ",
           "note": "1996",
           "value": {
             "label": ""
@@ -129,7 +129,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "ONh0AxQyrf",
+          "id": "namtsOJFvz4",
           "note": "2008",
           "value": {
             "label": "McGrath was signed by the Delhi DareDevils for the first season of the Indian Premier League in 2008, for a sum of US$350,000.",
@@ -138,7 +138,7 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-                "id": "V1bfYqJcEm",
+                "id": "bcIGu7USE2b",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
@@ -148,6 +148,124 @@
                 }
               }
             ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "At the time of his retirement McGrath held the record for most runs scored as a number eleven batsman",
+            "image": {
+              "url": "",
+              "altText": "At the time of his retirement McGrath held the record for most runs scored as a number eleven batsman"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "During this career, Glenn McGrath has taken 563 Test wickets",
+            "image": {
+              "url": "",
+              "altText": "During this career, Glenn McGrath has taken 563 Test wickets"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "McGrath holds the record for dismissing the most batsmen (104) for ducks in test cricket",
+            "image": {
+              "url": "",
+              "altText": "McGrath holds the record for dismissing the most batsmen (104) for ducks in test cricket"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "McGrath has taken the seventh-highest number of one day international wickets (381)",
+            "image": {
+              "url": "",
+              "altText": "McGrath has taken the seventh-highest number of one day international wickets (381)"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "Glenn McGrath holds the record for most wickets (71) in the Cricket World Cup.",
+            "image": {
+              "url": "",
+              "altText": "Glenn McGrath holds the record for most wickets (71) in the Cricket World Cup."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Australia (1993-2007)",
+          "id": "p9lI5iPz-1R",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Australia Cricket team",
+                "id": "q0ARFUE83jf",
+                "url": "/read/en/australia_cricket_team",
+                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "value": {
+                  "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Australia_national_cricket_team#/media/File:Australia_cricket_logo.svg",
+                    "altText": "Picture of Australia Cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Delhi Daredevils (2008)",
+          "id": "Ea7gnaQOvMR",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Delhi Capitals",
+                "id": "J6f1OmeBJDQ",
+                "url": "/read/en/delhi_capitals",
+                "contentUrl": "/static/content/en/delhi_capitals.json",
+                "value": {
+                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Delhi_Capitals#/media/File:Delhi_Capitals_Logo.svg",
+                    "altText": "Picture of Delhi Capitals"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "New South Wales (1992-2007)",
+          "id": "LN_PLh1obI46",
+          "value": {
+            "label": "The New South Wales cricket team (currently named NSW Blues) are an Australian men's professional first class cricket team based in Sydney."
           }
         }
       ]

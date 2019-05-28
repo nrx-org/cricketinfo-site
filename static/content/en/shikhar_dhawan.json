@@ -81,7 +81,7 @@
     },
     {
       "title": "Style of play",
-      "id": "ooMG9jSHzGY",
+      "id": "qCdQS8GC2YE",
       "cardType": "simple",
       "facts": [
         {
@@ -102,7 +102,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "g-FK48sJQ4R",
+          "id": "dV0hz1Os36q",
           "note": "2004",
           "value": {
             "label": "Dhawan made his first-class debut for Delhi against Andhra during Ranji Trophy in the year 2004."
@@ -110,7 +110,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "fbq0gTZa2Cm",
+          "id": "wcRpKyjIwMW",
           "note": "2010",
           "value": {
             "label": "Dhawan made his international debut versus Australia but got out on a duck.",
@@ -119,7 +119,7 @@
                 "url": "/read/en/australia_cricket_team",
                 "contentUrl": "/static/content/en/australia_cricket_team.json",
                 "label": "Australia Cricket team",
-                "id": "Z6FLtQh4j",
+                "id": "X3-9c1x1SkG",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
@@ -133,7 +133,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "ISX1fHhrxz",
+          "id": "BPBcvQ6JUjD",
           "note": "2013",
           "value": {
             "label": "Dhawan scored the most runs in the tournament and was also named as the player of the tournament.",
@@ -142,7 +142,7 @@
                 "url": "/read/en/icc_champions_trophy",
                 "contentUrl": "/static/content/en/icc_champions_trophy.json",
                 "label": "ICC Champions Trophy",
-                "id": "F_gaKpamYL",
+                "id": "iASrmIabI96",
                 "value": {
                   "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
                   "image": {
@@ -156,7 +156,7 @@
         },
         {
           "label": "Struggle with form",
-          "id": "1jMJQZuZxf",
+          "id": "IPs7VgBUnaz",
           "note": "2014",
           "value": {
             "label": "Dhawan failed to score big runs and was dropped from the team.",
@@ -165,7 +165,7 @@
                 "url": "/read/en/icc_t20_world_cup",
                 "contentUrl": "/static/content/en/icc_t20_world_cup.json",
                 "label": "ICC T20 World Cup",
-                "id": "Hc5dZV1QvS",
+                "id": "DZjlnpT0C8J",
                 "value": {
                   "label": "The ICC T20 World Cup (earlier known as ICC World Twenty20) is the international championship of Twenty20 International cricket. The tournament currently consists of 16 teams, comprising the top eight teams from the rankings at the given deadline and four other teams chosen through the T20 World Cup Qualifier. ",
                   "image": {
@@ -179,7 +179,7 @@
         },
         {
           "label": "2015 World Cup",
-          "id": "QGKo42QuDF",
+          "id": "BOSIzDIWt8N",
           "note": "2015",
           "value": {
             "label": "Dhawan finished the 2015 world cup as the fifth-highest run scorer.",
@@ -188,7 +188,7 @@
                 "url": "/read/en/2015_cricket_world_cup",
                 "contentUrl": "/static/content/en/2015_cricket_world_cup.json",
                 "label": "2015 Cricket World Cup",
-                "id": "LhzZw1gtOP",
+                "id": "MIPTknamzmk",
                 "value": {
                   "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
                   "image": {
@@ -202,7 +202,7 @@
         },
         {
           "label": "2017 Champions Trophy",
-          "id": "c7K-LVSZrq",
+          "id": "IXg6rzDHuGV",
           "note": "2017",
           "value": {
             "label": "Dhawan won the Golden bat for the most runs scored during the tournament",
@@ -211,7 +211,7 @@
                 "url": "/read/en/icc_champions_trophy",
                 "contentUrl": "/static/content/en/icc_champions_trophy.json",
                 "label": "ICC Champions Trophy",
-                "id": "cERk8hDZuQ",
+                "id": "p5cu2D1G_fu",
                 "value": {
                   "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
                   "image": {
@@ -225,7 +225,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "Yh3xDaj8NI",
+          "id": "PiESwFAPHTX",
           "note": "2008",
           "value": {
             "label": "Shikhar Dhawan played for the Delhi Daredevils in the Indian Premier League until he was traded to the Mumbai Indians in 2009 in exchange for Ashish Nehra.",
@@ -234,7 +234,7 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-                "id": "7gW0NhGqOQ",
+                "id": "U9K5_jwifZJ",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
@@ -244,6 +244,124 @@
                 }
               }
             ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "Shikhar Dhawan scored the fastest century by a player on their Test debut ",
+            "image": {
+              "url": "",
+              "altText": "Shikhar Dhawan scored the fastest century by a player on their Test debut "
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "Most Runs from Indian Player in ICC World Cup 2015",
+            "image": {
+              "url": "",
+              "altText": "Most Runs from Indian Player in ICC World Cup 2015"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "Only player to get 2 consecutive golden bats at ICC Champions Trophy for being the highest run scorer of the tournament",
+            "image": {
+              "url": "",
+              "altText": "Only player to get 2 consecutive golden bats at ICC Champions Trophy for being the highest run scorer of the tournament"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "Dhawan is the first Indian batsman to score a century before lunch on the first day of a Test match.",
+            "image": {
+              "url": "",
+              "altText": "Dhawan is the first Indian batsman to score a century before lunch on the first day of a Test match."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Indian National Cricket team (2010-present)",
+          "id": "0Dn13OBMTS7",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India national cricket team",
+                "id": "uCQI8-EtI_9",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India#/media/File:Cricket_India_Crest.svg",
+                    "altText": "Picture of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Delhi Capitals (2019-present)",
+          "id": "x_ZjG4ePpnz",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Delhi Capitals",
+                "id": "3VzzSBb82KR",
+                "url": "/read/en/delhi_capitals",
+                "contentUrl": "/static/content/en/delhi_capitals.json",
+                "value": {
+                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Delhi_Capitals#/media/File:Delhi_Capitals_Logo.svg",
+                    "altText": "Picture of Delhi Capitals"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Delhi (2004-present)",
+          "id": "mqbnpicnNeT",
+          "value": {
+            "label": "Domestic Ranji trophy cricket team based in Delhi"
           }
         }
       ]

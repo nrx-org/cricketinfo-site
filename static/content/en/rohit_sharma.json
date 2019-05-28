@@ -81,7 +81,7 @@
     },
     {
       "title": "Style of play",
-      "id": "vrXK9kAmEu",
+      "id": "SnBKQtDWFqG",
       "cardType": "simple",
       "facts": [
         {
@@ -102,7 +102,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "20E24D160N",
+          "id": "dCmLjrXvDzS",
           "note": "2006",
           "value": {
             "label": "Sharma made his First-class debut for India A against New Zealand A, in 2006, before his Ranji trophy debut."
@@ -110,7 +110,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "qRl9eM3OY5",
+          "id": "dc7aey-EAGc",
           "note": "2007",
           "value": {
             "label": "Rohit Sharma made his One Day International debut against Ireland, although he did not bat in the match."
@@ -118,7 +118,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "z9SBbPyFzQ",
+          "id": "xCUm3pXYZoI",
           "note": "2007",
           "value": {
             "label": "Rohit Sharma led India to a crucial victory by scoring an unbeaten 50 against South Africa in the 2007 ICC World Twenty20, which took the team to the semi-finals.",
@@ -127,7 +127,7 @@
                 "url": "/read/en/icc_t20_world_cup",
                 "contentUrl": "/static/content/en/icc_t20_world_cup.json",
                 "label": "ICC T20 World Cup",
-                "id": "SkqBm_5P7f",
+                "id": "4P9R5uDwt-b",
                 "value": {
                   "label": "The ICC T20 World Cup (earlier known as ICC World Twenty20) is the international championship of Twenty20 International cricket. The tournament currently consists of 16 teams, comprising the top eight teams from the rankings at the given deadline and four other teams chosen through the T20 World Cup Qualifier. ",
                   "image": {
@@ -141,7 +141,7 @@
         },
         {
           "label": "2013 ICC Champions Trophy",
-          "id": "d-qjzTybhqM",
+          "id": "o_suzFJRcOR",
           "note": "2013",
           "value": {
             "label": "In 2013, he was promoted as the new opening batsman for India along with Shikhar Dhawan for the Champions Trophy.",
@@ -150,7 +150,7 @@
                 "url": "/read/en/icc_champions_trophy",
                 "contentUrl": "/static/content/en/icc_champions_trophy.json",
                 "label": "ICC Champions Trophy",
-                "id": "s-nm7J8KVp_",
+                "id": "fYuyhBOrYjB",
                 "value": {
                   "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
                   "image": {
@@ -164,7 +164,7 @@
         },
         {
           "label": "2015 World Cup",
-          "id": "VwOVp6J3tFz",
+          "id": "aV40DMxmcwd",
           "note": "2015",
           "value": {
             "label": "",
@@ -173,7 +173,7 @@
                 "url": "/read/en/2015_cricket_world_cup",
                 "contentUrl": "/static/content/en/2015_cricket_world_cup.json",
                 "label": "2015 Cricket World Cup",
-                "id": "9fMa58j94EM",
+                "id": "10cZoGmKSI4",
                 "value": {
                   "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
                   "image": {
@@ -187,7 +187,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "cwpLx1iGRqY",
+          "id": "WlG9RmPoQVp",
           "note": "2008",
           "value": {
             "label": "Sharma was signed up by the Deccan Chargers for a sum of US$750,000 a year in 2008.",
@@ -196,7 +196,7 @@
                 "url": "/read/en/sunrisers_hyderabad",
                 "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
                 "label": "Sunrisers Hyderabad",
-                "id": "7NWcOdPKOVG",
+                "id": "2nn8MyB9VlM",
                 "value": {
                   "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
                   "image": {
@@ -206,6 +206,124 @@
                 }
               }
             ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "In 2014, he became the first person to score more than 250 runs in a single One-Day international cricket match",
+            "image": {
+              "url": "",
+              "altText": "In 2014, he became the first person to score more than 250 runs in a single One-Day international cricket match"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "Rohit Sharma is the only Indian Batsman who has outscored the opposition at two different occasion in a completed ODI match.",
+            "image": {
+              "url": "",
+              "altText": "Rohit Sharma is the only Indian Batsman who has outscored the opposition at two different occasion in a completed ODI match."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "Sharma broke the record for most runs from fours and sixes in an innings by scoring 186 runs in boundaries",
+            "image": {
+              "url": "",
+              "altText": "Sharma broke the record for most runs from fours and sixes in an innings by scoring 186 runs in boundaries"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "Rohit Sharma has hit most number of sixes by an Indian batsman in T20Is",
+            "image": {
+              "url": "",
+              "altText": "Rohit Sharma has hit most number of sixes by an Indian batsman in T20Is"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "In 2019 Rohit Sharma became the all time highest run getter of T20I",
+            "image": {
+              "url": "",
+              "altText": "In 2019 Rohit Sharma became the all time highest run getter of T20I"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Indian National Cricket team (2007-present)",
+          "id": "djpihsP0nhd",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India national cricket team",
+                "id": "fUCwsXQXZCE",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India#/media/File:Cricket_India_Crest.svg",
+                    "altText": "Picture of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Mumbai Indians (2011-present)",
+          "id": "ySzTtX2Ya2o",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Mumbai Indians",
+                "id": "Th4s_XmkKYp",
+                "url": "/read/en/mumbai_indians",
+                "contentUrl": "/static/content/en/mumbai_indians.json",
+                "value": {
+                  "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Mumbai_Indians#/media/File:Mumbai_Indians_Logo.svg",
+                    "altText": "Picture of Mumbai Indians"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Mumbai (2006-present)",
+          "id": "J2z7NLN73Gw",
+          "value": {
+            "label": "Domestic Ranji trophy cricket team based in Mumbai"
           }
         }
       ]

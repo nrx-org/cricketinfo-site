@@ -62,7 +62,7 @@
     },
     {
       "title": "Style of play",
-      "id": "qkm6qpojqh",
+      "id": "tB1tM-9RFlhv",
       "cardType": "simple",
       "facts": [
         {
@@ -83,7 +83,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "skmlqC0b2z",
+          "id": "2JBaq9fKxlml",
           "note": "2002",
           "value": {
             "label": "Karthik made his debut at the first-class level in late-2002 against Baroda"
@@ -91,7 +91,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "jW9F1S9CbH",
+          "id": "MsoJlQeIY0i_",
           "note": "2004",
           "value": {
             "label": "Karthik made his international debut in an One day international match against England in 2004",
@@ -100,7 +100,7 @@
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "label": "England cricket team",
-                "id": "WpYhGMVih_",
+                "id": "feb7hJq2XXyQ",
                 "value": {
                   "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
                   "image": {
@@ -114,7 +114,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "5uDFmqyFvh",
+          "id": "FvCe5zRAFex4",
           "note": "",
           "value": {
             "label": ""
@@ -122,7 +122,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "6eT-XPU_8il",
+          "id": "IVhvqCVV3w2R",
           "note": "2008",
           "value": {
             "label": "Karthik played in the 2008 Indian Premier League as the wicket-keeper for the Delhi Daredevils",
@@ -131,7 +131,7 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-                "id": "-5dY1De7pFV",
+                "id": "d6Kb3pauM9rG",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
@@ -141,6 +141,124 @@
                 }
               }
             ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "Karthik scored and unbeaten 29 runs off 8 balls in a T20 match against Bangladesh",
+            "image": {
+              "url": "",
+              "altText": "Karthik scored and unbeaten 29 runs off 8 balls in a T20 match against Bangladesh"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "In the 2002-2003 season while playing for U-19 Tamil Nadu team, Karthik scored, 227 against Goa",
+            "image": {
+              "url": "",
+              "altText": "In the 2002-2003 season while playing for U-19 Tamil Nadu team, Karthik scored, 227 against Goa"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "In 2017, Karthik faced 18 deliveries without scoring a single run and set a new record for an Indian player for the highest number of balls faced with scoring a run in a ODI.",
+            "image": {
+              "url": "",
+              "altText": "In 2017, Karthik faced 18 deliveries without scoring a single run and set a new record for an Indian player for the highest number of balls faced with scoring a run in a ODI."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Indian national cricket team (2004 - present)",
+          "id": "WWQyFkDPHQ5S",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India national cricket team",
+                "id": "xjaxOMgpM4WE",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India#/media/File:Cricket_India_Crest.svg",
+                    "altText": "Picture of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Kolkata Knight Riders (2018 - present)",
+          "id": "EprqBqjOmCDG",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Kolkata Knight Riders",
+                "id": "B23ufyt8c2sn",
+                "url": "/read/en/kolkata_knight_riders",
+                "contentUrl": "/static/content/en/kolkata_knight_riders.json",
+                "value": {
+                  "label": "The Kolkata Knight Riders (also known by the acronym KKR) are a franchise cricket team representing the city of Kolkata in the Indian Premier League. ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Kolkata_Knight_Riders#/media/File:Kolkata_Knight_Riders_Logo.svg",
+                    "altText": "Picture of Kolkata Knight Riders"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Tamil Nadu (2002 - present)",
+          "id": "uUJsczWfP5l5",
+          "value": {
+            "label": "Tamil Nadu Cricket Team is a domestic cricket team representing the state of Tamil Nadu, India"
           }
         }
       ]

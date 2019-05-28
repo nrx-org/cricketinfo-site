@@ -21,7 +21,7 @@ const makeArticleUrl = (lang, slug) => `/read/${lang}/${slug}`;
 const makeContentUrl = (lang, slug) => `/static/content/${lang}/${slug}.json`;
 
 const getCardInfoFromId = (idMap, id, lang) => {
-  if (!id.trim()) {
+  if (!id || !id.trim()) {
     return null;
   }
 

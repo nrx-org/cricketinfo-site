@@ -99,7 +99,7 @@
     },
     {
       "title": "Style of play",
-      "id": "KRioMawOfLx",
+      "id": "e374wWcadjw",
       "cardType": "simple",
       "facts": [
         {
@@ -116,7 +116,7 @@
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": "fZBWn2Zjka7",
+          "id": "UlDuiCRAHtL",
           "note": "",
           "value": {
             "label": ""
@@ -124,7 +124,7 @@
         },
         {
           "label": "राष्ट्रीय टीम ",
-          "id": "oJf22RtlxQH",
+          "id": "vhW_xXgkh99",
           "note": "",
           "value": {
             "label": ""
@@ -132,13 +132,79 @@
         },
         {
           "label": "IPL डेब्यू",
-          "id": "HuB0kLtQmy5",
+          "id": "0aNRix2WY4T",
           "note": "",
           "value": {
             "label": ""
           }
         }
       ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": []
     }
   ]
 }

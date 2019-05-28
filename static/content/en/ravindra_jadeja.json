@@ -62,7 +62,7 @@
     },
     {
       "title": "Style of play",
-      "id": "qWH87sbeA-z",
+      "id": "OC3U4nRRLvde",
       "cardType": "simple",
       "facts": [
         {
@@ -79,7 +79,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "BDhfkThM3vt",
+          "id": "ruXdNImASncQ",
           "note": "2006",
           "value": {
             "label": "Jadeja made his first-class debut in the 2006–07 Duleep Trophy playing for the West Zone",
@@ -88,7 +88,7 @@
                 "url": "/read/en/duleep_trophy",
                 "contentUrl": "/static/content/en/duleep_trophy.json",
                 "label": "Duleep Trophy",
-                "id": "rNvszaIzr",
+                "id": "mXKKLy_NxS73",
                 "value": {
                   "label": "The Duleep Trophy is a domestic first-class cricket competition played in India. Named after Kumar Shri Duleepsinhji of Nawanagar (also known as 'Duleep'), the competition was originally contested by teams representing geographical zones of India.",
                   "image": {
@@ -102,7 +102,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "TZzois0bRp",
+          "id": "mx6OwlzNq9Jz",
           "note": "2009",
           "value": {
             "label": "Jadeja made his international debut in an ODI versus Sri Lanka, in which he scored unbeaten 60 runs",
@@ -111,7 +111,7 @@
                 "url": "/read/en/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
                 "label": "Sri Lanka national cricket team",
-                "id": "khRVuiotH1",
+                "id": "KgOCeHWDH4d7",
                 "value": {
                   "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
                   "image": {
@@ -125,7 +125,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "AP9cjCTJG0",
+          "id": "xOI_MWG-cZhF",
           "note": "2009",
           "value": {
             "label": "Jadeja was criticised for not scoring fast enough in a match against England, which India lost"
@@ -133,7 +133,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "j-OG-V755d",
+          "id": "FejUeS_KAG0k",
           "note": "2008",
           "value": {
             "label": "Ravindra Jadeja was selected by the Rajasthan Royals in 2008, and played an important role during their tournament victory.",
@@ -142,7 +142,7 @@
                 "url": "/read/en/rajasthan_royals",
                 "contentUrl": "/static/content/en/rajasthan_royals.json",
                 "label": "Rajasthan Royals",
-                "id": "eZKzUTZbL0",
+                "id": "zonEWbLekBCt",
                 "value": {
                   "label": "The Rajasthan Royals (often abbreviated as RR) are a franchise cricket team based in Jaipur, Rajasthan, that plays in the Indian Premier League.",
                   "image": {
@@ -152,6 +152,124 @@
                 }
               }
             ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "In 2017, Jadeja became the first Indian left-arm spinner to take 150 One Day International wickets",
+            "image": {
+              "url": "",
+              "altText": "In 2017, Jadeja became the first Indian left-arm spinner to take 150 One Day International wickets"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "In 2012, Jadeja became the eighth player in history, and the first Indian player, to score three first-class triple centuries in his career.",
+            "image": {
+              "url": "",
+              "altText": "In 2012, Jadeja became the eighth player in history, and the first Indian player, to score three first-class triple centuries in his career."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "In the historic 4–0 Test series win by India against Australia in 2013, Jadeja took 24 wickets.",
+            "image": {
+              "url": "",
+              "altText": "In the historic 4–0 Test series win by India against Australia in 2013, Jadeja took 24 wickets."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "Jadeja was ranked as the No.1 bowler in ODI Cricket by the ICC in August 2013",
+            "image": {
+              "url": "",
+              "altText": "Jadeja was ranked as the No.1 bowler in ODI Cricket by the ICC in August 2013"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "In 2019, during the second ODI against Australia, Jadeja became the third cricketer for India to score 2,000 runs and take 150 wickets in ODIs",
+            "image": {
+              "url": "",
+              "altText": "In 2019, during the second ODI against Australia, Jadeja became the third cricketer for India to score 2,000 runs and take 150 wickets in ODIs"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Indian national cricket team (2009 - present)",
+          "id": "RJMALPG7NBWx",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India national cricket team",
+                "id": "8C9Vy8KsfWx8",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India#/media/File:Cricket_India_Crest.svg",
+                    "altText": "Picture of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Chennai Super Kings (2018 - present)",
+          "id": "baUgJdlHLGIf",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Chennai Super Kings",
+                "id": "rGnKrgo9BJ5I",
+                "url": "/read/en/chennai_super_kings",
+                "contentUrl": "/static/content/en/chennai_super_kings.json",
+                "value": {
+                  "label": "Founded in 2008, The Chennai Super Kings (CSK) is an Indian franchise cricket team based in Chennai, Tamil Nadu, which plays in the Indian Premier League (IPL).",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Chennai_Super_Kings#/media/File:Chennai_Super_Kings_Logo.svg",
+                    "altText": "Picture of Chennai Super Kings"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Saurashtra (2006 - present)",
+          "id": "9OIknaTeYZUq",
+          "value": {
+            "label": "Saurashtra cricket team is a domestic India first-class team based in Gujarat. Their home ground is Rajkot."
           }
         }
       ]

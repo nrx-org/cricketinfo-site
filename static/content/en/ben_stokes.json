@@ -63,7 +63,7 @@
     },
     {
       "title": "Style of play",
-      "id": "t6Ujdc-eyR",
+      "id": "TDm3j3paWNPy",
       "cardType": "simple",
       "facts": [
         {
@@ -84,7 +84,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "s1Kg7x3mHs",
+          "id": "YCseyysSla6V",
           "note": "2010",
           "value": {
             "label": "Stokes made his first-class debut for Durham against the Marylebone Cricket Club (MCC)"
@@ -92,7 +92,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "mHOef0AxzZ",
+          "id": "M5dxEX6lEk7a",
           "note": "2011",
           "value": {
             "label": "Stokes made his international debut in a One Day International (ODI) against Ireland in August 2011."
@@ -100,7 +100,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "KJ-AGwzC1L",
+          "id": "hcNgp3Vfi5s1",
           "note": "2016",
           "value": {
             "label": "Stokes was part of the England team that finished as runner's up in the tournament"
@@ -108,10 +108,128 @@
         },
         {
           "label": "IPL Debut",
-          "id": "vBi2u_Z9u4",
+          "id": "2RnPg7qllzBv",
           "note": "2017",
           "value": {
             "label": "Rising Pune Supergiant was an IPL cricket team based in Pune"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "Stokes holds the record for England's fastest ever Test double-century",
+            "image": {
+              "url": "",
+              "altText": "Stokes holds the record for England's fastest ever Test double-century"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "Stokes holds the record for the most runs scored by an individual batsman in the morning session of a Test match",
+            "image": {
+              "url": "",
+              "altText": "Stokes holds the record for the most runs scored by an individual batsman in the morning session of a Test match"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "Stokes has the second highest number of sixes (11) in a Test innings",
+            "image": {
+              "url": "",
+              "altText": "Stokes has the second highest number of sixes (11) in a Test innings"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "Along with Johnny Bairstow, Stokes holds the record for the highest Test partnership for the sixth wicket.",
+            "image": {
+              "url": "",
+              "altText": "Along with Johnny Bairstow, Stokes holds the record for the highest Test partnership for the sixth wicket."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "England (2011 - present)",
+          "id": "QUMzYtJWdSq2",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "England cricket team",
+                "id": "EOrehm0_zwQQ",
+                "url": "/read/en/england_cricket_team",
+                "contentUrl": "/static/content/en/england_cricket_team.json",
+                "value": {
+                  "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/England_cricket_team#/media/File:England_cricket_team_logo.svg",
+                    "altText": "Picture of England cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Rajasthan Royals (2018 - present)",
+          "id": "i-auwBmr6UwO",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Rajasthan Royals",
+                "id": "s3IIj8l4wyfs",
+                "url": "/read/en/rajasthan_royals",
+                "contentUrl": "/static/content/en/rajasthan_royals.json",
+                "value": {
+                  "label": "The Rajasthan Royals (often abbreviated as RR) are a franchise cricket team based in Jaipur, Rajasthan, that plays in the Indian Premier League.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Rajasthan_Royals#/media/File:RR-LOGO-1.png",
+                    "altText": "Picture of Rajasthan Royals"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Durham (2009 - present)",
+          "id": "aT3ZoD8kpMhq",
+          "value": {
+            "label": "Durham County Cricket Club is one of eighteen first-class county clubs in domestic cricket structure of England and Wales"
           }
         }
       ]

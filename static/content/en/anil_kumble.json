@@ -87,7 +87,7 @@
     },
     {
       "title": "Style of play",
-      "id": "zBEWsINjZP",
+      "id": "tEP6Zdm_5rJ",
       "cardType": "simple",
       "facts": [
         {
@@ -108,7 +108,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "WycnAVlpWR",
+          "id": "KltfWWd17X4",
           "note": "1989",
           "value": {
             "label": "Kumble made his first-class debut for Karnataka against Hyderabad on 30 November 1989, taking 4 wickets."
@@ -116,7 +116,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "BGZPL-F-Ia",
+          "id": "Tn_WKgpmGge",
           "note": "1990",
           "value": {
             "label": "Kumble made his One Day International debut against Sri Lanka at Sharjah in the Austral-Asia Cup in 1990.",
@@ -125,7 +125,7 @@
                 "url": "/read/en/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
                 "label": "Sri Lanka national cricket team",
-                "id": "qfnqKQO0jb",
+                "id": "pJFU-2UqR_8",
                 "value": {
                   "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
                   "image": {
@@ -139,7 +139,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "dtIIJ04l0e",
+          "id": "pMIGIWN79BC",
           "note": "1996",
           "value": {
             "label": "Kumble was selected in the Indian side for the 1996 World Cup and was the leading wicket-taker in the tournament.",
@@ -148,7 +148,7 @@
                 "url": "/read/en/1996_cricket_world_cup",
                 "contentUrl": "/static/content/en/1996_cricket_world_cup.json",
                 "label": "1996 Cricket World Cup",
-                "id": "_6Nuwm8WWX",
+                "id": "t5FvgdN5LWz",
                 "value": {
                   "label": "The 1996 Cricket World Cup, also called the Wills World Cup 1996 after its official sponsors, ITC's Wills brand, was the sixth Cricket World Cup. It was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka.",
                   "image": {
@@ -162,7 +162,7 @@
         },
         {
           "label": "Retirement",
-          "id": "Wl8t4y5aEFZ",
+          "id": "4lL0J7w9cP1",
           "note": "2007",
           "value": {
             "label": "After the 2007 World Cup, he announced his retirement from ODIs"
@@ -170,7 +170,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "bzb3h6lO7sa",
+          "id": "FdHN86CfQdM",
           "note": "2008",
           "value": {
             "label": "Kumble agreed to honour his contract with the Royal Challengers Bangalore (RCB) after retirement and played for 3 years.",
@@ -179,7 +179,7 @@
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "label": "Royal Challengers Bangalore",
-                "id": "tv-lt0dHhEc",
+                "id": "K9o56g062Eu",
                 "value": {
                   "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
                   "image": {
@@ -189,6 +189,124 @@
                 }
               }
             ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "Kumble is the second player to have taken all 10 wickets in a single innings of a test match.",
+            "image": {
+              "url": "",
+              "altText": "Kumble is the second player to have taken all 10 wickets in a single innings of a test match."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "Kumble holds the record for the most wickets in a calendar year by an Indian in ODIs with 61 wickets in 1996",
+            "image": {
+              "url": "",
+              "altText": "Kumble holds the record for the most wickets in a calendar year by an Indian in ODIs with 61 wickets in 1996"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "Kumble holds the record of bowling 40850 balls in entire Test career, highest for an Indian.",
+            "image": {
+              "url": "",
+              "altText": "Kumble holds the record of bowling 40850 balls in entire Test career, highest for an Indian."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "Kumble took his first 50 Test wickets in 10 matches",
+            "image": {
+              "url": "",
+              "altText": "Kumble took his first 50 Test wickets in 10 matches"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "In 1993, he took six wickets for 12 runs in an ODI against the West Indies which was an Indian record for very long time.",
+            "image": {
+              "url": "",
+              "altText": "In 1993, he took six wickets for 12 runs in an ODI against the West Indies which was an Indian record for very long time."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Indian National Cricket team (1990-2008)",
+          "id": "uy4jvmaKO97",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India national cricket team",
+                "id": "7FY_o2D7iay",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India#/media/File:Cricket_India_Crest.svg",
+                    "altText": "Picture of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Royal Challengers Bangalore (2008-2010)",
+          "id": "chkwju3Cmng",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Royal Challengers Bangalore",
+                "id": "cSyF_6deYLT",
+                "url": "/read/en/royal_challengers_bangalore",
+                "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
+                "value": {
+                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Royal_Challengers_Bangalore#/media/File:Royal_Challengers_Bangalore_Logo_2016.svg",
+                    "altText": "Picture of Royal Challengers Bangalore"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Karnataka (1989-2009)",
+          "id": "iG323VX0O5d",
+          "value": {
+            "label": "Domestic Ranji trophy cricket team based in the state of Karnataka"
           }
         }
       ]

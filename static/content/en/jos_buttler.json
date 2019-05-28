@@ -79,7 +79,7 @@
     },
     {
       "title": "Style of play",
-      "id": "rtHOKAc_YL",
+      "id": "xnjHnggrjAa3",
       "cardType": "simple",
       "facts": [
         {
@@ -100,7 +100,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "JML99z0wIVT",
+          "id": "1EtBQif41Dyv",
           "note": "2009",
           "value": {
             "label": "Buttler made his first-class debut for Somerset in September 2009 against Lancashire."
@@ -108,7 +108,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "HumwbrOhvfI",
+          "id": "PQhtFgERX9n0",
           "note": "2011",
           "value": {
             "label": "Buttler made his international debut as a specialist batsman in 2011",
@@ -117,7 +117,7 @@
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "label": "India national cricket team",
-                "id": "RwJx-xq6kJ1",
+                "id": "mkkRCY3KURUp",
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
@@ -131,7 +131,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "cx8Ri8VqS0n",
+          "id": "KpyZ0RBpx3iA",
           "note": "2012",
           "value": {
             "label": "Buttler played in all five of England's matches in the competition"
@@ -139,7 +139,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "Nsf2cdHQ7pW",
+          "id": "HxOqBiSmBX_5",
           "note": "2016",
           "value": {
             "label": "Buttler played for Mumbai Indians in the 2016 and 2017 IPL seasons",
@@ -148,7 +148,7 @@
                 "url": "/read/en/mumbai_indians",
                 "contentUrl": "/static/content/en/mumbai_indians.json",
                 "label": "Mumbai Indians",
-                "id": "5Dgf_0dKiW7",
+                "id": "nOemyqkk0pt8",
                 "value": {
                   "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
                   "image": {
@@ -158,6 +158,124 @@
                 }
               }
             ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "Buttler scored his first ODI hundred against Sri Lanka at Lord's in 2014",
+            "image": {
+              "url": "",
+              "altText": "Buttler scored his first ODI hundred against Sri Lanka at Lord's in 2014"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "In 2018, Buttler scored the fastest T20I half-century by an English cricketer, in 22 balls",
+            "image": {
+              "url": "",
+              "altText": "In 2018, Buttler scored the fastest T20I half-century by an English cricketer, in 22 balls"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "Buttler hit 12 sixes, the most by any English batsman in an ODI, while batting against West Indies",
+            "image": {
+              "url": "",
+              "altText": "Buttler hit 12 sixes, the most by any English batsman in an ODI, while batting against West Indies"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "Buttler is the second batsman in IPL history to achieve five scores of fifty or more in consecutive matches.",
+            "image": {
+              "url": "",
+              "altText": "Buttler is the second batsman in IPL history to achieve five scores of fifty or more in consecutive matches."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "England (2011 - present)",
+          "id": "JvneTcGbO2nu",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "England cricket team",
+                "id": "myYWzn6WP",
+                "url": "/read/en/england_cricket_team",
+                "contentUrl": "/static/content/en/england_cricket_team.json",
+                "value": {
+                  "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/England_cricket_team#/media/File:England_cricket_team_logo.svg",
+                    "altText": "Picture of England cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Rajasthan Royals (2018 - present)",
+          "id": "n0by0hXcBD",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Rajasthan Royals",
+                "id": "0FTwYnS3i9",
+                "url": "/read/en/rajasthan_royals",
+                "contentUrl": "/static/content/en/rajasthan_royals.json",
+                "value": {
+                  "label": "The Rajasthan Royals (often abbreviated as RR) are a franchise cricket team based in Jaipur, Rajasthan, that plays in the Indian Premier League.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Rajasthan_Royals#/media/File:RR-LOGO-1.png",
+                    "altText": "Picture of Rajasthan Royals"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Lancashire (2014 - present)",
+          "id": "-_3SowZxMj",
+          "value": {
+            "label": "Lancashire County Cricket Club is a first class English county team that represents the county of Lancashire"
           }
         }
       ]
