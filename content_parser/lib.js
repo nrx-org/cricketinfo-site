@@ -5,9 +5,12 @@ const parse = require("csv-parse/lib/sync");
 const fetch = require("isomorphic-fetch");
 const cheerio = require("cheerio");
 const unescape = require("unescape");
-const debug = require("debug")(
-  "wikipedia-client-prototypes:content_parser:lib"
-);
+const Bottleneck = require("bottleneck");
+
+const limiter = new Bottleneck({
+  maxConcurrent: 3,
+  minTime: 500
+});
 
 const isUrlValid = u => !!urlParse(u).host;
 
@@ -90,11 +93,12 @@ const makeServerSideImageUrl = (imageFileName, articleSlug) =>
   `/static/images/${articleSlug}/${imageFileName}`;
 
 const downloadImageAndFillAttributions = async (imageObject, articleSlug) => {
-  debug("Downloading image %o for article %s", imageObject, articleSlug);
   // Operate on a copy.
   const localImageObject = {
     ...imageObject
   };
+
+  console.log("INFO: Processing image", localImageObject.url);
 
   if (!localImageObject.url || !isUrlValid(localImageObject.url)) {
     return localImageObject;
@@ -130,9 +134,20 @@ const downloadImageAndFillAttributions = async (imageObject, articleSlug) => {
 
   imageFileName = unescape(imageFileName);
 
+  // If image already exists, return the correct response object and exit.
+  if (fs.existsSync(makeImagePath(imageFileName, articleSlug))) {
+    console.log(
+      `INFO: Skipping image ${localImageObject.url} because it already exists`
+    );
+    return {
+      ...localImageObject,
+      url: makeServerSideImageUrl(imageFileName, articleSlug)
+    };
+  }
+
   let imageResponse;
   try {
-    imageResponse = await fetch(localImageObject.url);
+    imageResponse = await limiter.schedule(() => fetch(localImageObject.url));
   } catch (e) {
     // eslint-disable-next-line no-console
     console.log(
