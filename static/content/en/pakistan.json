@@ -155,8 +155,26 @@
             "url": "/read/en/pakistan_national_cricket_team",
             "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
             "image": {
-              "url": "/static/images/undefined/PakistanCricketLogo.png",
-              "altText": "Picture of Pakistan national cricket team"
+              "url": "/static/images/pakistan/PakistanCricketLogo.png",
+              "altText": "Picture of Pakistan national cricket team",
+              "license": "<p><i>This file is in the <b><a href=\"/wiki/Public_domain\" title=\"Public domain\">public domain</a></b>, because <b>The author has placed it in public domain </b></i><div style=\"display:none;\">\n<p><span class=\"licensetpl_short\">PD</span>\n<span class=\"licensetpl_long\">Public domain</span>\n<span class=\"licensetpl_link_req\">false</span>\n<span class=\"licensetpl_attr_req\">false</span>\n</p>\n</div>\n<hr>\n<small>Please verify that the reason given above <a href=\"/wiki/Wikipedia:Public_domain\" title=\"Wikipedia:Public domain\">is valid</a>!<br><b>Note:</b> if there is a <a href=\"/wiki/Wikipedia:Image_copyright_tags/Public_domain\" class=\"mw-redirect\" title=\"Wikipedia:Image copyright tags/Public domain\">specific licence tag</a> for the reason supplied here, please use it.</small></p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Geography",
+      "id": "pakistan_geography",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "Pakistan",
+          "value": {
+            "label": "Pakistan is divided into three major geographic areas: the northern highlands, the Indus River plain, and the Balochistan Plateau.",
+            "image": {
+              "url": "/static/images/pakistan/K2_2006b.jpg",
+              "altText": "An image of Pakistan"
             }
           }
         }

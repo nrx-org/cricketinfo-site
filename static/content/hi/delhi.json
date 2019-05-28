@@ -80,6 +80,23 @@
           }
         }
       ]
+    },
+    {
+      "title": "Geography",
+      "id": "delhi_geography",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "दिल्ली",
+          "value": {
+            "label": "दिल्ली भारत के उत्तरी भाग में यमुना नदी के तट पर स्थित है।",
+            "image": {
+              "url": "/static/images/delhi/Delhi_aerial_photo_04-2016_img11.jpg",
+              "altText": "An image of दिल्ली"
+            }
+          }
+        }
+      ]
     }
   ]
 }

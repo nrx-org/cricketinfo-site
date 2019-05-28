@@ -125,6 +125,24 @@
           }
         }
       ]
+    },
+    {
+      "title": "Geography",
+      "id": "england_geography",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "इंगलैंड",
+          "value": {
+            "label": "इंग्लैंड में ग्रेट ब्रिटेन के द्वीप के मध्य और दक्षिणी दो-तिहाई, साथ ही कुछ अपतटीय द्वीप शामिल हैं। यह स्कॉटलैंड के उत्तर में, और वेल्स पश्चिम में स्थित है।",
+            "image": {
+              "url": "/static/images/england/Widecombe_in_the_Moor%2C_Devon.jpg",
+              "altText": "An image of इंगलैंड",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        }
+      ]
     }
   ]
 }

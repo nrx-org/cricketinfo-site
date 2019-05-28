@@ -132,6 +132,23 @@
           }
         }
       ]
+    },
+    {
+      "title": "Geography",
+      "id": "pakistan_geography",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "பாகிஸ்தான்",
+          "value": {
+            "label": "பாகிஸ்தான் மூன்று முக்கிய புவியியல் பகுதிகளாக பிரிக்கப்பட்டுள்ளது: வடக்கு மலைப்பகுதிகள், சிந்து சமவெளி மற்றும் பலூசிஸ்தான் பீடபூமி.",
+            "image": {
+              "url": "/static/images/pakistan/K2_2006b.jpg",
+              "altText": "An image of பாகிஸ்தான்"
+            }
+          }
+        }
+      ]
     }
   ]
 }

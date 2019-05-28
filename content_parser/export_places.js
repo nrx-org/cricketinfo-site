@@ -78,6 +78,9 @@ const IN_SPORTS = [
   { key: "Player 2 ID Code", isPlayer: true }
 ];
 
+const GEOGRAPHY_KEY = "Geography";
+const GEOGRAPHY_IMAGE_KEY = "Link to relevant image  - geography";
+
 module.exports.exportPlaces = () => {
   Object.keys(csvExports).forEach(lang => {
     const fileContent = fs.readFileSync(csvExports[lang].path, "utf8");
@@ -258,10 +261,13 @@ module.exports.exportPlaces = () => {
               label: card.title,
               url: card.url,
               contentUrl: card.contentUrl,
-              image: await downloadImageAndFillAttributions({
-                url: card.imageUrl,
-                altText: `Picture of ${card.title}`
-              })
+              image: await downloadImageAndFillAttributions(
+                {
+                  url: card.imageUrl,
+                  altText: `Picture of ${card.title}`
+                },
+                englishSlug
+              )
             }
           };
         })
@@ -279,6 +285,30 @@ module.exports.exportPlaces = () => {
       }
 
       // Geography.
+      if (record[GEOGRAPHY_KEY]) {
+        const geographyImage = await downloadImageAndFillAttributions(
+          {
+            url: record[GEOGRAPHY_IMAGE_KEY],
+            altText: `An image of ${place.title}`
+          },
+          englishSlug
+        );
+
+        place.sections.push({
+          title: "Geography",
+          id: getSluggedTitle(`${englishSlug}_geography`),
+          cardType: "simple",
+          facts: [
+            {
+              label: place.title,
+              value: {
+                label: record[GEOGRAPHY_KEY],
+                image: geographyImage
+              }
+            }
+          ]
+        });
+      }
 
       // Culture.
 

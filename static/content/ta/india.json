@@ -142,6 +142,23 @@
           }
         }
       ]
+    },
+    {
+      "title": "Geography",
+      "id": "india_geography",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "இந்தியா",
+          "value": {
+            "label": "இந்தியாவானது இந்திய துணைக்கண்டத்தின் பெரும்பான்மையான பகுதியைக் கொண்டுள்ளதுடன், இந்தோ ஆஸ்திரேலிய தட்டின் ஒரு பகுதியான டெக்டானிக் தட்டின் மீது அமைந்துள்ளது.",
+            "image": {
+              "url": "/static/images/india/India_topo_big.jpg",
+              "altText": "An image of இந்தியா"
+            }
+          }
+        }
+      ]
     }
   ]
 }
