@@ -1,186 +1,23 @@
 {
-  "id": "G6",
   "title": "दक्षिण अफ्रीका",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/South_Africa",
   "summary": "दक्षिण अफ्रीका, आधिकारिक तौर पर दक्षिण अफ्रीका गणराज्य (आरएसए), अफ्रीका का सबसे दक्षिणी देश है। यह दक्षिण में दक्षिणी अटलांटिक और हिन्द महासागरों से 2,798 किलोमीटर लंबे समुद्र तट से घिरा हुआ है।",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/South_Africa",
   "coverImage": {
     "url": "/static/images/south_africa/MapungubweHill.jpg",
-    "altText": "Image of MapungubweHill"
+    "altText": "Image of दक्षिण अफ्रीका",
+    "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
   },
   "translations": [
     {
-      "title": "Australia",
-      "url": "/read/en/south_africa",
-      "lang": "en"
+      "lang": "en",
+      "title": "South Africa",
+      "url": "/read/en/south_africa"
     },
     {
-      "url": "/read/ta/south_africa",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "தென்னாப்பிரிக்கா",
+      "url": "/read/ta/south_africa"
     }
   ],
-  "sections": [
-    {
-      "title": "",
-      "cardType": "table",
-      "facts": [
-        {
-          "label": "स्वतंत्रता दिवस\n",
-          "value": {
-            "label": "31 मई 1910",
-            "url": ""
-          }
-        },
-        {
-          "label": "गणतंत्र दिवस\n",
-          "value": {
-            "label": "31 May 1961",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "1221037 वर्ग किमी",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "57725600 (2018 अनुमान)",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "दक्षिण अफ्रीका, दक्षिण अफ्रीका के गणराज्य, मन्ज़सी, अज़ानिया का संघ",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "प्रिटोरिया (कार्यकारी), ब्लोम्फोनेटिन (न्यायिक), केप टाउन (विधायी)",
-            "url": ""
-          }
-        },
-        {
-          "value": {
-            "label": "जोहानसबर्ग",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "UTC+2",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "प्रागैतिहासिक पुरातत्व",
-          "id": 0,
-          "note": "",
-          "value": {
-            "label": "विभिन्न होमिनिड प्रजातियाँ दक्षिण अफ्रीका में लगभग तीस लाख साल पहले से मौजूद थीं, जिसकी शुरुआत आस्ट्रेलोपिथेकस अफ्रीकी से हुई थी। पुरातत्वविदों ने गौतेंग प्रांत में गुफाओं की श्रृंखला से व्यापक जीवाश्म अवशेष बरामद किए हैं।",
-            "facts": []
-          }
-        },
-        {
-          "label": "बंटू विस्तरण",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "बंटू बोलने वाले लोगों की बस्तियाँ, जो लोहे का उपयोग करने वाले कृषक और चरवाहे थे, पहले से ही 4 या 5 वीं शताब्दी तक लिम्पोपो नदी (अब बोत्सवाना और जिम्बाब्वे के बीच उत्तरी सीमा) के दक्षिण में मौजूद थे। उन्होंने मूल खोइसन बोलने वाले, खोईखोई और सैन लोगों को विस्थापित किया, जीत लिया और अवशोषित कर लिया।",
-            "facts": []
-          }
-        },
-        {
-          "label": "पुर्तगाली संपर्क",
-          "id": 1,
-          "note": "1487",
-          "value": {
-            "label": "यूरोपीय संपर्क के समय, प्रमुख जातीय समूह बंटू बोलने वाले लोग थे, जो लगभग एक हजार साल पहले अफ्रीका के अन्य हिस्सों से चले गए थे। दो प्रमुख ऐतिहासिक समूह झोसा और ज़ुलु लोग थे। 1487 में, पुर्तगाली खोजकर्ता बार्टोलोमू डायस ने दक्षिणी अफ्रीका में उतरने वाली पहली यूरोपीय यात्रा का नेतृत्व किया।",
-            "facts": []
-          }
-        },
-        {
-          "label": "डच उपनिवेशिकरण",
-          "id": 1,
-          "note": "1652",
-          "value": {
-            "label": "केप समुद्री मार्ग की खोज के डेढ़ सदी बाद, जन वैन रिबेक ने डच ईस्ट इंडिया कंपनी की ओर से केप टाउन ऑफ गुड होप में एक विक्चुअलाइजिंग स्टेशन की स्थापना की।",
-            "facts": []
-          }
-        }
-      ]
-    },
-    {
-      "cardType": "avatar",
-      "label": "दक्षिण अफ्रीका एक संसदीय गणतंत्र है, हालांकि अधिकांश ऐसे गणराज्यों के विपरीत राष्ट्रपति राज्य के प्रमुख और सरकार के प्रमुख हैं, और संसद के विश्वास पर उनके कार्यकाल के लिए निर्भर करता है।",
-      "facts": [
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "सिरिल रामाफोसा",
-            "url": "",
-            "image": {
-              "url": "/static/images/south_africa/Cyril_Ramaphosa_(42783408010).jpg",
-              "altText": "Image of Cyril Ramaphosa (42783408010)"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "थॉमस रेत्सांग मोगेंग",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "",
-      "cardType": "simple",
-      "facts": [
-        {
-          "label": "ऑस्ट्रेलिया",
-          "value": {
-            "label": "दक्षिण अफ्रीका, अफ्रीका के सबसे दक्षिणी क्षेत्र में स्थित है, जिसमें एक लंबी तटरेखा है जो 2,500 किमी (1,553 मील) से अधिक और दो महासागरों (दक्षिण अटलांटिक और भारतीय) के साथ फैली हुई है।",
-            "image": {
-              "url": "/static/images/south_africa/Map_of_South_Africa_with_English_labels.svg",
-              "altText": "Image of Map of South Africa with English labels"
-            }
-          }
-        }
-      ]
-    }
-  ]
+  "sections": []
 }

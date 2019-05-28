@@ -1,186 +1,23 @@
 {
-  "id": "G1",
   "title": "Bangalore",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Bangalore",
   "summary": "Bangalore, officially known as Bengaluru, is the capital of the Indian state of Karnataka. It has a population of over ten million, making it a megacity and the third-most populous city and fifth-most populous urban agglomeration in India.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bangalore",
   "coverImage": {
     "url": "/static/images/bangalore/Glasshouse_and_fountain_at_lalbagh.jpg",
-    "altText": "Image of Glasshouse and fountain at lalbagh"
+    "altText": "Image of Bangalore",
+    "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 only as published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.</p>"
   },
   "translations": [
     {
-      "title": "",
-      "url": "/read/hi/bangalore",
-      "lang": "hi"
+      "lang": "hi",
+      "title": "बैंगलोर",
+      "url": "/read/hi/bangalore"
     },
     {
-      "url": "/read/ta/bangalore",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "பெங்களூரு",
+      "url": "/read/ta/bangalore"
     }
   ],
-  "sections": [
-    {
-      "title": "About",
-      "cardType": "table",
-      "facts": [
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Total Area",
-          "value": {
-            "label": "8005 km²",
-            "url": ""
-          }
-        },
-        {
-          "label": "Population",
-          "value": {
-            "label": "10,456,000",
-            "url": ""
-          }
-        },
-        {
-          "label": "Other names",
-          "value": {
-            "label": "Bengaluru, Silicon Valley of India, Garden City",
-            "url": ""
-          }
-        },
-        {
-          "label": "Capital",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Timezone(s)",
-          "value": {
-            "label": "UTC+05:30",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "History",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "Early and Medieval History",
-          "id": 0,
-          "note": "4000 BCE",
-          "value": {
-            "label": "A discovery of Stone Age artefacts during the 2001 census of India at Jalahalli, Sidhapura and Jadigenahalli, all of which are located on Bangalore's outskirts today, suggest probable human settlement around 4,000 BCE.",
-            "facts": []
-          }
-        },
-        {
-          "label": "Foundation and early modern history",
-          "id": 1,
-          "note": "1537",
-          "value": {
-            "label": "Modern Bangalore was begun in 1537 by a vassal of the Vijayanagara Empire, Kempe Gowda I, who built a mud-brick fort for the people at the site that would become the central part of modern Bangalore.",
-            "facts": []
-          }
-        },
-        {
-          "label": "Later modern and contemporary history",
-          "id": 1,
-          "note": "19th Century",
-          "value": {
-            "label": "Bangalore essentially became a twin city, with the \"pētē\", whose residents were predominantly Kannadigas and the cantonment created by the British.",
-            "facts": []
-          }
-        },
-        {
-          "label": "Mahatma Gandhi visits",
-          "id": 1,
-          "note": "1927",
-          "value": {
-            "label": "Bangalore played an important role during the Indian independence movement. Mahatma Gandhi visited the city in 1927 and 1934 and addressed public meetings here.",
-            "facts": []
-          }
-        }
-      ]
-    },
-    {
-      "cardType": "avatar",
-      "label": "The Bruhat Bengaluru Mahanagara Palike (BBMP, Greater Bangalore Municipal Corporation) is in charge of the civic administration of the city. ",
-      "facts": [
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Geography",
-      "cardType": "simple",
-      "facts": [
-        {
-          "label": "Australia",
-          "value": {
-            "label": "The topology of Bangalore is generally flat, though the western parts of the city are hilly. The highest point is Vidyaranyapura Doddabettahalli, which is 962 metres (3,156 feet) and is situated to the north-west of the city.",
-            "image": {
-              "url": "/static/images/bangalore/null",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    }
-  ]
+  "sections": []
 }

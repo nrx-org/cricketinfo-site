@@ -1,186 +1,23 @@
 {
-  "id": "G7",
   "title": "Sri Lanka",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Sri_Lanka",
   "summary": "Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka, is an island country in South Asia, located in the Indian Ocean to the southwest of the Bay of Bengal and to the southeast of the Arabian Sea. ",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sri_Lanka",
   "coverImage": {
     "url": "/static/images/sri_lanka/Flag_of_Sri_Lanka.svg",
-    "altText": "Image of Flag of Sri Lanka"
+    "altText": "Image of Sri Lanka",
+    "license": ""
   },
   "translations": [
     {
-      "title": "",
-      "url": "/read/hi/sri_lanka",
-      "lang": "hi"
+      "lang": "hi",
+      "title": "श्री लंका",
+      "url": "/read/hi/sri_lanka"
     },
     {
-      "url": "/read/ta/sri_lanka",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "இலங்கை",
+      "url": "/read/ta/sri_lanka"
     }
   ],
-  "sections": [
-    {
-      "title": "About",
-      "cardType": "table",
-      "facts": [
-        {
-          "label": "Independence Day",
-          "value": {
-            "label": "4 February 1948",
-            "url": ""
-          }
-        },
-        {
-          "label": "Republic Day",
-          "value": {
-            "label": "22 May 1972 ",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Total Area",
-          "value": {
-            "label": "65610 km²",
-            "url": ""
-          }
-        },
-        {
-          "label": "Population",
-          "value": {
-            "label": "21,670,000 (2018)",
-            "url": ""
-          }
-        },
-        {
-          "label": "Other names",
-          "value": {
-            "label": "Ceylon",
-            "url": ""
-          }
-        },
-        {
-          "label": "Capital",
-          "value": {
-            "label": "Sri Jayawardenepura Kotte",
-            "url": ""
-          }
-        },
-        {
-          "value": {
-            "label": "Colombo",
-            "url": ""
-          }
-        },
-        {
-          "label": "Timezone(s)",
-          "value": {
-            "label": "UTC+5:30",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "History",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "Prehistory",
-          "id": 0,
-          "note": "",
-          "value": {
-            "label": "Evidence of human colonization in Sri Lanka appears at the site of Balangoda. Balangoda Man arrived on the island about 34,000 years ago and have been identified as Mesolithic hunter gatherers who lived in caves. ",
-            "facts": []
-          }
-        },
-        {
-          "label": "Pre Anuradhapura period",
-          "id": 1,
-          "note": "377 BCE–1017",
-          "value": {
-            "label": "The Pre Anuradhapura period or the Early kingdoms period of Sri Lankan history begins with the gradual onset of historical records in the final centuries of the prehistoric period and ending in 377 BC. According to the Mahavamsa, the original inhabitants of Sri Lanka are the Yakshas and northern Naga tribes.",
-            "facts": []
-          }
-        },
-        {
-          "label": "Anuradhapura period",
-          "id": 1,
-          "note": "377 BCE–1017",
-          "value": {
-            "label": "The Anuradhapura period was a period in the history of Sri Lanka of the Anuradhapura Kingdom from 377 BC to 1017 AD. The period begins when Pandukabhaya, King of Upatissa Nuwara moved the administration to Anuradhapura, becoming the kingdom's first monarch. Anuradhapura is heralded as an ancient cosmopolitan citadel with diverse populations.",
-            "facts": []
-          }
-        },
-        {
-          "label": "Polonnaruwa period",
-          "id": 1,
-          "note": "1056–1232",
-          "value": {
-            "label": "The Polonnaruwa period was a period in the history of Sri Lanka of the Kingdom of Polonnaruwa from 1056 to 1236. The period begins after the Chola conquest of Anuradhapura.",
-            "facts": []
-          }
-        }
-      ]
-    },
-    {
-      "cardType": "avatar",
-      "label": "Politics of Sri Lanka takes place in a framework of a semi-presidential representative democratic republic, whereby the President of Sri Lanka is both head of state and head of government, and of a multi-party system. Executive power is exercised by the government. Legislative power is vested in both the government and Parliament.",
-      "facts": [
-        {
-          "value": {
-            "label": "Ranil Wickremesinghe",
-            "url": "",
-            "image": {
-              "url": "/static/images/sri_lanka/Prime_Minister_Ranil_Wickremesinghe_Portrait,_2017.jpg",
-              "altText": "Image of Prime Minister Ranil Wickremesinghe Portrait, 2017"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "Maithripala Sirisena",
-            "url": "",
-            "image": {
-              "url": "/static/images/sri_lanka/Maithripala-_Russia_(portrait).jpg",
-              "altText": "Image of Maithripala  Russia (portrait)"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "Justice Hettikankanange Nalin Jayalath Perera ",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Geography",
-      "cardType": "simple",
-      "facts": [
-        {
-          "label": "Australia",
-          "value": {
-            "label": "Sri Lanka, formerly called \"Ceylon\", is an island nation in the Indian Ocean, southeast of the Indian subcontinent, in a strategic location near major Indian Ocean sea lanes. The nation has a total area of 65,610 km², with 64,740 km² of land and 870 km² of water. Its coastline is 1,340 km (830 mi) long.",
-            "image": {
-              "url": "/static/images/sri_lanka/null",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    }
-  ]
+  "sections": []
 }

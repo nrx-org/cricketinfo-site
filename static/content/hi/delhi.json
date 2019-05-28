@@ -1,186 +1,23 @@
 {
-  "id": "G16",
   "title": "दिल्ली",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Delhi",
   "summary": "दिल्ली, आधिकारिक तौर पर दिल्ली का राष्ट्रीय राजधानी क्षेत्र (एनसीटी), एक शहर और भारत का एक केंद्र शासित प्रदेश है, जिसमें नई दिल्ली, भारत की राजधानी है।",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Delhi",
   "coverImage": {
     "url": "/static/images/delhi/India_Gate_in_New_Delhi_03-2016.jpg",
-    "altText": "Image of India Gate in New Delhi 03 2016"
+    "altText": "Image of दिल्ली",
+    "license": "<p>Copyleft: This work of art is free; you can redistribute it and/or modify it according to terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:Free_Art_License\" class=\"extiw\" title=\"w:en:Free Art License\">Free Art License</a></b>. You will find a specimen of this license on the <a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">Copyleft Attitude site</a> as well as <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Commons:Free_Art_License_1.3\">on other sites</a>. <span class=\"licensetpl_link\" style=\"display:none;\">http://artlibre.org/licence/lal/en</span><span class=\"licensetpl_short\" style=\"display:none;\">FAL</span><span class=\"licensetpl_long\" style=\"display:none;\">Free Art License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
   },
   "translations": [
     {
-      "title": "Australia",
-      "url": "/read/en/delhi",
-      "lang": "en"
+      "lang": "en",
+      "title": "Delhi",
+      "url": "/read/en/delhi"
     },
     {
-      "url": "/read/ta/delhi",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "டெல்லி",
+      "url": "/read/ta/delhi"
     }
   ],
-  "sections": [
-    {
-      "title": "",
-      "cardType": "table",
-      "facts": [
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "1484 वर्ग किमी",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "16,787,941",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "UTC+5:30",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "प्राचीन और प्रारंभिक मध्ययुगीन काल",
-          "id": 0,
-          "note": "6 वीं शताब्दी ई.पू.",
-          "value": {
-            "label": "कम से कम 6वीं शताब्दी ईसा पूर्व के बाद से दिल्ली में लगातार निवास का प्रमाण है। सबसे पुराने वास्तुशिल्प अवशेष मौर्य काल से मिलते हैं। दिल्ली में आठ प्रमुख शहरों के अवशेष खोजे गए हैं।",
-            "facts": []
-          }
-        },
-        {
-          "label": "मध्ययुगीन काल",
-          "id": 1,
-          "note": "11वीं -14वीं शताब्दी ईस्वी",
-          "value": {
-            "label": "दिल्ली सल्तनत की नींव रखी गई थी। दिल्ली इस अवधि के दौरान सूफीवाद का एक प्रमुख केंद्र था।",
-            "facts": []
-          }
-        },
-        {
-          "label": "मुग़ल काल",
-          "id": 1,
-          "note": "15वीं-18वीं सदी ईस्वी",
-          "value": {
-            "label": "बाबर ने भारत पर आक्रमण किया और दिल्ली और आगरा से शासन करने वाले मुगल साम्राज्य की स्थापना की।",
-            "facts": []
-          }
-        },
-        {
-          "label": "उपनिवेश काल",
-          "id": 1,
-          "note": "19वीं शताब्दी",
-          "value": {
-            "label": "1857 के सिपाही विद्रोह के दौरान, सीज ऑफ दिल्ली के नाम से जानी जाने वाली लड़ाई के बाद दिल्ली ईस्ट इंडिया कंपनी की सेनाओं के अधीन हो गई। यह शहर 1858 में ब्रिटिश सरकार के सीधे नियंत्रण में आ गया।",
-            "facts": []
-          }
-        }
-      ]
-    },
-    {
-      "cardType": "avatar",
-      "label": "दिल्ली भारत के भीतर एक केंद्र शासित प्रदेश है, जिसकी अपनी विधानसभा, उच्च न्यायालय और एक मुख्यमंत्री की अध्यक्षता वाली एक कार्यकारी परिषद है।",
-      "facts": [
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "",
-      "cardType": "simple",
-      "facts": [
-        {
-          "label": "ऑस्ट्रेलिया",
-          "value": {
-            "label": "दिल्ली भारत के उत्तरी भाग में यमुना नदी के तट पर स्थित है।",
-            "image": {
-              "url": "/static/images/delhi/Delhi_aerial_photo_04-2016_img11.jpg",
-              "altText": "Image of Delhi aerial photo 04 2016 img11"
-            }
-          }
-        }
-      ]
-    }
-  ]
+  "sections": []
 }

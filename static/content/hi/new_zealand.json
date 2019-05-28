@@ -1,186 +1,23 @@
 {
-  "id": "G8",
   "title": "न्यूजीलैंड",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/New_Zealand",
   "summary": "न्यूजीलैंड दक्षिण पश्चिमी प्रशांत महासागर में एक संप्रभु द्वीप देश है। भौगोलिक रूप से देश में दो मुख्य भूभाग और लगभग 600 छोटे द्वीप हैं। न्यूजीलैंड ऑस्ट्रेलिया से लगभग 2,000 किलोमीटर पूर्व में स्थित है।",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Zealand",
   "coverImage": {
     "url": "/static/images/new_zealand/Lake_Gunn.jpg",
-    "altText": "Image of Lake Gunn"
+    "altText": "Image of न्यूजीलैंड",
+    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
   },
   "translations": [
     {
-      "title": "Australia",
-      "url": "/read/en/new_zealand",
-      "lang": "en"
+      "lang": "en",
+      "title": "New Zealand",
+      "url": "/read/en/new_zealand"
     },
     {
-      "url": "/read/ta/new_zealand",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "நியூசிலாந்து",
+      "url": "/read/ta/new_zealand"
     }
   ],
-  "sections": [
-    {
-      "title": "",
-      "cardType": "table",
-      "facts": [
-        {
-          "label": "ANZAC दिवस",
-          "value": {
-            "label": "25 अप्रैल",
-            "url": ""
-          }
-        },
-        {
-          "label": "वैतांगी दिवस",
-          "value": {
-            "label": "6 February",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "268,021 वर्ग किमी",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "4,960,350 (2019 अनुमान)",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "एटोरिया",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "वेलिंगटन",
-            "url": ""
-          }
-        },
-        {
-          "value": {
-            "label": "ऑकलैंड",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "UTC+12 (UTC+13, ग्रीष्म)",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "प्रारंभिक बस्ती",
-          "id": 0,
-          "note": "13 वीं शताब्दी ई.पू.",
-          "value": {
-            "label": "न्यूज़ीलैंड मनुष्यों द्वारा बसे अंतिम प्रमुख भूस्थलों में से एक था। इसे पॉलिनेशियनों द्वारा खोजा और बसाया गया, जिन्होंने एक विशिष्ट माओरी संस्कृति विकसित की। सबसे वर्तमान विश्वसनीय सबूत दृढ़ता से इंगित करता है कि न्यूजीलैंड का प्रारंभिक आवासन 1280 - 1320 ईस्वी में हुआ।",
-            "facts": []
-          }
-        },
-        {
-          "label": "प्रारंभिक यूरोपीय अन्वेषण",
-          "id": 1,
-          "note": "16वीं -18वीं सदी ईस्वी",
-          "value": {
-            "label": "न्यूजीलैंड पहुंचने वाले पहले यूरोपीय डच अन्वेषक हाबिल तस्मान और उनका कर्मी दल था। यूरोपीय लोग 1769 तक न्यूजीलैंड वापस नहीं आए, जब ब्रिटिश खोजकर्ता जेम्स कुक ने लगभग पूरे समुद्र तट की मैपिंग की। कई यूरोपीय और उत्तरी अमेरिकी जहाज़ें व्यापार के लिए पीछे-पीछे आए। 1801 और 1840 के बीच, अंतर-आदिवासी युद्धों के दौरान कई माओरी निवासी मारे गए और इस तरह जनसंख्या में गिरावट आई।",
-            "facts": []
-          }
-        },
-        {
-          "label": "प्रारंभिक यूरोपीय बस्ती",
-          "id": 1,
-          "note": "आरंभिक 19वीं सदी ईस्वी",
-          "value": {
-            "label": "19वीं शताब्दी के शुरुआती दशकों में यूरोपीय बस्तियों में वृद्धि हुई। 1840 में माओरी प्रमुखों और अंग्रेजों के बीच वतांगी की संधि पर हस्ताक्षर करने के साथ, बाद में क्वीन विक्टोरिया के तहत एक उपनिवेश के रूप में न्यूजीलैंड की स्थापना हुई। संधि की विसंगतियों के कारण असहमति और सशस्त्र संघर्ष उत्पन्ऩ हुए।",
-            "facts": []
-          }
-        },
-        {
-          "label": "उपनिवेश काल",
-          "id": 1,
-          "note": "परवर्ती 19वीं सदी",
-          "value": {
-            "label": "सबसे पहले न्यूजीलैंड को न्यू साउथ वेल्स की कॉलोनी के हिस्से के रूप में ऑस्ट्रेलिया से प्रशासित किया गया था जब तक कि 1841 में न्यूजीलैंड अपने आप में एक ब्रिटिश कॉलोनी नहीं बन गया। कुछ 400,000 आबादकार ब्रिटेन से आए, जिनमें से 300,000 स्थायी रूप से बसे रहे।",
-            "facts": []
-          }
-        }
-      ]
-    },
-    {
-      "cardType": "avatar",
-      "label": "न्यूजीलैंड की संसद में विधायी शक्ति है और इसमें महारानी और प्रतिनिधि सभा शामिल हैं। प्रतिनिधि सभा लोकतांत्रिक रूप से चुनी जाती है और बहुमत से सीटों के साथ पार्टी या गठबंधन से सरकार बनाई जाती है।",
-      "facts": [
-        {
-          "value": {
-            "label": "जैकिंडा अर्डर्न",
-            "url": "",
-            "image": {
-              "url": "/static/images/new_zealand/Jacinda_Ardern_at_the_University_of_Auckland_(cropped).jpg",
-              "altText": "Image of Jacinda Ardern at the University of Auckland (cropped)"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "डेम हेलेन विंकेलमैन",
-            "url": "",
-            "image": {
-              "url": "/static/images/new_zealand/Helen_Winkelmann_2014_(cropped).jpg",
-              "altText": "Image of Helen Winkelmann 2014 (cropped)"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "",
-      "cardType": "simple",
-      "facts": [
-        {
-          "label": "ऑस्ट्रेलिया",
-          "value": {
-            "label": "न्यूजीलैंड दक्षिणी गोलार्ध में स्थित है और दो मुख्य द्वीपों और कई छोटे द्वीपों से बना है। लगभग 400 किलोमीटर की अधिकतम चौड़ाई के साथ न्यूज़ीलैंड लंबा और संकीर्ण है, जिसका  लगभग 15,000 किमी का समुद्र तट है।",
-            "image": {
-              "url": "/static/images/new_zealand/Emerald_Lakes,_New_Zealand.jpg",
-              "altText": "Image of Emerald Lakes, New Zealand"
-            }
-          }
-        }
-      ]
-    }
-  ]
+  "sections": []
 }

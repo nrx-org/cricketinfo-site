@@ -1,186 +1,23 @@
 {
-  "id": "G3",
   "title": "India",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/India",
   "summary": "India, also known as the Republic of India is a country in South Asia. It is the seventh largest country by area with more than 1.3 billion people. It is the second most populous country as well as the most populous democracy in the world.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/India",
   "coverImage": {
     "url": "/static/images/india/India_topo_big.jpg",
-    "altText": "Image of India topo big"
+    "altText": "Image of India",
+    "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>. Subject to <a href=\"https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer\" class=\"extiw\" title=\"en:Wikipedia:General disclaimer\">disclaimers</a>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license. Subject to <a href=\"https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer\" class=\"extiw\" title=\"en:Wikipedia:General disclaimer\">disclaimers</a>.</p>"
   },
   "translations": [
     {
-      "title": "",
-      "url": "/read/hi/india",
-      "lang": "hi"
+      "lang": "hi",
+      "title": "भारत",
+      "url": "/read/hi/india"
     },
     {
-      "url": "/read/ta/india",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "இந்தியா",
+      "url": "/read/ta/india"
     }
   ],
-  "sections": [
-    {
-      "title": "About",
-      "cardType": "table",
-      "facts": [
-        {
-          "label": "Independence Day",
-          "value": {
-            "label": "15 August 1947",
-            "url": ""
-          }
-        },
-        {
-          "label": "Republic Day",
-          "value": {
-            "label": "26 January 1950",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Total Area",
-          "value": {
-            "label": "3287263 km²",
-            "url": ""
-          }
-        },
-        {
-          "label": "Population",
-          "value": {
-            "label": "1324171354 (2016 estimate)",
-            "url": ""
-          }
-        },
-        {
-          "label": "Other names",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Capital",
-          "value": {
-            "label": "New Delhi",
-            "url": ""
-          }
-        },
-        {
-          "value": {
-            "label": "Mumbai",
-            "url": ""
-          }
-        },
-        {
-          "label": "Timezone(s)",
-          "value": {
-            "label": "UTC +05:30",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "History",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "Ancient India",
-          "id": 0,
-          "note": "- 600 CE",
-          "value": {
-            "label": "The Indus Valley Civilisation was the first urban culture in South Asia.",
-            "facts": []
-          }
-        },
-        {
-          "label": "Medieval India",
-          "id": 1,
-          "note": "600 - 1500 CE",
-          "value": {
-            "label": "In the 6th and 7th centuries, the first devotional hymns were created in the Tamil language. They were imitated all over India and led to both the resurgence of Hinduism and the development of all modern languages of the subcontinent.",
-            "facts": []
-          }
-        },
-        {
-          "label": "Early modern India",
-          "id": 1,
-          "note": "1500 - 1850 CE",
-          "value": {
-            "label": " The relative peace maintained by the Mughal Empire during much of the 17th century was a factor in India's economic expansion. By the early 18th century a number of European trading companies had established coastal outposts.",
-            "facts": []
-          }
-        },
-        {
-          "label": "British rule",
-          "id": 1,
-          "note": "1858 - 1947 CE",
-          "value": {
-            "label": "The Indian Rebellion of 1857 led to the dissolution of the East India Company and the direct administration of India by the British government.",
-            "facts": []
-          }
-        }
-      ]
-    },
-    {
-      "cardType": "avatar",
-      "label": "India has a parliamentary republic with a multi-party system.",
-      "facts": [
-        {
-          "value": {
-            "label": "Narendra Modi",
-            "url": "",
-            "image": {
-              "url": "/static/images/india/PM_Modi_Portrait(cropped).jpg",
-              "altText": "Image of PM Modi Portrait(cropped)"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "Ram Nath Kovind",
-            "url": "",
-            "image": {
-              "url": "/static/images/india/Ram_Nath_Kovind_official_portrait.jpg",
-              "altText": "Image of Ram Nath Kovind official portrait"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "Ranjan Gogoi",
-            "url": "",
-            "image": {
-              "url": "/static/images/india/CJI_Ranjan_gogoi.jpg",
-              "altText": "Image of CJI Ranjan gogoi"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Geography",
-      "cardType": "simple",
-      "facts": [
-        {
-          "label": "Australia",
-          "value": {
-            "label": "India comprises the bulk of the Indian subcontinent, lying atop the Indian tectonic plate, a part of the Indo-Australian Plate.",
-            "image": {
-              "url": "/static/images/india/India_topo_big.jpg",
-              "altText": "Image of India topo big"
-            }
-          }
-        }
-      ]
-    }
-  ]
+  "sections": []
 }

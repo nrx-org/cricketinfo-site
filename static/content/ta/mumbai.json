@@ -1,186 +1,23 @@
 {
-  "id": "G2",
   "title": "மும்பை",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Mumbai",
   "summary": "மும்பை, பம்பாய் என்றும் அறியப்படுகிறது, 1995ஆம் ஆண்டு வரை இதுவே அதன் அதிகாரப்பூர்வ பெயராகவும் இருந்தது, இது மஹாராஷ்டிரா மாநிலத்தின் தலைநகரம் ஆகும். 2011 ஆம் ஆண்டு வரை இதுவே இந்தியாவின் மிகப் பெரிய மக்கள்தொகையைக் கொண்ட நகரமாகவும் இருந்துவந்துள்ளது.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mumbai",
   "coverImage": {
     "url": "/static/images/mumbai/Victoria_Terminus_-_CST.JPG",
-    "altText": "Image of Victoria Terminus   CST"
+    "altText": "Image of மும்பை",
+    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
   },
   "translations": [
     {
-      "title": "ऑस्ट्रेलिया",
-      "url": "/read/hi/mumbai",
-      "lang": "hi"
+      "lang": "en",
+      "title": "Mumbai",
+      "url": "/read/en/mumbai"
     },
     {
-      "url": "/read/en/mumbai",
-      "title": "Australia",
-      "lang": "en"
+      "lang": "hi",
+      "title": "मुंबई",
+      "url": "/read/hi/mumbai"
     }
   ],
-  "sections": [
-    {
-      "title": "",
-      "cardType": "table",
-      "facts": [
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "4355 சதுர கிமீ",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "20,748,395",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "Bombay, City of Seven Islands, City of Dreams, Gateway to India, Hollywood of India",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "UTC+5:30",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "Early history",
-          "id": 0,
-          "note": "அறியப்படவில்லை",
-          "value": {
-            "label": "பம்பாய், பரேல், மஸாகோன், மஹிம், கொலாபா, வோர்லி மற்றும் ஓல்ட் வுமன்’ஸ் ஐலேண்ட் (லிட்டில் கொலாபா என்றும் அழைக்கப்படும்) ஆகிய ஏழு தீவுக்கூட்டங்களைக் கொண்ட நிலப்பரப்பில் இருந்து மும்பை உருவானது. இந்த தீவுகளில் எப்போது மனிதர்கள் வாழத் தொடங்கினார்கள் என்பது சரியாக அறியப்படவில்லை.",
-            "facts": []
-          }
-        },
-        {
-          "label": "போர்த்துகீசிய ஆட்சி",
-          "id": 1,
-          "note": "1500கள்",
-          "value": {
-            "label": "போர்ச்சுகீசியர்கள் தங்களது ரோமன் கத்தோலிக்க மத அடித்தளத்தை பம்பாயில் நிறுவி வளர்ப்பதில் தீவிர ஈடுபாடு கொண்டிருந்தனர். அவர்கள் அப்பகுதி தீவுகளைப் பல்வேறு பெயர்களில் அழைத்தனர். இறுதியில் அது பம்பாயம் என்று எழுதப்பட்டது.",
-            "facts": []
-          }
-        },
-        {
-          "label": "ஆங்கிலேயர் ஆட்சி",
-          "id": 1,
-          "note": "17 ஆம் நூற்றாண்டு",
-          "value": {
-            "label": "பம்பாய் பகுதியில் அதன் இயற்கையான துறைமுகம் மற்றும் தனித்துவமான நிலப்பரப்பு காரணமாக ஆங்கிலேயர்கள் போர்ச்சுகீசியர்களுடன் அந்தப் பகுதியைக் கைப்பற்றி போராடினர். 17 ஆம் நூற்றாண்டின் நடுப்பகுதியில், டச்சுப் பேரரசு ஆங்கிலேயர்களை மேற்கத்திய இந்தியாவில் ஒரு நிலையான இடத்தைப் பெறுவதற்குக் கட்டாயப்படுத்தியது.",
-            "facts": []
-          }
-        },
-        {
-          "label": "சுதந்திர இந்தியா",
-          "id": 1,
-          "note": "1947",
-          "value": {
-            "label": "1947 ஆம் ஆண்டு இந்தியா சுதந்திரம் அடைந்த பின்னர், இந்தியா தக்க வைத்துக்கொண்ட பம்பாய் சமஸ்தானத்தின் கீழ் இருந்த பகுதிகள் பம்பாய் மாகாணமாக மறுசீரமைக்கப்பட்டது. ",
-            "facts": []
-          }
-        }
-      ]
-    },
-    {
-      "cardType": "avatar",
-      "label": "இது முன் காலத்தில் பாம்பே முனிசிபல் கார்பரேசன் என்று அழைக்கப்பட்ட மும்பையின் முனிசிபல் கார்பரேசனால் (MCGM) (ப்ரிகான் மும்பை முனிசிபல் கார்பரேசன் எனவும் அழைக்கப்படும்) நிர்வகிக்கப்படுகிறது.MCGM நகர மக்களுக்குத் தேவையான அடிப்படை வசிதிகள் மற்றும்கட்டமைப்புகளை வழங்குகிறது. கவுன்சிலர்களால் அவர்களுள் ஒருவர் இரண்டரை காலக் கட்டத்திற்கு மேயராக மறைமுக வாக்களிப்பின் மூலம் தேர்ந்தெடுக்கப்படுகிறார்.",
-      "facts": [
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "",
-      "cardType": "simple",
-      "facts": [
-        {
-          "label": "ஆஸ்திரேலியா",
-          "value": {
-            "label": "இந்தியாவின் மேற்கு கடற்கரை பகுதியில் உள்ள கொங்கன் எனப்படும் கடற்கரை மாகாணத்தில், உலாஸ் நதி கடலில் கலக்கும் இடத்தில் மும்பை நகரம் அமைந்துள்ளது. இது தானே மாவட்டத்தின் ஒரு பகுதியாக உள்ள சால்செட்டே தீவில் (சாஸ்தி தீவு) அமைந்துள்ளது. மும்பை மேற்குப் பகுதியில் அரபிக் கடலால் சூழப்பட்டுள்ளது. நகரத்தின் பல பகுதிகள் கடல் மட்டத்திலிருந்து குறைந்தளவு உயரத்திலேயே உள்ளன.",
-            "image": {
-              "url": "/static/images/mumbai/Ghodbunder2.jpg",
-              "altText": "Image of Ghodbunder2"
-            }
-          }
-        }
-      ]
-    }
-  ]
+  "sections": []
 }

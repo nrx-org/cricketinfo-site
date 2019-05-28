@@ -1,186 +1,23 @@
 {
-  "id": "G2",
   "title": "Mumbai",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Mumbai",
   "summary": "Mumbai, also known as Bombay, the official name until 1995, is the capital city of the Indian state of Maharashtra. As of 2011 it is the most populous city in India.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mumbai",
   "coverImage": {
     "url": "/static/images/mumbai/Victoria_Terminus_-_CST.JPG",
-    "altText": "Image of Victoria Terminus   CST"
+    "altText": "Image of Mumbai",
+    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
   },
   "translations": [
     {
-      "title": "",
-      "url": "/read/hi/mumbai",
-      "lang": "hi"
+      "lang": "hi",
+      "title": "मुंबई",
+      "url": "/read/hi/mumbai"
     },
     {
-      "url": "/read/ta/mumbai",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "மும்பை",
+      "url": "/read/ta/mumbai"
     }
   ],
-  "sections": [
-    {
-      "title": "About",
-      "cardType": "table",
-      "facts": [
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Total Area",
-          "value": {
-            "label": "4355 km²",
-            "url": ""
-          }
-        },
-        {
-          "label": "Population",
-          "value": {
-            "label": "20,748,395",
-            "url": ""
-          }
-        },
-        {
-          "label": "Other names",
-          "value": {
-            "label": "Bombay, City of Seven Islands, City of Dreams, Gateway to India, Hollywood of India",
-            "url": ""
-          }
-        },
-        {
-          "label": "Capital",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Timezone(s)",
-          "value": {
-            "label": "UTC+5:30",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "History",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "Early history",
-          "id": 0,
-          "note": "Unknown",
-          "value": {
-            "label": "Mumbai is built on what was once an archipelago of seven islands: Isle of Bombay, Parel, Mazagaon, Mahim, Colaba, Worli, and Old Woman's Island (also known as Little Colaba). It is not exactly known when these islands were first inhabited.",
-            "facts": []
-          }
-        },
-        {
-          "label": "Portuguese rule",
-          "id": 1,
-          "note": "1500s",
-          "value": {
-            "label": "The Portuguese were actively involved in the foundation and growth of their Roman Catholic religious orders in Bombay. They called the islands by various names, which finally took the written form Bombaim.",
-            "facts": []
-          }
-        },
-        {
-          "label": "English rule",
-          "id": 1,
-          "note": "17th Century",
-          "value": {
-            "label": "The English were in constant struggle with the Portuguese vying for  Bombay, as they recognised its strategic natural harbour and its natural isolation from land-attacks. By the middle of the 17th century the growing power of the Dutch Empire forced the English to acquire a station in western India.",
-            "facts": []
-          }
-        },
-        {
-          "label": "Independent India",
-          "id": 1,
-          "note": "1947",
-          "value": {
-            "label": "After India's independence in 1947, the territory of the Bombay Presidency retained by India was restructured into Bombay State. ",
-            "facts": []
-          }
-        }
-      ]
-    },
-    {
-      "cardType": "avatar",
-      "label": "It is administered by the Municipal Corporation of Greater Mumbai (MCGM) (sometimes referred to as the Brihanmumbai Municipal Corporation), formerly known as the Bombay Municipal Corporation (BMC). The MCGM is in charge of the civic and infrastructure needs of the metropolis. The Mayor is chosen through indirect election by the councillors from among themselves for a term of two and half years.",
-      "facts": [
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Geography",
-      "cardType": "simple",
-      "facts": [
-        {
-          "label": "Australia",
-          "value": {
-            "label": "Mumbai lies at the mouth of the Ulhas River on the western coast of India, in the coastal region known as the Konkan. It sits on Salsette Island (Sashti Island), which it partially shares with the Thane district. Mumbai is bounded by the Arabian Sea to the west. Many parts of the city lie just above sea level.",
-            "image": {
-              "url": "/static/images/mumbai/Ghodbunder2.jpg",
-              "altText": "Image of Ghodbunder2"
-            }
-          }
-        }
-      ]
-    }
-  ]
+  "sections": []
 }

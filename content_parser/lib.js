@@ -1,11 +1,15 @@
 const fs = require("fs");
 const url = require("url");
+const urlParse = require("url-parse");
 const parse = require("csv-parse/lib/sync");
 const fetch = require("isomorphic-fetch");
 const cheerio = require("cheerio");
 const unescape = require("unescape");
+const debug = require("debug")(
+  "wikipedia-client-prototypes:content_parser:lib"
+);
 
-const isUrlValid = u => url.parse(u).protocol !== null;
+const isUrlValid = u => !!urlParse(u).host;
 
 const findIdMapEntryById = (idMap, id) => {
   return idMap.find(entry => entry.id === id);
@@ -86,6 +90,7 @@ const makeServerSideImageUrl = (imageFileName, articleSlug) =>
   `/static/images/${articleSlug}/${imageFileName}`;
 
 const downloadImageAndFillAttributions = async (imageObject, articleSlug) => {
+  debug("Downloading image %o for article %s", imageObject, articleSlug);
   // Operate on a copy.
   const localImageObject = {
     ...imageObject
@@ -102,7 +107,7 @@ const downloadImageAndFillAttributions = async (imageObject, articleSlug) => {
 
   // If it's a link to a Wikipedia section, we need to rewrite the url and
   // point it to the image details page.
-  const parsedUrl = url.parse(localImageObject.url);
+  const parsedUrl = urlParse(localImageObject.url);
   const mediaPrefix = "#/media/File:";
   if (
     parsedUrl.hostname === "en.wikipedia.org" &&
@@ -179,7 +184,7 @@ const downloadImageAndFillAttributions = async (imageObject, articleSlug) => {
     return downloadImageAndFillAttributions(
       {
         ...localImageObject,
-        url: makeServerSideImageUrl(imageFileName, articleSlug),
+        url: imageUrl,
         license: licenseText
       },
       articleSlug

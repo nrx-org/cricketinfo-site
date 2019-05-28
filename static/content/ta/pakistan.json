@@ -1,186 +1,23 @@
 {
-  "id": "G5",
   "title": "பாகிஸ்தான்",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Pakistan",
   "summary": "அதிகாரப்பூர்வமாக பாகிஸ்தான் இஸ்லாமிய குடியரசு என்றழைக்கப்படும் பாகிஸ்தானானது தெற்கு ஆசியாவில் அமையபெற்றுள்ள நாடாகும். 212,742,631 க்கும் அதிகமான மக்கள் தொகையைக் கொண்டு இந்நாடு உலகின் ஆறாவது மிகப்பெரிய நாடாக உள்ளது.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pakistan",
   "coverImage": {
-    "url": "/static/images/pakistan/Parliament_House,_Islamabad_by_Usman_Ghani.jpg",
-    "altText": "Image of Parliament House, Islamabad by Usman Ghani"
+    "url": "/static/images/pakistan/Parliament_House%2C_Islamabad_by_Usman_Ghani.jpg",
+    "altText": "Image of பாகிஸ்தான்",
+    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
   },
   "translations": [
     {
-      "title": "ऑस्ट्रेलिया",
-      "url": "/read/hi/pakistan",
-      "lang": "hi"
+      "lang": "en",
+      "title": "Pakistan",
+      "url": "/read/en/pakistan"
     },
     {
-      "url": "/read/en/pakistan",
-      "title": "Australia",
-      "lang": "en"
+      "lang": "hi",
+      "title": "पाकिस्तान",
+      "url": "/read/hi/pakistan"
     }
   ],
-  "sections": [
-    {
-      "title": "",
-      "cardType": "table",
-      "facts": [
-        {
-          "label": "சுதந்திர தினம்\n",
-          "value": {
-            "label": "25 ஏப்ரல்",
-            "url": ""
-          }
-        },
-        {
-          "label": "குடியரசு தினம்\n",
-          "value": {
-            "label": "23 March",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "881913 சதுர கிமீ",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "212742631 (2017 மக்கள் தொகை கணக்கெடுப்பின்படி)",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "இஸ்லாமாபாத்",
-            "url": ""
-          }
-        },
-        {
-          "value": {
-            "label": "கராச்சி",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "UTC+5",
-            "url": ""
-          }
-        }
-      ]
-    },
-    {
-      "title": "",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "Early and medieval age",
-          "id": 0,
-          "note": "கிமு 2,800 - 1,800",
-          "value": {
-            "label": "தெற்காசியாவின் பழமையான மனித நாகரீகங்களில் சில தற்போதைய பாகிஸ்தானின் சில பகுதிகளில் தோன்றின. சிந்து நிலப்பகுதி, நியோலிதிக் மேர்கார் மற்றும் ஹரப்பா, மொகஞ்சதாரோவில் வெண்கல காலத்தில் உருவான சிந்துசமவெளி நாகரீகம் உள்ளிட்ட பல்வேறு பண்டைய கலாச்சாரங்கள் உருவான இடமாகும்.",
-            "facts": []
-          }
-        },
-        {
-          "label": "வேத காலம்",
-          "id": 1,
-          "note": "கிபி 1500-500",
-          "value": {
-            "label": "வேத காலம் இந்திய-ஆரிய கலாச்சாரமாக வகைப்படுத்தப்பட்டுள்ளது. இந்த காலத்தில் இந்து மதம் தொடர்புடைய பழங்கால புனித நூலான வேதங்கள் இயற்றப்பட்டன. அந்தப் பகுதியில் இந்தக் கலாச்சாரம் பின்னர் நன்கு வேரூன்றியது. அதனைத் தொடர்ந்து அந்தப் பகுதியை மெளரியப் பேரரசு உட்பட அடுத்தடுத்து தொன்மையான பேரரசுகள் ஆட்சி புரிந்தன.",
-            "facts": []
-          }
-        },
-        {
-          "label": "பண்டைய ராஜ்ஜியங்கள்",
-          "id": 1,
-          "note": "கிமு 500 - 100",
-          "value": {
-            "label": "அடுத்தடுத்து மெளரிய சாம்ராஜ்யம் உட்பட பல சாம்ராஜ்யங்களும் பேரரசுகளும் இப்பகுதியை ஆட்சி செய்தன. பாக்திரியாவின் டிமெட்ரியஸால் நிறுவப்பட்ட, காந்தாரம் மற்றும் பஞ்சாப்பை உள்ளடக்கியிருந்த இந்தோ-கிரேக்க இராஜ்ஜியத்தில் கிரேக்க-பெளத்த கலாச்சாரம் வளர்ந்தது. இந்த காலகட்டத்தில் உலகில் ஆரம்ப காலத்தில் உருவாக்கப்பட்ட பல்கலைக்கழகம் மற்றும் உயர்கல்வி மையங்களில் ஒன்றான தக்ஷசீலம் உருவானது. ",
-            "facts": []
-          }
-        },
-        {
-          "label": "முகலாயர் காலம்",
-          "id": 1,
-          "note": "கிபி 1526 - 1857",
-          "value": {
-            "label": "முகலாயர்கள் பாரசீக இலக்கியத்தையும் உயர் கலாச்சாரத்தையும் அறிமுகப்படுத்தி, இப்பகுதியில இந்தோ-பெர்சிய கலாச்சாரத்தின் வேர்களை நிறுவினர். 16 ஆம் நூற்றாண்டின் முற்பகுதியில் முகலாய சாம்ராஜ்யத்தின் கீழ் முஸ்லீம் பேரரசர்கள் ஆட்சிபுரிந்தனர். 18 ஆம் நூற்றாண்டின் முற்பகுதியில் ஐரோப்பிய செல்வாக்கு அதிகரித்ததன் காரணமாக மொகலாய சாம்ராஜ்ஜியம் மெல்ல மெல்ல முடிவுக்கு வந்தது.",
-            "facts": []
-          }
-        }
-      ]
-    },
-    {
-      "cardType": "avatar",
-      "label": "பாகிஸ்தான் பலகட்சி பாராளுமன்ற அமைப்பைக் கொண்ட ஒரு இஸ்லாமிய குடியரசு நாடு. தேசிய சட்டமன்ற உறுப்பினர்கள் குடிமக்களால் தேர்ந்தெடுக்கப்பட்டனர். தேசிய சட்டமன்றத்தில் பெரும்பான்மையைக் கொண்ட கட்சியின் தலைவர் கூட்டணித் தலைவர் பிரதமராகப் பொறுப்பு வகிக்கிறார். ",
-      "facts": [
-        {
-          "value": {
-            "label": "இம்ரான் கான்",
-            "url": "",
-            "image": {
-              "url": "/static/images/pakistan/Mike_Pompeo_with_Imran_Khan_in_Islamabad_-_2018_(29559549217)_(cropped).jpg",
-              "altText": "Image of Mike Pompeo with Imran Khan in Islamabad   2018 (29559549217) (cropped)"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "ஆரிஃப் அல்வீ",
-            "url": "",
-            "image": {
-              "url": "/static/images/pakistan/President_of_Pakistan_Dr_Arif_Alvi.jpg",
-              "altText": "Image of President of Pakistan Dr Arif Alvi"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "",
-      "cardType": "simple",
-      "facts": [
-        {
-          "label": "ஆஸ்திரேலியா",
-          "value": {
-            "label": "பாகிஸ்தான் மூன்று முக்கிய புவியியல் பகுதிகளாக பிரிக்கப்பட்டுள்ளது: வடக்கு மலைப்பகுதிகள், சிந்து சமவெளி மற்றும் பலூசிஸ்தான் பீடபூமி.",
-            "image": {
-              "url": "/static/images/pakistan/K2_2006b.jpg",
-              "altText": "Image of K2 2006b"
-            }
-          }
-        }
-      ]
-    }
-  ]
+  "sections": []
 }
