@@ -21,21 +21,27 @@ const csvExports = {
   en: {
     facts: { path: "./csv/home_facts.en.csv" },
     quiz: { path: "./csv/home_quiz.en.csv" },
-    main: { path: "./csv/home_strategy.csv" }
+    strategy: { path: "./csv/home_strategy.csv" },
+    popular_articles: { path: "./csv/home_popular_articles.csv" },
+    interesting_articles: { path: "./csv/home_interesting_articles.csv" }
   },
   hi: {
     facts: { path: "./csv/home_facts.hi.csv" },
     quiz: { path: "./csv/home_quiz.hi.csv" },
-    main: { path: "./csv/home_strategy.csv" }
+    strategy: { path: "./csv/home_strategy.csv" },
+    popular_articles: { path: "./csv/home_popular_articles.csv" },
+    interesting_articles: { path: "./csv/home_interesting_articles.csv" }
   },
   ta: {
     facts: { path: "./csv/home_facts.ta.csv" },
     quiz: { path: "./csv/home_quiz.ta.csv" },
-    main: { path: "./csv/home_strategy.csv" }
+    strategy: { path: "./csv/home_strategy.csv" },
+    popular_articles: { path: "./csv/home_popular_articles.csv" },
+    interesting_articles: { path: "./csv/home_interesting_articles.csv" }
   }
 };
 
-// Home page strategy (home_main.[lang].csv)
+// Home page strategy (home_strategy.[lang].csv)
 const HOME_STRATEGY_DATE = "Date";
 const HOME_STRATEGY_TIME = "Time";
 const HOME_STRATEGY_VENUE = "Venue";
@@ -67,19 +73,48 @@ const HOME_FACTS_READ_MORE_TEXT = "Read More Text"; // Modified column name
 const HOME_FACTS_LINKING_ARTICLE = "Linking article";
 const HOME_FACTS_ARTICLE_ID = "Article ID";
 
+const HOME_POPULAR_ARTICLES_ARTICLEID = "Article Code";
+const HOME_INTERESTING_ARTICLES_ARTICLEID = "Article Code";
+
+const groupArr = (data, n) => {
+  let group = [];
+  for (let i = 0, j = 0; i < data.length; i++) {
+    if (i >= n && i % n === 0) j++;
+    group[j] = group[j] || [];
+    group[j].push(data[i]);
+  }
+  return group;
+};
+
 Object.keys(csvExports).forEach(async lang => {
   let homeJSON = require(`../static/content/home_schema.json`) || {};
 
   const factsFileContent = fs.readFileSync(csvExports[lang].facts.path, "utf8");
   const quizFileContent = fs.readFileSync(csvExports[lang].quiz.path, "utf8");
   const strategyFileContent = fs.readFileSync(
-    csvExports[lang].main.path,
+    csvExports[lang].strategy.path,
+    "utf8"
+  );
+  const popularArticlesFileContent = fs.readFileSync(
+    csvExports[lang].popular_articles.path,
+    "utf8"
+  );
+  const interestingArticlesFileContent = fs.readFileSync(
+    csvExports[lang].interesting_articles.path,
     "utf8"
   );
 
   let factRecords = parse(factsFileContent, { columns: true, delimiter: "," });
   const quizRecords = parse(quizFileContent, { columns: true, delimiter: "," });
   const strategyRecords = parse(strategyFileContent, {
+    columns: true,
+    delimiter: ","
+  });
+  const popularArticlesRecords = parse(popularArticlesFileContent, {
+    columns: true,
+    delimiter: ","
+  });
+  const interestingArticlesRecords = parse(interestingArticlesFileContent, {
     columns: true,
     delimiter: ","
   });
@@ -143,8 +178,6 @@ Object.keys(csvExports).forEach(async lang => {
           strategyRecord[eval(`HOME_STRATEGY_${type}_2`)]
         ];
 
-      console.log(arrayToCheck);
-
       if (arrayToCheck.indexOf(id) > -1) {
         let recordDateString = strategyRecord[HOME_STRATEGY_DATE];
         if (!recordDateString.length) {
@@ -204,12 +237,6 @@ Object.keys(csvExports).forEach(async lang => {
       lang
     );
 
-    console.log(
-      getDatesForIDFromStrategySheet(
-        quizRecord[HOME_QUIZ_QNO],
-        "QUIZ_OF_THE_DAY"
-      )
-    );
     return {
       label: quizRecord[HOME_QUIZ_QUESTIONS],
       id: getSluggedTitle(quizRecord[HOME_QUIZ_QUESTIONS]),
@@ -245,6 +272,64 @@ Object.keys(csvExports).forEach(async lang => {
         : null
     };
   });
+
+  homeJSON.popularArticles.columns = groupArr(
+    popularArticlesRecords.map(popularArticlesRecord => {
+      const articleInfo = getCardInfoFromId(
+        idMap,
+        popularArticlesRecord[HOME_POPULAR_ARTICLES_ARTICLEID],
+        lang
+      );
+
+      return articleInfo
+        ? {
+            label: articleInfo.title,
+            id: popularArticlesRecord[HOME_POPULAR_ARTICLES_ARTICLEID],
+            url: articleInfo.url,
+            value: {
+              label: articleInfo.summary,
+              image: {
+                url: articleInfo.imageURL,
+                altText: `Image for ${articleInfo.title}`,
+                license:
+                  "Creative Commons Attribution-Share Alike 4.0 International",
+                licenseUrl:
+                  "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+              }
+            }
+          }
+        : null;
+    }),
+    4
+  );
+
+  homeJSON.interestingArticles = interestingArticlesRecords.map(
+    interestingArticlesRecord => {
+      const articleInfo = getCardInfoFromId(
+        idMap,
+        interestingArticlesRecord[HOME_INTERESTING_ARTICLES_ARTICLEID],
+        lang
+      );
+      return articleInfo
+        ? {
+            label: articleInfo.title,
+            id: interestingArticlesRecord[HOME_INTERESTING_ARTICLES_ARTICLEID],
+            value: {
+              url: articleInfo.url,
+              label: articleInfo.summary,
+              image: {
+                url: articleInfo.imageURL,
+                altText: `Image for ${articleInfo.title}`,
+                license:
+                  "Creative Commons Attribution-Share Alike 4.0 International",
+                licenseUrl:
+                  "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+              }
+            }
+          }
+        : null;
+    }
+  ).filter(Boolean);
 
   fs.writeFileSync(
     `./static/content/${lang}/home.json`,

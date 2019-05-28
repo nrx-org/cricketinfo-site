@@ -263,337 +263,708 @@
     "id": 1,
     "columns": [
       [
+        null,
+        null,
         {
-          "label": "India",
-          "id": "0",
-          "url": "/wiki/en/Team_India",
+          "label": "2007 கிரிக்கெட் உலகக் கோப்பை",
+          "id": "P6",
+          "url": "/read/ta/2007_cricket_world_cup",
           "value": {
-            "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-            "url": "/wiki/en/Team_India",
+            "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
             "image": {
-              "url": "/static/images/india.png",
-              "altText": "An image of the Indian flag"
+              "altText": "Image for 2007 கிரிக்கெட் உலகக் கோப்பை",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "England",
-          "id": "1",
+          "label": "2011 கிரிக்கெட் உலகக் கோப்பை",
+          "id": "P7",
+          "url": "/read/ta/2011_cricket_world_cup",
           "value": {
-            "label": "Represents England and Wales in international cricket and drinks too much tea.",
-            "url": "/wiki/en/Team_England",
+            "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
-              "altText": "An image of the English flag"
-            }
-          }
-        },
-        {
-          "label": "Australia",
-          "id": "2",
-          "url": "/wiki/en/Team_Koala",
-          "value": {
-            "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-            "url": "/wiki/en/Team_Koala",
-            "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
-              "altText": "An image of the Australian flag"
-            }
-          }
-        },
-        {
-          "label": "Pakistan",
-          "id": "2",
-          "value": {
-            "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-            "url": "/wiki/en/Team_Rocket",
-            "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
-              "altText": "An image of the Pakistani flag"
+              "altText": "Image for 2011 கிரிக்கெட் உலகக் கோப்பை",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         }
       ],
       [
         {
-          "label": "India",
-          "id": "0",
+          "label": "விராட் கோலி",
+          "id": "O1",
+          "url": "/read/ta/virat_kohli",
           "value": {
-            "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-            "url": "/wiki/en/Team_India",
+            "label": "விராட் கோலி இந்திய கிரிக்கெட் வீரர், அவர் இந்திய அணியின் கேப்டனாக இருக்கிறார்.",
             "image": {
-              "url": "/static/images/india.png",
-              "altText": "An image of the Indian flag"
+              "altText": "Image for விராட் கோலி",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "England",
-          "id": "1",
+          "label": "மகேந்திர சிங் தோனி",
+          "id": "O2",
+          "url": "/read/ta/mahendra_singh_dhoni",
           "value": {
-            "label": "Represents England and Wales in international cricket and drinks too much tea.",
-            "url": "/wiki/en/Team_England",
+            "label": "மகேந்திர சிங் தோனி இந்தியாவைச் சேர்ந்த சர்வதேச கிரிக்கெட் வீரர், அவர் 2007 முதல் 2016 வரை ஒருநாள் போட்டிகளிலும் 2008 முதல் 2014 வரை டெஸ்ட் போட்டிகளிலும் இந்திய கிரிக்கெட் அணியின் கேப்டனாக இருந்திருக்கிறார்.",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
-              "altText": "An image of the English flag"
+              "altText": "Image for மகேந்திர சிங் தோனி",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "Australia",
-          "id": "2",
+          "label": "ரோஹித் ஷர்மா",
+          "id": "O3",
+          "url": "/read/ta/rohit_sharma",
           "value": {
-            "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-            "url": "/wiki/en/Team_Koala",
+            "label": "ரோஹித் ஷர்மா இந்தியாவைச் சேர்ந்த சர்வதேச கிரிக்கெட் வீரர், அவர் இந்திய கிரிக்கெட் அணிக்கு ஒரு நாள் போட்டிகளில் துணை கேப்டனாக இருக்கிறார்.",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
-              "altText": "An image of the Australian flag"
+              "altText": "Image for ரோஹித் ஷர்மா",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "Pakistan",
-          "id": "2",
+          "label": "சிக்கர் தவான்",
+          "id": "O4",
+          "url": "/read/ta/shikhar_dhawan",
           "value": {
-            "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-            "url": "/wiki/en/Team_Rocket",
+            "label": "சிக்கர் தவான் இந்தியாவைச் சேர்ந்த சர்வதேச கிரிக்கெட் வீரர்.",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
-              "altText": "An image of the Pakistani flag"
+              "altText": "Image for சிக்கர் தவான்",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         }
       ],
       [
         {
-          "label": "India",
-          "id": "0",
+          "label": "சச்சின் டெண்டுல்கர்",
+          "id": "O5",
+          "url": "/read/ta/sachin_tendulkar",
           "value": {
-            "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-            "url": "/wiki/en/Team_India",
+            "label": "சச்சின் டெண்டுல்கர் இந்தியாவைச் சேர்ந்த முன்னாள் சர்வதேச கிரிக்கெட் வீரர், கிரிக்கெட் வரலாற்றில் மிகச்சிறந்த பேட்ஸ்மென்களில் ஒருவராகக் கருதப்படுகிறார். சர்வதேச கிரிக்கெட் போட்டிகளில் அவர்தான் அதிகபட்ச ரன்களை எடுத்தவர்.",
             "image": {
-              "url": "/static/images/india.png",
-              "altText": "An image of the Indian flag"
+              "altText": "Image for சச்சின் டெண்டுல்கர்",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "England",
-          "id": "1",
+          "label": "கபில்தேவ்",
+          "id": "O6",
+          "url": "/read/ta/kapil_dev",
           "value": {
-            "label": "Represents England and Wales in international cricket and drinks too much tea.",
-            "url": "/wiki/en/Team_England",
+            "label": "கபில் தேவ் முன்னாள் கிரிக்கெட் வீரர், 1983 ஆம் ஆண்டு இவர் கேப்டனாக இருந்தபோது இந்திய அணி உலகக் கோப்பையை வென்றது.",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
-              "altText": "An image of the English flag"
+              "altText": "Image for கபில்தேவ்",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "Australia",
-          "id": "2",
+          "label": "அனில் கும்ப்ளே",
+          "id": "O7",
+          "url": "/read/ta/anil_kumble",
           "value": {
-            "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-            "url": "/wiki/en/Team_Koala",
+            "label": "அனில் கும்ப்ளே முன்னாள் இந்திய கிரிக்கெட் வீரர், டெஸ்ட் மற்றும் ஒருநாள் சர்வதேசப் போட்டிகளில் கேப்டனாக இருந்தவர். அவர் டெஸ்ட் மற்றும் ஒருநாள் சர்வதேசப் போட்டிகளில் 18 ஆண்டுகள் விளையாடி இருக்கிறார்.",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
-              "altText": "An image of the Australian flag"
+              "altText": "Image for அனில் கும்ப்ளே",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "Pakistan",
-          "id": "2",
+          "label": "சவுரவ் கங்குலி",
+          "id": "O8",
+          "url": "/read/ta/sourav_ganguly",
           "value": {
-            "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-            "url": "/wiki/en/Team_Rocket",
+            "label": "சவுரவ் கங்குலி இந்தியாவைச் சேர்ந்த முன்னாள் சர்வதேச கிரிக்கெட் வீரர், இந்திய அணிக்கு கேப்டனாக இருந்தவர். அவருடைய காலத்தில், உலகின் முன்னணி பேட்ஸ்மென்களில் ஒருவராக தன்னை நிரூபித்தவர் மேலும் இந்திய கிரிக்கெட் அணியின் தலைசிறந்த கேப்டன்களில் ஒருவர்.",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
-              "altText": "An image of the Pakistani flag"
+              "altText": "Image for சவுரவ் கங்குலி",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         }
+      ],
+      [
+        {
+          "label": "ராகுல் டிராவிட்",
+          "id": "O9",
+          "url": "/read/ta/rahul_dravid",
+          "value": {
+            "label": "ராகுல் டிராவிட் முன்னாள் இந்திய கிரிக்கெட் வீரர் மற்றும் கேப்டன். கிரிக்கெட் வரலாற்றில் தலைசிறந்த பேட்ஸ்மென்களில் ஒருவர் என எல்லோராலும் கருதப்படுபவர்",
+            "image": {
+              "altText": "Image for ராகுல் டிராவிட்",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "பெங்களூரு",
+          "id": "G1",
+          "url": "/read/ta/bangalore",
+          "value": {
+            "label": "பெங்களூர், அதிகாரப்பூர்வமாக பெங்களூரு என்று அறியப்படுகிறது, இது கர்நாடக மாநிலத்தின் தலைநகரம் ஆகும். இது பத்து மில்லியனுக்கும் அதிகமான மக்கள் தொகையை கொண்டிருக்கும் மெகாசிட்டியாக இருப்பதுடன் இந்தியாவின் மிக அதிக அளவிலான மக்கள் தொகையைக் கொண்டுள்ள பெருநகரமாகும், அத்துடன் மிக அதிக அளவிலான மக்கள்தொகையைக் கொண்ட ஐந்தாவது பெரிய நகர்ப்புற ஒருங்கிணைப்பாகும்.",
+            "image": {
+              "altText": "Image for பெங்களூரு",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "மும்பை",
+          "id": "G2",
+          "url": "/read/ta/mumbai",
+          "value": {
+            "label": "மும்பை, பம்பாய் என்றும் அறியப்படுகிறது, 1995ஆம் ஆண்டு வரை இதுவே அதன் அதிகாரப்பூர்வ பெயராகவும் இருந்தது, இது மஹாராஷ்டிரா மாநிலத்தின் தலைநகரம் ஆகும். 2011 ஆம் ஆண்டு வரை இதுவே இந்தியாவின் மிகப் பெரிய மக்கள்தொகையைக் கொண்ட நகரமாகவும் இருந்துவந்துள்ளது.",
+            "image": {
+              "altText": "Image for மும்பை",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "இந்தியா",
+          "id": "G3",
+          "url": "/read/ta/india",
+          "value": {
+            "label": "இந்திய குடியரசு என அழைக்கப்படும் இந்தியா, தெற்காசியாவில் அமையப்பெற்றுள்ள ஒரு நாடாகும். இது 1.3 பில்லியனுக்கும் அதிகமான மக்கள் தொகையைக் கொண்ட ஏழாவது மிகப் பெரிய நாடாகும். இது உலகின் இரண்டாவது மிக அதிக மக்கள்தொகை கொண்ட நாடாகவும், உலகிலேயே மிகப் பெரிய மக்களாட்சி நாடாகவும் உள்ளது.",
+            "image": {
+              "altText": "Image for இந்தியா",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        }
+      ],
+      [
+        {
+          "label": "ஆஸ்திரேலியா",
+          "id": "G4",
+          "url": "/read/ta/australia",
+          "value": {
+            "label": "ஆஸ்திரேலியாவானது, அதிகாரப்பூர்வமாக ஆஸ்திரேலியா காமன்வெல்த் என்று அழைக்கப்படுகிறது, தாஸ்மேனியா தீவு மற்றும் பல சிறிய தீவுகளை உள்ளடக்கிய இது ஆஸ்திரேலியக் கண்டத்தின் முக்கிய நிலப்பகுதியைக் கொண்டுள்ள இறையாண்மை நாடாகும்.",
+            "image": {
+              "altText": "Image for ஆஸ்திரேலியா",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "பாகிஸ்தான்",
+          "id": "G5",
+          "url": "/read/ta/pakistan",
+          "value": {
+            "label": "அதிகாரப்பூர்வமாக பாகிஸ்தான் இஸ்லாமிய குடியரசு என்றழைக்கப்படும் பாகிஸ்தானானது தெற்கு ஆசியாவில் அமையபெற்றுள்ள நாடாகும். 212,742,631 க்கும் அதிகமான மக்கள் தொகையைக் கொண்டு இந்நாடு உலகின் ஆறாவது மிகப்பெரிய நாடாக உள்ளது.",
+            "image": {
+              "altText": "Image for பாகிஸ்தான்",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "தென்னாப்பிரிக்கா",
+          "id": "G6",
+          "url": "/read/ta/south_africa",
+          "value": {
+            "label": "ஆப்பிரிக்காவின் தெற்குப்பகுதியில் அமைந்துள்ள தென் ஆப்பிரிக்கா, அதிகாரப்பூர்வமாக தென்னாப்பிரிக்க குடியரசு (RSA) என அழைக்கப்படுகிறது. ",
+            "image": {
+              "altText": "Image for தென்னாப்பிரிக்கா",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "இலங்கை",
+          "id": "G7",
+          "url": "/read/ta/sri_lanka",
+          "value": {
+            "label": "இலங்கையானது தென் ஆசியாவில் உள்ள அதிகாரப்பூர்வ மக்களாட்சி சமதர்ம குடியரசைக் கொண்ட தீவு நாடாகும், இது இந்திய பெருங்கடலில் வங்காள விரிகுடாவின் தென்மேற்கு பகுதியிலும் அரேபிய பெருங்கடலின் தென்கிழக்குப் பகுதியிலும் அமைந்துள்ளது.",
+            "image": {
+              "altText": "Image for இலங்கை",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        }
+      ],
+      [
+        {
+          "label": "நியூசிலாந்து",
+          "id": "G8",
+          "url": "/read/ta/new_zealand",
+          "value": {
+            "label": "நியூசிலாந்து தென்மேற்கு பசிபிக் பெருங்கடலில் அருகிலுள்ள ஒரு இறையாண்மை தீவாகும். இது பூகோள ரீதியாக இரண்டு முக்கிய நிலப்பரப்புகளையும் சுமார் 600 சிறிய தீவுகளையும் கொண்டுள்ளது. நியூசிலாந்து ஆஸ்திரேலியாவிலிருந்து ஏறத்தாழ 2,000 கிலோமீட்டர் கிழக்கில் அமைந்துள்ளது.",
+            "image": {
+              "altText": "Image for நியூசிலாந்து",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "இங்கிலாந்து",
+          "id": "G10",
+          "url": "/read/ta/england",
+          "value": {
+            "label": "இங்கிலாந்து ஐக்கிய இராஜ்ஜியத்தின் ஒரு பகுதியாகும். இது மேற்கே வேல்ஸ் மற்றும் வடகிழக்கில் ஸ்காட்லாந்து வரை பரவியுள்ளது. ",
+            "image": {
+              "altText": "Image for இங்கிலாந்து",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
       ]
     ]
   },
   "interestingArticles": [
     {
-      "label": "India",
-      "id": "50",
+      "label": "1983 கிரிக்கெட் உலகக் கோப்பை",
+      "id": "P2",
       "value": {
-        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-        "url": "/wiki/en/Team_India",
+        "url": "/read/ta/1983_cricket_world_cup",
+        "label": "1983 क्रिकेट विश्व कप (आधिकारिक रूप से प्रूडेंशियल कप '83) क्रिकेट विश्व कप टूर्नामेंट का तीसरा संस्करण था। यह 9 जून से 25 जून 1983 तक इंग्लैंड और वेल्स में आयोजित किया गया था और इसे भारत ने जीता था।",
         "image": {
-          "url": "https://placekitten.com/200/200",
-          "altText": "An image of the Indian flag"
+          "altText": "Image for 1983 கிரிக்கெட் உலகக் கோப்பை",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "England",
-      "id": "51",
+      "label": "1996 கிரிக்கெட் உலகக் கோப்பை",
+      "id": "P3",
       "value": {
-        "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
+        "url": "/read/ta/1996_cricket_world_cup",
+        "label": "1996 क्रिकेट विश्व कप, जिसे उसके आधिकारिक प्रायोजकों (आईटीसी के विल्स ब्रांड) के नाम पर, विल्स वर्ल्ड कप 1996 भी कहा जाता है, छठा क्रिकेट विश्व कप था। यह पाकिस्तान और भारत द्वारा आयोजित होने वाला दूसरा, और श्रीलंका आयोजित होने वाला पहला विश्व कप था।",
         "image": {
-          "url": "https://placekitten.com/180/180",
-          "altText": "An image of the English flag"
+          "altText": "Image for 1996 கிரிக்கெட் உலகக் கோப்பை",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Australia",
-      "id": "52",
+      "label": "1999 கிரிக்கெட் உலகக் கோப்பை",
+      "id": "P4",
       "value": {
-        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
+        "url": "/read/ta/1999_cricket_world_cup",
+        "label": "1999 का क्रिकेट विश्व कप क्रिकेट विश्व कप का सातवां संस्करण था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेज़बानी मुख्य रूप से इंग्लैंड ने की थी, जिसमें कुछ मैच स्कॉटलैंड, आयरलैंड, वेल्स और नीदरलैंड में भी खेले गए थे।",
         "image": {
-          "url": "https://placekitten.com/190/190",
-          "altText": "An image of the Australian flag"
+          "altText": "Image for 1999 கிரிக்கெட் உலகக் கோப்பை",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Pakistan",
-      "id": "53",
+      "label": "2003 கிரிக்கெட் உலகக் கோப்பை",
+      "id": "P5",
       "value": {
-        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
+        "url": "/read/ta/2003_cricket_world_cup",
+        "label": "2003 का क्रिकेट विश्व कप आठवां क्रिकेट विश्व कप था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेजबानी दक्षिण अफ्रीका, जिम्बाब्वे और केन्या ने मिल कर की थी।",
         "image": {
-          "url": "https://placekitten.com/220/220",
-          "altText": "An image of the Pakistani flag"
+          "altText": "Image for 2003 கிரிக்கெட் உலகக் கோப்பை",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "India",
-      "id": "0",
+      "label": "2007 கிரிக்கெட் உலகக் கோப்பை",
+      "id": "P6",
       "value": {
-        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-        "url": "/wiki/en/Team_India",
+        "url": "/read/ta/2007_cricket_world_cup",
+        "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
         "image": {
-          "url": "https://placekitten.com/200/200",
-          "altText": "An image of the Indian flag"
+          "altText": "Image for 2007 கிரிக்கெட் உலகக் கோப்பை",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "England",
-      "id": "1",
+      "label": "2011 கிரிக்கெட் உலகக் கோப்பை",
+      "id": "P7",
       "value": {
-        "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
+        "url": "/read/ta/2011_cricket_world_cup",
+        "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
         "image": {
-          "url": "https://placekitten.com/180/180",
-          "altText": "An image of the English flag"
+          "altText": "Image for 2011 கிரிக்கெட் உலகக் கோப்பை",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Australia",
-      "id": "2",
+      "label": "2015 கிரிக்கெட் உலகக் கோப்பை",
+      "id": "P8",
       "value": {
-        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
+        "url": "/read/ta/2015_cricket_world_cup",
+        "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
         "image": {
-          "url": "https://placekitten.com/190/190",
-          "altText": "An image of the Australian flag"
+          "altText": "Image for 2015 கிரிக்கெட் உலகக் கோப்பை",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Pakistan",
-      "id": "3",
+      "label": "ஐசிசி டி20 உலகக் கோப்பை",
+      "id": "P9",
       "value": {
-        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
+        "url": "/read/ta/icc_t20_world_cup",
+        "label": "ஐசிசி டி20 உலகக் கோப்பை (முன்னர் ஐசிசி வேர்ல்ட் ட்வென்டி20 என்று அழைக்கப்படும்), ட்வென்டி20 இன்டர்நேஷனல் கிரிக்கெட்டின் இன்டர்நேஷனல் சேம்பியன்ஷிப் ஆகும். டோர்னமென்ட்டில் தற்போது 16 அணிகள் இடம்பெற்றுள்ளன. அதில் கொடுக்கப்பட்ட நேரத்திற்குள் தரவரிசையில் முதல் எட்டு இடங்களைப் பிடித்த அணிகளும், டி20 உலகக் கோப்பை குவாலிஃபயர் மூலமாக தேர்வு செய்யப்பட்ட நான்கு அணிகளும் உள்ளடங்கும்.",
         "image": {
-          "url": "https://placekitten.com/220/220",
-          "altText": "An image of the Pakistani flag"
+          "altText": "Image for ஐசிசி டி20 உலகக் கோப்பை",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "India",
-      "id": "10",
+      "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி",
+      "id": "P10",
       "value": {
-        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-        "url": "/wiki/en/Team_India",
+        "url": "/read/ta/icc_champions_trophy",
+        "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி என்பது இன்டர்நேஷனல் கிரிக்கெட் கவுன்சிலால் (ஐசிசி) நடத்தப்படும் ஒன் டே இன்டர்நேஷனல் (ODI) கிரிக்கெட் டோர்னமென்ட் ஆகும். இது கிரிக்கெட் உலகக்கோப்பைக்கு அடுத்தபடியாக முக்கியமாக கருதப்படும் டோர்னமென்ட் ஆகும். 2002-ஆம் ஆண்டு இதன் பெயர் சேம்பியன்ஸ் டிராஃபி என்று மாற்றப்பட்டது.",
         "image": {
-          "url": "https://placekitten.com/200/200",
-          "altText": "An image of the Indian flag"
+          "altText": "Image for ஐசிசி சேம்பியன்ஸ் டிராஃபி",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "England",
-      "id": "11",
+      "label": "இந்தியன் ப்ரீமியர் லீக்",
+      "id": "P11",
       "value": {
-        "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
+        "url": "/read/ta/indian_premier_league",
+        "label": "இண்டியன் ப்ரீமியர் லீக் (ஐபிஎல்), இந்தியாவில் நடத்தப்படும் ஒரு புரொஃபஷனல் ட்வென்டி20 கிரிக்கெட் லீக் ஆகும். இது ஒவ்வொரு ஆண்டும் மார்ச் அல்லது ஏப்ரல் மற்றும் மே மாதங்களில், இந்தியாவில் உள்ள வெவ்வேறு எட்டு நகரங்களைப் பிரதிநிதித்துவப்படுத்தும் எட்டு அணிகளை வைத்து நடத்தப்படுகிறது",
         "image": {
-          "url": "https://placekitten.com/180/180",
-          "altText": "An image of the English flag"
+          "altText": "Image for இந்தியன் ப்ரீமியர் லீக்",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Australia",
-      "id": "12",
+      "label": "2010 இந்தியன் ப்ரீமியர் லீக்",
+      "id": "P12",
       "value": {
-        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
+        "url": "/read/ta/2010_indian_premier_league",
+        "label": "The 2010 Indian Premier League season, abbreviated as IPL 3 or the 2010 IPL, was the third season of the Indian Premier League",
         "image": {
-          "url": "https://placekitten.com/190/190",
-          "altText": "An image of the Australian flag"
+          "altText": "Image for 2010 இந்தியன் ப்ரீமியர் லீக்",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Pakistan",
-      "id": "13",
+      "label": "2011 இந்தியன் ப்ரீமியர் லீக்",
+      "id": "P13",
       "value": {
-        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
+        "url": "/read/ta/2011_indian_premier_league",
+        "label": "The 2011 Indian Premier League season, abbreviated as IPL 4 or the IPL 2011, was the fourth season of the Indian Premier League, the top Twenty20 cricket league in India",
         "image": {
-          "url": "https://placekitten.com/220/220",
-          "altText": "An image of the Pakistani flag"
+          "altText": "Image for 2011 இந்தியன் ப்ரீமியர் லீக்",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "England",
-      "id": "41",
+      "label": "2016 இந்தியன் ப்ரீமியர் லீக்",
+      "id": "P14",
       "value": {
-        "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
+        "url": "/read/ta/2016_indian_premier_league",
+        "label": "The 2016 season of the Indian Premier League, also known as IPL 9, and branded as Vivo IPL 2016 for sponsorship reasons, was the ninth season of the IPL",
         "image": {
-          "url": "https://placekitten.com/180/180",
-          "altText": "An image of the English flag"
+          "altText": "Image for 2016 இந்தியன் ப்ரீமியர் லீக்",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Australia",
-      "id": "42",
+      "label": "2017 Indian Premier League",
+      "id": "P15",
       "value": {
-        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
+        "url": "/read/ta/2017_indian_premier_league",
+        "label": "The 2017 season of the Indian Premier League, also known as IPL 10 and branded as Vivo IPL 2017, was the tenth edition of the IPL",
         "image": {
-          "url": "https://placekitten.com/190/190",
-          "altText": "An image of the Australian flag"
+          "altText": "Image for 2017 Indian Premier League",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Pakistan",
-      "id": "43",
+      "label": "பெங்களூரு",
+      "id": "G1",
       "value": {
-        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
+        "url": "/read/ta/bangalore",
+        "label": "பெங்களூர், அதிகாரப்பூர்வமாக பெங்களூரு என்று அறியப்படுகிறது, இது கர்நாடக மாநிலத்தின் தலைநகரம் ஆகும். இது பத்து மில்லியனுக்கும் அதிகமான மக்கள் தொகையை கொண்டிருக்கும் மெகாசிட்டியாக இருப்பதுடன் இந்தியாவின் மிக அதிக அளவிலான மக்கள் தொகையைக் கொண்டுள்ள பெருநகரமாகும், அத்துடன் மிக அதிக அளவிலான மக்கள்தொகையைக் கொண்ட ஐந்தாவது பெரிய நகர்ப்புற ஒருங்கிணைப்பாகும்.",
         "image": {
-          "url": "https://placekitten.com/220/220",
-          "altText": "An image of the Pakistani flag"
+          "altText": "Image for பெங்களூரு",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "மும்பை",
+      "id": "G2",
+      "value": {
+        "url": "/read/ta/mumbai",
+        "label": "மும்பை, பம்பாய் என்றும் அறியப்படுகிறது, 1995ஆம் ஆண்டு வரை இதுவே அதன் அதிகாரப்பூர்வ பெயராகவும் இருந்தது, இது மஹாராஷ்டிரா மாநிலத்தின் தலைநகரம் ஆகும். 2011 ஆம் ஆண்டு வரை இதுவே இந்தியாவின் மிகப் பெரிய மக்கள்தொகையைக் கொண்ட நகரமாகவும் இருந்துவந்துள்ளது.",
+        "image": {
+          "altText": "Image for மும்பை",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "இந்தியா",
+      "id": "G3",
+      "value": {
+        "url": "/read/ta/india",
+        "label": "இந்திய குடியரசு என அழைக்கப்படும் இந்தியா, தெற்காசியாவில் அமையப்பெற்றுள்ள ஒரு நாடாகும். இது 1.3 பில்லியனுக்கும் அதிகமான மக்கள் தொகையைக் கொண்ட ஏழாவது மிகப் பெரிய நாடாகும். இது உலகின் இரண்டாவது மிக அதிக மக்கள்தொகை கொண்ட நாடாகவும், உலகிலேயே மிகப் பெரிய மக்களாட்சி நாடாகவும் உள்ளது.",
+        "image": {
+          "altText": "Image for இந்தியா",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "ஆஸ்திரேலியா",
+      "id": "G4",
+      "value": {
+        "url": "/read/ta/australia",
+        "label": "ஆஸ்திரேலியாவானது, அதிகாரப்பூர்வமாக ஆஸ்திரேலியா காமன்வெல்த் என்று அழைக்கப்படுகிறது, தாஸ்மேனியா தீவு மற்றும் பல சிறிய தீவுகளை உள்ளடக்கிய இது ஆஸ்திரேலியக் கண்டத்தின் முக்கிய நிலப்பகுதியைக் கொண்டுள்ள இறையாண்மை நாடாகும்.",
+        "image": {
+          "altText": "Image for ஆஸ்திரேலியா",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "பாகிஸ்தான்",
+      "id": "G5",
+      "value": {
+        "url": "/read/ta/pakistan",
+        "label": "அதிகாரப்பூர்வமாக பாகிஸ்தான் இஸ்லாமிய குடியரசு என்றழைக்கப்படும் பாகிஸ்தானானது தெற்கு ஆசியாவில் அமையபெற்றுள்ள நாடாகும். 212,742,631 க்கும் அதிகமான மக்கள் தொகையைக் கொண்டு இந்நாடு உலகின் ஆறாவது மிகப்பெரிய நாடாக உள்ளது.",
+        "image": {
+          "altText": "Image for பாகிஸ்தான்",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "தென்னாப்பிரிக்கா",
+      "id": "G6",
+      "value": {
+        "url": "/read/ta/south_africa",
+        "label": "ஆப்பிரிக்காவின் தெற்குப்பகுதியில் அமைந்துள்ள தென் ஆப்பிரிக்கா, அதிகாரப்பூர்வமாக தென்னாப்பிரிக்க குடியரசு (RSA) என அழைக்கப்படுகிறது. ",
+        "image": {
+          "altText": "Image for தென்னாப்பிரிக்கா",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "இலங்கை",
+      "id": "G7",
+      "value": {
+        "url": "/read/ta/sri_lanka",
+        "label": "இலங்கையானது தென் ஆசியாவில் உள்ள அதிகாரப்பூர்வ மக்களாட்சி சமதர்ம குடியரசைக் கொண்ட தீவு நாடாகும், இது இந்திய பெருங்கடலில் வங்காள விரிகுடாவின் தென்மேற்கு பகுதியிலும் அரேபிய பெருங்கடலின் தென்கிழக்குப் பகுதியிலும் அமைந்துள்ளது.",
+        "image": {
+          "altText": "Image for இலங்கை",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "நியூசிலாந்து",
+      "id": "G8",
+      "value": {
+        "url": "/read/ta/new_zealand",
+        "label": "நியூசிலாந்து தென்மேற்கு பசிபிக் பெருங்கடலில் அருகிலுள்ள ஒரு இறையாண்மை தீவாகும். இது பூகோள ரீதியாக இரண்டு முக்கிய நிலப்பரப்புகளையும் சுமார் 600 சிறிய தீவுகளையும் கொண்டுள்ளது. நியூசிலாந்து ஆஸ்திரேலியாவிலிருந்து ஏறத்தாழ 2,000 கிலோமீட்டர் கிழக்கில் அமைந்துள்ளது.",
+        "image": {
+          "altText": "Image for நியூசிலாந்து",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "இங்கிலாந்து",
+      "id": "G10",
+      "value": {
+        "url": "/read/ta/england",
+        "label": "இங்கிலாந்து ஐக்கிய இராஜ்ஜியத்தின் ஒரு பகுதியாகும். இது மேற்கே வேல்ஸ் மற்றும் வடகிழக்கில் ஸ்காட்லாந்து வரை பரவியுள்ளது. ",
+        "image": {
+          "altText": "Image for இங்கிலாந்து",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "விராட் கோலி",
+      "id": "O1",
+      "value": {
+        "url": "/read/ta/virat_kohli",
+        "label": "விராட் கோலி இந்திய கிரிக்கெட் வீரர், அவர் இந்திய அணியின் கேப்டனாக இருக்கிறார்.",
+        "image": {
+          "altText": "Image for விராட் கோலி",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "மகேந்திர சிங் தோனி",
+      "id": "O2",
+      "value": {
+        "url": "/read/ta/mahendra_singh_dhoni",
+        "label": "மகேந்திர சிங் தோனி இந்தியாவைச் சேர்ந்த சர்வதேச கிரிக்கெட் வீரர், அவர் 2007 முதல் 2016 வரை ஒருநாள் போட்டிகளிலும் 2008 முதல் 2014 வரை டெஸ்ட் போட்டிகளிலும் இந்திய கிரிக்கெட் அணியின் கேப்டனாக இருந்திருக்கிறார்.",
+        "image": {
+          "altText": "Image for மகேந்திர சிங் தோனி",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "ரோஹித் ஷர்மா",
+      "id": "O3",
+      "value": {
+        "url": "/read/ta/rohit_sharma",
+        "label": "ரோஹித் ஷர்மா இந்தியாவைச் சேர்ந்த சர்வதேச கிரிக்கெட் வீரர், அவர் இந்திய கிரிக்கெட் அணிக்கு ஒரு நாள் போட்டிகளில் துணை கேப்டனாக இருக்கிறார்.",
+        "image": {
+          "altText": "Image for ரோஹித் ஷர்மா",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "சிக்கர் தவான்",
+      "id": "O4",
+      "value": {
+        "url": "/read/ta/shikhar_dhawan",
+        "label": "சிக்கர் தவான் இந்தியாவைச் சேர்ந்த சர்வதேச கிரிக்கெட் வீரர்.",
+        "image": {
+          "altText": "Image for சிக்கர் தவான்",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "சச்சின் டெண்டுல்கர்",
+      "id": "O5",
+      "value": {
+        "url": "/read/ta/sachin_tendulkar",
+        "label": "சச்சின் டெண்டுல்கர் இந்தியாவைச் சேர்ந்த முன்னாள் சர்வதேச கிரிக்கெட் வீரர், கிரிக்கெட் வரலாற்றில் மிகச்சிறந்த பேட்ஸ்மென்களில் ஒருவராகக் கருதப்படுகிறார். சர்வதேச கிரிக்கெட் போட்டிகளில் அவர்தான் அதிகபட்ச ரன்களை எடுத்தவர்.",
+        "image": {
+          "altText": "Image for சச்சின் டெண்டுல்கர்",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "கபில்தேவ்",
+      "id": "O6",
+      "value": {
+        "url": "/read/ta/kapil_dev",
+        "label": "கபில் தேவ் முன்னாள் கிரிக்கெட் வீரர், 1983 ஆம் ஆண்டு இவர் கேப்டனாக இருந்தபோது இந்திய அணி உலகக் கோப்பையை வென்றது.",
+        "image": {
+          "altText": "Image for கபில்தேவ்",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "அனில் கும்ப்ளே",
+      "id": "O7",
+      "value": {
+        "url": "/read/ta/anil_kumble",
+        "label": "அனில் கும்ப்ளே முன்னாள் இந்திய கிரிக்கெட் வீரர், டெஸ்ட் மற்றும் ஒருநாள் சர்வதேசப் போட்டிகளில் கேப்டனாக இருந்தவர். அவர் டெஸ்ட் மற்றும் ஒருநாள் சர்வதேசப் போட்டிகளில் 18 ஆண்டுகள் விளையாடி இருக்கிறார்.",
+        "image": {
+          "altText": "Image for அனில் கும்ப்ளே",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "சவுரவ் கங்குலி",
+      "id": "O8",
+      "value": {
+        "url": "/read/ta/sourav_ganguly",
+        "label": "சவுரவ் கங்குலி இந்தியாவைச் சேர்ந்த முன்னாள் சர்வதேச கிரிக்கெட் வீரர், இந்திய அணிக்கு கேப்டனாக இருந்தவர். அவருடைய காலத்தில், உலகின் முன்னணி பேட்ஸ்மென்களில் ஒருவராக தன்னை நிரூபித்தவர் மேலும் இந்திய கிரிக்கெட் அணியின் தலைசிறந்த கேப்டன்களில் ஒருவர்.",
+        "image": {
+          "altText": "Image for சவுரவ் கங்குலி",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "ராகுல் டிராவிட்",
+      "id": "O9",
+      "value": {
+        "url": "/read/ta/rahul_dravid",
+        "label": "ராகுல் டிராவிட் முன்னாள் இந்திய கிரிக்கெட் வீரர் மற்றும் கேப்டன். கிரிக்கெட் வரலாற்றில் தலைசிறந்த பேட்ஸ்மென்களில் ஒருவர் என எல்லோராலும் கருதப்படுபவர்",
+        "image": {
+          "altText": "Image for ராகுல் டிராவிட்",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     }
