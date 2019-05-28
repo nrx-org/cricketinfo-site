@@ -202,8 +202,7 @@
             "label": "Four periods are recognised in Pakistani architecture: pre-Islamic, Islamic, colonial, and post-colonial. Lahore, as the occasional residence of Mughal rulers, contains many important buildings from the era. Several examples of architectural influenced by British design can be found in Lahore, Peshawar, and Karachi.",
             "image": {
               "url": "/static/images/pakistan/Lahore_Fort.jpg",
-              "altText": "Four periods are recognised in Pakistani architecture: pre-Islamic, Islamic, colonial, and post-colonial. Lahore, as the occasional residence of Mughal rulers, contains many important buildings from the era. Several examples of architectural influenced by British design can be found in Lahore, Peshawar, and Karachi.",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+              "altText": "Four periods are recognised in Pakistani architecture: pre-Islamic, Islamic, colonial, and post-colonial. Lahore, as the occasional residence of Mughal rulers, contains many important buildings from the era. Several examples of architectural influenced by British design can be found in Lahore, Peshawar, and Karachi."
             }
           }
         },
@@ -214,8 +213,7 @@
             "label": "Music of Pakistan includes diverse music from various parts of South Asia as well as Central Asian, Middle Eastern, and modern-day Western popular music.",
             "image": {
               "url": "/static/images/pakistan/Overload_Dhol_Player.jpg",
-              "altText": "Music of Pakistan includes diverse music from various parts of South Asia as well as Central Asian, Middle Eastern, and modern-day Western popular music.",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+              "altText": "Music of Pakistan includes diverse music from various parts of South Asia as well as Central Asian, Middle Eastern, and modern-day Western popular music."
             }
           }
         },
@@ -226,9 +224,49 @@
             "label": "Cricket is the most popular sport in Pakistan, while field hockey, polo, and squash are also popular. Traditional sports like kabaddi and other well-known games are also played.",
             "image": {
               "url": "/static/images/pakistan/Pakvaus.jpg",
-              "altText": "Cricket is the most popular sport in Pakistan, while field hockey, polo, and squash are also popular. Traditional sports like kabaddi and other well-known games are also played.",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+              "altText": "Cricket is the most popular sport in Pakistan, while field hockey, polo, and squash are also popular. Traditional sports like kabaddi and other well-known games are also played."
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_pakistan",
+          "label": "Languages",
+          "value": {
+            "label": "Urdu, Punjabi, Pashto, Balochi, Sindhi"
+          }
+        },
+        {
+          "id": "religion_section_pakistan",
+          "label": "Religions",
+          "value": {
+            "facts": [
+              {
+                "id": "religion_0",
+                "label": "Islam",
+                "value": 96
+              },
+              {
+                "id": "religion_1",
+                "label": "Hinduism",
+                "value": 1.85
+              },
+              {
+                "id": "religion_2",
+                "label": "Christianity",
+                "value": 1.5
+              },
+              {
+                "id": "religion_3",
+                "label": "Others",
+                "value": 0.6
+              }
+            ]
           }
         }
       ]

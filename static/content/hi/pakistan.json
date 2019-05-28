@@ -183,8 +183,7 @@
             "label": "चार अवधियों को पाकिस्तानी वास्तुकला में मान्यता प्राप्त है: पूर्व-इस्लामिक, इस्लामी, औपनिवेशिक और औपनिवेशिक।-पश्चात। लाहौर, मुगल शासकों के सामयिक निवास के रूप में, में युग से कई महत्वपूर्ण इमारतें शामिल हैं। ब्रिटिश डिजाइन से प्रभावित वास्तुशिल्प के कई उदाहरण लाहौर, पेशावर और कराची में देखे जा सकते हैं।",
             "image": {
               "url": "/static/images/pakistan/Lahore_Fort.jpg",
-              "altText": "चार अवधियों को पाकिस्तानी वास्तुकला में मान्यता प्राप्त है: पूर्व-इस्लामिक, इस्लामी, औपनिवेशिक और औपनिवेशिक।-पश्चात। लाहौर, मुगल शासकों के सामयिक निवास के रूप में, में युग से कई महत्वपूर्ण इमारतें शामिल हैं। ब्रिटिश डिजाइन से प्रभावित वास्तुशिल्प के कई उदाहरण लाहौर, पेशावर और कराची में देखे जा सकते हैं।",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+              "altText": "चार अवधियों को पाकिस्तानी वास्तुकला में मान्यता प्राप्त है: पूर्व-इस्लामिक, इस्लामी, औपनिवेशिक और औपनिवेशिक।-पश्चात। लाहौर, मुगल शासकों के सामयिक निवास के रूप में, में युग से कई महत्वपूर्ण इमारतें शामिल हैं। ब्रिटिश डिजाइन से प्रभावित वास्तुशिल्प के कई उदाहरण लाहौर, पेशावर और कराची में देखे जा सकते हैं।"
             }
           }
         },
@@ -195,8 +194,7 @@
             "label": "पाकिस्तान के संगीत में दक्षिण एशिया के विभिन्न हिस्सों के साथ-साथ मध्य एशियाई, मध्य पूर्वी और आधुनिक पश्चिमी लोकप्रिय संगीत के विविध संगीत शामिल हैं।",
             "image": {
               "url": "/static/images/pakistan/Overload_Dhol_Player.jpg",
-              "altText": "पाकिस्तान के संगीत में दक्षिण एशिया के विभिन्न हिस्सों के साथ-साथ मध्य एशियाई, मध्य पूर्वी और आधुनिक पश्चिमी लोकप्रिय संगीत के विविध संगीत शामिल हैं।",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+              "altText": "पाकिस्तान के संगीत में दक्षिण एशिया के विभिन्न हिस्सों के साथ-साथ मध्य एशियाई, मध्य पूर्वी और आधुनिक पश्चिमी लोकप्रिय संगीत के विविध संगीत शामिल हैं।"
             }
           }
         },
@@ -207,9 +205,49 @@
             "label": "पाकिस्तान में क्रिकेट सबसे लोकप्रिय खेल है, जबकि हॉकी, पोलो और स्क्वैश भी लोकप्रिय हैं। पारंपरिक खेल जैसे कबड्डी और अन्य प्रसिद्ध खेल भी खेले जाते हैं।",
             "image": {
               "url": "/static/images/pakistan/Pakvaus.jpg",
-              "altText": "पाकिस्तान में क्रिकेट सबसे लोकप्रिय खेल है, जबकि हॉकी, पोलो और स्क्वैश भी लोकप्रिय हैं। पारंपरिक खेल जैसे कबड्डी और अन्य प्रसिद्ध खेल भी खेले जाते हैं।",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+              "altText": "पाकिस्तान में क्रिकेट सबसे लोकप्रिय खेल है, जबकि हॉकी, पोलो और स्क्वैश भी लोकप्रिय हैं। पारंपरिक खेल जैसे कबड्डी और अन्य प्रसिद्ध खेल भी खेले जाते हैं।"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_pakistan",
+          "label": "Languages",
+          "value": {
+            "label": "उर्दू, पंजाबी, पश्तो, बालोची, सिंधी"
+          }
+        },
+        {
+          "id": "religion_section_pakistan",
+          "label": "Religions",
+          "value": {
+            "facts": [
+              {
+                "id": "religion_0",
+                "label": "इस्लाम",
+                "value": 96
+              },
+              {
+                "id": "religion_1",
+                "label": "हिंदू धर्म",
+                "value": 1.85
+              },
+              {
+                "id": "religion_2",
+                "label": "ईसाई धर्म",
+                "value": 1.5
+              },
+              {
+                "id": "religion_3",
+                "label": "अन्य",
+                "value": 0.6
+              }
+            ]
           }
         }
       ]

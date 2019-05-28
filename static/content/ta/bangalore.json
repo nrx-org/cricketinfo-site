@@ -126,8 +126,7 @@
             "label": "பெங்களூரின் கன்னட இலக்கியமானது கெம்பெ கவுடா நகரின் அடிப்படைகளை அமைப்பதற்கு முன்னரே உருவானது.",
             "image": {
               "url": "/static/images/bangalore/Halmidi_OldKannada_inscription.JPG",
-              "altText": "பெங்களூரின் கன்னட இலக்கியமானது கெம்பெ கவுடா நகரின் அடிப்படைகளை அமைப்பதற்கு முன்னரே உருவானது.",
-              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+              "altText": "பெங்களூரின் கன்னட இலக்கியமானது கெம்பெ கவுடா நகரின் அடிப்படைகளை அமைப்பதற்கு முன்னரே உருவானது."
             }
           }
         },
@@ -138,8 +137,7 @@
             "label": "கரையோர கர்நாடகாவின் திரையரங்க கலை பெரும்பாலும் டவுன் ஹாலில் இயக்கப்படுகிறது.",
             "image": {
               "url": "/static/images/bangalore/Demon_Yakshagana.jpg",
-              "altText": "கரையோர கர்நாடகாவின் திரையரங்க கலை பெரும்பாலும் டவுன் ஹாலில் இயக்கப்படுகிறது.",
-              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+              "altText": "கரையோர கர்நாடகாவின் திரையரங்க கலை பெரும்பாலும் டவுன் ஹாலில் இயக்கப்படுகிறது."
             }
           }
         },
@@ -150,9 +148,21 @@
             "label": "பெங்களூர் கரகா, இந்து கடவுளான திரௌபதிக்காக கொண்டாடப்படும் பெங்களூரின் மிக முக்கியமான மற்றும் பழமையான பண்டிகைகளில் ஒன்றாகும்",
             "image": {
               "url": "/static/images/bangalore/Huvina_Karaga.jpg",
-              "altText": "பெங்களூர் கரகா, இந்து கடவுளான திரௌபதிக்காக கொண்டாடப்படும் பெங்களூரின் மிக முக்கியமான மற்றும் பழமையான பண்டிகைகளில் ஒன்றாகும்",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+              "altText": "பெங்களூர் கரகா, இந்து கடவுளான திரௌபதிக்காக கொண்டாடப்படும் பெங்களூரின் மிக முக்கியமான மற்றும் பழமையான பண்டிகைகளில் ஒன்றாகும்"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_bangalore",
+          "label": "Languages",
+          "value": {
+            "label": "2011 ஆம் ஆண்டின் கருத்துக்கணிப்பின் படி, கன்னடம் 46%, தமிழ் 13.99 %, தெலுங்கு 13.89%, இந்தி 5.4%, மலையாளம் 2.8%, மராத்தி 1.8%"
           }
         }
       ]

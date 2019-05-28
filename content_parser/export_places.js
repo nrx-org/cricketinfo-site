@@ -104,6 +104,43 @@ const CULTURE = [
   }
 ];
 
+const LANGUAGES_KEY = "Demographics - Languages";
+
+const RELIGION = [
+  {
+    NAME_KEY: "Religion 1 Name ",
+    PERCENT_KEY: "Religion 1 %ge"
+  },
+  {
+    NAME_KEY: "Religion 2 Name ",
+    PERCENT_KEY: "Religion 2 %ge"
+  },
+  {
+    NAME_KEY: "Religion 3 Name ",
+    PERCENT_KEY: "Religion 3 %ge"
+  },
+  {
+    NAME_KEY: "Religion 4 Name ",
+    PERCENT_KEY: "Religion 4 %ge"
+  },
+  {
+    NAME_KEY: "Religion 5 Name ",
+    PERCENT_KEY: "Religion 5 %ge"
+  },
+  {
+    NAME_KEY: "Religion 6 Name ",
+    PERCENT_KEY: "Religion 6 %ge"
+  },
+  {
+    NAME_KEY: "Religion 7 Name ",
+    PERCENT_KEY: "Religion 7 %ge"
+  },
+  {
+    NAME_KEY: "Religion 8 Name ",
+    PERCENT_KEY: "Religion 8 %ge"
+  }
+];
+
 module.exports.exportPlaces = () => {
   Object.keys(csvExports).forEach(lang => {
     const fileContent = fs.readFileSync(csvExports[lang].path, "utf8");
@@ -373,6 +410,49 @@ module.exports.exportPlaces = () => {
       }
 
       // Demographics.
+      const demographicsSection = {
+        title: "Demographics",
+        cardType: "bar_chart_with_info",
+        facts: []
+      };
+
+      if (record[LANGUAGES_KEY]) {
+        demographicsSection.facts.push({
+          id: getSluggedTitle(`section_languages_${englishSlug}`),
+          label: "Languages",
+          value: {
+            label: record[LANGUAGES_KEY]
+          }
+        });
+      }
+
+      const religionFacts = RELIGION.map((religion, index) => {
+        if (!record[religion.NAME_KEY] || !record[religion.PERCENT_KEY]) {
+          return null;
+        }
+
+        return {
+          id: `religion_${index}`,
+          label: record[religion.NAME_KEY],
+          value: parseFloat(
+            record[religion.PERCENT_KEY].replace("%", "").trim()
+          )
+        };
+      }).filter(f => !!f);
+
+      if (religionFacts.length > 0) {
+        demographicsSection.facts.push({
+          id: getSluggedTitle(`religion_section_${englishSlug}`),
+          label: "Religions",
+          value: {
+            facts: religionFacts
+          }
+        });
+      }
+
+      if (demographicsSection.facts.length > 0) {
+        place.sections.push(demographicsSection);
+      }
 
       fs.writeFileSync(
         `./static/content/${lang}/${englishSlug}.json`,

@@ -140,8 +140,7 @@
             "label": "Delhi's lengthy history as a capital city has seen the food habits of its residents be influenced by many groups that occupied the city over the centuries.",
             "image": {
               "url": "/static/images/delhi/Daulat_Chaat_in_Old_Delhi.JPG",
-              "altText": "Delhi's lengthy history as a capital city has seen the food habits of its residents be influenced by many groups that occupied the city over the centuries.",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+              "altText": "Delhi's lengthy history as a capital city has seen the food habits of its residents be influenced by many groups that occupied the city over the centuries."
             }
           }
         },
@@ -167,6 +166,62 @@
               "altText": "Three World Heritage Sites—the Red Fort, Qutub Minar and Humayun's Tomb—are located in Delhi.",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_delhi",
+          "label": "Languages",
+          "value": {
+            "label": "Hindi, Urdu, Punjabi, English"
+          }
+        },
+        {
+          "id": "religion_section_delhi",
+          "label": "Religions",
+          "value": {
+            "facts": [
+              {
+                "id": "religion_0",
+                "label": "Hinduism",
+                "value": 81.68
+              },
+              {
+                "id": "religion_1",
+                "label": "Islam ",
+                "value": 12.86
+              },
+              {
+                "id": "religion_2",
+                "label": "Sikhism ",
+                "value": 3.4
+              },
+              {
+                "id": "religion_3",
+                "label": "Jainism ",
+                "value": 0.99
+              },
+              {
+                "id": "religion_4",
+                "label": "Christianity",
+                "value": 0.87
+              },
+              {
+                "id": "religion_5",
+                "label": "Buddhism",
+                "value": 0.11
+              },
+              {
+                "id": "religion_6",
+                "label": "Other or Not stated",
+                "value": 0.09
+              }
+            ]
           }
         }
       ]
