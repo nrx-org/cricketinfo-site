@@ -81,7 +81,7 @@
     },
     {
       "title": "Style of play",
-      "id": "W3M-8LM1ot3",
+      "id": "lxdpA7jiYBj0",
       "cardType": "simple",
       "facts": [
         {
@@ -102,16 +102,95 @@
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": "xtSM4MH9q8L",
+          "id": "RFN64-uevRgn",
           "note": "2006",
           "value": {
-            "label": "शर्मा ने भारत ए की ओर से न्यूजीलैंड ए के विरुद्ध 2006 में रणजी मैच खेलने से पूर्व ही प्रथम श्रेणी क्रिकेट में पदार्पण किया। ",
+            "label": "शर्मा ने भारत ए की ओर से न्यूजीलैंड ए के विरुद्ध 2006 में रणजी मैच खेलने से पूर्व ही प्रथम श्रेणी क्रिकेट में पदार्पण किया। "
+          }
+        },
+        {
+          "label": "राष्ट्रीय टीम ",
+          "id": "LXGZ1bGqiC5A",
+          "note": "2007",
+          "value": {
+            "label": "रोहित शर्मा ने आयरलैंड के विरुद्ध वनडे इंटरनेशनल में पदार्पण किया, हालांकि इस मैच में उन्हें बल्लेबाजी का अवसर नहीं मिला। "
+          }
+        },
+        {
+          "label": "टी 20 विश्व कप ",
+          "id": "kEnjnjb_97Z0",
+          "note": "2007",
+          "value": {
+            "label": "2007 के आईसीसी विश्व ट्वेंटी 20 में रोहित शर्मा ने दक्षिण अफ्रीक के विरुद्ध  नाबाद 50 रन बनाए जिसकी मदद से भारतीय टीम सेमी फाइनल में पहुंची।  ",
             "facts": [
               {
-                "label": "",
-                "id": "-kJ9cWNG4LC"
+                "url": "/read/hi/icc_t20_world_cup",
+                "contentUrl": "/static/content/hi/icc_t20_world_cup.json",
+                "label": "आईसीसी टी20 विश्व कप",
+                "id": "wAMHo0uVw1IY",
+                "value": {
+                  "label": "आईसीसी टी20 विश्व कप (जिसे पहले आईसीसी विश्व ट्वेंटी20 के नाम से जाना जाता था) ट्वेंटी20 क्रिकेट की अंतर्राष्ट्रीय चैम्पियनशिप है। वर्तमान में इस टूर्नामेंट में 16 टीमें भाग लेती हैं, जिसमें आठ टीमें दी गई समय सीमा के भीतर रैंकिंग के शीर्ष आठ में रहने वाली टीमें होती हैं जबकि चार अन्य टीमें टी20 विश्व कप क्वालीफायर के माध्यम से चुनी जातीं हैं।",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/ICC_T20_World_Cup#/media/File:ICC_World_Twenty20_Trophy.jpg",
+                    "altText": "Image of आईसीसी टी20 विश्व कप"
+                  }
+                }
               }
             ]
+          }
+        },
+        {
+          "label": "\n2013 आईसीसी चैंपियंस ट्रॉफी",
+          "id": "sbjz12FM6UsA",
+          "note": "2013",
+          "value": {
+            "label": "2013 में चैंपियंस ट्रॉफी में उन्हें सलामी बल्लेबाज के रूप में प्रोन्नत करते हुए शिखर धवन के साथ पारी शुरू करने के लिए भेजा गया।  ",
+            "facts": [
+              {
+                "url": "/read/hi/icc_champions_trophy",
+                "contentUrl": "/static/content/hi/icc_champions_trophy.json",
+                "label": "आईसीसी चैंपियंस ट्रॉफी",
+                "id": "NUl0z9B-FO9G",
+                "value": {
+                  "label": "आईसीसी चैंपियंस ट्रॉफी एक दिवसीय अंतर्राष्ट्रीय (वनडे) क्रिकेट टूर्नामेंट था जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया जाता था, जो क्रिकेट विश्व कप के बाद दूसरा सबसे महत्वपूर्ण आयोजन था। 2002 में इसका नाम बदलकर चैंपियंस ट्रॉफी रखा गया।",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/ICC_Champions_Trophy#/media/File:ICC_Champions_Trophy_cricket_logo.png",
+                    "altText": "Image of आईसीसी चैंपियंस ट्रॉफी"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "विश्व कप ",
+          "id": "VnN0dzCctH6l",
+          "note": "2015",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "url": "/read/hi/2015_cricket_world_cup",
+                "contentUrl": "/static/content/hi/2015_cricket_world_cup.json",
+                "label": "2015 क्रिकेट विश्व कप",
+                "id": "-Mtd_zhyGusR",
+                "value": {
+                  "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/2015_Cricket_World_Cup#/media/File:2015_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2015 क्रिकेट विश्व कप"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "IPL डेब्यू",
+          "id": "mtm2GTkaYLiu",
+          "note": "2008",
+          "value": {
+            "label": "शर्मा को डेक्कन चार्जर्स ने प्रति वर्ष यूएस डॉलर 750,000 में 2008 के लिए साइन किया। "
           }
         }
       ]

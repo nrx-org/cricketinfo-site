@@ -79,7 +79,7 @@
     },
     {
       "title": "Style of play",
-      "id": "kUgHMQXuFAG",
+      "id": "doOl-WYgbLo",
       "cardType": "simple",
       "facts": [
         {
@@ -96,16 +96,49 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "BXr7UzO0JM9",
+          "id": "wgGKNhOnPRR",
           "note": "1984",
           "value": {
-            "label": "Wasim Akram made his first class debut in 1984 as part of the Pakistan Automobiles Corporation team.",
+            "label": "Wasim Akram made his first class debut in 1984 as part of the Pakistan Automobiles Corporation team."
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "dr9NEv9nQ8s",
+          "note": "1984",
+          "value": {
+            "label": "Akram started his ODI career against New Zealand in Pakistan in 1984 under the captaincy of Zaheer Abbas.",
             "facts": [
               {
-                "label": "",
-                "id": "phVliIYlu69"
+                "url": "/read/en/new_zealand_national_cricket_team",
+                "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
+                "label": "New Zealand national cricket team",
+                "id": "UDZytGzvAcp",
+                "value": {
+                  "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/New_Zealand_national_cricket_team#/media/File:New_Zealand_Cricket_Cap_Insignia.svg",
+                    "altText": "Image of New Zealand national cricket team"
+                  }
+                }
               }
             ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "loDgi3_UqE6",
+          "note": "1987",
+          "value": {
+            "label": "In the 1987 Cricket World Cup held for the 1st time in South Asia, Akram struggled on Pakistani pitches."
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "UVy55gTKbYP",
+          "note": "",
+          "value": {
+            "label": ""
           }
         }
       ]

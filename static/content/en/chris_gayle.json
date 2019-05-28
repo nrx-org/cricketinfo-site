@@ -69,7 +69,7 @@
     },
     {
       "title": "Style of play",
-      "id": "UOlyIHHMcf",
+      "id": "1qnTAy7oZp2f",
       "cardType": "simple",
       "facts": [
         {
@@ -90,14 +90,62 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "tFBjHXLkM-",
+          "id": "18tAgTerw5r2",
           "note": "1998",
           "value": {
-            "label": "Gayle made his first-class debut in 1998, at age 19 for Jamaica.",
+            "label": "Gayle made his first-class debut in 1998, at age 19 for Jamaica."
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "hS9vKoTyljzf",
+          "note": "1999",
+          "value": {
+            "label": "Gayle played his first One Day International against India in 1999",
             "facts": [
               {
-                "label": "",
-                "id": "uAUUBrIukV"
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "label": "India national cricket team",
+                "id": "zY8efq5vA40E",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India#/media/File:Cricket_India_Crest.svg",
+                    "altText": "Image of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "25351kLUD435",
+          "note": "2003",
+          "value": {
+            "label": "Gayle was part of the West Indies team in the 2003 world cup"
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "psiQztCWZ8s0",
+          "note": "2008",
+          "value": {
+            "label": "Gayle could not play the inaugural version of the IPL due to an injury",
+            "facts": [
+              {
+                "url": "/read/en/kolkata_knight_riders",
+                "contentUrl": "/static/content/en/kolkata_knight_riders.json",
+                "label": "Kolkata Knight Riders",
+                "id": "HCkpEtFD49Io",
+                "value": {
+                  "label": "The Kolkata Knight Riders (also known by the acronym KKR) are a franchise cricket team representing the city of Kolkata in the Indian Premier League. ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Kolkata_Knight_Riders#/media/File:Kolkata_Knight_Riders_Logo.svg",
+                    "altText": "Image of Kolkata Knight Riders"
+                  }
+                }
               }
             ]
           }

@@ -62,7 +62,7 @@
     },
     {
       "title": "Style of play",
-      "id": "9De2aJpmQbh",
+      "id": "K0Akl60gaWM",
       "cardType": "simple",
       "facts": [
         {
@@ -83,14 +83,62 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "YC1yB3d-221",
+          "id": "A_J6jmtc1Ib",
           "note": "2002",
           "value": {
-            "label": "Karthik made his debut at the first-class level in late-2002 against Baroda",
+            "label": "Karthik made his debut at the first-class level in late-2002 against Baroda"
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "fczzi47eH9M",
+          "note": "2004",
+          "value": {
+            "label": "Karthik made his international debut in an One day international match against England in 2004",
             "facts": [
               {
-                "label": "Ranji Trophy",
-                "id": "GeCjiXc1Yc9"
+                "url": "/read/en/england_cricket_team",
+                "contentUrl": "/static/content/en/england_cricket_team.json",
+                "label": "England cricket team",
+                "id": "X3-PW1o4Mfv",
+                "value": {
+                  "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/England_cricket_team#/media/File:England_cricket_team_logo.svg",
+                    "altText": "Image of England cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "ktxdScMB2VbJ",
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "jOc_aMDP18Ab",
+          "note": "2008",
+          "value": {
+            "label": "Karthik played in the 2008 Indian Premier League as the wicket-keeper for the Delhi Daredevils",
+            "facts": [
+              {
+                "url": "/read/en/delhi_capitals",
+                "contentUrl": "/static/content/en/delhi_capitals.json",
+                "label": "Delhi Capitals",
+                "id": "pdJqgrDUclnm",
+                "value": {
+                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Delhi_Capitals#/media/File:Delhi_Capitals_Logo.svg",
+                    "altText": "Image of Delhi Capitals"
+                  }
+                }
               }
             ]
           }

@@ -25,10 +25,25 @@ const getCardInfoFromId = (idMap, id, lang) => {
     return null;
   }
 
-  const referencedCardSourceCsvFile = fs.readFileSync(
-    referencedCardEntry.sourceCsvFile[lang],
-    "utf8"
-  );
+  let referencedCardSourceCsvFile;
+
+  try {
+    referencedCardSourceCsvFile = fs.readFileSync(
+      referencedCardEntry.sourceCsvFile[lang],
+      "utf8"
+    );
+  } catch (e) {
+    /* eslint-disable no-console */
+    console.error(
+      `ERROR: Could not open CSV file for ID ${id} and language ${lang}. File path was ${
+        referencedCardEntry.sourceCsvFile[lang]
+      }.`
+    );
+    /* eslint-enable no-console */
+
+    return null;
+  }
+
   const records = parse(referencedCardSourceCsvFile, {
     columns: true,
     delimiter: ","

@@ -79,7 +79,7 @@
     },
     {
       "title": "Style of play",
-      "id": "z6jLM198_nE",
+      "id": "qkbDM5YpiLbW",
       "cardType": "simple",
       "facts": [
         {
@@ -100,14 +100,62 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "3h1OKWu32DK",
+          "id": "qexzxUQBspkO",
           "note": "2009",
           "value": {
-            "label": "Buttler made his first-class debut for Somerset in September 2009 against Lancashire.",
+            "label": "Buttler made his first-class debut for Somerset in September 2009 against Lancashire."
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "ZiHgni_YsYbh",
+          "note": "2011",
+          "value": {
+            "label": "Buttler made his international debut as a specialist batsman in 2011",
             "facts": [
               {
-                "label": "County Championship",
-                "id": "akPLuDneGd8"
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "label": "India national cricket team",
+                "id": "Pgx7JXAQTKB8",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India#/media/File:Cricket_India_Crest.svg",
+                    "altText": "Image of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "GLVqulm052Qz",
+          "note": "2012",
+          "value": {
+            "label": "Buttler played in all five of England's matches in the competition"
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "0rhGvENdxwV1",
+          "note": "2016",
+          "value": {
+            "label": "Buttler played for Mumbai Indians in the 2016 and 2017 IPL seasons",
+            "facts": [
+              {
+                "url": "/read/en/mumbai_indians",
+                "contentUrl": "/static/content/en/mumbai_indians.json",
+                "label": "Mumbai Indians",
+                "id": "6vrr9pwi8CgB",
+                "value": {
+                  "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Mumbai_Indians#/media/File:Mumbai_Indians_Logo.svg",
+                    "altText": "Image of Mumbai Indians"
+                  }
+                }
               }
             ]
           }

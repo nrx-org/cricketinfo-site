@@ -79,7 +79,7 @@
     },
     {
       "title": "Style of play",
-      "id": "wRTFw3rfEKb",
+      "id": "NupfYMMDwB5",
       "cardType": "simple",
       "facts": [
         {
@@ -96,16 +96,64 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "a60PECcxm0J",
+          "id": "RMw0ub6Z8Jj",
           "note": "1979",
           "value": {
-            "label": "At 17 years and 292 days, Shastri was then the youngest cricketer to debut and play for Bombay in Ranji Trophy.",
+            "label": "At 17 years and 292 days, Shastri was then the youngest cricketer to debut and play for Bombay in Ranji Trophy."
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "5NVPOXvcsiX",
+          "note": "1981",
+          "value": {
+            "label": "Ravi Shastri made his international debut for India in 1981 versus New Zealand",
             "facts": [
               {
-                "label": "Ranji Trophy",
-                "id": "NoLpQduYFKX"
+                "url": "/read/en/new_zealand_national_cricket_team",
+                "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
+                "label": "New Zealand national cricket team",
+                "id": "oTGjicQ5HZ_",
+                "value": {
+                  "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/New_Zealand_national_cricket_team#/media/File:New_Zealand_Cricket_Cap_Insignia.svg",
+                    "altText": "Image of New Zealand national cricket team"
+                  }
+                }
               }
             ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "fhabpFkQMsw",
+          "note": "1983",
+          "value": {
+            "label": "Shastri was not selected to play in most of the important matches in the 1983 World Cup",
+            "facts": [
+              {
+                "url": "/read/en/1983_cricket_world_cup",
+                "contentUrl": "/static/content/en/1983_cricket_world_cup.json",
+                "label": "1983 Cricket World Cup",
+                "id": "3V5rYm1AzF-",
+                "value": {
+                  "label": "The 1983 Cricket World Cup (officially the Prudential Cup '83) was the 3rd edition of the Cricket World Cup tournament. It was held from 9 June to 25 June 1983 in England and Wales and was won by India.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/1983_Cricket_World_Cup#/media/File:Prudential_Cup_83_logo.svg",
+                    "altText": "Image of 1983 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "zeHpb7cN5bB",
+          "note": "",
+          "value": {
+            "label": ""
           }
         }
       ]
