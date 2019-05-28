@@ -87,7 +87,7 @@
     },
     {
       "title": "Style of play",
-      "id": "a06rutip9p",
+      "id": "vbL3smAgga",
       "cardType": "simple",
       "facts": [
         {
@@ -98,6 +98,26 @@
               "url": "https://en.wikipedia.org/wiki/Sachin_Tendulkar#/media/File:Master_Blaster_at_work.jpg",
               "altText": "Style of play for Sachin Tendulkar"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "X9B0qUZ6b8",
+          "note": "1988",
+          "value": {
+            "label": "In 1988, aged 15 years and 232 days, Tendulkar made his first class debut for Bombay against Gujarat and scored 100 not out in that match.",
+            "facts": [
+              {
+                "label": "Ranji Trophy",
+                "id": "Rb1ChT2wCJ"
+              }
+            ]
           }
         }
       ]

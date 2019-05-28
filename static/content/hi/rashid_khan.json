@@ -65,13 +65,33 @@
     },
     {
       "title": "Style of play",
-      "id": "A05a2vNql5S",
+      "id": "Jp9oBgyFOHS",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
             "label": "राशिद अपने भाइयों के साथ क्रिकेट खेलते बड़े हुए और पाकिस्तानी ऑलराउंडर शाहिद अफरीदी, जिनसे उन्होंने अपने गेंदबाजी एक्शन को दिशा दिया और वे उन्‍हें अपने आदर्श के रूप में प्रस्‍तुत करते हैं। "
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "प्रथम श्रेणी की शुरुआत",
+          "id": "Sfb0HW8b4nn",
+          "note": "",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "",
+                "id": "z66NTu5xErC"
+              }
+            ]
           }
         }
       ]

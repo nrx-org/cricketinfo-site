@@ -81,7 +81,7 @@
     },
     {
       "title": "Style of play",
-      "id": "ng95AiAp8M",
+      "id": "5r3OWwr4jfs",
       "cardType": "simple",
       "facts": [
         {
@@ -92,6 +92,26 @@
               "url": "https://en.wikipedia.org/wiki/Shikhar_Dhawan#/media/File:SHIKHAR_DHAWAN_(16007163087).jpg",
               "altText": "Style of play for Shikhar Dhawan"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "TbCExlM6gZa",
+          "note": "2004",
+          "value": {
+            "label": "Dhawan made his first-class debut for Delhi against Andhra during Ranji Trophy in the year 2004.",
+            "facts": [
+              {
+                "label": "Ranji Trophy",
+                "id": "2Gx2zzRYVcp"
+              }
+            ]
           }
         }
       ]

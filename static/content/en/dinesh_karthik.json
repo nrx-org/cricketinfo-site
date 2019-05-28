@@ -37,8 +37,7 @@
           "label": "Birthplace",
           "value": {
             "label": "Tiruchendur, Tamil Nadu, India",
-            "url": "https://en.wikipedia.org/wiki/Tiruchendur",
-            "contentUrl": "/static/content/en/.json"
+            "url": "https://en.wikipedia.org/wiki/Tiruchendur"
           }
         },
         {
@@ -63,13 +62,37 @@
     },
     {
       "title": "Style of play",
-      "id": "hmnz8PAMBgw",
+      "id": "VRIumcgoOec",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
-            "label": "Dinesh Karthik is a wicket-keeper mostly in Test matches, and right-handed batsman"
+            "label": "Dinesh Karthik is a wicket-keeper mostly in Test matches, and right-handed batsman",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Dinesh_Karthik#/media/File:Dinesh_Karthik_fielding.jpg",
+              "altText": "Style of play for Dinesh Karthik"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "5uWc6Vz28sa",
+          "note": "2002",
+          "value": {
+            "label": "Karthik made his debut at the first-class level in late-2002 against Baroda",
+            "facts": [
+              {
+                "label": "Ranji Trophy",
+                "id": "CpQ_BUOCmSc"
+              }
+            ]
           }
         }
       ]

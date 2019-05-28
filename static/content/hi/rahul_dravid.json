@@ -39,8 +39,7 @@
           "label": "Birthplace",
           "value": {
             "label": "इंदौर, भारत",
-            "url": "https://en.wikipedia.org/wiki/Indore",
-            "contentUrl": "/static/content/hi/.json"
+            "url": "https://en.wikipedia.org/wiki/Indore"
           }
         },
         {
@@ -87,7 +86,7 @@
     },
     {
       "title": "Style of play",
-      "id": "WntpVpMDM66",
+      "id": "I7-cK4cqHXZ",
       "cardType": "simple",
       "facts": [
         {
@@ -98,6 +97,26 @@
               "url": "https://en.wikipedia.org/wiki/Rahul_Dravid#/media/File:Rahul_cropped.jpg",
               "altText": "Style of play for राहुल द्रविड़"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "प्रथम श्रेणी की शुरुआत",
+          "id": "QTsVOycddqx",
+          "note": "1991",
+          "value": {
+            "label": "द्रविड़ ने महाराष्ट्र के खिलाफ 1991 में रणजी ट्रॉफी क्रिकेट में पदार्पण किया। ",
+            "facts": [
+              {
+                "label": "रणजी ट्रॉफी ",
+                "id": "tZivTdFlaH1"
+              }
+            ]
           }
         }
       ]

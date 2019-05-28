@@ -79,13 +79,33 @@
     },
     {
       "title": "Style of play",
-      "id": "jROSk9Dpntd",
+      "id": "Gn9JUGjM1U8",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
             "label": "Wasim Akram was a left-arm fast bowler who could bowl with significant pace,"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "xWF0nUTKDKO",
+          "note": "1984",
+          "value": {
+            "label": "Wasim Akram made his first class debut in 1984 as part of the Pakistan Automobiles Corporation team.",
+            "facts": [
+              {
+                "label": "",
+                "id": "V9fGuoqIX-B"
+              }
+            ]
           }
         }
       ]

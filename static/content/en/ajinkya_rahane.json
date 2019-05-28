@@ -37,8 +37,7 @@
           "label": "Birthplace",
           "value": {
             "label": "Sangamner, Maharashtra, India",
-            "url": "https://en.wikipedia.org/wiki/Sangamner",
-            "contentUrl": "/static/content/en/.json"
+            "url": "https://en.wikipedia.org/wiki/Sangamner"
           }
         },
         {
@@ -79,13 +78,33 @@
     },
     {
       "title": "Style of play",
-      "id": "aUeJhphghxY",
+      "id": "CixoiVNmLUB",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
             "label": "Rahane is a right-handed middle order batsman"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "m3ky-oxgoHe",
+          "note": "Rahane made his first-class debut, at the age of 19, for Mumbai against Karachi Urban in the Mohammad Nissar Trophy in September 2007",
+          "value": {
+            "label": "Mohammad Nissar Trophy was an annual first class cricket competition played over four days between the winners of the Ranji Trophy from India and Quaid-i-Azam Trophy from Pakistan.",
+            "facts": [
+              {
+                "label": "Mohammad Nissar Trophy",
+                "id": "T-0nI1VeqSC"
+              }
+            ]
           }
         }
       ]

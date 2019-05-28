@@ -39,8 +39,7 @@
           "label": "Birthplace",
           "value": {
             "label": "Indore, India",
-            "url": "https://en.wikipedia.org/wiki/Indore",
-            "contentUrl": "/static/content/en/.json"
+            "url": "https://en.wikipedia.org/wiki/Indore"
           }
         },
         {
@@ -87,7 +86,7 @@
     },
     {
       "title": "Style of play",
-      "id": "4qfrRB47s5",
+      "id": "PVGHyxT5hfy",
       "cardType": "simple",
       "facts": [
         {
@@ -98,6 +97,26 @@
               "url": "https://en.wikipedia.org/wiki/Rahul_Dravid#/media/File:Rahul_cropped.jpg",
               "altText": "Style of play for Rahul Dravid"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "gZgAgvQ_EBO",
+          "note": "1991",
+          "value": {
+            "label": "Dravid made his Ranji Trophy debut in 1991versus Maharashtra.",
+            "facts": [
+              {
+                "label": "Ranji Trophy",
+                "id": "-FkIuz6Yx4C"
+              }
+            ]
           }
         }
       ]

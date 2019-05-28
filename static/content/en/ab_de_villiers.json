@@ -85,13 +85,37 @@
     },
     {
       "title": "Style of play",
-      "id": "Gyvn9AiUJ9t",
+      "id": "-IyExi2yyUr",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
-            "label": "De Villiers is a right-handed batsman and an occasional wicket-keeper"
+            "label": "De Villiers is a right-handed batsman and an occasional wicket-keeper",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/AB_de_Villiers#/media/File:AB_de_villiers_(cropped).jpg",
+              "altText": "Style of play for AB de Villiers"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "UUdm8PtD8jy",
+          "note": "2004",
+          "value": {
+            "label": "De Villiers made his first class debut for the South African domestic team Northerns",
+            "facts": [
+              {
+                "label": "",
+                "id": "IiYFmnqB8Sz"
+              }
+            ]
           }
         }
       ]

@@ -63,13 +63,33 @@
     },
     {
       "title": "Style of play",
-      "id": "WA0wBvqbf8p",
+      "id": "7u3XVhFUaSi",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
             "label": "Bumrah is a right arm fast bowler who consistently bowls at 140–145 kmph making him one of the fastest bowlers in India."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "ArQy_a9WC3s",
+          "note": "2013",
+          "value": {
+            "label": "Bumrah plays first-class cricket for Gujarat and he made his debut against Vidarbha in October 2013",
+            "facts": [
+              {
+                "label": "",
+                "id": "vl_XpvSlNdh"
+              }
+            ]
           }
         }
       ]

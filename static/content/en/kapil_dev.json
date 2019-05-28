@@ -39,8 +39,7 @@
           "label": "Birthplace",
           "value": {
             "label": "Chandigarh, India",
-            "url": "https://en.wikipedia.org/wiki/Chandigarh",
-            "contentUrl": "/static/content/en/chandigarh.json"
+            "url": "https://en.wikipedia.org/wiki/Chandigarh"
           }
         },
         {
@@ -81,13 +80,33 @@
     },
     {
       "title": "Style of play",
-      "id": "jCX_wJGtKn",
+      "id": "DEKVzfzPmB",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
             "label": "One of the greatest all-rounders to have played the game. Right-handed batsman and right-arm pace bowler."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "tfRqTO4gjp",
+          "note": "1975",
+          "value": {
+            "label": "Dev made an impressive debut for Haryana in November 1975 against Punjab.",
+            "facts": [
+              {
+                "label": "",
+                "id": "j7GaQ-Dp4R"
+              }
+            ]
           }
         }
       ]

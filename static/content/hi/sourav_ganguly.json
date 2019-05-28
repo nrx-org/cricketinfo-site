@@ -39,8 +39,7 @@
           "label": "Birthplace",
           "value": {
             "label": "कोलकाता, भारत",
-            "url": "https://en.wikipedia.org/wiki/Calcutta",
-            "contentUrl": "/static/content/hi/kolkatta.json"
+            "url": "https://en.wikipedia.org/wiki/Calcutta"
           }
         },
         {
@@ -87,7 +86,7 @@
     },
     {
       "title": "Style of play",
-      "id": "_42JM4gKJ2i",
+      "id": "Xv3S5Agiftf",
       "cardType": "simple",
       "facts": [
         {
@@ -98,6 +97,26 @@
               "url": "https://en.wikipedia.org/wiki/Sourav_Ganguly#/media/File:Sachin_in_action.jpg",
               "altText": "Style of play for सौरव गांगुली"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "प्रथम श्रेणी की शुरुआत",
+          "id": "mZV9cXAYNNA",
+          "note": "1989",
+          "value": {
+            "label": "सौरव गांगुली ने बंगाल की ओर से 1989 में प्रथम श्रेणी क्रिकेट में पदार्पण किया। ",
+            "facts": [
+              {
+                "label": "रणजी ट्रॉफी ",
+                "id": "nmqeYF3-Z-7"
+              }
+            ]
           }
         }
       ]

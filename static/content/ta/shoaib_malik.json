@@ -71,8 +71,8 @@
           "label": "வாழ்க்கைத் துணை",
           "value": {
             "label": "சானியா மிர்ஸா",
-            "url": "/read/ta/",
-            "contentUrl": "/static/content/ta/.json",
+            "url": null,
+            "contentUrl": null,
             "image": {
               "url": "https://en.wikipedia.org/wiki/Sania_Mirza#/media/File:Sania_Mirza_(35449409862).jpg",
               "altText": "Picture of சானியா மிர்ஸா"
@@ -83,7 +83,7 @@
     },
     {
       "title": "Style of play",
-      "id": "zXxut9XUbIN",
+      "id": "Qpl-3yI_62b",
       "cardType": "simple",
       "facts": [
         {
@@ -94,6 +94,26 @@
               "url": "https://en.wikipedia.org/wiki/Shoaib_Malik#/media/File:Shoaib_Malik,_Dunedin,_NZ,_2009.jpg",
               "altText": "Style of play for ஷோயப் மாலிக்"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "முதல் வகுப்பு",
+          "id": "OTruOwHk5Kh",
+          "note": "",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "",
+                "id": "OIrLIjCU5ye"
+              }
+            ]
           }
         }
       ]

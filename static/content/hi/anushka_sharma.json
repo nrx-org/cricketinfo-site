@@ -99,13 +99,33 @@
     },
     {
       "title": "Style of play",
-      "id": "BKfOOAASCiW",
+      "id": "hCaFV3BA0jt",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
             "label": ""
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "प्रथम श्रेणी की शुरुआत",
+          "id": "fX2_DbmqpoD",
+          "note": "",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "",
+                "id": "MLO7gV4y9QN"
+              }
+            ]
           }
         }
       ]

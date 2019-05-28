@@ -39,8 +39,7 @@
           "label": "Birthplace",
           "value": {
             "label": "Kolkata, India",
-            "url": "https://en.wikipedia.org/wiki/Calcutta",
-            "contentUrl": "/static/content/en/kolkatta.json"
+            "url": "https://en.wikipedia.org/wiki/Calcutta"
           }
         },
         {
@@ -87,7 +86,7 @@
     },
     {
       "title": "Style of play",
-      "id": "yYvuFWJjQk",
+      "id": "Z0728T-n0M",
       "cardType": "simple",
       "facts": [
         {
@@ -98,6 +97,26 @@
               "url": "https://en.wikipedia.org/wiki/Sourav_Ganguly#/media/File:Sachin_in_action.jpg",
               "altText": "Style of play for Sourav Ganguly"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "YWaxdnNkbHz",
+          "note": "1989",
+          "value": {
+            "label": "Sourav Ganguly made his first-class cricket debut for Bengal in 1989.",
+            "facts": [
+              {
+                "label": "Ranji Trophy",
+                "id": "05Tjytfs90g"
+              }
+            ]
           }
         }
       ]

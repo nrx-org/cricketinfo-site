@@ -38,7 +38,7 @@
           "value": {
             "label": "Taunton, Somerset, England",
             "url": "https://en.wikipedia.org/wiki/Taunton",
-            "contentUrl": "/static/content/en/.json"
+            "contentUrl": "/static/content/en/taunton.json"
           }
         },
         {
@@ -79,13 +79,37 @@
     },
     {
       "title": "Style of play",
-      "id": "eryQ8VhR2yZ",
+      "id": "cslcUTxkAKy",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
-            "label": "Right-handed batsman and wicket-keeper "
+            "label": "Right-handed batsman and wicket-keeper ",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Jos_Buttler#/media/File:Jos_buttler_keeping.jpg",
+              "altText": "Style of play for Jos Buttler"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "dIke2Jab1eK",
+          "note": "2009",
+          "value": {
+            "label": "Buttler made his first-class debut for Somerset in September 2009 against Lancashire.",
+            "facts": [
+              {
+                "label": "County Championship",
+                "id": "3jwh9ujvDIx"
+              }
+            ]
           }
         }
       ]

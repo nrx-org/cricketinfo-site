@@ -99,7 +99,7 @@
     },
     {
       "title": "Style of play",
-      "id": "wV1rgYUP49a",
+      "id": "XsLqdQNGBx8",
       "cardType": "simple",
       "facts": [
         {
@@ -109,6 +109,11 @@
           }
         }
       ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": []
     }
   ]
 }

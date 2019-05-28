@@ -79,13 +79,33 @@
     },
     {
       "title": "Style of play",
-      "id": "Y0sJ5fxkiL",
+      "id": "mvNJI99-dFu",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
             "label": "Ravi Shastri started his career as a left arm spin bowler and later transformed into a batting all-rounder."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "7tB3GTbqFno",
+          "note": "1979",
+          "value": {
+            "label": "At 17 years and 292 days, Shastri was then the youngest cricketer to debut and play for Bombay in Ranji Trophy.",
+            "facts": [
+              {
+                "label": "Ranji Trophy",
+                "id": "bn67nbQ7KMg"
+              }
+            ]
           }
         }
       ]

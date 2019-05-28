@@ -39,8 +39,7 @@
           "label": "Birthplace",
           "value": {
             "label": "கொல்கத்தா, இந்தியா",
-            "url": "https://en.wikipedia.org/wiki/Calcutta",
-            "contentUrl": "/static/content/ta/kolkatta.json"
+            "url": "https://en.wikipedia.org/wiki/Calcutta"
           }
         },
         {
@@ -87,7 +86,7 @@
     },
     {
       "title": "Style of play",
-      "id": "pQkH70n9_y7",
+      "id": "mS9A0hCuXvj",
       "cardType": "simple",
       "facts": [
         {
@@ -98,6 +97,26 @@
               "url": "https://en.wikipedia.org/wiki/Sourav_Ganguly#/media/File:Sachin_in_action.jpg",
               "altText": "Style of play for சவுரவ் கங்குலி"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "முதல் வகுப்பு",
+          "id": "y6SgFqKcvQ4",
+          "note": "1989",
+          "value": {
+            "label": "சவுரவ் கங்குலி 1989 இல் பெங்காலுக்காக தன்னுடைய முதல் பர்ஸ் கிளாஸ் கிரிக்கெட்டைத் தொடங்கினார்.",
+            "facts": [
+              {
+                "label": "https://en.wikipedia.org/wiki/Ranji_Trophy",
+                "id": "n6dyj6s3-Nm"
+              }
+            ]
           }
         }
       ]

@@ -37,8 +37,7 @@
           "label": "Birthplace",
           "value": {
             "label": "Jamnagar, India",
-            "url": "https://en.wikipedia.org/wiki/Jamnagar",
-            "contentUrl": "/static/content/en/.json"
+            "url": "https://en.wikipedia.org/wiki/Jamnagar"
           }
         },
         {
@@ -63,13 +62,42 @@
     },
     {
       "title": "Style of play",
-      "id": "Sstoft5rUVM",
+      "id": "1Ap46CAgVK6",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
             "label": "Left-handed middle-order batsman and slow left-arm orthodox bowler"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "ob4k0uT0SOY",
+          "note": "2006",
+          "value": {
+            "label": "Jadeja made his first-class debut in the 2006–07 Duleep Trophy playing for the West Zone",
+            "facts": [
+              {
+                "label": "Duleep Trophy",
+                "id": "qn8lxTWEVHK",
+                "url": "/read/en/duleep_trophy",
+                "contentUrl": "/static/content/en/duleep_trophy.json",
+                "value": {
+                  "label": "The Duleep Trophy is a domestic first-class cricket competition played in India. Named after Kumar Shri Duleepsinhji of Nawanagar (also known as 'Duleep'), the competition was originally contested by teams representing geographical zones of India.",
+                  "image": {
+                    "url": null,
+                    "altText": "Image of Duleep Trophy"
+                  }
+                }
+              }
+            ]
           }
         }
       ]

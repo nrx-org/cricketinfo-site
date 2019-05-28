@@ -39,8 +39,7 @@
           "label": "Birthplace",
           "value": {
             "label": "चंडीगढ़, भारत",
-            "url": "https://en.wikipedia.org/wiki/Chandigarh",
-            "contentUrl": "/static/content/hi/chandigarh.json"
+            "url": "https://en.wikipedia.org/wiki/Chandigarh"
           }
         },
         {
@@ -81,13 +80,33 @@
     },
     {
       "title": "Style of play",
-      "id": "vctpHzI8j9D",
+      "id": "eWPLQWmGMbu",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
             "label": "खेल खेलने वाले सबसे महान ऑलराउंडरों में से एक। दाएं हाथ के बल्लेबाज और दाएं हाथ के तेज गेंदबाज।"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "प्रथम श्रेणी की शुरुआत",
+          "id": "s2PaYFxNQqv",
+          "note": "1975",
+          "value": {
+            "label": "देव ने हरियाणा की ओर से खेलते हुए पंजाब के विरुद्ध 1975 में प्रभावी पदार्पण किया। ",
+            "facts": [
+              {
+                "label": "",
+                "id": "8Vm-Npyv_pd"
+              }
+            ]
           }
         }
       ]

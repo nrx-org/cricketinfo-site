@@ -71,7 +71,7 @@
     },
     {
       "title": "Style of play",
-      "id": "Vgb8gX4rGG",
+      "id": "WAlKk_egqsT",
       "cardType": "simple",
       "facts": [
         {
@@ -82,6 +82,26 @@
               "url": "https://en.wikipedia.org/wiki/Kagiso_Rabada#/media/File:KAGISO_RABADA_(15085792033).jpg",
               "altText": "Style of play for Kagiso Rabada"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "9ck5pDZRoL4",
+          "note": "2013",
+          "value": {
+            "label": "Rabada made his debut for the Gauteng in the CSA Provincial One-Day Competition against Border in December 2013.",
+            "facts": [
+              {
+                "label": "CSA Provincial one day Competition",
+                "id": "oYw1VZOgWkK"
+              }
+            ]
           }
         }
       ]

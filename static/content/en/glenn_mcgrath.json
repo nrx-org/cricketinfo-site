@@ -69,13 +69,37 @@
     },
     {
       "title": "Style of play",
-      "id": "l6iJc8lQAnj",
+      "id": "BOSg5uUbR0Q",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
-            "label": "McGrath was regarded as one of the best fast bowlers in the world who relied on accuracy rather than pace."
+            "label": "McGrath was regarded as one of the best fast bowlers in the world who relied on accuracy rather than pace.",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Glenn_McGrath#/media/File:Glenn_McGrath_in_final_test_series.jpg",
+              "altText": "Style of play for Glenn McGrath"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "w710sNJEKQp",
+          "note": "1992",
+          "value": {
+            "label": "Glenn McGrath made his first class debut for New South Wales during the 1992–93 season",
+            "facts": [
+              {
+                "label": "",
+                "id": "cEFWVAa6w1y"
+              }
+            ]
           }
         }
       ]

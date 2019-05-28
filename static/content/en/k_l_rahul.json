@@ -79,13 +79,33 @@
     },
     {
       "title": "Style of play",
-      "id": "tR1DIORSDy3",
+      "id": "WjHaxQYvqXh",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
             "label": "Top-order right-handed batsman and occasional wicket-keeper"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "aC5X8Rcar6B",
+          "note": "2012",
+          "value": {
+            "label": "Rahul made his first-class cricket debut for Karnataka in the 2012–13 season",
+            "facts": [
+              {
+                "label": "Ranji Trophy",
+                "id": "XmbPs1Rb3UB"
+              }
+            ]
           }
         }
       ]

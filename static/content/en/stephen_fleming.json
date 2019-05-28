@@ -63,13 +63,37 @@
     },
     {
       "title": "Style of play",
-      "id": "xSnZPBYVJeX",
+      "id": "E3_pMk5yEeg",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
-            "label": "Fleming was an elegant left handed batsman, off-break bowler, and prolific fielder in the slips"
+            "label": "Fleming was an elegant left handed batsman, off-break bowler, and prolific fielder in the slips",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Stephen_Fleming#/media/File:Stephen_Fleming_captain.jpg",
+              "altText": "Style of play for Stephen Fleming"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "J-haOq_jkQc",
+          "note": "1991",
+          "value": {
+            "label": "Fleming first played for the Canterbury, first class team during the 1991-92 season.",
+            "facts": [
+              {
+                "label": "",
+                "id": "sPhCLqkTwu-"
+              }
+            ]
           }
         }
       ]

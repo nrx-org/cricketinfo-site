@@ -63,13 +63,33 @@
     },
     {
       "title": "Style of play",
-      "id": "kkQUxxxO0P5",
+      "id": "DOSvuZGII-l",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
             "label": "Pandya is an all-rounder who bats right-handed and bowls right-arm fast-medium."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "U2LERahEtj-",
+          "note": "2013",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "",
+                "id": "4nM1pcFXFVd"
+              }
+            ]
           }
         }
       ]

@@ -38,7 +38,7 @@
           "value": {
             "label": "Tauranga, New Zealand",
             "url": "https://en.wikipedia.org/wiki/Tauranga",
-            "contentUrl": "/static/content/en/.json"
+            "contentUrl": "/static/content/en/tauranga.json"
           }
         },
         {
@@ -79,13 +79,37 @@
     },
     {
       "title": "Style of play",
-      "id": "9bRPIdehx9B",
+      "id": "4d2L7hNmALx",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
-            "label": "Right-handed batsman and an occasional off spin bowler"
+            "label": "Right-handed batsman and an occasional off spin bowler",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Kane_Williamson#/media/File:Kane_Williamson_(9773667991).jpg",
+              "altText": "Style of play for Kane Williamson"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "bKEXv2Ldpgr",
+          "note": "2007",
+          "value": {
+            "label": "Williamson made his first-class cricket debut in December 2007",
+            "facts": [
+              {
+                "label": "",
+                "id": "Q8N0tjPpq5p"
+              }
+            ]
           }
         }
       ]

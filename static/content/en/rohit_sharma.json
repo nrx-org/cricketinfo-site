@@ -81,7 +81,7 @@
     },
     {
       "title": "Style of play",
-      "id": "EhAnswy064",
+      "id": "L3Y6c1Gu1RD",
       "cardType": "simple",
       "facts": [
         {
@@ -92,6 +92,26 @@
               "url": "https://en.wikipedia.org/wiki/Rohit_Sharma#/media/File:2015_CWC_I_v_UAE_02-28_Sharma_(01)_(cropped).JPG",
               "altText": "Style of play for Rohit Sharma"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "m2mb15jPlxR",
+          "note": "2006",
+          "value": {
+            "label": "Sharma made his First-class debut for India A against New Zealand A, in 2006, before his Ranji trophy debut.",
+            "facts": [
+              {
+                "label": "",
+                "id": "srmmJ6r5MIo"
+              }
+            ]
           }
         }
       ]
