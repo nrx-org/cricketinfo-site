@@ -63,13 +63,33 @@
     },
     {
       "title": "Style of play",
-      "id": "jZVQrnbgDqh",
+      "id": "VA4GFWbmyBx",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
             "label": "Slow left-arm chinaman bowler"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "-kFGEWLyu8f",
+          "note": "2014",
+          "value": {
+            "label": "Kuldeep Yadav plays first class Indian domestic cricket for Uttar Pradesh",
+            "facts": [
+              {
+                "label": "",
+                "id": "arX0Ya5MzKZ"
+              }
+            ]
           }
         }
       ]

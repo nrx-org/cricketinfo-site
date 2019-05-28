@@ -81,7 +81,7 @@
     },
     {
       "title": "Style of play",
-      "id": "w5Wq8PsDi1",
+      "id": "IFZMlsZmCt_",
       "cardType": "simple",
       "facts": [
         {
@@ -92,6 +92,26 @@
               "url": "https://en.wikipedia.org/wiki/Mushfiqur_Rahim#/media/File:Mushfiqur_Rahim_batting_against_England_at_Lords_in_2010,_cropped.jpg",
               "altText": "Style of play for Mushfiqur Rahim"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "PqndHzMH06m",
+          "note": "",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "",
+                "id": "5Hi1qmZRDjh"
+              }
+            ]
           }
         }
       ]

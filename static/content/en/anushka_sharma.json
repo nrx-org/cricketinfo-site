@@ -99,13 +99,33 @@
     },
     {
       "title": "Style of play",
-      "id": "vMR6KADw9c",
+      "id": "iMy-o1kOFp",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
             "label": " "
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "H4MdnBk3UF",
+          "note": "",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "",
+                "id": "m2Je47Smit"
+              }
+            ]
           }
         }
       ]

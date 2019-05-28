@@ -89,7 +89,7 @@
     },
     {
       "title": "Style of play",
-      "id": "vWDvIOYessT",
+      "id": "cY4w4J1P3sl",
       "cardType": "simple",
       "facts": [
         {
@@ -100,6 +100,26 @@
               "url": "https://en.wikipedia.org/wiki/Virat_Kohli#/media/File:Virat_Kohli_batting_2013.jpg",
               "altText": "Style of play for விராட் கோலி"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "முதல் வகுப்பு",
+          "id": "Ta0W0VNGbh7",
+          "note": "2006",
+          "value": {
+            "label": "கோலி, 2006 ஆம் ஆண்டு தமிழ்நாட்டுக்கு எதிராக டெல்லி அணிக்காக தன்னுடயை முதல் போட்டியில் ஆடினார்.",
+            "facts": [
+              {
+                "label": "https://en.wikipedia.org/wiki/Ranji_Trophy",
+                "id": "YT2AA7q_7Ls"
+              }
+            ]
           }
         }
       ]

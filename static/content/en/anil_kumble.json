@@ -87,7 +87,7 @@
     },
     {
       "title": "Style of play",
-      "id": "1c0lOcXekR",
+      "id": "vY9zsym0eG",
       "cardType": "simple",
       "facts": [
         {
@@ -98,6 +98,26 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/GandM_Flare_DXM_bat-Purist_156g_ball.jpg",
               "altText": "Style of play for Anil Kumble"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "FHLjW5T_uW",
+          "note": "1989",
+          "value": {
+            "label": "Kumble made his first-class debut for Karnataka against Hyderabad on 30 November 1989, taking 4 wickets.",
+            "facts": [
+              {
+                "label": "Ranji Trophy",
+                "id": "QOeyOSHgI4"
+              }
+            ]
           }
         }
       ]

@@ -80,13 +80,33 @@
     },
     {
       "title": "Style of play",
-      "id": "xXoMSlvHLdG",
+      "id": "IOC5FV4zF2q",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
             "label": "கிரிக்கெட்டில் தலைசிறந்த ஆல்ரவுண்டர்களில் ஒருவர். வலதுகை பேட்ஸ்மென் மற்றும் வலதுகை வேகப் பந்துவீச்சாளர்."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "முதல் வகுப்பு",
+          "id": "xCKP7GIrMzs",
+          "note": "1975",
+          "value": {
+            "label": "தேவ், 1975 ஆம் ஆண்டு பஞ்சாப்புக்கு எதிரான போட்டியில் ஹரியானவுக்காக விளையாடிய முதல் போட்டியிலேயே சிறப்பாக ஆடினார்.",
+            "facts": [
+              {
+                "label": "",
+                "id": "SAAuYEfp-hb"
+              }
+            ]
           }
         }
       ]

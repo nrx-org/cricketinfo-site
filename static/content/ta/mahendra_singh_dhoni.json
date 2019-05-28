@@ -86,7 +86,7 @@
     },
     {
       "title": "Style of play",
-      "id": "ymttmo5bFuV",
+      "id": "Xw7bv1c9DSw",
       "cardType": "simple",
       "facts": [
         {
@@ -97,6 +97,26 @@
               "url": "https://en.wikipedia.org/wiki/MS_Dhoni#/media/File:Mahendra_Singh_Dhoni_batting.JPG",
               "altText": "Style of play for மகேந்திர சிங் தோனி"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "முதல் வகுப்பு",
+          "id": "FAn0oDbz0y5",
+          "note": "1999",
+          "value": {
+            "label": "தோனி 18 வயதில், 1999-2000 சீசனில் பீகாருக்காக தன்னுடைய முதல் ரஞ்சி டிராஃபி போட்டியை விளையாடினார்.",
+            "facts": [
+              {
+                "label": "https://en.wikipedia.org/wiki/Ranji_Trophy",
+                "id": "m0YrhcpU3Fo"
+              }
+            ]
           }
         }
       ]

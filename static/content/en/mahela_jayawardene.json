@@ -38,7 +38,7 @@
           "value": {
             "label": "Colombo, Sri Lanka",
             "url": "https://en.wikipedia.org/wiki/Colombo",
-            "contentUrl": "/static/content/en/.json"
+            "contentUrl": "/static/content/en/colombo.json"
           }
         },
         {
@@ -85,13 +85,37 @@
     },
     {
       "title": "Style of play",
-      "id": "XXj5pBO-vad",
+      "id": "U_AGODs6mE",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
-            "label": "Right-handed batsman and right-arm medium bowler"
+            "label": "Right-handed batsman and right-arm medium bowler",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Mahela_Jayawardene#/media/File:Mahela_Jayawardene_-_batting.jpg",
+              "altText": "Style of play for Mahela Jayawardene"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "m4Gpuh0RR-",
+          "note": "1995",
+          "value": {
+            "label": "Mahela Jayawardene made his first class debut while playing for the Sinhalese Sports Club",
+            "facts": [
+              {
+                "label": "",
+                "id": "yc5tAxh9L2"
+              }
+            ]
           }
         }
       ]

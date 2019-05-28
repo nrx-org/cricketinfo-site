@@ -38,7 +38,7 @@
           "value": {
             "label": "Kingston, Jamaica",
             "url": "https://en.wikipedia.org/wiki/Kingston,_Jamaica",
-            "contentUrl": "/static/content/en/.json"
+            "contentUrl": "/static/content/en/jamaica.json"
           }
         },
         {
@@ -69,13 +69,37 @@
     },
     {
       "title": "Style of play",
-      "id": "8GQr1SczhPh",
+      "id": "UOlyIHHMcf",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
-            "label": "Left-handed batsman and right arm off-break bowler"
+            "label": "Left-handed batsman and right arm off-break bowler",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Chris_Gayle#/media/File:Chris_Gayle,_2010_(1).jpg",
+              "altText": "Style of play for Chris Gayle"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "tFBjHXLkM-",
+          "note": "1998",
+          "value": {
+            "label": "Gayle made his first-class debut in 1998, at age 19 for Jamaica.",
+            "facts": [
+              {
+                "label": "",
+                "id": "uAUUBrIukV"
+              }
+            ]
           }
         }
       ]

@@ -63,13 +63,33 @@
     },
     {
       "title": "Style of play",
-      "id": "wC1tuMGF0Nm",
+      "id": "_SapLvt52kt",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
             "label": "Jadhav bats right-handed and bowls right-arm off-breaks, and occasionally keeps wicket"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "wRGdtsVvWaa",
+          "note": "2007",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "",
+                "id": "zMNUNVfMcld"
+              }
+            ]
           }
         }
       ]

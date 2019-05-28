@@ -80,13 +80,33 @@
     },
     {
       "title": "Style of play",
-      "id": "i9ROUIDPC-3",
+      "id": "MClIzO3DL_A",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
             "label": "खेल खेलने वाले सबसे महान ऑलराउंडरों में से एक। दाएं हाथ के बल्लेबाज और दाएं हाथ के तेज गेंदबाज।"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "प्रथम श्रेणी की शुरुआत",
+          "id": "7Y18M1e2yTc",
+          "note": "1975",
+          "value": {
+            "label": "देव ने हरियाणा की ओर से खेलते हुए पंजाब के विरुद्ध 1975 में प्रभावी पदार्पण किया। ",
+            "facts": [
+              {
+                "label": "",
+                "id": "Qvf1Ff_RKqV"
+              }
+            ]
           }
         }
       ]

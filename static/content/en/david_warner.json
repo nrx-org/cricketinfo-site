@@ -37,8 +37,7 @@
           "label": "Birthplace",
           "value": {
             "label": "Paddington, New South Wales, Australia",
-            "url": "https://en.wikipedia.org/wiki/Paddington,_New_South_Wales",
-            "contentUrl": "/static/content/en/.json"
+            "url": "https://en.wikipedia.org/wiki/Paddington,_New_South_Wales"
           }
         },
         {
@@ -85,13 +84,37 @@
     },
     {
       "title": "Style of play",
-      "id": "KUlzklrX5Yj",
+      "id": "GrtxL0mWCc",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
-            "label": "Left-handed opening batsman, part-time spin bowler and aggressive fielder"
+            "label": "Left-handed opening batsman, part-time spin bowler and aggressive fielder",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/David_Warner_(cricketer)#/media/File:David_warner_t20_debut.JPG",
+              "altText": "Style of play for David Warner"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "bnP6JPe6Bl",
+          "note": "2009",
+          "value": {
+            "label": "Warner made his first-class debut playing for New South Wales against Western Australia.",
+            "facts": [
+              {
+                "label": "Sheffield Sheild",
+                "id": "PCPVIsEnHf"
+              }
+            ]
           }
         }
       ]

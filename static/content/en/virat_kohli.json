@@ -89,7 +89,7 @@
     },
     {
       "title": "Style of play",
-      "id": "SMUtpVm3J",
+      "id": "UxDDCTflP",
       "cardType": "simple",
       "facts": [
         {
@@ -100,6 +100,26 @@
               "url": "https://en.wikipedia.org/wiki/Virat_Kohli#/media/File:Virat_Kohli_batting_2013.jpg",
               "altText": "Style of play for Virat Kohli"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "PAHZWPFEvJ",
+          "note": "2006",
+          "value": {
+            "label": "Kohli made his first-class debut for Delhi against Tamil Nadu in 2006, at the age of 18",
+            "facts": [
+              {
+                "label": "Ranji Trophy",
+                "id": "syoA-tUY3c"
+              }
+            ]
           }
         }
       ]
