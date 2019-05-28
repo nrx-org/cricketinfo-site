@@ -155,6 +155,57 @@
           }
         }
       ]
+    },
+    {
+      "title": "Culture",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "कला ",
+          "id": "culture-कला_",
+          "value": {
+            "label": "दक्षिण अफ्रीकी कला में दुनिया की सबसे पुरानी कला वस्तुएं शामिल हैं, जिन्हें दक्षिण अफ्रीकी गुफा में खोजा गया था और 75,000 साल पहले की तिथि थी।",
+            "image": {
+              "url": "/static/images/south_africa/San_Painting%2C_Ukalamba_Drakensberge_1.JPG",
+              "altText": "दक्षिण अफ्रीकी कला में दुनिया की सबसे पुरानी कला वस्तुएं शामिल हैं, जिन्हें दक्षिण अफ्रीकी गुफा में खोजा गया था और 75,000 साल पहले की तिथि थी।",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "लोकप्रिय संस्कृति",
+          "id": "culture-लोकप्रिय_संस्कृति",
+          "value": {
+            "label": " अफ्रीकी मीडिया क्षेत्र बड़ा है, और दक्षिण अफ्रीका अफ्रीका के प्रमुख मीडिया केंद्रों में से एक है। जबकि दक्षिण अफ्रीका के कई प्रसारकों और प्रकाशनों ने आबादी की विविधता को समग्र रूप से दर्शाया है, सबसे अधिक इस्तेमाल की जाने वाली भाषा अंग्रेजी है। हालांकि, सभी दस अन्य आधिकारिक भाषाओं का कुछ हद तक या किसी अन्य का प्रतिनिधित्व किया जाता है।",
+            "image": {
+              "url": "",
+              "altText": " अफ्रीकी मीडिया क्षेत्र बड़ा है, और दक्षिण अफ्रीका अफ्रीका के प्रमुख मीडिया केंद्रों में से एक है। जबकि दक्षिण अफ्रीका के कई प्रसारकों और प्रकाशनों ने आबादी की विविधता को समग्र रूप से दर्शाया है, सबसे अधिक इस्तेमाल की जाने वाली भाषा अंग्रेजी है। हालांकि, सभी दस अन्य आधिकारिक भाषाओं का कुछ हद तक या किसी अन्य का प्रतिनिधित्व किया जाता है।"
+            }
+          }
+        },
+        {
+          "label": "भोजन ",
+          "id": "culture-भोजन_",
+          "value": {
+            "label": "दक्षिण अफ्रीकी व्यंजन बहुत अधिक मांस आधारित है और यह  ब्राई नामक विशिष्ट दक्षिण अफ्रीकी सामाजिक सभा, जो बारबेक्यू का एक भिन्न स्वरूप है, में व्यापक है। दक्षिण अफ्रीका एक प्रमुख शराब उत्पादक के रूप में भी विकसित हुआ है।",
+            "image": {
+              "altText": "दक्षिण अफ्रीकी व्यंजन बहुत अधिक मांस आधारित है और यह  ब्राई नामक विशिष्ट दक्षिण अफ्रीकी सामाजिक सभा, जो बारबेक्यू का एक भिन्न स्वरूप है, में व्यापक है। दक्षिण अफ्रीका एक प्रमुख शराब उत्पादक के रूप में भी विकसित हुआ है।",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "खेल ",
+          "id": "culture-खेल_",
+          "value": {
+            "label": "दक्षिण अफ्रीका के सबसे लोकप्रिय खेल फुटबॉल, रग्बी और क्रिकेट हैं।",
+            "image": {
+              "altText": "दक्षिण अफ्रीका के सबसे लोकप्रिय खेल फुटबॉल, रग्बी और क्रिकेट हैं।",
+              "license": ""
+            }
+          }
+        }
+      ]
     }
   ]
 }

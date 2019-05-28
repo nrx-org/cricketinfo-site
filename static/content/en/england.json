@@ -139,8 +139,7 @@
             "contentUrl": "/static/content/en/england_cricket_team.json",
             "image": {
               "url": "/static/images/england/England_cricket_team_logo.svg",
-              "altText": "Picture of England cricket team",
-              "license": "<p>Logo for the cricket team representing England and Wales</p><p></p><p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.ecb.co.uk/\">http://www.ecb.co.uk/</a></p><p><b><a href=\"/wiki/England_cricket_team\" title=\"England cricket team\">England cricket team</a></b></p><p>to serve as the primary means of visual identification at the top of the article dedicated to the entity in question.</p><p>n.a.</p><p>For identification purposes only.</p><p>n.a.</p><p>Logo for the cricket team representing England and Wales</p><p></p><p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.ecb.co.uk/\">http://www.ecb.co.uk/</a></p><p><b><a href=\"/wiki/England_women%27s_cricket_team\" title=\"England women&apos;s cricket team\">England women&apos;s cricket team</a></b></p><p>to serve as the primary means of visual identification at the top of the article dedicated to the entity in question.</p><p>n.a.</p><p>For identification purposes only.</p><p>n.a.</p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:England_cricket_team_logo.svg</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p><p>This is a <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">Scalable Vector Graphics</a> (SVG) image of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or <a href=\"/wiki/Copyright\" title=\"Copyright\">copyrighted</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>. If <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content restrictions</a> apply, this image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. See <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.</p>"
+              "altText": "Picture of England cricket team"
             }
           }
         }
@@ -159,6 +158,48 @@
               "url": "/static/images/england/Widecombe_in_the_Moor%2C_Devon.jpg",
               "altText": "An image of England",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Culture",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Architecture",
+          "id": "culture-architecture",
+          "value": {
+            "label": "Many ancient standing stone monuments were erected during the prehistoric period, including the Stonehenge. Romans who founded the first cities and towns such as London and introduced elaborate buildings. Medieval architecture's buildings were simple constructions. Since the 1930s various modernist forms have appeared.",
+            "image": {
+              "url": "/static/images/england/Westminster_abbey_west.jpg",
+              "altText": "Many ancient standing stone monuments were erected during the prehistoric period, including the Stonehenge. Romans who founded the first cities and towns such as London and introduced elaborate buildings. Medieval architecture's buildings were simple constructions. Since the 1930s various modernist forms have appeared.",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Literature",
+          "id": "culture-literature",
+          "value": {
+            "label": "Early authors wrote in Latin. The period of Old English literature provided the epic poem Beowulf. Middle English literature emerged with Geoffrey Chaucer, author of The Canterbury Tales. William Shakespeare, whose works include Hamlet, Romeo and Juliet, and Macbeth remains one of the most championed authors in English literature.",
+            "image": {
+              "url": "/static/images/england/Geoffrey_Chaucer_%2817th_century%29.jpg",
+              "altText": "Early authors wrote in Latin. The period of Old English literature provided the epic poem Beowulf. Middle English literature emerged with Geoffrey Chaucer, author of The Canterbury Tales. William Shakespeare, whose works include Hamlet, Romeo and Juliet, and Macbeth remains one of the most championed authors in English literature.",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "Music",
+          "id": "culture-music",
+          "value": {
+            "label": "Traditional folk music of England is centuries old. Early English composers in classical music include Renaissance artists. In popular music, many English artists have been cited as the most influential musicians of all time, like The Beatles, Led Zeppelin, Pink Floyd, Elton John, and Queen.",
+            "image": {
+              "url": "/static/images/england/The_Beatles_in_America.JPG",
+              "altText": "Traditional folk music of England is centuries old. Early English composers in classical music include Renaissance artists. In popular music, many English artists have been cited as the most influential musicians of all time, like The Beatles, Led Zeppelin, Pink Floyd, Elton John, and Queen.",
+              "license": ""
             }
           }
         }

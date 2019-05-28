@@ -155,6 +155,57 @@
           }
         }
       ]
+    },
+    {
+      "title": "Culture",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "கலை",
+          "id": "culture-கலை",
+          "value": {
+            "label": "தென் ஆப்பிரிக்க கலை உலகின் மிகப் பழமையான கலை பொருட்களைக் கொண்டதாகும், இவை தென் ஆப்பிரிக்க குகையில் கண்டுபிடிக்கப்பட்டுள்ளன, மேலும் இவை 75,000 ஆண்டுகளுக்கு முன்பு பயன்படுத்தப்பட்டவை என்றும் அறியப்பட்டுள்ளது.",
+            "image": {
+              "url": "/static/images/south_africa/San_Painting%2C_Ukalamba_Drakensberge_1.JPG",
+              "altText": "தென் ஆப்பிரிக்க கலை உலகின் மிகப் பழமையான கலை பொருட்களைக் கொண்டதாகும், இவை தென் ஆப்பிரிக்க குகையில் கண்டுபிடிக்கப்பட்டுள்ளன, மேலும் இவை 75,000 ஆண்டுகளுக்கு முன்பு பயன்படுத்தப்பட்டவை என்றும் அறியப்பட்டுள்ளது.",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "பிரசித்தி பெற்ற கலாச்சாரம்",
+          "id": "culture-பிரசித்தி_பெற்ற_கலாச்சாரம்",
+          "value": {
+            "label": "தென் ஆப்பிரிக்க ஊடகத் துறை பெரிய அளவிலானதாக இருப்பதுடன், ஆப்பிரிக்காவின் ஊடக மையங்களுள் மிக முக்கியமானதாகத் திகழ்கிறது. தென் ஆப்பிரிக்காவில் ஒளிபரப்படும் பல்வேறு ஊடகங்கள் மற்றும் பிரசுரங்கள் மக்களின் வேறுபட்ட தன்மையைப் பிரதிபலிப்பதாக இருந்தாலும், பொதுவாக பயன்படுத்தப்படும் மொழி ஆங்கிலம் ஆகும். இருப்பினும் மற்ற பத்து அதிகாரப்பூர்வ மொழிகள் ஒன்றையொன்று பிரதிநிதிதத்துவப்படுகின்றன.",
+            "image": {
+              "url": "",
+              "altText": "தென் ஆப்பிரிக்க ஊடகத் துறை பெரிய அளவிலானதாக இருப்பதுடன், ஆப்பிரிக்காவின் ஊடக மையங்களுள் மிக முக்கியமானதாகத் திகழ்கிறது. தென் ஆப்பிரிக்காவில் ஒளிபரப்படும் பல்வேறு ஊடகங்கள் மற்றும் பிரசுரங்கள் மக்களின் வேறுபட்ட தன்மையைப் பிரதிபலிப்பதாக இருந்தாலும், பொதுவாக பயன்படுத்தப்படும் மொழி ஆங்கிலம் ஆகும். இருப்பினும் மற்ற பத்து அதிகாரப்பூர்வ மொழிகள் ஒன்றையொன்று பிரதிநிதிதத்துவப்படுகின்றன."
+            }
+          }
+        },
+        {
+          "label": "உணவு",
+          "id": "culture-உணவு",
+          "value": {
+            "label": "தென் ஆப்பிரிக்க உணவு முறைகள் பெரும்பாலும் இறைச்சியை அடிப்படையாகக் கொண்டு இருக்கும் பார்ப்பிக்கின் ஒரு வகையான பிராய் எனப்படும் குறிப்பிடத்தக்க உணவு வகை சமூக கூட்டங்களுக்கு வித்திட்டது. தென்னாப்பிரிக்கா மது தயாரிக்கும் நாடுகளுள் மிக முக்கியமானதாக வளர்ந்திருக்கிறது.",
+            "image": {
+              "altText": "தென் ஆப்பிரிக்க உணவு முறைகள் பெரும்பாலும் இறைச்சியை அடிப்படையாகக் கொண்டு இருக்கும் பார்ப்பிக்கின் ஒரு வகையான பிராய் எனப்படும் குறிப்பிடத்தக்க உணவு வகை சமூக கூட்டங்களுக்கு வித்திட்டது. தென்னாப்பிரிக்கா மது தயாரிக்கும் நாடுகளுள் மிக முக்கியமானதாக வளர்ந்திருக்கிறது.",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "விளையாட்டு",
+          "id": "culture-விளையாட்டு",
+          "value": {
+            "label": "தென் ஆப்பிரிக்காவின் மிகவும் பிரபலமான விளையாட்டுக்கள் சாக்கர், ரக்பி மற்றும் கிரிக்கெட்.",
+            "image": {
+              "altText": "தென் ஆப்பிரிக்காவின் மிகவும் பிரபலமான விளையாட்டுக்கள் சாக்கர், ரக்பி மற்றும் கிரிக்கெட்.",
+              "license": ""
+            }
+          }
+        }
+      ]
     }
   ]
 }

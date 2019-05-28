@@ -103,6 +103,60 @@
           }
         }
       ]
+    },
+    {
+      "title": "Culture",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "ஆசியாடிக் சொசைட்டி ஆஃப் பாம்பே",
+          "id": "culture-ஆசியாடிக்_சொசைட்டி_ஆஃப்_பாம்பே",
+          "value": {
+            "label": "ஆசியாடிக் சொசைட்டி ஆஃப் பாம்பே எனப்படுவது நகரத்தில் உள்ள பழமையான பொது நூலகமாகும்.",
+            "image": {
+              "url": "/static/images/mumbai/Mumbai_03-2016_70_Asiatic_Society_Library.jpg",
+              "altText": "ஆசியாடிக் சொசைட்டி ஆஃப் பாம்பே எனப்படுவது நகரத்தில் உள்ள பழமையான பொது நூலகமாகும்.",
+              "license": "<p>Copyleft: This work of art is free; you can redistribute it and/or modify it according to terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:Free_Art_License\" class=\"extiw\" title=\"w:en:Free Art License\">Free Art License</a></b>. You will find a specimen of this license on the <a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">Copyleft Attitude site</a> as well as <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Commons:Free_Art_License_1.3\">on other sites</a>. <span class=\"licensetpl_link\" style=\"display:none;\">http://artlibre.org/licence/lal/en</span><span class=\"licensetpl_short\" style=\"display:none;\">FAL</span><span class=\"licensetpl_long\" style=\"display:none;\">Free Art License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
+            }
+          }
+        },
+        {
+          "label": "கிர்காம் சௌபட்டி கடற்கரை",
+          "id": "culture-கிர்காம்_சௌபட்டி_கடற்கரை",
+          "value": {
+            "label": "மும்பையின் கடற்கரைகள் பிரபலமான சுற்றுலாத்தளங்கள் ஆகும்",
+            "image": {
+              "url": "/static/images/mumbai/Chowpatti_Beach_%28Girgaum_Chowpatty%29.jpg",
+              "altText": "மும்பையின் கடற்கரைகள் பிரபலமான சுற்றுலாத்தளங்கள் ஆகும்",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "பிராபூர்ன் ஸ்டேடியம்",
+          "id": "culture-பிராபூர்ன்_ஸ்டேடியம்",
+          "value": {
+            "label": "இந்தியாவில் உள்ள பழமையான கிரிக்கெட் ஸ்டேடியங்களில் ஒன்று",
+            "image": {
+              "url": "/static/images/mumbai/Brabourne.jpg",
+              "altText": "இந்தியாவில் உள்ள பழமையான கிரிக்கெட் ஸ்டேடியங்களில் ஒன்று",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "சினிமா",
+          "id": "culture-சினிமா",
+          "value": {
+            "label": "மும்பை இந்திய சினிமாவின் பிறப்பிடமாகும்",
+            "image": {
+              "url": "/static/images/mumbai/India_film_clapperboard_%28variant%29.svg",
+              "altText": "மும்பை இந்திய சினிமாவின் பிறப்பிடமாகும்",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
+            }
+          }
+        }
+      ]
     }
   ]
 }
