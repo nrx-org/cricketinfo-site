@@ -9,7 +9,8 @@ const {
   getSluggedTitle,
   makeContentUrl,
   makeArticleUrl,
-  getCardInfoFromId
+  getCardInfoFromId,
+  downloadImageAndFillAttributions
 } = require("./lib");
 
 const csvExports = {
@@ -173,12 +174,14 @@ const AWARDS_AND_HONORS = [
   }
 ];
 
+// TODO: instead of auto-generating IDs, generate them from labels, slugs, indexes, etc.
+
 module.exports.exportPersonalities = () => {
   Object.keys(csvExports).forEach(lang => {
     const fileContent = fs.readFileSync(csvExports[lang].path, "utf8");
     const records = parse(fileContent, { columns: true, delimiter: "," });
 
-    records.forEach(record => {
+    records.forEach(async record => {
       const personality = {};
       const idTitleMap = findIdMapEntryById(idMap, record[ID_KEY]);
       const englishSlug = getSluggedTitle(idTitleMap.title.en);
@@ -190,11 +193,13 @@ module.exports.exportPersonalities = () => {
 
       personality.wikipediaUrl = record[WIKIPEDIA_URL_KEY];
 
-      // TODO: change file URL to our static directory.
-      personality.coverImage = {
-        url: record[COVER_IMAGE_KEY],
-        altText: `Image of ${personality.title}`
-      };
+      personality.coverImage = await downloadImageAndFillAttributions(
+        {
+          url: record[COVER_IMAGE_KEY],
+          altText: `Image of ${personality.title}`
+        },
+        englishSlug
+      );
 
       personality.summary = record[SUMMARY_KEY];
 
@@ -315,10 +320,13 @@ module.exports.exportPersonalities = () => {
                 label: record[RELATION_1_KEY],
                 url: relationshipArticleUrl,
                 contentUrl: relationshipArticleContentUrl,
-                image: {
-                  url: record[RELATION_1_IMAGE_KEY],
-                  altText: `Picture of ${record[RELATION_1_KEY]}`
-                }
+                image: await downloadImageAndFillAttributions(
+                  {
+                    url: record[RELATION_1_IMAGE_KEY],
+                    altText: `Picture of ${record[RELATION_1_KEY]}`
+                  },
+                  englishSlug
+                )
               }
             }
           ]
@@ -335,12 +343,15 @@ module.exports.exportPersonalities = () => {
               label: record[ALMA_MATER_KEY],
               value: {
                 label: record[ALMA_MATER_DESCRIPTION_KEY],
-                image: {
-                  url:
-                    record[ALMA_MATER_IMAGE_KEY] ||
-                    "/static/images/default_person.svg",
-                  altText: `Image of ${record[ALMA_MATER_KEY]}`
-                }
+                image: await downloadImageAndFillAttributions(
+                  {
+                    url:
+                      record[ALMA_MATER_IMAGE_KEY] ||
+                      "/static/images/default_person.svg",
+                    altText: `Image of ${record[ALMA_MATER_KEY]}`
+                  },
+                  englishSlug
+                )
               }
             }
           ]
@@ -364,10 +375,13 @@ module.exports.exportPersonalities = () => {
       };
 
       if (record[STYLE_OF_PLAY_IMAGE_KEY].trim()) {
-        styleOfPlaySection.facts[0].value.image = {
-          url: record[STYLE_OF_PLAY_IMAGE_KEY],
-          altText: `Style of play for ${personality.title}`
-        };
+        styleOfPlaySection.facts[0].value.image = await downloadImageAndFillAttributions(
+          {
+            url: record[STYLE_OF_PLAY_IMAGE_KEY],
+            altText: `Style of play for ${personality.title}`
+          },
+          englishSlug
+        );
       }
 
       personality.sections.push(styleOfPlaySection);
@@ -376,71 +390,80 @@ module.exports.exportPersonalities = () => {
       const careerPhasesSection = {
         title: "Phase(s)",
         cardType: "vertical_timeline",
-        facts: PHASES.map(phase => {
-          if (!record[phase.KEY]) {
-            return null;
-          }
-
-          const phaseFact = {
-            label: record[phase.KEY],
-            id: shortid.generate(),
-            note: record[phase.YEAR_KEY],
-            value: {
-              label: record[phase.DESCRIPTION_KEY]
+        facts: await Promise.all(
+          PHASES.map(async phase => {
+            if (!record[phase.KEY]) {
+              return null;
             }
-          };
 
-          const cardData = getCardInfoFromId(
-            idMap,
-            record[phase.CARD_ID_KEY],
-            lang
-          );
-          if (cardData) {
-            phaseFact.value.facts = [
-              {
-                url: cardData.url,
-                contentUrl: cardData.contentUrl,
-                label: cardData.title || record[phase.CARD_LABEL_KEY],
-                id: shortid.generate(),
-                value: {
-                  label: cardData.summary,
-                  image: {
-                    url: cardData.imageUrl,
-                    altText: `Image of ${cardData.title}`
+            const phaseFact = {
+              label: record[phase.KEY],
+              id: shortid.generate(),
+              note: record[phase.YEAR_KEY],
+              value: {
+                label: record[phase.DESCRIPTION_KEY]
+              }
+            };
+
+            const cardData = getCardInfoFromId(
+              idMap,
+              record[phase.CARD_ID_KEY],
+              lang
+            );
+            if (cardData) {
+              phaseFact.value.facts = [
+                {
+                  url: cardData.url,
+                  contentUrl: cardData.contentUrl,
+                  label: cardData.title || record[phase.CARD_LABEL_KEY],
+                  id: shortid.generate(),
+                  value: {
+                    label: cardData.summary,
+                    image: await downloadImageAndFillAttributions(
+                      {
+                        url: cardData.imageUrl,
+                        altText: `Image of ${cardData.title}`
+                      },
+                      englishSlug
+                    )
                   }
                 }
-              }
-            ];
-          }
+              ];
+            }
 
-          return phaseFact;
-        }).filter(f => !!f)
+            return phaseFact;
+          })
+        )
       };
 
+      careerPhasesSection.facts = careerPhasesSection.facts.filter(f => !!f);
       personality.sections.push(careerPhasesSection);
 
       // Achievements and records.
       personality.sections.push({
         title: "Achievements & Records",
         cardType: "stories",
-        facts: ACHIEVEMENTS_AND_RECORDS.map(ar => ({
-          label: "",
-          id: getSluggedTitle(ar.DESCRIPTION_KEY.trim()),
-          value: {
-            label: record[ar.DESCRIPTION_KEY],
-            image: {
-              url: record[ar.IMAGE_KEY],
-              altText: record[ar.DESCRIPTION_KEY]
+        facts: await Promise.all(
+          ACHIEVEMENTS_AND_RECORDS.map(async ar => ({
+            label: "",
+            id: getSluggedTitle(ar.DESCRIPTION_KEY.trim()),
+            value: {
+              label: record[ar.DESCRIPTION_KEY],
+              image: await downloadImageAndFillAttributions(
+                {
+                  url: record[ar.IMAGE_KEY],
+                  altText: record[ar.DESCRIPTION_KEY]
+                },
+                englishSlug
+              )
             }
-          }
-        }))
+          }))
+        )
       });
 
       // Teams.
-      personality.sections.push({
-        title: "Team(s)",
-        cardType: "list_card",
-        facts: TEAMS.map(team => {
+      const teamFacts = await Promise.all(
+        TEAMS.map(async team => {
           if (!record[team.LABEL_KEY]) {
             return null;
           }
@@ -464,24 +487,31 @@ module.exports.exportPersonalities = () => {
                 contentUrl: card.contentUrl,
                 value: {
                   label: card.summary,
-                  image: {
-                    url: card.imageUrl,
-                    altText: `Picture of ${card.title}`
-                  }
+                  image: await downloadImageAndFillAttributions(
+                    {
+                      url: card.imageUrl,
+                      altText: `Picture of ${card.title}`
+                    },
+                    englishSlug
+                  )
                 }
               }
             ];
           }
 
           return fact;
-        }).filter(f => !!f)
+        })
+      );
+
+      personality.sections.push({
+        title: "Team(s)",
+        cardType: "list_card",
+        facts: teamFacts.filter(f => !!f)
       });
 
       // Awards and honors.
-      personality.sections.push({
-        title: "Awards & Honors",
-        cardType: "tag_card",
-        facts: AWARDS_AND_HONORS.map((award, index) => {
+      const awardsFacts = await Promise.all(
+        AWARDS_AND_HONORS.map(async (award, index) => {
           if (!record[award.LABEL_KEY]) {
             return null;
           }
@@ -492,18 +522,23 @@ module.exports.exportPersonalities = () => {
             id: `award-${index}`,
             value: {
               label: record[award.DESCRIPTION_KEY],
-              image: {
-                url: record[award.IMAGE_KEY],
-                altText: `Image of ${record[award.LABEL_KEY]}`
-              }
+              image: await downloadImageAndFillAttributions(
+                {
+                  url: record[award.IMAGE_KEY],
+                  altText: `Image of ${record[award.LABEL_KEY]}`
+                },
+                englishSlug
+              )
             }
           };
-        }).filter(a => !!a)
+        })
+      );
+
+      personality.sections.push({
+        title: "Awards & Honors",
+        cardType: "tag_card",
+        facts: awardsFacts.filter(a => !!a)
       });
-
-      // Outside sports.
-
-      // TODO: remove null facts from all sections.
 
       fs.writeFileSync(
         `./static/content/${lang}/${englishSlug}.json`,
