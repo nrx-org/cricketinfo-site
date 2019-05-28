@@ -1,0 +1,2755 @@
+{
+  "translations": [
+    {
+      "url": "/wiki/hi",
+      "title": "हिंदी में पढ़े"
+    },
+    {
+      "url": "/wiki/ta",
+      "title": "தமிழ் படிக்கவும்"
+    }
+  ],
+  "participatingTeams": [
+    {
+      "label": "India",
+      "id": "0",
+      "value": {
+        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
+        "url": "/wiki/en/Team_India",
+        "image": {
+          "url": "/static/images/india.png",
+          "altText": "An image of the Indian flag",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "England",
+      "id": "1",
+      "value": {
+        "label": "Represents England and Wales in international cricket and drinks too much tea.",
+        "url": "/wiki/en/Team_England",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
+          "altText": "An image of the English flag",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Australia",
+      "id": "2",
+      "value": {
+        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
+        "url": "/wiki/en/Team_Koala",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
+          "altText": "An image of the Australian flag",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Pakistan",
+      "id": "2",
+      "value": {
+        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
+        "url": "/wiki/en/Team_Rocket",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+          "altText": "An image of the Pakistani flag",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "India",
+      "id": "0",
+      "value": {
+        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
+        "url": "/wiki/en/Team_India",
+        "image": {
+          "url": "/static/images/india.png",
+          "altText": "An image of the Indian flag",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "England",
+      "id": "1",
+      "value": {
+        "label": "Represents England and Wales in international cricket and drinks too much tea.",
+        "url": "/wiki/en/Team_England",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
+          "altText": "An image of the English flag",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Australia",
+      "id": "2",
+      "value": {
+        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
+        "url": "/wiki/en/Team_Koala",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
+          "altText": "An image of the Australian flag",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Pakistan",
+      "id": "2",
+      "value": {
+        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
+        "url": "/wiki/en/Team_Rocket",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+          "altText": "An image of the Pakistani flag",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    }
+  ],
+  "playingTeams": [
+    {
+      "label": "India",
+      "date": "2019-05-21",
+      "id": "0",
+      "value": {
+        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
+        "url": "/wiki/en/Team_India",
+        "image": {
+          "url": "/static/images/india.png",
+          "altText": "An image of the Indian flag",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "England",
+      "date": "2019-05-21",
+      "id": "1",
+      "value": {
+        "label": "Represents England and Wales in international cricket and drinks too much tea.",
+        "url": "/wiki/en/Team_England",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
+          "altText": "An image of the English flag",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Australia",
+      "date": "2019-05-22",
+      "id": "2",
+      "value": {
+        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
+        "url": "/wiki/en/Team_Koala",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
+          "altText": "An image of the Australian flag",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Pakistan",
+      "date": "2019-05-22",
+      "id": "2",
+      "value": {
+        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
+        "url": "/wiki/en/Team_Rocket",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+          "altText": "An image of the Pakistani flag"
+        }
+      }
+    }
+  ],
+  "horizontalTimeline": {
+    "title": "History of the World Cup",
+    "id": 2,
+    "facts": [
+      {
+        "label": "1975",
+        "id": "worldCupHistory1975",
+        "note": null,
+        "value": {
+          "label": "",
+          "facts": [
+            {
+              "label": "1983 Cricket World Cup",
+              "id": "worldCupHistory1975",
+              "value": {
+                "label": "India won their first world cup in 1983 under Kapil Dev beating West Indies by 43 runs.",
+                "url": "https://placekitten.com/200/200",
+                "buttonText": "Know More",
+                "image": {
+                  "url": "https://placekitten.com/200/200",
+                  "altText": "Kitten mata ki jai"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "label": "1983",
+        "id": "worldCupHistory1983",
+        "note": null,
+        "value": {
+          "label": "",
+          "facts": [
+            {
+              "label": "1983 Cricket World Cup",
+              "id": "worldCupHistory1983",
+              "value": {
+                "label": "India won their first world cup in 1983 under Kapil Dev beating West Indies by 43 runs.",
+                "url": "https://placekitten.com/200/200",
+                "buttonText": "Know More",
+                "image": {
+                  "url": "https://placekitten.com/200/200",
+                  "altText": "Kitten mata ki jai"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "label": "1992",
+        "id": "worldCupHistory1992",
+        "note": null,
+        "value": {
+          "label": "",
+          "facts": [
+            {
+              "label": "1983 Cricket World Cup",
+              "id": "worldCupHistory1992",
+              "value": {
+                "label": "India won their first world cup in 1983 under Kapil Dev beating West Indies by 43 runs.",
+                "url": "https://placekitten.com/200/200",
+                "buttonText": "Know More",
+                "image": {
+                  "url": "https://placekitten.com/200/200",
+                  "altText": "Kitten mata ki jai"
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "popularArticles": {
+    "title": "Popular Articles",
+    "id": 1,
+    "columns": [
+      [
+        {
+          "label": "India",
+          "id": "0",
+          "url": "/wiki/en/Team_India",
+          "value": {
+            "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
+            "url": "/wiki/en/Team_India",
+            "image": {
+              "url": "/static/images/india.png",
+              "altText": "An image of the Indian flag"
+            }
+          }
+        },
+        {
+          "label": "England",
+          "id": "1",
+          "value": {
+            "label": "Represents England and Wales in international cricket and drinks too much tea.",
+            "url": "/wiki/en/Team_England",
+            "image": {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
+              "altText": "An image of the English flag"
+            }
+          }
+        },
+        {
+          "label": "Australia",
+          "id": "2",
+          "url": "/wiki/en/Team_Koala",
+          "value": {
+            "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
+            "url": "/wiki/en/Team_Koala",
+            "image": {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
+              "altText": "An image of the Australian flag"
+            }
+          }
+        },
+        {
+          "label": "Pakistan",
+          "id": "2",
+          "value": {
+            "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
+            "url": "/wiki/en/Team_Rocket",
+            "image": {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+              "altText": "An image of the Pakistani flag"
+            }
+          }
+        }
+      ],
+      [
+        {
+          "label": "India",
+          "id": "0",
+          "value": {
+            "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
+            "url": "/wiki/en/Team_India",
+            "image": {
+              "url": "/static/images/india.png",
+              "altText": "An image of the Indian flag"
+            }
+          }
+        },
+        {
+          "label": "England",
+          "id": "1",
+          "value": {
+            "label": "Represents England and Wales in international cricket and drinks too much tea.",
+            "url": "/wiki/en/Team_England",
+            "image": {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
+              "altText": "An image of the English flag"
+            }
+          }
+        },
+        {
+          "label": "Australia",
+          "id": "2",
+          "value": {
+            "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
+            "url": "/wiki/en/Team_Koala",
+            "image": {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
+              "altText": "An image of the Australian flag"
+            }
+          }
+        },
+        {
+          "label": "Pakistan",
+          "id": "2",
+          "value": {
+            "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
+            "url": "/wiki/en/Team_Rocket",
+            "image": {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+              "altText": "An image of the Pakistani flag"
+            }
+          }
+        }
+      ],
+      [
+        {
+          "label": "India",
+          "id": "0",
+          "value": {
+            "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
+            "url": "/wiki/en/Team_India",
+            "image": {
+              "url": "/static/images/india.png",
+              "altText": "An image of the Indian flag"
+            }
+          }
+        },
+        {
+          "label": "England",
+          "id": "1",
+          "value": {
+            "label": "Represents England and Wales in international cricket and drinks too much tea.",
+            "url": "/wiki/en/Team_England",
+            "image": {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
+              "altText": "An image of the English flag"
+            }
+          }
+        },
+        {
+          "label": "Australia",
+          "id": "2",
+          "value": {
+            "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
+            "url": "/wiki/en/Team_Koala",
+            "image": {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
+              "altText": "An image of the Australian flag"
+            }
+          }
+        },
+        {
+          "label": "Pakistan",
+          "id": "2",
+          "value": {
+            "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
+            "url": "/wiki/en/Team_Rocket",
+            "image": {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+              "altText": "An image of the Pakistani flag"
+            }
+          }
+        }
+      ]
+    ]
+  },
+  "interestingArticles": [
+    {
+      "label": "India",
+      "id": "50",
+      "value": {
+        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
+        "url": "/wiki/en/Team_India",
+        "image": {
+          "url": "https://placekitten.com/200/200",
+          "altText": "An image of the Indian flag"
+        }
+      }
+    },
+    {
+      "label": "England",
+      "id": "51",
+      "value": {
+        "label": "Represents England and Wales in international cricket and drinks too much tea.",
+        "url": "/wiki/en/Team_England",
+        "image": {
+          "url": "https://placekitten.com/180/180",
+          "altText": "An image of the English flag"
+        }
+      }
+    },
+    {
+      "label": "Australia",
+      "id": "52",
+      "value": {
+        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
+        "url": "/wiki/en/Team_Koala",
+        "image": {
+          "url": "https://placekitten.com/190/190",
+          "altText": "An image of the Australian flag"
+        }
+      }
+    },
+    {
+      "label": "Pakistan",
+      "id": "53",
+      "value": {
+        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
+        "url": "/wiki/en/Team_Rocket",
+        "image": {
+          "url": "https://placekitten.com/220/220",
+          "altText": "An image of the Pakistani flag"
+        }
+      }
+    },
+    {
+      "label": "India",
+      "id": "0",
+      "value": {
+        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
+        "url": "/wiki/en/Team_India",
+        "image": {
+          "url": "https://placekitten.com/200/200",
+          "altText": "An image of the Indian flag"
+        }
+      }
+    },
+    {
+      "label": "England",
+      "id": "1",
+      "value": {
+        "label": "Represents England and Wales in international cricket and drinks too much tea.",
+        "url": "/wiki/en/Team_England",
+        "image": {
+          "url": "https://placekitten.com/180/180",
+          "altText": "An image of the English flag"
+        }
+      }
+    },
+    {
+      "label": "Australia",
+      "id": "2",
+      "value": {
+        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
+        "url": "/wiki/en/Team_Koala",
+        "image": {
+          "url": "https://placekitten.com/190/190",
+          "altText": "An image of the Australian flag"
+        }
+      }
+    },
+    {
+      "label": "Pakistan",
+      "id": "3",
+      "value": {
+        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
+        "url": "/wiki/en/Team_Rocket",
+        "image": {
+          "url": "https://placekitten.com/220/220",
+          "altText": "An image of the Pakistani flag"
+        }
+      }
+    },
+    {
+      "label": "India",
+      "id": "10",
+      "value": {
+        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
+        "url": "/wiki/en/Team_India",
+        "image": {
+          "url": "https://placekitten.com/200/200",
+          "altText": "An image of the Indian flag"
+        }
+      }
+    },
+    {
+      "label": "England",
+      "id": "11",
+      "value": {
+        "label": "Represents England and Wales in international cricket and drinks too much tea.",
+        "url": "/wiki/en/Team_England",
+        "image": {
+          "url": "https://placekitten.com/180/180",
+          "altText": "An image of the English flag"
+        }
+      }
+    },
+    {
+      "label": "Australia",
+      "id": "12",
+      "value": {
+        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
+        "url": "/wiki/en/Team_Koala",
+        "image": {
+          "url": "https://placekitten.com/190/190",
+          "altText": "An image of the Australian flag"
+        }
+      }
+    },
+    {
+      "label": "Pakistan",
+      "id": "13",
+      "value": {
+        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
+        "url": "/wiki/en/Team_Rocket",
+        "image": {
+          "url": "https://placekitten.com/220/220",
+          "altText": "An image of the Pakistani flag"
+        }
+      }
+    },
+    {
+      "label": "England",
+      "id": "41",
+      "value": {
+        "label": "Represents England and Wales in international cricket and drinks too much tea.",
+        "url": "/wiki/en/Team_England",
+        "image": {
+          "url": "https://placekitten.com/180/180",
+          "altText": "An image of the English flag"
+        }
+      }
+    },
+    {
+      "label": "Australia",
+      "id": "42",
+      "value": {
+        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
+        "url": "/wiki/en/Team_Koala",
+        "image": {
+          "url": "https://placekitten.com/190/190",
+          "altText": "An image of the Australian flag"
+        }
+      }
+    },
+    {
+      "label": "Pakistan",
+      "id": "43",
+      "value": {
+        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
+        "url": "/wiki/en/Team_Rocket",
+        "image": {
+          "url": "https://placekitten.com/220/220",
+          "altText": "An image of the Pakistani flag"
+        }
+      }
+    }
+  ],
+  "scheduledFacts": [
+    {
+      "label": "பிரபலமற்ற 36",
+      "dates": [
+        "2019-06-09"
+      ],
+      "id": "F5",
+      "value": {
+        "url": "/read/ta/இந்தியக்_கிரிக்கெட்_அணி",
+        "image": {
+          "url": "/static/images/home/Prudential_Cup_75_logo.svg",
+          "altText": "Image for பிரபலமற்ற 36"
+        }
+      }
+    },
+    {
+      "label": "இந்தியாவுக்கு வெற்றிகள் இல்லை",
+      "dates": [
+        "2019-06-13"
+      ],
+      "id": "F9",
+      "value": {
+        "url": "/read/ta/இந்தியக்_கிரிக்கெட்_அணி",
+        "image": {
+          "url": "/static/images/home/Flagcricket.jpg",
+          "altText": "Image for இந்தியாவுக்கு வெற்றிகள் இல்லை"
+        }
+      }
+    },
+    {
+      "label": "குரூப் பிரிவுகளின் நிலைகளுக்கு அப்பால்",
+      "dates": [
+        "2019-06-16"
+      ],
+      "id": "F12",
+      "value": {
+        "url": "/read/ta/இந்தியக்_கிரிக்கெட்_அணி",
+        "image": {
+          "url": "/static/images/home/Flagcricket.jpg",
+          "altText": "Image for குரூப் பிரிவுகளின் நிலைகளுக்கு அப்பால்"
+        }
+      }
+    },
+    {
+      "label": "குறைந்த ஸ்கோர் வெற்றி",
+      "dates": [
+        "2019-06-22"
+      ],
+      "id": "F13",
+      "value": {
+        "url": "/read/ta/இந்தியக்_கிரிக்கெட்_அணி",
+        "image": {
+          "url": "/static/images/home/Prudential_Cup_83_logo.svg",
+          "altText": "Image for குறைந்த ஸ்கோர் வெற்றி"
+        }
+      }
+    },
+    {
+      "label": "அருகாமை வெற்றி",
+      "dates": [
+        "2019-06-09",
+        "2019-06-20",
+        "2019-06-29"
+      ],
+      "id": "F16",
+      "value": {
+        "url": "/read/ta/ஆஸ்திரேலியக்_கிரிக்கெட்_அணி",
+        "image": {
+          "url": "/static/images/home/Australian_World_Cup_treble.jpg",
+          "altText": "Image for அருகாமை வெற்றி"
+        }
+      }
+    },
+    {
+      "label": "நிறவெறி முடிவு",
+      "dates": [
+        "2019-05-30",
+        "2019-06-02",
+        "2019-06-15",
+        "2019-06-23",
+        "2019-07-06"
+      ],
+      "id": "F20",
+      "value": {
+        "url": "/read/ta/தென்னாப்பிரிக்கக்_கிரிக்கெட்_அணி",
+        "image": {
+          "url": "/static/images/home/South_African_Cricket_team_2008.jpg",
+          "altText": "Image for நிறவெறி முடிவு"
+        }
+      }
+    },
+    {
+      "label": "2 பந்தில் 22 ரன்கள்",
+      "dates": [
+        "2019-06-05",
+        "2019-06-10",
+        "2019-06-19",
+        "2019-06-28"
+      ],
+      "id": "F22",
+      "value": {
+        "url": "/read/ta/தென்னாப்பிரிக்கக்_கிரிக்கெட்_அணி",
+        "image": {
+          "url": "/static/images/home/South_African_Cricket_team_2008.jpg",
+          "altText": "Image for 2 பந்தில் 22 ரன்கள்"
+        }
+      }
+    },
+    {
+      "label": "போட்டி நடத்தியவர் பெற்ற வெற்றி",
+      "dates": [
+        "2019-06-01"
+      ],
+      "id": "F24",
+      "value": {
+        "url": "/read/ta/1996_உலகக்_கோப்பை",
+        "image": {
+          "url": "/static/images/home/Wills_World_Cup_1996.svg",
+          "altText": "Image for போட்டி நடத்தியவர் பெற்ற வெற்றி"
+        }
+      }
+    },
+    {
+      "label": "இலங்கை கிரிக்கெட் அணி",
+      "dates": [
+        "2019-06-04",
+        "2019-06-07",
+        "2019-06-11",
+        "2019-06-15",
+        "2019-06-21",
+        "2019-06-28",
+        "2019-07-01",
+        "2019-07-06"
+      ],
+      "id": "F25",
+      "value": {
+        "url": "/read/ta/இலங்கை_கிரிக்கெட்_அணி",
+        "image": {
+          "url": "/static/images/home/Sri_Lanka_Cricket_Cap_Insignia.svg",
+          "altText": "Image for இலங்கை கிரிக்கெட் அணி"
+        }
+      }
+    },
+    {
+      "label": "போரின் போது",
+      "dates": [
+        "2019-05-31",
+        "2019-06-03",
+        "2019-06-07",
+        "2019-06-12",
+        "2019-06-16",
+        "2019-06-23",
+        "2019-06-26",
+        "2019-06-29",
+        "2019-07-05"
+      ],
+      "id": "F27",
+      "value": {
+        "url": "/read/ta/1999_உலகக்_கோப்பை",
+        "image": {
+          "url": "/static/images/home/Wc99.png",
+          "altText": "Image for போரின் போது"
+        }
+      }
+    },
+    {
+      "label": "போரின் போது",
+      "dates": [
+        "2019-06-27"
+      ],
+      "id": "F28",
+      "value": {
+        "url": "/read/ta/இந்தியக்_கிரிக்கெட்_அணி",
+        "image": {
+          "url": "/static/images/home/Flagcricket.jpg",
+          "altText": "Image for போரின் போது"
+        }
+      }
+    },
+    {
+      "label": "தோற்கடிக்கப்படாத ஆஸ்திரேலியா",
+      "dates": [
+        "2019-06-01",
+        "2019-06-12",
+        "2019-06-25",
+        "2019-07-06"
+      ],
+      "id": "F34",
+      "value": {
+        "url": "/read/ta/ஆஸ்திரேலியக்_கிரிக்கெட்_அணி",
+        "image": {
+          "url": "/static/images/home/Australian_World_Cup_treble.jpg",
+          "altText": "Image for தோற்கடிக்கப்படாத ஆஸ்திரேலியா"
+        }
+      }
+    },
+    {
+      "label": "மோசமான இந்திய ஆட்டம்",
+      "dates": [
+        "2019-06-30"
+      ],
+      "id": "F36",
+      "value": {
+        "url": "/read/ta/இந்தியக்_கிரிக்கெட்_அணி",
+        "image": {
+          "url": "/static/images/home/Wills_World_Cup_1996.svg",
+          "altText": "Image for மோசமான இந்திய ஆட்டம்"
+        }
+      }
+    },
+    {
+      "label": "சொந்த மண்ணில் வெற்றி",
+      "dates": [
+        "2019-07-02"
+      ],
+      "id": "F38",
+      "value": {
+        "url": "/read/ta/இந்தியக்_கிரிக்கெட்_அணி",
+        "image": {
+          "url": "/static/images/home/Wills_World_Cup_1996.svg",
+          "altText": "Image for சொந்த மண்ணில் வெற்றி"
+        }
+      }
+    },
+    {
+      "label": "இளம் வீரர்",
+      "dates": [
+        "2019-06-01"
+      ],
+      "id": "F49",
+      "value": {
+        "url": "/read/ta/கேன்_வில்லியம்சன்",
+        "image": {
+          "url": "/static/images/home/Kane_Williamson_(9773667991).jpg",
+          "altText": "Image for இளம் வீரர்"
+        }
+      }
+    },
+    {
+      "label": "300+",
+      "dates": [
+        "2019-06-05",
+        "2019-07-06"
+      ],
+      "id": "F53",
+      "value": {
+        "url": "/read/ta/இந்தியக்_கிரிக்கெட்_அணி",
+        "image": {
+          "url": "/static/images/home/Wills_World_Cup_1996.svg",
+          "altText": "Image for 300+"
+        }
+      }
+    },
+    {
+      "label": "நான்கு உலகக் கோப்பை இறுதிப்பபோட்டிகள்",
+      "dates": [
+        "2019-06-06",
+        "2019-06-15"
+      ],
+      "id": "F54",
+      "value": {
+        "url": "/read/ta/ஆஸ்திரேலியக்_கிரிக்கெட்_அணி",
+        "image": {
+          "url": "/static/images/home/Australian_World_Cup_treble.jpg",
+          "altText": "Image for நான்கு உலகக் கோப்பை இறுதிப்பபோட்டிகள்"
+        }
+      }
+    },
+    {
+      "label": "பழமையான கிரிக்கெட் அணி",
+      "dates": [
+        "2019-05-30",
+        "2019-06-03",
+        "2019-06-08",
+        "2019-06-14",
+        "2019-06-18",
+        "2019-06-21",
+        "2019-06-25",
+        "2019-06-30",
+        "2019-07-03"
+      ],
+      "id": "F55",
+      "value": {
+        "url": "/read/ta/இங்கிலாந்து_கிரிக்கெட்_அணி_",
+        "image": {
+          "url": "/static/images/home/The_England_Cricket_Team_Ashes_2015.jpg",
+          "altText": "Image for பழமையான கிரிக்கெட் அணி"
+        }
+      }
+    },
+    {
+      "label": "மேற்கிந்திய தீவுகளின் பலம்",
+      "dates": [
+        "2019-05-31",
+        "2019-06-06",
+        "2019-06-10",
+        "2019-06-14",
+        "2019-06-17",
+        "2019-06-22",
+        "2019-06-27",
+        "2019-07-01",
+        "2019-07-04"
+      ],
+      "id": "F56",
+      "value": {
+        "url": "/read/ta/மேற்கிந்தியத்_தீவுகள்_அணி",
+        "image": {
+          "url": "/static/images/home/BrianLaraUkexpat.jpg",
+          "altText": "Image for மேற்கிந்திய தீவுகளின் பலம்"
+        }
+      }
+    }
+  ],
+  "constantFacts": [
+    {
+      "label": "Mallard ducks live 5 to 10 years in the wild and 8+ years in captivity.",
+      "id": "rahulDravid",
+      "value": {
+        "url": "/wiki/en/Rahul_Dravid",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rahul_Dravid.jpg",
+          "altText": "A picture of Rahul Dravid sitting in front of a washbasin"
+        }
+      }
+    }
+  ],
+  "scheduledFeaturedPlayers": [
+    {
+      "label": "Virat Kohli",
+      "id": "viratKohli",
+      "date": "2019-05-10",
+      "value": {
+        "url": "/wiki/en/Virat_Kohli",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/VIRAT_KHOLI_%2815573134623%29.jpg",
+          "altText": "Kohli looks upset"
+        }
+      }
+    }
+  ],
+  "constantFeaturedPlayers": [
+    {
+      "label": "Rahul Dravid",
+      "id": "rahulDravid",
+      "value": {
+        "url": "/wiki/en/Rahul_Dravid",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rahul_Dravid.jpg",
+          "altText": "A picture of Rahul Dravid sitting in front of a washbasin"
+        }
+      }
+    },
+    {
+      "label": "Microsoft Dhoni",
+      "id": "msDhoni",
+      "value": {
+        "url": "/wiki/en/MS_Dhoni",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Dhoni_at_Reebok_event.jpg",
+          "altText": "Dhoni is very bored"
+        }
+      }
+    },
+    {
+      "label": "Sourav Ganguly",
+      "id": "souravGanguly",
+      "value": {
+        "url": "/wiki/en/Sourav_Ganguly",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sourav_Ganguly_crop.jpg",
+          "altText": "Young Sourav Ganguly looks at things"
+        }
+      }
+    }
+  ],
+  "allPlayers": [
+    {
+      "label": "Rahul Dravid",
+      "id": "rahulDravid",
+      "value": {
+        "label": "A dog’s nose print is unique, much like a person’s fingerprint.",
+        "url": "/wiki/en/Rahul_Dravid",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rahul_Dravid.jpg",
+          "altText": "A picture of Rahul Dravid sitting in front of a washbasin"
+        }
+      }
+    },
+    {
+      "label": "Microsoft Dhoni",
+      "id": "msDhoni",
+      "value": {
+        "label": "Dog eyes have a part called the tapetum lucidum, allowing night vision.",
+        "url": "/wiki/en/MS_Dhoni",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Dhoni_at_Reebok_event.jpg",
+          "altText": "Dhoni is very bored"
+        }
+      }
+    },
+    {
+      "label": "Virat Kohli",
+      "id": "viratKohli",
+      "value": {
+        "label": "Human blood pressure goes down when petting a dog. And so does the dog’s.",
+        "url": "/wiki/en/Virat_Kohli",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/VIRAT_KHOLI_%2815573134623%29.jpg",
+          "altText": "Kohli looks upset"
+        }
+      }
+    },
+    {
+      "label": "Sourav Ganguly",
+      "id": "souravGanguly",
+      "value": {
+        "label": "Dogs are not colorblind. They also see blue and yellow.",
+        "url": "/wiki/en/Sourav_Ganguly",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sourav_Ganguly_crop.jpg",
+          "altText": "Young Sourav Ganguly looks at things"
+        }
+      }
+    }
+  ],
+  "quizQuestions": [
+    {
+      "label": "முதல் கிரிக்கெட் உலகக் கோப்பை எப்போது நடைபெற்றது?",
+      "id": "முதல்_கிரிக்கெட்_உலகக்_கோப்பை_எப்போது_நடைபெற்றது?",
+      "dates": [
+        "2019-06-24"
+      ],
+      "options": [
+        {
+          "label": "1975"
+        },
+        {
+          "label": "1973"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "ஆண்களுக்கான முதல் கிரிக்கெட் உலகக்கோப்பையை நடத்தியது எந்த நாடு?",
+      "id": "ஆண்களுக்கான_முதல்_கிரிக்கெட்_உலகக்கோப்பையை_நடத்தியது_எந்த_நாடு?",
+      "dates": [
+        "2019-07-03"
+      ],
+      "options": [
+        {
+          "label": "இங்கிலாந்து"
+        },
+        {
+          "label": "மேற்கிந்தியத் தீவுகள்"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "இங்கிலாந்து",
+        "value": {
+          "label": "இங்கிலாந்து ஐக்கிய இராஜ்ஜியத்தின் ஒரு பகுதியாகும். இது மேற்கே வேல்ஸ் மற்றும் வடகிழக்கில் ஸ்காட்லாந்து வரை பரவியுள்ளது. ",
+          "url": "/read/ta/england",
+          "image": {
+            "altText": "Image for இங்கிலாந்து",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "ஆண்களுக்கான முதல் கிரிக்கெட் உலகக்கோப்பையை வென்றது யார்?",
+      "id": "ஆண்களுக்கான_முதல்_கிரிக்கெட்_உலகக்கோப்பையை_வென்றது_யார்?",
+      "dates": [],
+      "options": [
+        {
+          "label": "ஆஸ்திரேலியா"
+        },
+        {
+          "label": "மேற்கிந்தியத் தீவுகள்"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": null
+    },
+    {
+      "label": "1975 உலகக்கோப்பை அதிகாரப்பூர்வமாக எப்படி அழைக்கப்பட்டது?",
+      "id": "1975_உலகக்கோப்பை_அதிகாரப்பூர்வமாக_எப்படி_அழைக்கப்பட்டது?",
+      "dates": [
+        "2019-06-03"
+      ],
+      "options": [
+        {
+          "label": "ப்ருடென்ஷியல் உலகக்கோப்பை"
+        },
+        {
+          "label": "ஐசிசி உலகக்கோப்பை"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "முதல் கிரிக்கெட் உலகக்கோப்பைக்கு முன், எத்தனை ஒரு நாள் சர்வதேசப் போட்டிகள் விளையாடப்பட்டன?",
+      "id": "முதல்_கிரிக்கெட்_உலகக்கோப்பைக்கு_முன்,_எத்தனை_ஒரு_நாள்_சர்வதேசப்_போட்டிகள்_விளையாடப்பட்டன?",
+      "dates": [
+        "2019-06-22",
+        "2019-07-05"
+      ],
+      "options": [
+        {
+          "label": "18"
+        },
+        {
+          "label": "25"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "இந்த அணிகளில் எந்த அணி 1975 கிரிக்கெட் உலகக்கோப்பை போட்டியில் கலந்து கொண்டது?",
+      "id": "இந்த_அணிகளில்_எந்த_அணி_1975_கிரிக்கெட்_உலகக்கோப்பை_போட்டியில்_கலந்து_கொண்டது?",
+      "dates": [
+        "2019-06-10"
+      ],
+      "options": [
+        {
+          "label": "கிழக்கு ஆப்பிரிக்கா "
+        },
+        {
+          "label": "தென் ஆப்பிரிக்கா"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "1975-ஆம் ஆண்டு கிரிக்கெட் உலகக்கோப்பையில் அதிக ரன்கள் எடுத்தவர் யார்?",
+      "id": "1975-ஆம்_ஆண்டு_கிரிக்கெட்_உலகக்கோப்பையில்_அதிக_ரன்கள்_எடுத்தவர்_யார்?",
+      "dates": [
+        "2019-06-17"
+      ],
+      "options": [
+        {
+          "label": "கிளைவ் லாயிட்"
+        },
+        {
+          "label": "க்லென் டுர்னெர்"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": null
+    },
+    {
+      "label": "முதல் உலகக்கோப்பையின் முதல் ஆட்டத்தில் எந்த அணிகள் விளையாடியன?",
+      "id": "முதல்_உலகக்கோப்பையின்_முதல்_ஆட்டத்தில்_எந்த_அணிகள்_விளையாடியன?",
+      "dates": [],
+      "options": [
+        {
+          "label": "இந்தியா & இங்கிலாந்து"
+        },
+        {
+          "label": "இங்கிலாந்து & மேற்கிந்தியத் தீவுகள்"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "இங்கிலாந்துக்கு எதிரான முதல் ஆட்டத்தில், சுனில் கவாஸ்கர் எத்தனை பந்துகளில் 36 ரன்கள் எடுத்தார்?",
+      "id": "இங்கிலாந்துக்கு_எதிரான_முதல்_ஆட்டத்தில்,_சுனில்_கவாஸ்கர்_எத்தனை_பந்துகளில்_36_ரன்கள்_எடுத்தார்?",
+      "dates": [
+        "2019-07-03"
+      ],
+      "options": [
+        {
+          "label": "174"
+        },
+        {
+          "label": "224"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "1975-இல் நடந்த முதல் உலகக்கோப்பை கிரிக்கெட்டில் எத்தனை மேட்ச்கள் விளையாடப்பட்டன?",
+      "id": "1975-இல்_நடந்த_முதல்_உலகக்கோப்பை_கிரிக்கெட்டில்_எத்தனை_மேட்ச்கள்_விளையாடப்பட்டன?",
+      "dates": [],
+      "options": [
+        {
+          "label": "15"
+        },
+        {
+          "label": "19"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "1979 உலகக்கோப்பையை நடத்திய நாடு எது?",
+      "id": "1979_உலகக்கோப்பையை_நடத்திய_நாடு_எது?",
+      "dates": [
+        "2019-06-22",
+        "2019-06-28",
+        "2019-07-04"
+      ],
+      "options": [
+        {
+          "label": "இங்கிலாந்து"
+        },
+        {
+          "label": "மேற்கிந்தியத் தீவுகள்"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "இங்கிலாந்து",
+        "value": {
+          "label": "இங்கிலாந்து ஐக்கிய இராஜ்ஜியத்தின் ஒரு பகுதியாகும். இது மேற்கே வேல்ஸ் மற்றும் வடகிழக்கில் ஸ்காட்லாந்து வரை பரவியுள்ளது. ",
+          "url": "/read/ta/england",
+          "image": {
+            "altText": "Image for இங்கிலாந்து",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "டெஸ்ட் போட்டியை விளையாடாமலே, 1979-ஆம் ஆண்டு கிரிக்கெட் உலகக்கோப்பைக்கு தகுதி பெற்ற இரண்டு அணிகள் எது? ",
+      "id": "டெஸ்ட்_போட்டியை_விளையாடாமலே,_1979-ஆம்_ஆண்டு_கிரிக்கெட்_உலகக்கோப்பைக்கு_தகுதி_பெற்ற_இரண்டு_அணிகள்_எது?_",
+      "dates": [
+        "2019-06-15"
+      ],
+      "options": [
+        {
+          "label": "ஸ்ரீலங்கா, கனடா"
+        },
+        {
+          "label": "கனடா, கிழக்கு ஆப்பிரிக்கா"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "1979-ல் கிரிக்கெட் உலகக்கோப்பையை வென்றது யார்?",
+      "id": "1979-ல்_கிரிக்கெட்_உலகக்கோப்பையை_வென்றது_யார்?",
+      "dates": [],
+      "options": [
+        {
+          "label": "இங்கிலாந்து"
+        },
+        {
+          "label": "மேற்கிந்தியத் தீவுகள்"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": null
+    },
+    {
+      "label": "1979-ஆம் ஆண்டு கிரிக்கெட் உலகக்கோப்பையில் அதிக ரன்கள் எடுத்தது யார்?",
+      "id": "1979-ஆம்_ஆண்டு_கிரிக்கெட்_உலகக்கோப்பையில்_அதிக_ரன்கள்_எடுத்தது_யார்?",
+      "dates": [
+        "2019-06-14"
+      ],
+      "options": [
+        {
+          "label": "கிளைவ் லாயிட்"
+        },
+        {
+          "label": "கார்டன் கிரீனிட்ச்"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": null
+    },
+    {
+      "label": "1983-ஆம் ஆண்டு நடைபெற்ற ஆண்களுக்கான கிரிக்கெட் உலகக்கோப்பையை நடத்திய நாடு எது?",
+      "id": "1983-ஆம்_ஆண்டு_நடைபெற்ற_ஆண்களுக்கான_கிரிக்கெட்_உலகக்கோப்பையை_நடத்திய_நாடு_எது?",
+      "dates": [
+        "2019-06-14"
+      ],
+      "options": [
+        {
+          "label": "இங்கிலாந்து"
+        },
+        {
+          "label": "மேற்கிந்தியத் தீவுகள்"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "இங்கிலாந்து",
+        "value": {
+          "label": "இங்கிலாந்து ஐக்கிய இராஜ்ஜியத்தின் ஒரு பகுதியாகும். இது மேற்கே வேல்ஸ் மற்றும் வடகிழக்கில் ஸ்காட்லாந்து வரை பரவியுள்ளது. ",
+          "url": "/read/ta/england",
+          "image": {
+            "altText": "Image for இங்கிலாந்து",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "1983 கிரிக்கெட் உலகக்கோப்பை இறுதிப் போட்டியில் இந்தியா எந்த நாட்டை தோற்கடித்தது?",
+      "id": "1983_கிரிக்கெட்_உலகக்கோப்பை_இறுதிப்_போட்டியில்_இந்தியா_எந்த_நாட்டை_தோற்கடித்தது?",
+      "dates": [],
+      "options": [
+        {
+          "label": "ஆஸ்திரேலியா"
+        },
+        {
+          "label": "மேற்கிந்தியத் தீவுகள்"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": null
+    },
+    {
+      "label": "1983 உலகக்கோப்பை இறுதிப் போட்டியில் 'மேன் ஆஃப் தி மேட்ச்' வென்றவர் யார்?",
+      "id": "1983_உலகக்கோப்பை_இறுதிப்_போட்டியில்_'மேன்_ஆஃப்_தி_மேட்ச்'_வென்றவர்_யார்?",
+      "dates": [
+        "2019-06-05",
+        "2019-06-13"
+      ],
+      "options": [
+        {
+          "label": "மொகிந்தர் அமர்நாத்"
+        },
+        {
+          "label": "கபில்தேவ்"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "வெஸ்ட் இண்டீஸுக்கு எதிரான 1983 உலகக்கோப்பை இறுதிப் போட்டியில் இந்தியா எத்தனை ரன்கள் எடுத்தது?",
+      "id": "வெஸ்ட்_இண்டீஸுக்கு_எதிரான_1983_உலகக்கோப்பை_இறுதிப்_போட்டியில்_இந்தியா_எத்தனை_ரன்கள்_எடுத்தது?",
+      "dates": [
+        "2019-06-13"
+      ],
+      "options": [
+        {
+          "label": "187"
+        },
+        {
+          "label": "183"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": null
+    },
+    {
+      "label": "1983 கிரிக்கெட் உலகக்கோப்பையில் எத்தனை மேட்ச்கள் விளையாடப்பட்டன?",
+      "id": "1983_கிரிக்கெட்_உலகக்கோப்பையில்_எத்தனை_மேட்ச்கள்_விளையாடப்பட்டன?",
+      "dates": [
+        "2019-06-07"
+      ],
+      "options": [
+        {
+          "label": "15"
+        },
+        {
+          "label": "19"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": {
+        "label": "1983 கிரிக்கெட் உலகக் கோப்பை",
+        "value": {
+          "label": "1983 क्रिकेट विश्व कप (आधिकारिक रूप से प्रूडेंशियल कप '83) क्रिकेट विश्व कप टूर्नामेंट का तीसरा संस्करण था। यह 9 जून से 25 जून 1983 तक इंग्लैंड और वेल्स में आयोजित किया गया था और इसे भारत ने जीता था।",
+          "url": "/read/ta/1983_cricket_world_cup",
+          "image": {
+            "altText": "Image for 1983 கிரிக்கெட் உலகக் கோப்பை",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "1989 உலகக் கோப்பையின்போது, ஒரு இன்னிங்கிற்கு எத்தனை ஓவர்கள் இருந்தன?",
+      "id": "1989_உலகக்_கோப்பையின்போது,_ஒரு_இன்னிங்கிற்கு_எத்தனை_ஓவர்கள்_இருந்தன?",
+      "dates": [
+        "2019-06-15"
+      ],
+      "options": [
+        {
+          "label": "60"
+        },
+        {
+          "label": "50"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": null
+    },
+    {
+      "label": "1987 உலகக்கோப்பை இறுதிப்போட்டி எங்கு நடைபெற்றது?",
+      "id": "1987_உலகக்கோப்பை_இறுதிப்போட்டி_எங்கு_நடைபெற்றது?",
+      "dates": [],
+      "options": [
+        {
+          "label": "ஃபெரோஸ் ஷா கோட்லா டெல்லி"
+        },
+        {
+          "label": "ஈடன் கார்டன்ஸ் கொல்கத்தா"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": {
+        "label": "இந்தியா",
+        "value": {
+          "label": "இந்திய குடியரசு என அழைக்கப்படும் இந்தியா, தெற்காசியாவில் அமையப்பெற்றுள்ள ஒரு நாடாகும். இது 1.3 பில்லியனுக்கும் அதிகமான மக்கள் தொகையைக் கொண்ட ஏழாவது மிகப் பெரிய நாடாகும். இது உலகின் இரண்டாவது மிக அதிக மக்கள்தொகை கொண்ட நாடாகவும், உலகிலேயே மிகப் பெரிய மக்களாட்சி நாடாகவும் உள்ளது.",
+          "url": "/read/ta/india",
+          "image": {
+            "altText": "Image for இந்தியா",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "1987 கிரிக்கெட் உலகக்கோப்பையை வென்றது யார்?",
+      "id": "1987_கிரிக்கெட்_உலகக்கோப்பையை_வென்றது_யார்?",
+      "dates": [
+        "2019-06-20",
+        "2019-07-06"
+      ],
+      "options": [
+        {
+          "label": "ஆஸ்திரேலியா"
+        },
+        {
+          "label": "பாகிஸ்தான்"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "1992-ஆம் ஆண்டு கிரிக்கெட் உலகக்கோப்பை வரலாற்றில் முதல் ஹாட்ரிக்கை எடுத்த வீரர் யார்?",
+      "id": "1992-ஆம்_ஆண்டு_கிரிக்கெட்_உலகக்கோப்பை_வரலாற்றில்_முதல்_ஹாட்ரிக்கை_எடுத்த_வீரர்_யார்?",
+      "dates": [
+        "2019-06-09",
+        "2019-07-06"
+      ],
+      "options": [
+        {
+          "label": "சேட்டன் ஷர்மா"
+        },
+        {
+          "label": "மதன் லால்"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "எந்த உலகக் கோப்பையின்போது வண்ண ஆடைகள் முதலில் அறிமுகப்படுத்தப்பட்டன?",
+      "id": "எந்த_உலகக்_கோப்பையின்போது_வண்ண_ஆடைகள்_முதலில்_அறிமுகப்படுத்தப்பட்டன?",
+      "dates": [
+        "2019-06-04"
+      ],
+      "options": [
+        {
+          "label": "1992"
+        },
+        {
+          "label": "1996"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "1992 கிரிக்கெட் உலகக்கோப்பையை வென்றது யார்?",
+      "id": "1992_கிரிக்கெட்_உலகக்கோப்பையை_வென்றது_யார்?",
+      "dates": [
+        "2019-06-26",
+        "2019-06-29",
+        "2019-07-05"
+      ],
+      "options": [
+        {
+          "label": "பாகிஸ்தான்"
+        },
+        {
+          "label": "நியூசிலாந்து"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "1992-ஆம் ஆண்டில் அதன் முதல் உலகக்கோப்பையை விளையாடிய நாடு எது?",
+      "id": "1992-ஆம்_ஆண்டில்_அதன்_முதல்_உலகக்கோப்பையை_விளையாடிய_நாடு_எது?",
+      "dates": [
+        "2019-05-30",
+        "2019-06-05"
+      ],
+      "options": [
+        {
+          "label": "ஸ்ரீலங்கா"
+        },
+        {
+          "label": "தென் ஆப்பிரிக்கா"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": null
+    },
+    {
+      "label": "1992 உலகக்கோப்பையின் போது மழை காரணமாக தாமதமான அரை இறுதி ஆட்டத்தில், 1 பந்தில் 22 ரன்கள் எடுக்க வேண்டிய நிலையில் இருந்த அணி எது?",
+      "id": "1992_உலகக்கோப்பையின்_போது_மழை_காரணமாக_தாமதமான_அரை_இறுதி_ஆட்டத்தில்,_1_பந்தில்_22_ரன்கள்_எடுக்க_வேண்டிய_நிலையில்_இருந்த_அணி_எது?",
+      "dates": [
+        "2019-06-23"
+      ],
+      "options": [
+        {
+          "label": "தென் ஆப்பிரிக்கா"
+        },
+        {
+          "label": "இங்கிலாந்து"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "1992 கிரிக்கெட் உலகக்கோப்பையை நடத்திய நாடு எது?",
+      "id": "1992_கிரிக்கெட்_உலகக்கோப்பையை_நடத்திய_நாடு_எது?",
+      "dates": [
+        "2019-06-05",
+        "2019-06-16"
+      ],
+      "options": [
+        {
+          "label": "ஆஸ்திரேலியா, நியூசிலாந்து"
+        },
+        {
+          "label": "இந்தியா, பாகிஸ்தான்"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "ஆஸ்திரேலியா",
+        "value": {
+          "label": "ஆஸ்திரேலியாவானது, அதிகாரப்பூர்வமாக ஆஸ்திரேலியா காமன்வெல்த் என்று அழைக்கப்படுகிறது, தாஸ்மேனியா தீவு மற்றும் பல சிறிய தீவுகளை உள்ளடக்கிய இது ஆஸ்திரேலியக் கண்டத்தின் முக்கிய நிலப்பகுதியைக் கொண்டுள்ள இறையாண்மை நாடாகும்.",
+          "url": "/read/ta/australia",
+          "image": {
+            "altText": "Image for ஆஸ்திரேலியா",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "1992 உலகக்கோப்பை இறுதிப் போட்டியின் சிறப்பு என்ன?",
+      "id": "1992_உலகக்கோப்பை_இறுதிப்_போட்டியின்_சிறப்பு_என்ன?",
+      "dates": [],
+      "options": [
+        {
+          "label": "லைட் வெளிச்சத்தில் விளையாடப்பட்ட முதல் உலகக்கோப்பை இறுதிப்போட்டி"
+        },
+        {
+          "label": "முதன்முறையாக உலகக்கோப்பை இறுதிப் போட்டியில் முதலில் பேட்டிங் செய்த அணி வென்றது"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "1992-இல் இந்தியாவிற்கும் ஸ்ரீலங்காவிற்கும் இடையேயான போட்டியின் போது, மழைக்கு பிறகு கிரவுண்டை உலர்த்துவதற்கு என்ன முறை பயன்படுத்தப்பட்டது?",
+      "id": "1992-இல்_இந்தியாவிற்கும்_ஸ்ரீலங்காவிற்கும்_இடையேயான_போட்டியின்_போது,_மழைக்கு_பிறகு_கிரவுண்டை_உலர்த்துவதற்கு_என்ன_முறை_பயன்படுத்தப்பட்டது?",
+      "dates": [
+        "2019-06-01",
+        "2019-07-06"
+      ],
+      "options": [
+        {
+          "label": "சூப்பர் சாப்பர் மெஷின்"
+        },
+        {
+          "label": "ஹெலிகாப்டர்"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": null
+    },
+    {
+      "label": "1992 உலகக்கோப்பையில் நியூசிலாந்து அறிமுகப்படுத்திய பேட்டிங் டெக்னிக் என்ன?",
+      "id": "1992_உலகக்கோப்பையில்_நியூசிலாந்து_அறிமுகப்படுத்திய_பேட்டிங்_டெக்னிக்_என்ன?",
+      "dates": [
+        "2019-06-22",
+        "2019-06-26",
+        "2019-06-29"
+      ],
+      "options": [
+        {
+          "label": "பிஞ்ச் ஹிட்டிங்"
+        },
+        {
+          "label": "ரிவர்ஸ் ஸ்வீப்"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "1996 உலகக்கோப்பை வேறு எப்படி குறிப்பிடப்படுகிறது?",
+      "id": "1996_உலகக்கோப்பை_வேறு_எப்படி_குறிப்பிடப்படுகிறது?",
+      "dates": [
+        "2019-06-08"
+      ],
+      "options": [
+        {
+          "label": "தி வில்ஸ் உலகக்கோப்பை"
+        },
+        {
+          "label": "ரிலையன்ஸ் உலகக்கோப்பை"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "1996 கிரிக்கெட் உலகக் கோப்பை",
+        "value": {
+          "label": "1996 क्रिकेट विश्व कप, जिसे उसके आधिकारिक प्रायोजकों (आईटीसी के विल्स ब्रांड) के नाम पर, विल्स वर्ल्ड कप 1996 भी कहा जाता है, छठा क्रिकेट विश्व कप था। यह पाकिस्तान और भारत द्वारा आयोजित होने वाला दूसरा, और श्रीलंका आयोजित होने वाला पहला विश्व कप था।",
+          "url": "/read/ta/1996_cricket_world_cup",
+          "image": {
+            "altText": "Image for 1996 கிரிக்கெட் உலகக் கோப்பை",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "1996-ஆம் ஆண்டு ஸ்ரீலங்கா இந்தியாவிற்கு எதிராக ஆடிய அரை இறுதிப் போட்டியில் டீஃபால்ட்டாக வெற்றி பெற்றது. ஏன்?",
+      "id": "1996-ஆம்_ஆண்டு_ஸ்ரீலங்கா_இந்தியாவிற்கு_எதிராக_ஆடிய_அரை_இறுதிப்_போட்டியில்_டீஃபால்ட்டாக_வெற்றி_பெற்றது._ஏன்?",
+      "dates": [
+        "2019-06-07"
+      ],
+      "options": [
+        {
+          "label": "மழை குறுக்கீடு காரணமாக"
+        },
+        {
+          "label": "மக்கள் குறுக்கீடு காரணமாக"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": {
+        "label": "1996 கிரிக்கெட் உலகக் கோப்பை",
+        "value": {
+          "label": "1996 क्रिकेट विश्व कप, जिसे उसके आधिकारिक प्रायोजकों (आईटीसी के विल्स ब्रांड) के नाम पर, विल्स वर्ल्ड कप 1996 भी कहा जाता है, छठा क्रिकेट विश्व कप था। यह पाकिस्तान और भारत द्वारा आयोजित होने वाला दूसरा, और श्रीलंका आयोजित होने वाला पहला विश्व कप था।",
+          "url": "/read/ta/1996_cricket_world_cup",
+          "image": {
+            "altText": "Image for 1996 கிரிக்கெட் உலகக் கோப்பை",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "1996 உலகக்கோப்பையில் அதிக ரன்கள் எடுத்த வீரர் யார்?",
+      "id": "1996_உலகக்கோப்பையில்_அதிக_ரன்கள்_எடுத்த_வீரர்_யார்?",
+      "dates": [
+        "2019-06-22"
+      ],
+      "options": [
+        {
+          "label": "சச்சின் டெண்டுல்கர்"
+        },
+        {
+          "label": "அரவிந்த டி சில்வா"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "சச்சின் டெண்டுல்கர்",
+        "value": {
+          "label": "சச்சின் டெண்டுல்கர் இந்தியாவைச் சேர்ந்த முன்னாள் சர்வதேச கிரிக்கெட் வீரர், கிரிக்கெட் வரலாற்றில் மிகச்சிறந்த பேட்ஸ்மென்களில் ஒருவராகக் கருதப்படுகிறார். சர்வதேச கிரிக்கெட் போட்டிகளில் அவர்தான் அதிகபட்ச ரன்களை எடுத்தவர்.",
+          "url": "/read/ta/sachin_tendulkar",
+          "image": {
+            "altText": "Image for சச்சின் டெண்டுல்கர்",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "1996-ஆம் ஆண்டில் கிரிக்கெட் உலகக்கோப்பையை வென்றது யார்?",
+      "id": "1996-ஆம்_ஆண்டில்_கிரிக்கெட்_உலகக்கோப்பையை_வென்றது_யார்?",
+      "dates": [
+        "2019-06-03",
+        "2019-06-04",
+        "2019-06-21"
+      ],
+      "options": [
+        {
+          "label": "ஸ்ரீலங்கா"
+        },
+        {
+          "label": "ஆஸ்திரேலியா"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "1996 கிரிக்கெட் உலகக்கோப்பையில் எத்தனை போட்டிகள் நடத்தப்பட்டன?",
+      "id": "1996_கிரிக்கெட்_உலகக்கோப்பையில்_எத்தனை_போட்டிகள்_நடத்தப்பட்டன?",
+      "dates": [],
+      "options": [
+        {
+          "label": "37"
+        },
+        {
+          "label": "26"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "1996 கிரிக்கெட் உலகக் கோப்பை",
+        "value": {
+          "label": "1996 क्रिकेट विश्व कप, जिसे उसके आधिकारिक प्रायोजकों (आईटीसी के विल्स ब्रांड) के नाम पर, विल्स वर्ल्ड कप 1996 भी कहा जाता है, छठा क्रिकेट विश्व कप था। यह पाकिस्तान और भारत द्वारा आयोजित होने वाला दूसरा, और श्रीलंका आयोजित होने वाला पहला विश्व कप था।",
+          "url": "/read/ta/1996_cricket_world_cup",
+          "image": {
+            "altText": "Image for 1996 கிரிக்கெட் உலகக் கோப்பை",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "1999 கிரிக்கெட் உலகக்கோப்பையை நடத்திய நாடு எது?",
+      "id": "1999_கிரிக்கெட்_உலகக்கோப்பையை_நடத்திய_நாடு_எது?",
+      "dates": [
+        "2019-05-30"
+      ],
+      "options": [
+        {
+          "label": "இங்கிலாந்து"
+        },
+        {
+          "label": "இந்தியா"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "இங்கிலாந்து",
+        "value": {
+          "label": "இங்கிலாந்து ஐக்கிய இராஜ்ஜியத்தின் ஒரு பகுதியாகும். இது மேற்கே வேல்ஸ் மற்றும் வடகிழக்கில் ஸ்காட்லாந்து வரை பரவியுள்ளது. ",
+          "url": "/read/ta/england",
+          "image": {
+            "altText": "Image for இங்கிலாந்து",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "1999 உலகக்கோப்பைத் தொடரின் 'மேன் ஆஃப் தி சீரிஸ்' வென்றவர் யார்?",
+      "id": "1999_உலகக்கோப்பைத்_தொடரின்_'மேன்_ஆஃப்_தி_சீரிஸ்'_வென்றவர்_யார்?",
+      "dates": [
+        "2019-06-11",
+        "2019-06-30"
+      ],
+      "options": [
+        {
+          "label": "லேன்ஸ் க்ளூஸ்னர்"
+        },
+        {
+          "label": "சச்சின் டெண்டுல்கர்"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "1999 கிரிக்கெட் உலகக் கோப்பை",
+        "value": {
+          "label": "1999 का क्रिकेट विश्व कप क्रिकेट विश्व कप का सातवां संस्करण था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेज़बानी मुख्य रूप से इंग्लैंड ने की थी, जिसमें कुछ मैच स्कॉटलैंड, आयरलैंड, वेल्स और नीदरलैंड में भी खेले गए थे।",
+          "url": "/read/ta/1999_cricket_world_cup",
+          "image": {
+            "altText": "Image for 1999 கிரிக்கெட் உலகக் கோப்பை",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "1999 கிரிக்கெட் உலகக்கோப்பையின் போது புது வகையான கிரிக்கெட் பந்து அறிமுகப்படுத்தப்பட்டது, அது என்ன?",
+      "id": "1999_கிரிக்கெட்_உலகக்கோப்பையின்_போது_புது_வகையான_கிரிக்கெட்_பந்து_அறிமுகப்படுத்தப்பட்டது,_அது_என்ன?",
+      "dates": [
+        "2019-07-01"
+      ],
+      "options": [
+        {
+          "label": "டியூக் பந்து"
+        },
+        {
+          "label": "குக்கூபாரா பந்து"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "1999 கிரிக்கெட் உலகக் கோப்பை",
+        "value": {
+          "label": "1999 का क्रिकेट विश्व कप क्रिकेट विश्व कप का सातवां संस्करण था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेज़बानी मुख्य रूप से इंग्लैंड ने की थी, जिसमें कुछ मैच स्कॉटलैंड, आयरलैंड, वेल्स और नीदरलैंड में भी खेले गए थे।",
+          "url": "/read/ta/1999_cricket_world_cup",
+          "image": {
+            "altText": "Image for 1999 கிரிக்கெட் உலகக் கோப்பை",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "1999-இல் உலகக்கோப்பையை வென்றது யார்?",
+      "id": "1999-இல்_உலகக்கோப்பையை_வென்றது_யார்?",
+      "dates": [
+        "2019-07-06"
+      ],
+      "options": [
+        {
+          "label": "ஆஸ்திரேலியா"
+        },
+        {
+          "label": "தென் ஆப்பிரிக்கா"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "1999 கிரிக்கெட் உலகக்கோப்பையை இணைந்து நடத்திய நாடு (கோ-ஹோஸ்ட்) எது?",
+      "id": "1999_கிரிக்கெட்_உலகக்கோப்பையை_இணைந்து_நடத்திய_நாடு_(கோ-ஹோஸ்ட்)_எது?",
+      "dates": [
+        "2019-06-06"
+      ],
+      "options": [
+        {
+          "label": "நெதர்லாந்து"
+        },
+        {
+          "label": "மேற்கிந்தியத் தீவுகள்"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "1999 கிரிக்கெட் உலகக் கோப்பை",
+        "value": {
+          "label": "1999 का क्रिकेट विश्व कप क्रिकेट विश्व कप का सातवां संस्करण था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेज़बानी मुख्य रूप से इंग्लैंड ने की थी, जिसमें कुछ मैच स्कॉटलैंड, आयरलैंड, वेल्स और नीदरलैंड में भी खेले गए थे।",
+          "url": "/read/ta/1999_cricket_world_cup",
+          "image": {
+            "altText": "Image for 1999 கிரிக்கெட் உலகக் கோப்பை",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "1999 கிரிக்கெட் உலகக்கோப்பையில் அதிகபட்ச ரன்களை எடுத்த வீரர் யார்?",
+      "id": "1999_கிரிக்கெட்_உலகக்கோப்பையில்_அதிகபட்ச_ரன்களை_எடுத்த_வீரர்_யார்?",
+      "dates": [
+        "2019-06-02",
+        "2019-06-29"
+      ],
+      "options": [
+        {
+          "label": "ராகுல் டிராவிட்"
+        },
+        {
+          "label": "சவுரவ் கங்குலி"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "ராகுல் டிராவிட்",
+        "value": {
+          "label": "ராகுல் டிராவிட் முன்னாள் இந்திய கிரிக்கெட் வீரர் மற்றும் கேப்டன். கிரிக்கெட் வரலாற்றில் தலைசிறந்த பேட்ஸ்மென்களில் ஒருவர் என எல்லோராலும் கருதப்படுபவர்",
+          "url": "/read/ta/rahul_dravid",
+          "image": {
+            "altText": "Image for ராகுல் டிராவிட்",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "2003 உலகக்கோப்பை தனித்துவமானது, ஏன்?",
+      "id": "2003_உலகக்கோப்பை_தனித்துவமானது,_ஏன்?",
+      "dates": [
+        "2019-06-11"
+      ],
+      "options": [
+        {
+          "label": "ஆப்பிரிக்காவில் முதல் உலகக்கோப்பை"
+        },
+        {
+          "label": "8-க்கும் மேற்பட்ட அணிகள் பங்கேற்ற முதல் உலகக்கோப்பை"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "2003 கிரிக்கெட் உலகக் கோப்பை",
+        "value": {
+          "label": "2003 का क्रिकेट विश्व कप आठवां क्रिकेट विश्व कप था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेजबानी दक्षिण अफ्रीका, जिम्बाब्वे और केन्या ने मिल कर की थी।",
+          "url": "/read/ta/2003_cricket_world_cup",
+          "image": {
+            "altText": "Image for 2003 கிரிக்கெட் உலகக் கோப்பை",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "டெஸ்ட் போட்டியை விளையாடாமலே 2003 கிரிக்கெட் உலகக்கோப்பையின் அரை இறுதிப் போட்டிக்கு வந்த ஒரே நாடு எது? இந்த சாதனையை செய்த ஒரே நாடு இதுதான்.",
+      "id": "டெஸ்ட்_போட்டியை_விளையாடாமலே_2003_கிரிக்கெட்_உலகக்கோப்பையின்_அரை_இறுதிப்_போட்டிக்கு_வந்த_ஒரே_நாடு_எது?_இந்த_சாதனையை_செய்த_ஒரே_நாடு_இதுதான்.",
+      "dates": [
+        "2019-06-23"
+      ],
+      "options": [
+        {
+          "label": "கென்யா"
+        },
+        {
+          "label": "ஜிம்பாப்வே"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "2003 கிரிக்கெட் உலகக் கோப்பை",
+        "value": {
+          "label": "2003 का क्रिकेट विश्व कप आठवां क्रिकेट विश्व कप था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेजबानी दक्षिण अफ्रीका, जिम्बाब्वे और केन्या ने मिल कर की थी।",
+          "url": "/read/ta/2003_cricket_world_cup",
+          "image": {
+            "altText": "Image for 2003 கிரிக்கெட் உலகக் கோப்பை",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "2003 கிரிக்கெட் உலகக்கோப்பையின் 'தொடர் நாயகன்' மற்றும் 'அதிகபட்ச ரன் எடுத்தவர்' யார்? ",
+      "id": "2003_கிரிக்கெட்_உலகக்கோப்பையின்_'தொடர்_நாயகன்'_மற்றும்_'அதிகபட்ச_ரன்_எடுத்தவர்'_யார்?_",
+      "dates": [
+        "2019-06-01"
+      ],
+      "options": [
+        {
+          "label": "சச்சின் டெண்டுல்கர்"
+        },
+        {
+          "label": "ஸ்டீவ் வா"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "சச்சின் டெண்டுல்கர்",
+        "value": {
+          "label": "சச்சின் டெண்டுல்கர் இந்தியாவைச் சேர்ந்த முன்னாள் சர்வதேச கிரிக்கெட் வீரர், கிரிக்கெட் வரலாற்றில் மிகச்சிறந்த பேட்ஸ்மென்களில் ஒருவராகக் கருதப்படுகிறார். சர்வதேச கிரிக்கெட் போட்டிகளில் அவர்தான் அதிகபட்ச ரன்களை எடுத்தவர்.",
+          "url": "/read/ta/sachin_tendulkar",
+          "image": {
+            "altText": "Image for சச்சின் டெண்டுல்கர்",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "2003 உலகக்கோப்பையின் போது மழை தாமதத்திற்கு பின், தேவையான ஸ்கோரை கணக்கிட என்ன முறை அறிமுகப்படுத்தப்பட்டது?",
+      "id": "2003_உலகக்கோப்பையின்_போது_மழை_தாமதத்திற்கு_பின்,_தேவையான_ஸ்கோரை_கணக்கிட_என்ன_முறை_அறிமுகப்படுத்தப்பட்டது?",
+      "dates": [
+        "2019-06-28"
+      ],
+      "options": [
+        {
+          "label": "டக்வொர்த் லூயிஸ் முறை"
+        },
+        {
+          "label": "மோஸ்ட் புரொடக்டிவ் ஓவர்ஸ் முறை"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "2003 கிரிக்கெட் உலகக் கோப்பை",
+        "value": {
+          "label": "2003 का क्रिकेट विश्व कप आठवां क्रिकेट विश्व कप था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेजबानी दक्षिण अफ्रीका, जिम्बाब्वे और केन्या ने मिल कर की थी।",
+          "url": "/read/ta/2003_cricket_world_cup",
+          "image": {
+            "altText": "Image for 2003 கிரிக்கெட் உலகக் கோப்பை",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "2003 உலகக்கோப்பையில், இந்தியாவுக்கு எதிரான இறுதிப் போட்டியில் ஆஸ்திரேலியா எத்தனை ரன்கள் எடுத்தது?",
+      "id": "2003_உலகக்கோப்பையில்,_இந்தியாவுக்கு_எதிரான_இறுதிப்_போட்டியில்_ஆஸ்திரேலியா_எத்தனை_ரன்கள்_எடுத்தது?",
+      "dates": [
+        "2019-06-09"
+      ],
+      "options": [
+        {
+          "label": "359"
+        },
+        {
+          "label": "327"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "2007 கிரிக்கெட் உலகக்கோப்பை எங்கு நடைபெற்றது?",
+      "id": "2007_கிரிக்கெட்_உலகக்கோப்பை_எங்கு_நடைபெற்றது?",
+      "dates": [],
+      "options": [
+        {
+          "label": "மேற்கிந்தியத் தீவுகள்"
+        },
+        {
+          "label": "தென் ஆப்பிரிக்கா"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "2007 கிரிக்கெட் உலகக் கோப்பை",
+        "value": {
+          "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
+          "url": "/read/ta/2007_cricket_world_cup",
+          "image": {
+            "altText": "Image for 2007 கிரிக்கெட் உலகக் கோப்பை",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "2007 கிரிக்கெட் உலகக்கோப்பையில் 'தொடர் நாயகன்' விருதை வென்றது யார்?",
+      "id": "2007_கிரிக்கெட்_உலகக்கோப்பையில்_'தொடர்_நாயகன்'_விருதை_வென்றது_யார்?",
+      "dates": [
+        "2019-06-20",
+        "2019-06-29"
+      ],
+      "options": [
+        {
+          "label": "கிளென் மெக்ராத்"
+        },
+        {
+          "label": "ஆடம் கில்கிறிஸ்ட்"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "2007 கிரிக்கெட் உலகக் கோப்பை",
+        "value": {
+          "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
+          "url": "/read/ta/2007_cricket_world_cup",
+          "image": {
+            "altText": "Image for 2007 கிரிக்கெட் உலகக் கோப்பை",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "2007-ஆம் ஆண்டு கிரிக்கெட் உலகக்கோப்பையில் இந்தியா எந்த ஸ்டேஜில் தகுதி பெறத் தவறியது?",
+      "id": "2007-ஆம்_ஆண்டு_கிரிக்கெட்_உலகக்கோப்பையில்_இந்தியா_எந்த_ஸ்டேஜில்_தகுதி_பெறத்_தவறியது?",
+      "dates": [
+        "2019-06-25",
+        "2019-07-04"
+      ],
+      "options": [
+        {
+          "label": "குரூப் ஸ்டேஜ்"
+        },
+        {
+          "label": "காலிறுதி"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "2011 கிரிக்கெட் உலகக்கோப்பைக்கு அதிகாரப்பூர்வ தூதராக (அம்பாஸிடர்) இருந்தவர் யார்?",
+      "id": "2011_கிரிக்கெட்_உலகக்கோப்பைக்கு_அதிகாரப்பூர்வ_தூதராக_(அம்பாஸிடர்)_இருந்தவர்_யார்?",
+      "dates": [],
+      "options": [
+        {
+          "label": "சச்சின் டெண்டுல்கர்"
+        },
+        {
+          "label": "எம்.எஸ் தோனி"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "சச்சின் டெண்டுல்கர்",
+        "value": {
+          "label": "சச்சின் டெண்டுல்கர் இந்தியாவைச் சேர்ந்த முன்னாள் சர்வதேச கிரிக்கெட் வீரர், கிரிக்கெட் வரலாற்றில் மிகச்சிறந்த பேட்ஸ்மென்களில் ஒருவராகக் கருதப்படுகிறார். சர்வதேச கிரிக்கெட் போட்டிகளில் அவர்தான் அதிகபட்ச ரன்களை எடுத்தவர்.",
+          "url": "/read/ta/sachin_tendulkar",
+          "image": {
+            "altText": "Image for சச்சின் டெண்டுல்கர்",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "2011 கிரிக்கெட் உலகக்கோப்பையை வென்றது யார்?",
+      "id": "2011_கிரிக்கெட்_உலகக்கோப்பையை_வென்றது_யார்?",
+      "dates": [
+        "2019-06-15"
+      ],
+      "options": [
+        {
+          "label": "இந்தியா"
+        },
+        {
+          "label": "ஆஸ்திரேலியா"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "2011 கிரிக்கெட் உலகக்கோப்பையில் 'தொடர் நாயகன்' விருதை வென்றது யார்?",
+      "id": "2011_கிரிக்கெட்_உலகக்கோப்பையில்_'தொடர்_நாயகன்'_விருதை_வென்றது_யார்?",
+      "dates": [],
+      "options": [
+        {
+          "label": "யுவராஜ் சிங்"
+        },
+        {
+          "label": "கௌதம் கம்பீர்"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "2011 கிரிக்கெட் உலகக் கோப்பை",
+        "value": {
+          "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
+          "url": "/read/ta/2011_cricket_world_cup",
+          "image": {
+            "altText": "Image for 2011 கிரிக்கெட் உலகக் கோப்பை",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "2011 உலகக்கோப்பை உலகெங்கிலும் அதிக எண்ணிக்கையிலான பார்வையாளர்களால் பார்க்கப்பட்டது. பார்வையாளர்களின் எண்ணிக்கை எவ்வளவு?",
+      "id": "2011_உலகக்கோப்பை_உலகெங்கிலும்_அதிக_எண்ணிக்கையிலான_பார்வையாளர்களால்_பார்க்கப்பட்டது._பார்வையாளர்களின்_எண்ணிக்கை_எவ்வளவு?",
+      "dates": [
+        "2019-06-05",
+        "2019-06-18"
+      ],
+      "options": [
+        {
+          "label": "2.2 பில்லியன்"
+        },
+        {
+          "label": "2.8 பில்லியன்"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "2011 கிரிக்கெட் உலகக் கோப்பை",
+        "value": {
+          "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
+          "url": "/read/ta/2011_cricket_world_cup",
+          "image": {
+            "altText": "Image for 2011 கிரிக்கெட் உலகக் கோப்பை",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "2011 உலகக்கோப்பை இறுதிப் போட்டியில் இந்தியா சேஸ் செய்ய வேண்டிய ஸ்கோர் என்னவாக இருந்தது?",
+      "id": "2011_உலகக்கோப்பை_இறுதிப்_போட்டியில்_இந்தியா_சேஸ்_செய்ய_வேண்டிய_ஸ்கோர்_என்னவாக_இருந்தது?",
+      "dates": [
+        "2019-06-08"
+      ],
+      "options": [
+        {
+          "label": "274"
+        },
+        {
+          "label": "277"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "2015 கிரிக்கெட் உலகக்கோப்பை எங்கு நடைபெற்றது?",
+      "id": "2015_கிரிக்கெட்_உலகக்கோப்பை_எங்கு_நடைபெற்றது?",
+      "dates": [
+        "2019-07-01"
+      ],
+      "options": [
+        {
+          "label": "ஆஸ்திரேலியா, நியூசிலாந்து"
+        },
+        {
+          "label": "இங்கிலாந்து"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "2015 கிரிக்கெட் உலகக் கோப்பை",
+        "value": {
+          "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
+          "url": "/read/ta/2015_cricket_world_cup",
+          "image": {
+            "altText": "Image for 2015 கிரிக்கெட் உலகக் கோப்பை",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "ஆஸ்திரேலியா இதுவரை எத்தனை உலகக்கோப்பைகளை வென்றுள்ளது?",
+      "id": "ஆஸ்திரேலியா_இதுவரை_எத்தனை_உலகக்கோப்பைகளை_வென்றுள்ளது?",
+      "dates": [
+        "2019-06-12"
+      ],
+      "options": [
+        {
+          "label": "5"
+        },
+        {
+          "label": "4"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "2015 கிரிக்கெட் உலகக்கோப்பையில் 'தொடரின் சிறந்த வீரர்' விருதை வென்றது யார்?",
+      "id": "2015_கிரிக்கெட்_உலகக்கோப்பையில்_'தொடரின்_சிறந்த_வீரர்'_விருதை_வென்றது_யார்?",
+      "dates": [
+        "2019-06-25"
+      ],
+      "options": [
+        {
+          "label": "மிட்செல் ஸ்டார்க்"
+        },
+        {
+          "label": "விராட் கோலி"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "2015 கிரிக்கெட் உலகக் கோப்பை",
+        "value": {
+          "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
+          "url": "/read/ta/2015_cricket_world_cup",
+          "image": {
+            "altText": "Image for 2015 கிரிக்கெட் உலகக் கோப்பை",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "2015 கிரிக்கெட் உலகக்கோப்பையின் இறுதி ஆட்டத்தில் ஆஸ்திரேலியா எந்த அணிக்கு எதிராக ஆடினர்?",
+      "id": "2015_கிரிக்கெட்_உலகக்கோப்பையின்_இறுதி_ஆட்டத்தில்_ஆஸ்திரேலியா_எந்த_அணிக்கு_எதிராக_ஆடினர்?",
+      "dates": [
+        "2019-06-01",
+        "2019-06-15"
+      ],
+      "options": [
+        {
+          "label": "நியூசிலாந்து"
+        },
+        {
+          "label": "ஸ்ரீலங்கா"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "2019 உலகக்கோப்பையை நடத்தப்போவது எந்த நாடு?",
+      "id": "2019_உலகக்கோப்பையை_நடத்தப்போவது_எந்த_நாடு?",
+      "dates": [
+        "2019-05-31",
+        "2019-06-02",
+        "2019-06-21"
+      ],
+      "options": [
+        {
+          "label": "இங்கிலாந்து"
+        },
+        {
+          "label": "தென் ஆப்பிரிக்கா"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "இங்கிலாந்து",
+        "value": {
+          "label": "இங்கிலாந்து ஐக்கிய இராஜ்ஜியத்தின் ஒரு பகுதியாகும். இது மேற்கே வேல்ஸ் மற்றும் வடகிழக்கில் ஸ்காட்லாந்து வரை பரவியுள்ளது. ",
+          "url": "/read/ta/england",
+          "image": {
+            "altText": "Image for இங்கிலாந்து",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "உலகக்கோப்பை டோர்னமென்ட்டில் அதிகபட்ச ரன்கள் எடுத்த வீரர் யார்?",
+      "id": "உலகக்கோப்பை_டோர்னமென்ட்டில்_அதிகபட்ச_ரன்கள்_எடுத்த_வீரர்_யார்?",
+      "dates": [
+        "2019-06-08",
+        "2019-06-27"
+      ],
+      "options": [
+        {
+          "label": "சச்சின் டெண்டுல்கர்"
+        },
+        {
+          "label": "ரிக்கி பாண்டிங்"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "சச்சின் டெண்டுல்கர்",
+        "value": {
+          "label": "சச்சின் டெண்டுல்கர் இந்தியாவைச் சேர்ந்த முன்னாள் சர்வதேச கிரிக்கெட் வீரர், கிரிக்கெட் வரலாற்றில் மிகச்சிறந்த பேட்ஸ்மென்களில் ஒருவராகக் கருதப்படுகிறார். சர்வதேச கிரிக்கெட் போட்டிகளில் அவர்தான் அதிகபட்ச ரன்களை எடுத்தவர்.",
+          "url": "/read/ta/sachin_tendulkar",
+          "image": {
+            "altText": "Image for சச்சின் டெண்டுல்கர்",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "உலகக்கோப்பை டோர்னமென்ட்டில் அதிக விக்கெட்டுகளை எடுத்த வீரர் யார்?",
+      "id": "உலகக்கோப்பை_டோர்னமென்ட்டில்_அதிக_விக்கெட்டுகளை_எடுத்த_வீரர்_யார்?",
+      "dates": [
+        "2019-06-12"
+      ],
+      "options": [
+        {
+          "label": "கிளென் மெக்ராத்"
+        },
+        {
+          "label": "வக்கார் யூனிஸ்"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "உலகக்கோப்பையை அதிகமுறை வென்ற அணி எது?",
+      "id": "உலகக்கோப்பையை_அதிகமுறை_வென்ற_அணி_எது?",
+      "dates": [
+        "2019-06-01"
+      ],
+      "options": [
+        {
+          "label": "ஆஸ்திரேலியா"
+        },
+        {
+          "label": "இந்தியா"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "100 ஒரு நாள் சர்வதேசப் போட்டிகளை வென்ற ஆஸ்திரேலியர் அல்லாத முதல் கேப்டன் யார்?",
+      "id": "100_ஒரு_நாள்_சர்வதேசப்_போட்டிகளை_வென்ற_ஆஸ்திரேலியர்_அல்லாத_முதல்_கேப்டன்_யார்?",
+      "dates": [
+        "2019-06-16"
+      ],
+      "options": [
+        {
+          "label": "எம்.எஸ் தோனி"
+        },
+        {
+          "label": "கிரீம் ஸ்மித்"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "மகேந்திர சிங் தோனி",
+        "value": {
+          "label": "மகேந்திர சிங் தோனி இந்தியாவைச் சேர்ந்த சர்வதேச கிரிக்கெட் வீரர், அவர் 2007 முதல் 2016 வரை ஒருநாள் போட்டிகளிலும் 2008 முதல் 2014 வரை டெஸ்ட் போட்டிகளிலும் இந்திய கிரிக்கெட் அணியின் கேப்டனாக இருந்திருக்கிறார்.",
+          "url": "/read/ta/mahendra_singh_dhoni",
+          "image": {
+            "altText": "Image for மகேந்திர சிங் தோனி",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "உலகக்கோப்பையில் பங்கேற்ற முதல் முறையிலேயே சதம் அடித்த முதல் இந்திய பேட்ஸ்மேன் யார்?",
+      "id": "உலகக்கோப்பையில்_பங்கேற்ற_முதல்_முறையிலேயே_சதம்_அடித்த_முதல்_இந்திய_பேட்ஸ்மேன்_யார்?",
+      "dates": [],
+      "options": [
+        {
+          "label": "சச்சின் டெண்டுல்கர்"
+        },
+        {
+          "label": "விராட் கோலி"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": {
+        "label": "விராட் கோலி",
+        "value": {
+          "label": "விராட் கோலி இந்திய கிரிக்கெட் வீரர், அவர் இந்திய அணியின் கேப்டனாக இருக்கிறார்.",
+          "url": "/read/ta/virat_kohli",
+          "image": {
+            "altText": "Image for விராட் கோலி",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "2018-இல் அதிகபட்ச சிக்ஸ்களை அடித்த வீரர் யார்?",
+      "id": "2018-இல்_அதிகபட்ச_சிக்ஸ்களை_அடித்த_வீரர்_யார்?",
+      "dates": [
+        "2019-07-02"
+      ],
+      "options": [
+        {
+          "label": "கிறிஸ் கெய்ல்"
+        },
+        {
+          "label": "ரோஹித் ஷர்மா"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": {
+        "label": "ரோஹித் ஷர்மா",
+        "value": {
+          "label": "ரோஹித் ஷர்மா இந்தியாவைச் சேர்ந்த சர்வதேச கிரிக்கெட் வீரர், அவர் இந்திய கிரிக்கெட் அணிக்கு ஒரு நாள் போட்டிகளில் துணை கேப்டனாக இருக்கிறார்.",
+          "url": "/read/ta/rohit_sharma",
+          "image": {
+            "altText": "Image for ரோஹித் ஷர்மா",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "ஒரு நாள் சர்வதேசப் போட்டிகளில் மிக வேகமாக 1,000 ரன்களைக் குவித்த இந்திய பேட்ஸ்மேன் யார்?",
+      "id": "ஒரு_நாள்_சர்வதேசப்_போட்டிகளில்_மிக_வேகமாக_1,000_ரன்களைக்_குவித்த_இந்திய_பேட்ஸ்மேன்_யார்?",
+      "dates": [
+        "2019-06-24"
+      ],
+      "options": [
+        {
+          "label": "ஷிகார் தவான்"
+        },
+        {
+          "label": "விராட் கோலி"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "சிக்கர் தவான்",
+        "value": {
+          "label": "சிக்கர் தவான் இந்தியாவைச் சேர்ந்த சர்வதேச கிரிக்கெட் வீரர்.",
+          "url": "/read/ta/shikhar_dhawan",
+          "image": {
+            "altText": "Image for சிக்கர் தவான்",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "எந்த ஆஸ்திரேலியா வீரர் அவரது முதல் நேஷனல் போட்டியை விளையாடுவதற்கு முன்பாக, முதல்-கிளாஸ் போட்டியை விளையாடியதில்லை?",
+      "id": "எந்த_ஆஸ்திரேலியா_வீரர்_அவரது_முதல்_நேஷனல்_போட்டியை_விளையாடுவதற்கு_முன்பாக,_முதல்-கிளாஸ்_போட்டியை_விளையாடியதில்லை?",
+      "dates": [],
+      "options": [
+        {
+          "label": "ஸ்டீவ் ஸ்மித்"
+        },
+        {
+          "label": "டேவிட் வார்னர்"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": null
+    },
+    {
+      "label": "டெஸ்ட் போட்டிகளில் பங்கேற்கும் அனைத்து நாடுகளுக்கு எதிராகவும் சதம் அடித்த இளம் வீரர் யார்?",
+      "id": "டெஸ்ட்_போட்டிகளில்_பங்கேற்கும்_அனைத்து_நாடுகளுக்கு_எதிராகவும்_சதம்_அடித்த_இளம்_வீரர்_யார்?",
+      "dates": [
+        "2019-06-19"
+      ],
+      "options": [
+        {
+          "label": "கேன் வில்லியம்சன்"
+        },
+        {
+          "label": "விராட் கோலி"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "இரண்டு தனி நாடுகளுக்காக சதம் அடித்த இங்கிலீஷ் கிரிக்கெட் வீரர் யார்?",
+      "id": "இரண்டு_தனி_நாடுகளுக்காக_சதம்_அடித்த_இங்கிலீஷ்_கிரிக்கெட்_வீரர்_யார்?",
+      "dates": [
+        "2019-06-18"
+      ],
+      "options": [
+        {
+          "label": "ஈயோன் மோர்கன்"
+        },
+        {
+          "label": "கெவின் பீட்டர்சன்"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "150 விக்கெட்டுகளை எடுத்த தென்னாப்பிரிக்க இளம் பந்து வீச்சாளர் யார்?",
+      "id": "150_விக்கெட்டுகளை_எடுத்த_தென்னாப்பிரிக்க_இளம்_பந்து_வீச்சாளர்_யார்?",
+      "dates": [
+        "2019-06-19"
+      ],
+      "options": [
+        {
+          "label": "ககிசோ ரபாடா"
+        },
+        {
+          "label": "டேல் ஸ்டெயின்"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "ககிசோ ரபாடா",
+        "value": {
+          "label": "காகிசோ ரபாடா தென்னாப்பிரிக்கவைச் சேர்ந்த சர்வதேச கிரிக்கெட் வீரர், இவர் அனைத்து ஃபார்மட்களிலும் விளையாடுகிறார். ரபாடா கேஜி என்ற செல்லப் பெயரால் அறியப்படுகிறார். இவர் ஒரு வேகப் பந்துவீச்சாளர், உள்ளூர் போட்டிகளில் ஹைவெல்டு லயன்ஸ் அணிக்கு விளையாடுகிறார்.",
+          "url": "/read/ta/kagiso_rabada",
+          "image": {
+            "altText": "Image for ககிசோ ரபாடா",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "டி-20யில் சதமும், ஒரு நாள் சர்வதேசப் போட்டியில் இரட்டை சதமும், டெஸ்ட் போட்டியில் முச்சதமும் அடித்த ஒரே வீரர் யார்?",
+      "id": "டி-20யில்_சதமும்,_ஒரு_நாள்_சர்வதேசப்_போட்டியில்_இரட்டை_சதமும்,_டெஸ்ட்_போட்டியில்_முச்சதமும்_அடித்த_ஒரே_வீரர்_யார்?",
+      "dates": [
+        "2019-06-10"
+      ],
+      "options": [
+        {
+          "label": "கிறிஸ் கெய்ல்"
+        },
+        {
+          "label": "மார்டின் குப்தில்"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "மேற்கிந்தியத் தீவுகள் கிரிக்கெட் அணி எத்தனை கரீபிய நாடுகளைப் பிரதிநிதித்துவம் செய்கின்றது?",
+      "id": "மேற்கிந்தியத்_தீவுகள்_கிரிக்கெட்_அணி_எத்தனை_கரீபிய_நாடுகளைப்_பிரதிநிதித்துவம்_செய்கின்றது?",
+      "dates": [
+        "2019-05-31",
+        "2019-06-17"
+      ],
+      "options": [
+        {
+          "label": "15"
+        },
+        {
+          "label": "22"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "இறுதிப் போட்டிக்கு அதிக முறை தகுதி பெற்ற அணி எது?",
+      "id": "இறுதிப்_போட்டிக்கு_அதிக_முறை_தகுதி_பெற்ற_அணி_எது?",
+      "dates": [
+        "2019-06-06"
+      ],
+      "options": [
+        {
+          "label": "ஆஸ்திரேலியா"
+        },
+        {
+          "label": "ஸ்ரீலங்கா"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "உலகக்கோப்பையில் குரூப் ஸ்டேஜ் போட்டியில் தோற்காத ஒரே இந்திய கேப்டன் யார்?",
+      "id": "உலகக்கோப்பையில்_குரூப்_ஸ்டேஜ்_போட்டியில்_தோற்காத_ஒரே_இந்திய_கேப்டன்_யார்?",
+      "dates": [],
+      "options": [
+        {
+          "label": "எம்.எஸ் டோனி"
+        },
+        {
+          "label": "சவுரவ் கங்குலி"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "மகேந்திர சிங் தோனி",
+        "value": {
+          "label": "மகேந்திர சிங் தோனி இந்தியாவைச் சேர்ந்த சர்வதேச கிரிக்கெட் வீரர், அவர் 2007 முதல் 2016 வரை ஒருநாள் போட்டிகளிலும் 2008 முதல் 2014 வரை டெஸ்ட் போட்டிகளிலும் இந்திய கிரிக்கெட் அணியின் கேப்டனாக இருந்திருக்கிறார்.",
+          "url": "/read/ta/mahendra_singh_dhoni",
+          "image": {
+            "altText": "Image for மகேந்திர சிங் தோனி",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "இந்திய மகளிர் கிரிக்கெட் ஒரு நாள் சர்வதேச அணியின் கேப்டன் யார்?",
+      "id": "இந்திய_மகளிர்_கிரிக்கெட்_ஒரு_நாள்_சர்வதேச_அணியின்_கேப்டன்_யார்?",
+      "dates": [
+        "2019-06-30"
+      ],
+      "options": [
+        {
+          "label": "மிதாலி ராஜ்"
+        },
+        {
+          "label": "ஹர்மன்பிரீத் கவுர்"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": null
+    },
+    {
+      "label": "2018-க்கான \"ஐசிசி பெண் கிரிக்கெட்டர்\" விருது பெற்ற வீராங்கனை யார்?",
+      "id": "2018-க்கான_\"ஐசிசி_பெண்_கிரிக்கெட்டர்\"_விருது_பெற்ற_வீராங்கனை_யார்?",
+      "dates": [
+        "2019-07-02"
+      ],
+      "options": [
+        {
+          "label": "ஸ்மிருதி மந்தனா"
+        },
+        {
+          "label": "மிதாலி ராஜ்"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "இங்கிலாந்தில் கே.ஐ.ஏ சூப்பர் லீகை விளையாடிய முதல் பெண் கிரிக்கெட்டர் யார்?",
+      "id": "இங்கிலாந்தில்_கே.ஐ.ஏ_சூப்பர்_லீகை_விளையாடிய_முதல்_பெண்_கிரிக்கெட்டர்_யார்?",
+      "dates": [],
+      "options": [
+        {
+          "label": "ஹர்மன்பிரீத் கவுர்"
+        },
+        {
+          "label": "ஸ்மிருதி மந்தனா"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "இந்திய மகளிர் கிரிக்கெட் அணிக்காக அதிக ரன்களை குவித்த வீராங்கனை யார்?",
+      "id": "இந்திய_மகளிர்_கிரிக்கெட்_அணிக்காக_அதிக_ரன்களை_குவித்த_வீராங்கனை_யார்?",
+      "dates": [],
+      "options": [
+        {
+          "label": "மிதாலி ராஜ்"
+        },
+        {
+          "label": "ஹர்மன்பிரீத் கவுர்"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": null
+    },
+    {
+      "label": "இந்திய மகளிர் கிரிக்கெட் அணிக்காக அதிக விக்கெட்டுகளை எடுத்த வீராங்கனை யார்?",
+      "id": "இந்திய_மகளிர்_கிரிக்கெட்_அணிக்காக_அதிக_விக்கெட்டுகளை_எடுத்த_வீராங்கனை_யார்?",
+      "dates": [
+        "2019-06-27"
+      ],
+      "options": [
+        {
+          "label": "வேதா கிருஷ்ணமூர்த்தி"
+        },
+        {
+          "label": "ஜுலன் கோஸ்வாமி"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": null
+    }
+  ]
+}
