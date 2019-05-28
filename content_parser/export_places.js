@@ -81,6 +81,29 @@ const IN_SPORTS = [
 const GEOGRAPHY_KEY = "Geography";
 const GEOGRAPHY_IMAGE_KEY = "Link to relevant image  - geography";
 
+const CULTURE = [
+  {
+    TITLE_KEY: "Culture Card 1 Title",
+    DESCRIPTION_KEY: "Small description 1",
+    IMAGE_KEY: "Culture card Image 1"
+  },
+  {
+    TITLE_KEY: "Culture Card 2 Title",
+    DESCRIPTION_KEY: "Small description 2",
+    IMAGE_KEY: "Culture card Image 2"
+  },
+  {
+    TITLE_KEY: "Culture Card 3 Title",
+    DESCRIPTION_KEY: "Small description 3",
+    IMAGE_KEY: "Culture card Image 3"
+  },
+  {
+    TITLE_KEY: "Culture Card 4 Title",
+    DESCRIPTION_KEY: "Small description 4",
+    IMAGE_KEY: "Culture card Image 4"
+  }
+];
+
 module.exports.exportPlaces = () => {
   Object.keys(csvExports).forEach(lang => {
     const fileContent = fs.readFileSync(csvExports[lang].path, "utf8");
@@ -294,7 +317,7 @@ module.exports.exportPlaces = () => {
           englishSlug
         );
 
-        place.sections.push({
+        const geographySection = {
           title: "Geography",
           id: getSluggedTitle(`${englishSlug}_geography`),
           cardType: "simple",
@@ -302,15 +325,52 @@ module.exports.exportPlaces = () => {
             {
               label: place.title,
               value: {
-                label: record[GEOGRAPHY_KEY],
-                image: geographyImage
+                label: record[GEOGRAPHY_KEY]
               }
             }
           ]
-        });
+        };
+
+        if (geographyImage) {
+          geographySection.facts[0].value.image = geographyImage;
+        }
+
+        place.sections.push(geographySection);
       }
 
       // Culture.
+      let cultureFacts = await Promise.all(
+        CULTURE.map(async culture => {
+          if (!record[culture.TITLE_KEY]) {
+            return null;
+          }
+
+          return {
+            label: record[culture.TITLE_KEY],
+            id: getSluggedTitle(`culture-${record[culture.TITLE_KEY]}`),
+            value: {
+              label: record[culture.DESCRIPTION_KEY],
+              image: await downloadImageAndFillAttributions(
+                {
+                  url: record[culture.IMAGE_KEY],
+                  altText: record[culture.DESCRIPTION_KEY]
+                },
+                englishSlug
+              )
+            }
+          };
+        })
+      );
+
+      cultureFacts = cultureFacts.filter(f => !!f);
+
+      if (cultureFacts.length > 0) {
+        place.sections.push({
+          title: "Culture",
+          cardType: "stories",
+          facts: cultureFacts
+        });
+      }
 
       // Demographics.
 

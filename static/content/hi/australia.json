@@ -156,6 +156,60 @@
           }
         }
       ]
+    },
+    {
+      "title": "Culture",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "कला ",
+          "id": "culture-कला_",
+          "value": {
+            "label": "मेलबोर्न में रॉयल प्रदर्शनी भवन 2004 में यूनेस्को की विश्व धरोहर स्थल के रूप में सूचीबद्ध होने वाली ऑस्ट्रेलिया की पहली इमारत थी।",
+            "image": {
+              "url": "/static/images/australia/Royal_exhibition_building_tulips_straight.jpg",
+              "altText": "मेलबोर्न में रॉयल प्रदर्शनी भवन 2004 में यूनेस्को की विश्व धरोहर स्थल के रूप में सूचीबद्ध होने वाली ऑस्ट्रेलिया की पहली इमारत थी।",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.5/deed.en\">Attribution 2.5 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "भोजन ",
+          "id": "culture-भोजन_",
+          "value": {
+            "label": "वेजेमाइट, पावलोवा, लैमिंगटन और मांस पाईस प्रतिष्ठित ऑस्ट्रेलियाई खाद्य पदार्थ मानी जाती हैं।",
+            "image": {
+              "url": "/static/images/australia/Pavlova_garnished_with_cream_and_strawberries.jpg",
+              "altText": "वेजेमाइट, पावलोवा, लैमिंगटन और मांस पाईस प्रतिष्ठित ऑस्ट्रेलियाई खाद्य पदार्थ मानी जाती हैं।",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "खेल और मनोरंजन ",
+          "id": "culture-खेल_और_मनोरंजन_",
+          "value": {
+            "label": "मेलबर्न क्रिकेट मैदान ऑस्ट्रेलिया के दो सबसे लोकप्रियदेखे जाने वाले खेलों  क्रिकेट और ऑस्ट्रेलियाई रूल्स फुटबॉल के इतिहास और विकास से दृढ़ता से जुड़ा हुआ है।",
+            "image": {
+              "url": "/static/images/australia/AFL_Grand_Final_2010_on_the_Melbourne_Cricket_Ground.jpg",
+              "altText": "मेलबर्न क्रिकेट मैदान ऑस्ट्रेलिया के दो सबसे लोकप्रियदेखे जाने वाले खेलों  क्रिकेट और ऑस्ट्रेलियाई रूल्स फुटबॉल के इतिहास और विकास से दृढ़ता से जुड़ा हुआ है।",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "साहित्य ",
+          "id": "culture-साहित्य_",
+          "value": {
+            "label": "एटेल टर्नर द्वारा सेवन लिटिल ऑस्ट्रेलियन, एक ऑस्ट्रेलियाई लेखक की पहली और एकमात्र पुस्तक है जो 100 वर्षों से लगातार छपाई में है।",
+            "image": {
+              "url": "/static/images/australia/SevenLittleAustralians16thEdnCvr.jpg",
+              "altText": "एटेल टर्नर द्वारा सेवन लिटिल ऑस्ट्रेलियन, एक ऑस्ट्रेलियाई लेखक की पहली और एकमात्र पुस्तक है जो 100 वर्षों से लगातार छपाई में है।",
+              "license": ""
+            }
+          }
+        }
+      ]
     }
   ]
 }

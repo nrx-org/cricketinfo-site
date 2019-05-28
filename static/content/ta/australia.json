@@ -150,6 +150,60 @@
           }
         }
       ]
+    },
+    {
+      "title": "Culture",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "கலை",
+          "id": "culture-கலை",
+          "value": {
+            "label": "மெல்போர்னில் உள்ள ராயல் கண்காட்சி கட்டடம் 2004 இல் யுனெஸ்கோவால் உலக பாரம்பரியத் தளமாகப் பட்டியலிடப்பட்ட முதல் கட்டடமாகும்.",
+            "image": {
+              "url": "/static/images/australia/Royal_exhibition_building_tulips_straight.jpg",
+              "altText": "மெல்போர்னில் உள்ள ராயல் கண்காட்சி கட்டடம் 2004 இல் யுனெஸ்கோவால் உலக பாரம்பரியத் தளமாகப் பட்டியலிடப்பட்ட முதல் கட்டடமாகும்.",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.5/deed.en\">Attribution 2.5 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "உணவு",
+          "id": "culture-உணவு",
+          "value": {
+            "label": "வெஜிமைட், பாவ்லோவா, லெமிமண்டன்ஸ் மற்றும் மீட் பீஸ் போன்றவை அந்நாட்டின் பாரம்பரிய உணவுப் பொருட்களாக உள்ளன.",
+            "image": {
+              "url": "/static/images/australia/Pavlova_garnished_with_cream_and_strawberries.jpg",
+              "altText": "வெஜிமைட், பாவ்லோவா, லெமிமண்டன்ஸ் மற்றும் மீட் பீஸ் போன்றவை அந்நாட்டின் பாரம்பரிய உணவுப் பொருட்களாக உள்ளன.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "விளையாட்டு மற்றும் பொழுதுபோக்கு",
+          "id": "culture-விளையாட்டு_மற்றும்_பொழுதுபோக்கு",
+          "value": {
+            "label": "மெல்போர்ன் கிரிக்கெட் மைதானம் கிரிக்கெட்டின் வரலாறு மற்றும் வளர்ச்சியுடன் அசைக்க முடியாத தொடர்புள்ளது, ஆஸ்திரேலியா கால்பந்தாட்டத்தின் ஊன்றுகோலாகவும் விளங்குகிறது, இவை இரண்டும் அந்நாட்டின் மிகப் பிரபலமான விளையாட்டுகள் ஆகும்.",
+            "image": {
+              "url": "/static/images/australia/AFL_Grand_Final_2010_on_the_Melbourne_Cricket_Ground.jpg",
+              "altText": "மெல்போர்ன் கிரிக்கெட் மைதானம் கிரிக்கெட்டின் வரலாறு மற்றும் வளர்ச்சியுடன் அசைக்க முடியாத தொடர்புள்ளது, ஆஸ்திரேலியா கால்பந்தாட்டத்தின் ஊன்றுகோலாகவும் விளங்குகிறது, இவை இரண்டும் அந்நாட்டின் மிகப் பிரபலமான விளையாட்டுகள் ஆகும்.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "இலக்கியம்",
+          "id": "culture-இலக்கியம்",
+          "value": {
+            "label": "எதல் டர்னர் என்பவரால் எழுதப்பட்ட செவன் லிட்டில் ஆஸ்திரேலியன்ஸ் என்பது மட்டுமே ஆஸ்திரேலிய எழுத்தாளரால் எழுதப்பட்டு 100 ஆண்டுகளுக்கு மேலாக அச்சிடப்படும் ஒரே புத்தகமாகும்.",
+            "image": {
+              "url": "/static/images/australia/SevenLittleAustralians16thEdnCvr.jpg",
+              "altText": "எதல் டர்னர் என்பவரால் எழுதப்பட்ட செவன் லிட்டில் ஆஸ்திரேலியன்ஸ் என்பது மட்டுமே ஆஸ்திரேலிய எழுத்தாளரால் எழுதப்பட்டு 100 ஆண்டுகளுக்கு மேலாக அச்சிடப்படும் ஒரே புத்தகமாகும்.",
+              "license": ""
+            }
+          }
+        }
+      ]
     }
   ]
 }

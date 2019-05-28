@@ -156,8 +156,7 @@
             "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
             "image": {
               "url": "/static/images/pakistan/PakistanCricketLogo.png",
-              "altText": "Picture of Pakistan national cricket team",
-              "license": "<p><i>This file is in the <b><a href=\"/wiki/Public_domain\" title=\"Public domain\">public domain</a></b>, because <b>The author has placed it in public domain </b></i><div style=\"display:none;\">\n<p><span class=\"licensetpl_short\">PD</span>\n<span class=\"licensetpl_long\">Public domain</span>\n<span class=\"licensetpl_link_req\">false</span>\n<span class=\"licensetpl_attr_req\">false</span>\n</p>\n</div>\n<hr>\n<small>Please verify that the reason given above <a href=\"/wiki/Wikipedia:Public_domain\" title=\"Wikipedia:Public domain\">is valid</a>!<br><b>Note:</b> if there is a <a href=\"/wiki/Wikipedia:Image_copyright_tags/Public_domain\" class=\"mw-redirect\" title=\"Wikipedia:Image copyright tags/Public domain\">specific licence tag</a> for the reason supplied here, please use it.</small></p>"
+              "altText": "Picture of Pakistan national cricket team"
             }
           }
         }
@@ -175,6 +174,60 @@
             "image": {
               "url": "/static/images/pakistan/K2_2006b.jpg",
               "altText": "An image of Pakistan"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Culture",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Literature",
+          "id": "culture-literature",
+          "value": {
+            "label": "Pakistan has literature in Urdu, Sindhi, Punjabi, Pashto, Baluchi, Persian, English, and many other languages. Before the 19th century, Pakistani literature consisted mainly of lyric and religious poetry, and mystical and folkloric works. During the colonial period, native literary figures were influenced by western literary realism and took up increasingly varied topics and narrative forms. Well-known figures in contemporary Pakistani Urdu literature include Josh Malihabadi, Faiz Ahmed Faiz, and Saadat Hasan Manto. ",
+            "image": {
+              "url": "/static/images/pakistan/Faiz_Ahmed_Faiz_%28cropped%29.jpg",
+              "altText": "Pakistan has literature in Urdu, Sindhi, Punjabi, Pashto, Baluchi, Persian, English, and many other languages. Before the 19th century, Pakistani literature consisted mainly of lyric and religious poetry, and mystical and folkloric works. During the colonial period, native literary figures were influenced by western literary realism and took up increasingly varied topics and narrative forms. Well-known figures in contemporary Pakistani Urdu literature include Josh Malihabadi, Faiz Ahmed Faiz, and Saadat Hasan Manto. ",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Architecture",
+          "id": "culture-architecture",
+          "value": {
+            "label": "Four periods are recognised in Pakistani architecture: pre-Islamic, Islamic, colonial, and post-colonial. Lahore, as the occasional residence of Mughal rulers, contains many important buildings from the era. Several examples of architectural influenced by British design can be found in Lahore, Peshawar, and Karachi.",
+            "image": {
+              "url": "/static/images/pakistan/Lahore_Fort.jpg",
+              "altText": "Four periods are recognised in Pakistani architecture: pre-Islamic, Islamic, colonial, and post-colonial. Lahore, as the occasional residence of Mughal rulers, contains many important buildings from the era. Several examples of architectural influenced by British design can be found in Lahore, Peshawar, and Karachi.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Music",
+          "id": "culture-music",
+          "value": {
+            "label": "Music of Pakistan includes diverse music from various parts of South Asia as well as Central Asian, Middle Eastern, and modern-day Western popular music.",
+            "image": {
+              "url": "/static/images/pakistan/Overload_Dhol_Player.jpg",
+              "altText": "Music of Pakistan includes diverse music from various parts of South Asia as well as Central Asian, Middle Eastern, and modern-day Western popular music.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Sports",
+          "id": "culture-sports",
+          "value": {
+            "label": "Cricket is the most popular sport in Pakistan, while field hockey, polo, and squash are also popular. Traditional sports like kabaddi and other well-known games are also played.",
+            "image": {
+              "url": "/static/images/pakistan/Pakvaus.jpg",
+              "altText": "Cricket is the most popular sport in Pakistan, while field hockey, polo, and squash are also popular. Traditional sports like kabaddi and other well-known games are also played.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         }
