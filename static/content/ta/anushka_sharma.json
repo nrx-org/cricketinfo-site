@@ -99,7 +99,7 @@
     },
     {
       "title": "Style of play",
-      "id": "CURiJDhHBI",
+      "id": "_G-e7lLohxHp",
       "cardType": "simple",
       "facts": [
         {
@@ -113,6 +113,77 @@
     {
       "title": "Phase(s)",
       "cardType": "vertical_timeline",
+      "facts": []
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": []
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
       "facts": []
     }
   ]

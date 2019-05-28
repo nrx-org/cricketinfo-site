@@ -96,6 +96,83 @@ const PHASES = [
   }
 ];
 
+const ACHIEVEMENTS_AND_RECORDS = [
+  {
+    DESCRIPTION_KEY: "Achievement or Record 1",
+    IMAGE_KEY: "Achievement Image 1"
+  },
+  {
+    DESCRIPTION_KEY: "Achievement or Record 2",
+    IMAGE_KEY: "Achievement Image 2"
+  },
+  {
+    DESCRIPTION_KEY: "Achievement or Record 3",
+    IMAGE_KEY: "Achievement Image 3"
+  },
+  {
+    DESCRIPTION_KEY: "Achievement or Record 4",
+    IMAGE_KEY: "Achievement Image 4"
+  },
+  {
+    DESCRIPTION_KEY: "Achievement or Record 5",
+    IMAGE_KEY: "Achievement Image 5"
+  }
+];
+
+const TEAMS = [
+  {
+    LABEL_KEY: "National Team represented",
+    CARD_ID_KEY: "Card - National team-  ID",
+    YEAR_KEY: "Years played in National team",
+    DESCRIPTION_KEY: "Short description of the National Team"
+  },
+  {
+    LABEL_KEY: "IPL Team represented - Current team or Team last represented",
+    CARD_ID_KEY: "Card - IPL Team - ID",
+    YEAR_KEY: "Years played in current / last represented IPL team",
+    DESCRIPTION_KEY: "Short description of the IPL team"
+  },
+  {
+    LABEL_KEY: "Domestic team Represented",
+    CARD_ID_KEY: "N/A",
+    YEAR_KEY: "Years played in Domestic Team",
+    DESCRIPTION_KEY: "Short description of Domestic Team"
+  }
+];
+
+const AWARDS_AND_HONORS = [
+  {
+    YEAR_KEY: "Year of the award 1",
+    LABEL_KEY: "Name of the award 1",
+    DESCRIPTION_KEY: "Short Description of the award 1",
+    IMAGE_KEY: "Image link for the award 1"
+  },
+  {
+    YEAR_KEY: "Year of the award 2",
+    LABEL_KEY: "Name of the award 2",
+    DESCRIPTION_KEY: "Short Description of the award 2",
+    IMAGE_KEY: "Image link for the award 2"
+  },
+  {
+    YEAR_KEY: "Year of the award 3",
+    LABEL_KEY: "Name of the award 3",
+    DESCRIPTION_KEY: "Short Description of the award 3",
+    IMAGE_KEY: "Image link for the award 3"
+  },
+  {
+    YEAR_KEY: "Year of the award 4",
+    LABEL_KEY: "Name of the award 4",
+    DESCRIPTION_KEY: "Short Description of the award 4",
+    IMAGE_KEY: "Image link for the award 4"
+  },
+  {
+    YEAR_KEY: "Year of the award 5",
+    LABEL_KEY: "Name of the award 5",
+    DESCRIPTION_KEY: "Short Description of the award 5",
+    IMAGE_KEY: "Image link for the award 5"
+  }
+];
+
 module.exports.exportPersonalities = () => {
   Object.keys(csvExports).forEach(lang => {
     const fileContent = fs.readFileSync(csvExports[lang].path, "utf8");
@@ -343,10 +420,86 @@ module.exports.exportPersonalities = () => {
       personality.sections.push(careerPhasesSection);
 
       // Achievements and records.
+      personality.sections.push({
+        title: "Achievements & Records",
+        cardType: "stories",
+        facts: ACHIEVEMENTS_AND_RECORDS.map(ar => ({
+          label: "",
+          id: getSluggedTitle(ar.DESCRIPTION_KEY.trim()),
+          value: {
+            label: record[ar.DESCRIPTION_KEY],
+            image: {
+              url: record[ar.IMAGE_KEY],
+              altText: record[ar.DESCRIPTION_KEY]
+            }
+          }
+        }))
+      });
 
       // Teams.
+      personality.sections.push({
+        title: "Team(s)",
+        cardType: "list_card",
+        facts: TEAMS.map(team => {
+          if (!record[team.LABEL_KEY]) {
+            return null;
+          }
+
+          const fact = {
+            label: `${record[team.LABEL_KEY]} (${record[team.YEAR_KEY]})`,
+            id: shortid.generate(),
+            value: {
+              label: record[team.DESCRIPTION_KEY]
+            }
+          };
+
+          const card = getCardInfoFromId(idMap, record[team.CARD_ID_KEY], lang);
+          if (card) {
+            fact.value.label = "";
+            fact.value.facts = [
+              {
+                label: card.title,
+                id: shortid.generate(),
+                url: card.url,
+                contentUrl: card.contentUrl,
+                value: {
+                  label: card.summary,
+                  image: {
+                    url: card.imageUrl,
+                    altText: `Picture of ${card.title}`
+                  }
+                }
+              }
+            ];
+          }
+
+          return fact;
+        }).filter(f => !!f)
+      });
 
       // Awards and honors.
+      personality.sections.push({
+        title: "Awards & Honors",
+        cardType: "tag_card",
+        facts: AWARDS_AND_HONORS.map((award, index) => {
+          if (!record[award.LABEL_KEY]) {
+            return null;
+          }
+
+          return {
+            label: record[award.LABEL_KEY],
+            tag: record[award.YEAR_KEY],
+            id: `award-${index}`,
+            value: {
+              label: record[award.DESCRIPTION_KEY],
+              image: {
+                url: record[award.IMAGE_KEY],
+                altText: `Image of ${record[award.LABEL_KEY]}`
+              }
+            }
+          };
+        }).filter(a => !!a)
+      });
 
       // Outside sports.
 

@@ -63,7 +63,7 @@
     },
     {
       "title": "Style of play",
-      "id": "eQzPloXvMh-",
+      "id": "u6PyD9O95Y3u",
       "cardType": "simple",
       "facts": [
         {
@@ -80,7 +80,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "lCGgVwtcWlf",
+          "id": "IqwIkGXILdbm",
           "note": "2013",
           "value": {
             "label": ""
@@ -88,7 +88,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "fk4Y0s5vymB",
+          "id": "LH6rTAPS7YqO",
           "note": "2016",
           "value": {
             "label": "Pandya made his international debut in a T20 match against Australia",
@@ -97,7 +97,7 @@
                 "url": "/read/en/australia_cricket_team",
                 "contentUrl": "/static/content/en/australia_cricket_team.json",
                 "label": "Australia Cricket team",
-                "id": "zQS-IEvvO",
+                "id": "Uf1Sk8_d1U-k",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
@@ -111,7 +111,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "iCLQPi1rFi",
+          "id": "pAKWSM5aIaxb",
           "note": "2016",
           "value": {
             "label": "In the T20 World cup match against Bangladesh , Pandya took two crucial wickets in the last over which helped India win the match."
@@ -119,7 +119,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "OwuUOmgdyi",
+          "id": "eAOaRy3SOXa2",
           "note": "2015",
           "value": {
             "label": "Hardik Pandya has been playing for the IPL team Mumbai Indians since 2015",
@@ -128,7 +128,7 @@
                 "url": "/read/en/mumbai_indians",
                 "contentUrl": "/static/content/en/mumbai_indians.json",
                 "label": "Mumbai Indians",
-                "id": "2BSaQGzuTz",
+                "id": "GmVM5r_X5yvv",
                 "value": {
                   "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
                   "image": {
@@ -141,6 +141,129 @@
           }
         }
       ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "In 2016, Pandya hit eight sixes to score 86 not out to help the Baroda cricket team win the Syed Mushtaq Ali Trophy.",
+            "image": {
+              "url": "",
+              "altText": "In 2016, Pandya hit eight sixes to score 86 not out to help the Baroda cricket team win the Syed Mushtaq Ali Trophy."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "Pandya became the first Indian batsman to score a Test century just before lunch, while playing against Sri Lanka in 2017",
+            "image": {
+              "url": "",
+              "altText": "Pandya became the first Indian batsman to score a Test century just before lunch, while playing against Sri Lanka in 2017"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "Pandya set the record for scoring the most number of runs in a single over in a Test innings for India, scoring 26 runs.",
+            "image": {
+              "url": "",
+              "altText": "Pandya set the record for scoring the most number of runs in a single over in a Test innings for India, scoring 26 runs."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "Pandya was declared the player of the match on his ODI debut.",
+            "image": {
+              "url": "",
+              "altText": "Pandya was declared the player of the match on his ODI debut."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "In 2017, while playing versus Sri Lanka Pandya scored his maiden Test century.",
+            "image": {
+              "url": "",
+              "altText": "In 2017, while playing versus Sri Lanka Pandya scored his maiden Test century."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Indian national cricket team (2016 to present)",
+          "id": "P1cQT_ECuMF6",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India national cricket team",
+                "id": "71NvBbSjOJdW",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India#/media/File:Cricket_India_Crest.svg",
+                    "altText": "Picture of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Mumbai Indians (2015 - present)",
+          "id": "hvXtaVH_oVjN",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Mumbai Indians",
+                "id": "H34jZ4Kn6UPz",
+                "url": "/read/en/mumbai_indians",
+                "contentUrl": "/static/content/en/mumbai_indians.json",
+                "value": {
+                  "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Mumbai_Indians#/media/File:Mumbai_Indians_Logo.svg",
+                    "altText": "Picture of Mumbai Indians"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Baroda (2012 - present)",
+          "id": "ulCYhIXceUq1",
+          "value": {
+            "label": "The Baroda cricket team is a domestic Indian cricket team based in the city of Vadodara."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": []
     }
   ]
 }

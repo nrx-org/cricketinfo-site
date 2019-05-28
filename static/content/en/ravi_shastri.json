@@ -79,7 +79,7 @@
     },
     {
       "title": "Style of play",
-      "id": "6G3AD3cXWA_",
+      "id": "Y71Lp4wwE7c",
       "cardType": "simple",
       "facts": [
         {
@@ -96,7 +96,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "mDO3taEAPW4",
+          "id": "q3dKC8hnEtm",
           "note": "1979",
           "value": {
             "label": "At 17 years and 292 days, Shastri was then the youngest cricketer to debut and play for Bombay in Ranji Trophy."
@@ -104,7 +104,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "QKONg6COGXR",
+          "id": "B2L8p7fooAc",
           "note": "1981",
           "value": {
             "label": "Ravi Shastri made his international debut for India in 1981 versus New Zealand",
@@ -113,7 +113,7 @@
                 "url": "/read/en/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
                 "label": "New Zealand national cricket team",
-                "id": "DNQKbAzhb",
+                "id": "QF0AC5_dUGc",
                 "value": {
                   "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
                   "image": {
@@ -127,7 +127,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "-607J-7wQk",
+          "id": "GMYbXBL6rHr",
           "note": "1983",
           "value": {
             "label": "Shastri was not selected to play in most of the important matches in the 1983 World Cup",
@@ -136,7 +136,7 @@
                 "url": "/read/en/1983_cricket_world_cup",
                 "contentUrl": "/static/content/en/1983_cricket_world_cup.json",
                 "label": "1983 Cricket World Cup",
-                "id": "4okD0qHacX",
+                "id": "p1XjjOkZEXC",
                 "value": {
                   "label": "The 1983 Cricket World Cup (officially the Prudential Cup '83) was the 3rd edition of the Cricket World Cup tournament. It was held from 9 June to 25 June 1983 in England and Wales and was won by India.",
                   "image": {
@@ -150,10 +150,124 @@
         },
         {
           "label": "IPL Debut",
-          "id": "NJXgbhiWZ2",
+          "id": "YrxXtPcA0b_",
           "note": "",
           "value": {
             "label": ""
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "1981 - At 17 years and 292 days, he was then the youngest cricketer to debut and play for Bombay",
+            "image": {
+              "url": "",
+              "altText": "1981 - At 17 years and 292 days, he was then the youngest cricketer to debut and play for Bombay"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "Shastri is one of the few cricketers who have batted on all 5 days of a Test match. He achieved this in Kolkata versus England.",
+            "image": {
+              "url": "",
+              "altText": "Shastri is one of the few cricketers who have batted on all 5 days of a Test match. He achieved this in Kolkata versus England."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "1983 - Shastri began opening the batting innings regularly in ODI matches. With K.Srikkanth, he made a first wicket world record score of 188.",
+            "image": {
+              "url": "",
+              "altText": "1983 - Shastri began opening the batting innings regularly in ODI matches. With K.Srikkanth, he made a first wicket world record score of 188."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "1985 - Shastri won an Audi car as the Champion of Champions in the World Championship of Cricket for scoring 182 runs and taking 8 wickets.",
+            "image": {
+              "url": "",
+              "altText": "1985 - Shastri won an Audi car as the Champion of Champions in the World Championship of Cricket for scoring 182 runs and taking 8 wickets."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "1987 - Shastri became the Captain of the Indian team for a short period while Dilip Vengsarkar was injured and then banned for 6 months by the BCCI",
+            "image": {
+              "url": "",
+              "altText": "1987 - Shastri became the Captain of the Indian team for a short period while Dilip Vengsarkar was injured and then banned for 6 months by the BCCI"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Indian National Cricket team (1981-1992)",
+          "id": "MAOMtbPnjw2",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India national cricket team",
+                "id": "lxJobtZFmzM",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India#/media/File:Cricket_India_Crest.svg",
+                    "altText": "Picture of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Bombay (now Mumbai) (1979-1993)",
+          "id": "64pDYq-s3uZ",
+          "value": {
+            "label": "Domestic Ranji trophy cricket team based in Mumbai"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "Arjuna Award",
+          "tag": "1984",
+          "id": "award-0",
+          "value": {
+            "label": "Arjuna Awards are given by the Government for outstanding achievement in sports",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/File:Arjun_Award.jpg",
+              "altText": "Image of Arjuna Award"
+            }
           }
         }
       ]

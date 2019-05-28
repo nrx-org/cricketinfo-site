@@ -28,7 +28,7 @@ const getFileNameFromURL = url => {
 };
 
 const getCardInfoFromId = (idMap, id, lang) => {
-  if (!id.trim()) {
+  if (!id || !id.trim()) {
     return null;
   }
 

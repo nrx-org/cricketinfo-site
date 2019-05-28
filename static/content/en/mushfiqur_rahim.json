@@ -81,7 +81,7 @@
     },
     {
       "title": "Style of play",
-      "id": "mUs5lwvc_z6",
+      "id": "PQvFZ6FSNKt",
       "cardType": "simple",
       "facts": [
         {
@@ -102,7 +102,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "k55NgrIcceH",
+          "id": "NefIQ2dNBto",
           "note": "",
           "value": {
             "label": ""
@@ -110,7 +110,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "PCFNoCbvXgK",
+          "id": "mloSgPiuNI3",
           "note": "",
           "value": {
             "label": "Rahim was selected for Bangladesh's tour of England in 2005. It was Bangladesh's first tour of England.",
@@ -119,7 +119,7 @@
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "label": "England cricket team",
-                "id": "kWUd8dne4Up",
+                "id": "WyCvner5Es5",
                 "value": {
                   "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
                   "image": {
@@ -133,7 +133,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "g-a91rci4Ys",
+          "id": "k1sFvJvjE45",
           "note": "2007",
           "value": {
             "label": "His good performances led him to picked as the first-choice wicket-keeper ahead of Khaled Mashud for the World Cup in the West Indies.",
@@ -142,7 +142,7 @@
                 "url": "/read/en/2007_cricket_world_cup",
                 "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
                 "label": "2007 Cricket World Cup",
-                "id": "2659yZ8WfYs",
+                "id": "BROlVLNyNH_",
                 "value": {
                   "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
                   "image": {
@@ -156,7 +156,7 @@
         },
         {
           "label": "2011 World Cup",
-          "id": "yEwx68ChzMr",
+          "id": "2ukbZvOITQF",
           "note": "2011",
           "value": {
             "label": "Rahim was included in Bangladesh's 15-man squad for the 2011 World Cup. Bangladesh were knocked out in the group stage and Rahim had a poor tournament personally.",
@@ -165,7 +165,7 @@
                 "url": "/read/en/2011_cricket_world_cup",
                 "contentUrl": "/static/content/en/2011_cricket_world_cup.json",
                 "label": "2011 Cricket World Cup",
-                "id": "jPTOfdItQTS",
+                "id": "RDvUFerMGXl",
                 "value": {
                   "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
                   "image": {
@@ -179,7 +179,7 @@
         },
         {
           "label": "2019 World Cup",
-          "id": "WQbs2vS5eCl",
+          "id": "0gb91OR0-HB",
           "note": "2019",
           "value": {
             "label": "In April 2019, he was named in Bangladesh's squad for the 2019 Cricket World Cup."
@@ -187,13 +187,107 @@
         },
         {
           "label": "IPL Debut",
-          "id": "jHWJwj6FSRQ",
+          "id": "Dk65XfaMxI3",
           "note": "",
           "value": {
             "label": ""
           }
         }
       ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Bangladesh Cricket team (2004- present)",
+          "id": "CP9RGxwyGBO",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Bangladesh national cricket team",
+                "id": "aWyY1CLYOhB",
+                "url": "/read/en/bangladesh_national_cricket_team",
+                "contentUrl": "/static/content/en/bangladesh_national_cricket_team.json",
+                "value": {
+                  "label": "The Bangladesh national cricket team, popularly known as \"The Tigers\", is administered by the Bangladesh Cricket Board (BCB). Bangladesh is a full member of the International Cricket Council (ICC) with Test and One Day International (ODI) status.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Bangladesh_national_cricket_team#/media/File:Flag_of_Bangladesh.svg",
+                    "altText": "Picture of Bangladesh national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": []
     }
   ]
 }
