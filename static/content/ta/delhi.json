@@ -121,8 +121,7 @@
             "label": "டெல்லி நீண்ட காலமாக தலைநகரமாக உள்ளதனால், பல நூற்றாண்டுகளாக நகரத்தில் வாழும் பல வகையான மக்களால் அதன் பாரம்பரிய உணவு பழக்கங்கள் மாற்றமடைந்துள்ளன.",
             "image": {
               "url": "/static/images/delhi/Daulat_Chaat_in_Old_Delhi.JPG",
-              "altText": "டெல்லி நீண்ட காலமாக தலைநகரமாக உள்ளதனால், பல நூற்றாண்டுகளாக நகரத்தில் வாழும் பல வகையான மக்களால் அதன் பாரம்பரிய உணவு பழக்கங்கள் மாற்றமடைந்துள்ளன.",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+              "altText": "டெல்லி நீண்ட காலமாக தலைநகரமாக உள்ளதனால், பல நூற்றாண்டுகளாக நகரத்தில் வாழும் பல வகையான மக்களால் அதன் பாரம்பரிய உணவு பழக்கங்கள் மாற்றமடைந்துள்ளன."
             }
           }
         },
@@ -148,6 +147,19 @@
               "altText": "மூன்று உலக பாரம்பரிய பகுதிகள் - செங்கோட்டை, குதூப் மினார் மற்றும் ஹமுயுவின் கல்லறை போன்றவை டெல்லியில் அமைந்துள்ளன.",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_delhi",
+          "label": "Languages",
+          "value": {
+            "label": "இந்தி, உருது, பஞ்சாபி, ஆங்கிலம்"
           }
         }
       ]

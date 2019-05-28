@@ -206,6 +206,19 @@
           }
         }
       ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_south_africa",
+          "label": "Languages",
+          "value": {
+            "label": "ஆஃப்ரிகான்ஸ், இசிநெட்பெலே, செபீடி, சீசோவோ சாவ் போர்வா, எஸ்ஸுவாட்டி, சிய்டொங்கொங்கா, சீட்வானா, ஷிவிவெனா, இசிஹோசா, மற்றும் இஸ்சூலு"
+          }
+        }
+      ]
     }
   ]
 }

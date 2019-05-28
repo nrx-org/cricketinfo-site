@@ -225,6 +225,57 @@
           }
         }
       ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_south_africa",
+          "label": "Languages",
+          "value": {
+            "label": "Afrikaans, IsiNdebele, Sepedi, SeSotho sa Borwa, SiSwati, XiTsonga, SeTswana, TshiVenḓa, IsiXhosa, and IsiZulu"
+          }
+        },
+        {
+          "id": "religion_section_south_africa",
+          "label": "Religions",
+          "value": {
+            "facts": [
+              {
+                "id": "religion_0",
+                "label": "Protestant",
+                "value": 73.2
+              },
+              {
+                "id": "religion_1",
+                "label": "No religion",
+                "value": 14.9
+              },
+              {
+                "id": "religion_2",
+                "label": "Catholic",
+                "value": 7.4
+              },
+              {
+                "id": "religion_3",
+                "label": "Muslim",
+                "value": 1.7
+              },
+              {
+                "id": "religion_4",
+                "label": "Hindu ",
+                "value": 1.1
+              },
+              {
+                "id": "religion_5",
+                "label": "Other faith ",
+                "value": 1.7
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }

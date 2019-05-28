@@ -206,6 +206,57 @@
           }
         }
       ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_south_africa",
+          "label": "Languages",
+          "value": {
+            "label": "अफ्रीकी, इसाईडेले, सेपेडी, सेसोथो सा बोरवा, सिस्वाती, शीत्सोंगा, सेत्सवाना, त्सिवेना, इशीएक्सोसा, और इज़ुलु"
+          }
+        },
+        {
+          "id": "religion_section_south_africa",
+          "label": "Religions",
+          "value": {
+            "facts": [
+              {
+                "id": "religion_0",
+                "label": "प्रोटेस्टेंट",
+                "value": 73.2
+              },
+              {
+                "id": "religion_1",
+                "label": "कोई धर्म नहीं",
+                "value": 14.9
+              },
+              {
+                "id": "religion_2",
+                "label": "कैथोलिक",
+                "value": 7.4
+              },
+              {
+                "id": "religion_3",
+                "label": "मुस्लिम",
+                "value": 1.7
+              },
+              {
+                "id": "religion_4",
+                "label": "हिंदू",
+                "value": 1.1
+              },
+              {
+                "id": "religion_5",
+                "label": "अन्य विश्वास",
+                "value": 1.7
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }

@@ -121,8 +121,7 @@
             "label": "राजधानी के रूप में दिल्ली के लंबे इतिहास ने अपने निवासियों की भोजन की आदतों को कई समूहों द्वारा प्रभावित किया है जो सदियों से शहर पर कब्जा कर रहे रखे है ।",
             "image": {
               "url": "/static/images/delhi/Daulat_Chaat_in_Old_Delhi.JPG",
-              "altText": "राजधानी के रूप में दिल्ली के लंबे इतिहास ने अपने निवासियों की भोजन की आदतों को कई समूहों द्वारा प्रभावित किया है जो सदियों से शहर पर कब्जा कर रहे रखे है ।",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+              "altText": "राजधानी के रूप में दिल्ली के लंबे इतिहास ने अपने निवासियों की भोजन की आदतों को कई समूहों द्वारा प्रभावित किया है जो सदियों से शहर पर कब्जा कर रहे रखे है ।"
             }
           }
         },
@@ -148,6 +147,62 @@
               "altText": "तीन विश्व धरोहर स्थल- लाल किला, कुतुब मीनार और हुमायूँ का मकबरा- दिल्ली में स्थित हैं।",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_delhi",
+          "label": "Languages",
+          "value": {
+            "label": "हिंदी, उर्दू, पंजाबी, अंग्रेजी"
+          }
+        },
+        {
+          "id": "religion_section_delhi",
+          "label": "Religions",
+          "value": {
+            "facts": [
+              {
+                "id": "religion_0",
+                "label": "हिन्दू धर्म",
+                "value": 81.68
+              },
+              {
+                "id": "religion_1",
+                "label": "इस्लाम",
+                "value": 12.86
+              },
+              {
+                "id": "religion_2",
+                "label": "सिख धर्म",
+                "value": 3.4
+              },
+              {
+                "id": "religion_3",
+                "label": "जैन धर्म",
+                "value": 0.99
+              },
+              {
+                "id": "religion_4",
+                "label": "ईसाई धर्म",
+                "value": 0.87
+              },
+              {
+                "id": "religion_5",
+                "label": "बौद्ध धर्म",
+                "value": 0.11
+              },
+              {
+                "id": "religion_6",
+                "label": "अन्य या नहीं बताया गया",
+                "value": 0.09
+              }
+            ]
           }
         }
       ]
