@@ -153,8 +153,8 @@ const downloadImageAndFillAttributions = async (imageObject, articleSlug) => {
     };
   }
 
-  // If it's a Commons logo, download the original file.
-  // If it's a Wikipedia logo (same page structure as Commons), download the
+  // If it's a Commons link, download the original file.
+  // If it's a Wikipedia link (same page structure as Commons), download the
   // original file.
   if (imageResponse.headers.get("Content-Type").match(/text\/html/)) {
     const html = await imageResponse.text();
@@ -179,7 +179,7 @@ const downloadImageAndFillAttributions = async (imageObject, articleSlug) => {
     return downloadImageAndFillAttributions(
       {
         ...localImageObject,
-        url: imageUrl,
+        url: makeServerSideImageUrl(imageFileName, articleSlug),
         license: licenseText
       },
       articleSlug
