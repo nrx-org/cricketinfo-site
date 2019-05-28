@@ -20,6 +20,13 @@ const findIdMapEntryByTitle = (idMap, title, lang) => {
   );
 };
 
+const getFileNameFromURL = url => {
+  if (!url) return null;
+  const filename = url.match(/File:(.*)/);
+  if (filename) return filename[1];
+  return null;
+};
+
 const getCardInfoFromId = (idMap, id, lang) => {
   if (!id || !id.trim()) {
     return null;
@@ -80,5 +87,6 @@ module.exports = {
   getSluggedTitle,
   makeArticleUrl,
   makeContentUrl,
-  getCardInfoFromId
+  getCardInfoFromId,
+  getFileNameFromURL
 };

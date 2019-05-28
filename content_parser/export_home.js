@@ -20,18 +20,18 @@ const csvExports = {
   en: {
     facts: { path: "./csv/home_facts.en.csv" },
     quiz: { path: "./csv/home_quiz.en.csv" },
-    main: { path: "./csv/home_main.en.csv" }
+    main: { path: "./csv/home_strategy.csv" }
+  },
+  hi: {
+    facts: { path: "./csv/home_facts.hi.csv" },
+    quiz: { path: "./csv/home_quiz.hi.csv" },
+    main: { path: "./csv/home_strategy.csv" }
+  },
+  ta: {
+    facts: { path: "./csv/home_facts.ta.csv" },
+    quiz: { path: "./csv/home_quiz.ta.csv" },
+    main: { path: "./csv/home_strategy.csv" }
   }
-  // hi: {
-  //   facts: { path: "./csv/home_facts.hi.csv" },
-  //   quiz: { path: "./csv/home_quiz.hi.csv" },
-  //   main: { path: "./csv/home_main.hi.csv" }
-  // },
-  // ta: {
-  //   facts: { path: "./csv/home_facts.ta.csv" },
-  //   quiz: { path: "./csv/home_quiz.ta.csv" },
-  //   main: { path: "./csv/home_main.ta.csv" }
-  // },
 };
 
 // Home page strategy (home_main.[lang].csv)
@@ -45,8 +45,8 @@ const HOME_MAIN_PLAYER_TO_WATCH_2 = "Player to watch - 2";
 const HOME_MAIN_PLAYER_TO_WATCH_3 = "Player to watch - 3";
 const HOME_MAIN_FACT_OF_THE_DAY_1 = "Fact of the day - 1";
 const HOME_MAIN_FACT_OF_THE_DAY_2 = "Fact of the day - 2";
-const HOME_MAIN_QUIZ_OF_THE_DAY_1 = "Quiz of the day - 1"; // Modified column name
-const HOME_MAIN_QUIZ_OF_THE_DAY_2 = "Quiz of the day - 2"; // Modified column name
+const HOME_MAIN_QUIZ_OF_THE_DAY_1 = "Quiz of the day -1"; // Modified column name
+const HOME_MAIN_QUIZ_OF_THE_DAY_2 = "Quiz of the day -2"; // Modified column name
 
 // Home page quiz data (home_quiz.[lang].csv)
 const HOME_QUIZ_QNO = "Q. No";
@@ -67,15 +67,21 @@ const HOME_FACTS_LINKING_ARTICLE = "Linking article";
 const HOME_FACTS_ARTICLE_ID = "Article ID";
 
 Object.keys(csvExports).forEach(async lang => {
-  let homeJSON = require(`../static/content/${lang}/home.json`);
+  let homeJSON = require(`../static/content/home_schema.json`) || {};
 
   const factsFileContent = fs.readFileSync(csvExports[lang].facts.path, "utf8");
   const quizFileContent = fs.readFileSync(csvExports[lang].quiz.path, "utf8");
-  const mainFileContent = fs.readFileSync(csvExports[lang].main.path, "utf8");
+  const strategyFileContent = fs.readFileSync(
+    csvExports[lang].main.path,
+    "utf8"
+  );
 
-  let factsRecords = parse(factsFileContent, { columns: true, delimiter: "," });
+  let factRecords = parse(factsFileContent, { columns: true, delimiter: "," });
   const quizRecords = parse(quizFileContent, { columns: true, delimiter: "," });
-  const mainRecords = parse(mainFileContent, { columns: true, delimiter: "," });
+  const strategyRecords = parse(strategyFileContent, {
+    columns: true,
+    delimiter: ","
+  });
 
   const getImagePathForArticle = async url => {
     // TODO: Why did this stop working in half the places?
@@ -108,7 +114,7 @@ Object.keys(csvExports).forEach(async lang => {
 
   const getFactsRecordsWithImagesDownloaded = async () => {
     return await Promise.all(
-      factsRecords.map(async record => {
+      factRecords.map(async record => {
         const imagePath = await getImagePathForArticle(
           record[HOME_FACTS_RELEVANT_IMAGE]
         );
@@ -118,18 +124,30 @@ Object.keys(csvExports).forEach(async lang => {
     );
   };
 
-  const getDatesForFactIDFromMainSheet = factId => {
+  const getDatesForIDFromStrategySheet = (id, type) => {
     let dates = [];
-    mainRecords.forEach((mainRecord, index) => {
+
+    let arrayToCheck = null;
+
+    if (type === "MAIN_PLAYER_TO_WATCH")
+      arrayToCheck = [
+        mainRecord[`HOME_MAIN_${type}_1`],
+        mainRecord[`HOME_MAIN_${type}_2`],
+        mainRecord[`HOME_MAIN_${type}_3`]
+      ];
+    else
+      arrayToCheck = [
+        mainRecord[`HOME_MAIN_${type}_1`],
+        mainRecord[`HOME_MAIN_${type}_2`]
+      ];
+
+    strategyRecords.forEach((mainRecord, index) => {
       if (
-        [
-          mainRecord[HOME_MAIN_FACT_OF_THE_DAY_1],
-          mainRecord[HOME_MAIN_FACT_OF_THE_DAY_2]
-        ].indexOf(factId) > -1
+        arrayToCheck.indexOf(id) > -1
       ) {
         let recordDateString = mainRecord[HOME_MAIN_DATE];
         if (!recordDateString.length) {
-          recordDateString = mainRecords[index - 1][HOME_MAIN_DATE];
+          recordDateString = strategyRecords[index - 1][HOME_MAIN_DATE];
         }
         dates.push(
           format(
@@ -156,11 +174,14 @@ Object.keys(csvExports).forEach(async lang => {
     return makeArticleUrl(lang, englishSlug);
   };
 
-  factsRecords = await getFactsRecordsWithImagesDownloaded();
+  factRecords = await getFactsRecordsWithImagesDownloaded();
 
-  factsRecords = factsRecords.map(factRecord => ({
+  factRecords = factRecords.map(factRecord => ({
     label: factRecord[HOME_FACTS_HEADING],
-    dates: getDatesForFactIDFromMainSheet(factRecord[HOME_FACTS_FACTID]),
+    dates: getDatesForIDFromStrategySheet(
+      factRecord[HOME_FACTS_FACTID],
+      "FACT_OF_THE_DAY"
+    ),
     id: factRecord[HOME_FACTS_FACTID],
     value: {
       url: getUrlFromArticleTitle(factRecord[HOME_FACTS_LINKING_ARTICLE]),
@@ -171,9 +192,45 @@ Object.keys(csvExports).forEach(async lang => {
     }
   }));
 
-  homeJSON.scheduledFacts = factsRecords.filter(
+  homeJSON.scheduledFacts = factRecords.filter(
     factRecord => factRecord.dates.length > 0
   );
+
+  homeJSON.quizQuestions = quizRecords.map(quizRecord => {
+    return {
+      label: quizRecord[HOME_QUIZ_QUESTIONS],
+      id: getSluggedTitle(quizRecord[HOME_QUIZ_QUESTIONS]),
+      dates: dates: getDatesForIDFromStrategySheet(
+        quizRecord[HOME_QUIZ_QNO],
+        "QUIZ_OF_THE_DAY"
+      ),
+      options: [
+        {
+          label: quizRecord[HOME_QUIZ_ANSWER_A]
+        },
+        {
+          label: quizRecord[HOME_QUIZ_ANSWER_B]
+        }
+      ],
+      answerIndex: quizRecord[HOME_QUIZ_CORRECT_ANSWER] === 'A' ? 0 : 1,
+      relatedArticle: {
+        label: "Australia Cricket Team",
+        value: {
+          label:
+            "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+          url: "http://foobar2000.com",
+          image: {
+            url:
+              "https://upload.wikimedia.org/wikipedia/commons/1/13/The_Australian_Cricket_Team_of_1884.jpg",
+            altText: "Look at these dapper men.",
+            license:
+              "Creative Commons Attribution-Share Alike 4.0 International",
+            licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    };
+  });
 
   fs.writeFileSync(
     `./static/content/${lang}/home.json`,
