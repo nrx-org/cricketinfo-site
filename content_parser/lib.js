@@ -21,7 +21,7 @@ const findIdMapEntryByTitle = (idMap, title, lang) => {
 };
 
 const getCardInfoFromId = (idMap, id, lang) => {
-  if (!id.trim()) {
+  if (!id || !id.trim()) {
     return null;
   }
 
