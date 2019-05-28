@@ -86,7 +86,7 @@
     },
     {
       "title": "Style of play",
-      "id": "etlZvdF7oe",
+      "id": "1TLj8eUNQa",
       "cardType": "simple",
       "facts": [
         {
@@ -97,6 +97,26 @@
               "url": "https://en.wikipedia.org/wiki/Sourav_Ganguly#/media/File:Sachin_in_action.jpg",
               "altText": "Style of play for Sourav Ganguly"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "VCiBFu7o1WU",
+          "note": "1989",
+          "value": {
+            "label": "Sourav Ganguly made his first-class cricket debut for Bengal in 1989.",
+            "facts": [
+              {
+                "label": "Ranji Trophy",
+                "id": "SCCT6HnInCk"
+              }
+            ]
           }
         }
       ]

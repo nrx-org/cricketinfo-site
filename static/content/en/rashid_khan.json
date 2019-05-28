@@ -65,13 +65,33 @@
     },
     {
       "title": "Style of play",
-      "id": "QlSu7H3kdi",
+      "id": "w8FMc9hiyGj",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
             "label": "Rashid grew up playing cricket with his brothers and idolised Pakistani all-rounder Shahid Afridi, from whom he stylised his bowling action."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "HmcmoMgmKb3",
+          "note": "",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "",
+                "id": "j0K6pw0NZqz"
+              }
+            ]
           }
         }
       ]

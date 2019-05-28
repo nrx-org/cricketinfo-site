@@ -86,7 +86,7 @@
     },
     {
       "title": "Style of play",
-      "id": "Iz9SkCD1ky",
+      "id": "UxVNyjYlVN1",
       "cardType": "simple",
       "facts": [
         {
@@ -97,6 +97,26 @@
               "url": "https://en.wikipedia.org/wiki/MS_Dhoni#/media/File:Mahendra_Singh_Dhoni_batting.JPG",
               "altText": "Style of play for Mahendra Singh Dhoni"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "6egkRiRjCur",
+          "note": "1999",
+          "value": {
+            "label": "Dhoni made his Ranji Trophy debut for Bihar in the 1999–2000 season at the age of 18.",
+            "facts": [
+              {
+                "label": "Ranji Trophy",
+                "id": "1iwEgoOm_tK"
+              }
+            ]
           }
         }
       ]

@@ -63,13 +63,33 @@
     },
     {
       "title": "Style of play",
-      "id": "ZFYPVznDsD2",
+      "id": "A8p9mIoiFem",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
             "label": "Right-arm fast-medium bowler"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "dCNyRZK-SIC",
+          "note": "2010",
+          "value": {
+            "label": "Shami made his first-class debut in 2010 against Assam, picking up three wickets.",
+            "facts": [
+              {
+                "label": "Ranji Trophy",
+                "id": "t5lm-hXakUD"
+              }
+            ]
           }
         }
       ]

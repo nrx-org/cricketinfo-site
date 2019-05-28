@@ -29,12 +29,18 @@ const createIdMappings = () => {
         if (!idMapEntry) {
           idMapEntry = {
             id: record[csvExport.idFieldName],
-            title: {}
+            title: {},
+            sourceCsvFile: {},
+            idFieldName: csvExport.idFieldName,
+            titleFieldName: csvExport.titleFieldName,
+            descriptionFieldName: csvExport.descriptionFieldName,
+            imageFieldName: csvExport.imageFieldName
           };
           idMap.push(idMapEntry);
         }
 
         idMapEntry.title[lang] = record[csvExport.titleFieldName];
+        idMapEntry.sourceCsvFile[lang] = csvExport.path;
       });
     });
   });

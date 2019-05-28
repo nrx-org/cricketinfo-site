@@ -38,7 +38,7 @@
           "value": {
             "label": "Christchurch, New Zealand",
             "url": "https://en.wikipedia.org/wiki/Christchurch",
-            "contentUrl": "/static/content/en/.json"
+            "contentUrl": "/static/content/en/christ_church.json"
           }
         },
         {
@@ -63,13 +63,37 @@
     },
     {
       "title": "Style of play",
-      "id": "vIY98WPrM2-",
+      "id": "rnVHElHmL-",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
-            "label": "Attacking middle-order left-handed batsman"
+            "label": "Attacking middle-order left-handed batsman",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Ben_Stokes#/media/File:England_vs._New_Zealand_2015_(34).jpg",
+              "altText": "Style of play for Ben Stokes"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "5mw74N6w_V",
+          "note": "2010",
+          "value": {
+            "label": "Stokes made his first-class debut for Durham against the Marylebone Cricket Club (MCC)",
+            "facts": [
+              {
+                "label": "",
+                "id": "N0XBeBA3IH"
+              }
+            ]
           }
         }
       ]

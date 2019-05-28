@@ -8,7 +8,8 @@ const {
   findIdMapEntryById,
   getSluggedTitle,
   makeContentUrl,
-  makeArticleUrl
+  makeArticleUrl,
+  getCardInfoFromId
 } = require("./lib");
 
 const csvExports = {
@@ -42,6 +43,11 @@ const ALMA_MATER_DESCRIPTION_KEY =
 const ALMA_MATER_IMAGE_KEY = "Link to image of school";
 const STYLE_OF_PLAY_KEY = "Style of play";
 const STYLE_OF_PLAY_IMAGE_KEY = "Relevant image link";
+const PHASE_1_KEY = "Phase 1 Title";
+const PHASE_1_CARD_ID_KEY = "Phase 1 card-  ID";
+const PHASE_1_DEBUT_YEAR_KEY = "Phase 1 - First Class Debut Year";
+const PHASE_1_SINGLE_LINE_KEY = "Phase 1 - Single line description";
+const PHASE_1_DEBUT_TROPHY_KEY = "Phase 1 - Name of the debut trophy";
 
 module.exports.exportPersonalities = () => {
   Object.keys(csvExports).forEach(lang => {
@@ -243,6 +249,54 @@ module.exports.exportPersonalities = () => {
       personality.sections.push(styleOfPlaySection);
 
       // Career phase(s).
+      const careerPhasesSection = {
+        title: "Phase(s)",
+        cardType: "vertical_timeline",
+        facts: []
+      };
+
+      let phase1Fact = null;
+      if (record[PHASE_1_KEY]) {
+        phase1Fact = {
+          label: record[PHASE_1_KEY],
+          id: shortid.generate(),
+          note: record[PHASE_1_DEBUT_YEAR_KEY],
+          value: {
+            label: record[PHASE_1_SINGLE_LINE_KEY],
+            facts: [
+              {
+                label: record[PHASE_1_DEBUT_TROPHY_KEY],
+                id: shortid.generate()
+              }
+            ]
+          }
+        };
+
+        const cardData = getCardInfoFromId(
+          idMap,
+          record[PHASE_1_CARD_ID_KEY],
+          lang
+        );
+        if (cardData) {
+          phase1Fact.value.facts[0].url = cardData.url;
+          phase1Fact.value.facts[0].contentUrl = cardData.contentUrl;
+          phase1Fact.value.facts[0] = {
+            ...phase1Fact.value.facts[0],
+            label: cardData.title,
+            id: shortid.generate(),
+            value: {
+              label: cardData.summary,
+              image: {
+                url: cardData.imageUrl,
+                altText: `Image of ${cardData.title}`
+              }
+            }
+          };
+        }
+        careerPhasesSection.facts.push(phase1Fact);
+      }
+
+      personality.sections.push(careerPhasesSection);
 
       // Achievements and records.
 

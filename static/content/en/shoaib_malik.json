@@ -71,8 +71,8 @@
           "label": "Spouse",
           "value": {
             "label": "Sania Mirza",
-            "url": "/read/en/",
-            "contentUrl": "/static/content/en/.json",
+            "url": null,
+            "contentUrl": null,
             "image": {
               "url": "https://en.wikipedia.org/wiki/Sania_Mirza#/media/File:Sania_Mirza_(35449409862).jpg",
               "altText": "Picture of Sania Mirza"
@@ -83,7 +83,7 @@
     },
     {
       "title": "Style of play",
-      "id": "g0fP8YegfQ",
+      "id": "caY6uoLoEct",
       "cardType": "simple",
       "facts": [
         {
@@ -94,6 +94,26 @@
               "url": "https://en.wikipedia.org/wiki/Shoaib_Malik#/media/File:Shoaib_Malik,_Dunedin,_NZ,_2009.jpg",
               "altText": "Style of play for Shoaib Malik"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "G0EsPUau7jq",
+          "note": "",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "",
+                "id": "3dePdIka8zy"
+              }
+            ]
           }
         }
       ]

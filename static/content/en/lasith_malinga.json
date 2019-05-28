@@ -87,7 +87,7 @@
     },
     {
       "title": "Style of play",
-      "id": "apVYBHb8gu",
+      "id": "pcGjGApM7DZ",
       "cardType": "simple",
       "facts": [
         {
@@ -98,6 +98,26 @@
               "url": "https://en.wikipedia.org/wiki/Lasith_Malinga#/media/File:Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg",
               "altText": "Style of play for Lasith Malinga"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "nVmcMXtVUKx",
+          "note": "",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "",
+                "id": "hPPAYfZZgI1"
+              }
+            ]
           }
         }
       ]

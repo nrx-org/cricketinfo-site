@@ -39,8 +39,7 @@
           "label": "Birthplace",
           "value": {
             "label": "இந்தூர், இந்தியா",
-            "url": "https://en.wikipedia.org/wiki/Indore",
-            "contentUrl": "/static/content/ta/.json"
+            "url": "https://en.wikipedia.org/wiki/Indore"
           }
         },
         {
@@ -87,7 +86,7 @@
     },
     {
       "title": "Style of play",
-      "id": "bbHANMc1HQM",
+      "id": "P2c7p_NFhlS",
       "cardType": "simple",
       "facts": [
         {
@@ -98,6 +97,26 @@
               "url": "https://en.wikipedia.org/wiki/Rahul_Dravid#/media/File:Rahul_cropped.jpg",
               "altText": "Style of play for ராகுல் டிராவிட்"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "முதல் வகுப்பு",
+          "id": "MZBccG0vTZX",
+          "note": "1991",
+          "value": {
+            "label": "டிராவின் 1991 இல் மகாராஷ்டிராவுக்கு எதிரான போட்டியில் தன்னுடைய முதல் ரஞ்சி டிராஃபி போட்டியை விளையாடினார்.",
+            "facts": [
+              {
+                "label": "https://en.wikipedia.org/wiki/Ranji_Trophy",
+                "id": "z6BYP6zA0l-"
+              }
+            ]
           }
         }
       ]
