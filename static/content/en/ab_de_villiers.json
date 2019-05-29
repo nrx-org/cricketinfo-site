@@ -2,7 +2,11 @@
   "title": "AB de Villiers",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/AB_de_Villiers",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:AB_de_Villiers_2.jpg",
+=======
+    "url": "/static/images/ab_de_villiers/AB_de_Villiers_2.jpg",
+>>>>>>> feature/content-parser
     "altText": "Image of AB de Villiers"
   },
   "summary": "AB de Villiers is a former South African international cricketer.",
@@ -76,7 +80,11 @@
           "value": {
             "label": "",
             "image": {
+<<<<<<< HEAD
               "url": "https://en.wikipedia.org/wiki/File:Affie_wapen.jpg",
+=======
+              "url": "/static/images/ab_de_villiers/Affie_wapen.jpg",
+>>>>>>> feature/content-parser
               "altText": "Image of Afrikaanse Hoër Seunskool"
             }
           }
@@ -85,7 +93,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "xahC01_DuOm",
+=======
+      "id": "iwNxAwcO4B",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -93,8 +105,14 @@
           "value": {
             "label": "De Villiers is a right-handed batsman and an occasional wicket-keeper",
             "image": {
+<<<<<<< HEAD
               "url": "https://en.wikipedia.org/wiki/AB_de_Villiers#/media/File:AB_de_villiers_(cropped).jpg",
               "altText": "Style of play for AB de Villiers"
+=======
+              "url": "/static/images/ab_de_villiers/AB_de_villiers_%28cropped%29.jpg",
+              "altText": "Style of play for AB de Villiers",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+>>>>>>> feature/content-parser
             }
           }
         }
@@ -106,7 +124,11 @@
       "facts": [
         {
           "label": "First class Debut",
+<<<<<<< HEAD
           "id": "Zu62z4-n4FD",
+=======
+          "id": "s4SL_1JA10b",
+>>>>>>> feature/content-parser
           "note": "2004",
           "value": {
             "label": "De Villiers made his first class debut for the South African domestic team Northerns"
@@ -114,7 +136,11 @@
         },
         {
           "label": "National team debut ",
+<<<<<<< HEAD
           "id": "zSeI59LxE1d",
+=======
+          "id": "1bGytwG2pSS",
+>>>>>>> feature/content-parser
           "note": "2004",
           "value": {
             "label": "AB de Villiers made his international debut in a Test match against England",
@@ -123,11 +149,19 @@
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "label": "England cricket team",
+<<<<<<< HEAD
                 "id": "-LuOzlBXYAO",
                 "value": {
                   "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/England_cricket_team#/media/File:England_cricket_team_logo.svg",
+=======
+                "id": "HDH8OEnXogu",
+                "value": {
+                  "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
+                  "image": {
+                    "url": "/static/images/ab_de_villiers/England_cricket_team_logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of England cricket team"
                   }
                 }
@@ -137,7 +171,11 @@
         },
         {
           "label": "ICC Tournament Debut",
+<<<<<<< HEAD
           "id": "_eGzeCXKtg6",
+=======
+          "id": "We4KLtVDHez",
+>>>>>>> feature/content-parser
           "note": "2007",
           "value": {
             "label": "De Villiers' batting during the World Cup was inconsistent as he also failed to score on 4 occasions"
@@ -145,7 +183,11 @@
         },
         {
           "label": "IPL Debut",
+<<<<<<< HEAD
           "id": "JoOJzeSM4KL",
+=======
+          "id": "FpSCrnOT1M0",
+>>>>>>> feature/content-parser
           "note": "2008",
           "value": {
             "label": "De Villiers played for the Delhi Daredevils in the first 3 seasons of IPL",
@@ -154,11 +196,19 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
+<<<<<<< HEAD
                 "id": "5OUzx0nS8P_",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Delhi_Capitals#/media/File:Delhi_Capitals_Logo.svg",
+=======
+                "id": "auKjJ4Wy6UF",
+                "value": {
+                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "image": {
+                    "url": "/static/images/ab_de_villiers/Delhi_Capitals_Logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of Delhi Capitals"
                   }
                 }
@@ -167,6 +217,169 @@
           }
         }
       ]
+<<<<<<< HEAD
+=======
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "De Villiers became the second-youngest and second-fastest South African to reach 1,000 test runs",
+            "image": {
+              "url": "",
+              "altText": "De Villiers became the second-youngest and second-fastest South African to reach 1,000 test runs"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "In 2008 de Villiers became the first South African to score a double century",
+            "image": {
+              "url": "",
+              "altText": "In 2008 de Villiers became the first South African to score a double century"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "In 2011 de Villiers became the first South African to score two centuries in a single World Cup",
+            "image": {
+              "url": "",
+              "altText": "In 2011 de Villiers became the first South African to score two centuries in a single World Cup"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "In 2015, playing against West Indies, de Villiers scored the fastest century by a batsman in One Day International cricket, off 31 balls",
+            "image": {
+              "url": "",
+              "altText": "In 2015, playing against West Indies, de Villiers scored the fastest century by a batsman in One Day International cricket, off 31 balls"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "In 2015, de Villiers held the record holder for the fastest 50, 100 and 150 in One-Day International history",
+            "image": {
+              "url": "",
+              "altText": "In 2015, de Villiers held the record holder for the fastest 50, 100 and 150 in One-Day International history"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "South African Nation team (2004-2018)",
+          "id": "ELijrv54NV9",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "South Africa national cricket team",
+                "id": "c5ikyW_s2Uv",
+                "url": "/read/en/south_africa_national_cricket_team",
+                "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
+                "value": {
+                  "label": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
+                  "image": {
+                    "url": "/static/images/ab_de_villiers/Southafrica_cricket_logo.svg",
+                    "altText": "Picture of South Africa national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Royal Challengers Bangalore (2011 - present)",
+          "id": "5ERgHcSUKjo",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Royal Challengers Bangalore",
+                "id": "STpz3POLlD5",
+                "url": "/read/en/royal_challengers_bangalore",
+                "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
+                "value": {
+                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "/static/images/ab_de_villiers/Royal_Challengers_Bangalore_Logo_2016.svg",
+                    "altText": "Picture of Royal Challengers Bangalore"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Northerns (2003-2004)",
+          "id": "qfbABer2Bzb",
+          "value": {
+            "label": "Northerns is a first-class cricket team in South Africa and represents area nother of Johannesburg, and includes Pretoria"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "ICC ODI player of the year",
+          "tag": "2010",
+          "id": "award-0",
+          "value": {
+            "label": "A cricket trophy awarded annually by the International Cricket Council (ICC) to its chosen world player of the year",
+            "image": {
+              "url": "",
+              "altText": "Image of ICC ODI player of the year"
+            }
+          }
+        },
+        {
+          "label": "ICC ODI player of the year",
+          "tag": "2014",
+          "id": "award-1",
+          "value": {
+            "label": "A cricket trophy awarded annually by the International Cricket Council (ICC) to its chosen world player of the year",
+            "image": {
+              "url": "",
+              "altText": "Image of ICC ODI player of the year"
+            }
+          }
+        },
+        {
+          "label": "ICC ODI player of the year",
+          "tag": "2015",
+          "id": "award-2",
+          "value": {
+            "label": "A cricket trophy awarded annually by the International Cricket Council (ICC) to its chosen world player of the year",
+            "image": {
+              "url": "",
+              "altText": "Image of ICC ODI player of the year"
+            }
+          }
+        }
+      ]
+>>>>>>> feature/content-parser
     }
   ]
 }

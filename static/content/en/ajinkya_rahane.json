@@ -2,8 +2,14 @@
   "title": "Ajinkya Rahane",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ajinkya_Rahane",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:Ajinkya_Rahane_2016_(cropped).jpg",
     "altText": "Image of Ajinkya Rahane"
+=======
+    "url": "/static/images/ajinkya_rahane/Ajinkya_Rahane_2016_%28cropped%29.jpg",
+    "altText": "Image of Ajinkya Rahane",
+    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+>>>>>>> feature/content-parser
   },
   "summary": "Ajinkya Rahane is an Indian international cricketer.",
   "translations": [
@@ -69,8 +75,14 @@
           "value": {
             "label": "",
             "image": {
+<<<<<<< HEAD
               "url": "https://commons.wikimedia.org/wiki/File:S_v_joshi_high_school_dombivali_(E).jpg",
               "altText": "Image of SV Joshi High School, Mumbai"
+=======
+              "url": "/static/images/ajinkya_rahane/S_v_joshi_high_school_dombivali_%28E%29.jpg",
+              "altText": "Image of SV Joshi High School, Mumbai",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+>>>>>>> feature/content-parser
             }
           }
         }
@@ -78,7 +90,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "xY61tlzAwlC",
+=======
+      "id": "W8p_70aLhN",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -95,7 +111,11 @@
       "facts": [
         {
           "label": "First class Debut",
+<<<<<<< HEAD
           "id": "2YEH2qNdpiC",
+=======
+          "id": "LBn7WeItoP",
+>>>>>>> feature/content-parser
           "note": "Rahane made his first-class debut, at the age of 19, for Mumbai against Karachi Urban in the Mohammad Nissar Trophy in September 2007",
           "value": {
             "label": "Mohammad Nissar Trophy was an annual first class cricket competition played over four days between the winners of the Ranji Trophy from India and Quaid-i-Azam Trophy from Pakistan."
@@ -103,7 +123,11 @@
         },
         {
           "label": "National team debut ",
+<<<<<<< HEAD
           "id": "wKo3Q75_XWn",
+=======
+          "id": "Kf5Dg_dHWU",
+>>>>>>> feature/content-parser
           "note": "2011",
           "value": {
             "label": "Rahane made his debut against England in 2011 as a replacement for opener Virender Sehwag",
@@ -112,11 +136,19 @@
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "label": "England cricket team",
+<<<<<<< HEAD
                 "id": "C-ljHggc85-",
                 "value": {
                   "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/England_cricket_team#/media/File:England_cricket_team_logo.svg",
+=======
+                "id": "U3sYeMQ3ya",
+                "value": {
+                  "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
+                  "image": {
+                    "url": "/static/images/ajinkya_rahane/England_cricket_team_logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of England cricket team"
                   }
                 }
@@ -126,7 +158,11 @@
         },
         {
           "label": "ICC Tournament Debut",
+<<<<<<< HEAD
           "id": "ER060gLzRD8",
+=======
+          "id": "pKGNrdbQO4",
+>>>>>>> feature/content-parser
           "note": "2014",
           "value": {
             "label": "Rahane was part of Indian team make it to the final of 2014 World T20"
@@ -134,7 +170,11 @@
         },
         {
           "label": "IPL Debut",
+<<<<<<< HEAD
           "id": "E6OWlClD_Rf",
+=======
+          "id": "I-ZA13KKCR4",
+>>>>>>> feature/content-parser
           "note": "2008",
           "value": {
             "label": "Rahane was initially in the Mumbai Indians squad but got limited opportunities",
@@ -143,11 +183,19 @@
                 "url": "/read/en/bangladesh_national_cricket_team",
                 "contentUrl": "/static/content/en/bangladesh_national_cricket_team.json",
                 "label": "Bangladesh national cricket team",
+<<<<<<< HEAD
                 "id": "Q5tFizrbSi5",
                 "value": {
                   "label": "The Bangladesh national cricket team, popularly known as \"The Tigers\", is administered by the Bangladesh Cricket Board (BCB). Bangladesh is a full member of the International Cricket Council (ICC) with Test and One Day International (ODI) status.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Bangladesh_national_cricket_team#/media/File:Flag_of_Bangladesh.svg",
+=======
+                "id": "ZaB58dePDE9",
+                "value": {
+                  "label": "The Bangladesh national cricket team, popularly known as \"The Tigers\", is administered by the Bangladesh Cricket Board (BCB). Bangladesh is a full member of the International Cricket Council (ICC) with Test and One Day International (ODI) status.",
+                  "image": {
+                    "url": "/static/images/ajinkya_rahane/Flag_of_Bangladesh.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of Bangladesh national cricket team"
                   }
                 }
@@ -156,6 +204,157 @@
           }
         }
       ]
+<<<<<<< HEAD
+=======
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "Rahane has the highest number of catches (8) by a non wicketkeeper in a single Test match",
+            "image": {
+              "url": "",
+              "altText": "Rahane has the highest number of catches (8) by a non wicketkeeper in a single Test match"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "Rahane is the 5th Indian Batsman to score centuries in each innings of a Test",
+            "image": {
+              "url": "",
+              "altText": "Rahane is the 5th Indian Batsman to score centuries in each innings of a Test"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "Rahane jointly holds the record of winning his first test match as a captain",
+            "image": {
+              "url": "",
+              "altText": "Rahane jointly holds the record of winning his first test match as a captain"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "Rahane was the first batsman to hit six fours in an over in IPL",
+            "image": {
+              "url": "",
+              "altText": "Rahane was the first batsman to hit six fours in an over in IPL"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "Rahane is the fourth Indian batsman to score a Test century on their first match at the Lord's cricket ground.",
+            "image": {
+              "url": "",
+              "altText": "Rahane is the fourth Indian batsman to score a Test century on their first match at the Lord's cricket ground."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Indian national cricket team (2011-present)",
+          "id": "wEXuDQIgRRe",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India national cricket team",
+                "id": "ta37GO_lX5k",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "/static/images/ajinkya_rahane/Cricket_India_Crest.svg",
+                    "altText": "Picture of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Rajasthan Royals (2011-present)",
+          "id": "kpsVTyOZcMm",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Rajasthan Royals",
+                "id": "_YiyQVbpuE1",
+                "url": "/read/en/rajasthan_royals",
+                "contentUrl": "/static/content/en/rajasthan_royals.json",
+                "value": {
+                  "label": "The Rajasthan Royals (often abbreviated as RR) are a franchise cricket team based in Jaipur, Rajasthan, that plays in the Indian Premier League.",
+                  "image": {
+                    "url": "/static/images/ajinkya_rahane/RR-LOGO-1.png",
+                    "altText": "Picture of Rajasthan Royals"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Mumbai (2007-present)",
+          "id": "gEuGKH-mWZb",
+          "value": {
+            "label": "Domestic Ranji trophy cricket team based in Mumbai"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "CEAT Indian Cricketer of the Year",
+          "tag": "2015",
+          "id": "award-0",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": "Image of CEAT Indian Cricketer of the Year"
+            }
+          }
+        },
+        {
+          "label": "Arjuna Award",
+          "tag": "2016",
+          "id": "award-1",
+          "value": {
+            "label": "Arjuna Awards are given by the Government for outstanding achievement in sports",
+            "image": {
+              "url": "/static/images/ajinkya_rahane/Arjun_Award.jpg",
+              "altText": "Image of Arjuna Award"
+            }
+          }
+        }
+      ]
+>>>>>>> feature/content-parser
     }
   ]
 }

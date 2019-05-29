@@ -9,6 +9,7 @@
       "title": "தமிழ் படிக்கவும்"
     }
   ],
+<<<<<<< HEAD
   "participatingTeams": [
     {
       "label": "India",
@@ -123,6 +124,9 @@
       }
     }
   ],
+=======
+  "participatingTeams": [],
+>>>>>>> feature/content-parser
   "playingTeams": [
     {
       "label": "India",
@@ -260,156 +264,491 @@
   },
   "popularArticles": {
     "title": "Popular Articles",
-    "id": 1,
+    "id": "popularArticlesHome",
     "columns": [
       [
         {
+<<<<<<< HEAD
           "label": "India",
           "id": "0",
           "url": "/read/en/Team_India",
           "value": {
             "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
             "url": "/read/en/Team_India",
+=======
+          "label": "India national cricket team",
+          "id": "R1",
+          "url": "/read/en/india_national_cricket_team",
+          "value": {
+            "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+>>>>>>> feature/content-parser
             "image": {
-              "url": "/static/images/india.png",
-              "altText": "An image of the Indian flag"
+              "altText": "Image for India national cricket team",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "England",
-          "id": "1",
+          "label": "Australia Cricket team",
+          "id": "R2",
+          "url": "/read/en/australia_cricket_team",
           "value": {
+<<<<<<< HEAD
             "label": "Represents England and Wales in international cricket and drinks too much tea.",
             "url": "/read/en/Team_England",
+=======
+            "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+>>>>>>> feature/content-parser
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
-              "altText": "An image of the English flag"
+              "altText": "Image for Australia Cricket team",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
+<<<<<<< HEAD
           "label": "Australia",
           "id": "2",
           "url": "/read/en/Team_Koala",
           "value": {
             "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
             "url": "/read/en/Team_Koala",
+=======
+          "label": "2007 Cricket World Cup",
+          "id": "P6",
+          "url": "/read/en/2007_cricket_world_cup",
+          "value": {
+            "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
+>>>>>>> feature/content-parser
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
-              "altText": "An image of the Australian flag"
+              "altText": "Image for 2007 Cricket World Cup",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "Pakistan",
-          "id": "2",
+          "label": "2011 Cricket World Cup",
+          "id": "P7",
+          "url": "/read/en/2011_cricket_world_cup",
           "value": {
+<<<<<<< HEAD
             "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
             "url": "/read/en/Team_Rocket",
+=======
+            "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
+>>>>>>> feature/content-parser
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
-              "altText": "An image of the Pakistani flag"
+              "altText": "Image for 2011 Cricket World Cup",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         }
       ],
       [
         {
-          "label": "India",
-          "id": "0",
+          "label": "Virat Kohli",
+          "id": "O1",
+          "url": "/read/en/virat_kohli",
           "value": {
+<<<<<<< HEAD
             "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
             "url": "/read/en/Team_India",
+=======
+            "label": "Indian international cricketer who currently captains the India national team.",
+>>>>>>> feature/content-parser
             "image": {
-              "url": "/static/images/india.png",
-              "altText": "An image of the Indian flag"
+              "altText": "Image for Virat Kohli",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "England",
-          "id": "1",
+          "label": "Mahendra Singh Dhoni",
+          "id": "O2",
+          "url": "/read/en/mahendra_singh_dhoni",
           "value": {
-            "label": "Represents England and Wales in international cricket and drinks too much tea.",
-            "url": "/read/en/Team_England",
+            "label": "Mahendra Singh Dhoni is an Indian international cricketer who captained the Indian national team in limited-overs formats from 2007 to 2016 and in Test cricket from 2008 to 2014.",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
-              "altText": "An image of the English flag"
+              "altText": "Image for Mahendra Singh Dhoni",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "Australia",
-          "id": "2",
+          "label": "Rohit Sharma",
+          "id": "O3",
+          "url": "/read/en/rohit_sharma",
           "value": {
-            "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-            "url": "/read/en/Team_Koala",
+            "label": "Rohit Sharma is an Indian international cricketer who is the vice-captain of the India national team in limited-overs formats.",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
-              "altText": "An image of the Australian flag"
+              "altText": "Image for Rohit Sharma",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "Pakistan",
-          "id": "2",
+          "label": "Shikhar Dhawan",
+          "id": "O4",
+          "url": "/read/en/shikhar_dhawan",
           "value": {
-            "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-            "url": "/read/en/Team_Rocket",
+            "label": "Shikhar Dhawan is an Indian international cricketer. ",
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
-              "altText": "An image of the Pakistani flag"
+              "altText": "Image for Shikhar Dhawan",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         }
       ],
       [
         {
-          "label": "India",
-          "id": "0",
+          "label": "Sachin Tendulkar",
+          "id": "O5",
+          "url": "/read/en/sachin_tendulkar",
           "value": {
-            "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-            "url": "/read/en/Team_India",
+            "label": "Sachin Tendulkar is a former Indian international cricketer, regarded as one of the greatest batsmen of all time. He is the highest run scorer of all time in International cricket. ",
             "image": {
-              "url": "/static/images/india.png",
-              "altText": "An image of the Indian flag"
+              "altText": "Image for Sachin Tendulkar",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "England",
-          "id": "1",
+          "label": "Kapil Dev",
+          "id": "O6",
+          "url": "/read/en/kapil_dev",
           "value": {
+            "label": "Kapil Dev, is a former Indian cricketer who captained the Indian cricket team that won the 1983 World Cup.",
+            "image": {
+              "altText": "Image for Kapil Dev",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "Anil Kumble",
+          "id": "O7",
+          "url": "/read/en/anil_kumble",
+          "value": {
+            "label": "Anil Kumble is a former Indian cricketer and a former captain of Tests and ODIs, who played Tests and ODIs for 18 years. ",
+            "image": {
+              "altText": "Image for Anil Kumble",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "Sourav Ganguly",
+          "id": "O8",
+          "url": "/read/en/sourav_ganguly",
+          "value": {
+            "label": "Sourav Ganguly is a former Indian cricketer and captain of the Indian national team. During his playing career, Ganguly established himself as one of the world's leading batsmen, and also one of the greatest captains of the national cricket team.",
+            "image": {
+              "altText": "Image for Sourav Ganguly",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        }
+      ],
+      [
+        {
+          "label": "Rahul Dravid",
+          "id": "O9",
+          "url": "/read/en/rahul_dravid",
+          "value": {
+            "label": "Rahul Dravid is a former Indian cricketer and captain, widely regarded as one of the greatest batsmen in the history of cricket.",
+            "image": {
+              "altText": "Image for Rahul Dravid",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "Bangalore",
+          "id": "G1",
+          "url": "/read/en/bangalore",
+          "value": {
+            "label": "Bangalore, officially known as Bengaluru, is the capital of the Indian state of Karnataka. It has a population of over ten million, making it a megacity and the third-most populous city and fifth-most populous urban agglomeration in India.",
+            "image": {
+              "altText": "Image for Bangalore",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "Mumbai",
+          "id": "G2",
+          "url": "/read/en/mumbai",
+          "value": {
+<<<<<<< HEAD
             "label": "Represents England and Wales in international cricket and drinks too much tea.",
             "url": "/read/en/Team_England",
+=======
+            "label": "Mumbai, also known as Bombay, the official name until 1995, is the capital city of the Indian state of Maharashtra. As of 2011 it is the most populous city in India.",
+>>>>>>> feature/content-parser
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
-              "altText": "An image of the English flag"
+              "altText": "Image for Mumbai",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
-          "label": "Australia",
-          "id": "2",
+          "label": "India",
+          "id": "G3",
+          "url": "/read/en/india",
           "value": {
+            "label": "India, also known as the Republic of India is a country in South Asia. It is the seventh largest country by area with more than 1.3 billion people. It is the second most populous country as well as the most populous democracy in the world.",
+            "image": {
+              "altText": "Image for India",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        }
+      ],
+      [
+        {
+          "label": "Australia",
+          "id": "G4",
+          "url": "/read/en/australia",
+          "value": {
+<<<<<<< HEAD
             "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
             "url": "/read/en/Team_Koala",
+=======
+            "label": "Australia, officially the Commonwealth of Australia, is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands.",
+>>>>>>> feature/content-parser
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
-              "altText": "An image of the Australian flag"
+              "altText": "Image for Australia",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         },
         {
           "label": "Pakistan",
-          "id": "2",
+          "id": "G5",
+          "url": "/read/en/pakistan",
           "value": {
+            "label": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the world’s sixth-most populous country with a population exceeding 212,742,631 people.",
+            "image": {
+              "altText": "Image for Pakistan",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "South Africa",
+          "id": "G6",
+          "url": "/read/en/south_africa",
+          "value": {
+            "label": "South Africa, officially the Republic of South Africa (RSA), is the southernmost country in Africa. It is bounded to the south by 2,798 kilometres of coastline of Southern Africa stretching along the South Atlantic and Indian Oceans.",
+            "image": {
+              "altText": "Image for South Africa",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "Sri Lanka",
+          "id": "G7",
+          "url": "/read/en/sri_lanka",
+          "value": {
+<<<<<<< HEAD
             "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
             "url": "/read/en/Team_Rocket",
+=======
+            "label": "Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka, is an island country in South Asia, located in the Indian Ocean to the southwest of the Bay of Bengal and to the southeast of the Arabian Sea. ",
+>>>>>>> feature/content-parser
             "image": {
-              "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
-              "altText": "An image of the Pakistani flag"
+              "altText": "Image for Sri Lanka",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        }
+      ],
+      [
+        {
+          "label": "New Zealand",
+          "id": "G8",
+          "url": "/read/en/new_zealand",
+          "value": {
+<<<<<<< HEAD
+            "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
+            "url": "/read/en/Team_India",
+=======
+            "label": "New Zealand is a sovereign island country in the southwestern Pacific Ocean. The country geographically comprises two main landmasses and around 600 smaller islands. New Zealand is situated some 2,000 kilometres east of Australia.",
+>>>>>>> feature/content-parser
+            "image": {
+              "altText": "Image for New Zealand",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "England",
+          "id": "G10",
+          "url": "/read/en/england",
+          "value": {
+<<<<<<< HEAD
+            "label": "Represents England and Wales in international cricket and drinks too much tea.",
+            "url": "/read/en/Team_England",
+=======
+            "label": "England is a country that is part of the United Kingdom. It shares land borders with Wales to the west and Scotland to the north-northwest.",
+>>>>>>> feature/content-parser
+            "image": {
+              "altText": "Image for England",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "India national cricket team",
+          "id": "R1",
+          "url": "/read/en/india_national_cricket_team",
+          "value": {
+<<<<<<< HEAD
+            "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
+            "url": "/read/en/Team_Koala",
+=======
+            "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+>>>>>>> feature/content-parser
+            "image": {
+              "altText": "Image for India national cricket team",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "Australia Cricket team",
+          "id": "R2",
+          "url": "/read/en/australia_cricket_team",
+          "value": {
+            "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+            "image": {
+              "altText": "Image for Australia Cricket team",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        }
+      ],
+      [
+        {
+          "label": "West Indies cricket team",
+          "id": "R3",
+          "url": "/read/en/west_indies_cricket_team",
+          "value": {
+            "label": "The West Indies cricket team, traditionally known as the Windies, is a multi-national cricket team representing the Anglophone Caribbean region and administered by Cricket West Indies. The players on this composite team are selected from a chain of fifteen Caribbean territories",
+            "image": {
+              "altText": "Image for West Indies cricket team",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "England cricket team",
+          "id": "R4",
+          "url": "/read/en/england_cricket_team",
+          "value": {
+            "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
+            "image": {
+              "altText": "Image for England cricket team",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "Chennai Super Kings",
+          "id": "R5",
+          "url": "/read/en/chennai_super_kings",
+          "value": {
+            "label": "Founded in 2008, The Chennai Super Kings (CSK) is an Indian franchise cricket team based in Chennai, Tamil Nadu, which plays in the Indian Premier League (IPL).",
+            "image": {
+              "altText": "Image for Chennai Super Kings",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "Royal Challengers Bangalore",
+          "id": "R6",
+          "url": "/read/en/royal_challengers_bangalore",
+          "value": {
+            "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
+            "image": {
+              "altText": "Image for Royal Challengers Bangalore",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        }
+      ],
+      [
+        {
+          "label": "Mumbai Indians",
+          "id": "R7",
+          "url": "/read/en/mumbai_indians",
+          "value": {
+            "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
+            "image": {
+              "altText": "Image for Mumbai Indians",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "Pakistan national cricket team",
+          "id": "R8",
+          "url": "/read/en/pakistan_national_cricket_team",
+          "value": {
+            "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
+            "image": {
+              "altText": "Image for Pakistan national cricket team",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            }
+          }
+        },
+        {
+          "label": "Kings XI Punjab",
+          "id": "R9",
+          "url": "/read/en/kings_xi_punjab",
+          "value": {
+<<<<<<< HEAD
+            "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
+            "url": "/read/en/Team_Rocket",
+=======
+            "label": "The Kings XI Punjab (KXIP) are a franchise cricket team based in Mohali (Chandigarh CR), Punjab, that plays in the Indian Premier League. ",
+>>>>>>> feature/content-parser
+            "image": {
+              "altText": "Image for Kings XI Punjab",
+              "license": "Creative Commons Attribution-Share Alike 4.0 International",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
             }
           }
         }
@@ -418,329 +757,3028 @@
   },
   "interestingArticles": [
     {
-      "label": "India",
-      "id": "50",
+      "label": "1983 Cricket World Cup",
+      "id": "P2",
       "value": {
+<<<<<<< HEAD
         "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
         "url": "/read/en/mahendra_singh_dhoni",
+=======
+        "url": "/read/en/1983_cricket_world_cup",
+        "label": "The 1983 Cricket World Cup (officially the Prudential Cup '83) was the 3rd edition of the Cricket World Cup tournament. It was held from 9 June to 25 June 1983 in England and Wales and was won by India.",
+>>>>>>> feature/content-parser
         "image": {
-          "url": "https://placekitten.com/200/200",
-          "altText": "An image of the Indian flag"
+          "altText": "Image for 1983 Cricket World Cup",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "England",
-      "id": "51",
+      "label": "1996 Cricket World Cup",
+      "id": "P3",
       "value": {
+<<<<<<< HEAD
         "label": "Represents England and Wales in international cricket and drinks too much tea.",
         "url": "/read/en/mahendra_singh_dhoni",
+=======
+        "url": "/read/en/1996_cricket_world_cup",
+        "label": "The 1996 Cricket World Cup, also called the Wills World Cup 1996 after its official sponsors, ITC's Wills brand, was the sixth Cricket World Cup. It was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka.",
+>>>>>>> feature/content-parser
         "image": {
-          "url": "https://placekitten.com/180/180",
-          "altText": "An image of the English flag"
+          "altText": "Image for 1996 Cricket World Cup",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Australia",
-      "id": "52",
+      "label": "1999 Cricket World Cup",
+      "id": "P4",
       "value": {
+<<<<<<< HEAD
         "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
         "url": "/read/en/allan_donald",
+=======
+        "url": "/read/en/1999_cricket_world_cup",
+        "label": "The 1999 Cricket World Cup was the seventh edition of the Cricket World Cup, organised by the International Cricket Council (ICC). It was hosted primarily by England, with some games being played in Scotland, Ireland, Wales and the Netherlands.",
+>>>>>>> feature/content-parser
         "image": {
-          "url": "https://placekitten.com/190/190",
-          "altText": "An image of the Australian flag"
+          "altText": "Image for 1999 Cricket World Cup",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Pakistan",
-      "id": "53",
+      "label": "2003 Cricket World Cup",
+      "id": "P5",
       "value": {
+<<<<<<< HEAD
         "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
         "url": "/read/en/adam_gilchrist",
+=======
+        "url": "/read/en/2003_cricket_world_cup",
+        "label": "The 2003 Cricket World Cup was the eighth Cricket World Cup, organized by the International Cricket Council (ICC). It was co-hosted by South Africa, Zimbabwe and Kenya.",
+>>>>>>> feature/content-parser
         "image": {
-          "url": "https://placekitten.com/220/220",
-          "altText": "An image of the Pakistani flag"
+          "altText": "Image for 2003 Cricket World Cup",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "India",
-      "id": "0",
+      "label": "2007 Cricket World Cup",
+      "id": "P6",
       "value": {
+<<<<<<< HEAD
         "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
         "url": "/read/en/andrew_flintoff",
+=======
+        "url": "/read/en/2007_cricket_world_cup",
+        "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
+>>>>>>> feature/content-parser
         "image": {
-          "url": "https://placekitten.com/200/200",
-          "altText": "An image of the Indian flag"
+          "altText": "Image for 2007 Cricket World Cup",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "England",
-      "id": "1",
+      "label": "2011 Cricket World Cup",
+      "id": "P7",
       "value": {
+<<<<<<< HEAD
         "label": "Represents England and Wales in international cricket and drinks too much tea.",
         "url": "/read/en/andre_russel",
+=======
+        "url": "/read/en/2011_cricket_world_cup",
+        "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
+>>>>>>> feature/content-parser
         "image": {
-          "url": "https://placekitten.com/180/180",
-          "altText": "An image of the English flag"
+          "altText": "Image for 2011 Cricket World Cup",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Australia",
-      "id": "2",
+      "label": "2015 Cricket World Cup",
+      "id": "P8",
       "value": {
+<<<<<<< HEAD
         "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
         "url": "/read/en/anil_kumble",
+=======
+        "url": "/read/en/2015_cricket_world_cup",
+        "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
+>>>>>>> feature/content-parser
         "image": {
-          "url": "https://placekitten.com/190/190",
-          "altText": "An image of the Australian flag"
+          "altText": "Image for 2015 Cricket World Cup",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Pakistan",
-      "id": "3",
+      "label": "ICC T20 World Cup",
+      "id": "P9",
       "value": {
+<<<<<<< HEAD
         "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
         "url": "/read/en/arjuna_ranatunga",
+=======
+        "url": "/read/en/icc_t20_world_cup",
+        "label": "The ICC T20 World Cup (earlier known as ICC World Twenty20) is the international championship of Twenty20 International cricket. The tournament currently consists of 16 teams, comprising the top eight teams from the rankings at the given deadline and four other teams chosen through the T20 World Cup Qualifier. ",
+>>>>>>> feature/content-parser
         "image": {
-          "url": "https://placekitten.com/220/220",
-          "altText": "An image of the Pakistani flag"
+          "altText": "Image for ICC T20 World Cup",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "ICC Champions Trophy",
+      "id": "P10",
+      "value": {
+<<<<<<< HEAD
+        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
+        "url": "/read/en/australia",
+=======
+        "url": "/read/en/icc_champions_trophy",
+        "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
+>>>>>>> feature/content-parser
+        "image": {
+          "altText": "Image for ICC Champions Trophy",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Indian Premier League",
+      "id": "P11",
+      "value": {
+<<<<<<< HEAD
+        "label": "Represents England and Wales in international cricket and drinks too much tea.",
+        "url": "/read/en/ayodhya",
+=======
+        "url": "/read/en/indian_premier_league",
+        "label": "The Indian Premier League (IPL) is a professional Twenty20 cricket league in India contested during March or April and May of every year by eight teams representing eight different cities in India.",
+>>>>>>> feature/content-parser
+        "image": {
+          "altText": "Image for Indian Premier League",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "2010 Indian Premier League",
+      "id": "P12",
+      "value": {
+<<<<<<< HEAD
+        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
+        "url": "/read/en/andrew_tye",
+=======
+        "url": "/read/en/2010_indian_premier_league",
+        "label": "The 2010 Indian Premier League season, abbreviated as IPL 3 or the 2010 IPL, was the third season of the Indian Premier League",
+>>>>>>> feature/content-parser
+        "image": {
+          "altText": "Image for 2010 Indian Premier League",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "2011 Indian Premier League",
+      "id": "P13",
+      "value": {
+<<<<<<< HEAD
+        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
+        "url": "/read/en/bogra",
+=======
+        "url": "/read/en/2011_indian_premier_league",
+        "label": "The 2011 Indian Premier League season, abbreviated as IPL 4 or the IPL 2011, was the fourth season of the Indian Premier League, the top Twenty20 cricket league in India",
+>>>>>>> feature/content-parser
+        "image": {
+          "altText": "Image for 2011 Indian Premier League",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "2016 Indian Premier League",
+      "id": "P14",
+      "value": {
+<<<<<<< HEAD
+        "label": "Represents England and Wales in international cricket and drinks too much tea.",
+        "url": "/read/en/brian_lara",
+=======
+        "url": "/read/en/2016_indian_premier_league",
+        "label": "The 2016 season of the Indian Premier League, also known as IPL 9, and branded as Vivo IPL 2016 for sponsorship reasons, was the ninth season of the IPL",
+        "image": {
+          "altText": "Image for 2016 Indian Premier League",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "2017 Indian Premier League",
+      "id": "P15",
+      "value": {
+        "url": "/read/en/2017_indian_premier_league",
+        "label": "The 2017 season of the Indian Premier League, also known as IPL 10 and branded as Vivo IPL 2017, was the tenth edition of the IPL",
+        "image": {
+          "altText": "Image for 2017 Indian Premier League",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Bangalore",
+      "id": "G1",
+      "value": {
+        "url": "/read/en/bangalore",
+        "label": "Bangalore, officially known as Bengaluru, is the capital of the Indian state of Karnataka. It has a population of over ten million, making it a megacity and the third-most populous city and fifth-most populous urban agglomeration in India.",
+        "image": {
+          "altText": "Image for Bangalore",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Mumbai",
+      "id": "G2",
+      "value": {
+        "url": "/read/en/mumbai",
+        "label": "Mumbai, also known as Bombay, the official name until 1995, is the capital city of the Indian state of Maharashtra. As of 2011 it is the most populous city in India.",
+        "image": {
+          "altText": "Image for Mumbai",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
       "label": "India",
-      "id": "10",
+      "id": "G3",
       "value": {
-        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-        "url": "/read/en/australia",
+        "url": "/read/en/india",
+        "label": "India, also known as the Republic of India is a country in South Asia. It is the seventh largest country by area with more than 1.3 billion people. It is the second most populous country as well as the most populous democracy in the world.",
+>>>>>>> feature/content-parser
         "image": {
-          "url": "https://placekitten.com/200/200",
-          "altText": "An image of the Indian flag"
-        }
-      }
-    },
-    {
-      "label": "England",
-      "id": "11",
-      "value": {
-        "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/read/en/ayodhya",
-        "image": {
-          "url": "https://placekitten.com/180/180",
-          "altText": "An image of the English flag"
+          "altText": "Image for India",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
       "label": "Australia",
-      "id": "12",
+      "id": "G4",
       "value": {
-        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/read/en/andrew_tye",
-        "image": {
-          "url": "https://placekitten.com/190/190",
-          "altText": "An image of the Australian flag"
-        }
-      }
-    },
-    {
-      "label": "Pakistan",
-      "id": "13",
-      "value": {
-        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/read/en/bogra",
-        "image": {
-          "url": "https://placekitten.com/220/220",
-          "altText": "An image of the Pakistani flag"
-        }
-      }
-    },
-    {
-      "label": "England",
-      "id": "41",
-      "value": {
-        "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/read/en/brian_lara",
-        "image": {
-          "url": "https://placekitten.com/180/180",
-          "altText": "An image of the English flag"
-        }
-      }
-    },
-    {
-      "label": "Australia",
-      "id": "42",
-      "value": {
+<<<<<<< HEAD
         "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
         "url": "/read/en/cape_town",
+=======
+        "url": "/read/en/australia",
+        "label": "Australia, officially the Commonwealth of Australia, is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands.",
+>>>>>>> feature/content-parser
         "image": {
-          "url": "https://placekitten.com/190/190",
-          "altText": "An image of the Australian flag"
+          "altText": "Image for Australia",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
       "label": "Pakistan",
-      "id": "43",
+      "id": "G5",
       "value": {
+<<<<<<< HEAD
         "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
         "url": "/read/en/clive_lloyd",
+=======
+        "url": "/read/en/pakistan",
+        "label": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the world’s sixth-most populous country with a population exceeding 212,742,631 people.",
+>>>>>>> feature/content-parser
         "image": {
-          "url": "https://placekitten.com/220/220",
-          "altText": "An image of the Pakistani flag"
+          "altText": "Image for Pakistan",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "South Africa",
+      "id": "G6",
+      "value": {
+<<<<<<< HEAD
+        "url": "/read/en/colombo",
+=======
+        "url": "/read/en/south_africa",
+        "label": "South Africa, officially the Republic of South Africa (RSA), is the southernmost country in Africa. It is bounded to the south by 2,798 kilometres of coastline of Southern Africa stretching along the South Atlantic and Indian Oceans.",
+>>>>>>> feature/content-parser
+        "image": {
+          "altText": "Image for South Africa",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Sri Lanka",
+      "id": "G7",
+      "value": {
+<<<<<<< HEAD
+        "url": "/read/en/virat_kohli",
+=======
+        "url": "/read/en/sri_lanka",
+        "label": "Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka, is an island country in South Asia, located in the Indian Ocean to the southwest of the Bay of Bengal and to the southeast of the Arabian Sea. ",
+>>>>>>> feature/content-parser
+        "image": {
+          "altText": "Image for Sri Lanka",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "New Zealand",
+      "id": "G8",
+      "value": {
+<<<<<<< HEAD
+        "url": "/read/en/delhi",
+=======
+        "url": "/read/en/new_zealand",
+        "label": "New Zealand is a sovereign island country in the southwestern Pacific Ocean. The country geographically comprises two main landmasses and around 600 smaller islands. New Zealand is situated some 2,000 kilometres east of Australia.",
+>>>>>>> feature/content-parser
+        "image": {
+          "altText": "Image for New Zealand",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "England",
+      "id": "G10",
+      "value": {
+        "url": "/read/en/england",
+        "label": "England is a country that is part of the United Kingdom. It shares land borders with Wales to the west and Scotland to the north-northwest.",
+        "image": {
+          "altText": "Image for England",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Virat Kohli",
+      "id": "O1",
+      "value": {
+<<<<<<< HEAD
+        "url": "/read/en/david_gower",
+=======
+        "url": "/read/en/virat_kohli",
+        "label": "Indian international cricketer who currently captains the India national team.",
+>>>>>>> feature/content-parser
+        "image": {
+          "altText": "Image for Virat Kohli",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Mahendra Singh Dhoni",
+      "id": "O2",
+      "value": {
+<<<<<<< HEAD
+        "url": "/read/en/Rahul_Dravid",
+=======
+        "url": "/read/en/mahendra_singh_dhoni",
+        "label": "Mahendra Singh Dhoni is an Indian international cricketer who captained the Indian national team in limited-overs formats from 2007 to 2016 and in Test cricket from 2008 to 2014.",
+>>>>>>> feature/content-parser
+        "image": {
+          "altText": "Image for Mahendra Singh Dhoni",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Rohit Sharma",
+      "id": "O3",
+      "value": {
+<<<<<<< HEAD
+        "url": "/read/en/MS_Dhoni",
+=======
+        "url": "/read/en/rohit_sharma",
+        "label": "Rohit Sharma is an Indian international cricketer who is the vice-captain of the India national team in limited-overs formats.",
+>>>>>>> feature/content-parser
+        "image": {
+          "altText": "Image for Rohit Sharma",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Shikhar Dhawan",
+      "id": "O4",
+      "value": {
+<<<<<<< HEAD
+        "url": "/read/en/Sourav_Ganguly",
+=======
+        "url": "/read/en/shikhar_dhawan",
+        "label": "Shikhar Dhawan is an Indian international cricketer. ",
+>>>>>>> feature/content-parser
+        "image": {
+          "altText": "Image for Shikhar Dhawan",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Sachin Tendulkar",
+      "id": "O5",
+      "value": {
+<<<<<<< HEAD
+        "label": "A dog’s nose print is unique, much like a person’s fingerprint.",
+        "url": "/read/en/Rahul_Dravid",
+=======
+        "url": "/read/en/sachin_tendulkar",
+        "label": "Sachin Tendulkar is a former Indian international cricketer, regarded as one of the greatest batsmen of all time. He is the highest run scorer of all time in International cricket. ",
+>>>>>>> feature/content-parser
+        "image": {
+          "altText": "Image for Sachin Tendulkar",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Kapil Dev",
+      "id": "O6",
+      "value": {
+<<<<<<< HEAD
+        "label": "Dog eyes have a part called the tapetum lucidum, allowing night vision.",
+        "url": "/read/en/MS_Dhoni",
+=======
+        "url": "/read/en/kapil_dev",
+        "label": "Kapil Dev, is a former Indian cricketer who captained the Indian cricket team that won the 1983 World Cup.",
+>>>>>>> feature/content-parser
+        "image": {
+          "altText": "Image for Kapil Dev",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Anil Kumble",
+      "id": "O7",
+      "value": {
+<<<<<<< HEAD
+        "label": "Human blood pressure goes down when petting a dog. And so does the dog’s.",
+        "url": "/read/en/Virat_Kohli",
+=======
+        "url": "/read/en/anil_kumble",
+        "label": "Anil Kumble is a former Indian cricketer and a former captain of Tests and ODIs, who played Tests and ODIs for 18 years. ",
+>>>>>>> feature/content-parser
+        "image": {
+          "altText": "Image for Anil Kumble",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Sourav Ganguly",
+      "id": "O8",
+      "value": {
+        "url": "/read/en/sourav_ganguly",
+        "label": "Sourav Ganguly is a former Indian cricketer and captain of the Indian national team. During his playing career, Ganguly established himself as one of the world's leading batsmen, and also one of the greatest captains of the national cricket team.",
+        "image": {
+          "altText": "Image for Sourav Ganguly",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Rahul Dravid",
+      "id": "O9",
+      "value": {
+<<<<<<< HEAD
+        "label": "Dogs are not colorblind. They also see blue and yellow.",
+        "url": "/read/en/Sourav_Ganguly",
+=======
+        "url": "/read/en/rahul_dravid",
+        "label": "Rahul Dravid is a former Indian cricketer and captain, widely regarded as one of the greatest batsmen in the history of cricket.",
+>>>>>>> feature/content-parser
+        "image": {
+          "altText": "Image for Rahul Dravid",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     }
   ],
   "scheduledFacts": [
     {
-      "label": "Sachin Tendulkar has scored most runs across all the world cup tournaments, ie 2,278.",
-      "date": "2019-05-09",
-      "id": "sachinTendulkar",
+<<<<<<< HEAD
+      "label": "Which cricket team has won the most number of world cups?",
+      "id": "mostWorldCups",
+      "dates": ["2019-05-22"],
+      "options": [
+        {
+          "label": "Australia"
+        },
+        {
+          "label": "India"
+=======
+      "label": "In the opening match for the 1975 World Cup, Sunil Gavaskar scored his infamous 36 runs off of 174 balls against England.",
+      "dates": [
+        "2019-06-09"
+      ],
+      "id": "F5",
       "value": {
-        "url": "/read/en/colombo",
+        "url": "/read/en/indian_cricket_team",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Sachin_Tendulkar.jpg",
-          "altText": "A picture of Sachin Tendulkar, not a duck"
+          "url": {
+            "url": "/static/images/home/Prudential_Cup_75_logo.svg",
+            "altText": "Image of undefined"
+          },
+          "altText": "Image for Infamous 36"
+>>>>>>> feature/content-parser
         }
       }
     },
     {
-      "label": "Ducks are curious and friendly creatures, they have been domesticated as pets and farm animals for more than 500 years.",
-      "date": "2019-05-09",
-      "id": "viratKohli",
+      "label": "India failed to win a single match in the competition, the only test-playing nation to do so.",
+      "dates": [
+        "2019-06-13"
+      ],
+      "id": "F9",
       "value": {
-        "url": "/read/en/virat_kohli",
+        "url": "/read/en/indian_cricket_team",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/VIRAT_KOHLI_JAN_2015_%28cropped%29.jpg",
-          "altText": "A picture of Sachin Tendulkar, not a duck"
+          "url": {
+            "url": "/static/images/home/Flagcricket.jpg",
+            "altText": "Image of undefined"
+          },
+          "altText": "Image for No wins for India"
         }
       }
-    }
-  ],
-  "constantFacts": [
+    },
     {
-      "label": "Mallard ducks live 5 to 10 years in the wild and 8+ years in captivity.",
-      "id": "rahulDravid",
+<<<<<<< HEAD
+      "label": "How many matches were played in the inaugural World Cup held in 1975?",
+      "id": "firstEverWorldCup",
+      "dates": ["2019-05-22"],
+      "options": [
+        {
+          "label": "19"
+        },
+        {
+          "label": "15"
+=======
+      "label": "India had never qualified beyond the group stages in the previous editions of the tournament but went on to win the 1983 World Cup.",
+      "dates": [
+        "2019-06-16"
+      ],
+      "id": "F12",
       "value": {
-        "url": "/read/en/delhi",
+        "url": "/read/en/indian_cricket_team",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rahul_Dravid.jpg",
-          "altText": "A picture of Rahul Dravid sitting in front of a washbasin"
+          "url": {
+            "url": "/static/images/home/Flagcricket.jpg",
+            "altText": "Image of undefined"
+          },
+          "altText": "Image for Beyond the group stage"
+>>>>>>> feature/content-parser
+        }
+      }
+    },
+    {
+      "label": "India scored 183 runs in the final which is the lowest score defended by a country in the World Cup final.",
+      "dates": [
+        "2019-06-22"
+      ],
+      "id": "F13",
+      "value": {
+        "url": "/read/en/indian_cricket_team",
+        "image": {
+          "url": {
+            "url": "/static/images/home/Prudential_Cup_83_logo.svg",
+            "altText": "Image of undefined"
+          },
+          "altText": "Image for Lowest score defended"
+        }
+      }
+    },
+    {
+      "label": "Australia defeated their arch-rivals England by 7 runs in the closest  World Cup final  at Kolkata's Eden Gardens.  ",
+      "dates": [
+        "2019-06-09",
+        "2019-06-20",
+        "2019-06-29"
+      ],
+      "id": "F16",
+      "value": {
+        "url": "/read/en/australian_cricket_team",
+        "image": {
+          "url": {
+            "url": "/static/images/home/Australian_World_Cup_treble.jpg",
+            "altText": "Image of undefined"
+          },
+          "altText": "Image for Close fight"
+        }
+      }
+    },
+    {
+      "label": "1992 World cup was the first to have South Africa participate after the end of the Apartheid.",
+      "dates": [
+        "2019-05-30",
+        "2019-06-02",
+        "2019-06-15",
+        "2019-06-23",
+        "2019-07-06"
+      ],
+      "id": "F20",
+      "value": {
+        "url": "/read/en/south_african_cricket_team",
+        "image": {
+          "url": {
+            "url": "/static/images/home/South_African_Cricket_team_2008.jpg",
+            "altText": "Image of undefined"
+          },
+          "altText": "Image for End of Apartheid"
+        }
+      }
+    },
+    {
+      "label": "In the rain-affected semi-final match between England and South Africa, the final score was calculated using the “Most Productive Overs” method - reducing the required score of 22 off 13 balls to 22 off 1 ball, ending South Africa’s World Cup dreams that year.",
+      "dates": [
+        "2019-06-05",
+        "2019-06-10",
+        "2019-06-19",
+        "2019-06-28"
+      ],
+      "id": "F22",
+      "value": {
+        "url": "/read/en/south_african_cricket_team",
+        "image": {
+          "url": {
+            "url": "/static/images/home/South_African_Cricket_team_2008.jpg",
+            "altText": "Image of undefined"
+          },
+          "altText": "Image for 22 runs off of 1 ball"
+        }
+      }
+    },
+    {
+      "label": "In the 1996 World Cup, Sri Lanka won to become the first co-host country to win the World Cup.",
+      "dates": [
+        "2019-06-01"
+      ],
+      "id": "F24",
+      "value": {
+        "url": "/read/en/1996_world_cup",
+        "image": {
+          "url": {
+            "url": "/static/images/home/Wills_World_Cup_1996.svg",
+            "altText": "Image of undefined"
+          },
+          "altText": "Image for Host win"
+        }
+      }
+    },
+    {
+      "label": "In the 1996 World Cup, Sri Lanka won to become the first co-host country to win the World Cup.",
+      "dates": [
+        "2019-06-04",
+        "2019-06-07",
+        "2019-06-11",
+        "2019-06-15",
+        "2019-06-21",
+        "2019-06-28",
+        "2019-07-01",
+        "2019-07-06"
+      ],
+      "id": "F25",
+      "value": {
+        "url": "/read/en/srilankan_cricket_team",
+        "image": {
+          "url": {
+            "url": "/static/images/home/Sri_Lanka_Cricket_Cap_Insignia.svg",
+            "altText": "Image of undefined"
+          },
+          "altText": "Image for Srilankan Cricket Team"
+        }
+      }
+    },
+    {
+      "label": "India and Pakistan were officially at war during their match in this edition of the World Cup, the only time two nations at war to have engaged in a sports game in the political scenario.",
+      "dates": [
+        "2019-05-31",
+        "2019-06-03",
+        "2019-06-07",
+        "2019-06-12",
+        "2019-06-16",
+        "2019-06-23",
+        "2019-06-26",
+        "2019-06-29",
+        "2019-07-05"
+      ],
+      "id": "F27",
+      "value": {
+        "url": "/read/en/1999_world_cup",
+        "image": {
+          "url": {
+            "url": "/static/images/home/Wc99.png",
+            "altText": "Image of undefined"
+          },
+          "altText": "Image for At war"
+        }
+      }
+    },
+    {
+      "label": "India and Pakistan were officially at war during their match in this edition of the World Cup, the only time two nations at war to have engaged in a sports game in the political scenario.",
+      "dates": [
+        "2019-06-27"
+      ],
+      "id": "F28",
+      "value": {
+        "url": "/read/en/indian_cricket_team",
+        "image": {
+          "url": {
+            "url": "/static/images/home/Flagcricket.jpg",
+            "altText": "Image of undefined"
+          },
+          "altText": "Image for At war"
+        }
+      }
+    },
+    {
+      "label": "Australia's unbeaten record in the tournament increased their total wins to 29 consecutive World Cup matches.",
+      "dates": [
+        "2019-06-01",
+        "2019-06-12",
+        "2019-06-25",
+        "2019-07-06"
+      ],
+      "id": "F34",
+      "value": {
+        "url": "/read/en/australian_cricket_team",
+        "image": {
+          "url": {
+            "url": "/static/images/home/Australian_World_Cup_treble.jpg",
+            "altText": "Image of undefined"
+          },
+          "altText": "Image for Unbeaten Australia"
+        }
+      }
+    },
+    {
+      "label": "Since 1979, this was the first time India failed to qualify the group stage.",
+      "dates": [
+        "2019-06-30"
+      ],
+      "id": "F36",
+      "value": {
+        "url": "/read/en/indian_cricket_team",
+        "image": {
+          "url": {
+            "url": "/static/images/home/Wills_World_Cup_1996.svg",
+            "altText": "Image of undefined"
+          },
+          "altText": "Image for Dismal Indian performance"
+        }
+      }
+    },
+    {
+      "label": "India became the first country to win the World Cup on home grounds. ",
+      "dates": [
+        "2019-07-02"
+      ],
+      "id": "F38",
+      "value": {
+        "url": "/read/en/indian_cricket_team",
+        "image": {
+          "url": {
+            "url": "/static/images/home/Wills_World_Cup_1996.svg",
+            "altText": "Image of undefined"
+          },
+          "altText": "Image for Win on Home soil"
+        }
+      }
+    },
+    {
+      "label": "Kane Williamson is the youngest player to score centuries against all test playing nations",
+      "dates": [
+        "2019-06-01"
+      ],
+      "id": "F49",
+      "value": {
+        "url": "/read/en/kane_williamson",
+        "image": {
+          "url": {
+            "url": "/static/images/home/Kane_Williamson_(9773667991).jpg",
+            "altText": "Image of undefined"
+          },
+          "altText": "Image for Youngest player"
+        }
+      }
+    },
+    {
+      "label": "Indian cricket team holds the record for most number of times scoring 300+ score: 90 times.",
+      "dates": [
+        "2019-06-05",
+        "2019-07-06"
+      ],
+      "id": "F53",
+      "value": {
+        "url": "/read/en/indian_cricket_team",
+        "image": {
+          "url": {
+            "url": "/static/images/home/Wills_World_Cup_1996.svg",
+            "altText": "Image of undefined"
+          },
+          "altText": "Image for 300+"
+        }
+      }
+    },
+    {
+      "label": "Australian team holds the record for appearing in four consecutive World Cup finals between 1996 - 2007.",
+      "dates": [
+        "2019-06-06",
+        "2019-06-15"
+      ],
+      "id": "F54",
+      "value": {
+        "url": "/read/en/australian_cricket_team",
+        "image": {
+          "url": {
+            "url": "/static/images/home/Australian_World_Cup_treble.jpg",
+            "altText": "Image of undefined"
+          },
+          "altText": "Image for Four World cup finals "
+        }
+      }
+    },
+    {
+      "label": "The first recorded incidence of a team with a claim to represent England comes from 9 July 1739.",
+      "dates": [
+        "2019-05-30",
+        "2019-06-03",
+        "2019-06-08",
+        "2019-06-14",
+        "2019-06-18",
+        "2019-06-21",
+        "2019-06-25",
+        "2019-06-30",
+        "2019-07-03"
+      ],
+      "id": "F55",
+      "value": {
+        "url": "/read/en/england_cricket_team",
+        "image": {
+          "url": {
+            "url": "/static/images/home/The_England_Cricket_Team_Ashes_2015.jpg",
+            "altText": "Image of undefined"
+          },
+          "altText": "Image for Oldest Cricket team"
+        }
+      }
+    },
+    {
+      "label": "West Indies is a multi-national cricket team representing the Anglophone Caribbean region with players selected from a chain of fifteen Caribbean territories.",
+      "dates": [
+        "2019-05-31",
+        "2019-06-06",
+        "2019-06-10",
+        "2019-06-14",
+        "2019-06-17",
+        "2019-06-22",
+        "2019-06-27",
+        "2019-07-01",
+        "2019-07-04"
+      ],
+      "id": "F56",
+      "value": {
+        "url": "/read/en/west_indies_team",
+        "image": {
+          "url": {
+            "url": "/static/images/home/BrianLaraUkexpat.jpg",
+            "altText": "Image of undefined"
+          },
+          "altText": "Image for West Indies power"
         }
       }
     }
   ],
+  "constantFacts": [],
   "scheduledFeaturedPlayers": [
     {
+      "label": "Ben Stokes",
+      "id": "ben_stokes",
+      "dates": [
+        "2019-05-30",
+        "2019-06-03",
+        "2019-06-08",
+        "2019-06-14",
+        "2019-06-18",
+        "2019-06-21",
+        "2019-06-25",
+        "2019-07-03"
+      ],
+      "value": {
+        "url": "/read/en/ben_stokes",
+        "label": "Ben Stokes is an English international cricketer and former vice-captain of the England Test team.",
+        "image": {
+          "altText": "Image for Ben Stokes",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Jos Buttler",
+      "id": "jos_buttler",
+      "dates": [
+        "2019-05-30",
+        "2019-06-03",
+        "2019-06-08",
+        "2019-06-14",
+        "2019-06-18",
+        "2019-06-21",
+        "2019-06-25",
+        "2019-07-03"
+      ],
+      "value": {
+        "url": "/read/en/jos_buttler",
+        "label": "Jos Buttler is an English international cricketer who is currently vice-captain of the England cricket team.",
+        "image": {
+          "altText": "Image for Jos Buttler",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Kagiso Rabada",
+      "id": "kagiso_rabada",
+      "dates": [
+        "2019-06-02",
+        "2019-06-10",
+        "2019-06-15",
+        "2019-06-19",
+        "2019-06-23",
+        "2019-06-28",
+        "2019-07-06"
+      ],
+      "value": {
+        "url": "/read/en/kagiso_rabada",
+        "label": "Kagiso Rabada is a South African international cricketer who plays all formats of the game. Rabada, who is known by the nickname KG, is a fast bowler and plays domestic cricket for the Highveld Lions. ",
+        "image": {
+          "altText": "Image for Kagiso Rabada",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Chris Gayle",
+      "id": "chris_gayle",
+      "dates": [
+        "2019-05-31",
+        "2019-06-06",
+        "2019-06-10",
+        "2019-06-17",
+        "2019-06-22",
+        "2019-06-29",
+        "2019-07-01",
+        "2019-07-04"
+      ],
+      "value": {
+        "url": "/read/en/chris_gayle",
+        "label": "Chris Gayle, is a Jamaican cricketer who plays international cricket for the West Indies.",
+        "image": {
+          "altText": "Image for Chris Gayle",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Shoaib Malik",
+      "id": "shoaib_malik",
+      "dates": [
+        "2019-05-31",
+        "2019-06-07",
+        "2019-06-12",
+        "2019-06-23",
+        "2019-06-26",
+        "2019-06-29",
+        "2019-07-05"
+      ],
+      "value": {
+        "url": "/read/en/shoaib_malik",
+        "label": "Shoaib Malik is a Pakistani cricketer and former captain of the Pakistani side from 2007 to 2009. ",
+        "image": {
+          "altText": "Image for Shoaib Malik",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Kane Williamson",
+      "id": "kane_williamson",
+      "dates": [
+        "2019-06-01",
+        "2019-06-05",
+        "2019-06-08",
+        "2019-06-19",
+        "2019-06-22",
+        "2019-06-26"
+      ],
+      "value": {
+        "url": "/read/en/kane_williamson",
+        "label": "Kane Williamson is an international cricket player from New Zealand and also the current captain of the team.",
+        "image": {
+          "altText": "Image for Kane Williamson",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Lasith Malinga",
+      "id": "lasith_malinga",
+      "dates": [
+        "2019-06-01",
+        "2019-06-04",
+        "2019-06-07",
+        "2019-06-11",
+        "2019-06-15",
+        "2019-06-28",
+        "2019-07-01"
+      ],
+      "value": {
+        "url": "/read/en/lasith_malinga",
+        "label": "Separamadu Lasith Malinga is a professional Sri Lankan cricketer and current T20I captain for Sri Lanka.",
+        "image": {
+          "altText": "Image for Lasith Malinga",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "David Warner",
+      "id": "david_warner",
+      "dates": [
+        "2019-06-01",
+        "2019-06-06",
+        "2019-06-12",
+        "2019-06-15",
+        "2019-06-20",
+        "2019-06-29",
+        "2019-07-06"
+      ],
+      "value": {
+        "url": "/read/en/david_warner",
+        "label": "David Warner is an Australian international cricketer and a former captain of the Australian national team.",
+        "image": {
+          "altText": "Image for David Warner",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Rashid Khan",
+      "id": "rashid_khan",
+      "dates": [
+        "2019-06-01",
+        "2019-06-04",
+        "2019-06-08",
+        "2019-06-15",
+        "2019-06-24",
+        "2019-06-29",
+        "2019-07-04"
+      ],
+      "value": {
+        "url": "/read/en/rashid_khan",
+        "label": "Rashid Khan Arman, commonly known as Rashid Khan, is an Afghan cricketer and the current Twenty20 International (T20I) captain of the national team.",
+        "image": {
+          "altText": "Image for Rashid Khan",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Mushfiqur Rahim",
+      "id": "mushfiqur_rahim",
+      "dates": [
+        "2019-06-02",
+        "2019-06-05",
+        "2019-06-11",
+        "2019-06-17",
+        "2019-06-20",
+        "2019-06-24",
+        "2019-07-05"
+      ],
+      "value": {
+        "url": "/read/en/mushfiqur_rahim",
+        "label": "Mohammad Mushfiqur Rahim is a Bangladeshi cricketer and the former captain of the Bangladesh national cricket team. ",
+        "image": {
+          "altText": "Image for Mushfiqur Rahim",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
       "label": "Virat Kohli",
-      "id": "viratKohli",
-      "date": "2019-05-10",
+      "id": "virat_kohli",
+      "dates": [
+        "2019-06-05",
+        "2019-06-09",
+        "2019-06-13",
+        "2019-06-16",
+        "2019-06-22",
+        "2019-06-27",
+        "2019-06-30",
+        "2019-07-02",
+        "2019-07-06"
+      ],
       "value": {
-        "url": "/read/en/david_gower",
+        "url": "/read/en/virat_kohli",
+        "label": "Indian international cricketer who currently captains the India national team.",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/VIRAT_KHOLI_%2815573134623%29.jpg",
-          "altText": "Kohli looks upset"
-        }
-      }
-    }
-  ],
-  "constantFeaturedPlayers": [
-    {
-      "label": "Rahul Dravid",
-      "id": "rahulDravid",
-      "value": {
-        "url": "/read/en/Rahul_Dravid",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rahul_Dravid.jpg",
-          "altText": "A picture of Rahul Dravid sitting in front of a washbasin"
-        }
-      }
-    },
-    {
-      "label": "Microsoft Dhoni",
-      "id": "msDhoni",
-      "value": {
-        "url": "/read/en/MS_Dhoni",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Dhoni_at_Reebok_event.jpg",
-          "altText": "Dhoni is very bored"
+          "altText": "Image for Virat Kohli",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Sourav Ganguly",
-      "id": "souravGanguly",
+      "label": "Mahendra Singh Dhoni",
+      "id": "mahendra_singh_dhoni",
+      "dates": [
+        "2019-06-05",
+        "2019-06-09",
+        "2019-06-13",
+        "2019-06-16",
+        "2019-06-22",
+        "2019-06-27",
+        "2019-06-30",
+        "2019-07-02",
+        "2019-07-06"
+      ],
       "value": {
-        "url": "/read/en/Sourav_Ganguly",
+        "url": "/read/en/mahendra_singh_dhoni",
+        "label": "Mahendra Singh Dhoni is an Indian international cricketer who captained the Indian national team in limited-overs formats from 2007 to 2016 and in Test cricket from 2008 to 2014.",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sourav_Ganguly_crop.jpg",
-          "altText": "Young Sourav Ganguly looks at things"
+          "altText": "Image for Mahendra Singh Dhoni",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     }
   ],
+  "constantFeaturedPlayers": [],
   "allPlayers": [
     {
-      "label": "Rahul Dravid",
-      "id": "rahulDravid",
+      "label": "Ben Stokes",
+      "id": "ben_stokes",
       "value": {
-        "label": "A dog’s nose print is unique, much like a person’s fingerprint.",
-        "url": "/read/en/Rahul_Dravid",
+        "url": "/read/en/ben_stokes",
+        "label": "Ben Stokes is an English international cricketer and former vice-captain of the England Test team.",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rahul_Dravid.jpg",
-          "altText": "A picture of Rahul Dravid sitting in front of a washbasin"
+          "altText": "Image for Ben Stokes",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Microsoft Dhoni",
-      "id": "msDhoni",
+      "label": "Jos Buttler",
+      "id": "jos_buttler",
       "value": {
-        "label": "Dog eyes have a part called the tapetum lucidum, allowing night vision.",
-        "url": "/read/en/MS_Dhoni",
+        "url": "/read/en/jos_buttler",
+        "label": "Jos Buttler is an English international cricketer who is currently vice-captain of the England cricket team.",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Dhoni_at_Reebok_event.jpg",
-          "altText": "Dhoni is very bored"
+          "altText": "Image for Jos Buttler",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Kagiso Rabada",
+      "id": "kagiso_rabada",
+      "value": {
+        "url": "/read/en/kagiso_rabada",
+        "label": "Kagiso Rabada is a South African international cricketer who plays all formats of the game. Rabada, who is known by the nickname KG, is a fast bowler and plays domestic cricket for the Highveld Lions. ",
+        "image": {
+          "altText": "Image for Kagiso Rabada",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Chris Gayle",
+      "id": "chris_gayle",
+      "value": {
+        "url": "/read/en/chris_gayle",
+        "label": "Chris Gayle, is a Jamaican cricketer who plays international cricket for the West Indies.",
+        "image": {
+          "altText": "Image for Chris Gayle",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Shoaib Malik",
+      "id": "shoaib_malik",
+      "value": {
+        "url": "/read/en/shoaib_malik",
+        "label": "Shoaib Malik is a Pakistani cricketer and former captain of the Pakistani side from 2007 to 2009. ",
+        "image": {
+          "altText": "Image for Shoaib Malik",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Kane Williamson",
+      "id": "kane_williamson",
+      "value": {
+        "url": "/read/en/kane_williamson",
+        "label": "Kane Williamson is an international cricket player from New Zealand and also the current captain of the team.",
+        "image": {
+          "altText": "Image for Kane Williamson",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Lasith Malinga",
+      "id": "lasith_malinga",
+      "value": {
+        "url": "/read/en/lasith_malinga",
+        "label": "Separamadu Lasith Malinga is a professional Sri Lankan cricketer and current T20I captain for Sri Lanka.",
+        "image": {
+          "altText": "Image for Lasith Malinga",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "David Warner",
+      "id": "david_warner",
+      "value": {
+        "url": "/read/en/david_warner",
+        "label": "David Warner is an Australian international cricketer and a former captain of the Australian national team.",
+        "image": {
+          "altText": "Image for David Warner",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Rashid Khan",
+      "id": "rashid_khan",
+      "value": {
+        "url": "/read/en/rashid_khan",
+        "label": "Rashid Khan Arman, commonly known as Rashid Khan, is an Afghan cricketer and the current Twenty20 International (T20I) captain of the national team.",
+        "image": {
+          "altText": "Image for Rashid Khan",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    },
+    {
+      "label": "Mushfiqur Rahim",
+      "id": "mushfiqur_rahim",
+      "value": {
+        "url": "/read/en/mushfiqur_rahim",
+        "label": "Mohammad Mushfiqur Rahim is a Bangladeshi cricketer and the former captain of the Bangladesh national cricket team. ",
+        "image": {
+          "altText": "Image for Mushfiqur Rahim",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
       "label": "Virat Kohli",
-      "id": "viratKohli",
+      "id": "virat_kohli",
       "value": {
-        "label": "Human blood pressure goes down when petting a dog. And so does the dog’s.",
-        "url": "/read/en/Virat_Kohli",
+        "url": "/read/en/virat_kohli",
+        "label": "Indian international cricketer who currently captains the India national team.",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/VIRAT_KHOLI_%2815573134623%29.jpg",
-          "altText": "Kohli looks upset"
+          "altText": "Image for Virat Kohli",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     },
     {
-      "label": "Sourav Ganguly",
-      "id": "souravGanguly",
+      "label": "Mahendra Singh Dhoni",
+      "id": "mahendra_singh_dhoni",
       "value": {
-        "label": "Dogs are not colorblind. They also see blue and yellow.",
-        "url": "/read/en/Sourav_Ganguly",
+        "url": "/read/en/mahendra_singh_dhoni",
+        "label": "Mahendra Singh Dhoni is an Indian international cricketer who captained the Indian national team in limited-overs formats from 2007 to 2016 and in Test cricket from 2008 to 2014.",
         "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sourav_Ganguly_crop.jpg",
-          "altText": "Young Sourav Ganguly looks at things"
+          "altText": "Image for Mahendra Singh Dhoni",
+          "license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
         }
       }
     }
   ],
   "quizQuestions": [
     {
-      "label": "Which cricket team has won the most number of world cups?",
-      "id": "mostWorldCups",
-      "dates": ["2019-05-22"],
+      "label": "When was the first edition of cricket World Cup held?",
+      "id": "when_was_the_first_edition_of_cricket_world_cup_held?",
+      "dates": [
+        "2019-06-24"
+      ],
+      "options": [
+        {
+          "label": "1975"
+        },
+        {
+          "label": "1973"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "Which country hosted the first Men's cricket World Cup?",
+      "id": "which_country_hosted_the_first_men's_cricket_world_cup?",
+      "dates": [
+        "2019-07-03"
+      ],
+      "options": [
+        {
+          "label": "England"
+        },
+        {
+          "label": "West Indies"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "England",
+        "value": {
+          "label": "England is a country that is part of the United Kingdom. It shares land borders with Wales to the west and Scotland to the north-northwest.",
+          "url": "/read/en/england",
+          "image": {
+            "altText": "Image for England",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Who won the first men's cricket World Cup?",
+      "id": "who_won_the_first_men's_cricket_world_cup?",
+      "dates": [],
+      "options": [
+        {
+          "label": "Australia"
+        },
+        {
+          "label": "West Indies"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": {
+        "label": "West Indies cricket team",
+        "value": {
+          "label": "The West Indies cricket team, traditionally known as the Windies, is a multi-national cricket team representing the Anglophone Caribbean region and administered by Cricket West Indies. The players on this composite team are selected from a chain of fifteen Caribbean territories",
+          "url": "/read/en/west_indies_cricket_team",
+          "image": {
+            "altText": "Image for West Indies cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "What was the 1975 World Cup officially called?",
+      "id": "what_was_the_1975_world_cup_officially_called?",
+      "dates": [
+        "2019-06-03"
+      ],
+      "options": [
+        {
+          "label": "Prudential World Cup"
+        },
+        {
+          "label": "ICC World Cup"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "How many ODI matches had been played before the first cricket World Cup?",
+      "id": "how_many_odi_matches_had_been_played_before_the_first_cricket_world_cup?",
+      "dates": [
+        "2019-06-22",
+        "2019-07-05"
+      ],
+      "options": [
+        {
+          "label": "18"
+        },
+        {
+          "label": "25"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "Which of these teams participated in the 1975 cricket World Cup?",
+      "id": "which_of_these_teams_participated_in_the_1975_cricket_world_cup?",
+      "dates": [
+        "2019-06-10"
+      ],
+      "options": [
+        {
+          "label": "East Africa "
+        },
+        {
+          "label": "South Africa"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "South Africa national cricket team",
+        "value": {
+          "label": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
+          "url": "/read/en/south_africa_national_cricket_team",
+          "image": {
+            "altText": "Image for South Africa national cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Who scored the most number of runs in the 1975 Cricket World Cup?",
+      "id": "who_scored_the_most_number_of_runs_in_the_1975_cricket_world_cup?",
+      "dates": [
+        "2019-06-17"
+      ],
+      "options": [
+        {
+          "label": "Clive Lloyd"
+        },
+        {
+          "label": "Glenn Turner"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": {
+        "label": "West Indies cricket team",
+        "value": {
+          "label": "The West Indies cricket team, traditionally known as the Windies, is a multi-national cricket team representing the Anglophone Caribbean region and administered by Cricket West Indies. The players on this composite team are selected from a chain of fifteen Caribbean territories",
+          "url": "/read/en/west_indies_cricket_team",
+          "image": {
+            "altText": "Image for West Indies cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Which teams played the first match of the first cricket World Cup?",
+      "id": "which_teams_played_the_first_match_of_the_first_cricket_world_cup?",
+      "dates": [],
+      "options": [
+        {
+          "label": "India & England"
+        },
+        {
+          "label": "England & West Indies"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "India national cricket team",
+        "value": {
+          "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+          "url": "/read/en/india_national_cricket_team",
+          "image": {
+            "altText": "Image for India national cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "In the opening match against England, how many balls did Sunil Gavaskar score 36 runs off of?",
+      "id": "in_the_opening_match_against_england,_how_many_balls_did_sunil_gavaskar_score_36_runs_off_of?",
+      "dates": [
+        "2019-07-03"
+      ],
+      "options": [
+        {
+          "label": "174"
+        },
+        {
+          "label": "224"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "India national cricket team",
+        "value": {
+          "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+          "url": "/read/en/india_national_cricket_team",
+          "image": {
+            "altText": "Image for India national cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "How many matches were played in the inaugral World Cup held in 1975?",
+      "id": "how_many_matches_were_played_in_the_inaugral_world_cup_held_in_1975?",
+      "dates": [],
+      "options": [
+        {
+          "label": "15"
+        },
+        {
+          "label": "19"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "Which country hosted the 1979 World Cup?",
+      "id": "which_country_hosted_the_1979_world_cup?",
+      "dates": [
+        "2019-06-22",
+        "2019-06-28",
+        "2019-07-04"
+      ],
+      "options": [
+        {
+          "label": "England"
+        },
+        {
+          "label": "West Indies"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "England",
+        "value": {
+          "label": "England is a country that is part of the United Kingdom. It shares land borders with Wales to the west and Scotland to the north-northwest.",
+          "url": "/read/en/england",
+          "image": {
+            "altText": "Image for England",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Which are the two teams that qualified for the 1979 cricket World Cup without a test status?",
+      "id": "which_are_the_two_teams_that_qualified_for_the_1979_cricket_world_cup_without_a_test_status?",
+      "dates": [
+        "2019-06-15"
+      ],
+      "options": [
+        {
+          "label": "Sri Lanka, Canada"
+        },
+        {
+          "label": "Canada, East Africa"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "Sri Lanka national cricket team",
+        "value": {
+          "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
+          "url": "/read/en/sri_lanka_national_cricket_team",
+          "image": {
+            "altText": "Image for Sri Lanka national cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Who won the cricket World Cup in 1979?",
+      "id": "who_won_the_cricket_world_cup_in_1979?",
+      "dates": [],
+      "options": [
+        {
+          "label": "England"
+        },
+        {
+          "label": "West Indies"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": {
+        "label": "West Indies cricket team",
+        "value": {
+          "label": "The West Indies cricket team, traditionally known as the Windies, is a multi-national cricket team representing the Anglophone Caribbean region and administered by Cricket West Indies. The players on this composite team are selected from a chain of fifteen Caribbean territories",
+          "url": "/read/en/west_indies_cricket_team",
+          "image": {
+            "altText": "Image for West Indies cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Who scored the most runs in the 1979 Cricket World Cup?",
+      "id": "who_scored_the_most_runs_in_the_1979_cricket_world_cup?",
+      "dates": [
+        "2019-06-14"
+      ],
+      "options": [
+        {
+          "label": "Clive Lloyd"
+        },
+        {
+          "label": "Gordon Greenidge"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": {
+        "label": "West Indies cricket team",
+        "value": {
+          "label": "The West Indies cricket team, traditionally known as the Windies, is a multi-national cricket team representing the Anglophone Caribbean region and administered by Cricket West Indies. The players on this composite team are selected from a chain of fifteen Caribbean territories",
+          "url": "/read/en/west_indies_cricket_team",
+          "image": {
+            "altText": "Image for West Indies cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Which country hosted the 1983 Men's cricket World Cup?",
+      "id": "which_country_hosted_the_1983_men's_cricket_world_cup?",
+      "dates": [
+        "2019-06-14"
+      ],
+      "options": [
+        {
+          "label": "England"
+        },
+        {
+          "label": "West Indies"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "England",
+        "value": {
+          "label": "England is a country that is part of the United Kingdom. It shares land borders with Wales to the west and Scotland to the north-northwest.",
+          "url": "/read/en/england",
+          "image": {
+            "altText": "Image for England",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Which country did India defeat in the 1983 cricket World Cup final?",
+      "id": "which_country_did_india_defeat_in_the_1983_cricket_world_cup_final?",
+      "dates": [],
+      "options": [
+        {
+          "label": "Australia"
+        },
+        {
+          "label": "West Indies"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": {
+        "label": "West Indies cricket team",
+        "value": {
+          "label": "The West Indies cricket team, traditionally known as the Windies, is a multi-national cricket team representing the Anglophone Caribbean region and administered by Cricket West Indies. The players on this composite team are selected from a chain of fifteen Caribbean territories",
+          "url": "/read/en/west_indies_cricket_team",
+          "image": {
+            "altText": "Image for West Indies cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Who won the 'Man of the Match' during the 1983 World Cup final?",
+      "id": "who_won_the_'man_of_the_match'_during_the_1983_world_cup_final?",
+      "dates": [
+        "2019-06-05",
+        "2019-06-13"
+      ],
+      "options": [
+        {
+          "label": "Mohinder Amarnath"
+        },
+        {
+          "label": "Kapil Dev"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "India national cricket team",
+        "value": {
+          "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+          "url": "/read/en/india_national_cricket_team",
+          "image": {
+            "altText": "Image for India national cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "How many runs did India score in the 1983 World Cup finals against West Indies?",
+      "id": "how_many_runs_did_india_score_in_the_1983_world_cup_finals_against_west_indies?",
+      "dates": [
+        "2019-06-13"
+      ],
+      "options": [
+        {
+          "label": "187"
+        },
+        {
+          "label": "183"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": {
+        "label": "India national cricket team",
+        "value": {
+          "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+          "url": "/read/en/india_national_cricket_team",
+          "image": {
+            "altText": "Image for India national cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "How many matches were played in the 1983 cricket World Cup?",
+      "id": "how_many_matches_were_played_in_the_1983_cricket_world_cup?",
+      "dates": [
+        "2019-06-07"
+      ],
+      "options": [
+        {
+          "label": "15"
+        },
+        {
+          "label": "19"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": {
+        "label": "1983 Cricket World Cup",
+        "value": {
+          "label": "The 1983 Cricket World Cup (officially the Prudential Cup '83) was the 3rd edition of the Cricket World Cup tournament. It was held from 9 June to 25 June 1983 in England and Wales and was won by India.",
+          "url": "/read/en/1983_cricket_world_cup",
+          "image": {
+            "altText": "Image for 1983 Cricket World Cup",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "During the 1989 World Cup, how many overs were there in an inning?",
+      "id": "during_the_1989_world_cup,_how_many_overs_were_there_in_an_inning?",
+      "dates": [
+        "2019-06-15"
+      ],
+      "options": [
+        {
+          "label": "60"
+        },
+        {
+          "label": "50"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": null
+    },
+    {
+      "label": "Where was the final match of the 1987 World Cup held?",
+      "id": "where_was_the_final_match_of_the_1987_world_cup_held?",
+      "dates": [],
+      "options": [
+        {
+          "label": "Feroz shah kotla Delhi"
+        },
+        {
+          "label": "Eden gardens Kolkatta"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": {
+        "label": "India",
+        "value": {
+          "label": "India, also known as the Republic of India is a country in South Asia. It is the seventh largest country by area with more than 1.3 billion people. It is the second most populous country as well as the most populous democracy in the world.",
+          "url": "/read/en/india",
+          "image": {
+            "altText": "Image for India",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Who won the 1987 cricket World Cup?",
+      "id": "who_won_the_1987_cricket_world_cup?",
+      "dates": [
+        "2019-06-20",
+        "2019-07-06"
+      ],
+      "options": [
+        {
+          "label": "Australia"
+        },
+        {
+          "label": "Pakistan"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "Australia Cricket team",
+        "value": {
+          "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+          "url": "/read/en/australia_cricket_team",
+          "image": {
+            "altText": "Image for Australia Cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "In 1992, who took the first hat-trick in recorded history of the cricket World Cup?",
+      "id": "in_1992,_who_took_the_first_hat-trick_in_recorded_history_of_the_cricket_world_cup?",
+      "dates": [
+        "2019-06-09",
+        "2019-07-06"
+      ],
+      "options": [
+        {
+          "label": "Chetan Sharma"
+        },
+        {
+          "label": "Madan Lal"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "India national cricket team",
+        "value": {
+          "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+          "url": "/read/en/india_national_cricket_team",
+          "image": {
+            "altText": "Image for India national cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "During which World Cup was colored clothing first introduced?",
+      "id": "during_which_world_cup_was_colored_clothing_first_introduced?",
+      "dates": [
+        "2019-06-04"
+      ],
+      "options": [
+        {
+          "label": "1992"
+        },
+        {
+          "label": "1996"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "Who won the 1992 cricket World Cup?",
+      "id": "who_won_the_1992_cricket_world_cup?",
+      "dates": [
+        "2019-06-26",
+        "2019-06-29",
+        "2019-07-05"
+      ],
+      "options": [
+        {
+          "label": "Pakistan"
+        },
+        {
+          "label": "New Zealand"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "Pakistan national cricket team",
+        "value": {
+          "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
+          "url": "/read/en/pakistan_national_cricket_team",
+          "image": {
+            "altText": "Image for Pakistan national cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Which country played its debut World Cup in 1992?",
+      "id": "which_country_played_its_debut_world_cup_in_1992?",
+      "dates": [
+        "2019-05-30",
+        "2019-06-05"
+      ],
+      "options": [
+        {
+          "label": "Sri Lanka"
+        },
+        {
+          "label": "South Africa"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": {
+        "label": "South Africa national cricket team",
+        "value": {
+          "label": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
+          "url": "/read/en/south_africa_national_cricket_team",
+          "image": {
+            "altText": "Image for South Africa national cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Which team had to score 22 runs off of 1 ball in the semi-final after a delayed match due to rain during the 1992 World Cup?",
+      "id": "which_team_had_to_score_22_runs_off_of_1_ball_in_the_semi-final_after_a_delayed_match_due_to_rain_during_the_1992_world_cup?",
+      "dates": [
+        "2019-06-23"
+      ],
+      "options": [
+        {
+          "label": "South Africa"
+        },
+        {
+          "label": "England"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "South Africa national cricket team",
+        "value": {
+          "label": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
+          "url": "/read/en/south_africa_national_cricket_team",
+          "image": {
+            "altText": "Image for South Africa national cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Which country hosted the 1992 cricket World Cup?",
+      "id": "which_country_hosted_the_1992_cricket_world_cup?",
+      "dates": [
+        "2019-06-05",
+        "2019-06-16"
+      ],
+      "options": [
+        {
+          "label": "Australia , New Zealand"
+        },
+        {
+          "label": "India, Pakistan"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "Australia",
+        "value": {
+          "label": "Australia, officially the Commonwealth of Australia, is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands.",
+          "url": "/read/en/australia",
+          "image": {
+            "altText": "Image for Australia",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "What is special about the final match of the 1992 World Cup?",
+      "id": "what_is_special_about_the_final_match_of_the_1992_world_cup?",
+      "dates": [],
+      "options": [
+        {
+          "label": "The first WC final to be played under lights"
+        },
+        {
+          "label": "The first WC final where the team batting first won"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "What method was used to dry the ground after rain during the match between India and Srilanka in 1992?",
+      "id": "what_method_was_used_to_dry_the_ground_after_rain_during_the_match_between_india_and_srilanka_in_1992?",
+      "dates": [
+        "2019-06-01",
+        "2019-07-06"
+      ],
+      "options": [
+        {
+          "label": "A Super Sopper machine"
+        },
+        {
+          "label": "A helicopter"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": null
+    },
+    {
+      "label": "What was the batting technique introduced by New Zealand in the 1992 World Cup?",
+      "id": "what_was_the_batting_technique_introduced_by_new_zealand_in_the_1992_world_cup?",
+      "dates": [
+        "2019-06-22",
+        "2019-06-26",
+        "2019-06-29"
+      ],
+      "options": [
+        {
+          "label": "Pinch hitting"
+        },
+        {
+          "label": "Reverse Sweep"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "New Zealand national cricket team",
+        "value": {
+          "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
+          "url": "/read/en/new_zealand_national_cricket_team",
+          "image": {
+            "altText": "Image for New Zealand national cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "How else is the 1996 World Cup referred to?",
+      "id": "how_else_is_the_1996_world_cup_referred_to?",
+      "dates": [
+        "2019-06-08"
+      ],
+      "options": [
+        {
+          "label": "The Wills World Cup"
+        },
+        {
+          "label": "The Reliance World Cup"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "1996 Cricket World Cup",
+        "value": {
+          "label": "The 1996 Cricket World Cup, also called the Wills World Cup 1996 after its official sponsors, ITC's Wills brand, was the sixth Cricket World Cup. It was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka.",
+          "url": "/read/en/1996_cricket_world_cup",
+          "image": {
+            "altText": "Image for 1996 Cricket World Cup",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "In 1996, Sri Lanka played against India and won the semi-finals by default. Why?",
+      "id": "in_1996,_sri_lanka_played_against_india_and_won_the_semi-finals_by_default._why?",
+      "dates": [
+        "2019-06-07"
+      ],
+      "options": [
+        {
+          "label": "Rain interruption"
+        },
+        {
+          "label": "Crowd Interuption"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": {
+        "label": "1996 Cricket World Cup",
+        "value": {
+          "label": "The 1996 Cricket World Cup, also called the Wills World Cup 1996 after its official sponsors, ITC's Wills brand, was the sixth Cricket World Cup. It was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka.",
+          "url": "/read/en/1996_cricket_world_cup",
+          "image": {
+            "altText": "Image for 1996 Cricket World Cup",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "In the 1996 World Cup, who was the highest scorer?",
+      "id": "in_the_1996_world_cup,_who_was_the_highest_scorer?",
+      "dates": [
+        "2019-06-22"
+      ],
+      "options": [
+        {
+          "label": "Sachin tendulkar"
+        },
+        {
+          "label": "Aravinda Desilva"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "Sachin Tendulkar",
+        "value": {
+          "label": "Sachin Tendulkar is a former Indian international cricketer, regarded as one of the greatest batsmen of all time. He is the highest run scorer of all time in International cricket. ",
+          "url": "/read/en/sachin_tendulkar",
+          "image": {
+            "altText": "Image for Sachin Tendulkar",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Who won the cricket World Cup in1996 ?",
+      "id": "who_won_the_cricket_world_cup_in1996_?",
+      "dates": [
+        "2019-06-03",
+        "2019-06-04",
+        "2019-06-21"
+      ],
+      "options": [
+        {
+          "label": "Srilanka"
+        },
+        {
+          "label": "Australia"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "Sri Lanka national cricket team",
+        "value": {
+          "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
+          "url": "/read/en/sri_lanka_national_cricket_team",
+          "image": {
+            "altText": "Image for Sri Lanka national cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "How many matches were played in the 1996 cricket World Cup?",
+      "id": "how_many_matches_were_played_in_the_1996_cricket_world_cup?",
+      "dates": [],
+      "options": [
+        {
+          "label": "37"
+        },
+        {
+          "label": "26"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "1996 Cricket World Cup",
+        "value": {
+          "label": "The 1996 Cricket World Cup, also called the Wills World Cup 1996 after its official sponsors, ITC's Wills brand, was the sixth Cricket World Cup. It was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka.",
+          "url": "/read/en/1996_cricket_world_cup",
+          "image": {
+            "altText": "Image for 1996 Cricket World Cup",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Which country hosted the 1999 cricket World Cup?",
+      "id": "which_country_hosted_the_1999_cricket_world_cup?",
+      "dates": [
+        "2019-05-30"
+      ],
+      "options": [
+        {
+          "label": "England"
+        },
+        {
+          "label": "India"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "England",
+        "value": {
+          "label": "England is a country that is part of the United Kingdom. It shares land borders with Wales to the west and Scotland to the north-northwest.",
+          "url": "/read/en/england",
+          "image": {
+            "altText": "Image for England",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": " Who was the 'Man of the Series' for the 1999 World Cup?",
+      "id": "_who_was_the_'man_of_the_series'_for_the_1999_world_cup?",
+      "dates": [
+        "2019-06-11",
+        "2019-06-30"
+      ],
+      "options": [
+        {
+          "label": "Lance Klusner"
+        },
+        {
+          "label": "Sachin Tendulkar"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "1999 Cricket World Cup",
+        "value": {
+          "label": "The 1999 Cricket World Cup was the seventh edition of the Cricket World Cup, organised by the International Cricket Council (ICC). It was hosted primarily by England, with some games being played in Scotland, Ireland, Wales and the Netherlands.",
+          "url": "/read/en/1999_cricket_world_cup",
+          "image": {
+            "altText": "Image for 1999 Cricket World Cup",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "What new type of cricket ball was introduced during the 1999 cricket World Cup?",
+      "id": "what_new_type_of_cricket_ball_was_introduced_during_the_1999_cricket_world_cup?",
+      "dates": [
+        "2019-07-01"
+      ],
+      "options": [
+        {
+          "label": "Duke ball"
+        },
+        {
+          "label": "Kokkaburra ball"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "1999 Cricket World Cup",
+        "value": {
+          "label": "The 1999 Cricket World Cup was the seventh edition of the Cricket World Cup, organised by the International Cricket Council (ICC). It was hosted primarily by England, with some games being played in Scotland, Ireland, Wales and the Netherlands.",
+          "url": "/read/en/1999_cricket_world_cup",
+          "image": {
+            "altText": "Image for 1999 Cricket World Cup",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Who won the World Cup in 1999?",
+      "id": "who_won_the_world_cup_in_1999?",
+      "dates": [
+        "2019-07-06"
+      ],
+      "options": [
+        {
+          "label": "Australia"
+        },
+        {
+          "label": "South Africa"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "Australia Cricket team",
+        "value": {
+          "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+          "url": "/read/en/australia_cricket_team",
+          "image": {
+            "altText": "Image for Australia Cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Which country was a co-host for the 1999 cricket World Cup?",
+      "id": "which_country_was_a_co-host_for_the_1999_cricket_world_cup?",
+      "dates": [
+        "2019-06-06"
+      ],
+      "options": [
+        {
+          "label": "Netherlands"
+        },
+        {
+          "label": "West Indies"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "1999 Cricket World Cup",
+        "value": {
+          "label": "The 1999 Cricket World Cup was the seventh edition of the Cricket World Cup, organised by the International Cricket Council (ICC). It was hosted primarily by England, with some games being played in Scotland, Ireland, Wales and the Netherlands.",
+          "url": "/read/en/1999_cricket_world_cup",
+          "image": {
+            "altText": "Image for 1999 Cricket World Cup",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Who scored the maximum runs in the 1999 cricket World Cup?",
+      "id": "who_scored_the_maximum_runs_in_the_1999_cricket_world_cup?",
+      "dates": [
+        "2019-06-02",
+        "2019-06-29"
+      ],
+      "options": [
+        {
+          "label": "Rahul Dravid"
+        },
+        {
+          "label": "Sourav Ganguly"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "Rahul Dravid",
+        "value": {
+          "label": "Rahul Dravid is a former Indian cricketer and captain, widely regarded as one of the greatest batsmen in the history of cricket.",
+          "url": "/read/en/rahul_dravid",
+          "image": {
+            "altText": "Image for Rahul Dravid",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Why was the 2003 World Cup unique?",
+      "id": "why_was_the_2003_world_cup_unique?",
+      "dates": [
+        "2019-06-11"
+      ],
+      "options": [
+        {
+          "label": "First WC in Africa"
+        },
+        {
+          "label": "First WC with more than 8 teams"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "2003 Cricket World Cup",
+        "value": {
+          "label": "The 2003 Cricket World Cup was the eighth Cricket World Cup, organized by the International Cricket Council (ICC). It was co-hosted by South Africa, Zimbabwe and Kenya.",
+          "url": "/read/en/2003_cricket_world_cup",
+          "image": {
+            "altText": "Image for 2003 Cricket World Cup",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Which non test-playing nation reached the semi-finals of cricket World Cup in 2003, the only country to ever do so?",
+      "id": "which_non_test-playing_nation_reached_the_semi-finals_of_cricket_world_cup_in_2003,_the_only_country_to_ever_do_so?",
+      "dates": [
+        "2019-06-23"
+      ],
+      "options": [
+        {
+          "label": "Kenya"
+        },
+        {
+          "label": "Zimbabwe"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "2003 Cricket World Cup",
+        "value": {
+          "label": "The 2003 Cricket World Cup was the eighth Cricket World Cup, organized by the International Cricket Council (ICC). It was co-hosted by South Africa, Zimbabwe and Kenya.",
+          "url": "/read/en/2003_cricket_world_cup",
+          "image": {
+            "altText": "Image for 2003 Cricket World Cup",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Who was named the 'Man of the Series' and 'Highest Scorer' for the 2003 cricket World Cup?",
+      "id": "who_was_named_the_'man_of_the_series'_and_'highest_scorer'_for_the_2003_cricket_world_cup?",
+      "dates": [
+        "2019-06-01"
+      ],
+      "options": [
+        {
+          "label": "Sachin Tendulkar"
+        },
+        {
+          "label": "Steve Waugh"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "Sachin Tendulkar",
+        "value": {
+          "label": "Sachin Tendulkar is a former Indian international cricketer, regarded as one of the greatest batsmen of all time. He is the highest run scorer of all time in International cricket. ",
+          "url": "/read/en/sachin_tendulkar",
+          "image": {
+            "altText": "Image for Sachin Tendulkar",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "What method was introduced to calculate the required score after rain delayf during the 2003 World Cup?",
+      "id": "what_method_was_introduced_to_calculate_the_required_score_after_rain_delayf_during_the_2003_world_cup?",
+      "dates": [
+        "2019-06-28"
+      ],
+      "options": [
+        {
+          "label": "Duckworth lewis method"
+        },
+        {
+          "label": "Most Productive overs method"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "2003 Cricket World Cup",
+        "value": {
+          "label": "The 2003 Cricket World Cup was the eighth Cricket World Cup, organized by the International Cricket Council (ICC). It was co-hosted by South Africa, Zimbabwe and Kenya.",
+          "url": "/read/en/2003_cricket_world_cup",
+          "image": {
+            "altText": "Image for 2003 Cricket World Cup",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "How many runs did Australia score in the finals against India in the 2003 World Cup?",
+      "id": "how_many_runs_did_australia_score_in_the_finals_against_india_in_the_2003_world_cup?",
+      "dates": [
+        "2019-06-09"
+      ],
+      "options": [
+        {
+          "label": "359"
+        },
+        {
+          "label": "327"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "India national cricket team",
+        "value": {
+          "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+          "url": "/read/en/india_national_cricket_team",
+          "image": {
+            "altText": "Image for India national cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Where was the 2007 cricket World Cup held?",
+      "id": "where_was_the_2007_cricket_world_cup_held?",
+      "dates": [],
+      "options": [
+        {
+          "label": "West indies"
+        },
+        {
+          "label": "South Africa"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "2007 Cricket World Cup",
+        "value": {
+          "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
+          "url": "/read/en/2007_cricket_world_cup",
+          "image": {
+            "altText": "Image for 2007 Cricket World Cup",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Who won the 'Man of the Series' at the 2007 cricket World Cup?",
+      "id": "who_won_the_'man_of_the_series'_at_the_2007_cricket_world_cup?",
+      "dates": [
+        "2019-06-20",
+        "2019-06-29"
+      ],
+      "options": [
+        {
+          "label": "Glen Mcgrath"
+        },
+        {
+          "label": "Adam Gilchrist"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "2007 Cricket World Cup",
+        "value": {
+          "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
+          "url": "/read/en/2007_cricket_world_cup",
+          "image": {
+            "altText": "Image for 2007 Cricket World Cup",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "At which stage did India fail to qualify at the 2007 cricket World Cup?",
+      "id": "at_which_stage_did_india_fail_to_qualify_at_the_2007_cricket_world_cup?",
+      "dates": [
+        "2019-06-25",
+        "2019-07-04"
+      ],
+      "options": [
+        {
+          "label": "Group stage"
+        },
+        {
+          "label": "Quarter finals"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "India national cricket team",
+        "value": {
+          "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+          "url": "/read/en/india_national_cricket_team",
+          "image": {
+            "altText": "Image for India national cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Who was the official ambassador for the 2011 cricket World Cup?",
+      "id": "who_was_the_official_ambassador_for_the_2011_cricket_world_cup?",
+      "dates": [],
+      "options": [
+        {
+          "label": "Sachin Tendulkar"
+        },
+        {
+          "label": "M.S Dhoni"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "Sachin Tendulkar",
+        "value": {
+          "label": "Sachin Tendulkar is a former Indian international cricketer, regarded as one of the greatest batsmen of all time. He is the highest run scorer of all time in International cricket. ",
+          "url": "/read/en/sachin_tendulkar",
+          "image": {
+            "altText": "Image for Sachin Tendulkar",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Who won the 2011 cricket World Cup?",
+      "id": "who_won_the_2011_cricket_world_cup?",
+      "dates": [
+        "2019-06-15"
+      ],
+      "options": [
+        {
+          "label": "India"
+        },
+        {
+          "label": "Australia"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "India national cricket team",
+        "value": {
+          "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+          "url": "/read/en/india_national_cricket_team",
+          "image": {
+            "altText": "Image for India national cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Who won the 'Player of the Series' for the 2011 cricket World Cup?",
+      "id": "who_won_the_'player_of_the_series'_for_the_2011_cricket_world_cup?",
+      "dates": [],
+      "options": [
+        {
+          "label": "Yuvraj Singh"
+        },
+        {
+          "label": "Gautam Gambhir"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "2011 Cricket World Cup",
+        "value": {
+          "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
+          "url": "/read/en/2011_cricket_world_cup",
+          "image": {
+            "altText": "Image for 2011 Cricket World Cup",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "The 2011 World Cup witnessed the highest number of viewers across the world. How many viewers was it?",
+      "id": "the_2011_world_cup_witnessed_the_highest_number_of_viewers_across_the_world._how_many_viewers_was_it?",
+      "dates": [
+        "2019-06-05",
+        "2019-06-18"
+      ],
+      "options": [
+        {
+          "label": "2.2 Billion"
+        },
+        {
+          "label": "2.8 Billion"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "2011 Cricket World Cup",
+        "value": {
+          "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
+          "url": "/read/en/2011_cricket_world_cup",
+          "image": {
+            "altText": "Image for 2011 Cricket World Cup",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "During the World Cup final in 2011, what score did India have to chase?",
+      "id": "during_the_world_cup_final_in_2011,_what_score_did_india_have_to_chase?",
+      "dates": [
+        "2019-06-08"
+      ],
+      "options": [
+        {
+          "label": "274"
+        },
+        {
+          "label": "277"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "India national cricket team",
+        "value": {
+          "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+          "url": "/read/en/india_national_cricket_team",
+          "image": {
+            "altText": "Image for India national cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Where was the 2015 cricket World Cup held?",
+      "id": "where_was_the_2015_cricket_world_cup_held?",
+      "dates": [
+        "2019-07-01"
+      ],
+      "options": [
+        {
+          "label": "Australia , New Zealand"
+        },
+        {
+          "label": "England"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "2015 Cricket World Cup",
+        "value": {
+          "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
+          "url": "/read/en/2015_cricket_world_cup",
+          "image": {
+            "altText": "Image for 2015 Cricket World Cup",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "How many World Cups has Australia won so far?",
+      "id": "how_many_world_cups_has_australia_won_so_far?",
+      "dates": [
+        "2019-06-12"
+      ],
+      "options": [
+        {
+          "label": "5"
+        },
+        {
+          "label": "4"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "Australia Cricket team",
+        "value": {
+          "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+          "url": "/read/en/australia_cricket_team",
+          "image": {
+            "altText": "Image for Australia Cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Who won the 'Player of the Series' in the 2015 cricket World Cup?",
+      "id": "who_won_the_'player_of_the_series'_in_the_2015_cricket_world_cup?",
+      "dates": [
+        "2019-06-25"
+      ],
+      "options": [
+        {
+          "label": "Mitchell Starc"
+        },
+        {
+          "label": "Virat Kohli"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "2015 Cricket World Cup",
+        "value": {
+          "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
+          "url": "/read/en/2015_cricket_world_cup",
+          "image": {
+            "altText": "Image for 2015 Cricket World Cup",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Who did Australia play against in the final match of the 2015 cricket World Cup?",
+      "id": "who_did_australia_play_against_in_the_final_match_of_the_2015_cricket_world_cup?",
+      "dates": [
+        "2019-06-01",
+        "2019-06-15"
+      ],
+      "options": [
+        {
+          "label": "New Zealand"
+        },
+        {
+          "label": "Sri Lanka"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "New Zealand national cricket team",
+        "value": {
+          "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
+          "url": "/read/en/new_zealand_national_cricket_team",
+          "image": {
+            "altText": "Image for New Zealand national cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Which country will host the 2019 World Cup?",
+      "id": "which_country_will_host_the_2019_world_cup?",
+      "dates": [
+        "2019-05-31",
+        "2019-06-02",
+        "2019-06-21"
+      ],
+      "options": [
+        {
+          "label": "England"
+        },
+        {
+          "label": "SouthAfrica"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "England",
+        "value": {
+          "label": "England is a country that is part of the United Kingdom. It shares land borders with Wales to the west and Scotland to the north-northwest.",
+          "url": "/read/en/england",
+          "image": {
+            "altText": "Image for England",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Who has scored the maximum runs in a World Cup tournament?",
+      "id": "who_has_scored_the_maximum_runs_in_a_world_cup_tournament?",
+      "dates": [
+        "2019-06-08",
+        "2019-06-27"
+      ],
+      "options": [
+        {
+          "label": "Sachin Tendulkar"
+        },
+        {
+          "label": "Ricky Ponting"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "Sachin Tendulkar",
+        "value": {
+          "label": "Sachin Tendulkar is a former Indian international cricketer, regarded as one of the greatest batsmen of all time. He is the highest run scorer of all time in International cricket. ",
+          "url": "/read/en/sachin_tendulkar",
+          "image": {
+            "altText": "Image for Sachin Tendulkar",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Who has taken the most number of wickets in a World Cup tournament?",
+      "id": "who_has_taken_the_most_number_of_wickets_in_a_world_cup_tournament?",
+      "dates": [
+        "2019-06-12"
+      ],
+      "options": [
+        {
+          "label": "Glenn Mcgrath"
+        },
+        {
+          "label": "Waqar Younis"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "Australia Cricket team",
+        "value": {
+          "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+          "url": "/read/en/australia_cricket_team",
+          "image": {
+            "altText": "Image for Australia Cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Which team has won the highest number of World Cups?",
+      "id": "which_team_has_won_the_highest_number_of_world_cups?",
+      "dates": [
+        "2019-06-01"
+      ],
       "options": [
         {
           "label": "Australia"
@@ -751,13 +3789,12 @@
       ],
       "answerIndex": 0,
       "relatedArticle": {
-        "label": "Australia Cricket Team",
+        "label": "Australia Cricket team",
         "value": {
           "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
-          "url": "http://foobar2000.com",
+          "url": "/read/en/australia_cricket_team",
           "image": {
-            "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/The_Australian_Cricket_Team_of_1884.jpg",
-            "altText": "Look at these dapper men.",
+            "altText": "Image for Australia Cricket team",
             "license": "Creative Commons Attribution-Share Alike 4.0 International",
             "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
           }
@@ -765,31 +3802,416 @@
       }
     },
     {
-      "label": "How many matches were played in the inaugural World Cup held in 1975?",
-      "id": "firstEverWorldCup",
-      "dates": ["2019-05-22"],
+      "label": "Who is the first non-Australian captain to have won 100 ODI Matches?",
+      "id": "who_is_the_first_non-australian_captain_to_have_won_100_odi_matches?",
+      "dates": [
+        "2019-06-16"
+      ],
       "options": [
         {
-          "label": "19"
+          "label": "M.S Dhoni"
         },
         {
-          "label": "15"
+          "label": "Graeme Smith"
         }
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "relatedArticle": {
-        "label": "1975 Cricket World Cup",
+        "label": "Mahendra Singh Dhoni",
         "value": {
-          "label": "The 1975 Cricket World Cup was the first edition of the Cricket World Cup, organised by the International Cricket Conference.",
-          "url": "http://foobar2000.com",
+          "label": "Mahendra Singh Dhoni is an Indian international cricketer who captained the Indian national team in limited-overs formats from 2007 to 2016 and in Test cricket from 2008 to 2014.",
+          "url": "/read/en/mahendra_singh_dhoni",
           "image": {
-            "url": "https://upload.wikimedia.org/wikipedia/en/3/35/Prudential_Cup_75_logo.svg",
-            "altText": "Made this in 10 minutes.",
+            "altText": "Image for Mahendra Singh Dhoni",
             "license": "Creative Commons Attribution-Share Alike 4.0 International",
             "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
           }
         }
       }
+    },
+    {
+      "label": "Who was the first Indian batsman to score a century at a World Cup debut?",
+      "id": "who_was_the_first_indian_batsman_to_score_a_century_at_a_world_cup_debut?",
+      "dates": [],
+      "options": [
+        {
+          "label": "Sachin Tendulkar"
+        },
+        {
+          "label": "Virat Kohli"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": {
+        "label": "Virat Kohli",
+        "value": {
+          "label": "Indian international cricketer who currently captains the India national team.",
+          "url": "/read/en/virat_kohli",
+          "image": {
+            "altText": "Image for Virat Kohli",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Who scored the maximum number of sixes in 2018?",
+      "id": "who_scored_the_maximum_number_of_sixes_in_2018?",
+      "dates": [
+        "2019-07-02"
+      ],
+      "options": [
+        {
+          "label": "Chris Gayle"
+        },
+        {
+          "label": "Rohit Sharma"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": {
+        "label": "Rohit Sharma",
+        "value": {
+          "label": "Rohit Sharma is an Indian international cricketer who is the vice-captain of the India national team in limited-overs formats.",
+          "url": "/read/en/rohit_sharma",
+          "image": {
+            "altText": "Image for Rohit Sharma",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Which Indian batsman is the fastest to score 1000 runs at ODI tournaments?",
+      "id": "which_indian_batsman_is_the_fastest_to_score_1000_runs_at_odi_tournaments?",
+      "dates": [
+        "2019-06-24"
+      ],
+      "options": [
+        {
+          "label": "Shikar Dhawan"
+        },
+        {
+          "label": "Virat Kohli"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "Shikhar Dhawan",
+        "value": {
+          "label": "Shikhar Dhawan is an Indian international cricketer. ",
+          "url": "/read/en/shikhar_dhawan",
+          "image": {
+            "altText": "Image for Shikhar Dhawan",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Which Australian player had never played a first-class match before making his national debut?",
+      "id": "which_australian_player_had_never_played_a_first-class_match_before_making_his_national_debut?",
+      "dates": [],
+      "options": [
+        {
+          "label": "Steve Smith"
+        },
+        {
+          "label": "David Warner"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": {
+        "label": "David Warner",
+        "value": {
+          "label": "David Warner is an Australian international cricketer and a former captain of the Australian national team.",
+          "url": "/read/en/david_warner",
+          "image": {
+            "altText": "Image for David Warner",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Who is the youngest player to have scored a century against all test-playing nations?",
+      "id": "who_is_the_youngest_player_to_have_scored_a_century_against_all_test-playing_nations?",
+      "dates": [
+        "2019-06-19"
+      ],
+      "options": [
+        {
+          "label": "Kane Williamson"
+        },
+        {
+          "label": "Virat Kohli"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "Kane Williamson",
+        "value": {
+          "label": "Kane Williamson is an international cricket player from New Zealand and also the current captain of the team.",
+          "url": "/read/en/kane_williamson",
+          "image": {
+            "altText": "Image for Kane Williamson",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Which English cricketer scored centuries for two separate nations?",
+      "id": "which_english_cricketer_scored_centuries_for_two_separate_nations?",
+      "dates": [
+        "2019-06-18"
+      ],
+      "options": [
+        {
+          "label": "Eoin Morgan"
+        },
+        {
+          "label": "Kevin Peitersen"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "England cricket team",
+        "value": {
+          "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
+          "url": "/read/en/england_cricket_team",
+          "image": {
+            "altText": "Image for England cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Which South African bowler is the youngest to have taken 150 wickets?",
+      "id": "which_south_african_bowler_is_the_youngest_to_have_taken_150_wickets?",
+      "dates": [
+        "2019-06-19"
+      ],
+      "options": [
+        {
+          "label": "Kagiso Rabada"
+        },
+        {
+          "label": "Dale Steyn"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "Kagiso Rabada",
+        "value": {
+          "label": "Kagiso Rabada is a South African international cricketer who plays all formats of the game. Rabada, who is known by the nickname KG, is a fast bowler and plays domestic cricket for the Highveld Lions. ",
+          "url": "/read/en/kagiso_rabada",
+          "image": {
+            "altText": "Image for Kagiso Rabada",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Who is the only player to have hit a century in T-20, a double century in an ODI and a triple century in a Test match?",
+      "id": "who_is_the_only_player_to_have_hit_a_century_in_t-20,_a_double_century_in_an_odi_and_a_triple_century_in_a_test_match?",
+      "dates": [
+        "2019-06-10"
+      ],
+      "options": [
+        {
+          "label": "Chris Gayle"
+        },
+        {
+          "label": "Martin Guptil"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "Chris Gayle",
+        "value": {
+          "label": "Chris Gayle, is a Jamaican cricketer who plays international cricket for the West Indies.",
+          "url": "/read/en/chris_gayle",
+          "image": {
+            "altText": "Image for Chris Gayle",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "How many Carribean nations does the West Indies cricket team represent?",
+      "id": "how_many_carribean_nations_does_the_west_indies_cricket_team_represent?",
+      "dates": [
+        "2019-05-31",
+        "2019-06-17"
+      ],
+      "options": [
+        {
+          "label": "15"
+        },
+        {
+          "label": "22"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "West Indies cricket team",
+        "value": {
+          "label": "The West Indies cricket team, traditionally known as the Windies, is a multi-national cricket team representing the Anglophone Caribbean region and administered by Cricket West Indies. The players on this composite team are selected from a chain of fifteen Caribbean territories",
+          "url": "/read/en/west_indies_cricket_team",
+          "image": {
+            "altText": "Image for West Indies cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Which team has the most number of Final appearances?",
+      "id": "which_team_has_the_most_number_of_final_appearances?",
+      "dates": [
+        "2019-06-06"
+      ],
+      "options": [
+        {
+          "label": "Australia"
+        },
+        {
+          "label": "Sri Lanka"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "Australia Cricket team",
+        "value": {
+          "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+          "url": "/read/en/australia_cricket_team",
+          "image": {
+            "altText": "Image for Australia Cricket team",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Who is the only Indian captain who hasn't lost a group stage match in World Cup?",
+      "id": "who_is_the_only_indian_captain_who_hasn't_lost_a_group_stage_match_in_world_cup?",
+      "dates": [],
+      "options": [
+        {
+          "label": "M.S Dhoni"
+        },
+        {
+          "label": "Sourav Ganguly"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": {
+        "label": "Mahendra Singh Dhoni",
+        "value": {
+          "label": "Mahendra Singh Dhoni is an Indian international cricketer who captained the Indian national team in limited-overs formats from 2007 to 2016 and in Test cricket from 2008 to 2014.",
+          "url": "/read/en/mahendra_singh_dhoni",
+          "image": {
+            "altText": "Image for Mahendra Singh Dhoni",
+            "license": "Creative Commons Attribution-Share Alike 4.0 International",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+          }
+        }
+      }
+    },
+    {
+      "label": "Who is the captain of the Indian womens' cricket ODI team?",
+      "id": "who_is_the_captain_of_the_indian_womens'_cricket_odi_team?",
+      "dates": [
+        "2019-06-30"
+      ],
+      "options": [
+        {
+          "label": "Mithali Raj"
+        },
+        {
+          "label": "Harmanpreet Kaur"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": null
+    },
+    {
+      "label": "Which woman cricketer was awarded the ICC Woman Cricketer for 2018?",
+      "id": "which_woman_cricketer_was_awarded_the_icc_woman_cricketer_for_2018?",
+      "dates": [
+        "2019-07-02"
+      ],
+      "options": [
+        {
+          "label": "Smirthi Mandana"
+        },
+        {
+          "label": "Mithali Raj"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "Who was the first woman cricketer to play the KIA Super League in England?",
+      "id": "who_was_the_first_woman_cricketer_to_play_the_kia_super_league_in_england?",
+      "dates": [],
+      "options": [
+        {
+          "label": "Harmanpeet Kaur"
+        },
+        {
+          "label": "Smriti Mandhana"
+        }
+      ],
+      "answerIndex": 0,
+      "relatedArticle": null
+    },
+    {
+      "label": "Who has scored the most runs for the Indian womens' cricket team?",
+      "id": "who_has_scored_the_most_runs_for_the_indian_womens'_cricket_team?",
+      "dates": [],
+      "options": [
+        {
+          "label": "Mithali Raj"
+        },
+        {
+          "label": "Harmanpreet Kaur"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": null
+    },
+    {
+      "label": "Who has taken the most number of wickets for the Indian womens cricket team?",
+      "id": "who_has_taken_the_most_number_of_wickets_for_the_indian_womens_cricket_team?",
+      "dates": [
+        "2019-06-27"
+      ],
+      "options": [
+        {
+          "label": "Veda Krishnamurthy"
+        },
+        {
+          "label": "Jhulan Goswami"
+        }
+      ],
+      "answerIndex": 1,
+      "relatedArticle": null
     }
   ]
 }

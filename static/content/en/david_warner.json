@@ -2,8 +2,14 @@
   "title": "David Warner",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Warner_(cricketer)",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:DAVID_WARNER_(11704782453).jpg",
     "altText": "Image of David Warner"
+=======
+    "url": "/static/images/david_warner/DAVID_WARNER_%2811704782453%29.jpg",
+    "altText": "Image of David Warner",
+    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+>>>>>>> feature/content-parser
   },
   "summary": "David Warner is an Australian international cricketer and a former captain of the Australian national team.",
   "translations": [
@@ -75,7 +81,11 @@
           "value": {
             "label": "",
             "image": {
+<<<<<<< HEAD
               "url": "https://en.wikipedia.org/wiki/File:RBHS_badge.jpg",
+=======
+              "url": "/static/images/david_warner/RBHS_badge.jpg",
+>>>>>>> feature/content-parser
               "altText": "Image of Randwick Boys High School"
             }
           }
@@ -84,7 +94,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "YIGtk-AVsQpy",
+=======
+      "id": "wvA7V2a3F",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -92,7 +106,11 @@
           "value": {
             "label": "Left-handed opening batsman, part-time spin bowler and aggressive fielder",
             "image": {
+<<<<<<< HEAD
               "url": "https://en.wikipedia.org/wiki/David_Warner_(cricketer)#/media/File:David_warner_t20_debut.JPG",
+=======
+              "url": "/static/images/david_warner/David_warner_t20_debut.JPG",
+>>>>>>> feature/content-parser
               "altText": "Style of play for David Warner"
             }
           }
@@ -105,7 +123,11 @@
       "facts": [
         {
           "label": "First class Debut",
+<<<<<<< HEAD
           "id": "QYh4J16yR0-Z",
+=======
+          "id": "CFe7CLiAzV",
+>>>>>>> feature/content-parser
           "note": "2009",
           "value": {
             "label": "Warner made his first-class debut playing for New South Wales against Western Australia."
@@ -113,7 +135,11 @@
         },
         {
           "label": "National team debut ",
+<<<<<<< HEAD
           "id": "rjAdEzfIy84K",
+=======
+          "id": "N50rcjp6Is",
+>>>>>>> feature/content-parser
           "note": "2009",
           "value": {
             "label": "Warner made his international debut for Australia in a Twenty20 International against South Africa at the Melbourne.",
@@ -122,11 +148,19 @@
                 "url": "/read/en/south_africa_national_cricket_team",
                 "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
                 "label": "South Africa national cricket team",
+<<<<<<< HEAD
                 "id": "kZlOSnm9j4X0",
                 "value": {
                   "label": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/South_Africa_national_cricket_team#/media/File:Southafrica_cricket_logo.svg",
+=======
+                "id": "ZQI5Kubs6y",
+                "value": {
+                  "label": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
+                  "image": {
+                    "url": "/static/images/david_warner/Southafrica_cricket_logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of South Africa national cricket team"
                   }
                 }
@@ -136,7 +170,11 @@
         },
         {
           "label": "ICC Tournament Debut",
+<<<<<<< HEAD
           "id": "q42xco4kOCVW",
+=======
+          "id": "S4sH2m-MxV",
+>>>>>>> feature/content-parser
           "note": "2013",
           "value": {
             "label": "Warner was dropped from the team after the first match due to a off-field fight with English player Joe Root"
@@ -144,7 +182,11 @@
         },
         {
           "label": "IPL Debut",
+<<<<<<< HEAD
           "id": "BT17BzNC3Sp3",
+=======
+          "id": "koWjYNFo0p",
+>>>>>>> feature/content-parser
           "note": "2009",
           "value": {
             "label": "Warner was signed by IPL team Delhi Daredevils for 2009–10 seasons.",
@@ -153,11 +195,19 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
+<<<<<<< HEAD
                 "id": "J3IGo79BWY0e",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Delhi_Capitals#/media/File:Delhi_Capitals_Logo.svg",
+=======
+                "id": "Qb7XRP5PJ6",
+                "value": {
+                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "image": {
+                    "url": "/static/images/david_warner/Delhi_Capitals_Logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of Delhi Capitals"
                   }
                 }
@@ -166,6 +216,169 @@
           }
         }
       ]
+<<<<<<< HEAD
+=======
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "Warner is the first Australian cricketer in 132 years to be selected for a national team in any format without experience in first-class cricket",
+            "image": {
+              "url": "",
+              "altText": "Warner is the first Australian cricketer in 132 years to be selected for a national team in any format without experience in first-class cricket"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "Warner is the first Australian batsman to score 7 ODI centuries in a calendar year",
+            "image": {
+              "url": "/static/images/david_warner/Warner_playing_for_Australia.jpg",
+              "altText": "Warner is the first Australian batsman to score 7 ODI centuries in a calendar year"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "Warner is the first Australian batsman to score a century in his 100th ODI",
+            "image": {
+              "url": "",
+              "altText": "Warner is the first Australian batsman to score a century in his 100th ODI"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "Warner is the first Australian and sixth overall to reach 1,500 T20I runs.",
+            "image": {
+              "url": "/static/images/david_warner/David_warner_t20_debut.JPG",
+              "altText": "Warner is the first Australian and sixth overall to reach 1,500 T20I runs."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "In 2015, Warner became only the third batsman in history of Test cricket to score centuries in both innings of a Test match thrice",
+            "image": {
+              "url": "",
+              "altText": "In 2015, Warner became only the third batsman in history of Test cricket to score centuries in both innings of a Test match thrice"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Australia (2009 - present)",
+          "id": "cpHCA9sX0p",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Australia Cricket team",
+                "id": "tiC5ahVrDV",
+                "url": "/read/en/australia_cricket_team",
+                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "value": {
+                  "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+                  "image": {
+                    "url": "/static/images/david_warner/Australia_cricket_logo.svg",
+                    "altText": "Picture of Australia Cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Sunrisers Hyderabad (2014 - present)",
+          "id": "Ax_RF6EvtZ",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Sunrisers Hyderabad",
+                "id": "UoLoU8Qw41",
+                "url": "/read/en/sunrisers_hyderabad",
+                "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
+                "value": {
+                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "/static/images/david_warner/Sunrisers_Hyderabad.svg",
+                    "altText": "Picture of Sunrisers Hyderabad"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "New South Wales (2006-2018)",
+          "id": "6T7u0_uhMy",
+          "value": {
+            "label": "The New South Wales cricket team (currently named NSW Blues) are an Australian men's professional first class cricket team based in Sydney."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "Bradman Young Cricketer of the Year",
+          "tag": "2012",
+          "id": "award-0",
+          "value": {
+            "label": "Bradman Young Cricketer award is part of the Australian Cricket Awards",
+            "image": {
+              "url": "",
+              "altText": "Image of Bradman Young Cricketer of the Year"
+            }
+          }
+        },
+        {
+          "label": "Allan Border Medal",
+          "tag": "2016",
+          "id": "award-1",
+          "value": {
+            "label": "Allan Border Medal is considered to be the most prestigious individual prize in Australian men's cricket",
+            "image": {
+              "url": "",
+              "altText": "Image of Allan Border Medal"
+            }
+          }
+        },
+        {
+          "label": "Australian Test Player of the Year",
+          "tag": "2016",
+          "id": "award-2",
+          "value": {
+            "label": "Australian Test Player of the Year is awarded during the Australian Cricket Awards",
+            "image": {
+              "url": "",
+              "altText": "Image of Australian Test Player of the Year"
+            }
+          }
+        }
+      ]
+>>>>>>> feature/content-parser
     }
   ]
 }

@@ -2,7 +2,11 @@
   "title": "Kuldeep Yadav",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Kuldeep_Yadav",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:Bowling_shadow_figure.png",
+=======
+    "url": "/static/images/kuldeep_yadav/Bowling_shadow_figure.png",
+>>>>>>> feature/content-parser
     "altText": "Image of Kuldeep Yadav"
   },
   "summary": "Kuldeep Yadav is an Indian cricketer",
@@ -63,7 +67,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "WD50MH-iT-v",
+=======
+      "id": "VxYfNXotuV",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -80,7 +88,11 @@
       "facts": [
         {
           "label": "First class Debut",
+<<<<<<< HEAD
           "id": "RvWCMd3jnhI",
+=======
+          "id": "9nNzfUB7P9",
+>>>>>>> feature/content-parser
           "note": "2014",
           "value": {
             "label": "Kuldeep Yadav plays first class Indian domestic cricket for Uttar Pradesh"
@@ -88,7 +100,11 @@
         },
         {
           "label": "National team debut ",
+<<<<<<< HEAD
           "id": "W5P8onkeX4e",
+=======
+          "id": "TqF5Vfpg0w",
+>>>>>>> feature/content-parser
           "note": "2017",
           "value": {
             "label": "Yadav made his Test debut for India against Australia in 2017, at Dharamshala",
@@ -97,11 +113,19 @@
                 "url": "/read/en/australia_cricket_team",
                 "contentUrl": "/static/content/en/australia_cricket_team.json",
                 "label": "Australia Cricket team",
+<<<<<<< HEAD
                 "id": "JuZqr9cSB0W",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Australia_national_cricket_team#/media/File:Australia_cricket_logo.svg",
+=======
+                "id": "tnFD_I7ka9",
+                "value": {
+                  "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+                  "image": {
+                    "url": "/static/images/kuldeep_yadav/Australia_cricket_logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of Australia Cricket team"
                   }
                 }
@@ -111,7 +135,11 @@
         },
         {
           "label": "ICC Tournament Debut",
+<<<<<<< HEAD
           "id": "6YKtCdy5nuo",
+=======
+          "id": "e_SFPlvQwR",
+>>>>>>> feature/content-parser
           "note": "",
           "value": {
             "label": ""
@@ -119,7 +147,11 @@
         },
         {
           "label": "IPL Debut",
+<<<<<<< HEAD
           "id": "E_czshxdwio",
+=======
+          "id": "BJuFn5xKuh",
+>>>>>>> feature/content-parser
           "note": "2012",
           "value": {
             "label": "Yadav was a member of the Mumbai Indians squad in 2012",
@@ -128,11 +160,19 @@
                 "url": "/read/en/mumbai_indians",
                 "contentUrl": "/static/content/en/mumbai_indians.json",
                 "label": "Mumbai Indians",
+<<<<<<< HEAD
                 "id": "LE52-pjv4wA",
                 "value": {
                   "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Mumbai_Indians#/media/File:Mumbai_Indians_Logo.svg",
+=======
+                "id": "VGruc_M7h7",
+                "value": {
+                  "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
+                  "image": {
+                    "url": "/static/images/kuldeep_yadav/Mumbai_Indians_Logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of Mumbai Indians"
                   }
                 }
@@ -141,6 +181,132 @@
           }
         }
       ]
+<<<<<<< HEAD
+=======
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "Yadav is the third bowler for India to score a hat-trick in a One Day International.",
+            "image": {
+              "url": "",
+              "altText": "Yadav is the third bowler for India to score a hat-trick in a One Day International."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "Kuldeep Yadav is the first Slow-left-arm chinaman bowler to represent India in Test cricket",
+            "image": {
+              "url": "",
+              "altText": "Kuldeep Yadav is the first Slow-left-arm chinaman bowler to represent India in Test cricket"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "Yadav is the first left-arm chinaman bowler to take 5 wickets in a T20I",
+            "image": {
+              "url": "",
+              "altText": "Yadav is the first left-arm chinaman bowler to take 5 wickets in a T20I"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "In 2018 versus England, Yadav registered the best bowling figures by a chinaman bowler in an ODI (6/25)",
+            "image": {
+              "url": "",
+              "altText": "In 2018 versus England, Yadav registered the best bowling figures by a chinaman bowler in an ODI (6/25)"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "In 2018 versus West Indies, Yadav he took his first five-wicket haul in Test matches",
+            "image": {
+              "url": "",
+              "altText": "In 2018 versus West Indies, Yadav he took his first five-wicket haul in Test matches"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Indian national cricket team (2017 - present)",
+          "id": "3csLg3xAA9G",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India national cricket team",
+                "id": "YUgTsOO8Ulh",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "/static/images/kuldeep_yadav/Cricket_India_Crest.svg",
+                    "altText": "Picture of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Kolkata Knight Riders (2014 - present)",
+          "id": "cKvTe4zh9sk",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Kolkata Knight Riders",
+                "id": "CBAoPByMQkF",
+                "url": "/read/en/kolkata_knight_riders",
+                "contentUrl": "/static/content/en/kolkata_knight_riders.json",
+                "value": {
+                  "label": "The Kolkata Knight Riders (also known by the acronym KKR) are a franchise cricket team representing the city of Kolkata in the Indian Premier League. ",
+                  "image": {
+                    "url": "/static/images/kuldeep_yadav/Kolkata_Knight_Riders_Logo.svg",
+                    "altText": "Picture of Kolkata Knight Riders"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Uttar Pradesh (2014 - present)",
+          "id": "tnj1cHiuFFZ",
+          "value": {
+            "label": "The Uttar Pradesh cricket team, is a domestic team based in the Indian state of Uttar Pradesh with Kanpur as its home ground"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": []
+>>>>>>> feature/content-parser
     }
   ]
 }

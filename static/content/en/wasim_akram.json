@@ -2,7 +2,11 @@
   "title": "Wasim Akram",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Wasim_Akram",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:Wasim-akram-gesf-2018-7878.jpg",
+=======
+    "url": "/static/images/wasim_akram/Wasim-akram-gesf-2018-7878.jpg",
+>>>>>>> feature/content-parser
     "altText": "Image of Wasim Akram"
   },
   "summary": "Wasim Akram is a former Pakistani cricketer and captain of Pakistan national cricket team.",
@@ -70,7 +74,11 @@
           "value": {
             "label": "Wasim Akram was educated at Government Islamia College Civil Lines Lahore, where he played as an opening bowler and batsman.",
             "image": {
+<<<<<<< HEAD
               "url": "https://commons.wikimedia.org/wiki/File:Islamia_College_Lahore_1.jpg",
+=======
+              "url": "/static/images/wasim_akram/Islamia_College_Lahore_1.jpg",
+>>>>>>> feature/content-parser
               "altText": "Image of Islamia College, Lahore"
             }
           }
@@ -79,7 +87,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "doOl-WYgbLo",
+=======
+      "id": "TVqMwrCIm9",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -96,7 +108,11 @@
       "facts": [
         {
           "label": "First class Debut",
+<<<<<<< HEAD
           "id": "wgGKNhOnPRR",
+=======
+          "id": "X8WirOOIxX",
+>>>>>>> feature/content-parser
           "note": "1984",
           "value": {
             "label": "Wasim Akram made his first class debut in 1984 as part of the Pakistan Automobiles Corporation team."
@@ -104,7 +120,11 @@
         },
         {
           "label": "National team debut ",
+<<<<<<< HEAD
           "id": "dr9NEv9nQ8s",
+=======
+          "id": "Ip9jqIE-Q9",
+>>>>>>> feature/content-parser
           "note": "1984",
           "value": {
             "label": "Akram started his ODI career against New Zealand in Pakistan in 1984 under the captaincy of Zaheer Abbas.",
@@ -113,11 +133,19 @@
                 "url": "/read/en/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
                 "label": "New Zealand national cricket team",
+<<<<<<< HEAD
                 "id": "UDZytGzvAcp",
                 "value": {
                   "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/New_Zealand_national_cricket_team#/media/File:New_Zealand_Cricket_Cap_Insignia.svg",
+=======
+                "id": "jeV7KIioaM",
+                "value": {
+                  "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
+                  "image": {
+                    "url": "/static/images/wasim_akram/New_Zealand_Cricket_Cap_Insignia.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of New Zealand national cricket team"
                   }
                 }
@@ -127,7 +155,11 @@
         },
         {
           "label": "ICC Tournament Debut",
+<<<<<<< HEAD
           "id": "loDgi3_UqE6",
+=======
+          "id": "VAzIIAuJWS",
+>>>>>>> feature/content-parser
           "note": "1987",
           "value": {
             "label": "In the 1987 Cricket World Cup held for the 1st time in South Asia, Akram struggled on Pakistani pitches."
@@ -135,13 +167,158 @@
         },
         {
           "label": "IPL Debut",
+<<<<<<< HEAD
           "id": "UVy55gTKbYP",
+=======
+          "id": "1_PvUhWE_8",
+>>>>>>> feature/content-parser
           "note": "",
           "value": {
             "label": ""
           }
         }
       ]
+<<<<<<< HEAD
+=======
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "Wasim Akram holds the record for taking the most number of ODI wickets as captain.",
+            "image": {
+              "url": "",
+              "altText": "Wasim Akram holds the record for taking the most number of ODI wickets as captain."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": " Akram took 502 ODI wickets and 414 Test wickets during his career.",
+            "image": {
+              "url": "",
+              "altText": " Akram took 502 ODI wickets and 414 Test wickets during his career."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "Akram is the first bowler to take 500 ODI wickets.",
+            "image": {
+              "url": "",
+              "altText": "Akram is the first bowler to take 500 ODI wickets."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "Wasim Akram's 257 not-out against Zimbabwe in 1996 is the highest innings by a number-8 batsman in Tests",
+            "image": {
+              "url": "",
+              "altText": "Wasim Akram's 257 not-out against Zimbabwe in 1996 is the highest innings by a number-8 batsman in Tests"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "Akram was the first bowler in international cricket to take more than 400 wickets in both forms of the game",
+            "image": {
+              "url": "",
+              "altText": "Akram was the first bowler in international cricket to take more than 400 wickets in both forms of the game"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Pakistan National Cricket team (1984-2003)",
+          "id": "LMetnK6snyN",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Pakistan national cricket team",
+                "id": "FzpEPjwbUY6",
+                "url": "/read/en/pakistan_national_cricket_team",
+                "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
+                "value": {
+                  "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
+                  "image": {
+                    "url": "/static/images/wasim_akram/PakistanCricketLogo.png",
+                    "altText": "Picture of Pakistan national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Pakistan Automobiles Corporation (1984-86)",
+          "id": "frBc_a7aJwI",
+          "value": {
+            "label": "Pakistan Automobiles Corporation was a first-class cricket team that played in the domestic league in Pakistan between 1983 and 1994."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "Pride of Performance Award",
+          "tag": "1992",
+          "id": "award-0",
+          "value": {
+            "label": "Pride of Performance Award is a civil award given by the Government of Pakistan to Pakistani citizens for meritorious service in various fields.",
+            "image": {
+              "url": "",
+              "altText": "Image of Pride of Performance Award"
+            }
+          }
+        },
+        {
+          "label": "Wisden Cricketer of the Year",
+          "tag": "1993",
+          "id": "award-1",
+          "value": {
+            "label": "Wisden Cricketers of the Year are cricketers selected for the honour by the annual publication Wisden Cricketers' Almanack",
+            "image": {
+              "url": "",
+              "altText": "Image of Wisden Cricketer of the Year"
+            }
+          }
+        },
+        {
+          "label": "Hilal-e-Imtiaz",
+          "tag": "2019",
+          "id": "award-2",
+          "value": {
+            "label": "Hilal-e-Imtiaz is the second highest civilian award and honour given to both civilians and military officers of the Pakistan.",
+            "image": {
+              "url": "/static/images/wasim_akram/Hilal-i-imtiaz.jpg",
+              "altText": "Image of Hilal-e-Imtiaz"
+            }
+          }
+        }
+      ]
+>>>>>>> feature/content-parser
     }
   ]
 }

@@ -2,7 +2,11 @@
   "title": "Bhuvneshwar Kumar",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bhuvneshwar_Kumar",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:Bhuvneshwar_Kumar.jpg",
+=======
+    "url": "/static/images/bhuvneshwar_kumar/Bhuvneshwar_Kumar.jpg",
+>>>>>>> feature/content-parser
     "altText": "Image of Bhuvneshwar Kumar"
   },
   "summary": "Bhuvneshwar Kumar is an Indian international cricketer",
@@ -68,7 +72,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "_K96hTOF7nt",
+=======
+      "id": "SpI6CHOkzc",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -76,7 +84,11 @@
           "value": {
             "label": "Kumar is a right-arm medium-fast bowler who swings the ball both ways ",
             "image": {
+<<<<<<< HEAD
               "url": "https://en.wikipedia.org/wiki/Bhuvneshwar_Kumar#/media/File:Bhuvneshwar_Kumar.jpg",
+=======
+              "url": "/static/images/bhuvneshwar_kumar/Bhuvneshwar_Kumar.jpg",
+>>>>>>> feature/content-parser
               "altText": "Style of play for Bhuvneshwar Kumar"
             }
           }
@@ -89,7 +101,11 @@
       "facts": [
         {
           "label": "First class Debut",
+<<<<<<< HEAD
           "id": "IXRYbxYuDJN",
+=======
+          "id": "GL49kyixzJ",
+>>>>>>> feature/content-parser
           "note": "2007",
           "value": {
             "label": "Kumar made his first-class debut playing for Uttar Pradesh at the age of 17 against Bengal"
@@ -97,7 +113,11 @@
         },
         {
           "label": "National team debut ",
+<<<<<<< HEAD
           "id": "JdS1Q3IpSjl",
+=======
+          "id": "JADQlFU9w2",
+>>>>>>> feature/content-parser
           "note": "2012",
           "value": {
             "label": "Kumar made his international debut playing a T20 match versus Pakistan in which he took 3 wickets for 9 runs in 4 overs.",
@@ -106,11 +126,19 @@
                 "url": "/read/en/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
                 "label": "Pakistan national cricket team",
+<<<<<<< HEAD
                 "id": "WCbiW5W2W49",
                 "value": {
                   "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Pakistan_national_cricket_team#/media/File:PakistanCricketLogo.png",
+=======
+                "id": "HqfaSC3V_X",
+                "value": {
+                  "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
+                  "image": {
+                    "url": "/static/images/bhuvneshwar_kumar/PakistanCricketLogo.png",
+>>>>>>> feature/content-parser
                     "altText": "Image of Pakistan national cricket team"
                   }
                 }
@@ -120,7 +148,11 @@
         },
         {
           "label": "ICC Tournament Debut",
+<<<<<<< HEAD
           "id": "477oqxAQpkx",
+=======
+          "id": "efNRL0aSdQ",
+>>>>>>> feature/content-parser
           "note": "2013",
           "value": {
             "label": "Kumar was a part of the Indian team which won the 2013 Champions Trophy"
@@ -128,7 +160,11 @@
         },
         {
           "label": "IPL Debut",
+<<<<<<< HEAD
           "id": "dm7Le7mzkWf",
+=======
+          "id": "PEp8rEyHHt",
+>>>>>>> feature/content-parser
           "note": "2009",
           "value": {
             "label": "Following his good performances in the 2008/09 Ranji season, Kumar was signed up by the IPL team Royal Challengers Bangalore",
@@ -137,11 +173,19 @@
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "label": "Royal Challengers Bangalore",
+<<<<<<< HEAD
                 "id": "wgTOdc7LU0U",
                 "value": {
                   "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Royal_Challengers_Bangalore#/media/File:Royal_Challengers_Bangalore_Logo_2016.svg",
+=======
+                "id": "7DbdP3CfFxS",
+                "value": {
+                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "/static/images/bhuvneshwar_kumar/Royal_Challengers_Bangalore_Logo_2016.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of Royal Challengers Bangalore"
                   }
                 }
@@ -150,6 +194,132 @@
           }
         }
       ]
+<<<<<<< HEAD
+=======
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "Kumar is the first bowler to dismiss Sachin Tendulkar for a duck in first-class domestic cricket.",
+            "image": {
+              "url": "",
+              "altText": "Kumar is the first bowler to dismiss Sachin Tendulkar for a duck in first-class domestic cricket."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "Kumar had a record partnership (140) with M. S. Dhoni for the 9th wicket in the first Test of the 2013 Border-Gavaskar trophy versus Australia",
+            "image": {
+              "url": "",
+              "altText": "Kumar had a record partnership (140) with M. S. Dhoni for the 9th wicket in the first Test of the 2013 Border-Gavaskar trophy versus Australia"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "Bhuvneshwar Kumar has the highest score (38) by an Indian number 10 on debut.",
+            "image": {
+              "url": "",
+              "altText": "Bhuvneshwar Kumar has the highest score (38) by an Indian number 10 on debut."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "In January 2019, in the first ODI against Australia, Kumar took his 100th wicket in ODIs",
+            "image": {
+              "url": "",
+              "altText": "In January 2019, in the first ODI against Australia, Kumar took his 100th wicket in ODIs"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "Kumar became the first Indian number 9 player to get three fifties in one series.",
+            "image": {
+              "url": "",
+              "altText": "Kumar became the first Indian number 9 player to get three fifties in one series."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Indian national cricket team (2012 - present)",
+          "id": "HFNAgrMYmHJ",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India national cricket team",
+                "id": "TqMb5AGSHKA",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "/static/images/bhuvneshwar_kumar/Cricket_India_Crest.svg",
+                    "altText": "Picture of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Sunrisers Hyderabad (2014-present)",
+          "id": "nG4e4r2GIUL",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Sunrisers Hyderabad",
+                "id": "dKvzKWEU5",
+                "url": "/read/en/sunrisers_hyderabad",
+                "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
+                "value": {
+                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "/static/images/bhuvneshwar_kumar/Sunrisers_Hyderabad.svg",
+                    "altText": "Picture of Sunrisers Hyderabad"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Uttar Pradesh (2007 - present)",
+          "id": "aDBlZtjiMI",
+          "value": {
+            "label": "The Uttar Pradesh cricket team, is a domestic team based in the Indian state of Uttar Pradesh with Kanpur as its home ground"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": []
+>>>>>>> feature/content-parser
     }
   ]
 }

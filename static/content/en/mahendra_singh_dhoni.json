@@ -2,7 +2,11 @@
   "title": "Mahendra Singh Dhoni",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/MS_Dhoni",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:Dhoni_behind_Stumps.jpg",
+=======
+    "url": "/static/images/mahendra_singh_dhoni/Dhoni_behind_Stumps.jpg",
+>>>>>>> feature/content-parser
     "altText": "Image of Mahendra Singh Dhoni"
   },
   "summary": "Mahendra Singh Dhoni is an Indian international cricketer who captained the Indian national team in limited-overs formats from 2007 to 2016 and in Test cricket from 2008 to 2014.",
@@ -86,7 +90,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "dIPmDQ3ECwF",
+=======
+      "id": "PbNNqeXD2w",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -94,7 +102,11 @@
           "value": {
             "label": "Dhoni is a right-handed batsman and wicket-keeper. Initially, Dhoni appeared as a lower-order attacking batsman but he gradually changed his playing style to deal with high-pressure scenarios and his growing responsibility as a captain.",
             "image": {
+<<<<<<< HEAD
               "url": "https://en.wikipedia.org/wiki/MS_Dhoni#/media/File:Mahendra_Singh_Dhoni_batting.JPG",
+=======
+              "url": "/static/images/mahendra_singh_dhoni/Mahendra_Singh_Dhoni_batting.JPG",
+>>>>>>> feature/content-parser
               "altText": "Style of play for Mahendra Singh Dhoni"
             }
           }
@@ -107,7 +119,11 @@
       "facts": [
         {
           "label": "First class Debut",
+<<<<<<< HEAD
           "id": "YrL3CKKQw4v",
+=======
+          "id": "sTx3LCjzxh",
+>>>>>>> feature/content-parser
           "note": "1999",
           "value": {
             "label": "Dhoni made his Ranji Trophy debut for Bihar in the 1999–2000 season at the age of 18."
@@ -115,7 +131,11 @@
         },
         {
           "label": "National team debut ",
+<<<<<<< HEAD
           "id": "vg2SN65wKR2",
+=======
+          "id": "zubo8h6pDP",
+>>>>>>> feature/content-parser
           "note": "2004",
           "value": {
             "label": "Dhoni made his ODI debut.",
@@ -124,11 +144,19 @@
                 "url": "/read/en/bangladesh_national_cricket_team",
                 "contentUrl": "/static/content/en/bangladesh_national_cricket_team.json",
                 "label": "Bangladesh national cricket team",
+<<<<<<< HEAD
                 "id": "hnvOHx4eOs5",
                 "value": {
                   "label": "The Bangladesh national cricket team, popularly known as \"The Tigers\", is administered by the Bangladesh Cricket Board (BCB). Bangladesh is a full member of the International Cricket Council (ICC) with Test and One Day International (ODI) status.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Bangladesh_national_cricket_team#/media/File:Flag_of_Bangladesh.svg",
+=======
+                "id": "l1AEm9nqKE",
+                "value": {
+                  "label": "The Bangladesh national cricket team, popularly known as \"The Tigers\", is administered by the Bangladesh Cricket Board (BCB). Bangladesh is a full member of the International Cricket Council (ICC) with Test and One Day International (ODI) status.",
+                  "image": {
+                    "url": "/static/images/mahendra_singh_dhoni/Flag_of_Bangladesh.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of Bangladesh national cricket team"
                   }
                 }
@@ -138,7 +166,11 @@
         },
         {
           "label": "ICC Tournament Debut",
+<<<<<<< HEAD
           "id": "er2rPaN3W9t",
+=======
+          "id": "0xB-f2j9jx",
+>>>>>>> feature/content-parser
           "note": "2006",
           "value": {
             "label": "2006 Dhoni scored a half-century against West Indies.",
@@ -147,11 +179,19 @@
                 "url": "/read/en/icc_champions_trophy",
                 "contentUrl": "/static/content/en/icc_champions_trophy.json",
                 "label": "ICC Champions Trophy",
+<<<<<<< HEAD
                 "id": "psBSVw--o_r",
                 "value": {
                   "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/ICC_Champions_Trophy#/media/File:ICC_Champions_Trophy_cricket_logo.png",
+=======
+                "id": "pjaiVmX484",
+                "value": {
+                  "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
+                  "image": {
+                    "url": "/static/images/mahendra_singh_dhoni/ICC_Champions_Trophy_cricket_logo.png",
+>>>>>>> feature/content-parser
                     "altText": "Image of ICC Champions Trophy"
                   }
                 }
@@ -161,7 +201,11 @@
         },
         {
           "label": "2007 World Cup",
+<<<<<<< HEAD
           "id": "f8nxxTUc_jO",
+=======
+          "id": "w2HojUFA-t",
+>>>>>>> feature/content-parser
           "note": "2007",
           "value": {
             "label": "India crashed out of the World Cup after in the group stage and Dhoni scored just 29 runs in the tournament.",
@@ -170,11 +214,19 @@
                 "url": "/read/en/2007_cricket_world_cup",
                 "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
                 "label": "2007 Cricket World Cup",
+<<<<<<< HEAD
                 "id": "OlpFiF7FS2n",
                 "value": {
                   "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/2007_Cricket_World_Cup#/media/File:2007_Cricket_World_Cup_logo.svg",
+=======
+                "id": "9tsh6AwEn-",
+                "value": {
+                  "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
+                  "image": {
+                    "url": "/static/images/mahendra_singh_dhoni/2007_Cricket_World_Cup_logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of 2007 Cricket World Cup"
                   }
                 }
@@ -184,7 +236,11 @@
         },
         {
           "label": "2007 ICC World Twenty20",
+<<<<<<< HEAD
           "id": "ciBALUj8YVT",
+=======
+          "id": "rYLvOxWWkR",
+>>>>>>> feature/content-parser
           "note": "2007",
           "value": {
             "label": "Dhoni was the captain of the Indian team that won the inaugural ICC World Twenty20 championship.",
@@ -193,11 +249,19 @@
                 "url": "/read/en/2007_cricket_world_cup",
                 "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
                 "label": "2007 Cricket World Cup",
+<<<<<<< HEAD
                 "id": "d5u8wgrIyA0",
                 "value": {
                   "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/2007_Cricket_World_Cup#/media/File:2007_Cricket_World_Cup_logo.svg",
+=======
+                "id": "mX7MwH-p3o",
+                "value": {
+                  "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
+                  "image": {
+                    "url": "/static/images/mahendra_singh_dhoni/2007_Cricket_World_Cup_logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of 2007 Cricket World Cup"
                   }
                 }
@@ -207,7 +271,11 @@
         },
         {
           "label": "2011 World Cup",
+<<<<<<< HEAD
           "id": "vr8BprNm0Jo",
+=======
+          "id": "7-RVosUku4",
+>>>>>>> feature/content-parser
           "note": "2011",
           "value": {
             "label": "Under Dhoni's captaincy India won its second world cup title in 2011. He scored 91 not out, finishing the game with a historical six.",
@@ -216,11 +284,19 @@
                 "url": "/read/en/2011_cricket_world_cup",
                 "contentUrl": "/static/content/en/2011_cricket_world_cup.json",
                 "label": "2011 Cricket World Cup",
+<<<<<<< HEAD
                 "id": "3Y-3kkxPTSS",
                 "value": {
                   "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/2011_Cricket_World_Cup#/media/File:2011_Cricket_World_Cup_Logo.svg",
+=======
+                "id": "HY99N_Sgq3",
+                "value": {
+                  "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
+                  "image": {
+                    "url": "/static/images/mahendra_singh_dhoni/2011_Cricket_World_Cup_Logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of 2011 Cricket World Cup"
                   }
                 }
@@ -230,7 +306,11 @@
         },
         {
           "label": "IPL Debut",
+<<<<<<< HEAD
           "id": "qR5YBI2xXPA",
+=======
+          "id": "-Roq3FvfSi",
+>>>>>>> feature/content-parser
           "note": "2008",
           "value": {
             "label": "Dhoni was contracted by the Chennai Super Kings for US$1.5 million which made him the most expensive player in the IPL for the first season.",
@@ -238,12 +318,21 @@
               {
                 "url": "/read/en/chennai_super_kings",
                 "contentUrl": "/static/content/en/chennai_super_kings.json",
+<<<<<<< HEAD
                 "label": "Chennai Super Kings",
                 "id": "JPHndeyYhzY",
                 "value": {
                   "label": "Founded in 2008, The Chennai Super Kings (CSK) is an Indian franchise cricket team based in Chennai, Tamil Nadu, which plays in the Indian Premier League (IPL).",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Chennai_Super_Kings#/media/File:Chennai_Super_Kings_Logo.svg",
+                    "altText": "Image of Chennai Super Kings"
+=======
+                "label": "Chennai Super Kings",
+                "id": "5tdtxvUdqN",
+                "value": {
+                  "label": "Founded in 2008, The Chennai Super Kings (CSK) is an Indian franchise cricket team based in Chennai, Tamil Nadu, which plays in the Indian Premier League (IPL).",
+                  "image": {
+                    "url": "/static/images/mahendra_singh_dhoni/Chennai_Super_Kings_Logo.svg",
                     "altText": "Image of Chennai Super Kings"
                   }
                 }
@@ -252,6 +341,173 @@
           }
         }
       ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "Dhoni is the most successful Indian Test captain.",
+            "image": {
+              "url": "",
+              "altText": "Dhoni is the most successful Indian Test captain."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "Dhoni is the first Indian wicket-keeper to complete 4,000 Test runs",
+            "image": {
+              "url": "",
+              "altText": "Dhoni is the first Indian wicket-keeper to complete 4,000 Test runs"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "Dhoni's 224 against Australia during a Test match in Chennai is the third highest score by an Indian captain",
+            "image": {
+              "url": "",
+              "altText": "Dhoni's 224 against Australia during a Test match in Chennai is the third highest score by an Indian captain"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "Dhoni has the most stumpings (38) by any wicket-keeper in a Test career",
+            "image": {
+              "url": "",
+              "altText": "Dhoni has the most stumpings (38) by any wicket-keeper in a Test career"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "Dhoni is third captain (and the first non-Australian) overall to win 100 ODI games",
+            "image": {
+              "url": "",
+              "altText": "Dhoni is third captain (and the first non-Australian) overall to win 100 ODI games"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Indian National Cricket team (2004-present)",
+          "id": "tW7XsW7zrPz",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India national cricket team",
+                "id": "SPYxl8sZmeq",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "/static/images/mahendra_singh_dhoni/Cricket_India_Crest.svg",
+                    "altText": "Picture of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Chennai Super Kings (2018-present)",
+          "id": "9_X4XkRhwFL",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Chennai Super Kings",
+                "id": "nsBBvswmTMt",
+                "url": "/read/en/chennai_super_kings",
+                "contentUrl": "/static/content/en/chennai_super_kings.json",
+                "value": {
+                  "label": "Founded in 2008, The Chennai Super Kings (CSK) is an Indian franchise cricket team based in Chennai, Tamil Nadu, which plays in the Indian Premier League (IPL).",
+                  "image": {
+                    "url": "/static/images/mahendra_singh_dhoni/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Picture of Chennai Super Kings"
+>>>>>>> feature/content-parser
+                  }
+                }
+              }
+            ]
+<<<<<<< HEAD
+          }
+        }
+      ]
+=======
+          }
+        },
+        {
+          "label": "Jharkhand (2004-present)",
+          "id": "Ujs2wi3cpO6",
+          "value": {
+            "label": "The Jharkhand Cricket Team is a Ranji Trophy team based in the Indian state of Jharkhand, that replaced the Bihar Cricket team"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "Rajiv Gandhi Khel Ratna",
+          "tag": "2008",
+          "id": "award-0",
+          "value": {
+            "label": "Rajiv Gandhi Khel Ratna Award is the highest sporting honour of the Republic of India.",
+            "image": {
+              "url": "/static/images/mahendra_singh_dhoni/Rajiv_Gandhi_Khel_Ratna_Award.jpg",
+              "altText": "Image of Rajiv Gandhi Khel Ratna"
+            }
+          }
+        },
+        {
+          "label": "Padma Shri",
+          "tag": "2009",
+          "id": "award-1",
+          "value": {
+            "label": "Padma Shri is the fourth highest civilian award in the Republic of India",
+            "image": {
+              "url": "/static/images/mahendra_singh_dhoni/Padma_Shri_India_IIIe_Klasse.jpg",
+              "altText": "Image of Padma Shri"
+            }
+          }
+        },
+        {
+          "label": "Padma Bhushan",
+          "tag": "2018",
+          "id": "award-2",
+          "value": {
+            "label": "Padma Bhushan is the third-highest civilian award in the Republic of India",
+            "image": {
+              "url": "/static/images/mahendra_singh_dhoni/Padma_Bhushan_India_IIe_Klasse.jpg",
+              "altText": "Image of Padma Bhushan"
+            }
+          }
+        }
+      ]
+>>>>>>> feature/content-parser
     }
   ]
 }

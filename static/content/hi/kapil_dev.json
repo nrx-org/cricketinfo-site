@@ -2,7 +2,11 @@
   "title": "कपिल देव",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Kapil_Dev",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:Kapil_Dev_at_Equation_sports_auction.jpg",
+=======
+    "url": "/static/images/kapil_dev/Kapil_Dev_at_Equation_sports_auction.jpg",
+>>>>>>> feature/content-parser
     "altText": "Image of कपिल देव"
   },
   "summary": "कपिल देव, एक पूर्व भारतीय क्रिकेटर हैं जिन्होंने 1983 में विश्व कप जीतने वाली भारतीय क्रिकेट टीम की कप्तानी की थी।",
@@ -80,7 +84,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "EHWsckTgIGxi",
+=======
+      "id": "NGoI2jccupQ",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -97,7 +105,11 @@
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
+<<<<<<< HEAD
           "id": "0tvUGzB23e6p",
+=======
+          "id": "is9HPLVsYy7",
+>>>>>>> feature/content-parser
           "note": "1975",
           "value": {
             "label": "देव ने हरियाणा की ओर से खेलते हुए पंजाब के विरुद्ध 1975 में प्रभावी पदार्पण किया। "
@@ -105,7 +117,11 @@
         },
         {
           "label": "राष्ट्रीय टीम ",
+<<<<<<< HEAD
           "id": "nYKU1WPpxsPt",
+=======
+          "id": "Ycut_nvQFlZ",
+>>>>>>> feature/content-parser
           "note": "1978",
           "value": {
             "label": "पाकिस्तान के विरुद्ध वनडे क्रिकेट में पदार्पण किया जहां उनका व्यक्तिगत प्रदर्शन मामूली रहा। "
@@ -113,7 +129,11 @@
         },
         {
           "label": "विश्व कप ",
+<<<<<<< HEAD
           "id": "IO09ga-YJTz-",
+=======
+          "id": "PyqDblKXfps",
+>>>>>>> feature/content-parser
           "note": "1979",
           "value": {
             "label": "1979 के विश्व कप क्रिकेट में कपिलदेव और भारतीय टीम दोनों का प्रदर्शन कमजोर रहा। "
@@ -121,7 +141,11 @@
         },
         {
           "label": "1983 विश्व कप चैंपियंस\n",
+<<<<<<< HEAD
           "id": "LCEkPPTxEpGL",
+=======
+          "id": "_1RTIZQiaLN",
+>>>>>>> feature/content-parser
           "note": "1983",
           "value": {
             "label": "भारत ने कपिलदेव की कप्तानी में 1983 का विश्व कप जीता। ",
@@ -130,11 +154,19 @@
                 "url": "/read/hi/1983_cricket_world_cup",
                 "contentUrl": "/static/content/hi/1983_cricket_world_cup.json",
                 "label": "1983 क्रिकेट विश्व कप",
+<<<<<<< HEAD
                 "id": "KtrsBTzDMad3",
                 "value": {
                   "label": "1983 क्रिकेट विश्व कप (आधिकारिक रूप से प्रूडेंशियल कप '83) क्रिकेट विश्व कप टूर्नामेंट का तीसरा संस्करण था। यह 9 जून से 25 जून 1983 तक इंग्लैंड और वेल्स में आयोजित किया गया था और इसे भारत ने जीता था।",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/1983_Cricket_World_Cup#/media/File:Prudential_Cup_83_logo.svg",
+=======
+                "id": "95tglMBeJtO",
+                "value": {
+                  "label": "1983 क्रिकेट विश्व कप (आधिकारिक रूप से प्रूडेंशियल कप '83) क्रिकेट विश्व कप टूर्नामेंट का तीसरा संस्करण था। यह 9 जून से 25 जून 1983 तक इंग्लैंड और वेल्स में आयोजित किया गया था और इसे भारत ने जीता था।",
+                  "image": {
+                    "url": "/static/images/kapil_dev/Prudential_Cup_83_logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of 1983 क्रिकेट विश्व कप"
                   }
                 }
@@ -144,7 +176,11 @@
         },
         {
           "label": "विश्व कप ",
+<<<<<<< HEAD
           "id": "IpFYb07yVsil",
+=======
+          "id": "mX0kcho-3xK",
+>>>>>>> feature/content-parser
           "note": "1987",
           "value": {
             "label": "1987 के विश्व कप के लिए कपिलदेव को भारतीय टीम का कप्तान बरकरार रखा गया। "
@@ -152,7 +188,11 @@
         },
         {
           "label": "विश्व कप ",
+<<<<<<< HEAD
           "id": "llZzNUg5wAVZ",
+=======
+          "id": "bap05L16aBR",
+>>>>>>> feature/content-parser
           "note": "कपिलदेव ने अपना आखिरी विश्व कप मोहमद अजहरुद्दीन की कप्तानी में 1992 में खेला। ",
           "value": {
             "label": "विश्व कप "
@@ -160,10 +200,164 @@
         },
         {
           "label": "IPL डेब्यू",
+<<<<<<< HEAD
           "id": "_xKyKGqhyJD9",
           "note": "",
           "value": {
             "label": ""
+=======
+          "id": "QWoNgye0Hkn",
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "फ़िरोज़ शाह कोटला, दिल्ली में पहला टेस्ट शतक (126) 1979 में वेस्टइंडीज़ के खिलाफ केवल 124 गेंदों में बना था।",
+            "image": {
+              "url": "",
+              "altText": "फ़िरोज़ शाह कोटला, दिल्ली में पहला टेस्ट शतक (126) 1979 में वेस्टइंडीज़ के खिलाफ केवल 124 गेंदों में बना था।"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "1980 की एक घरेलू टेस्ट सीरीज़ में ऑस्ट्रेलिया के खिलाफ दो बार 5 विकेट लिए",
+            "image": {
+              "url": "",
+              "altText": "1980 की एक घरेलू टेस्ट सीरीज़ में ऑस्ट्रेलिया के खिलाफ दो बार 5 विकेट लिए"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "1982-83 में श्रीलंका खिलाफ़ पहली बार भारत की कप्तानी की।",
+            "image": {
+              "url": "",
+              "altText": "1982-83 में श्रीलंका खिलाफ़ पहली बार भारत की कप्तानी की।"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "1983 के विश्व कप में जिम्बाब्वे के खिलाफ़ नाबाद 175 रन का सर्वोच्च वनडे स्कोर बनाया",
+            "image": {
+              "url": "",
+              "altText": "1983 के विश्व कप में जिम्बाब्वे के खिलाफ़ नाबाद 175 रन का सर्वोच्च वनडे स्कोर बनाया"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "भारत को वंडे विश्व कप में जीत दिलाने वाले पहले कप्तान",
+            "image": {
+              "url": "",
+              "altText": "भारत को वंडे विश्व कप में जीत दिलाने वाले पहले कप्तान"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "भारतीय राष्ट्रीय क्रिकेट टीम (1978-1994)",
+          "id": "vTvQoc-JEW",
+          "value": {
+            "label": "भारत की राष्ट्रीय क्रिकेट टीम, जिसे टीम इंडिया और मैन इन ब्लू के नाम से भी जाना जाता है, भारतीय क्रिकेट कंट्रोल बोर्ड द्वारा संचालित है"
+          }
+        },
+        {
+          "label": "हरियाणा (1975-1992)",
+          "id": "-59eK30W2Q",
+          "value": {
+            "label": "हरियाणा राज्य की घरेलू रणजी ट्रॉफी क्रिकेट टीम"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "अर्जुन पुरस्कार ",
+          "tag": "1980",
+          "id": "award-0",
+          "value": {
+            "label": "खेलकूद के क्षेत्र में उत्कृष्ट उपलब्धि हासिल करने के लिए सरकार द्वारा अर्जुन पुरस्कार दिया जाता है ",
+            "image": {
+              "url": "/static/images/kapil_dev/Arjun_Award.jpg",
+              "altText": "Image of अर्जुन पुरस्कार "
+            }
+          }
+        },
+        {
+          "label": "पद्म श्री ",
+          "tag": "1982",
+          "id": "award-1",
+          "value": {
+            "label": "पद्म श्री भारत गणराज्य का चौथा सर्वोच्च नागरिक पुरस्कार है",
+            "image": {
+              "url": "/static/images/kapil_dev/Padma_Shri_India_IIIe_Klasse.jpg",
+              "altText": "Image of पद्म श्री "
+            }
+          }
+        },
+        {
+          "label": "पद्म भूषण",
+          "tag": "1991",
+          "id": "award-2",
+          "value": {
+            "label": "पद्म भूषण भारत गणराज्य का तीसरा सबसे बड़ा नागरिक पुरस्कार है",
+            "image": {
+              "url": "/static/images/kapil_dev/Padma_Bhushan_India_IIe_Klasse.jpg",
+              "altText": "Image of पद्म भूषण"
+            }
+          }
+        },
+        {
+          "label": "विस्डेन इंडिया क्रिकेटर ऑफ द सेंचुरी",
+          "tag": "2002",
+          "id": "award-3",
+          "value": {
+            "label": "क्रिकेट की बाईबिल विजडन पत्रिका द्वारा दिया जाने वाला सम्मान।",
+            "image": {
+              "url": "",
+              "altText": "Image of विस्डेन इंडिया क्रिकेटर ऑफ द सेंचुरी"
+            }
+          }
+        },
+        {
+          "label": "आईसीसी हॉल ऑफ फेम",
+          "tag": "2010",
+          "id": "award-4",
+          "value": {
+            "label": "आईसीसी का क्रिकेट हॉल ऑफ फेम क्रिकेट के महान खिलाड़ियों को उनकी उपलब्धियों के सम्मान में दिया जाता है।",
+            "image": {
+              "url": "/static/images/kapil_dev/ICC_Hall_Of_Fame.svg",
+              "altText": "Image of आईसीसी हॉल ऑफ फेम"
+            }
+>>>>>>> feature/content-parser
           }
         }
       ]

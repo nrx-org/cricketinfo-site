@@ -2,7 +2,11 @@
   "title": "Sourav Ganguly",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/File:Sourav_Ganguly_closeup.jpg",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:Sourav_Ganguly_closeup.jpg",
+=======
+    "url": "/static/images/sourav_ganguly/Sourav_Ganguly_closeup.jpg",
+>>>>>>> feature/content-parser
     "altText": "Image of Sourav Ganguly"
   },
   "summary": "Sourav Ganguly is a former Indian cricketer and captain of the Indian national team. During his playing career, Ganguly established himself as one of the world's leading batsmen, and also one of the greatest captains of the national cricket team.",
@@ -86,7 +90,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "s9CEi8VuIlK",
+=======
+      "id": "Clmpaqyn36",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -94,7 +102,11 @@
           "value": {
             "label": "Ganguly is a left-handed batsman known for his elegant stroke-play. He is also a right-arm medium pace bowler.",
             "image": {
+<<<<<<< HEAD
               "url": "https://en.wikipedia.org/wiki/Sourav_Ganguly#/media/File:Sachin_in_action.jpg",
+=======
+              "url": "/static/images/sourav_ganguly/Sachin_in_action.jpg",
+>>>>>>> feature/content-parser
               "altText": "Style of play for Sourav Ganguly"
             }
           }
@@ -107,7 +119,11 @@
       "facts": [
         {
           "label": "First class Debut",
+<<<<<<< HEAD
           "id": "C_R37lfW0mk",
+=======
+          "id": "A0a6bQ3FSQL",
+>>>>>>> feature/content-parser
           "note": "1989",
           "value": {
             "label": "Sourav Ganguly made his first-class cricket debut for Bengal in 1989."
@@ -115,7 +131,11 @@
         },
         {
           "label": "National team debut ",
+<<<<<<< HEAD
           "id": "mAb6LGz4OuI",
+=======
+          "id": "Cqj11PqD4Ci",
+>>>>>>> feature/content-parser
           "note": "1992",
           "value": {
             "label": "Ganguly scored three runs in his One Day International (ODI) debut for India against the West Indies in 1992.",
@@ -124,11 +144,19 @@
                 "url": "/read/en/west_indies_cricket_team",
                 "contentUrl": "/static/content/en/west_indies_cricket_team.json",
                 "label": "West Indies cricket team",
+<<<<<<< HEAD
                 "id": "XQnLz2d7i9s",
                 "value": {
                   "label": "The West Indies cricket team, traditionally known as the Windies, is a multi-national cricket team representing the Anglophone Caribbean region and administered by Cricket West Indies. The players on this composite team are selected from a chain of fifteen Caribbean territories",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/West_Indies_cricket_team#/media/File:West_indies_cricket_board_flag.png",
+=======
+                "id": "-mNdWZwIJuN",
+                "value": {
+                  "label": "The West Indies cricket team, traditionally known as the Windies, is a multi-national cricket team representing the Anglophone Caribbean region and administered by Cricket West Indies. The players on this composite team are selected from a chain of fifteen Caribbean territories",
+                  "image": {
+                    "url": "/static/images/sourav_ganguly/West_indies_cricket_board_flag.png",
+>>>>>>> feature/content-parser
                     "altText": "Image of West Indies cricket team"
                   }
                 }
@@ -138,7 +166,11 @@
         },
         {
           "label": "ICC Tournament Debut",
+<<<<<<< HEAD
           "id": "W8vujB8cXQq",
+=======
+          "id": "RV5y801ZRXD",
+>>>>>>> feature/content-parser
           "note": "1999",
           "value": {
             "label": "Ganguly scored 183 run from 158 balls versus Sri Lanka during the 1999 World cup, his highest ODI score.",
@@ -147,11 +179,19 @@
                 "url": "/read/en/1999_cricket_world_cup",
                 "contentUrl": "/static/content/en/1999_cricket_world_cup.json",
                 "label": "1999 Cricket World Cup",
+<<<<<<< HEAD
                 "id": "tajdQtmrl7s",
                 "value": {
                   "label": "The 1999 Cricket World Cup was the seventh edition of the Cricket World Cup, organised by the International Cricket Council (ICC). It was hosted primarily by England, with some games being played in Scotland, Ireland, Wales and the Netherlands.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/1999_Cricket_World_Cup#/media/File:Wc99.png",
+=======
+                "id": "ofGGcWEbmYz",
+                "value": {
+                  "label": "The 1999 Cricket World Cup was the seventh edition of the Cricket World Cup, organised by the International Cricket Council (ICC). It was hosted primarily by England, with some games being played in Scotland, Ireland, Wales and the Netherlands.",
+                  "image": {
+                    "url": "/static/images/sourav_ganguly/Wc99.png",
+>>>>>>> feature/content-parser
                     "altText": "Image of 1999 Cricket World Cup"
                   }
                 }
@@ -161,7 +201,11 @@
         },
         {
           "label": "Champions Trophy 2002",
+<<<<<<< HEAD
           "id": "q2o98SX-3mw",
+=======
+          "id": "aDVO6wL6kjT",
+>>>>>>> feature/content-parser
           "note": "2002",
           "value": {
             "label": "India was declared co-champions of the tournament and Ganguly score 117 not out in the pool stage versus England. ",
@@ -170,11 +214,19 @@
                 "url": "/read/en/icc_champions_trophy",
                 "contentUrl": "/static/content/en/icc_champions_trophy.json",
                 "label": "ICC Champions Trophy",
+<<<<<<< HEAD
                 "id": "AsPbii3ktDO",
                 "value": {
                   "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/ICC_Champions_Trophy#/media/File:ICC_Champions_Trophy_cricket_logo.png",
+=======
+                "id": "6LSAydMwDTI",
+                "value": {
+                  "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
+                  "image": {
+                    "url": "/static/images/sourav_ganguly/ICC_Champions_Trophy_cricket_logo.png",
+>>>>>>> feature/content-parser
                     "altText": "Image of ICC Champions Trophy"
                   }
                 }
@@ -184,7 +236,11 @@
         },
         {
           "label": "2003 World Cup",
+<<<<<<< HEAD
           "id": "YfP0cHg6fxX",
+=======
+          "id": "vMbfU-oE-Qn",
+>>>>>>> feature/content-parser
           "note": "2003",
           "value": {
             "label": "Under Sourav Ganguly's captainship India reached the finals of the world cup for the first time since 1983.",
@@ -193,11 +249,19 @@
                 "url": "/read/en/2003_cricket_world_cup",
                 "contentUrl": "/static/content/en/2003_cricket_world_cup.json",
                 "label": "2003 Cricket World Cup",
+<<<<<<< HEAD
                 "id": "HoF_-gqRwik",
                 "value": {
                   "label": "The 2003 Cricket World Cup was the eighth Cricket World Cup, organized by the International Cricket Council (ICC). It was co-hosted by South Africa, Zimbabwe and Kenya.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/2003_Cricket_World_Cup#/media/File:Cricket_World_Cup_Logo_2003.svg",
+=======
+                "id": "g8AHHQbbaKX",
+                "value": {
+                  "label": "The 2003 Cricket World Cup was the eighth Cricket World Cup, organized by the International Cricket Council (ICC). It was co-hosted by South Africa, Zimbabwe and Kenya.",
+                  "image": {
+                    "url": "/static/images/sourav_ganguly/Cricket_World_Cup_Logo_2003.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of 2003 Cricket World Cup"
                   }
                 }
@@ -207,7 +271,11 @@
         },
         {
           "label": "2007 World Cup",
+<<<<<<< HEAD
           "id": "ejCJuXwiuME",
+=======
+          "id": "7SH6uwWtfn-",
+>>>>>>> feature/content-parser
           "note": "2007",
           "value": {
             "label": "Ganguly was the leading scorer for India although the team was knocked out of the tournament in the group stage.",
@@ -216,11 +284,19 @@
                 "url": "/read/en/2007_cricket_world_cup",
                 "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
                 "label": "2007 Cricket World Cup",
+<<<<<<< HEAD
                 "id": "IqO5xyddfZf",
                 "value": {
                   "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/2007_Cricket_World_Cup#/media/File:2007_Cricket_World_Cup_logo.svg",
+=======
+                "id": "3u9BYNkaw77",
+                "value": {
+                  "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
+                  "image": {
+                    "url": "/static/images/sourav_ganguly/2007_Cricket_World_Cup_logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of 2007 Cricket World Cup"
                   }
                 }
@@ -230,7 +306,11 @@
         },
         {
           "label": "IPL Debut",
+<<<<<<< HEAD
           "id": "rYgPiLbs2H4",
+=======
+          "id": "8lULt_Mla9b",
+>>>>>>> feature/content-parser
           "note": "2008",
           "value": {
             "label": "Ganguly joined the Kolkata Knight Riders team as captain for the Indian Premier League in 2008.",
@@ -239,11 +319,19 @@
                 "url": "/read/en/kolkata_knight_riders",
                 "contentUrl": "/static/content/en/kolkata_knight_riders.json",
                 "label": "Kolkata Knight Riders",
+<<<<<<< HEAD
                 "id": "c6Cnk50a9ws",
                 "value": {
                   "label": "The Kolkata Knight Riders (also known by the acronym KKR) are a franchise cricket team representing the city of Kolkata in the Indian Premier League. ",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Kolkata_Knight_Riders#/media/File:Kolkata_Knight_Riders_Logo.svg",
+=======
+                "id": "gKnG75JDVXi",
+                "value": {
+                  "label": "The Kolkata Knight Riders (also known by the acronym KKR) are a franchise cricket team representing the city of Kolkata in the Indian Premier League. ",
+                  "image": {
+                    "url": "/static/images/sourav_ganguly/Kolkata_Knight_Riders_Logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of Kolkata Knight Riders"
                   }
                 }
@@ -252,6 +340,154 @@
           }
         }
       ]
+<<<<<<< HEAD
+=======
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "Sourav Ganguly scored a century on his test debut versus England at Lord's",
+            "image": {
+              "url": "",
+              "altText": "Sourav Ganguly scored a century on his test debut versus England at Lord's"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "Ganguly has the highest individual score by an Indian batsman (183) in the Cricket World Cup",
+            "image": {
+              "url": "",
+              "altText": "Ganguly has the highest individual score by an Indian batsman (183) in the Cricket World Cup"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "Ganguly became India's most successful Test captain leading the team to victory on 21 occasions",
+            "image": {
+              "url": "",
+              "altText": "Ganguly became India's most successful Test captain leading the team to victory on 21 occasions"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "Ganguly is India's most successful Test captain overseas, winning 11 out of 28 matches that he led",
+            "image": {
+              "url": "",
+              "altText": "Ganguly is India's most successful Test captain overseas, winning 11 out of 28 matches that he led"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "One of the only five cricketers to have 10,000 runs, 100 wickets & 100 catches in ODI cricket",
+            "image": {
+              "url": "",
+              "altText": "One of the only five cricketers to have 10,000 runs, 100 wickets & 100 catches in ODI cricket"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Indian National Cricket team (1992-2008)",
+          "id": "ZA7qzQfk-X8",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India national cricket team",
+                "id": "TrPYOD8m776",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "/static/images/sourav_ganguly/Cricket_India_Crest.svg",
+                    "altText": "Picture of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Pune Warriors India (2011-2012)",
+          "id": "LS_TNxWDHjq",
+          "value": {
+            "label": "Pune Warriors India were an IPL cricket team that represented the city of Pune. The team was dissolved in 2013."
+          }
+        },
+        {
+          "label": "Bengal (1990-2010)",
+          "id": "UP1DPfieLjG",
+          "value": {
+            "label": "The Bengal cricket team represents the Indian state of West Bengal in domestic first-class cricket."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "Arjuna Award",
+          "tag": "1997",
+          "id": "award-0",
+          "value": {
+            "label": "Arjuna Awards are given by the Government for outstanding achievement in sports",
+            "image": {
+              "url": "/static/images/sourav_ganguly/Arjun_Award.jpg",
+              "altText": "Image of Arjuna Award"
+            }
+          }
+        },
+        {
+          "label": "Padma Shri",
+          "tag": "2004",
+          "id": "award-1",
+          "value": {
+            "label": "Padma Shri is the fourth highest civilian award in the Republic of India",
+            "image": {
+              "url": "/static/images/sourav_ganguly/The_President_Dr._A.P.J_Abdul_Kalam_presenting_Padma_Shri_Award_to_Shri_Saurav_Ganguly_the_most_successful_Captain_of_Indian_Cricket_Team_at_an_investiture_Ceremony_at_Rashtrapati_Bhawan_in_New_Delhi_on_June_30,_2004.jpg",
+              "altText": "Image of Padma Shri"
+            }
+          }
+        },
+        {
+          "label": "Banga Bibhushan",
+          "tag": "2013",
+          "id": "award-2",
+          "value": {
+            "label": "Banga Bibhushan Samman  is a title instituted by the West Bengal Government to honour the services of personalities in various fields",
+            "image": {
+              "url": "",
+              "altText": "Image of Banga Bibhushan"
+            }
+          }
+        }
+      ]
+>>>>>>> feature/content-parser
     }
   ]
 }

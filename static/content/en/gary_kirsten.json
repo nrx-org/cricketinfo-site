@@ -2,7 +2,11 @@
   "title": "Gary Kirsten",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Gary_Kirsten",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:GaryKirsten.jpg",
+=======
+    "url": "/static/images/gary_kirsten/GaryKirsten.jpg",
+>>>>>>> feature/content-parser
     "altText": "Image of Gary Kirsten"
   },
   "summary": "Gary Kirsten is a former South African cricketer. He was also the coach of the Indian cricket team that won the 2011 world cup.",
@@ -76,7 +80,11 @@
           "value": {
             "label": "",
             "image": {
+<<<<<<< HEAD
               "url": "https://en.wikipedia.org/wiki/File:Rondebosch_Boys%27_High_School_logo.gif",
+=======
+              "url": "/static/images/gary_kirsten/Rondebosch_Boys%27_High_School_logo.gif",
+>>>>>>> feature/content-parser
               "altText": "Image of Rondebosch Boys' High School, Cape Town"
             }
           }
@@ -85,7 +93,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "qsoSvarV8BQ",
+=======
+      "id": "IS6EtBvmz0p",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -102,7 +114,11 @@
       "facts": [
         {
           "label": "National team debut ",
+<<<<<<< HEAD
           "id": "5PgUiqFPAS_",
+=======
+          "id": "tALQNwUDObu",
+>>>>>>> feature/content-parser
           "note": "1993",
           "value": {
             "label": "Kirsten made his international debut in a ODI versus Australia in 1993",
@@ -111,11 +127,19 @@
                 "url": "/read/en/australia_cricket_team",
                 "contentUrl": "/static/content/en/australia_cricket_team.json",
                 "label": "Australia Cricket team",
+<<<<<<< HEAD
                 "id": "TPP9E8P_cfn",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Australia_national_cricket_team#/media/File:Australia_cricket_logo.svg",
+=======
+                "id": "aL56CopoeYw",
+                "value": {
+                  "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+                  "image": {
+                    "url": "/static/images/gary_kirsten/Australia_cricket_logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of Australia Cricket team"
                   }
                 }
@@ -125,7 +149,11 @@
         },
         {
           "label": "ICC Tournament Debut",
+<<<<<<< HEAD
           "id": "ByLldci1iAe",
+=======
+          "id": "y6jae0zRz0l",
+>>>>>>> feature/content-parser
           "note": "1996",
           "value": {
             "label": "Kirsten scored 188 not-outagainst the United Arab Emirates during the 1996 World Cup",
@@ -134,11 +162,19 @@
                 "url": "/read/en/1996_cricket_world_cup",
                 "contentUrl": "/static/content/en/1996_cricket_world_cup.json",
                 "label": "1996 Cricket World Cup",
+<<<<<<< HEAD
                 "id": "CmvTTpKPt-A",
                 "value": {
                   "label": "The 1996 Cricket World Cup, also called the Wills World Cup 1996 after its official sponsors, ITC's Wills brand, was the sixth Cricket World Cup. It was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/1996_Cricket_World_Cup#/media/File:Wills_World_Cup_1996.svg",
+=======
+                "id": "-EQ1b4VezQZ",
+                "value": {
+                  "label": "The 1996 Cricket World Cup, also called the Wills World Cup 1996 after its official sponsors, ITC's Wills brand, was the sixth Cricket World Cup. It was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka.",
+                  "image": {
+                    "url": "/static/images/gary_kirsten/Wills_World_Cup_1996.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of 1996 Cricket World Cup"
                   }
                 }
@@ -148,13 +184,134 @@
         },
         {
           "label": "IPL Debut",
+<<<<<<< HEAD
           "id": "BM9p1Kejlpi",
+=======
+          "id": "T-ky9MKZuWC",
+>>>>>>> feature/content-parser
           "note": "",
           "value": {
             "label": ""
           }
         }
       ]
+<<<<<<< HEAD
+=======
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "Created the record for highest innings by a South African in a One Day International versus UAE, scoring 188 not out",
+            "image": {
+              "url": "",
+              "altText": "Created the record for highest innings by a South African in a One Day International versus UAE, scoring 188 not out"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "Coached the Indian cricket team that won the 2011 world cup",
+            "image": {
+              "url": "",
+              "altText": "Coached the Indian cricket team that won the 2011 world cup"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "South African national cricket team (1993 - 2004)",
+          "id": "_atHJ147lEE",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "South Africa national cricket team",
+                "id": "t41yY_aIsI7",
+                "url": "/read/en/south_africa_national_cricket_team",
+                "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
+                "value": {
+                  "label": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
+                  "image": {
+                    "url": "/static/images/gary_kirsten/Southafrica_cricket_logo.svg",
+                    "altText": "Picture of South Africa national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Western Province (1987-2004)",
+          "id": "E5xUm0LSqFH",
+          "value": {
+            "label": "Western Province is the team representing Western Cape province in domestic first-class cricket in South Africa."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "Wisden Cricketer of the year",
+          "tag": "2004",
+          "id": "award-0",
+          "value": {
+            "label": "The Wisden Cricketers of the Year are cricketers selected for the honour by the annual publication Wisden Cricketers' Almanack.",
+            "image": {
+              "url": "",
+              "altText": "Image of Wisden Cricketer of the year"
+            }
+          }
+        }
+      ]
+>>>>>>> feature/content-parser
     }
   ]
 }

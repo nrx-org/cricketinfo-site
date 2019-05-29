@@ -2,8 +2,14 @@
   "title": "Mohammed Shami",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammed_Shami",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:Indian_Cricket_team_training_SCG_2015_(16007161637).jpg",
     "altText": "Image of Mohammed Shami"
+=======
+    "url": "/static/images/mohammed_shami/Indian_Cricket_team_training_SCG_2015_%2816007161637%29.jpg",
+    "altText": "Image of Mohammed Shami",
+    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+>>>>>>> feature/content-parser
   },
   "summary": "Mohammed Shami is an Indian international cricketer",
   "translations": [
@@ -63,7 +69,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "2hoIeNbGRJe",
+=======
+      "id": "KEMQRinCpL",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -80,7 +90,11 @@
       "facts": [
         {
           "label": "First class Debut",
+<<<<<<< HEAD
           "id": "Qdr7HXFOH4l",
+=======
+          "id": "322_Dnr_zu",
+>>>>>>> feature/content-parser
           "note": "2010",
           "value": {
             "label": "Shami made his first-class debut in 2010 against Assam, picking up three wickets."
@@ -88,7 +102,11 @@
         },
         {
           "label": "National team debut ",
+<<<<<<< HEAD
           "id": "3IMIWgsPuWj",
+=======
+          "id": "ogdJes_pwM",
+>>>>>>> feature/content-parser
           "note": "2013",
           "value": {
             "label": "Shami made his ODI debut versus Pakistan in 2013.",
@@ -97,11 +115,19 @@
                 "url": "/read/en/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
                 "label": "Pakistan national cricket team",
+<<<<<<< HEAD
                 "id": "i7Ba4p10E_U",
                 "value": {
                   "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Pakistan_national_cricket_team#/media/File:PakistanCricketLogo.png",
+=======
+                "id": "sah1wrdN7n",
+                "value": {
+                  "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
+                  "image": {
+                    "url": "/static/images/mohammed_shami/PakistanCricketLogo.png",
+>>>>>>> feature/content-parser
                     "altText": "Image of Pakistan national cricket team"
                   }
                 }
@@ -111,7 +137,11 @@
         },
         {
           "label": "ICC Tournament Debut",
+<<<<<<< HEAD
           "id": "2uzF5Mu53C8",
+=======
+          "id": "eJ28wXUkEo",
+>>>>>>> feature/content-parser
           "note": "2014",
           "value": {
             "label": "Shami made his T20 debut in the opening match of the T20 world cup"
@@ -119,7 +149,11 @@
         },
         {
           "label": "IPL Debut",
+<<<<<<< HEAD
           "id": "w77NTeCcfLO",
+=======
+          "id": "5qyUrXozC9",
+>>>>>>> feature/content-parser
           "note": "2014",
           "value": {
             "label": "Shami played for the Delhi Daredevils from 2014 to 2018",
@@ -128,11 +162,19 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
+<<<<<<< HEAD
                 "id": "MF48mgxUO-m",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Delhi_Capitals#/media/File:Delhi_Capitals_Logo.svg",
+=======
+                "id": "df4p9la_vw",
+                "value": {
+                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "image": {
+                    "url": "/static/images/mohammed_shami/Delhi_Capitals_Logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of Delhi Capitals"
                   }
                 }
@@ -141,6 +183,132 @@
           }
         }
       ]
+<<<<<<< HEAD
+=======
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "Shami picked 5  wickets on his Test debut against West Indies in November 2013",
+            "image": {
+              "url": "",
+              "altText": "Shami picked 5  wickets on his Test debut against West Indies in November 2013"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "In 2019, Shami picked up 100 ODIs wickets, fastest to reach this milestone among Indian bowlers",
+            "image": {
+              "url": "",
+              "altText": "In 2019, Shami picked up 100 ODIs wickets, fastest to reach this milestone among Indian bowlers"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "In 2014, in an Asia cup match against Afghanistan, Shami became the second fastest Indian to take 50 ODI wickets.",
+            "image": {
+              "url": "",
+              "altText": "In 2014, in an Asia cup match against Afghanistan, Shami became the second fastest Indian to take 50 ODI wickets."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "During his debut Test match, Shami picked 9 wickets for 118 runs, the most wickets by an Indian pacer on debut",
+            "image": {
+              "url": "",
+              "altText": "During his debut Test match, Shami picked 9 wickets for 118 runs, the most wickets by an Indian pacer on debut"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "Shami was involved in a 111-run partnership for the 10th wicket, with Bhuvneshwar Kumar versus England in 2014",
+            "image": {
+              "url": "",
+              "altText": "Shami was involved in a 111-run partnership for the 10th wicket, with Bhuvneshwar Kumar versus England in 2014"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Indian national cricket team (2013-present)",
+          "id": "c_HkvPcAJd",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India national cricket team",
+                "id": "ZkbBv_mzu",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "/static/images/mohammed_shami/Cricket_India_Crest.svg",
+                    "altText": "Picture of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Kings XI Punjab (2019)",
+          "id": "3hxLj3DKsT",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Kings XI Punjab",
+                "id": "UCCyAFn8qi",
+                "url": "/read/en/kings_xi_punjab",
+                "contentUrl": "/static/content/en/kings_xi_punjab.json",
+                "value": {
+                  "label": "The Kings XI Punjab (KXIP) are a franchise cricket team based in Mohali (Chandigarh CR), Punjab, that plays in the Indian Premier League. ",
+                  "image": {
+                    "url": "/static/images/mohammed_shami/Kings_XI_Punjab_logo.svg",
+                    "altText": "Picture of Kings XI Punjab"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Bengal (2010 - present)",
+          "id": "kbhjehTn8Q",
+          "value": {
+            "label": "The Bengal cricket team represents the Indian state of West Bengal in domestic first-class cricket."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": []
+>>>>>>> feature/content-parser
     }
   ]
 }

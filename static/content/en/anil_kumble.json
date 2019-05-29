@@ -87,7 +87,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "KDyMCC2StlJ",
+=======
+      "id": "p4Neh9gqrn",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -95,7 +99,11 @@
           "value": {
             "label": "Kumble is a right-arm leg spinner (legbreak googly) with an unorthodox style, most famous for his flipper and a right-hand batsman He started his career as a fast bowler,which gave him a useful faster delivery. His unique bowling style can be attributed to matting pitches in Bangalore which assist top-spin and over-spin.",
             "image": {
+<<<<<<< HEAD
               "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/GandM_Flare_DXM_bat-Purist_156g_ball.jpg",
+=======
+              "url": "/static/images/anil_kumble/GandM_Flare_DXM_bat-Purist_156g_ball.jpg",
+>>>>>>> feature/content-parser
               "altText": "Style of play for Anil Kumble"
             }
           }
@@ -108,7 +116,11 @@
       "facts": [
         {
           "label": "First class Debut",
+<<<<<<< HEAD
           "id": "T2CkN7evwnW",
+=======
+          "id": "gpLm-Oxcycr",
+>>>>>>> feature/content-parser
           "note": "1989",
           "value": {
             "label": "Kumble made his first-class debut for Karnataka against Hyderabad on 30 November 1989, taking 4 wickets."
@@ -116,7 +128,11 @@
         },
         {
           "label": "National team debut ",
+<<<<<<< HEAD
           "id": "txcWkjf9Mqf",
+=======
+          "id": "0HE70hlZe-p",
+>>>>>>> feature/content-parser
           "note": "1990",
           "value": {
             "label": "Kumble made his One Day International debut against Sri Lanka at Sharjah in the Austral-Asia Cup in 1990.",
@@ -125,11 +141,19 @@
                 "url": "/read/en/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
                 "label": "Sri Lanka national cricket team",
+<<<<<<< HEAD
                 "id": "zU-XOUhebEO",
                 "value": {
                   "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Sri_Lanka_national_cricket_team#/media/File:Sri_Lanka_Cricket_Cap_Insignia.svg",
+=======
+                "id": "chCH6077OtE",
+                "value": {
+                  "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
+                  "image": {
+                    "url": "/static/images/anil_kumble/Sri_Lanka_Cricket_Cap_Insignia.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of Sri Lanka national cricket team"
                   }
                 }
@@ -139,7 +163,11 @@
         },
         {
           "label": "ICC Tournament Debut",
+<<<<<<< HEAD
           "id": "Cyx9_pZDoUx",
+=======
+          "id": "agcwhYYGusO",
+>>>>>>> feature/content-parser
           "note": "1996",
           "value": {
             "label": "Kumble was selected in the Indian side for the 1996 World Cup and was the leading wicket-taker in the tournament.",
@@ -148,11 +176,19 @@
                 "url": "/read/en/1996_cricket_world_cup",
                 "contentUrl": "/static/content/en/1996_cricket_world_cup.json",
                 "label": "1996 Cricket World Cup",
+<<<<<<< HEAD
                 "id": "RmBnKlQXJr9",
                 "value": {
                   "label": "The 1996 Cricket World Cup, also called the Wills World Cup 1996 after its official sponsors, ITC's Wills brand, was the sixth Cricket World Cup. It was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/1996_Cricket_World_Cup#/media/File:Wills_World_Cup_1996.svg",
+=======
+                "id": "aYZqjKUkaqQ",
+                "value": {
+                  "label": "The 1996 Cricket World Cup, also called the Wills World Cup 1996 after its official sponsors, ITC's Wills brand, was the sixth Cricket World Cup. It was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka.",
+                  "image": {
+                    "url": "/static/images/anil_kumble/Wills_World_Cup_1996.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of 1996 Cricket World Cup"
                   }
                 }
@@ -162,6 +198,7 @@
         },
         {
           "label": "Retirement",
+<<<<<<< HEAD
           "id": "pMoc3clDl5U",
           "note": "2007",
           "value": {
@@ -185,11 +222,199 @@
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Royal_Challengers_Bangalore#/media/File:Royal_Challengers_Bangalore_Logo_2016.svg",
                     "altText": "Image of Royal Challengers Bangalore"
+=======
+          "id": "2XOhtfQrrWB",
+          "note": "2007",
+          "value": {
+            "label": "After the 2007 World Cup, he announced his retirement from ODIs"
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "9zVhmxyO7WF",
+          "note": "2008",
+          "value": {
+            "label": "Kumble agreed to honour his contract with the Royal Challengers Bangalore (RCB) after retirement and played for 3 years.",
+            "facts": [
+              {
+                "url": "/read/en/royal_challengers_bangalore",
+                "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
+                "label": "Royal Challengers Bangalore",
+                "id": "51T18-egyzn",
+                "value": {
+                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "/static/images/anil_kumble/Royal_Challengers_Bangalore_Logo_2016.svg",
+                    "altText": "Image of Royal Challengers Bangalore"
                   }
                 }
               }
             ]
           }
+        }
+      ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "Kumble is the second player to have taken all 10 wickets in a single innings of a test match.",
+            "image": {
+              "url": "",
+              "altText": "Kumble is the second player to have taken all 10 wickets in a single innings of a test match."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "Kumble holds the record for the most wickets in a calendar year by an Indian in ODIs with 61 wickets in 1996",
+            "image": {
+              "url": "",
+              "altText": "Kumble holds the record for the most wickets in a calendar year by an Indian in ODIs with 61 wickets in 1996"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "Kumble holds the record of bowling 40850 balls in entire Test career, highest for an Indian.",
+            "image": {
+              "url": "",
+              "altText": "Kumble holds the record of bowling 40850 balls in entire Test career, highest for an Indian."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "Kumble took his first 50 Test wickets in 10 matches",
+            "image": {
+              "url": "",
+              "altText": "Kumble took his first 50 Test wickets in 10 matches"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "In 1993, he took six wickets for 12 runs in an ODI against the West Indies which was an Indian record for very long time.",
+            "image": {
+              "url": "",
+              "altText": "In 1993, he took six wickets for 12 runs in an ODI against the West Indies which was an Indian record for very long time."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Indian National Cricket team (1990-2008)",
+          "id": "-dNchX1bQZ",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India national cricket team",
+                "id": "AsVpGjf5TQ",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "/static/images/anil_kumble/Cricket_India_Crest.svg",
+                    "altText": "Picture of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Royal Challengers Bangalore (2008-2010)",
+          "id": "wOX_SRN_AE",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Royal Challengers Bangalore",
+                "id": "duaneiMX_Q",
+                "url": "/read/en/royal_challengers_bangalore",
+                "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
+                "value": {
+                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "/static/images/anil_kumble/Royal_Challengers_Bangalore_Logo_2016.svg",
+                    "altText": "Picture of Royal Challengers Bangalore"
+>>>>>>> feature/content-parser
+                  }
+                }
+              }
+            ]
+          }
+<<<<<<< HEAD
+=======
+        },
+        {
+          "label": "Karnataka (1989-2009)",
+          "id": "hKBTPicvPz",
+          "value": {
+            "label": "Domestic Ranji trophy cricket team based in the state of Karnataka"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "Arjuna Award",
+          "tag": "1995",
+          "id": "award-0",
+          "value": {
+            "label": "Arjuna Awards are given by the Government for outstanding achievement in sports",
+            "image": {
+              "url": "/static/images/anil_kumble/Arjun_Award.jpg",
+              "altText": "Image of Arjuna Award"
+            }
+          }
+        },
+        {
+          "label": "Padma Shri",
+          "tag": "2005",
+          "id": "award-1",
+          "value": {
+            "label": "Padma Shri is the fourth highest civilian award in the Republic of India",
+            "image": {
+              "url": "/static/images/anil_kumble/Padma_Shri_India_IIIe_Klasse.jpg",
+              "altText": "Image of Padma Shri"
+            }
+          }
+        },
+        {
+          "label": "ICC Cricket Hall of Fame",
+          "tag": "2015",
+          "id": "award-2",
+          "value": {
+            "label": "The ICC Cricket Hall of Fame recognises the achievements of the cricketing legends.",
+            "image": {
+              "url": "/static/images/anil_kumble/ICC_Hall_Of_Fame.svg",
+              "altText": "Image of ICC Cricket Hall of Fame"
+            }
+          }
+>>>>>>> feature/content-parser
         }
       ]
     }

@@ -2,7 +2,11 @@
   "title": "சிக்கர் தவான்",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Shikhar_Dhawan",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:SHIKHAR_DHAWAN_(16005494418).jpg",
+=======
+    "url": "/static/images/shikhar_dhawan/SHIKHAR_DHAWAN_(16005494418).jpg",
+>>>>>>> feature/content-parser
     "altText": "Image of சிக்கர் தவான்"
   },
   "summary": "சிக்கர் தவான் இந்தியாவைச் சேர்ந்த சர்வதேச கிரிக்கெட் வீரர்.",
@@ -81,7 +85,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "pMUpAimbuzEa",
+=======
+      "id": "g0_HYmKbk7C",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -89,8 +97,14 @@
           "value": {
             "label": "விராட் கோலி வலது கை ஓப்பனிங் பேட்ஸ்மேன் மற்றும் எப்போதாவது வலது கையில் ஆஃப் பிரேக் பந்துவீசுவார்.",
             "image": {
+<<<<<<< HEAD
               "url": "https://en.wikipedia.org/wiki/Shikhar_Dhawan#/media/File:SHIKHAR_DHAWAN_(16007163087).jpg",
               "altText": "Style of play for சிக்கர் தவான்"
+=======
+              "url": "/static/images/shikhar_dhawan/SHIKHAR_DHAWAN_%2816007163087%29.jpg",
+              "altText": "Style of play for சிக்கர் தவான்",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+>>>>>>> feature/content-parser
             }
           }
         }
@@ -102,7 +116,11 @@
       "facts": [
         {
           "label": "முதல் வகுப்பு",
+<<<<<<< HEAD
           "id": "mCRB4jtOhFL9",
+=======
+          "id": "H5yOrTt0m3",
+>>>>>>> feature/content-parser
           "note": "2004",
           "value": {
             "label": "தவான் 2004 ஆம் ஆண்டு ரஞ்சி டிராஃபி போட்டியில் தன்னுடைய முதல் பர்ஸ் கிளாஸ் போட்டியை டெல்லி அணிக்காக ஆடினார்."
@@ -110,7 +128,11 @@
         },
         {
           "label": "தேசிய அணி அறிமுகம்",
+<<<<<<< HEAD
           "id": "eyL421SiKLzg",
+=======
+          "id": "-5TElG7rR4",
+>>>>>>> feature/content-parser
           "note": "2010",
           "value": {
             "label": "தவான் ஆஸ்திரேலியாவுக்கு எதிராக தன்னுடைய முதல் சர்வதேச ஒரு நாள் போட்டியில் ஆடினார், ஆனால் பூஜ்ஜியத்தில் அவுட் ஆகிவிட்டார்."
@@ -118,7 +140,11 @@
         },
         {
           "label": "முதல் ஐசிசி போட்டி ",
+<<<<<<< HEAD
           "id": "RlYDdTbyyMmJ",
+=======
+          "id": "OyEKS4qSFN",
+>>>>>>> feature/content-parser
           "note": "2013",
           "value": {
             "label": "தவான், தொடரில் அதிக ரன்களைக் குவித்ததுடன், தொடரின் ஆட்ட நாயகன் என்ற பட்டதையும் பெற்றார்.",
@@ -127,11 +153,19 @@
                 "url": "/read/ta/icc_champions_trophy",
                 "contentUrl": "/static/content/ta/icc_champions_trophy.json",
                 "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி",
+<<<<<<< HEAD
                 "id": "PEHmktsLxCXP",
                 "value": {
                   "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி என்பது இன்டர்நேஷனல் கிரிக்கெட் கவுன்சிலால் (ஐசிசி) நடத்தப்படும் ஒன் டே இன்டர்நேஷனல் (ODI) கிரிக்கெட் டோர்னமென்ட் ஆகும். இது கிரிக்கெட் உலகக்கோப்பைக்கு அடுத்தபடியாக முக்கியமாக கருதப்படும் டோர்னமென்ட் ஆகும். 2002-ஆம் ஆண்டு இதன் பெயர் சேம்பியன்ஸ் டிராஃபி என்று மாற்றப்பட்டது.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/ICC_Champions_Trophy#/media/File:ICC_Champions_Trophy_cricket_logo.png",
+=======
+                "id": "v_aqERhELY",
+                "value": {
+                  "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி என்பது இன்டர்நேஷனல் கிரிக்கெட் கவுன்சிலால் (ஐசிசி) நடத்தப்படும் ஒன் டே இன்டர்நேஷனல் (ODI) கிரிக்கெட் டோர்னமென்ட் ஆகும். இது கிரிக்கெட் உலகக்கோப்பைக்கு அடுத்தபடியாக முக்கியமாக கருதப்படும் டோர்னமென்ட் ஆகும். 2002-ஆம் ஆண்டு இதன் பெயர் சேம்பியன்ஸ் டிராஃபி என்று மாற்றப்பட்டது.",
+                  "image": {
+                    "url": "/static/images/shikhar_dhawan/ICC_Champions_Trophy_cricket_logo.png",
+>>>>>>> feature/content-parser
                     "altText": "Image of ஐசிசி சேம்பியன்ஸ் டிராஃபி"
                   }
                 }
@@ -141,7 +175,11 @@
         },
         {
           "label": "விளையாட்டில் போராட்டம்",
+<<<<<<< HEAD
           "id": "nQ4barsxyQhs",
+=======
+          "id": "x7pD1r_RaHN",
+>>>>>>> feature/content-parser
           "note": "2014",
           "value": {
             "label": "தவானால் பெரிய ரன்களை எடுக்க முடியாத காரணத்தால் அவர் அணியிலிருந்து விலக்கப்பட்டார்.",
@@ -150,11 +188,19 @@
                 "url": "/read/ta/icc_t20_world_cup",
                 "contentUrl": "/static/content/ta/icc_t20_world_cup.json",
                 "label": "ஐசிசி டி20 உலகக் கோப்பை",
+<<<<<<< HEAD
                 "id": "DcuOzHnFVcbT",
                 "value": {
                   "label": "ஐசிசி டி20 உலகக் கோப்பை (முன்னர் ஐசிசி வேர்ல்ட் ட்வென்டி20 என்று அழைக்கப்படும்), ட்வென்டி20 இன்டர்நேஷனல் கிரிக்கெட்டின் இன்டர்நேஷனல் சேம்பியன்ஷிப் ஆகும். டோர்னமென்ட்டில் தற்போது 16 அணிகள் இடம்பெற்றுள்ளன. அதில் கொடுக்கப்பட்ட நேரத்திற்குள் தரவரிசையில் முதல் எட்டு இடங்களைப் பிடித்த அணிகளும், டி20 உலகக் கோப்பை குவாலிஃபயர் மூலமாக தேர்வு செய்யப்பட்ட நான்கு அணிகளும் உள்ளடங்கும்.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/ICC_T20_World_Cup#/media/File:ICC_World_Twenty20_Trophy.jpg",
+=======
+                "id": "xlBgCMmn80C",
+                "value": {
+                  "label": "ஐசிசி டி20 உலகக் கோப்பை (முன்னர் ஐசிசி வேர்ல்ட் ட்வென்டி20 என்று அழைக்கப்படும்), ட்வென்டி20 இன்டர்நேஷனல் கிரிக்கெட்டின் இன்டர்நேஷனல் சேம்பியன்ஷிப் ஆகும். டோர்னமென்ட்டில் தற்போது 16 அணிகள் இடம்பெற்றுள்ளன. அதில் கொடுக்கப்பட்ட நேரத்திற்குள் தரவரிசையில் முதல் எட்டு இடங்களைப் பிடித்த அணிகளும், டி20 உலகக் கோப்பை குவாலிஃபயர் மூலமாக தேர்வு செய்யப்பட்ட நான்கு அணிகளும் உள்ளடங்கும்.",
+                  "image": {
+                    "url": "/static/images/shikhar_dhawan/ICC_World_Twenty20_Trophy.jpg",
+>>>>>>> feature/content-parser
                     "altText": "Image of ஐசிசி டி20 உலகக் கோப்பை"
                   }
                 }
@@ -164,7 +210,11 @@
         },
         {
           "label": "உலகக் கோப்பை",
+<<<<<<< HEAD
           "id": "Sko88xhCzSmR",
+=======
+          "id": "zLmQJuYayJd",
+>>>>>>> feature/content-parser
           "note": "2015",
           "value": {
             "label": "தவான் 2015 உலகக் கோப்பையில் ஐந்தாவது அதிக ரன் எடுத்தவர் என்ற பெருமையைப் பெற்றார்.",
@@ -173,11 +223,19 @@
                 "url": "/read/ta/2015_cricket_world_cup",
                 "contentUrl": "/static/content/ta/2015_cricket_world_cup.json",
                 "label": "2015 கிரிக்கெட் உலகக் கோப்பை",
+<<<<<<< HEAD
                 "id": "KmAE2Cf5qtxP",
                 "value": {
                   "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/2015_Cricket_World_Cup#/media/File:2015_Cricket_World_Cup_Logo.svg",
+=======
+                "id": "rGhRQ66--Bh",
+                "value": {
+                  "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
+                  "image": {
+                    "url": "/static/images/shikhar_dhawan/2015_Cricket_World_Cup_Logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of 2015 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
@@ -187,7 +245,11 @@
         },
         {
           "label": "சேம்பியன்ஸ் டிராஃபி",
+<<<<<<< HEAD
           "id": "x3j6ALoYmtrR",
+=======
+          "id": "wHRElU-fgAk",
+>>>>>>> feature/content-parser
           "note": "தவான், டோர்னமெண்டில் அதிக ரன்களை குவித்து தங்க பேட் வென்றார்.",
           "value": {
             "label": "சேம்பியன்ஸ் டிராஃபி",
@@ -196,11 +258,19 @@
                 "url": "/read/ta/icc_champions_trophy",
                 "contentUrl": "/static/content/ta/icc_champions_trophy.json",
                 "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி",
+<<<<<<< HEAD
                 "id": "Y1BD0MKsBfSN",
                 "value": {
                   "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி என்பது இன்டர்நேஷனல் கிரிக்கெட் கவுன்சிலால் (ஐசிசி) நடத்தப்படும் ஒன் டே இன்டர்நேஷனல் (ODI) கிரிக்கெட் டோர்னமென்ட் ஆகும். இது கிரிக்கெட் உலகக்கோப்பைக்கு அடுத்தபடியாக முக்கியமாக கருதப்படும் டோர்னமென்ட் ஆகும். 2002-ஆம் ஆண்டு இதன் பெயர் சேம்பியன்ஸ் டிராஃபி என்று மாற்றப்பட்டது.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/ICC_Champions_Trophy#/media/File:ICC_Champions_Trophy_cricket_logo.png",
+=======
+                "id": "zZ1zQqUNxhz",
+                "value": {
+                  "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி என்பது இன்டர்நேஷனல் கிரிக்கெட் கவுன்சிலால் (ஐசிசி) நடத்தப்படும் ஒன் டே இன்டர்நேஷனல் (ODI) கிரிக்கெட் டோர்னமென்ட் ஆகும். இது கிரிக்கெட் உலகக்கோப்பைக்கு அடுத்தபடியாக முக்கியமாக கருதப்படும் டோர்னமென்ட் ஆகும். 2002-ஆம் ஆண்டு இதன் பெயர் சேம்பியன்ஸ் டிராஃபி என்று மாற்றப்பட்டது.",
+                  "image": {
+                    "url": "/static/images/shikhar_dhawan/ICC_Champions_Trophy_cricket_logo.png",
+>>>>>>> feature/content-parser
                     "altText": "Image of ஐசிசி சேம்பியன்ஸ் டிராஃபி"
                   }
                 }
@@ -210,10 +280,123 @@
         },
         {
           "label": "2008",
+<<<<<<< HEAD
           "id": "RG_N-TrtdKM4",
           "note": "டெல்லி டேர்டெவில்ஸ்",
           "value": {
             "label": "டெல்லி டேர்டெவில்ஸ்"
+=======
+          "id": "yYNkINiFkuh",
+          "note": "டெல்லி டேர்டெவில்ஸ்",
+          "value": {
+            "label": "டெல்லி டேர்டெவில்ஸ்"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "ஷிகர் தவான், தனது முதல் டெஸ்ட் போட்டியில் மிக விரைவாக சதம் அடித்த வீரராவார்",
+            "image": {
+              "url": "",
+              "altText": "ஷிகர் தவான், தனது முதல் டெஸ்ட் போட்டியில் மிக விரைவாக சதம் அடித்த வீரராவார்"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "2015 ஐசிசி உலகக் கோப்பையில் இந்திய வீரர் எடுத்த அதிக ரன்கள்",
+            "image": {
+              "url": "",
+              "altText": "2015 ஐசிசி உலகக் கோப்பையில் இந்திய வீரர் எடுத்த அதிக ரன்கள்"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி போட்டிகளில் மிக அதிகமான ரன்கள் குவித்து தொடர்ச்சியாக 2 முறை கோல்டன் பேட்ஸ் வாங்கிய ஒரே வீரர்",
+            "image": {
+              "url": "",
+              "altText": "ஐசிசி சேம்பியன்ஸ் டிராஃபி போட்டிகளில் மிக அதிகமான ரன்கள் குவித்து தொடர்ச்சியாக 2 முறை கோல்டன் பேட்ஸ் வாங்கிய ஒரே வீரர்"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "தவான் டெஸ்ட் போட்டியின் முதல் நாளில் மதிய உணவு இடைவேளைக்கு முன்னரே சதம் அடித்த முதல் இந்திய பேட்ஸ்மேன் ஆவார்.",
+            "image": {
+              "url": "",
+              "altText": "தவான் டெஸ்ட் போட்டியின் முதல் நாளில் மதிய உணவு இடைவேளைக்கு முன்னரே சதம் அடித்த முதல் இந்திய பேட்ஸ்மேன் ஆவார்."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "இந்திய கிரிக்கெட் அணி (2010 முதல் தற்போது வரை)",
+          "id": "7kDRp-cHQrc",
+          "value": {
+            "label": "இந்திய கிரிக்கெட் அணி டீம் இந்தியா மற்றும் மென் இன் புளூ என்றும் அழைக்கப்படுகிறது. இந்திய கிரிக்கெட் கட்டுப்பாட்டு வாரியம் இதை நிர்வகிக்கிறது"
+          }
+        },
+        {
+          "label": "டெல்லி கேப்பிட்டல்ஸ் (2019 முதல் தற்போது வரை)",
+          "id": "sqC5MARBlKL",
+          "value": {
+            "label": "டெல்லி கேப்பிட்டல்ஸ்  முன்னர் டெல்லி டேர்டெவில் என அழைக்கப்பட்டது. இது இந்தியாவில் டெல்லியைச் சேர்ந்த ஐபிஎல் கிரிக்கெட் அணி."
+          }
+        },
+        {
+          "label": "டெல்லி (2004 முதல் தற்போது வரை)",
+          "id": "D_mZ4-X0sYp",
+          "value": {
+            "label": "டெல்லியைச் சேர்ந்த உள்ளூர் ரஞ்சி டிராஃபி கிரிக்கெட் அணி"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "விஸ்டென் கிரிக்கெட்டர்ஸ் ஆஃப் தி இயர்",
+          "tag": "2014",
+          "id": "award-0",
+          "value": {
+            "label": "விஸ்டென் கிரிக்கெட்டர்ஸ் அல்மனாக் வழங்கும் வருடாந்திர விருது",
+            "image": {
+              "url": "",
+              "altText": "Image of விஸ்டென் கிரிக்கெட்டர்ஸ் ஆஃப் தி இயர்"
+            }
+>>>>>>> feature/content-parser
           }
         }
       ]

@@ -2,7 +2,11 @@
   "title": "Kapil Dev",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Kapil_Dev",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:Kapil_Dev_at_Equation_sports_auction.jpg",
+=======
+    "url": "/static/images/kapil_dev/Kapil_Dev_at_Equation_sports_auction.jpg",
+>>>>>>> feature/content-parser
     "altText": "Image of Kapil Dev"
   },
   "summary": "Kapil Dev, is a former Indian cricketer who captained the Indian cricket team that won the 1983 World Cup.",
@@ -80,7 +84,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "-lc9rZBFKT",
+=======
+      "id": "eAFbo6m5fc",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -97,7 +105,11 @@
       "facts": [
         {
           "label": "First class Debut",
+<<<<<<< HEAD
           "id": "X8SmpdxP3T",
+=======
+          "id": "sHVrFkJivK",
+>>>>>>> feature/content-parser
           "note": "1975",
           "value": {
             "label": "Dev made an impressive debut for Haryana in November 1975 against Punjab."
@@ -105,7 +117,11 @@
         },
         {
           "label": "National team debut ",
+<<<<<<< HEAD
           "id": "d3vMTh1Cu_",
+=======
+          "id": "EEEr0zl1eJ",
+>>>>>>> feature/content-parser
           "note": "1978",
           "value": {
             "label": "One day cricket debut against Pakistan where his individual performance was ordinary.",
@@ -114,11 +130,19 @@
                 "url": "/read/en/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
                 "label": "Pakistan national cricket team",
+<<<<<<< HEAD
                 "id": "zE0YVl5sAs",
                 "value": {
                   "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Pakistan_national_cricket_team#/media/File:PakistanCricketLogo.png",
+=======
+                "id": "gNepl-C3xB",
+                "value": {
+                  "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
+                  "image": {
+                    "url": "/static/images/kapil_dev/PakistanCricketLogo.png",
+>>>>>>> feature/content-parser
                     "altText": "Image of Pakistan national cricket team"
                   }
                 }
@@ -128,7 +152,11 @@
         },
         {
           "label": "ICC Tournament Debut",
+<<<<<<< HEAD
           "id": "EGv2MxOsE5F",
+=======
+          "id": "Msc2_9bDU6",
+>>>>>>> feature/content-parser
           "note": "1979",
           "value": {
             "label": "Both Kapil Dev and India had a poor campaign at the 1979 Cricket World Cup."
@@ -136,7 +164,11 @@
         },
         {
           "label": "1983 World Cup Champions",
+<<<<<<< HEAD
           "id": "nIhtNwa7LEy",
+=======
+          "id": "K1ON3WHICE",
+>>>>>>> feature/content-parser
           "note": "1983",
           "value": {
             "label": "India won the 1983 world cup under Kapil Dev's captaincy.",
@@ -145,11 +177,19 @@
                 "url": "/read/en/1983_cricket_world_cup",
                 "contentUrl": "/static/content/en/1983_cricket_world_cup.json",
                 "label": "1983 Cricket World Cup",
+<<<<<<< HEAD
                 "id": "3xFh9DoY0aq",
                 "value": {
                   "label": "The 1983 Cricket World Cup (officially the Prudential Cup '83) was the 3rd edition of the Cricket World Cup tournament. It was held from 9 June to 25 June 1983 in England and Wales and was won by India.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/1983_Cricket_World_Cup#/media/File:Prudential_Cup_83_logo.svg",
+=======
+                "id": "y5LOX-nm1z",
+                "value": {
+                  "label": "The 1983 Cricket World Cup (officially the Prudential Cup '83) was the 3rd edition of the Cricket World Cup tournament. It was held from 9 June to 25 June 1983 in England and Wales and was won by India.",
+                  "image": {
+                    "url": "/static/images/kapil_dev/Prudential_Cup_83_logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of 1983 Cricket World Cup"
                   }
                 }
@@ -159,7 +199,11 @@
         },
         {
           "label": "1987 World Cup",
+<<<<<<< HEAD
           "id": "UX1sy4YOF6z",
+=======
+          "id": "WqCdUUmxVd",
+>>>>>>> feature/content-parser
           "note": "1987",
           "value": {
             "label": "Kapil Dev was retained as the captain of the Indian team for the 1987 World Cup."
@@ -167,7 +211,11 @@
         },
         {
           "label": "Final years",
+<<<<<<< HEAD
           "id": "KxxpGdWqSdk",
+=======
+          "id": "TLtTl2fjc5",
+>>>>>>> feature/content-parser
           "note": "1992",
           "value": {
             "label": "Kapil Dev played his last world cup in 1992 under the captaincy of Mohammed Azharuddin"
@@ -175,10 +223,179 @@
         },
         {
           "label": "IPL Debut",
+<<<<<<< HEAD
           "id": "YjeImRdmAsF",
           "note": "",
           "value": {
             "label": ""
+=======
+          "id": "ZgKElmW4To",
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "First test century (126) at Feroz Shah Kotla, Delhi in just 124 balls versus West Indies in 1979",
+            "image": {
+              "url": "",
+              "altText": "First test century (126) at Feroz Shah Kotla, Delhi in just 124 balls versus West Indies in 1979"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "Two 5 wicket hauls against Australia in a home test series in 1980",
+            "image": {
+              "url": "",
+              "altText": "Two 5 wicket hauls against Australia in a home test series in 1980"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "Captained India for the first time in 1982-83 versus Sri Lanka.",
+            "image": {
+              "url": "",
+              "altText": "Captained India for the first time in 1982-83 versus Sri Lanka."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "Scored highest ODI score of 175 not out vs Zimbabwe in 1983 world cup",
+            "image": {
+              "url": "",
+              "altText": "Scored highest ODI score of 175 not out vs Zimbabwe in 1983 world cup"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "First captain to lead India to ODI world cup victory",
+            "image": {
+              "url": "",
+              "altText": "First captain to lead India to ODI world cup victory"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Indian National Cricket team (1978-1994)",
+          "id": "zKT4EoalDLH",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India national cricket team",
+                "id": "ZxxQlM3X9rk",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "/static/images/kapil_dev/Cricket_India_Crest.svg",
+                    "altText": "Picture of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Haryana (1975-1992)",
+          "id": "vfeEXsb3z5s",
+          "value": {
+            "label": "Domestic Ranji trophy cricket team based in the state of Haryana "
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "Arjuna Award",
+          "tag": "1980",
+          "id": "award-0",
+          "value": {
+            "label": "Arjuna Awards are given by the Government for outstanding achievement in sports",
+            "image": {
+              "url": "/static/images/kapil_dev/Arjun_Award.jpg",
+              "altText": "Image of Arjuna Award"
+            }
+          }
+        },
+        {
+          "label": "Padma Shri",
+          "tag": "1982",
+          "id": "award-1",
+          "value": {
+            "label": "Padma Shri is the fourth highest civilian award in the Republic of India",
+            "image": {
+              "url": "/static/images/kapil_dev/Padma_Shri_India_IIIe_Klasse.jpg",
+              "altText": "Image of Padma Shri"
+            }
+          }
+        },
+        {
+          "label": "Padma Bhushan",
+          "tag": "1991",
+          "id": "award-2",
+          "value": {
+            "label": "The Padma Bhushan is the third-highest civilian award in the Republic of India",
+            "image": {
+              "url": "/static/images/kapil_dev/Padma_Bhushan_India_IIe_Klasse.jpg",
+              "altText": "Image of Padma Bhushan"
+            }
+          }
+        },
+        {
+          "label": "Wisden India cricketer of the century",
+          "tag": "2002",
+          "id": "award-3",
+          "value": {
+            "label": "Awarded by the cricketing magazine Wisden Cricketer's Almanack.",
+            "image": {
+              "url": "",
+              "altText": "Image of Wisden India cricketer of the century"
+            }
+          }
+        },
+        {
+          "label": "ICC Hall of Fame",
+          "tag": "2010",
+          "id": "award-4",
+          "value": {
+            "label": "The ICC Cricket Hall of Fame recognises the achievements of the cricketing legends.",
+            "image": {
+              "url": "/static/images/kapil_dev/ICC_Hall_Of_Fame.svg",
+              "altText": "Image of ICC Hall of Fame"
+            }
+>>>>>>> feature/content-parser
           }
         }
       ]

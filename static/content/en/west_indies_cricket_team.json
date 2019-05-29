@@ -1,0 +1,370 @@
+{
+  "title": "West Indies cricket team",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/West_Indies_cricket_team",
+  "coverImage": {
+    "url": "/static/images/west_indies_cricket_team/West_indies_cricket_board_flag.png",
+    "altText": "Image of West Indies cricket team"
+  },
+  "summary": "The West Indies cricket team, traditionally known as the Windies, is a multi-national cricket team representing the Anglophone Caribbean region and administered by Cricket West Indies. The players on this composite team are selected from a chain of fifteen Caribbean territories",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/west_indies_cricket_team"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/west_indies_cricket_team"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Location",
+          "value": {
+            "label": "Anglophone Caribbean Region"
+          }
+        },
+        {
+          "label": "Established on",
+          "value": {
+            "label": "1928"
+          }
+        },
+        {
+          "label": "Association",
+          "value": {
+            "label": "Cricket West Indies"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Roles",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "label": "Test Captain",
+          "value": {
+            "label": "Kraigg Braithwaite",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of Kraigg Braithwaite"
+            }
+          }
+        },
+        {
+          "label": "ODI Captain",
+          "value": {
+            "label": "Rovman Powell",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of Rovman Powell"
+            }
+          }
+        },
+        {
+          "label": "T20I Captain",
+          "value": {
+            "label": "Jason Holder",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of Jason Holder"
+            }
+          }
+        },
+        {
+          "label": "Coach",
+          "value": {
+            "label": "Floyd Reifer",
+            "url": "/read/en/floyd_reifer",
+            "image": {
+              "url": "",
+              "altText": "Image of Floyd Reifer"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Popular Venue",
+      "id": "r3-queen's_park_oval",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "Queen's Park Oval",
+          "value": {
+            "label": "The Queen's Park Oval has hosted more Test matches than any other ground in the Caribbean and first hosted a Test match in 1930. The ground is considered one of the most picturesque venues in the world of cricket, featuring the view Trinidad's Northern Range.",
+            "image": {
+              "url": "/static/images/west_indies_cricket_team/Queens_Park_Oval_Trinidad.jpg",
+              "altText": "Image of Queen's Park Oval"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Early History",
+          "id": 3,
+          "note": "1880s - 1970s",
+          "value": {
+            "label": "The history of the West Indies cricket team began in the 1890s, when the first representative sides were selected to play visiting English sides. The WICB joined the sport's international ruling body, the Imperial Cricket Conference, in 1926, and played their first official international match, granted Test status, in 1928.\n\nThe West Indies defeated England for the first time at Lord's on 29 June 1950 and, on 16 August 1950, completed a 3–1 series win when they won at The Oval. Although",
+            "facts": []
+          }
+        },
+        {
+          "label": "World Champions",
+          "id": 3,
+          "note": "1970s to 1990s.",
+          "value": {
+            "label": "By the late 1970s, the West Indies led by Clive Lloyd had a side recognised as unofficial world champions, a reputation they retained throughout the 1980s.[19] During these glory years, the West Indies were noted for their four-man fast bowling attack, backed up by some of the best batsmen in the world. They won the first 2 world cups.  The 1980s saw them set a then-record streak of 11 consecutive Test victories in 1984, which was part of a still-standing record of 27 tests without defeat (the other tests being draws).",
+            "facts": [
+              {
+                "label": "1975 cricket world cup",
+                "url": null,
+                "id": 1,
+                "value": {
+                  "label": "",
+                  "image": {
+                    "altText": "Image of 1975 cricket world cup",
+                    "license": ""
+                  }
+                }
+              },
+              {
+                "label": "1979 cricket world cup",
+                "url": null,
+                "id": 1,
+                "value": {
+                  "label": "",
+                  "image": {
+                    "altText": "Image of 1979 cricket world cup",
+                    "license": ""
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Decline and rise ",
+          "id": 3,
+          "note": "1990s - Present",
+          "value": {
+            "label": "Throughout the 1990s and 2000s, West Indian cricket declined, largely owing to the failure of the West Indian Cricket Board to move the game from an amateur pastime to a professional sport. Victory in the 2004 Champions Trophy and a runner-up showing in the 2006 Champions Trophy left some hopeful, then they beat Australia and then host Sri Lanka in the 2012 World Twenty20 to win their first ICC world championship since the 1979 World Cup and then bested England to win the 2016 World Twenty20, making them the first team to win the World Twenty20 twice",
+            "facts": [
+              {
+                "label": "ICC Champions Trophy ",
+                "url": null,
+                "id": 1,
+                "value": {
+                  "label": "",
+                  "image": {
+                    "altText": "Image of ICC Champions Trophy ",
+                    "license": ""
+                  }
+                }
+              },
+              {
+                "label": "ICC T20 world cup",
+                "url": null,
+                "id": 1,
+                "value": {
+                  "label": "",
+                  "image": {
+                    "altText": "Image of ICC T20 world cup",
+                    "license": ""
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "",
+          "id": 3,
+          "note": "",
+          "value": {
+            "label": "",
+            "facts": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Famous Players",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Darren Sammy",
+          "id": "darren_sammy",
+          "value": {
+            "url": null,
+            "label": " Both World T20s were won with Sammy as captain, making him the only West Indian captain besides Clive Lloyd with multiple ICC tournament victories.",
+            "image": {
+              "url": "/static/images/west_indies_cricket_team/Darren_Sammy%2C_2010.jpg",
+              "altText": "Image of Darren Sammy",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Viv Richards",
+          "id": "viv_richards",
+          "value": {
+            "url": null,
+            "label": "Viv Richards, who has a Test batting average of 50.23 from 121 matches, captained the West Indies from 1985–86 to 1991, a period throughout which the West Indies were the best Test match side in the world.",
+            "image": {
+              "url": "/static/images/west_indies_cricket_team/Vivian_richards_crop.jpg",
+              "altText": "Image of Viv Richards"
+            }
+          }
+        },
+        {
+          "label": "Brian Lara",
+          "id": "brian_lara",
+          "value": {
+            "url": null,
+            "label": "Brian Lara holds the world record for highest score in Test cricket ",
+            "image": {
+              "url": "/static/images/west_indies_cricket_team/BrianLaraUkexpat.jpg",
+              "altText": "Image of Brian Lara"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Inaugural World Cup winners",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "West Indies won the inaugural World Cup",
+            "facts": [
+              {
+                "label": "1979 World Cup",
+                "id": "inaugural_world_cup_winners-1979_world_cup",
+                "url": null,
+                "value": {
+                  "label": null,
+                  "image": {
+                    "altText": "Image of Inaugural World Cup winners",
+                    "license": ""
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Back to Back!",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "West Indies is the first team to win 2 world cups in a row",
+            "facts": [
+              {
+                "label": "1975 World Cup",
+                "id": "back_to_back!-1975_world_cup",
+                "url": null,
+                "value": {
+                  "label": null,
+                  "image": {
+                    "altText": "Image of Back to Back!",
+                    "license": ""
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "T20 Champions",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "They beat Sri Lanka in the finals to win the ICC T20 World Cup.\nThey became the second team to have won all three ICC global trophies – the World Cup, the Champions Trophy and the World Twenty20  after India in 2007",
+            "facts": [
+              {
+                "label": "ICC T20 World Cup",
+                "id": "t20_champions-icc_t20_world_cup",
+                "url": "/read/en/icc_t20_world_cup",
+                "value": {
+                  "label": "The ICC T20 World Cup (earlier known as ICC World Twenty20) is the international championship of Twenty20 International cricket. The tournament currently consists of 16 teams, comprising the top eight teams from the rankings at the given deadline and four other teams chosen through the T20 World Cup Qualifier. ",
+                  "image": {
+                    "altText": "Image of T20 Champions",
+                    "license": ""
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "T20 Champions.. again!",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "They bested England to win the 2016 World Twenty20, making them the first team to win the World Twenty20 twice. As an added bonus, they also became the first to win both the men's and women's World Twenty20 on the same day, as the women's team beat Australia for their first ICC world title immediately beforehand.",
+            "facts": [
+              {
+                "label": "ICC T20 world cup",
+                "id": "t20_champions.._again!-icc_t20_world_cup",
+                "url": null,
+                "value": {
+                  "label": null,
+                  "image": {
+                    "altText": "Image of T20 Champions.. again!",
+                    "license": ""
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sponsors",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "value": {
+            "label": "BLK",
+            "url": null,
+            "image": {
+              "url": "/static/images/west_indies_cricket_team/Beyond_Limits_Known_logo.svg",
+              "altText": "Image of BLK"
+            }
+          }
+        },
+        {
+          "label": "Shirt Sponsor",
+          "value": {
+            "label": "Digicel",
+            "url": null,
+            "image": {
+              "url": "/static/images/west_indies_cricket_team/Digicel_logo.svg",
+              "altText": "Image of Digicel"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

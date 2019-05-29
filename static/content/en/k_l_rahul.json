@@ -2,8 +2,14 @@
   "title": "K L Rahul",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/K._L._Rahul",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:KL_Rahul_at_Femina_Miss_India_2018_Grand_Finale_(cropped).jpg",
     "altText": "Image of K L Rahul"
+=======
+    "url": "/static/images/k_l_rahul/KL_Rahul_at_Femina_Miss_India_2018_Grand_Finale_%28cropped%29.jpg",
+    "altText": "Image of K L Rahul",
+    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+>>>>>>> feature/content-parser
   },
   "summary": "KL Rahul, is an Indian international cricketer.",
   "translations": [
@@ -70,7 +76,11 @@
           "value": {
             "label": "",
             "image": {
+<<<<<<< HEAD
               "url": "https://commons.wikimedia.org/wiki/File:Jain-University-Bangalore.jpg",
+=======
+              "url": "/static/images/k_l_rahul/Jain-University-Bangalore.jpg",
+>>>>>>> feature/content-parser
               "altText": "Image of Jain University, Bengaluru, India"
             }
           }
@@ -79,7 +89,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "nlbvMD4cj5s",
+=======
+      "id": "Ntn7C7crXk",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -96,7 +110,11 @@
       "facts": [
         {
           "label": "First class Debut",
+<<<<<<< HEAD
           "id": "d7zXb5LRWRa",
+=======
+          "id": "WuASm5vKHn",
+>>>>>>> feature/content-parser
           "note": "2012",
           "value": {
             "label": "Rahul made his first-class cricket debut for Karnataka in the 2012–13 season"
@@ -104,7 +122,11 @@
         },
         {
           "label": "National team debut ",
+<<<<<<< HEAD
           "id": "iGNh5WJx4e5",
+=======
+          "id": "Incr8ScOSa",
+>>>>>>> feature/content-parser
           "note": "2014",
           "value": {
             "label": "Rahul made his Test debut in the 2014 Boxing Day Test at the Melbourne, versus Australia",
@@ -113,11 +135,19 @@
                 "url": "/read/en/australia_cricket_team",
                 "contentUrl": "/static/content/en/australia_cricket_team.json",
                 "label": "Australia Cricket team",
+<<<<<<< HEAD
                 "id": "-N3yHLNDWh_",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Australia_national_cricket_team#/media/File:Australia_cricket_logo.svg",
+=======
+                "id": "mQgVmW3DCW",
+                "value": {
+                  "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+                  "image": {
+                    "url": "/static/images/k_l_rahul/Australia_cricket_logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of Australia Cricket team"
                   }
                 }
@@ -127,7 +157,11 @@
         },
         {
           "label": "ICC Tournament Debut",
+<<<<<<< HEAD
           "id": "IT4XRB2nE0P",
+=======
+          "id": "XPpLSZl_L2",
+>>>>>>> feature/content-parser
           "note": "",
           "value": {
             "label": ""
@@ -135,7 +169,11 @@
         },
         {
           "label": "IPL Debut",
+<<<<<<< HEAD
           "id": "q9KbXC7gQ-Q",
+=======
+          "id": "yrMRQKU1tl",
+>>>>>>> feature/content-parser
           "note": "2013",
           "value": {
             "label": "Rahul made his IPL debut in 2013 for Royal Challengers Bangalore as a wicket-keeper batsman",
@@ -144,11 +182,19 @@
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "label": "Royal Challengers Bangalore",
+<<<<<<< HEAD
                 "id": "JwMZsuV4nHu",
                 "value": {
                   "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Royal_Challengers_Bangalore#/media/File:Royal_Challengers_Bangalore_Logo_2016.svg",
+=======
+                "id": "H-i7yIZiT2",
+                "value": {
+                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "/static/images/k_l_rahul/Royal_Challengers_Bangalore_Logo_2016.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of Royal Challengers Bangalore"
                   }
                 }
@@ -157,6 +203,132 @@
           }
         }
       ]
+<<<<<<< HEAD
+=======
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "K.L.Rahul is the first Indian to score a century on One Day International debut",
+            "image": {
+              "url": "",
+              "altText": "K.L.Rahul is the first Indian to score a century on One Day International debut"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "Rahul has a century in a century in all three formats of international cricket.",
+            "image": {
+              "url": "",
+              "altText": "Rahul has a century in a century in all three formats of international cricket."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "In the finals of the 2014-15 Duleep Trophy, Rahul scored 185 off 233 balls in the first innings and 130 off 152 in the second",
+            "image": {
+              "url": "",
+              "altText": "In the finals of the 2014-15 Duleep Trophy, Rahul scored 185 off 233 balls in the first innings and 130 off 152 in the second"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "Rahul is the first player in T20I history to score a century when batting at number 4 position or lower",
+            "image": {
+              "url": "",
+              "altText": "Rahul is the first player in T20I history to score a century when batting at number 4 position or lower"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "Rahul is the first Indian opener to score a century in his debut Test in the West Indies.",
+            "image": {
+              "url": "",
+              "altText": "Rahul is the first Indian opener to score a century in his debut Test in the West Indies."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Indian national cricket team (2014-present)",
+          "id": "_aZM3Xr4BE",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India national cricket team",
+                "id": "OYzFLHUJOh",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "/static/images/k_l_rahul/Cricket_India_Crest.svg",
+                    "altText": "Picture of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Kings XI Punjab (2018 - present)",
+          "id": "ga8uzpZRVe",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Kings XI Punjab",
+                "id": "lLVP3mL4E8",
+                "url": "/read/en/kings_xi_punjab",
+                "contentUrl": "/static/content/en/kings_xi_punjab.json",
+                "value": {
+                  "label": "The Kings XI Punjab (KXIP) are a franchise cricket team based in Mohali (Chandigarh CR), Punjab, that plays in the Indian Premier League. ",
+                  "image": {
+                    "url": "/static/images/k_l_rahul/Kings_XI_Punjab_logo.svg",
+                    "altText": "Picture of Kings XI Punjab"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Karnataka (2010 - present)",
+          "id": "Cu7f5XVpxg",
+          "value": {
+            "label": "Domestic Ranji trophy cricket team based in the state of Karnataka"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": []
+>>>>>>> feature/content-parser
     }
   ]
 }

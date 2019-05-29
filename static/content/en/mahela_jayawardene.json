@@ -2,7 +2,11 @@
   "title": "Mahela Jayawardene",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahela_Jayawardene",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:Mahela_Jayawardene_3.JPG",
+=======
+    "url": "/static/images/mahela_jayawardene/Mahela_Jayawardene_3.JPG",
+>>>>>>> feature/content-parser
     "altText": "Image of Mahela Jayawardene"
   },
   "summary": "Mahela Jayawardene, is a Sri Lankan cricket coach and former international cricketer",
@@ -76,7 +80,11 @@
           "value": {
             "label": "Jayawardene captained Nalanda College Colombo's first XI cricket team in 1994",
             "image": {
+<<<<<<< HEAD
               "url": "https://en.wikipedia.org/wiki/File:Nalanda_Crest.png",
+=======
+              "url": "/static/images/mahela_jayawardene/Nalanda_Crest.png",
+>>>>>>> feature/content-parser
               "altText": "Image of Nalanda College, Colombo"
             }
           }
@@ -85,7 +93,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "sJgWuBDtxvoE",
+=======
+      "id": "aJwLuNPMgh5",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -93,7 +105,11 @@
           "value": {
             "label": "Right-handed batsman and right-arm medium bowler",
             "image": {
+<<<<<<< HEAD
               "url": "https://en.wikipedia.org/wiki/Mahela_Jayawardene#/media/File:Mahela_Jayawardene_-_batting.jpg",
+=======
+              "url": "/static/images/mahela_jayawardene/Mahela_Jayawardene_-_batting.jpg",
+>>>>>>> feature/content-parser
               "altText": "Style of play for Mahela Jayawardene"
             }
           }
@@ -106,7 +122,11 @@
       "facts": [
         {
           "label": "First class Debut",
+<<<<<<< HEAD
           "id": "nZ71DwIoj6w2",
+=======
+          "id": "jbx94W9ZtaI",
+>>>>>>> feature/content-parser
           "note": "1995",
           "value": {
             "label": "Mahela Jayawardene made his first class debut while playing for the Sinhalese Sports Club"
@@ -114,7 +134,11 @@
         },
         {
           "label": "National team debut ",
+<<<<<<< HEAD
           "id": "1JXN7ajFBtg4",
+=======
+          "id": "wcW9wAedhOW",
+>>>>>>> feature/content-parser
           "note": "1997",
           "value": {
             "label": "Mahela Jayawardene made his international debut against India at Colombo in 1997",
@@ -123,11 +147,19 @@
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "label": "India national cricket team",
+<<<<<<< HEAD
                 "id": "CHjUGFsHg9qt",
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India#/media/File:Cricket_India_Crest.svg",
+=======
+                "id": "WjuxZuet0be",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "/static/images/mahela_jayawardene/Cricket_India_Crest.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of India national cricket team"
                   }
                 }
@@ -137,7 +169,11 @@
         },
         {
           "label": "ICC Tournament Debut",
+<<<<<<< HEAD
           "id": "GPeb4ZJdQQZK",
+=======
+          "id": "vSPbkcDMHSt",
+>>>>>>> feature/content-parser
           "note": "1999",
           "value": {
             "label": "Jayawardene was a key member of the 1999 world cup team"
@@ -145,7 +181,11 @@
         },
         {
           "label": "IPL Debut",
+<<<<<<< HEAD
           "id": "MBFxpZhSGM5T",
+=======
+          "id": "jgAO5hfZfYa",
+>>>>>>> feature/content-parser
           "note": "2008",
           "value": {
             "label": "Jayawardene played for the Kings XI Punjab from 2008 to 2010",
@@ -154,11 +194,19 @@
                 "url": "/read/en/kings_xi_punjab",
                 "contentUrl": "/static/content/en/kings_xi_punjab.json",
                 "label": "Kings XI Punjab",
+<<<<<<< HEAD
                 "id": "cWoNEUrKqytj",
                 "value": {
                   "label": "The Kings XI Punjab (KXIP) are a franchise cricket team based in Mohali (Chandigarh CR), Punjab, that plays in the Indian Premier League. ",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Kings_XI_Punjab#/media/File:Kings_XI_Punjab_logo.svg",
+=======
+                "id": "o8-mTDgmVoK",
+                "value": {
+                  "label": "The Kings XI Punjab (KXIP) are a franchise cricket team based in Mohali (Chandigarh CR), Punjab, that plays in the Indian Premier League. ",
+                  "image": {
+                    "url": "/static/images/mahela_jayawardene/Kings_XI_Punjab_logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of Kings XI Punjab"
                   }
                 }
@@ -167,6 +215,169 @@
           }
         }
       ]
+<<<<<<< HEAD
+=======
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "Jayawardene along with Kumar Sangakkara created a world record for the highest run (624) partnership",
+            "image": {
+              "url": "",
+              "altText": "Jayawardene along with Kumar Sangakkara created a world record for the highest run (624) partnership"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "Jayawardene held the record for the second highest number of catches in Tests with 205 catches",
+            "image": {
+              "url": "",
+              "altText": "Jayawardene held the record for the second highest number of catches in Tests with 205 catches"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "In 2006, Jayawardene set the record for the highest individual score (374) in Tests by a right-handed batsman",
+            "image": {
+              "url": "",
+              "altText": "In 2006, Jayawardene set the record for the highest individual score (374) in Tests by a right-handed batsman"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "Jayawardene was the only fielder to take 400 catches in international cricket.",
+            "image": {
+              "url": "",
+              "altText": "Jayawardene was the only fielder to take 400 catches in international cricket."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "Jayawardene held the record for the most career runs in ODI history when batting at number 4 position (6,946)",
+            "image": {
+              "url": "",
+              "altText": "Jayawardene held the record for the most career runs in ODI history when batting at number 4 position (6,946)"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Sri Lanka (1997-2015)",
+          "id": "s73kC-owKIN",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Sri Lanka national cricket team",
+                "id": "OhYTtRacdQH",
+                "url": "/read/en/sri_lanka_national_cricket_team",
+                "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
+                "value": {
+                  "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
+                  "image": {
+                    "url": "/static/images/mahela_jayawardene/Sri_Lanka_Cricket_Cap_Insignia.svg",
+                    "altText": "Picture of Sri Lanka national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Delhi Daredevils (now Delhi Capitals) (2012-2014)",
+          "id": "xwIowS5qyB8",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Delhi Capitals",
+                "id": "AE2FDaPKy7T",
+                "url": "/read/en/delhi_capitals",
+                "contentUrl": "/static/content/en/delhi_capitals.json",
+                "value": {
+                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "image": {
+                    "url": "/static/images/mahela_jayawardene/Delhi_Capitals_Logo.svg",
+                    "altText": "Picture of Delhi Capitals"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Sinhalese Sports Club (1995-2015)",
+          "id": "bw0AOTEopB-",
+          "value": {
+            "label": " Singhalese Sports Club (SSC) is a first-class cricket club in Sri Lanka"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "ICC Captain of the Year",
+          "tag": "2006",
+          "id": "award-0",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": "Image of ICC Captain of the Year"
+            }
+          }
+        },
+        {
+          "label": "Wisden Cricketer of the Year",
+          "tag": "2007",
+          "id": "award-1",
+          "value": {
+            "label": "An yearly award by the Wisden Cricketers' Almanack",
+            "image": {
+              "url": "",
+              "altText": "Image of Wisden Cricketer of the Year"
+            }
+          }
+        },
+        {
+          "label": "ICC Spirit of Cricket Award",
+          "tag": "2013",
+          "id": "award-2",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": "Image of ICC Spirit of Cricket Award"
+            }
+          }
+        }
+      ]
+>>>>>>> feature/content-parser
     }
   ]
 }

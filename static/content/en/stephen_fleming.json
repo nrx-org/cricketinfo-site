@@ -2,7 +2,11 @@
   "title": "Stephen Fleming",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Stephen_Fleming",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:Stephen_Fleming_slip.jpg",
+=======
+    "url": "/static/images/stephen_fleming/Stephen_Fleming_slip.jpg",
+>>>>>>> feature/content-parser
     "altText": "Image of Stephen Fleming"
   },
   "summary": "Stephen Fleming is a former cricketer from New Zealand who also captained the team.",
@@ -63,7 +67,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "8XaNULiE8Aj",
+=======
+      "id": "xl39-fGhX4",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -71,7 +79,11 @@
           "value": {
             "label": "Fleming was an elegant left handed batsman, off-break bowler, and prolific fielder in the slips",
             "image": {
+<<<<<<< HEAD
               "url": "https://en.wikipedia.org/wiki/Stephen_Fleming#/media/File:Stephen_Fleming_captain.jpg",
+=======
+              "url": "/static/images/stephen_fleming/Stephen_Fleming_captain.jpg",
+>>>>>>> feature/content-parser
               "altText": "Style of play for Stephen Fleming"
             }
           }
@@ -84,7 +96,11 @@
       "facts": [
         {
           "label": "First class Debut",
+<<<<<<< HEAD
           "id": "BrAWB67k7Dh",
+=======
+          "id": "Z1PhHOhJ9Pw",
+>>>>>>> feature/content-parser
           "note": "1991",
           "value": {
             "label": "Fleming first played for the Canterbury, first class team during the 1991-92 season."
@@ -92,7 +108,11 @@
         },
         {
           "label": "National team debut ",
+<<<<<<< HEAD
           "id": "2ISk7oeEu29",
+=======
+          "id": "k_1tdhkICWb",
+>>>>>>> feature/content-parser
           "note": "1994",
           "value": {
             "label": "Fleming made his Test debut in March 1994 against India, winning the Man of the Match award in the match.",
@@ -101,11 +121,19 @@
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "label": "India national cricket team",
+<<<<<<< HEAD
                 "id": "0Qe__6ewU4v",
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India#/media/File:Cricket_India_Crest.svg",
+=======
+                "id": "Uh1Yqxz_L8D",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "/static/images/stephen_fleming/Cricket_India_Crest.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of India national cricket team"
                   }
                 }
@@ -115,7 +143,11 @@
         },
         {
           "label": "ICC Tournament Debut",
+<<<<<<< HEAD
           "id": "zQziW2l_VOD",
+=======
+          "id": "mbB2SpniK6i",
+>>>>>>> feature/content-parser
           "note": "",
           "value": {
             "label": ""
@@ -123,7 +155,11 @@
         },
         {
           "label": "IPL Debut",
+<<<<<<< HEAD
           "id": "UebltkZ5SUy",
+=======
+          "id": "PN_AKFd2rfc",
+>>>>>>> feature/content-parser
           "note": "2008",
           "value": {
             "label": "Fleming played for the Chennai Super Kings in the 2008 and scored 196 runs in 10 matches.",
@@ -132,11 +168,19 @@
                 "url": "/read/en/chennai_super_kings",
                 "contentUrl": "/static/content/en/chennai_super_kings.json",
                 "label": "Chennai Super Kings",
+<<<<<<< HEAD
                 "id": "p-puU0CaHv-",
                 "value": {
                   "label": "Founded in 2008, The Chennai Super Kings (CSK) is an Indian franchise cricket team based in Chennai, Tamil Nadu, which plays in the Indian Premier League (IPL).",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Chennai_Super_Kings#/media/File:Chennai_Super_Kings_Logo.svg",
+=======
+                "id": "Vmkt43EnjhP",
+                "value": {
+                  "label": "Founded in 2008, The Chennai Super Kings (CSK) is an Indian franchise cricket team based in Chennai, Tamil Nadu, which plays in the Indian Premier League (IPL).",
+                  "image": {
+                    "url": "/static/images/stephen_fleming/Chennai_Super_Kings_Logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of Chennai Super Kings"
                   }
                 }
@@ -145,6 +189,145 @@
           }
         }
       ]
+<<<<<<< HEAD
+=======
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "1996/97 - became New Zealand's youngest captain at 23 years and 321 days",
+            "image": {
+              "url": "/static/images/stephen_fleming/Stephen_Fleming_captain.jpg",
+              "altText": "1996/97 - became New Zealand's youngest captain at 23 years and 321 days"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "2000 - Fleming became New Zealand's most successful captain with 12 test match wins",
+            "image": {
+              "url": "",
+              "altText": "2000 - Fleming became New Zealand's most successful captain with 12 test match wins"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "Fleming holds the record of most ODI matches played by a New Zealander",
+            "image": {
+              "url": "",
+              "altText": "Fleming holds the record of most ODI matches played by a New Zealander"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "2006 - Fleming captained his country for the 194th time in an ODI, breaking the earlier world record set by Arjuna Ranatunga.",
+            "image": {
+              "url": "",
+              "altText": "2006 - Fleming captained his country for the 194th time in an ODI, breaking the earlier world record set by Arjuna Ranatunga."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "Fleming is the most capped Test and ODI Captain for New Zealand.",
+            "image": {
+              "url": "",
+              "altText": "Fleming is the most capped Test and ODI Captain for New Zealand."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "New Zealand (1994-2008)",
+          "id": "2PA03G5bUuW",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "New Zealand national cricket team",
+                "id": "VrpxAYb2J2C",
+                "url": "/read/en/new_zealand_national_cricket_team",
+                "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
+                "value": {
+                  "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
+                  "image": {
+                    "url": "/static/images/stephen_fleming/New_Zealand_Cricket_Cap_Insignia.svg",
+                    "altText": "Picture of New Zealand national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Chennai Super Kings (2008)",
+          "id": "sO16_3zHV3-",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Chennai Super Kings",
+                "id": "eTHxiOjs9Zm",
+                "url": "/read/en/chennai_super_kings",
+                "contentUrl": "/static/content/en/chennai_super_kings.json",
+                "value": {
+                  "label": "Founded in 2008, The Chennai Super Kings (CSK) is an Indian franchise cricket team based in Chennai, Tamil Nadu, which plays in the Indian Premier League (IPL).",
+                  "image": {
+                    "url": "/static/images/stephen_fleming/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Picture of Chennai Super Kings"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Canterbury (1991-2000)",
+          "id": "_icj2ax60xW",
+          "value": {
+            "label": "Canterbury is a New Zealand First-class cricket team based in Canterbury, New Zealand."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "New Zealand Order of Merit",
+          "tag": "2011",
+          "id": "award-0",
+          "value": {
+            "label": "New Zealand Order of Merit is an honour established by royal warrant by Queen Elizabeth II, to honour persons who have rendered meritorious service in any field of endeavour.",
+            "image": {
+              "url": "/static/images/stephen_fleming/New_Zealand_Order_of_Merit_badge_WP.svg",
+              "altText": "Image of New Zealand Order of Merit"
+            }
+          }
+        }
+      ]
+>>>>>>> feature/content-parser
     }
   ]
 }

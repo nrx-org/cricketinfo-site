@@ -2,7 +2,11 @@
   "title": "Kedar Jadhav",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Kedar_Jadhav",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:Batting_shadow_figure.png",
+=======
+    "url": "/static/images/kedar_jadhav/Batting_shadow_figure.png",
+>>>>>>> feature/content-parser
     "altText": "Image of Kedar Jadhav"
   },
   "summary": "Kedar Jadhav is an Indian cricketer",
@@ -63,7 +67,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "IZ11vTmf0OW",
+=======
+      "id": "U8Ovj7RhN9q",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -80,7 +88,11 @@
       "facts": [
         {
           "label": "First class Debut",
+<<<<<<< HEAD
           "id": "csrwb35SvyL",
+=======
+          "id": "cCF2RYaMjwH",
+>>>>>>> feature/content-parser
           "note": "2007",
           "value": {
             "label": ""
@@ -88,7 +100,11 @@
         },
         {
           "label": "National team debut ",
+<<<<<<< HEAD
           "id": "kpKRZAmYZeZ",
+=======
+          "id": "9zhyBCze1eY",
+>>>>>>> feature/content-parser
           "note": "2014",
           "value": {
             "label": "Jadhav made his international debut in 2014 versus Sri Lanka",
@@ -97,11 +113,19 @@
                 "url": "/read/en/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
                 "label": "Sri Lanka national cricket team",
+<<<<<<< HEAD
                 "id": "oLUVoxtrIBa",
                 "value": {
                   "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Sri_Lanka_national_cricket_team#/media/File:Sri_Lanka_Cricket_Cap_Insignia.svg",
+=======
+                "id": "-ygQraZ3qsM",
+                "value": {
+                  "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
+                  "image": {
+                    "url": "/static/images/kedar_jadhav/Sri_Lanka_Cricket_Cap_Insignia.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of Sri Lanka national cricket team"
                   }
                 }
@@ -111,7 +135,11 @@
         },
         {
           "label": "ICC Tournament Debut",
+<<<<<<< HEAD
           "id": "93D-WQOQQoH",
+=======
+          "id": "iba3MFZxHun",
+>>>>>>> feature/content-parser
           "note": "2017",
           "value": {
             "label": ""
@@ -119,7 +147,11 @@
         },
         {
           "label": "IPL Debut",
+<<<<<<< HEAD
           "id": "ID1YmJsFjPO",
+=======
+          "id": "YI-QJrplj8o",
+>>>>>>> feature/content-parser
           "note": "2010",
           "value": {
             "label": "Jadhav won the Man of the match award in his debut IPL match",
@@ -128,11 +160,19 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
+<<<<<<< HEAD
                 "id": "9znRh8XVFlL",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Delhi_Capitals#/media/File:Delhi_Capitals_Logo.svg",
+=======
+                "id": "bT9Hujcqt",
+                "value": {
+                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "image": {
+                    "url": "/static/images/kedar_jadhav/Delhi_Capitals_Logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of Delhi Capitals"
                   }
                 }
@@ -141,6 +181,132 @@
           }
         }
       ]
+<<<<<<< HEAD
+=======
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "In 2012, Jadhav made 327, the second-highest by a Maharashtra batsman ever in the Ranji Trophy",
+            "image": {
+              "url": "",
+              "altText": "In 2012, Jadhav made 327, the second-highest by a Maharashtra batsman ever in the Ranji Trophy"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "Jadhav was the highest run-scorer (1,223) in the Ranji Trophy during the 2013-14 season",
+            "image": {
+              "url": "",
+              "altText": "Jadhav was the highest run-scorer (1,223) in the Ranji Trophy during the 2013-14 season"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "In 2017 Jadhav scored 120 off 76 balls and shared a 200 run partnership with Virat Kohli against England",
+            "image": {
+              "url": "",
+              "altText": "In 2017 Jadhav scored 120 off 76 balls and shared a 200 run partnership with Virat Kohli against England"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "Jadhav was awarded the Man Of the Series (ODI) award during England's tour of India, for scoring 232 runs",
+            "image": {
+              "url": "",
+              "altText": "Jadhav was awarded the Man Of the Series (ODI) award during England's tour of India, for scoring 232 runs"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Indian national cricket team (2014-present)",
+          "id": "ueDzPKawRV",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India national cricket team",
+                "id": "YO5OzgUopF",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "/static/images/kedar_jadhav/Cricket_India_Crest.svg",
+                    "altText": "Picture of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Chennai Super Kings (2018-present)",
+          "id": "7ys0H0bffB",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Chennai Super Kings",
+                "id": "UAgnGSY00H5",
+                "url": "/read/en/chennai_super_kings",
+                "contentUrl": "/static/content/en/chennai_super_kings.json",
+                "value": {
+                  "label": "Founded in 2008, The Chennai Super Kings (CSK) is an Indian franchise cricket team based in Chennai, Tamil Nadu, which plays in the Indian Premier League (IPL).",
+                  "image": {
+                    "url": "/static/images/kedar_jadhav/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Picture of Chennai Super Kings"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Maharashtra (2007-present)",
+          "id": "8BM5UZQCnd5",
+          "value": {
+            "label": "Maharashtra cricket team is a domestic Indian cricket team based the city of Pune"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": []
+>>>>>>> feature/content-parser
     }
   ]
 }

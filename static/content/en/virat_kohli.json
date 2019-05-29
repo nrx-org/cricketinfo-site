@@ -2,7 +2,11 @@
   "title": "Virat Kohli",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Virat_Kohli",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:Virat..Kohli.jpg",
+=======
+    "url": "/static/images/virat_kohli/Virat..Kohli.jpg",
+>>>>>>> feature/content-parser
     "altText": "Image of Virat Kohli"
   },
   "summary": "Indian international cricketer who currently captains the India national team.",
@@ -80,7 +84,11 @@
             "url": "/read/en/anushka_sharma",
             "contentUrl": "/static/content/en/anushka_sharma.json",
             "image": {
+<<<<<<< HEAD
               "url": "https://commons.wikimedia.org/wiki/File:Anushka_Sharma_promoting_Zero.jpg",
+=======
+              "url": "/static/images/virat_kohli/Anushka_Sharma_promoting_Zero.jpg",
+>>>>>>> feature/content-parser
               "altText": "Picture of Anuskha Sharma"
             }
           }
@@ -89,7 +97,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "S3YGLZNYN",
+=======
+      "id": "gGGyfTGXi",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -97,7 +109,11 @@
           "value": {
             "label": "Kohli is a naturally aggressive batsman with strong technical skills. He usually bats in the middle-order, but, on many occasions, has opened the innings as well. He bats with a slightly open-chested stance and a strong bottom-hand grip,  and is said to have quick footwork. He is known for his wide range of shots, ability to pace an innings and batting under pressure.",
             "image": {
+<<<<<<< HEAD
               "url": "https://en.wikipedia.org/wiki/Virat_Kohli#/media/File:Virat_Kohli_batting_2013.jpg",
+=======
+              "url": "/static/images/virat_kohli/Virat_Kohli_batting_2013.jpg",
+>>>>>>> feature/content-parser
               "altText": "Style of play for Virat Kohli"
             }
           }
@@ -110,7 +126,11 @@
       "facts": [
         {
           "label": "First class Debut",
+<<<<<<< HEAD
           "id": "NpdtUnDWbh",
+=======
+          "id": "6zSbG1TOTex",
+>>>>>>> feature/content-parser
           "note": "2006",
           "value": {
             "label": "Kohli made his first-class debut for Delhi against Tamil Nadu in 2006, at the age of 18"
@@ -118,7 +138,11 @@
         },
         {
           "label": "National team debut ",
+<<<<<<< HEAD
           "id": "viUUhsLbn7",
+=======
+          "id": "x9zvmckgdro",
+>>>>>>> feature/content-parser
           "note": "2008",
           "value": {
             "label": "Kohli was included in the Indian ODI squad for 2008 tour of Sri Lanka and the Champions Trophy in Pakistan",
@@ -127,11 +151,19 @@
                 "url": "/read/en/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
                 "label": "Sri Lanka national cricket team",
+<<<<<<< HEAD
                 "id": "GEOIJNGqpx",
                 "value": {
                   "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Sri_Lanka_national_cricket_team#/media/File:Sri_Lanka_Cricket_Cap_Insignia.svg",
+=======
+                "id": "blD4Gr84PiJ",
+                "value": {
+                  "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
+                  "image": {
+                    "url": "/static/images/virat_kohli/Sri_Lanka_Cricket_Cap_Insignia.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of Sri Lanka national cricket team"
                   }
                 }
@@ -141,7 +173,11 @@
         },
         {
           "label": "ICC Tournament Debut",
+<<<<<<< HEAD
           "id": "Vt89YlVguA",
+=======
+          "id": "WsWa7q6i4iT",
+>>>>>>> feature/content-parser
           "note": "2008",
           "value": {
             "label": "Kohli captained the victorious Indian team at the 2008 ICC Under-19 Cricket World Cup held in Malaysia"
@@ -149,7 +185,11 @@
         },
         {
           "label": "World Cup Appearance",
+<<<<<<< HEAD
           "id": "96-DHDqQwH",
+=======
+          "id": "cca2L1eXr97",
+>>>>>>> feature/content-parser
           "note": "2011",
           "value": {
             "label": "Kohli played in every match of India's successful World Cup campaign in 2011"
@@ -157,7 +197,11 @@
         },
         {
           "label": "ICC Champions Trophy ",
+<<<<<<< HEAD
           "id": "ejiOe59d4Y",
+=======
+          "id": "tG6KR-s6TRg",
+>>>>>>> feature/content-parser
           "note": "2013",
           "value": {
             "label": "In June 2013, Kohli featured in the ICC Champions Trophy in England which India won",
@@ -166,11 +210,19 @@
                 "url": "/read/en/icc_champions_trophy",
                 "contentUrl": "/static/content/en/icc_champions_trophy.json",
                 "label": "ICC Champions Trophy",
+<<<<<<< HEAD
                 "id": "83YY3ISN8R",
                 "value": {
                   "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/ICC_Champions_Trophy#/media/File:ICC_Champions_Trophy_cricket_logo.png",
+=======
+                "id": "KhAADfWpAU6",
+                "value": {
+                  "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
+                  "image": {
+                    "url": "/static/images/virat_kohli/ICC_Champions_Trophy_cricket_logo.png",
+>>>>>>> feature/content-parser
                     "altText": "Image of ICC Champions Trophy"
                   }
                 }
@@ -180,7 +232,11 @@
         },
         {
           "label": "ICC T20 Trophy ",
+<<<<<<< HEAD
           "id": "9XexgKAHcX",
+=======
+          "id": "x0m4oDCEzax",
+>>>>>>> feature/content-parser
           "note": "2014",
           "value": {
             "label": "For 2014 ICC World Twenty20 and Kohli was named vice-captain.",
@@ -189,11 +245,19 @@
                 "url": "/read/en/icc_t20_world_cup",
                 "contentUrl": "/static/content/en/icc_t20_world_cup.json",
                 "label": "ICC T20 World Cup",
+<<<<<<< HEAD
                 "id": "0l-hmX3X5K",
                 "value": {
                   "label": "The ICC T20 World Cup (earlier known as ICC World Twenty20) is the international championship of Twenty20 International cricket. The tournament currently consists of 16 teams, comprising the top eight teams from the rankings at the given deadline and four other teams chosen through the T20 World Cup Qualifier. ",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/ICC_T20_World_Cup#/media/File:ICC_World_Twenty20_Trophy.jpg",
+=======
+                "id": "0-6ilyJ8yCY",
+                "value": {
+                  "label": "The ICC T20 World Cup (earlier known as ICC World Twenty20) is the international championship of Twenty20 International cricket. The tournament currently consists of 16 teams, comprising the top eight teams from the rankings at the given deadline and four other teams chosen through the T20 World Cup Qualifier. ",
+                  "image": {
+                    "url": "/static/images/virat_kohli/ICC_World_Twenty20_Trophy.jpg",
+>>>>>>> feature/content-parser
                     "altText": "Image of ICC T20 World Cup"
                   }
                 }
@@ -203,7 +267,11 @@
         },
         {
           "label": "IPL Debut",
+<<<<<<< HEAD
           "id": "7pjGsVvK18",
+=======
+          "id": "MHdF3KImilB",
+>>>>>>> feature/content-parser
           "note": "2008",
           "value": {
             "label": "In March 2008, Kohli was bought on a youth contract by Royal Challengers Bangalore for $30,000. ",
@@ -211,12 +279,21 @@
               {
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
+<<<<<<< HEAD
                 "label": "Royal Challengers Bangalore",
                 "id": "FANR5eLBS3",
                 "value": {
                   "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Royal_Challengers_Bangalore#/media/File:Royal_Challengers_Bangalore_Logo_2016.svg",
+                    "altText": "Image of Royal Challengers Bangalore"
+=======
+                "label": "Royal Challengers Bangalore",
+                "id": "V_eEUlTvTwX",
+                "value": {
+                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "/static/images/virat_kohli/Royal_Challengers_Bangalore_Logo_2016.svg",
                     "altText": "Image of Royal Challengers Bangalore"
                   }
                 }
@@ -225,6 +302,200 @@
           }
         }
       ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "He captained India Under-19s to victory at the Under-19 World Cup in Malaysia in 2008",
+            "image": {
+              "url": "/static/images/virat_kohli/2015_CWC_I_v_UAE_02-28_Kohli_%2812%29_%28cropped%29.JPG",
+              "altText": "He captained India Under-19s to victory at the Under-19 World Cup in Malaysia in 2008",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "In 2013 Kohli scored the fastest century by an Indian cricketer in ODIs of 52 balls",
+            "image": {
+              "url": "/static/images/virat_kohli/Virat_Kohli_batting_2013.jpg",
+              "altText": "In 2013 Kohli scored the fastest century by an Indian cricketer in ODIs of 52 balls"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "In 2013, Kohli reached the number one spot in the ICC rankings for ODI batsmen for the first time ",
+            "image": {
+              "url": "/static/images/virat_kohli/2015_CWC_I_v_UAE_02-28_Kohli_%2812%29_%28cropped%29.JPG",
+              "altText": "In 2013, Kohli reached the number one spot in the ICC rankings for ODI batsmen for the first time ",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "In 2017, became the fastest in the world to reach 15,000 international runs.",
+            "image": {
+              "url": "/static/images/virat_kohli/Virat_Kohli_batting_2013.jpg",
+              "altText": "In 2017, became the fastest in the world to reach 15,000 international runs."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "In2018, became the first batsman to score 500 runs in a bilateral ODI series.",
+            "image": {
+              "url": "/static/images/virat_kohli/2015_CWC_I_v_UAE_02-28_Kohli_%2812%29_%28cropped%29.JPG",
+              "altText": "In2018, became the first batsman to score 500 runs in a bilateral ODI series.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Indian National Cricket team (2008-present)",
+          "id": "45y3wOIqw",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India national cricket team",
+                "id": "GeazzNp-Ql",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "/static/images/virat_kohli/Cricket_India_Crest.svg",
+                    "altText": "Picture of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Royal Challengers Bangalore (2008-present)",
+          "id": "t5xIOATcsq",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Royal Challengers Bangalore",
+                "id": "bIU7Z4ZqzN",
+                "url": "/read/en/royal_challengers_bangalore",
+                "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
+                "value": {
+                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "/static/images/virat_kohli/Royal_Challengers_Bangalore_Logo_2016.svg",
+                    "altText": "Picture of Royal Challengers Bangalore"
+>>>>>>> feature/content-parser
+                  }
+                }
+              }
+            ]
+<<<<<<< HEAD
+          }
+        }
+      ]
+=======
+          }
+        },
+        {
+          "label": "Delhi (2006-present)",
+          "id": "xCo2PwNVm-",
+          "value": {
+            "label": "Domestic Ranji trophy cricket team based in Delhi"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "Arjuna Award",
+          "tag": "2013",
+          "id": "award-0",
+          "value": {
+            "label": "Arjuna Awards are given by the Government for outstanding achievement in sports",
+            "image": {
+              "url": "/static/images/virat_kohli/Arjun_Award.jpg",
+              "altText": "Image of Arjuna Award"
+            }
+          }
+        },
+        {
+          "label": "Sir Garfield Sobers Trophy",
+          "tag": "2017",
+          "id": "award-1",
+          "value": {
+            "label": "Annual award by the International Cricket Council (ICC) to its chosen world player of the year.",
+            "image": {
+              "url": "/static/images/virat_kohli/Sir_Garfield_Sobers_Trophy.jpeg",
+              "altText": "Image of Sir Garfield Sobers Trophy"
+            }
+          }
+        },
+        {
+          "label": "Padma Shri",
+          "tag": "2017",
+          "id": "award-2",
+          "value": {
+            "label": "Padma Shri is the fourth highest civilian award in the Republic of India",
+            "image": {
+              "url": "/static/images/virat_kohli/Padma_Shri_India_IIIe_Klasse.jpg",
+              "altText": "Image of Padma Shri"
+            }
+          }
+        },
+        {
+          "label": "ICC Test Player of the Year",
+          "tag": "2018",
+          "id": "award-3",
+          "value": {
+            "label": "ICC Test Player of the Year is an annual award, presented by the International Cricket Council to the best Test player of that year.",
+            "image": {
+              "url": "",
+              "altText": "Image of ICC Test Player of the Year"
+            }
+          }
+        },
+        {
+          "label": "Rajiv Gandhi Khel Ratna",
+          "tag": "2018",
+          "id": "award-4",
+          "value": {
+            "label": "Rajiv Gandhi Khel Ratna Award is the highest sporting honour of the Republic of India.",
+            "image": {
+              "url": "/static/images/virat_kohli/Rajiv_Gandhi_Khel_Ratna_Award.jpg",
+              "altText": "Image of Rajiv Gandhi Khel Ratna"
+            }
+          }
+        }
+      ]
+>>>>>>> feature/content-parser
     }
   ]
 }

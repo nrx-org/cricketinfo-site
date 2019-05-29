@@ -2,8 +2,14 @@
   "title": "Kane Williamson",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Kane_Williamson",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:Kane_Williamson_(9773667991).jpg",
     "altText": "Image of Kane Williamson"
+=======
+    "url": "/static/images/kane_williamson/Kane_Williamson_%289773667991%29.jpg",
+    "altText": "Image of Kane Williamson",
+    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+>>>>>>> feature/content-parser
   },
   "summary": "Kane Williamson is an international cricket player from New Zealand and also the current captain of the team.",
   "translations": [
@@ -70,7 +76,11 @@
           "value": {
             "label": "Williamson scored 40 centuries before he left school.",
             "image": {
+<<<<<<< HEAD
               "url": "https://en.wikipedia.org/wiki/File:Tbc_crest.png",
+=======
+              "url": "/static/images/kane_williamson/Tbc_crest.png",
+>>>>>>> feature/content-parser
               "altText": "Image of Tauranga Boys' College"
             }
           }
@@ -79,7 +89,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "ZiG7GD8ZGTQG",
+=======
+      "id": "G_cyE9Lwdq",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -87,8 +101,14 @@
           "value": {
             "label": "Right-handed batsman and an occasional off spin bowler",
             "image": {
+<<<<<<< HEAD
               "url": "https://en.wikipedia.org/wiki/Kane_Williamson#/media/File:Kane_Williamson_(9773667991).jpg",
               "altText": "Style of play for Kane Williamson"
+=======
+              "url": "/static/images/kane_williamson/Kane_Williamson_%289773667991%29.jpg",
+              "altText": "Style of play for Kane Williamson",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+>>>>>>> feature/content-parser
             }
           }
         }
@@ -100,7 +120,11 @@
       "facts": [
         {
           "label": "First class Debut",
+<<<<<<< HEAD
           "id": "pj2c-MK3jQLN",
+=======
+          "id": "r4HMSbB9k",
+>>>>>>> feature/content-parser
           "note": "2007",
           "value": {
             "label": "Williamson made his first-class cricket debut in December 2007"
@@ -108,7 +132,11 @@
         },
         {
           "label": "National team debut ",
+<<<<<<< HEAD
           "id": "MmxqAqP-2tcb",
+=======
+          "id": "ajJsY61puG",
+>>>>>>> feature/content-parser
           "note": "2010",
           "value": {
             "label": "Williamson made his One-Day International debut against India, and was dismissed for a duck.",
@@ -117,11 +145,19 @@
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "label": "India national cricket team",
+<<<<<<< HEAD
                 "id": "i4hPqsdQcTgy",
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India#/media/File:Cricket_India_Crest.svg",
+=======
+                "id": "OOVYrOzdoa",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "/static/images/kane_williamson/Cricket_India_Crest.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of India national cricket team"
                   }
                 }
@@ -131,7 +167,11 @@
         },
         {
           "label": "ICC Tournament Debut",
+<<<<<<< HEAD
           "id": "LPq0EMpjE7Hn",
+=======
+          "id": "uSYrQVFBz_",
+>>>>>>> feature/content-parser
           "note": "2011",
           "value": {
             "label": ""
@@ -139,13 +179,168 @@
         },
         {
           "label": "IPL Debut",
+<<<<<<< HEAD
           "id": "uQZyl1hhWVae",
+=======
+          "id": "XuB1FY_Me4",
+>>>>>>> feature/content-parser
           "note": "",
           "value": {
             "label": ""
           }
         }
       ]
+<<<<<<< HEAD
+=======
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "In 2015, Williamson scored 2692 runs which is the highest score across all forms of international cricket for the year",
+            "image": {
+              "url": "",
+              "altText": "In 2015, Williamson scored 2692 runs which is the highest score across all forms of international cricket for the year"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "In 2016, Williamson became the 13th batsman to score a century against all the other Test playing nations",
+            "image": {
+              "url": "",
+              "altText": "In 2016, Williamson became the 13th batsman to score a century against all the other Test playing nations"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "Williamson in the youngest century scorer in New Zealand's cricket history",
+            "image": {
+              "url": "",
+              "altText": "Williamson in the youngest century scorer in New Zealand's cricket history"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "Williamson has scored a century in this Test debut",
+            "image": {
+              "url": "",
+              "altText": "Williamson has scored a century in this Test debut"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "In 2015, Williamson scored over 700 runs in the first two months of the calendar year.",
+            "image": {
+              "url": "",
+              "altText": "In 2015, Williamson scored over 700 runs in the first two months of the calendar year."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "New Zealand (2010 - present)",
+          "id": "5Kn44eOmIH",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "New Zealand national cricket team",
+                "id": "YwtVtChHmA",
+                "url": "/read/en/new_zealand_national_cricket_team",
+                "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
+                "value": {
+                  "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
+                  "image": {
+                    "url": "/static/images/kane_williamson/New_Zealand_Cricket_Cap_Insignia.svg",
+                    "altText": "Picture of New Zealand national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Sunrisers Hyderabad (2015 - present)",
+          "id": "805GPGJ4ei",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Sunrisers Hyderabad",
+                "id": "xi0qVnrG8Q",
+                "url": "/read/en/sunrisers_hyderabad",
+                "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
+                "value": {
+                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "/static/images/kane_williamson/Sunrisers_Hyderabad.svg",
+                    "altText": "Picture of Sunrisers Hyderabad"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Northern Districts (2007 - present)",
+          "id": "YkDscEVRkj",
+          "value": {
+            "label": "Northern Districts cricket team is a first-class cricket team from New Zealand."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "Halberg Award",
+          "tag": "2015",
+          "id": "award-0",
+          "value": {
+            "label": "Halberg Awards are given annually to New Zealand's top sportperson.",
+            "image": {
+              "url": "",
+              "altText": "Image of Halberg Award"
+            }
+          }
+        },
+        {
+          "label": "Wisden Leading Cricketer of the World",
+          "tag": "2015",
+          "id": "award-1",
+          "value": {
+            "label": "Wisden Leading Cricketer in the World is an annual cricket award selected by Wisden Cricketers' Almanack",
+            "image": {
+              "url": "",
+              "altText": "Image of Wisden Leading Cricketer of the World"
+            }
+          }
+        }
+      ]
+>>>>>>> feature/content-parser
     }
   ]
 }

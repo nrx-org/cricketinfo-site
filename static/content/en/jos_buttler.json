@@ -2,7 +2,11 @@
   "title": "Jos Buttler",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos_Buttler",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:Jos_Buttler_2017.jpg",
+=======
+    "url": "/static/images/jos_buttler/Jos_Buttler_2017.jpg",
+>>>>>>> feature/content-parser
     "altText": "Image of Jos Buttler"
   },
   "summary": "Jos Buttler is an English international cricketer who is currently vice-captain of the England cricket team.",
@@ -70,7 +74,11 @@
           "value": {
             "label": "Buttler was named Young Wisden Schools Cricketer of the Year in 2010.",
             "image": {
+<<<<<<< HEAD
               "url": "https://commons.wikimedia.org/wiki/File:Kingscollegetaunton.jpg",
+=======
+              "url": "/static/images/jos_buttler/Kingscollegetaunton.jpg",
+>>>>>>> feature/content-parser
               "altText": "Image of King's College, Taunton"
             }
           }
@@ -79,7 +87,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "qkbDM5YpiLbW",
+=======
+      "id": "x5xLH7B3DS1",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -87,7 +99,11 @@
           "value": {
             "label": "Right-handed batsman and wicket-keeper ",
             "image": {
+<<<<<<< HEAD
               "url": "https://en.wikipedia.org/wiki/Jos_Buttler#/media/File:Jos_buttler_keeping.jpg",
+=======
+              "url": "/static/images/jos_buttler/Jos_buttler_keeping.jpg",
+>>>>>>> feature/content-parser
               "altText": "Style of play for Jos Buttler"
             }
           }
@@ -100,7 +116,11 @@
       "facts": [
         {
           "label": "First class Debut",
+<<<<<<< HEAD
           "id": "qexzxUQBspkO",
+=======
+          "id": "KQPjiNMdmOa",
+>>>>>>> feature/content-parser
           "note": "2009",
           "value": {
             "label": "Buttler made his first-class debut for Somerset in September 2009 against Lancashire."
@@ -108,7 +128,11 @@
         },
         {
           "label": "National team debut ",
+<<<<<<< HEAD
           "id": "ZiHgni_YsYbh",
+=======
+          "id": "hYwcqldWf3D",
+>>>>>>> feature/content-parser
           "note": "2011",
           "value": {
             "label": "Buttler made his international debut as a specialist batsman in 2011",
@@ -117,11 +141,19 @@
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "label": "India national cricket team",
+<<<<<<< HEAD
                 "id": "Pgx7JXAQTKB8",
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India#/media/File:Cricket_India_Crest.svg",
+=======
+                "id": "HiAqd3ufVO8",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "/static/images/jos_buttler/Cricket_India_Crest.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of India national cricket team"
                   }
                 }
@@ -131,7 +163,11 @@
         },
         {
           "label": "ICC Tournament Debut",
+<<<<<<< HEAD
           "id": "GLVqulm052Qz",
+=======
+          "id": "nAXLSvpfnHp",
+>>>>>>> feature/content-parser
           "note": "2012",
           "value": {
             "label": "Buttler played in all five of England's matches in the competition"
@@ -139,7 +175,11 @@
         },
         {
           "label": "IPL Debut",
+<<<<<<< HEAD
           "id": "0rhGvENdxwV1",
+=======
+          "id": "ZXB1jTuQR5E",
+>>>>>>> feature/content-parser
           "note": "2016",
           "value": {
             "label": "Buttler played for Mumbai Indians in the 2016 and 2017 IPL seasons",
@@ -148,11 +188,19 @@
                 "url": "/read/en/mumbai_indians",
                 "contentUrl": "/static/content/en/mumbai_indians.json",
                 "label": "Mumbai Indians",
+<<<<<<< HEAD
                 "id": "6vrr9pwi8CgB",
                 "value": {
                   "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Mumbai_Indians#/media/File:Mumbai_Indians_Logo.svg",
+=======
+                "id": "M1wVA_1NTIu",
+                "value": {
+                  "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
+                  "image": {
+                    "url": "/static/images/jos_buttler/Mumbai_Indians_Logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of Mumbai Indians"
                   }
                 }
@@ -161,6 +209,157 @@
           }
         }
       ]
+<<<<<<< HEAD
+=======
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "Buttler scored his first ODI hundred against Sri Lanka at Lord's in 2014",
+            "image": {
+              "url": "",
+              "altText": "Buttler scored his first ODI hundred against Sri Lanka at Lord's in 2014"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "In 2018, Buttler scored the fastest T20I half-century by an English cricketer, in 22 balls",
+            "image": {
+              "url": "",
+              "altText": "In 2018, Buttler scored the fastest T20I half-century by an English cricketer, in 22 balls"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "Buttler hit 12 sixes, the most by any English batsman in an ODI, while batting against West Indies",
+            "image": {
+              "url": "",
+              "altText": "Buttler hit 12 sixes, the most by any English batsman in an ODI, while batting against West Indies"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "Buttler is the second batsman in IPL history to achieve five scores of fifty or more in consecutive matches.",
+            "image": {
+              "url": "",
+              "altText": "Buttler is the second batsman in IPL history to achieve five scores of fifty or more in consecutive matches."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "England (2011 - present)",
+          "id": "JjYpOizw10X",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "England cricket team",
+                "id": "K_XemCf9cc5",
+                "url": "/read/en/england_cricket_team",
+                "contentUrl": "/static/content/en/england_cricket_team.json",
+                "value": {
+                  "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
+                  "image": {
+                    "url": "/static/images/jos_buttler/England_cricket_team_logo.svg",
+                    "altText": "Picture of England cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Rajasthan Royals (2018 - present)",
+          "id": "RkykaARMRMY",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Rajasthan Royals",
+                "id": "G9FicxybXiD",
+                "url": "/read/en/rajasthan_royals",
+                "contentUrl": "/static/content/en/rajasthan_royals.json",
+                "value": {
+                  "label": "The Rajasthan Royals (often abbreviated as RR) are a franchise cricket team based in Jaipur, Rajasthan, that plays in the Indian Premier League.",
+                  "image": {
+                    "url": "/static/images/jos_buttler/RR-LOGO-1.png",
+                    "altText": "Picture of Rajasthan Royals"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Lancashire (2014 - present)",
+          "id": "7HjJIDZ32yf",
+          "value": {
+            "label": "Lancashire County Cricket Club is a first class English county team that represents the county of Lancashire"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "NBC Denis Compton Award",
+          "tag": "2010",
+          "id": "award-0",
+          "value": {
+            "label": "NBC Denis Compton Award is an annual award given to 'The Most Promising Young Player' at each of the 18 English first-class county team",
+            "image": {
+              "url": "",
+              "altText": "Image of NBC Denis Compton Award"
+            }
+          }
+        },
+        {
+          "label": "Wisden Cricketer of the Year",
+          "tag": "2019",
+          "id": "award-1",
+          "value": {
+            "label": "An yearly award by the Wisden Cricketers' Almanack",
+            "image": {
+              "url": "",
+              "altText": "Image of Wisden Cricketer of the Year"
+            }
+          }
+        }
+      ]
+>>>>>>> feature/content-parser
     }
   ]
 }

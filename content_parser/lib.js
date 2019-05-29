@@ -18,24 +18,17 @@ const findIdMapEntryById = (idMap, id) => {
   return idMap.find(entry => entry.id === id);
 };
 
-const getSluggedTitle = str => str.replace(/\s+/g, "_").toLowerCase();
-
-const makeArticleUrl = (lang, slug) => `/read/${lang}/${slug}`;
-
-const makeContentUrl = (lang, slug) => `/static/content/${lang}/${slug}.json`;
-
 const findIdMapEntryByTitle = (idMap, title, lang) => {
   return idMap.find(
     entry => entry.title[lang].toLowerCase() === title.toLowerCase()
   );
 };
 
-const getFileNameFromURL = url => {
-  if (!url) return null;
-  const filename = url.match(/File:(.*)/);
-  if (filename) return filename[1];
-  return null;
-};
+const getSluggedTitle = str => str.replace(/\s+/g, "_").toLowerCase();
+
+const makeArticleUrl = (lang, slug) => `/read/${lang}/${slug}`;
+
+const makeContentUrl = (lang, slug) => `/static/content/${lang}/${slug}.json`;
 
 const getCardInfoFromId = (idMap, id, lang) => {
   if (!id || !id.trim()) {
@@ -226,11 +219,10 @@ const downloadImageAndFillAttributions = async (imageObject, articleSlug) => {
 
 module.exports = {
   findIdMapEntryById,
-  findIdMapEntryByTitle,
   getSluggedTitle,
   makeArticleUrl,
   makeContentUrl,
   getCardInfoFromId,
-  getFileNameFromURL,
+  findIdMapEntryByTitle,
   downloadImageAndFillAttributions
 };

@@ -2,7 +2,11 @@
   "title": "Anushka Sharma",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Anushka_Sharma",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:Anushka_Sharma_promoting_Zero.jpg",
+=======
+    "url": "/static/images/anushka_sharma/Anushka_Sharma_promoting_Zero.jpg",
+>>>>>>> feature/content-parser
     "altText": "Image of Anushka Sharma"
   },
   "summary": "Anushka Sharma is an Indian actor and film producer who works in Hindi films.",
@@ -74,7 +78,11 @@
             "url": "/read/en/virat_kohli",
             "contentUrl": "/static/content/en/virat_kohli.json",
             "image": {
+<<<<<<< HEAD
               "url": "https://commons.wikimedia.org/wiki/File:Virat..Kohli.jpg",
+=======
+              "url": "/static/images/anushka_sharma/Virat..Kohli.jpg",
+>>>>>>> feature/content-parser
               "altText": "Picture of Virat Kohli"
             }
           }
@@ -93,11 +101,28 @@
               "url": "/static/images/default_person.svg",
               "altText": "Image of Mount Carmel College, Bangalore"
             }
+<<<<<<< HEAD
+=======
           }
         }
       ]
     },
     {
+      "title": "Style of play",
+      "id": "VjiLva8eqCh",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": " "
+>>>>>>> feature/content-parser
+          }
+        }
+      ]
+    },
+    {
+<<<<<<< HEAD
       "title": "Style of play",
       "id": "Lg-lRs40M19",
       "cardType": "simple",
@@ -106,11 +131,92 @@
           "label": "",
           "value": {
             "label": " "
+=======
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "HTgzMioT26c",
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "2jjRkT-Z4Ad",
+          "note": "",
+          "value": {
+            "label": ""
           }
         }
       ]
     },
     {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+>>>>>>> feature/content-parser
+          }
+        }
+      ]
+    },
+    {
+<<<<<<< HEAD
       "title": "Phase(s)",
       "cardType": "vertical_timeline",
       "facts": [
@@ -131,6 +237,16 @@
           }
         }
       ]
+=======
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": []
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": []
+>>>>>>> feature/content-parser
     }
   ]
 }

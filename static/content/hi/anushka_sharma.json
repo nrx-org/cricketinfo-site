@@ -2,7 +2,11 @@
   "title": "अनुष्का शर्मा",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Anushka_Sharma",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:Anushka_Sharma_promoting_Zero.jpg",
+=======
+    "url": "/static/images/anushka_sharma/Anushka_Sharma_promoting_Zero.jpg",
+>>>>>>> feature/content-parser
     "altText": "Image of अनुष्का शर्मा"
   },
   "summary": "अनुष्का शर्मा एक भारतीय अभिनेत्री और फिल्म निर्माता हैं जो हिंदी फिल्मों में काम करती हैं।",
@@ -74,7 +78,11 @@
             "url": "/read/hi/virat_kohli",
             "contentUrl": "/static/content/hi/virat_kohli.json",
             "image": {
+<<<<<<< HEAD
               "url": "https://commons.wikimedia.org/wiki/File:Virat..Kohli.jpg",
+=======
+              "url": "/static/images/anushka_sharma/Virat..Kohli.jpg",
+>>>>>>> feature/content-parser
               "altText": "Picture of विराट कोहली"
             }
           }
@@ -84,6 +92,17 @@
     {
       "title": "Alma mater",
       "cardType": "avatar",
+<<<<<<< HEAD
+      "facts": [
+        {
+          "label": "माउंट कार्मेल कॉलेज, बैंगलोर",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of माउंट कार्मेल कॉलेज, बैंगलोर"
+            }
+=======
       "facts": [
         {
           "label": "माउंट कार्मेल कॉलेज, बैंगलोर",
@@ -98,6 +117,21 @@
       ]
     },
     {
+      "title": "Style of play",
+      "id": "mKH85XufpPa",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": ""
+>>>>>>> feature/content-parser
+          }
+        }
+      ]
+    },
+    {
+<<<<<<< HEAD
       "title": "Style of play",
       "id": "FwIfoxUp7mFE",
       "cardType": "simple",
@@ -139,6 +173,107 @@
           }
         }
       ]
+=======
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "प्रथम श्रेणी की शुरुआत",
+          "id": "7E8bg3mBbcg",
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "राष्ट्रीय टीम ",
+          "id": "lmHLGOep2vJ",
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "IPL डेब्यू",
+          "id": "LCk52oK2WDp",
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": []
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": []
+>>>>>>> feature/content-parser
     }
   ]
 }

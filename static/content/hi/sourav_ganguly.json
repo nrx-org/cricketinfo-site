@@ -2,7 +2,11 @@
   "title": "सौरव गांगुली",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/File:Sourav_Ganguly_closeup.jpg",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:Sourav_Ganguly_closeup.jpg",
+=======
+    "url": "/static/images/sourav_ganguly/Sourav_Ganguly_closeup.jpg",
+>>>>>>> feature/content-parser
     "altText": "Image of सौरव गांगुली"
   },
   "summary": "सौरव गांगुली एक पूर्व भारतीय क्रिकेटर और भारत की राष्ट्रीय टीम के कप्तान रहे हैं। अपने खेल करियर के दौरान, गांगुली ने स्‍वयं को विश्‍व के प्रमुख बल्लेबाजों और राष्ट्रीय क्रिकेट टीम के सबसे महान कप्तानों में से एक के रूप में स्थापित किया ।",
@@ -86,7 +90,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "7ZK4lyCayiUL",
+=======
+      "id": "Rrg9gCk1_Ew",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -94,7 +102,11 @@
           "value": {
             "label": "गांगुली एक बाएं हाथ के बल्लेबाज हैं, जो अपने सुरुचिपूर्ण स्ट्रोक-प्ले के लिए जाने जाते हैं। वह दाएं हाथ के मध्यम गति के गेंदबाज भी हैं।",
             "image": {
+<<<<<<< HEAD
               "url": "https://en.wikipedia.org/wiki/Sourav_Ganguly#/media/File:Sachin_in_action.jpg",
+=======
+              "url": "/static/images/sourav_ganguly/Sachin_in_action.jpg",
+>>>>>>> feature/content-parser
               "altText": "Style of play for सौरव गांगुली"
             }
           }
@@ -107,7 +119,11 @@
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
+<<<<<<< HEAD
           "id": "ETzxTRNXS1Bo",
+=======
+          "id": "pmYHDwT8J36",
+>>>>>>> feature/content-parser
           "note": "1989",
           "value": {
             "label": "सौरव गांगुली ने बंगाल की ओर से 1989 में प्रथम श्रेणी क्रिकेट में पदार्पण किया। "
@@ -115,7 +131,11 @@
         },
         {
           "label": "राष्ट्रीय टीम ",
+<<<<<<< HEAD
           "id": "4KxAFYHWhRwz",
+=======
+          "id": "nqw1fgQPqeB",
+>>>>>>> feature/content-parser
           "note": "1992",
           "value": {
             "label": "गांगुली ने वेस्ट इंडीज के खिलाफ भारत की ओर से वनडे इंटरनेशनल (ओडीआई) में 1992 में पदार्पण किया जिसमें उन्होंने तीन रन बनाए। "
@@ -123,7 +143,11 @@
         },
         {
           "label": "विश्व कप",
+<<<<<<< HEAD
           "id": "Rv5-DLUrvuaq",
+=======
+          "id": "AfTYkpDEVji",
+>>>>>>> feature/content-parser
           "note": "1999",
           "value": {
             "label": "गांगुली ने 1999 के विश्व कप में श्रीलंका के खिलाफ 158 गेंदों पर 183 रन बनाए जो उनका वनडे इंटरनेशनल का उच्चतम स्कोर है। ",
@@ -132,11 +156,19 @@
                 "url": "/read/hi/1999_cricket_world_cup",
                 "contentUrl": "/static/content/hi/1999_cricket_world_cup.json",
                 "label": "1999 क्रिकेट विश्व कप",
+<<<<<<< HEAD
                 "id": "j02H4fwVYYMu",
                 "value": {
                   "label": "1999 का क्रिकेट विश्व कप क्रिकेट विश्व कप का सातवां संस्करण था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेज़बानी मुख्य रूप से इंग्लैंड ने की थी, जिसमें कुछ मैच स्कॉटलैंड, आयरलैंड, वेल्स और नीदरलैंड में भी खेले गए थे।",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/1999_Cricket_World_Cup#/media/File:Wc99.png",
+=======
+                "id": "Rs5u85y4CuO",
+                "value": {
+                  "label": "1999 का क्रिकेट विश्व कप क्रिकेट विश्व कप का सातवां संस्करण था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेज़बानी मुख्य रूप से इंग्लैंड ने की थी, जिसमें कुछ मैच स्कॉटलैंड, आयरलैंड, वेल्स और नीदरलैंड में भी खेले गए थे।",
+                  "image": {
+                    "url": "/static/images/sourav_ganguly/Wc99.png",
+>>>>>>> feature/content-parser
                     "altText": "Image of 1999 क्रिकेट विश्व कप"
                   }
                 }
@@ -146,7 +178,11 @@
         },
         {
           "label": "चैंपियंस ट्रॉफी 2002\n",
+<<<<<<< HEAD
           "id": "nbhwxWQGS8l_",
+=======
+          "id": "2e0tGl1MUOM",
+>>>>>>> feature/content-parser
           "note": "2002",
           "value": {
             "label": "भारत ने टुर्नामेंट जीता और फाइनल में गांगुली ने इंग्लैंड के विरुद्ध नाबाद 117 रन बनाए। ",
@@ -155,11 +191,19 @@
                 "url": "/read/hi/icc_champions_trophy",
                 "contentUrl": "/static/content/hi/icc_champions_trophy.json",
                 "label": "आईसीसी चैंपियंस ट्रॉफी",
+<<<<<<< HEAD
                 "id": "eSOwvz9exFOA",
                 "value": {
                   "label": "आईसीसी चैंपियंस ट्रॉफी एक दिवसीय अंतर्राष्ट्रीय (वनडे) क्रिकेट टूर्नामेंट था जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया जाता था, जो क्रिकेट विश्व कप के बाद दूसरा सबसे महत्वपूर्ण आयोजन था। 2002 में इसका नाम बदलकर चैंपियंस ट्रॉफी रखा गया।",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/ICC_Champions_Trophy#/media/File:ICC_Champions_Trophy_cricket_logo.png",
+=======
+                "id": "_JjaXoK84wh",
+                "value": {
+                  "label": "आईसीसी चैंपियंस ट्रॉफी एक दिवसीय अंतर्राष्ट्रीय (वनडे) क्रिकेट टूर्नामेंट था जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया जाता था, जो क्रिकेट विश्व कप के बाद दूसरा सबसे महत्वपूर्ण आयोजन था। 2002 में इसका नाम बदलकर चैंपियंस ट्रॉफी रखा गया।",
+                  "image": {
+                    "url": "/static/images/sourav_ganguly/ICC_Champions_Trophy_cricket_logo.png",
+>>>>>>> feature/content-parser
                     "altText": "Image of आईसीसी चैंपियंस ट्रॉफी"
                   }
                 }
@@ -169,7 +213,11 @@
         },
         {
           "label": "विश्व कप ",
+<<<<<<< HEAD
           "id": "ba6MjPacDqM3",
+=======
+          "id": "Fevq555IkG5",
+>>>>>>> feature/content-parser
           "note": "2003",
           "value": {
             "label": "सौरव गांगुली की कप्तानी में भारत 1983 के बाद पहली बार विश्व कप के फाइनल में पहुंचा। ",
@@ -178,11 +226,19 @@
                 "url": "/read/hi/2003_cricket_world_cup",
                 "contentUrl": "/static/content/hi/2003_cricket_world_cup.json",
                 "label": "2003 क्रिकेट विश्व कप",
+<<<<<<< HEAD
                 "id": "lLFwsAqiCVr3",
                 "value": {
                   "label": "2003 का क्रिकेट विश्व कप आठवां क्रिकेट विश्व कप था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेजबानी दक्षिण अफ्रीका, जिम्बाब्वे और केन्या ने मिल कर की थी।",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/2003_Cricket_World_Cup#/media/File:Cricket_World_Cup_Logo_2003.svg",
+=======
+                "id": "7_c5q7Dscch",
+                "value": {
+                  "label": "2003 का क्रिकेट विश्व कप आठवां क्रिकेट विश्व कप था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेजबानी दक्षिण अफ्रीका, जिम्बाब्वे और केन्या ने मिल कर की थी।",
+                  "image": {
+                    "url": "/static/images/sourav_ganguly/Cricket_World_Cup_Logo_2003.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of 2003 क्रिकेट विश्व कप"
                   }
                 }
@@ -192,7 +248,11 @@
         },
         {
           "label": "विश्व कप",
+<<<<<<< HEAD
           "id": "HTkFUYUpBIt1",
+=======
+          "id": "lVrfAQ6RqOR",
+>>>>>>> feature/content-parser
           "note": "भारत के सर्वाधिक रन गांगुली ने बनाए लेकिन टीम ग्रुप चरण में ही टुर्नामेंट से बाहर हो गई। ",
           "value": {
             "label": "विश्व कप",
@@ -201,11 +261,19 @@
                 "url": "/read/hi/2007_cricket_world_cup",
                 "contentUrl": "/static/content/hi/2007_cricket_world_cup.json",
                 "label": "2007 क्रिकेट विश्व कप",
+<<<<<<< HEAD
                 "id": "V3DXeboVeyII",
                 "value": {
                   "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/2007_Cricket_World_Cup#/media/File:2007_Cricket_World_Cup_logo.svg",
+=======
+                "id": "9ZXsbU2zDCu",
+                "value": {
+                  "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
+                  "image": {
+                    "url": "/static/images/sourav_ganguly/2007_Cricket_World_Cup_logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of 2007 क्रिकेट विश्व कप"
                   }
                 }
@@ -215,10 +283,147 @@
         },
         {
           "label": "IPL डेब्यू",
+<<<<<<< HEAD
           "id": "jPZg1u-86NcV",
           "note": "2008",
           "value": {
             "label": "2008 में गांगुली इंडियन प्रीमियर लीग में कोलकाता नाइट राइडर्स के कप्तान के रूप में शामिल हुए। "
+=======
+          "id": "pNkN9QpNn2Q",
+          "note": "2008",
+          "value": {
+            "label": "2008 में गांगुली इंडियन प्रीमियर लीग में कोलकाता नाइट राइडर्स के कप्तान के रूप में शामिल हुए। "
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "सौरव गांगुली ने लॉर्ड्स में अपने पदार्पण टेस्ट में इंग्लैंड के खिलाफ शतक बनाया",
+            "image": {
+              "url": "",
+              "altText": "सौरव गांगुली ने लॉर्ड्स में अपने पदार्पण टेस्ट में इंग्लैंड के खिलाफ शतक बनाया"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "गांगुली के नाम पर क्रिकेट विश्व कप में किसी भारतीय बल्लेबाज (183) द्वारा बनाया गया सर्वोच्च व्यक्तिगत स्कोर है",
+            "image": {
+              "url": "",
+              "altText": "गांगुली के नाम पर क्रिकेट विश्व कप में किसी भारतीय बल्लेबाज (183) द्वारा बनाया गया सर्वोच्च व्यक्तिगत स्कोर है"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "गांगुली भारत के सबसे सफल टेस्ट कप्तान बने जिन्होंने 21 मौकों पर टीम को जीत दिलाई",
+            "image": {
+              "url": "",
+              "altText": "गांगुली भारत के सबसे सफल टेस्ट कप्तान बने जिन्होंने 21 मौकों पर टीम को जीत दिलाई"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "गांगुली विदेशों में भारत के सबसे सफल टेस्ट कप्तान हैं, उन्होंने 28 मैचों में से 11 में जीत दर्ज की है",
+            "image": {
+              "url": "",
+              "altText": "गांगुली विदेशों में भारत के सबसे सफल टेस्ट कप्तान हैं, उन्होंने 28 मैचों में से 11 में जीत दर्ज की है"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "वनडे क्रिकेट में 10,000 रन, 100 विकेट और 100 कैच लेने वाले केवल पांच क्रिकेटरों में से एक",
+            "image": {
+              "url": "",
+              "altText": "वनडे क्रिकेट में 10,000 रन, 100 विकेट और 100 कैच लेने वाले केवल पांच क्रिकेटरों में से एक"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "भारतीय राष्ट्रीय क्रिकेट टीम (1992-2008)",
+          "id": "Q-HBEpVuTfW",
+          "value": {
+            "label": "भारत की राष्ट्रीय क्रिकेट टीम, जिसे टीम इंडिया और मैन इन ब्लू के नाम से भी जाना जाता है, भारतीय क्रिकेट कंट्रोल बोर्ड द्वारा संचालित है"
+          }
+        },
+        {
+          "label": "पुणे वारियर्स इंडिया (2011-2012)",
+          "id": "vJ6qJZL5d1g",
+          "value": {
+            "label": "पुणे वारियर्स इंडिया एक आईपीएल क्रिकेट टीम थी जो पुणे शहर का प्रतिनिधित्व करती थी। वर्ष 2013 में टीम को भंग कर दिया गया।"
+          }
+        },
+        {
+          "label": "बंगाल (1990-2010)",
+          "id": "3mHxDXJi8on",
+          "value": {
+            "label": "बंगाल क्रिकेट टीम प्रथम श्रेणी घरेलू क्रिकेट में भारतीय राज्य पश्चिम बंगाल का प्रतिनिधित्व करती है।"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "अर्जुन पुरस्कार ",
+          "tag": "1997",
+          "id": "award-0",
+          "value": {
+            "label": "खेलकूद के क्षेत्र में उत्कृष्ट उपलब्धि हासिल करने के लिए सरकार द्वारा अर्जुन पुरस्कार दिया जाता है ",
+            "image": {
+              "url": "/static/images/sourav_ganguly/Arjun_Award.jpg",
+              "altText": "Image of अर्जुन पुरस्कार "
+            }
+          }
+        },
+        {
+          "label": "पद्म श्री",
+          "tag": "2004",
+          "id": "award-1",
+          "value": {
+            "label": "पद्म श्री भारत गणराज्य का चौथा सर्वोच्च नागरिक पुरस्कार है",
+            "image": {
+              "url": "/static/images/sourav_ganguly/The_President_Dr._A.P.J_Abdul_Kalam_presenting_Padma_Shri_Award_to_Shri_Saurav_Ganguly_the_most_successful_Captain_of_Indian_Cricket_Team_at_an_investiture_Ceremony_at_Rashtrapati_Bhawan_in_New_Delhi_on_June_30,_2004.jpg",
+              "altText": "Image of पद्म श्री"
+            }
+          }
+        },
+        {
+          "label": "बंग बिभूषण",
+          "tag": "2013",
+          "id": "award-2",
+          "value": {
+            "label": "बंग विभूषण सम्मान पश्चिम बंगाल सरकार द्वारा विभिन्न क्षेत्रों में व्यक्तित्वों की सेवाओं के सम्मान में दी जाने वाली एक उपाधि है।",
+            "image": {
+              "url": "",
+              "altText": "Image of बंग बिभूषण"
+            }
+>>>>>>> feature/content-parser
           }
         }
       ]

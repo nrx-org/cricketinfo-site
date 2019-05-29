@@ -2,7 +2,11 @@
   "title": "Lasith Malinga",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lasith_Malinga",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://en.wikipedia.org/wiki/File:LASITH_MALINGA_(5155175549).jpg",
+=======
+    "url": "/static/images/lasith_malinga/LASITH_MALINGA_(5155175549).jpg",
+>>>>>>> feature/content-parser
     "altText": "Image of Lasith Malinga"
   },
   "summary": "Separamadu Lasith Malinga is a professional Sri Lankan cricketer and current T20I captain for Sri Lanka.",
@@ -87,7 +91,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "Fb8v8waRLVP",
+=======
+      "id": "n1K83G2ALhy",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -95,7 +103,11 @@
           "value": {
             "label": "Malinga's action has attracted great comment. The cricket reference text Wisden has noted that Malinga's delivery action is similar to \"slinging\". Resulting to his nickname \"Slinga Malinga\". Malinga has said that his unique round-arm bowling action was a result of learning to play cricket exclusively with a tennis ball.",
             "image": {
+<<<<<<< HEAD
               "url": "https://en.wikipedia.org/wiki/Lasith_Malinga#/media/File:Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg",
+=======
+              "url": "/static/images/lasith_malinga/Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg",
+>>>>>>> feature/content-parser
               "altText": "Style of play for Lasith Malinga"
             }
           }
@@ -108,7 +120,11 @@
       "facts": [
         {
           "label": "First class Debut",
+<<<<<<< HEAD
           "id": "qH8s-V5fDRo",
+=======
+          "id": "6JQwsNmulP",
+>>>>>>> feature/content-parser
           "note": "",
           "value": {
             "label": ""
@@ -116,7 +132,11 @@
         },
         {
           "label": "National team debut ",
+<<<<<<< HEAD
           "id": "atilEIDsXn-",
+=======
+          "id": "LRTcJx5Fna",
+>>>>>>> feature/content-parser
           "note": "",
           "value": {
             "label": "Malinga made his Test debut on 1 July 2004 against Australia at Marrara Oval In Darwin. ",
@@ -125,11 +145,19 @@
                 "url": "/read/en/australia_cricket_team",
                 "contentUrl": "/static/content/en/australia_cricket_team.json",
                 "label": "Australia Cricket team",
+<<<<<<< HEAD
                 "id": "mzk7zayDxsT",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Australia_national_cricket_team#/media/File:Australia_cricket_logo.svg",
+=======
+                "id": "ab-Tr6SnOLr",
+                "value": {
+                  "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+                  "image": {
+                    "url": "/static/images/lasith_malinga/Australia_cricket_logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of Australia Cricket team"
                   }
                 }
@@ -139,7 +167,11 @@
         },
         {
           "label": "ICC Tournament Debut",
+<<<<<<< HEAD
           "id": "7HWdC3x1J9K",
+=======
+          "id": "staKkEiDmFk",
+>>>>>>> feature/content-parser
           "note": "2007",
           "value": {
             "label": "During the 2007 Cricket World Cup Super 8 match on 28 March between Sri Lanka and South Africa, Malinga became the first player to take four wickets in four consecutive balls in One Day International cricket.",
@@ -148,11 +180,19 @@
                 "url": "/read/en/2007_cricket_world_cup",
                 "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
                 "label": "2007 Cricket World Cup",
+<<<<<<< HEAD
                 "id": "hrJ19e5OXhs",
                 "value": {
                   "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/2007_Cricket_World_Cup#/media/File:2007_Cricket_World_Cup_logo.svg",
+=======
+                "id": "uZEtWM42w14",
+                "value": {
+                  "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
+                  "image": {
+                    "url": "/static/images/lasith_malinga/2007_Cricket_World_Cup_logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of 2007 Cricket World Cup"
                   }
                 }
@@ -162,7 +202,11 @@
         },
         {
           "label": "2011 World Cup",
+<<<<<<< HEAD
           "id": "g7pACm8STHe",
+=======
+          "id": "Ozpe4Q8Vg25",
+>>>>>>> feature/content-parser
           "note": "2011",
           "value": {
             "label": "During the 2011 Cricket World Cup, Malinga took his second career hat-trick in Sri Lanka's group stage match against Kenya. This made him the first bowler to take two World Cup hat-tricks.",
@@ -171,11 +215,19 @@
                 "url": "/read/en/2011_cricket_world_cup",
                 "contentUrl": "/static/content/en/2011_cricket_world_cup.json",
                 "label": "2011 Cricket World Cup",
+<<<<<<< HEAD
                 "id": "ZQgEzPfR_zg",
                 "value": {
                   "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/2011_Cricket_World_Cup#/media/File:2011_Cricket_World_Cup_Logo.svg",
+=======
+                "id": "aKvX2UBf3M8",
+                "value": {
+                  "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
+                  "image": {
+                    "url": "/static/images/lasith_malinga/2011_Cricket_World_Cup_Logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of 2011 Cricket World Cup"
                   }
                 }
@@ -185,7 +237,11 @@
         },
         {
           "label": "Captaincy",
+<<<<<<< HEAD
           "id": "ciOPA35UYsN",
+=======
+          "id": "3NQ9wnnu-um",
+>>>>>>> feature/content-parser
           "note": "2014",
           "value": {
             "label": "He became captain of Sri Lankan Cricket Team in 2014 ICC World Twenty20 after Dinesh Chandimal received a ban. He successfully led the team to win the world cup becoming the first Sri Lankan captain to win the ICC World Twenty20. ",
@@ -194,11 +250,19 @@
                 "url": "/read/en/icc_t20_world_cup",
                 "contentUrl": "/static/content/en/icc_t20_world_cup.json",
                 "label": "ICC T20 World Cup",
+<<<<<<< HEAD
                 "id": "nkC6ZlPrg0W",
                 "value": {
                   "label": "The ICC T20 World Cup (earlier known as ICC World Twenty20) is the international championship of Twenty20 International cricket. The tournament currently consists of 16 teams, comprising the top eight teams from the rankings at the given deadline and four other teams chosen through the T20 World Cup Qualifier. ",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/ICC_T20_World_Cup#/media/File:ICC_World_Twenty20_Trophy.jpg",
+=======
+                "id": "nHcpnlz1oHm",
+                "value": {
+                  "label": "The ICC T20 World Cup (earlier known as ICC World Twenty20) is the international championship of Twenty20 International cricket. The tournament currently consists of 16 teams, comprising the top eight teams from the rankings at the given deadline and four other teams chosen through the T20 World Cup Qualifier. ",
+                  "image": {
+                    "url": "/static/images/lasith_malinga/ICC_World_Twenty20_Trophy.jpg",
+>>>>>>> feature/content-parser
                     "altText": "Image of ICC T20 World Cup"
                   }
                 }
@@ -208,7 +272,11 @@
         },
         {
           "label": "2019 World Cup",
+<<<<<<< HEAD
           "id": "OUc0anj7CSS",
+=======
+          "id": "q2SzqDnQu3g",
+>>>>>>> feature/content-parser
           "note": "2019",
           "value": {
             "label": "In April 2019, he was named in Sri Lanka's squad for the 2019 Cricket World Cup."
@@ -216,7 +284,11 @@
         },
         {
           "label": "IPL Debut",
+<<<<<<< HEAD
           "id": "yYd5PECFEn8",
+=======
+          "id": "jaP12gIRiM9",
+>>>>>>> feature/content-parser
           "note": "2008",
           "value": {
             "label": "Malinga plays for Indian Premier League (IPL) team Mumbai Indians. He is their strike bowler in this format and is a leading bowler in the competition. ",
@@ -225,11 +297,19 @@
                 "url": "/read/en/mumbai_indians",
                 "contentUrl": "/static/content/en/mumbai_indians.json",
                 "label": "Mumbai Indians",
+<<<<<<< HEAD
                 "id": "wG4bO6chfmY",
                 "value": {
                   "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Mumbai_Indians#/media/File:Mumbai_Indians_Logo.svg",
+=======
+                "id": "StmnFXfa0oo",
+                "value": {
+                  "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
+                  "image": {
+                    "url": "/static/images/lasith_malinga/Mumbai_Indians_Logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of Mumbai Indians"
                   }
                 }
@@ -238,6 +318,125 @@
           }
         }
       ]
+<<<<<<< HEAD
+=======
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "Only bowler in cricketing history to take four wickets in four consecutive balls in international cricket (vs. South Africa March 2007)",
+            "image": {
+              "url": "",
+              "altText": "Only bowler in cricketing history to take four wickets in four consecutive balls in international cricket (vs. South Africa March 2007)"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "The first and, to date, only bowler in cricketing history to take three hat-tricks in One Day International cricket, taking his third in August 2011.",
+            "image": {
+              "url": "",
+              "altText": "The first and, to date, only bowler in cricketing history to take three hat-tricks in One Day International cricket, taking his third in August 2011."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "He is the only bowler with two World Cup hat tricks, against South Africa in the 2007 Cricket World Cup and the other against Kenya in the 2011 Cricket World Cup.",
+            "image": {
+              "url": "",
+              "altText": "He is the only bowler with two World Cup hat tricks, against South Africa in the 2007 Cricket World Cup and the other against Kenya in the 2011 Cricket World Cup."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "As of April 2017, Malinga is the second highest wicket-taker in all Twenty20 matches with 317 wickets in 232 games.",
+            "image": {
+              "url": "",
+              "altText": "As of April 2017, Malinga is the second highest wicket-taker in all Twenty20 matches with 317 wickets in 232 games."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "Malinga holds the highest number of wickets (161) in the Indian Premier League.",
+            "image": {
+              "url": "",
+              "altText": "Malinga holds the highest number of wickets (161) in the Indian Premier League."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Srilankan Cricket Team (2004- Present)",
+          "id": "6V3Qi0Qa1Pc",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Sri Lanka national cricket team",
+                "id": "m0YSOJoMQHu",
+                "url": "/read/en/sri_lanka_national_cricket_team",
+                "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
+                "value": {
+                  "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
+                  "image": {
+                    "url": "/static/images/lasith_malinga/Sri_Lanka_Cricket_Cap_Insignia.svg",
+                    "altText": "Picture of Sri Lanka national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Mumbai Indians (2008- Present)",
+          "id": "CvIVgWu51V7",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Mumbai Indians",
+                "id": "CSpVfPTjPMj",
+                "url": "/read/en/mumbai_indians",
+                "contentUrl": "/static/content/en/mumbai_indians.json",
+                "value": {
+                  "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
+                  "image": {
+                    "url": "/static/images/lasith_malinga/Mumbai_Indians_Logo.svg",
+                    "altText": "Picture of Mumbai Indians"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": []
+>>>>>>> feature/content-parser
     }
   ]
 }

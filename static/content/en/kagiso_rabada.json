@@ -2,7 +2,11 @@
   "title": "Kagiso Rabada",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Kagiso_Rabada",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://en.wikipedia.org/wiki/Kagiso_Rabada#/media/File:Rabada.jpg",
+=======
+    "url": "/static/images/kagiso_rabada/Rabada.jpg",
+>>>>>>> feature/content-parser
     "altText": "Image of Kagiso Rabada"
   },
   "summary": "Kagiso Rabada is a South African international cricketer who plays all formats of the game. Rabada, who is known by the nickname KG, is a fast bowler and plays domestic cricket for the Highveld Lions. ",
@@ -71,7 +75,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "sH4br71qTTA",
+=======
+      "id": "yOjjRWAYL",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -79,8 +87,14 @@
           "value": {
             "label": "",
             "image": {
+<<<<<<< HEAD
               "url": "https://en.wikipedia.org/wiki/Kagiso_Rabada#/media/File:KAGISO_RABADA_(15085792033).jpg",
               "altText": "Style of play for Kagiso Rabada"
+=======
+              "url": "/static/images/kagiso_rabada/KAGISO_RABADA_%2815085792033%29.jpg",
+              "altText": "Style of play for Kagiso Rabada",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+>>>>>>> feature/content-parser
             }
           }
         }
@@ -92,7 +106,11 @@
       "facts": [
         {
           "label": "First class Debut",
+<<<<<<< HEAD
           "id": "0XNBoY3v3Jp",
+=======
+          "id": "GWzwLVGz-",
+>>>>>>> feature/content-parser
           "note": "2013",
           "value": {
             "label": "Rabada made his debut for the Gauteng in the CSA Provincial One-Day Competition against Border in December 2013."
@@ -100,7 +118,11 @@
         },
         {
           "label": "National team debut ",
+<<<<<<< HEAD
           "id": "T4PAv2-gOsb",
+=======
+          "id": "UJzUKIs_bB",
+>>>>>>> feature/content-parser
           "note": "",
           "value": {
             "label": "Rabada made his Twenty20 International debut for South Africa against Australia on 5 November 2014.",
@@ -109,11 +131,19 @@
                 "url": "/read/en/australia_cricket_team",
                 "contentUrl": "/static/content/en/australia_cricket_team.json",
                 "label": "Australia Cricket team",
+<<<<<<< HEAD
                 "id": "poXdo4qzUo7",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Australia_national_cricket_team#/media/File:Australia_cricket_logo.svg",
+=======
+                "id": "Axx2E0CaRz",
+                "value": {
+                  "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+                  "image": {
+                    "url": "/static/images/kagiso_rabada/Australia_cricket_logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of Australia Cricket team"
                   }
                 }
@@ -123,7 +153,11 @@
         },
         {
           "label": "ICC Tournament Debut",
+<<<<<<< HEAD
           "id": "Rv-rB2_HyWZ",
+=======
+          "id": "GIDEvVqXfb",
+>>>>>>> feature/content-parser
           "note": "",
           "value": {
             "label": "Rabada was chosen to represent South Africa's Under-19 side for the 2014 ICC Under-19 Cricket World Cup. "
@@ -131,7 +165,11 @@
         },
         {
           "label": "World Cup Appearance",
+<<<<<<< HEAD
           "id": "Z1lDzZbPUVd",
+=======
+          "id": "deTH6UJTmx",
+>>>>>>> feature/content-parser
           "note": "2019",
           "value": {
             "label": "In April 2019, he was named in South Africa's squad for the 2019 Cricket World Cup."
@@ -139,7 +177,11 @@
         },
         {
           "label": "IPL Debut",
+<<<<<<< HEAD
           "id": "dAr9hGkAou1",
+=======
+          "id": "jEuOqUqX5A",
+>>>>>>> feature/content-parser
           "note": "2017",
           "value": {
             "label": "In February 2017, Rabada was bought by the Delhi Daredevils team for the 2017 Indian Premier League for INR 50 million.",
@@ -148,19 +190,146 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
+<<<<<<< HEAD
                 "id": "ODeE358O7nf",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/Delhi_Capitals#/media/File:Delhi_Capitals_Logo.svg",
+=======
+                "id": "opjc5149Kt",
+                "value": {
+                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "image": {
+                    "url": "/static/images/kagiso_rabada/Delhi_Capitals_Logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of Delhi Capitals"
                   }
                 }
               }
             ]
           }
+<<<<<<< HEAD
+=======
         }
       ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "In July 2018 during the first test against Sri Lanka, Rabada is the youngest ever bowler to take 150 wickets in Test cricket ",
+            "image": {
+              "url": "",
+              "altText": "In July 2018 during the first test against Sri Lanka, Rabada is the youngest ever bowler to take 150 wickets in Test cricket "
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "n 2018, He took the most wickets in Tests by any bowler, with 52 dismissals.",
+            "image": {
+              "url": "",
+              "altText": "n 2018, He took the most wickets in Tests by any bowler, with 52 dismissals."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "South African Nation team (2014- present)",
+          "id": "BNvS-KnjVw",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "South Africa national cricket team",
+                "id": "juoz4CjCw5",
+                "url": "/read/en/south_africa_national_cricket_team",
+                "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
+                "value": {
+                  "label": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
+                  "image": {
+                    "url": "/static/images/kagiso_rabada/Southafrica_cricket_logo.svg",
+                    "altText": "Picture of South Africa national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Delhi capitals (2017- present)",
+          "id": "9SifRPCxBj",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Delhi Capitals",
+                "id": "BqDD1GNOYx",
+                "url": "/read/en/delhi_capitals",
+                "contentUrl": "/static/content/en/delhi_capitals.json",
+                "value": {
+                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "image": {
+                    "url": "/static/images/kagiso_rabada/Delhi_Capitals_Logo.svg",
+                    "altText": "Picture of Delhi Capitals"
+                  }
+                }
+              }
+            ]
+          }
+>>>>>>> feature/content-parser
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": []
     }
   ]
 }

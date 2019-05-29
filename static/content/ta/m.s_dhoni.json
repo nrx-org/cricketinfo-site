@@ -39,8 +39,12 @@
           "label": "Birthplace",
           "value": {
             "label": "ராஞ்சி, பீகார் (இப்போது ஜார்கண்ட்)",
+<<<<<<< HEAD
             "url": "https://en.wikipedia.org/wiki/Ranchi",
             "contentUrl": "/static/content/ta/ranchi.json"
+=======
+            "url": "https://en.wikipedia.org/wiki/Ranchi"
+>>>>>>> feature/content-parser
           }
         },
         {
@@ -87,7 +91,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "tpBYE5rjmNX",
+=======
+      "id": "JOF0TITHK-m",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -101,6 +109,29 @@
           }
         }
       ]
+<<<<<<< HEAD
+=======
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "முதல் வகுப்பு",
+          "id": "6r9X6CLCcfl",
+          "note": "1999",
+          "value": {
+            "label": "தோனி 18 வயதில், 1999-2000 சீசனில் பீகாருக்காக தன்னுடைய முதல் ரஞ்சி டிராஃபி போட்டியை விளையாடினார்.",
+            "facts": [
+              {
+                "label": "https://en.wikipedia.org/wiki/Ranji_Trophy",
+                "id": "eYqCv209iBA"
+              }
+            ]
+          }
+        }
+      ]
+>>>>>>> feature/content-parser
     }
   ]
 }

@@ -2,7 +2,11 @@
   "title": "Ravi Shastri",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ravi_Shastri",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:Ravi_Shastri.jpg",
+=======
+    "url": "/static/images/ravi_shastri/Ravi_Shastri.jpg",
+>>>>>>> feature/content-parser
     "altText": "Image of Ravi Shastri"
   },
   "summary": "Ravi Shastri is a former Indian cricket player, and current head coach of the Indian national cricket team. He is also a cricket commentator.",
@@ -70,7 +74,11 @@
           "value": {
             "label": "Under Shastri's captaincy, Don Bosco (Matunga) won the inter-school Giles Shield cricket tournament in 1977, the first time in the history of the school.",
             "image": {
+<<<<<<< HEAD
               "url": "https://en.wikipedia.org/wiki/File:School_emblem_of_Don_Bosco,_Matunga.gif",
+=======
+              "url": "/static/images/ravi_shastri/School_emblem_of_Don_Bosco,_Matunga.gif",
+>>>>>>> feature/content-parser
               "altText": "Image of Don Bosco High School, Matunga, Mumbai"
             }
           }
@@ -79,7 +87,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "NupfYMMDwB5",
+=======
+      "id": "O2U04yNUBa5",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -96,7 +108,11 @@
       "facts": [
         {
           "label": "First class Debut",
+<<<<<<< HEAD
           "id": "RMw0ub6Z8Jj",
+=======
+          "id": "XnB-gYaolH_",
+>>>>>>> feature/content-parser
           "note": "1979",
           "value": {
             "label": "At 17 years and 292 days, Shastri was then the youngest cricketer to debut and play for Bombay in Ranji Trophy."
@@ -104,7 +120,11 @@
         },
         {
           "label": "National team debut ",
+<<<<<<< HEAD
           "id": "5NVPOXvcsiX",
+=======
+          "id": "fDC64U5gBcj",
+>>>>>>> feature/content-parser
           "note": "1981",
           "value": {
             "label": "Ravi Shastri made his international debut for India in 1981 versus New Zealand",
@@ -113,11 +133,19 @@
                 "url": "/read/en/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
                 "label": "New Zealand national cricket team",
+<<<<<<< HEAD
                 "id": "oTGjicQ5HZ_",
                 "value": {
                   "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/New_Zealand_national_cricket_team#/media/File:New_Zealand_Cricket_Cap_Insignia.svg",
+=======
+                "id": "Z2PKWOwdw6K",
+                "value": {
+                  "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
+                  "image": {
+                    "url": "/static/images/ravi_shastri/New_Zealand_Cricket_Cap_Insignia.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of New Zealand national cricket team"
                   }
                 }
@@ -127,7 +155,11 @@
         },
         {
           "label": "ICC Tournament Debut",
+<<<<<<< HEAD
           "id": "fhabpFkQMsw",
+=======
+          "id": "TFUaPHui9t4",
+>>>>>>> feature/content-parser
           "note": "1983",
           "value": {
             "label": "Shastri was not selected to play in most of the important matches in the 1983 World Cup",
@@ -136,11 +168,19 @@
                 "url": "/read/en/1983_cricket_world_cup",
                 "contentUrl": "/static/content/en/1983_cricket_world_cup.json",
                 "label": "1983 Cricket World Cup",
+<<<<<<< HEAD
                 "id": "3V5rYm1AzF-",
                 "value": {
                   "label": "The 1983 Cricket World Cup (officially the Prudential Cup '83) was the 3rd edition of the Cricket World Cup tournament. It was held from 9 June to 25 June 1983 in England and Wales and was won by India.",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/1983_Cricket_World_Cup#/media/File:Prudential_Cup_83_logo.svg",
+=======
+                "id": "12s2TxaDrqT",
+                "value": {
+                  "label": "The 1983 Cricket World Cup (officially the Prudential Cup '83) was the 3rd edition of the Cricket World Cup tournament. It was held from 9 June to 25 June 1983 in England and Wales and was won by India.",
+                  "image": {
+                    "url": "/static/images/ravi_shastri/Prudential_Cup_83_logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of 1983 Cricket World Cup"
                   }
                 }
@@ -150,13 +190,134 @@
         },
         {
           "label": "IPL Debut",
+<<<<<<< HEAD
           "id": "zeHpb7cN5bB",
+=======
+          "id": "9z3qEjRmyG0",
+>>>>>>> feature/content-parser
           "note": "",
           "value": {
             "label": ""
           }
         }
       ]
+<<<<<<< HEAD
+=======
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "1981 - At 17 years and 292 days, he was then the youngest cricketer to debut and play for Bombay",
+            "image": {
+              "url": "",
+              "altText": "1981 - At 17 years and 292 days, he was then the youngest cricketer to debut and play for Bombay"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "Shastri is one of the few cricketers who have batted on all 5 days of a Test match. He achieved this in Kolkata versus England.",
+            "image": {
+              "url": "",
+              "altText": "Shastri is one of the few cricketers who have batted on all 5 days of a Test match. He achieved this in Kolkata versus England."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "1983 - Shastri began opening the batting innings regularly in ODI matches. With K.Srikkanth, he made a first wicket world record score of 188.",
+            "image": {
+              "url": "",
+              "altText": "1983 - Shastri began opening the batting innings regularly in ODI matches. With K.Srikkanth, he made a first wicket world record score of 188."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "1985 - Shastri won an Audi car as the Champion of Champions in the World Championship of Cricket for scoring 182 runs and taking 8 wickets.",
+            "image": {
+              "url": "",
+              "altText": "1985 - Shastri won an Audi car as the Champion of Champions in the World Championship of Cricket for scoring 182 runs and taking 8 wickets."
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "1987 - Shastri became the Captain of the Indian team for a short period while Dilip Vengsarkar was injured and then banned for 6 months by the BCCI",
+            "image": {
+              "url": "",
+              "altText": "1987 - Shastri became the Captain of the Indian team for a short period while Dilip Vengsarkar was injured and then banned for 6 months by the BCCI"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Indian National Cricket team (1981-1992)",
+          "id": "Y61to-jH6sL",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India national cricket team",
+                "id": "gcaDk0iZmpH",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "/static/images/ravi_shastri/Cricket_India_Crest.svg",
+                    "altText": "Picture of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Bombay (now Mumbai) (1979-1993)",
+          "id": "_8GaO7goUjp",
+          "value": {
+            "label": "Domestic Ranji trophy cricket team based in Mumbai"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "Arjuna Award",
+          "tag": "1984",
+          "id": "award-0",
+          "value": {
+            "label": "Arjuna Awards are given by the Government for outstanding achievement in sports",
+            "image": {
+              "url": "/static/images/ravi_shastri/Arjun_Award.jpg",
+              "altText": "Image of Arjuna Award"
+            }
+          }
+        }
+      ]
+>>>>>>> feature/content-parser
     }
   ]
 }

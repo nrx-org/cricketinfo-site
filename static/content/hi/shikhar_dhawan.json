@@ -2,7 +2,11 @@
   "title": "शिखर धवन",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Shikhar_Dhawan",
   "coverImage": {
+<<<<<<< HEAD
     "url": "https://commons.wikimedia.org/wiki/File:SHIKHAR_DHAWAN_(16005494418).jpg",
+=======
+    "url": "/static/images/shikhar_dhawan/SHIKHAR_DHAWAN_(16005494418).jpg",
+>>>>>>> feature/content-parser
     "altText": "Image of शिखर धवन"
   },
   "summary": "शिखर धवन भारत के एक अन्‍तर्राष्ट्रीय क्रिकेटर हैं।",
@@ -81,7 +85,11 @@
     },
     {
       "title": "Style of play",
+<<<<<<< HEAD
       "id": "hp8sANwpIfJK",
+=======
+      "id": "mP7CI0GJay1",
+>>>>>>> feature/content-parser
       "cardType": "simple",
       "facts": [
         {
@@ -89,8 +97,14 @@
           "value": {
             "label": "विराट कोहली बाएं हाथ के सलामी बल्लेबाज हैं और कभी-कभी दाएं हाथ के ऑफ ब्रेक गेंदबाजी भी करते हैं।",
             "image": {
+<<<<<<< HEAD
               "url": "https://en.wikipedia.org/wiki/Shikhar_Dhawan#/media/File:SHIKHAR_DHAWAN_(16007163087).jpg",
               "altText": "Style of play for शिखर धवन"
+=======
+              "url": "/static/images/shikhar_dhawan/SHIKHAR_DHAWAN_%2816007163087%29.jpg",
+              "altText": "Style of play for शिखर धवन",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+>>>>>>> feature/content-parser
             }
           }
         }
@@ -102,7 +116,11 @@
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
+<<<<<<< HEAD
           "id": "oItBKZztnttG",
+=======
+          "id": "p-GafCMoKl",
+>>>>>>> feature/content-parser
           "note": "2004",
           "value": {
             "label": "धवन ने 2004 में दिल्ली की ओर से आंध्र के खिलाफ रणजी ट्रॉफी क्रिकेट में पदार्पण किया। "
@@ -110,7 +128,11 @@
         },
         {
           "label": "राष्ट्रीय टीम ",
+<<<<<<< HEAD
           "id": "-CPBb1lM5URV",
+=======
+          "id": "MOZl34TJA8",
+>>>>>>> feature/content-parser
           "note": "2010",
           "value": {
             "label": "धवन ने आस्ट्रेलिया के विरुद्ध अंतराष्ट्रीय मैच में पदार्पण किया लेकिन इसमें वे शून्य रन पर आउट हो गए। "
@@ -118,7 +140,11 @@
         },
         {
           "label": "चैंपियंस ट्रॉफी ",
+<<<<<<< HEAD
           "id": "6R_PgUR-NJ5P",
+=======
+          "id": "ICLjhCOk6k",
+>>>>>>> feature/content-parser
           "note": "2013",
           "value": {
             "label": "धवन ने टुर्नामेंट में सबसे ज्यादा रन बनाए और उन्हें प्लेयर ऑफ द टुर्नामेंट घोषित किया गया। ",
@@ -127,11 +153,19 @@
                 "url": "/read/hi/icc_champions_trophy",
                 "contentUrl": "/static/content/hi/icc_champions_trophy.json",
                 "label": "आईसीसी चैंपियंस ट्रॉफी",
+<<<<<<< HEAD
                 "id": "45dmQXjI8zI3",
                 "value": {
                   "label": "आईसीसी चैंपियंस ट्रॉफी एक दिवसीय अंतर्राष्ट्रीय (वनडे) क्रिकेट टूर्नामेंट था जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया जाता था, जो क्रिकेट विश्व कप के बाद दूसरा सबसे महत्वपूर्ण आयोजन था। 2002 में इसका नाम बदलकर चैंपियंस ट्रॉफी रखा गया।",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/ICC_Champions_Trophy#/media/File:ICC_Champions_Trophy_cricket_logo.png",
+=======
+                "id": "rLP9iMCi09",
+                "value": {
+                  "label": "आईसीसी चैंपियंस ट्रॉफी एक दिवसीय अंतर्राष्ट्रीय (वनडे) क्रिकेट टूर्नामेंट था जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया जाता था, जो क्रिकेट विश्व कप के बाद दूसरा सबसे महत्वपूर्ण आयोजन था। 2002 में इसका नाम बदलकर चैंपियंस ट्रॉफी रखा गया।",
+                  "image": {
+                    "url": "/static/images/shikhar_dhawan/ICC_Champions_Trophy_cricket_logo.png",
+>>>>>>> feature/content-parser
                     "altText": "Image of आईसीसी चैंपियंस ट्रॉफी"
                   }
                 }
@@ -141,7 +175,11 @@
         },
         {
           "label": "अच्छा खेल नहीं पा रहे हैं\n",
+<<<<<<< HEAD
           "id": "rr9CnRwCAOZR",
+=======
+          "id": "YPyctGj-v6m",
+>>>>>>> feature/content-parser
           "note": "2014",
           "value": {
             "label": "धवन ज्यादा रन बनाने में नाकाम रहे और उन्हें टीम से हटा दिया गया। ",
@@ -150,11 +188,19 @@
                 "url": "/read/hi/icc_t20_world_cup",
                 "contentUrl": "/static/content/hi/icc_t20_world_cup.json",
                 "label": "आईसीसी टी20 विश्व कप",
+<<<<<<< HEAD
                 "id": "vDY68Z-UbFwC",
                 "value": {
                   "label": "आईसीसी टी20 विश्व कप (जिसे पहले आईसीसी विश्व ट्वेंटी20 के नाम से जाना जाता था) ट्वेंटी20 क्रिकेट की अंतर्राष्ट्रीय चैम्पियनशिप है। वर्तमान में इस टूर्नामेंट में 16 टीमें भाग लेती हैं, जिसमें आठ टीमें दी गई समय सीमा के भीतर रैंकिंग के शीर्ष आठ में रहने वाली टीमें होती हैं जबकि चार अन्य टीमें टी20 विश्व कप क्वालीफायर के माध्यम से चुनी जातीं हैं।",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/ICC_T20_World_Cup#/media/File:ICC_World_Twenty20_Trophy.jpg",
+=======
+                "id": "CguSlIeyUOa",
+                "value": {
+                  "label": "आईसीसी टी20 विश्व कप (जिसे पहले आईसीसी विश्व ट्वेंटी20 के नाम से जाना जाता था) ट्वेंटी20 क्रिकेट की अंतर्राष्ट्रीय चैम्पियनशिप है। वर्तमान में इस टूर्नामेंट में 16 टीमें भाग लेती हैं, जिसमें आठ टीमें दी गई समय सीमा के भीतर रैंकिंग के शीर्ष आठ में रहने वाली टीमें होती हैं जबकि चार अन्य टीमें टी20 विश्व कप क्वालीफायर के माध्यम से चुनी जातीं हैं।",
+                  "image": {
+                    "url": "/static/images/shikhar_dhawan/ICC_World_Twenty20_Trophy.jpg",
+>>>>>>> feature/content-parser
                     "altText": "Image of आईसीसी टी20 विश्व कप"
                   }
                 }
@@ -164,7 +210,11 @@
         },
         {
           "label": "विश्व कप ",
+<<<<<<< HEAD
           "id": "f-XEqdaDthuu",
+=======
+          "id": "fQXxY2sTybX",
+>>>>>>> feature/content-parser
           "note": "2015",
           "value": {
             "label": "2015 के विश्व कप में सबसे ज्यादा रन बनाने वाले बल्लेबाजों में धवन पांचवें स्थान पर रहे। ",
@@ -173,11 +223,19 @@
                 "url": "/read/hi/2015_cricket_world_cup",
                 "contentUrl": "/static/content/hi/2015_cricket_world_cup.json",
                 "label": "2015 क्रिकेट विश्व कप",
+<<<<<<< HEAD
                 "id": "2l1Gs9Qmry4S",
                 "value": {
                   "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/2015_Cricket_World_Cup#/media/File:2015_Cricket_World_Cup_Logo.svg",
+=======
+                "id": "KaixyHcUoVg",
+                "value": {
+                  "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
+                  "image": {
+                    "url": "/static/images/shikhar_dhawan/2015_Cricket_World_Cup_Logo.svg",
+>>>>>>> feature/content-parser
                     "altText": "Image of 2015 क्रिकेट विश्व कप"
                   }
                 }
@@ -187,7 +245,11 @@
         },
         {
           "label": "चैंपियंस ट्रॉफी ",
+<<<<<<< HEAD
           "id": "Gp46pypqqO7u",
+=======
+          "id": "pSS29xI7lpK",
+>>>>>>> feature/content-parser
           "note": "टुर्नामेंट में सबसे ज्यादा रन बनाने वाले धवन को गोल्डन बैट का पुरस्कार प्राप्त हुआ। ",
           "value": {
             "label": "चैंपियंस ट्रॉफी ",
@@ -196,11 +258,19 @@
                 "url": "/read/hi/icc_champions_trophy",
                 "contentUrl": "/static/content/hi/icc_champions_trophy.json",
                 "label": "आईसीसी चैंपियंस ट्रॉफी",
+<<<<<<< HEAD
                 "id": "KVmIhqI0xXFh",
                 "value": {
                   "label": "आईसीसी चैंपियंस ट्रॉफी एक दिवसीय अंतर्राष्ट्रीय (वनडे) क्रिकेट टूर्नामेंट था जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया जाता था, जो क्रिकेट विश्व कप के बाद दूसरा सबसे महत्वपूर्ण आयोजन था। 2002 में इसका नाम बदलकर चैंपियंस ट्रॉफी रखा गया।",
                   "image": {
                     "url": "https://en.wikipedia.org/wiki/ICC_Champions_Trophy#/media/File:ICC_Champions_Trophy_cricket_logo.png",
+=======
+                "id": "qiW-nm8jgZ2",
+                "value": {
+                  "label": "आईसीसी चैंपियंस ट्रॉफी एक दिवसीय अंतर्राष्ट्रीय (वनडे) क्रिकेट टूर्नामेंट था जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया जाता था, जो क्रिकेट विश्व कप के बाद दूसरा सबसे महत्वपूर्ण आयोजन था। 2002 में इसका नाम बदलकर चैंपियंस ट्रॉफी रखा गया।",
+                  "image": {
+                    "url": "/static/images/shikhar_dhawan/ICC_Champions_Trophy_cricket_logo.png",
+>>>>>>> feature/content-parser
                     "altText": "Image of आईसीसी चैंपियंस ट्रॉफी"
                   }
                 }
@@ -210,10 +280,123 @@
         },
         {
           "label": "IPL डेब्यू",
+<<<<<<< HEAD
           "id": "1vjsD2QX_1VT",
           "note": "2008",
           "value": {
             "label": "आशीष नेहरा के बदले शिखर धवन को 2009 में मुंबई इंडियंस द्वारा खरीदा गया, इससे पहले तक वे देल्ही डेयरडेविल्स के लिए खेले।  "
+=======
+          "id": "4ViOnL1zRKR",
+          "note": "2008",
+          "value": {
+            "label": "आशीष नेहरा के बदले शिखर धवन को 2009 में मुंबई इंडियंस द्वारा खरीदा गया, इससे पहले तक वे देल्ही डेयरडेविल्स के लिए खेले।  "
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "शिखर धवन ने अपने पदार्पण टेस्ट मैच में किसी खिलाड़ी द्वारा बनाया गया सबसे तेज़ शतक बनाया",
+            "image": {
+              "url": "",
+              "altText": "शिखर धवन ने अपने पदार्पण टेस्ट मैच में किसी खिलाड़ी द्वारा बनाया गया सबसे तेज़ शतक बनाया"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "आईसीसी विश्व कप 2015 में भारत की ओर से सर्वाधिक रन बनाये ",
+            "image": {
+              "url": "",
+              "altText": "आईसीसी विश्व कप 2015 में भारत की ओर से सर्वाधिक रन बनाये "
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "इकलौते खिलाड़ी जिन्होंने आईसीसी चैंपियंस ट्रॉफी में सबसे अधिक रन बना बना कर लगातार 2 बार गोल्डन बैट जीता",
+            "image": {
+              "url": "",
+              "altText": "इकलौते खिलाड़ी जिन्होंने आईसीसी चैंपियंस ट्रॉफी में सबसे अधिक रन बना बना कर लगातार 2 बार गोल्डन बैट जीता"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "धवन टेस्ट मैच के पहले दिन लंच से पहले शतक लगाने वाले पहले भारतीय बल्लेबाज हैं।",
+            "image": {
+              "url": "",
+              "altText": "धवन टेस्ट मैच के पहले दिन लंच से पहले शतक लगाने वाले पहले भारतीय बल्लेबाज हैं।"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team(s)",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "भारतीय राष्ट्रीय क्रिकेट टीम (2010-अब तक )",
+          "id": "ybPMXCkwfZr",
+          "value": {
+            "label": "भारत की राष्ट्रीय क्रिकेट टीम, जिसे टीम इंडिया और मैन इन ब्लू के नाम से भी जाना जाता है, भारतीय क्रिकेट कंट्रोल बोर्ड द्वारा संचालित है"
+          }
+        },
+        {
+          "label": "देल्ही केपिटल्‍स  (2019 -अब तक)",
+          "id": "AwRuQt3ViE4",
+          "value": {
+            "label": "देल्ही केपिटल्‍स (पहले देहली डेयरडेविल्स के नाम से चर्चित) दिल्ली, भारत की एक आईपीएल क्रिकेट टीम हैं।"
+          }
+        },
+        {
+          "label": "दिल्ली (2004-अब तक)",
+          "id": "TVXuMigcN_3",
+          "value": {
+            "label": "दिल्ली की घरेलू रणजी ट्रॉफी क्रिकेट टीम"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Awards & Honors",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "विसडेन क्रिकेटर ऑफ द ईयर ",
+          "tag": "2014",
+          "id": "award-0",
+          "value": {
+            "label": "विस्डन क्रिकेटर्स अलमानैक द्वारा दिया जाना वाला वार्षिक पुरस्कार ",
+            "image": {
+              "url": "",
+              "altText": "Image of विसडेन क्रिकेटर ऑफ द ईयर "
+            }
+>>>>>>> feature/content-parser
           }
         }
       ]
