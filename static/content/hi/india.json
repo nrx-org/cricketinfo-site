@@ -1,183 +1,268 @@
 {
-  "id": "G3",
   "title": "भारत",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/India",
   "summary": "भारत, जिसे भारत गणराज्य के रूप में भी जाना जाता है, दक्षिण एशिया का एक देश है। यह 1.3 बिलियन से ज्यादा आबादी के साथ  क्षेत्रफल में सातवां सबसे बड़ा देश है जहां  के साथ स्थित है  यह दूसरा सबसे अधिक आबादी वाला देश है और साथ ही दुनिया में सबसे अधिक आबादी वाला लोकतंत्र है।",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/India",
   "coverImage": {
     "url": "/static/images/india/India_topo_big.jpg",
-    "altText": "Image of India topo big"
+    "altText": "Image of भारत"
   },
   "translations": [
     {
-      "title": "Australia",
-      "url": "/read/en/india",
-      "lang": "en"
+      "lang": "en",
+      "title": "India",
+      "url": "/read/en/india"
     },
     {
-      "url": "/read/ta/india",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "இந்தியா",
+      "url": "/read/ta/india"
     }
   ],
   "sections": [
     {
-      "title": "",
+      "title": "About",
       "cardType": "table",
       "facts": [
         {
           "label": "स्वतंत्रता दिवस\n",
           "value": {
-            "label": "15 अगस्त 1947",
-            "url": ""
+            "label": "15 अगस्त 1947"
           }
         },
         {
           "label": "गणतंत्र दिवस\n",
           "value": {
-            "label": "26 January 1950",
-            "url": ""
+            "label": "26 January 1950"
           }
         },
         {
-          "label": "",
+          "label": "Total Area of country (km squared)",
           "value": {
-            "label": "",
-            "url": ""
+            "label": "3287263 वर्ग किमी"
           }
         },
         {
-          "label": "",
+          "label": "Population",
           "value": {
-            "label": "3287263 वर्ग किमी",
-            "url": ""
+            "label": "1324171354 (2016 अनुमान)"
           }
         },
         {
-          "label": "",
+          "label": "Capital city",
           "value": {
-            "label": "1324171354 (2016 अनुमान)",
-            "url": ""
+            "label": "नई दिल्ली"
           }
         },
         {
-          "label": "",
+          "label": "Largest city",
           "value": {
-            "label": "",
-            "url": ""
+            "label": "मुंबई"
           }
         },
         {
-          "label": "",
+          "label": "Timezone",
           "value": {
-            "label": "नई दिल्ली",
-            "url": ""
-          }
-        },
-        {
-          "value": {
-            "label": "मुंबई",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "UTC +05:30",
-            "url": ""
+            "label": "UTC +05:30"
           }
         }
       ]
     },
     {
-      "title": "",
+      "title": "History",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "प्राचीन भारत",
-          "id": 0,
+          "id": "history_phase_1_title",
           "note": "`- 600 ईस्वी",
           "value": {
-            "label": "सिंधु घाटी सभ्यता दक्षिण एशिया में पहली शहरी संस्कृति थी।",
-            "facts": []
+            "label": "सिंधु घाटी सभ्यता दक्षिण एशिया में पहली शहरी संस्कृति थी।"
           }
         },
         {
           "label": "मध्यकालीन भारत",
-          "id": 1,
+          "id": "history_phase_2_title",
           "note": "600 - 1500 ईस्वी",
           "value": {
-            "label": "6 और 7वीं शताब्दी में, पहला भक्ति भजन तमिल भाषा में बनाया गया था। पूरे भारत में उनकी नकल की गई और इसने हिंदू धर्म के पुनरुत्थान और उपमहाद्वीप की सभी आधुनिक भाषाओं के विकास का नेतृत्व किया।",
-            "facts": []
+            "label": "6 और 7वीं शताब्दी में, पहला भक्ति भजन तमिल भाषा में बनाया गया था। पूरे भारत में उनकी नकल की गई और इसने हिंदू धर्म के पुनरुत्थान और उपमहाद्वीप की सभी आधुनिक भाषाओं के विकास का नेतृत्व किया।"
           }
         },
         {
           "label": "प्रारंभिक आधुनिक भारत",
-          "id": 1,
+          "id": "history_phase_3_title",
           "note": "1500 - 1850 ईस्वी",
           "value": {
-            "label": "17वीं शताब्दी के दौरान मुगल साम्राज्य द्वारा बनाई रखी गई आपेक्षिक शांति भारत के आर्थिक विस्तार की कारक थी। 18वीं शताब्दी की शुरुआत में कई यूरोपीय व्यापारिक कंपनियों ने तटीय चौकियों की स्थापना की थी।",
-            "facts": []
+            "label": "17वीं शताब्दी के दौरान मुगल साम्राज्य द्वारा बनाई रखी गई आपेक्षिक शांति भारत के आर्थिक विस्तार की कारक थी। 18वीं शताब्दी की शुरुआत में कई यूरोपीय व्यापारिक कंपनियों ने तटीय चौकियों की स्थापना की थी।"
           }
         },
         {
           "label": "ब्रिटिश शासन",
-          "id": 1,
+          "id": "history_phase_4_title",
           "note": "1858 - 1947 ईस्वी",
           "value": {
-            "label": "1857 के भारतीय विद्रोह ने ब्रिटिश सरकार द्वारा ईस्ट इंडिया कंपनी के विघटन और भारत पर प्रत्यक्ष प्रशासन का आरंभ करवा दिया।",
-            "facts": []
+            "label": "1857 के भारतीय विद्रोह ने ब्रिटिश सरकार द्वारा ईस्ट इंडिया कंपनी के विघटन और भारत पर प्रत्यक्ष प्रशासन का आरंभ करवा दिया।"
           }
         }
       ]
     },
     {
+      "title": "Government",
       "cardType": "avatar",
       "label": "भारत में एक संसदीय गणतंत्र एक बहुदलीय प्रणाली है।",
       "facts": [
         {
+          "label": "Prime minister name",
           "value": {
             "label": "नरेंद्र मोदी",
-            "url": "",
             "image": {
-              "url": "/static/images/india/PM_Modi_Portrait(cropped).jpg",
-              "altText": "Image of PM Modi Portrait(cropped)"
+              "url": "/static/images/india/PM_Modi_Portrait%28cropped%29.jpg",
+              "altText": "Picture of नरेंद्र मोदी",
+              "license": "<p><i></i><div lang=\"en\" class=\"description en\" style=\"display:inline;\"><i>This file is a copyrighted work of the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.india.gov.in/\">Government of India</a></b>, licensed under the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf\">Government Open Data License - India (GODL)</a></b>.</i>\n<p>Following the mandate of the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://data.gov.in/sites/default/files/NDSAP.pdf\">National Data Sharing and Accessibility Policy (NDSAP) of Government of India</a></b> that\napplies to all shareable non-sensitive data available either in digital or analog forms but generated using public funds by\nvarious agencies of the Government of India, all users are provided a worldwide, royalty-free, non-exclusive license to <b>use, adapt, publish</b> (either in original, or in adapted and/or derivative forms), translate, display, add value, and create derivative works (including products and services), for all lawful <b>commercial and non-commercial purposes</b>, and for the duration of existence of such rights over the data or information. \n</p><p>The user must acknowledge the provider, source, and license of data by explicitly publishing the <b>attribution statement</b>, including the DOI (Digital Object Identifier), or the URL (Uniform Resource Locator), or the URI (Uniform Resource Identifier) of the data concerned. \n</p><p>The user must not indicate or suggest in any manner that the data provider(s) endorses their use and/or the user. \nThe data provider(s) are not liable for any errors or omissions, and will not under any circumstances be liable for any loss, injury or damage caused by its use.  \n</p><p>The data provider(s) do not guarantee the continued supply of updated or up-to-date versions of the data, and will not be held liable in case the continued supply of updated data is not provided. \n</p><p><b>Exemptions:</b> The license does not cover the following kinds of data: a. personal information; b. data that is non-shareable and/or sensitive; c. names, crests, logos and other official symbols of the data provider(s); d. data subject to other intellectual property rights, including patents, trade-marks and official marks; e. military insignia; f. identity documents; and g. any data that should not have been publicly disclosed for the grounds provided under section 8 of the <a rel=\"nofollow\" class=\"external text\" href=\"http://rti.gov.in/webactrti.htm\">Right to Information Act, 2005</a>.\n</p><p><span class=\"licensetpl_link\" style=\"display:none;\">https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf</span>\n<span class=\"licensetpl_short\" style=\"display:none;\">GODL-India</span>\n<span class=\"licensetpl_long\" style=\"display:none;\">Government Open Data License &#x2013; India</span>\n<span class=\"licensetpl_link_req\" style=\"display:none;\">true</span>\n</p>\n<span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div><i></i></p><p></p><p><hr>\n<p><span style=\"font-size:x-small;line-height:140%\" class=\"plainlinks noprint\"><a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/en\">English</a>&#xA0;| <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/fr\">fran&#xE7;ais</a>&#xA0;| <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/ml\">&#xD2E;&#xD32;&#xD2F;&#xD3E;&#xD33;&#xD02;</a>&#xA0;| <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/mr\">&#x92E;&#x930;&#x93E;&#x920;&#x940;</a>&#xA0;| <small class=\"plainlinks\"><a class=\"external text\" href=\"//commons.wikimedia.org/w/index.php?title=Template:GODL-India/lang&amp;action=edit\">+/&#x2212;</a></small></span>\n<span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=GODL-India 1%3D\">&#xA0;</span>\n</p></p>"
             }
           }
         },
         {
+          "label": "President",
           "value": {
             "label": "रामनाथ कोविन्द ",
-            "url": "",
             "image": {
               "url": "/static/images/india/Ram_Nath_Kovind_official_portrait.jpg",
-              "altText": "Image of Ram Nath Kovind official portrait"
+              "altText": "Picture of रामनाथ कोविन्द "
             }
           }
         },
         {
+          "label": "Chief Justice name",
           "value": {
             "label": "रंजन गोगोई ",
-            "url": "",
             "image": {
               "url": "/static/images/india/CJI_Ranjan_gogoi.jpg",
-              "altText": "Image of CJI Ranjan gogoi"
+              "altText": "Picture of रंजन गोगोई "
             }
           }
         }
       ]
     },
     {
-      "title": "",
+      "title": "Geography",
+      "id": "india_geography",
       "cardType": "simple",
       "facts": [
         {
-          "label": "ऑस्ट्रेलिया",
+          "label": "भारत",
           "value": {
             "label": "भारत में भारतीय उपमहाद्वीप का बड़ा हिस्सा है, जो भारतीय टेक्टॉनिक प्लेट के ऊपर स्थित है, जो इंडो-ऑस्ट्रेलियन प्लेट का एक हिस्सा है।",
             "image": {
               "url": "/static/images/india/India_topo_big.jpg",
-              "altText": "Image of India topo big"
+              "altText": "An image of भारत"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Culture",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "कला और वास्तुकला",
+          "id": "culture-कला_और_वास्तुकला",
+          "value": {
+            "label": "ताजमहल, मुगल वास्तुकला के अन्य कार्यों और दक्षिण भारतीय वास्तुकला सहित कई भारतीय वास्तुकला आयातित शैलियों के साथ प्राचीन स्थानीय परंपराओं का मिश्रण है।",
+            "image": {
+              "url": "/static/images/india/Taj_Mahal_%28Edited%29.jpeg",
+              "altText": "ताजमहल, मुगल वास्तुकला के अन्य कार्यों और दक्षिण भारतीय वास्तुकला सहित कई भारतीय वास्तुकला आयातित शैलियों के साथ प्राचीन स्थानीय परंपराओं का मिश्रण है।",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/4.0/\">4.0 International</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
+            }
+          }
+        },
+        {
+          "label": "साहित्य ",
+          "id": "culture-साहित्य_",
+          "value": {
+            "label": "20 वीं शताब्दी में, भारतीय साहित्य बंगाली कवि और उपन्यासकार रवींद्रनाथ टैगोर के कार्यों से प्रभावित था, जो साहित्य में नोबेल पुरस्कार के प्राप्तकर्ता थे।",
+            "image": {
+              "url": "",
+              "altText": "20 वीं शताब्दी में, भारतीय साहित्य बंगाली कवि और उपन्यासकार रवींद्रनाथ टैगोर के कार्यों से प्रभावित था, जो साहित्य में नोबेल पुरस्कार के प्राप्तकर्ता थे।"
+            }
+          }
+        },
+        {
+          "label": "कला प्रदर्शन ",
+          "id": "culture-कला_प्रदर्शन_",
+          "value": {
+            "label": "भारतीय नृत्य में विविध लोक और शास्त्रीय रूप भी हैं। बेहतर ज्ञात लोक नृत्यों में पंजाब का भांगड़ा, असम का बिहू, झारखंड, ओडिशा और पश्चिम बंगाल का झूमर और छऊ, गुजरात का गरबा और डांडिया, राजस्थान का घूमर, और महाराष्ट्र की लावणी शामिल हैं।",
+            "image": {
+              "url": "/static/images/india/Inde_muria_0511.jpg",
+              "altText": "भारतीय नृत्य में विविध लोक और शास्त्रीय रूप भी हैं। बेहतर ज्ञात लोक नृत्यों में पंजाब का भांगड़ा, असम का बिहू, झारखंड, ओडिशा और पश्चिम बंगाल का झूमर और छऊ, गुजरात का गरबा और डांडिया, राजस्थान का घूमर, और महाराष्ट्र की लावणी शामिल हैं।"
+            }
+          }
+        },
+        {
+          "label": "चल चित्र, टेलीविज़न ",
+          "id": "culture-चल_चित्र,_टेलीविज़न_",
+          "value": {
+            "label": "भारतीय फिल्म उद्योग दुनिया के सबसे ज्यादा देखा जाने वाले सिनेमा का निर्माण करता है। दक्षिण भारतीय सिनेमा राष्ट्रीय फिल्म राजस्व का 75% से अधिक का योगदान करता है।",
+            "image": {
+              "url": "/static/images/india/Qayamat_Se_Qayamat_Tak1.jpg",
+              "altText": "भारतीय फिल्म उद्योग दुनिया के सबसे ज्यादा देखा जाने वाले सिनेमा का निर्माण करता है। दक्षिण भारतीय सिनेमा राष्ट्रीय फिल्म राजस्व का 75% से अधिक का योगदान करता है।"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_india",
+          "label": "Languages",
+          "value": {
+            "label": "हिंदी, अंग्रेजी, असमिया, बंगाली, बोडो, डोगरी, गुजराती, कन्नड़, कश्मीरी, कोकबोरोक, कोंकणी, मैथिली, मलयालम, मणिपुरी, मराठी, मिजो, नेपाली, ओडिया, पंजाबी, संस्कृत, संताली, सिंधी, तमिल, तेलुगु, उर्दू"
+          }
+        },
+        {
+          "id": "religion_section_india",
+          "label": "Religions",
+          "value": {
+            "facts": [
+              {
+                "id": "religion_0",
+                "label": "हिंदू धर्म",
+                "value": 79.8
+              },
+              {
+                "id": "religion_1",
+                "label": "इस्लाम",
+                "value": 14.2
+              },
+              {
+                "id": "religion_2",
+                "label": "ईसाई धर्म",
+                "value": 2.3
+              },
+              {
+                "id": "religion_3",
+                "label": "सिख धर्म ",
+                "value": 1.7
+              },
+              {
+                "id": "religion_4",
+                "label": "बौद्ध धर्म",
+                "value": 0.7
+              },
+              {
+                "id": "religion_5",
+                "label": "जैन धर्म",
+                "value": 0.4
+              },
+              {
+                "id": "religion_6",
+                "label": "अन्य",
+                "value": 0.9
+              }
+            ]
           }
         }
       ]

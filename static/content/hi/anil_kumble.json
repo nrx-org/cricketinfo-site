@@ -1,22 +1,21 @@
 {
-  "id": "O7",
   "title": "अनिल कुंबले",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Anil_Kumble",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anil_Kumble",
   "coverImage": {
-    "url": "/static/images/anil_kumble/Anil_Kumble.jpg",
-    "altText": "Image of Anil Kumble"
+    "url": "https://commons.wikimedia.org/wiki/File:Anil_Kumble.jpg",
+    "altText": "Image of अनिल कुंबले"
   },
   "summary": "अनिल कुंबले भारत के एक पूर्व क्रिकेटर और टेस्ट तथा अन्‍तर्राष्ट्रीय एक दिवसीय मैचों (वनडे) के पूर्व कप्तान रहे हैं, जिन्होंने 18 वर्षों तक टेस्ट और अन्‍तर्राष्ट्रीय एकदिवसीय मैच खेले।",
   "translations": [
     {
-      "url": "/read/en/anil_kumble",
-      "title": "Mushfiqur Rahim",
-      "lang": "en"
+      "lang": "en",
+      "title": "Anil Kumble",
+      "url": "/read/en/anil_kumble"
     },
     {
-      "url": "/read/ta/anil_kumble",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "அனில் கும்ப்ளே",
+      "url": "/read/ta/anil_kumble"
     }
   ],
   "sections": [
@@ -27,71 +26,77 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "अनिल कुंबले ",
-            "url": ""
+            "label": "अनिल कुंबले "
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "17/10/1970",
-            "url": ""
+            "label": "17 Oct 1970 (age 48)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "बेंगलुरु, भारत",
-            "url": "G1"
+            "url": "https://en.wikipedia.org/wiki/Bangalore",
+            "contentUrl": "/static/content/hi/bangalore.json"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "6 फीट 1 इंच (1.85 मीटर)",
-            "url": ""
+            "label": "6 फीट 1 इंच (1.85 मीटर)"
           }
         },
         {
           "label": "Other Names",
           "value": {
-            "label": "जम्बो ",
-            "url": ""
+            "label": "जम्बो "
           }
-        },
-        {
-          "label": "Age",
-          "value": "48"
         },
         {
           "label": "Nationality",
           "value": {
-            "label": "भारतीय",
-            "url": "G3"
+            "label": "भारतीय"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "लेग स्पिन गेंदबाज",
-            "url": ""
+            "label": "लेग स्पिन गेंदबाज"
           }
         }
       ]
     },
     {
-      "title": "Family",
+      "title": "Alma mater",
       "cardType": "avatar",
-      "label": "",
+      "facts": [
+        {
+          "label": "राष्ट्रीय विद्यालय कॉलेज ऑफ इंजीनियरिंग",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of राष्ट्रीय विद्यालय कॉलेज ऑफ इंजीनियरिंग"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "29xvV3U6kJ4p",
+      "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
-            "label": "",
-            "url": "",
+            "label": "कुंबले अपरंपरागत शैली के दाएं हाथ के लेग स्पिनर (लेगब्रेक गुगली) हैं, जो अपने फ़्लिपर के लिए सबसे ज्यादा प्रसिद्ध हैं और दाहिने हाथ के बल्लेबाज हैं। उन्होंने अपने करियर की शुरुआत एक तेज़ गेंदबाज़ के रूप में की,  जिससे उन्हें एक उपयोगी तेज़ गेंद डालने की प्रतिभा प्राप्त हुई। उनकी अनूठी गेंदबाजी शैली का श्रेय बेंगलोर की मैटिंग पिचों को दिया जा सकता है जो उन्‍हें टॉप-स्पिन और ओवर-स्पिन कराने में मददगार रहे। ",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/GandM_Flare_DXM_bat-Purist_156g_ball.jpg",
+              "altText": "Style of play for अनिल कुंबले"
             }
           }
         }
@@ -103,58 +108,37 @@
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": 0,
+          "id": "P0tNkSx65jBR",
           "note": "1989",
           "value": {
-            "label": "कुंबले ने हैदराबाद के खिलाफ कर्नाटक की ओर से प्रथम श्रेणी  क्रिकेट में 30 नवंबर 1989 को पदार्पण किया और इस मैच उन्होंने 4 विकेट प्राप्त किया। ",
-            "facts": [
-              {
-                "label": "SF20",
-                "value": {
-                  "label": "SF20",
-                  "image": {
-                    "url": "SF20",
-                    "altText": "SF20"
-                  }
-                }
-              }
-            ]
+            "label": "कुंबले ने हैदराबाद के खिलाफ कर्नाटक की ओर से प्रथम श्रेणी  क्रिकेट में 30 नवंबर 1989 को पदार्पण किया और इस मैच उन्होंने 4 विकेट प्राप्त किया। "
           }
         },
         {
           "label": "राष्ट्रीय टीम ",
-          "id": 3,
+          "id": "LsNseJ0vvy-k",
           "note": "1990",
           "value": {
-            "label": "कुंबले ने 1990 में आस्ट्रेलेशिया कप में सारजाह में श्रीलंका के विरुद्ध वनडे इंटरनेशनल में पदार्पण किया। ",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
+            "label": "कुंबले ने 1990 में आस्ट्रेलेशिया कप में सारजाह में श्रीलंका के विरुद्ध वनडे इंटरनेशनल में पदार्पण किया। "
           }
         },
         {
           "label": "विश्व कप",
-          "id": 1,
+          "id": "GgNtQBoxnnjo",
           "note": "1996",
           "value": {
             "label": "1996 के विश्व कप के लिए कुंबले का चयन भारतीय टीम में हुआ और वे इस टुर्नामेंट में सबसे ज्यादा विकेट प्राप्त करने वाले गेंदबाजों में से एक रहे। ",
             "facts": [
               {
-                "label": "R13",
+                "url": "/read/hi/1996_cricket_world_cup",
+                "contentUrl": "/static/content/hi/1996_cricket_world_cup.json",
+                "label": "1996 क्रिकेट विश्व कप",
+                "id": "ME5Hwp3Qgo8r",
                 "value": {
-                  "label": "R13",
+                  "label": "1996 क्रिकेट विश्व कप, जिसे उसके आधिकारिक प्रायोजकों (आईटीसी के विल्स ब्रांड) के नाम पर, विल्स वर्ल्ड कप 1996 भी कहा जाता है, छठा क्रिकेट विश्व कप था। यह पाकिस्तान और भारत द्वारा आयोजित होने वाला दूसरा, और श्रीलंका आयोजित होने वाला पहला विश्व कप था।",
                   "image": {
-                    "url": "R13",
-                    "altText": "R13"
+                    "url": "https://en.wikipedia.org/wiki/1996_Cricket_World_Cup#/media/File:Wills_World_Cup_1996.svg",
+                    "altText": "Image of 1996 क्रिकेट विश्व कप"
                   }
                 }
               }
@@ -162,280 +146,19 @@
           }
         },
         {
-          "label": "",
-          "id": 1,
-          "note": "",
+          "label": "संन्यास",
+          "id": "Wq7ROYjNwylU",
+          "note": "2007",
           "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "विश्व कप ",
-          "id": 1,
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "विश्व कप",
-          "id": 1,
-          "note": "2007 के विश्व कप के बाद उन्होंने वनडे इंटरनेशनल से संन्यास लेने की घोषणा कर दी। ",
-          "value": {
-            "label": "विश्व कप",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
+            "label": "2007 के विश्व कप के बाद उन्होंने वनडे इंटरनेशनल से संन्यास लेने की घोषणा कर दी। "
           }
         },
         {
           "label": "IPL डेब्यू",
-          "id": 1,
+          "id": "A0kAmvifAE4Q",
           "note": "2008",
           "value": {
-            "label": "रॉयल चैलेंजर्स बंगलुरु के अनुबंध के प्रति सम्मान दिखाते हुए कुंबले ने संन्यास के बाद 3 वर्ष तक इस टीम के लिए खेलना जारी रखा। ",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "कुंबले अपरंपरागत शैली के दाएं हाथ के लेग स्पिनर (लेगब्रेक गुगली) हैं, जो अपने फ़्लिपर के लिए सबसे ज्यादा प्रसिद्ध हैं और दाहिने हाथ के बल्लेबाज हैं। उन्होंने अपने करियर की शुरुआत एक तेज़ गेंदबाज़ के रूप में की,  जिससे उन्हें एक उपयोगी तेज़ गेंद डालने की प्रतिभा प्राप्त हुई। उनकी अनूठी गेंदबाजी शैली का श्रेय बेंगलोर की मैटिंग पिचों को दिया जा सकता है जो उन्‍हें टॉप-स्पिन और ओवर-स्पिन कराने में मददगार रहे। ",
-            "image": {
-              "url": "/static/images/anil_kumble/null",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "1990-2008",
-          "value": {
-            "facts": [
-              {
-                "label": "भारतीय राष्ट्रीय क्रिकेट टीम",
-                "url": "R1",
-                "value": {
-                  "label": "भारत की राष्ट्रीय क्रिकेट टीम, जिसे टीम इंडिया और मैन इन ब्लू के नाम से भी जाना जाता है, भारतीय क्रिकेट कंट्रोल बोर्ड द्वारा संचालित है",
-                  "image": {
-                    "url": "/static/images/anil_kumble/Cricket_India_Crest.svg",
-                    "altText": "Image of Cricket India Crest"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2008-2010",
-          "value": {
-            "facts": [
-              {
-                "label": "रॉयल चैलेंजर्स बेंगलोर",
-                "url": "R6",
-                "value": {
-                  "label": "रॉयल चैलेंजर्स बैंगलोर (आरसीबी) बेंगलोर, भारत की एक फ्रैंचाइज़ी क्रिकेट टीम है।",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "1989-2009",
-          "value": {
-            "facts": [
-              {
-                "label": "कर्नाटक",
-                "url": "https://en.wikipedia.org/wiki/Karnataka_cricket_team",
-                "value": {
-                  "label": "कर्नाटक राज्य की घरेलू रणजी ट्रॉफी क्रिकेट टीम ",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "अर्जुन पुरस्कार ",
-          "tag": "1995",
-          "value": {
-            "label": "खेलकूद के क्षेत्र में उत्कृष्ट उपलब्धि हासिल करने के लिए सरकार द्वारा अर्जुन पुरस्कार दिया जाता है ",
-            "image": {
-              "url": "/static/images/anil_kumble/Arjun_Award.jpg",
-              "altText": "Image of Arjun Award"
-            }
-          }
-        },
-        {
-          "label": "पद्म श्री",
-          "tag": "2005",
-          "value": {
-            "label": "पद्म श्री भारत गणराज्य का चौथा सर्वोच्च नागरिक पुरस्कार है",
-            "image": {
-              "url": "/static/images/anil_kumble/Padma_Shri_India_IIIe_Klasse.jpg",
-              "altText": "Image of Padma Shri India IIIe Klasse"
-            }
-          }
-        },
-        {
-          "label": "आईसीसी क्रिकेट हॉल ऑफ फेम",
-          "tag": "2015",
-          "value": {
-            "label": "आईसीसी का क्रिकेट हॉल ऑफ फेम क्रिकेट के महान खिलाड़ियों को उनकी उपलब्धियों के सम्मान में दिया जाता है।",
-            "image": {
-              "url": "/static/images/anil_kumble/ICC_Hall_Of_Fame.svg",
-              "altText": "Image of ICC Hall Of Fame"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "राष्ट्रीय विद्यालय कॉलेज ऑफ इंजीनियरिंग",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "कुंबले ऐसे दूसरे खिलाड़ी हैं जिन्होंने एक टेस्ट मैच की एक पारी में सभी 10 विकेट लिए हैं।",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "कुंबले ने 1996 में 61 विकेट के साथ किसी भी भारतीय क्रिकेटर द्वारा एक कैलेंडर वर्ष में सर्वाधिक विकेट लेने का रिकॉर्ड बनाया",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "कुंबले के नाम अपने पूरे टेस्ट करियर के दौरान 40850 गेंदे करने का रिकॉर्ड है, जो किसी भी भारतीय का सर्वाधिक है।",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "कुंबले ने अपने पहले 50 टेस्ट विकेट 10 मैचों में लिए",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "1993 में, इन्होंने वेस्टइंडीज के खिलाफ एक वनडे मैच में 12 रन देकर छह विकेट लिए जो बहुत लंबे समय तक एक भारतीय रिकॉर्ड बना रहा।",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": "रॉयल चैलेंजर्स बंगलुरु के अनुबंध के प्रति सम्मान दिखाते हुए कुंबले ने संन्यास के बाद 3 वर्ष तक इस टीम के लिए खेलना जारी रखा। "
           }
         }
       ]

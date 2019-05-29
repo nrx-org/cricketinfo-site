@@ -1,22 +1,21 @@
 {
-  "id": "O6",
   "title": "கபில்தேவ்",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Kapil_Dev",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kapil_Dev",
   "coverImage": {
-    "url": "/static/images/kapil_dev/Kapil_Dev_at_Equation_sports_auction.jpg",
-    "altText": "Image of Kapil Dev at Equation sports auction"
+    "url": "https://commons.wikimedia.org/wiki/File:Kapil_Dev_at_Equation_sports_auction.jpg",
+    "altText": "Image of கபில்தேவ்"
   },
   "summary": "கபில் தேவ் முன்னாள் கிரிக்கெட் வீரர், 1983 ஆம் ஆண்டு இவர் கேப்டனாக இருந்தபோது இந்திய அணி உலகக் கோப்பையை வென்றது.",
   "translations": [
     {
-      "url": "/read/hi/kapil_dev",
-      "title": "मुशफिकुर रहीम ",
-      "lang": "hi"
+      "lang": "en",
+      "title": "Kapil Dev",
+      "url": "/read/en/kapil_dev"
     },
     {
-      "url": "/read/en/kapil_dev",
-      "title": "Mushfiqur Rahim",
-      "lang": "en"
+      "lang": "hi",
+      "title": "कपिल देव",
+      "url": "/read/hi/kapil_dev"
     }
   ],
   "sections": [
@@ -27,72 +26,67 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "கபில் தேவ் ராம்லால் நிகன்ஞ்",
-            "url": ""
+            "label": "கபில் தேவ் ராம்லால் நிகன்ஞ்"
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "06/01/1959",
-            "url": ""
+            "label": "06 Jan 1959 (age 60)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "சண்டிகர், இந்தியா",
-            "url": "G18"
+            "url": "https://en.wikipedia.org/wiki/Chandigarh"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "",
-            "url": ""
+            "label": ""
           }
-        },
-        {
-          "label": "Other Names",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Age",
-          "value": "60"
         },
         {
           "label": "Nationality",
           "value": {
-            "label": "இந்தியர்",
-            "url": "G3"
+            "label": "இந்தியர்"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "ஆல்ரவுண்டர்",
-            "url": ""
+            "label": "ஆல்ரவுண்டர்"
           }
         }
       ]
     },
     {
-      "title": "Family",
+      "title": "Alma mater",
       "cardType": "avatar",
-      "label": "",
+      "facts": [
+        {
+          "label": "டி.ஏ.வி பள்ளி, சண்டிகர்",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of டி.ஏ.வி பள்ளி, சண்டிகர்"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "-0jGCJqAOcDe",
+      "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": "கிரிக்கெட்டில் தலைசிறந்த ஆல்ரவுண்டர்களில் ஒருவர். வலதுகை பேட்ஸ்மென் மற்றும் வலதுகை வேகப் பந்துவீச்சாளர்."
           }
         }
       ]
@@ -103,78 +97,45 @@
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": 0,
+          "id": "nQDqVlHEdjN4",
           "note": "1975",
           "value": {
-            "label": "தேவ், 1975 ஆம் ஆண்டு பஞ்சாப்புக்கு எதிரான போட்டியில் ஹரியானவுக்காக விளையாடிய முதல் போட்டியிலேயே சிறப்பாக ஆடினார்.",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
+            "label": "தேவ், 1975 ஆம் ஆண்டு பஞ்சாப்புக்கு எதிரான போட்டியில் ஹரியானவுக்காக விளையாடிய முதல் போட்டியிலேயே சிறப்பாக ஆடினார்."
           }
         },
         {
           "label": "தேசிய அணி அறிமுகம்",
-          "id": 3,
+          "id": "KwbZKMa_HHZJ",
           "note": "1978",
           "value": {
-            "label": "பாகிஸ்தானுக்கு எதிராக முதல் ஒரு நாள் கிரிக்கெட் போட்டியில் ஆடினார், அதில் அவருடைய தனிப்பட்ட செயல்பாடு மிகவும் சாதாரணமாக இருந்தது.",
-            "facts": [
-              {
-                "label": "R8",
-                "value": {
-                  "label": "R8",
-                  "image": {
-                    "url": "R8",
-                    "altText": "R8"
-                  }
-                }
-              }
-            ]
+            "label": "பாகிஸ்தானுக்கு எதிராக முதல் ஒரு நாள் கிரிக்கெட் போட்டியில் ஆடினார், அதில் அவருடைய தனிப்பட்ட செயல்பாடு மிகவும் சாதாரணமாக இருந்தது."
           }
         },
         {
           "label": "முதல் ஐசிசி போட்டி ",
-          "id": 1,
+          "id": "uJ1kqy2PJy6-",
           "note": "1979",
           "value": {
-            "label": "1979 உலகக் கோப்பை கிரிக்கெட்டில் கபில் தேவ் மற்றும் இந்திய அணி மோசமான தோல்வியைத் தழுவினர்.",
-            "facts": [
-              {
-                "label": "R8",
-                "value": {
-                  "label": "R8",
-                  "image": {
-                    "url": "R8",
-                    "altText": "R8"
-                  }
-                }
-              }
-            ]
+            "label": "1979 உலகக் கோப்பை கிரிக்கெட்டில் கபில் தேவ் மற்றும் இந்திய அணி மோசமான தோல்வியைத் தழுவினர்."
           }
         },
         {
           "label": "1983 உலக கோப்பை சாம்பியன்ஸ்",
-          "id": 1,
+          "id": "vkSSG6_ZAg10",
           "note": "1983",
           "value": {
             "label": "கபில் தேவ் தலைமையிலான இந்திய அணி 1983 ஆம் ஆண்டு உலகக் கோப்பையை வென்றது.",
             "facts": [
               {
-                "label": "R8",
+                "url": "/read/ta/1983_cricket_world_cup",
+                "contentUrl": "/static/content/ta/1983_cricket_world_cup.json",
+                "label": "1983 கிரிக்கெட் உலகக் கோப்பை",
+                "id": "ZfGxg5UTPVHT",
                 "value": {
-                  "label": "R8",
+                  "label": "1983 क्रिकेट विश्व कप (आधिकारिक रूप से प्रूडेंशियल कप '83) क्रिकेट विश्व कप टूर्नामेंट का तीसरा संस्करण था। यह 9 जून से 25 जून 1983 तक इंग्लैंड और वेल्स में आयोजित किया गया था और इसे भारत ने जीता था।",
                   "image": {
-                    "url": "R8",
-                    "altText": "R8"
+                    "url": "https://en.wikipedia.org/wiki/1983_Cricket_World_Cup#/media/File:Prudential_Cup_83_logo.svg",
+                    "altText": "Image of 1983 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               }
@@ -183,259 +144,18 @@
         },
         {
           "label": "உலகக் கோப்பை",
-          "id": 1,
+          "id": "p0RgkY7pmg_S",
+          "note": "1987",
           "value": {
-            "label": "கபில் தேவ், 1987 உலகக் கோப்பை வரை இந்திய அணியின் கேப்டனாக இருந்தார்.",
-            "facts": [
-              {
-                "label": "R8",
-                "value": {
-                  "label": "R8",
-                  "image": {
-                    "url": "R8",
-                    "altText": "R8"
-                  }
-                }
-              }
-            ]
+            "label": "கபில் தேவ், 1987 உலகக் கோப்பை வரை இந்திய அணியின் கேப்டனாக இருந்தார்."
           }
         },
         {
           "label": "1992  உலகக் கோப்பை",
-          "id": 1,
+          "id": "LO5UCwEPvUH1",
           "note": "கபில் தேவ் தனது கடைசி உலகக் கோப்பை போட்டியை 1992 ஆம் ஆண்டு முகமது அசாருதீன் தலைமையில் விளையாடினார்",
           "value": {
-            "label": "உலகக் கோப்பை",
-            "facts": [
-              {
-                "label": "R8",
-                "value": {
-                  "label": "R8",
-                  "image": {
-                    "url": "R8",
-                    "altText": "R8"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R8",
-                "value": {
-                  "label": "R8",
-                  "image": {
-                    "url": "R8",
-                    "altText": "R8"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "கிரிக்கெட்டில் தலைசிறந்த ஆல்ரவுண்டர்களில் ஒருவர். வலதுகை பேட்ஸ்மென் மற்றும் வலதுகை வேகப் பந்துவீச்சாளர்.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "1978-1994",
-          "value": {
-            "facts": [
-              {
-                "label": "இந்திய கிரிக்கெட் அணி",
-                "url": "R1",
-                "value": {
-                  "label": "இந்திய கிரிக்கெட் அணி டீம் இந்தியா மற்றும் மென் இன் புளூ என்றும் அழைக்கப்படுகிறது. இந்திய கிரிக்கெட் கட்டுப்பாட்டு வாரியம் இதை நிர்வகிக்கிறது",
-                  "image": {
-                    "url": "/static/images/kapil_dev/Cricket_India_Crest.svg",
-                    "altText": "Image of Cricket India Crest"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "facts": [
-              {
-                "label": "",
-                "url": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "1975-1992",
-          "value": {
-            "facts": [
-              {
-                "label": "ஹரியானா",
-                "url": "https://en.wikipedia.org/wiki/Haryana_cricket_team",
-                "value": {
-                  "label": "ஹரியானா மாநிலத்தைச் சேர்ந்த உள்ளூர் ரஞ்சி டிராஃபி கிரிக்கெட் அணி",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "அர்ஜுனா விருது",
-          "tag": "1980",
-          "value": {
-            "label": "அர்ஜூனா விருதுகள் விளையாட்டுத் துறையில் சிறந்த சாதனைப் படைத்தவர்களுக்காக அரசாங்கத்தால் வழங்கப்படுகிறது",
-            "image": {
-              "url": "/static/images/kapil_dev/Arjun_Award.jpg",
-              "altText": "Image of Arjun Award"
-            }
-          }
-        },
-        {
-          "label": "பத்ம ஸ்ரீ",
-          "tag": "1982",
-          "value": {
-            "label": "இந்தியக் குடியரசின் நான்காவது மிக உயரிய குடிமக்கள் விருது பத்ம ஸ்ரீ ஆகும்",
-            "image": {
-              "url": "/static/images/kapil_dev/Padma_Shri_India_IIIe_Klasse.jpg",
-              "altText": "Image of Padma Shri India IIIe Klasse"
-            }
-          }
-        },
-        {
-          "label": "பத்ம பூஷன்",
-          "tag": "1991",
-          "value": {
-            "label": "இந்தியக் குடியரசின் மூன்றாவது மிக உயரிய குடிமக்கள் விருது பத்ம பூஷன் ஆகும்",
-            "image": {
-              "url": "/static/images/kapil_dev/Padma_Bhushan_India_IIe_Klasse.jpg",
-              "altText": "Image of Padma Bhushan India IIe Klasse"
-            }
-          }
-        },
-        {
-          "label": "விஸ்டென் இந்தியன் கிரிக்கெட்டர் ஆஃப் தி சென்ச்சுரி",
-          "tag": "2002",
-          "value": {
-            "label": "விஸ்டென் கிரிக்கெட்டர்ஸ் அல்மனாக் எனும் கிரிக்கெட் பத்திரிக்கை வழங்கப்படுகிறது.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "டி.ஏ.வி பள்ளி, சண்டிகர்",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "1979 இல் டெல்லி ஃபெரோஸ் ஷா கொட்லாவில் நடந்த மேற்கிந்தியத் தீவுகளுக்கு எதிரான போட்டியில் வெறும் 124 பந்துகளில் முதல் டெஸ்ட் சதம் (126) அடித்தார்",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "1980 ஆம் ஆண்டு ஹோம் டெஸ்ட் தொடரில் ஆஸ்திரேலியாவுக்கு எதிரான போட்டியில் இரண்டு முறை ஒரே இன்னிங்ஸில் 5 விக்கெட் எடுத்து சாதனைப் படைத்துள்ளார்.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "இலங்கைக்கு எதிராக 1982-83 நடந்த போட்டியில் முதல் முறையாக இந்திய அணியின் கேப்டன் பொறுப்பை ஏற்றார்.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "1983 உலகக் கோப்பை போட்டியில் ஜிம்பாப்வேவுக்கு எதிராக சர்வதேச ஒரு நாள் போட்டியில் அவுட் ஆகாமல் 175 ரன்கள் என்ற அதிகபட்ச ஸ்கோரை எடுத்தார்",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "சர்வதேச ஒரு நாள் உலகக் கோப்பையில் இந்தியாவுக்கு வெற்றி வாங்கிகொடுத்த முதல் கேப்டன்",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": "உலகக் கோப்பை"
           }
         }
       ]

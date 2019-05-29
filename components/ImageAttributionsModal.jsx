@@ -38,9 +38,12 @@ export class ImageAttributionsModal extends Component {
           <ul className="wcp-image-attributions-modal__attributions-list">
             {attributions.map(attribution => (
               <li>
-                <a href={attribution.url}>{getBasename(attribution.url)}</a>
-                {" is licensed under "}
-                <a href={attribution.licenseUrl}>{attribution.license}</a>
+                <h2>
+                  <a href={attribution.url}>{getBasename(attribution.url)}</a>
+                </h2>
+                <div
+                  dangerouslySetInnerHTML={{ __html: attribution.license }}
+                />
               </li>
             ))}
           </ul>

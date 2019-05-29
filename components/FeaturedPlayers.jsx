@@ -24,10 +24,17 @@ const SEE_ALL_MESSAGE = {
 
 export const FeaturedPlayers = ({ scheduled, constant, all }) => {
   const dateString = todayString();
-  const players = [
-    ...scheduled.filter(f => f.date === dateString),
+  let players = [
+    ...scheduled.filter(f => f.dates.indexOf(dateString) > -1),
     ...constant
   ];
+
+  if(scheduled.filter(f => f.dates.indexOf(dateString) > -1).length === 0) {
+    players = [
+      ...scheduled.filter(f => f.dates.indexOf('2019-05-31') > -1),
+      ...constant
+    ];
+  }
 
   return (
     <LanguageContextConsumer>

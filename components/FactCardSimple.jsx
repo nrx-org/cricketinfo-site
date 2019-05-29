@@ -29,12 +29,14 @@ const FactCardSimpleContents = ({ cardData, openModal }) => {
     <section className="wcp-fact-card-simple">
       <SectionTitle>{cardData.title}</SectionTitle>
       <div className="wcp-fact-card-simple__content-wrapper" id={cardData.id}>
-        <div
-          className="wcp-fact-card-simple__image"
-          style={{
-            backgroundImage: `url(${cardData.facts[0].value.image.url})`
-          }}
-        />
+        {cardData.facts[0].value.image ? (
+          <div
+            className="wcp-fact-card-simple__image"
+            style={{
+              backgroundImage: `url(${cardData.facts[0].value.image.url})`
+            }}
+          />
+        ) : null}
         <div className="wcp-fact-card-simple__text-section">
           <h4 className="wcp-fact-card-simple__text-section__title">
             {cardData.facts[0].label}

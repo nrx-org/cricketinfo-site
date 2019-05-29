@@ -1,22 +1,21 @@
 {
-  "id": "O6",
   "title": "कपिल देव",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Kapil_Dev",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kapil_Dev",
   "coverImage": {
-    "url": "/static/images/kapil_dev/Kapil_Dev_at_Equation_sports_auction.jpg",
-    "altText": "Image of Kapil Dev at Equation sports auction"
+    "url": "https://commons.wikimedia.org/wiki/File:Kapil_Dev_at_Equation_sports_auction.jpg",
+    "altText": "Image of कपिल देव"
   },
   "summary": "कपिल देव, एक पूर्व भारतीय क्रिकेटर हैं जिन्होंने 1983 में विश्व कप जीतने वाली भारतीय क्रिकेट टीम की कप्तानी की थी।",
   "translations": [
     {
-      "url": "/read/en/kapil_dev",
-      "title": "Mushfiqur Rahim",
-      "lang": "en"
+      "lang": "en",
+      "title": "Kapil Dev",
+      "url": "/read/en/kapil_dev"
     },
     {
-      "url": "/read/ta/kapil_dev",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "கபில்தேவ்",
+      "url": "/read/ta/kapil_dev"
     }
   ],
   "sections": [
@@ -27,72 +26,67 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "कपिलदेव रामलाल निखंज ",
-            "url": ""
+            "label": "कपिलदेव रामलाल निखंज "
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "06/01/1959",
-            "url": ""
+            "label": "06 Jan 1959 (age 60)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "चंडीगढ़, भारत",
-            "url": "G18"
+            "url": "https://en.wikipedia.org/wiki/Chandigarh"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "",
-            "url": ""
+            "label": ""
           }
-        },
-        {
-          "label": "Other Names",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Age",
-          "value": "60"
         },
         {
           "label": "Nationality",
           "value": {
-            "label": "भारतीय",
-            "url": "G3"
+            "label": "भारतीय"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "ऑलराउंडर",
-            "url": ""
+            "label": "ऑलराउंडर"
           }
         }
       ]
     },
     {
-      "title": "Family",
+      "title": "Alma mater",
       "cardType": "avatar",
-      "label": "",
+      "facts": [
+        {
+          "label": "डी.ए.वी. स्कूल चंडीगढ़",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of डी.ए.वी. स्कूल चंडीगढ़"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "EHWsckTgIGxi",
+      "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": "खेल खेलने वाले सबसे महान ऑलराउंडरों में से एक। दाएं हाथ के बल्लेबाज और दाएं हाथ के तेज गेंदबाज।"
           }
         }
       ]
@@ -103,78 +97,45 @@
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": 0,
+          "id": "0tvUGzB23e6p",
           "note": "1975",
           "value": {
-            "label": "देव ने हरियाणा की ओर से खेलते हुए पंजाब के विरुद्ध 1975 में प्रभावी पदार्पण किया। ",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
+            "label": "देव ने हरियाणा की ओर से खेलते हुए पंजाब के विरुद्ध 1975 में प्रभावी पदार्पण किया। "
           }
         },
         {
           "label": "राष्ट्रीय टीम ",
-          "id": 3,
+          "id": "nYKU1WPpxsPt",
           "note": "1978",
           "value": {
-            "label": "पाकिस्तान के विरुद्ध वनडे क्रिकेट में पदार्पण किया जहां उनका व्यक्तिगत प्रदर्शन मामूली रहा। ",
-            "facts": [
-              {
-                "label": "R8",
-                "value": {
-                  "label": "R8",
-                  "image": {
-                    "url": "R8",
-                    "altText": "R8"
-                  }
-                }
-              }
-            ]
+            "label": "पाकिस्तान के विरुद्ध वनडे क्रिकेट में पदार्पण किया जहां उनका व्यक्तिगत प्रदर्शन मामूली रहा। "
           }
         },
         {
           "label": "विश्व कप ",
-          "id": 1,
+          "id": "IO09ga-YJTz-",
           "note": "1979",
           "value": {
-            "label": "1979 के विश्व कप क्रिकेट में कपिलदेव और भारतीय टीम दोनों का प्रदर्शन कमजोर रहा। ",
-            "facts": [
-              {
-                "label": "R8",
-                "value": {
-                  "label": "R8",
-                  "image": {
-                    "url": "R8",
-                    "altText": "R8"
-                  }
-                }
-              }
-            ]
+            "label": "1979 के विश्व कप क्रिकेट में कपिलदेव और भारतीय टीम दोनों का प्रदर्शन कमजोर रहा। "
           }
         },
         {
           "label": "1983 विश्व कप चैंपियंस\n",
-          "id": 1,
+          "id": "LCEkPPTxEpGL",
           "note": "1983",
           "value": {
             "label": "भारत ने कपिलदेव की कप्तानी में 1983 का विश्व कप जीता। ",
             "facts": [
               {
-                "label": "R8",
+                "url": "/read/hi/1983_cricket_world_cup",
+                "contentUrl": "/static/content/hi/1983_cricket_world_cup.json",
+                "label": "1983 क्रिकेट विश्व कप",
+                "id": "KtrsBTzDMad3",
                 "value": {
-                  "label": "R8",
+                  "label": "1983 क्रिकेट विश्व कप (आधिकारिक रूप से प्रूडेंशियल कप '83) क्रिकेट विश्व कप टूर्नामेंट का तीसरा संस्करण था। यह 9 जून से 25 जून 1983 तक इंग्लैंड और वेल्स में आयोजित किया गया था और इसे भारत ने जीता था।",
                   "image": {
-                    "url": "R8",
-                    "altText": "R8"
+                    "url": "https://en.wikipedia.org/wiki/1983_Cricket_World_Cup#/media/File:Prudential_Cup_83_logo.svg",
+                    "altText": "Image of 1983 क्रिकेट विश्व कप"
                   }
                 }
               }
@@ -183,259 +144,26 @@
         },
         {
           "label": "विश्व कप ",
-          "id": 1,
+          "id": "IpFYb07yVsil",
+          "note": "1987",
           "value": {
-            "label": "1987 के विश्व कप के लिए कपिलदेव को भारतीय टीम का कप्तान बरकरार रखा गया। ",
-            "facts": [
-              {
-                "label": "R8",
-                "value": {
-                  "label": "R8",
-                  "image": {
-                    "url": "R8",
-                    "altText": "R8"
-                  }
-                }
-              }
-            ]
+            "label": "1987 के विश्व कप के लिए कपिलदेव को भारतीय टीम का कप्तान बरकरार रखा गया। "
           }
         },
         {
           "label": "विश्व कप ",
-          "id": 1,
+          "id": "llZzNUg5wAVZ",
           "note": "कपिलदेव ने अपना आखिरी विश्व कप मोहमद अजहरुद्दीन की कप्तानी में 1992 में खेला। ",
           "value": {
-            "label": "विश्व कप ",
-            "facts": [
-              {
-                "label": "R8",
-                "value": {
-                  "label": "R8",
-                  "image": {
-                    "url": "R8",
-                    "altText": "R8"
-                  }
-                }
-              }
-            ]
+            "label": "विश्व कप "
           }
         },
         {
           "label": "IPL डेब्यू",
-          "id": 1,
+          "id": "_xKyKGqhyJD9",
           "note": "",
           "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R8",
-                "value": {
-                  "label": "R8",
-                  "image": {
-                    "url": "R8",
-                    "altText": "R8"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "खेल खेलने वाले सबसे महान ऑलराउंडरों में से एक। दाएं हाथ के बल्लेबाज और दाएं हाथ के तेज गेंदबाज।",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "1978-1994",
-          "value": {
-            "facts": [
-              {
-                "label": "भारतीय राष्ट्रीय क्रिकेट टीम",
-                "url": "R1",
-                "value": {
-                  "label": "भारत की राष्ट्रीय क्रिकेट टीम, जिसे टीम इंडिया और मैन इन ब्लू के नाम से भी जाना जाता है, भारतीय क्रिकेट कंट्रोल बोर्ड द्वारा संचालित है",
-                  "image": {
-                    "url": "/static/images/kapil_dev/Cricket_India_Crest.svg",
-                    "altText": "Image of Cricket India Crest"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "facts": [
-              {
-                "label": "",
-                "url": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "1975-1992",
-          "value": {
-            "facts": [
-              {
-                "label": "हरियाणा",
-                "url": "https://en.wikipedia.org/wiki/Haryana_cricket_team",
-                "value": {
-                  "label": "हरियाणा राज्य की घरेलू रणजी ट्रॉफी क्रिकेट टीम",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "अर्जुन पुरस्कार ",
-          "tag": "1980",
-          "value": {
-            "label": "खेलकूद के क्षेत्र में उत्कृष्ट उपलब्धि हासिल करने के लिए सरकार द्वारा अर्जुन पुरस्कार दिया जाता है ",
-            "image": {
-              "url": "/static/images/kapil_dev/Arjun_Award.jpg",
-              "altText": "Image of Arjun Award"
-            }
-          }
-        },
-        {
-          "label": "पद्म श्री ",
-          "tag": "1982",
-          "value": {
-            "label": "पद्म श्री भारत गणराज्य का चौथा सर्वोच्च नागरिक पुरस्कार है",
-            "image": {
-              "url": "/static/images/kapil_dev/Padma_Shri_India_IIIe_Klasse.jpg",
-              "altText": "Image of Padma Shri India IIIe Klasse"
-            }
-          }
-        },
-        {
-          "label": "पद्म भूषण",
-          "tag": "1991",
-          "value": {
-            "label": "पद्म भूषण भारत गणराज्य का तीसरा सबसे बड़ा नागरिक पुरस्कार है",
-            "image": {
-              "url": "/static/images/kapil_dev/Padma_Bhushan_India_IIe_Klasse.jpg",
-              "altText": "Image of Padma Bhushan India IIe Klasse"
-            }
-          }
-        },
-        {
-          "label": "विस्डेन इंडिया क्रिकेटर ऑफ द सेंचुरी",
-          "tag": "2002",
-          "value": {
-            "label": "क्रिकेट की बाईबिल विजडन पत्रिका द्वारा दिया जाने वाला सम्मान।",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "डी.ए.वी. स्कूल चंडीगढ़",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "फ़िरोज़ शाह कोटला, दिल्ली में पहला टेस्ट शतक (126) 1979 में वेस्टइंडीज़ के खिलाफ केवल 124 गेंदों में बना था।",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "1980 की एक घरेलू टेस्ट सीरीज़ में ऑस्ट्रेलिया के खिलाफ दो बार 5 विकेट लिए",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "1982-83 में श्रीलंका खिलाफ़ पहली बार भारत की कप्तानी की।",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "1983 के विश्व कप में जिम्बाब्वे के खिलाफ़ नाबाद 175 रन का सर्वोच्च वनडे स्कोर बनाया",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "भारत को वंडे विश्व कप में जीत दिलाने वाले पहले कप्तान",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": ""
           }
         }
       ]

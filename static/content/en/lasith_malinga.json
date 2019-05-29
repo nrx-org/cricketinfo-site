@@ -1,22 +1,21 @@
 {
-  "id": "O40",
   "title": "Lasith Malinga",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Lasith_Malinga",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lasith_Malinga",
   "coverImage": {
-    "url": "/static/images/lasith_malinga/LASITH_MALINGA_(5155175549).jpg",
-    "altText": "Image of LASITH MALINGA (5155175549)"
+    "url": "https://en.wikipedia.org/wiki/File:LASITH_MALINGA_(5155175549).jpg",
+    "altText": "Image of Lasith Malinga"
   },
   "summary": "Separamadu Lasith Malinga is a professional Sri Lankan cricketer and current T20I captain for Sri Lanka.",
   "translations": [
     {
-      "url": "/read/hi/lasith_malinga",
-      "title": "मुशफिकुर रहीम ",
-      "lang": "hi"
+      "lang": "hi",
+      "title": "लसिथ मलिंगा",
+      "url": "/read/hi/lasith_malinga"
     },
     {
-      "url": "/read/ta/lasith_malinga",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "லசித் மலிங்கா",
+      "url": "/read/ta/lasith_malinga"
     }
   ],
   "sections": [
@@ -27,71 +26,77 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "Separamadu Lasith Malinga",
-            "url": ""
+            "label": "Separamadu Lasith Malinga"
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "28 August 1983",
-            "url": ""
+            "label": "Invalid Date (age 35)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "Galle, Sri Lanka",
-            "url": "SF93"
+            "url": "https://en.wikipedia.org/wiki/Galle",
+            "contentUrl": "/static/content/en/shreyas_iyer.json"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "",
-            "url": ""
+            "label": ""
           }
         },
         {
           "label": "Other Names",
           "value": {
-            "label": "Slinga, Kagawena, Malinga the Slinga, Mali, Rathgama Express",
-            "url": ""
+            "label": "Slinga, Kagawena, Malinga the Slinga, Mali, Rathgama Express"
           }
-        },
-        {
-          "label": "Age",
-          "value": "35"
         },
         {
           "label": "Nationality",
           "value": {
-            "label": "Sri Lankan",
-            "url": "G7"
+            "label": "Sri Lankan"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "Right Arm Fast",
-            "url": ""
+            "label": "Right Arm Fast"
           }
         }
       ]
     },
     {
-      "title": "Family",
+      "title": "Alma mater",
       "cardType": "avatar",
-      "label": "",
+      "facts": [
+        {
+          "label": "Vidyaloka College",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of Vidyaloka College"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "Fb8v8waRLVP",
+      "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
-            "label": "",
-            "url": "",
+            "label": "Malinga's action has attracted great comment. The cricket reference text Wisden has noted that Malinga's delivery action is similar to \"slinging\". Resulting to his nickname \"Slinga Malinga\". Malinga has said that his unique round-arm bowling action was a result of learning to play cricket exclusively with a tennis ball.",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": "https://en.wikipedia.org/wiki/Lasith_Malinga#/media/File:Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg",
+              "altText": "Style of play for Lasith Malinga"
             }
           }
         }
@@ -103,38 +108,29 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": 0,
+          "id": "qH8s-V5fDRo",
           "note": "",
           "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
+            "label": ""
           }
         },
         {
           "label": "National team debut ",
-          "id": 3,
+          "id": "atilEIDsXn-",
           "note": "",
           "value": {
             "label": "Malinga made his Test debut on 1 July 2004 against Australia at Marrara Oval In Darwin. ",
             "facts": [
               {
-                "label": "R2",
+                "url": "/read/en/australia_cricket_team",
+                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "label": "Australia Cricket team",
+                "id": "mzk7zayDxsT",
                 "value": {
-                  "label": "R2",
+                  "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
-                    "url": "R2",
-                    "altText": "R2"
+                    "url": "https://en.wikipedia.org/wiki/Australia_national_cricket_team#/media/File:Australia_cricket_logo.svg",
+                    "altText": "Image of Australia Cricket team"
                   }
                 }
               }
@@ -143,18 +139,21 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": 1,
+          "id": "7HWdC3x1J9K",
           "note": "2007",
           "value": {
             "label": "During the 2007 Cricket World Cup Super 8 match on 28 March between Sri Lanka and South Africa, Malinga became the first player to take four wickets in four consecutive balls in One Day International cricket.",
             "facts": [
               {
-                "label": "R2",
+                "url": "/read/en/2007_cricket_world_cup",
+                "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
+                "label": "2007 Cricket World Cup",
+                "id": "hrJ19e5OXhs",
                 "value": {
-                  "label": "R2",
+                  "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
                   "image": {
-                    "url": "R2",
-                    "altText": "R2"
+                    "url": "https://en.wikipedia.org/wiki/2007_Cricket_World_Cup#/media/File:2007_Cricket_World_Cup_logo.svg",
+                    "altText": "Image of 2007 Cricket World Cup"
                   }
                 }
               }
@@ -163,18 +162,21 @@
         },
         {
           "label": "2011 World Cup",
-          "id": 1,
+          "id": "g7pACm8STHe",
           "note": "2011",
           "value": {
             "label": "During the 2011 Cricket World Cup, Malinga took his second career hat-trick in Sri Lanka's group stage match against Kenya. This made him the first bowler to take two World Cup hat-tricks.",
             "facts": [
               {
-                "label": "R2",
+                "url": "/read/en/2011_cricket_world_cup",
+                "contentUrl": "/static/content/en/2011_cricket_world_cup.json",
+                "label": "2011 Cricket World Cup",
+                "id": "ZQgEzPfR_zg",
                 "value": {
-                  "label": "R2",
+                  "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
                   "image": {
-                    "url": "R2",
-                    "altText": "R2"
+                    "url": "https://en.wikipedia.org/wiki/2011_Cricket_World_Cup#/media/File:2011_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2011 Cricket World Cup"
                   }
                 }
               }
@@ -183,17 +185,21 @@
         },
         {
           "label": "Captaincy",
-          "id": 1,
+          "id": "ciOPA35UYsN",
+          "note": "2014",
           "value": {
             "label": "He became captain of Sri Lankan Cricket Team in 2014 ICC World Twenty20 after Dinesh Chandimal received a ban. He successfully led the team to win the world cup becoming the first Sri Lankan captain to win the ICC World Twenty20. ",
             "facts": [
               {
-                "label": "R2",
+                "url": "/read/en/icc_t20_world_cup",
+                "contentUrl": "/static/content/en/icc_t20_world_cup.json",
+                "label": "ICC T20 World Cup",
+                "id": "nkC6ZlPrg0W",
                 "value": {
-                  "label": "R2",
+                  "label": "The ICC T20 World Cup (earlier known as ICC World Twenty20) is the international championship of Twenty20 International cricket. The tournament currently consists of 16 teams, comprising the top eight teams from the rankings at the given deadline and four other teams chosen through the T20 World Cup Qualifier. ",
                   "image": {
-                    "url": "R2",
-                    "altText": "R2"
+                    "url": "https://en.wikipedia.org/wiki/ICC_T20_World_Cup#/media/File:ICC_World_Twenty20_Trophy.jpg",
+                    "altText": "Image of ICC T20 World Cup"
                   }
                 }
               }
@@ -202,240 +208,33 @@
         },
         {
           "label": "2019 World Cup",
-          "id": 1,
+          "id": "OUc0anj7CSS",
           "note": "2019",
           "value": {
-            "label": "In April 2019, he was named in Sri Lanka's squad for the 2019 Cricket World Cup.",
-            "facts": [
-              {
-                "label": "R2",
-                "value": {
-                  "label": "R2",
-                  "image": {
-                    "url": "R2",
-                    "altText": "R2"
-                  }
-                }
-              }
-            ]
+            "label": "In April 2019, he was named in Sri Lanka's squad for the 2019 Cricket World Cup."
           }
         },
         {
           "label": "IPL Debut",
-          "id": 1,
+          "id": "yYd5PECFEn8",
           "note": "2008",
           "value": {
             "label": "Malinga plays for Indian Premier League (IPL) team Mumbai Indians. He is their strike bowler in this format and is a leading bowler in the competition. ",
             "facts": [
               {
-                "label": "R2",
-                "value": {
-                  "label": "R2",
-                  "image": {
-                    "url": "R2",
-                    "altText": "R2"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "Malinga's action has attracted great comment. The cricket reference text Wisden has noted that Malinga's delivery action is similar to \"slinging\". Resulting to his nickname \"Slinga Malinga\". Malinga has said that his unique round-arm bowling action was a result of learning to play cricket exclusively with a tennis ball.",
-            "image": {
-              "url": "/static/images/lasith_malinga/Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg",
-              "altText": "Image of Lasith Malinga tossing a cricket ball at practice"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2004- Present",
-          "value": {
-            "facts": [
-              {
-                "label": "Srilankan Cricket Team",
-                "url": "R13",
-                "value": {
-                  "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket.",
-                  "image": {
-                    "url": "/static/images/lasith_malinga/Sri_Lanka_Cricket_Cap_Insignia.svg",
-                    "altText": "Image of Sri Lanka Cricket Cap Insignia"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2008- Present",
-          "value": {
-            "facts": [
-              {
+                "url": "/read/en/mumbai_indians",
+                "contentUrl": "/static/content/en/mumbai_indians.json",
                 "label": "Mumbai Indians",
-                "url": "R7",
+                "id": "wG4bO6chfmY",
                 "value": {
-                  "label": "The Mumbai Indians (abbreviated as MI) are a franchise cricket team based in the city of Mumbai, Maharashtra.",
+                  "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
                   "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
+                    "url": "https://en.wikipedia.org/wiki/Mumbai_Indians#/media/File:Mumbai_Indians_Logo.svg",
+                    "altText": "Image of Mumbai Indians"
                   }
                 }
               }
             ]
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "facts": [
-              {
-                "label": "",
-                "url": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "Vidyaloka College",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "Only bowler in cricketing history to take four wickets in four consecutive balls in international cricket (vs. South Africa March 2007)",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "The first and, to date, only bowler in cricketing history to take three hat-tricks in One Day International cricket, taking his third in August 2011.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "He is the only bowler with two World Cup hat tricks, against South Africa in the 2007 Cricket World Cup and the other against Kenya in the 2011 Cricket World Cup.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "As of April 2017, Malinga is the second highest wicket-taker in all Twenty20 matches with 317 wickets in 232 games.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "Malinga holds the highest number of wickets (161) in the Indian Premier League.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
           }
         }
       ]

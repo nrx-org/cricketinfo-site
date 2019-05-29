@@ -1,183 +1,264 @@
 {
-  "id": "G7",
   "title": "श्री लंका",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Sri_Lanka",
   "summary": "श्रीलंका, आधिकारिक रूप से डेमोक्रेटिक सोशलिस्ट रिपब्लिक ऑफ़ श्रीलंका, दक्षिण एशिया का एक द्वीप देश है, जो हिंद महासागर में बंगाल की खाड़ी के दक्षिण-पश्चिम में और अरब सागर के दक्षिण-पूर्व में स्थित है।",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sri_Lanka",
   "coverImage": {
     "url": "/static/images/sri_lanka/Flag_of_Sri_Lanka.svg",
-    "altText": "Image of Flag of Sri Lanka"
+    "altText": "Image of श्री लंका"
   },
   "translations": [
     {
-      "title": "Australia",
-      "url": "/read/en/sri_lanka",
-      "lang": "en"
+      "lang": "en",
+      "title": "Sri Lanka",
+      "url": "/read/en/sri_lanka"
     },
     {
-      "url": "/read/ta/sri_lanka",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "இலங்கை",
+      "url": "/read/ta/sri_lanka"
     }
   ],
   "sections": [
     {
-      "title": "",
+      "title": "About",
       "cardType": "table",
       "facts": [
         {
           "label": "स्वतंत्रता दिवस\n",
           "value": {
-            "label": "4 फरवरी 1948",
-            "url": ""
+            "label": "4 फरवरी 1948"
           }
         },
         {
           "label": "गणतंत्र दिवस\n",
           "value": {
-            "label": "22 May 1972 ",
-            "url": ""
+            "label": "22 May 1972 "
           }
         },
         {
-          "label": "",
+          "label": "Total Area of country (km squared)",
           "value": {
-            "label": "",
-            "url": ""
+            "label": "65,610 वर्ग किमी"
           }
         },
         {
-          "label": "",
+          "label": "Population",
           "value": {
-            "label": "65,610 वर्ग किमी",
-            "url": ""
+            "label": "21,670,000 (2018)"
           }
         },
         {
-          "label": "",
+          "label": "Other names",
           "value": {
-            "label": "21,670,000 (2018)",
-            "url": ""
+            "label": "सीलोन"
           }
         },
         {
-          "label": "",
+          "label": "Capital city",
           "value": {
-            "label": "सीलोन",
-            "url": ""
+            "label": "श्री जयवर्धनेपुरा कोट्टे "
           }
         },
         {
-          "label": "",
+          "label": "Largest city",
           "value": {
-            "label": "श्री जयवर्धनेपुरा कोट्टे ",
-            "url": ""
+            "label": "कोलंबो"
           }
         },
         {
+          "label": "Timezone",
           "value": {
-            "label": "कोलंबो",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "UTC+5:30",
-            "url": ""
+            "label": "UTC+5:30"
           }
         }
       ]
     },
     {
-      "title": "",
+      "title": "History",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "प्रागितिहास",
-          "id": 0,
+          "id": "history_phase_1_title",
           "note": "",
           "value": {
-            "label": "श्रीलंका में मानव उपनिवेशीकरण के साक्ष्य बालनगोड़ा स्थल पर दिखाई देते हैं। बालनगोड़ा मानव लगभग 34,000 साल पहले द्वीप पर पहुंचे और उनकी पहचान मेसोलिथिक शिकारी संग्रहकर्ताओं के रूप में की जाती है, जो गुफाओं में रहते थे। ",
-            "facts": []
+            "label": "श्रीलंका में मानव उपनिवेशीकरण के साक्ष्य बालनगोड़ा स्थल पर दिखाई देते हैं। बालनगोड़ा मानव लगभग 34,000 साल पहले द्वीप पर पहुंचे और उनकी पहचान मेसोलिथिक शिकारी संग्रहकर्ताओं के रूप में की जाती है, जो गुफाओं में रहते थे। "
           }
         },
         {
           "label": "पूर्व अनुराधापुरा काल",
-          "id": 1,
+          "id": "history_phase_2_title",
           "note": "377 ई.पू–1017",
           "value": {
-            "label": "श्रीलंकाई इतिहास के पूर्व अनुराधापुरा काल या प्रारंभिक राज्यों की अवधि प्रागैतिहासिक काल की अंतिम शताब्दियों में ऐतिहासिक अभिलेखों की क्रमिक शुरुआत और 377 ईसा पूर्व में समाप्त होती है। महावंश के अनुसार, श्रीलंका के मूल निवासी, यक्ष और उत्तरी नागा जनजाति हैं।",
-            "facts": []
+            "label": "श्रीलंकाई इतिहास के पूर्व अनुराधापुरा काल या प्रारंभिक राज्यों की अवधि प्रागैतिहासिक काल की अंतिम शताब्दियों में ऐतिहासिक अभिलेखों की क्रमिक शुरुआत और 377 ईसा पूर्व में समाप्त होती है। महावंश के अनुसार, श्रीलंका के मूल निवासी, यक्ष और उत्तरी नागा जनजाति हैं।"
           }
         },
         {
           "label": "अनुराधापुरा काल",
-          "id": 1,
+          "id": "history_phase_3_title",
           "note": "377 ई.पू.–1017",
           "value": {
-            "label": "अनुराधापुरा काल श्रीलंका के इतिहास में 377 ईसा पूर्व से 1017 ईस्वी तक अनुराधापुरा साम्राज्य की एक अवधि थी। वह दौर शुरू होता है जब उपुतिसा नुवारा के राजा पांडुकभैया ने प्रशासन को अनुराधापुरा में स्थानांतरित कर दिया, राज्य के पहले सम्राट बनकर। अनुराधापुरा को विविध आबादी वाले एक प्राचीन महानगरीय गढ़ के रूप में चित्रित किया गया है।",
-            "facts": []
+            "label": "अनुराधापुरा काल श्रीलंका के इतिहास में 377 ईसा पूर्व से 1017 ईस्वी तक अनुराधापुरा साम्राज्य की एक अवधि थी। वह दौर शुरू होता है जब उपुतिसा नुवारा के राजा पांडुकभैया ने प्रशासन को अनुराधापुरा में स्थानांतरित कर दिया, राज्य के पहले सम्राट बनकर। अनुराधापुरा को विविध आबादी वाले एक प्राचीन महानगरीय गढ़ के रूप में चित्रित किया गया है।"
           }
         },
         {
           "label": "पोलोन्नरुवा काल",
-          "id": 1,
+          "id": "history_phase_4_title",
           "note": "1056–1232",
           "value": {
-            "label": "पोलोनारुवा काल श्रीलंका के इतिहास में 1056 से 1236 तक पोलोन्नारुवा साम्राज्य की एक अवधि थी। यह अवधि अनुराधापुरा पर चोल विजय के बाद शुरू होती है।",
-            "facts": []
+            "label": "पोलोनारुवा काल श्रीलंका के इतिहास में 1056 से 1236 तक पोलोन्नारुवा साम्राज्य की एक अवधि थी। यह अवधि अनुराधापुरा पर चोल विजय के बाद शुरू होती है।"
           }
         }
       ]
     },
     {
+      "title": "Government",
       "cardType": "avatar",
       "label": "श्रीलंका की राजनीति एक अर्ध-राष्ट्रपति प्रतिनिधि लोकतांत्रिक गणराज्य के ढांचे में होती है, जिसके तहत श्रीलंका के राष्ट्रपति राज्य के प्रमुख और सरकार के प्रमुख और एक बहुदलीय व्यवस्था के प्रमुख होते हैं। सरकार द्वारा कार्यकारी शक्ति का प्रयोग किया जाता है। सरकार और संसद दोनों में विधायी शक्ति निहित है।",
       "facts": [
         {
+          "label": "Prime minister name",
           "value": {
             "label": "रानिल विक्रमसिंघे",
-            "url": "",
             "image": {
-              "url": "/static/images/sri_lanka/Prime_Minister_Ranil_Wickremesinghe_Portrait,_2017.jpg",
-              "altText": "Image of Prime Minister Ranil Wickremesinghe Portrait, 2017"
+              "url": "/static/images/sri_lanka/Prime_Minister_Ranil_Wickremesinghe_Portrait%2C_2017.jpg",
+              "altText": "Picture of रानिल विक्रमसिंघे",
+              "license": ""
             }
           }
         },
         {
+          "label": "President",
           "value": {
             "label": "मात्रिपाला श्रीसेना ",
-            "url": "",
             "image": {
-              "url": "/static/images/sri_lanka/Maithripala-_Russia_(portrait).jpg",
-              "altText": "Image of Maithripala  Russia (portrait)"
+              "url": "/static/images/sri_lanka/Maithripala-_Russia_%28portrait%29.jpg",
+              "altText": "Picture of मात्रिपाला श्रीसेना ",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">Attribution 4.0 International</a> license.</p>"
             }
           }
         },
         {
+          "label": "Chief Justice name",
           "value": {
             "label": "न्यायमूर्ति हेतीकाननंगे नलिन जयलथ परेरा",
-            "url": "",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": "",
+              "altText": "Picture of न्यायमूर्ति हेतीकाननंगे नलिन जयलथ परेरा"
             }
           }
         }
       ]
     },
     {
-      "title": "",
+      "title": "Geography",
+      "id": "sri_lanka_geography",
       "cardType": "simple",
       "facts": [
         {
-          "label": "ऑस्ट्रेलिया",
+          "label": "श्री लंका",
           "value": {
             "label": "श्रीलंका, जिसे पहले \"सीलोन\" कहा जाता था, हिंद महासागर में दक्षिण उप-महाद्वीप के दक्षिणपूर्व में एक द्वीप राष्ट्र है, जो प्रमुख हिंद महासागर की समुद्री गलियारों के पास एक रणनीतिक स्थान पर है। राष्ट्र का कुल क्षेत्रफल 65,610 वर्ग किमी है, जिसमें 64,740 किमी भूमि और 870 किमी² जल है। इसकी तटरेखा 1,340 किमी (830 मील) लंबी है।",
             "image": {
-              "url": "/static/images/sri_lanka/null",
-              "altText": "Image of null"
+              "altText": "An image of श्री लंका",
+              "license": ""
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Culture",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "भोजन",
+          "id": "culture-भोजन",
+          "value": {
+            "label": "व्यंजन में चावल और करी, पिट्ठू, किरीबाथ, साबुत रोटी, स्ट्रिंग हॉपर, वट्टलपम, कोट्टू और हॉपर शामिल हैं।",
+            "image": {
+              "url": "/static/images/sri_lanka/SL-rice_and_curry.jpg",
+              "altText": "व्यंजन में चावल और करी, पिट्ठू, किरीबाथ, साबुत रोटी, स्ट्रिंग हॉपर, वट्टलपम, कोट्टू और हॉपर शामिल हैं।"
+            }
+          }
+        },
+        {
+          "label": "त्योहार ",
+          "id": "culture-त्योहार_",
+          "value": {
+            "label": "अप्रैल में, श्रीलंकाई बौद्ध और हिंदू नए साल का त्योहार मनाते हैं।",
+            "image": {
+              "url": "/static/images/sri_lanka/Vavuniya_Kavadi.JPG",
+              "altText": "अप्रैल में, श्रीलंकाई बौद्ध और हिंदू नए साल का त्योहार मनाते हैं।"
+            }
+          }
+        },
+        {
+          "label": "खेल ",
+          "id": "culture-खेल_",
+          "value": {
+            "label": "जबकि श्रीलंका में राष्ट्रीय खेल वॉलीबॉल है, अब तक देश में सबसे लोकप्रिय खेल क्रिकेट है।",
+            "image": {
+              "url": "/static/images/sri_lanka/SCC_Ground_Colombo.jpg",
+              "altText": "जबकि श्रीलंका में राष्ट्रीय खेल वॉलीबॉल है, अब तक देश में सबसे लोकप्रिय खेल क्रिकेट है।"
+            }
+          }
+        },
+        {
+          "label": "कला प्रदर्शन",
+          "id": "culture-कला_प्रदर्शन",
+          "value": {
+            "label": "श्रीलंकाई शास्त्रीय नृत्य की तीन मुख्य शैलियाँ हैं। वे हैं, कांडियन नृत्य, निम्न देश नृत्य और सबरागमुवा नृत्य।",
+            "image": {
+              "url": "/static/images/sri_lanka/Sri_Lanka_traditional_drum.jpg",
+              "altText": "श्रीलंकाई शास्त्रीय नृत्य की तीन मुख्य शैलियाँ हैं। वे हैं, कांडियन नृत्य, निम्न देश नृत्य और सबरागमुवा नृत्य।"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_sri_lanka",
+          "label": "Languages",
+          "value": {
+            "label": "सिंहल और तमिल श्रीलंका के दो आधिकारिक भाषाएँ हैं। संविधान में अंग्रेजी को कड़ी भाषा के रूप में परिभाषित किया गया है|"
+          }
+        },
+        {
+          "id": "religion_section_sri_lanka",
+          "label": "Religions",
+          "value": {
+            "facts": [
+              {
+                "id": "religion_0",
+                "label": "थेरवाद बौद्ध",
+                "value": 70.2
+              },
+              {
+                "id": "religion_1",
+                "label": "हिंदू",
+                "value": 12.6
+              },
+              {
+                "id": "religion_2",
+                "label": "मुस्लिम",
+                "value": 9.7
+              },
+              {
+                "id": "religion_3",
+                "label": "रोमन कैथोलिक",
+                "value": 6.1
+              },
+              {
+                "id": "religion_4",
+                "label": "अन्य ईसाई",
+                "value": 1.3
+              }
+            ]
           }
         }
       ]

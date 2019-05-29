@@ -1,22 +1,21 @@
 {
-  "id": "O39",
   "title": "Shoaib Malik",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Shoaib_Malik",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shoaib_Malik",
   "coverImage": {
-    "url": "/static/images/shoaib_malik/Shoaib_Malik.jpg",
+    "url": "https://en.wikipedia.org/wiki/Shoaib_Malik#/media/File:Shoaib_Malik.jpg",
     "altText": "Image of Shoaib Malik"
   },
   "summary": "Shoaib Malik is a Pakistani cricketer and former captain of the Pakistani side from 2007 to 2009. ",
   "translations": [
     {
-      "url": "/read/hi/shoaib_malik",
-      "title": "मुशफिकुर रहीम ",
-      "lang": "hi"
+      "lang": "hi",
+      "title": "शोएब मलिक",
+      "url": "/read/hi/shoaib_malik"
     },
     {
-      "url": "/read/ta/shoaib_malik",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "ஷோயப் மாலிக்",
+      "url": "/read/ta/shoaib_malik"
     }
   ],
   "sections": [
@@ -27,54 +26,39 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "Shoaib Malik ",
-            "url": ""
+            "label": "Shoaib Malik "
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": " 1 February 1982",
-            "url": ""
+            "label": "Invalid Date (age 37)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "Sialkot, Pakistan",
-            "url": "SF95"
+            "url": "https://en.wikipedia.org/wiki/Sialkot",
+            "contentUrl": "/static/content/en/galle.json"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "5ft 10 in",
-            "url": ""
+            "label": "5ft 10 in"
           }
-        },
-        {
-          "label": "Other Names",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Age",
-          "value": "37"
         },
         {
           "label": "Nationality",
           "value": {
-            "label": "Pakistani",
-            "url": "G5"
+            "label": "Pakistani"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "Batting Allrounder",
-            "url": ""
+            "label": "Batting Allrounder"
           }
         }
       ]
@@ -82,16 +66,33 @@
     {
       "title": "Family",
       "cardType": "avatar",
-      "label": "",
       "facts": [
         {
           "label": "Spouse",
           "value": {
             "label": "Sania Mirza",
-            "url": "",
+            "url": null,
+            "contentUrl": null,
             "image": {
-              "url": "/static/images/shoaib_malik/Sania_Mirza_(35449409862).jpg",
-              "altText": "Image of Sania Mirza (35449409862)"
+              "url": "https://en.wikipedia.org/wiki/Sania_Mirza#/media/File:Sania_Mirza_(35449409862).jpg",
+              "altText": "Picture of Sania Mirza"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "nPMTxYc8Npr",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Malik is regarded as a flexible player. He is capable of hitting big shots but is also capable of rotating the strike with good placement. He has a strike rate of 80.4 runs per 100 balls, which compares favourably to players such as Rahul Dravid and Inzamam ul-Haq. His most brazen display of \"power hitting\" came in 2003 against South Africa when he scored 82 from 41 balls",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Shoaib_Malik#/media/File:Shoaib_Malik,_Dunedin,_NZ,_2009.jpg",
+              "altText": "Style of play for Shoaib Malik"
             }
           }
         }
@@ -103,38 +104,29 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": 0,
+          "id": "S4eS-1_MnVi",
           "note": "",
           "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
+            "label": ""
           }
         },
         {
           "label": "National team debut ",
-          "id": 3,
+          "id": "1KVow5YfdRX",
           "note": "",
           "value": {
             "label": "Shoaib Malik made his ODI debut on  14 October 1999 vs West Indies.",
             "facts": [
               {
-                "label": "R3",
+                "url": "/read/en/west_indies_cricket_team",
+                "contentUrl": "/static/content/en/west_indies_cricket_team.json",
+                "label": "West Indies cricket team",
+                "id": "QTR7-Ef8nGE",
                 "value": {
-                  "label": "R3",
+                  "label": "The West Indies cricket team, traditionally known as the Windies, is a multi-national cricket team representing the Anglophone Caribbean region and administered by Cricket West Indies. The players on this composite team are selected from a chain of fifteen Caribbean territories",
                   "image": {
-                    "url": "R3",
-                    "altText": "R3"
+                    "url": "https://en.wikipedia.org/wiki/West_Indies_cricket_team#/media/File:West_indies_cricket_board_flag.png",
+                    "altText": "Image of West Indies cricket team"
                   }
                 }
               }
@@ -143,283 +135,26 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": 1,
+          "id": "lb5xj8A7qWh",
           "note": "",
           "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R3",
-                "value": {
-                  "label": "R3",
-                  "image": {
-                    "url": "R3",
-                    "altText": "R3"
-                  }
-                }
-              }
-            ]
+            "label": ""
           }
         },
         {
           "label": "World Cup Apperance",
-          "id": 1,
+          "id": "9BSioF7stZS",
           "note": "",
           "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R3",
-                "value": {
-                  "label": "R3",
-                  "image": {
-                    "url": "R3",
-                    "altText": "R3"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R3",
-                "value": {
-                  "label": "R3",
-                  "image": {
-                    "url": "R3",
-                    "altText": "R3"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R3",
-                "value": {
-                  "label": "R3",
-                  "image": {
-                    "url": "R3",
-                    "altText": "R3"
-                  }
-                }
-              }
-            ]
+            "label": ""
           }
         },
         {
           "label": "IPL Debut",
-          "id": 1,
+          "id": "1Ug6nLkGMLU",
           "note": "",
           "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R3",
-                "value": {
-                  "label": "R3",
-                  "image": {
-                    "url": "R3",
-                    "altText": "R3"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "Malik is regarded as a flexible player. He is capable of hitting big shots but is also capable of rotating the strike with good placement. He has a strike rate of 80.4 runs per 100 balls, which compares favourably to players such as Rahul Dravid and Inzamam ul-Haq. His most brazen display of \"power hitting\" came in 2003 against South Africa when he scored 82 from 41 balls",
-            "image": {
-              "url": "/static/images/shoaib_malik/Shoaib_Malik,_Dunedin,_NZ,_2009.jpg",
-              "altText": "Image of Shoaib Malik, Dunedin, NZ, 2009"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "1999- present",
-          "value": {
-            "facts": [
-              {
-                "label": "Pakistan national cricket team",
-                "url": "R8",
-                "value": {
-                  "label": "The Pakistan Men's National Cricket Team popularly referred to as the Shaheens  Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). ",
-                  "image": {
-                    "url": "/static/images/shoaib_malik/PakistanCricketLogo.png",
-                    "altText": "Image of PakistanCricketLogo"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "facts": [
-              {
-                "label": "",
-                "url": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "facts": [
-              {
-                "label": "",
-                "url": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    null,
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": ""
           }
         }
       ]

@@ -1,22 +1,21 @@
 {
-  "id": "O9",
   "title": "राहुल द्रविड़",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Rahul_Dravid",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rahul_Dravid",
   "coverImage": {
-    "url": "/static/images/rahul_dravid/Rahul_Dravid_at_GQ_Men_Of_The_Year_2012_AWARD.jpg",
-    "altText": "Image of Rahul Dravid at GQ Men Of The Year 2012 AWARD"
+    "url": "https://commons.wikimedia.org/wiki/File:Rahul_Dravid_at_GQ_Men_Of_The_Year_2012_AWARD.jpg",
+    "altText": "Image of राहुल द्रविड़"
   },
   "summary": "राहुल द्रविड़ एक पूर्व भारतीय क्रिकेटर और कप्तान रहे हैं, जिन्हें क्रिकेट इतिहास के महान बल्लेबाजों में से एक माना जाता है।",
   "translations": [
     {
-      "url": "/read/en/rahul_dravid",
-      "title": "Mushfiqur Rahim",
-      "lang": "en"
+      "lang": "en",
+      "title": "Rahul Dravid",
+      "url": "/read/en/rahul_dravid"
     },
     {
-      "url": "/read/ta/rahul_dravid",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "ராகுல் டிராவிட்",
+      "url": "/read/ta/rahul_dravid"
     }
   ],
   "sections": [
@@ -27,71 +26,76 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "राहुल शरद द्रविड़ ",
-            "url": ""
+            "label": "राहुल शरद द्रविड़ "
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "11/01/1973",
-            "url": ""
+            "label": "11 Jan 1973 (age 46)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "इंदौर, भारत",
-            "url": ""
+            "url": "https://en.wikipedia.org/wiki/Indore"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "1.70 मीटर (5 फीट 7 इंच)",
-            "url": ""
+            "label": "1.70 मीटर (5 फीट 7 इंच)"
           }
         },
         {
           "label": "Other Names",
           "value": {
-            "label": "द वाल ",
-            "url": ""
+            "label": "द वाल "
           }
-        },
-        {
-          "label": "Age",
-          "value": "46"
         },
         {
           "label": "Nationality",
           "value": {
-            "label": "भारतीय",
-            "url": "G3"
+            "label": "भारतीय"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "बल्लेबाज, विकेट-कीपर",
-            "url": ""
+            "label": "बल्लेबाज, विकेट-कीपर"
           }
         }
       ]
     },
     {
-      "title": "Family",
+      "title": "Alma mater",
       "cardType": "avatar",
-      "label": "",
+      "facts": [
+        {
+          "label": "सेंट जोसेफ बॉयज़ हाई स्कूल, बेंगलुरु",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of सेंट जोसेफ बॉयज़ हाई स्कूल, बेंगलुरु"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "Mk2OzL_mPloI",
+      "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
-            "label": "",
-            "url": "",
+            "label": "राहुल द्रविड़ दाएं हाथ के बल्लेबाज हैं, और कभी-कभार विकेट कीपिंग भी करते हैं।  ",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": "https://en.wikipedia.org/wiki/Rahul_Dravid#/media/File:Rahul_cropped.jpg",
+              "altText": "Style of play for राहुल द्रविड़"
             }
           }
         }
@@ -103,58 +107,37 @@
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": 0,
+          "id": "kFDrx4pAhyup",
           "note": "1991",
           "value": {
-            "label": "द्रविड़ ने महाराष्ट्र के खिलाफ 1991 में रणजी ट्रॉफी क्रिकेट में पदार्पण किया। ",
-            "facts": [
-              {
-                "label": "SF20",
-                "value": {
-                  "label": "SF20",
-                  "image": {
-                    "url": "SF20",
-                    "altText": "SF20"
-                  }
-                }
-              }
-            ]
+            "label": "द्रविड़ ने महाराष्ट्र के खिलाफ 1991 में रणजी ट्रॉफी क्रिकेट में पदार्पण किया। "
           }
         },
         {
           "label": "राष्ट्रीय टीम ",
-          "id": 3,
+          "id": "iE3O_zdcvYHa",
           "note": "1996",
           "value": {
-            "label": "द्रविड़ ने 1996 में सिंगापोर में सिंगर कप के दौरान ओडीआई क्रिकेट में श्रीलंका के विरुद्ध वनडे इंटरनेशनल में पदार्पण किया। ",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
+            "label": "द्रविड़ ने 1996 में सिंगापोर में सिंगर कप के दौरान ओडीआई क्रिकेट में श्रीलंका के विरुद्ध वनडे इंटरनेशनल में पदार्पण किया। "
           }
         },
         {
           "label": "विश्व कप",
-          "id": 1,
+          "id": "jzc56PND5CjP",
           "note": "1999",
           "value": {
             "label": "द्रविड़ ने दक्षिण अफ्रीका के विरुद्ध होव में 1999 में क्रिकेट विश्व कप के मैचों में अपना पदार्पण किया और अर्द्ध शतक बनाया।",
             "facts": [
               {
-                "label": "R13",
+                "url": "/read/hi/1999_cricket_world_cup",
+                "contentUrl": "/static/content/hi/1999_cricket_world_cup.json",
+                "label": "1999 क्रिकेट विश्व कप",
+                "id": "vyVnSn9LgtPI",
                 "value": {
-                  "label": "R13",
+                  "label": "1999 का क्रिकेट विश्व कप क्रिकेट विश्व कप का सातवां संस्करण था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेज़बानी मुख्य रूप से इंग्लैंड ने की थी, जिसमें कुछ मैच स्कॉटलैंड, आयरलैंड, वेल्स और नीदरलैंड में भी खेले गए थे।",
                   "image": {
-                    "url": "R13",
-                    "altText": "R13"
+                    "url": "https://en.wikipedia.org/wiki/1999_Cricket_World_Cup#/media/File:Wc99.png",
+                    "altText": "Image of 1999 क्रिकेट विश्व कप"
                   }
                 }
               }
@@ -163,18 +146,21 @@
         },
         {
           "label": "2003 विश्व कप\n",
-          "id": 1,
+          "id": "sZaYQm7O3dMj",
           "note": "2003",
           "value": {
             "label": "2003 के विश्व कप के दौरान द्रविड़ उप-कप्तान रहे और एक विकेटकीपर बल्लेबाज के रूप में मैच खेले। ",
             "facts": [
               {
-                "label": "R13",
+                "url": "/read/hi/2003_cricket_world_cup",
+                "contentUrl": "/static/content/hi/2003_cricket_world_cup.json",
+                "label": "2003 क्रिकेट विश्व कप",
+                "id": "8xmNWn3-M9We",
                 "value": {
-                  "label": "R13",
+                  "label": "2003 का क्रिकेट विश्व कप आठवां क्रिकेट विश्व कप था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेजबानी दक्षिण अफ्रीका, जिम्बाब्वे और केन्या ने मिल कर की थी।",
                   "image": {
-                    "url": "R13",
-                    "altText": "R13"
+                    "url": "https://en.wikipedia.org/wiki/2003_Cricket_World_Cup#/media/File:Cricket_World_Cup_Logo_2003.svg",
+                    "altText": "Image of 2003 क्रिकेट विश्व कप"
                   }
                 }
               }
@@ -183,37 +169,21 @@
         },
         {
           "label": "विश्व कप ",
-          "id": 1,
+          "id": "5vdTWcbnepwI",
+          "note": "2007",
           "value": {
             "label": "2007 के विश्व कप में राहुल द्रविड़ को भारत का कप्तान नियुक्त किया गया जिसमें भारत नाकामयाब रहा। ",
             "facts": [
               {
-                "label": "R13",
+                "url": "/read/hi/2007_cricket_world_cup",
+                "contentUrl": "/static/content/hi/2007_cricket_world_cup.json",
+                "label": "2007 क्रिकेट विश्व कप",
+                "id": "g48MHxJzFYc4",
                 "value": {
-                  "label": "R13",
+                  "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
                   "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
+                    "url": "https://en.wikipedia.org/wiki/2007_Cricket_World_Cup#/media/File:2007_Cricket_World_Cup_logo.svg",
+                    "altText": "Image of 2007 क्रिकेट विश्व कप"
                   }
                 }
               }
@@ -222,220 +192,10 @@
         },
         {
           "label": "IPL डेब्यू",
-          "id": 1,
+          "id": "lHMW8jcYVakE",
           "note": "2008",
           "value": {
-            "label": "आईपीएल 2008, 2009 और 2010 में राहुल द्रविड़ रॉयल चैलेंजर्स बंगलुरु के लिए खेले। ",
-            "facts": [
-              {
-                "label": "R13",
-                "value": {
-                  "label": "R13",
-                  "image": {
-                    "url": "R13",
-                    "altText": "R13"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "राहुल द्रविड़ दाएं हाथ के बल्लेबाज हैं, और कभी-कभार विकेट कीपिंग भी करते हैं।  ",
-            "image": {
-              "url": "/static/images/rahul_dravid/Rahul_cropped.jpg",
-              "altText": "Image of Rahul cropped"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "1996-2012",
-          "value": {
-            "facts": [
-              {
-                "label": "भारतीय राष्ट्रीय क्रिकेट टीम",
-                "url": "R1",
-                "value": {
-                  "label": "भारत की राष्ट्रीय क्रिकेट टीम, जिसे टीम इंडिया और मैन इन ब्लू के नाम से भी जाना जाता है, भारतीय क्रिकेट कंट्रोल बोर्ड द्वारा संचालित है",
-                  "image": {
-                    "url": "/static/images/rahul_dravid/Cricket_India_Crest.svg",
-                    "altText": "Image of Cricket India Crest"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2011-2013",
-          "value": {
-            "facts": [
-              {
-                "label": "राजस्थान रॉयल्स",
-                "url": "R11",
-                "value": {
-                  "label": "राजस्थान रॉयल्स जयपुर, राजस्थान, भारत की एक आईपीएल क्रिकेट टीम है।",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "1990-2012",
-          "value": {
-            "facts": [
-              {
-                "label": "कर्नाटक",
-                "url": "https://en.wikipedia.org/wiki/Karnataka_cricket_team",
-                "value": {
-                  "label": "कर्नाटक राज्य की घरेलू रणजी ट्रॉफी क्रिकेट टीम ",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "अर्जुन पुरस्कार ",
-          "tag": "1998",
-          "value": {
-            "label": "खेलकूद के क्षेत्र में उत्कृष्ट उपलब्धि हासिल करने के लिए सरकार द्वारा अर्जुन पुरस्कार दिया जाता है ",
-            "image": {
-              "url": "/static/images/rahul_dravid/Arjun_Award.jpg",
-              "altText": "Image of Arjun Award"
-            }
-          }
-        },
-        {
-          "label": "पद्म श्री",
-          "tag": "2004",
-          "value": {
-            "label": "पद्म श्री भारत गणराज्य का चौथा सर्वोच्च नागरिक पुरस्कार है",
-            "image": {
-              "url": "/static/images/rahul_dravid/The_President_Dr._A.P.J_Abdul_Kalam_presenting_Padma_Shri_Award_to_Shri_Saurav_Ganguly_the_most_successful_Captain_of_Indian_Cricket_Team_at_an_investiture_Ceremony_at_Rashtrapati_Bhawan_in_New_Delhi_on_June_30,_2004.jpg",
-              "altText": "Image of The President Dr. A.P.J Abdul Kalam presenting Padma Shri Award to Shri Saurav Ganguly the most successful Captain of Indian Cricket Team at an investiture Ceremony at Rashtrapati Bhawan in New Delhi on June 30, 2004"
-            }
-          }
-        },
-        {
-          "label": "पद्म भूषण",
-          "tag": "2013",
-          "value": {
-            "label": "पद्म भूषण गणराज्य भारत का तीसरा सबसे बड़ा नागरिक पुरस्कार है",
-            "image": {
-              "url": "/static/images/rahul_dravid/Padma_Bhushan_India_IIe_Klasse.jpg",
-              "altText": "Image of Padma Bhushan India IIe Klasse"
-            }
-          }
-        },
-        {
-          "label": "आईसीसी हॉल ऑफ फेम",
-          "tag": "2018",
-          "value": {
-            "label": "आईसीसी का क्रिकेट हॉल ऑफ फेम क्रिकेट के महान खिलाड़ियों को उनकी उपलब्धियों के सम्मान में दिया जाता है।",
-            "image": {
-              "url": "/static/images/rahul_dravid/ICC_Hall_Of_Fame.svg",
-              "altText": "Image of ICC Hall Of Fame"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "सेंट जोसेफ बॉयज़ हाई स्कूल, बेंगलुरु",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "द्रविड़ ने अंतर्राष्ट्रीय क्रिकेट में लगभग 25000 रन बनाए।",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "द्रविड़ ने टेस्ट मैचों में पांच दोहरे शतक बनाए हैं",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "द्रविड़ ने 210 कैच के साथ टेस्ट क्रिकेट में किसी खिलाड़ी (ग़ैर-विकेट-कीपर) द्वारा लिए गए सबसे अधिक कैच लेने का रिकॉर्ड बनाया।",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "द्रविड़ और वीवीएस लक्ष्मण ने ऑस्ट्रेलिया के खिलाफ एक टेस्ट मैच के दौरान 376 रन की साझेदारी निभाई, जिसे भारत ने 171 रन से जीता।",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "द्रविड़ ने तेंदुलकर के साथ 331 रनों की साझेदारी की, जो एक विश्व रिकॉर्ड था",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": "आईपीएल 2008, 2009 और 2010 में राहुल द्रविड़ रॉयल चैलेंजर्स बंगलुरु के लिए खेले। "
           }
         }
       ]

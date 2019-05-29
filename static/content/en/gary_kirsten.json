@@ -1,0 +1,160 @@
+{
+  "title": "Gary Kirsten",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gary_Kirsten",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:GaryKirsten.jpg",
+    "altText": "Image of Gary Kirsten"
+  },
+  "summary": "Gary Kirsten is a former South African cricketer. He was also the coach of the Indian cricket team that won the 2011 world cup.",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/gary_kirsten"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/gary_kirsten"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Gary Kirsten"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "23 Nov 1967 (age 51)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Cape Town, South Africa",
+            "url": "https://en.wikipedia.org/wiki/Cape_Town",
+            "contentUrl": "/static/content/en/cape_town.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "Other Names",
+          "value": {
+            "label": "Gazza"
+          }
+        },
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "South African"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "Left arm opening batsman and right arm off-break bowler"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "Rondebosch Boys' High School, Cape Town",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/File:Rondebosch_Boys%27_High_School_logo.gif",
+              "altText": "Image of Rondebosch Boys' High School, Cape Town"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "qsoSvarV8BQ",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Gary Kirsten is a left-handed opening batsman, and a right arm off-break bowler."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "National team debut ",
+          "id": "5PgUiqFPAS_",
+          "note": "1993",
+          "value": {
+            "label": "Kirsten made his international debut in a ODI versus Australia in 1993",
+            "facts": [
+              {
+                "url": "/read/en/australia_cricket_team",
+                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "label": "Australia Cricket team",
+                "id": "TPP9E8P_cfn",
+                "value": {
+                  "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Australia_national_cricket_team#/media/File:Australia_cricket_logo.svg",
+                    "altText": "Image of Australia Cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "ByLldci1iAe",
+          "note": "1996",
+          "value": {
+            "label": "Kirsten scored 188 not-outagainst the United Arab Emirates during the 1996 World Cup",
+            "facts": [
+              {
+                "url": "/read/en/1996_cricket_world_cup",
+                "contentUrl": "/static/content/en/1996_cricket_world_cup.json",
+                "label": "1996 Cricket World Cup",
+                "id": "CmvTTpKPt-A",
+                "value": {
+                  "label": "The 1996 Cricket World Cup, also called the Wills World Cup 1996 after its official sponsors, ITC's Wills brand, was the sixth Cricket World Cup. It was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/1996_Cricket_World_Cup#/media/File:Wills_World_Cup_1996.svg",
+                    "altText": "Image of 1996 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "BM9p1Kejlpi",
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        }
+      ]
+    }
+  ]
+}

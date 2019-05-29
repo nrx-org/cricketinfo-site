@@ -1,0 +1,146 @@
+{
+  "title": "Jasprit Bumrah",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jasprit_Bumrah",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:Bowling_shadow_figure.png",
+    "altText": "Image of Jasprit Bumrah"
+  },
+  "summary": "Jasprit Bumrah is an Indian cricketer who plays for the Indian national cricket team.",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/jasprit_bumrah"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/jasprit_bumrah"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Jasprit Jasbirsingh Bumrah"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "Invalid Date (age 25)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Ahmedabad, India",
+            "url": "https://en.wikipedia.org/wiki/Ahmedabad",
+            "contentUrl": "/static/content/en/ahmedabad.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "Indian"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "Bowler"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "9zWdqczpLOU",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Bumrah is a right arm fast bowler who consistently bowls at 140–145 kmph making him one of the fastest bowlers in India."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "uHaBkbCjRFe",
+          "note": "2013",
+          "value": {
+            "label": "Bumrah plays first-class cricket for Gujarat and he made his debut against Vidarbha in October 2013"
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "GohBqPq7JD-",
+          "note": "2016",
+          "value": {
+            "label": "Bumrah made his international debut playing an ODI for India versus Australia",
+            "facts": [
+              {
+                "url": "/read/en/australia_cricket_team",
+                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "label": "Australia Cricket team",
+                "id": "R2rPzTOd8cD",
+                "value": {
+                  "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Australia_national_cricket_team#/media/File:Australia_cricket_logo.svg",
+                    "altText": "Image of Australia Cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "u159eYVvSuG",
+          "note": "2017",
+          "value": {
+            "label": "In the Champions Trophy 2017 final, Bumrah bowled a no-ball which could have been the wicket of the batsman who eventually scored a century that helped the opposition win the match."
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "elB76cCaFUS",
+          "note": "2013",
+          "value": {
+            "label": "In his Indian Premier League debut match versus RCB, Bumrah took 3 wickets",
+            "facts": [
+              {
+                "url": "/read/en/mumbai_indians",
+                "contentUrl": "/static/content/en/mumbai_indians.json",
+                "label": "Mumbai Indians",
+                "id": "huSZwSdP6PJ",
+                "value": {
+                  "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Mumbai_Indians#/media/File:Mumbai_Indians_Logo.svg",
+                    "altText": "Image of Mumbai Indians"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

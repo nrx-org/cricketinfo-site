@@ -1,0 +1,146 @@
+{
+  "title": "Kuldeep Yadav",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kuldeep_Yadav",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:Bowling_shadow_figure.png",
+    "altText": "Image of Kuldeep Yadav"
+  },
+  "summary": "Kuldeep Yadav is an Indian cricketer",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/kuldeep_yadav"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/kuldeep_yadav"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Kuldeep Yadav"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "Invalid Date (age 24)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Kanpur, India",
+            "url": "https://en.wikipedia.org/wiki/Kanpur",
+            "contentUrl": "/static/content/en/kanpur.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "1.68 m (5 ft 6 in)"
+          }
+        },
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "Indian"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "Bowler"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "WD50MH-iT-v",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Slow left-arm chinaman bowler"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "RvWCMd3jnhI",
+          "note": "2014",
+          "value": {
+            "label": "Kuldeep Yadav plays first class Indian domestic cricket for Uttar Pradesh"
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "W5P8onkeX4e",
+          "note": "2017",
+          "value": {
+            "label": "Yadav made his Test debut for India against Australia in 2017, at Dharamshala",
+            "facts": [
+              {
+                "url": "/read/en/australia_cricket_team",
+                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "label": "Australia Cricket team",
+                "id": "JuZqr9cSB0W",
+                "value": {
+                  "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Australia_national_cricket_team#/media/File:Australia_cricket_logo.svg",
+                    "altText": "Image of Australia Cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "6YKtCdy5nuo",
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "E_czshxdwio",
+          "note": "2012",
+          "value": {
+            "label": "Yadav was a member of the Mumbai Indians squad in 2012",
+            "facts": [
+              {
+                "url": "/read/en/mumbai_indians",
+                "contentUrl": "/static/content/en/mumbai_indians.json",
+                "label": "Mumbai Indians",
+                "id": "LE52-pjv4wA",
+                "value": {
+                  "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Mumbai_Indians#/media/File:Mumbai_Indians_Logo.svg",
+                    "altText": "Image of Mumbai Indians"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

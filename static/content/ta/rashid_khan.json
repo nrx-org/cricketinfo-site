@@ -1,22 +1,21 @@
 {
-  "id": "O41",
   "title": "ரஷீத் கான்",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Rashid_Khan_(cricketer)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rashid_Khan_(cricketer)",
   "coverImage": {
-    "url": "/static/images/rashid_khan/null",
-    "altText": "Image of null"
+    "url": "-",
+    "altText": "Image of ரஷீத் கான்"
   },
   "summary": "ரஷீத் கான் அர்மான், பொதுவாக ரஷீத் கான் என அறியப்படுகிறார், இவர் ஒரு ஆப்கானிஸ்தான் கிரிக்கெட் வீரர், அவர்களின் தேசிய அணிக்கு டி20 சர்வதேசப் போட்டிகளில் கேப்டனாக இருக்கிறார்.",
   "translations": [
     {
-      "url": "/read/hi/rashid_khan",
-      "title": "मुशफिकुर रहीम ",
-      "lang": "hi"
+      "lang": "en",
+      "title": "Rashid Khan",
+      "url": "/read/en/rashid_khan"
     },
     {
-      "url": "/read/en/rashid_khan",
-      "title": "Mushfiqur Rahim",
-      "lang": "en"
+      "lang": "hi",
+      "title": "राशिद खान",
+      "url": "/read/hi/rashid_khan"
     }
   ],
   "sections": [
@@ -27,72 +26,52 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "ரஷீத் கான் அர்மான்",
-            "url": ""
+            "label": "ரஷீத் கான் அர்மான்"
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "20 September 1998",
-            "url": ""
+            "label": "Invalid Date (age 20)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "நங்கர்ஹார், ஆப்கானிஸ்தான்",
-            "url": "SF94"
+            "url": "https://en.wikipedia.org/wiki/Nangarhar_Province",
+            "contentUrl": "/static/content/ta/bogra.json"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "",
-            "url": ""
+            "label": ""
           }
-        },
-        {
-          "label": "Other Names",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Age",
-          "value": "20"
         },
         {
           "label": "Nationality",
           "value": {
-            "label": "ஆஃப்கன்",
-            "url": ""
+            "label": "ஆஃப்கன்"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "வலதுகை லெக்ஸ்பின்",
-            "url": ""
+            "label": "வலதுகை லெக்ஸ்பின்"
           }
         }
       ]
     },
     {
-      "title": "Family",
-      "cardType": "avatar",
-      "label": "",
+      "title": "Style of play",
+      "id": "Xr5fjzYZdp-K",
+      "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": "ரஷீத் அவருடைய சகோதரர்களுடன் கிரிக்கெட் விளையாடி வளர்ந்தார், பாகிஸ்தான் ஆல்ரவுண்டர் சாஷித் அஃப்ரிடியை ரோல் மாடலாகக் கொண்ட இவர், அவருடைய பந்து வீசும் ஸ்டைலிலிருந்து தன்னுடைய ஸ்டைலை அமைத்துக் கொண்டிருக்கிறார்."
           }
         }
       ]
@@ -103,323 +82,34 @@
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": 0,
+          "id": "f0cS9ThnvB7y",
           "note": "",
           "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
+            "label": ""
           }
         },
         {
           "label": "தேசிய அணி அறிமுகம்",
-          "id": 3,
+          "id": "tBL5qDXOCoEC",
           "note": "",
           "value": {
-            "label": "அவர், 2015 அக்டோபர் 18 அன்று ஆப்கானிஸ்தானுக்காக ஜிம்பாப்வேக்கு எதிராகத் தன்னுடைய முதல் சர்வதேச ஒருநாள் போட்டியில் ஆடினார்.",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
+            "label": "அவர், 2015 அக்டோபர் 18 அன்று ஆப்கானிஸ்தானுக்காக ஜிம்பாப்வேக்கு எதிராகத் தன்னுடைய முதல் சர்வதேச ஒருநாள் போட்டியில் ஆடினார்."
           }
         },
         {
           "label": "முதல் ஐசிசி போட்டி ",
-          "id": 1,
+          "id": "SrAMpP5WkoQu",
           "note": "",
           "value": {
-            "label": "2019 ஏப்ரல் மாதம், 2019 உலகக் கோப்பையில் ஆப்கானிஸ்தான் அணியில் அவர் பெயர் இடம்பெற்றது.",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
+            "label": "2019 ஏப்ரல் மாதம், 2019 உலகக் கோப்பையில் ஆப்கானிஸ்தான் அணியில் அவர் பெயர் இடம்பெற்றது."
           }
         },
         {
           "label": "2017",
-          "id": 1,
+          "id": "Qe06RdwGNaoy",
           "note": "சன்ரைசர்ஸ் ஹைதராபாத்",
           "value": {
-            "label": "சன்ரைசர்ஸ் ஹைதராபாத்",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "ரஷீத் அவருடைய சகோதரர்களுடன் கிரிக்கெட் விளையாடி வளர்ந்தார், பாகிஸ்தான் ஆல்ரவுண்டர் சாஷித் அஃப்ரிடியை ரோல் மாடலாகக் கொண்ட இவர், அவருடைய பந்து வீசும் ஸ்டைலிலிருந்து தன்னுடைய ஸ்டைலை அமைத்துக் கொண்டிருக்கிறார்.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2015 முதல் தற்போது வரை",
-          "value": {
-            "facts": [
-              {
-                "label": "ஆப்கானிஸ்தான் தேசிய கிரிக்கெட் அணி",
-                "url": "R17",
-                "value": {
-                  "label": "ஆப்கானிஸ்தான் கிரிக்கெட் அணி, முழு உறுப்பினராக டெஸ்ட் போட்டிகளில் விளையாடும் 12 வது அணி.",
-                  "image": {
-                    "url": "/static/images/rashid_khan/Afghanistan_cricket_board_logo.jpg",
-                    "altText": "Image of Afghanistan cricket board logo"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2017 முதல் தற்போது வரை",
-          "value": {
-            "facts": [
-              {
-                "label": "சன்ரைசர்ஸ் ஹைதராபாத்",
-                "url": "R12",
-                "value": {
-                  "label": "சன்ரைஸ் ஹைதராபாத் (பெரும்பாலும் எஸ்ஆர்ஹெச் என சுருக்கமாக அழைக்கப்படும்), தெலுங்கானாவின் ஹைதராபாத் நகரைச் சேர்ந்த ஐபிஎல் கிரிக்கெட் அணி, இது இந்தியன் பிரீமியர் லீக்கில் விளையாடுகிறது.",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "facts": [
-              {
-                "label": "",
-                "url": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "அசோசியேட் கிரிக்கெட்டர் ஆஃப் தி இயர்",
-          "tag": "2018",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    null,
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "2017 ஜூன் மாதம், சர்வதேச ஒரு நாள் கிரிக்கெட் போட்டியில் ஒரு அசோசியோட் நாட்டுக்கான சிறந்த பந்து வீச்சு புள்ளிவிவரங்களை வைத்துள்ள வீரரானார்.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "2018 பிப்ரவரி மாதம், சர்வதேச ஒரு நாள் கிரிக்கெட் போட்டிகளில் பந்து வீச்சாளர்களுக்கான ஐசிசி பிளேயர் தரவரிசைப் பட்டியலில் முதல் இடம் பிடித்த இளம் வீரர்.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "2018 ஆசிய கோப்பையில் திறமையை வெளிப்படுத்தியதைத் தொடர்ந்து, செப்டம்பர் 2018 இல், ஐசிசியின் ஆல்-ரவுண்டர் தர வரிசைப்பட்டியலில் முதல் இடம் பிடித்தார்.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": "சன்ரைசர்ஸ் ஹைதராபாத்"
           }
         }
       ]

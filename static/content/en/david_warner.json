@@ -1,0 +1,171 @@
+{
+  "title": "David Warner",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Warner_(cricketer)",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:DAVID_WARNER_(11704782453).jpg",
+    "altText": "Image of David Warner"
+  },
+  "summary": "David Warner is an Australian international cricketer and a former captain of the Australian national team.",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/david_warner"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/david_warner"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "David Andrew Warner"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "Invalid Date (age 32)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Paddington, New South Wales, Australia",
+            "url": "https://en.wikipedia.org/wiki/Paddington,_New_South_Wales"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "170 cm (5 ft 7 in)"
+          }
+        },
+        {
+          "label": "Other Names",
+          "value": {
+            "label": "Reverend"
+          }
+        },
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "Australian"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "Opening batsman"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "Randwick Boys High School",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/File:RBHS_badge.jpg",
+              "altText": "Image of Randwick Boys High School"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "YIGtk-AVsQpy",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Left-handed opening batsman, part-time spin bowler and aggressive fielder",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/David_Warner_(cricketer)#/media/File:David_warner_t20_debut.JPG",
+              "altText": "Style of play for David Warner"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "QYh4J16yR0-Z",
+          "note": "2009",
+          "value": {
+            "label": "Warner made his first-class debut playing for New South Wales against Western Australia."
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "rjAdEzfIy84K",
+          "note": "2009",
+          "value": {
+            "label": "Warner made his international debut for Australia in a Twenty20 International against South Africa at the Melbourne.",
+            "facts": [
+              {
+                "url": "/read/en/south_africa_national_cricket_team",
+                "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
+                "label": "South Africa national cricket team",
+                "id": "kZlOSnm9j4X0",
+                "value": {
+                  "label": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/South_Africa_national_cricket_team#/media/File:Southafrica_cricket_logo.svg",
+                    "altText": "Image of South Africa national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "q42xco4kOCVW",
+          "note": "2013",
+          "value": {
+            "label": "Warner was dropped from the team after the first match due to a off-field fight with English player Joe Root"
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "BT17BzNC3Sp3",
+          "note": "2009",
+          "value": {
+            "label": "Warner was signed by IPL team Delhi Daredevils for 2009–10 seasons.",
+            "facts": [
+              {
+                "url": "/read/en/delhi_capitals",
+                "contentUrl": "/static/content/en/delhi_capitals.json",
+                "label": "Delhi Capitals",
+                "id": "J3IGo79BWY0e",
+                "value": {
+                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Delhi_Capitals#/media/File:Delhi_Capitals_Logo.svg",
+                    "altText": "Image of Delhi Capitals"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

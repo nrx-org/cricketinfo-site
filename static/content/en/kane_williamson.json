@@ -1,0 +1,151 @@
+{
+  "title": "Kane Williamson",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kane_Williamson",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:Kane_Williamson_(9773667991).jpg",
+    "altText": "Image of Kane Williamson"
+  },
+  "summary": "Kane Williamson is an international cricket player from New Zealand and also the current captain of the team.",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/kane_williamson"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/kane_williamson"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Kane Stuart Williamson"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "Invalid Date (age 28)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Tauranga, New Zealand",
+            "url": "https://en.wikipedia.org/wiki/Tauranga",
+            "contentUrl": "/static/content/en/tauranga.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "5 ft 9 in (1.75 m)"
+          }
+        },
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "New Zealander"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "Batsman"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "Tauranga Boys' College",
+          "value": {
+            "label": "Williamson scored 40 centuries before he left school.",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/File:Tbc_crest.png",
+              "altText": "Image of Tauranga Boys' College"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "ZiG7GD8ZGTQG",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Right-handed batsman and an occasional off spin bowler",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Kane_Williamson#/media/File:Kane_Williamson_(9773667991).jpg",
+              "altText": "Style of play for Kane Williamson"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "pj2c-MK3jQLN",
+          "note": "2007",
+          "value": {
+            "label": "Williamson made his first-class cricket debut in December 2007"
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "MmxqAqP-2tcb",
+          "note": "2010",
+          "value": {
+            "label": "Williamson made his One-Day International debut against India, and was dismissed for a duck.",
+            "facts": [
+              {
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "label": "India national cricket team",
+                "id": "i4hPqsdQcTgy",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India#/media/File:Cricket_India_Crest.svg",
+                    "altText": "Image of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "LPq0EMpjE7Hn",
+          "note": "2011",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "uQZyl1hhWVae",
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        }
+      ]
+    }
+  ]
+}

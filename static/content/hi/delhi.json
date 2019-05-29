@@ -1,183 +1,208 @@
 {
-  "id": "G16",
   "title": "दिल्ली",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Delhi",
   "summary": "दिल्ली, आधिकारिक तौर पर दिल्ली का राष्ट्रीय राजधानी क्षेत्र (एनसीटी), एक शहर और भारत का एक केंद्र शासित प्रदेश है, जिसमें नई दिल्ली, भारत की राजधानी है।",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Delhi",
   "coverImage": {
     "url": "/static/images/delhi/India_Gate_in_New_Delhi_03-2016.jpg",
-    "altText": "Image of India Gate in New Delhi 03 2016"
+    "altText": "Image of दिल्ली"
   },
   "translations": [
     {
-      "title": "Australia",
-      "url": "/read/en/delhi",
-      "lang": "en"
+      "lang": "en",
+      "title": "Delhi",
+      "url": "/read/en/delhi"
     },
     {
-      "url": "/read/ta/delhi",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "டெல்லி",
+      "url": "/read/ta/delhi"
     }
   ],
   "sections": [
     {
-      "title": "",
+      "title": "About",
       "cardType": "table",
       "facts": [
         {
-          "label": "",
+          "label": "Total Area of country (km squared)",
           "value": {
-            "label": "",
-            "url": ""
+            "label": "1484 वर्ग किमी"
           }
         },
         {
-          "label": "",
+          "label": "Population",
           "value": {
-            "label": "",
-            "url": ""
+            "label": "16,787,941"
           }
         },
         {
-          "label": "",
+          "label": "Timezone",
           "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "1484 वर्ग किमी",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "16,787,941",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "UTC+5:30",
-            "url": ""
+            "label": "UTC+5:30"
           }
         }
       ]
     },
     {
-      "title": "",
+      "title": "History",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "प्राचीन और प्रारंभिक मध्ययुगीन काल",
-          "id": 0,
+          "id": "history_phase_1_title",
           "note": "6 वीं शताब्दी ई.पू.",
           "value": {
-            "label": "कम से कम 6वीं शताब्दी ईसा पूर्व के बाद से दिल्ली में लगातार निवास का प्रमाण है। सबसे पुराने वास्तुशिल्प अवशेष मौर्य काल से मिलते हैं। दिल्ली में आठ प्रमुख शहरों के अवशेष खोजे गए हैं।",
-            "facts": []
+            "label": "कम से कम 6वीं शताब्दी ईसा पूर्व के बाद से दिल्ली में लगातार निवास का प्रमाण है। सबसे पुराने वास्तुशिल्प अवशेष मौर्य काल से मिलते हैं। दिल्ली में आठ प्रमुख शहरों के अवशेष खोजे गए हैं।"
           }
         },
         {
           "label": "मध्ययुगीन काल",
-          "id": 1,
+          "id": "history_phase_2_title",
           "note": "11वीं -14वीं शताब्दी ईस्वी",
           "value": {
-            "label": "दिल्ली सल्तनत की नींव रखी गई थी। दिल्ली इस अवधि के दौरान सूफीवाद का एक प्रमुख केंद्र था।",
-            "facts": []
+            "label": "दिल्ली सल्तनत की नींव रखी गई थी। दिल्ली इस अवधि के दौरान सूफीवाद का एक प्रमुख केंद्र था।"
           }
         },
         {
           "label": "मुग़ल काल",
-          "id": 1,
+          "id": "history_phase_3_title",
           "note": "15वीं-18वीं सदी ईस्वी",
           "value": {
-            "label": "बाबर ने भारत पर आक्रमण किया और दिल्ली और आगरा से शासन करने वाले मुगल साम्राज्य की स्थापना की।",
-            "facts": []
+            "label": "बाबर ने भारत पर आक्रमण किया और दिल्ली और आगरा से शासन करने वाले मुगल साम्राज्य की स्थापना की।"
           }
         },
         {
           "label": "उपनिवेश काल",
-          "id": 1,
+          "id": "history_phase_4_title",
           "note": "19वीं शताब्दी",
           "value": {
-            "label": "1857 के सिपाही विद्रोह के दौरान, सीज ऑफ दिल्ली के नाम से जानी जाने वाली लड़ाई के बाद दिल्ली ईस्ट इंडिया कंपनी की सेनाओं के अधीन हो गई। यह शहर 1858 में ब्रिटिश सरकार के सीधे नियंत्रण में आ गया।",
-            "facts": []
+            "label": "1857 के सिपाही विद्रोह के दौरान, सीज ऑफ दिल्ली के नाम से जानी जाने वाली लड़ाई के बाद दिल्ली ईस्ट इंडिया कंपनी की सेनाओं के अधीन हो गई। यह शहर 1858 में ब्रिटिश सरकार के सीधे नियंत्रण में आ गया।"
           }
         }
       ]
     },
     {
-      "cardType": "avatar",
-      "label": "दिल्ली भारत के भीतर एक केंद्र शासित प्रदेश है, जिसकी अपनी विधानसभा, उच्च न्यायालय और एक मुख्यमंत्री की अध्यक्षता वाली एक कार्यकारी परिषद है।",
-      "facts": [
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "",
+      "title": "Geography",
+      "id": "delhi_geography",
       "cardType": "simple",
       "facts": [
         {
-          "label": "ऑस्ट्रेलिया",
+          "label": "दिल्ली",
           "value": {
             "label": "दिल्ली भारत के उत्तरी भाग में यमुना नदी के तट पर स्थित है।",
             "image": {
               "url": "/static/images/delhi/Delhi_aerial_photo_04-2016_img11.jpg",
-              "altText": "Image of Delhi aerial photo 04 2016 img11"
+              "altText": "An image of दिल्ली"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Culture",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "आर्किटेक्चर ",
+          "id": "culture-आर्किटेक्चर_",
+          "value": {
+            "label": "भारतीय पुरातत्व सर्वेक्षण दिल्ली में 1,200 विरासत इमारतों और 175 स्मारकों को राष्ट्रीय धरोहर स्थलों के रूप में मान्यता देता है।",
+            "image": {
+              "url": "/static/images/delhi/Agrasen_ki_Baoli%2C_New_Delhi%2C_India_-_20070127.jpg",
+              "altText": "भारतीय पुरातत्व सर्वेक्षण दिल्ली में 1,200 विरासत इमारतों और 175 स्मारकों को राष्ट्रीय धरोहर स्थलों के रूप में मान्यता देता है।",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "भोजन ",
+          "id": "culture-भोजन_",
+          "value": {
+            "label": "राजधानी के रूप में दिल्ली के लंबे इतिहास ने अपने निवासियों की भोजन की आदतों को कई समूहों द्वारा प्रभावित किया है जो सदियों से शहर पर कब्जा कर रहे रखे है ।",
+            "image": {
+              "url": "/static/images/delhi/Daulat_Chaat_in_Old_Delhi.JPG",
+              "altText": "राजधानी के रूप में दिल्ली के लंबे इतिहास ने अपने निवासियों की भोजन की आदतों को कई समूहों द्वारा प्रभावित किया है जो सदियों से शहर पर कब्जा कर रहे रखे है ।"
+            }
+          }
+        },
+        {
+          "label": "नई दिल्ली विश्व पुस्तक मेला",
+          "id": "culture-नई_दिल्ली_विश्व_पुस्तक_मेला",
+          "value": {
+            "label": "प्रगति मैदान में द्विवार्षिक रूप से आयोजित नई दिल्ली विश्व पुस्तक मेला दुनिया में पुस्तकों की दूसरी सबसे बड़ी प्रदर्शनी है।",
+            "image": {
+              "url": "/static/images/delhi/Pragati_Maidan%2C_inside_hall_18_%283%29.JPG",
+              "altText": "प्रगति मैदान में द्विवार्षिक रूप से आयोजित नई दिल्ली विश्व पुस्तक मेला दुनिया में पुस्तकों की दूसरी सबसे बड़ी प्रदर्शनी है।",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "विश्व धरोहर स्थल",
+          "id": "culture-विश्व_धरोहर_स्थल",
+          "value": {
+            "label": "तीन विश्व धरोहर स्थल- लाल किला, कुतुब मीनार और हुमायूँ का मकबरा- दिल्ली में स्थित हैं।",
+            "image": {
+              "url": "/static/images/delhi/Humayun%E2%80%99s_Tomb%2C_Delhi%2C_India.jpg",
+              "altText": "तीन विश्व धरोहर स्थल- लाल किला, कुतुब मीनार और हुमायूँ का मकबरा- दिल्ली में स्थित हैं।",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_delhi",
+          "label": "Languages",
+          "value": {
+            "label": "हिंदी, उर्दू, पंजाबी, अंग्रेजी"
+          }
+        },
+        {
+          "id": "religion_section_delhi",
+          "label": "Religions",
+          "value": {
+            "facts": [
+              {
+                "id": "religion_0",
+                "label": "हिन्दू धर्म",
+                "value": 81.68
+              },
+              {
+                "id": "religion_1",
+                "label": "इस्लाम",
+                "value": 12.86
+              },
+              {
+                "id": "religion_2",
+                "label": "सिख धर्म",
+                "value": 3.4
+              },
+              {
+                "id": "religion_3",
+                "label": "जैन धर्म",
+                "value": 0.99
+              },
+              {
+                "id": "religion_4",
+                "label": "ईसाई धर्म",
+                "value": 0.87
+              },
+              {
+                "id": "religion_5",
+                "label": "बौद्ध धर्म",
+                "value": 0.11
+              },
+              {
+                "id": "religion_6",
+                "label": "अन्य या नहीं बताया गया",
+                "value": 0.09
+              }
+            ]
           }
         }
       ]

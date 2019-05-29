@@ -1,183 +1,201 @@
 {
-  "id": "G1",
   "title": "बैंगलोर",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Bangalore",
   "summary": "बैंगलोर, जिसे आधिकारिक तौर पर बेंगलुरु के रूप में जाना जाता है, भारतीय राज्य कर्नाटक की राजधानी है। इसकी आबादी दस मिलियन से अधिक है, जो इसे एक मेगासिटी बनाता है और भारत में तीसरा सबसे अधिक आबादी वाला शहर और पांचवां सबसे अधिक आबादी वाला शहरी समूह है।",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bangalore",
   "coverImage": {
     "url": "/static/images/bangalore/Glasshouse_and_fountain_at_lalbagh.jpg",
-    "altText": "Image of Glasshouse and fountain at lalbagh"
+    "altText": "Image of बैंगलोर"
   },
   "translations": [
     {
-      "title": "Australia",
-      "url": "/read/en/bangalore",
-      "lang": "en"
+      "lang": "en",
+      "title": "Bangalore",
+      "url": "/read/en/bangalore"
     },
     {
-      "url": "/read/ta/bangalore",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "பெங்களூரு",
+      "url": "/read/ta/bangalore"
     }
   ],
   "sections": [
     {
-      "title": "",
+      "title": "About",
       "cardType": "table",
       "facts": [
         {
-          "label": "",
+          "label": "Total Area of country (km squared)",
           "value": {
-            "label": "",
-            "url": ""
+            "label": "8005 वर्ग किमी"
           }
         },
         {
-          "label": "",
+          "label": "Population",
           "value": {
-            "label": "",
-            "url": ""
+            "label": "10,456,000"
           }
         },
         {
-          "label": "",
+          "label": "Other names",
           "value": {
-            "label": "",
-            "url": ""
+            "label": "बेंगलुरु, भारत की सिलिकॉन वैली, गार्डन सिटी"
           }
         },
         {
-          "label": "",
+          "label": "Timezone",
           "value": {
-            "label": "8005 वर्ग किमी",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "10,456,000",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "बेंगलुरु, भारत की सिलिकॉन वैली, गार्डन सिटी",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "UTC+05:30",
-            "url": ""
+            "label": "UTC+05:30"
           }
         }
       ]
     },
     {
-      "title": "",
+      "title": "History",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "प्रारंभिक और मध्यकालीन इतिहास",
-          "id": 0,
+          "id": "history_phase_1_title",
           "note": "4000 ई.पू.",
           "value": {
-            "label": "2001 में भारत के जनहल्ली, सिढ़पुरा और जडीगेंहल्ली, जो आज बैंगलोर के बाहरी इलाके में स्थित हैं,में जनगणना के दौरान पाषाण युग की कलाकृतियों की खोज 4000 ईसा पूर्व के आसपास संभावित मानव बसाव की ओर इंगित करती है।",
-            "facts": []
+            "label": "2001 में भारत के जनहल्ली, सिढ़पुरा और जडीगेंहल्ली, जो आज बैंगलोर के बाहरी इलाके में स्थित हैं,में जनगणना के दौरान पाषाण युग की कलाकृतियों की खोज 4000 ईसा पूर्व के आसपास संभावित मानव बसाव की ओर इंगित करती है।"
           }
         },
         {
           "label": "फाउंडेशन और शुरुआती आधुनिक इतिहास",
-          "id": 1,
+          "id": "history_phase_2_title",
           "note": "1537",
           "value": {
-            "label": "आधुनिक बैंगलोर को 1537 में विजयनगर साम्राज्य के एक जागीरदार केम्पे गौड़ा प्रथम ने शुरू किया था, जिसने लोगों के लिए एक मिट्टी की ईंट का किला बनाया जो आधुनिक बैंगलोर का मध्य भाग बन गया।",
-            "facts": []
+            "label": "आधुनिक बैंगलोर को 1537 में विजयनगर साम्राज्य के एक जागीरदार केम्पे गौड़ा प्रथम ने शुरू किया था, जिसने लोगों के लिए एक मिट्टी की ईंट का किला बनाया जो आधुनिक बैंगलोर का मध्य भाग बन गया।"
           }
         },
         {
           "label": "परवर्ती आधुनिक और समकालीन इतिहास",
-          "id": 1,
+          "id": "history_phase_3_title",
           "note": "19वीं सदी",
           "value": {
-            "label": "बैंगलोर मूल रूप से \"पीट\" के साथ एक जुड़वां शहर बन गया, जिसके निवासी मुख्य रूप से कन्नादिगा और अंग्रेजों द्वारा बनाई गई छावनी थी।",
-            "facts": []
+            "label": "बैंगलोर मूल रूप से \"पीट\" के साथ एक जुड़वां शहर बन गया, जिसके निवासी मुख्य रूप से कन्नादिगा और अंग्रेजों द्वारा बनाई गई छावनी थी।"
           }
         },
         {
           "label": "महात्मा गांधी का दौरा",
-          "id": 1,
+          "id": "history_phase_4_title",
           "note": "1927",
           "value": {
-            "label": "भारतीय स्वतंत्रता आंदोलन के दौरान बैंगलोर ने एक महत्वपूर्ण भूमिका निभाई। महात्मा गांधी ने 1927 और 1934 में शहर का दौरा किया और यहां जनसभाओं को संबोधित किया।",
-            "facts": []
+            "label": "भारतीय स्वतंत्रता आंदोलन के दौरान बैंगलोर ने एक महत्वपूर्ण भूमिका निभाई। महात्मा गांधी ने 1927 और 1934 में शहर का दौरा किया और यहां जनसभाओं को संबोधित किया।"
           }
         }
       ]
     },
     {
-      "cardType": "avatar",
-      "label": "ब्रुहट बेंगलुरु महानगर पालिक (बीबीएमपी, ग्रेटर बैंगलोर नगर निगम) शहर के नागरिक प्रशासन के प्रभारी हैं।",
-      "facts": [
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "",
+      "title": "Geography",
+      "id": "bangalore_geography",
       "cardType": "simple",
       "facts": [
         {
-          "label": "ऑस्ट्रेलिया",
+          "label": "बैंगलोर",
           "value": {
             "label": "बैंगलोर की टोपोलॉजी आमतौर पर सपाट है, हालांकि शहर के पश्चिमी हिस्से पहाड़ी हैं। उच्चतम बिंदु विद्यारण्यपुरा डोड्डबेट्टाहल्ली है, जो 962 मीटर (3,156 फीट) है और शहर के उत्तर-पश्चिम में स्थित है।",
             "image": {
-              "url": "/static/images/bangalore/null",
-              "altText": "Image of null"
+              "altText": "An image of बैंगलोर",
+              "license": ""
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Culture",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "भारत का गार्डन सिटी",
+          "id": "culture-भारत_का_गार्डन_सिटी",
+          "value": {
+            "label": "अपनी हरियाली, चौड़ी सड़कें और कई सार्वजनिक पार्कों की मौजूदगी के कारण बैंगलोर को \"भारत का गार्डन सिटी\" के नाम से जाना जाता है।",
+            "image": {
+              "url": "/static/images/bangalore/Glasshouse_and_fountain_at_lalbagh.jpg",
+              "altText": "अपनी हरियाली, चौड़ी सड़कें और कई सार्वजनिक पार्कों की मौजूदगी के कारण बैंगलोर को \"भारत का गार्डन सिटी\" के नाम से जाना जाता है।"
+            }
+          }
+        },
+        {
+          "label": "कला और साहित्य ",
+          "id": "culture-कला_और_साहित्य_",
+          "value": {
+            "label": "केम्पे गौड़ा के द्वारा शहर की नींव रखने से पहले ही कन्नड़ साहित्य बैंगलोर में पनपता दिखाई देता है।",
+            "image": {
+              "url": "/static/images/bangalore/Halmidi_OldKannada_inscription.JPG",
+              "altText": "केम्पे गौड़ा के द्वारा शहर की नींव रखने से पहले ही कन्नड़ साहित्य बैंगलोर में पनपता दिखाई देता है।"
+            }
+          }
+        },
+        {
+          "label": "यक्षगान",
+          "id": "culture-यक्षगान",
+          "value": {
+            "label": "तटीय कर्नाटक की एक थिएटर कला अक्सर टाउन हॉल में प्रदर्शित की जाती है।",
+            "image": {
+              "url": "/static/images/bangalore/Demon_Yakshagana.jpg",
+              "altText": "तटीय कर्नाटक की एक थिएटर कला अक्सर टाउन हॉल में प्रदर्शित की जाती है।"
+            }
+          }
+        },
+        {
+          "label": "बैंगलोर कारगा  ",
+          "id": "culture-बैंगलोर_कारगा_",
+          "value": {
+            "label": "बैंगलोर करगा, हिंदू देवी द्रौपदी को समर्पित बैंगलोर के सबसे महत्वपूर्ण और सबसे पुराना त्योहार है",
+            "image": {
+              "url": "/static/images/bangalore/Huvina_Karaga.jpg",
+              "altText": "बैंगलोर करगा, हिंदू देवी द्रौपदी को समर्पित बैंगलोर के सबसे महत्वपूर्ण और सबसे पुराना त्योहार है"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_bangalore",
+          "label": "Languages",
+          "value": {
+            "label": "जनगणना 2011 के अनुसार, कन्नड़ 46%, तमिल 13.99%, तेलुगु 13.89%, उर्दू 12%, हिंदी 5.4%, मलयालम 2.8%, मराठी 1.8%"
+          }
+        },
+        {
+          "id": "religion_section_bangalore",
+          "label": "Religions",
+          "value": {
+            "facts": [
+              {
+                "id": "religion_0",
+                "label": "हिंदू धर्म",
+                "value": 78.87
+              },
+              {
+                "id": "religion_1",
+                "label": "इस्लाम",
+                "value": 13.9
+              },
+              {
+                "id": "religion_2",
+                "label": "ईसाई धर्म",
+                "value": 5.61
+              },
+              {
+                "id": "religion_3",
+                "label": "जैन धर्म",
+                "value": 0.97
+              },
+              {
+                "id": "religion_4",
+                "label": "अन्य",
+                "value": 0.65
+              }
+            ]
           }
         }
       ]

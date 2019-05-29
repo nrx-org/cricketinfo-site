@@ -1,22 +1,21 @@
 {
-  "id": "O41",
   "title": "राशिद खान",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Rashid_Khan_(cricketer)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rashid_Khan_(cricketer)",
   "coverImage": {
-    "url": "/static/images/rashid_khan/null",
-    "altText": "Image of null"
+    "url": "-",
+    "altText": "Image of राशिद खान"
   },
   "summary": "राशिद खान अरमान, जो राशिद खान के नाम से जाने जाते हैं, एक अफगानी क्रिकेटर हैं और वर्तमान में अन्‍तर्राष्ट्रीय ट्वेंटी20 (टी20आई) की राष्‍ट्रीय टीम के कप्तान हैं।",
   "translations": [
     {
-      "url": "/read/en/rashid_khan",
-      "title": "Mushfiqur Rahim",
-      "lang": "en"
+      "lang": "en",
+      "title": "Rashid Khan",
+      "url": "/read/en/rashid_khan"
     },
     {
-      "url": "/read/ta/rashid_khan",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "ரஷீத் கான்",
+      "url": "/read/ta/rashid_khan"
     }
   ],
   "sections": [
@@ -27,72 +26,52 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "राशिद खान ",
-            "url": ""
+            "label": "राशिद खान "
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "20 September 1998",
-            "url": ""
+            "label": "Invalid Date (age 20)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "नांगरहार, अफगानिस्तान",
-            "url": "SF94"
+            "url": "https://en.wikipedia.org/wiki/Nangarhar_Province",
+            "contentUrl": "/static/content/hi/bogra.json"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "",
-            "url": ""
+            "label": ""
           }
-        },
-        {
-          "label": "Other Names",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Age",
-          "value": "20"
         },
         {
           "label": "Nationality",
           "value": {
-            "label": "अफ़ग़ानी",
-            "url": ""
+            "label": "अफ़ग़ानी"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "राइट-आर्म लेग ब्रेक ",
-            "url": ""
+            "label": "राइट-आर्म लेग ब्रेक "
           }
         }
       ]
     },
     {
-      "title": "Family",
-      "cardType": "avatar",
-      "label": "",
+      "title": "Style of play",
+      "id": "a52Px-MoF1eE",
+      "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": "राशिद अपने भाइयों के साथ क्रिकेट खेलते बड़े हुए और पाकिस्तानी ऑलराउंडर शाहिद अफरीदी, जिनसे उन्होंने अपने गेंदबाजी एक्शन को दिशा दिया और वे उन्‍हें अपने आदर्श के रूप में प्रस्‍तुत करते हैं। "
           }
         }
       ]
@@ -103,323 +82,34 @@
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": 0,
+          "id": "gmG1mfUBh9fx",
           "note": "",
           "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
+            "label": ""
           }
         },
         {
           "label": "राष्ट्रीय टीम ",
-          "id": 3,
+          "id": "nr1vsHx-vx4q",
           "note": "",
           "value": {
-            "label": "उन्होंने अफगानिस्तान की ओर से जिम्बाबे के विरुद्ध 18 अक्तूबर, 2015 को वनडे इंटरनेशनल (ओडीआई) में पदार्पण किया। ",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
+            "label": "उन्होंने अफगानिस्तान की ओर से जिम्बाबे के विरुद्ध 18 अक्तूबर, 2015 को वनडे इंटरनेशनल (ओडीआई) में पदार्पण किया। "
           }
         },
         {
           "label": "विश्व कप ",
-          "id": 1,
+          "id": "xGpXwifpgHJf",
           "note": "",
           "value": {
-            "label": "अप्रैल 2019 में 2019 क्रिकेट विश्व कप के लिए अफगानिस्तान की टीम में उन्हें शामिल किया गया। ",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
+            "label": "अप्रैल 2019 में 2019 क्रिकेट विश्व कप के लिए अफगानिस्तान की टीम में उन्हें शामिल किया गया। "
           }
         },
         {
           "label": "IPL डेब्यू",
-          "id": 1,
+          "id": "yNn3Sn6jbERs",
           "note": "2017",
           "value": {
-            "label": "फरवरी 2017 में उन्हें सनराइजर्स हैदराबाद ने 2017 के इंडियन प्रीमियर लीग (आईपीएल) के लिए 4 करोड़ में खरीदा था। वे पहले ऐसे दो अफगानी खिलाड़ी हैं जिनका चयन आईपीएल में किया गया।  ",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "राशिद अपने भाइयों के साथ क्रिकेट खेलते बड़े हुए और पाकिस्तानी ऑलराउंडर शाहिद अफरीदी, जिनसे उन्होंने अपने गेंदबाजी एक्शन को दिशा दिया और वे उन्‍हें अपने आदर्श के रूप में प्रस्‍तुत करते हैं। ",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2015-अब तक ",
-          "value": {
-            "facts": [
-              {
-                "label": "अफगानिस्‍तान राष्ट्रीय क्रिकेट टीम",
-                "url": "R17",
-                "value": {
-                  "label": "अफगानिस्तान की राष्ट्रीय क्रिकेट टीम पूर्ण सदस्य राष्ट्र के रूप में खेलने वाली 12वीं टेस्ट क्रिकेट टीम है। ",
-                  "image": {
-                    "url": "/static/images/rashid_khan/Afghanistan_cricket_board_logo.jpg",
-                    "altText": "Image of Afghanistan cricket board logo"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2017- अब तक ",
-          "value": {
-            "facts": [
-              {
-                "label": "सनराइजर्स हैदराबाद",
-                "url": "R12",
-                "value": {
-                  "label": "सनराइजर्स हैदराबाद (प्राय: संक्षिप्त रूप एसआरएच) हैदराबाद, तेलंगाना की एक फ्रैंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में खेलती है।",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "facts": [
-              {
-                "label": "",
-                "url": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "एसोसिएट क्रिकेटर ऑफ द ईयर ",
-          "tag": "2018",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    null,
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "जून 2017 में, इन्होंने वंडे इंटरनेशनल मैच में किसी असोसिएट नेशन के लिए सर्वश्रेष्ठ गेंदबाजी आंकड़े प्राप्त किये।",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "फरवरी 2018 में, ये वंडे मैचों की आईसीसी प्लेयर रैंकिंग में शीर्ष पर पहुँचने वाले सबसे युवा गेंदबाज बने",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "सितंबर 2018 में, वह 2018 एशिया कप में अपने प्रदर्शन के बाद आईसीसी की ऑल-राउंडर रैंकिंग में नंबर एक खिलाड़ी बने।",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": "फरवरी 2017 में उन्हें सनराइजर्स हैदराबाद ने 2017 के इंडियन प्रीमियर लीग (आईपीएल) के लिए 4 करोड़ में खरीदा था। वे पहले ऐसे दो अफगानी खिलाड़ी हैं जिनका चयन आईपीएल में किया गया।  "
           }
         }
       ]

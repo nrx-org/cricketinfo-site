@@ -1,22 +1,21 @@
 {
-  "id": "O41",
   "title": "Rashid Khan",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Rashid_Khan_(cricketer)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rashid_Khan_(cricketer)",
   "coverImage": {
-    "url": "/static/images/rashid_khan/null",
-    "altText": "Image of null"
+    "url": "-",
+    "altText": "Image of Rashid Khan"
   },
   "summary": "Rashid Khan Arman, commonly known as Rashid Khan, is an Afghan cricketer and the current Twenty20 International (T20I) captain of the national team.",
   "translations": [
     {
-      "url": "/read/hi/rashid_khan",
-      "title": "मुशफिकुर रहीम ",
-      "lang": "hi"
+      "lang": "hi",
+      "title": "राशिद खान",
+      "url": "/read/hi/rashid_khan"
     },
     {
-      "url": "/read/ta/rashid_khan",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "ரஷீத் கான்",
+      "url": "/read/ta/rashid_khan"
     }
   ],
   "sections": [
@@ -27,72 +26,52 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "Rashid Khan Arman",
-            "url": ""
+            "label": "Rashid Khan Arman"
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "20 September 1998",
-            "url": ""
+            "label": "Invalid Date (age 20)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "Nangarhar, Afghanistan",
-            "url": "SF94"
+            "url": "https://en.wikipedia.org/wiki/Nangarhar_Province",
+            "contentUrl": "/static/content/en/bogra.json"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "",
-            "url": ""
+            "label": ""
           }
-        },
-        {
-          "label": "Other Names",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Age",
-          "value": "20"
         },
         {
           "label": "Nationality",
           "value": {
-            "label": "Afghan",
-            "url": ""
+            "label": "Afghan"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "Right-arm leg break",
-            "url": ""
+            "label": "Right-arm leg break"
           }
         }
       ]
     },
     {
-      "title": "Family",
-      "cardType": "avatar",
-      "label": "",
+      "title": "Style of play",
+      "id": "5WwXuIeChYg",
+      "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": "Rashid grew up playing cricket with his brothers and idolised Pakistani all-rounder Shahid Afridi, from whom he stylised his bowling action."
           }
         }
       ]
@@ -103,323 +82,49 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": 0,
+          "id": "e_nL8kv6HoO",
           "note": "",
           "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
+            "label": ""
           }
         },
         {
           "label": "National team debut ",
-          "id": 3,
+          "id": "Z71Zbz6-0QE",
           "note": "",
           "value": {
-            "label": "He made his One Day International (ODI) debut for Afghanistan against Zimbabwe on 18 October 2015.",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
+            "label": "He made his One Day International (ODI) debut for Afghanistan against Zimbabwe on 18 October 2015."
           }
         },
         {
           "label": "ICC Tournament Debut",
-          "id": 1,
+          "id": "NsezJDE04KN",
           "note": "",
           "value": {
-            "label": "In April 2019, he was named in Afghanistan's squad for the 2019 Cricket World Cup.",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
+            "label": "In April 2019, he was named in Afghanistan's squad for the 2019 Cricket World Cup."
           }
         },
         {
           "label": "IPL Debut",
-          "id": 1,
+          "id": "yUheMNXX3rE",
           "note": "2017",
           "value": {
             "label": "In February 2017, he was bought by Sunrisers Hyderabad for the 2017 Indian Premier League (IPL) for 4 crores.He was also amongst the two first ever Afghan players to be selected for the IPL.",
             "facts": [
               {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "Rashid grew up playing cricket with his brothers and idolised Pakistani all-rounder Shahid Afridi, from whom he stylised his bowling action.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2015-present",
-          "value": {
-            "facts": [
-              {
-                "label": "Afganistan National Cricket team",
-                "url": "R17",
-                "value": {
-                  "label": "The Afghanistan national cricket team  is the 12th Test cricket playing Full Member nation",
-                  "image": {
-                    "url": "/static/images/rashid_khan/Afghanistan_cricket_board_logo.jpg",
-                    "altText": "Image of Afghanistan cricket board logo"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2017- present",
-          "value": {
-            "facts": [
-              {
+                "url": "/read/en/sunrisers_hyderabad",
+                "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
                 "label": "Sunrisers Hyderabad",
-                "url": "R12",
+                "id": "oJS3NiYyJJt",
                 "value": {
-                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL).",
+                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
                   "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
+                    "url": "https://upload.wikimedia.org/wikipedia/en/8/81/Sunrisers_Hyderabad.svg",
+                    "altText": "Image of Sunrisers Hyderabad"
                   }
                 }
               }
             ]
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "facts": [
-              {
-                "label": "",
-                "url": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "Associate Cricketer of the Year",
-          "tag": "2018",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    null,
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "In June 2017, he took the best bowling figures for an associate nation in a One Day International (ODI) match.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "In February 2018, he became the youngest player to top the ICC Player Rankings for bowlers in ODIs",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "In September 2018, he became the number one player in the ICC's all-rounder rankings, following his performance at the 2018 Asia Cup.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
           }
         }
       ]

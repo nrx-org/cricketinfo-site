@@ -1,22 +1,21 @@
 {
-  "id": "O42",
   "title": "मुशफिकुर रहीम ",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Mushfiqur_Rahim",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mushfiqur_Rahim",
   "coverImage": {
-    "url": "/static/images/mushfiqur_rahim/Mushfiqur_Rahim_batting_against_England_at_Lords_in_2010,_cropped.jpg",
-    "altText": "Image of Mushfiqur Rahim batting against England at Lords in 2010, cropped"
+    "url": "https://en.wikipedia.org/wiki/Mushfiqur_Rahim#/media/File:Mushfiqur_Rahim_batting_against_England_at_Lords_in_2010,_cropped.jpg",
+    "altText": "Image of मुशफिकुर रहीम "
   },
   "summary": "मोहम्मद मुशफिकुर रहीम बांग्लादेशी क्रिकेटर हैं और बांग्लादेश की राष्ट्रीय क्रिकेट टीम के पूर्व कप्तान हैं।",
   "translations": [
     {
-      "url": "/read/en/mushfiqur_rahim",
+      "lang": "en",
       "title": "Mushfiqur Rahim",
-      "lang": "en"
+      "url": "/read/en/mushfiqur_rahim"
     },
     {
-      "url": "/read/ta/mushfiqur_rahim",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "முஷ்ஃபிகுர் ரஹீம்",
+      "url": "/read/ta/mushfiqur_rahim"
     }
   ],
   "sections": [
@@ -27,71 +26,71 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "मोहमद मुसाफिकुर रहीम ",
-            "url": ""
+            "label": "मोहमद मुसाफिकुर रहीम "
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "9 June 1987 ",
-            "url": ""
+            "label": "Invalid Date (age 31)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "बोगरा, बांग्लादेश",
-            "url": "SF92"
+            "url": "https://en.wikipedia.org/wiki/Bogra",
+            "contentUrl": "/static/content/hi/rishab_pant.json"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "5 फीट 4 इंच",
-            "url": ""
+            "label": "5 फीट 4 इंच"
           }
-        },
-        {
-          "label": "Other Names",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Age",
-          "value": "31"
         },
         {
           "label": "Nationality",
           "value": {
-            "label": "बांग्लादेशी",
-            "url": ""
+            "label": "बांग्लादेशी"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "विकेट कीपर बल्लेबाज",
-            "url": ""
+            "label": "विकेट कीपर बल्लेबाज"
           }
         }
       ]
     },
     {
-      "title": "Family",
+      "title": "Alma mater",
       "cardType": "avatar",
-      "label": "",
+      "facts": [
+        {
+          "label": "जहांगीरनगर_यूनिवर्सिटी ",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of जहांगीरनगर_यूनिवर्सिटी "
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "pOtPOHbfMOXp",
+      "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
             "label": "",
-            "url": "",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": "https://en.wikipedia.org/wiki/Mushfiqur_Rahim#/media/File:Mushfiqur_Rahim_batting_against_England_at_Lords_in_2010,_cropped.jpg",
+              "altText": "Style of play for मुशफिकुर रहीम "
             }
           }
         }
@@ -103,58 +102,37 @@
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": 0,
+          "id": "Ix8dIUlf20wT",
           "note": "",
           "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
+            "label": ""
           }
         },
         {
           "label": "राष्ट्रीय टीम ",
-          "id": 3,
+          "id": "QhRkY6evSYhb",
           "note": "",
           "value": {
-            "label": "रहीम का चयन बांग्लादेश के इंग्लैंड दौरे के लिए 2005 में चयन किया गया। यह बांग्लादेश का प्रथम इंग्लैंड दौरा था। ",
-            "facts": [
-              {
-                "label": "R4",
-                "value": {
-                  "label": "R4",
-                  "image": {
-                    "url": "R4",
-                    "altText": "R4"
-                  }
-                }
-              }
-            ]
+            "label": "रहीम का चयन बांग्लादेश के इंग्लैंड दौरे के लिए 2005 में चयन किया गया। यह बांग्लादेश का प्रथम इंग्लैंड दौरा था। "
           }
         },
         {
           "label": "विश्व कप ",
-          "id": 1,
+          "id": "Et1MO0DTEzug",
           "note": "2007",
           "value": {
             "label": "उसका अच्छा प्रदर्शन ने उन्हें वेस्ट इंडीज में हुए विश्व कप के लिए खालीद मसूद के ऊपर तरजीह देकर पहली पसंद बनाया। ",
             "facts": [
               {
-                "label": "R4",
+                "url": "/read/hi/2007_cricket_world_cup",
+                "contentUrl": "/static/content/hi/2007_cricket_world_cup.json",
+                "label": "2007 क्रिकेट विश्व कप",
+                "id": "gNXbt2ZnTCXY",
                 "value": {
-                  "label": "R4",
+                  "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
                   "image": {
-                    "url": "R4",
-                    "altText": "R4"
+                    "url": "https://en.wikipedia.org/wiki/2007_Cricket_World_Cup#/media/File:2007_Cricket_World_Cup_logo.svg",
+                    "altText": "Image of 2007 क्रिकेट विश्व कप"
                   }
                 }
               }
@@ -163,18 +141,21 @@
         },
         {
           "label": "2011 विश्व कप\n",
-          "id": 1,
+          "id": "2UUpvCPDCR2p",
           "note": "2011",
           "value": {
             "label": "रहीम को 2011 के विश्व कप के लिए  बांग्लादेश के 15 सदस्यीय टीम में शामिल किया गया। बांग्लादेश ग्रुप चरण में ही टूर्नामेेट से बाहर हो गया और व्यक्तिगत तौर पर रहीम का प्रदर्शन भी फीका रहा। ",
             "facts": [
               {
-                "label": "R4",
+                "url": "/read/hi/2011_cricket_world_cup",
+                "contentUrl": "/static/content/hi/2011_cricket_world_cup.json",
+                "label": "2011 क्रिकेट विश्व कप",
+                "id": "eJoRp5TBrMuE",
                 "value": {
-                  "label": "R4",
+                  "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
                   "image": {
-                    "url": "R4",
-                    "altText": "R4"
+                    "url": "https://en.wikipedia.org/wiki/2011_Cricket_World_Cup#/media/File:2011_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2011 क्रिकेट विश्व कप"
                   }
                 }
               }
@@ -183,259 +164,18 @@
         },
         {
           "label": "विश्व कप ",
-          "id": 1,
+          "id": "9n_C8QSSQ8Co",
+          "note": "2019",
           "value": {
-            "label": "अप्रैल 2019 में उसका नाम 2019 के विश्व कप के लिए चुनी गई बांग्लादेश की टीम में शामिल किया गया है। ",
-            "facts": [
-              {
-                "label": "R4",
-                "value": {
-                  "label": "R4",
-                  "image": {
-                    "url": "R4",
-                    "altText": "R4"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R4",
-                "value": {
-                  "label": "R4",
-                  "image": {
-                    "url": "R4",
-                    "altText": "R4"
-                  }
-                }
-              }
-            ]
+            "label": "अप्रैल 2019 में उसका नाम 2019 के विश्व कप के लिए चुनी गई बांग्लादेश की टीम में शामिल किया गया है। "
           }
         },
         {
           "label": "IPL डेब्यू",
-          "id": 1,
+          "id": "GBJBK8u7-EnU",
           "note": "",
           "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R4",
-                "value": {
-                  "label": "R4",
-                  "image": {
-                    "url": "R4",
-                    "altText": "R4"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/mushfiqur_rahim/Mushfiqur_Rahim_batting_against_England_at_Lords_in_2010,_cropped.jpg",
-              "altText": "Image of Mushfiqur Rahim batting against England at Lords in 2010, cropped"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2004- अब तक ",
-          "value": {
-            "facts": [
-              {
-                "label": "बांग्लादेश क्रिकेट टीम",
-                "url": "R18",
-                "value": {
-                  "label": "बांग्लादेश की राष्ट्रीय क्रिकेट टीम  \"द टाइगर्स\" के नाम से लो‍कप्रिय है, बांग्लादेश क्रिकेट बोर्ड (बीसीबी) द्वारा शासित है।",
-                  "image": {
-                    "url": "/static/images/mushfiqur_rahim/Bangladesh_Cricket_Board_Logo.svg",
-                    "altText": "Image of Bangladesh Cricket Board Logo"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "facts": [
-              {
-                "label": "",
-                "url": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "facts": [
-              {
-                "label": "",
-                "url": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "जहांगीरनगर_यूनिवर्सिटी ",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": ""
           }
         }
       ]

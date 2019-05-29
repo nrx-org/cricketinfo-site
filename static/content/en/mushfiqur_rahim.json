@@ -1,22 +1,21 @@
 {
-  "id": "O42",
   "title": "Mushfiqur Rahim",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Mushfiqur_Rahim",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mushfiqur_Rahim",
   "coverImage": {
-    "url": "/static/images/mushfiqur_rahim/Mushfiqur_Rahim_batting_against_England_at_Lords_in_2010,_cropped.jpg",
-    "altText": "Image of Mushfiqur Rahim batting against England at Lords in 2010, cropped"
+    "url": "https://en.wikipedia.org/wiki/Mushfiqur_Rahim#/media/File:Mushfiqur_Rahim_batting_against_England_at_Lords_in_2010,_cropped.jpg",
+    "altText": "Image of Mushfiqur Rahim"
   },
   "summary": "Mohammad Mushfiqur Rahim is a Bangladeshi cricketer and the former captain of the Bangladesh national cricket team. ",
   "translations": [
     {
-      "url": "/read/hi/mushfiqur_rahim",
+      "lang": "hi",
       "title": "मुशफिकुर रहीम ",
-      "lang": "hi"
+      "url": "/read/hi/mushfiqur_rahim"
     },
     {
-      "url": "/read/ta/mushfiqur_rahim",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "முஷ்ஃபிகுர் ரஹீம்",
+      "url": "/read/ta/mushfiqur_rahim"
     }
   ],
   "sections": [
@@ -27,71 +26,71 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "Mohammad Mushfiqur Rahim",
-            "url": ""
+            "label": "Mohammad Mushfiqur Rahim"
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "9 June 1987 ",
-            "url": ""
+            "label": "Invalid Date (age 31)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "Bogra, Bangladesh",
-            "url": "SF92"
+            "url": "https://en.wikipedia.org/wiki/Bogra",
+            "contentUrl": "/static/content/en/rishab_pant.json"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "5ft 4in",
-            "url": ""
+            "label": "5ft 4in"
           }
-        },
-        {
-          "label": "Other Names",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Age",
-          "value": "31"
         },
         {
           "label": "Nationality",
           "value": {
-            "label": "Bangladeshi",
-            "url": ""
+            "label": "Bangladeshi"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "Wicket keeper batsman",
-            "url": ""
+            "label": "Wicket keeper batsman"
           }
         }
       ]
     },
     {
-      "title": "Family",
+      "title": "Alma mater",
       "cardType": "avatar",
-      "label": "",
+      "facts": [
+        {
+          "label": "Jahangirnagar_University",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of Jahangirnagar_University"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "WGuqIEsSAMR",
+      "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
             "label": "",
-            "url": "",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": "https://en.wikipedia.org/wiki/Mushfiqur_Rahim#/media/File:Mushfiqur_Rahim_batting_against_England_at_Lords_in_2010,_cropped.jpg",
+              "altText": "Style of play for Mushfiqur Rahim"
             }
           }
         }
@@ -103,38 +102,29 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": 0,
+          "id": "kK22OI_4S9q",
           "note": "",
           "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
+            "label": ""
           }
         },
         {
           "label": "National team debut ",
-          "id": 3,
+          "id": "719FFlJMHP7",
           "note": "",
           "value": {
             "label": "Rahim was selected for Bangladesh's tour of England in 2005. It was Bangladesh's first tour of England.",
             "facts": [
               {
-                "label": "R4",
+                "url": "/read/en/england_cricket_team",
+                "contentUrl": "/static/content/en/england_cricket_team.json",
+                "label": "England cricket team",
+                "id": "1EMZTgfxNl2",
                 "value": {
-                  "label": "R4",
+                  "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
                   "image": {
-                    "url": "R4",
-                    "altText": "R4"
+                    "url": "https://en.wikipedia.org/wiki/England_cricket_team#/media/File:England_cricket_team_logo.svg",
+                    "altText": "Image of England cricket team"
                   }
                 }
               }
@@ -143,18 +133,21 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": 1,
+          "id": "xcnV4PqKeIE",
           "note": "2007",
           "value": {
             "label": "His good performances led him to picked as the first-choice wicket-keeper ahead of Khaled Mashud for the World Cup in the West Indies.",
             "facts": [
               {
-                "label": "R4",
+                "url": "/read/en/2007_cricket_world_cup",
+                "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
+                "label": "2007 Cricket World Cup",
+                "id": "2BBlqbdUhtb",
                 "value": {
-                  "label": "R4",
+                  "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
                   "image": {
-                    "url": "R4",
-                    "altText": "R4"
+                    "url": "https://en.wikipedia.org/wiki/2007_Cricket_World_Cup#/media/File:2007_Cricket_World_Cup_logo.svg",
+                    "altText": "Image of 2007 Cricket World Cup"
                   }
                 }
               }
@@ -163,18 +156,21 @@
         },
         {
           "label": "2011 World Cup",
-          "id": 1,
+          "id": "7udruwy2TFj",
           "note": "2011",
           "value": {
             "label": "Rahim was included in Bangladesh's 15-man squad for the 2011 World Cup. Bangladesh were knocked out in the group stage and Rahim had a poor tournament personally.",
             "facts": [
               {
-                "label": "R4",
+                "url": "/read/en/2011_cricket_world_cup",
+                "contentUrl": "/static/content/en/2011_cricket_world_cup.json",
+                "label": "2011 Cricket World Cup",
+                "id": "--ixJAmGJJI",
                 "value": {
-                  "label": "R4",
+                  "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
                   "image": {
-                    "url": "R4",
-                    "altText": "R4"
+                    "url": "https://en.wikipedia.org/wiki/2011_Cricket_World_Cup#/media/File:2011_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2011 Cricket World Cup"
                   }
                 }
               }
@@ -183,259 +179,18 @@
         },
         {
           "label": "2019 World Cup",
-          "id": 1,
+          "id": "lnakXq0XoaH",
+          "note": "2019",
           "value": {
-            "label": "In April 2019, he was named in Bangladesh's squad for the 2019 Cricket World Cup.",
-            "facts": [
-              {
-                "label": "R4",
-                "value": {
-                  "label": "R4",
-                  "image": {
-                    "url": "R4",
-                    "altText": "R4"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R4",
-                "value": {
-                  "label": "R4",
-                  "image": {
-                    "url": "R4",
-                    "altText": "R4"
-                  }
-                }
-              }
-            ]
+            "label": "In April 2019, he was named in Bangladesh's squad for the 2019 Cricket World Cup."
           }
         },
         {
           "label": "IPL Debut",
-          "id": 1,
+          "id": "n1jtJH1nRst",
           "note": "",
           "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R4",
-                "value": {
-                  "label": "R4",
-                  "image": {
-                    "url": "R4",
-                    "altText": "R4"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/mushfiqur_rahim/Mushfiqur_Rahim_batting_against_England_at_Lords_in_2010,_cropped.jpg",
-              "altText": "Image of Mushfiqur Rahim batting against England at Lords in 2010, cropped"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2004- present",
-          "value": {
-            "facts": [
-              {
-                "label": "Bangladesh Cricket team",
-                "url": "R18",
-                "value": {
-                  "label": "The Bangladesh national cricket team popularly known as \"The Tigers\", is administered by the Bangladesh Cricket Board (BCB).",
-                  "image": {
-                    "url": "/static/images/mushfiqur_rahim/Bangladesh_Cricket_Board_Logo.svg",
-                    "altText": "Image of Bangladesh Cricket Board Logo"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "facts": [
-              {
-                "label": "",
-                "url": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "facts": [
-              {
-                "label": "",
-                "url": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "Jahangirnagar_University",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": ""
           }
         }
       ]

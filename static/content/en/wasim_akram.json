@@ -1,0 +1,147 @@
+{
+  "title": "Wasim Akram",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wasim_Akram",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:Wasim-akram-gesf-2018-7878.jpg",
+    "altText": "Image of Wasim Akram"
+  },
+  "summary": "Wasim Akram is a former Pakistani cricketer and captain of Pakistan national cricket team.",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/wasim_akram"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/wasim_akram"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Wasim Akram"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "Invalid Date (age 52)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Lahore, Pakistan",
+            "url": "https://en.wikipedia.org/wiki/Lahore",
+            "contentUrl": "/static/content/en/lahore.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "6 ft 2 in (1.88 m)"
+          }
+        },
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "Pakistani"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "All-rounder"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "Islamia College, Lahore",
+          "value": {
+            "label": "Wasim Akram was educated at Government Islamia College Civil Lines Lahore, where he played as an opening bowler and batsman.",
+            "image": {
+              "url": "https://commons.wikimedia.org/wiki/File:Islamia_College_Lahore_1.jpg",
+              "altText": "Image of Islamia College, Lahore"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "doOl-WYgbLo",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Wasim Akram was a left-arm fast bowler who could bowl with significant pace,"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "wgGKNhOnPRR",
+          "note": "1984",
+          "value": {
+            "label": "Wasim Akram made his first class debut in 1984 as part of the Pakistan Automobiles Corporation team."
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "dr9NEv9nQ8s",
+          "note": "1984",
+          "value": {
+            "label": "Akram started his ODI career against New Zealand in Pakistan in 1984 under the captaincy of Zaheer Abbas.",
+            "facts": [
+              {
+                "url": "/read/en/new_zealand_national_cricket_team",
+                "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
+                "label": "New Zealand national cricket team",
+                "id": "UDZytGzvAcp",
+                "value": {
+                  "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/New_Zealand_national_cricket_team#/media/File:New_Zealand_Cricket_Cap_Insignia.svg",
+                    "altText": "Image of New Zealand national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "loDgi3_UqE6",
+          "note": "1987",
+          "value": {
+            "label": "In the 1987 Cricket World Cup held for the 1st time in South Asia, Akram struggled on Pakistani pitches."
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "UVy55gTKbYP",
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        }
+      ]
+    }
+  ]
+}

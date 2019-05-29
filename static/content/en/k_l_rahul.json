@@ -1,0 +1,162 @@
+{
+  "title": "K L Rahul",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/K._L._Rahul",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:KL_Rahul_at_Femina_Miss_India_2018_Grand_Finale_(cropped).jpg",
+    "altText": "Image of K L Rahul"
+  },
+  "summary": "KL Rahul, is an Indian international cricketer.",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/k_l_rahul"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/k_l_rahul"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Kannur Lokesh Rahul"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "Invalid Date (age 27)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Mangaluru",
+            "url": "https://en.wikipedia.org/wiki/Mangaluru",
+            "contentUrl": "/static/content/en/mangalore.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "5 ft 11 in (180 cm)"
+          }
+        },
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "Indian"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "Batsman, Wicket-keeper"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "Jain University, Bengaluru, India",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "https://commons.wikimedia.org/wiki/File:Jain-University-Bangalore.jpg",
+              "altText": "Image of Jain University, Bengaluru, India"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "nlbvMD4cj5s",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Top-order right-handed batsman and occasional wicket-keeper"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "d7zXb5LRWRa",
+          "note": "2012",
+          "value": {
+            "label": "Rahul made his first-class cricket debut for Karnataka in the 2012–13 season"
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "iGNh5WJx4e5",
+          "note": "2014",
+          "value": {
+            "label": "Rahul made his Test debut in the 2014 Boxing Day Test at the Melbourne, versus Australia",
+            "facts": [
+              {
+                "url": "/read/en/australia_cricket_team",
+                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "label": "Australia Cricket team",
+                "id": "-N3yHLNDWh_",
+                "value": {
+                  "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Australia_national_cricket_team#/media/File:Australia_cricket_logo.svg",
+                    "altText": "Image of Australia Cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "IT4XRB2nE0P",
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "q9KbXC7gQ-Q",
+          "note": "2013",
+          "value": {
+            "label": "Rahul made his IPL debut in 2013 for Royal Challengers Bangalore as a wicket-keeper batsman",
+            "facts": [
+              {
+                "url": "/read/en/royal_challengers_bangalore",
+                "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
+                "label": "Royal Challengers Bangalore",
+                "id": "JwMZsuV4nHu",
+                "value": {
+                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Royal_Challengers_Bangalore#/media/File:Royal_Challengers_Bangalore_Logo_2016.svg",
+                    "altText": "Image of Royal Challengers Bangalore"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

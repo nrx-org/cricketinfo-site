@@ -1,0 +1,106 @@
+{
+  "title": "மகேந்திர சிங் தோனி",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/MS_Dhoni",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:Dhoni_behind_Stumps.jpg",
+    "altText": "Image of மகேந்திர சிங் தோனி"
+  },
+  "summary": "மகேந்திர சிங் தோனி இந்தியாவைச் சேர்ந்த சர்வதேச கிரிக்கெட் வீரர், அவர் 2007 முதல் 2016 வரை ஒருநாள் போட்டிகளிலும் 2008 முதல் 2014 வரை டெஸ்ட் போட்டிகளிலும் இந்திய கிரிக்கெட் அணியின் கேப்டனாக இருந்திருக்கிறார்.",
+  "translations": [
+    {
+      "lang": "en",
+      "title": "M.S Dhoni",
+      "url": "/read/en/m.s_dhoni"
+    },
+    {
+      "lang": "hi",
+      "title": "महेन्द्र सिंह धोनी",
+      "url": "/read/hi/m.s_dhoni"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "மகேந்திர சிங் தோனி"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "07 Jul 1981 (age 37)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "ராஞ்சி, பீகார் (இப்போது ஜார்கண்ட்)",
+            "url": "https://en.wikipedia.org/wiki/Ranchi",
+            "contentUrl": "/static/content/ta/ranchi.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "5 அடி 10 அங்குலம் (1.78 மீ)"
+          }
+        },
+        {
+          "label": "Other Names",
+          "value": {
+            "label": "மாஹி"
+          }
+        },
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "இந்தியர்"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "விக்கெட் கீப்பர் பேட்ஸ்மென்"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "டிஏவி ஜவகர் வித்யா மந்திர், ராஞ்சி",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of டிஏவி ஜவகர் வித்யா மந்திர், ராஞ்சி"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "tpBYE5rjmNX",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "தோனி வலது கை பேட்ஸ்மேன் மற்றும் விக்கெட் கீப்பர். தொடக்கத்தில், தோனி பின் வரிசையில் ஆடும் தடாலடி பேட்ஸ்மேனாக இருந்தார், ஆனால் காலப்போக்கில் அதிக அழுத்தம் உள்ள சூழல் மற்றும் கேப்டன் என்ற முறையில் அதிகரித்து வந்த பொறுப்பு காரணமாக அவருடைய விளையாட்டு முறையை மாற்றிக் கொண்டார்.",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/MS_Dhoni#/media/File:Mahendra_Singh_Dhoni_batting.JPG",
+              "altText": "Style of play for மகேந்திர சிங் தோனி"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

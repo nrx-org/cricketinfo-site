@@ -1,0 +1,106 @@
+{
+  "title": "महेन्द्र सिंह धोनी",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/MS_Dhoni",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:Dhoni_behind_Stumps.jpg",
+    "altText": "Image of महेन्द्र सिंह धोनी"
+  },
+  "summary": "महेंद्र सिंह धोनी एक भारतीय अन्‍तर्राष्ट्रीय क्रिकेटर हैं, जिन्होंने 2007 से 2016 तक सीमित ओवरों के प्रारूप में और 2008 से 2014 तक टेस्ट क्रिकेट में भारतीय राष्ट्रीय टीम की कप्तानी की।",
+  "translations": [
+    {
+      "lang": "en",
+      "title": "M.S Dhoni",
+      "url": "/read/en/m.s_dhoni"
+    },
+    {
+      "lang": "ta",
+      "title": "மகேந்திர சிங் தோனி",
+      "url": "/read/ta/m.s_dhoni"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "महेन्द्र सिंह धोनी"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "07 Jul 1981 (age 37)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "रांची, बिहार (अब झारखंड)",
+            "url": "https://en.wikipedia.org/wiki/Ranchi",
+            "contentUrl": "/static/content/hi/ranchi.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "5 फीट 10 इंच (1.78 मीटर)"
+          }
+        },
+        {
+          "label": "Other Names",
+          "value": {
+            "label": "माहि "
+          }
+        },
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "भारतीय"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "विकेट- कीपर बल्लेबाज"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": " डीएवी जवाहर विद्या मंदिर, रांची,",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of  डीएवी जवाहर विद्या मंदिर, रांची,"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "C5Lzj5c0c6g",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "धोनी दाएं हाथ के बल्लेबाज और विकेट कीपर हैं। प्रारंभ में, धोनी एक निचले क्रम के बल्लेबाज के रूप में सामने आये, लेकिन उच्च दबाव वाली स्थितियों से निपटने और एक कप्तान के रूप में अपनी बढ़ती जिम्मेदारी को निभाने के लिए उन्‍होंने धीरे-धीरे अपनी खेल शैली को बदल लिया।",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/MS_Dhoni#/media/File:Mahendra_Singh_Dhoni_batting.JPG",
+              "altText": "Style of play for महेन्द्र सिंह धोनी"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

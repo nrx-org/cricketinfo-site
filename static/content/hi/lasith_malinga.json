@@ -1,22 +1,21 @@
 {
-  "id": "O40",
   "title": "लसिथ मलिंगा",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Lasith_Malinga",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lasith_Malinga",
   "coverImage": {
-    "url": "/static/images/lasith_malinga/LASITH_MALINGA_(5155175549).jpg",
-    "altText": "Image of LASITH MALINGA (5155175549)"
+    "url": "https://en.wikipedia.org/wiki/File:LASITH_MALINGA_(5155175549).jpg",
+    "altText": "Image of लसिथ मलिंगा"
   },
   "summary": "सेपारामाडू लसिथ मलिंगा पेशेवर श्रीलंकाई क्रिकेटर हैं और वर्तमान में श्रीलंका की अन्‍तर्राष्ट्रीय टी20 टीम के कप्तान हैं।",
   "translations": [
     {
-      "url": "/read/en/lasith_malinga",
-      "title": "Mushfiqur Rahim",
-      "lang": "en"
+      "lang": "en",
+      "title": "Lasith Malinga",
+      "url": "/read/en/lasith_malinga"
     },
     {
-      "url": "/read/ta/lasith_malinga",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "லசித் மலிங்கா",
+      "url": "/read/ta/lasith_malinga"
     }
   ],
   "sections": [
@@ -27,71 +26,77 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "सेपरामाडु लसित मलिंगा ",
-            "url": ""
+            "label": "सेपरामाडु लसित मलिंगा "
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "28 August 1983",
-            "url": ""
+            "label": "Invalid Date (age 35)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "गाले, श्रीलंका",
-            "url": "SF93"
+            "url": "https://en.wikipedia.org/wiki/Galle",
+            "contentUrl": "/static/content/hi/shreyas_iyer.json"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "",
-            "url": ""
+            "label": ""
           }
         },
         {
           "label": "Other Names",
           "value": {
-            "label": "स्लिंगा, कागवेना, मलिंगा द स्लिंगा, मालि, रथगमा एक्सप्रेस ",
-            "url": ""
+            "label": "स्लिंगा, कागवेना, मलिंगा द स्लिंगा, मालि, रथगमा एक्सप्रेस "
           }
-        },
-        {
-          "label": "Age",
-          "value": "35"
         },
         {
           "label": "Nationality",
           "value": {
-            "label": "श्रीलंकाई",
-            "url": "G7"
+            "label": "श्रीलंकाई"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "राइट आर्म फास्ट",
-            "url": ""
+            "label": "राइट आर्म फास्ट"
           }
         }
       ]
     },
     {
-      "title": "Family",
+      "title": "Alma mater",
       "cardType": "avatar",
-      "label": "",
+      "facts": [
+        {
+          "label": "विद्यालोक कॉलेज",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of विद्यालोक कॉलेज"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "9-BB5am9YIXq",
+      "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
-            "label": "",
-            "url": "",
+            "label": "मलिंगा का एक्‍शन शानदार टिप्पणी करने के प्रति आकर्षित करता है। क्रिकेट संदर्भ टेक्‍स्‍ट विजडन में कहा गया है कि मलिंगा का डिलीवरी एक्‍शन \"स्लिंग\" के समान है। इसी कारण उन्‍हें \"स्लिंगा मलिंगा\" उपनाम से भी जाना जाता है। मलिंगा का कहना है कि उनका अनूठा राइट-आर्म बॉलिंग एक्‍शन विशेष रूप से टेनिस बॉल के साथ क्रिकेट खेलना सीखने का नतीजा था।",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": "https://en.wikipedia.org/wiki/Lasith_Malinga#/media/File:Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg",
+              "altText": "Style of play for लसिथ मलिंगा"
             }
           }
         }
@@ -103,58 +108,37 @@
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": 0,
+          "id": "u5QKRvjWvEau",
           "note": "",
           "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
+            "label": ""
           }
         },
         {
           "label": "राष्ट्रीय टीम ",
-          "id": 3,
+          "id": "Svb6CeM0prYR",
           "note": "",
           "value": {
-            "label": "मलिंगा ने 1 जुलाई, 2004 को आस्ट्रेलिया के खिलाफ मरारा ओवल डार्विन में टेस्ट क्रिकेट में पदार्पण किया। ",
-            "facts": [
-              {
-                "label": "R2",
-                "value": {
-                  "label": "R2",
-                  "image": {
-                    "url": "R2",
-                    "altText": "R2"
-                  }
-                }
-              }
-            ]
+            "label": "मलिंगा ने 1 जुलाई, 2004 को आस्ट्रेलिया के खिलाफ मरारा ओवल डार्विन में टेस्ट क्रिकेट में पदार्पण किया। "
           }
         },
         {
           "label": "विश्व कप ",
-          "id": 1,
+          "id": "hcI8q1RwWI83",
           "note": "2007",
           "value": {
             "label": "2007 के क्रिकेट विश्व कप सुपर 8 मैच के लिए 28 मार्च को श्रीलंका और दक्षिण अफ्रीका के बीच खेले गए मैच में मलिंगा ने लगातार चार गेंदों पर चार विकेट प्राप्त किए और वनडे इंटरनेशनल में ऐसा करने वाले प्रथम गेंदबाज बने।  ",
             "facts": [
               {
-                "label": "R2",
+                "url": "/read/hi/2007_cricket_world_cup",
+                "contentUrl": "/static/content/hi/2007_cricket_world_cup.json",
+                "label": "2007 क्रिकेट विश्व कप",
+                "id": "PMjYM88-9Cb3",
                 "value": {
-                  "label": "R2",
+                  "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
                   "image": {
-                    "url": "R2",
-                    "altText": "R2"
+                    "url": "https://en.wikipedia.org/wiki/2007_Cricket_World_Cup#/media/File:2007_Cricket_World_Cup_logo.svg",
+                    "altText": "Image of 2007 क्रिकेट विश्व कप"
                   }
                 }
               }
@@ -163,18 +147,21 @@
         },
         {
           "label": "2011 विश्व कप\n",
-          "id": 1,
+          "id": "9hjSvoeWTcFv",
           "note": "2011",
           "value": {
             "label": "2011 के क्रिकेट विश्व कप के दौरान श्रीलंका में मलिंगा ने गुप चरण के मैच में केन्या के विरुद्ध अपने कैरियर का दूसरा हैट्रिक लिया। इसके साथ ही वह पहला ऐसा गेंदबाज बन गए जिसने विश्व कप में दो बार हैट्रिक प्राप्त की। ",
             "facts": [
               {
-                "label": "R2",
+                "url": "/read/hi/2011_cricket_world_cup",
+                "contentUrl": "/static/content/hi/2011_cricket_world_cup.json",
+                "label": "2011 क्रिकेट विश्व कप",
+                "id": "4cUZwQzRAVVI",
                 "value": {
-                  "label": "R2",
+                  "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
                   "image": {
-                    "url": "R2",
-                    "altText": "R2"
+                    "url": "https://en.wikipedia.org/wiki/2011_Cricket_World_Cup#/media/File:2011_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2011 क्रिकेट विश्व कप"
                   }
                 }
               }
@@ -183,17 +170,21 @@
         },
         {
           "label": "टी 20 विश्व कप ",
-          "id": 1,
+          "id": "eFZMFektrlCK",
+          "note": "2014",
           "value": {
             "label": "दिनेश चंडीमल पर प्रतिबंध लगने के बाद वे 2014 के आईसीसी विश्व ट्वेंटी 20 के लिए श्रीलंका  क्रिकेट टीम के कप्तान बने। उन्होंने सफलतापूर्वक टीम का नेतृत्व किया जिसने विश्व कप चैंपियनशिप जीती और इस तरह वे आईसीसी विश्व ट्वेंटी 20 जीतने वाले प्रथम श्रीलंकाई कप्तान बने।  ",
             "facts": [
               {
-                "label": "R2",
+                "url": "/read/hi/icc_t20_world_cup",
+                "contentUrl": "/static/content/hi/icc_t20_world_cup.json",
+                "label": "आईसीसी टी20 विश्व कप",
+                "id": "RxEFjk-QJsJ9",
                 "value": {
-                  "label": "R2",
+                  "label": "आईसीसी टी20 विश्व कप (जिसे पहले आईसीसी विश्व ट्वेंटी20 के नाम से जाना जाता था) ट्वेंटी20 क्रिकेट की अंतर्राष्ट्रीय चैम्पियनशिप है। वर्तमान में इस टूर्नामेंट में 16 टीमें भाग लेती हैं, जिसमें आठ टीमें दी गई समय सीमा के भीतर रैंकिंग के शीर्ष आठ में रहने वाली टीमें होती हैं जबकि चार अन्य टीमें टी20 विश्व कप क्वालीफायर के माध्यम से चुनी जातीं हैं।",
                   "image": {
-                    "url": "R2",
-                    "altText": "R2"
+                    "url": "https://en.wikipedia.org/wiki/ICC_T20_World_Cup#/media/File:ICC_World_Twenty20_Trophy.jpg",
+                    "altText": "Image of आईसीसी टी20 विश्व कप"
                   }
                 }
               }
@@ -202,240 +193,18 @@
         },
         {
           "label": "विश्व कप",
-          "id": 1,
+          "id": "ECrhv9ysJdpC",
           "note": "अप्रैल 2019 में 2019 के क्रिकेट विश्व कप के लिए उन्हें श्रीलंका की टीम में शामिल किया गया। ",
           "value": {
-            "label": "विश्व कप",
-            "facts": [
-              {
-                "label": "R2",
-                "value": {
-                  "label": "R2",
-                  "image": {
-                    "url": "R2",
-                    "altText": "R2"
-                  }
-                }
-              }
-            ]
+            "label": "विश्व कप"
           }
         },
         {
           "label": "IPL डेब्यू",
-          "id": 1,
+          "id": "dd6afjxhegvx",
           "note": "2008",
           "value": {
-            "label": "मलिंगा इंडियन प्रीमियर लीग की टीम मुंबई इंडियंस के लिए खेलते हैं। इस प्रारूप में वे स्ट्राइक गेंदबाज हैं और प्रतिस्पर्धा में सबसे ज्यादा विकेट लेने वाले गेंदबाजों में से एक हैं। ",
-            "facts": [
-              {
-                "label": "R2",
-                "value": {
-                  "label": "R2",
-                  "image": {
-                    "url": "R2",
-                    "altText": "R2"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "मलिंगा का एक्‍शन शानदार टिप्पणी करने के प्रति आकर्षित करता है। क्रिकेट संदर्भ टेक्‍स्‍ट विजडन में कहा गया है कि मलिंगा का डिलीवरी एक्‍शन \"स्लिंग\" के समान है। इसी कारण उन्‍हें \"स्लिंगा मलिंगा\" उपनाम से भी जाना जाता है। मलिंगा का कहना है कि उनका अनूठा राइट-आर्म बॉलिंग एक्‍शन विशेष रूप से टेनिस बॉल के साथ क्रिकेट खेलना सीखने का नतीजा था।",
-            "image": {
-              "url": "/static/images/lasith_malinga/Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg",
-              "altText": "Image of Lasith Malinga tossing a cricket ball at practice"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2004- अब तक ",
-          "value": {
-            "facts": [
-              {
-                "label": "श्रीलंकाई क्रिकेट टीम",
-                "url": "R13",
-                "value": {
-                  "label": "श्रीलंका की राष्ट्रीय क्रिकेट टीम, जिसका उपनाम द लायंस है, अंतरराष्ट्रीय क्रिकेट में श्रीलंका का प्रतिनिधित्व करती है।",
-                  "image": {
-                    "url": "/static/images/lasith_malinga/Sri_Lanka_Cricket_Cap_Insignia.svg",
-                    "altText": "Image of Sri Lanka Cricket Cap Insignia"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2008- अब तक",
-          "value": {
-            "facts": [
-              {
-                "label": "मुंबई इंडियंस",
-                "url": "R7",
-                "value": {
-                  "label": "मुंबई इंडियंस (संक्षिप्त रूप एमआई) मुंबई शहर, महाराष्ट्र की एक फ्रैंचाइज़ी क्रिकेट टीम है।",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "facts": [
-              {
-                "label": "",
-                "url": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "विद्यालोक कॉलेज",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "अंतरराष्ट्रीय क्रिकेट में लगातार चार गेंदों पर चार विकेट लेने वाले क्रिकेट इतिहास के इकलौते गेंदबाज (बनाम दक्षिण अफ्रीका मार्च 2007)",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "अगस्त 2011 में अपनी तीसरी हैट्रिक लेकर, वंडे इंटरनेशलन क्रिकेट में तीन हैट्रिक लेने वाले इतिहास के पहले और अबतक के इकलौते गेंदबाज।",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "वे दो विश्व कप हैट्रिक लेने वाले इकलौते गेंदबाज हैं, पहला उन्होंने 2007 क्रिकेट विश्व कप में दक्षिण अफ्रीका के खिलाफ और दूसरा 2011 क्रिकेट विश्व कप में केन्या के खिलाफ हासिल किया था।",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "अप्रैल 2017 तक, मलिंगा 232 मैचों में 317 विकेट के साथ सभी ट्वेंटी 20 मैचों में सबसे अधिक विकेट लेने के मामले में दूसरे नंबर पर हैं।",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "मलिंगा ने इंडियन प्रीमियर लीग में सबसे ज्यादा (161) विकेट हासिल किए।",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": "मलिंगा इंडियन प्रीमियर लीग की टीम मुंबई इंडियंस के लिए खेलते हैं। इस प्रारूप में वे स्ट्राइक गेंदबाज हैं और प्रतिस्पर्धा में सबसे ज्यादा विकेट लेने वाले गेंदबाजों में से एक हैं। "
           }
         }
       ]

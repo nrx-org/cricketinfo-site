@@ -1,0 +1,166 @@
+{
+  "title": "Jos Buttler",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos_Buttler",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:Jos_Buttler_2017.jpg",
+    "altText": "Image of Jos Buttler"
+  },
+  "summary": "Jos Buttler is an English international cricketer who is currently vice-captain of the England cricket team.",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/jos_buttler"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/jos_buttler"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Joseph Charles Buttler"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "Invalid Date (age 28)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Taunton, Somerset, England",
+            "url": "https://en.wikipedia.org/wiki/Taunton",
+            "contentUrl": "/static/content/en/taunton.json"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "5 ft 11 in (1.80 m)"
+          }
+        },
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "British"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "Batsman, wicket-keeper"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alma mater",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "King's College, Taunton",
+          "value": {
+            "label": "Buttler was named Young Wisden Schools Cricketer of the Year in 2010.",
+            "image": {
+              "url": "https://commons.wikimedia.org/wiki/File:Kingscollegetaunton.jpg",
+              "altText": "Image of King's College, Taunton"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "qkbDM5YpiLbW",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Right-handed batsman and wicket-keeper ",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Jos_Buttler#/media/File:Jos_buttler_keeping.jpg",
+              "altText": "Style of play for Jos Buttler"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "qexzxUQBspkO",
+          "note": "2009",
+          "value": {
+            "label": "Buttler made his first-class debut for Somerset in September 2009 against Lancashire."
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "ZiHgni_YsYbh",
+          "note": "2011",
+          "value": {
+            "label": "Buttler made his international debut as a specialist batsman in 2011",
+            "facts": [
+              {
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "label": "India national cricket team",
+                "id": "Pgx7JXAQTKB8",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India#/media/File:Cricket_India_Crest.svg",
+                    "altText": "Image of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "GLVqulm052Qz",
+          "note": "2012",
+          "value": {
+            "label": "Buttler played in all five of England's matches in the competition"
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "0rhGvENdxwV1",
+          "note": "2016",
+          "value": {
+            "label": "Buttler played for Mumbai Indians in the 2016 and 2017 IPL seasons",
+            "facts": [
+              {
+                "url": "/read/en/mumbai_indians",
+                "contentUrl": "/static/content/en/mumbai_indians.json",
+                "label": "Mumbai Indians",
+                "id": "6vrr9pwi8CgB",
+                "value": {
+                  "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Mumbai_Indians#/media/File:Mumbai_Indians_Logo.svg",
+                    "altText": "Image of Mumbai Indians"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

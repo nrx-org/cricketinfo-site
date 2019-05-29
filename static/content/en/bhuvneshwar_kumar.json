@@ -1,0 +1,155 @@
+{
+  "title": "Bhuvneshwar Kumar",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bhuvneshwar_Kumar",
+  "coverImage": {
+    "url": "https://commons.wikimedia.org/wiki/File:Bhuvneshwar_Kumar.jpg",
+    "altText": "Image of Bhuvneshwar Kumar"
+  },
+  "summary": "Bhuvneshwar Kumar is an Indian international cricketer",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/bhuvneshwar_kumar"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/bhuvneshwar_kumar"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Full Name",
+          "value": {
+            "label": "Bhuvneshwar Kumar Singh"
+          }
+        },
+        {
+          "label": "Born On",
+          "value": {
+            "label": "Invalid Date (age 29)"
+          }
+        },
+        {
+          "label": "Birthplace",
+          "value": {
+            "label": "Meerut, India",
+            "url": "https://en.wikipedia.org/wiki/Meerut"
+          }
+        },
+        {
+          "label": "Height",
+          "value": {
+            "label": "175 cm (5 ft 9 in)"
+          }
+        },
+        {
+          "label": "Other Names",
+          "value": {
+            "label": "Bhuvi"
+          }
+        },
+        {
+          "label": "Nationality",
+          "value": {
+            "label": "Indian"
+          }
+        },
+        {
+          "label": "Role",
+          "value": {
+            "label": "Bowling all-rounder"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "_K96hTOF7nt",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "Kumar is a right-arm medium-fast bowler who swings the ball both ways ",
+            "image": {
+              "url": "https://en.wikipedia.org/wiki/Bhuvneshwar_Kumar#/media/File:Bhuvneshwar_Kumar.jpg",
+              "altText": "Style of play for Bhuvneshwar Kumar"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Phase(s)",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "First class Debut",
+          "id": "IXRYbxYuDJN",
+          "note": "2007",
+          "value": {
+            "label": "Kumar made his first-class debut playing for Uttar Pradesh at the age of 17 against Bengal"
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "JdS1Q3IpSjl",
+          "note": "2012",
+          "value": {
+            "label": "Kumar made his international debut playing a T20 match versus Pakistan in which he took 3 wickets for 9 runs in 4 overs.",
+            "facts": [
+              {
+                "url": "/read/en/pakistan_national_cricket_team",
+                "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
+                "label": "Pakistan national cricket team",
+                "id": "WCbiW5W2W49",
+                "value": {
+                  "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Pakistan_national_cricket_team#/media/File:PakistanCricketLogo.png",
+                    "altText": "Image of Pakistan national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "477oqxAQpkx",
+          "note": "2013",
+          "value": {
+            "label": "Kumar was a part of the Indian team which won the 2013 Champions Trophy"
+          }
+        },
+        {
+          "label": "IPL Debut",
+          "id": "dm7Le7mzkWf",
+          "note": "2009",
+          "value": {
+            "label": "Following his good performances in the 2008/09 Ranji season, Kumar was signed up by the IPL team Royal Challengers Bangalore",
+            "facts": [
+              {
+                "url": "/read/en/royal_challengers_bangalore",
+                "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
+                "label": "Royal Challengers Bangalore",
+                "id": "wgTOdc7LU0U",
+                "value": {
+                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "https://en.wikipedia.org/wiki/Royal_Challengers_Bangalore#/media/File:Royal_Challengers_Bangalore_Logo_2016.svg",
+                    "altText": "Image of Royal Challengers Bangalore"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,22 +1,21 @@
 {
-  "id": "O2",
   "title": "மகேந்திர சிங் தோனி",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/MS_Dhoni",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/MS_Dhoni",
   "coverImage": {
-    "url": "/static/images/mahendra_singh_dhoni/Dhoni_behind_Stumps.jpg",
-    "altText": "Image of Dhoni behind Stumps"
+    "url": "https://commons.wikimedia.org/wiki/File:Dhoni_behind_Stumps.jpg",
+    "altText": "Image of மகேந்திர சிங் தோனி"
   },
   "summary": "மகேந்திர சிங் தோனி இந்தியாவைச் சேர்ந்த சர்வதேச கிரிக்கெட் வீரர், அவர் 2007 முதல் 2016 வரை ஒருநாள் போட்டிகளிலும் 2008 முதல் 2014 வரை டெஸ்ட் போட்டிகளிலும் இந்திய கிரிக்கெட் அணியின் கேப்டனாக இருந்திருக்கிறார்.",
   "translations": [
     {
-      "url": "/read/hi/mahendra_singh_dhoni",
-      "title": "मुशफिकुर रहीम ",
-      "lang": "hi"
+      "lang": "en",
+      "title": "Mahendra Singh Dhoni",
+      "url": "/read/en/mahendra_singh_dhoni"
     },
     {
-      "url": "/read/en/mahendra_singh_dhoni",
-      "title": "Mushfiqur Rahim",
-      "lang": "en"
+      "lang": "hi",
+      "title": "महेन्द्र सिंह धोनी",
+      "url": "/read/hi/mahendra_singh_dhoni"
     }
   ],
   "sections": [
@@ -27,71 +26,76 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "மகேந்திர சிங் தோனி",
-            "url": ""
+            "label": "மகேந்திர சிங் தோனி"
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "07/07/1981",
-            "url": ""
+            "label": "07 Jul 1981 (age 37)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "ராஞ்சி, பீகார் (இப்போது ஜார்கண்ட்)",
-            "url": "G17"
+            "url": "https://en.wikipedia.org/wiki/Ranchi"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "5 அடி 10 அங்குலம் (1.78 மீ)",
-            "url": ""
+            "label": "5 அடி 10 அங்குலம் (1.78 மீ)"
           }
         },
         {
           "label": "Other Names",
           "value": {
-            "label": "மாஹி",
-            "url": ""
+            "label": "மாஹி"
           }
-        },
-        {
-          "label": "Age",
-          "value": "37"
         },
         {
           "label": "Nationality",
           "value": {
-            "label": "இந்தியர்",
-            "url": "G3"
+            "label": "இந்தியர்"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "விக்கெட் கீப்பர் பேட்ஸ்மென்",
-            "url": ""
+            "label": "விக்கெட் கீப்பர் பேட்ஸ்மென்"
           }
         }
       ]
     },
     {
-      "title": "Family",
+      "title": "Alma mater",
       "cardType": "avatar",
-      "label": "",
+      "facts": [
+        {
+          "label": "டிஏவி ஜவகர் வித்யா மந்திர், ராஞ்சி",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of டிஏவி ஜவகர் வித்யா மந்திர், ராஞ்சி"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "DKtAwLUrCHLy",
+      "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
-            "label": "",
-            "url": "",
+            "label": "தோனி வலது கை பேட்ஸ்மேன் மற்றும் விக்கெட் கீப்பர். தொடக்கத்தில், தோனி பின் வரிசையில் ஆடும் தடாலடி பேட்ஸ்மேனாக இருந்தார், ஆனால் காலப்போக்கில் அதிக அழுத்தம் உள்ள சூழல் மற்றும் கேப்டன் என்ற முறையில் அதிகரித்து வந்த பொறுப்பு காரணமாக அவருடைய விளையாட்டு முறையை மாற்றிக் கொண்டார்.",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": "https://en.wikipedia.org/wiki/MS_Dhoni#/media/File:Mahendra_Singh_Dhoni_batting.JPG",
+              "altText": "Style of play for மகேந்திர சிங் தோனி"
             }
           }
         }
@@ -103,58 +107,37 @@
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": 0,
+          "id": "2FupMXNXW-X0",
           "note": "1999",
           "value": {
-            "label": "தோனி 18 வயதில், 1999-2000 சீசனில் பீகாருக்காக தன்னுடைய முதல் ரஞ்சி டிராஃபி போட்டியை விளையாடினார்.",
-            "facts": [
-              {
-                "label": "SF20",
-                "value": {
-                  "label": "SF20",
-                  "image": {
-                    "url": "SF20",
-                    "altText": "SF20"
-                  }
-                }
-              }
-            ]
+            "label": "தோனி 18 வயதில், 1999-2000 சீசனில் பீகாருக்காக தன்னுடைய முதல் ரஞ்சி டிராஃபி போட்டியை விளையாடினார்."
           }
         },
         {
           "label": "தேசிய அணி அறிமுகம்",
-          "id": 3,
+          "id": "Z84iaTCIrc9y",
           "note": "2004",
           "value": {
-            "label": "தோனி தன்னுடைய ஓடிஐ முதல் போட்டியில் ஆடினார்.",
-            "facts": [
-              {
-                "label": "R18",
-                "value": {
-                  "label": "R18",
-                  "image": {
-                    "url": "R18",
-                    "altText": "R18"
-                  }
-                }
-              }
-            ]
+            "label": "தோனி தன்னுடைய ஓடிஐ முதல் போட்டியில் ஆடினார்."
           }
         },
         {
           "label": "முதல் ஐசிசி போட்டி ",
-          "id": 1,
+          "id": "YH-isg2tAtEx",
           "note": "2006",
           "value": {
             "label": "2006 ஆம் ஆண்டு தோனி வெஸ்ட் இன்டீஸ்க்கு எதிராக அரை சதம் அடித்தார்.",
             "facts": [
               {
-                "label": "R18",
+                "url": "/read/ta/icc_champions_trophy",
+                "contentUrl": "/static/content/ta/icc_champions_trophy.json",
+                "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி",
+                "id": "uTBP0OVYOnMg",
                 "value": {
-                  "label": "R18",
+                  "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி என்பது இன்டர்நேஷனல் கிரிக்கெட் கவுன்சிலால் (ஐசிசி) நடத்தப்படும் ஒன் டே இன்டர்நேஷனல் (ODI) கிரிக்கெட் டோர்னமென்ட் ஆகும். இது கிரிக்கெட் உலகக்கோப்பைக்கு அடுத்தபடியாக முக்கியமாக கருதப்படும் டோர்னமென்ட் ஆகும். 2002-ஆம் ஆண்டு இதன் பெயர் சேம்பியன்ஸ் டிராஃபி என்று மாற்றப்பட்டது.",
                   "image": {
-                    "url": "R18",
-                    "altText": "R18"
+                    "url": "https://en.wikipedia.org/wiki/ICC_Champions_Trophy#/media/File:ICC_Champions_Trophy_cricket_logo.png",
+                    "altText": "Image of ஐசிசி சேம்பியன்ஸ் டிராஃபி"
                   }
                 }
               }
@@ -163,18 +146,21 @@
         },
         {
           "label": "2007 உலக கோப்பை",
-          "id": 1,
+          "id": "oINqbhRK6EBQ",
           "note": "2007",
           "value": {
             "label": "இந்தியா, உலகக் கோப்பையில் குழு நிலைக்குப் பிறகு தோல்வியைக் கண்டது, அந்த டோர்னமெண்டில் தோனி வெறும் 29 ரன்கள் தான் எடுத்திருந்தார்.",
             "facts": [
               {
-                "label": "R18",
+                "url": "/read/ta/2007_cricket_world_cup",
+                "contentUrl": "/static/content/ta/2007_cricket_world_cup.json",
+                "label": "2007 கிரிக்கெட் உலகக் கோப்பை",
+                "id": "dQYdZ3dzXr8-",
                 "value": {
-                  "label": "R18",
+                  "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
                   "image": {
-                    "url": "R18",
-                    "altText": "R18"
+                    "url": "https://en.wikipedia.org/wiki/2007_Cricket_World_Cup#/media/File:2007_Cricket_World_Cup_logo.svg",
+                    "altText": "Image of 2007 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               }
@@ -183,17 +169,21 @@
         },
         {
           "label": "டி20 உலகக் கோப்பை",
-          "id": 1,
+          "id": "6T0KIsxnVVoE",
+          "note": "2007",
           "value": {
             "label": "ஐசிசி வேர்ல்டு ட்வென்டி20 சேம்பியன்ஷிப் தொடக்கப் போட்டியில் இந்திய அணியின் கேப்டனாக தோனி இருந்தார்.",
             "facts": [
               {
-                "label": "R18",
+                "url": "/read/ta/2007_cricket_world_cup",
+                "contentUrl": "/static/content/ta/2007_cricket_world_cup.json",
+                "label": "2007 கிரிக்கெட் உலகக் கோப்பை",
+                "id": "ZbKfLPYJHa8k",
                 "value": {
-                  "label": "R18",
+                  "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
                   "image": {
-                    "url": "R18",
-                    "altText": "R18"
+                    "url": "https://en.wikipedia.org/wiki/2007_Cricket_World_Cup#/media/File:2007_Cricket_World_Cup_logo.svg",
+                    "altText": "Image of 2007 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               }
@@ -202,18 +192,21 @@
         },
         {
           "label": "2011 உலகக் கோப்பை",
-          "id": 1,
+          "id": "7fECpgYin52o",
           "note": "தோனியின் தலைமையிலான இந்திய அணி 2011 ஆம் ஆண்டு தனது இரண்டாவது உலகக் கோப்பை பட்டத்தை வென்றது. ஆட்டம் இழக்கமால் 91 ரன்களுடன், வரலாற்று சிறப்பு மிக்க சிக்ஸை அடித்து ஆட்டத்தை முடித்தார்.",
           "value": {
             "label": "உலகக் கோப்பை",
             "facts": [
               {
-                "label": "R18",
+                "url": "/read/ta/2011_cricket_world_cup",
+                "contentUrl": "/static/content/ta/2011_cricket_world_cup.json",
+                "label": "2011 கிரிக்கெட் உலகக் கோப்பை",
+                "id": "0V_TmX8YCy3B",
                 "value": {
-                  "label": "R18",
+                  "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
                   "image": {
-                    "url": "R18",
-                    "altText": "R18"
+                    "url": "https://en.wikipedia.org/wiki/2011_Cricket_World_Cup#/media/File:2011_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2011 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               }
@@ -222,220 +215,10 @@
         },
         {
           "label": "2008",
-          "id": 1,
+          "id": "7EBob1OmxusL",
           "note": "சென்னை சூப்பர் கிங்க்ஸ்",
           "value": {
-            "label": "சென்னை சூப்பர் கிங்க்ஸ்",
-            "facts": [
-              {
-                "label": "R18",
-                "value": {
-                  "label": "R18",
-                  "image": {
-                    "url": "R18",
-                    "altText": "R18"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "தோனி வலது கை பேட்ஸ்மேன் மற்றும் விக்கெட் கீப்பர். தொடக்கத்தில், தோனி பின் வரிசையில் ஆடும் தடாலடி பேட்ஸ்மேனாக இருந்தார், ஆனால் காலப்போக்கில் அதிக அழுத்தம் உள்ள சூழல் மற்றும் கேப்டன் என்ற முறையில் அதிகரித்து வந்த பொறுப்பு காரணமாக அவருடைய விளையாட்டு முறையை மாற்றிக் கொண்டார்.",
-            "image": {
-              "url": "/static/images/mahendra_singh_dhoni/Mahendra_Singh_Dhoni_batting.JPG",
-              "altText": "Image of Mahendra Singh Dhoni batting"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2004 முதல் தற்போது வரை",
-          "value": {
-            "facts": [
-              {
-                "label": "இந்திய கிரிக்கெட் அணி",
-                "url": "R1",
-                "value": {
-                  "label": "இந்திய கிரிக்கெட் அணி டீம் இந்தியா மற்றும் மென் இன் புளூ என்றும் அழைக்கப்படுகிறது. இந்திய கிரிக்கெட் கட்டுப்பாட்டு வாரியம் இதை நிர்வகிக்கிறது",
-                  "image": {
-                    "url": "/static/images/mahendra_singh_dhoni/Cricket_India_Crest.svg",
-                    "altText": "Image of Cricket India Crest"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2018 முதல் தற்போது வரை",
-          "value": {
-            "facts": [
-              {
-                "label": "சென்னை சூப்பர் கிங்ஸ்",
-                "url": "R5",
-                "value": {
-                  "label": "சென்னை சூப்பர் கிங்ஸ்  (சிஎஸ்கே), இந்தியாவில் சென்னையைச் சேர்ந்த ஐபிஎல் கிரிக்கெட் அணி.",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2004 முதல் தற்போது வரை",
-          "value": {
-            "facts": [
-              {
-                "label": "ஜார்கண்ட்",
-                "url": "https://en.wikipedia.org/wiki/Jharkhand_cricket_team",
-                "value": {
-                  "label": "ஜார்கண்ட் மாநிலத்தைச் சேர்ந்த உள்ளூர் ரஞ்சி டிராஃபி கிரிக்கெட் அணி. இது பீகார் அணிக்கு பதிலாக உருவானது.",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "ராஜீவ் காந்தி கேல் ரத்னா",
-          "tag": "2008",
-          "value": {
-            "label": "ராஜீவ் காந்தி கேல் ரத்னா விருது குடியரசு இந்தியாவில் விளையாட்டுத் துறையில் மிக மதிப்புமிக்க விருது ஆகும்.",
-            "image": {
-              "url": "/static/images/mahendra_singh_dhoni/Rajiv_Gandhi_Khel_Ratna_Award.jpg",
-              "altText": "Image of Rajiv Gandhi Khel Ratna Award"
-            }
-          }
-        },
-        {
-          "label": "பத்ம ஸ்ரீ",
-          "tag": "2009",
-          "value": {
-            "label": "இந்தியக் குடியரசின் நான்காவது மிக உயரிய குடிமக்கள் விருது பத்ம ஸ்ரீ ஆகும்",
-            "image": {
-              "url": "/static/images/mahendra_singh_dhoni/Padma_Shri_India_IIIe_Klasse.jpg",
-              "altText": "Image of Padma Shri India IIIe Klasse"
-            }
-          }
-        },
-        {
-          "label": "பத்ம பூஷன்",
-          "tag": "2018",
-          "value": {
-            "label": "இந்தியக் குடியரசின் மூன்றாவது மிக உயரிய குடிமக்கள் விருது பத்ம பூஷன் ஆகும்",
-            "image": {
-              "url": "/static/images/mahendra_singh_dhoni/Padma_Bhushan_India_IIe_Klasse.jpg",
-              "altText": "Image of Padma Bhushan India IIe Klasse"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "டிஏவி ஜவகர் வித்யா மந்திர், ராஞ்சி",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "இந்திய டெஸ்ட் போட்டிகளில் அதிகமான வெற்றிகளைப் பெற்றுத் தந்த கேப்டன் தோனி ஆவார்.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "4000 டெஸ்ட் ரன்கள் எடுத்த முதல் இந்திய விக்கெட் கீப்பர் தோனி",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "சென்னையில் நடந்த ஆஸ்திரேலியாவுக்கு எதிரான டெஸ்ட் போட்டியில் தோனியின் 224 ரன்கள், இந்திய கேப்டன்கள் எடுத்த ஸ்கோரில் மூன்றாவது அதிக ஸ்கோர் ஆகும்.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "தோனி டெஸ்ட் கேரியரில் மற்ற எந்த விக்கெட் கீப்பர்களையும் விட அதிகமான ஸ்டம்பிங்குகளை (38) செய்துள்ளார்.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "மொத்தமாக 100 சர்வதேச ஒரு நாள் போட்டிகளில் வெற்றிபெற்ற முதல் ஆஸ்திரேலியர் அல்லாத மூன்றாவது கேப்டன் தோனி ஆவார்.",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": "சென்னை சூப்பர் கிங்க்ஸ்"
           }
         }
       ]

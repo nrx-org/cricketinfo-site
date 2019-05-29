@@ -740,7 +740,7 @@
     {
       "label": "Which cricket team has won the most number of world cups?",
       "id": "mostWorldCups",
-      "date": "2019-05-22",
+      "dates": ["2019-05-22"],
       "options": [
         {
           "label": "Australia"
@@ -767,7 +767,7 @@
     {
       "label": "How many matches were played in the inaugural World Cup held in 1975?",
       "id": "firstEverWorldCup",
-      "date": "2019-05-22",
+      "dates": ["2019-05-22"],
       "options": [
         {
           "label": "19"

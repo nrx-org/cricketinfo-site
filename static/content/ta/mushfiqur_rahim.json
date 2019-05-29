@@ -1,22 +1,21 @@
 {
-  "id": "O42",
   "title": "முஷ்ஃபிகுர் ரஹீம்",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Mushfiqur_Rahim",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mushfiqur_Rahim",
   "coverImage": {
-    "url": "/static/images/mushfiqur_rahim/Mushfiqur_Rahim_batting_against_England_at_Lords_in_2010,_cropped.jpg",
-    "altText": "Image of Mushfiqur Rahim batting against England at Lords in 2010, cropped"
+    "url": "https://en.wikipedia.org/wiki/Mushfiqur_Rahim#/media/File:Mushfiqur_Rahim_batting_against_England_at_Lords_in_2010,_cropped.jpg",
+    "altText": "Image of முஷ்ஃபிகுர் ரஹீம்"
   },
   "summary": "மொஹம்மத் முஷ்ஃபிகுர் ரஹீம் ஒரு பங்களாதேஷ் கிரிக்கெட் வீரர், அவர் பங்களாதேஷ் கிரிக்கெட் அணியின் முன்னாள் கேப்டன்.",
   "translations": [
     {
-      "url": "/read/hi/mushfiqur_rahim",
-      "title": "मुशफिकुर रहीम ",
-      "lang": "hi"
+      "lang": "en",
+      "title": "Mushfiqur Rahim",
+      "url": "/read/en/mushfiqur_rahim"
     },
     {
-      "url": "/read/en/mushfiqur_rahim",
-      "title": "Mushfiqur Rahim",
-      "lang": "en"
+      "lang": "hi",
+      "title": "मुशफिकुर रहीम ",
+      "url": "/read/hi/mushfiqur_rahim"
     }
   ],
   "sections": [
@@ -27,71 +26,71 @@
         {
           "label": "Full Name",
           "value": {
-            "label": "மொஹம்மத் முஷ்ஃபிகுர் ரஹீம்",
-            "url": ""
+            "label": "மொஹம்மத் முஷ்ஃபிகுர் ரஹீம்"
           }
         },
         {
-          "label": "Born on",
+          "label": "Born On",
           "value": {
-            "label": "9 June 1987 ",
-            "url": ""
+            "label": "Invalid Date (age 31)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "போக்ரா, பங்களாதேஷ்",
-            "url": "SF92"
+            "url": "https://en.wikipedia.org/wiki/Bogra",
+            "contentUrl": "/static/content/ta/rishab_pant.json"
           }
         },
         {
           "label": "Height",
           "value": {
-            "label": "5 அடி 4 அங்குலம்",
-            "url": ""
+            "label": "5 அடி 4 அங்குலம்"
           }
-        },
-        {
-          "label": "Other Names",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Age",
-          "value": "31"
         },
         {
           "label": "Nationality",
           "value": {
-            "label": "பங்களாதேஷி",
-            "url": ""
+            "label": "பங்களாதேஷி"
           }
         },
         {
           "label": "Role",
           "value": {
-            "label": "விக்கெட் கீப்பர் பேட்ஸ்மென்",
-            "url": ""
+            "label": "விக்கெட் கீப்பர் பேட்ஸ்மென்"
           }
         }
       ]
     },
     {
-      "title": "Family",
+      "title": "Alma mater",
       "cardType": "avatar",
-      "label": "",
+      "facts": [
+        {
+          "label": "ஜஹாங்கிர்நகர் பல்கலைக்கழகம்",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/default_person.svg",
+              "altText": "Image of ஜஹாங்கிர்நகர் பல்கலைக்கழகம்"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Style of play",
+      "id": "7USMEDYWQpBH",
+      "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
             "label": "",
-            "url": "",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": "https://en.wikipedia.org/wiki/Mushfiqur_Rahim#/media/File:Mushfiqur_Rahim_batting_against_England_at_Lords_in_2010,_cropped.jpg",
+              "altText": "Style of play for முஷ்ஃபிகுர் ரஹீம்"
             }
           }
         }
@@ -103,58 +102,37 @@
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": 0,
+          "id": "SRLtIdVgf4L9",
           "note": "",
           "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "",
-                    "altText": ""
-                  }
-                }
-              }
-            ]
+            "label": ""
           }
         },
         {
           "label": "தேசிய அணி அறிமுகம்",
-          "id": 3,
+          "id": "uz6faLeSVsaG",
           "note": "",
           "value": {
-            "label": "2005 இல் பங்களாதேஷின் இங்கிலாந்து டூருக்கு ரஹீம் தேர்ந்தெடுக்கப்பட்டார். அதுதான் பங்களாதேஷ் இங்கிலாந்து செல்வது முதல் முறை ஆகும்.",
-            "facts": [
-              {
-                "label": "R4",
-                "value": {
-                  "label": "R4",
-                  "image": {
-                    "url": "R4",
-                    "altText": "R4"
-                  }
-                }
-              }
-            ]
+            "label": "2005 இல் பங்களாதேஷின் இங்கிலாந்து டூருக்கு ரஹீம் தேர்ந்தெடுக்கப்பட்டார். அதுதான் பங்களாதேஷ் இங்கிலாந்து செல்வது முதல் முறை ஆகும்."
           }
         },
         {
           "label": "முதல் ஐசிசி போட்டி ",
-          "id": 1,
+          "id": "2jg-AssxlY2W",
           "note": "2007",
           "value": {
             "label": "",
             "facts": [
               {
-                "label": "R4",
+                "url": "/read/ta/2007_cricket_world_cup",
+                "contentUrl": "/static/content/ta/2007_cricket_world_cup.json",
+                "label": "2007 கிரிக்கெட் உலகக் கோப்பை",
+                "id": "T90b7CrwwWrl",
                 "value": {
-                  "label": "R4",
+                  "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
                   "image": {
-                    "url": "R4",
-                    "altText": "R4"
+                    "url": "https://en.wikipedia.org/wiki/2007_Cricket_World_Cup#/media/File:2007_Cricket_World_Cup_logo.svg",
+                    "altText": "Image of 2007 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               }
@@ -163,18 +141,21 @@
         },
         {
           "label": "2011 உலக கோப்பை",
-          "id": 1,
+          "id": "SInjXoQfmczD",
           "note": "2011",
           "value": {
             "label": "",
             "facts": [
               {
-                "label": "R4",
+                "url": "/read/ta/2011_cricket_world_cup",
+                "contentUrl": "/static/content/ta/2011_cricket_world_cup.json",
+                "label": "2011 கிரிக்கெட் உலகக் கோப்பை",
+                "id": "WjWKqu5yNrIT",
                 "value": {
-                  "label": "R4",
+                  "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
                   "image": {
-                    "url": "R4",
-                    "altText": "R4"
+                    "url": "https://en.wikipedia.org/wiki/2011_Cricket_World_Cup#/media/File:2011_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2011 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               }
@@ -183,259 +164,10 @@
         },
         {
           "label": "உலகக் கோப்பை",
-          "id": 1,
+          "id": "47v23XYNuQtr",
+          "note": "2019",
           "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R4",
-                "value": {
-                  "label": "R4",
-                  "image": {
-                    "url": "R4",
-                    "altText": "R4"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R4",
-                "value": {
-                  "label": "R4",
-                  "image": {
-                    "url": "R4",
-                    "altText": "R4"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "id": 1,
-          "note": "",
-          "value": {
-            "label": "",
-            "facts": [
-              {
-                "label": "R4",
-                "value": {
-                  "label": "R4",
-                  "image": {
-                    "url": "R4",
-                    "altText": "R4"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Style of Play",
-      "cardType": "simple",
-      "facts": [
-        {
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/mushfiqur_rahim/Mushfiqur_Rahim_batting_against_England_at_Lords_in_2010,_cropped.jpg",
-              "altText": "Image of Mushfiqur Rahim batting against England at Lords in 2010, cropped"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Teams",
-      "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2004 முதல் தற்போது வரை",
-          "value": {
-            "facts": [
-              {
-                "label": "பங்ளாதேஷ் தேசிய கிரிக்கெட் அணி",
-                "url": "R18",
-                "value": {
-                  "label": "பங்ளாதேஷ் கிரிக்கெட் அணி \"தி டைகர்\" எனப் பிரபலமாக அழைக்கப்படுகிறது, பங்ளாதேஷ் கிரிக்கெட் வாரியம் (பிசிபி) இதை நிர்வகிக்கிறது.",
-                  "image": {
-                    "url": "/static/images/mushfiqur_rahim/Bangladesh_Cricket_Board_Logo.svg",
-                    "altText": "Image of Bangladesh Cricket Board Logo"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "facts": [
-              {
-                "label": "",
-                "url": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "facts": [
-              {
-                "label": "",
-                "url": "",
-                "value": {
-                  "label": "",
-                  "image": {
-                    "url": "/static/images/default_person.svg",
-                    "altText": "Image of null"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Awards & Honors",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": "",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "cardType": "tag_card",
-      "facts": [
-        {
-          "label": "ஜஹாங்கிர்நகர் பல்கலைக்கழகம்",
-          "tag": "",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Achievement & Records",
-      "cardType": "stories",
-      "facts": [
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "label": null,
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
+            "label": ""
           }
         }
       ]
