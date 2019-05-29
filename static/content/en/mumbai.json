@@ -1,22 +1,21 @@
 {
-  "id": "G2",
   "title": "Mumbai",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Mumbai",
   "summary": "Mumbai, also known as Bombay, the official name until 1995, is the capital city of the Indian state of Maharashtra. As of 2011 it is the most populous city in India.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mumbai",
   "coverImage": {
     "url": "/static/images/mumbai/Victoria_Terminus_-_CST.JPG",
-    "altText": "Image of Victoria Terminus   CST"
+    "altText": "Image of Mumbai"
   },
   "translations": [
     {
-      "title": "",
-      "url": "/read/hi/mumbai",
-      "lang": "hi"
+      "lang": "hi",
+      "title": "मुंबई",
+      "url": "/read/hi/mumbai"
     },
     {
-      "url": "/read/ta/mumbai",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "மும்பை",
+      "url": "/read/ta/mumbai"
     }
   ],
   "sections": [
@@ -25,65 +24,27 @@
       "cardType": "table",
       "facts": [
         {
-          "label": "",
+          "label": "Total Area of country (km squared)",
           "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Total Area",
-          "value": {
-            "label": "4355 km²",
-            "url": ""
+            "label": "4355 km²"
           }
         },
         {
           "label": "Population",
           "value": {
-            "label": "20,748,395",
-            "url": ""
+            "label": "20,748,395"
           }
         },
         {
           "label": "Other names",
           "value": {
-            "label": "Bombay, City of Seven Islands, City of Dreams, Gateway to India, Hollywood of India",
-            "url": ""
+            "label": "Bombay, City of Seven Islands, City of Dreams, Gateway to India, Hollywood of India"
           }
         },
         {
-          "label": "Capital",
+          "label": "Timezone",
           "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Timezone(s)",
-          "value": {
-            "label": "UTC+5:30",
-            "url": ""
+            "label": "UTC+5:30"
           }
         }
       ]
@@ -94,73 +55,52 @@
       "facts": [
         {
           "label": "Early history",
-          "id": 0,
+          "id": "history_phase_1_title",
           "note": "Unknown",
           "value": {
-            "label": "Mumbai is built on what was once an archipelago of seven islands: Isle of Bombay, Parel, Mazagaon, Mahim, Colaba, Worli, and Old Woman's Island (also known as Little Colaba). It is not exactly known when these islands were first inhabited.",
-            "facts": []
+            "label": "Mumbai is built on what was once an archipelago of seven islands: Isle of Bombay, Parel, Mazagaon, Mahim, Colaba, Worli, and Old Woman's Island (also known as Little Colaba). It is not exactly known when these islands were first inhabited."
           }
         },
         {
           "label": "Portuguese rule",
-          "id": 1,
+          "id": "history_phase_2_title",
           "note": "1500s",
           "value": {
-            "label": "The Portuguese were actively involved in the foundation and growth of their Roman Catholic religious orders in Bombay. They called the islands by various names, which finally took the written form Bombaim.",
-            "facts": []
+            "label": "The Portuguese were actively involved in the foundation and growth of their Roman Catholic religious orders in Bombay. They called the islands by various names, which finally took the written form Bombaim."
           }
         },
         {
           "label": "English rule",
-          "id": 1,
+          "id": "history_phase_3_title",
           "note": "17th Century",
           "value": {
-            "label": "The English were in constant struggle with the Portuguese vying for  Bombay, as they recognised its strategic natural harbour and its natural isolation from land-attacks. By the middle of the 17th century the growing power of the Dutch Empire forced the English to acquire a station in western India.",
-            "facts": []
+            "label": "The English were in constant struggle with the Portuguese vying for  Bombay, as they recognised its strategic natural harbour and its natural isolation from land-attacks. By the middle of the 17th century the growing power of the Dutch Empire forced the English to acquire a station in western India."
           }
         },
         {
           "label": "Independent India",
-          "id": 1,
+          "id": "history_phase_4_title",
           "note": "1947",
           "value": {
-            "label": "After India's independence in 1947, the territory of the Bombay Presidency retained by India was restructured into Bombay State. ",
-            "facts": []
+            "label": "After India's independence in 1947, the territory of the Bombay Presidency retained by India was restructured into Bombay State. "
           }
         }
       ]
     },
     {
+      "title": "In Sports",
       "cardType": "avatar",
-      "label": "It is administered by the Municipal Corporation of Greater Mumbai (MCGM) (sometimes referred to as the Brihanmumbai Municipal Corporation), formerly known as the Bombay Municipal Corporation (BMC). The MCGM is in charge of the civic and infrastructure needs of the metropolis. The Mayor is chosen through indirect election by the councillors from among themselves for a term of two and half years.",
+      "label": "",
       "facts": [
         {
+          "label": "Team",
           "value": {
-            "label": "",
-            "url": "",
+            "label": "Mumbai Indians",
+            "url": "/read/en/mumbai_indians",
+            "contentUrl": "/static/content/en/mumbai_indians.json",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": "/static/images/mumbai/Mumbai_Indians_Logo.svg",
+              "altText": "Picture of Mumbai Indians"
             }
           }
         }
@@ -168,16 +108,120 @@
     },
     {
       "title": "Geography",
+      "id": "mumbai_geography",
       "cardType": "simple",
       "facts": [
         {
-          "label": "Australia",
+          "label": "Mumbai",
           "value": {
             "label": "Mumbai lies at the mouth of the Ulhas River on the western coast of India, in the coastal region known as the Konkan. It sits on Salsette Island (Sashti Island), which it partially shares with the Thane district. Mumbai is bounded by the Arabian Sea to the west. Many parts of the city lie just above sea level.",
             "image": {
               "url": "/static/images/mumbai/Ghodbunder2.jpg",
-              "altText": "Image of Ghodbunder2"
+              "altText": "An image of Mumbai"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Culture",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Asiatic Society of Bombay",
+          "id": "culture-asiatic_society_of_bombay",
+          "value": {
+            "label": "Asiatic Society of Bombay is one of the oldest public libraries in the city.",
+            "image": {
+              "url": "/static/images/mumbai/Mumbai_03-2016_70_Asiatic_Society_Library.jpg",
+              "altText": "Asiatic Society of Bombay is one of the oldest public libraries in the city."
+            }
+          }
+        },
+        {
+          "label": "Girgaum Chowpatty beach",
+          "id": "culture-girgaum_chowpatty_beach",
+          "value": {
+            "label": "Beaches are a popular tourist attraction in Mumbai.",
+            "image": {
+              "url": "/static/images/mumbai/Chowpatti_Beach_%28Girgaum_Chowpatty%29.jpg",
+              "altText": "Beaches are a popular tourist attraction in Mumbai.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Brabourne Stadium",
+          "id": "culture-brabourne_stadium",
+          "value": {
+            "label": "One of the oldest cricket stadiums in India.",
+            "image": {
+              "url": "/static/images/mumbai/Brabourne.jpg",
+              "altText": "One of the oldest cricket stadiums in India."
+            }
+          }
+        },
+        {
+          "label": "Cinema",
+          "id": "culture-cinema",
+          "value": {
+            "label": "Mumbai is the birthplace of Indian cinema",
+            "image": {
+              "url": "/static/images/mumbai/India_film_clapperboard_%28variant%29.svg",
+              "altText": "Mumbai is the birthplace of Indian cinema",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_mumbai",
+          "label": "Languages",
+          "value": {
+            "label": "Mumbai has a large polyglot population like any other metropolitan city of India. Sixteen major languages of India are also spoken in Mumbai, with the most common being Marathi and its dialect East Indian, Hindi, Gujarati and English"
+          }
+        },
+        {
+          "id": "religion_section_mumbai",
+          "label": "Religions",
+          "value": {
+            "facts": [
+              {
+                "id": "religion_0",
+                "label": "Hinduism",
+                "value": 65.99
+              },
+              {
+                "id": "religion_1",
+                "label": "Islam ",
+                "value": 20.65
+              },
+              {
+                "id": "religion_2",
+                "label": "Buddhism ",
+                "value": 4.85
+              },
+              {
+                "id": "religion_3",
+                "label": "Jainism",
+                "value": 4.1
+              },
+              {
+                "id": "religion_4",
+                "label": "Christianity",
+                "value": 3.27
+              },
+              {
+                "id": "religion_5",
+                "label": "Others ",
+                "value": 1.15
+              }
+            ]
           }
         }
       ]

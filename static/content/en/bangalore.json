@@ -1,22 +1,21 @@
 {
-  "id": "G1",
   "title": "Bangalore",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Bangalore",
   "summary": "Bangalore, officially known as Bengaluru, is the capital of the Indian state of Karnataka. It has a population of over ten million, making it a megacity and the third-most populous city and fifth-most populous urban agglomeration in India.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bangalore",
   "coverImage": {
     "url": "/static/images/bangalore/Glasshouse_and_fountain_at_lalbagh.jpg",
-    "altText": "Image of Glasshouse and fountain at lalbagh"
+    "altText": "Image of Bangalore"
   },
   "translations": [
     {
-      "title": "",
-      "url": "/read/hi/bangalore",
-      "lang": "hi"
+      "lang": "hi",
+      "title": "बैंगलोर",
+      "url": "/read/hi/bangalore"
     },
     {
-      "url": "/read/ta/bangalore",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "பெங்களூரு",
+      "url": "/read/ta/bangalore"
     }
   ],
   "sections": [
@@ -25,65 +24,27 @@
       "cardType": "table",
       "facts": [
         {
-          "label": "",
+          "label": "Total Area of country (km squared)",
           "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "",
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Total Area",
-          "value": {
-            "label": "8005 km²",
-            "url": ""
+            "label": "8005 km²"
           }
         },
         {
           "label": "Population",
           "value": {
-            "label": "10,456,000",
-            "url": ""
+            "label": "10,456,000"
           }
         },
         {
           "label": "Other names",
           "value": {
-            "label": "Bengaluru, Silicon Valley of India, Garden City",
-            "url": ""
+            "label": "Bengaluru, Silicon Valley of India, Garden City"
           }
         },
         {
-          "label": "Capital",
+          "label": "Timezone",
           "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Timezone(s)",
-          "value": {
-            "label": "UTC+05:30",
-            "url": ""
+            "label": "UTC+05:30"
           }
         }
       ]
@@ -94,73 +55,52 @@
       "facts": [
         {
           "label": "Early and Medieval History",
-          "id": 0,
+          "id": "history_phase_1_title",
           "note": "4000 BCE",
           "value": {
-            "label": "A discovery of Stone Age artefacts during the 2001 census of India at Jalahalli, Sidhapura and Jadigenahalli, all of which are located on Bangalore's outskirts today, suggest probable human settlement around 4,000 BCE.",
-            "facts": []
+            "label": "A discovery of Stone Age artefacts during the 2001 census of India at Jalahalli, Sidhapura and Jadigenahalli, all of which are located on Bangalore's outskirts today, suggest probable human settlement around 4,000 BCE."
           }
         },
         {
           "label": "Foundation and early modern history",
-          "id": 1,
+          "id": "history_phase_2_title",
           "note": "1537",
           "value": {
-            "label": "Modern Bangalore was begun in 1537 by a vassal of the Vijayanagara Empire, Kempe Gowda I, who built a mud-brick fort for the people at the site that would become the central part of modern Bangalore.",
-            "facts": []
+            "label": "Modern Bangalore was begun in 1537 by a vassal of the Vijayanagara Empire, Kempe Gowda I, who built a mud-brick fort for the people at the site that would become the central part of modern Bangalore."
           }
         },
         {
           "label": "Later modern and contemporary history",
-          "id": 1,
+          "id": "history_phase_3_title",
           "note": "19th Century",
           "value": {
-            "label": "Bangalore essentially became a twin city, with the \"pētē\", whose residents were predominantly Kannadigas and the cantonment created by the British.",
-            "facts": []
+            "label": "Bangalore essentially became a twin city, with the \"pētē\", whose residents were predominantly Kannadigas and the cantonment created by the British."
           }
         },
         {
           "label": "Mahatma Gandhi visits",
-          "id": 1,
+          "id": "history_phase_4_title",
           "note": "1927",
           "value": {
-            "label": "Bangalore played an important role during the Indian independence movement. Mahatma Gandhi visited the city in 1927 and 1934 and addressed public meetings here.",
-            "facts": []
+            "label": "Bangalore played an important role during the Indian independence movement. Mahatma Gandhi visited the city in 1927 and 1934 and addressed public meetings here."
           }
         }
       ]
     },
     {
+      "title": "In Sports",
       "cardType": "avatar",
-      "label": "The Bruhat Bengaluru Mahanagara Palike (BBMP, Greater Bangalore Municipal Corporation) is in charge of the civic administration of the city. ",
+      "label": "",
       "facts": [
         {
+          "label": "Team",
           "value": {
-            "label": "",
-            "url": "",
+            "label": "Royal Challengers Bangalore",
+            "url": "/read/en/royal_challengers_bangalore",
+            "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": "/static/images/bangalore/Royal_Challengers_Bangalore_Logo_2016.svg",
+              "altText": "Picture of Royal Challengers Bangalore"
             }
           }
         }
@@ -168,16 +108,113 @@
     },
     {
       "title": "Geography",
+      "id": "bangalore_geography",
       "cardType": "simple",
       "facts": [
         {
-          "label": "Australia",
+          "label": "Bangalore",
           "value": {
             "label": "The topology of Bangalore is generally flat, though the western parts of the city are hilly. The highest point is Vidyaranyapura Doddabettahalli, which is 962 metres (3,156 feet) and is situated to the north-west of the city.",
             "image": {
-              "url": "/static/images/bangalore/null",
-              "altText": "Image of null"
+              "altText": "An image of Bangalore",
+              "license": ""
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Culture",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Garden City of India",
+          "id": "culture-garden_city_of_india",
+          "value": {
+            "label": "Bangalore is known as the \"Garden City of India\" because of its greenery, broad streets and the presence of many public parks.",
+            "image": {
+              "url": "/static/images/bangalore/Glasshouse_and_fountain_at_lalbagh.jpg",
+              "altText": "Bangalore is known as the \"Garden City of India\" because of its greenery, broad streets and the presence of many public parks."
+            }
+          }
+        },
+        {
+          "label": "Art and Literature",
+          "id": "culture-art_and_literature",
+          "value": {
+            "label": "Kannada literature appears to have flourished in Bangalore even before Kempe Gowda laid the foundations of the city. ",
+            "image": {
+              "url": "/static/images/bangalore/Halmidi_OldKannada_inscription.JPG",
+              "altText": "Kannada literature appears to have flourished in Bangalore even before Kempe Gowda laid the foundations of the city. "
+            }
+          }
+        },
+        {
+          "label": "Yakshagana",
+          "id": "culture-yakshagana",
+          "value": {
+            "label": "A theatre art of coastal Karnataka is often played in town hall.",
+            "image": {
+              "url": "/static/images/bangalore/Demon_Yakshagana.jpg",
+              "altText": "A theatre art of coastal Karnataka is often played in town hall."
+            }
+          }
+        },
+        {
+          "label": "Bangalore Karaga",
+          "id": "culture-bangalore_karaga",
+          "value": {
+            "label": "Bangalore Karaga is one of the most important and oldest festivals of Bangalore dedicated to the Hindu Goddess Draupadi",
+            "image": {
+              "url": "/static/images/bangalore/Huvina_Karaga.jpg",
+              "altText": "Bangalore Karaga is one of the most important and oldest festivals of Bangalore dedicated to the Hindu Goddess Draupadi"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_bangalore",
+          "label": "Languages",
+          "value": {
+            "label": "According to census 2011, Kannada  46%, Tamil  13.99%, Telugu 13.89%, Urdu  12%, Hindi 5.4%, Malayalam  2.8%, Marathi 1.8%"
+          }
+        },
+        {
+          "id": "religion_section_bangalore",
+          "label": "Religions",
+          "value": {
+            "facts": [
+              {
+                "id": "religion_0",
+                "label": "Hinduism ",
+                "value": 78.87
+              },
+              {
+                "id": "religion_1",
+                "label": "Islam ",
+                "value": 13.9
+              },
+              {
+                "id": "religion_2",
+                "label": "Christianity ",
+                "value": 5.61
+              },
+              {
+                "id": "religion_3",
+                "label": "Jainism ",
+                "value": 0.97
+              },
+              {
+                "id": "religion_4",
+                "label": "Others ",
+                "value": 0.65
+              }
+            ]
           }
         }
       ]

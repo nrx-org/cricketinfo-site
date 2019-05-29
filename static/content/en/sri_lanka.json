@@ -1,22 +1,21 @@
 {
-  "id": "G7",
   "title": "Sri Lanka",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Sri_Lanka",
   "summary": "Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka, is an island country in South Asia, located in the Indian Ocean to the southwest of the Bay of Bengal and to the southeast of the Arabian Sea. ",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sri_Lanka",
   "coverImage": {
     "url": "/static/images/sri_lanka/Flag_of_Sri_Lanka.svg",
-    "altText": "Image of Flag of Sri Lanka"
+    "altText": "Image of Sri Lanka"
   },
   "translations": [
     {
-      "title": "",
-      "url": "/read/hi/sri_lanka",
-      "lang": "hi"
+      "lang": "hi",
+      "title": "श्री लंका",
+      "url": "/read/hi/sri_lanka"
     },
     {
-      "url": "/read/ta/sri_lanka",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "இலங்கை",
+      "url": "/read/ta/sri_lanka"
     }
   ],
   "sections": [
@@ -27,63 +26,49 @@
         {
           "label": "Independence Day",
           "value": {
-            "label": "4 February 1948",
-            "url": ""
+            "label": "4 February 1948"
           }
         },
         {
           "label": "Republic Day",
           "value": {
-            "label": "22 May 1972 ",
-            "url": ""
+            "label": "22 May 1972 "
           }
         },
         {
-          "label": "",
+          "label": "Total Area of country (km squared)",
           "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Total Area",
-          "value": {
-            "label": "65610 km²",
-            "url": ""
+            "label": "65610 km²"
           }
         },
         {
           "label": "Population",
           "value": {
-            "label": "21,670,000 (2018)",
-            "url": ""
+            "label": "21,670,000 (2018)"
           }
         },
         {
           "label": "Other names",
           "value": {
-            "label": "Ceylon",
-            "url": ""
+            "label": "Ceylon"
           }
         },
         {
-          "label": "Capital",
+          "label": "Capital city",
           "value": {
-            "label": "Sri Jayawardenepura Kotte",
-            "url": ""
+            "label": "Sri Jayawardenepura Kotte"
           }
         },
         {
+          "label": "Largest city",
           "value": {
-            "label": "Colombo",
-            "url": ""
+            "label": "Colombo"
           }
         },
         {
-          "label": "Timezone(s)",
+          "label": "Timezone",
           "value": {
-            "label": "UTC+5:30",
-            "url": ""
+            "label": "UTC+5:30"
           }
         }
       ]
@@ -94,73 +79,91 @@
       "facts": [
         {
           "label": "Prehistory",
-          "id": 0,
+          "id": "history_phase_1_title",
           "note": "",
           "value": {
-            "label": "Evidence of human colonization in Sri Lanka appears at the site of Balangoda. Balangoda Man arrived on the island about 34,000 years ago and have been identified as Mesolithic hunter gatherers who lived in caves. ",
-            "facts": []
+            "label": "Evidence of human colonization in Sri Lanka appears at the site of Balangoda. Balangoda Man arrived on the island about 34,000 years ago and have been identified as Mesolithic hunter gatherers who lived in caves. "
           }
         },
         {
           "label": "Pre Anuradhapura period",
-          "id": 1,
+          "id": "history_phase_2_title",
           "note": "377 BCE–1017",
           "value": {
-            "label": "The Pre Anuradhapura period or the Early kingdoms period of Sri Lankan history begins with the gradual onset of historical records in the final centuries of the prehistoric period and ending in 377 BC. According to the Mahavamsa, the original inhabitants of Sri Lanka are the Yakshas and northern Naga tribes.",
-            "facts": []
+            "label": "The Pre Anuradhapura period or the Early kingdoms period of Sri Lankan history begins with the gradual onset of historical records in the final centuries of the prehistoric period and ending in 377 BC. According to the Mahavamsa, the original inhabitants of Sri Lanka are the Yakshas and northern Naga tribes."
           }
         },
         {
           "label": "Anuradhapura period",
-          "id": 1,
+          "id": "history_phase_3_title",
           "note": "377 BCE–1017",
           "value": {
-            "label": "The Anuradhapura period was a period in the history of Sri Lanka of the Anuradhapura Kingdom from 377 BC to 1017 AD. The period begins when Pandukabhaya, King of Upatissa Nuwara moved the administration to Anuradhapura, becoming the kingdom's first monarch. Anuradhapura is heralded as an ancient cosmopolitan citadel with diverse populations.",
-            "facts": []
+            "label": "The Anuradhapura period was a period in the history of Sri Lanka of the Anuradhapura Kingdom from 377 BC to 1017 AD. The period begins when Pandukabhaya, King of Upatissa Nuwara moved the administration to Anuradhapura, becoming the kingdom's first monarch. Anuradhapura is heralded as an ancient cosmopolitan citadel with diverse populations."
           }
         },
         {
           "label": "Polonnaruwa period",
-          "id": 1,
+          "id": "history_phase_4_title",
           "note": "1056–1232",
           "value": {
-            "label": "The Polonnaruwa period was a period in the history of Sri Lanka of the Kingdom of Polonnaruwa from 1056 to 1236. The period begins after the Chola conquest of Anuradhapura.",
-            "facts": []
+            "label": "The Polonnaruwa period was a period in the history of Sri Lanka of the Kingdom of Polonnaruwa from 1056 to 1236. The period begins after the Chola conquest of Anuradhapura."
           }
         }
       ]
     },
     {
+      "title": "Government",
       "cardType": "avatar",
       "label": "Politics of Sri Lanka takes place in a framework of a semi-presidential representative democratic republic, whereby the President of Sri Lanka is both head of state and head of government, and of a multi-party system. Executive power is exercised by the government. Legislative power is vested in both the government and Parliament.",
       "facts": [
         {
+          "label": "Prime minister name",
           "value": {
             "label": "Ranil Wickremesinghe",
-            "url": "",
             "image": {
-              "url": "/static/images/sri_lanka/Prime_Minister_Ranil_Wickremesinghe_Portrait,_2017.jpg",
-              "altText": "Image of Prime Minister Ranil Wickremesinghe Portrait, 2017"
+              "url": "/static/images/sri_lanka/Prime_Minister_Ranil_Wickremesinghe_Portrait%2C_2017.jpg",
+              "altText": "Picture of Ranil Wickremesinghe",
+              "license": ""
             }
           }
         },
         {
+          "label": "President",
           "value": {
             "label": "Maithripala Sirisena",
-            "url": "",
             "image": {
-              "url": "/static/images/sri_lanka/Maithripala-_Russia_(portrait).jpg",
-              "altText": "Image of Maithripala  Russia (portrait)"
+              "url": "/static/images/sri_lanka/Maithripala-_Russia_%28portrait%29.jpg",
+              "altText": "Picture of Maithripala Sirisena",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">Attribution 4.0 International</a> license.</p>"
             }
           }
         },
         {
+          "label": "Chief Justice name",
           "value": {
             "label": "Justice Hettikankanange Nalin Jayalath Perera ",
-            "url": "",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": "",
+              "altText": "Picture of Justice Hettikankanange Nalin Jayalath Perera "
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "Sri Lanka national cricket team",
+            "url": "/read/en/sri_lanka_national_cricket_team",
+            "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
+            "image": {
+              "url": "/static/images/sri_lanka/Sri_Lanka_Cricket_Cap_Insignia.svg",
+              "altText": "Picture of Sri Lanka national cricket team"
             }
           }
         }
@@ -168,16 +171,113 @@
     },
     {
       "title": "Geography",
+      "id": "sri_lanka_geography",
       "cardType": "simple",
       "facts": [
         {
-          "label": "Australia",
+          "label": "Sri Lanka",
           "value": {
             "label": "Sri Lanka, formerly called \"Ceylon\", is an island nation in the Indian Ocean, southeast of the Indian subcontinent, in a strategic location near major Indian Ocean sea lanes. The nation has a total area of 65,610 km², with 64,740 km² of land and 870 km² of water. Its coastline is 1,340 km (830 mi) long.",
             "image": {
-              "url": "/static/images/sri_lanka/null",
-              "altText": "Image of null"
+              "altText": "An image of Sri Lanka",
+              "license": ""
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Culture",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Food",
+          "id": "culture-food",
+          "value": {
+            "label": "Dishes include rice and curry, pittu, kiribath, wholemeal roti, string hoppers, wattalapam, kottu, and hoppers.",
+            "image": {
+              "url": "/static/images/sri_lanka/SL-rice_and_curry.jpg",
+              "altText": "Dishes include rice and curry, pittu, kiribath, wholemeal roti, string hoppers, wattalapam, kottu, and hoppers."
+            }
+          }
+        },
+        {
+          "label": "Festivals",
+          "id": "culture-festivals",
+          "value": {
+            "label": "In April, Sri Lankans celebrate the Buddhist and Hindu new year festival.",
+            "image": {
+              "url": "/static/images/sri_lanka/Vavuniya_Kavadi.JPG",
+              "altText": "In April, Sri Lankans celebrate the Buddhist and Hindu new year festival."
+            }
+          }
+        },
+        {
+          "label": "Sports",
+          "id": "culture-sports",
+          "value": {
+            "label": "While the national sport in Sri Lanka is volleyball, by far the most popular sport in the country is cricket.",
+            "image": {
+              "url": "/static/images/sri_lanka/SCC_Ground_Colombo.jpg",
+              "altText": "While the national sport in Sri Lanka is volleyball, by far the most popular sport in the country is cricket."
+            }
+          }
+        },
+        {
+          "label": "Performing arts",
+          "id": "culture-performing_arts",
+          "value": {
+            "label": "There are three main styles of Sri Lankan classical dance. They are, the Kandyan dances, low country dances and Sabaragamuwa dances.",
+            "image": {
+              "url": "/static/images/sri_lanka/Sri_Lanka_traditional_drum.jpg",
+              "altText": "There are three main styles of Sri Lankan classical dance. They are, the Kandyan dances, low country dances and Sabaragamuwa dances."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_sri_lanka",
+          "label": "Languages",
+          "value": {
+            "label": "Sinhala and Tamil are the two official languages of Sri Lanka. The Constitution defines English as the link language"
+          }
+        },
+        {
+          "id": "religion_section_sri_lanka",
+          "label": "Religions",
+          "value": {
+            "facts": [
+              {
+                "id": "religion_0",
+                "label": "Theravada Buddhists",
+                "value": 70.2
+              },
+              {
+                "id": "religion_1",
+                "label": "Hindus",
+                "value": 12.6
+              },
+              {
+                "id": "religion_2",
+                "label": "Muslims",
+                "value": 9.7
+              },
+              {
+                "id": "religion_3",
+                "label": "Roman Catholic",
+                "value": 6.1
+              },
+              {
+                "id": "religion_4",
+                "label": "Other Christian",
+                "value": 1.3
+              }
+            ]
           }
         }
       ]

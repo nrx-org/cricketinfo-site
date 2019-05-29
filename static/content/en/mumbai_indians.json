@@ -1,0 +1,380 @@
+{
+  "title": "Mumbai Indians",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mumbai_Indians",
+  "coverImage": {
+    "url": "/static/images/mumbai_indians/Mumbai_Indians_Logo.svg",
+    "altText": "Image of Mumbai Indians"
+  },
+  "summary": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/mumbai_indians"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/mumbai_indians"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Location",
+          "value": {
+            "label": "Mumbai"
+          }
+        },
+        {
+          "label": "Established on",
+          "value": {
+            "label": "2008"
+          }
+        },
+        {
+          "label": "Association",
+          "value": {
+            "label": "Indian Premier League"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Roles",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "label": "Test Captain",
+          "value": {
+            "label": "",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of "
+            }
+          }
+        },
+        {
+          "label": "ODI Captain",
+          "value": {
+            "label": "",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of "
+            }
+          }
+        },
+        {
+          "label": "T20I Captain",
+          "value": {
+            "label": "Rohit Sharma",
+            "url": "/read/en/rohit_sharma",
+            "image": {
+              "url": "/static/images/mumbai_indians/Rohit_Sharma_November_2016_%28cropped%29.jpg",
+              "altText": "Image of Rohit Sharma",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Coach",
+          "value": {
+            "label": "Mahela Jayawardene",
+            "url": null,
+            "image": {
+              "url": "/static/images/mumbai_indians/Mahela_Jayawardene_3.JPG",
+              "altText": "Image of Mahela Jayawardene"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Popular Venue",
+      "id": "r7-wankhede_stadium",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "Wankhede Stadium",
+          "value": {
+            "label": "The Wankhede Stadium in Mumbai has been host to numerous high-profile cricket matches in the past, most notable being the 2011 Cricket World Cup Final, in which India defeated Sri Lanka by 6 wickets. The stadium witnessed the last match of Sachin Tendulkar's international career.",
+            "image": {
+              "url": "/static/images/mumbai_indians/Wankhede_ICC_WCF.jpg",
+              "altText": "Image of Wankhede Stadium"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Struggle in the initial seasons",
+          "id": 3,
+          "note": "2008 - 2009",
+          "value": {
+            "label": "In 2008, they finished 5th on the points table. In 2009, they finished 7th.",
+            "facts": [
+              {
+                "label": "IPL 2008",
+                "url": null,
+                "id": 1,
+                "value": {
+                  "label": "The 2008 season was the inaugural season of the Indian Premier League. It was won by Rajasthan Royals.",
+                  "image": {
+                    "url": "/static/images/mumbai_indians/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2008"
+                  }
+                }
+              },
+              {
+                "label": "IPL 2009",
+                "url": null,
+                "id": 1,
+                "value": {
+                  "label": "The 2009 season was hosted by South Africa and was won by Deccan Chargers",
+                  "image": {
+                    "url": "/static/images/mumbai_indians/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2009"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Rise as a strong team",
+          "id": 3,
+          "note": "2010 - 2012",
+          "value": {
+            "label": "In the 2010 season, they reached the finals for the first time, losing to Chennai Super Kings. In the 2011 season, they made it to the semifinals, and then beat Bangalore to win the  2011 Champions League Twenty20 held in India. They then finished 3rd on the points table in the 2012 season",
+            "facts": [
+              {
+                "label": "IPL 2010",
+                "url": "/read/en/2010_indian_premier_league",
+                "id": 1,
+                "value": {
+                  "label": "The 2010 season was won by Chennai Super Kings",
+                  "image": {
+                    "url": "/static/images/mumbai_indians/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2010"
+                  }
+                }
+              },
+              {
+                "label": "IPL 2011",
+                "url": "/read/en/2011_indian_premier_league",
+                "id": 1,
+                "value": {
+                  "label": "The 2011 season was won by the Chennai Super Kings for the second successive season.",
+                  "image": {
+                    "url": "/static/images/mumbai_indians/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2011"
+                  }
+                }
+              },
+              {
+                "label": "IPL 2012",
+                "url": null,
+                "id": 1,
+                "value": {
+                  "label": "The 2012 season was won by Kolkata Knight Riders who beat defending champions Chennai in the finals",
+                  "image": {
+                    "url": "/static/images/mumbai_indians/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2012"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "The IPL and CLT20 Double",
+          "id": 3,
+          "note": "2013",
+          "value": {
+            "label": "Rohit Sharma took lead of the team. Having the experienced advice of Anil Kumble, Jonty Rhodes and Sachin Tendulkar, the team emerged victorious over Chennai Super Kings in the final. They continued their winning streak in the Champions League, beating Perth Scorchers by 33 runs to clinch the title ",
+            "facts": [
+              {
+                "label": "IPL 2013",
+                "url": null,
+                "id": 1,
+                "value": {
+                  "label": "The 2013 season was won by Mumbai Indians ",
+                  "image": {
+                    "url": "/static/images/mumbai_indians/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2013"
+                  }
+                }
+              },
+              {
+                "label": "Rohit Sharma ",
+                "url": "/read/en/rohit_sharma",
+                "id": 1,
+                "value": {
+                  "label": "Rohit Sharma was installed as captain",
+                  "image": {
+                    "url": "/static/images/mumbai_indians/Rohit_Sharma_November_2016_%28cropped%29.jpg",
+                    "altText": "Image of Rohit Sharma ",
+                    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Record Setting stint",
+          "id": 3,
+          "note": "2014 - Present",
+          "value": {
+            "label": "In the 2014 season, Mumbai Indians reached the play-offs but lost against the Chennai Super Kings in the eliminator.\n\nIn the 2015 season, they defeated Chennai Super Kings by 41 runs to clinch their second IPL title.\n\nIn the 2016 season, they finished 5th.\n\nIn the 2017 season, they beat Rising Pune Supergiant in a nail-biting finish which is often hailed as the best IPL match and IPL final till date.\n\nIn the 2018 season, they finished at 5th spot again.",
+            "facts": [
+              {
+                "label": "IPL 2014",
+                "url": null,
+                "id": 1,
+                "value": {
+                  "label": "The 2014 season was hosted by India and UAE. Kolkata Knight Riders were the champions",
+                  "image": {
+                    "url": "/static/images/mumbai_indians/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2014"
+                  }
+                }
+              },
+              {
+                "label": "IPL 2015",
+                "url": null,
+                "id": 1,
+                "value": {
+                  "label": "The 2015 season was won by Mumbai Indians.",
+                  "image": {
+                    "url": "/static/images/mumbai_indians/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2015"
+                  }
+                }
+              },
+              {
+                "label": "IPL 2017",
+                "url": "/read/en/2017_indian_premier_league",
+                "id": 1,
+                "value": {
+                  "label": "The 2017 season was won by Mumbai Indians",
+                  "image": {
+                    "url": "/static/images/mumbai_indians/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2017"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Famous Players",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Sachin Tendulkar",
+          "id": "sachin_tendulkar",
+          "value": {
+            "url": null,
+            "label": "Sachin Tendulkar was named Mumbai's icon player and was captain of the team until the 2012 season",
+            "image": {
+              "url": "/static/images/mumbai_indians/Sachin_Tendulkar_at_MRF_Promotion_Event.jpg",
+              "altText": "Image of Sachin Tendulkar"
+            }
+          }
+        },
+        {
+          "label": "Rohit Sharma",
+          "id": "rohit_sharma",
+          "value": {
+            "url": null,
+            "label": "Rohit Sharma became the captain of Mumbai Indians in 2013 and has since led them to three IPL titles.",
+            "image": {
+              "url": "/static/images/mumbai_indians/Rohit_Sharma_November_2016_%28cropped%29.jpg",
+              "altText": "Image of Rohit Sharma",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Lasith Malinga",
+          "id": "lasith_malinga",
+          "value": {
+            "url": null,
+            "label": "Lasith Malinga of Mumbai Indians is the leading wicket-taker in IPL with 150 wickets since its inception.",
+            "image": {
+              "url": "/static/images/mumbai_indians/Lasith_Malinga_signing.jpg",
+              "altText": "Image of Lasith Malinga"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Triple Trouble",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "After winning the 2017 season,  Mumbai Indians became the most successful team in the history of IPL with 3 IPL titles. While playing the tournament, they also won their 100th T20, becoming the first IPL team to do so.",
+            "facts": [
+              {
+                "label": "IPL 2017",
+                "id": "triple_trouble-ipl_2017",
+                "url": "/read/en/2017_indian_premier_league",
+                "value": {
+                  "label": "The 2017 season of the Indian Premier League, also known as IPL 10 and branded as Vivo IPL 2017, was the tenth edition of the IPL",
+                  "image": {
+                    "url": "/static/images/mumbai_indians/Indian_Premier_League_Logo.png",
+                    "altText": "Image of Triple Trouble"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sponsors",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "value": {
+            "label": "Performax",
+            "url": null,
+            "image": {
+              "url": "/static/images/mumbai_indians/Performax_Logo.jpg",
+              "altText": "Image of Performax"
+            }
+          }
+        },
+        {
+          "label": "Shirt Sponsor",
+          "value": {
+            "label": "Samsung",
+            "url": null,
+            "image": {
+              "url": "/static/images/mumbai_indians/Samsung_wordmark.svg",
+              "altText": "Image of Samsung"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "title": "Kolkata Knight Riders",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kolkata_Knight_Riders",
+  "coverImage": {
+    "url": "/static/images/kolkata_knight_riders/Kolkata_Knight_Riders_Logo.svg",
+    "altText": "Image of Kolkata Knight Riders"
+  },
+  "summary": "The Kolkata Knight Riders (also known by the acronym KKR) are a franchise cricket team representing the city of Kolkata in the Indian Premier League. ",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/kolkata_knight_riders"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/kolkata_knight_riders"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Location",
+          "value": {
+            "label": "Kolkata"
+          }
+        },
+        {
+          "label": "Established on",
+          "value": {
+            "label": "2008"
+          }
+        },
+        {
+          "label": "Association",
+          "value": {
+            "label": "Indian Premier League"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Roles",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "label": "Test Captain",
+          "value": {
+            "label": "",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of "
+            }
+          }
+        },
+        {
+          "label": "ODI Captain",
+          "value": {
+            "label": "",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of "
+            }
+          }
+        },
+        {
+          "label": "T20I Captain",
+          "value": {
+            "label": "Dinesh Karthik",
+            "url": "/read/en/dinesh_karthik",
+            "image": {
+              "url": "/static/images/kolkata_knight_riders/Dinesh.Karthik.jpg",
+              "altText": "Image of Dinesh Karthik"
+            }
+          }
+        },
+        {
+          "label": "Coach",
+          "value": {
+            "label": "Jacques Kallis",
+            "url": "/read/en/allan_donald",
+            "image": {
+              "url": "/static/images/kolkata_knight_riders/JAQUES_KALLIS_%283175901786%29.jpg",
+              "altText": "Image of Jacques Kallis",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Popular Venue",
+      "id": "r10-eden_gardens",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "Eden Gardens",
+          "value": {
+            "label": "Eden Gardens is a cricket ground in Kolkata, India established in 1864. It is the oldest cricket stadium in India. It is the home venue of the Bengal cricket team and the IPL franchise cricket team Kolkata Knight Riders.",
+            "image": {
+              "url": "/static/images/kolkata_knight_riders/Eden_Gardens_under_floodlights_during_a_match.jpg",
+              "altText": "Image of Eden Gardens"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Franchise history",
+          "id": 3,
+          "note": "2008",
+          "value": {
+            "label": " The team representing Kolkata was bought by Bollywood superstar Shah Rukh Khan's company Red Chillies Entertainment in partnership with actress Juhi Chawla and her husband Jay Mehta for a price of $75.09 million.",
+            "facts": []
+          }
+        },
+        {
+          "label": "Sourav Ganguly",
+          "id": 3,
+          "note": "2011",
+          "value": {
+            "label": "Former captain and icon player Sourav Ganguly was not purchased in the January auction. This led to protest rallies, signature campaigns throughout the country and abroad along with stadium protests by various fan groups, such as No Dada No KKR,[27] which received both national and international press attention",
+            "facts": []
+          }
+        },
+        {
+          "label": "New logo",
+          "id": 3,
+          "note": "2012",
+          "value": {
+            "label": "It was in 2012 that the current logo, which has a blazing purple Corinthian helmet trimmed with gold, with Kolkata Knight Riders written within a shield was introduced.",
+            "facts": []
+          }
+        },
+        {
+          "label": "IPL 2018",
+          "id": 3,
+          "note": "2018",
+          "value": {
+            "label": "On 4 March 2018, Dinesh Karthik was appointed as the captain of KKR for IPL 2018 and Robin Uthappa was named vice-captain.",
+            "facts": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Famous Players",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Dinesh Karthik",
+          "id": "dinesh_karthik",
+          "value": {
+            "url": null,
+            "label": "Dinesh Karthik made his maiden Test century against Bangladesh and then was India's leading scorer in the Test tour of England, helping India to win their first series in England in 21 years.",
+            "image": {
+              "url": "/static/images/kolkata_knight_riders/Dinesh.Karthik.jpg",
+              "altText": "Image of Dinesh Karthik"
+            }
+          }
+        },
+        {
+          "label": "Robin Uthappa",
+          "id": "robin_uthappa",
+          "value": {
+            "url": null,
+            "label": "Robin Uthappa  is named 'The Walking Assassin' for his tactic of charging the bowler. He played an important role in India's win at the 2007 ICC World Twenty20. ",
+            "image": {
+              "url": "/static/images/kolkata_knight_riders/Robin_Uthappa_on_the_Show.jpg",
+              "altText": "Image of Robin Uthappa"
+            }
+          }
+        },
+        {
+          "label": "Sourav Ganguly",
+          "id": "sourav_ganguly",
+          "value": {
+            "url": null,
+            "label": "Sourav Gangly is the most successful Indian test captain overseas with 11 wins. The Indian team was ranked eighth in the ICC rankings before he became the captain, and under his tenure the team rank went up to second.",
+            "image": {
+              "url": "/static/images/kolkata_knight_riders/Sourav_Ganguly_closeup.jpg",
+              "altText": "Image of Sourav Ganguly"
+            }
+          }
+        },
+        {
+          "label": "Andre Russell",
+          "id": "andre_russell",
+          "value": {
+            "url": null,
+            "label": "Andre Russell has played in over 300 Twenty20 matches for a range of sides in leagues throughout the world.",
+            "image": {
+              "altText": "Image of Andre Russell",
+              "license": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "2012 Indian Premier League",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Kolkata Knight Riders were the winning team, beating defending champions Chennai Super Kings by five wickets in the final.",
+            "facts": []
+          }
+        },
+        {
+          "label": "2014 Indian Premier League",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": " Kolkata Knight Riders won the tournament, defeating Kings XI Punjab by 3 wickets.",
+            "facts": []
+          }
+        },
+        {
+          "label": "Orange Cap",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Robin Uthappa won the Orange Cap for 660 runs in the 2014 IPL season.",
+            "facts": [
+              {
+                "label": "Robin Uthappa",
+                "id": "orange_cap-",
+                "url": "/read/en/robin_uthappa",
+                "value": {
+                  "label": "Robin Venu Uthappa is an Indian cricketer. He plays for Karnataka in domestic cricket and Kolkata Knight Riders in the IPL.",
+                  "image": {
+                    "url": "",
+                    "altText": "Image of Orange Cap"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sponsors",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "value": {
+            "label": " Nokia",
+            "url": null,
+            "image": {
+              "url": "/static/images/kolkata_knight_riders/Nokia_wordmark.svg",
+              "altText": "Image of  Nokia"
+            }
+          }
+        },
+        {
+          "label": "Co-Sponsor",
+          "value": {
+            "label": "Jio",
+            "url": null,
+            "image": {
+              "url": "/static/images/kolkata_knight_riders/Reliance_Jio_Logo_%28October_2015%29.svg",
+              "altText": "Image of Jio",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "Kit sponsor",
+          "value": {
+            "label": "Alcis Sports",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of Alcis Sports"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

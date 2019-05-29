@@ -26,6 +26,13 @@
   border-radius: 50%;
   overflow: hidden;
   line-height: 0;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  box-shadow: $box-shadow-light-s;
+  img {
+    width: 100%;
+  }
 }
 
 .wcp-avatar-list__item__info {

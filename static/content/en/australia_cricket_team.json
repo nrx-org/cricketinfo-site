@@ -1,0 +1,344 @@
+{
+  "title": "Australia Cricket team",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Australia_national_cricket_team",
+  "coverImage": {
+    "url": "/static/images/australia_cricket_team/Australia_cricket_logo.svg",
+    "altText": "Image of Australia Cricket team"
+  },
+  "summary": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/australia_cricket_team"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/australia_cricket_team"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Location",
+          "value": {
+            "label": "Australia"
+          }
+        },
+        {
+          "label": "Established on",
+          "value": {
+            "label": "1877"
+          }
+        },
+        {
+          "label": "Association",
+          "value": {
+            "label": "Cricket Australia"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Roles",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "label": "Test Captain",
+          "value": {
+            "label": "Tim Paine",
+            "url": null,
+            "image": {
+              "url": "/static/images/australia_cricket_team/Tim_Paine.jpg",
+              "altText": "Image of Tim Paine"
+            }
+          }
+        },
+        {
+          "label": "ODI Captain",
+          "value": {
+            "label": "Aaron Finch",
+            "url": null,
+            "image": {
+              "url": "/static/images/australia_cricket_team/Aaron_Finch.jpg",
+              "altText": "Image of Aaron Finch"
+            }
+          }
+        },
+        {
+          "label": "T20I Captain",
+          "value": {
+            "label": "Aaron Finch",
+            "url": null,
+            "image": {
+              "url": "/static/images/australia_cricket_team/Aaron_Finch.jpg",
+              "altText": "Image of Aaron Finch"
+            }
+          }
+        },
+        {
+          "label": "Coach",
+          "value": {
+            "label": "Justin langer",
+            "url": "/read/en/justin_langer",
+            "image": {
+              "url": "/static/images/australia_cricket_team/Justin_Langer_Portrait.png",
+              "altText": "Image of Justin langer"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Popular Venue",
+      "id": "r2-melbourne_cricket_ground",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "Melbourne Cricket Ground",
+          "value": {
+            "label": "The Melbourne Cricket Ground (MCG), also known simply as \"The G\",[4] is an Australian sports stadium located in Yarra Park, Melbourne, Victoria. Home to the Melbourne Cricket Club, it is the 10th largest stadium in the world, the largest in Australia, the largest in the Southern Hemisphere, the largest cricket ground by capacity, and has the tallest light towers of any sporting venue.",
+            "image": {
+              "url": "/static/images/australia_cricket_team/2017_AFL_Grand_Final_panorama_during_national_anthem.jpg",
+              "altText": "Image of Melbourne Cricket Ground"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Early History",
+          "id": 3,
+          "note": "1876-1890",
+          "value": {
+            "label": "The Australian cricket team participated in the first Test match at the MCG in 1877, defeating an English team by 45 runs, with Charles Bannerman making the first Test century, a score of 165 retired hurt. ",
+            "facts": []
+          }
+        },
+        {
+          "label": "Golden age",
+          "id": 3,
+          "note": "1890-1900",
+          "value": {
+            "label": "The so-called 'Golden Age' of Australian Test cricket occurred around the end of the 19th century and the beginning of the 20th century, with the team under the captaincy of Joe Darling, Monty Noble and Clem Hill winning eight of ten tours",
+            "facts": []
+          }
+        },
+        {
+          "label": "The Bradman era",
+          "id": 3,
+          "note": "1930-31-1945",
+          "value": {
+            "label": "The 1930 tour of England heralded a new age of success for the Australian team. The team, led by Bill Woodfull – the \"Great Un-bowlable\" – featured legends of the game including Bill Ponsford, Stan McCabe, Clarrie Grimmett and the young pair of Archie Jackson and Don Bradman.",
+            "facts": []
+          }
+        },
+        {
+          "label": "Cricket after World War II",
+          "id": 3,
+          "note": "1945-46-1960",
+          "value": {
+            "label": "The team continued its success after the end of the Second World War, with the first Test (also Australia's first against New Zealand) being played in the 1945–46 season against New Zealand. Australia was by far the most successful team of the 1940s, being undefeated throughout the decade, winning two Ashes series against England and its first Test series against India. ",
+            "facts": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Famous Players",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "David Warner",
+          "id": "david_warner",
+          "value": {
+            "url": null,
+            "label": "David Andrew Warner (born 27 October 1986) is an Australian international cricketer and a former captain of the Australian national team in limited overs cricket",
+            "image": {
+              "url": "/static/images/australia_cricket_team/DAVID_WARNER_%2811704782453%29.jpg",
+              "altText": "Image of David Warner",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Glen mcgrath",
+          "id": "glen_mcgrath",
+          "value": {
+            "url": null,
+            "label": "Glenn Donald McGrath was a fast-medium pace bowler and is considered one of the greatest bowlers in cricketing history",
+            "image": {
+              "altText": "Image of Glen mcgrath",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "Justin Langer",
+          "id": "justin_langer",
+          "value": {
+            "url": null,
+            "label": "A left-handed batsman, Langer is best known for his partnership with Matthew Hayden as Australia's test opening batsmen during the early and mid-2000s, considered one of the most successful ever. ",
+            "image": {
+              "url": "/static/images/australia_cricket_team/Justin_Langer_Portrait.png",
+              "altText": "Image of Justin Langer"
+            }
+          }
+        },
+        {
+          "label": "Shane Warne",
+          "id": "shane_warne",
+          "value": {
+            "url": null,
+            "label": "Shane Keith Warne  is an Australian cricket commentator and former cricketer, and ODI captain of the Australian national team. Widely regarded as one of the greatest bowlers in the history of the game",
+            "image": {
+              "url": "/static/images/australia_cricket_team/Shane_Warne_February_2015.jpg",
+              "altText": "Image of Shane Warne"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "1987 World cup win",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "The competition was won, for the first time, by Australia who defeated their arch-rivals England by seven runs in the most closely fought World Cup final to date in Kolkata's Eden Gardens stadium. ",
+            "facts": [
+              {
+                "label": "1987 Cricket World cup",
+                "id": "1987_world_cup_win-1987_cricket_world_cup",
+                "url": null,
+                "value": {
+                  "label": null,
+                  "image": {
+                    "altText": "Image of 1987 World cup win",
+                    "license": ""
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "1999 cricket World cup",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "The tournament was won by Australia, who beat Pakistan by 8 wickets in the final at Lord's Cricket Ground in London. New Zealand and South Africa were the other semi-finalists.",
+            "facts": [
+              {
+                "label": "1999 cricket world cup",
+                "id": "1999_cricket_world_cup-1999_cricket_world_cup",
+                "url": "/read/en/1999_cricket_world_cup",
+                "value": {
+                  "label": "The 1999 Cricket World Cup was the seventh edition of the Cricket World Cup, organised by the International Cricket Council (ICC). It was hosted primarily by England, with some games being played in Scotland, Ireland, Wales and the Netherlands.",
+                  "image": {
+                    "altText": "Image of 1999 cricket World cup",
+                    "license": ""
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2003 cricket world",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "The tournament was eventually won by Australia who won all 11 of their matches, beating India in the final played at the Wanderers Stadium in Johannesburg",
+            "facts": [
+              {
+                "label": "2003 Cricket world cup",
+                "id": "2003_cricket_world-2003_cricket_world_cup",
+                "url": "/read/en/2003_cricket_world_cup",
+                "value": {
+                  "label": "The 2003 Cricket World Cup was the eighth Cricket World Cup, organized by the International Cricket Council (ICC). It was co-hosted by South Africa, Zimbabwe and Kenya.",
+                  "image": {
+                    "altText": "Image of 2003 cricket world",
+                    "license": ""
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2015 Cricket world cup",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Australia defeated New Zealand by 7 wickets to win their fifth ICC Cricket World Cup.",
+            "facts": [
+              {
+                "label": "2015 cricket world cup",
+                "id": "2015_cricket_world_cup-2015_cricket_world_cup",
+                "url": null,
+                "value": {
+                  "label": null,
+                  "image": {
+                    "altText": "Image of 2015 Cricket world cup",
+                    "license": ""
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sponsors",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "value": {
+            "label": "Asics",
+            "url": null,
+            "image": {
+              "url": "/static/images/australia_cricket_team/Asics.svg",
+              "altText": "Image of Asics"
+            }
+          }
+        },
+        {
+          "label": "Team sponsor",
+          "value": {
+            "label": "Alinta Energy",
+            "url": null,
+            "image": {
+              "url": "/static/images/australia_cricket_team/Alinta_Energy_%28full_colour%29_logo.jpg",
+              "altText": "Image of Alinta Energy",
+              "license": "<p>The official logo of Alinta Energy / please call the Legal team on +61 3 9049 0200 for confirmation of use on Wikipedia</p><p></p><p>Supplied by Alinta Energy in Sydney, Australia for use on Wikipedia</p><p><b><a href=\"/wiki/Alinta_Energy\" title=\"Alinta Energy\">Alinta Energy</a></b></p><p>To serve as the primary means of visual identification at the top of the article (<a href=\"/wiki/Alinta_Energy\" title=\"Alinta Energy\">Alinta Energy</a>) dedicated to the entity in question.</p><p>n.a.</p><p>Logo for use on Wiki&apos;s only</p><p>n.a.</p><p><table class=\"plainlinks imbox imbox-license licensetpl\" role=\"presentation\"><tbody><tr><td class=\"mbox-image\"><a href=\"/wiki/File:NotCommons-emblem-copyrighted.svg\" class=\"image\" title=\"Copyrighted\"><img alt=\"Copyrighted\" src=\"//upload.wikimedia.org/wikipedia/en/thumb/c/c3/NotCommons-emblem-copyrighted.svg/64px-NotCommons-emblem-copyrighted.svg.png\" decoding=\"async\" width=\"64\" height=\"64\" srcset=\"//upload.wikimedia.org/wikipedia/en/thumb/c/c3/NotCommons-emblem-copyrighted.svg/96px-NotCommons-emblem-copyrighted.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/NotCommons-emblem-copyrighted.svg/128px-NotCommons-emblem-copyrighted.svg.png 2x\" data-file-width=\"48\" data-file-height=\"48\"></a></td><td class=\"mbox-text\"><i>In addition to the fair-use assertion shown on this page, the copyright holder has granted permission for this image to be used in Wikipedia. <b>This permission does not extend to third parties</b>.</i><br>\n<p>This tag must be used in conjunction with another fair-use image tag. If no other tag is present on this page, and this image was uploaded after May 19, 2005, please speedily delete this image or tag it with {{<a href=\"/wiki/Template:Db-f3\" title=\"Template:Db-f3\">db-f3</a>}}.\n</p>\n<b>To the uploader</b>: Please add a detailed <b><a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">fair use rationale</a></b> for each use, as well as the <b>source</b> of the work and copyright information.</td><td class=\"mbox-imageright\"><a href=\"/wiki/File:Ambox_warning_pn.svg\" class=\"image\" title=\"Warning\"><img alt=\"Warning\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ambox_warning_pn.svg/50px-Ambox_warning_pn.svg.png\" decoding=\"async\" width=\"50\" height=\"43\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ambox_warning_pn.svg/75px-Ambox_warning_pn.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ambox_warning_pn.svg/100px-Ambox_warning_pn.svg.png 2x\" data-file-width=\"512\" data-file-height=\"445\"></a></td></tr></tbody></table></p><p><i>In addition to the fair-use assertion shown on this page, the copyright holder has granted permission for this image to be used in Wikipedia. <b>This permission does not extend to third parties</b>.</i><br>\n<p>This tag must be used in conjunction with another fair-use image tag. If no other tag is present on this page, and this image was uploaded after May 19, 2005, please speedily delete this image or tag it with {{<a href=\"/wiki/Template:Db-f3\" title=\"Template:Db-f3\">db-f3</a>}}.\n</p>\n<b>To the uploader</b>: Please add a detailed <b><a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">fair use rationale</a></b> for each use, as well as the <b>source</b> of the work and copyright information.</p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:Alinta_Energy_(full_colour)_logo.jpg</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p>"
+            }
+          }
+        },
+        {
+          "label": "Team sponsor",
+          "value": {
+            "label": "Quantas",
+            "url": null,
+            "image": {
+              "url": "/static/images/australia_cricket_team/Qantas_Airways_logo_2016.svg",
+              "altText": "Image of Quantas"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

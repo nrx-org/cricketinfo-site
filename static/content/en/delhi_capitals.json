@@ -1,0 +1,263 @@
+{
+  "title": "Delhi Capitals",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Delhi_Capitals",
+  "coverImage": {
+    "url": "/static/images/delhi_capitals/Delhi_Capitals_Logo.svg",
+    "altText": "Image of Delhi Capitals"
+  },
+  "summary": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/delhi_capitals"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/delhi_capitals"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Location",
+          "value": {
+            "label": "Delhi, India"
+          }
+        },
+        {
+          "label": "Established on",
+          "value": {
+            "label": "2008"
+          }
+        },
+        {
+          "label": "Association",
+          "value": {
+            "label": "Indian Premier League"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Roles",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "label": "Test Captain",
+          "value": {
+            "label": "",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of "
+            }
+          }
+        },
+        {
+          "label": "ODI Captain",
+          "value": {
+            "label": "",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of "
+            }
+          }
+        },
+        {
+          "label": "T20I Captain",
+          "value": {
+            "label": "Shreyas Iyer",
+            "url": "/read/en/prithvi_shaw",
+            "image": {
+              "url": "",
+              "altText": "Image of Shreyas Iyer"
+            }
+          }
+        },
+        {
+          "label": "Coach",
+          "value": {
+            "label": "Ricky Ponting",
+            "url": "/read/en/shane_warne",
+            "image": {
+              "url": "/static/images/delhi_capitals/Ricky_Ponting_2015.jpg",
+              "altText": "Image of Ricky Ponting"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Popular Venue",
+      "id": "r16-feroz_shah_kotla_ground",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "Feroz Shah Kotla Ground",
+          "value": {
+            "label": "The Feroz Shah Kotla Ground is a cricket ground located at Bahadur Shah Zafar Marg, New Delhi. It was established in 1883 and is the second oldest international cricket stadium still functional in India.",
+            "image": {
+              "url": "/static/images/delhi_capitals/Feroz_Shah_Kotla_during_India_vs_Australia_2019_ODI.jpg",
+              "altText": "Image of Feroz Shah Kotla Ground"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "2008 IPL season",
+          "id": 3,
+          "note": "2008",
+          "value": {
+            "label": "Delhi Daredevils had a good run in the inaugural edition of the IPL.They lost to eventual champions Rajasthan Royals in the semi final.",
+            "facts": []
+          }
+        },
+        {
+          "label": "2009 IPL season",
+          "id": 3,
+          "note": "2009",
+          "value": {
+            "label": " Despite dominating for the regular season, the Daredevils crumbled in the semi-final under a fierce batting by Aussie keeper Adam Gilchrist, who hit the joint 5th fastest fifty in IPL history (just 17 balls). ",
+            "facts": []
+          }
+        },
+        {
+          "label": "2013 IPL season",
+          "id": 3,
+          "note": "2013",
+          "value": {
+            "label": "The Delhi Daredevils lost all first six matches of IPL 2013 and won their first match in seven games against the Mumbai Indians.",
+            "facts": []
+          }
+        },
+        {
+          "label": "2016 IPL season",
+          "id": 3,
+          "note": "2016",
+          "value": {
+            "label": "After losing their first match against the two-time Champions Kolkata Knight Riders, they went on to dominate Kings XI Punjab, Royal Challengers Bangalore, Defending Mumbai Indians, Kolkata Knight Riders in the second leg and newcomers Gujarat Lions. ",
+            "facts": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Famous Players",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Shikhar Dhawan",
+          "id": "shikhar_dhawan",
+          "value": {
+            "url": null,
+            "label": "In August 2013, Shikhar Dhawan recorded the then-second-highest individual score in a List A match when he scored 248 runs off 150 balls for India A against South Africa A at Pretoria",
+            "image": {
+              "url": "/static/images/delhi_capitals/SHIKHAR_DHAWAN_%2816005494418%29.jpg",
+              "altText": "Image of Shikhar Dhawan",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Colin Munro",
+          "id": "colin_munro",
+          "value": {
+            "url": null,
+            "label": "Colin Munro is a South-African born New Zealand international cricketer, who plays limited overs formats of the game.  He is the first player to score three Twenty20 International centuries.",
+            "image": {
+              "url": "/static/images/delhi_capitals/Colin_Munro_with_the_Sydney_Sixers.jpg",
+              "altText": "Image of Colin Munro"
+            }
+          }
+        },
+        {
+          "label": "Kagiso Rabada",
+          "id": "kagiso_rabada",
+          "value": {
+            "url": null,
+            "label": "Kagiso Rabada (born 25 May 1995) is a South African international cricketer who plays all formats of the game. Rabada, who is known by the nickname KG became the first cricketer to win six awards at Cricket South Africa's (CSA) annual dinner, including the prize for Cricketer of the Year in 2016.",
+            "image": {
+              "url": "/static/images/delhi_capitals/Rabada.jpg",
+              "altText": "Image of Kagiso Rabada"
+            }
+          }
+        },
+        {
+          "label": "Trent Boult",
+          "id": "trent_boult",
+          "value": {
+            "url": null,
+            "label": "Trent Alexander Boult is a New Zealand international cricketer who plays as a bowler.  He was the joint leading wicket taker at the 2015 Cricket World Cup.",
+            "image": {
+              "url": "/static/images/delhi_capitals/2018.02.03.22.23.14-AUSvNZL_T20_AUS_innings%2C_SCG_%2839533156665%29.jpg",
+              "altText": "Image of Trent Boult",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "2008 Indian Premier League",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Placed 4th at the 2008 Indian Premier League",
+            "facts": []
+          }
+        },
+        {
+          "label": "2009 Indian Premier League",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Delhi Capitals were 3rd in the 2009 Indian Premier League",
+            "facts": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sponsors",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "value": {
+            "label": "Daikin",
+            "url": null,
+            "image": {
+              "url": "/static/images/delhi_capitals/DAIKIN_logo.svg",
+              "altText": "Image of Daikin"
+            }
+          }
+        },
+        {
+          "label": "Shirt Sponsor (Back)",
+          "value": {
+            "label": "APL Apollo Steel Tubes",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of APL Apollo Steel Tubes"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

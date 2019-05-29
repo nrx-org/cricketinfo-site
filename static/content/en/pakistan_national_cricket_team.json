@@ -1,0 +1,308 @@
+{
+  "title": "Pakistan national cricket team",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pakistan_national_cricket_team",
+  "coverImage": {
+    "url": "/static/images/pakistan_national_cricket_team/PakistanCricketLogo.png",
+    "altText": "Image of Pakistan national cricket team"
+  },
+  "summary": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
+  "translations": [
+    {
+      "lang": "hi",
+      "url": "/read/hi/pakistan_national_cricket_team"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/pakistan_national_cricket_team"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Location",
+          "value": {
+            "label": "Pakistan"
+          }
+        },
+        {
+          "label": "Established on",
+          "value": {
+            "label": "1952"
+          }
+        },
+        {
+          "label": "Association",
+          "value": {
+            "label": "Pakistan Cricket Board"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Roles",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "label": "Test Captain",
+          "value": {
+            "label": "Sarfaraz Ahmed",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of Sarfaraz Ahmed"
+            }
+          }
+        },
+        {
+          "label": "ODI Captain",
+          "value": {
+            "label": "Sarfaraz Ahmed",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of Sarfaraz Ahmed"
+            }
+          }
+        },
+        {
+          "label": "T20I Captain",
+          "value": {
+            "label": "Sarfaraz Ahmed",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of Sarfaraz Ahmed"
+            }
+          }
+        },
+        {
+          "label": "Coach",
+          "value": {
+            "label": "Mickey Arthur",
+            "url": "/read/en/mickey_arthur",
+            "image": {
+              "url": "/static/images/pakistan_national_cricket_team/Mickey_Arthur.jpg",
+              "altText": "Image of Mickey Arthur"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Popular Venue",
+      "id": "r8-national_stadium",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "National Stadium",
+          "value": {
+            "label": "The National Stadium in Karachi, Pakistan is able to hold 34,228 spectators",
+            "image": {
+              "url": "/static/images/pakistan_national_cricket_team/Nat_Std01.JPG",
+              "altText": "Image of National Stadium"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Pre-independence",
+          "id": 3,
+          "note": "1935",
+          "value": {
+            "label": " The first ever international cricket match in Karachi was held on 22 November 1935 between Sindh and Australian cricket teams. The match was seen by 5,000.",
+            "facts": []
+          }
+        },
+        {
+          "label": "1986 Austral-Asia Cup",
+          "id": 3,
+          "note": "1986",
+          "value": {
+            "label": "The 1986 Austral-Asia Cup, played in Sharjah in UAE, is remembered for a famous last-ball victory for Pakistan against India, with Javed Miandad emerging as a national hero.",
+            "facts": []
+          }
+        },
+        {
+          "label": "1992 Cricket World Cup",
+          "id": 3,
+          "note": "1992",
+          "value": {
+            "label": "The 1992 Cricket World Cup in Australia and New Zealand marked Pakistan's first World Cup victory. ",
+            "facts": []
+          }
+        },
+        {
+          "label": "2009 ICC World T20",
+          "id": 3,
+          "note": "2009",
+          "value": {
+            "label": "Pakistan defeated Sri Lanka in the finals to mark its first world title since Imran Khan's \"cornered tigers\" in 1992",
+            "facts": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Famous Players",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Shoaib Malik",
+          "id": "shoaib_malik",
+          "value": {
+            "url": null,
+            "label": " On 1 July 2018, Malik became the first Asian batsman to score 2,000 runs in T20Is and first player to play 100 T20Is in the world.",
+            "image": {
+              "url": "/static/images/pakistan_national_cricket_team/Shoaib_Malik.jpg",
+              "altText": "Image of Shoaib Malik"
+            }
+          }
+        },
+        {
+          "label": "Shahid Afridi",
+          "id": "shahid_afridi",
+          "value": {
+            "url": null,
+            "label": "Shahid Afridi holds the distinction of having hit the most number of sixes in the history of ODI cricket.",
+            "image": {
+              "url": "/static/images/pakistan_national_cricket_team/Shahid_Afridi_in_2017.jpg",
+              "altText": "Image of Shahid Afridi"
+            }
+          }
+        },
+        {
+          "label": "Inzamam-ul-Haq",
+          "id": "inzamam-ul-haq",
+          "value": {
+            "url": null,
+            "label": "Syed Inzamam-ul-Haq, also known as Inzi, is a former Pakistani cricketer, and former captain. He is the leading run scorer for Pakistan in one-day internationals.",
+            "image": {
+              "url": "/static/images/pakistan_national_cricket_team/Inzamam-ul-Haq.jpg",
+              "altText": "Image of Inzamam-ul-Haq"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "1992 Cricket World Cup",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Pakistan overcame a dismal start in the tournament to eventually defeat England by 22 runs in the final and emerge as winners.",
+            "facts": [
+              {
+                "label": "1992 World Cup",
+                "id": "1992_cricket_world_cup-1992_world_cup",
+                "url": null,
+                "value": {
+                  "label": null,
+                  "image": {
+                    "altText": "Image of 1992 Cricket World Cup",
+                    "license": ""
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC World Twenty20",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "The final took place at Lord's on Sunday 21 June 2009 with Pakistan beating Sri Lanka by eight wickets.",
+            "facts": [
+              {
+                "label": "ICC T20 World Cup",
+                "id": "icc_world_twenty20-",
+                "url": "/read/en/icc_t20_world_cup",
+                "value": {
+                  "label": "The ICC T20 World Cup (earlier known as ICC World Twenty20) is the international championship of Twenty20 International cricket. The tournament currently consists of 16 teams, comprising the top eight teams from the rankings at the given deadline and four other teams chosen through the T20 World Cup Qualifier. ",
+                  "image": {
+                    "altText": "Image of ICC World Twenty20",
+                    "license": ""
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Champions Trophy",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Pakistan won the competition for the first time with a 180-run victory over India in the final.",
+            "facts": [
+              {
+                "label": "ICC Champions Trophy",
+                "id": "icc_champions_trophy-",
+                "url": "/read/en/icc_champions_trophy",
+                "value": {
+                  "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
+                  "image": {
+                    "url": "",
+                    "altText": "Image of ICC Champions Trophy"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sponsors",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "value": {
+            "label": "CA Sports",
+            "url": null,
+            "image": {
+              "url": "/static/images/pakistan_national_cricket_team/CA_sports_logo.png",
+              "altText": "Image of CA Sports"
+            }
+          }
+        },
+        {
+          "label": "Shirt Sponsor",
+          "value": {
+            "label": "Pepsi",
+            "url": null,
+            "image": {
+              "url": "/static/images/pakistan_national_cricket_team/Pepsi_logo_new.svg",
+              "altText": "Image of Pepsi"
+            }
+          }
+        },
+        {
+          "label": "Kit sponsor",
+          "value": {
+            "label": "T10 Sports",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of T10 Sports"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

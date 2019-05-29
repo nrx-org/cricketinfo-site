@@ -13,6 +13,8 @@ const {
   downloadImageAndFillAttributions
 } = require("./lib");
 
+const { teamUIStrings } = require("./ui_strings");
+
 const csvExports = {
   en: { path: "./csv/teams.en.csv" },
   hi: { path: "./csv/teams.hi.csv" },
@@ -33,21 +35,25 @@ const ASSOCIATION_KEY = "Association";
 const ROLES = [
   {
     KEY: "Test Captain name",
+    UI_STRING_KEY: "testCaptainRoleTitle",
     IMAGE_KEY: "Test Captain image link",
     ARTICLE_CODE_KEY: "Test Captain article code"
   },
   {
     KEY: "ODI Captain name",
+    UI_STRING_KEY: "ODICaptainRoleTitle",
     IMAGE_KEY: "ODI Captain image link",
     ARTICLE_CODE_KEY: "ODI Captain article code"
   },
   {
     KEY: "T20I Captain name",
+    UI_STRING_KEY: "T20ICaptainRoleTitle",
     IMAGE_KEY: "T20I Captain image link",
     ARTICLE_CODE_KEY: "T20I Captain article code"
   },
   {
-    KEY: "Coach name",
+    KEY: "Coach Name",
+    UI_STRING_KEY: "coachRoleTitle",
     IMAGE_KEY: "Coach image link",
     ARTICLE_CODE_KEY: "Coach article code"
   }
@@ -59,9 +65,9 @@ const VENUE_IMAGE_LINK_KEY = "Venue Image Link";
 
 const HISTORY = [
   {
-    PHASE_TITLE_KEY: "History Phase 1 Title",
-    PHASE_DATES_KEY: "History Phase 1 Dates",
-    PHASE_BRIEF_DESCRIPTION_KEY: "History Phase 1 brief description",
+    HISTORY_TITLE_KEY: "History Phase 1 Title",
+    HISTORY_DATES_KEY: "History Phase 1 Dates",
+    HISTORY_BRIEF_DESCRIPTION_KEY: "History Phase 1 brief description",
     CARDS: [
       {
         CARD_TITLE_KEY: "History Phase 1 Card 1 Title",
@@ -84,9 +90,9 @@ const HISTORY = [
     ]
   },
   {
-    PHASE_TITLE_KEY: "History Phase 2 Title",
-    PHASE_DATES_KEY: "History Phase 2 Dates",
-    PHASE_BRIEF_DESCRIPTION_KEY: "History Phase 2 brief description",
+    HISTORY_TITLE_KEY: "History Phase 2 Title",
+    HISTORY_DATES_KEY: "History Phase 2 Dates",
+    HISTORY_BRIEF_DESCRIPTION_KEY: "History Phase 2 brief description",
     CARDS: [
       {
         CARD_TITLE_KEY: "History Phase 2 Card 1 Title",
@@ -109,9 +115,9 @@ const HISTORY = [
     ]
   },
   {
-    PHASE_TITLE_KEY: "History Phase 3 Title",
-    PHASE_DATES_KEY: "History Phase 3 Dates",
-    PHASE_BRIEF_DESCRIPTION_KEY: "History Phase 3 brief description",
+    HISTORY_TITLE_KEY: "History Phase 3 Title",
+    HISTORY_DATES_KEY: "History Phase 3 Dates",
+    HISTORY_BRIEF_DESCRIPTION_KEY: "History Phase 3 brief description",
     CARDS: [
       {
         CARD_TITLE_KEY: "History Phase 3 Card 1 Title",
@@ -134,9 +140,9 @@ const HISTORY = [
     ]
   },
   {
-    PHASE_TITLE_KEY: "History Phase 4 Title",
-    PHASE_DATES_KEY: "History Phase 4 Dates",
-    PHASE_BRIEF_DESCRIPTION_KEY: "History Phase 4 brief description",
+    HISTORY_TITLE_KEY: "History Phase 4 Title",
+    HISTORY_DATES_KEY: "History Phase 4 Dates",
+    HISTORY_BRIEF_DESCRIPTION_KEY: "History Phase 4 brief description",
     CARDS: [
       {
         CARD_TITLE_KEY: "History Phase 4 Card 1 Title",
@@ -217,101 +223,314 @@ const ACHIEVEMENTS = [
 const SPONSORS = [
   {
     SPONSOR_TYPE: "Sponsor Type 1",
-    SPOSNOR_NAME: "Sponsor  Type 1 name",
+    SPONSOR_NAME: "Sponsor  Type 1 name",
     SPONSOR_IMAGE_URL: "Sponsor Type 1 Image URL"
   },
   {
     SPONSOR_TYPE: "Sponsor Type 2",
-    SPOSNOR_NAME: "Sponsor Type 2 Name",
+    SPONSOR_NAME: "Sponsor Type 2 Name",
     SPONSOR_IMAGE_URL: "Sponsor Type 2 Image URL"
   },
   {
     SPONSOR_TYPE: "Sponsor Type 3",
-    SPOSNOR_NAME: "Sponsor Type 3 Name",
+    SPONSOR_NAME: "Sponsor Type 3 Name",
     SPONSOR_IMAGE_URL: "Sponsor Type 3 Image URL"
   },
   {
     SPONSOR_TYPE: "Sponsor Type 4",
-    SPOSNOR_NAME: "Sponsor Type 4 Name",
+    SPONSOR_NAME: "Sponsor Type 4 Name",
     SPONSOR_IMAGE_URL: "Sponsor Type 4 Image URL"
   }
 ];
 
 // TODO: instead of auto-generating IDs, generate them from labels, slugs, indexes, etc.
 
-// module.exports.exportTeams = () => {
-Object.keys(csvExports).forEach(lang => {
-  const fileContent = fs.readFileSync(csvExports[lang].path, "utf8");
-  const records = parse(fileContent, { columns: true, delimiter: "," });
+module.exports.exportTeams = () => {
+  Object.keys(csvExports).forEach(lang => {
+    const fileContent = fs.readFileSync(csvExports[lang].path, "utf8");
+    const records = parse(fileContent, { columns: true, delimiter: "," });
 
-  records.forEach(async record => {
-    const team = {};
-    const idTitleMap = findIdMapEntryById(idMap, record[ID_KEY]);
-    const englishSlug = getSluggedTitle(idTitleMap.title.en);
+    records.forEach(async record => {
+      const team = {};
+      const idTitleMap = findIdMapEntryById(idMap, record[ID_KEY]);
+      const englishSlug = getSluggedTitle(idTitleMap.title.en);
 
-    team.title = record[TITLE_KEY];
-    if (!team.title) {
-      return;
-    }
+      team.title = record[TITLE_KEY];
+      if (!team.title) {
+        return;
+      }
 
-    team.wikipediaUrl = record[WIKIPEDIA_URL_KEY];
+      team.wikipediaUrl = record[WIKIPEDIA_URL_KEY];
 
-    team.coverImage = await downloadImageAndFillAttributions(
-      {
-        url: record[COVER_IMAGE_KEY],
-        altText: `Image of ${team.title}`
-      },
-      englishSlug
-    );
-
-    team.summary = record[SUMMARY_KEY];
-
-    const translationLanguages = Object.keys(csvExports).filter(
-      l => l !== lang
-    );
-
-    team.translations = translationLanguages.map(tl => ({
-      lang: tl,
-      title: idTitleMap.title[tl],
-      url: `/read/${tl}/${englishSlug}`
-    }));
-
-    const aboutSection = {
-      title: "About",
-      cardType: "table",
-      facts: [
-        { label: "Location", value: { label: record[LOCATION_KEY] } },
+      team.coverImage = await downloadImageAndFillAttributions(
         {
-          label: "Established on",
-          value: { label: record[ESTABLISHED_ON_KEY] }
+          url: record[COVER_IMAGE_KEY],
+          altText: `Image of ${team.title}`
         },
-        { label: "Association", value: { label: record[ASSOCIATION_KEY] } }
-      ]
-    };
+        englishSlug
+      );
 
-    const rolesSection = {
-      title: "Roles",
-      cardType: "avatar",
-      label: null,
-      facts: ROLES.map(role => ({
-        label: record[role[KEY]],
-        value: {
-          label: record[role[KEY]],
-          url: "https://clubpenguin.com",
-          image: {
-            url: "https://placekitten.com/40/40",
-            altText: "Mrrroww"
+      team.summary = record[SUMMARY_KEY];
+
+      const translationLanguages = Object.keys(csvExports).filter(
+        l => l !== lang
+      );
+
+      team.translations = translationLanguages.map(tl => ({
+        lang: tl,
+        title: idTitleMap.title[tl],
+        url: `/read/${tl}/${englishSlug}`
+      }));
+
+      const aboutSection = {
+        title: teamUIStrings.aboutSectionTitle[lang],
+        cardType: "table",
+        facts: [
+          { label: "Location", value: { label: record[LOCATION_KEY] } },
+          {
+            label: "Established on",
+            value: { label: record[ESTABLISHED_ON_KEY] }
+          },
+          { label: "Association", value: { label: record[ASSOCIATION_KEY] } }
+        ]
+      };
+
+      const rolesSection = {
+        title: teamUIStrings.rolesSectionTitle[lang],
+        cardType: "avatar",
+        label: null,
+        facts: await Promise.all(
+          ROLES.map(async role => {
+            const card = getCardInfoFromId(
+              idMap,
+              record[role.ARTICLE_CODE_KEY],
+              lang
+            );
+
+            return {
+              label: teamUIStrings[role.UI_STRING_KEY][lang],
+              value: {
+                label: record[role.KEY],
+                url: card ? card.url : null,
+                image: await downloadImageAndFillAttributions(
+                  {
+                    url: record[role.IMAGE_KEY],
+                    altText: `Image of ${record[role.KEY]}`
+                  },
+                  englishSlug
+                )
+              }
+            };
+          })
+        )
+      };
+
+      const popularVenueSection = {
+        title: teamUIStrings.popularVenueSectionTitle[lang],
+        id: getSluggedTitle(`${record[ID_KEY]}-${record[VENUE_NAME_KEY]}`),
+        cardType: "simple",
+        facts: [
+          {
+            label: record[VENUE_NAME_KEY],
+            value: {
+              label: record[VENUE_DESCRIPTION_KEY],
+              image: await downloadImageAndFillAttributions(
+                {
+                  url: record[VENUE_IMAGE_LINK_KEY],
+                  altText: `Image of ${record[VENUE_NAME_KEY]}`
+                },
+                englishSlug
+              )
+            }
           }
-        }
-      }))
-    };
+        ]
+      };
 
-    team.sections = [];
+      const historySection = {
+        title: teamUIStrings.historySectionTitle[lang],
+        cardType: "vertical_timeline",
+        facts: await Promise.all(
+          HISTORY.map(async historyItem => {
+            return {
+              label: record[historyItem.HISTORY_TITLE_KEY],
+              id: 3,
+              note: record[historyItem.HISTORY_DATES_KEY],
+              value: {
+                label: record[historyItem.HISTORY_BRIEF_DESCRIPTION_KEY],
+                facts: (await Promise.all(
+                  historyItem.CARDS.map(async historyItemCard => {
+                    const card = getCardInfoFromId(
+                      idMap,
+                      record[historyItemCard.CARD_ARTICLE_CODE],
+                      lang
+                    );
 
-    fs.writeFileSync(
-      `./static/content/${lang}/${englishSlug}.json`,
-      JSON.stringify(team, null, 2)
-    );
+                    if (
+                      !record[historyItemCard.CARD_IMAGE_URL] ||
+                      record[historyItemCard.CARD_IMAGE_URL].length === 0
+                    ) {
+                      return null;
+                    }
+                    return {
+                      label: record[historyItemCard.CARD_TITLE_KEY],
+                      url: card ? card.url : null,
+                      id: 1,
+                      value: {
+                        label:
+                          record[historyItemCard.CARD_BRIEF_DESCRIPTION_KEY],
+                        image: await downloadImageAndFillAttributions(
+                          {
+                            url: record[historyItemCard.CARD_IMAGE_URL],
+                            altText: `Image of ${
+                              record[historyItemCard.CARD_TITLE_KEY]
+                            }`
+                          },
+                          englishSlug
+                        )
+                      }
+                    };
+                  })
+                )).filter(Boolean)
+              }
+            };
+          })
+        )
+      };
+
+      const famousPlayersSection = {
+        title: teamUIStrings.famousPlayersSectionTitle[lang],
+        cardType: "stories",
+        facts: (await Promise.all(
+          PLAYERS.map(async player => {
+            if (
+              !record[player.PLAYER_IMAGE_URL_KEY] ||
+              record[player.PLAYER_IMAGE_URL_KEY].length === 0
+            ) {
+              return null;
+            }
+            return {
+              label: record[player.PLAYER_NAME_KEY],
+              id: getSluggedTitle(record[player.PLAYER_NAME_KEY]),
+              value: {
+                url: null,
+                label: record[player.PLAYER_DESCRIPTION_KEY],
+                image: await downloadImageAndFillAttributions(
+                  {
+                    url: record[player.PLAYER_IMAGE_URL_KEY],
+                    altText: `Image of ${record[player.PLAYER_NAME_KEY]}`
+                  },
+                  englishSlug
+                )
+              }
+            };
+          })
+        )).filter(Boolean)
+      };
+
+      const achievementsSection = {
+        title: teamUIStrings.achievementsSectionTitle[lang],
+        cardType: "list_card",
+        facts: (await Promise.all(
+          ACHIEVEMENTS.map(async achievement => {
+            if (!record[achievement.ACHIEVEMENT_TITLE]) {
+              return null;
+            }
+
+            const card = getCardInfoFromId(
+              idMap,
+              record[achievement.ACHIEVEMENT_CARD_CODE],
+              lang
+            );
+
+            return {
+              label: record[achievement.ACHIEVEMENT_TITLE],
+              id: 0,
+              note: null,
+              value: {
+                label: record[achievement.ACHIEVEMENT_DESCRIPTION],
+                facts:
+                  record[achievement.ACHIEVEMENT_CARD_TITLE] ||
+                  (card && card.title)
+                    ? [
+                        {
+                          label: record[achievement.ACHIEVEMENT_CARD_TITLE]
+                            ? record[achievement.ACHIEVEMENT_CARD_TITLE]
+                            : card.title,
+                          id: getSluggedTitle(
+                            `${record[achievement.ACHIEVEMENT_TITLE]}-${
+                              record[achievement.ACHIEVEMENT_CARD_TITLE]
+                            }`
+                          ),
+                          url: card ? card.url : null,
+
+                          value: {
+                            label: card ? card.summary : null,
+                            image: await downloadImageAndFillAttributions(
+                              {
+                                url: record[achievement.ACHIEVEMENT_CARD_URL],
+                                altText: `Image of ${
+                                  record[achievement.ACHIEVEMENT_TITLE]
+                                }`
+                              },
+                              englishSlug
+                            )
+                          }
+                        }
+                      ]
+                    : []
+              }
+            };
+          })
+        )).filter(Boolean)
+      };
+
+      const sponsorsSection = {
+        title: teamUIStrings.sponsorsSectionTitle[lang],
+        cardType: "avatar",
+        label: null,
+        facts: (await Promise.all(
+          SPONSORS.map(async sponsor => {
+            const card = getCardInfoFromId(
+              idMap,
+              record[sponsor.ARTICLE_CODE_KEY],
+              lang
+            );
+
+            if (!record[sponsor.SPONSOR_NAME]) {
+              return null;
+            }
+
+            return {
+              label: record[sponsor.SPONSOR_TYPE],
+              value: {
+                label: record[sponsor.SPONSOR_NAME],
+                url: card ? card.url : null,
+                image: await downloadImageAndFillAttributions(
+                  {
+                    url: record[sponsor.SPONSOR_IMAGE_URL],
+                    altText: `Image of ${record[sponsor.SPONSOR_NAME]}`
+                  },
+                  englishSlug
+                )
+              }
+            };
+          })
+        )).filter(Boolean)
+      };
+
+      team.sections = [];
+      team.sections.push(aboutSection);
+      team.sections.push(rolesSection);
+      team.sections.push(popularVenueSection);
+      team.sections.push(historySection);
+      team.sections.push(famousPlayersSection);
+      team.sections.push(achievementsSection);
+      team.sections.push(sponsorsSection);
+
+      fs.writeFileSync(
+        `./static/content/${lang}/${englishSlug}.json`,
+        JSON.stringify(team, null, 2)
+      );
+    });
   });
-});
-// };
+};

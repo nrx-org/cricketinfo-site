@@ -1,22 +1,21 @@
 {
-  "id": "G6",
   "title": "South Africa",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/South_Africa",
   "summary": "South Africa, officially the Republic of South Africa (RSA), is the southernmost country in Africa. It is bounded to the south by 2,798 kilometres of coastline of Southern Africa stretching along the South Atlantic and Indian Oceans.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/South_Africa",
   "coverImage": {
     "url": "/static/images/south_africa/MapungubweHill.jpg",
-    "altText": "Image of MapungubweHill"
+    "altText": "Image of South Africa"
   },
   "translations": [
     {
-      "title": "",
-      "url": "/read/hi/south_africa",
-      "lang": "hi"
+      "lang": "hi",
+      "title": "दक्षिण अफ्रीका",
+      "url": "/read/hi/south_africa"
     },
     {
-      "url": "/read/ta/south_africa",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "தென்னாப்பிரிக்கா",
+      "url": "/read/ta/south_africa"
     }
   ],
   "sections": [
@@ -27,63 +26,49 @@
         {
           "label": "Independence Day",
           "value": {
-            "label": "31 May 1910",
-            "url": ""
+            "label": "31 May 1910"
           }
         },
         {
           "label": "Republic Day",
           "value": {
-            "label": "31 May 1961",
-            "url": ""
+            "label": "31 May 1961"
           }
         },
         {
-          "label": "",
+          "label": "Total Area of country (km squared)",
           "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Total Area",
-          "value": {
-            "label": "1221037 km²",
-            "url": ""
+            "label": "1221037 km²"
           }
         },
         {
           "label": "Population",
           "value": {
-            "label": "57725600 (2018 estimate)",
-            "url": ""
+            "label": "57725600 (2018 estimate)"
           }
         },
         {
           "label": "Other names",
           "value": {
-            "label": "Union of South Africa, Republic of South Africa, Mzansi, Azania",
-            "url": ""
+            "label": "Union of South Africa, Republic of South Africa, Mzansi, Azania"
           }
         },
         {
-          "label": "Capital",
+          "label": "Capital city",
           "value": {
-            "label": "Pretoria (executive), Bloemfontein (judicial), Cape Town (legislative)",
-            "url": ""
+            "label": "Pretoria (executive), Bloemfontein (judicial), Cape Town (legislative)"
           }
         },
         {
+          "label": "Largest city",
           "value": {
-            "label": "Johannesburg",
-            "url": ""
+            "label": "Johannesburg"
           }
         },
         {
-          "label": "Timezone(s)",
+          "label": "Timezone",
           "value": {
-            "label": "UTC+2",
-            "url": ""
+            "label": "UTC+2"
           }
         }
       ]
@@ -94,73 +79,80 @@
       "facts": [
         {
           "label": "Prehistoric archaeology",
-          "id": 0,
+          "id": "history_phase_1_title",
           "note": "",
           "value": {
-            "label": "Various hominid species existed in South Africa from about three million years ago, starting with Australopithecus africanus. Archaeologists have recovered extensive fossil remains from a series of caves in Gauteng Province.",
-            "facts": []
+            "label": "Various hominid species existed in South Africa from about three million years ago, starting with Australopithecus africanus. Archaeologists have recovered extensive fossil remains from a series of caves in Gauteng Province."
           }
         },
         {
           "label": "Bantu expansion",
-          "id": 1,
+          "id": "history_phase_2_title",
           "note": "",
           "value": {
-            "label": "Settlements of Bantu-speaking peoples, who were iron-using agriculturists and herdsmen, were already present south of the Limpopo River (now the northern border with Botswana and Zimbabwe) by the 4th or 5th century CE. They displaced, conquered and absorbed the original Khoisan speakers, the Khoikhoi and San peoples.",
-            "facts": []
+            "label": "Settlements of Bantu-speaking peoples, who were iron-using agriculturists and herdsmen, were already present south of the Limpopo River (now the northern border with Botswana and Zimbabwe) by the 4th or 5th century CE. They displaced, conquered and absorbed the original Khoisan speakers, the Khoikhoi and San peoples."
           }
         },
         {
           "label": "Portuguese contacts",
-          "id": 1,
+          "id": "history_phase_3_title",
           "note": "1487",
           "value": {
-            "label": "At the time of European contact, the dominant ethnic group were Bantu-speaking peoples who had migrated from other parts of Africa about one thousand years before. The two major historic groups were the Xhosa and Zulu peoples. In 1487, the Portuguese explorer Bartolomeu Dias led the first European voyage to land in southern Africa.",
-            "facts": []
+            "label": "At the time of European contact, the dominant ethnic group were Bantu-speaking peoples who had migrated from other parts of Africa about one thousand years before. The two major historic groups were the Xhosa and Zulu peoples. In 1487, the Portuguese explorer Bartolomeu Dias led the first European voyage to land in southern Africa."
           }
         },
         {
           "label": "Dutch colonisation",
-          "id": 1,
+          "id": "history_phase_4_title",
           "note": "1652",
           "value": {
-            "label": "A century and a half after the discovery of the Cape sea route, Jan van Riebeeck established a victualling station at the Cape of Good Hope, at what would become Cape Town, on behalf of the Dutch East India Company.",
-            "facts": []
+            "label": "A century and a half after the discovery of the Cape sea route, Jan van Riebeeck established a victualling station at the Cape of Good Hope, at what would become Cape Town, on behalf of the Dutch East India Company."
           }
         }
       ]
     },
     {
+      "title": "Government",
       "cardType": "avatar",
       "label": "South Africa is a parliamentary republic, although unlike most such republics the President is both head of state and head of government, and depends for his tenure on the confidence of Parliament.",
       "facts": [
         {
-          "value": {
-            "label": "",
-            "url": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
-            }
-          }
-        },
-        {
+          "label": "President",
           "value": {
             "label": "Cyril Ramaphosa",
-            "url": "",
             "image": {
-              "url": "/static/images/south_africa/Cyril_Ramaphosa_(42783408010).jpg",
-              "altText": "Image of Cyril Ramaphosa (42783408010)"
+              "url": "/static/images/south_africa/Cyril_Ramaphosa_%2842783408010%29.jpg",
+              "altText": "Picture of Cyril Ramaphosa",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         },
         {
+          "label": "Chief Justice name",
           "value": {
             "label": "Thomas Reetsang Mogoeng",
-            "url": "",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": "",
+              "altText": "Picture of Thomas Reetsang Mogoeng"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "South Africa national cricket team",
+            "url": "/read/en/south_africa_national_cricket_team",
+            "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
+            "image": {
+              "url": "/static/images/south_africa/Southafrica_cricket_logo.svg",
+              "altText": "Picture of South Africa national cricket team"
             }
           }
         }
@@ -168,16 +160,119 @@
     },
     {
       "title": "Geography",
+      "id": "south_africa_geography",
       "cardType": "simple",
       "facts": [
         {
-          "label": "Australia",
+          "label": "South Africa",
           "value": {
             "label": "South Africa is located at the southernmost region of Africa, with a long coastline that stretches more than 2,500 km (1,553 mi) and along two oceans (the South Atlantic and the Indian).",
             "image": {
               "url": "/static/images/south_africa/Map_of_South_Africa_with_English_labels.svg",
-              "altText": "Image of Map of South Africa with English labels"
+              "altText": "An image of South Africa"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Culture",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Arts",
+          "id": "culture-arts",
+          "value": {
+            "label": "South African art includes the oldest art objects in the world, which were discovered in a South African cave, and dated from 75,000 years ago.",
+            "image": {
+              "url": "/static/images/south_africa/San_Painting%2C_Ukalamba_Drakensberge_1.JPG",
+              "altText": "South African art includes the oldest art objects in the world, which were discovered in a South African cave, and dated from 75,000 years ago.",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Popular culture",
+          "id": "culture-popular_culture",
+          "value": {
+            "label": "The South African media sector is large, and South Africa is one of Africa's major media centres. While South Africa's many broadcasters and publications reflect the diversity of the population as a whole, the most commonly used language is English. However, all ten other official languages are represented to some extent or another.",
+            "image": {
+              "url": "",
+              "altText": "The South African media sector is large, and South Africa is one of Africa's major media centres. While South Africa's many broadcasters and publications reflect the diversity of the population as a whole, the most commonly used language is English. However, all ten other official languages are represented to some extent or another."
+            }
+          }
+        },
+        {
+          "label": "Cuisine",
+          "id": "culture-cuisine",
+          "value": {
+            "label": "South African cuisine is heavily meat-based and has spawned the distinctively South African social gathering known as the braai, a variation of the barbecue. South Africa has also developed into a major wine producer.",
+            "image": {
+              "altText": "South African cuisine is heavily meat-based and has spawned the distinctively South African social gathering known as the braai, a variation of the barbecue. South Africa has also developed into a major wine producer.",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "Sports",
+          "id": "culture-sports",
+          "value": {
+            "label": "South Africa's most popular sports are soccer, rugby and cricket.",
+            "image": {
+              "altText": "South Africa's most popular sports are soccer, rugby and cricket.",
+              "license": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_south_africa",
+          "label": "Languages",
+          "value": {
+            "label": "Afrikaans, IsiNdebele, Sepedi, SeSotho sa Borwa, SiSwati, XiTsonga, SeTswana, TshiVenḓa, IsiXhosa, and IsiZulu"
+          }
+        },
+        {
+          "id": "religion_section_south_africa",
+          "label": "Religions",
+          "value": {
+            "facts": [
+              {
+                "id": "religion_0",
+                "label": "Protestant",
+                "value": 73.2
+              },
+              {
+                "id": "religion_1",
+                "label": "No religion",
+                "value": 14.9
+              },
+              {
+                "id": "religion_2",
+                "label": "Catholic",
+                "value": 7.4
+              },
+              {
+                "id": "religion_3",
+                "label": "Muslim",
+                "value": 1.7
+              },
+              {
+                "id": "religion_4",
+                "label": "Hindu ",
+                "value": 1.1
+              },
+              {
+                "id": "religion_5",
+                "label": "Other faith ",
+                "value": 1.7
+              }
+            ]
           }
         }
       ]

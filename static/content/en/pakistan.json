@@ -1,22 +1,21 @@
 {
-  "id": "G5",
   "title": "Pakistan",
-  "wikipediaURL": "https://en.wikipedia.org/wiki/Pakistan",
   "summary": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the world’s sixth-most populous country with a population exceeding 212,742,631 people.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pakistan",
   "coverImage": {
     "url": "/static/images/pakistan/Parliament_House,_Islamabad_by_Usman_Ghani.jpg",
-    "altText": "Image of Parliament House, Islamabad by Usman Ghani"
+    "altText": "Image of Pakistan"
   },
   "translations": [
     {
-      "title": "",
-      "url": "/read/hi/pakistan",
-      "lang": "hi"
+      "lang": "hi",
+      "title": "पाकिस्तान",
+      "url": "/read/hi/pakistan"
     },
     {
-      "url": "/read/ta/pakistan",
-      "title": "",
-      "lang": "ta"
+      "lang": "ta",
+      "title": "பாகிஸ்தான்",
+      "url": "/read/ta/pakistan"
     }
   ],
   "sections": [
@@ -27,63 +26,43 @@
         {
           "label": "Independence Day",
           "value": {
-            "label": "14 August 1947",
-            "url": ""
+            "label": "14 August 1947"
           }
         },
         {
           "label": "Republic Day",
           "value": {
-            "label": "23 March",
-            "url": ""
+            "label": "23 March"
           }
         },
         {
-          "label": "",
+          "label": "Total Area of country (km squared)",
           "value": {
-            "label": "",
-            "url": ""
-          }
-        },
-        {
-          "label": "Total Area",
-          "value": {
-            "label": "881913 km²",
-            "url": ""
+            "label": "881913 km²"
           }
         },
         {
           "label": "Population",
           "value": {
-            "label": "212742631 (2017 census)",
-            "url": ""
+            "label": "212742631 (2017 census)"
           }
         },
         {
-          "label": "Other names",
+          "label": "Capital city",
           "value": {
-            "label": "",
-            "url": ""
+            "label": "Islamabad"
           }
         },
         {
-          "label": "Capital",
+          "label": "Largest city",
           "value": {
-            "label": "Islamabad",
-            "url": ""
+            "label": "Karachi"
           }
         },
         {
+          "label": "Timezone",
           "value": {
-            "label": "Karachi",
-            "url": ""
-          }
-        },
-        {
-          "label": "Timezone(s)",
-          "value": {
-            "label": "UTC+5",
-            "url": ""
+            "label": "UTC+5"
           }
         }
       ]
@@ -94,73 +73,90 @@
       "facts": [
         {
           "label": "Early and medieval age",
-          "id": 0,
+          "id": "history_phase_1_title",
           "note": "2,800–1,800 BCE",
           "value": {
-            "label": "Some of the earliest ancient human civilisations in South Asia originated from areas in present-day Pakistan. The Indus region, was the site of several successive ancient cultures including the Neolithic Mehrgarh and the Bronze Age Indus Valley Civilisation at Harappa and Mohenjo-Daro.",
-            "facts": []
+            "label": "Some of the earliest ancient human civilisations in South Asia originated from areas in present-day Pakistan. The Indus region, was the site of several successive ancient cultures including the Neolithic Mehrgarh and the Bronze Age Indus Valley Civilisation at Harappa and Mohenjo-Daro."
           }
         },
         {
           "label": "Vedic period",
-          "id": 1,
+          "id": "history_phase_2_title",
           "note": "1500–500 BCE",
           "value": {
-            "label": "The Vedic period was characterised by an Indo-Aryan culture; during this period the Vedas, the oldest scriptures associated with Hinduism, were composed, and this culture later became well established in the region. Successive ancient empires and kingdoms ruled the region, including the Mauryan empire.",
-            "facts": []
+            "label": "The Vedic period was characterised by an Indo-Aryan culture; during this period the Vedas, the oldest scriptures associated with Hinduism, were composed, and this culture later became well established in the region. Successive ancient empires and kingdoms ruled the region, including the Mauryan empire."
           }
         },
         {
           "label": "Ancient Kingdoms",
-          "id": 1,
+          "id": "history_phase_3_title",
           "note": "500-100 BCE",
           "value": {
-            "label": "Successive ancient empires and kingdoms ruled the region, including the Mauryan empire. The Indo-Greek Kingdom founded by Demetrius of Bactria included Gandhara and Punjab, prospering the Greco-Buddhist culture in the region. Taxila, one of the earliest universities and centres of higher education in the world, which was established during this period.",
-            "facts": []
+            "label": "Successive ancient empires and kingdoms ruled the region, including the Mauryan empire. The Indo-Greek Kingdom founded by Demetrius of Bactria included Gandhara and Punjab, prospering the Greco-Buddhist culture in the region. Taxila, one of the earliest universities and centres of higher education in the world, which was established during this period."
           }
         },
         {
           "label": "Mughal period",
-          "id": 1,
+          "id": "history_phase_4_title",
           "note": "1526–1857 CE",
           "value": {
-            "label": "The Mughals introduced Persian literature and high culture, establishing the roots of Indo-Persian culture in the region. In the early 16th century, the region remained under the Mughal Empire ruled by Muslim emperors. By the early 18th century, increasing European influence contributed to the slow disintegration of the Mughal Empire.",
-            "facts": []
+            "label": "The Mughals introduced Persian literature and high culture, establishing the roots of Indo-Persian culture in the region. In the early 16th century, the region remained under the Mughal Empire ruled by Muslim emperors. By the early 18th century, increasing European influence contributed to the slow disintegration of the Mughal Empire."
           }
         }
       ]
     },
     {
+      "title": "Government",
       "cardType": "avatar",
       "label": "Pakistan is an Islamic Republic and has a multi-party parliamentary system. Members of the National Assembly are elected by the citizens. The Prime Minister is the leader of the majority rule party or a coalition in the National Assembly.",
       "facts": [
         {
+          "label": "Prime minister name",
           "value": {
             "label": "Imran Khan",
-            "url": "",
             "image": {
-              "url": "/static/images/pakistan/Mike_Pompeo_with_Imran_Khan_in_Islamabad_-_2018_(29559549217)_(cropped).jpg",
-              "altText": "Image of Mike Pompeo with Imran Khan in Islamabad   2018 (29559549217) (cropped)"
+              "url": "/static/images/pakistan/Mike_Pompeo_with_Imran_Khan_in_Islamabad_-_2018_%2829559549217%29_%28cropped%29.jpg",
+              "altText": "Picture of Imran Khan",
+              "license": ""
             }
           }
         },
         {
+          "label": "President",
           "value": {
             "label": "Arif Alvi",
-            "url": "",
             "image": {
               "url": "/static/images/pakistan/President_of_Pakistan_Dr_Arif_Alvi.jpg",
-              "altText": "Image of President of Pakistan Dr Arif Alvi"
+              "altText": "Picture of Arif Alvi"
             }
           }
         },
         {
+          "label": "Chief Justice name",
           "value": {
             "label": "Asif Saeed Khan Khosa",
-            "url": "",
             "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of null"
+              "url": "",
+              "altText": "Picture of Asif Saeed Khan Khosa"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "Pakistan national cricket team",
+            "url": "/read/en/pakistan_national_cricket_team",
+            "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
+            "image": {
+              "url": "/static/images/pakistan/PakistanCricketLogo.png",
+              "altText": "Picture of Pakistan national cricket team"
             }
           }
         }
@@ -168,16 +164,109 @@
     },
     {
       "title": "Geography",
+      "id": "pakistan_geography",
       "cardType": "simple",
       "facts": [
         {
-          "label": "Australia",
+          "label": "Pakistan",
           "value": {
             "label": "Pakistan is divided into three major geographic areas: the northern highlands, the Indus River plain, and the Balochistan Plateau.",
             "image": {
               "url": "/static/images/pakistan/K2_2006b.jpg",
-              "altText": "Image of K2 2006b"
+              "altText": "An image of Pakistan"
             }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Culture",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Literature",
+          "id": "culture-literature",
+          "value": {
+            "label": "Pakistan has literature in Urdu, Sindhi, Punjabi, Pashto, Baluchi, Persian, English, and many other languages. Before the 19th century, Pakistani literature consisted mainly of lyric and religious poetry, and mystical and folkloric works. During the colonial period, native literary figures were influenced by western literary realism and took up increasingly varied topics and narrative forms. Well-known figures in contemporary Pakistani Urdu literature include Josh Malihabadi, Faiz Ahmed Faiz, and Saadat Hasan Manto. ",
+            "image": {
+              "url": "/static/images/pakistan/Faiz_Ahmed_Faiz_%28cropped%29.jpg",
+              "altText": "Pakistan has literature in Urdu, Sindhi, Punjabi, Pashto, Baluchi, Persian, English, and many other languages. Before the 19th century, Pakistani literature consisted mainly of lyric and religious poetry, and mystical and folkloric works. During the colonial period, native literary figures were influenced by western literary realism and took up increasingly varied topics and narrative forms. Well-known figures in contemporary Pakistani Urdu literature include Josh Malihabadi, Faiz Ahmed Faiz, and Saadat Hasan Manto. ",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Architecture",
+          "id": "culture-architecture",
+          "value": {
+            "label": "Four periods are recognised in Pakistani architecture: pre-Islamic, Islamic, colonial, and post-colonial. Lahore, as the occasional residence of Mughal rulers, contains many important buildings from the era. Several examples of architectural influenced by British design can be found in Lahore, Peshawar, and Karachi.",
+            "image": {
+              "url": "/static/images/pakistan/Lahore_Fort.jpg",
+              "altText": "Four periods are recognised in Pakistani architecture: pre-Islamic, Islamic, colonial, and post-colonial. Lahore, as the occasional residence of Mughal rulers, contains many important buildings from the era. Several examples of architectural influenced by British design can be found in Lahore, Peshawar, and Karachi."
+            }
+          }
+        },
+        {
+          "label": "Music",
+          "id": "culture-music",
+          "value": {
+            "label": "Music of Pakistan includes diverse music from various parts of South Asia as well as Central Asian, Middle Eastern, and modern-day Western popular music.",
+            "image": {
+              "url": "/static/images/pakistan/Overload_Dhol_Player.jpg",
+              "altText": "Music of Pakistan includes diverse music from various parts of South Asia as well as Central Asian, Middle Eastern, and modern-day Western popular music."
+            }
+          }
+        },
+        {
+          "label": "Sports",
+          "id": "culture-sports",
+          "value": {
+            "label": "Cricket is the most popular sport in Pakistan, while field hockey, polo, and squash are also popular. Traditional sports like kabaddi and other well-known games are also played.",
+            "image": {
+              "url": "/static/images/pakistan/Pakvaus.jpg",
+              "altText": "Cricket is the most popular sport in Pakistan, while field hockey, polo, and squash are also popular. Traditional sports like kabaddi and other well-known games are also played."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_pakistan",
+          "label": "Languages",
+          "value": {
+            "label": "Urdu, Punjabi, Pashto, Balochi, Sindhi"
+          }
+        },
+        {
+          "id": "religion_section_pakistan",
+          "label": "Religions",
+          "value": {
+            "facts": [
+              {
+                "id": "religion_0",
+                "label": "Islam",
+                "value": 96
+              },
+              {
+                "id": "religion_1",
+                "label": "Hinduism",
+                "value": 1.85
+              },
+              {
+                "id": "religion_2",
+                "label": "Christianity",
+                "value": 1.5
+              },
+              {
+                "id": "religion_3",
+                "label": "Others",
+                "value": 0.6
+              }
+            ]
           }
         }
       ]
