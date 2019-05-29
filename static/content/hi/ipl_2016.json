@@ -18,5 +18,46 @@
       "url": "/read/ta/ipl_2016"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "9 April–29 May"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "सनराइजर्स हैदराबाद (पहला खिताब)",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "रॉयल चैलेंजर्स बैंगलोर",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "8"
+          }
+        }
+      ]
+    }
+  ]
 }

@@ -18,5 +18,73 @@
       "url": "/read/hi/2011_indian_premier_league"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "8 April – 28 May"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "சென்னை சூப்பர் கிங்ஸ் (முதல் டைட்டில்)",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "10"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_2011_indian_premier_league",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "மும்பை",
+                "url": "/read/ta/mumbai",
+                "contentUrl": "/static/content/ta/mumbai.json",
+                "value": {
+                  "label": "மும்பை, பம்பாய் என்றும் அறியப்படுகிறது, 1995ஆம் ஆண்டு வரை இதுவே அதன் அதிகாரப்பூர்வ பெயராகவும் இருந்தது, இது மஹாராஷ்டிரா மாநிலத்தின் தலைநகரம் ஆகும். 2011 ஆம் ஆண்டு வரை இதுவே இந்தியாவின் மிகப் பெரிய மக்கள்தொகையைக் கொண்ட நகரமாகவும் இருந்துவந்துள்ளது.",
+                  "image": {
+                    "url": "/static/images/2011_indian_premier_league/Victoria_Terminus_-_CST.JPG",
+                    "altText": "மும்பை"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }

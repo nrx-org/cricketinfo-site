@@ -18,5 +18,73 @@
       "url": "/read/ta/2003_cricket_world_cup"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "9 February–23 March"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "ऑस्ट्रेलिया (तीसरा खिताब)",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "भारत",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "14"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_2003_cricket_world_cup",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "दक्षिण अफ्रीका",
+                "url": "/read/hi/south_africa",
+                "contentUrl": "/static/content/hi/south_africa.json",
+                "value": {
+                  "label": "दक्षिण अफ्रीका, आधिकारिक तौर पर दक्षिण अफ्रीका गणराज्य (आरएसए), अफ्रीका का सबसे दक्षिणी देश है। यह दक्षिण में दक्षिणी अटलांटिक और हिन्द महासागरों से 2,798 किलोमीटर लंबे समुद्र तट से घिरा हुआ है।",
+                  "image": {
+                    "url": "/static/images/2003_cricket_world_cup/MapungubweHill.jpg",
+                    "altText": "दक्षिण अफ्रीका"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }

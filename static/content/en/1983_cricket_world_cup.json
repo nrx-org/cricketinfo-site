@@ -18,5 +18,73 @@
       "url": "/read/ta/1983_cricket_world_cup"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "9 June–25 June"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "India (1st title)",
+            "url": "/read/en/india_national_cricket_team",
+            "contentUrl": "/static/content/en/india_national_cricket_team.json"
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "West Indies",
+            "url": "/read/en/west_indies_cricket_team",
+            "contentUrl": "/static/content/en/west_indies_cricket_team.json"
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "8"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_1983_cricket_world_cup",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "England",
+                "url": "/read/en/england",
+                "contentUrl": "/static/content/en/england.json",
+                "value": {
+                  "label": "England is a country that is part of the United Kingdom. It shares land borders with Wales to the west and Scotland to the north-northwest.",
+                  "image": {
+                    "url": "/static/images/1983_cricket_world_cup/Flag_of_England.svg",
+                    "altText": "England"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }

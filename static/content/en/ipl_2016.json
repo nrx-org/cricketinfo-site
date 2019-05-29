@@ -18,5 +18,46 @@
       "url": "/read/ta/ipl_2016"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "9 April–29 May"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "Sunrisers Hyderabad (1st title)",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "Royal Challengers Bangalore",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "8"
+          }
+        }
+      ]
+    }
+  ]
 }

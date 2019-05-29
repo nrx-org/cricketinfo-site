@@ -18,5 +18,73 @@
       "url": "/read/ta/2011_indian_premier_league"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "8 April – 28 May"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "चेन्नई सुपर किंग्स (दूसरा खिताब)",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "रॉयल चैलेंजर्स बैंगलोर",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "10"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_2011_indian_premier_league",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "मुंबई",
+                "url": "/read/hi/mumbai",
+                "contentUrl": "/static/content/hi/mumbai.json",
+                "value": {
+                  "label": "मुंबई, जिसे बॉम्बे के नाम से भी जाना जाता है, 1995 तक आधिकारिक नाम, भारतीय राज्य महाराष्ट्र की राजधानी है। 2011 तक यह भारत का सबसे अधिक आबादी वाला शहर है।",
+                  "image": {
+                    "url": "/static/images/2011_indian_premier_league/Victoria_Terminus_-_CST.JPG",
+                    "altText": "मुंबई"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }

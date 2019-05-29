@@ -18,5 +18,73 @@
       "url": "/read/hi/2007_cricket_world_cup"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "13 March–28 April"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "ஆஸ்திரேலியா (3வது டைட்டில்)",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "ஸ்ரீலங்கா",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "16"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_2007_cricket_world_cup",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "அயோத்தி",
+                "url": "/read/ta/ayodhya",
+                "contentUrl": "/static/content/ta/ayodhya.json",
+                "value": {
+                  "label": "அயோத்தி, உத்தரப்பிரதேச மாநிலத்தின் ஃபைசாபாத் மாவட்டத்தில் அமைந்துள்ள நகரம் ஆகும். அயோத்தியின் புகழ்பெற்ற நகரத்துடன் இந்நகரம் அடையாளம் காணப்பட்டுள்ளது, மேலும் இது ராமரின் பிறப்பிடமாகவும், ராமாயண காவியத்தின் அமைவிடமாகவும் உள்ளது.",
+                  "image": {
+                    "url": "/static/images/2007_cricket_world_cup/Kanak_Bhawan.jpg",
+                    "altText": "அயோத்தி"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }

@@ -18,5 +18,85 @@
       "url": "/read/ta/2017_indian_premier_league"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "14 February–29 March"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "Mumbai Indians (3rd title)",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "Rising Pune Supergiants",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "8"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_2017_indian_premier_league",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "बैंगलोर",
+                "url": "/read/hi/bangalore",
+                "contentUrl": "/static/content/hi/bangalore.json",
+                "value": {
+                  "label": "बैंगलोर, जिसे आधिकारिक तौर पर बेंगलुरु के रूप में जाना जाता है, भारतीय राज्य कर्नाटक की राजधानी है। इसकी आबादी दस मिलियन से अधिक है, जो इसे एक मेगासिटी बनाता है और भारत में तीसरा सबसे अधिक आबादी वाला शहर और पांचवां सबसे अधिक आबादी वाला शहरी समूह है।",
+                  "image": {
+                    "url": "/static/images/2017_indian_premier_league/Glasshouse_and_fountain_at_lalbagh.jpg",
+                    "altText": "बैंगलोर"
+                  }
+                }
+              },
+              {
+                "label": "दिल्ली",
+                "url": "/read/hi/delhi",
+                "contentUrl": "/static/content/hi/delhi.json",
+                "value": {
+                  "label": "दिल्ली, आधिकारिक तौर पर दिल्ली का राष्ट्रीय राजधानी क्षेत्र (एनसीटी), एक शहर और भारत का एक केंद्र शासित प्रदेश है, जिसमें नई दिल्ली, भारत की राजधानी है।",
+                  "image": {
+                    "url": "/static/images/2017_indian_premier_league/India_Gate_in_New_Delhi_03-2016.jpg",
+                    "altText": "दिल्ली"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }

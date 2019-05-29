@@ -18,5 +18,97 @@
       "url": "/read/ta/2016_indian_premier_league"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "9 April–29 May"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "सनराइजर्स हैदराबाद (पहला खिताब)",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "रॉयल चैलेंजर्स बैंगलोर",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "8"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_2016_indian_premier_league",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "बैंगलोर",
+                "url": "/read/hi/bangalore",
+                "contentUrl": "/static/content/hi/bangalore.json",
+                "value": {
+                  "label": "बैंगलोर, जिसे आधिकारिक तौर पर बेंगलुरु के रूप में जाना जाता है, भारतीय राज्य कर्नाटक की राजधानी है। इसकी आबादी दस मिलियन से अधिक है, जो इसे एक मेगासिटी बनाता है और भारत में तीसरा सबसे अधिक आबादी वाला शहर और पांचवां सबसे अधिक आबादी वाला शहरी समूह है।",
+                  "image": {
+                    "url": "/static/images/2016_indian_premier_league/Glasshouse_and_fountain_at_lalbagh.jpg",
+                    "altText": "बैंगलोर"
+                  }
+                }
+              },
+              {
+                "label": "पुणे",
+                "url": "/read/hi/pune",
+                "contentUrl": "/static/content/hi/pune.json",
+                "value": {
+                  "label": "पुणे को महाराष्ट्र की सांस्कृतिक राजधानी माना जाता है। कई प्रसिद्ध शैक्षणिक संस्थानों की उपस्थिति के कारण इसे \"पूर्व का ऑक्सफोर्ड\" भी कहा जाता है।",
+                  "image": {
+                    "altText": "पुणे",
+                    "license": ""
+                  }
+                }
+              },
+              {
+                "label": "मुंबई",
+                "url": "/read/hi/mumbai",
+                "contentUrl": "/static/content/hi/mumbai.json",
+                "value": {
+                  "label": "मुंबई, जिसे बॉम्बे के नाम से भी जाना जाता है, 1995 तक आधिकारिक नाम, भारतीय राज्य महाराष्ट्र की राजधानी है। 2011 तक यह भारत का सबसे अधिक आबादी वाला शहर है।",
+                  "image": {
+                    "url": "/static/images/2016_indian_premier_league/Victoria_Terminus_-_CST.JPG",
+                    "altText": "मुंबई"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }

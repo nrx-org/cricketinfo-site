@@ -18,5 +18,97 @@
       "url": "/read/ta/2016_indian_premier_league"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "9 April–29 May"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "Sunrisers Hyderabad (1st title)",
+            "url": "/read/en/sunrisers_hyderabad",
+            "contentUrl": "/static/content/en/sunrisers_hyderabad.json"
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "Royal Challengers Bangalore",
+            "url": "/read/en/royal_challengers_bangalore",
+            "contentUrl": "/static/content/en/royal_challengers_bangalore.json"
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "8"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_2016_indian_premier_league",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Bangalore",
+                "url": "/read/en/bangalore",
+                "contentUrl": "/static/content/en/bangalore.json",
+                "value": {
+                  "label": "Bangalore, officially known as Bengaluru, is the capital of the Indian state of Karnataka. It has a population of over ten million, making it a megacity and the third-most populous city and fifth-most populous urban agglomeration in India.",
+                  "image": {
+                    "url": "/static/images/2016_indian_premier_league/Glasshouse_and_fountain_at_lalbagh.jpg",
+                    "altText": "Bangalore"
+                  }
+                }
+              },
+              {
+                "label": "Pune",
+                "url": "/read/en/pune",
+                "contentUrl": "/static/content/en/pune.json",
+                "value": {
+                  "label": "Pune is considered to be the cultural capital of Maharashtra. It is also known as the \"Oxford of the East\" due to the presence of several well-known educational institutions.",
+                  "image": {
+                    "altText": "Pune",
+                    "license": ""
+                  }
+                }
+              },
+              {
+                "label": "Mumbai",
+                "url": "/read/en/mumbai",
+                "contentUrl": "/static/content/en/mumbai.json",
+                "value": {
+                  "label": "Mumbai, also known as Bombay, the official name until 1995, is the capital city of the Indian state of Maharashtra. As of 2011 it is the most populous city in India.",
+                  "image": {
+                    "url": "/static/images/2016_indian_premier_league/Victoria_Terminus_-_CST.JPG",
+                    "altText": "Mumbai"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }

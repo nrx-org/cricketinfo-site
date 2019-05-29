@@ -19,6 +19,28 @@ const TITLE_KEY = "Name of tournament";
 const SUMMARY_KEY = "Short summary of the article";
 const WIKIPEDIA_URL_KEY = "Wikipedia link of the Tournament";
 const COVER_IMAGE_KEY = "Header  image ";
+const CHAMPION_KEY = "Champion";
+const CHAMPION_ID_KEY = "Champion Link";
+const RUNNERS_UP_KEY = "Runners Up";
+const RUNNERS_UP_ID_KEY = "Runners Up Link";
+const DATES_KEY = "Dates";
+const FORMAT_KEY = "Format";
+const NUMBER_OF_TEAMS_KEY = "No of Teams";
+
+const HOSTS = [
+  {
+    LABEL_KEY: "Host 1",
+    ID_KEY: "Host 1 Card"
+  },
+  {
+    LABEL_KEY: "Host 2",
+    ID_KEY: "Host 2 Card"
+  },
+  {
+    LABEL_KEY: "Host 3",
+    ID_KEY: "Host 3 Card"
+  }
+];
 
 module.exports.exportEventsIndividual = () => {
   Object.keys(csvExports).forEach(lang => {
@@ -58,8 +80,111 @@ module.exports.exportEventsIndividual = () => {
       event.sections = [];
 
       // About table.
+      // TODO: this won't work until the homepage entry is removed from
+      // the exports list in exports_map.js.
+      const championCard = getCardInfoFromId(
+        idMap,
+        record[CHAMPION_ID_KEY],
+        lang
+      );
+      const runnersUpCard = getCardInfoFromId(
+        idMap,
+        record[RUNNERS_UP_ID_KEY],
+        lang
+      );
+
+      const aboutTable = {
+        title: "About",
+        cardType: "table",
+        facts: [
+          {
+            label: DATES_KEY,
+            value: {
+              label: record[DATES_KEY]
+            }
+          },
+          {
+            label: FORMAT_KEY,
+            value: {
+              label: FORMAT_KEY
+            }
+          },
+          {
+            label: CHAMPION_KEY,
+            value: {
+              label: record[CHAMPION_KEY],
+              url: championCard && championCard.url,
+              contentUrl: championCard && championCard.contentUrl
+            }
+          },
+          {
+            label: RUNNERS_UP_KEY,
+            value: {
+              label: record[RUNNERS_UP_KEY],
+              url: runnersUpCard && runnersUpCard.url,
+              contentUrl: runnersUpCard && runnersUpCard.contentUrl
+            }
+          },
+          {
+            label: NUMBER_OF_TEAMS_KEY,
+            value: {
+              label: record[NUMBER_OF_TEAMS_KEY]
+            }
+          }
+        ]
+      };
+
+      event.sections.push(aboutTable);
 
       // Hosts.
+      let hostFacts = await Promise.all(
+        HOSTS.map(async host => {
+          if (!record[host.LABEL_KEY]) {
+            return null;
+          }
+
+          const hostCard = getCardInfoFromId(idMap, record[host.ID_KEY], lang);
+
+          if (!hostCard) {
+            return null;
+          }
+
+          return {
+            label: hostCard.title,
+            url: hostCard.url,
+            contentUrl: hostCard.contentUrl,
+            value: {
+              label: hostCard.summary,
+              image: await downloadImageAndFillAttributions(
+                {
+                  url: hostCard.imageUrl,
+                  altText: `${hostCard.title}`
+                },
+                englishSlug
+              )
+            }
+          };
+        })
+      );
+
+      hostFacts = hostFacts.filter(f => !!f);
+
+      if (hostFacts.length > 0) {
+        event.sections.push({
+          title: "Hosts",
+          cardType: "list_card",
+          facts: [
+            {
+              label: "",
+              id: getSluggedTitle(`host_card_${englishSlug}`),
+              value: {
+                label: "",
+                facts: hostFacts
+              }
+            }
+          ]
+        });
+      }
 
       // Tournament history.
 
