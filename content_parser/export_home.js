@@ -24,7 +24,8 @@ const csvExports = {
     strategy: { path: "./csv/home_strategy.csv" },
     popular_articles: { path: "./csv/home_popular_articles.csv" },
     interesting_articles: { path: "./csv/home_interesting_articles.csv" },
-    featured_players: { path: "./csv/home_featured_players.csv" }
+    featured_players: { path: "./csv/home_featured_players.csv" },
+    history: { path: "./csv/home_history.csv" }
   },
   hi: {
     facts: { path: "./csv/home_facts.hi.csv" },
@@ -32,7 +33,8 @@ const csvExports = {
     strategy: { path: "./csv/home_strategy.csv" },
     popular_articles: { path: "./csv/home_popular_articles.csv" },
     interesting_articles: { path: "./csv/home_interesting_articles.csv" },
-    featured_players: { path: "./csv/home_featured_players.csv" }
+    featured_players: { path: "./csv/home_featured_players.csv" },
+    history: { path: "./csv/home_history.csv" }
   },
   ta: {
     facts: { path: "./csv/home_facts.ta.csv" },
@@ -40,7 +42,8 @@ const csvExports = {
     strategy: { path: "./csv/home_strategy.csv" },
     popular_articles: { path: "./csv/home_popular_articles.csv" },
     interesting_articles: { path: "./csv/home_interesting_articles.csv" },
-    featured_players: { path: "./csv/home_featured_players.csv" }
+    featured_players: { path: "./csv/home_featured_players.csv" },
+    history: { path: "./csv/home_history.csv" }
   }
 };
 
@@ -79,6 +82,7 @@ const HOME_FACTS_ARTICLE_ID = "Article ID";
 const HOME_POPULAR_ARTICLES_ARTICLEID = "Article Code";
 const HOME_INTERESTING_ARTICLES_ARTICLEID = "Article Code";
 const HOME_FEATURED_PLAYERS_ARTICLEID = "Article Code";
+const HOME_HISTORY_ARTICLEID = "Article Code";
 
 const groupArr = (data, n) => {
   let group = [];
@@ -141,157 +145,6 @@ module.exports.exportHome = () => {
         break;
     }
 
-    homeJSON.participatingTeams = [];
-    homeJSON.playingTeams = [
-      {
-        label: "India",
-        date: "2019-05-21",
-        id: "0",
-        value: {
-          label:
-            "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-          url: "/wiki/en/Team_India",
-          image: {
-            url: "/static/images/india.png",
-            altText: "An image of the Indian flag",
-            license:
-              "Creative Commons Attribution-Share Alike 4.0 International",
-            licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-          }
-        }
-      },
-      {
-        label: "England",
-        date: "2019-05-21",
-        id: "1",
-        value: {
-          label:
-            "Represents England and Wales in international cricket and drinks too much tea.",
-          url: "/wiki/en/Team_England",
-          image: {
-            url:
-              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
-            altText: "An image of the English flag",
-            license:
-              "Creative Commons Attribution-Share Alike 4.0 International",
-            licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-          }
-        }
-      },
-      {
-        label: "Australia",
-        date: "2019-05-22",
-        id: "2",
-        value: {
-          label:
-            "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-          url: "/wiki/en/Team_Koala",
-          image: {
-            url:
-              "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
-            altText: "An image of the Australian flag",
-            license:
-              "Creative Commons Attribution-Share Alike 4.0 International",
-            licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-          }
-        }
-      },
-      {
-        label: "Pakistan",
-        date: "2019-05-22",
-        id: "2",
-        value: {
-          label:
-            "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-          url: "/wiki/en/Team_Rocket",
-          image: {
-            url:
-              "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
-            altText: "An image of the Pakistani flag"
-          }
-        }
-      }
-    ];
-
-    homeJSON.horizontalTimeline = {
-      title: "History of the World Cup",
-      id: 2,
-      facts: [
-        {
-          label: "1975",
-          id: "worldCupHistory1975",
-          note: null,
-          value: {
-            label: "",
-            facts: [
-              {
-                label: "1983 Cricket World Cup",
-                id: "worldCupHistory1975",
-                value: {
-                  label:
-                    "India won their first world cup in 1983 under Kapil Dev beating West Indies by 43 runs.",
-                  url: "https://placekitten.com/200/200",
-                  buttonText: "Know More",
-                  image: {
-                    url: "https://placekitten.com/200/200",
-                    altText: "Kitten mata ki jai"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          label: "1983",
-          id: "worldCupHistory1983",
-          note: null,
-          value: {
-            label: "",
-            facts: [
-              {
-                label: "1983 Cricket World Cup",
-                id: "worldCupHistory1983",
-                value: {
-                  label:
-                    "India won their first world cup in 1983 under Kapil Dev beating West Indies by 43 runs.",
-                  url: "https://placekitten.com/200/200",
-                  buttonText: "Know More",
-                  image: {
-                    url: "https://placekitten.com/200/200",
-                    altText: "Kitten mata ki jai"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          label: "1992",
-          id: "worldCupHistory1992",
-          note: null,
-          value: {
-            label: "",
-            facts: [
-              {
-                label: "1983 Cricket World Cup",
-                id: "worldCupHistory1992",
-                value: {
-                  label:
-                    "India won their first world cup in 1983 under Kapil Dev beating West Indies by 43 runs.",
-                  url: "https://placekitten.com/200/200",
-                  buttonText: "Know More",
-                  image: {
-                    url: "https://placekitten.com/200/200",
-                    altText: "Kitten mata ki jai"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
-    };
-
     const factsFileContent = fs.readFileSync(
       csvExports[lang].facts.path,
       "utf8"
@@ -307,6 +160,10 @@ module.exports.exportHome = () => {
     );
     const interestingArticlesFileContent = fs.readFileSync(
       csvExports[lang].interesting_articles.path,
+      "utf8"
+    );
+    const historyFileContent = fs.readFileSync(
+      csvExports[lang].history.path,
       "utf8"
     );
 
@@ -327,6 +184,10 @@ module.exports.exportHome = () => {
       delimiter: ","
     });
     const interestingArticlesRecords = parse(interestingArticlesFileContent, {
+      columns: true,
+      delimiter: ","
+    });
+    const historyRecords = parse(historyFileContent, {
       columns: true,
       delimiter: ","
     });
@@ -371,7 +232,112 @@ module.exports.exportHome = () => {
       return dates;
     };
 
-    // NEEDS TO BE CHANGED - NEED BETTER FACT -> ARTICLE MAPPING IN THE CSV
+    let participatingTeams = strategyRecords.map(strategyRecord => {
+      return [
+        strategyRecord[HOME_STRATEGY_TEAM_TO_WATCH_1],
+        strategyRecord[HOME_STRATEGY_TEAM_TO_WATCH_2]
+      ];
+    });
+
+    participatingTeams = flatten(participatingTeams).filter(Boolean);
+    participatingTeams = [...new Set(participatingTeams)];
+
+    homeJSON.participatingTeams = (await Promise.all(
+      participatingTeams.map(async participatingTeam => {
+        const articleInfo = getCardInfoFromId(idMap, participatingTeam, lang);
+
+        return articleInfo
+          ? {
+              label: articleInfo.title,
+              id: getSluggedTitle(articleInfo.title),
+              value: {
+                url: articleInfo.url,
+                label: articleInfo.summary,
+                image: await downloadImageAndFillAttributions(
+                  {
+                    url: articleInfo.imageUrl,
+                    altText: `Image for ${articleInfo.title}`
+                  },
+                  "home"
+                )
+              }
+            }
+          : null;
+      })
+    )).filter(Boolean);
+
+    homeJSON.playingTeams = (await Promise.all(
+      participatingTeams.map(async participatingTeam => {
+        const articleInfo = getCardInfoFromId(idMap, participatingTeam, lang);
+
+        const dates = getDatesForIDFromStrategySheet(
+          participatingTeam,
+          "TEAM_TO_WATCH"
+        );
+
+        return articleInfo && dates.length
+          ? {
+              label: articleInfo.title,
+              id: getSluggedTitle(articleInfo.title),
+              dates: dates,
+              value: {
+                url: articleInfo.url,
+                label: articleInfo.summary,
+                image: await downloadImageAndFillAttributions(
+                  {
+                    url: articleInfo.imageUrl,
+                    altText: `Image for ${articleInfo.title}`
+                  },
+                  "home"
+                )
+              }
+            }
+          : null;
+      })
+    )).filter(Boolean);
+
+    homeJSON.horizontalTimeline = {
+      title: "History of the World Cup",
+      id: 2,
+      facts: []
+    };
+
+    homeJSON.horizontalTimeline.facts = (await Promise.all(
+      historyRecords.map(async historyRecord => {
+        const articleInfo = getCardInfoFromId(
+          idMap,
+          historyRecord[HOME_HISTORY_ARTICLEID],
+          lang
+        );
+        return articleInfo
+          ? {
+              label: articleInfo.title,
+              id: historyRecord[HOME_HISTORY_ARTICLEID],
+              value: {
+                label: null,
+                facts: [
+                  {
+                    label: articleInfo.title,
+                    id: getSluggedTitle(articleInfo.title),
+                    value: {
+                      label: articleInfo.summary,
+                      url: articleInfo.url,
+                      buttonText: "Know More",
+                      image: await downloadImageAndFillAttributions(
+                        {
+                          url: articleInfo.imageUrl,
+                          altText: `Image for ${articleInfo.title}`
+                        },
+                        "home"
+                      )
+                    }
+                  }
+                ]
+              }
+            }
+          : null;
+      })
+    )).filter(Boolean);
 
     factRecords = await Promise.all(
       factRecords.map(async factRecord => {
@@ -380,24 +346,25 @@ module.exports.exportHome = () => {
           factRecord[HOME_FACTS_LINKING_ARTICLE],
           lang
         );
-        return{
-        label: factRecord[HOME_FACTS_FACT],
-        dates: getDatesForIDFromStrategySheet(
-          factRecord[HOME_FACTS_FACTID],
-          "FACT_OF_THE_DAY"
-        ),
-        id: factRecord[HOME_FACTS_FACTID],
-        value: {
-          url: articleInfo ? articleInfo.url : null,
-          image: await downloadImageAndFillAttributions(
-            {
-              url: factRecord[HOME_FACTS_RELEVANT_IMAGE],
-              altText: `Image for ${factRecord[HOME_FACTS_HEADING]}`
-            },
-            "home"
-          )
-        }
-      }})
+        return {
+          label: factRecord[HOME_FACTS_FACT],
+          dates: getDatesForIDFromStrategySheet(
+            factRecord[HOME_FACTS_FACTID],
+            "FACT_OF_THE_DAY"
+          ),
+          id: factRecord[HOME_FACTS_FACTID],
+          value: {
+            url: articleInfo ? articleInfo.url : null,
+            image: await downloadImageAndFillAttributions(
+              {
+                url: factRecord[HOME_FACTS_RELEVANT_IMAGE],
+                altText: `Image for ${factRecord[HOME_FACTS_HEADING]}`
+              },
+              "home"
+            )
+          }
+        };
+      })
     );
 
     homeJSON.constantFacts = [];

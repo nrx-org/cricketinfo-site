@@ -31,7 +31,12 @@ const ALL_TEAMS_MESSAGE = {
 
 export const PlayingTeams = ({ teams, allTeams }) => {
   const dateString = todayString();
-  const teamsForToday = teams.filter(f => f.date === dateString);
+  let teamsForToday = teams.filter(f => f.dates.indexOf(dateString) > -1);
+
+  if(teamsForToday.length === 0) {
+    teamsForToday = teams.filter(f => f.dates.indexOf('2019-05-31') > -1);
+  }
+  
   return (
     <LanguageContext.Consumer>
       {lang => (

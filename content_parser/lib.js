@@ -91,7 +91,8 @@ const getCardInfoFromId = (idMap, id, lang) => {
     ),
     imageUrl: isUrlValid(record[referencedCardEntry.imageFieldName])
       ? record[referencedCardEntry.imageFieldName]
-      : null
+      : null,
+    rawData: record
   };
 };
 

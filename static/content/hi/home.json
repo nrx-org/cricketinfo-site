@@ -10,87 +10,27 @@
     }
   ],
   "participatingTeams": [],
-  "playingTeams": [
-    {
-      "label": "India",
-      "date": "2019-05-21",
-      "id": "0",
-      "value": {
-        "label": "Also known as Team India and Men in Blue, the Indian cricket team likes to play cricket.",
-        "url": "/wiki/en/Team_India",
-        "image": {
-          "url": "/static/images/india.png",
-          "altText": "An image of the Indian flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "England",
-      "date": "2019-05-21",
-      "id": "1",
-      "value": {
-        "label": "Represents England and Wales in international cricket and drinks too much tea.",
-        "url": "/wiki/en/Team_England",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
-          "altText": "An image of the English flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "Australia",
-      "date": "2019-05-22",
-      "id": "2",
-      "value": {
-        "label": "Celebrates Christmas in the summer and is constantly in danger of being bitten by poisonous animals.",
-        "url": "/wiki/en/Team_Koala",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
-          "altText": "An image of the Australian flag",
-          "license": "Creative Commons Attribution-Share Alike 4.0 International",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-        }
-      }
-    },
-    {
-      "label": "Pakistan",
-      "date": "2019-05-22",
-      "id": "2",
-      "value": {
-        "label": "Popularly referred to as the Shaheens, Green Shirts and Men in Green. They are ranked seventh in Tests, sixth in ODIs and first in T20Is.",
-        "url": "/wiki/en/Team_Rocket",
-        "image": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
-          "altText": "An image of the Pakistani flag"
-        }
-      }
-    }
-  ],
+  "playingTeams": [],
   "horizontalTimeline": {
     "title": "History of the World Cup",
     "id": 2,
     "facts": [
       {
-        "label": "1975",
-        "id": "worldCupHistory1975",
-        "note": null,
+        "label": "1983 क्रिकेट विश्व कप",
+        "id": "P2",
         "value": {
-          "label": "",
+          "label": null,
           "facts": [
             {
-              "label": "1983 Cricket World Cup",
-              "id": "worldCupHistory1975",
+              "label": "1983 क्रिकेट विश्व कप",
+              "id": "1983_क्रिकेट_विश्व_कप",
               "value": {
-                "label": "India won their first world cup in 1983 under Kapil Dev beating West Indies by 43 runs.",
-                "url": "https://placekitten.com/200/200",
+                "label": "1983 क्रिकेट विश्व कप (आधिकारिक रूप से प्रूडेंशियल कप '83) क्रिकेट विश्व कप टूर्नामेंट का तीसरा संस्करण था। यह 9 जून से 25 जून 1983 तक इंग्लैंड और वेल्स में आयोजित किया गया था और इसे भारत ने जीता था।",
+                "url": "/read/hi/1983_cricket_world_cup",
                 "buttonText": "Know More",
                 "image": {
-                  "url": "https://placekitten.com/200/200",
-                  "altText": "Kitten mata ki jai"
+                  "url": "/static/images/home/Prudential_Cup_83_logo.svg",
+                  "altText": "Image for 1983 क्रिकेट विश्व कप"
                 }
               }
             }
@@ -98,22 +38,21 @@
         }
       },
       {
-        "label": "1983",
-        "id": "worldCupHistory1983",
-        "note": null,
+        "label": "1996 क्रिकेट विश्व कप",
+        "id": "P3",
         "value": {
-          "label": "",
+          "label": null,
           "facts": [
             {
-              "label": "1983 Cricket World Cup",
-              "id": "worldCupHistory1983",
+              "label": "1996 क्रिकेट विश्व कप",
+              "id": "1996_क्रिकेट_विश्व_कप",
               "value": {
-                "label": "India won their first world cup in 1983 under Kapil Dev beating West Indies by 43 runs.",
-                "url": "https://placekitten.com/200/200",
+                "label": "1996 क्रिकेट विश्व कप, जिसे उसके आधिकारिक प्रायोजकों (आईटीसी के विल्स ब्रांड) के नाम पर, विल्स वर्ल्ड कप 1996 भी कहा जाता है, छठा क्रिकेट विश्व कप था। यह पाकिस्तान और भारत द्वारा आयोजित होने वाला दूसरा, और श्रीलंका आयोजित होने वाला पहला विश्व कप था।",
+                "url": "/read/hi/1996_cricket_world_cup",
                 "buttonText": "Know More",
                 "image": {
-                  "url": "https://placekitten.com/200/200",
-                  "altText": "Kitten mata ki jai"
+                  "url": "/static/images/home/Wills_World_Cup_1996.svg",
+                  "altText": "Image for 1996 क्रिकेट विश्व कप"
                 }
               }
             }
@@ -121,22 +60,109 @@
         }
       },
       {
-        "label": "1992",
-        "id": "worldCupHistory1992",
-        "note": null,
+        "label": "1999 क्रिकेट विश्व कप",
+        "id": "P4",
         "value": {
-          "label": "",
+          "label": null,
           "facts": [
             {
-              "label": "1983 Cricket World Cup",
-              "id": "worldCupHistory1992",
+              "label": "1999 क्रिकेट विश्व कप",
+              "id": "1999_क्रिकेट_विश्व_कप",
               "value": {
-                "label": "India won their first world cup in 1983 under Kapil Dev beating West Indies by 43 runs.",
-                "url": "https://placekitten.com/200/200",
+                "label": "1999 का क्रिकेट विश्व कप क्रिकेट विश्व कप का सातवां संस्करण था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेज़बानी मुख्य रूप से इंग्लैंड ने की थी, जिसमें कुछ मैच स्कॉटलैंड, आयरलैंड, वेल्स और नीदरलैंड में भी खेले गए थे।",
+                "url": "/read/hi/1999_cricket_world_cup",
                 "buttonText": "Know More",
                 "image": {
-                  "url": "https://placekitten.com/200/200",
-                  "altText": "Kitten mata ki jai"
+                  "url": "/static/images/home/Wc99.png",
+                  "altText": "Image for 1999 क्रिकेट विश्व कप"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "label": "2003 क्रिकेट विश्व कप",
+        "id": "P5",
+        "value": {
+          "label": null,
+          "facts": [
+            {
+              "label": "2003 क्रिकेट विश्व कप",
+              "id": "2003_क्रिकेट_विश्व_कप",
+              "value": {
+                "label": "2003 का क्रिकेट विश्व कप आठवां क्रिकेट विश्व कप था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेजबानी दक्षिण अफ्रीका, जिम्बाब्वे और केन्या ने मिल कर की थी।",
+                "url": "/read/hi/2003_cricket_world_cup",
+                "buttonText": "Know More",
+                "image": {
+                  "url": "/static/images/home/Cricket_World_Cup_Logo_2003.svg",
+                  "altText": "Image for 2003 क्रिकेट विश्व कप"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "label": "2007 क्रिकेट विश्व कप",
+        "id": "P6",
+        "value": {
+          "label": null,
+          "facts": [
+            {
+              "label": "2007 क्रिकेट विश्व कप",
+              "id": "2007_क्रिकेट_विश्व_कप",
+              "value": {
+                "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
+                "url": "/read/hi/2007_cricket_world_cup",
+                "buttonText": "Know More",
+                "image": {
+                  "url": "/static/images/home/2007_Cricket_World_Cup_logo.svg",
+                  "altText": "Image for 2007 क्रिकेट विश्व कप"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "label": "2011 क्रिकेट विश्व कप",
+        "id": "P7",
+        "value": {
+          "label": null,
+          "facts": [
+            {
+              "label": "2011 क्रिकेट विश्व कप",
+              "id": "2011_क्रिकेट_विश्व_कप",
+              "value": {
+                "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
+                "url": "/read/hi/2011_cricket_world_cup",
+                "buttonText": "Know More",
+                "image": {
+                  "url": "/static/images/home/2011_Cricket_World_Cup_Logo.svg",
+                  "altText": "Image for 2011 क्रिकेट विश्व कप"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "label": "2015 क्रिकेट विश्व कप",
+        "id": "P8",
+        "value": {
+          "label": null,
+          "facts": [
+            {
+              "label": "2015 क्रिकेट विश्व कप",
+              "id": "2015_क्रिकेट_विश्व_कप",
+              "value": {
+                "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
+                "url": "/read/hi/2015_cricket_world_cup",
+                "buttonText": "Know More",
+                "image": {
+                  "url": "/static/images/home/2015_Cricket_World_Cup_Logo.svg",
+                  "altText": "Image for 2015 क्रिकेट विश्व कप"
                 }
               }
             }
@@ -157,8 +183,7 @@
         "url": null,
         "image": {
           "url": "/static/images/home/Prudential_Cup_75_logo.svg",
-          "altText": "Image for अलोकप्रिय 36",
-          "license": "<p><p>This is a logo  for 1975 Cricket World Cup.\n</p></p><p><p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.abebooks.com/book-search/title/prudential-cup/\">https://www.abebooks.com/book-search/title/prudential-cup/</a>\n</p></p><p><p><a href=\"/wiki/1975_Cricket_World_Cup\" title=\"1975 Cricket World Cup\">1975 Cricket World Cup</a>\n</p></p><p><p>The entire logo is used to convey the meaning intended and avoid tarnishing or misrepresenting the intended image.\n</p></p><p><p>This is an <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">SVG</a> <a href=\"/wiki/Vector_graphics\" title=\"Vector graphics\">vector image</a> of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or a <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright-protected</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>, <a href=\"/wiki/Seal_(emblem)\" title=\"Seal (emblem)\">seal</a> or <a href=\"/wiki/Icon_(computing)\" title=\"Icon (computing)\">computer icon</a>. This image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. The default rendering of this image is of a size and resolution sufficient to maintain the quality intended by the company or organization, without being unnecessarily high resolution.\n</p></p><p><p>The image is placed in the infobox at the top of the article discussing 1975 Cricket World Cup, a subject of public interest. The significance of the logo is to help the reader identify the organization, assure the readers that they have reached the right article containing critical commentary about the organization, and illustrate the organization&apos;s intended branding message in a way that words alone could not convey.\n</p></p><p><p>Because it is a non-free logo, there is almost certainly no free representation. Any substitute that is not a derivative work would fail to convey the meaning intended, would tarnish or misrepresent its image, or would fail its purpose of identification or commentary.\n</p></p><p><p>Use of the logo in the article complies with Wikipedia <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content policy</a>, <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">logo guidelines</a>, and <a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a> under <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">United States copyright law</a> as described above.\n</p></p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:Prudential_Cup_75_logo.svg</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p><p>This is a <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">Scalable Vector Graphics</a> (SVG) image of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or <a href=\"/wiki/Copyright\" title=\"Copyright\">copyrighted</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>. If <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content restrictions</a> apply, this image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. See <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.</p>"
+          "altText": "Image for अलोकप्रिय 36"
         }
       }
     },
@@ -172,8 +197,7 @@
         "url": null,
         "image": {
           "url": "/static/images/home/Flagcricket.jpg",
-          "altText": "Image for भारत की कोई जीत नहीं",
-          "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+          "altText": "Image for भारत की कोई जीत नहीं"
         }
       }
     },
@@ -187,8 +211,7 @@
         "url": null,
         "image": {
           "url": "/static/images/home/Flagcricket.jpg",
-          "altText": "Image for ग्रुप स्‍टेज से आगे",
-          "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+          "altText": "Image for ग्रुप स्‍टेज से आगे"
         }
       }
     },
@@ -202,8 +225,7 @@
         "url": null,
         "image": {
           "url": "/static/images/home/Prudential_Cup_83_logo.svg",
-          "altText": "Image for सबसे कम स्कोर के लक्ष्‍य को बचाया",
-          "license": "<p><p>This is a logo  for 1983 Cricket World Cup.\n</p></p><p><p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.abebooks.com/book-search/title/prudential-cup/\">https://www.abebooks.com/book-search/title/prudential-cup/</a>\n</p></p><p><p><a href=\"/wiki/1983_Cricket_World_Cup\" title=\"1983 Cricket World Cup\">1983 Cricket World Cup</a>\n</p></p><p><p>The entire logo is used to convey the meaning intended and avoid tarnishing or misrepresenting the intended image.\n</p></p><p><p>This is an <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">SVG</a> <a href=\"/wiki/Vector_graphics\" title=\"Vector graphics\">vector image</a> of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or a <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright-protected</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>, <a href=\"/wiki/Seal_(emblem)\" title=\"Seal (emblem)\">seal</a> or <a href=\"/wiki/Icon_(computing)\" title=\"Icon (computing)\">computer icon</a>. This image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. The default rendering of this image is of a size and resolution sufficient to maintain the quality intended by the company or organization, without being unnecessarily high resolution.\n</p></p><p><p>The image is placed in the infobox at the top of the article discussing 1983 Cricket World Cup, a subject of public interest. The significance of the logo is to help the reader identify the organization, assure the readers that they have reached the right article containing critical commentary about the organization, and illustrate the organization&apos;s intended branding message in a way that words alone could not convey.\n</p></p><p><p>Because it is a non-free logo, there is almost certainly no free representation. Any substitute that is not a derivative work would fail to convey the meaning intended, would tarnish or misrepresent its image, or would fail its purpose of identification or commentary.\n</p></p><p><p>Use of the logo in the article complies with Wikipedia <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content policy</a>, <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">logo guidelines</a>, and <a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a> under <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">United States copyright law</a> as described above.\n</p></p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:Prudential_Cup_83_logo.svg</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p><p>This is a <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">Scalable Vector Graphics</a> (SVG) image of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or <a href=\"/wiki/Copyright\" title=\"Copyright\">copyrighted</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>. If <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content restrictions</a> apply, this image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. See <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.</p>"
+          "altText": "Image for सबसे कम स्कोर के लक्ष्‍य को बचाया"
         }
       }
     },
@@ -219,8 +241,7 @@
         "url": null,
         "image": {
           "url": "/static/images/home/Australian_World_Cup_treble.jpg",
-          "altText": "Image for करीबी मुकाबला",
-          "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+          "altText": "Image for करीबी मुकाबला"
         }
       }
     },
@@ -238,8 +259,7 @@
         "url": null,
         "image": {
           "url": "/static/images/home/South_African_Cricket_team_2008.jpg",
-          "altText": "Image for रंगभेद की समाप्ति",
-          "license": ""
+          "altText": "Image for रंगभेद की समाप्ति"
         }
       }
     },
@@ -256,8 +276,7 @@
         "url": null,
         "image": {
           "url": "/static/images/home/South_African_Cricket_team_2008.jpg",
-          "altText": "Image for 1 गेंद पर 22 रन",
-          "license": ""
+          "altText": "Image for 1 गेंद पर 22 रन"
         }
       }
     },
@@ -271,8 +290,7 @@
         "url": null,
         "image": {
           "url": "/static/images/home/Wills_World_Cup_1996.svg",
-          "altText": "Image for मेजबान की जीत",
-          "license": "<p><p>This is a logo  for 1996 Cricket World Cup.\n</p></p><p><p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.icc-cricket.com/cricket-world-cup\">https://www.icc-cricket.com/cricket-world-cup</a>\n</p></p><p><p><a href=\"/wiki/1996_Cricket_World_Cup\" title=\"1996 Cricket World Cup\">1996 Cricket World Cup</a>\n</p></p><p><p>The entire logo is used to convey the meaning intended and avoid tarnishing or misrepresenting the intended image.\n</p></p><p><p>This is an <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">SVG</a> <a href=\"/wiki/Vector_graphics\" title=\"Vector graphics\">vector image</a> of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or a <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright-protected</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>, <a href=\"/wiki/Seal_(emblem)\" title=\"Seal (emblem)\">seal</a> or <a href=\"/wiki/Icon_(computing)\" title=\"Icon (computing)\">computer icon</a>. This image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. The default rendering of this image is of a size and resolution sufficient to maintain the quality intended by the company or organization, without being unnecessarily high resolution.\n</p></p><p><p>The image is placed in the infobox at the top of the article discussing 1996 Cricket World Cup, a subject of public interest. The significance of the logo is to help the reader identify the organization, assure the readers that they have reached the right article containing critical commentary about the organization, and illustrate the organization&apos;s intended branding message in a way that words alone could not convey.\n</p></p><p><p>Because it is a non-free logo, there is almost certainly no free representation. Any substitute that is not a derivative work would fail to convey the meaning intended, would tarnish or misrepresent its image, or would fail its purpose of identification or commentary.\n</p></p><p><p>Use of the logo in the article complies with Wikipedia <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content policy</a>, <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">logo guidelines</a>, and <a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a> under <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">United States copyright law</a> as described above.\n</p></p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:Wills_World_Cup_1996.svg</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p><p>This is a <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">Scalable Vector Graphics</a> (SVG) image of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or <a href=\"/wiki/Copyright\" title=\"Copyright\">copyrighted</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>. If <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content restrictions</a> apply, this image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. See <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.</p>"
+          "altText": "Image for मेजबान की जीत"
         }
       }
     },
@@ -293,8 +311,7 @@
         "url": null,
         "image": {
           "url": "/static/images/home/Sri_Lanka_Cricket_Cap_Insignia.svg",
-          "altText": "Image for श्रीलंकाई क्रिकेट टीम",
-          "license": "<p><p>This is a logo owned by Sri Lanka Cricket Board for Sri Lanka national cricket team.\n</p></p><p><p>The logo is from the <a rel=\"nofollow\" class=\"external free\" href=\"http://www.srilankacricket.lk/\">http://www.srilankacricket.lk/</a> website.\n</p></p><p><p><a href=\"/wiki/Sri_Lanka_national_cricket_team\" title=\"Sri Lanka national cricket team\">Sri Lanka national cricket team</a>\n</p></p><p><p>The entire logo is used to convey the meaning intended and avoid tarnishing or misrepresenting the intended image.\n</p></p><p><p>The logo is of a size and resolution sufficient to maintain the quality intended by the company or organization, without being unnecessarily high resolution.\n</p></p><p><p>The image is used to identify the organization Sri Lanka national cricket team, a subject of public interest. The significance of the logo is to help the reader identify the organization, assure the readers that they have reached the right article containing critical commentary about the organization, and illustrate the organization&apos;s intended branding message in a way that words alone could not convey.\n</p></p><p><p>Because it is a non-free logo, there is almost certainly no free representation. Any substitute that is not a derivative work would fail to convey the meaning intended, would tarnish or misrepresent its image, or would fail its purpose of identification or commentary.\n</p></p><p><p>Use of the logo in the article complies with Wikipedia <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content policy</a>, <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">logo guidelines</a>, and <a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a> under <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">United States copyright law</a> as described above.\n</p></p><p><p>This is a logo owned by Sri Lanka Cricket Board for Sri Lanka national women&apos;s cricket team.\n</p></p><p><p>The logo is from the <a rel=\"nofollow\" class=\"external free\" href=\"http://www.srilankacricket.lk/\">http://www.srilankacricket.lk/</a> website.\n</p></p><p><p><a href=\"/wiki/Sri_Lanka_national_women%27s_cricket_team\" class=\"mw-redirect\" title=\"Sri Lanka national women&apos;s cricket team\">Sri Lanka national women&apos;s cricket team</a>\n</p></p><p><p>The entire logo is used to convey the meaning intended and avoid tarnishing or misrepresenting the intended image.\n</p></p><p><p>The logo is of a size and resolution sufficient to maintain the quality intended by the company or organization, without being unnecessarily high resolution.\n</p></p><p><p>The image is used to identify the organization Sri Lanka national women&apos;s cricket team, a subject of public interest. The significance of the logo is to help the reader identify the organization, assure the readers that they have reached the right article containing critical commentary about the organization, and illustrate the organization&apos;s intended branding message in a way that words alone could not convey.\n</p></p><p><p>Because it is a non-free logo, there is almost certainly no free representation. Any substitute that is not a derivative work would fail to convey the meaning intended, would tarnish or misrepresent its image, or would fail its purpose of identification or commentary.\n</p></p><p><p>Use of the logo in the article complies with Wikipedia <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content policy</a>, <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">logo guidelines</a>, and <a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a> under <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">United States copyright law</a> as described above.\n</p></p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:Sri_Lanka_Cricket_Cap_Insignia.svg</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p><p>This is a <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">Scalable Vector Graphics</a> (SVG) image of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or <a href=\"/wiki/Copyright\" title=\"Copyright\">copyrighted</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>. If <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content restrictions</a> apply, this image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. See <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.</p>"
+          "altText": "Image for श्रीलंकाई क्रिकेट टीम"
         }
       }
     },
@@ -316,8 +333,7 @@
         "url": null,
         "image": {
           "url": "/static/images/home/Wc99.png",
-          "altText": "Image for युद्ध में",
-          "license": "<p><p>This is a logo owned by <a href=\"/wiki/International_Cricket_Council\" title=\"International Cricket Council\">International Cricket Council</a> for <a href=\"/wiki/1999_Cricket_World_Cup\" title=\"1999 Cricket World Cup\">1999 Cricket World Cup</a>.\n</p></p><p><p>The logo may be obtained from <a href=\"/wiki/International_Cricket_Council\" title=\"International Cricket Council\">International Cricket Council</a>.\n</p></p><p><p><a href=\"/wiki/1999_Cricket_World_Cup\" title=\"1999 Cricket World Cup\">1999 Cricket World Cup</a>\n</p></p><p><p>The entire logo is used to convey the meaning intended and avoid tarnishing or misrepresenting the intended image.\n</p></p><p><p>The logo is of a size and resolution sufficient to maintain the quality intended by the company or organization, without being unnecessarily high resolution.\n</p></p><p><p>The image is placed in the infobox at the top of the article discussing <a href=\"/wiki/1999_Cricket_World_Cup\" title=\"1999 Cricket World Cup\">1999 Cricket World Cup</a>, a subject of public interest. The significance of the logo is to help the reader identify the organization, assure the readers that they have reached the right article containing critical commentary about the organization, and illustrate the organization&apos;s intended branding message in a way that words alone could not convey.\n</p></p><p><p>Because it is a non-free logo, there is almost certainly no free representation. Any substitute that is not a derivative work would fail to convey the meaning intended, would tarnish or misrepresent its image, or would fail its purpose of identification or commentary.\n</p></p><p><p>Use of the logo in the article complies with Wikipedia <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content policy</a>, <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">logo guidelines</a>, and <a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a> under <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">United States copyright law</a> as described above.\n</p></p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:Wc99.png</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p>"
+          "altText": "Image for युद्ध में"
         }
       }
     },
@@ -331,8 +347,7 @@
         "url": null,
         "image": {
           "url": "/static/images/home/Flagcricket.jpg",
-          "altText": "Image for युद्ध में",
-          "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+          "altText": "Image for युद्ध में"
         }
       }
     },
@@ -349,8 +364,7 @@
         "url": null,
         "image": {
           "url": "/static/images/home/Australian_World_Cup_treble.jpg",
-          "altText": "Image for अजेय ऑस्ट्रेलिया",
-          "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+          "altText": "Image for अजेय ऑस्ट्रेलिया"
         }
       }
     },
@@ -364,8 +378,7 @@
         "url": null,
         "image": {
           "url": "/static/images/home/Wills_World_Cup_1996.svg",
-          "altText": "Image for निराशाजनक भारतीय प्रदर्शन",
-          "license": "<p><p>This is a logo  for 1996 Cricket World Cup.\n</p></p><p><p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.icc-cricket.com/cricket-world-cup\">https://www.icc-cricket.com/cricket-world-cup</a>\n</p></p><p><p><a href=\"/wiki/1996_Cricket_World_Cup\" title=\"1996 Cricket World Cup\">1996 Cricket World Cup</a>\n</p></p><p><p>The entire logo is used to convey the meaning intended and avoid tarnishing or misrepresenting the intended image.\n</p></p><p><p>This is an <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">SVG</a> <a href=\"/wiki/Vector_graphics\" title=\"Vector graphics\">vector image</a> of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or a <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright-protected</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>, <a href=\"/wiki/Seal_(emblem)\" title=\"Seal (emblem)\">seal</a> or <a href=\"/wiki/Icon_(computing)\" title=\"Icon (computing)\">computer icon</a>. This image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. The default rendering of this image is of a size and resolution sufficient to maintain the quality intended by the company or organization, without being unnecessarily high resolution.\n</p></p><p><p>The image is placed in the infobox at the top of the article discussing 1996 Cricket World Cup, a subject of public interest. The significance of the logo is to help the reader identify the organization, assure the readers that they have reached the right article containing critical commentary about the organization, and illustrate the organization&apos;s intended branding message in a way that words alone could not convey.\n</p></p><p><p>Because it is a non-free logo, there is almost certainly no free representation. Any substitute that is not a derivative work would fail to convey the meaning intended, would tarnish or misrepresent its image, or would fail its purpose of identification or commentary.\n</p></p><p><p>Use of the logo in the article complies with Wikipedia <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content policy</a>, <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">logo guidelines</a>, and <a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a> under <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">United States copyright law</a> as described above.\n</p></p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:Wills_World_Cup_1996.svg</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p><p>This is a <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">Scalable Vector Graphics</a> (SVG) image of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or <a href=\"/wiki/Copyright\" title=\"Copyright\">copyrighted</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>. If <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content restrictions</a> apply, this image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. See <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.</p>"
+          "altText": "Image for निराशाजनक भारतीय प्रदर्शन"
         }
       }
     },
@@ -379,8 +392,7 @@
         "url": null,
         "image": {
           "url": "/static/images/home/Wills_World_Cup_1996.svg",
-          "altText": "Image for घरेलू मैदान पर जीत",
-          "license": "<p><p>This is a logo  for 1996 Cricket World Cup.\n</p></p><p><p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.icc-cricket.com/cricket-world-cup\">https://www.icc-cricket.com/cricket-world-cup</a>\n</p></p><p><p><a href=\"/wiki/1996_Cricket_World_Cup\" title=\"1996 Cricket World Cup\">1996 Cricket World Cup</a>\n</p></p><p><p>The entire logo is used to convey the meaning intended and avoid tarnishing or misrepresenting the intended image.\n</p></p><p><p>This is an <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">SVG</a> <a href=\"/wiki/Vector_graphics\" title=\"Vector graphics\">vector image</a> of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or a <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright-protected</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>, <a href=\"/wiki/Seal_(emblem)\" title=\"Seal (emblem)\">seal</a> or <a href=\"/wiki/Icon_(computing)\" title=\"Icon (computing)\">computer icon</a>. This image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. The default rendering of this image is of a size and resolution sufficient to maintain the quality intended by the company or organization, without being unnecessarily high resolution.\n</p></p><p><p>The image is placed in the infobox at the top of the article discussing 1996 Cricket World Cup, a subject of public interest. The significance of the logo is to help the reader identify the organization, assure the readers that they have reached the right article containing critical commentary about the organization, and illustrate the organization&apos;s intended branding message in a way that words alone could not convey.\n</p></p><p><p>Because it is a non-free logo, there is almost certainly no free representation. Any substitute that is not a derivative work would fail to convey the meaning intended, would tarnish or misrepresent its image, or would fail its purpose of identification or commentary.\n</p></p><p><p>Use of the logo in the article complies with Wikipedia <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content policy</a>, <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">logo guidelines</a>, and <a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a> under <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">United States copyright law</a> as described above.\n</p></p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:Wills_World_Cup_1996.svg</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p><p>This is a <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">Scalable Vector Graphics</a> (SVG) image of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or <a href=\"/wiki/Copyright\" title=\"Copyright\">copyrighted</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>. If <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content restrictions</a> apply, this image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. See <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.</p>"
+          "altText": "Image for घरेलू मैदान पर जीत"
         }
       }
     },
@@ -410,8 +422,7 @@
         "url": null,
         "image": {
           "url": "/static/images/home/Wills_World_Cup_1996.svg",
-          "altText": "Image for 300+",
-          "license": "<p><p>This is a logo  for 1996 Cricket World Cup.\n</p></p><p><p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.icc-cricket.com/cricket-world-cup\">https://www.icc-cricket.com/cricket-world-cup</a>\n</p></p><p><p><a href=\"/wiki/1996_Cricket_World_Cup\" title=\"1996 Cricket World Cup\">1996 Cricket World Cup</a>\n</p></p><p><p>The entire logo is used to convey the meaning intended and avoid tarnishing or misrepresenting the intended image.\n</p></p><p><p>This is an <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">SVG</a> <a href=\"/wiki/Vector_graphics\" title=\"Vector graphics\">vector image</a> of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or a <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright-protected</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>, <a href=\"/wiki/Seal_(emblem)\" title=\"Seal (emblem)\">seal</a> or <a href=\"/wiki/Icon_(computing)\" title=\"Icon (computing)\">computer icon</a>. This image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. The default rendering of this image is of a size and resolution sufficient to maintain the quality intended by the company or organization, without being unnecessarily high resolution.\n</p></p><p><p>The image is placed in the infobox at the top of the article discussing 1996 Cricket World Cup, a subject of public interest. The significance of the logo is to help the reader identify the organization, assure the readers that they have reached the right article containing critical commentary about the organization, and illustrate the organization&apos;s intended branding message in a way that words alone could not convey.\n</p></p><p><p>Because it is a non-free logo, there is almost certainly no free representation. Any substitute that is not a derivative work would fail to convey the meaning intended, would tarnish or misrepresent its image, or would fail its purpose of identification or commentary.\n</p></p><p><p>Use of the logo in the article complies with Wikipedia <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content policy</a>, <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">logo guidelines</a>, and <a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a> under <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">United States copyright law</a> as described above.\n</p></p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:Wills_World_Cup_1996.svg</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p><p>This is a <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">Scalable Vector Graphics</a> (SVG) image of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or <a href=\"/wiki/Copyright\" title=\"Copyright\">copyrighted</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>. If <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content restrictions</a> apply, this image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. See <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.</p>"
+          "altText": "Image for 300+"
         }
       }
     },
@@ -426,8 +437,7 @@
         "url": null,
         "image": {
           "url": "/static/images/home/Australian_World_Cup_treble.jpg",
-          "altText": "Image for चार विश्व कप फाइनल",
-          "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+          "altText": "Image for चार विश्व कप फाइनल"
         }
       }
     },
@@ -449,8 +459,7 @@
         "url": null,
         "image": {
           "url": "/static/images/home/The_England_Cricket_Team_Ashes_2015.jpg",
-          "altText": "Image for सबसे पुरानी क्रिकेट टीम",
-          "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+          "altText": "Image for सबसे पुरानी क्रिकेट टीम"
         }
       }
     },
@@ -472,8 +481,7 @@
         "url": null,
         "image": {
           "url": "/static/images/home/BrianLaraUkexpat.jpg",
-          "altText": "Image for वेस्ट इंडीज की ताकत",
-          "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
+          "altText": "Image for वेस्ट इंडीज की ताकत"
         }
       }
     }
@@ -518,8 +526,7 @@
           "url": "/read/hi/england",
           "image": {
             "url": "/static/images/home/Flag_of_England.svg",
-            "altText": "Image for इंगलैंड",
-            "license": "<p><i>This work has been released into the <b><a href=\"/wiki/Public_domain\" title=\"Public domain\">public domain</a></b> by the copyright holder. This applies worldwide.</i><br>\n<hr>\n<p>In case this is not legally possible:<br>\n<i>The copyright holder grants any entity the right to use this work <b>for any purpose</b>, without any conditions, unless such conditions are required by law.</i>\n</p>\n<div style=\"display: none\">\n<p><span class=\"licensetpl_short licensetpl_long\">Public domain</span>\n<span class=\"licensetpl_link\">//en.wikipedia.org/wiki/File:Flag_of_England.svg</span>\n</p>\n</div></p><p>This image shows a <a href=\"/wiki/Flag\" title=\"Flag\">flag</a>, a <a href=\"/wiki/Coat_of_arms\" title=\"Coat of arms\">coat of arms</a>, a <a href=\"/wiki/Seal_(device)\" class=\"mw-redirect\" title=\"Seal (device)\">seal</a> or some other official <b><a href=\"https://en.wiktionary.org/wiki/insignia\" class=\"extiw\" title=\"wikt:insignia\">insignia</a></b>. The use of such symbols is restricted in many countries.<br>These restrictions are <b><a href=\"/wiki/Wikipedia:SOSUMI\" class=\"mw-redirect\" title=\"Wikipedia:SOSUMI\">independent of the copyright status</a></b>.\n<hr>\n<small>This tag does not indicate the copyright status or the source of the attached work. A normal copyright tag, a source (and a detailed <a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">non-free use rationale</a>, if necessary) are still required. See <a href=\"/wiki/Wikipedia:Copyrights\" title=\"Wikipedia:Copyrights\">Wikipedia:Copyrights</a> and <a href=\"/wiki/Wikipedia:Uploading_images\" title=\"Wikipedia:Uploading images\">Wikipedia:Uploading images</a> for more information.</small></p>"
+            "altText": "Image for इंगलैंड"
           }
         }
       }
@@ -679,8 +686,7 @@
           "url": "/read/hi/england",
           "image": {
             "url": "/static/images/home/Flag_of_England.svg",
-            "altText": "Image for इंगलैंड",
-            "license": "<p><i>This work has been released into the <b><a href=\"/wiki/Public_domain\" title=\"Public domain\">public domain</a></b> by the copyright holder. This applies worldwide.</i><br>\n<hr>\n<p>In case this is not legally possible:<br>\n<i>The copyright holder grants any entity the right to use this work <b>for any purpose</b>, without any conditions, unless such conditions are required by law.</i>\n</p>\n<div style=\"display: none\">\n<p><span class=\"licensetpl_short licensetpl_long\">Public domain</span>\n<span class=\"licensetpl_link\">//en.wikipedia.org/wiki/File:Flag_of_England.svg</span>\n</p>\n</div></p><p>This image shows a <a href=\"/wiki/Flag\" title=\"Flag\">flag</a>, a <a href=\"/wiki/Coat_of_arms\" title=\"Coat of arms\">coat of arms</a>, a <a href=\"/wiki/Seal_(device)\" class=\"mw-redirect\" title=\"Seal (device)\">seal</a> or some other official <b><a href=\"https://en.wiktionary.org/wiki/insignia\" class=\"extiw\" title=\"wikt:insignia\">insignia</a></b>. The use of such symbols is restricted in many countries.<br>These restrictions are <b><a href=\"/wiki/Wikipedia:SOSUMI\" class=\"mw-redirect\" title=\"Wikipedia:SOSUMI\">independent of the copyright status</a></b>.\n<hr>\n<small>This tag does not indicate the copyright status or the source of the attached work. A normal copyright tag, a source (and a detailed <a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">non-free use rationale</a>, if necessary) are still required. See <a href=\"/wiki/Wikipedia:Copyrights\" title=\"Wikipedia:Copyrights\">Wikipedia:Copyrights</a> and <a href=\"/wiki/Wikipedia:Uploading_images\" title=\"Wikipedia:Uploading images\">Wikipedia:Uploading images</a> for more information.</small></p>"
+            "altText": "Image for इंगलैंड"
           }
         }
       }
@@ -756,8 +762,7 @@
           "url": "/read/hi/england",
           "image": {
             "url": "/static/images/home/Flag_of_England.svg",
-            "altText": "Image for इंगलैंड",
-            "license": "<p><i>This work has been released into the <b><a href=\"/wiki/Public_domain\" title=\"Public domain\">public domain</a></b> by the copyright holder. This applies worldwide.</i><br>\n<hr>\n<p>In case this is not legally possible:<br>\n<i>The copyright holder grants any entity the right to use this work <b>for any purpose</b>, without any conditions, unless such conditions are required by law.</i>\n</p>\n<div style=\"display: none\">\n<p><span class=\"licensetpl_short licensetpl_long\">Public domain</span>\n<span class=\"licensetpl_link\">//en.wikipedia.org/wiki/File:Flag_of_England.svg</span>\n</p>\n</div></p><p>This image shows a <a href=\"/wiki/Flag\" title=\"Flag\">flag</a>, a <a href=\"/wiki/Coat_of_arms\" title=\"Coat of arms\">coat of arms</a>, a <a href=\"/wiki/Seal_(device)\" class=\"mw-redirect\" title=\"Seal (device)\">seal</a> or some other official <b><a href=\"https://en.wiktionary.org/wiki/insignia\" class=\"extiw\" title=\"wikt:insignia\">insignia</a></b>. The use of such symbols is restricted in many countries.<br>These restrictions are <b><a href=\"/wiki/Wikipedia:SOSUMI\" class=\"mw-redirect\" title=\"Wikipedia:SOSUMI\">independent of the copyright status</a></b>.\n<hr>\n<small>This tag does not indicate the copyright status or the source of the attached work. A normal copyright tag, a source (and a detailed <a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">non-free use rationale</a>, if necessary) are still required. See <a href=\"/wiki/Wikipedia:Copyrights\" title=\"Wikipedia:Copyrights\">Wikipedia:Copyrights</a> and <a href=\"/wiki/Wikipedia:Uploading_images\" title=\"Wikipedia:Uploading images\">Wikipedia:Uploading images</a> for more information.</small></p>"
+            "altText": "Image for इंगलैंड"
           }
         }
       }
@@ -876,8 +881,7 @@
           "url": "/read/hi/india",
           "image": {
             "url": "/static/images/home/India_topo_big.jpg",
-            "altText": "Image for भारत",
-            "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>. Subject to <a href=\"https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer\" class=\"extiw\" title=\"en:Wikipedia:General disclaimer\">disclaimers</a>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license. Subject to <a href=\"https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer\" class=\"extiw\" title=\"en:Wikipedia:General disclaimer\">disclaimers</a>.</p>"
+            "altText": "Image for भारत"
           }
         }
       }
@@ -1146,8 +1150,7 @@
           "url": "/read/hi/sachin_tendulkar",
           "image": {
             "url": "/static/images/home/Sachin_Tendulkar_at_MRF_Promotion_Event.jpg",
-            "altText": "Image for सचिन तेंदुलकर",
-            "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            "altText": "Image for सचिन तेंदुलकर"
           }
         }
       }
@@ -1218,8 +1221,7 @@
           "url": "/read/hi/england",
           "image": {
             "url": "/static/images/home/Flag_of_England.svg",
-            "altText": "Image for इंगलैंड",
-            "license": "<p><i>This work has been released into the <b><a href=\"/wiki/Public_domain\" title=\"Public domain\">public domain</a></b> by the copyright holder. This applies worldwide.</i><br>\n<hr>\n<p>In case this is not legally possible:<br>\n<i>The copyright holder grants any entity the right to use this work <b>for any purpose</b>, without any conditions, unless such conditions are required by law.</i>\n</p>\n<div style=\"display: none\">\n<p><span class=\"licensetpl_short licensetpl_long\">Public domain</span>\n<span class=\"licensetpl_link\">//en.wikipedia.org/wiki/File:Flag_of_England.svg</span>\n</p>\n</div></p><p>This image shows a <a href=\"/wiki/Flag\" title=\"Flag\">flag</a>, a <a href=\"/wiki/Coat_of_arms\" title=\"Coat of arms\">coat of arms</a>, a <a href=\"/wiki/Seal_(device)\" class=\"mw-redirect\" title=\"Seal (device)\">seal</a> or some other official <b><a href=\"https://en.wiktionary.org/wiki/insignia\" class=\"extiw\" title=\"wikt:insignia\">insignia</a></b>. The use of such symbols is restricted in many countries.<br>These restrictions are <b><a href=\"/wiki/Wikipedia:SOSUMI\" class=\"mw-redirect\" title=\"Wikipedia:SOSUMI\">independent of the copyright status</a></b>.\n<hr>\n<small>This tag does not indicate the copyright status or the source of the attached work. A normal copyright tag, a source (and a detailed <a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">non-free use rationale</a>, if necessary) are still required. See <a href=\"/wiki/Wikipedia:Copyrights\" title=\"Wikipedia:Copyrights\">Wikipedia:Copyrights</a> and <a href=\"/wiki/Wikipedia:Uploading_images\" title=\"Wikipedia:Uploading images\">Wikipedia:Uploading images</a> for more information.</small></p>"
+            "altText": "Image for इंगलैंड"
           }
         }
       }
@@ -1346,8 +1348,7 @@
           "url": "/read/hi/rahul_dravid",
           "image": {
             "url": "/static/images/home/Rahul_Dravid_at_GQ_Men_Of_The_Year_2012_AWARD.jpg",
-            "altText": "Image for राहुल द्रविड़",
-            "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            "altText": "Image for राहुल द्रविड़"
           }
         }
       }
@@ -1428,8 +1429,7 @@
           "url": "/read/hi/sachin_tendulkar",
           "image": {
             "url": "/static/images/home/Sachin_Tendulkar_at_MRF_Promotion_Event.jpg",
-            "altText": "Image for सचिन तेंदुलकर",
-            "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            "altText": "Image for सचिन तेंदुलकर"
           }
         }
       }
@@ -1569,8 +1569,7 @@
           "url": "/read/hi/sachin_tendulkar",
           "image": {
             "url": "/static/images/home/Sachin_Tendulkar_at_MRF_Promotion_Event.jpg",
-            "altText": "Image for सचिन तेंदुलकर",
-            "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            "altText": "Image for सचिन तेंदुलकर"
           }
         }
       }
@@ -1775,8 +1774,7 @@
           "url": "/read/hi/england",
           "image": {
             "url": "/static/images/home/Flag_of_England.svg",
-            "altText": "Image for इंगलैंड",
-            "license": "<p><i>This work has been released into the <b><a href=\"/wiki/Public_domain\" title=\"Public domain\">public domain</a></b> by the copyright holder. This applies worldwide.</i><br>\n<hr>\n<p>In case this is not legally possible:<br>\n<i>The copyright holder grants any entity the right to use this work <b>for any purpose</b>, without any conditions, unless such conditions are required by law.</i>\n</p>\n<div style=\"display: none\">\n<p><span class=\"licensetpl_short licensetpl_long\">Public domain</span>\n<span class=\"licensetpl_link\">//en.wikipedia.org/wiki/File:Flag_of_England.svg</span>\n</p>\n</div></p><p>This image shows a <a href=\"/wiki/Flag\" title=\"Flag\">flag</a>, a <a href=\"/wiki/Coat_of_arms\" title=\"Coat of arms\">coat of arms</a>, a <a href=\"/wiki/Seal_(device)\" class=\"mw-redirect\" title=\"Seal (device)\">seal</a> or some other official <b><a href=\"https://en.wiktionary.org/wiki/insignia\" class=\"extiw\" title=\"wikt:insignia\">insignia</a></b>. The use of such symbols is restricted in many countries.<br>These restrictions are <b><a href=\"/wiki/Wikipedia:SOSUMI\" class=\"mw-redirect\" title=\"Wikipedia:SOSUMI\">independent of the copyright status</a></b>.\n<hr>\n<small>This tag does not indicate the copyright status or the source of the attached work. A normal copyright tag, a source (and a detailed <a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">non-free use rationale</a>, if necessary) are still required. See <a href=\"/wiki/Wikipedia:Copyrights\" title=\"Wikipedia:Copyrights\">Wikipedia:Copyrights</a> and <a href=\"/wiki/Wikipedia:Uploading_images\" title=\"Wikipedia:Uploading images\">Wikipedia:Uploading images</a> for more information.</small></p>"
+            "altText": "Image for इंगलैंड"
           }
         }
       }
@@ -1804,8 +1802,7 @@
           "url": "/read/hi/sachin_tendulkar",
           "image": {
             "url": "/static/images/home/Sachin_Tendulkar_at_MRF_Promotion_Event.jpg",
-            "altText": "Image for सचिन तेंदुलकर",
-            "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            "altText": "Image for सचिन तेंदुलकर"
           }
         }
       }
@@ -1866,8 +1863,7 @@
           "url": "/read/hi/mahendra_singh_dhoni",
           "image": {
             "url": "/static/images/home/Dhoni_behind_Stumps.jpg",
-            "altText": "Image for महेन्द्र सिंह धोनी",
-            "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            "altText": "Image for महेन्द्र सिंह धोनी"
           }
         }
       }
@@ -2101,8 +2097,7 @@
           "url": "/read/hi/mahendra_singh_dhoni",
           "image": {
             "url": "/static/images/home/Dhoni_behind_Stumps.jpg",
-            "altText": "Image for महेन्द्र सिंह धोनी",
-            "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            "altText": "Image for महेन्द्र सिंह धोनी"
           }
         }
       }
@@ -2290,8 +2285,7 @@
             "label": "कपिल देव, एक पूर्व भारतीय क्रिकेटर हैं जिन्होंने 1983 में विश्व कप जीतने वाली भारतीय क्रिकेट टीम की कप्तानी की थी।",
             "image": {
               "url": "/static/images/home/Kapil_Dev_at_Equation_sports_auction.jpg",
-              "altText": "Image for कपिल देव",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+              "altText": "Image for कपिल देव"
             }
           }
         }
@@ -2305,8 +2299,7 @@
             "label": "अनिल कुंबले भारत के एक पूर्व क्रिकेटर और टेस्ट तथा अन्‍तर्राष्ट्रीय एक दिवसीय मैचों (वनडे) के पूर्व कप्तान रहे हैं, जिन्होंने 18 वर्षों तक टेस्ट और अन्‍तर्राष्ट्रीय एकदिवसीय मैच खेले।",
             "image": {
               "url": "/static/images/home/Anil_Kumble.jpg",
-              "altText": "Image for अनिल कुंबले",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+              "altText": "Image for अनिल कुंबले"
             }
           }
         },
@@ -2318,8 +2311,7 @@
             "label": "सौरव गांगुली एक पूर्व भारतीय क्रिकेटर और भारत की राष्ट्रीय टीम के कप्तान रहे हैं। अपने खेल करियर के दौरान, गांगुली ने स्‍वयं को विश्‍व के प्रमुख बल्लेबाजों और राष्ट्रीय क्रिकेट टीम के सबसे महान कप्तानों में से एक के रूप में स्थापित किया ।",
             "image": {
               "url": "/static/images/home/Sourav_Ganguly_closeup.jpg",
-              "altText": "Image for सौरव गांगुली",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+              "altText": "Image for सौरव गांगुली"
             }
           }
         },
@@ -2343,8 +2335,7 @@
             "label": "बैंगलोर, जिसे आधिकारिक तौर पर बेंगलुरु के रूप में जाना जाता है, भारतीय राज्य कर्नाटक की राजधानी है। इसकी आबादी दस मिलियन से अधिक है, जो इसे एक मेगासिटी बनाता है और भारत में तीसरा सबसे अधिक आबादी वाला शहर और पांचवां सबसे अधिक आबादी वाला शहरी समूह है।",
             "image": {
               "url": "/static/images/home/Glasshouse_and_fountain_at_lalbagh.jpg",
-              "altText": "Image for बैंगलोर",
-              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 only as published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.</p>"
+              "altText": "Image for बैंगलोर"
             }
           }
         }
@@ -2358,8 +2349,7 @@
             "label": "मुंबई, जिसे बॉम्बे के नाम से भी जाना जाता है, 1995 तक आधिकारिक नाम, भारतीय राज्य महाराष्ट्र की राजधानी है। 2011 तक यह भारत का सबसे अधिक आबादी वाला शहर है।",
             "image": {
               "url": "/static/images/home/Victoria_Terminus_-_CST.JPG",
-              "altText": "Image for मुंबई",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+              "altText": "Image for मुंबई"
             }
           }
         },
@@ -2411,8 +2401,7 @@
             "label": "दक्षिण अफ्रीका, आधिकारिक तौर पर दक्षिण अफ्रीका गणराज्य (आरएसए), अफ्रीका का सबसे दक्षिणी देश है। यह दक्षिण में दक्षिणी अटलांटिक और हिन्द महासागरों से 2,798 किलोमीटर लंबे समुद्र तट से घिरा हुआ है।",
             "image": {
               "url": "/static/images/home/MapungubweHill.jpg",
-              "altText": "Image for दक्षिण अफ्रीका",
-              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+              "altText": "Image for दक्षिण अफ्रीका"
             }
           }
         },
@@ -2424,8 +2413,7 @@
             "label": "श्रीलंका, आधिकारिक रूप से डेमोक्रेटिक सोशलिस्ट रिपब्लिक ऑफ़ श्रीलंका, दक्षिण एशिया का एक द्वीप देश है, जो हिंद महासागर में बंगाल की खाड़ी के दक्षिण-पश्चिम में और अरब सागर के दक्षिण-पूर्व में स्थित है।",
             "image": {
               "url": "/static/images/home/Flag_of_Sri_Lanka.svg",
-              "altText": "Image for श्री लंका",
-              "license": ""
+              "altText": "Image for श्री लंका"
             }
           }
         },
@@ -2437,8 +2425,7 @@
             "label": "न्यूजीलैंड दक्षिण पश्चिमी प्रशांत महासागर में एक संप्रभु द्वीप देश है। भौगोलिक रूप से देश में दो मुख्य भूभाग और लगभग 600 छोटे द्वीप हैं। न्यूजीलैंड ऑस्ट्रेलिया से लगभग 2,000 किलोमीटर पूर्व में स्थित है।",
             "image": {
               "url": "/static/images/home/Lake_Gunn.jpg",
-              "altText": "Image for न्यूजीलैंड",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+              "altText": "Image for न्यूजीलैंड"
             }
           }
         },
@@ -2550,8 +2537,7 @@
         "label": "आईसीसी टी20 विश्व कप (जिसे पहले आईसीसी विश्व ट्वेंटी20 के नाम से जाना जाता था) ट्वेंटी20 क्रिकेट की अंतर्राष्ट्रीय चैम्पियनशिप है। वर्तमान में इस टूर्नामेंट में 16 टीमें भाग लेती हैं, जिसमें आठ टीमें दी गई समय सीमा के भीतर रैंकिंग के शीर्ष आठ में रहने वाली टीमें होती हैं जबकि चार अन्य टीमें टी20 विश्व कप क्वालीफायर के माध्यम से चुनी जातीं हैं।",
         "image": {
           "url": "/static/images/home/ICC_World_Twenty20_Trophy.jpg",
-          "altText": "Image for आईसीसी टी20 विश्व कप",
-          "license": "<p>ICC World Twenty20 Trophy</p><p>Bharath Seervi, ICC and other officials</p><p><a rel=\"nofollow\" class=\"external free\" href=\"http://cricketseervistats.blogspot.com/2014/03/icc-world-t20-records-statistics-and.html\">http://cricketseervistats.blogspot.com/2014/03/icc-world-t20-records-statistics-and.html</a></p><p><b><a href=\"/wiki/ICC_World_Twenty20\" class=\"mw-redirect\" title=\"ICC World Twenty20\">ICC World Twenty20</a></b></p><p>For visual identification of the object of the article. The article as a whole is dedicated specifically to a discussion of this work.</p><p>n.a.</p><p>No usage outside Wikipedia</p><p>n.a.</p><p>This image is a faithful digitisation of a <b>unique historic image</b>, and the <b>copyright</b> for it is most likely held by the <b>person who created the image</b> or the <b>agency employing the person</b>. It is believed that the use of this image may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Other use of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> for more information.<br>\nPlease remember that the <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content criteria</a> <b>require</b> that non-free images on Wikipedia must not &quot;[be] used in a manner that is likely to replace the <b>original market role of the original copyrighted media.</b>&quot;  Use of historic images from press agencies must <b>only</b> be of a transformative nature, when <b>the image itself</b> is the subject of commentary rather than the event it depicts (which is the original market role, and is not allowed per policy).</p><p><b>To the uploader</b>: \n<ol><li>Please add a detailed <b><a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">fair use rationale</a></b> for each article the image is used in, which must also declare compliance with the other parts of the non-free content criteria, as well as the <b>source</b> of the work and <b>copyright information</b>.</li>\n<li>For example fair use rationales, see <a href=\"/wiki/Wikipedia:Use_rationale_examples\" title=\"Wikipedia:Use rationale examples\">here</a>.</li>\n<li><b><a href=\"/wiki/Template:Non-free_use_rationale_2\" title=\"Template:Non-free use rationale 2\">Template:Non-free use rationale 2</a></b> may be helpful for stating the rationale.</li></ol>\n<b> To patrollers and administrators</b>: If this image has an <i>appropriate</i> rationale please append <code>|image has rationale=yes</code> as a parameter to the license template.</p>"
+          "altText": "Image for आईसीसी टी20 विश्व कप"
         }
       }
     },
@@ -2563,8 +2549,7 @@
         "label": "आईसीसी चैंपियंस ट्रॉफी एक दिवसीय अंतर्राष्ट्रीय (वनडे) क्रिकेट टूर्नामेंट था जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया जाता था, जो क्रिकेट विश्व कप के बाद दूसरा सबसे महत्वपूर्ण आयोजन था। 2002 में इसका नाम बदलकर चैंपियंस ट्रॉफी रखा गया।",
         "image": {
           "url": "/static/images/home/ICC_Champions_Trophy_cricket_logo.png",
-          "altText": "Image for आईसीसी चैंपियंस ट्रॉफी",
-          "license": "<p>Logo of the ICC Champions Trophy cricket tournament</p><p></p><p>www.icc-cricket.com</p><p><b><a href=\"/wiki/ICC_Champions_Trophy\" title=\"ICC Champions Trophy\">ICC Champions Trophy</a></b></p><p>to serve as the primary means of visual identification at the top of the article dedicated to the entity in question.</p><p>n.a.</p><p>Though this image is subject to copyright, its use is covered by the U.S. fair use laws because:\n<ol><li>It illustrates educational articles about the entity that the logotype represents.</li>\n<li>The image is used as the primary means of visual identification of the article topic.</li>\n<li>It is a low resolution image, and thus not suitable for production of counterfeit goods.</li>\n<li>The logotype is not used in such a way the a reader would be confused into believing that the article is written or authorized by the owner of the logotype.</li>\n<li>It is not replaceable with an uncopyrighted or freely copyrighted image of comparable educational value.</li></ol></p><p>n.a.</p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:ICC_Champions_Trophy_cricket_logo.png</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p>"
+          "altText": "Image for आईसीसी चैंपियंस ट्रॉफी"
         }
       }
     },
@@ -2576,8 +2561,7 @@
         "label": "इंडियन प्रीमियर लीग (आईपीएल) भारत की एक पेशेवर ट्वेंटी20 क्रिकेट लीग है, जो हर साल मार्च या अप्रैल और मई के दौरान आयोजित होती है जिसमें भारत के आठ अलग-अलग शहरों का प्रतिनिधित्व करने वाली आठ टीमें आपस में टकरातीं हैं।",
         "image": {
           "url": "/static/images/home/Indian_Premier_League_Logo.png",
-          "altText": "Image for इंडियन प्रीमियर लीग",
-          "license": "<p>Logo of the Indian Premier League</p><p></p><p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.freelogovectors.net/indian-premier-league-ipl-logo/\">http://www.freelogovectors.net/indian-premier-league-ipl-logo/</a></p><p><b><a href=\"/wiki/Indian_Premier_League\" title=\"Indian Premier League\">Indian Premier League</a></b></p><p>to serve as the primary means of visual identification at the top of the article dedicated to the entity in question.</p><p>n.a.</p><p>It will be used only in one article</p><p>n.a.</p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:Indian_Premier_League_Logo.png</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p><p><b>To the uploader</b>: \n<ol><li>This tag is only for use on images of logos.</li>\n<li>This tag is not sufficient on its own. Please add a detailed <b><a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">fair use rationale</a></b> for each use, as well as the <b>source</b> of the work and copyright information.</li>\n<li>For an example fair use rationale for a logo, see <a href=\"/wiki/Wikipedia:Use_rationale_examples#Logo_in_the_article_about_the_topic_that_the_logo_represents\" title=\"Wikipedia:Use rationale examples\">here</a>.</li>\n<li><b><a href=\"/wiki/Template:Non-free_use_rationale_logo\" title=\"Template:Non-free use rationale logo\">Template:Non-free use rationale logo</a></b> may be helpful for stating the rationale.</li>\n<li>Please do not use this template to tag non-free icons of computer software. Such items should be tagged with {{<a href=\"/wiki/Template:Non-free_computer_icon\" title=\"Template:Non-free computer icon\">Non-free computer icon</a>}} template.</li></ol>\n<p><b>Regarding uses other than in the original article:</b>\n</p>\n<ul><li>A detailed <b><a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">non-free use rationale</a></b> is required for <b>every</b> article the logo is used in. Check the <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free use criteria</a> and do not assume that existing rationales can be simply copied and pasted, as they may not necessarily apply.</li></ul>\n<b> To patrollers and administrators</b>: If this image has an &apos;appropriate&apos; rationale please append <code>|image has rationale=yes</code> as a parameter to the license template.</p>"
+          "altText": "Image for इंडियन प्रीमियर लीग"
         }
       }
     },
@@ -2871,8 +2855,7 @@
         "label": "शोएब मलिक एक पाकिस्तानी क्रिकेटर हैं और 2007 से 2009 तक पाकिस्तान टीम के कप्तान रहे हैं।",
         "image": {
           "url": "/static/images/home/Shoaib_Malik.jpg",
-          "altText": "Image for शोएब मलिक",
-          "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+          "altText": "Image for शोएब मलिक"
         }
       }
     },
