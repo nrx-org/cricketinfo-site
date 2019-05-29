@@ -4,11 +4,12 @@ const { exportTeams } = require("./export_teams");
 const { exportHome } = require("./export_home");
 const { exportPlaces } = require("./export_places");
 const { exportEventsIndividual } = require("./export_events_individual");
+const { exportEventsMajor } = require("./export_events_major");
 
 exportIdAndUrlMaps();
 exportPersonalities();
+exportHome();
 exportTeams();
 exportPlaces();
 exportEventsIndividual();
-
-exportHome();
+exportEventsMajor();

@@ -54,6 +54,14 @@ const EVENTS = [
   }
 ];
 
+const STATISTICS = [
+  {
+    STATISTIC_KEY: "Most Runs scored- Name of the player",
+    COUNTRY_KEY: "Country of the player",
+    IMAGE_KEY: "Link to image of the player"
+  }
+];
+
 module.exports.exportEventsMajor = () => {
   Object.keys(csvExports).forEach(lang => {
     const fileContent = fs.readFileSync(csvExports[lang].path, "utf8");
@@ -92,8 +100,6 @@ module.exports.exportEventsMajor = () => {
       event.sections = [];
 
       // About table.
-      // TODO: this won't work until the homepage entry is removed from
-      // the exports list in exports_map.js.
       const championCard = getCardInfoFromId(
         idMap,
         record[CHAMPION_ID_KEY],
@@ -199,59 +205,6 @@ module.exports.exportEventsMajor = () => {
 
       event.sections.push(eventsSection);
 
-      /*
-      // Hosts.
-      let hostFacts = await Promise.all(
-        HOSTS.map(async host => {
-          if (!record[host.LABEL_KEY]) {
-            return null;
-          }
-
-          const hostCard = getCardInfoFromId(idMap, record[host.ID_KEY], lang);
-
-          if (!hostCard) {
-            return null;
-          }
-
-          return {
-            label: hostCard.title,
-            url: hostCard.url,
-            contentUrl: hostCard.contentUrl,
-            value: {
-              label: hostCard.summary,
-              image: await downloadImageAndFillAttributions(
-                {
-                  url: hostCard.imageUrl,
-                  altText: `${hostCard.title}`
-                },
-                englishSlug
-              )
-            }
-          };
-        })
-      );
-
-      hostFacts = hostFacts.filter(f => !!f);
-
-      if (hostFacts.length > 0) {
-        event.sections.push({
-          title: "Hosts",
-          cardType: "list_card",
-          facts: [
-            {
-              label: "",
-              id: getSluggedTitle(`host_card_${englishSlug}`),
-              value: {
-                label: "",
-                facts: hostFacts
-              }
-            }
-          ]
-        });
-      }
-
-      // Tournament history.
-
       // Statistics.
       let statisticsFacts = await Promise.all(
         STATISTICS.map(async stat => {
@@ -277,98 +230,16 @@ module.exports.exportEventsMajor = () => {
           };
         })
       );
+
       statisticsFacts = statisticsFacts.filter(f => !!f);
 
       if (statisticsFacts.length > 0) {
         event.sections.push({
-          title: teamUIStrings.statisticsSectionTitle[lang],
+          title: "Statistics",
           cardType: "stories",
           facts: statisticsFacts
         });
       }
-
-      // Final positions.
-      const finalChampionCard = getCardInfoFromId(
-        idMap,
-        record[FINAL_CHAMPION_KEY],
-        lang
-      );
-
-      let finalChampionImage = null;
-
-      if (finalChampionCard) {
-        finalChampionImage = await downloadImageAndFillAttributions(
-          {
-            url: finalChampionCard.imageUrl,
-            altText: `Picture of ${finalChampionCard.title}`
-          },
-          englishSlug
-        );
-      }
-
-      const finalRunnerUpCard = getCardInfoFromId(
-        idMap,
-        record[FINAL_RUNNER_UP_KEY],
-        lang
-      );
-
-      let finalRunnerUpImage = null;
-
-      if (finalRunnerUpCard) {
-        finalRunnerUpImage = await downloadImageAndFillAttributions(
-          {
-            url: finalRunnerUpCard.imageUrl,
-            altText: `Picture of ${finalChampionCard.title}`
-          },
-          englishSlug
-        );
-      }
-
-      const finalPositionsSection = {
-        title: "Final Positions",
-        cardType: "list_card",
-        facts: [
-          {
-            label: "Champion",
-            id: "final-positions-champion",
-            value: {
-              label: "",
-              facts: [
-                finalChampionCard && {
-                  label: finalChampionCard.title,
-                  url: finalChampionCard.url,
-                  contentUrl: finalChampionCard.contentUrl,
-                  value: {
-                    label: finalChampionCard.summary,
-                    image: finalChampionImage
-                  }
-                }
-              ].filter(f => !!f)
-            }
-          },
-          {
-            label: "Runner-up",
-            id: "final-positions-runner-up",
-            value: {
-              label: "",
-              facts: [
-                finalRunnerUpCard && {
-                  label: finalRunnerUpCard.title,
-                  url: finalRunnerUpCard.url,
-                  contentUrl: finalRunnerUpCard.contentUrl,
-                  value: {
-                    label: finalRunnerUpCard.summary,
-                    image: finalRunnerUpImage
-                  }
-                }
-              ].filter(f => !!f)
-            }
-          }
-        ]
-      };
-
-      event.sections.push(finalPositionsSection);
-      */
 
       fs.writeFileSync(
         `./static/content/${lang}/${englishSlug}.json`,
