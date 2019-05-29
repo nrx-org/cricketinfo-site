@@ -15,10 +15,11 @@ export const InterestingArticleItem = ({ coverImage, href, styles }) => {
     top: styles.top + unit
   };
   const contentEl = (
-    <div className="wcp-circular-image-card" style={{ backgroundImage: `url(${coverImage.url})` }}
-    title={coverImage.altText}>
-
-    </div>
+    <div
+      className="wcp-circular-image-card"
+      style={{ backgroundImage: `url(${coverImage.url})` }}
+      title={coverImage.altText}
+    />
   );
   return href ? (
     <ArticleSummaryLink

@@ -36,12 +36,9 @@ export class Story extends React.Component {
     }
 
     const storyFavoritesDataString = localStorage.getItem(LOCALSTORAGE_KEY);
-    const storyFavoritesData =
-      storyFavoritesDataString && storyFavoritesDataString.length
-        ? JSON.parse(storyFavoritesDataString)
-        : {};
-
-    return storyFavoritesData;
+    return storyFavoritesDataString && storyFavoritesDataString.length
+      ? JSON.parse(storyFavoritesDataString)
+      : {};
   }
 
   setFavoritedInfoToLocalStorage() {
@@ -60,6 +57,7 @@ export class Story extends React.Component {
       setPlaybackAction("play", true);
       onStoryImageLoad();
     } catch (e) {
+      // eslint-disable-next-line no-console
       console.log(e);
     }
   }
@@ -88,7 +86,10 @@ export class Story extends React.Component {
             src={story.value.image.url}
             onLoadBg={this.imageLoaded}
             hasImageLoaded={hasImageLoaded}
-            onError={err => console.log("error", err)}
+            onError={err => {
+              // eslint-disable-next-line no-console
+              return console.log("error", err);
+            }}
           />
         </div>
         <div className="wcp-story-content__info">

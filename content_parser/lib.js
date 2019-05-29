@@ -34,13 +34,6 @@ const findIdMapEntryByTitle = (idMap, title, lang) => {
   );
 };
 
-const getFileNameFromURL = inputUrl => {
-  if (!inputUrl) return null;
-  const filename = inputUrl.match(/File:(.*)/);
-  if (filename) return filename[1];
-  return null;
-};
-
 const getCardInfoFromId = (idMap, id, lang) => {
   if (!id || !id.trim()) {
     return null;
@@ -109,6 +102,7 @@ const downloadImageAndFillAttributions = async (imageObject, articleSlug) => {
     ...imageObject
   };
 
+  // eslint-disable-next-line no-console
   console.log("INFO: Processing image", localImageObject.url);
 
   if (!localImageObject.url || !isUrlValid(localImageObject.url)) {
@@ -147,6 +141,7 @@ const downloadImageAndFillAttributions = async (imageObject, articleSlug) => {
 
   // If image already exists, return the correct response object and exit.
   if (fs.existsSync(makeImagePath(imageFileName, articleSlug))) {
+    // eslint-disable-next-line no-console
     console.log(
       `INFO: Skipping image ${localImageObject.url} because it already exists`
     );
