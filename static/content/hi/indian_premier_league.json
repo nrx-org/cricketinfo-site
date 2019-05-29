@@ -1,0 +1,93 @@
+{
+  "title": "इंडियन प्रीमियर लीग",
+  "summary": "इंडियन प्रीमियर लीग (आईपीएल) भारत की एक पेशेवर ट्वेंटी20 क्रिकेट लीग है, जो हर साल मार्च या अप्रैल और मई के दौरान आयोजित होती है जिसमें भारत के आठ अलग-अलग शहरों का प्रतिनिधित्व करने वाली आठ टीमें आपस में टकरातीं हैं।",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Indian_Premier_League",
+  "coverImage": {
+    "url": "/static/images/indian_premier_league/Indian_Premier_League_Logo.png",
+    "altText": "Image of इंडियन प्रीमियर लीग"
+  },
+  "translations": [
+    {
+      "lang": "en",
+      "title": "Indian Premier League",
+      "url": "/read/en/indian_premier_league"
+    },
+    {
+      "lang": "ta",
+      "title": "இந்தியன் ப்ரீமியர் லீக்",
+      "url": "/read/ta/indian_premier_league"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "First edition Year",
+          "value": {
+            "label": "2008"
+          }
+        },
+        {
+          "label": "Format of the tournament",
+          "value": {
+            "label": "Format of the tournament"
+          }
+        },
+        {
+          "label": "Current champions",
+          "value": {
+            "label": "चेन्नई सुपर किंग्स (तीसरा खिताब)",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "Most successful Team",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {}
+        }
+      ]
+    },
+    {
+      "title": "Events",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "पृष्ठभूमि",
+          "note": "2007",
+          "id": "पृष्ठभूमि",
+          "value": {
+            "label": "इंडियन क्रिकेट लीग (आईसीएल) की स्थापना 2007 में ज़ी एंटरटेनमेंट एंटरप्राइजेज द्वारा की गई फंडिंग से हुई थी।",
+            "facts": []
+          }
+        },
+        {
+          "label": "टाइटिल स्पॉन्सर",
+          "note": "2008 - 2012",
+          "id": "टाइटिल_स्पॉन्सर",
+          "value": {
+            "label": "2008 से 2012 तक, भारत का सबसे बड़ा रियल एस्टेट डेवलपर डीएलएफ टाइटिल स्पॉनसर था, जिसने पांच सीजन के लिए ₹200 करोड़ की बोली लगाकर ये अधिकार हासिल किए थे।",
+            "facts": []
+          }
+        },
+        {
+          "label": "बदलाव",
+          "note": "2015",
+          "id": "बदलाव",
+          "value": {
+            "label": "8 दिसंबर 2015 को, एक नीलामी के बाद, यह पता चला कि पुणे और राजकोट दो सत्रों के लिए चेन्नई और राजस्थान की जगह लेंगे।",
+            "facts": []
+          }
+        },
+        null
+      ]
+    }
+  ]
+}

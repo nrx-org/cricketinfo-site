@@ -13,6 +13,10 @@ export const Timeline = ({ cardData, type, innerCardType }) => {
 
       <div className={`wcp-timeline ${derivedClassName}`}>
         {cardData.facts.map(fact => {
+          if (!fact) {
+            return null;
+          }
+
           const factLabel = fact.label;
           const factId = fact.id;
           return (

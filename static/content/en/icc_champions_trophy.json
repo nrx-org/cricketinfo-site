@@ -1,0 +1,101 @@
+{
+  "title": "ICC Champions Trophy",
+  "summary": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/ICC_Champions_Trophy",
+  "coverImage": {
+    "url": "/static/images/icc_champions_trophy/ICC_Champions_Trophy_cricket_logo.png",
+    "altText": "Image of ICC Champions Trophy"
+  },
+  "translations": [
+    {
+      "lang": "hi",
+      "title": "आईसीसी चैंपियंस ट्रॉफी",
+      "url": "/read/hi/icc_champions_trophy"
+    },
+    {
+      "lang": "ta",
+      "title": "ஐசிசி சேம்பியன்ஸ் டிராஃபி",
+      "url": "/read/ta/icc_champions_trophy"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "First edition Year",
+          "value": {
+            "label": "1998"
+          }
+        },
+        {
+          "label": "Format of the tournament",
+          "value": {
+            "label": "Format of the tournament"
+          }
+        },
+        {
+          "label": "Current champions",
+          "value": {
+            "label": "Pakistan (1st title)",
+            "url": "/read/en/pakistan_national_cricket_team",
+            "contentUrl": "/static/content/en/pakistan_national_cricket_team.json"
+          }
+        },
+        {
+          "label": "Most successful Team",
+          "value": {
+            "label": "Australia Cricket team, India national cricket team"
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {}
+        }
+      ]
+    },
+    {
+      "title": "Events",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "ICC Knockout Tournament",
+          "note": "1998",
+          "id": "icc_knockout_tournament",
+          "value": {
+            "label": "It was inaugurated as the ICC KnockOut Tournament in 1998 and has been played approximately every four years since. Its name was changed to the Champions Trophy in 2002",
+            "facts": []
+          }
+        },
+        {
+          "label": "Idea conception",
+          "note": "2002",
+          "id": "idea_conception",
+          "value": {
+            "label": "The ICC conceived the idea of the Champions Trophy – a short cricket tournament to raise funds for the development of the game in non-test playing countries, with the first tournaments being held in Bangladesh and Kenya.",
+            "facts": []
+          }
+        },
+        {
+          "label": "2013 ICC Champions Trophy",
+          "note": "",
+          "id": "2013_icc_champions_trophy",
+          "value": {
+            "label": "In the lead-up to the 2013 tournament, the ICC announced that the 2013 Champions Trophy was to be the last, with its place in the cricketing calendar to be taken by a new ICC World Test Championship. However, in January 2014, that decision was reversed, due to the massive success of the 2013 edition",
+            "facts": []
+          }
+        },
+        {
+          "label": "Future of Champions Trophy",
+          "note": "2017",
+          "id": "future_of_champions_trophy",
+          "value": {
+            "label": "In the lead-up to the 2017 tournament, the ICC had proposed starting an ODI League in 2019, which will most likely lead to the Champions Trophy getting scrapped. Following the 2017 Champions Trophy, David Richardson (the ICC CEO) stated that the future status of the Champions Trophy was undecided, with both a possible Test league and an additional World T20 putting additional pressure of fixtures.",
+            "facts": []
+          }
+        }
+      ]
+    }
+  ]
+}

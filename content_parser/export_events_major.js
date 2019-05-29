@@ -7,12 +7,11 @@ const {
   getCardInfoFromId
 } = require("./lib");
 const idMap = require("../static/content/article_ids.json");
-const { teamUIStrings } = require("./ui_strings");
 
 const csvExports = {
-  en: { path: "./csv/events_individual.en.csv" },
-  hi: { path: "./csv/events_individual.hi.csv" },
-  ta: { path: "./csv/events_individual.ta.csv" }
+  en: { path: "./csv/events_major.en.csv" },
+  hi: { path: "./csv/events_major.hi.csv" },
+  ta: { path: "./csv/events_major.ta.csv" }
 };
 
 const ID_KEY = "Article Link ID";
@@ -20,51 +19,42 @@ const TITLE_KEY = "Name of tournament";
 const SUMMARY_KEY = "Short summary of the article";
 const WIKIPEDIA_URL_KEY = "Wikipedia link of the Tournament";
 const COVER_IMAGE_KEY = "Header  image ";
-const CHAMPION_KEY = "Champion";
-const CHAMPION_ID_KEY = "Champion Link";
-const RUNNERS_UP_KEY = "Runners Up";
-const RUNNERS_UP_ID_KEY = "Runners Up Link";
-const DATES_KEY = "Dates";
-const FORMAT_KEY = "Format";
+const CHAMPION_KEY = "Current champions";
+const CHAMPION_ID_KEY = "Article Code for Current Champions";
+const DATES_KEY = "First edition Year";
+const FORMAT_KEY = "Format of the tournament";
 const NUMBER_OF_TEAMS_KEY = "No of Teams";
+const MOST_SUCCESSFUL_KEY = "Most successful Team";
+const MOST_SUCCESSFUL_ID_KEY = "Article Code for Most successful Team";
 
-const HOSTS = [
+const EVENTS = [
   {
-    LABEL_KEY: "Host 1",
-    ID_KEY: "Host 1 Card"
+    YEAR_KEY: "Year 1",
+    TITLE_KEY: "Title 1",
+    DESCRIPTION_KEY: "Short description 1",
+    CARD_ID_KEY: "Card 1 ID"
   },
   {
-    LABEL_KEY: "Host 2",
-    ID_KEY: "Host 2 Card"
+    YEAR_KEY: "Year 2",
+    TITLE_KEY: "Title 2",
+    DESCRIPTION_KEY: "Short description 2",
+    CARD_ID_KEY: "Card 2 ID"
   },
   {
-    LABEL_KEY: "Host 3",
-    ID_KEY: "Host 3 Card"
+    YEAR_KEY: "Year 3",
+    TITLE_KEY: "Title 3",
+    DESCRIPTION_KEY: "Short description 3",
+    CARD_ID_KEY: "Card 3 ID"
+  },
+  {
+    YEAR_KEY: "Year 4",
+    TITLE_KEY: "Title 4",
+    DESCRIPTION_KEY: "Short description 4",
+    CARD_ID_KEY: "Card 4 ID"
   }
 ];
 
-const STATISTICS = [
-  {
-    STATISTIC_KEY: "Man of the series",
-    IMAGE_KEY: "Link to the player's image",
-    COUNTRY_KEY: "Country"
-  },
-  {
-    STATISTIC_KEY: "Most runs scored/ Orange cap",
-    IMAGE_KEY: "Link to player's image ",
-    COUNTRY_KEY: "Country"
-  },
-  {
-    STATISTIC_KEY: "Most wickets taken/ purple cap",
-    IMAGE_KEY: "Link to the players image",
-    COUNTRY_KEY: "Country"
-  }
-];
-
-const FINAL_CHAMPION_KEY = "Champion Card ID";
-const FINAL_RUNNER_UP_KEY = "Runner Up Card ID";
-
-module.exports.exportEventsIndividual = () => {
+module.exports.exportEventsMajor = () => {
   Object.keys(csvExports).forEach(lang => {
     const fileContent = fs.readFileSync(csvExports[lang].path, "utf8");
     const records = parse(fileContent, { columns: true, delimiter: "," });
@@ -102,16 +92,18 @@ module.exports.exportEventsIndividual = () => {
       event.sections = [];
 
       // About table.
+      // TODO: this won't work until the homepage entry is removed from
+      // the exports list in exports_map.js.
       const championCard = getCardInfoFromId(
         idMap,
         record[CHAMPION_ID_KEY],
         lang
       );
-      const runnersUpCard = getCardInfoFromId(
-        idMap,
-        record[RUNNERS_UP_ID_KEY],
-        lang
-      );
+
+      const mostSuccessfulIds = record[MOST_SUCCESSFUL_ID_KEY].split(",");
+      const mostSuccessfulCards = mostSuccessfulIds
+        .map(id => getCardInfoFromId(idMap, id, lang))
+        .filter(c => !!c);
 
       const aboutTable = {
         title: "About",
@@ -138,11 +130,9 @@ module.exports.exportEventsIndividual = () => {
             }
           },
           {
-            label: RUNNERS_UP_KEY,
+            label: MOST_SUCCESSFUL_KEY,
             value: {
-              label: record[RUNNERS_UP_KEY],
-              url: runnersUpCard && runnersUpCard.url,
-              contentUrl: runnersUpCard && runnersUpCard.contentUrl
+              label: mostSuccessfulCards.map(c => c.title).join(", ")
             }
           },
           {
@@ -156,6 +146,60 @@ module.exports.exportEventsIndividual = () => {
 
       event.sections.push(aboutTable);
 
+      // Events.
+      const eventsSection = {
+        title: "Events",
+        cardType: "vertical_timeline",
+        facts: await Promise.all(
+          EVENTS.map(async mapEvent => {
+            if (!record[mapEvent.TITLE_KEY]) {
+              return null;
+            }
+
+            const eventCard = getCardInfoFromId(
+              idMap,
+              record[mapEvent.CARD_ID_KEY],
+              lang
+            );
+
+            let eventCardImage = null;
+            if (eventCard) {
+              eventCardImage = await downloadImageAndFillAttributions(
+                {
+                  url: eventCard.imageUrl,
+                  altText: `Image of ${eventCard.title}`
+                },
+                englishSlug
+              );
+            }
+
+            return {
+              label: record[mapEvent.TITLE_KEY],
+              note: record[mapEvent.YEAR_KEY],
+              id: getSluggedTitle(record[mapEvent.TITLE_KEY]),
+              value: {
+                label: record[mapEvent.DESCRIPTION_KEY],
+                facts: [
+                  eventCard && {
+                    label: eventCard.title,
+                    url: eventCard.url,
+                    contentUrl: eventCard.contentUrl,
+                    id: getSluggedTitle(eventCard.title),
+                    value: {
+                      label: eventCard.summary,
+                      image: eventCardImage
+                    }
+                  }
+                ].filter(f => !!f)
+              }
+            };
+          })
+        )
+      };
+
+      event.sections.push(eventsSection);
+
+      /*
       // Hosts.
       let hostFacts = await Promise.all(
         HOSTS.map(async host => {
@@ -324,6 +368,7 @@ module.exports.exportEventsIndividual = () => {
       };
 
       event.sections.push(finalPositionsSection);
+      */
 
       fs.writeFileSync(
         `./static/content/${lang}/${englishSlug}.json`,

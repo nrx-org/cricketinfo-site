@@ -1,0 +1,115 @@
+{
+  "title": "ICC T20 World Cup",
+  "summary": "The ICC T20 World Cup (earlier known as ICC World Twenty20) is the international championship of Twenty20 International cricket. The tournament currently consists of 16 teams, comprising the top eight teams from the rankings at the given deadline and four other teams chosen through the T20 World Cup Qualifier. ",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/ICC_T20_World_Cup",
+  "coverImage": {
+    "url": "/static/images/icc_t20_world_cup/ICC_World_Twenty20_Trophy.jpg",
+    "altText": "Image of ICC T20 World Cup"
+  },
+  "translations": [
+    {
+      "lang": "hi",
+      "title": "आईसीसी टी20 विश्व कप",
+      "url": "/read/hi/icc_t20_world_cup"
+    },
+    {
+      "lang": "ta",
+      "title": "ஐசிசி டி20 உலகக் கோப்பை",
+      "url": "/read/ta/icc_t20_world_cup"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "First edition Year",
+          "value": {
+            "label": "2007"
+          }
+        },
+        {
+          "label": "Format of the tournament",
+          "value": {
+            "label": "Format of the tournament"
+          }
+        },
+        {
+          "label": "Current champions",
+          "value": {
+            "label": "West Indies (2nd title)",
+            "url": "/read/en/west_indies_cricket_team",
+            "contentUrl": "/static/content/en/west_indies_cricket_team.json"
+          }
+        },
+        {
+          "label": "Most successful Team",
+          "value": {
+            "label": "West Indies cricket team"
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {}
+        }
+      ]
+    },
+    {
+      "title": "Events",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Background",
+          "note": "2002",
+          "id": "background",
+          "value": {
+            "label": "When the Benson & Hedges Cup ended in 2002, cricketing authorities were looking to boost the game's popularity with the younger generation in response to dwindling crowds and reduced sponsorship. It was intended to deliver fast-paced, exciting cricket accessible to thousands of fans who were put off by the longer versions of the game. a 20 over per innings game was proposed and voted 11–7 in favour of adopting the new format.",
+            "facts": []
+          }
+        },
+        {
+          "label": "Domestic tournaments",
+          "note": "2006",
+          "id": "domestic_tournaments",
+          "value": {
+            "label": "The West Indies regional teams competed in what was named the Stanford 20/20 tournament. The event was financially backed by convicted fraudster Allen Stanford, who gave at least US$28,000,000 funding money, the fruit of his massive Ponzi scheme.",
+            "facts": []
+          }
+        },
+        {
+          "label": "Inaugural tournaments",
+          "note": "2007",
+          "id": "inaugural_tournaments",
+          "value": {
+            "label": "It was first decided that every two years an ICC World Twenty20 tournament is to take place, except in the event of a Cricket World Cup being scheduled in the same year, in which case it will be held the year before. The first tournament was in 2007 in South Africa ",
+            "facts": [
+              {
+                "label": "South Africa",
+                "url": "/read/en/south_africa",
+                "contentUrl": "/static/content/en/south_africa.json",
+                "id": "south_africa",
+                "value": {
+                  "label": "South Africa, officially the Republic of South Africa (RSA), is the southernmost country in Africa. It is bounded to the south by 2,798 kilometres of coastline of Southern Africa stretching along the South Atlantic and Indian Oceans.",
+                  "image": {
+                    "url": "/static/images/icc_t20_world_cup/MapungubweHill.jpg",
+                    "altText": "Image of South Africa"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Expansion to 16 teams",
+          "note": "2012-",
+          "id": "expansion_to_16_teams",
+          "value": {
+            "label": "The 2012 edition was to be expanded into a 16 team format however this was reverted to 12. The 2014 tournament, held in Bangladesh was the first to feature 16 teams including all ten full members",
+            "facts": []
+          }
+        }
+      ]
+    }
+  ]
+}
