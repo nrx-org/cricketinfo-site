@@ -1,0 +1,194 @@
+{
+  "title": "மும்பை இண்டியன்ஸ்",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mumbai_Indians",
+  "coverImage": {
+    "url": "/static/images/mumbai_indians/Mumbai_Indians_Logo.svg",
+    "altText": "Image of மும்பை இண்டியன்ஸ்"
+  },
+  "summary": "மும்பை இண்டியன்ஸ், மகாராஷ்டிராவில் உள்ள மும்பை நகரத்தைத் தலைமையிடமாகக் கொண்ட ஒரு உரிமைபெற்ற கிரிக்கெட் அணி ஆகும். இது 2008 ஆம் ஆண்டு நிறுவப்பட்டது, மும்பை இண்டியன்ஸ் இண்டியன் பிரீமியர் லீகில் (ஐபிஎல்) விளையாடுவார்கள். இந்த அணி, இந்தியாவில் மிகப்பெரிய நிறுவனமான ரிலையன்ஸ் நிறுவனங்களுக்குச் சொந்தமானது.",
+  "translations": [
+    {
+      "lang": "en",
+      "title": "Mumbai Indians",
+      "url": "/read/en/mumbai_indians"
+    },
+    {
+      "lang": "hi",
+      "title": "मुंबई इंडियंस",
+      "url": "/read/hi/mumbai_indians"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Location",
+          "value": {
+            "label": "மும்பை"
+          }
+        },
+        {
+          "label": "Established on",
+          "value": {
+            "label": "2008"
+          }
+        },
+        {
+          "label": "Association",
+          "value": {
+            "label": "இண்டியன் பிரீமியர் லீக்"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Roles",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "label": "Test Captain",
+          "value": {
+            "label": "",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of "
+            }
+          }
+        },
+        {
+          "label": "ODI Captain",
+          "value": {
+            "label": "",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of "
+            }
+          }
+        },
+        {
+          "label": "T20I Captain",
+          "value": {
+            "label": "ரோஹித் ஷர்மா",
+            "url": "/read/ta/rohit_sharma",
+            "image": {
+              "url": "/static/images/mumbai_indians/Rohit_Sharma_November_2016_%28cropped%29.jpg",
+              "altText": "Image of ரோஹித் ஷர்மா",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Coach",
+          "value": {
+            "label": "மஹேலா ஜெயவர்த்தனே",
+            "url": null,
+            "image": {
+              "url": "/static/images/mumbai_indians/Mahela_Jayawardene_3.JPG",
+              "altText": "Image of மஹேலா ஜெயவர்த்தனே"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Popular Venue",
+      "id": "r7-வான்கடே_மைதானம்",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "வான்கடே மைதானம்",
+          "value": {
+            "label": "மும்பையில் உள்ள வான்கடே மைதானத்தில் பல மிக முக்கியமான கிரிக்கெட் போட்டிகள் நடந்துள்ளன, 2011 கிரிக்கெட் உலகக் கோப்பை இறுதிப்போட்டியில் இலங்கையை 6 விக்கெட்டுகள் வித்தியாசத்தில் இந்திய அணி வீழ்த்தி வெற்றிபெற்றது மிகவும் குறிப்பிடத்தக்கது. இந்த மைதானத்தில் தான் சச்சின் டெண்டுல்கரின் சர்வதேச விளையாட்டின் கடைசி போட்டி நடந்தது.",
+            "image": {
+              "url": "/static/images/mumbai_indians/Wankhede_ICC_WCF.jpg",
+              "altText": "Image of வான்கடே மைதானம்"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "ஆரம்ப காலங்களின் போராட்டம்",
+          "id": 3,
+          "note": "2008 - 2009",
+          "value": {
+            "label": "2008 ஆம் ஆண்டு புள்ளிகள் அட்டவணையில் 5வது இடம் பிடித்தனர். 2009 இல், 7வது இடத்தைப் பிடித்தனர்.",
+            "facts": []
+          }
+        },
+        {
+          "label": "வலுவான அணியாக வளர்ச்சி",
+          "id": 3,
+          "note": "2010 - 2012",
+          "value": {
+            "label": "2010 சீசனில், முதன்முறையாக இறுதிப் போட்டி வரை சென்று சென்னை சூப்பர் கிங்க்ஸ் இடம் தோல்வி அடைந்தனர். 2011 சீசனில், அரையிறுதிப் போட்டிக்கு சென்று, இந்தியாவில் நடந்த 2011 சேம்பியன்ஸ் லீக் ட்வென்டி20 இல் பெங்களூர் அணியை வீழ்த்தி வெற்றி பெற்றனர். அதன் பிறகு 2012 சீசனில் புள்ளிகள் அட்டவணையில் மூன்றாவது இடத்தைப் பிடித்தனர்",
+            "facts": []
+          }
+        },
+        {
+          "label": "ஐபிஎல் மற்றும் சிஎல்20 டபுள்",
+          "id": 3,
+          "note": "2013",
+          "value": {
+            "label": "ரோஹித் ஷர்மா அணியில் தலைமைப் பொறுப்பை ஏற்றார். அனில் கும்ப்ளே, ஜான்ட்டி ரோட்ஸ் மற்றும் சச்சின் டெண்டுல்கர் போன்ற அனுபவம் வாய்ந்த வீரர்களின் ஆலோசனையுடன், இந்த அணி சென்னை சூப்பர் கிங்க்ஸ் அணியை இறுதிப் போட்டியில் வீழ்த்தி வென்றது. பெர்த் ஸ்கார்ச்சர்ஸை 33 ரன்கள் வித்தியாசத்தில் வீழ்த்தி, சாம்பியன்ஸ் லீகில் அவர்கள் வெற்றியைத் தொடர்ந்தனர்.",
+            "facts": []
+          }
+        },
+        {
+          "label": "சாதனைகள்",
+          "id": 3,
+          "note": "2014 - தற்போது",
+          "value": {
+            "label": "2014 சீசனில், மும்பை இண்டியன்ஸ் பிளே ஆஃப்க்கு முன்னேறியது, ஆனால் சென்னை சூப்பர் கிங்க்ஸ்க்கு எதிரான எலிமினேட்டர் சுற்றில் தோற்றது. \n\n2015 சீசனில், சென்னை சூப்பர் கிங்க்ஸ் அணியை 41 ரன்கள் வித்தியாசத்தில் வென்று, இரண்டாவது ஐபிஎல் பட்டத்தை வென்றனர்.\n\n2016 சீசனில், 5வது இடத்தைப் பிடித்தனர். \n\n2017 சீசனில், ரைசிங் பூனே சூப்பர்ஜெய்ன்ட் அணியுடன் விறுவிறுப்பாக விளையாடி முடித்தது, ஐபிஎல் வரலாற்றிலேயே இதுவரை இதுதான் சிறந்த போட்டியாகும்.\n\n2018 சீசனில், மீண்டும் 5வது இடத்தைப் பிடித்தனர்.",
+            "facts": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Famous Players",
+      "cardType": "stories",
+      "facts": []
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "list_card",
+      "facts": []
+    },
+    {
+      "title": "Sponsors",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "value": {
+            "label": "பெர்ஃபார்மேக்ஸ்",
+            "url": null,
+            "image": {
+              "altText": "Image of பெர்ஃபார்மேக்ஸ்"
+            }
+          }
+        },
+        {
+          "label": "சட்டை ஸ்பான்சர்",
+          "value": {
+            "label": "சாம்சங்",
+            "url": null,
+            "image": {
+              "altText": "Image of சாம்சங்"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

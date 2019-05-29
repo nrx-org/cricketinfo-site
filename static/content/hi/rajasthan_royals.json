@@ -1,16 +1,16 @@
 {
-  "title": "Rajasthan Royals",
+  "title": "राजस्थान रॉयल्स",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Rajasthan_Royals",
   "coverImage": {
     "url": "/static/images/rajasthan_royals/RR-LOGO-1.png",
-    "altText": "Image of Rajasthan Royals"
+    "altText": "Image of राजस्थान रॉयल्स"
   },
-  "summary": "The Rajasthan Royals (often abbreviated as RR) are a franchise cricket team based in Jaipur, Rajasthan, that plays in the Indian Premier League.",
+  "summary": "राजस्थान रॉयल्स (संक्षिप्त रूप में आरआर) इंडियन प्रीमियर लीग में खेलने वाली राजस्थान के जयपुर आधारित एक फ्रेंचाइजी क्रिकेट टीम है।",
   "translations": [
     {
-      "lang": "hi",
-      "title": "राजस्थान रॉयल्स",
-      "url": "/read/hi/rajasthan_royals"
+      "lang": "en",
+      "title": "Rajasthan Royals",
+      "url": "/read/en/rajasthan_royals"
     },
     {
       "lang": "ta",
@@ -26,7 +26,7 @@
         {
           "label": "Location",
           "value": {
-            "label": "Jaipur, Rajasthan"
+            "label": "जयपुर, राजस्थान"
           }
         },
         {
@@ -38,7 +38,7 @@
         {
           "label": "Association",
           "value": {
-            "label": "Indian Premier League"
+            "label": ""
           }
         }
       ]
@@ -74,7 +74,7 @@
           "label": "T20I Captain",
           "value": {
             "label": "Steve Smith",
-            "url": "/read/en/andrew_tye",
+            "url": "/read/hi/andrew_tye",
             "image": {
               "url": "/static/images/rajasthan_royals/Steve_Smith_%28cricketer%29%2C_2014_%28cropped%29.jpg",
               "altText": "Image of Steve Smith",
@@ -157,90 +157,12 @@
     {
       "title": "Famous Players",
       "cardType": "stories",
-      "facts": [
-        {
-          "label": "Steve Smith",
-          "id": "steve_smith",
-          "value": {
-            "url": null,
-            "label": "Steven Peter Devereux Smith is an Australian international cricketer and former captain of the Australian national team. On 30 December 2017, he reached a Test batting rating of 947, the second-highest of all time.",
-            "image": {
-              "url": "/static/images/rajasthan_royals/Steve_Smith_%28cricketer%29%2C_2014_%28cropped%29.jpg",
-              "altText": "Image of Steve Smith",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
-            }
-          }
-        },
-        {
-          "label": "Shane Warne",
-          "id": "shane_warne",
-          "value": {
-            "url": null,
-            "label": "Shane Warne played in the first four seasons (2008-2011) of the Indian Premier League for the Rajasthan Royals, where he played the roles of both captain and coach.",
-            "image": {
-              "url": "/static/images/rajasthan_royals/Shane_Warne_bowling_2009.jpg",
-              "altText": "Image of Shane Warne"
-            }
-          }
-        },
-        {
-          "label": "Rahul Dravid",
-          "id": "rahul_dravid",
-          "value": {
-            "url": null,
-            "label": "Rahul Dravid has faced 31258 balls, which is the highest number of balls faced by any player in test cricket.",
-            "image": {
-              "url": "/static/images/rajasthan_royals/RahulDravid.jpg",
-              "altText": "Image of Rahul Dravid"
-            }
-          }
-        },
-        {
-          "label": "Ajinkya Rahane",
-          "id": "ajinkya_rahane",
-          "value": {
-            "url": null,
-            "label": "Ajinkya Rahane is currently the Captain of the Indian cricket team in Test cricket.",
-            "image": {
-              "altText": "Image of Ajinkya Rahane",
-              "license": ""
-            }
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "Achievements & Records",
       "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2008 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Captained by Shane Warne, Rajasthan Royals finished winners in the IPL and qualified for the champions league T20.",
-            "facts": []
-          }
-        },
-        {
-          "label": "2013 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Shane Watson was named player of the series in the 2013 Indian Premier League.",
-            "facts": []
-          }
-        },
-        {
-          "label": "Play-offs ",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Rajasthan Royals finished 3rd in the 2013 IPL",
-            "facts": []
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "Sponsors",
@@ -252,7 +174,6 @@
             "label": "JK Lakshmi Cement",
             "url": null,
             "image": {
-              "url": "",
               "altText": "Image of JK Lakshmi Cement"
             }
           }
@@ -263,7 +184,6 @@
             "label": "Surya LED",
             "url": null,
             "image": {
-              "url": "",
               "altText": "Image of Surya LED"
             }
           }
@@ -274,7 +194,6 @@
             "label": "Red FM",
             "url": null,
             "image": {
-              "url": "/static/images/rajasthan_royals/Red_fm.jpg",
               "altText": "Image of Red FM"
             }
           }

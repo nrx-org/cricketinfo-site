@@ -18,9 +18,11 @@ export class Story extends React.Component {
       this
     );
 
-    this.state = {
-      isFavorited: Story.getFavoritedInfoFromLocalStorage()[props.story.id]
-    };
+    if (props.story) {
+      this.state = {
+        isFavorited: Story.getFavoritedInfoFromLocalStorage()[props.story.id]
+      };
+    }
   }
 
   componentDidUpdate(prevProps) {
@@ -70,6 +72,11 @@ export class Story extends React.Component {
       isFullScreen,
       hasImageLoaded
     } = this.props;
+
+    if (!story) {
+      return null;
+    }
+
     const { isFavorited } = this.state;
     const shareData = {
       url: story.value.image.url,

@@ -1,0 +1,206 @@
+{
+  "title": "New Zealand national cricket team",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Zealand_national_cricket_team",
+  "coverImage": {
+    "url": "/static/images/new_zealand_national_cricket_team/New_Zealand_Cricket_Cap_Insignia.svg",
+    "altText": "Image of New Zealand national cricket team"
+  },
+  "summary": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
+  "translations": [
+    {
+      "lang": "en",
+      "title": "New Zealand national cricket team",
+      "url": "/read/en/new_zealand_national_cricket_team"
+    },
+    {
+      "lang": "hi",
+      "title": "न्यूजीलैंड की राष्ट्रीय क्रिकेट टीम",
+      "url": "/read/hi/new_zealand_national_cricket_team"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Location",
+          "value": {
+            "label": "New Zealand"
+          }
+        },
+        {
+          "label": "Established on",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "Association",
+          "value": {
+            "label": "New Zealand Cricket"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Roles",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "label": "Test Captain",
+          "value": {
+            "label": "Kane Williamson",
+            "url": null,
+            "image": {
+              "url": "/static/images/new_zealand_national_cricket_team/Kane_Williamson_%289773667991%29.jpg",
+              "altText": "Image of Kane Williamson",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "ODI Captain",
+          "value": {
+            "label": "Kane Williamson",
+            "url": null,
+            "image": {
+              "url": "/static/images/new_zealand_national_cricket_team/Kane_Williamson_%289773667991%29.jpg",
+              "altText": "Image of Kane Williamson",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "T20I Captain",
+          "value": {
+            "label": "Kane Williamson",
+            "url": null,
+            "image": {
+              "url": "/static/images/new_zealand_national_cricket_team/Kane_Williamson_%289773667991%29.jpg",
+              "altText": "Image of Kane Williamson",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Coach",
+          "value": {
+            "label": "Gary Stead",
+            "url": "/read/ta/gary_stead",
+            "image": {
+              "url": "",
+              "altText": "Image of Gary Stead"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Popular Venue",
+      "id": "r15-eden_park",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "Eden Park",
+          "value": {
+            "label": "Eden Park is New Zealand's largest sports stadium, located in central Auckland, New Zealand. It is used primarily for cricket in summer.",
+            "image": {
+              "url": "/static/images/new_zealand_national_cricket_team/Auckland_EdenPark.jpg",
+              "altText": "Image of Eden Park"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Beginnings of cricket in New Zealand",
+          "id": 3,
+          "note": "1842",
+          "value": {
+            "label": "The first recorded game of cricket in New Zealand took place in Wellington in December 1842.",
+            "facts": []
+          }
+        },
+        {
+          "label": "First national team",
+          "id": 3,
+          "note": "1904-1905",
+          "value": {
+            "label": "New Zealand played its first two internationals (not Tests) in 1904–05 against a star-studded Australia team",
+            "facts": []
+          }
+        },
+        {
+          "label": "Inter-war period",
+          "id": 3,
+          "note": "1927",
+          "value": {
+            "label": "In 1927 New Zealant toured England. They played 26 first class matches, mostly against county sides.",
+            "facts": []
+          }
+        },
+        {
+          "label": "After World War II",
+          "id": 3,
+          "note": "1950s",
+          "value": {
+            "label": "New Zealand played its first matches against the West Indies in 1951–52, and Pakistan and India in 1955/56.",
+            "facts": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Famous Players",
+      "cardType": "stories",
+      "facts": []
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "list_card",
+      "facts": []
+    },
+    {
+      "title": "Sponsors",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "value": {
+            "label": "ANZ",
+            "url": null,
+            "image": {
+              "altText": "Image of ANZ"
+            }
+          }
+        },
+        {
+          "label": "Kit sponsor",
+          "value": {
+            "label": "Canterbury",
+            "url": null,
+            "image": {
+              "altText": "Image of Canterbury"
+            }
+          }
+        },
+        {
+          "label": "Chest Branding",
+          "value": {
+            "label": "Lotus Herbals",
+            "url": null,
+            "image": {
+              "altText": "Image of Lotus Herbals"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

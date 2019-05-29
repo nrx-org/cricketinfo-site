@@ -1,0 +1,193 @@
+{
+  "title": "दक्षिण अफ्रीका की राष्ट्रीय क्रिकेट टीम",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/South_Africa_national_cricket_team",
+  "coverImage": {
+    "url": "/static/images/south_africa_national_cricket_team/Southafrica_cricket_logo.svg",
+    "altText": "Image of दक्षिण अफ्रीका की राष्ट्रीय क्रिकेट टीम"
+  },
+  "summary": "दक्षिण अफ्रीका की राष्ट्रीय क्रिकेट टीम, उपनाम प्रोटियाज का संचालन क्रिकेट दक्षिण अफ्रीका द्वारा किया जाता है। दक्षिण अफ्रीका टेस्ट,  एकदिवसीय अंतरराष्ट्रीय (ओडीआई) और टी-20 अंतरराष्ट्रीय (टी-20आई) में अंतरराष्ट्रीय क्रिकेट परिषद (आईसीसी) का पूर्ण सदस्य है।",
+  "translations": [
+    {
+      "lang": "en",
+      "title": "South Africa national cricket team",
+      "url": "/read/en/south_africa_national_cricket_team"
+    },
+    {
+      "lang": "ta",
+      "title": "South Africa national cricket team",
+      "url": "/read/ta/south_africa_national_cricket_team"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Location",
+          "value": {
+            "label": "दक्षिण अफ्रीका"
+          }
+        },
+        {
+          "label": "Established on",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "Association",
+          "value": {
+            "label": "क्रिकेट दक्षिण अफ्रीका"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Roles",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "label": "Test Captain",
+          "value": {
+            "label": "Faf du Plessis",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of Faf du Plessis"
+            }
+          }
+        },
+        {
+          "label": "ODI Captain",
+          "value": {
+            "label": "Faf du Plessis",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of Faf du Plessis"
+            }
+          }
+        },
+        {
+          "label": "T20I Captain",
+          "value": {
+            "label": "Faf du Plessis",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of Faf du Plessis"
+            }
+          }
+        },
+        {
+          "label": "Coach",
+          "value": {
+            "label": "Ottis Gibson",
+            "url": "/read/hi/ottis_gibson",
+            "image": {
+              "url": "",
+              "altText": "Image of Ottis Gibson"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Popular Venue",
+      "id": "r14-wanderers_stadium",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "Wanderers Stadium",
+          "value": {
+            "label": "The Wanderers Stadium is a stadium situated in Johannesburg, South Africa. Test, One Day and First class cricket matches are played here. ",
+            "image": {
+              "url": "/static/images/south_africa_national_cricket_team/Wandrersflag.jpg",
+              "altText": "Image of Wanderers Stadium"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Beginnings and early developments",
+          "id": 3,
+          "note": "1843",
+          "value": {
+            "label": "The oldest cricket club in South Africa is the Port Elizabeth Cricket Club, founded in 1843. ",
+            "facts": []
+          }
+        },
+        {
+          "label": "England Tour",
+          "id": 3,
+          "note": "1888",
+          "value": {
+            "label": "Sir Donald Currie sponsored the first English team to tour South Africa. ",
+            "facts": []
+          }
+        },
+        {
+          "label": "Australia Tour",
+          "id": 3,
+          "note": "1910-11",
+          "value": {
+            "label": "The South African cricket team toured Australia for the first time in 1910–11.",
+            "facts": []
+          }
+        },
+        {
+          "label": "Current standings",
+          "id": 3,
+          "note": "2018",
+          "value": {
+            "label": "As of 15 March 2018, the ICC ranks South Africa second in Tests, second in ODIs and seventh in T20Is, as well as sixth in the women's overall championship",
+            "facts": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Famous Players",
+      "cardType": "stories",
+      "facts": []
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "list_card",
+      "facts": []
+    },
+    {
+      "title": "Sponsors",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "value": {
+            "label": "New Balance",
+            "url": null,
+            "image": {
+              "altText": "Image of New Balance"
+            }
+          }
+        },
+        {
+          "label": "Shirt Sponsor",
+          "value": {
+            "label": "Standard Bank",
+            "url": null,
+            "image": {
+              "altText": "Image of Standard Bank"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

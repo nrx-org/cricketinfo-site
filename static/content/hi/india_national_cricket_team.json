@@ -1,0 +1,195 @@
+{
+  "title": "भारत की राष्ट्रीय क्रिकेट टीम",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/India_national_cricket_team",
+  "coverImage": {
+    "url": "/static/images/india_national_cricket_team/Cricket_India_Crest.svg",
+    "altText": "Image of भारत की राष्ट्रीय क्रिकेट टीम"
+  },
+  "summary": "भारत की राष्ट्रीय क्रिकेट टीम को टीम इंडिया और मेन इन ब्लू के नाम से भी जाना जाता है। भारत को टेस्ट में पहला, वनडे में दूसरा और आईसीसी द्वारा टी20 में दूसरा स्थान मिला है। विराट कोहली टीम के वर्तमान कप्तान हैं जबकि मुख्य कोच रवि शास्त्री हैं।",
+  "translations": [
+    {
+      "lang": "en",
+      "title": "India national cricket team",
+      "url": "/read/en/india_national_cricket_team"
+    },
+    {
+      "lang": "ta",
+      "title": "இந்திய தேசிய கிரிக்கெட் அணி",
+      "url": "/read/ta/india_national_cricket_team"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Location",
+          "value": {
+            "label": "भारत"
+          }
+        },
+        {
+          "label": "Established on",
+          "value": {
+            "label": "1926"
+          }
+        },
+        {
+          "label": "Association",
+          "value": {
+            "label": "भारतीय क्रिकेट कंट्रोल बोर्ड"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Roles",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "label": "Test Captain",
+          "value": {
+            "label": "विराट कोहली",
+            "url": "/read/hi/virat_kohli",
+            "image": {
+              "url": "/static/images/india_national_cricket_team/Virat..Kohli.jpg",
+              "altText": "Image of विराट कोहली"
+            }
+          }
+        },
+        {
+          "label": "ODI Captain",
+          "value": {
+            "label": " रोहित शर्मा",
+            "url": "/read/hi/rohit_sharma",
+            "image": {
+              "url": "/static/images/india_national_cricket_team/Rohit_Sharma_November_2016_%28cropped%29.jpg",
+              "altText": "Image of  रोहित शर्मा",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "T20I Captain",
+          "value": {
+            "label": " रोहित शर्मा",
+            "url": "/read/hi/rohit_sharma",
+            "image": {
+              "url": "/static/images/india_national_cricket_team/Rohit_Sharma_November_2016_%28cropped%29.jpg",
+              "altText": "Image of  रोहित शर्मा",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Coach",
+          "value": {
+            "label": "रवि शास्त्री ",
+            "url": null,
+            "image": {
+              "url": "/static/images/india_national_cricket_team/RaviShastri.jpg",
+              "altText": "Image of रवि शास्त्री "
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Popular Venue",
+      "id": "r1-वानखेड़े_स्टेडियम",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "वानखेड़े स्टेडियम",
+          "value": {
+            "label": "\n\nमुंबई का वानखेड़े स्टेडियम अतीत में कई हाई-प्रोफ़ाइल क्रिकेट मैचों की मेजबानी कर चुका है, जिसमें सबसे उल्लेखनीय 2011 क्रिकेट विश्व कप फाइनल है, जिसमें भारत ने श्रीलंका को 6 विकेट से हराया था। स्टेडियम सचिन तेंदुलकर के अंतर्राष्ट्रीय कैरियर के आखिरी मैच का साक्षी भी बना था।",
+            "image": {
+              "url": "/static/images/india_national_cricket_team/Wankhede_ICC_WCF.jpg",
+              "altText": "Image of वानखेड़े स्टेडियम"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "वनडे क्रिकेट का आगमन",
+          "id": 3,
+          "note": "1971 - 1983",
+          "value": {
+            "label": "\"1971 में वन डे इंटरनेशनल (ओडीआई) क्रिकेट के आगमन ने क्रिकेट की दुनिया में एक नया आयाम रचा। भारत ने ओडीआई में एक कमजोर टीम के रूप में शुरुआत की और क्रिकेट विश्व कप के पहले दो संस्करणों में दूसरे दौर के लिए क्वालीफाई नहीं किया। हालांकि कपिल देव की कप्तानी में भारत ने 1983 में लॉर्ड्स में फाइनल में मजबूत गेंदबाजी प्रदर्शन के कारण दो बार के गत विजेता वेस्टइंडीज को हराकर क्रिकेट विश्व कप जीता। \"",
+            "facts": []
+          }
+        },
+        {
+          "label": " परवर्ती 20वीं सदी",
+          "id": 3,
+          "note": "1983-2000 ",
+          "value": {
+            "label": "भारत और पाकिस्तान ने 1987 में संयुक्त रूप से विश्व कप की मेजबानी की, पहली बार यह प्रतियोगिता इंग्लैंड के बाहर आयोजित की गई थी। उन्होंने फिर से संयुक्त रूप से श्रीलंका के साथ 1996 विश्व कप की मेजबानी की। सचिन तेंदुलकर और अनिल कुंबले 1989 और 1990 में राष्ट्रीय टीम में शामिल हुए और टीम में और सुधार किया। हालांकि टीम को 2000 में नुकसान हुआ था जब मोहम्मद अजहरुद्दीन और अजय जडेजा मैच फिक्सिंग में फंस गए और उन्हें बैन कर दिया गया।",
+            "facts": []
+          }
+        },
+        {
+          "label": " 2000 के दशक में सुधार",
+          "id": 3,
+          "note": "2000-2007",
+          "value": {
+            "label": "2000 के बाद से, भारतीय टीम ने सौरव गांगुली की कप्तानी और भारत के पहले विदेशी कोच जॉन राइट के मार्गदर्शन में बड़े सुधार किए। इसने 2003 विश्व कप के फाइनल में जगह बनाई, लेकिन 2007 विश्व कप के ग्रुप चरण से आगे बढ़ने में असफल रहा।",
+            "facts": []
+          }
+        },
+        {
+          "label": "धोनी के नेतृत्व में सफलता ",
+          "id": 3,
+          "note": "2007 - वर्तमान",
+          "value": {
+            "label": "द्रविड़ ने टीम की कप्तानी छोड दी, जिसके बाद धोनी को ट्वेंटी 20 और एकदिवसीय टीम का कप्तान बनाया गया। सितंबर 2007 में भारत ने पहली बार ट्वेंटी 20 विश्व कप जीता। 2011 में भारत ने क्रिकेट विश्व कप जीत लिया। भारत ने 2013 चैंपियंस ट्रॉफी जीती, इस प्रकार तीन प्रमुख आईसीसी ट्रॉफी जीतने वाले धोनी इतिहास के पहले कप्तान बने।",
+            "facts": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Famous Players",
+      "cardType": "stories",
+      "facts": []
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "list_card",
+      "facts": []
+    },
+    {
+      "title": "Sponsors",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "value": {
+            "label": "नाइकी",
+            "url": null,
+            "image": {
+              "altText": "Image of नाइकी"
+            }
+          }
+        },
+        {
+          "label": "शर्ट प्रायोजक",
+          "value": {
+            "label": " ओप्पो",
+            "url": null,
+            "image": {
+              "altText": "Image of  ओप्पो"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

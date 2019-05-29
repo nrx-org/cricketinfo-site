@@ -713,10 +713,14 @@
   {
     "id": "R1",
     "title": {
-      "en": "India national cricket team"
+      "en": "India national cricket team",
+      "hi": "भारत की राष्ट्रीय क्रिकेट टीम",
+      "ta": "இந்திய தேசிய கிரிக்கெட் அணி"
     },
     "sourceCsvFile": {
-      "en": "./csv/teams.en.csv"
+      "en": "./csv/teams.en.csv",
+      "hi": "./csv/teams.hi.csv",
+      "ta": "./csv/teams.ta.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -726,10 +730,14 @@
   {
     "id": "R7",
     "title": {
-      "en": "Mumbai Indians"
+      "en": "Mumbai Indians",
+      "hi": "मुंबई इंडियंस",
+      "ta": "மும்பை இண்டியன்ஸ்"
     },
     "sourceCsvFile": {
-      "en": "./csv/teams.en.csv"
+      "en": "./csv/teams.en.csv",
+      "hi": "./csv/teams.hi.csv",
+      "ta": "./csv/teams.ta.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -739,10 +747,14 @@
   {
     "id": "R5",
     "title": {
-      "en": "Chennai Super Kings"
+      "en": "Chennai Super Kings",
+      "hi": "चेन्नई सुपर किंग्स",
+      "ta": "சென்னை சூப்பர் கிங்க்ஸ்"
     },
     "sourceCsvFile": {
-      "en": "./csv/teams.en.csv"
+      "en": "./csv/teams.en.csv",
+      "hi": "./csv/teams.hi.csv",
+      "ta": "./csv/teams.ta.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -752,10 +764,14 @@
   {
     "id": "R6",
     "title": {
-      "en": "Royal Challengers Bangalore"
+      "en": "Royal Challengers Bangalore",
+      "hi": "रॉयल चैलेंजर्स बैंगलोर",
+      "ta": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்"
     },
     "sourceCsvFile": {
-      "en": "./csv/teams.en.csv"
+      "en": "./csv/teams.en.csv",
+      "hi": "./csv/teams.hi.csv",
+      "ta": "./csv/teams.ta.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -765,10 +781,14 @@
   {
     "id": "R2",
     "title": {
-      "en": "Australia Cricket team"
+      "en": "Australia Cricket team",
+      "hi": "ऑस्ट्रेलिया क्रिकेट टीम",
+      "ta": "ஆஸ்திரேலிய கிரிக்கெட் அணி"
     },
     "sourceCsvFile": {
-      "en": "./csv/teams.en.csv"
+      "en": "./csv/teams.en.csv",
+      "hi": "./csv/teams.hi.csv",
+      "ta": "./csv/teams.ta.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -778,10 +798,14 @@
   {
     "id": "R4",
     "title": {
-      "en": "England cricket team"
+      "en": "England cricket team",
+      "hi": "इंग्लैंड क्रिकेट टीम",
+      "ta": "இங்கிலாந்து கிரிக்கெட் அணி"
     },
     "sourceCsvFile": {
-      "en": "./csv/teams.en.csv"
+      "en": "./csv/teams.en.csv",
+      "hi": "./csv/teams.hi.csv",
+      "ta": "./csv/teams.ta.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -791,10 +815,14 @@
   {
     "id": "R3",
     "title": {
-      "en": "West Indies cricket team"
+      "en": "West Indies cricket team",
+      "hi": "वेस्टइंडीज क्रिकेट टीम",
+      "ta": "வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி"
     },
     "sourceCsvFile": {
-      "en": "./csv/teams.en.csv"
+      "en": "./csv/teams.en.csv",
+      "hi": "./csv/teams.hi.csv",
+      "ta": "./csv/teams.ta.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -804,10 +832,14 @@
   {
     "id": "R8",
     "title": {
-      "en": "Pakistan national cricket team"
+      "en": "Pakistan national cricket team",
+      "hi": "पाकिस्तान की राष्ट्रीय क्रिकेट टीम ",
+      "ta": "Pakistan national cricket team"
     },
     "sourceCsvFile": {
-      "en": "./csv/teams.en.csv"
+      "en": "./csv/teams.en.csv",
+      "hi": "./csv/teams.hi.csv",
+      "ta": "./csv/teams.ta.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -817,10 +849,14 @@
   {
     "id": "R9",
     "title": {
-      "en": "Kings XI Punjab"
+      "en": "Kings XI Punjab",
+      "hi": "किंग्स इलेवन पंजाब",
+      "ta": "Kings XI Punjab"
     },
     "sourceCsvFile": {
-      "en": "./csv/teams.en.csv"
+      "en": "./csv/teams.en.csv",
+      "hi": "./csv/teams.hi.csv",
+      "ta": "./csv/teams.ta.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -830,10 +866,14 @@
   {
     "id": "R10",
     "title": {
-      "en": "Kolkata Knight Riders"
+      "en": "Kolkata Knight Riders",
+      "hi": "कोलकाता नाइट राइडर्स",
+      "ta": "Kolkata Knight Riders"
     },
     "sourceCsvFile": {
-      "en": "./csv/teams.en.csv"
+      "en": "./csv/teams.en.csv",
+      "hi": "./csv/teams.hi.csv",
+      "ta": "./csv/teams.ta.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -843,10 +883,14 @@
   {
     "id": "R11",
     "title": {
-      "en": "Rajasthan Royals"
+      "en": "Rajasthan Royals",
+      "hi": "राजस्थान रॉयल्स",
+      "ta": "Rajasthan Royals"
     },
     "sourceCsvFile": {
-      "en": "./csv/teams.en.csv"
+      "en": "./csv/teams.en.csv",
+      "hi": "./csv/teams.hi.csv",
+      "ta": "./csv/teams.ta.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -856,10 +900,14 @@
   {
     "id": "R12",
     "title": {
-      "en": "Sunrisers Hyderabad"
+      "en": "Sunrisers Hyderabad",
+      "hi": "सनराइजर्स हैदराबाद",
+      "ta": "Sunrisers Hyderabad"
     },
     "sourceCsvFile": {
-      "en": "./csv/teams.en.csv"
+      "en": "./csv/teams.en.csv",
+      "hi": "./csv/teams.hi.csv",
+      "ta": "./csv/teams.ta.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -869,10 +917,14 @@
   {
     "id": "R17",
     "title": {
-      "en": "Afghanistan national cricket team"
+      "en": "Afghanistan national cricket team",
+      "hi": "अफगानिस्तान की राष्ट्रीय क्रिकेट टीम",
+      "ta": "Afghanistan national cricket team"
     },
     "sourceCsvFile": {
-      "en": "./csv/teams.en.csv"
+      "en": "./csv/teams.en.csv",
+      "hi": "./csv/teams.hi.csv",
+      "ta": "./csv/teams.ta.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -882,10 +934,14 @@
   {
     "id": "R18",
     "title": {
-      "en": "Bangladesh national cricket team"
+      "en": "Bangladesh national cricket team",
+      "hi": "बांग्लादेश की राष्ट्रीय क्रिकेट टीम",
+      "ta": "Bangladesh national cricket team"
     },
     "sourceCsvFile": {
-      "en": "./csv/teams.en.csv"
+      "en": "./csv/teams.en.csv",
+      "hi": "./csv/teams.hi.csv",
+      "ta": "./csv/teams.ta.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -895,10 +951,14 @@
   {
     "id": "R13",
     "title": {
-      "en": "Sri Lanka national cricket team"
+      "en": "Sri Lanka national cricket team",
+      "hi": "श्रीलंका की राष्ट्रीय क्रिकेट टीम",
+      "ta": "Sri Lanka national cricket team"
     },
     "sourceCsvFile": {
-      "en": "./csv/teams.en.csv"
+      "en": "./csv/teams.en.csv",
+      "hi": "./csv/teams.hi.csv",
+      "ta": "./csv/teams.ta.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -908,10 +968,14 @@
   {
     "id": "R14",
     "title": {
-      "en": "South Africa national cricket team"
+      "en": "South Africa national cricket team",
+      "hi": "दक्षिण अफ्रीका की राष्ट्रीय क्रिकेट टीम",
+      "ta": "South Africa national cricket team"
     },
     "sourceCsvFile": {
-      "en": "./csv/teams.en.csv"
+      "en": "./csv/teams.en.csv",
+      "hi": "./csv/teams.hi.csv",
+      "ta": "./csv/teams.ta.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -921,10 +985,14 @@
   {
     "id": "R15",
     "title": {
-      "en": "New Zealand national cricket team"
+      "en": "New Zealand national cricket team",
+      "hi": "न्यूजीलैंड की राष्ट्रीय क्रिकेट टीम",
+      "ta": "New Zealand national cricket team"
     },
     "sourceCsvFile": {
-      "en": "./csv/teams.en.csv"
+      "en": "./csv/teams.en.csv",
+      "hi": "./csv/teams.hi.csv",
+      "ta": "./csv/teams.ta.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -934,10 +1002,14 @@
   {
     "id": "R16",
     "title": {
-      "en": "Delhi Capitals"
+      "en": "Delhi Capitals",
+      "hi": "देल्ही कैपिटल्स",
+      "ta": "Delhi Capitals"
     },
     "sourceCsvFile": {
-      "en": "./csv/teams.en.csv"
+      "en": "./csv/teams.en.csv",
+      "hi": "./csv/teams.hi.csv",
+      "ta": "./csv/teams.ta.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -2830,5 +2902,20 @@
     "titleFieldName": "Title",
     "descriptionFieldName": "Short description",
     "imageFieldName": "Image Link"
+  },
+  {
+    "id": "",
+    "title": {
+      "hi": "",
+      "ta": ""
+    },
+    "sourceCsvFile": {
+      "hi": "./csv/teams.hi.csv",
+      "ta": "./csv/teams.ta.csv"
+    },
+    "idFieldName": "Article Code",
+    "titleFieldName": "Name of Team",
+    "descriptionFieldName": "Short Summary of Team",
+    "imageFieldName": "Header Image Link"
   }
 ]

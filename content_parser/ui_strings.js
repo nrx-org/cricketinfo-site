@@ -61,7 +61,7 @@ module.exports.teamUIStrings = {
   }
 };
 
-module.export.homeUIStrings = {
+module.exports.homeUIStrings = {
   playingTeamsSectionTitle: {
     en: "Playing teams",
     hi: "आज खेलने वाली टीमें",
@@ -131,5 +131,5 @@ module.export.homeUIStrings = {
     en: "Interesting Articles",
     hi: "Interesting Articles",
     ta: "Interesting Articles"
-  },
-}
+  }
+};

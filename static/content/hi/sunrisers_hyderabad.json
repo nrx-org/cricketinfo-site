@@ -1,0 +1,194 @@
+{
+  "title": "सनराइजर्स हैदराबाद",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sunrisers_Hyderabad",
+  "coverImage": {
+    "url": "/static/images/sunrisers_hyderabad/Sunrisers_Hyderabad.svg",
+    "altText": "Image of सनराइजर्स हैदराबाद"
+  },
+  "summary": "सनराइजर्स हैदराबाद (संक्षिप्त रूप में एसआरएच) तेलंगाना के हैदराबाद आधारित एक फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में खेलती है।",
+  "translations": [
+    {
+      "lang": "en",
+      "title": "Sunrisers Hyderabad",
+      "url": "/read/en/sunrisers_hyderabad"
+    },
+    {
+      "lang": "ta",
+      "title": "Sunrisers Hyderabad",
+      "url": "/read/ta/sunrisers_hyderabad"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Location",
+          "value": {
+            "label": "हैदराबाद"
+          }
+        },
+        {
+          "label": "Established on",
+          "value": {
+            "label": "2013"
+          }
+        },
+        {
+          "label": "Association",
+          "value": {
+            "label": ""
+          }
+        }
+      ]
+    },
+    {
+      "title": "Roles",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "label": "Test Captain",
+          "value": {
+            "label": "",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of "
+            }
+          }
+        },
+        {
+          "label": "ODI Captain",
+          "value": {
+            "label": "",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of "
+            }
+          }
+        },
+        {
+          "label": "T20I Captain",
+          "value": {
+            "label": "Kane Williamson",
+            "url": null,
+            "image": {
+              "url": "/static/images/sunrisers_hyderabad/Kane_Williamson_%289773667991%29.jpg",
+              "altText": "Image of Kane Williamson",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Coach",
+          "value": {
+            "label": "Tom Moody",
+            "url": null,
+            "image": {
+              "url": "/static/images/sunrisers_hyderabad/Tom_Moody_Sunrisers.jpg",
+              "altText": "Image of Tom Moody"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Popular Venue",
+      "id": "r12-rajiv_gandhi_international_cricket_stadium",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "Rajiv Gandhi International Cricket Stadium",
+          "value": {
+            "label": "The Rajiv Gandhi International Cricket Stadium is the principal cricket stadium in Hyderabad, Telangana, India and is the home ground of the Hyderabad Cricket Association.  It is located in Uppal, an eastern suburb of the city. It has a capacity of 55,000.",
+            "image": {
+              "url": "/static/images/sunrisers_hyderabad/RGIS_HYD.jpg",
+              "altText": "Image of Rajiv Gandhi International Cricket Stadium"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Initial years",
+          "id": 3,
+          "note": "2013-2014",
+          "value": {
+            "label": "Sunrisers Hyderabad made their IPL debut in the 2013 season. The team reached the playoffs but were eliminated after losing against Rajasthan Royals.",
+            "facts": []
+          }
+        },
+        {
+          "label": "Maiden title and success",
+          "id": 3,
+          "note": "2015–2017",
+          "value": {
+            "label": "For the 2015 season, David Warner was appointed as the captain for this season and led the team in all matches played. Warner won the first Orange Cap for Sunrisers Hyderabad.",
+            "facts": []
+          }
+        },
+        {
+          "label": "Runners Up",
+          "id": 3,
+          "note": "2018",
+          "value": {
+            "label": "SRH finished the 2018 season as runners-up of the competition after losing to Chennai Super Kings in the final. Williamson won the Orange Cap with 735 runs.",
+            "facts": []
+          }
+        },
+        {
+          "label": "",
+          "id": 3,
+          "note": "",
+          "value": {
+            "label": "",
+            "facts": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Famous Players",
+      "cardType": "stories",
+      "facts": []
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "list_card",
+      "facts": []
+    },
+    {
+      "title": "Sponsors",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "value": {
+            "label": "TYKA Sports",
+            "url": null,
+            "image": {
+              "altText": "Image of TYKA Sports"
+            }
+          }
+        },
+        {
+          "label": "Shirt Sponsor (Front)",
+          "value": {
+            "label": "Coolwinks.com",
+            "url": null,
+            "image": {
+              "altText": "Image of Coolwinks.com"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

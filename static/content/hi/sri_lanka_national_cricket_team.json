@@ -1,0 +1,194 @@
+{
+  "title": "श्रीलंका की राष्ट्रीय क्रिकेट टीम",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sri_Lanka_national_cricket_team",
+  "coverImage": {
+    "url": "/static/images/sri_lanka_national_cricket_team/Sri_Lanka_Cricket_Cap_Insignia.svg",
+    "altText": "Image of श्रीलंका की राष्ट्रीय क्रिकेट टीम"
+  },
+  "summary": "श्रीलंका की राष्ट्रीय क्रिकेट टीम, जिसे 'द लायंस' के नाम से भी जाना जाता है। यह अंतरराष्ट्रीय क्रिकेट में श्रीलंका का प्रतिनिधित्व करती है। यह टेस्ट, एकदिवसीय अंतरराष्ट्रीय (ओडीआई) और टी-20 अंतरराष्ट्रीय (टी20आई) में अंतरराष्ट्रीय क्रिकेट परिषद (आईसीसी) का पूर्ण सदस्य देश है।",
+  "translations": [
+    {
+      "lang": "en",
+      "title": "Sri Lanka national cricket team",
+      "url": "/read/en/sri_lanka_national_cricket_team"
+    },
+    {
+      "lang": "ta",
+      "title": "Sri Lanka national cricket team",
+      "url": "/read/ta/sri_lanka_national_cricket_team"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Location",
+          "value": {
+            "label": "श्रीलंका की राष्ट्रीय क्रिकेट टीम"
+          }
+        },
+        {
+          "label": "Established on",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "Association",
+          "value": {
+            "label": "श्रीलंका क्रिकेट"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Roles",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "label": "Test Captain",
+          "value": {
+            "label": "Dimuth Karunaratne",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of Dimuth Karunaratne"
+            }
+          }
+        },
+        {
+          "label": "ODI Captain",
+          "value": {
+            "label": "Dimuth Karunaratne",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of Dimuth Karunaratne"
+            }
+          }
+        },
+        {
+          "label": "T20I Captain",
+          "value": {
+            "label": "Lasith Malinga",
+            "url": "/read/hi/lasith_malinga",
+            "image": {
+              "url": "/static/images/sri_lanka_national_cricket_team/LASITH_MALINGA_%285155175549%29.jpg",
+              "altText": "Image of Lasith Malinga",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Coach",
+          "value": {
+            "label": "Chandika Hathurusingha",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of Chandika Hathurusingha"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Popular Venue",
+      "id": "r13-galle_international_stadium",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "Galle International Stadium",
+          "value": {
+            "label": "Galle International Stadium is a cricket stadium in Galle, Sri Lanka, situated near the Galle fort and fringed on two sides by the Indian Ocean. It is considered to be one of the most picturesque cricket grounds in the world. ",
+            "image": {
+              "url": "/static/images/sri_lanka_national_cricket_team/Sri_Lanka_vs_Pakistan_test_match.JPG",
+              "altText": "Image of Galle International Stadium"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": " Ceylon national cricket team",
+          "id": 3,
+          "note": "1972",
+          "value": {
+            "label": "Renamed Sri Lanka in 1972, the national team first competed in top level international cricket in 1975, when they played against West Indies during 1975 Cricket World Cup",
+            "facts": []
+          }
+        },
+        {
+          "label": "First test win",
+          "id": 3,
+          "note": "1981",
+          "value": {
+            "label": "After Sri Lanka was awarded Test status in 21 July 1981 as eighth Test playing nation, they had to wait until 6 September 1985, where Sri Lanka recorded their first Test win by beating India",
+            "facts": []
+          }
+        },
+        {
+          "label": "1990s",
+          "id": 3,
+          "note": "1990s",
+          "value": {
+            "label": "Sri Lanka had to wait for more than 7 years for their next series victory, which came against New Zealand in December 1992. ",
+            "facts": []
+          }
+        },
+        {
+          "label": "Comparison with other teams",
+          "id": 3,
+          "note": "2018",
+          "value": {
+            "label": "Sri Lanka have registered more wins against Pakistan and Bangladesh than any other team, with 14.",
+            "facts": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Famous Players",
+      "cardType": "stories",
+      "facts": []
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "list_card",
+      "facts": []
+    },
+    {
+      "title": "Sponsors",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "value": {
+            "label": "Dilmah ",
+            "url": null,
+            "image": {
+              "altText": "Image of Dilmah "
+            }
+          }
+        },
+        {
+          "label": "Principal Sponsor, 2019 World Cup",
+          "value": {
+            "label": "Kent RO Systems",
+            "url": null,
+            "image": {
+              "altText": "Image of Kent RO Systems"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

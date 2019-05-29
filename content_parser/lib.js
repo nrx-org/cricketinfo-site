@@ -20,9 +20,11 @@ const findIdMapEntryById = (idMap, id) => {
 
 const getSluggedTitle = str =>
   str
-    .trim()
-    .replace(/\s+/g, "_")
-    .toLowerCase();
+    ? str
+        .trim()
+        .replace(/\s+/g, "_")
+        .toLowerCase()
+    : null;
 
 const makeArticleUrl = (lang, slug) => `/read/${lang}/${slug}`;
 

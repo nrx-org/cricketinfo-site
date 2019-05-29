@@ -1,0 +1,203 @@
+{
+  "title": "पाकिस्तान की राष्ट्रीय क्रिकेट टीम ",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pakistan_national_cricket_team",
+  "coverImage": {
+    "url": "/static/images/pakistan_national_cricket_team/PakistanCricketLogo.png",
+    "altText": "Image of पाकिस्तान की राष्ट्रीय क्रिकेट टीम "
+  },
+  "summary": "पाकिस्तान की पुरुषों की राष्ट्रीय क्रिकेट टीम, जो शाहीन्स ग्रीन शर्ट्स और मैन इन ग्रीन के रूप में प्रसिद्घ है, उसका संचालन पाकिस्तान क्रिकेट बोर्ड (पीसीबी) द्वारा किया जाता है। टीम अंतर्राष्ट्रीय क्रिकेट परिषद की पूर्ण सदस्य है और टेस्ट, वनडे और टी-20 अंतर्राष्ट्रीय क्रिकेट मैचों में हिस्सा लेती है।",
+  "translations": [
+    {
+      "lang": "en",
+      "title": "Pakistan national cricket team",
+      "url": "/read/en/pakistan_national_cricket_team"
+    },
+    {
+      "lang": "ta",
+      "title": "Pakistan national cricket team",
+      "url": "/read/ta/pakistan_national_cricket_team"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Location",
+          "value": {
+            "label": "पाकिस्तान"
+          }
+        },
+        {
+          "label": "Established on",
+          "value": {
+            "label": "1952"
+          }
+        },
+        {
+          "label": "Association",
+          "value": {
+            "label": "पाकिस्तान क्रिकेट बोर्ड"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Roles",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "label": "Test Captain",
+          "value": {
+            "label": "Sarfaraz Ahmed",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of Sarfaraz Ahmed"
+            }
+          }
+        },
+        {
+          "label": "ODI Captain",
+          "value": {
+            "label": "Sarfaraz Ahmed",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of Sarfaraz Ahmed"
+            }
+          }
+        },
+        {
+          "label": "T20I Captain",
+          "value": {
+            "label": "Sarfaraz Ahmed",
+            "url": null,
+            "image": {
+              "url": "",
+              "altText": "Image of Sarfaraz Ahmed"
+            }
+          }
+        },
+        {
+          "label": "Coach",
+          "value": {
+            "label": "Mickey Arthur",
+            "url": "/read/hi/mickey_arthur",
+            "image": {
+              "url": "/static/images/pakistan_national_cricket_team/Mickey_Arthur.jpg",
+              "altText": "Image of Mickey Arthur"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Popular Venue",
+      "id": "r8-national_stadium",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "National Stadium",
+          "value": {
+            "label": "The National Stadium in Karachi, Pakistan is able to hold 34,228 spectators",
+            "image": {
+              "url": "/static/images/pakistan_national_cricket_team/Nat_Std01.JPG",
+              "altText": "Image of National Stadium"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Pre-independence",
+          "id": 3,
+          "note": "1935",
+          "value": {
+            "label": " The first ever international cricket match in Karachi was held on 22 November 1935 between Sindh and Australian cricket teams. The match was seen by 5,000.",
+            "facts": []
+          }
+        },
+        {
+          "label": "1986 Austral-Asia Cup",
+          "id": 3,
+          "note": "1986",
+          "value": {
+            "label": "The 1986 Austral-Asia Cup, played in Sharjah in UAE, is remembered for a famous last-ball victory for Pakistan against India, with Javed Miandad emerging as a national hero.",
+            "facts": []
+          }
+        },
+        {
+          "label": "1992 Cricket World Cup",
+          "id": 3,
+          "note": "1992",
+          "value": {
+            "label": "The 1992 Cricket World Cup in Australia and New Zealand marked Pakistan's first World Cup victory. ",
+            "facts": []
+          }
+        },
+        {
+          "label": "2009 ICC World T20",
+          "id": 3,
+          "note": "2009",
+          "value": {
+            "label": "Pakistan defeated Sri Lanka in the finals to mark its first world title since Imran Khan's \"cornered tigers\" in 1992",
+            "facts": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Famous Players",
+      "cardType": "stories",
+      "facts": []
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "list_card",
+      "facts": []
+    },
+    {
+      "title": "Sponsors",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "value": {
+            "label": "CA Sports",
+            "url": null,
+            "image": {
+              "altText": "Image of CA Sports"
+            }
+          }
+        },
+        {
+          "label": "Shirt Sponsor",
+          "value": {
+            "label": "Pepsi",
+            "url": null,
+            "image": {
+              "altText": "Image of Pepsi"
+            }
+          }
+        },
+        {
+          "label": "Kit sponsor",
+          "value": {
+            "label": "T10 Sports",
+            "url": null,
+            "image": {
+              "altText": "Image of T10 Sports"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

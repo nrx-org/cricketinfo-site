@@ -1,0 +1,194 @@
+{
+  "title": "इंग्लैंड क्रिकेट टीम",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/England_cricket_team",
+  "coverImage": {
+    "url": "/static/images/england_cricket_team/England_cricket_team_logo.svg",
+    "altText": "Image of इंग्लैंड क्रिकेट टीम"
+  },
+  "summary": "इंग्लैंड क्रिकेट टीम अंतरराष्ट्रीय क्रिकेट में इंग्लैंड और वेल्स का प्रतिनिधित्व करती है। इंग्लैंड और ऑस्ट्रेलिया 1877 में टेस्ट मैच खेलने वाली पहली टीमें थीं। ",
+  "translations": [
+    {
+      "lang": "en",
+      "title": "England cricket team",
+      "url": "/read/en/england_cricket_team"
+    },
+    {
+      "lang": "ta",
+      "title": "இங்கிலாந்து கிரிக்கெட் அணி",
+      "url": "/read/ta/england_cricket_team"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Location",
+          "value": {
+            "label": "इंगलैंड"
+          }
+        },
+        {
+          "label": "Established on",
+          "value": {
+            "label": "1877"
+          }
+        },
+        {
+          "label": "Association",
+          "value": {
+            "label": "इंग्लैंड और वेल्स क्रिकेट बोर्ड"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Roles",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "label": "Test Captain",
+          "value": {
+            "label": "जो रूट",
+            "url": null,
+            "image": {
+              "url": "/static/images/england_cricket_team/England_Cricket_Team_-_The_Ashes_Trent_Bridge_2015_%2820417951192%29_%28root_cropped%29_%28cropped%29.jpg",
+              "altText": "Image of जो रूट",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "ODI Captain",
+          "value": {
+            "label": "इयोन मॉर्गन",
+            "url": null,
+            "image": {
+              "url": "/static/images/england_cricket_team/Eoin_Morgan_2013.jpg",
+              "altText": "Image of इयोन मॉर्गन"
+            }
+          }
+        },
+        {
+          "label": "T20I Captain",
+          "value": {
+            "label": "इयोन मॉर्गन",
+            "url": null,
+            "image": {
+              "url": "/static/images/england_cricket_team/Eoin_Morgan_2013.jpg",
+              "altText": "Image of इयोन मॉर्गन"
+            }
+          }
+        },
+        {
+          "label": "Coach",
+          "value": {
+            "label": "https://en.wikipedia.org/wiki/Trevor_Bayliss",
+            "url": "/read/hi/ricky_ponting",
+            "image": {
+              "url": "",
+              "altText": "Image of https://en.wikipedia.org/wiki/Trevor_Bayliss"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Popular Venue",
+      "id": "r4-लॉर्ड्स",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "लॉर्ड्स",
+          "value": {
+            "label": "व्यापक रूप से होम ऑफ क्रिकेट के रूप में जाना जाने वाला यह मिडलसेक्स काउंटी क्रिकेट क्लब, इंग्लैंड एंड वेल्स क्रिकेट बोर्ड (ईसीबी), और यूरोपीय क्रिकेट परिषद (ईसीसी) का घर है।",
+            "image": {
+              "url": "/static/images/england_cricket_team/Lords-Cricket-Ground-Pavilion-06-08-2017.jpg",
+              "altText": "Image of लॉर्ड्स"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "प्रारंभिक भ्रमण",
+          "id": 3,
+          "note": "1859-1880",
+          "value": {
+            "label": "पहला विदेशी दौरा सितंबर 1859 में इंग्लैंड ने उत्तरी अमेरिका के दौरे के साथ किया। इस टीम में ऑल-इंग्लैंड इलेवन के छह खिलाड़ी थे, यूनाइटेड ऑल-इंग्लैंड इलेवन के छह और इसके कप्तान जॉर्ज पार्र थे।\r\n\r\n1880 में अंग्रेजी धरती पर इंग्लैंड ने अपना पहला टेस्ट मैच जीता; यह पहली बार था जब इंग्लैंड ने  अपनी पूरी प्रतिनिधिक टीम को मैदान पर उतारा,इस टीम में डब्ल्यू. जी. ग्रेस भी शामिल थे।",
+            "facts": []
+          }
+        },
+        {
+          "label": "1970 का समय",
+          "id": 3,
+          "note": "1970-1980",
+          "value": {
+            "label": "1970 के दशक को इंग्लैंड टीम के लिए मोटे तौर पर तीन भागों में विभाजित किया जा सकता है। 70 के दशक के शुरुआती दिनों में रे इलिंगवर्थ के दल का विश्व क्रिकेट में दबदबा था। 1970 के दशक के मध्य में वे बड़े अधिक असंतुलित थे। इंग्लैंड की टीम बढती उम्र और तेज गेंदबाजी की कमी 1974-75 में ऑस्ट्रेलियाई खिलाड़ियों के खिलाफ बुरी तरह से उजागर हुई जहाँ वे एशेज श्रृंखला 4-1 से हार गये। 1977-80 के टीम में कुछ युवा खिलाड़ी थे जो बाद में इंग्लैंड के महान खिलाड़ी बने,",
+            "facts": []
+          }
+        },
+        {
+          "label": "2000 के दशक",
+          "id": 3,
+          "note": "2000-2010",
+          "value": {
+            "label": "माइकल वॉन ने खिलाड़ियों के साथ खुद को व्यक्त करने के लिए प्रोत्साहित किया। इंग्लैंड ने 2005 की एशेज श्रृंखला में ऑस्ट्रेलिया का सामना करने से पहले लगातार पांच टेस्ट सीरीज जीती, जिससे टीम आईसीसी टेस्ट चैम्पियनशिप तालिका में दूसरे स्थान पर रही।\r\n\r\n2009 एशेज सीरीज़ का पहला टेस्ट मैच वेल्स के सोफिया गार्डन, कार्डिफ़ में खेला गया था। गेंदबाज जेम्स एंडरसन और मोंटी पनेसर के आखिरी विकेट के साझेदारी की बदौलत इंग्लैंड ने मैच ड्रॉ कराया। ओवल में श्रृंखला का फैसला होने से पहले प्रत्येक टीम ने एक जीत दर्ज़ की थी। स्टुअर्ट ब्रॉड और ग्रीम स्वान की उम्दा गेंदबाजी और जोनाथन ट्रॉट के डेब्यू शतक की बदौलत इंग्लैंड ने एशेज हासिल किया। ”",
+            "facts": []
+          }
+        },
+        {
+          "label": "2010 का दशक",
+          "id": 3,
+          "note": "2010 - वर्तमान",
+          "value": {
+            "label": "इंग्लैंड ने अपना पहला आईसीसी विश्व चैंपियनशिप 2010 में बारबाडोस में ऑस्ट्रेलिया पर सात विकेट से जीत के साथ विश्व ट्वेंटी 20 के रूप में जीता।\r\n\r\nआईसीसी चैंपियंस ट्रॉफी को उपविजेता के रूप में समाप्त करने के बाद, इंग्लैंड ने एक के बाद एक एशेज श्रृंखला में ऑस्ट्रेलिया का सामना किया। 3-0 की घरेलू जीत ने इंग्लैंड को पांच सीरीज में चौथी बार ट्रॉफी दिला दिया। हालांकि वापसी श्रृंखला में वे  5-0 की हार से पूरी तरह से ध्वस्त हो गए, एक दशक में यह उनका दूसरा एशेज व्हाइटवॉश था। ",
+            "facts": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Famous Players",
+      "cardType": "stories",
+      "facts": []
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "list_card",
+      "facts": []
+    },
+    {
+      "title": "Sponsors",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "value": {
+            "label": "किट निर्माता",
+            "url": null,
+            "image": {
+              "altText": "Image of किट निर्माता"
+            }
+          }
+        },
+        {
+          "label": "शर्ट प्रायोजक",
+          "value": {
+            "label": "नेटवेस्ट",
+            "url": null,
+            "image": {
+              "altText": "Image of नेटवेस्ट"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -8,14 +8,14 @@
   "summary": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
   "translations": [
     {
+      "lang": "en",
+      "title": "South Africa national cricket team",
+      "url": "/read/en/south_africa_national_cricket_team"
+    },
+    {
       "lang": "hi",
       "title": "दक्षिण अफ्रीका की राष्ट्रीय क्रिकेट टीम",
       "url": "/read/hi/south_africa_national_cricket_team"
-    },
-    {
-      "lang": "ta",
-      "title": "South Africa national cricket team",
-      "url": "/read/ta/south_africa_national_cricket_team"
     }
   ],
   "sections": [
@@ -85,7 +85,7 @@
           "label": "Coach",
           "value": {
             "label": "Ottis Gibson",
-            "url": "/read/en/ottis_gibson",
+            "url": "/read/ta/ottis_gibson",
             "image": {
               "url": "",
               "altText": "Image of Ottis Gibson"
@@ -156,96 +156,12 @@
     {
       "title": "Famous Players",
       "cardType": "stories",
-      "facts": [
-        {
-          "label": "Hashim Amla",
-          "id": "hashim_amla",
-          "value": {
-            "url": null,
-            "label": "Hashim Mohammad Amla is a South African international cricketer who plays for South Africa in all three formats of the game. He is a right-handed batsman and holds the record for the highest individual Test score of any South African batsman.",
-            "image": {
-              "url": "/static/images/south_africa_national_cricket_team/Hashim_Amla.jpg",
-              "altText": "Image of Hashim Amla"
-            }
-          }
-        },
-        {
-          "label": "Quinton de Kock",
-          "id": "quinton_de_kock",
-          "value": {
-            "url": null,
-            "label": "Quinton de Kock is a South African professional cricketer. He also plays for Mumbai Indians in Indian Premier League. He was named the Cricketer of the Year at Cricket South Africa's 2017 Annual Awards.",
-            "image": {
-              "url": "/static/images/south_africa_national_cricket_team/QUINTON_DE_KOCK_%2815681398316%29.jpg",
-              "altText": "Image of Quinton de Kock",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
-            }
-          }
-        },
-        {
-          "label": "David Miller",
-          "id": "david_miller",
-          "value": {
-            "url": null,
-            "label": "David Miller is the former captain of the Kings XI Punjab in the Indian Premier League (IPL) and represents South Africa in both One Day Internationals (ODIs) and Twenty20 Internationals.",
-            "image": {
-              "url": "/static/images/south_africa_national_cricket_team/DAVID_MILLER_%2815704846295%29.jpg",
-              "altText": "Image of David Miller",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
-            }
-          }
-        },
-        {
-          "label": "JP Duminy",
-          "id": "jp_duminy",
-          "value": {
-            "url": null,
-            "label": "Jean-Paul Duminy, often shortened to JP Duminy, is an international South African cricketer. He is vice-captain of the South Africa T20I team. He plays for the IPL cricket team Mumbai Indians.",
-            "image": {
-              "url": "/static/images/south_africa_national_cricket_team/JP_DUMINY_%2815681037986%29.jpg",
-              "altText": "Image of JP Duminy",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
-            }
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "Achievements & Records",
       "cardType": "list_card",
-      "facts": [
-        {
-          "label": "ICC Champions Trophy",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "South Africa won the 1998 ICC Champions Trophy",
-            "facts": []
-          }
-        },
-        {
-          "label": "2003 Cricket World Cup",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "South Africa hosted the 2003 Cricket World Cup",
-            "facts": [
-              {
-                "label": "2003 Cricket World Cup",
-                "id": "2003_cricket_world_cup-",
-                "url": "/read/en/2003_cricket_world_cup",
-                "value": {
-                  "label": "The 2003 Cricket World Cup was the eighth Cricket World Cup, organized by the International Cricket Council (ICC). It was co-hosted by South Africa, Zimbabwe and Kenya.",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2003 Cricket World Cup"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "Sponsors",
@@ -256,7 +172,9 @@
           "value": {
             "label": "New Balance",
             "url": null,
-            "image": null
+            "image": {
+              "altText": "Image of New Balance"
+            }
           }
         },
         {
@@ -265,7 +183,6 @@
             "label": "Standard Bank",
             "url": null,
             "image": {
-              "url": "/static/images/south_africa_national_cricket_team/Standard_Bank_SA_logo.svg",
               "altText": "Image of Standard Bank"
             }
           }
