@@ -7,7 +7,8 @@ const { exportEventsIndividual } = require("./export_events_individual");
 
 exportIdAndUrlMaps();
 exportPersonalities();
-exportHome();
 exportTeams();
 exportPlaces();
 exportEventsIndividual();
+
+exportHome();
