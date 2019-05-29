@@ -97,6 +97,67 @@
           }
         }
       ]
+    },
+    {
+      "title": "Statistics",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Man of the series",
+          "id": "man_of_the_series",
+          "value": {
+            "label": "யுவராஜ் சிங், இந்தியா, பாகிஸ்தான்",
+            "image": {
+              "altText": "Picture of யுவராஜ் சிங்",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "Most runs scored/ Orange cap",
+          "id": "most_runs_scored/_orange_cap",
+          "value": {
+            "label": "திலகரத்ன தில்சான், இந்தியா, பாகிஸ்தான்",
+            "image": {
+              "altText": "Picture of திலகரத்ன தில்சான்",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "Most wickets taken/ purple cap",
+          "id": "most_wickets_taken/_purple_cap",
+          "value": {
+            "label": "ஜாஹீர் கான், சாகித் அஃபிரிடி, இந்தியா, பாகிஸ்தான்",
+            "image": {
+              "altText": "Picture of ஜாஹீர் கான், சாகித் அஃபிரிடி",
+              "license": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Final Positions",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Champion",
+          "id": "final-positions-champion",
+          "value": {
+            "label": "",
+            "facts": []
+          }
+        },
+        {
+          "label": "Runner-up",
+          "id": "final-positions-runner-up",
+          "value": {
+            "label": "",
+            "facts": []
+          }
+        }
+      ]
     }
   ]
 }

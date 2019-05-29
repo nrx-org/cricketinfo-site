@@ -85,6 +85,93 @@
           }
         }
       ]
+    },
+    {
+      "title": "Statistics",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Man of the series",
+          "id": "man_of_the_series",
+          "value": {
+            "label": "Sachin Tendulkar, Sri Lanka",
+            "image": {
+              "altText": "Picture of Sachin Tendulkar",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "Most runs scored/ Orange cap",
+          "id": "most_runs_scored/_orange_cap",
+          "value": {
+            "label": "Sachin Tendulkar, Sri Lanka",
+            "image": {
+              "altText": "Picture of Sachin Tendulkar",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "Most wickets taken/ purple cap",
+          "id": "most_wickets_taken/_purple_cap",
+          "value": {
+            "label": "Chaminda Vaas, Sri Lanka",
+            "image": {
+              "altText": "Picture of Chaminda Vaas",
+              "license": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Final Positions",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Champion",
+          "id": "final-positions-champion",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Australia Cricket team",
+                "url": "/read/en/australia_cricket_team",
+                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "value": {
+                  "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+                  "image": {
+                    "url": "/static/images/2003_cricket_world_cup/Australia_cricket_logo.svg",
+                    "altText": "Picture of Australia Cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Runner-up",
+          "id": "final-positions-runner-up",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India national cricket team",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "value": {
+                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
+                  "image": {
+                    "url": "/static/images/2003_cricket_world_cup/Cricket_India_Crest.svg",
+                    "altText": "Picture of Australia Cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }

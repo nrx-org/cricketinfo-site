@@ -85,6 +85,67 @@
           }
         }
       ]
+    },
+    {
+      "title": "Statistics",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Man of the series",
+          "id": "man_of_the_series",
+          "value": {
+            "label": "1983 में मैन ऑफ द सीरीज़ नहीं दिया गया, भारत",
+            "image": {
+              "url": "",
+              "altText": "Picture of 1983 में मैन ऑफ द सीरीज़ नहीं दिया गया"
+            }
+          }
+        },
+        {
+          "label": "Most runs scored/ Orange cap",
+          "id": "most_runs_scored/_orange_cap",
+          "value": {
+            "label": "डेविड गावर, भारत",
+            "image": {
+              "altText": "Picture of डेविड गावर",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "Most wickets taken/ purple cap",
+          "id": "most_wickets_taken/_purple_cap",
+          "value": {
+            "label": "रोजर बिन्नी, भारत",
+            "image": {
+              "altText": "Picture of रोजर बिन्नी",
+              "license": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Final Positions",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Champion",
+          "id": "final-positions-champion",
+          "value": {
+            "label": "",
+            "facts": []
+          }
+        },
+        {
+          "label": "Runner-up",
+          "id": "final-positions-runner-up",
+          "value": {
+            "label": "",
+            "facts": []
+          }
+        }
+      ]
     }
   ]
 }

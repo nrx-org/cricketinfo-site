@@ -97,6 +97,69 @@
           }
         }
       ]
+    },
+    {
+      "title": "Statistics",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Man of the series",
+          "id": "man_of_the_series",
+          "value": {
+            "label": "Ben Stokes, India",
+            "image": {
+              "url": "/static/images/2017_indian_premier_league/BEN_STOKES_%2811704837023%29_%28cropped%29.jpg",
+              "altText": "Picture of Ben Stokes",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Most runs scored/ Orange cap",
+          "id": "most_runs_scored/_orange_cap",
+          "value": {
+            "label": "David Warner, India",
+            "image": {
+              "url": "/static/images/2017_indian_premier_league/DAVID_WARNER_%2811704782453%29.jpg",
+              "altText": "Picture of David Warner",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Most wickets taken/ purple cap",
+          "id": "most_wickets_taken/_purple_cap",
+          "value": {
+            "label": "Bhuvneshwar Kumar, India",
+            "image": {
+              "url": "/static/images/2017_indian_premier_league/Bhuvneshwar_Kumar.jpg",
+              "altText": "Picture of Bhuvneshwar Kumar"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Final Positions",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Champion",
+          "id": "final-positions-champion",
+          "value": {
+            "label": "",
+            "facts": []
+          }
+        },
+        {
+          "label": "Runner-up",
+          "id": "final-positions-runner-up",
+          "value": {
+            "label": "",
+            "facts": []
+          }
+        }
+      ]
     }
   ]
 }

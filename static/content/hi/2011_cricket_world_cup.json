@@ -97,6 +97,67 @@
           }
         }
       ]
+    },
+    {
+      "title": "Statistics",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Man of the series",
+          "id": "man_of_the_series",
+          "value": {
+            "label": "युवराज सिंह, भारत, पाकिस्तान",
+            "image": {
+              "altText": "Picture of युवराज सिंह",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "Most runs scored/ Orange cap",
+          "id": "most_runs_scored/_orange_cap",
+          "value": {
+            "label": "तिलकरत्ने दिलशान, भारत, पाकिस्तान",
+            "image": {
+              "altText": "Picture of तिलकरत्ने दिलशान",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "Most wickets taken/ purple cap",
+          "id": "most_wickets_taken/_purple_cap",
+          "value": {
+            "label": "जहीर खान, शाहिद अफरीदी, भारत, पाकिस्तान",
+            "image": {
+              "altText": "Picture of जहीर खान, शाहिद अफरीदी",
+              "license": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Final Positions",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Champion",
+          "id": "final-positions-champion",
+          "value": {
+            "label": "",
+            "facts": []
+          }
+        },
+        {
+          "label": "Runner-up",
+          "id": "final-positions-runner-up",
+          "value": {
+            "label": "",
+            "facts": []
+          }
+        }
+      ]
     }
   ]
 }

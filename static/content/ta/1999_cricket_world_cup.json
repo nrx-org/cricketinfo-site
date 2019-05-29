@@ -85,6 +85,67 @@
           }
         }
       ]
+    },
+    {
+      "title": "Statistics",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Man of the series",
+          "id": "man_of_the_series",
+          "value": {
+            "label": "லான்ஸ் குளுசுனர், நியூசிலாந்து; ஆஸ்திரேலியா",
+            "image": {
+              "altText": "Picture of லான்ஸ் குளுசுனர்",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "Most runs scored/ Orange cap",
+          "id": "most_runs_scored/_orange_cap",
+          "value": {
+            "label": "ராகுல் டிராவிட், நியூசிலாந்து; ஆஸ்திரேலியா",
+            "image": {
+              "altText": "Picture of ராகுல் டிராவிட்",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "Most wickets taken/ purple cap",
+          "id": "most_wickets_taken/_purple_cap",
+          "value": {
+            "label": "ஜியாஃப் ஆல்லாட்; ஷேன் வார்னெ, நியூசிலாந்து; ஆஸ்திரேலியா",
+            "image": {
+              "altText": "Picture of ஜியாஃப் ஆல்லாட்; ஷேன் வார்னெ",
+              "license": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Final Positions",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Champion",
+          "id": "final-positions-champion",
+          "value": {
+            "label": "",
+            "facts": []
+          }
+        },
+        {
+          "label": "Runner-up",
+          "id": "final-positions-runner-up",
+          "value": {
+            "label": "",
+            "facts": []
+          }
+        }
+      ]
     }
   ]
 }

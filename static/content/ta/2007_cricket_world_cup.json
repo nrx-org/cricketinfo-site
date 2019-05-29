@@ -85,6 +85,67 @@
           }
         }
       ]
+    },
+    {
+      "title": "Statistics",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Man of the series",
+          "id": "man_of_the_series",
+          "value": {
+            "label": "கிளென் மெக்ராத், ஆஸ்திரேலியா",
+            "image": {
+              "altText": "Picture of கிளென் மெக்ராத்",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "Most runs scored/ Orange cap",
+          "id": "most_runs_scored/_orange_cap",
+          "value": {
+            "label": "மேத்யூ ஹெய்டன், ஆஸ்திரேலியா",
+            "image": {
+              "altText": "Picture of மேத்யூ ஹெய்டன்",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "Most wickets taken/ purple cap",
+          "id": "most_wickets_taken/_purple_cap",
+          "value": {
+            "label": "கிளென் மெக்ராத், ஆஸ்திரேலியா",
+            "image": {
+              "altText": "Picture of கிளென் மெக்ராத்",
+              "license": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Final Positions",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Champion",
+          "id": "final-positions-champion",
+          "value": {
+            "label": "",
+            "facts": []
+          }
+        },
+        {
+          "label": "Runner-up",
+          "id": "final-positions-runner-up",
+          "value": {
+            "label": "",
+            "facts": []
+          }
+        }
+      ]
     }
   ]
 }

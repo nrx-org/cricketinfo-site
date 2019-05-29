@@ -53,5 +53,10 @@ module.exports.teamUIStrings = {
     en: "Sponsors",
     hi: "Sponsors",
     ta: "Sponsors"
+  },
+  statisticsSectionTitle: {
+    en: "Statistics",
+    hi: "Statistics",
+    ta: "Statistics"
   }
-}
+};

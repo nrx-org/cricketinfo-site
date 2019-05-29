@@ -97,6 +97,93 @@
           }
         }
       ]
+    },
+    {
+      "title": "Statistics",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Man of the series",
+          "id": "man_of_the_series",
+          "value": {
+            "label": "Lasith Malinga, India",
+            "image": {
+              "altText": "Picture of Lasith Malinga",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "Most runs scored/ Orange cap",
+          "id": "most_runs_scored/_orange_cap",
+          "value": {
+            "label": "Sachin Tendulkar, India",
+            "image": {
+              "altText": "Picture of Sachin Tendulkar",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "Most wickets taken/ purple cap",
+          "id": "most_wickets_taken/_purple_cap",
+          "value": {
+            "label": "Pragyan Ojha, India",
+            "image": {
+              "altText": "Picture of Pragyan Ojha",
+              "license": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Final Positions",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Champion",
+          "id": "final-positions-champion",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Chennai Super Kings",
+                "url": "/read/en/chennai_super_kings",
+                "contentUrl": "/static/content/en/chennai_super_kings.json",
+                "value": {
+                  "label": "Founded in 2008, The Chennai Super Kings (CSK) is an Indian franchise cricket team based in Chennai, Tamil Nadu, which plays in the Indian Premier League (IPL).",
+                  "image": {
+                    "url": "/static/images/2010_indian_premier_league/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Picture of Chennai Super Kings"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Runner-up",
+          "id": "final-positions-runner-up",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Mumbai Indians",
+                "url": "/read/en/mumbai_indians",
+                "contentUrl": "/static/content/en/mumbai_indians.json",
+                "value": {
+                  "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
+                  "image": {
+                    "url": "/static/images/2010_indian_premier_league/Mumbai_Indians_Logo.svg",
+                    "altText": "Picture of Chennai Super Kings"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }
