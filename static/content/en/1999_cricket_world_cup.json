@@ -85,6 +85,93 @@
           }
         }
       ]
+    },
+    {
+      "title": "Statistics",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Man of the series",
+          "id": "man_of_the_series",
+          "value": {
+            "label": "Lance Klusener, New Zealand; Australia",
+            "image": {
+              "altText": "Picture of Lance Klusener",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "Most runs scored/ Orange cap",
+          "id": "most_runs_scored/_orange_cap",
+          "value": {
+            "label": "Rahul Dravid, New Zealand; Australia",
+            "image": {
+              "altText": "Picture of Rahul Dravid",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "Most wickets taken/ purple cap",
+          "id": "most_wickets_taken/_purple_cap",
+          "value": {
+            "label": "Geoff Allott; Shane Warne, New Zealand; Australia",
+            "image": {
+              "altText": "Picture of Geoff Allott; Shane Warne",
+              "license": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Final Positions",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Champion",
+          "id": "final-positions-champion",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Australia Cricket team",
+                "url": "/read/en/australia_cricket_team",
+                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "value": {
+                  "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+                  "image": {
+                    "url": "/static/images/1999_cricket_world_cup/Australia_cricket_logo.svg",
+                    "altText": "Picture of Australia Cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Runner-up",
+          "id": "final-positions-runner-up",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Pakistan national cricket team",
+                "url": "/read/en/pakistan_national_cricket_team",
+                "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
+                "value": {
+                  "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
+                  "image": {
+                    "url": "/static/images/1999_cricket_world_cup/PakistanCricketLogo.png",
+                    "altText": "Picture of Australia Cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }

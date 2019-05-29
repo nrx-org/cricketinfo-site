@@ -7,6 +7,7 @@ const {
   getCardInfoFromId
 } = require("./lib");
 const idMap = require("../static/content/article_ids.json");
+const { teamUIStrings } = require("./ui_strings");
 
 const csvExports = {
   en: { path: "./csv/events_individual.en.csv" },
@@ -41,6 +42,27 @@ const HOSTS = [
     ID_KEY: "Host 3 Card"
   }
 ];
+
+const STATISTICS = [
+  {
+    STATISTIC_KEY: "Man of the series",
+    IMAGE_KEY: "Link to the player's image",
+    COUNTRY_KEY: "Country"
+  },
+  {
+    STATISTIC_KEY: "Most runs scored/ Orange cap",
+    IMAGE_KEY: "Link to player's image ",
+    COUNTRY_KEY: "Country"
+  },
+  {
+    STATISTIC_KEY: "Most wickets taken/ purple cap",
+    IMAGE_KEY: "Link to the players image",
+    COUNTRY_KEY: "Country"
+  }
+];
+
+const FINAL_CHAMPION_KEY = "Champion Card ID";
+const FINAL_RUNNER_UP_KEY = "Runner Up Card ID";
 
 module.exports.exportEventsIndividual = () => {
   Object.keys(csvExports).forEach(lang => {
@@ -189,8 +211,121 @@ module.exports.exportEventsIndividual = () => {
       // Tournament history.
 
       // Statistics.
+      let statisticsFacts = await Promise.all(
+        STATISTICS.map(async stat => {
+          if (!record[stat.STATISTIC_KEY]) {
+            return null;
+          }
+
+          return {
+            label: stat.STATISTIC_KEY,
+            id: getSluggedTitle(stat.STATISTIC_KEY),
+            value: {
+              label: `${record[stat.STATISTIC_KEY]}, ${
+                record[stat.COUNTRY_KEY]
+              }`,
+              image: await downloadImageAndFillAttributions(
+                {
+                  url: record[stat.IMAGE_KEY],
+                  altText: `Picture of ${record[stat.STATISTIC_KEY]}`
+                },
+                englishSlug
+              )
+            }
+          };
+        })
+      );
+      statisticsFacts = statisticsFacts.filter(f => !!f);
+
+      if (statisticsFacts.length > 0) {
+        event.sections.push({
+          title: teamUIStrings.statisticsSectionTitle[lang],
+          cardType: "stories",
+          facts: statisticsFacts
+        });
+      }
 
       // Final positions.
+      const finalChampionCard = getCardInfoFromId(
+        idMap,
+        record[FINAL_CHAMPION_KEY],
+        lang
+      );
+
+      let finalChampionImage = null;
+
+      if (finalChampionCard) {
+        finalChampionImage = await downloadImageAndFillAttributions(
+          {
+            url: finalChampionCard.imageUrl,
+            altText: `Picture of ${finalChampionCard.title}`
+          },
+          englishSlug
+        );
+      }
+
+      const finalRunnerUpCard = getCardInfoFromId(
+        idMap,
+        record[FINAL_RUNNER_UP_KEY],
+        lang
+      );
+
+      let finalRunnerUpImage = null;
+
+      if (finalRunnerUpCard) {
+        finalRunnerUpImage = await downloadImageAndFillAttributions(
+          {
+            url: finalRunnerUpCard.imageUrl,
+            altText: `Picture of ${finalChampionCard.title}`
+          },
+          englishSlug
+        );
+      }
+
+      const finalPositionsSection = {
+        title: "Final Positions",
+        cardType: "list_card",
+        facts: [
+          {
+            label: "Champion",
+            id: "final-positions-champion",
+            value: {
+              label: "",
+              facts: [
+                finalChampionCard && {
+                  label: finalChampionCard.title,
+                  url: finalChampionCard.url,
+                  contentUrl: finalChampionCard.contentUrl,
+                  value: {
+                    label: finalChampionCard.summary,
+                    image: finalChampionImage
+                  }
+                }
+              ].filter(f => !!f)
+            }
+          },
+          {
+            label: "Runner-up",
+            id: "final-positions-runner-up",
+            value: {
+              label: "",
+              facts: [
+                finalRunnerUpCard && {
+                  label: finalRunnerUpCard.title,
+                  url: finalRunnerUpCard.url,
+                  contentUrl: finalRunnerUpCard.contentUrl,
+                  value: {
+                    label: finalRunnerUpCard.summary,
+                    image: finalRunnerUpImage
+                  }
+                }
+              ].filter(f => !!f)
+            }
+          }
+        ]
+      };
+
+      event.sections.push(finalPositionsSection);
 
       fs.writeFileSync(
         `./static/content/${lang}/${englishSlug}.json`,

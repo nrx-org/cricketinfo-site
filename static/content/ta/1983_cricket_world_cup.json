@@ -85,6 +85,67 @@
           }
         }
       ]
+    },
+    {
+      "title": "Statistics",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Man of the series",
+          "id": "man_of_the_series",
+          "value": {
+            "label": "1983-இல் மேன் ஆஃப் தி சீரிஸ் விருது வழங்கப்படவில்லை, இந்தியா",
+            "image": {
+              "url": "",
+              "altText": "Picture of 1983-இல் மேன் ஆஃப் தி சீரிஸ் விருது வழங்கப்படவில்லை"
+            }
+          }
+        },
+        {
+          "label": "Most runs scored/ Orange cap",
+          "id": "most_runs_scored/_orange_cap",
+          "value": {
+            "label": "டேவிட் கோவர், இந்தியா",
+            "image": {
+              "altText": "Picture of டேவிட் கோவர்",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "Most wickets taken/ purple cap",
+          "id": "most_wickets_taken/_purple_cap",
+          "value": {
+            "label": "ரோஜர் பின்னி, இந்தியா",
+            "image": {
+              "altText": "Picture of ரோஜர் பின்னி",
+              "license": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Final Positions",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Champion",
+          "id": "final-positions-champion",
+          "value": {
+            "label": "",
+            "facts": []
+          }
+        },
+        {
+          "label": "Runner-up",
+          "id": "final-positions-runner-up",
+          "value": {
+            "label": "",
+            "facts": []
+          }
+        }
+      ]
     }
   ]
 }
