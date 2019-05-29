@@ -18,7 +18,11 @@ const findIdMapEntryById = (idMap, id) => {
   return idMap.find(entry => entry.id === id);
 };
 
-const getSluggedTitle = str => str.replace(/\s+/g, "_").toLowerCase();
+const getSluggedTitle = str =>
+  str
+    .trim()
+    .replace(/\s+/g, "_")
+    .toLowerCase();
 
 const makeArticleUrl = (lang, slug) => `/read/${lang}/${slug}`;
 
@@ -30,9 +34,9 @@ const findIdMapEntryByTitle = (idMap, title, lang) => {
   );
 };
 
-const getFileNameFromURL = url => {
-  if (!url) return null;
-  const filename = url.match(/File:(.*)/);
+const getFileNameFromURL = inputUrl => {
+  if (!inputUrl) return null;
+  const filename = inputUrl.match(/File:(.*)/);
   if (filename) return filename[1];
   return null;
 };

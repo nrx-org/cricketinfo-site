@@ -9,7 +9,7 @@
   "translations": [
     {
       "lang": "en",
-      "title": "2015 cricket world cup",
+      "title": "2015 Cricket World Cup",
       "url": "/read/en/2015_cricket_world_cup"
     },
     {
@@ -18,5 +18,86 @@
       "url": "/read/hi/2015_cricket_world_cup"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "14 February–29 March"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "இந்தியா (2வது டைட்டில்)",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "நியூசிலாந்து",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "14"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_2015_cricket_world_cup",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "ஆஸ்திரேலியா",
+                "url": "/read/ta/australia",
+                "contentUrl": "/static/content/ta/australia.json",
+                "value": {
+                  "label": "ஆஸ்திரேலியாவானது, அதிகாரப்பூர்வமாக ஆஸ்திரேலியா காமன்வெல்த் என்று அழைக்கப்படுகிறது, தாஸ்மேனியா தீவு மற்றும் பல சிறிய தீவுகளை உள்ளடக்கிய இது ஆஸ்திரேலியக் கண்டத்தின் முக்கிய நிலப்பகுதியைக் கொண்டுள்ள இறையாண்மை நாடாகும்.",
+                  "image": {
+                    "url": "/static/images/2015_cricket_world_cup/Flag_of_Australia_%28converted%29.svg",
+                    "altText": "ஆஸ்திரேலியா",
+                    "license": ""
+                  }
+                }
+              },
+              {
+                "label": "நியூசிலாந்து",
+                "url": "/read/ta/new_zealand",
+                "contentUrl": "/static/content/ta/new_zealand.json",
+                "value": {
+                  "label": "நியூசிலாந்து தென்மேற்கு பசிபிக் பெருங்கடலில் அருகிலுள்ள ஒரு இறையாண்மை தீவாகும். இது பூகோள ரீதியாக இரண்டு முக்கிய நிலப்பரப்புகளையும் சுமார் 600 சிறிய தீவுகளையும் கொண்டுள்ளது. நியூசிலாந்து ஆஸ்திரேலியாவிலிருந்து ஏறத்தாழ 2,000 கிலோமீட்டர் கிழக்கில் அமைந்துள்ளது.",
+                  "image": {
+                    "url": "/static/images/2015_cricket_world_cup/Lake_Gunn.jpg",
+                    "altText": "நியூசிலாந்து"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }

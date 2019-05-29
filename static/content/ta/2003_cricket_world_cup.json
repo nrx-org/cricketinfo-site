@@ -9,7 +9,7 @@
   "translations": [
     {
       "lang": "en",
-      "title": "2003 cricket world cup",
+      "title": "2003 Cricket World Cup",
       "url": "/read/en/2003_cricket_world_cup"
     },
     {
@@ -18,5 +18,73 @@
       "url": "/read/hi/2003_cricket_world_cup"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "9 February–23 March"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "ஆஸ்திரேலியா (2வது டைட்டில்)",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "இந்தியா",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "14"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_2003_cricket_world_cup",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "தென்னாப்பிரிக்கா",
+                "url": "/read/ta/south_africa",
+                "contentUrl": "/static/content/ta/south_africa.json",
+                "value": {
+                  "label": "ஆப்பிரிக்காவின் தெற்குப்பகுதியில் அமைந்துள்ள தென் ஆப்பிரிக்கா, அதிகாரப்பூர்வமாக தென்னாப்பிரிக்க குடியரசு (RSA) என அழைக்கப்படுகிறது. ",
+                  "image": {
+                    "url": "/static/images/2003_cricket_world_cup/MapungubweHill.jpg",
+                    "altText": "தென்னாப்பிரிக்கா"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }

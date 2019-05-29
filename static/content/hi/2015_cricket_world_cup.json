@@ -9,7 +9,7 @@
   "translations": [
     {
       "lang": "en",
-      "title": "2015 cricket world cup",
+      "title": "2015 Cricket World Cup",
       "url": "/read/en/2015_cricket_world_cup"
     },
     {
@@ -18,5 +18,86 @@
       "url": "/read/ta/2015_cricket_world_cup"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "14 February–29 March"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "ऑस्ट्रेलिया (पांचवां खिताब)",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "न्यूजीलैंड",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "14"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_2015_cricket_world_cup",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "ऑस्ट्रेलिया",
+                "url": "/read/hi/australia",
+                "contentUrl": "/static/content/hi/australia.json",
+                "value": {
+                  "label": "ऑस्ट्रेलिया, आधिकारिक तौर पर ऑस्ट्रेलिया का राष्ट्रमंडल, एक संप्रभु देश है जिसमें ऑस्ट्रेलियाई महाद्वीप की मुख्य भूमि, तस्मानिया द्वीप और कई छोटे द्वीप शामिल हैं।",
+                  "image": {
+                    "url": "/static/images/2015_cricket_world_cup/Flag_of_Australia_%28converted%29.svg",
+                    "altText": "ऑस्ट्रेलिया",
+                    "license": ""
+                  }
+                }
+              },
+              {
+                "label": "न्यूजीलैंड",
+                "url": "/read/hi/new_zealand",
+                "contentUrl": "/static/content/hi/new_zealand.json",
+                "value": {
+                  "label": "न्यूजीलैंड दक्षिण पश्चिमी प्रशांत महासागर में एक संप्रभु द्वीप देश है। भौगोलिक रूप से देश में दो मुख्य भूभाग और लगभग 600 छोटे द्वीप हैं। न्यूजीलैंड ऑस्ट्रेलिया से लगभग 2,000 किलोमीटर पूर्व में स्थित है।",
+                  "image": {
+                    "url": "/static/images/2015_cricket_world_cup/Lake_Gunn.jpg",
+                    "altText": "न्यूजीलैंड"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }

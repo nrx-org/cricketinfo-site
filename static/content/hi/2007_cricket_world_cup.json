@@ -9,7 +9,7 @@
   "translations": [
     {
       "lang": "en",
-      "title": "2007 cricket world cup",
+      "title": "2007 Cricket World Cup",
       "url": "/read/en/2007_cricket_world_cup"
     },
     {
@@ -18,5 +18,73 @@
       "url": "/read/ta/2007_cricket_world_cup"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "13 March–28 April"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "ऑस्ट्रेलिया (चौथा खिताब)",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "श्रीलंका",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "16"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_2007_cricket_world_cup",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "अयोध्या",
+                "url": "/read/hi/ayodhya",
+                "contentUrl": "/static/content/hi/ayodhya.json",
+                "value": {
+                  "label": "अयोध्या उत्तर प्रदेश के फैजाबाद जिले में स्थित एक शहर है। इस शहर की पहचान अयोध्या के पौराणिक शहर से की जाती है, और इस तरह, राम की जन्मभूमि और महाकाव्य रामायण का स्थल है।",
+                  "image": {
+                    "url": "/static/images/2007_cricket_world_cup/Kanak_Bhawan.jpg",
+                    "altText": "अयोध्या"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }

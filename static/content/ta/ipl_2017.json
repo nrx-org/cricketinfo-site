@@ -1,0 +1,63 @@
+{
+  "title": "2017 Indian Premier League",
+  "summary": "The 2017 season of the Indian Premier League, also known as IPL 10 and branded as Vivo IPL 2017, was the tenth edition of the IPL",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/2017_Indian_Premier_League",
+  "coverImage": {
+    "altText": "Image of 2017 Indian Premier League",
+    "license": ""
+  },
+  "translations": [
+    {
+      "lang": "en",
+      "title": "IPL 2017",
+      "url": "/read/en/ipl_2017"
+    },
+    {
+      "lang": "hi",
+      "title": "2017 Indian Premier League",
+      "url": "/read/hi/ipl_2017"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "14 February–29 March"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "Mumbai Indians (3rd title)",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "Rising Pune Supergiants",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "8"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -18,5 +18,85 @@
       "url": "/read/ta/2010_indian_premier_league"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "12 March –25 April"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "Chennai Super Kings (1st title)",
+            "url": "/read/en/chennai_super_kings",
+            "contentUrl": "/static/content/en/chennai_super_kings.json"
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "Mumbai Indians",
+            "url": "/read/en/mumbai_indians",
+            "contentUrl": "/static/content/en/mumbai_indians.json"
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "8"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_2010_indian_premier_league",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Nagpur",
+                "url": "/read/en/nagpur",
+                "contentUrl": "/static/content/en/nagpur.json",
+                "value": {
+                  "label": "Nagpur (formerly Nagpore) is the third largest city and winter capital of the Indian state of Maharashtra. It is the 13th largest Indian city by population.",
+                  "image": {
+                    "url": "/static/images/2010_indian_premier_league/Diksha_Bhumi.jpg",
+                    "altText": "Nagpur"
+                  }
+                }
+              },
+              {
+                "label": "Mumbai",
+                "url": "/read/en/mumbai",
+                "contentUrl": "/static/content/en/mumbai.json",
+                "value": {
+                  "label": "Mumbai, also known as Bombay, the official name until 1995, is the capital city of the Indian state of Maharashtra. As of 2011 it is the most populous city in India.",
+                  "image": {
+                    "url": "/static/images/2010_indian_premier_league/Victoria_Terminus_-_CST.JPG",
+                    "altText": "Mumbai"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }

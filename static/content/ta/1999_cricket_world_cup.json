@@ -9,7 +9,7 @@
   "translations": [
     {
       "lang": "en",
-      "title": "1999 Cricket world cup",
+      "title": "1999 Cricket World Cup",
       "url": "/read/en/1999_cricket_world_cup"
     },
     {
@@ -18,5 +18,73 @@
       "url": "/read/hi/1999_cricket_world_cup"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "14 May–20 June"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "ஸ்ரீலங்கா (முதல் டைட்டில்)",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "பாகிஸ்தான்",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "12"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_1999_cricket_world_cup",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "இங்கிலாந்து",
+                "url": "/read/ta/england",
+                "contentUrl": "/static/content/ta/england.json",
+                "value": {
+                  "label": "இங்கிலாந்து ஐக்கிய இராஜ்ஜியத்தின் ஒரு பகுதியாகும். இது மேற்கே வேல்ஸ் மற்றும் வடகிழக்கில் ஸ்காட்லாந்து வரை பரவியுள்ளது. ",
+                  "image": {
+                    "url": "/static/images/1999_cricket_world_cup/Flag_of_England.svg",
+                    "altText": "இங்கிலாந்து"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }

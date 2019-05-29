@@ -9,7 +9,7 @@
   "translations": [
     {
       "lang": "en",
-      "title": "1999 Cricket world cup",
+      "title": "1999 Cricket World Cup",
       "url": "/read/en/1999_cricket_world_cup"
     },
     {
@@ -18,5 +18,73 @@
       "url": "/read/ta/1999_cricket_world_cup"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "14 May–20 June"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "ऑस्ट्रेलिया (दूसरा खिताब)",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "पाकिस्तान",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "12"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_1999_cricket_world_cup",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "इंगलैंड",
+                "url": "/read/hi/england",
+                "contentUrl": "/static/content/hi/england.json",
+                "value": {
+                  "label": "इंग्लैंड एक ऐसा देश है जो यूनाइटेड किंगडम का हिस्सा है। यह पश्चिम में स्कॉटलैंड और उत्तर-पश्चिम में वेल्स के साथ भूमि की सीमाओं को साझा करता है।",
+                  "image": {
+                    "url": "/static/images/1999_cricket_world_cup/Flag_of_England.svg",
+                    "altText": "इंगलैंड"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }

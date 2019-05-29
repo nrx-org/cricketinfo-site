@@ -18,5 +18,73 @@
       "url": "/read/ta/2003_cricket_world_cup"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "9 February–23 March"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "Australia (3rd title)",
+            "url": "/read/en/australia_cricket_team",
+            "contentUrl": "/static/content/en/australia_cricket_team.json"
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "India",
+            "url": "/read/en/india_national_cricket_team",
+            "contentUrl": "/static/content/en/india_national_cricket_team.json"
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "14"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_2003_cricket_world_cup",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "South Africa",
+                "url": "/read/en/south_africa",
+                "contentUrl": "/static/content/en/south_africa.json",
+                "value": {
+                  "label": "South Africa, officially the Republic of South Africa (RSA), is the southernmost country in Africa. It is bounded to the south by 2,798 kilometres of coastline of Southern Africa stretching along the South Atlantic and Indian Oceans.",
+                  "image": {
+                    "url": "/static/images/2003_cricket_world_cup/MapungubweHill.jpg",
+                    "altText": "South Africa"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }

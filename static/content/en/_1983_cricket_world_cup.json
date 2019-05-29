@@ -1,0 +1,57 @@
+{
+  "title": "1983 Cricket World Cup",
+  "summary": "The 1983 Cricket World Cup (officially the Prudential Cup '83) was the 3rd edition of the Cricket World Cup tournament. It was held from 9 June to 25 June 1983 in England and Wales and was won by India.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/1983_Cricket_World_Cup",
+  "coverImage": {
+    "url": "/static/images/_1983_cricket_world_cup/Prudential_Cup_83_logo.svg",
+    "altText": "Image of 1983 Cricket World Cup"
+  },
+  "translations": [
+    {
+      "lang": "hi",
+      "title": "1983 क्रिकेट विश्व कप",
+      "url": "/read/hi/_1983_cricket_world_cup"
+    },
+    {
+      "lang": "ta",
+      "title": "1983 கிரிக்கெட் உலகக் கோப்பை",
+      "url": "/read/ta/_1983_cricket_world_cup"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "9 June–25 June"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "Champion",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "Runners Up",
+            "url": null,
+            "contentUrl": null
+          }
+        }
+      ]
+    }
+  ]
+}

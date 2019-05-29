@@ -18,5 +18,85 @@
       "url": "/read/ta/2010_indian_premier_league"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "12 March –25 April"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "चेन्नई सुपर किंग्स (पहला खिताब)",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "मुंबई इंडियंस",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "8"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_2010_indian_premier_league",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "नागपुर",
+                "url": "/read/hi/nagpur",
+                "contentUrl": "/static/content/hi/nagpur.json",
+                "value": {
+                  "label": "नागपुर (पूर्व में नागपोर) भारतीय राज्य महाराष्ट्र का तीसरा सबसे बड़ा शहर और शीतकालीन राजधानी है। यह जनसंख्या के हिसाब से 13 वां सबसे बड़ा भारतीय शहर है।",
+                  "image": {
+                    "url": "/static/images/2010_indian_premier_league/Diksha_Bhumi.jpg",
+                    "altText": "नागपुर"
+                  }
+                }
+              },
+              {
+                "label": "मुंबई",
+                "url": "/read/hi/mumbai",
+                "contentUrl": "/static/content/hi/mumbai.json",
+                "value": {
+                  "label": "मुंबई, जिसे बॉम्बे के नाम से भी जाना जाता है, 1995 तक आधिकारिक नाम, भारतीय राज्य महाराष्ट्र की राजधानी है। 2011 तक यह भारत का सबसे अधिक आबादी वाला शहर है।",
+                  "image": {
+                    "url": "/static/images/2010_indian_premier_league/Victoria_Terminus_-_CST.JPG",
+                    "altText": "मुंबई"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }

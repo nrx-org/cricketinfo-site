@@ -18,5 +18,85 @@
       "url": "/read/ta/2011_cricket_world_cup"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "19 February–2 April"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "India (2nd title)",
+            "url": "/read/en/india_national_cricket_team",
+            "contentUrl": "/static/content/en/india_national_cricket_team.json"
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "Sri Lanka",
+            "url": "/read/en/sri_lanka_national_cricket_team",
+            "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json"
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "14"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_2011_cricket_world_cup",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India",
+                "url": "/read/en/india",
+                "contentUrl": "/static/content/en/india.json",
+                "value": {
+                  "label": "India, also known as the Republic of India is a country in South Asia. It is the seventh largest country by area with more than 1.3 billion people. It is the second most populous country as well as the most populous democracy in the world.",
+                  "image": {
+                    "url": "/static/images/2011_cricket_world_cup/India_topo_big.jpg",
+                    "altText": "India"
+                  }
+                }
+              },
+              {
+                "label": "Sri Lanka",
+                "url": "/read/en/sri_lanka",
+                "contentUrl": "/static/content/en/sri_lanka.json",
+                "value": {
+                  "label": "Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka, is an island country in South Asia, located in the Indian Ocean to the southwest of the Bay of Bengal and to the southeast of the Arabian Sea. ",
+                  "image": {
+                    "url": "/static/images/2011_cricket_world_cup/Flag_of_Sri_Lanka.svg",
+                    "altText": "Sri Lanka"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }

@@ -9,7 +9,7 @@
   "translations": [
     {
       "lang": "en",
-      "title": "1996 cricket world cup",
+      "title": "1996 Cricket World Cup",
       "url": "/read/en/1996_cricket_world_cup"
     },
     {
@@ -18,5 +18,98 @@
       "url": "/read/ta/1996_cricket_world_cup"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "14 February–17 March"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "श्रीलंका (पहला खिताब)",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "ऑस्ट्रेलिया",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "12"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_1996_cricket_world_cup",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "भारत",
+                "url": "/read/hi/india",
+                "contentUrl": "/static/content/hi/india.json",
+                "value": {
+                  "label": "भारत, जिसे भारत गणराज्य के रूप में भी जाना जाता है, दक्षिण एशिया का एक देश है। यह 1.3 बिलियन से ज्यादा आबादी के साथ  क्षेत्रफल में सातवां सबसे बड़ा देश है जहां  के साथ स्थित है  यह दूसरा सबसे अधिक आबादी वाला देश है और साथ ही दुनिया में सबसे अधिक आबादी वाला लोकतंत्र है।",
+                  "image": {
+                    "url": "/static/images/1996_cricket_world_cup/India_topo_big.jpg",
+                    "altText": "भारत"
+                  }
+                }
+              },
+              {
+                "label": "पाकिस्तान",
+                "url": "/read/hi/pakistan",
+                "contentUrl": "/static/content/hi/pakistan.json",
+                "value": {
+                  "label": "पाकिस्तान, आधिकारिक तौर पर इस्लामिक गणराज्य, दक्षिण एशिया का एक देश है। यह दुनिया का छठा सबसे अधिक आबादी वाला देश है जिसकी जनसंख्या 212,742,631 से अधिक है।",
+                  "image": {
+                    "url": "/static/images/1996_cricket_world_cup/Parliament_House%2C_Islamabad_by_Usman_Ghani.jpg",
+                    "altText": "पाकिस्तान",
+                    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+                  }
+                }
+              },
+              {
+                "label": "श्री लंका",
+                "url": "/read/hi/sri_lanka",
+                "contentUrl": "/static/content/hi/sri_lanka.json",
+                "value": {
+                  "label": "श्रीलंका, आधिकारिक रूप से डेमोक्रेटिक सोशलिस्ट रिपब्लिक ऑफ़ श्रीलंका, दक्षिण एशिया का एक द्वीप देश है, जो हिंद महासागर में बंगाल की खाड़ी के दक्षिण-पश्चिम में और अरब सागर के दक्षिण-पूर्व में स्थित है।",
+                  "image": {
+                    "url": "/static/images/1996_cricket_world_cup/Flag_of_Sri_Lanka.svg",
+                    "altText": "श्री लंका"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }

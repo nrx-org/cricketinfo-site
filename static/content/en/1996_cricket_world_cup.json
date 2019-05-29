@@ -18,5 +18,98 @@
       "url": "/read/ta/1996_cricket_world_cup"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "14 February–17 March"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "Sri Lanka (1st title)",
+            "url": "/read/en/sri_lanka_national_cricket_team",
+            "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json"
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "Australia",
+            "url": "/read/en/australia_cricket_team",
+            "contentUrl": "/static/content/en/australia_cricket_team.json"
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "12"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_1996_cricket_world_cup",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India",
+                "url": "/read/en/india",
+                "contentUrl": "/static/content/en/india.json",
+                "value": {
+                  "label": "India, also known as the Republic of India is a country in South Asia. It is the seventh largest country by area with more than 1.3 billion people. It is the second most populous country as well as the most populous democracy in the world.",
+                  "image": {
+                    "url": "/static/images/1996_cricket_world_cup/India_topo_big.jpg",
+                    "altText": "India"
+                  }
+                }
+              },
+              {
+                "label": "Pakistan",
+                "url": "/read/en/pakistan",
+                "contentUrl": "/static/content/en/pakistan.json",
+                "value": {
+                  "label": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the world’s sixth-most populous country with a population exceeding 212,742,631 people.",
+                  "image": {
+                    "url": "/static/images/1996_cricket_world_cup/Parliament_House%2C_Islamabad_by_Usman_Ghani.jpg",
+                    "altText": "Pakistan",
+                    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+                  }
+                }
+              },
+              {
+                "label": "Sri Lanka",
+                "url": "/read/en/sri_lanka",
+                "contentUrl": "/static/content/en/sri_lanka.json",
+                "value": {
+                  "label": "Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka, is an island country in South Asia, located in the Indian Ocean to the southwest of the Bay of Bengal and to the southeast of the Arabian Sea. ",
+                  "image": {
+                    "url": "/static/images/1996_cricket_world_cup/Flag_of_Sri_Lanka.svg",
+                    "altText": "Sri Lanka"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }

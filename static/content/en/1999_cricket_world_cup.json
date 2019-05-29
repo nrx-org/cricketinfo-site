@@ -18,5 +18,73 @@
       "url": "/read/ta/1999_cricket_world_cup"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "14 May–20 June"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "Australia (2nd title)",
+            "url": "/read/en/australia_cricket_team",
+            "contentUrl": "/static/content/en/australia_cricket_team.json"
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "Pakistan",
+            "url": "/read/en/pakistan_national_cricket_team",
+            "contentUrl": "/static/content/en/pakistan_national_cricket_team.json"
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "12"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_1999_cricket_world_cup",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "England",
+                "url": "/read/en/england",
+                "contentUrl": "/static/content/en/england.json",
+                "value": {
+                  "label": "England is a country that is part of the United Kingdom. It shares land borders with Wales to the west and Scotland to the north-northwest.",
+                  "image": {
+                    "url": "/static/images/1999_cricket_world_cup/Flag_of_England.svg",
+                    "altText": "England"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }

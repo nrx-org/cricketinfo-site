@@ -18,5 +18,85 @@
       "url": "/read/hi/2017_indian_premier_league"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "14 February–29 March"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "Mumbai Indians (3rd title)",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "Rising Pune Supergiants",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "8"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_2017_indian_premier_league",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "பெங்களூரு",
+                "url": "/read/ta/bangalore",
+                "contentUrl": "/static/content/ta/bangalore.json",
+                "value": {
+                  "label": "பெங்களூர், அதிகாரப்பூர்வமாக பெங்களூரு என்று அறியப்படுகிறது, இது கர்நாடக மாநிலத்தின் தலைநகரம் ஆகும். இது பத்து மில்லியனுக்கும் அதிகமான மக்கள் தொகையை கொண்டிருக்கும் மெகாசிட்டியாக இருப்பதுடன் இந்தியாவின் மிக அதிக அளவிலான மக்கள் தொகையைக் கொண்டுள்ள பெருநகரமாகும், அத்துடன் மிக அதிக அளவிலான மக்கள்தொகையைக் கொண்ட ஐந்தாவது பெரிய நகர்ப்புற ஒருங்கிணைப்பாகும்.",
+                  "image": {
+                    "url": "/static/images/2017_indian_premier_league/Glasshouse_and_fountain_at_lalbagh.jpg",
+                    "altText": "பெங்களூரு"
+                  }
+                }
+              },
+              {
+                "label": "டெல்லி",
+                "url": "/read/ta/delhi",
+                "contentUrl": "/static/content/ta/delhi.json",
+                "value": {
+                  "label": "டெல்லி அதிகாரப்பூர்வமாக டெல்லி தேசிய தலைநகரப் பிரதேசம் என்று அழைக்கப்படுகிறது. இது முக்கிய நகரமாக விளங்குவதுடன் யூனியன் பிரதேசங்களுள் ஒன்றாகும், புதுடெல்லி இந்தியாவின் தலைநகரமாகத் திகழ்கிறது.",
+                  "image": {
+                    "url": "/static/images/2017_indian_premier_league/India_Gate_in_New_Delhi_03-2016.jpg",
+                    "altText": "டெல்லி"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }

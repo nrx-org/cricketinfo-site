@@ -18,5 +18,73 @@
       "url": "/read/ta/2011_indian_premier_league"
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "8 April – 28 May"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "Chennai Super Kings (2nd title)",
+            "url": "/read/en/chennai_super_kings",
+            "contentUrl": "/static/content/en/chennai_super_kings.json"
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "Royal Challengers Bangalore",
+            "url": "/read/en/royal_challengers_bangalore",
+            "contentUrl": "/static/content/en/royal_challengers_bangalore.json"
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "10"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_2011_indian_premier_league",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Mumbai",
+                "url": "/read/en/mumbai",
+                "contentUrl": "/static/content/en/mumbai.json",
+                "value": {
+                  "label": "Mumbai, also known as Bombay, the official name until 1995, is the capital city of the Indian state of Maharashtra. As of 2011 it is the most populous city in India.",
+                  "image": {
+                    "url": "/static/images/2011_indian_premier_league/Victoria_Terminus_-_CST.JPG",
+                    "altText": "Mumbai"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }

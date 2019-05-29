@@ -7,7 +7,7 @@
       "ta": "விராட் கோலி"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/personalities.en.csv",
       "hi": "./csv/personalities.hi.csv",
       "ta": "./csv/personalities.ta.csv"
     },
@@ -24,7 +24,7 @@
       "ta": "கபில்தேவ்"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/personalities.en.csv",
       "hi": "./csv/personalities.hi.csv",
       "ta": "./csv/personalities.ta.csv"
     },
@@ -36,12 +36,12 @@
   {
     "id": "O33",
     "title": {
-      "en": "Anushka sharma",
+      "en": "Anushka Sharma",
       "hi": "अनुष्का शर्मा",
       "ta": "அனுஷ்கா ஷர்மா"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/personalities.en.csv",
       "hi": "./csv/personalities.hi.csv",
       "ta": "./csv/personalities.ta.csv"
     },
@@ -58,7 +58,7 @@
       "ta": "அனில் கும்ப்ளே"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/personalities.en.csv",
       "hi": "./csv/personalities.hi.csv",
       "ta": "./csv/personalities.ta.csv"
     },
@@ -75,7 +75,7 @@
       "ta": "சச்சின் டெண்டுல்கர்"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/personalities.en.csv",
       "hi": "./csv/personalities.hi.csv",
       "ta": "./csv/personalities.ta.csv"
     },
@@ -87,12 +87,12 @@
   {
     "id": "O8",
     "title": {
-      "en": "Sourav ganguly",
+      "en": "Sourav Ganguly",
       "hi": "सौरव गांगुली",
       "ta": "சவுரவ் கங்குலி"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/personalities.en.csv",
       "hi": "./csv/personalities.hi.csv",
       "ta": "./csv/personalities.ta.csv"
     },
@@ -104,12 +104,12 @@
   {
     "id": "O9",
     "title": {
-      "en": "Rahul dravid",
+      "en": "Rahul Dravid",
       "hi": "राहुल द्रविड़",
       "ta": "ராகுல் டிராவிட்"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/personalities.en.csv",
       "hi": "./csv/personalities.hi.csv",
       "ta": "./csv/personalities.ta.csv"
     },
@@ -121,12 +121,12 @@
   {
     "id": "O2",
     "title": {
-      "en": "M.S Dhoni",
+      "en": "Mahendra Singh Dhoni",
       "hi": "महेन्द्र सिंह धोनी",
       "ta": "மகேந்திர சிங் தோனி"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/personalities.en.csv",
       "hi": "./csv/personalities.hi.csv",
       "ta": "./csv/personalities.ta.csv"
     },
@@ -138,12 +138,12 @@
   {
     "id": "O3",
     "title": {
-      "en": "Rohit sharma",
+      "en": "Rohit Sharma",
       "hi": "रोहित शर्मा",
       "ta": "ரோஹித் ஷர்மா"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/personalities.en.csv",
       "hi": "./csv/personalities.hi.csv",
       "ta": "./csv/personalities.ta.csv"
     },
@@ -160,7 +160,7 @@
       "ta": "சிக்கர் தவான்"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/personalities.en.csv",
       "hi": "./csv/personalities.hi.csv",
       "ta": "./csv/personalities.ta.csv"
     },
@@ -257,10 +257,10 @@
   {
     "id": "O21",
     "title": {
-      "en": "Ravi sashtri"
+      "en": "Ravi Shastri"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/personalities.en.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -270,10 +270,10 @@
   {
     "id": "O23",
     "title": {
-      "en": "Gary kristen"
+      "en": "Gary Kirsten"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/personalities.en.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -283,10 +283,10 @@
   {
     "id": "O22",
     "title": {
-      "en": "Stephen fleming"
+      "en": "Stephen Fleming"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/personalities.en.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -296,10 +296,10 @@
   {
     "id": "O25",
     "title": {
-      "en": "Glenn Mcgrath"
+      "en": "Glenn McGrath"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/personalities.en.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -312,7 +312,7 @@
       "en": "Wasim Akram"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/personalities.en.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -322,10 +322,10 @@
   {
     "id": "O29",
     "title": {
-      "en": "AB de villers"
+      "en": "AB de Villiers"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/personalities.en.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -338,7 +338,7 @@
       "en": "Hardik Pandya"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/personalities.en.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -351,7 +351,7 @@
       "en": "Jasprit Bumrah"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/personalities.en.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -361,10 +361,10 @@
   {
     "id": "O12",
     "title": {
-      "en": "Kedar jadhav"
+      "en": "Kedar Jadhav"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/personalities.en.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -374,10 +374,10 @@
   {
     "id": "O14",
     "title": {
-      "en": "Kuldeep yadav"
+      "en": "Kuldeep Yadav"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/personalities.en.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -387,10 +387,10 @@
   {
     "id": "O15",
     "title": {
-      "en": "Bhuvaneshwar kumar"
+      "en": "Bhuvneshwar Kumar"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/personalities.en.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -400,10 +400,10 @@
   {
     "id": "O17",
     "title": {
-      "en": "Mohammed shami"
+      "en": "Mohammed Shami"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/personalities.en.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -413,10 +413,10 @@
   {
     "id": "O16",
     "title": {
-      "en": "Ajinkya rahane"
+      "en": "Ajinkya Rahane"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/personalities.en.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -426,10 +426,10 @@
   {
     "id": "O18",
     "title": {
-      "en": "K L rahul"
+      "en": "K L Rahul"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/personalities.en.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -442,7 +442,7 @@
       "en": "Dinesh Karthik"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/personalities.en.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -452,10 +452,10 @@
   {
     "id": "O20",
     "title": {
-      "en": "Ravindra jadeja"
+      "en": "Ravindra Jadeja"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/personalities.en.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -465,10 +465,10 @@
   {
     "id": "O24",
     "title": {
-      "en": "Mahela jayawardene"
+      "en": "Mahela Jayawardene"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/personalities.en.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -478,10 +478,10 @@
   {
     "id": "O26",
     "title": {
-      "en": "David warner"
+      "en": "David Warner"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/personalities.en.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -491,10 +491,10 @@
   {
     "id": "O27",
     "title": {
-      "en": "Chris gayle"
+      "en": "Chris Gayle"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/personalities.en.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -504,10 +504,10 @@
   {
     "id": "O30",
     "title": {
-      "en": "Kane williamson"
+      "en": "Kane Williamson"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/personalities.en.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -517,10 +517,10 @@
   {
     "id": "O31",
     "title": {
-      "en": "Ben stokes"
+      "en": "Ben Stokes"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/personalities.en.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -530,10 +530,10 @@
   {
     "id": "O32",
     "title": {
-      "en": "Jos Butler"
+      "en": "Jos Buttler"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/personalities.en.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -548,7 +548,7 @@
       "ta": "இலங்கை"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/places.en.csv",
       "hi": "./csv/places.hi.csv",
       "ta": "./csv/places.ta.csv"
     },
@@ -565,7 +565,7 @@
       "ta": "தென்னாப்பிரிக்கா"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/places.en.csv",
       "hi": "./csv/places.hi.csv",
       "ta": "./csv/places.ta.csv"
     },
@@ -582,7 +582,7 @@
       "ta": "இங்கிலாந்து"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/places.en.csv",
       "hi": "./csv/places.hi.csv",
       "ta": "./csv/places.ta.csv"
     },
@@ -599,7 +599,7 @@
       "ta": "இந்தியா"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/places.en.csv",
       "hi": "./csv/places.hi.csv",
       "ta": "./csv/places.ta.csv"
     },
@@ -616,7 +616,7 @@
       "ta": "நியூசிலாந்து"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/places.en.csv",
       "hi": "./csv/places.hi.csv",
       "ta": "./csv/places.ta.csv"
     },
@@ -633,7 +633,7 @@
       "ta": "பாகிஸ்தான்"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/places.en.csv",
       "hi": "./csv/places.hi.csv",
       "ta": "./csv/places.ta.csv"
     },
@@ -650,7 +650,7 @@
       "ta": "டெல்லி"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/places.en.csv",
       "hi": "./csv/places.hi.csv",
       "ta": "./csv/places.ta.csv"
     },
@@ -667,7 +667,7 @@
       "ta": "பெங்களூரு"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/places.en.csv",
       "hi": "./csv/places.hi.csv",
       "ta": "./csv/places.ta.csv"
     },
@@ -684,7 +684,7 @@
       "ta": "மும்பை"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/places.en.csv",
       "hi": "./csv/places.hi.csv",
       "ta": "./csv/places.ta.csv"
     },
@@ -701,7 +701,7 @@
       "ta": "ஆஸ்திரேலியா"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/places.en.csv",
       "hi": "./csv/places.hi.csv",
       "ta": "./csv/places.ta.csv"
     },
@@ -713,10 +713,10 @@
   {
     "id": "R1",
     "title": {
-      "en": "Indian national Cricket team"
+      "en": "India national cricket team"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/teams.en.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -729,7 +729,7 @@
       "en": "Mumbai Indians"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/teams.en.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -739,10 +739,10 @@
   {
     "id": "R5",
     "title": {
-      "en": "Chennai super kings"
+      "en": "Chennai Super Kings"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/teams.en.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -752,10 +752,10 @@
   {
     "id": "R6",
     "title": {
-      "en": "Royal challengers Bangalore"
+      "en": "Royal Challengers Bangalore"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/teams.en.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -765,10 +765,10 @@
   {
     "id": "R2",
     "title": {
-      "en": "Australian cricket team"
+      "en": "Australia Cricket team"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/teams.en.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -781,7 +781,7 @@
       "en": "England cricket team"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/teams.en.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -791,10 +791,10 @@
   {
     "id": "R3",
     "title": {
-      "en": "West Indies Cricket team"
+      "en": "West Indies cricket team"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/teams.en.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -804,10 +804,10 @@
   {
     "id": "R8",
     "title": {
-      "en": "Pakistan Cricket Team"
+      "en": "Pakistan national cricket team"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/teams.en.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -817,10 +817,10 @@
   {
     "id": "R9",
     "title": {
-      "en": "Kings 11 punjab"
+      "en": "Kings XI Punjab"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/teams.en.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -830,10 +830,10 @@
   {
     "id": "R10",
     "title": {
-      "en": "Kolkatta knight riders"
+      "en": "Kolkata Knight Riders"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/teams.en.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -843,10 +843,10 @@
   {
     "id": "R11",
     "title": {
-      "en": "Rajastan Royals"
+      "en": "Rajasthan Royals"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/teams.en.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -859,7 +859,7 @@
       "en": "Sunrisers Hyderabad"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/teams.en.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -869,10 +869,10 @@
   {
     "id": "R17",
     "title": {
-      "en": "Afghanistan Cricket Team"
+      "en": "Afghanistan national cricket team"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/teams.en.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -882,10 +882,10 @@
   {
     "id": "R18",
     "title": {
-      "en": "Bangladesh Cricket team"
+      "en": "Bangladesh national cricket team"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/teams.en.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -895,10 +895,10 @@
   {
     "id": "R13",
     "title": {
-      "en": "Sri Lankan cricket team"
+      "en": "Sri Lanka national cricket team"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/teams.en.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -908,10 +908,10 @@
   {
     "id": "R14",
     "title": {
-      "en": "South African Cricket Team"
+      "en": "South Africa national cricket team"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/teams.en.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -921,10 +921,10 @@
   {
     "id": "R15",
     "title": {
-      "en": "New zealand Cricket team"
+      "en": "New Zealand national cricket team"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/teams.en.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -937,7 +937,7 @@
       "en": "Delhi Capitals"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
+      "en": "./csv/teams.en.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",
@@ -947,12 +947,12 @@
   {
     "id": "P15",
     "title": {
-      "en": "IPL 2017",
+      "en": "2017 Indian Premier League",
       "hi": "2017 Indian Premier League",
       "ta": "2017 Indian Premier League"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/events_individual.en.csv",
       "hi": "./csv/events_individual.hi.csv",
       "ta": "./csv/events_individual.ta.csv"
     },
@@ -964,12 +964,12 @@
   {
     "id": "P14",
     "title": {
-      "en": "IPL 2016",
+      "en": "2016 Indian Premier League",
       "hi": "2016 इंडियन प्रीमियर लीग",
       "ta": "2016 இந்தியன் ப்ரீமியர் லீக்"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/events_individual.en.csv",
       "hi": "./csv/events_individual.hi.csv",
       "ta": "./csv/events_individual.ta.csv"
     },
@@ -981,12 +981,12 @@
   {
     "id": "P13",
     "title": {
-      "en": "IPL 2011",
+      "en": "2011 Indian Premier League",
       "hi": "2011 इंडियन प्रीमियर लीग",
       "ta": "2011 இந்தியன் ப்ரீமியர் லீக்"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/events_individual.en.csv",
       "hi": "./csv/events_individual.hi.csv",
       "ta": "./csv/events_individual.ta.csv"
     },
@@ -998,12 +998,12 @@
   {
     "id": "P12",
     "title": {
-      "en": "IPL 2010",
+      "en": "2010 Indian Premier League",
       "hi": "2010 इंडियन प्रीमियर लीग",
       "ta": "2010 இந்தியன் ப்ரீமியர் லீக்"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/events_individual.en.csv",
       "hi": "./csv/events_individual.hi.csv",
       "ta": "./csv/events_individual.ta.csv"
     },
@@ -1015,12 +1015,12 @@
   {
     "id": "P8",
     "title": {
-      "en": "2015 cricket world cup",
+      "en": "2015 Cricket World Cup",
       "hi": "2015 क्रिकेट विश्व कप",
       "ta": "2015 கிரிக்கெட் உலகக் கோப்பை"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/events_individual.en.csv",
       "hi": "./csv/events_individual.hi.csv",
       "ta": "./csv/events_individual.ta.csv"
     },
@@ -1032,12 +1032,12 @@
   {
     "id": "P7",
     "title": {
-      "en": "2011 cricket world cup",
+      "en": "2011 Cricket World Cup",
       "hi": "2011 क्रिकेट विश्व कप",
       "ta": "2011 கிரிக்கெட் உலகக் கோப்பை"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/events_individual.en.csv",
       "hi": "./csv/events_individual.hi.csv",
       "ta": "./csv/events_individual.ta.csv"
     },
@@ -1049,12 +1049,12 @@
   {
     "id": "P6",
     "title": {
-      "en": "2007 cricket world cup",
+      "en": "2007 Cricket World Cup",
       "hi": "2007 क्रिकेट विश्व कप",
       "ta": "2007 கிரிக்கெட் உலகக் கோப்பை"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/events_individual.en.csv",
       "hi": "./csv/events_individual.hi.csv",
       "ta": "./csv/events_individual.ta.csv"
     },
@@ -1066,12 +1066,12 @@
   {
     "id": "P5",
     "title": {
-      "en": "2003 cricket world cup",
+      "en": "2003 Cricket World Cup",
       "hi": "2003 क्रिकेट विश्व कप",
       "ta": "2003 கிரிக்கெட் உலகக் கோப்பை"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/events_individual.en.csv",
       "hi": "./csv/events_individual.hi.csv",
       "ta": "./csv/events_individual.ta.csv"
     },
@@ -1083,12 +1083,12 @@
   {
     "id": "P4",
     "title": {
-      "en": "1999 Cricket world cup",
+      "en": "1999 Cricket World Cup",
       "hi": "1999 क्रिकेट विश्व कप",
       "ta": "1999 கிரிக்கெட் உலகக் கோப்பை"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/events_individual.en.csv",
       "hi": "./csv/events_individual.hi.csv",
       "ta": "./csv/events_individual.ta.csv"
     },
@@ -1100,12 +1100,12 @@
   {
     "id": "P3",
     "title": {
-      "en": "1996 cricket world cup",
+      "en": "1996 Cricket World Cup",
       "hi": "1996 क्रिकेट विश्व कप",
       "ta": "1996 கிரிக்கெட் உலகக் கோப்பை"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/events_individual.en.csv",
       "hi": "./csv/events_individual.hi.csv",
       "ta": "./csv/events_individual.ta.csv"
     },
@@ -1117,12 +1117,12 @@
   {
     "id": "P2",
     "title": {
-      "en": " 1983 cricket world cup",
+      "en": "1983 Cricket World Cup",
       "hi": "1983 क्रिकेट विश्व कप",
       "ta": "1983 கிரிக்கெட் உலகக் கோப்பை"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/events_individual.en.csv",
       "hi": "./csv/events_individual.hi.csv",
       "ta": "./csv/events_individual.ta.csv"
     },
@@ -1134,12 +1134,12 @@
   {
     "id": "P11",
     "title": {
-      "en": "IPL",
+      "en": "Indian Premier League",
       "hi": "इंडियन प्रीमियर लीग",
       "ta": "இந்தியன் ப்ரீமியர் லீக்"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/events_major.en.csv",
       "hi": "./csv/events_major.hi.csv",
       "ta": "./csv/events_major.ta.csv"
     },
@@ -1151,12 +1151,12 @@
   {
     "id": "P9",
     "title": {
-      "en": "ICC t20 world cup",
+      "en": "ICC T20 World Cup",
       "hi": "आईसीसी टी20 विश्व कप",
       "ta": "ஐசிசி டி20 உலகக் கோப்பை"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/events_major.en.csv",
       "hi": "./csv/events_major.hi.csv",
       "ta": "./csv/events_major.ta.csv"
     },
@@ -1168,12 +1168,12 @@
   {
     "id": "P10",
     "title": {
-      "en": "ICC Champions trophy",
+      "en": "ICC Champions Trophy",
       "hi": "आईसीसी चैंपियंस ट्रॉफी",
       "ta": "ஐசிசி சேம்பியன்ஸ் டிராஃபி"
     },
     "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv",
+      "en": "./csv/events_major.en.csv",
       "hi": "./csv/events_major.hi.csv",
       "ta": "./csv/events_major.ta.csv"
     },
@@ -2830,258 +2830,5 @@
     "titleFieldName": "Title",
     "descriptionFieldName": "Short description",
     "imageFieldName": "Image Link"
-  },
-  {
-    "id": "P1",
-    "title": {
-      "en": "Cricket World cup"
-    },
-    "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
-    },
-    "idFieldName": "ID",
-    "titleFieldName": "Title"
-  },
-  {
-    "id": "P16",
-    "title": {
-      "en": "1987 cricket world cup"
-    },
-    "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
-    },
-    "idFieldName": "ID",
-    "titleFieldName": "Title"
-  },
-  {
-    "id": "P17",
-    "title": {
-      "en": "1992 cricket world cup"
-    },
-    "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
-    },
-    "idFieldName": "ID",
-    "titleFieldName": "Title"
-  },
-  {
-    "id": "P18",
-    "title": {
-      "en": "2019 Cricket world cup"
-    },
-    "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
-    },
-    "idFieldName": "ID",
-    "titleFieldName": "Title"
-  },
-  {
-    "id": "P19",
-    "title": {
-      "en": "IPL 2008"
-    },
-    "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
-    },
-    "idFieldName": "ID",
-    "titleFieldName": "Title"
-  },
-  {
-    "id": "P20",
-    "title": {
-      "en": "IPL 2009"
-    },
-    "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
-    },
-    "idFieldName": "ID",
-    "titleFieldName": "Title"
-  },
-  {
-    "id": "P21",
-    "title": {
-      "en": "IPL 2012"
-    },
-    "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
-    },
-    "idFieldName": "ID",
-    "titleFieldName": "Title"
-  },
-  {
-    "id": "P22",
-    "title": {
-      "en": "IPL 2013"
-    },
-    "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
-    },
-    "idFieldName": "ID",
-    "titleFieldName": "Title"
-  },
-  {
-    "id": "P23",
-    "title": {
-      "en": "IPL 2014"
-    },
-    "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
-    },
-    "idFieldName": "ID",
-    "titleFieldName": "Title"
-  },
-  {
-    "id": "P24",
-    "title": {
-      "en": "IPL 2015"
-    },
-    "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
-    },
-    "idFieldName": "ID",
-    "titleFieldName": "Title"
-  },
-  {
-    "id": "P25",
-    "title": {
-      "en": "IPL 2018"
-    },
-    "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
-    },
-    "idFieldName": "ID",
-    "titleFieldName": "Title"
-  },
-  {
-    "id": "P26",
-    "title": {
-      "en": "1975 cricket world cup"
-    },
-    "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
-    },
-    "idFieldName": "ID",
-    "titleFieldName": "Title"
-  },
-  {
-    "id": "P27",
-    "title": {
-      "en": "1979 cricket world cup "
-    },
-    "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
-    },
-    "idFieldName": "ID",
-    "titleFieldName": "Title"
-  },
-  {
-    "id": "G11",
-    "title": {
-      "en": "Chennai"
-    },
-    "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
-    },
-    "idFieldName": "ID",
-    "titleFieldName": "Title"
-  },
-  {
-    "id": "G12",
-    "title": {
-      "en": "Kolkatta"
-    },
-    "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
-    },
-    "idFieldName": "ID",
-    "titleFieldName": "Title"
-  },
-  {
-    "id": "G13",
-    "title": {
-      "en": "Hyderabad"
-    },
-    "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
-    },
-    "idFieldName": "ID",
-    "titleFieldName": "Title"
-  },
-  {
-    "id": "G14",
-    "title": {
-      "en": "Jaipur"
-    },
-    "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
-    },
-    "idFieldName": "ID",
-    "titleFieldName": "Title"
-  },
-  {
-    "id": "G15",
-    "title": {
-      "en": "Mohali"
-    },
-    "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
-    },
-    "idFieldName": "ID",
-    "titleFieldName": "Title"
-  },
-  {
-    "id": "G17",
-    "title": {
-      "en": "Ranchi"
-    },
-    "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
-    },
-    "idFieldName": "ID",
-    "titleFieldName": "Title"
-  },
-  {
-    "id": "G18",
-    "title": {
-      "en": "Chandigarh"
-    },
-    "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
-    },
-    "idFieldName": "ID",
-    "titleFieldName": "Title"
-  },
-  {
-    "id": "O13",
-    "title": {
-      "en": "Yuzvendra chahal"
-    },
-    "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
-    },
-    "idFieldName": "ID",
-    "titleFieldName": "Title"
-  },
-  {
-    "id": "O34",
-    "title": {
-      "en": "Shah Rukh Khan"
-    },
-    "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
-    },
-    "idFieldName": "ID",
-    "titleFieldName": "Title"
-  },
-  {
-    "id": "O35",
-    "title": {
-      "en": "Deepika Pallikal"
-    },
-    "sourceCsvFile": {
-      "en": "./csv/home_ids.en.csv"
-    },
-    "idFieldName": "ID",
-    "titleFieldName": "Title"
   }
 ]

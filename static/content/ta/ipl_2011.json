@@ -1,0 +1,63 @@
+{
+  "title": "2011 இந்தியன் ப்ரீமியர் லீக்",
+  "summary": "The 2011 Indian Premier League season, abbreviated as IPL 4 or the IPL 2011, was the fourth season of the Indian Premier League, the top Twenty20 cricket league in India",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/2011_Indian_Premier_League",
+  "coverImage": {
+    "url": "/static/images/ipl_2011/Ma_ChidambaramStadium_panaroma.jpg",
+    "altText": "Image of 2011 இந்தியன் ப்ரீமியர் லீக்"
+  },
+  "translations": [
+    {
+      "lang": "en",
+      "title": "IPL 2011",
+      "url": "/read/en/ipl_2011"
+    },
+    {
+      "lang": "hi",
+      "title": "2011 इंडियन प्रीमियर लीग",
+      "url": "/read/hi/ipl_2011"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "8 April – 28 May"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Format"
+          }
+        },
+        {
+          "label": "Champion",
+          "value": {
+            "label": "சென்னை சூப்பர் கிங்ஸ் (முதல் டைட்டில்)",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
+            "url": null,
+            "contentUrl": null
+          }
+        },
+        {
+          "label": "No of Teams",
+          "value": {
+            "label": "10"
+          }
+        }
+      ]
+    }
+  ]
+}
