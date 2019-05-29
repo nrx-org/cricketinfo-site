@@ -93,11 +93,8 @@ export class InterestingArticles extends React.Component {
     });
 
     const carouselWidth = Math.round(
-      Math.max(
-        ...tempCardStyles.map(function(style) {
-          return style.left;
-        })
-      ) + Math.max(...possibleCardSizes.map(size => size))
+      Math.max(...tempCardStyles.map(style => style.left)) +
+        Math.max(...possibleCardSizes.map(size => size))
     );
     this.setState({
       cardStyles: tempCardStyles,

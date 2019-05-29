@@ -1,19 +1,11 @@
 const fs = require("fs");
 const parse = require("csv-parse/lib/sync");
 const { parse: parseDate, format } = require("date-fns");
-const shortid = require("shortid");
-
-const fetch = require("isomorphic-fetch");
-const path = require("path");
 
 const idMap = require("../static/content/article_ids.json");
 const {
-  findIdMapEntryById,
   getSluggedTitle,
-  makeContentUrl,
-  makeArticleUrl,
   downloadImageAndFillAttributions,
-  findIdMapEntryByTitle,
   getCardInfoFromId
 } = require("./lib");
 
@@ -49,17 +41,9 @@ const csvExports = {
 
 // Home page strategy (home_strategy.[lang].csv)
 const HOME_STRATEGY_DATE = "Date";
-const HOME_STRATEGY_TIME = "Time";
-const HOME_STRATEGY_VENUE = "Venue";
-const HOME_STRATEGY_TEAM_TO_WATCH_1 = "Team to watch - 1";
-const HOME_STRATEGY_TEAM_TO_WATCH_2 = "Team to watch - 2";
 const HOME_STRATEGY_PLAYER_TO_WATCH_1 = "Player to watch - 1";
 const HOME_STRATEGY_PLAYER_TO_WATCH_2 = "Player to watch - 2";
 const HOME_STRATEGY_PLAYER_TO_WATCH_3 = "Player to watch - 3";
-const HOME_STRATEGY_FACT_OF_THE_DAY_1 = "Fact of the day - 1";
-const HOME_STRATEGY_FACT_OF_THE_DAY_2 = "Fact of the day - 2";
-const HOME_STRATEGY_QUIZ_OF_THE_DAY_1 = "Quiz of the day -1"; // Modified column name
-const HOME_STRATEGY_QUIZ_OF_THE_DAY_2 = "Quiz of the day -2"; // Modified column name
 
 // Home page quiz data (home_quiz.[lang].csv)
 const HOME_QUIZ_QNO = "Q. No";
@@ -67,7 +51,6 @@ const HOME_QUIZ_QUESTIONS = "Questions";
 const HOME_QUIZ_ANSWER_A = "Answer A";
 const HOME_QUIZ_ANSWER_B = "Answer B";
 const HOME_QUIZ_CORRECT_ANSWER = "Correct Answer"; // Modified column name
-const HOME_QUIZ_LEADING_ARTICLE = "Leading Article";
 const HOME_QUIZ_ARTICLE_ID = "Article ID";
 
 // Home page facts data (home_facts.[lang].csv)
@@ -75,9 +58,7 @@ const HOME_FACTS_FACTID = "Fact Id";
 const HOME_FACTS_RELEVANT_IMAGE = "Relevant Image";
 const HOME_FACTS_HEADING = "Heading";
 const HOME_FACTS_FACT = "Fact";
-const HOME_FACTS_READ_MORE_TEXT = "Read More Text"; // Modified column name
 const HOME_FACTS_LINKING_ARTICLE = "Linking article";
-const HOME_FACTS_ARTICLE_ID = "Article ID";
 
 const HOME_POPULAR_ARTICLES_ARTICLEID = "Article Code";
 const HOME_INTERESTING_ARTICLES_ARTICLEID = "Article Code";
@@ -85,8 +66,10 @@ const HOME_FEATURED_PLAYERS_ARTICLEID = "Article Code";
 const HOME_HISTORY_ARTICLEID = "Article Code";
 
 const groupArr = (data, n) => {
-  let group = [];
+  const group = [];
+  // eslint-disable-next-line no-plusplus
   for (let i = 0, j = 0; i < data.length; i++) {
+    // eslint-disable-next-line no-plusplus
     if (i >= n && i % n === 0) j++;
     group[j] = group[j] || [];
     group[j].push(data[i]);
@@ -95,17 +78,18 @@ const groupArr = (data, n) => {
 };
 
 const flatten = arr => {
-  return arr.reduce(function(flat, toFlatten) {
-    return flat.concat(
-      Array.isArray(toFlatten) ? flatten(toFlatten) : toFlatten
-    );
-  }, []);
+  return arr.reduce(
+    (flat, toFlatten) =>
+      flat.concat(Array.isArray(toFlatten) ? flatten(toFlatten) : toFlatten),
+    []
+  );
 };
 
 module.exports.exportHome = () => {
   Object.keys(csvExports).forEach(async lang => {
-    let homeJSON = {};
+    const homeJSON = {};
 
+    // eslint-disable-next-line default-case
     switch (lang) {
       case "en":
         homeJSON.translations = [
@@ -193,11 +177,12 @@ module.exports.exportHome = () => {
     });
 
     const getDatesForIDFromStrategySheet = (id, type) => {
-      let dates = [];
+      const dates = [];
 
       let arrayToCheck = null;
 
       strategyRecords.forEach((strategyRecord, index) => {
+        /* eslint-disable no-eval */
         if (type === "STRATEGY_PLAYER_TO_WATCH")
           arrayToCheck = [
             strategyRecord[eval(`HOME_STRATEGY_${type}_1`)],
@@ -209,6 +194,7 @@ module.exports.exportHome = () => {
             strategyRecord[eval(`HOME_STRATEGY_${type}_1`)],
             strategyRecord[eval(`HOME_STRATEGY_${type}_2`)]
           ];
+        /* eslint-enable no-eval */
 
         if (arrayToCheck.indexOf(id) > -1) {
           let recordDateString = strategyRecord[HOME_STRATEGY_DATE];
@@ -218,7 +204,7 @@ module.exports.exportHome = () => {
           dates.push(
             format(
               parseDate(
-                recordDateString.split(",")[0] + " 2019",
+                `${recordDateString.split(",")[0]} 2019`,
                 "MMM dd yyyy",
                 new Date(),
                 { awareOfUnicodeTokens: true }
@@ -532,7 +518,7 @@ module.exports.exportHome = () => {
           ? {
               label: articleInfo.title,
               id: getSluggedTitle(articleInfo.title),
-              dates: dates,
+              dates,
               value: {
                 url: articleInfo.url,
                 label: articleInfo.summary,

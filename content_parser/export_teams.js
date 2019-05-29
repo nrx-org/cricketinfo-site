@@ -1,14 +1,10 @@
 const fs = require("fs");
 const parse = require("csv-parse/lib/sync");
-const { parse: parseDate, format } = require("date-fns");
-const shortid = require("shortid");
 
 const idMap = require("../static/content/article_ids.json");
 const {
   findIdMapEntryById,
   getSluggedTitle,
-  makeContentUrl,
-  makeArticleUrl,
   getCardInfoFromId,
   downloadImageAndFillAttributions
 } = require("./lib");
@@ -28,7 +24,6 @@ const COVER_IMAGE_KEY = "Header Image Link";
 const SUMMARY_KEY = "Short Summary of Team";
 
 const LOCATION_KEY = "Location";
-const LOCATION_ARTICLE_CODE_KEY = "Location article code";
 const ESTABLISHED_ON_KEY = "Established On";
 const ASSOCIATION_KEY = "Association";
 

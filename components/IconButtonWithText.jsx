@@ -13,6 +13,7 @@ export const IconButtonWithText = ({
   children
 }) => {
   if (url && onClick) {
+    // eslint-disable-next-line no-console
     console.warn(
       "Icon Button with Text cannot be both link and button. Please pass either onClick OR url only."
     );

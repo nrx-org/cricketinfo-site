@@ -29,9 +29,9 @@ export const FeaturedPlayers = ({ scheduled, constant, all }) => {
     ...constant
   ];
 
-  if(scheduled.filter(f => f.dates.indexOf(dateString) > -1).length === 0) {
+  if (scheduled.filter(f => f.dates.indexOf(dateString) > -1).length === 0) {
     players = [
-      ...scheduled.filter(f => f.dates.indexOf('2019-05-31') > -1),
+      ...scheduled.filter(f => f.dates.indexOf("2019-05-31") > -1),
       ...constant
     ];
   }
