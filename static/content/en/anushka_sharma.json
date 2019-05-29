@@ -2,11 +2,7 @@
   "title": "Anushka Sharma",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Anushka_Sharma",
   "coverImage": {
-<<<<<<< HEAD
-    "url": "https://commons.wikimedia.org/wiki/File:Anushka_Sharma_promoting_Zero.jpg",
-=======
     "url": "/static/images/anushka_sharma/Anushka_Sharma_promoting_Zero.jpg",
->>>>>>> feature/content-parser
     "altText": "Image of Anushka Sharma"
   },
   "summary": "Anushka Sharma is an Indian actor and film producer who works in Hindi films.",
@@ -78,11 +74,7 @@
             "url": "/read/en/virat_kohli",
             "contentUrl": "/static/content/en/virat_kohli.json",
             "image": {
-<<<<<<< HEAD
-              "url": "https://commons.wikimedia.org/wiki/File:Virat..Kohli.jpg",
-=======
               "url": "/static/images/anushka_sharma/Virat..Kohli.jpg",
->>>>>>> feature/content-parser
               "altText": "Picture of Virat Kohli"
             }
           }
@@ -101,43 +93,30 @@
               "url": "/static/images/default_person.svg",
               "altText": "Image of Mount Carmel College, Bangalore"
             }
-<<<<<<< HEAD
-=======
           }
         }
       ]
     },
     {
       "title": "Style of play",
-      "id": "VjiLva8eqCh",
+      "id": "3p7GjBuiSCT",
       "cardType": "simple",
       "facts": [
         {
           "label": "",
           "value": {
             "label": " "
->>>>>>> feature/content-parser
           }
         }
       ]
     },
     {
-<<<<<<< HEAD
-      "title": "Style of play",
-      "id": "Lg-lRs40M19",
-      "cardType": "simple",
-      "facts": [
-        {
-          "label": "",
-          "value": {
-            "label": " "
-=======
       "title": "Phase(s)",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "First class Debut",
-          "id": "HTgzMioT26c",
+          "id": "_3le8Mh6xRu",
           "note": "",
           "value": {
             "label": ""
@@ -145,7 +124,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "2jjRkT-Z4Ad",
+          "id": "G7L1FLNDdL4",
           "note": "",
           "value": {
             "label": ""
@@ -210,34 +189,11 @@
               "url": "",
               "altText": ""
             }
->>>>>>> feature/content-parser
           }
         }
       ]
     },
     {
-<<<<<<< HEAD
-      "title": "Phase(s)",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "First class Debut",
-          "id": "GKPIe-dGMsG",
-          "note": "",
-          "value": {
-            "label": ""
-          }
-        },
-        {
-          "label": "National team debut ",
-          "id": "elauslIkeU1",
-          "note": "",
-          "value": {
-            "label": ""
-          }
-        }
-      ]
-=======
       "title": "Team(s)",
       "cardType": "list_card",
       "facts": []
@@ -246,7 +202,6 @@
       "title": "Awards & Honors",
       "cardType": "tag_card",
       "facts": []
->>>>>>> feature/content-parser
     }
   ]
 }

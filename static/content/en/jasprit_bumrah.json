@@ -2,11 +2,7 @@
   "title": "Jasprit Bumrah",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Jasprit_Bumrah",
   "coverImage": {
-<<<<<<< HEAD
-    "url": "https://commons.wikimedia.org/wiki/File:Bowling_shadow_figure.png",
-=======
     "url": "/static/images/jasprit_bumrah/Bowling_shadow_figure.png",
->>>>>>> feature/content-parser
     "altText": "Image of Jasprit Bumrah"
   },
   "summary": "Jasprit Bumrah is an Indian cricketer who plays for the Indian national cricket team.",
@@ -67,11 +63,7 @@
     },
     {
       "title": "Style of play",
-<<<<<<< HEAD
-      "id": "9zWdqczpLOU",
-=======
-      "id": "fQRk40jaGl",
->>>>>>> feature/content-parser
+      "id": "eWTR17rBd-",
       "cardType": "simple",
       "facts": [
         {
@@ -88,11 +80,7 @@
       "facts": [
         {
           "label": "First class Debut",
-<<<<<<< HEAD
-          "id": "uHaBkbCjRFe",
-=======
-          "id": "XGuLdEXW1k",
->>>>>>> feature/content-parser
+          "id": "Nyog9UTAQi",
           "note": "2013",
           "value": {
             "label": "Bumrah plays first-class cricket for Gujarat and he made his debut against Vidarbha in October 2013"
@@ -100,11 +88,7 @@
         },
         {
           "label": "National team debut ",
-<<<<<<< HEAD
-          "id": "GohBqPq7JD-",
-=======
-          "id": "moxzEu_djL",
->>>>>>> feature/content-parser
+          "id": "wOwYlY9voZ",
           "note": "2016",
           "value": {
             "label": "Bumrah made his international debut playing an ODI for India versus Australia",
@@ -113,19 +97,11 @@
                 "url": "/read/en/australia_cricket_team",
                 "contentUrl": "/static/content/en/australia_cricket_team.json",
                 "label": "Australia Cricket team",
-<<<<<<< HEAD
-                "id": "R2rPzTOd8cD",
-                "value": {
-                  "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/Australia_national_cricket_team#/media/File:Australia_cricket_logo.svg",
-=======
-                "id": "0WVKY4Mzv_",
+                "id": "owyuQ4WOxa",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
                     "url": "/static/images/jasprit_bumrah/Australia_cricket_logo.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of Australia Cricket team"
                   }
                 }
@@ -135,11 +111,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-<<<<<<< HEAD
-          "id": "u159eYVvSuG",
-=======
-          "id": "dtMwu23aM5",
->>>>>>> feature/content-parser
+          "id": "Pch66oUtXX",
           "note": "2017",
           "value": {
             "label": "In the Champions Trophy 2017 final, Bumrah bowled a no-ball which could have been the wicket of the batsman who eventually scored a century that helped the opposition win the match."
@@ -147,11 +119,7 @@
         },
         {
           "label": "IPL Debut",
-<<<<<<< HEAD
-          "id": "elB76cCaFUS",
-=======
-          "id": "ySc4EXdLyd",
->>>>>>> feature/content-parser
+          "id": "bVybtI7Yz4",
           "note": "2013",
           "value": {
             "label": "In his Indian Premier League debut match versus RCB, Bumrah took 3 wickets",
@@ -160,19 +128,11 @@
                 "url": "/read/en/mumbai_indians",
                 "contentUrl": "/static/content/en/mumbai_indians.json",
                 "label": "Mumbai Indians",
-<<<<<<< HEAD
-                "id": "huSZwSdP6PJ",
-                "value": {
-                  "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/Mumbai_Indians#/media/File:Mumbai_Indians_Logo.svg",
-=======
-                "id": "pqjVasEm-S",
+                "id": "f0E2XDyq68",
                 "value": {
                   "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
                   "image": {
                     "url": "/static/images/jasprit_bumrah/Mumbai_Indians_Logo.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of Mumbai Indians"
                   }
                 }
@@ -181,8 +141,6 @@
           }
         }
       ]
-<<<<<<< HEAD
-=======
     },
     {
       "title": "Achievements & Records",
@@ -251,13 +209,13 @@
       "facts": [
         {
           "label": "Indian national cricket team (2016-present)",
-          "id": "dBKJUOiW74",
+          "id": "CbIgBZNlhh",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "veiyUknpki",
+                "id": "0vJ7ZdWxb2",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -273,13 +231,13 @@
         },
         {
           "label": "Mumbai Indians (2013-present)",
-          "id": "vnKHmfbFMb",
+          "id": "H6Aw1LZvWz",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Mumbai Indians",
-                "id": "jA2I6kkqh4",
+                "id": "gz_Jz9SChB",
                 "url": "/read/en/mumbai_indians",
                 "contentUrl": "/static/content/en/mumbai_indians.json",
                 "value": {
@@ -295,7 +253,7 @@
         },
         {
           "label": "Gujarat (2012-present)",
-          "id": "Xq3BA9lKVo",
+          "id": "xpNWRoXb1t",
           "value": {
             "label": "Gujarat cricket team is one of three Ranji Trophy cricket teams representing the state of Gujarat"
           }
@@ -306,7 +264,6 @@
       "title": "Awards & Honors",
       "cardType": "tag_card",
       "facts": []
->>>>>>> feature/content-parser
     }
   ]
 }

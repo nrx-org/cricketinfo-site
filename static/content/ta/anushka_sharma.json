@@ -2,11 +2,7 @@
   "title": "அனுஷ்கா ஷர்மா",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Anushka_Sharma",
   "coverImage": {
-<<<<<<< HEAD
-    "url": "https://commons.wikimedia.org/wiki/File:Anushka_Sharma_promoting_Zero.jpg",
-=======
     "url": "/static/images/anushka_sharma/Anushka_Sharma_promoting_Zero.jpg",
->>>>>>> feature/content-parser
     "altText": "Image of அனுஷ்கா ஷர்மா"
   },
   "summary": "அனுஷ்கா ஷர்மா ஒரு இந்தி நடிகை மற்றும் திரைப்படத் தயாரிப்பாளர் ஆவார்.",
@@ -78,11 +74,7 @@
             "url": "/read/ta/virat_kohli",
             "contentUrl": "/static/content/ta/virat_kohli.json",
             "image": {
-<<<<<<< HEAD
-              "url": "https://commons.wikimedia.org/wiki/File:Virat..Kohli.jpg",
-=======
               "url": "/static/images/anushka_sharma/Virat..Kohli.jpg",
->>>>>>> feature/content-parser
               "altText": "Picture of விராட் கோலி"
             }
           }
@@ -107,17 +99,7 @@
     },
     {
       "title": "Style of play",
-<<<<<<< HEAD
-      "id": "EGpO4QqvoTpq",
-      "cardType": "simple",
-      "facts": [
-        {
-          "label": "",
-          "value": {
-            "label": ""
-          }
-=======
-      "id": "00P_NvL_391",
+      "id": "fPwcqjgyoT_",
       "cardType": "simple",
       "facts": [
         {
@@ -191,15 +173,10 @@
               "altText": ""
             }
           }
->>>>>>> feature/content-parser
         }
       ]
     },
     {
-<<<<<<< HEAD
-      "title": "Phase(s)",
-      "cardType": "vertical_timeline",
-=======
       "title": "Team(s)",
       "cardType": "list_card",
       "facts": []
@@ -207,7 +184,6 @@
     {
       "title": "Awards & Honors",
       "cardType": "tag_card",
->>>>>>> feature/content-parser
       "facts": []
     }
   ]

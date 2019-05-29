@@ -2,14 +2,9 @@
   "title": "Ben Stokes",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben_Stokes",
   "coverImage": {
-<<<<<<< HEAD
-    "url": "https://commons.wikimedia.org/wiki/File:BEN_STOKES_(11704837023)_(cropped).jpg",
-    "altText": "Image of Ben Stokes"
-=======
     "url": "/static/images/ben_stokes/BEN_STOKES_%2811704837023%29_%28cropped%29.jpg",
     "altText": "Image of Ben Stokes",
     "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
->>>>>>> feature/content-parser
   },
   "summary": "Ben Stokes is an English international cricketer and former vice-captain of the England Test team.",
   "translations": [
@@ -69,11 +64,7 @@
     },
     {
       "title": "Style of play",
-<<<<<<< HEAD
-      "id": "P0jGYDmASgtN",
-=======
-      "id": "HYMjNbZCnz",
->>>>>>> feature/content-parser
+      "id": "YSzxaIbJXL",
       "cardType": "simple",
       "facts": [
         {
@@ -81,14 +72,9 @@
           "value": {
             "label": "Attacking middle-order left-handed batsman",
             "image": {
-<<<<<<< HEAD
-              "url": "https://en.wikipedia.org/wiki/Ben_Stokes#/media/File:England_vs._New_Zealand_2015_(34).jpg",
-              "altText": "Style of play for Ben Stokes"
-=======
               "url": "/static/images/ben_stokes/England_vs._New_Zealand_2015_%2834%29.jpg",
               "altText": "Style of play for Ben Stokes",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
->>>>>>> feature/content-parser
             }
           }
         }
@@ -100,11 +86,7 @@
       "facts": [
         {
           "label": "First class Debut",
-<<<<<<< HEAD
-          "id": "H2sZg2MgEia8",
-=======
-          "id": "iiz3J6lNIA",
->>>>>>> feature/content-parser
+          "id": "PGu13Ob4x",
           "note": "2010",
           "value": {
             "label": "Stokes made his first-class debut for Durham against the Marylebone Cricket Club (MCC)"
@@ -112,11 +94,7 @@
         },
         {
           "label": "National team debut ",
-<<<<<<< HEAD
-          "id": "CGugYceg99F7",
-=======
-          "id": "lZSXGxH0YC",
->>>>>>> feature/content-parser
+          "id": "DCDsRpIdW8",
           "note": "2011",
           "value": {
             "label": "Stokes made his international debut in a One Day International (ODI) against Ireland in August 2011."
@@ -124,11 +102,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-<<<<<<< HEAD
-          "id": "JaJkZ374QF6o",
-=======
-          "id": "m6Cagnc7Oq",
->>>>>>> feature/content-parser
+          "id": "ltm7v6EMtQ",
           "note": "2016",
           "value": {
             "label": "Stokes was part of the England team that finished as runner's up in the tournament"
@@ -136,19 +110,13 @@
         },
         {
           "label": "IPL Debut",
-<<<<<<< HEAD
-          "id": "etCSbZJQBSLv",
-=======
-          "id": "kQiK3a6kf3",
->>>>>>> feature/content-parser
+          "id": "9X1rjOSVy5",
           "note": "2017",
           "value": {
             "label": "Rising Pune Supergiant was an IPL cricket team based in Pune"
           }
         }
       ]
-<<<<<<< HEAD
-=======
     },
     {
       "title": "Achievements & Records",
@@ -217,13 +185,13 @@
       "facts": [
         {
           "label": "England (2011 - present)",
-          "id": "gSpxURQLwI",
+          "id": "79mM4D9yrb",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "England cricket team",
-                "id": "PZGIL8M2i1",
+                "id": "UCzQpc9iDc",
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "value": {
@@ -239,13 +207,13 @@
         },
         {
           "label": "Rajasthan Royals (2018 - present)",
-          "id": "hKg9QhlJJLc",
+          "id": "X_PNgeuKGH",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Rajasthan Royals",
-                "id": "2Lp3mY1t5Q4",
+                "id": "bB3UPHTKZU",
                 "url": "/read/en/rajasthan_royals",
                 "contentUrl": "/static/content/en/rajasthan_royals.json",
                 "value": {
@@ -261,7 +229,7 @@
         },
         {
           "label": "Durham (2009 - present)",
-          "id": "QNziAV5k07c",
+          "id": "_LnjHGhFmC",
           "value": {
             "label": "Durham County Cricket Club is one of eighteen first-class county clubs in domestic cricket structure of England and Wales"
           }
@@ -297,7 +265,6 @@
           }
         }
       ]
->>>>>>> feature/content-parser
     }
   ]
 }

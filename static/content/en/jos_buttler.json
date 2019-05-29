@@ -2,11 +2,7 @@
   "title": "Jos Buttler",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos_Buttler",
   "coverImage": {
-<<<<<<< HEAD
-    "url": "https://commons.wikimedia.org/wiki/File:Jos_Buttler_2017.jpg",
-=======
     "url": "/static/images/jos_buttler/Jos_Buttler_2017.jpg",
->>>>>>> feature/content-parser
     "altText": "Image of Jos Buttler"
   },
   "summary": "Jos Buttler is an English international cricketer who is currently vice-captain of the England cricket team.",
@@ -74,11 +70,7 @@
           "value": {
             "label": "Buttler was named Young Wisden Schools Cricketer of the Year in 2010.",
             "image": {
-<<<<<<< HEAD
-              "url": "https://commons.wikimedia.org/wiki/File:Kingscollegetaunton.jpg",
-=======
               "url": "/static/images/jos_buttler/Kingscollegetaunton.jpg",
->>>>>>> feature/content-parser
               "altText": "Image of King's College, Taunton"
             }
           }
@@ -87,11 +79,7 @@
     },
     {
       "title": "Style of play",
-<<<<<<< HEAD
-      "id": "qkbDM5YpiLbW",
-=======
-      "id": "x5xLH7B3DS1",
->>>>>>> feature/content-parser
+      "id": "4fVPTAWuSXd",
       "cardType": "simple",
       "facts": [
         {
@@ -99,11 +87,7 @@
           "value": {
             "label": "Right-handed batsman and wicket-keeper ",
             "image": {
-<<<<<<< HEAD
-              "url": "https://en.wikipedia.org/wiki/Jos_Buttler#/media/File:Jos_buttler_keeping.jpg",
-=======
               "url": "/static/images/jos_buttler/Jos_buttler_keeping.jpg",
->>>>>>> feature/content-parser
               "altText": "Style of play for Jos Buttler"
             }
           }
@@ -116,11 +100,7 @@
       "facts": [
         {
           "label": "First class Debut",
-<<<<<<< HEAD
-          "id": "qexzxUQBspkO",
-=======
-          "id": "KQPjiNMdmOa",
->>>>>>> feature/content-parser
+          "id": "x9wE_-qykBo",
           "note": "2009",
           "value": {
             "label": "Buttler made his first-class debut for Somerset in September 2009 against Lancashire."
@@ -128,11 +108,7 @@
         },
         {
           "label": "National team debut ",
-<<<<<<< HEAD
-          "id": "ZiHgni_YsYbh",
-=======
-          "id": "hYwcqldWf3D",
->>>>>>> feature/content-parser
+          "id": "4Lo_xmo5IBc",
           "note": "2011",
           "value": {
             "label": "Buttler made his international debut as a specialist batsman in 2011",
@@ -141,19 +117,11 @@
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "label": "India national cricket team",
-<<<<<<< HEAD
-                "id": "Pgx7JXAQTKB8",
-                "value": {
-                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India#/media/File:Cricket_India_Crest.svg",
-=======
-                "id": "HiAqd3ufVO8",
+                "id": "a1pyxJLFrq4",
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
                     "url": "/static/images/jos_buttler/Cricket_India_Crest.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of India national cricket team"
                   }
                 }
@@ -163,11 +131,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-<<<<<<< HEAD
-          "id": "GLVqulm052Qz",
-=======
-          "id": "nAXLSvpfnHp",
->>>>>>> feature/content-parser
+          "id": "0SzQxVfER8G",
           "note": "2012",
           "value": {
             "label": "Buttler played in all five of England's matches in the competition"
@@ -175,11 +139,7 @@
         },
         {
           "label": "IPL Debut",
-<<<<<<< HEAD
-          "id": "0rhGvENdxwV1",
-=======
-          "id": "ZXB1jTuQR5E",
->>>>>>> feature/content-parser
+          "id": "6-l5TXyP1XA",
           "note": "2016",
           "value": {
             "label": "Buttler played for Mumbai Indians in the 2016 and 2017 IPL seasons",
@@ -188,19 +148,11 @@
                 "url": "/read/en/mumbai_indians",
                 "contentUrl": "/static/content/en/mumbai_indians.json",
                 "label": "Mumbai Indians",
-<<<<<<< HEAD
-                "id": "6vrr9pwi8CgB",
-                "value": {
-                  "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/Mumbai_Indians#/media/File:Mumbai_Indians_Logo.svg",
-=======
-                "id": "M1wVA_1NTIu",
+                "id": "vQ8csfzpLCD",
                 "value": {
                   "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
                   "image": {
                     "url": "/static/images/jos_buttler/Mumbai_Indians_Logo.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of Mumbai Indians"
                   }
                 }
@@ -209,8 +161,6 @@
           }
         }
       ]
-<<<<<<< HEAD
-=======
     },
     {
       "title": "Achievements & Records",
@@ -279,13 +229,13 @@
       "facts": [
         {
           "label": "England (2011 - present)",
-          "id": "JjYpOizw10X",
+          "id": "0gDVu3Jgc33",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "England cricket team",
-                "id": "K_XemCf9cc5",
+                "id": "tzwzIDhLI4b",
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "value": {
@@ -301,13 +251,13 @@
         },
         {
           "label": "Rajasthan Royals (2018 - present)",
-          "id": "RkykaARMRMY",
+          "id": "8tUUBd947kA",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Rajasthan Royals",
-                "id": "G9FicxybXiD",
+                "id": "ych6finZcZ4",
                 "url": "/read/en/rajasthan_royals",
                 "contentUrl": "/static/content/en/rajasthan_royals.json",
                 "value": {
@@ -323,7 +273,7 @@
         },
         {
           "label": "Lancashire (2014 - present)",
-          "id": "7HjJIDZ32yf",
+          "id": "NukM7KZKvLC",
           "value": {
             "label": "Lancashire County Cricket Club is a first class English county team that represents the county of Lancashire"
           }
@@ -359,7 +309,6 @@
           }
         }
       ]
->>>>>>> feature/content-parser
     }
   ]
 }

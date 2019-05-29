@@ -2,11 +2,7 @@
   "title": "शोएब मलिक",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Shoaib_Malik",
   "coverImage": {
-<<<<<<< HEAD
-    "url": "https://en.wikipedia.org/wiki/Shoaib_Malik#/media/File:Shoaib_Malik.jpg",
-=======
     "url": "/static/images/shoaib_malik/Shoaib_Malik.jpg",
->>>>>>> feature/content-parser
     "altText": "Image of शोएब मलिक"
   },
   "summary": "शोएब मलिक एक पाकिस्तानी क्रिकेटर हैं और 2007 से 2009 तक पाकिस्तान टीम के कप्तान रहे हैं।",
@@ -78,14 +74,9 @@
             "url": null,
             "contentUrl": null,
             "image": {
-<<<<<<< HEAD
-              "url": "https://en.wikipedia.org/wiki/Sania_Mirza#/media/File:Sania_Mirza_(35449409862).jpg",
-              "altText": "Picture of सानिया मिर्जा"
-=======
               "url": "/static/images/shoaib_malik/Sania_Mirza_%2835449409862%29.jpg",
               "altText": "Picture of सानिया मिर्जा",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
->>>>>>> feature/content-parser
             }
           }
         }
@@ -93,42 +84,7 @@
     },
     {
       "title": "Style of play",
-<<<<<<< HEAD
-      "id": "qjUwfC96dODf",
-      "cardType": "simple",
-      "facts": [
-        {
-          "label": "",
-          "value": {
-            "label": "मलिक को एक लचीला खिलाड़ी माना जाता है। वे बड़े शॉट्स लगाने के साथ ही अच्छे प्‍लेसमेंट के साथ स्ट्राइक रोटेट करने में भी सक्षम हैं। प्रति 100 गेंदों पर उनकी स्‍ट्राइक रेट 80.4 रन है, जो उन्‍हें राहुल द्रविड़ और इंजमाम उल-हक जैसे खिलाड़ियों के समकक्ष लाती है। \"पॉवर हिटिंग\" का उनका सर्वश्रेष्‍ठ प्रदर्शन 2003 में दक्षिण अफ्रीका के खिलाफ आया जब उन्होंने 41 गेंदों पर 82 रन बनाए।",
-            "image": {
-              "url": "https://en.wikipedia.org/wiki/Shoaib_Malik#/media/File:Shoaib_Malik,_Dunedin,_NZ,_2009.jpg",
-              "altText": "Style of play for शोएब मलिक"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Phase(s)",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "प्रथम श्रेणी की शुरुआत",
-          "id": "1j0v5Xl6nd1H",
-          "note": "",
-          "value": {
-            "label": ""
-          }
-        },
-        {
-          "label": "राष्ट्रीय टीम ",
-          "id": "B9wOcPGuDstp",
-          "note": "",
-          "value": {
-            "label": "शोएब मलिक ने 14 अक्तूबर, 1999 को वेस्ट इंडीज के विरुद्ध ओडीआई में पदार्पण किया। "
-=======
-      "id": "3jfujdiyI",
+      "id": "AwDo7R0dwl",
       "cardType": "simple",
       "facts": [
         {
@@ -150,7 +106,7 @@
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": "-qUHvfooIS",
+          "id": "R2oKO7urE",
           "note": "",
           "value": {
             "label": ""
@@ -158,7 +114,7 @@
         },
         {
           "label": "राष्ट्रीय टीम ",
-          "id": "H9WUYl0TT2",
+          "id": "Rjyd51FTSH",
           "note": "",
           "value": {
             "label": "शोएब मलिक ने 14 अक्तूबर, 1999 को वेस्ट इंडीज के विरुद्ध ओडीआई में पदार्पण किया। "
@@ -166,7 +122,7 @@
         },
         {
           "label": "IPL डेब्यू",
-          "id": "YwG8m6kFJq",
+          "id": "Tmka7MXif6",
           "note": "",
           "value": {
             "label": ""
@@ -231,7 +187,6 @@
               "url": "",
               "altText": ""
             }
->>>>>>> feature/content-parser
           }
         }
       ]
@@ -241,18 +196,10 @@
       "cardType": "list_card",
       "facts": [
         {
-<<<<<<< HEAD
-          "label": "IPL डेब्यू",
-          "id": "m8PPTT8EYuFz",
-          "note": "",
-          "value": {
-            "label": ""
-=======
           "label": "पाकिस्तानी राष्ट्रीय क्रिकेट टीम (1999- अब तक )",
-          "id": "_k67uC-1r5",
+          "id": "OYiKk4GJ9C",
           "value": {
             "label": "पाकिस्तानी पुरूष राष्‍ट्रीय क्रिकेट टीम जो शाहीन ग्रीन शर्ट और मैन इन ग्रीन के रूप में लो‍कप्रिय है, पाकिस्तान क्रिकेट बोर्ड (पीसीबी) द्वारा शासित है।"
->>>>>>> feature/content-parser
           }
         }
       ]

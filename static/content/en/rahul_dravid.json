@@ -2,11 +2,7 @@
   "title": "Rahul Dravid",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Rahul_Dravid",
   "coverImage": {
-<<<<<<< HEAD
-    "url": "https://commons.wikimedia.org/wiki/File:Rahul_Dravid_at_GQ_Men_Of_The_Year_2012_AWARD.jpg",
-=======
     "url": "/static/images/rahul_dravid/Rahul_Dravid_at_GQ_Men_Of_The_Year_2012_AWARD.jpg",
->>>>>>> feature/content-parser
     "altText": "Image of Rahul Dravid"
   },
   "summary": "Rahul Dravid is a former Indian cricketer and captain, widely regarded as one of the greatest batsmen in the history of cricket.",
@@ -90,11 +86,7 @@
     },
     {
       "title": "Style of play",
-<<<<<<< HEAD
-      "id": "zQCljl78fEx",
-=======
-      "id": "qCdXUcTPNz",
->>>>>>> feature/content-parser
+      "id": "q6p8Jwcxq6",
       "cardType": "simple",
       "facts": [
         {
@@ -102,11 +94,7 @@
           "value": {
             "label": "Rahul Dravid is a right-handed batsman, and also an occasional wicket-keeper",
             "image": {
-<<<<<<< HEAD
-              "url": "https://en.wikipedia.org/wiki/Rahul_Dravid#/media/File:Rahul_cropped.jpg",
-=======
               "url": "/static/images/rahul_dravid/Rahul_cropped.jpg",
->>>>>>> feature/content-parser
               "altText": "Style of play for Rahul Dravid"
             }
           }
@@ -119,11 +107,7 @@
       "facts": [
         {
           "label": "First class Debut",
-<<<<<<< HEAD
-          "id": "Ld_yRwodX_4",
-=======
-          "id": "bDpphTCwgbe",
->>>>>>> feature/content-parser
+          "id": "yHuWl8zjcd",
           "note": "1991",
           "value": {
             "label": "Dravid made his Ranji Trophy debut in 1991versus Maharashtra."
@@ -131,11 +115,7 @@
         },
         {
           "label": "National team debut ",
-<<<<<<< HEAD
-          "id": "rztqhJRhiPB",
-=======
-          "id": "9Dk8p__TZnz",
->>>>>>> feature/content-parser
+          "id": "qfoIUCPWMT",
           "note": "1996",
           "value": {
             "label": "Dravid made his international debut in 1996 in an ODI against Sri Lanka in the Singer Cup held in Singapore.",
@@ -144,19 +124,11 @@
                 "url": "/read/en/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
                 "label": "Sri Lanka national cricket team",
-<<<<<<< HEAD
-                "id": "dVZLkw7PToq",
-                "value": {
-                  "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/Sri_Lanka_national_cricket_team#/media/File:Sri_Lanka_Cricket_Cap_Insignia.svg",
-=======
-                "id": "1pqHpCw7m-9",
+                "id": "glhGo-rpIO",
                 "value": {
                   "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
                   "image": {
                     "url": "/static/images/rahul_dravid/Sri_Lanka_Cricket_Cap_Insignia.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of Sri Lanka national cricket team"
                   }
                 }
@@ -166,11 +138,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-<<<<<<< HEAD
-          "id": "cq1OWo_5RL3",
-=======
-          "id": "88dCQH-yeLX",
->>>>>>> feature/content-parser
+          "id": "_vEQLDPa4C",
           "note": "1999",
           "value": {
             "label": "Dravid made his World Cup debut against South Africa in 1999 at Hove scoring a half century.",
@@ -179,19 +147,11 @@
                 "url": "/read/en/1999_cricket_world_cup",
                 "contentUrl": "/static/content/en/1999_cricket_world_cup.json",
                 "label": "1999 Cricket World Cup",
-<<<<<<< HEAD
-                "id": "ViXRCaQss7a",
-                "value": {
-                  "label": "The 1999 Cricket World Cup was the seventh edition of the Cricket World Cup, organised by the International Cricket Council (ICC). It was hosted primarily by England, with some games being played in Scotland, Ireland, Wales and the Netherlands.",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/1999_Cricket_World_Cup#/media/File:Wc99.png",
-=======
-                "id": "dGzGTc8oytc",
+                "id": "2irOLJby0H",
                 "value": {
                   "label": "The 1999 Cricket World Cup was the seventh edition of the Cricket World Cup, organised by the International Cricket Council (ICC). It was hosted primarily by England, with some games being played in Scotland, Ireland, Wales and the Netherlands.",
                   "image": {
                     "url": "/static/images/rahul_dravid/Wc99.png",
->>>>>>> feature/content-parser
                     "altText": "Image of 1999 Cricket World Cup"
                   }
                 }
@@ -201,11 +161,7 @@
         },
         {
           "label": "2003 World Cup",
-<<<<<<< HEAD
-          "id": "FcbICDtY0Yi",
-=======
-          "id": "epP36Yuc66E",
->>>>>>> feature/content-parser
+          "id": "U51FOLLRV1",
           "note": "2003",
           "value": {
             "label": "Dravid was the vice-captain during the 2003 World Cup, playing as a wicket-keeper batsman.",
@@ -214,19 +170,11 @@
                 "url": "/read/en/2003_cricket_world_cup",
                 "contentUrl": "/static/content/en/2003_cricket_world_cup.json",
                 "label": "2003 Cricket World Cup",
-<<<<<<< HEAD
-                "id": "UxSyyCOPt0i",
-                "value": {
-                  "label": "The 2003 Cricket World Cup was the eighth Cricket World Cup, organized by the International Cricket Council (ICC). It was co-hosted by South Africa, Zimbabwe and Kenya.",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/2003_Cricket_World_Cup#/media/File:Cricket_World_Cup_Logo_2003.svg",
-=======
-                "id": "ybwJLfKknRr",
+                "id": "UG6Syc0GQk",
                 "value": {
                   "label": "The 2003 Cricket World Cup was the eighth Cricket World Cup, organized by the International Cricket Council (ICC). It was co-hosted by South Africa, Zimbabwe and Kenya.",
                   "image": {
                     "url": "/static/images/rahul_dravid/Cricket_World_Cup_Logo_2003.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of 2003 Cricket World Cup"
                   }
                 }
@@ -236,11 +184,7 @@
         },
         {
           "label": "2007 World Cup",
-<<<<<<< HEAD
-          "id": "L_tZDfBAS9g",
-=======
-          "id": "fIcZ3NiQsEO",
->>>>>>> feature/content-parser
+          "id": "zODk3ewEZt",
           "note": "2007",
           "value": {
             "label": "Rahul Dravid was appointed the captain for the Indian team for the 2007 World Cup, where India had an unsuccessful campaign.",
@@ -249,19 +193,11 @@
                 "url": "/read/en/2007_cricket_world_cup",
                 "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
                 "label": "2007 Cricket World Cup",
-<<<<<<< HEAD
-                "id": "t0yiRPzd0FP",
-                "value": {
-                  "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/2007_Cricket_World_Cup#/media/File:2007_Cricket_World_Cup_logo.svg",
-=======
-                "id": "D874dJI9zed",
+                "id": "OWKZFYT5V3",
                 "value": {
                   "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
                   "image": {
                     "url": "/static/images/rahul_dravid/2007_Cricket_World_Cup_logo.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of 2007 Cricket World Cup"
                   }
                 }
@@ -271,11 +207,7 @@
         },
         {
           "label": "IPL Debut",
-<<<<<<< HEAD
-          "id": "JXNluofDtRR",
-=======
-          "id": "H2QIFl56lvN",
->>>>>>> feature/content-parser
+          "id": "IRjsjkYYxh",
           "note": "2008",
           "value": {
             "label": "Rahul Dravid played for Royal Challengers Bangalore in IPL 2008, 2009 and 2010.",
@@ -284,15 +216,7 @@
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "label": "Royal Challengers Bangalore",
-<<<<<<< HEAD
-                "id": "Yt2CIbpebSE",
-                "value": {
-                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/Royal_Challengers_Bangalore#/media/File:Royal_Challengers_Bangalore_Logo_2016.svg",
-                    "altText": "Image of Royal Challengers Bangalore"
-=======
-                "id": "y202x8g3k",
+                "id": "4lvfqlnOmT",
                 "value": {
                   "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
                   "image": {
@@ -373,13 +297,13 @@
       "facts": [
         {
           "label": "Indian National Cricket team (1996-2012)",
-          "id": "FAMnb95h0uV",
+          "id": "sFWPs4cG6cd",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "VjFNad3qAEa",
+                "id": "jesyB41J8FL",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -387,24 +311,21 @@
                   "image": {
                     "url": "/static/images/rahul_dravid/Cricket_India_Crest.svg",
                     "altText": "Picture of India national cricket team"
->>>>>>> feature/content-parser
                   }
                 }
               }
             ]
           }
-<<<<<<< HEAD
-=======
         },
         {
           "label": "Rajasthan Royals (2011-2013)",
-          "id": "kgZ6ap-vsxL",
+          "id": "YuDIEXItR7-",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Rajasthan Royals",
-                "id": "EcbhnHvdYSW",
+                "id": "CgScAh8gT37",
                 "url": "/read/en/rajasthan_royals",
                 "contentUrl": "/static/content/en/rajasthan_royals.json",
                 "value": {
@@ -420,7 +341,7 @@
         },
         {
           "label": "Karnataka (1990-2012)",
-          "id": "Je-mgl_hXpM",
+          "id": "AYUivbDTTi5",
           "value": {
             "label": "Domestic Ranji trophy cricket team based in the state of Karnataka"
           }
@@ -478,7 +399,6 @@
               "altText": "Image of ICC Hall of Fame"
             }
           }
->>>>>>> feature/content-parser
         }
       ]
     }

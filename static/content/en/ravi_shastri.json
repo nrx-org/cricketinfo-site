@@ -2,11 +2,7 @@
   "title": "Ravi Shastri",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ravi_Shastri",
   "coverImage": {
-<<<<<<< HEAD
-    "url": "https://commons.wikimedia.org/wiki/File:Ravi_Shastri.jpg",
-=======
     "url": "/static/images/ravi_shastri/Ravi_Shastri.jpg",
->>>>>>> feature/content-parser
     "altText": "Image of Ravi Shastri"
   },
   "summary": "Ravi Shastri is a former Indian cricket player, and current head coach of the Indian national cricket team. He is also a cricket commentator.",
@@ -74,11 +70,7 @@
           "value": {
             "label": "Under Shastri's captaincy, Don Bosco (Matunga) won the inter-school Giles Shield cricket tournament in 1977, the first time in the history of the school.",
             "image": {
-<<<<<<< HEAD
-              "url": "https://en.wikipedia.org/wiki/File:School_emblem_of_Don_Bosco,_Matunga.gif",
-=======
               "url": "/static/images/ravi_shastri/School_emblem_of_Don_Bosco,_Matunga.gif",
->>>>>>> feature/content-parser
               "altText": "Image of Don Bosco High School, Matunga, Mumbai"
             }
           }
@@ -87,11 +79,7 @@
     },
     {
       "title": "Style of play",
-<<<<<<< HEAD
-      "id": "NupfYMMDwB5",
-=======
-      "id": "O2U04yNUBa5",
->>>>>>> feature/content-parser
+      "id": "IintfHImato",
       "cardType": "simple",
       "facts": [
         {
@@ -108,11 +96,7 @@
       "facts": [
         {
           "label": "First class Debut",
-<<<<<<< HEAD
-          "id": "RMw0ub6Z8Jj",
-=======
-          "id": "XnB-gYaolH_",
->>>>>>> feature/content-parser
+          "id": "O2zpXXnlCOM",
           "note": "1979",
           "value": {
             "label": "At 17 years and 292 days, Shastri was then the youngest cricketer to debut and play for Bombay in Ranji Trophy."
@@ -120,11 +104,7 @@
         },
         {
           "label": "National team debut ",
-<<<<<<< HEAD
-          "id": "5NVPOXvcsiX",
-=======
-          "id": "fDC64U5gBcj",
->>>>>>> feature/content-parser
+          "id": "c36JY223AYI",
           "note": "1981",
           "value": {
             "label": "Ravi Shastri made his international debut for India in 1981 versus New Zealand",
@@ -133,19 +113,11 @@
                 "url": "/read/en/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
                 "label": "New Zealand national cricket team",
-<<<<<<< HEAD
-                "id": "oTGjicQ5HZ_",
-                "value": {
-                  "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/New_Zealand_national_cricket_team#/media/File:New_Zealand_Cricket_Cap_Insignia.svg",
-=======
-                "id": "Z2PKWOwdw6K",
+                "id": "xgkYIrLi6bI",
                 "value": {
                   "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
                   "image": {
                     "url": "/static/images/ravi_shastri/New_Zealand_Cricket_Cap_Insignia.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of New Zealand national cricket team"
                   }
                 }
@@ -155,11 +127,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-<<<<<<< HEAD
-          "id": "fhabpFkQMsw",
-=======
-          "id": "TFUaPHui9t4",
->>>>>>> feature/content-parser
+          "id": "gyASZim8J_o",
           "note": "1983",
           "value": {
             "label": "Shastri was not selected to play in most of the important matches in the 1983 World Cup",
@@ -168,19 +136,11 @@
                 "url": "/read/en/1983_cricket_world_cup",
                 "contentUrl": "/static/content/en/1983_cricket_world_cup.json",
                 "label": "1983 Cricket World Cup",
-<<<<<<< HEAD
-                "id": "3V5rYm1AzF-",
-                "value": {
-                  "label": "The 1983 Cricket World Cup (officially the Prudential Cup '83) was the 3rd edition of the Cricket World Cup tournament. It was held from 9 June to 25 June 1983 in England and Wales and was won by India.",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/1983_Cricket_World_Cup#/media/File:Prudential_Cup_83_logo.svg",
-=======
-                "id": "12s2TxaDrqT",
+                "id": "xVNyKIgXVLJ",
                 "value": {
                   "label": "The 1983 Cricket World Cup (officially the Prudential Cup '83) was the 3rd edition of the Cricket World Cup tournament. It was held from 9 June to 25 June 1983 in England and Wales and was won by India.",
                   "image": {
                     "url": "/static/images/ravi_shastri/Prudential_Cup_83_logo.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of 1983 Cricket World Cup"
                   }
                 }
@@ -190,19 +150,13 @@
         },
         {
           "label": "IPL Debut",
-<<<<<<< HEAD
-          "id": "zeHpb7cN5bB",
-=======
-          "id": "9z3qEjRmyG0",
->>>>>>> feature/content-parser
+          "id": "zPXfgQ_8ynu",
           "note": "",
           "value": {
             "label": ""
           }
         }
       ]
-<<<<<<< HEAD
-=======
     },
     {
       "title": "Achievements & Records",
@@ -271,13 +225,13 @@
       "facts": [
         {
           "label": "Indian National Cricket team (1981-1992)",
-          "id": "Y61to-jH6sL",
+          "id": "Ef3_GYUgbYP",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "gcaDk0iZmpH",
+                "id": "-rEyWkHZyPl",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -293,7 +247,7 @@
         },
         {
           "label": "Bombay (now Mumbai) (1979-1993)",
-          "id": "_8GaO7goUjp",
+          "id": "Qr3fA9QWyfy",
           "value": {
             "label": "Domestic Ranji trophy cricket team based in Mumbai"
           }
@@ -317,7 +271,6 @@
           }
         }
       ]
->>>>>>> feature/content-parser
     }
   ]
 }

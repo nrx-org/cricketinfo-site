@@ -2,11 +2,7 @@
   "title": "Glenn McGrath",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Glenn_McGrath",
   "coverImage": {
-<<<<<<< HEAD
-    "url": "https://commons.wikimedia.org/wiki/File:Glenn_McGrath_01_crop_2.jpg",
-=======
     "url": "/static/images/glenn_mcgrath/Glenn_McGrath_01_crop_2.jpg",
->>>>>>> feature/content-parser
     "altText": "Image of Glenn McGrath"
   },
   "summary": "Glenn McGrath is a former Australian cricketer who is considered one of the greatest bowlers in cricketing history",
@@ -73,11 +69,7 @@
     },
     {
       "title": "Style of play",
-<<<<<<< HEAD
-      "id": "OGTunD_qVhL",
-=======
-      "id": "1TmHPYRzw0",
->>>>>>> feature/content-parser
+      "id": "MmaLC0ZUir",
       "cardType": "simple",
       "facts": [
         {
@@ -85,11 +77,7 @@
           "value": {
             "label": "McGrath was regarded as one of the best fast bowlers in the world who relied on accuracy rather than pace.",
             "image": {
-<<<<<<< HEAD
-              "url": "https://en.wikipedia.org/wiki/Glenn_McGrath#/media/File:Glenn_McGrath_in_final_test_series.jpg",
-=======
               "url": "/static/images/glenn_mcgrath/Glenn_McGrath_in_final_test_series.jpg",
->>>>>>> feature/content-parser
               "altText": "Style of play for Glenn McGrath"
             }
           }
@@ -102,11 +90,7 @@
       "facts": [
         {
           "label": "First class Debut",
-<<<<<<< HEAD
-          "id": "4jMRBAim_KY",
-=======
-          "id": "muNxzwVbS6u",
->>>>>>> feature/content-parser
+          "id": "QwFeqaP2zV",
           "note": "1992",
           "value": {
             "label": "Glenn McGrath made his first class debut for New South Wales during the 1992–93 season"
@@ -114,11 +98,7 @@
         },
         {
           "label": "National team debut ",
-<<<<<<< HEAD
-          "id": "BThVvPcKB6U",
-=======
-          "id": "hgRS1xuDJ7v",
->>>>>>> feature/content-parser
+          "id": "v2TbtaX3kG",
           "note": "1993",
           "value": {
             "label": "McGrath's Test debut was against New Zealand at Perth in 1993",
@@ -127,19 +107,11 @@
                 "url": "/read/en/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
                 "label": "New Zealand national cricket team",
-<<<<<<< HEAD
-                "id": "KkItHygloNm",
-                "value": {
-                  "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/New_Zealand_national_cricket_team#/media/File:New_Zealand_Cricket_Cap_Insignia.svg",
-=======
-                "id": "UldW_-tde",
+                "id": "79f0bmg_KA",
                 "value": {
                   "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
                   "image": {
                     "url": "/static/images/glenn_mcgrath/New_Zealand_Cricket_Cap_Insignia.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of New Zealand national cricket team"
                   }
                 }
@@ -149,11 +121,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-<<<<<<< HEAD
-          "id": "T7eacoWSwj-",
-=======
-          "id": "8On1Sghr9C",
->>>>>>> feature/content-parser
+          "id": "zZwUwakmU_",
           "note": "1996",
           "value": {
             "label": ""
@@ -161,11 +129,7 @@
         },
         {
           "label": "IPL Debut",
-<<<<<<< HEAD
-          "id": "2PACkBPFIs0",
-=======
-          "id": "IWO__SswZ9",
->>>>>>> feature/content-parser
+          "id": "SRQLl_785u",
           "note": "2008",
           "value": {
             "label": "McGrath was signed by the Delhi DareDevils for the first season of the Indian Premier League in 2008, for a sum of US$350,000.",
@@ -174,19 +138,11 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-<<<<<<< HEAD
-                "id": "OevoRRkTuyg",
-                "value": {
-                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/Delhi_Capitals#/media/File:Delhi_Capitals_Logo.svg",
-=======
-                "id": "VzyzedyTep",
+                "id": "ZmTbRmJ5hL",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
                     "url": "/static/images/glenn_mcgrath/Delhi_Capitals_Logo.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of Delhi Capitals"
                   }
                 }
@@ -195,8 +151,6 @@
           }
         }
       ]
-<<<<<<< HEAD
-=======
     },
     {
       "title": "Achievements & Records",
@@ -265,13 +219,13 @@
       "facts": [
         {
           "label": "Australia (1993-2007)",
-          "id": "qZ_LwSAqc3n",
+          "id": "bOF0ubcVUjb",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Australia Cricket team",
-                "id": "awFlxyrV90N",
+                "id": "kj8oJPSkGrs",
                 "url": "/read/en/australia_cricket_team",
                 "contentUrl": "/static/content/en/australia_cricket_team.json",
                 "value": {
@@ -287,13 +241,13 @@
         },
         {
           "label": "Delhi Daredevils (2008)",
-          "id": "X80rJtZK6FU",
+          "id": "xEUb6V6qW-n",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Delhi Capitals",
-                "id": "dExgXWs5ujr",
+                "id": "OX7lci6hva6",
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "value": {
@@ -309,7 +263,7 @@
         },
         {
           "label": "New South Wales (1992-2007)",
-          "id": "OcSk7RH4bfe",
+          "id": "5msLow54tPp",
           "value": {
             "label": "The New South Wales cricket team (currently named NSW Blues) are an Australian men's professional first class cricket team based in Sydney."
           }
@@ -357,7 +311,6 @@
           }
         }
       ]
->>>>>>> feature/content-parser
     }
   ]
 }

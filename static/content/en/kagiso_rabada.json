@@ -2,11 +2,7 @@
   "title": "Kagiso Rabada",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Kagiso_Rabada",
   "coverImage": {
-<<<<<<< HEAD
-    "url": "https://en.wikipedia.org/wiki/Kagiso_Rabada#/media/File:Rabada.jpg",
-=======
     "url": "/static/images/kagiso_rabada/Rabada.jpg",
->>>>>>> feature/content-parser
     "altText": "Image of Kagiso Rabada"
   },
   "summary": "Kagiso Rabada is a South African international cricketer who plays all formats of the game. Rabada, who is known by the nickname KG, is a fast bowler and plays domestic cricket for the Highveld Lions. ",
@@ -75,11 +71,7 @@
     },
     {
       "title": "Style of play",
-<<<<<<< HEAD
-      "id": "sH4br71qTTA",
-=======
-      "id": "yOjjRWAYL",
->>>>>>> feature/content-parser
+      "id": "80ynwnekS",
       "cardType": "simple",
       "facts": [
         {
@@ -87,14 +79,9 @@
           "value": {
             "label": "",
             "image": {
-<<<<<<< HEAD
-              "url": "https://en.wikipedia.org/wiki/Kagiso_Rabada#/media/File:KAGISO_RABADA_(15085792033).jpg",
-              "altText": "Style of play for Kagiso Rabada"
-=======
               "url": "/static/images/kagiso_rabada/KAGISO_RABADA_%2815085792033%29.jpg",
               "altText": "Style of play for Kagiso Rabada",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
->>>>>>> feature/content-parser
             }
           }
         }
@@ -106,11 +93,7 @@
       "facts": [
         {
           "label": "First class Debut",
-<<<<<<< HEAD
-          "id": "0XNBoY3v3Jp",
-=======
-          "id": "GWzwLVGz-",
->>>>>>> feature/content-parser
+          "id": "p4bCoXvN-",
           "note": "2013",
           "value": {
             "label": "Rabada made his debut for the Gauteng in the CSA Provincial One-Day Competition against Border in December 2013."
@@ -118,11 +101,7 @@
         },
         {
           "label": "National team debut ",
-<<<<<<< HEAD
-          "id": "T4PAv2-gOsb",
-=======
-          "id": "UJzUKIs_bB",
->>>>>>> feature/content-parser
+          "id": "JgBr5KihmL",
           "note": "",
           "value": {
             "label": "Rabada made his Twenty20 International debut for South Africa against Australia on 5 November 2014.",
@@ -131,19 +110,11 @@
                 "url": "/read/en/australia_cricket_team",
                 "contentUrl": "/static/content/en/australia_cricket_team.json",
                 "label": "Australia Cricket team",
-<<<<<<< HEAD
-                "id": "poXdo4qzUo7",
-                "value": {
-                  "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/Australia_national_cricket_team#/media/File:Australia_cricket_logo.svg",
-=======
-                "id": "Axx2E0CaRz",
+                "id": "vn0GeRCtio",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
                     "url": "/static/images/kagiso_rabada/Australia_cricket_logo.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of Australia Cricket team"
                   }
                 }
@@ -153,11 +124,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-<<<<<<< HEAD
-          "id": "Rv-rB2_HyWZ",
-=======
-          "id": "GIDEvVqXfb",
->>>>>>> feature/content-parser
+          "id": "MbzVTRk0i3",
           "note": "",
           "value": {
             "label": "Rabada was chosen to represent South Africa's Under-19 side for the 2014 ICC Under-19 Cricket World Cup. "
@@ -165,11 +132,7 @@
         },
         {
           "label": "World Cup Appearance",
-<<<<<<< HEAD
-          "id": "Z1lDzZbPUVd",
-=======
-          "id": "deTH6UJTmx",
->>>>>>> feature/content-parser
+          "id": "r8JDJ8f9Pr",
           "note": "2019",
           "value": {
             "label": "In April 2019, he was named in South Africa's squad for the 2019 Cricket World Cup."
@@ -177,11 +140,7 @@
         },
         {
           "label": "IPL Debut",
-<<<<<<< HEAD
-          "id": "dAr9hGkAou1",
-=======
-          "id": "jEuOqUqX5A",
->>>>>>> feature/content-parser
+          "id": "rUSan4_E5D",
           "note": "2017",
           "value": {
             "label": "In February 2017, Rabada was bought by the Delhi Daredevils team for the 2017 Indian Premier League for INR 50 million.",
@@ -190,27 +149,17 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-<<<<<<< HEAD
-                "id": "ODeE358O7nf",
-                "value": {
-                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/Delhi_Capitals#/media/File:Delhi_Capitals_Logo.svg",
-=======
-                "id": "opjc5149Kt",
+                "id": "z6T58lMX5d",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
                     "url": "/static/images/kagiso_rabada/Delhi_Capitals_Logo.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of Delhi Capitals"
                   }
                 }
               }
             ]
           }
-<<<<<<< HEAD
-=======
         }
       ]
     },
@@ -281,13 +230,13 @@
       "facts": [
         {
           "label": "South African Nation team (2014- present)",
-          "id": "BNvS-KnjVw",
+          "id": "u5tclg7nC-",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "South Africa national cricket team",
-                "id": "juoz4CjCw5",
+                "id": "rZfT5qnov4",
                 "url": "/read/en/south_africa_national_cricket_team",
                 "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
                 "value": {
@@ -303,13 +252,13 @@
         },
         {
           "label": "Delhi capitals (2017- present)",
-          "id": "9SifRPCxBj",
+          "id": "jnOFENQM4Y",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Delhi Capitals",
-                "id": "BqDD1GNOYx",
+                "id": "mDGy0mR5py",
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "value": {
@@ -322,7 +271,6 @@
               }
             ]
           }
->>>>>>> feature/content-parser
         }
       ]
     },

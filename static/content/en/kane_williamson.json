@@ -2,14 +2,9 @@
   "title": "Kane Williamson",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Kane_Williamson",
   "coverImage": {
-<<<<<<< HEAD
-    "url": "https://commons.wikimedia.org/wiki/File:Kane_Williamson_(9773667991).jpg",
-    "altText": "Image of Kane Williamson"
-=======
     "url": "/static/images/kane_williamson/Kane_Williamson_%289773667991%29.jpg",
     "altText": "Image of Kane Williamson",
     "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
->>>>>>> feature/content-parser
   },
   "summary": "Kane Williamson is an international cricket player from New Zealand and also the current captain of the team.",
   "translations": [
@@ -76,11 +71,7 @@
           "value": {
             "label": "Williamson scored 40 centuries before he left school.",
             "image": {
-<<<<<<< HEAD
-              "url": "https://en.wikipedia.org/wiki/File:Tbc_crest.png",
-=======
               "url": "/static/images/kane_williamson/Tbc_crest.png",
->>>>>>> feature/content-parser
               "altText": "Image of Tauranga Boys' College"
             }
           }
@@ -89,11 +80,7 @@
     },
     {
       "title": "Style of play",
-<<<<<<< HEAD
-      "id": "ZiG7GD8ZGTQG",
-=======
-      "id": "G_cyE9Lwdq",
->>>>>>> feature/content-parser
+      "id": "5KsoExifq",
       "cardType": "simple",
       "facts": [
         {
@@ -101,14 +88,9 @@
           "value": {
             "label": "Right-handed batsman and an occasional off spin bowler",
             "image": {
-<<<<<<< HEAD
-              "url": "https://en.wikipedia.org/wiki/Kane_Williamson#/media/File:Kane_Williamson_(9773667991).jpg",
-              "altText": "Style of play for Kane Williamson"
-=======
               "url": "/static/images/kane_williamson/Kane_Williamson_%289773667991%29.jpg",
               "altText": "Style of play for Kane Williamson",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
->>>>>>> feature/content-parser
             }
           }
         }
@@ -120,11 +102,7 @@
       "facts": [
         {
           "label": "First class Debut",
-<<<<<<< HEAD
-          "id": "pj2c-MK3jQLN",
-=======
-          "id": "r4HMSbB9k",
->>>>>>> feature/content-parser
+          "id": "XhZ0269Iih",
           "note": "2007",
           "value": {
             "label": "Williamson made his first-class cricket debut in December 2007"
@@ -132,11 +110,7 @@
         },
         {
           "label": "National team debut ",
-<<<<<<< HEAD
-          "id": "MmxqAqP-2tcb",
-=======
-          "id": "ajJsY61puG",
->>>>>>> feature/content-parser
+          "id": "de1JYd06Fs",
           "note": "2010",
           "value": {
             "label": "Williamson made his One-Day International debut against India, and was dismissed for a duck.",
@@ -145,19 +119,11 @@
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "label": "India national cricket team",
-<<<<<<< HEAD
-                "id": "i4hPqsdQcTgy",
-                "value": {
-                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India#/media/File:Cricket_India_Crest.svg",
-=======
-                "id": "OOVYrOzdoa",
+                "id": "_AilWkALMd",
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
                     "url": "/static/images/kane_williamson/Cricket_India_Crest.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of India national cricket team"
                   }
                 }
@@ -167,11 +133,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-<<<<<<< HEAD
-          "id": "LPq0EMpjE7Hn",
-=======
-          "id": "uSYrQVFBz_",
->>>>>>> feature/content-parser
+          "id": "hit1pZQ47y",
           "note": "2011",
           "value": {
             "label": ""
@@ -179,19 +141,13 @@
         },
         {
           "label": "IPL Debut",
-<<<<<<< HEAD
-          "id": "uQZyl1hhWVae",
-=======
-          "id": "XuB1FY_Me4",
->>>>>>> feature/content-parser
+          "id": "Uvs27Cwm5uL",
           "note": "",
           "value": {
             "label": ""
           }
         }
       ]
-<<<<<<< HEAD
-=======
     },
     {
       "title": "Achievements & Records",
@@ -260,13 +216,13 @@
       "facts": [
         {
           "label": "New Zealand (2010 - present)",
-          "id": "5Kn44eOmIH",
+          "id": "pdVqBaxnjBB",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "New Zealand national cricket team",
-                "id": "YwtVtChHmA",
+                "id": "8FrdYXNrolP",
                 "url": "/read/en/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
                 "value": {
@@ -282,13 +238,13 @@
         },
         {
           "label": "Sunrisers Hyderabad (2015 - present)",
-          "id": "805GPGJ4ei",
+          "id": "4iF4bsR_00T",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Sunrisers Hyderabad",
-                "id": "xi0qVnrG8Q",
+                "id": "hFW0a5TIA8i",
                 "url": "/read/en/sunrisers_hyderabad",
                 "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
                 "value": {
@@ -304,7 +260,7 @@
         },
         {
           "label": "Northern Districts (2007 - present)",
-          "id": "YkDscEVRkj",
+          "id": "4mseFab8zYJ",
           "value": {
             "label": "Northern Districts cricket team is a first-class cricket team from New Zealand."
           }
@@ -340,7 +296,6 @@
           }
         }
       ]
->>>>>>> feature/content-parser
     }
   ]
 }

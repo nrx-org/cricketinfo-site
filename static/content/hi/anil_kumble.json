@@ -2,11 +2,7 @@
   "title": "अनिल कुंबले",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Anil_Kumble",
   "coverImage": {
-<<<<<<< HEAD
-    "url": "https://commons.wikimedia.org/wiki/File:Anil_Kumble.jpg",
-=======
     "url": "/static/images/anil_kumble/Anil_Kumble.jpg",
->>>>>>> feature/content-parser
     "altText": "Image of अनिल कुंबले"
   },
   "summary": "अनिल कुंबले भारत के एक पूर्व क्रिकेटर और टेस्ट तथा अन्‍तर्राष्ट्रीय एक दिवसीय मैचों (वनडे) के पूर्व कप्तान रहे हैं, जिन्होंने 18 वर्षों तक टेस्ट और अन्‍तर्राष्ट्रीय एकदिवसीय मैच खेले।",
@@ -84,8 +80,6 @@
             "image": {
               "url": "/static/images/default_person.svg",
               "altText": "Image of राष्ट्रीय विद्यालय कॉलेज ऑफ इंजीनियरिंग"
-<<<<<<< HEAD
-=======
             }
           }
         }
@@ -93,7 +87,7 @@
     },
     {
       "title": "Style of play",
-      "id": "gnf3HWf4uAr",
+      "id": "FH3WgPly_5K",
       "cardType": "simple",
       "facts": [
         {
@@ -103,27 +97,18 @@
             "image": {
               "url": "/static/images/anil_kumble/GandM_Flare_DXM_bat-Purist_156g_ball.jpg",
               "altText": "Style of play for अनिल कुंबले"
->>>>>>> feature/content-parser
             }
           }
         }
       ]
     },
     {
-<<<<<<< HEAD
-      "title": "Style of play",
-      "id": "29xvV3U6kJ4p",
-      "cardType": "simple",
-      "facts": [
-        {
-          "label": "",
-=======
       "title": "Phase(s)",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": "qqusa7xXaaW",
+          "id": "NAWMpZFBUMd",
           "note": "1989",
           "value": {
             "label": "कुंबले ने हैदराबाद के खिलाफ कर्नाटक की ओर से प्रथम श्रेणी  क्रिकेट में 30 नवंबर 1989 को पदार्पण किया और इस मैच उन्होंने 4 विकेट प्राप्त किया। "
@@ -131,7 +116,7 @@
         },
         {
           "label": "राष्ट्रीय टीम ",
-          "id": "7OO30ih9hEU",
+          "id": "DUGBlCbZrC6",
           "note": "1990",
           "value": {
             "label": "कुंबले ने 1990 में आस्ट्रेलेशिया कप में सारजाह में श्रीलंका के विरुद्ध वनडे इंटरनेशनल में पदार्पण किया। "
@@ -139,7 +124,7 @@
         },
         {
           "label": "विश्व कप",
-          "id": "mNfC4o4Icp3",
+          "id": "7uo2hn_CvSc",
           "note": "1996",
           "value": {
             "label": "1996 के विश्व कप के लिए कुंबले का चयन भारतीय टीम में हुआ और वे इस टुर्नामेंट में सबसे ज्यादा विकेट प्राप्त करने वाले गेंदबाजों में से एक रहे। ",
@@ -148,7 +133,7 @@
                 "url": "/read/hi/1996_cricket_world_cup",
                 "contentUrl": "/static/content/hi/1996_cricket_world_cup.json",
                 "label": "1996 क्रिकेट विश्व कप",
-                "id": "pkoqrfXassr",
+                "id": "XXW9kWzjyMi",
                 "value": {
                   "label": "1996 क्रिकेट विश्व कप, जिसे उसके आधिकारिक प्रायोजकों (आईटीसी के विल्स ब्रांड) के नाम पर, विल्स वर्ल्ड कप 1996 भी कहा जाता है, छठा क्रिकेट विश्व कप था। यह पाकिस्तान और भारत द्वारा आयोजित होने वाला दूसरा, और श्रीलंका आयोजित होने वाला पहला विश्व कप था।",
                   "image": {
@@ -162,7 +147,7 @@
         },
         {
           "label": "संन्यास",
-          "id": "hnDG17KdNaS",
+          "id": "DIccuAKxKi3",
           "note": "2007",
           "value": {
             "label": "2007 के विश्व कप के बाद उन्होंने वनडे इंटरनेशनल से संन्यास लेने की घोषणा कर दी। "
@@ -170,7 +155,7 @@
         },
         {
           "label": "IPL डेब्यू",
-          "id": "6dYtEw8W3MH",
+          "id": "XYJxdCNVCJF",
           "note": "2008",
           "value": {
             "label": "रॉयल चैलेंजर्स बंगलुरु के अनुबंध के प्रति सम्मान दिखाते हुए कुंबले ने संन्यास के बाद 3 वर्ष तक इस टीम के लिए खेलना जारी रखा। "
@@ -185,76 +170,9 @@
         {
           "label": "",
           "id": "achievement_or_record_1",
->>>>>>> feature/content-parser
           "value": {
             "label": "कुंबले ऐसे दूसरे खिलाड़ी हैं जिन्होंने एक टेस्ट मैच की एक पारी में सभी 10 विकेट लिए हैं।",
             "image": {
-<<<<<<< HEAD
-              "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/GandM_Flare_DXM_bat-Purist_156g_ball.jpg",
-              "altText": "Style of play for अनिल कुंबले"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Phase(s)",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "प्रथम श्रेणी की शुरुआत",
-          "id": "P0tNkSx65jBR",
-          "note": "1989",
-          "value": {
-            "label": "कुंबले ने हैदराबाद के खिलाफ कर्नाटक की ओर से प्रथम श्रेणी  क्रिकेट में 30 नवंबर 1989 को पदार्पण किया और इस मैच उन्होंने 4 विकेट प्राप्त किया। "
-          }
-        },
-        {
-          "label": "राष्ट्रीय टीम ",
-          "id": "LsNseJ0vvy-k",
-          "note": "1990",
-          "value": {
-            "label": "कुंबले ने 1990 में आस्ट्रेलेशिया कप में सारजाह में श्रीलंका के विरुद्ध वनडे इंटरनेशनल में पदार्पण किया। "
-          }
-        },
-        {
-          "label": "विश्व कप",
-          "id": "GgNtQBoxnnjo",
-          "note": "1996",
-          "value": {
-            "label": "1996 के विश्व कप के लिए कुंबले का चयन भारतीय टीम में हुआ और वे इस टुर्नामेंट में सबसे ज्यादा विकेट प्राप्त करने वाले गेंदबाजों में से एक रहे। ",
-            "facts": [
-              {
-                "url": "/read/hi/1996_cricket_world_cup",
-                "contentUrl": "/static/content/hi/1996_cricket_world_cup.json",
-                "label": "1996 क्रिकेट विश्व कप",
-                "id": "ME5Hwp3Qgo8r",
-                "value": {
-                  "label": "1996 क्रिकेट विश्व कप, जिसे उसके आधिकारिक प्रायोजकों (आईटीसी के विल्स ब्रांड) के नाम पर, विल्स वर्ल्ड कप 1996 भी कहा जाता है, छठा क्रिकेट विश्व कप था। यह पाकिस्तान और भारत द्वारा आयोजित होने वाला दूसरा, और श्रीलंका आयोजित होने वाला पहला विश्व कप था।",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/1996_Cricket_World_Cup#/media/File:Wills_World_Cup_1996.svg",
-                    "altText": "Image of 1996 क्रिकेट विश्व कप"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "संन्यास",
-          "id": "Wq7ROYjNwylU",
-          "note": "2007",
-          "value": {
-            "label": "2007 के विश्व कप के बाद उन्होंने वनडे इंटरनेशनल से संन्यास लेने की घोषणा कर दी। "
-          }
-        },
-        {
-          "label": "IPL डेब्यू",
-          "id": "A0kAmvifAE4Q",
-          "note": "2008",
-          "value": {
-            "label": "रॉयल चैलेंजर्स बंगलुरु के अनुबंध के प्रति सम्मान दिखाते हुए कुंबले ने संन्यास के बाद 3 वर्ष तक इस टीम के लिए खेलना जारी रखा। "
-=======
               "url": "",
               "altText": "कुंबले ऐसे दूसरे खिलाड़ी हैं जिन्होंने एक टेस्ट मैच की एक पारी में सभी 10 विकेट लिए हैं।"
             }
@@ -312,21 +230,21 @@
       "facts": [
         {
           "label": "भारतीय राष्ट्रीय क्रिकेट टीम (1990-2008)",
-          "id": "g0l0jI9QpMn",
+          "id": "wYldqDogjiY",
           "value": {
             "label": "भारत की राष्ट्रीय क्रिकेट टीम, जिसे टीम इंडिया और मैन इन ब्लू के नाम से भी जाना जाता है, भारतीय क्रिकेट कंट्रोल बोर्ड द्वारा संचालित है"
           }
         },
         {
           "label": "रॉयल चैलेंजर्स बेंगलोर (2008-2010)",
-          "id": "5Yae1dnnSeD",
+          "id": "7v-RNPj0xLO",
           "value": {
             "label": "रॉयल चैलेंजर्स बैंगलोर (आरसीबी) बेंगलोर, भारत की एक फ्रैंचाइज़ी क्रिकेट टीम है।"
           }
         },
         {
           "label": "कर्नाटक (1989-2009)",
-          "id": "cHbK2MBdq1q",
+          "id": "XMZ2tFP5rTX",
           "value": {
             "label": "कर्नाटक राज्य की घरेलू रणजी ट्रॉफी क्रिकेट टीम "
           }
@@ -371,7 +289,6 @@
               "url": "/static/images/anil_kumble/ICC_Hall_Of_Fame.svg",
               "altText": "Image of आईसीसी क्रिकेट हॉल ऑफ फेम"
             }
->>>>>>> feature/content-parser
           }
         }
       ]

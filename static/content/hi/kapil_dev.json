@@ -2,11 +2,7 @@
   "title": "कपिल देव",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Kapil_Dev",
   "coverImage": {
-<<<<<<< HEAD
-    "url": "https://commons.wikimedia.org/wiki/File:Kapil_Dev_at_Equation_sports_auction.jpg",
-=======
     "url": "/static/images/kapil_dev/Kapil_Dev_at_Equation_sports_auction.jpg",
->>>>>>> feature/content-parser
     "altText": "Image of कपिल देव"
   },
   "summary": "कपिल देव, एक पूर्व भारतीय क्रिकेटर हैं जिन्होंने 1983 में विश्व कप जीतने वाली भारतीय क्रिकेट टीम की कप्तानी की थी।",
@@ -84,11 +80,7 @@
     },
     {
       "title": "Style of play",
-<<<<<<< HEAD
-      "id": "EHWsckTgIGxi",
-=======
-      "id": "NGoI2jccupQ",
->>>>>>> feature/content-parser
+      "id": "NF5mIvftEBV",
       "cardType": "simple",
       "facts": [
         {
@@ -105,11 +97,7 @@
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-<<<<<<< HEAD
-          "id": "0tvUGzB23e6p",
-=======
-          "id": "is9HPLVsYy7",
->>>>>>> feature/content-parser
+          "id": "UD8aEw5gBHC",
           "note": "1975",
           "value": {
             "label": "देव ने हरियाणा की ओर से खेलते हुए पंजाब के विरुद्ध 1975 में प्रभावी पदार्पण किया। "
@@ -117,11 +105,7 @@
         },
         {
           "label": "राष्ट्रीय टीम ",
-<<<<<<< HEAD
-          "id": "nYKU1WPpxsPt",
-=======
-          "id": "Ycut_nvQFlZ",
->>>>>>> feature/content-parser
+          "id": "I4uYCi7yqbl",
           "note": "1978",
           "value": {
             "label": "पाकिस्तान के विरुद्ध वनडे क्रिकेट में पदार्पण किया जहां उनका व्यक्तिगत प्रदर्शन मामूली रहा। "
@@ -129,11 +113,7 @@
         },
         {
           "label": "विश्व कप ",
-<<<<<<< HEAD
-          "id": "IO09ga-YJTz-",
-=======
-          "id": "PyqDblKXfps",
->>>>>>> feature/content-parser
+          "id": "YU509VCc9U_",
           "note": "1979",
           "value": {
             "label": "1979 के विश्व कप क्रिकेट में कपिलदेव और भारतीय टीम दोनों का प्रदर्शन कमजोर रहा। "
@@ -141,11 +121,7 @@
         },
         {
           "label": "1983 विश्व कप चैंपियंस\n",
-<<<<<<< HEAD
-          "id": "LCEkPPTxEpGL",
-=======
-          "id": "_1RTIZQiaLN",
->>>>>>> feature/content-parser
+          "id": "E16AUV8DDg4",
           "note": "1983",
           "value": {
             "label": "भारत ने कपिलदेव की कप्तानी में 1983 का विश्व कप जीता। ",
@@ -154,19 +130,11 @@
                 "url": "/read/hi/1983_cricket_world_cup",
                 "contentUrl": "/static/content/hi/1983_cricket_world_cup.json",
                 "label": "1983 क्रिकेट विश्व कप",
-<<<<<<< HEAD
-                "id": "KtrsBTzDMad3",
-                "value": {
-                  "label": "1983 क्रिकेट विश्व कप (आधिकारिक रूप से प्रूडेंशियल कप '83) क्रिकेट विश्व कप टूर्नामेंट का तीसरा संस्करण था। यह 9 जून से 25 जून 1983 तक इंग्लैंड और वेल्स में आयोजित किया गया था और इसे भारत ने जीता था।",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/1983_Cricket_World_Cup#/media/File:Prudential_Cup_83_logo.svg",
-=======
-                "id": "95tglMBeJtO",
+                "id": "B_tFZcyEaNe",
                 "value": {
                   "label": "1983 क्रिकेट विश्व कप (आधिकारिक रूप से प्रूडेंशियल कप '83) क्रिकेट विश्व कप टूर्नामेंट का तीसरा संस्करण था। यह 9 जून से 25 जून 1983 तक इंग्लैंड और वेल्स में आयोजित किया गया था और इसे भारत ने जीता था।",
                   "image": {
                     "url": "/static/images/kapil_dev/Prudential_Cup_83_logo.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of 1983 क्रिकेट विश्व कप"
                   }
                 }
@@ -176,11 +144,7 @@
         },
         {
           "label": "विश्व कप ",
-<<<<<<< HEAD
-          "id": "IpFYb07yVsil",
-=======
-          "id": "mX0kcho-3xK",
->>>>>>> feature/content-parser
+          "id": "pvW9gNAJd8v",
           "note": "1987",
           "value": {
             "label": "1987 के विश्व कप के लिए कपिलदेव को भारतीय टीम का कप्तान बरकरार रखा गया। "
@@ -188,11 +152,7 @@
         },
         {
           "label": "विश्व कप ",
-<<<<<<< HEAD
-          "id": "llZzNUg5wAVZ",
-=======
-          "id": "bap05L16aBR",
->>>>>>> feature/content-parser
+          "id": "s3uYHJxH1Kg",
           "note": "कपिलदेव ने अपना आखिरी विश्व कप मोहमद अजहरुद्दीन की कप्तानी में 1992 में खेला। ",
           "value": {
             "label": "विश्व कप "
@@ -200,13 +160,7 @@
         },
         {
           "label": "IPL डेब्यू",
-<<<<<<< HEAD
-          "id": "_xKyKGqhyJD9",
-          "note": "",
-          "value": {
-            "label": ""
-=======
-          "id": "QWoNgye0Hkn",
+          "id": "leBFfUlM_Fb",
           "note": "",
           "value": {
             "label": ""
@@ -281,14 +235,14 @@
       "facts": [
         {
           "label": "भारतीय राष्ट्रीय क्रिकेट टीम (1978-1994)",
-          "id": "vTvQoc-JEW",
+          "id": "ubNObc-JsZ",
           "value": {
             "label": "भारत की राष्ट्रीय क्रिकेट टीम, जिसे टीम इंडिया और मैन इन ब्लू के नाम से भी जाना जाता है, भारतीय क्रिकेट कंट्रोल बोर्ड द्वारा संचालित है"
           }
         },
         {
           "label": "हरियाणा (1975-1992)",
-          "id": "-59eK30W2Q",
+          "id": "n4Q2lR9aul",
           "value": {
             "label": "हरियाणा राज्य की घरेलू रणजी ट्रॉफी क्रिकेट टीम"
           }
@@ -357,7 +311,6 @@
               "url": "/static/images/kapil_dev/ICC_Hall_Of_Fame.svg",
               "altText": "Image of आईसीसी हॉल ऑफ फेम"
             }
->>>>>>> feature/content-parser
           }
         }
       ]

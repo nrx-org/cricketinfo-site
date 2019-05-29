@@ -2,11 +2,7 @@
   "title": "Wasim Akram",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Wasim_Akram",
   "coverImage": {
-<<<<<<< HEAD
-    "url": "https://commons.wikimedia.org/wiki/File:Wasim-akram-gesf-2018-7878.jpg",
-=======
     "url": "/static/images/wasim_akram/Wasim-akram-gesf-2018-7878.jpg",
->>>>>>> feature/content-parser
     "altText": "Image of Wasim Akram"
   },
   "summary": "Wasim Akram is a former Pakistani cricketer and captain of Pakistan national cricket team.",
@@ -74,11 +70,7 @@
           "value": {
             "label": "Wasim Akram was educated at Government Islamia College Civil Lines Lahore, where he played as an opening bowler and batsman.",
             "image": {
-<<<<<<< HEAD
-              "url": "https://commons.wikimedia.org/wiki/File:Islamia_College_Lahore_1.jpg",
-=======
               "url": "/static/images/wasim_akram/Islamia_College_Lahore_1.jpg",
->>>>>>> feature/content-parser
               "altText": "Image of Islamia College, Lahore"
             }
           }
@@ -87,11 +79,7 @@
     },
     {
       "title": "Style of play",
-<<<<<<< HEAD
-      "id": "doOl-WYgbLo",
-=======
-      "id": "TVqMwrCIm9",
->>>>>>> feature/content-parser
+      "id": "E6nmqNM-EU",
       "cardType": "simple",
       "facts": [
         {
@@ -108,11 +96,7 @@
       "facts": [
         {
           "label": "First class Debut",
-<<<<<<< HEAD
-          "id": "wgGKNhOnPRR",
-=======
-          "id": "X8WirOOIxX",
->>>>>>> feature/content-parser
+          "id": "rUry2duSGc",
           "note": "1984",
           "value": {
             "label": "Wasim Akram made his first class debut in 1984 as part of the Pakistan Automobiles Corporation team."
@@ -120,11 +104,7 @@
         },
         {
           "label": "National team debut ",
-<<<<<<< HEAD
-          "id": "dr9NEv9nQ8s",
-=======
-          "id": "Ip9jqIE-Q9",
->>>>>>> feature/content-parser
+          "id": "9DEttg-xMZ",
           "note": "1984",
           "value": {
             "label": "Akram started his ODI career against New Zealand in Pakistan in 1984 under the captaincy of Zaheer Abbas.",
@@ -133,19 +113,11 @@
                 "url": "/read/en/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
                 "label": "New Zealand national cricket team",
-<<<<<<< HEAD
-                "id": "UDZytGzvAcp",
-                "value": {
-                  "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/New_Zealand_national_cricket_team#/media/File:New_Zealand_Cricket_Cap_Insignia.svg",
-=======
-                "id": "jeV7KIioaM",
+                "id": "5qaUrSt8h4",
                 "value": {
                   "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
                   "image": {
                     "url": "/static/images/wasim_akram/New_Zealand_Cricket_Cap_Insignia.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of New Zealand national cricket team"
                   }
                 }
@@ -155,11 +127,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-<<<<<<< HEAD
-          "id": "loDgi3_UqE6",
-=======
-          "id": "VAzIIAuJWS",
->>>>>>> feature/content-parser
+          "id": "v1szGQ2yAp",
           "note": "1987",
           "value": {
             "label": "In the 1987 Cricket World Cup held for the 1st time in South Asia, Akram struggled on Pakistani pitches."
@@ -167,19 +135,13 @@
         },
         {
           "label": "IPL Debut",
-<<<<<<< HEAD
-          "id": "UVy55gTKbYP",
-=======
-          "id": "1_PvUhWE_8",
->>>>>>> feature/content-parser
+          "id": "aC8p3Oa5J9",
           "note": "",
           "value": {
             "label": ""
           }
         }
       ]
-<<<<<<< HEAD
-=======
     },
     {
       "title": "Achievements & Records",
@@ -248,13 +210,13 @@
       "facts": [
         {
           "label": "Pakistan National Cricket team (1984-2003)",
-          "id": "LMetnK6snyN",
+          "id": "dnLnB28BKWu",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Pakistan national cricket team",
-                "id": "FzpEPjwbUY6",
+                "id": "zO_blCqWjiT",
                 "url": "/read/en/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
                 "value": {
@@ -270,7 +232,7 @@
         },
         {
           "label": "Pakistan Automobiles Corporation (1984-86)",
-          "id": "frBc_a7aJwI",
+          "id": "Gi_eBCeJCT7",
           "value": {
             "label": "Pakistan Automobiles Corporation was a first-class cricket team that played in the domestic league in Pakistan between 1983 and 1994."
           }
@@ -318,7 +280,6 @@
           }
         }
       ]
->>>>>>> feature/content-parser
     }
   ]
 }

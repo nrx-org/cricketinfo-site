@@ -2,11 +2,7 @@
   "title": "Mahela Jayawardene",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahela_Jayawardene",
   "coverImage": {
-<<<<<<< HEAD
-    "url": "https://commons.wikimedia.org/wiki/File:Mahela_Jayawardene_3.JPG",
-=======
     "url": "/static/images/mahela_jayawardene/Mahela_Jayawardene_3.JPG",
->>>>>>> feature/content-parser
     "altText": "Image of Mahela Jayawardene"
   },
   "summary": "Mahela Jayawardene, is a Sri Lankan cricket coach and former international cricketer",
@@ -80,11 +76,7 @@
           "value": {
             "label": "Jayawardene captained Nalanda College Colombo's first XI cricket team in 1994",
             "image": {
-<<<<<<< HEAD
-              "url": "https://en.wikipedia.org/wiki/File:Nalanda_Crest.png",
-=======
               "url": "/static/images/mahela_jayawardene/Nalanda_Crest.png",
->>>>>>> feature/content-parser
               "altText": "Image of Nalanda College, Colombo"
             }
           }
@@ -93,11 +85,7 @@
     },
     {
       "title": "Style of play",
-<<<<<<< HEAD
-      "id": "sJgWuBDtxvoE",
-=======
-      "id": "aJwLuNPMgh5",
->>>>>>> feature/content-parser
+      "id": "2HxyGKe-6Qc",
       "cardType": "simple",
       "facts": [
         {
@@ -105,11 +93,7 @@
           "value": {
             "label": "Right-handed batsman and right-arm medium bowler",
             "image": {
-<<<<<<< HEAD
-              "url": "https://en.wikipedia.org/wiki/Mahela_Jayawardene#/media/File:Mahela_Jayawardene_-_batting.jpg",
-=======
               "url": "/static/images/mahela_jayawardene/Mahela_Jayawardene_-_batting.jpg",
->>>>>>> feature/content-parser
               "altText": "Style of play for Mahela Jayawardene"
             }
           }
@@ -122,11 +106,7 @@
       "facts": [
         {
           "label": "First class Debut",
-<<<<<<< HEAD
-          "id": "nZ71DwIoj6w2",
-=======
-          "id": "jbx94W9ZtaI",
->>>>>>> feature/content-parser
+          "id": "iD8WF8MeTe7",
           "note": "1995",
           "value": {
             "label": "Mahela Jayawardene made his first class debut while playing for the Sinhalese Sports Club"
@@ -134,11 +114,7 @@
         },
         {
           "label": "National team debut ",
-<<<<<<< HEAD
-          "id": "1JXN7ajFBtg4",
-=======
-          "id": "wcW9wAedhOW",
->>>>>>> feature/content-parser
+          "id": "Z2Z-QS72kjM",
           "note": "1997",
           "value": {
             "label": "Mahela Jayawardene made his international debut against India at Colombo in 1997",
@@ -147,19 +123,11 @@
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "label": "India national cricket team",
-<<<<<<< HEAD
-                "id": "CHjUGFsHg9qt",
-                "value": {
-                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India#/media/File:Cricket_India_Crest.svg",
-=======
-                "id": "WjuxZuet0be",
+                "id": "4JwwFJ2Lavf",
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
                     "url": "/static/images/mahela_jayawardene/Cricket_India_Crest.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of India national cricket team"
                   }
                 }
@@ -169,11 +137,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-<<<<<<< HEAD
-          "id": "GPeb4ZJdQQZK",
-=======
-          "id": "vSPbkcDMHSt",
->>>>>>> feature/content-parser
+          "id": "LN0EcRebUZh",
           "note": "1999",
           "value": {
             "label": "Jayawardene was a key member of the 1999 world cup team"
@@ -181,11 +145,7 @@
         },
         {
           "label": "IPL Debut",
-<<<<<<< HEAD
-          "id": "MBFxpZhSGM5T",
-=======
-          "id": "jgAO5hfZfYa",
->>>>>>> feature/content-parser
+          "id": "Jj9rhhOjjec",
           "note": "2008",
           "value": {
             "label": "Jayawardene played for the Kings XI Punjab from 2008 to 2010",
@@ -194,19 +154,11 @@
                 "url": "/read/en/kings_xi_punjab",
                 "contentUrl": "/static/content/en/kings_xi_punjab.json",
                 "label": "Kings XI Punjab",
-<<<<<<< HEAD
-                "id": "cWoNEUrKqytj",
-                "value": {
-                  "label": "The Kings XI Punjab (KXIP) are a franchise cricket team based in Mohali (Chandigarh CR), Punjab, that plays in the Indian Premier League. ",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/Kings_XI_Punjab#/media/File:Kings_XI_Punjab_logo.svg",
-=======
-                "id": "o8-mTDgmVoK",
+                "id": "GTZQP8XvXEO",
                 "value": {
                   "label": "The Kings XI Punjab (KXIP) are a franchise cricket team based in Mohali (Chandigarh CR), Punjab, that plays in the Indian Premier League. ",
                   "image": {
                     "url": "/static/images/mahela_jayawardene/Kings_XI_Punjab_logo.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of Kings XI Punjab"
                   }
                 }
@@ -215,8 +167,6 @@
           }
         }
       ]
-<<<<<<< HEAD
-=======
     },
     {
       "title": "Achievements & Records",
@@ -285,13 +235,13 @@
       "facts": [
         {
           "label": "Sri Lanka (1997-2015)",
-          "id": "s73kC-owKIN",
+          "id": "EhbljmqTqAP",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Sri Lanka national cricket team",
-                "id": "OhYTtRacdQH",
+                "id": "SbqOXO4z6Lc",
                 "url": "/read/en/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
                 "value": {
@@ -307,13 +257,13 @@
         },
         {
           "label": "Delhi Daredevils (now Delhi Capitals) (2012-2014)",
-          "id": "xwIowS5qyB8",
+          "id": "T3sppA1hdj9",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Delhi Capitals",
-                "id": "AE2FDaPKy7T",
+                "id": "vMpDKeNsx5E",
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "value": {
@@ -329,7 +279,7 @@
         },
         {
           "label": "Sinhalese Sports Club (1995-2015)",
-          "id": "bw0AOTEopB-",
+          "id": "VrnBXwH6t2l",
           "value": {
             "label": " Singhalese Sports Club (SSC) is a first-class cricket club in Sri Lanka"
           }
@@ -377,7 +327,6 @@
           }
         }
       ]
->>>>>>> feature/content-parser
     }
   ]
 }

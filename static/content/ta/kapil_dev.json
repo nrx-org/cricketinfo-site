@@ -2,11 +2,7 @@
   "title": "கபில்தேவ்",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Kapil_Dev",
   "coverImage": {
-<<<<<<< HEAD
-    "url": "https://commons.wikimedia.org/wiki/File:Kapil_Dev_at_Equation_sports_auction.jpg",
-=======
     "url": "/static/images/kapil_dev/Kapil_Dev_at_Equation_sports_auction.jpg",
->>>>>>> feature/content-parser
     "altText": "Image of கபில்தேவ்"
   },
   "summary": "கபில் தேவ் முன்னாள் கிரிக்கெட் வீரர், 1983 ஆம் ஆண்டு இவர் கேப்டனாக இருந்தபோது இந்திய அணி உலகக் கோப்பையை வென்றது.",
@@ -84,11 +80,7 @@
     },
     {
       "title": "Style of play",
-<<<<<<< HEAD
-      "id": "-0jGCJqAOcDe",
-=======
-      "id": "rRzoaG5kY3m",
->>>>>>> feature/content-parser
+      "id": "3l2_4mqdWRz",
       "cardType": "simple",
       "facts": [
         {
@@ -105,11 +97,7 @@
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-<<<<<<< HEAD
-          "id": "nQDqVlHEdjN4",
-=======
-          "id": "GzoQtJR1NIN",
->>>>>>> feature/content-parser
+          "id": "b3sohXhdfjB",
           "note": "1975",
           "value": {
             "label": "தேவ், 1975 ஆம் ஆண்டு பஞ்சாப்புக்கு எதிரான போட்டியில் ஹரியானவுக்காக விளையாடிய முதல் போட்டியிலேயே சிறப்பாக ஆடினார்."
@@ -117,11 +105,7 @@
         },
         {
           "label": "தேசிய அணி அறிமுகம்",
-<<<<<<< HEAD
-          "id": "KwbZKMa_HHZJ",
-=======
-          "id": "gsipsYPmrli",
->>>>>>> feature/content-parser
+          "id": "3wMD0FEzKCW",
           "note": "1978",
           "value": {
             "label": "பாகிஸ்தானுக்கு எதிராக முதல் ஒரு நாள் கிரிக்கெட் போட்டியில் ஆடினார், அதில் அவருடைய தனிப்பட்ட செயல்பாடு மிகவும் சாதாரணமாக இருந்தது."
@@ -129,11 +113,7 @@
         },
         {
           "label": "முதல் ஐசிசி போட்டி ",
-<<<<<<< HEAD
-          "id": "uJ1kqy2PJy6-",
-=======
-          "id": "De_giI0j3f5",
->>>>>>> feature/content-parser
+          "id": "JvX1R40ta5W",
           "note": "1979",
           "value": {
             "label": "1979 உலகக் கோப்பை கிரிக்கெட்டில் கபில் தேவ் மற்றும் இந்திய அணி மோசமான தோல்வியைத் தழுவினர்."
@@ -141,11 +121,7 @@
         },
         {
           "label": "1983 உலக கோப்பை சாம்பியன்ஸ்",
-<<<<<<< HEAD
-          "id": "vkSSG6_ZAg10",
-=======
-          "id": "euY07ihr5mf",
->>>>>>> feature/content-parser
+          "id": "_63dAo8L3Pe",
           "note": "1983",
           "value": {
             "label": "கபில் தேவ் தலைமையிலான இந்திய அணி 1983 ஆம் ஆண்டு உலகக் கோப்பையை வென்றது.",
@@ -154,19 +130,11 @@
                 "url": "/read/ta/1983_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1983_cricket_world_cup.json",
                 "label": "1983 கிரிக்கெட் உலகக் கோப்பை",
-<<<<<<< HEAD
-                "id": "ZfGxg5UTPVHT",
-                "value": {
-                  "label": "1983 क्रिकेट विश्व कप (आधिकारिक रूप से प्रूडेंशियल कप '83) क्रिकेट विश्व कप टूर्नामेंट का तीसरा संस्करण था। यह 9 जून से 25 जून 1983 तक इंग्लैंड और वेल्स में आयोजित किया गया था और इसे भारत ने जीता था।",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/1983_Cricket_World_Cup#/media/File:Prudential_Cup_83_logo.svg",
-=======
-                "id": "OC4WnQuZCJh",
+                "id": "8cp2Z-GnlTJ",
                 "value": {
                   "label": "1983 क्रिकेट विश्व कप (आधिकारिक रूप से प्रूडेंशियल कप '83) क्रिकेट विश्व कप टूर्नामेंट का तीसरा संस्करण था। यह 9 जून से 25 जून 1983 तक इंग्लैंड और वेल्स में आयोजित किया गया था और इसे भारत ने जीता था।",
                   "image": {
                     "url": "/static/images/kapil_dev/Prudential_Cup_83_logo.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of 1983 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
@@ -176,11 +144,7 @@
         },
         {
           "label": "உலகக் கோப்பை",
-<<<<<<< HEAD
-          "id": "p0RgkY7pmg_S",
-=======
-          "id": "_V8NrBA5hLj",
->>>>>>> feature/content-parser
+          "id": "QclZTsElEyJ",
           "note": "1987",
           "value": {
             "label": "கபில் தேவ், 1987 உலகக் கோப்பை வரை இந்திய அணியின் கேப்டனாக இருந்தார்."
@@ -188,13 +152,7 @@
         },
         {
           "label": "1992  உலகக் கோப்பை",
-<<<<<<< HEAD
-          "id": "LO5UCwEPvUH1",
-          "note": "கபில் தேவ் தனது கடைசி உலகக் கோப்பை போட்டியை 1992 ஆம் ஆண்டு முகமது அசாருதீன் தலைமையில் விளையாடினார்",
-          "value": {
-            "label": "உலகக் கோப்பை"
-=======
-          "id": "vnXjBrehGPI",
+          "id": "tbNz13jXI9W",
           "note": "கபில் தேவ் தனது கடைசி உலகக் கோப்பை போட்டியை 1992 ஆம் ஆண்டு முகமது அசாருதீன் தலைமையில் விளையாடினார்",
           "value": {
             "label": "உலகக் கோப்பை"
@@ -269,14 +227,14 @@
       "facts": [
         {
           "label": "இந்திய கிரிக்கெட் அணி (1978-1994)",
-          "id": "_YNcLsS5mi",
+          "id": "O-xuMtT_gX",
           "value": {
             "label": "இந்திய கிரிக்கெட் அணி டீம் இந்தியா மற்றும் மென் இன் புளூ என்றும் அழைக்கப்படுகிறது. இந்திய கிரிக்கெட் கட்டுப்பாட்டு வாரியம் இதை நிர்வகிக்கிறது"
           }
         },
         {
           "label": "ஹரியானா (1975-1992)",
-          "id": "MrGaEoxWP5",
+          "id": "ySJxSsJDri",
           "value": {
             "label": "ஹரியானா மாநிலத்தைச் சேர்ந்த உள்ளூர் ரஞ்சி டிராஃபி கிரிக்கெட் அணி"
           }
@@ -345,7 +303,6 @@
               "url": "/static/images/kapil_dev/ICC_Hall_Of_Fame.svg",
               "altText": "Image of ஐசிசி ஹால் ஆஃப் ஃபேம்"
             }
->>>>>>> feature/content-parser
           }
         }
       ]

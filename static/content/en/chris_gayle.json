@@ -2,11 +2,7 @@
   "title": "Chris Gayle",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Gayle",
   "coverImage": {
-<<<<<<< HEAD
-    "url": "https://commons.wikimedia.org/wiki/File:ChrisGayle_Cropped.jpg",
-=======
     "url": "/static/images/chris_gayle/ChrisGayle_Cropped.jpg",
->>>>>>> feature/content-parser
     "altText": "Image of Chris Gayle"
   },
   "summary": "Chris Gayle, is a Jamaican cricketer who plays international cricket for the West Indies.",
@@ -73,11 +69,7 @@
     },
     {
       "title": "Style of play",
-<<<<<<< HEAD
-      "id": "1qnTAy7oZp2f",
-=======
-      "id": "wRisPNum4K-",
->>>>>>> feature/content-parser
+      "id": "hb-7DS8APGQ",
       "cardType": "simple",
       "facts": [
         {
@@ -85,14 +77,9 @@
           "value": {
             "label": "Left-handed batsman and right arm off-break bowler",
             "image": {
-<<<<<<< HEAD
-              "url": "https://en.wikipedia.org/wiki/Chris_Gayle#/media/File:Chris_Gayle,_2010_(1).jpg",
-              "altText": "Style of play for Chris Gayle"
-=======
               "url": "/static/images/chris_gayle/Chris_Gayle%2C_2010_%281%29.jpg",
               "altText": "Style of play for Chris Gayle",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
->>>>>>> feature/content-parser
             }
           }
         }
@@ -104,11 +91,7 @@
       "facts": [
         {
           "label": "First class Debut",
-<<<<<<< HEAD
-          "id": "18tAgTerw5r2",
-=======
-          "id": "jA9pmGZJz",
->>>>>>> feature/content-parser
+          "id": "PVErZf23Oe",
           "note": "1998",
           "value": {
             "label": "Gayle made his first-class debut in 1998, at age 19 for Jamaica."
@@ -116,11 +99,7 @@
         },
         {
           "label": "National team debut ",
-<<<<<<< HEAD
-          "id": "hS9vKoTyljzf",
-=======
-          "id": "NH98LJZV2E",
->>>>>>> feature/content-parser
+          "id": "JjXXl5yMbk",
           "note": "1999",
           "value": {
             "label": "Gayle played his first One Day International against India in 1999",
@@ -129,19 +108,11 @@
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "label": "India national cricket team",
-<<<<<<< HEAD
-                "id": "zY8efq5vA40E",
-                "value": {
-                  "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India#/media/File:Cricket_India_Crest.svg",
-=======
-                "id": "oWRtG9x_vf",
+                "id": "X5DDL9B5QA",
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
                     "url": "/static/images/chris_gayle/Cricket_India_Crest.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of India national cricket team"
                   }
                 }
@@ -151,11 +122,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-<<<<<<< HEAD
-          "id": "25351kLUD435",
-=======
-          "id": "iOLKFV9MBO",
->>>>>>> feature/content-parser
+          "id": "LQA06xKZ7-",
           "note": "2003",
           "value": {
             "label": "Gayle was part of the West Indies team in the 2003 world cup"
@@ -163,11 +130,7 @@
         },
         {
           "label": "IPL Debut",
-<<<<<<< HEAD
-          "id": "psiQztCWZ8s0",
-=======
-          "id": "pyr2TigY0T",
->>>>>>> feature/content-parser
+          "id": "nh574z40lT",
           "note": "2008",
           "value": {
             "label": "Gayle could not play the inaugural version of the IPL due to an injury",
@@ -176,19 +139,11 @@
                 "url": "/read/en/kolkata_knight_riders",
                 "contentUrl": "/static/content/en/kolkata_knight_riders.json",
                 "label": "Kolkata Knight Riders",
-<<<<<<< HEAD
-                "id": "HCkpEtFD49Io",
-                "value": {
-                  "label": "The Kolkata Knight Riders (also known by the acronym KKR) are a franchise cricket team representing the city of Kolkata in the Indian Premier League. ",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/Kolkata_Knight_Riders#/media/File:Kolkata_Knight_Riders_Logo.svg",
-=======
-                "id": "oHai5TeQeN",
+                "id": "Vw9xC1TNdr",
                 "value": {
                   "label": "The Kolkata Knight Riders (also known by the acronym KKR) are a franchise cricket team representing the city of Kolkata in the Indian Premier League. ",
                   "image": {
                     "url": "/static/images/chris_gayle/Kolkata_Knight_Riders_Logo.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of Kolkata Knight Riders"
                   }
                 }
@@ -197,8 +152,6 @@
           }
         }
       ]
-<<<<<<< HEAD
-=======
     },
     {
       "title": "Achievements & Records",
@@ -267,13 +220,13 @@
       "facts": [
         {
           "label": "West Indies (1999-2019)",
-          "id": "ISkwV7IO0A",
+          "id": "lF9DtDiGYC",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "West Indies cricket team",
-                "id": "EaQ9ntb4zQ",
+                "id": "Wg6sRVoItQ",
                 "url": "/read/en/west_indies_cricket_team",
                 "contentUrl": "/static/content/en/west_indies_cricket_team.json",
                 "value": {
@@ -289,13 +242,13 @@
         },
         {
           "label": "Kings XI Punjab (2018- present)",
-          "id": "jmzK80UZBD",
+          "id": "SjtaJ9AyHg",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Kings XI Punjab",
-                "id": "YJ_DQrIH5R",
+                "id": "AfSj788ij6",
                 "url": "/read/en/kings_xi_punjab",
                 "contentUrl": "/static/content/en/kings_xi_punjab.json",
                 "value": {
@@ -311,7 +264,7 @@
         },
         {
           "label": "Jamaica (1998-2018)",
-          "id": "cu2a9xfAsd",
+          "id": "TbxYO-viLF",
           "value": {
             "label": "Jamaican national cricket team is a first-class cricket team of Jamaica."
           }
@@ -335,7 +288,6 @@
           }
         }
       ]
->>>>>>> feature/content-parser
     }
   ]
 }

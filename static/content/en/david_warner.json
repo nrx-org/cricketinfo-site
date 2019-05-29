@@ -2,14 +2,9 @@
   "title": "David Warner",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Warner_(cricketer)",
   "coverImage": {
-<<<<<<< HEAD
-    "url": "https://commons.wikimedia.org/wiki/File:DAVID_WARNER_(11704782453).jpg",
-    "altText": "Image of David Warner"
-=======
     "url": "/static/images/david_warner/DAVID_WARNER_%2811704782453%29.jpg",
     "altText": "Image of David Warner",
     "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
->>>>>>> feature/content-parser
   },
   "summary": "David Warner is an Australian international cricketer and a former captain of the Australian national team.",
   "translations": [
@@ -81,11 +76,7 @@
           "value": {
             "label": "",
             "image": {
-<<<<<<< HEAD
-              "url": "https://en.wikipedia.org/wiki/File:RBHS_badge.jpg",
-=======
               "url": "/static/images/david_warner/RBHS_badge.jpg",
->>>>>>> feature/content-parser
               "altText": "Image of Randwick Boys High School"
             }
           }
@@ -94,11 +85,7 @@
     },
     {
       "title": "Style of play",
-<<<<<<< HEAD
-      "id": "YIGtk-AVsQpy",
-=======
-      "id": "wvA7V2a3F",
->>>>>>> feature/content-parser
+      "id": "3Nn5El-88P",
       "cardType": "simple",
       "facts": [
         {
@@ -106,11 +93,7 @@
           "value": {
             "label": "Left-handed opening batsman, part-time spin bowler and aggressive fielder",
             "image": {
-<<<<<<< HEAD
-              "url": "https://en.wikipedia.org/wiki/David_Warner_(cricketer)#/media/File:David_warner_t20_debut.JPG",
-=======
               "url": "/static/images/david_warner/David_warner_t20_debut.JPG",
->>>>>>> feature/content-parser
               "altText": "Style of play for David Warner"
             }
           }
@@ -123,11 +106,7 @@
       "facts": [
         {
           "label": "First class Debut",
-<<<<<<< HEAD
-          "id": "QYh4J16yR0-Z",
-=======
-          "id": "CFe7CLiAzV",
->>>>>>> feature/content-parser
+          "id": "kZZpVBfpdq",
           "note": "2009",
           "value": {
             "label": "Warner made his first-class debut playing for New South Wales against Western Australia."
@@ -135,11 +114,7 @@
         },
         {
           "label": "National team debut ",
-<<<<<<< HEAD
-          "id": "rjAdEzfIy84K",
-=======
-          "id": "N50rcjp6Is",
->>>>>>> feature/content-parser
+          "id": "TGjAMWUuAq",
           "note": "2009",
           "value": {
             "label": "Warner made his international debut for Australia in a Twenty20 International against South Africa at the Melbourne.",
@@ -148,19 +123,11 @@
                 "url": "/read/en/south_africa_national_cricket_team",
                 "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
                 "label": "South Africa national cricket team",
-<<<<<<< HEAD
-                "id": "kZlOSnm9j4X0",
-                "value": {
-                  "label": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/South_Africa_national_cricket_team#/media/File:Southafrica_cricket_logo.svg",
-=======
-                "id": "ZQI5Kubs6y",
+                "id": "pFpqlte9R5",
                 "value": {
                   "label": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
                   "image": {
                     "url": "/static/images/david_warner/Southafrica_cricket_logo.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of South Africa national cricket team"
                   }
                 }
@@ -170,11 +137,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-<<<<<<< HEAD
-          "id": "q42xco4kOCVW",
-=======
-          "id": "S4sH2m-MxV",
->>>>>>> feature/content-parser
+          "id": "HYkls632Jj2",
           "note": "2013",
           "value": {
             "label": "Warner was dropped from the team after the first match due to a off-field fight with English player Joe Root"
@@ -182,11 +145,7 @@
         },
         {
           "label": "IPL Debut",
-<<<<<<< HEAD
-          "id": "BT17BzNC3Sp3",
-=======
-          "id": "koWjYNFo0p",
->>>>>>> feature/content-parser
+          "id": "q92ZC3XIJPk",
           "note": "2009",
           "value": {
             "label": "Warner was signed by IPL team Delhi Daredevils for 2009–10 seasons.",
@@ -195,19 +154,11 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-<<<<<<< HEAD
-                "id": "J3IGo79BWY0e",
-                "value": {
-                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/Delhi_Capitals#/media/File:Delhi_Capitals_Logo.svg",
-=======
-                "id": "Qb7XRP5PJ6",
+                "id": "qj5mTkOL8od",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
                     "url": "/static/images/david_warner/Delhi_Capitals_Logo.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of Delhi Capitals"
                   }
                 }
@@ -216,8 +167,6 @@
           }
         }
       ]
-<<<<<<< HEAD
-=======
     },
     {
       "title": "Achievements & Records",
@@ -286,13 +235,13 @@
       "facts": [
         {
           "label": "Australia (2009 - present)",
-          "id": "cpHCA9sX0p",
+          "id": "nR1fpL8X0Ft",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Australia Cricket team",
-                "id": "tiC5ahVrDV",
+                "id": "RIsyKUX4AEE",
                 "url": "/read/en/australia_cricket_team",
                 "contentUrl": "/static/content/en/australia_cricket_team.json",
                 "value": {
@@ -308,13 +257,13 @@
         },
         {
           "label": "Sunrisers Hyderabad (2014 - present)",
-          "id": "Ax_RF6EvtZ",
+          "id": "wVh6mfRDA0E",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Sunrisers Hyderabad",
-                "id": "UoLoU8Qw41",
+                "id": "IdOp4N4BrM5",
                 "url": "/read/en/sunrisers_hyderabad",
                 "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
                 "value": {
@@ -330,7 +279,7 @@
         },
         {
           "label": "New South Wales (2006-2018)",
-          "id": "6T7u0_uhMy",
+          "id": "D--0DCxSTly",
           "value": {
             "label": "The New South Wales cricket team (currently named NSW Blues) are an Australian men's professional first class cricket team based in Sydney."
           }
@@ -378,7 +327,6 @@
           }
         }
       ]
->>>>>>> feature/content-parser
     }
   ]
 }

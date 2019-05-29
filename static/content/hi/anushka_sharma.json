@@ -2,11 +2,7 @@
   "title": "अनुष्का शर्मा",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Anushka_Sharma",
   "coverImage": {
-<<<<<<< HEAD
-    "url": "https://commons.wikimedia.org/wiki/File:Anushka_Sharma_promoting_Zero.jpg",
-=======
     "url": "/static/images/anushka_sharma/Anushka_Sharma_promoting_Zero.jpg",
->>>>>>> feature/content-parser
     "altText": "Image of अनुष्का शर्मा"
   },
   "summary": "अनुष्का शर्मा एक भारतीय अभिनेत्री और फिल्म निर्माता हैं जो हिंदी फिल्मों में काम करती हैं।",
@@ -78,11 +74,7 @@
             "url": "/read/hi/virat_kohli",
             "contentUrl": "/static/content/hi/virat_kohli.json",
             "image": {
-<<<<<<< HEAD
-              "url": "https://commons.wikimedia.org/wiki/File:Virat..Kohli.jpg",
-=======
               "url": "/static/images/anushka_sharma/Virat..Kohli.jpg",
->>>>>>> feature/content-parser
               "altText": "Picture of विराट कोहली"
             }
           }
@@ -92,17 +84,6 @@
     {
       "title": "Alma mater",
       "cardType": "avatar",
-<<<<<<< HEAD
-      "facts": [
-        {
-          "label": "माउंट कार्मेल कॉलेज, बैंगलोर",
-          "value": {
-            "label": "",
-            "image": {
-              "url": "/static/images/default_person.svg",
-              "altText": "Image of माउंट कार्मेल कॉलेज, बैंगलोर"
-            }
-=======
       "facts": [
         {
           "label": "माउंट कार्मेल कॉलेज, बैंगलोर",
@@ -118,22 +99,7 @@
     },
     {
       "title": "Style of play",
-      "id": "mKH85XufpPa",
-      "cardType": "simple",
-      "facts": [
-        {
-          "label": "",
-          "value": {
-            "label": ""
->>>>>>> feature/content-parser
-          }
-        }
-      ]
-    },
-    {
-<<<<<<< HEAD
-      "title": "Style of play",
-      "id": "FwIfoxUp7mFE",
+      "id": "gyzlBNIJqc9",
       "cardType": "simple",
       "facts": [
         {
@@ -150,7 +116,7 @@
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": "jUr-0lRcQ0R-",
+          "id": "dJBC2Da-h5l",
           "note": "",
           "value": {
             "label": ""
@@ -158,7 +124,7 @@
         },
         {
           "label": "राष्ट्रीय टीम ",
-          "id": "9EXLNkn20zmy",
+          "id": "R-B7jwJ2XcO",
           "note": "",
           "value": {
             "label": ""
@@ -166,36 +132,7 @@
         },
         {
           "label": "IPL डेब्यू",
-          "id": "B3haj7r-5clz",
-          "note": "",
-          "value": {
-            "label": ""
-          }
-        }
-      ]
-=======
-      "title": "Phase(s)",
-      "cardType": "vertical_timeline",
-      "facts": [
-        {
-          "label": "प्रथम श्रेणी की शुरुआत",
-          "id": "7E8bg3mBbcg",
-          "note": "",
-          "value": {
-            "label": ""
-          }
-        },
-        {
-          "label": "राष्ट्रीय टीम ",
-          "id": "lmHLGOep2vJ",
-          "note": "",
-          "value": {
-            "label": ""
-          }
-        },
-        {
-          "label": "IPL डेब्यू",
-          "id": "LCk52oK2WDp",
+          "id": "fHdL4iqjy81",
           "note": "",
           "value": {
             "label": ""
@@ -273,7 +210,6 @@
       "title": "Awards & Honors",
       "cardType": "tag_card",
       "facts": []
->>>>>>> feature/content-parser
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "Anil Kumble",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Anil_Kumble",
   "coverImage": {
-    "url": "https://commons.wikimedia.org/wiki/File:Anil_Kumble.jpg",
+    "url": "/static/images/anil_kumble/Anil_Kumble.jpg",
     "altText": "Image of Anil Kumble"
   },
   "summary": "Anil Kumble is a former Indian cricketer and a former captain of Tests and ODIs, who played Tests and ODIs for 18 years. ",
@@ -87,11 +87,7 @@
     },
     {
       "title": "Style of play",
-<<<<<<< HEAD
-      "id": "KDyMCC2StlJ",
-=======
-      "id": "p4Neh9gqrn",
->>>>>>> feature/content-parser
+      "id": "qRSYQi8hY1",
       "cardType": "simple",
       "facts": [
         {
@@ -99,11 +95,7 @@
           "value": {
             "label": "Kumble is a right-arm leg spinner (legbreak googly) with an unorthodox style, most famous for his flipper and a right-hand batsman He started his career as a fast bowler,which gave him a useful faster delivery. His unique bowling style can be attributed to matting pitches in Bangalore which assist top-spin and over-spin.",
             "image": {
-<<<<<<< HEAD
-              "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/GandM_Flare_DXM_bat-Purist_156g_ball.jpg",
-=======
               "url": "/static/images/anil_kumble/GandM_Flare_DXM_bat-Purist_156g_ball.jpg",
->>>>>>> feature/content-parser
               "altText": "Style of play for Anil Kumble"
             }
           }
@@ -116,11 +108,7 @@
       "facts": [
         {
           "label": "First class Debut",
-<<<<<<< HEAD
-          "id": "T2CkN7evwnW",
-=======
-          "id": "gpLm-Oxcycr",
->>>>>>> feature/content-parser
+          "id": "KNFRuLNeBTE",
           "note": "1989",
           "value": {
             "label": "Kumble made his first-class debut for Karnataka against Hyderabad on 30 November 1989, taking 4 wickets."
@@ -128,11 +116,7 @@
         },
         {
           "label": "National team debut ",
-<<<<<<< HEAD
-          "id": "txcWkjf9Mqf",
-=======
-          "id": "0HE70hlZe-p",
->>>>>>> feature/content-parser
+          "id": "TSlkHI0tZzd",
           "note": "1990",
           "value": {
             "label": "Kumble made his One Day International debut against Sri Lanka at Sharjah in the Austral-Asia Cup in 1990.",
@@ -141,19 +125,11 @@
                 "url": "/read/en/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
                 "label": "Sri Lanka national cricket team",
-<<<<<<< HEAD
-                "id": "zU-XOUhebEO",
-                "value": {
-                  "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/Sri_Lanka_national_cricket_team#/media/File:Sri_Lanka_Cricket_Cap_Insignia.svg",
-=======
-                "id": "chCH6077OtE",
+                "id": "ci8v3ESS98A",
                 "value": {
                   "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
                   "image": {
                     "url": "/static/images/anil_kumble/Sri_Lanka_Cricket_Cap_Insignia.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of Sri Lanka national cricket team"
                   }
                 }
@@ -163,11 +139,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-<<<<<<< HEAD
-          "id": "Cyx9_pZDoUx",
-=======
-          "id": "agcwhYYGusO",
->>>>>>> feature/content-parser
+          "id": "-F-MFcfyrys",
           "note": "1996",
           "value": {
             "label": "Kumble was selected in the Indian side for the 1996 World Cup and was the leading wicket-taker in the tournament.",
@@ -176,19 +148,11 @@
                 "url": "/read/en/1996_cricket_world_cup",
                 "contentUrl": "/static/content/en/1996_cricket_world_cup.json",
                 "label": "1996 Cricket World Cup",
-<<<<<<< HEAD
-                "id": "RmBnKlQXJr9",
-                "value": {
-                  "label": "The 1996 Cricket World Cup, also called the Wills World Cup 1996 after its official sponsors, ITC's Wills brand, was the sixth Cricket World Cup. It was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka.",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/1996_Cricket_World_Cup#/media/File:Wills_World_Cup_1996.svg",
-=======
-                "id": "aYZqjKUkaqQ",
+                "id": "-T6IM_Noz8j",
                 "value": {
                   "label": "The 1996 Cricket World Cup, also called the Wills World Cup 1996 after its official sponsors, ITC's Wills brand, was the sixth Cricket World Cup. It was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka.",
                   "image": {
                     "url": "/static/images/anil_kumble/Wills_World_Cup_1996.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of 1996 Cricket World Cup"
                   }
                 }
@@ -198,8 +162,7 @@
         },
         {
           "label": "Retirement",
-<<<<<<< HEAD
-          "id": "pMoc3clDl5U",
+          "id": "CVZFAjNaL6S",
           "note": "2007",
           "value": {
             "label": "After the 2007 World Cup, he announced his retirement from ODIs"
@@ -207,7 +170,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "thqbVWxkwPp",
+          "id": "Nxc6y0hmkG2",
           "note": "2008",
           "value": {
             "label": "Kumble agreed to honour his contract with the Royal Challengers Bangalore (RCB) after retirement and played for 3 years.",
@@ -216,31 +179,7 @@
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "label": "Royal Challengers Bangalore",
-                "id": "ILaNuYE0j0X",
-                "value": {
-                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/Royal_Challengers_Bangalore#/media/File:Royal_Challengers_Bangalore_Logo_2016.svg",
-                    "altText": "Image of Royal Challengers Bangalore"
-=======
-          "id": "2XOhtfQrrWB",
-          "note": "2007",
-          "value": {
-            "label": "After the 2007 World Cup, he announced his retirement from ODIs"
-          }
-        },
-        {
-          "label": "IPL Debut",
-          "id": "9zVhmxyO7WF",
-          "note": "2008",
-          "value": {
-            "label": "Kumble agreed to honour his contract with the Royal Challengers Bangalore (RCB) after retirement and played for 3 years.",
-            "facts": [
-              {
-                "url": "/read/en/royal_challengers_bangalore",
-                "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
-                "label": "Royal Challengers Bangalore",
-                "id": "51T18-egyzn",
+                "id": "f2FM9AWietF",
                 "value": {
                   "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
                   "image": {
@@ -321,13 +260,13 @@
       "facts": [
         {
           "label": "Indian National Cricket team (1990-2008)",
-          "id": "-dNchX1bQZ",
+          "id": "QWcLtnlrGq",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "AsVpGjf5TQ",
+                "id": "6dCrgIrUf5",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -343,13 +282,13 @@
         },
         {
           "label": "Royal Challengers Bangalore (2008-2010)",
-          "id": "wOX_SRN_AE",
+          "id": "WI9YW85Imk",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Royal Challengers Bangalore",
-                "id": "duaneiMX_Q",
+                "id": "Vd8KjdxC9_",
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "value": {
@@ -357,18 +296,15 @@
                   "image": {
                     "url": "/static/images/anil_kumble/Royal_Challengers_Bangalore_Logo_2016.svg",
                     "altText": "Picture of Royal Challengers Bangalore"
->>>>>>> feature/content-parser
                   }
                 }
               }
             ]
           }
-<<<<<<< HEAD
-=======
         },
         {
           "label": "Karnataka (1989-2009)",
-          "id": "hKBTPicvPz",
+          "id": "1Rj0CtdUAt",
           "value": {
             "label": "Domestic Ranji trophy cricket team based in the state of Karnataka"
           }
@@ -414,7 +350,6 @@
               "altText": "Image of ICC Cricket Hall of Fame"
             }
           }
->>>>>>> feature/content-parser
         }
       ]
     }

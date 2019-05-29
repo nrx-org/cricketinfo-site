@@ -2,14 +2,9 @@
   "title": "Hardik Pandya",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Hardik_Pandya",
   "coverImage": {
-<<<<<<< HEAD
-    "url": "https://commons.wikimedia.org/wiki/File:Hardik_Pandya_(cropped).jpg",
-    "altText": "Image of Hardik Pandya"
-=======
     "url": "/static/images/hardik_pandya/Hardik_Pandya_%28cropped%29.jpg",
     "altText": "Image of Hardik Pandya",
     "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
->>>>>>> feature/content-parser
   },
   "summary": "Hardik is an international cricketer who currently plays for India.",
   "translations": [
@@ -69,11 +64,7 @@
     },
     {
       "title": "Style of play",
-<<<<<<< HEAD
-      "id": "n0UMMFZOF60",
-=======
-      "id": "c0Ti5uI2WQ",
->>>>>>> feature/content-parser
+      "id": "3qNXRRL6AT",
       "cardType": "simple",
       "facts": [
         {
@@ -90,11 +81,7 @@
       "facts": [
         {
           "label": "First class Debut",
-<<<<<<< HEAD
-          "id": "tPTCfi2h81Y",
-=======
-          "id": "HRH_Wp0tgq",
->>>>>>> feature/content-parser
+          "id": "7uortFnpG4",
           "note": "2013",
           "value": {
             "label": ""
@@ -102,11 +89,7 @@
         },
         {
           "label": "National team debut ",
-<<<<<<< HEAD
-          "id": "xV0jc1Vmenw",
-=======
-          "id": "0eKXgflPzW",
->>>>>>> feature/content-parser
+          "id": "QbzjM_NP_v",
           "note": "2016",
           "value": {
             "label": "Pandya made his international debut in a T20 match against Australia",
@@ -115,19 +98,11 @@
                 "url": "/read/en/australia_cricket_team",
                 "contentUrl": "/static/content/en/australia_cricket_team.json",
                 "label": "Australia Cricket team",
-<<<<<<< HEAD
-                "id": "yi8HwidYdMG",
-                "value": {
-                  "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/Australia_national_cricket_team#/media/File:Australia_cricket_logo.svg",
-=======
-                "id": "A--iHo1gNM",
+                "id": "STwIg5Ul3p",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
                     "url": "/static/images/hardik_pandya/Australia_cricket_logo.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of Australia Cricket team"
                   }
                 }
@@ -137,11 +112,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-<<<<<<< HEAD
-          "id": "IcWzDEUkGT0",
-=======
-          "id": "m7hn9F8Hug",
->>>>>>> feature/content-parser
+          "id": "NKfND3Ssvk",
           "note": "2016",
           "value": {
             "label": "In the T20 World cup match against Bangladesh , Pandya took two crucial wickets in the last over which helped India win the match."
@@ -149,11 +120,7 @@
         },
         {
           "label": "IPL Debut",
-<<<<<<< HEAD
-          "id": "PQJB87x1-Ge",
-=======
-          "id": "4g89wQILQY",
->>>>>>> feature/content-parser
+          "id": "q1UKq_MLeD",
           "note": "2015",
           "value": {
             "label": "Hardik Pandya has been playing for the IPL team Mumbai Indians since 2015",
@@ -162,19 +129,11 @@
                 "url": "/read/en/mumbai_indians",
                 "contentUrl": "/static/content/en/mumbai_indians.json",
                 "label": "Mumbai Indians",
-<<<<<<< HEAD
-                "id": "yRe6r8LoHRn",
-                "value": {
-                  "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/Mumbai_Indians#/media/File:Mumbai_Indians_Logo.svg",
-=======
-                "id": "jM6fyYVuC",
+                "id": "wvct0R2YoT",
                 "value": {
                   "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
                   "image": {
                     "url": "/static/images/hardik_pandya/Mumbai_Indians_Logo.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of Mumbai Indians"
                   }
                 }
@@ -183,8 +142,6 @@
           }
         }
       ]
-<<<<<<< HEAD
-=======
     },
     {
       "title": "Achievements & Records",
@@ -253,13 +210,13 @@
       "facts": [
         {
           "label": "Indian national cricket team (2016 to present)",
-          "id": "eVSFYRDOgW",
+          "id": "E92v5ttwZj",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "C7FbLhw0dL",
+                "id": "w3mj71rmwS",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -275,13 +232,13 @@
         },
         {
           "label": "Mumbai Indians (2015 - present)",
-          "id": "BeUNBhGOGX",
+          "id": "u_ijyKox4u",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Mumbai Indians",
-                "id": "IIoKQkoSn5",
+                "id": "SMyCblHgXo",
                 "url": "/read/en/mumbai_indians",
                 "contentUrl": "/static/content/en/mumbai_indians.json",
                 "value": {
@@ -297,7 +254,7 @@
         },
         {
           "label": "Baroda (2012 - present)",
-          "id": "U2aLbhgRwA",
+          "id": "iqlsEBterU",
           "value": {
             "label": "The Baroda cricket team is a domestic Indian cricket team based in the city of Vadodara."
           }
@@ -308,7 +265,6 @@
       "title": "Awards & Honors",
       "cardType": "tag_card",
       "facts": []
->>>>>>> feature/content-parser
     }
   ]
 }

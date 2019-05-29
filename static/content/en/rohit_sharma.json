@@ -2,11 +2,7 @@
   "title": "Rohit Sharma",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Rohit_Sharma",
   "coverImage": {
-<<<<<<< HEAD
-    "url": "https://commons.wikimedia.org/wiki/File:Rohit_Sharma_November_2016_(cropped).jpg",
-=======
     "url": "/static/images/rohit_sharma/Rohit_Sharma_November_2016_(cropped).jpg",
->>>>>>> feature/content-parser
     "altText": "Image of Rohit Sharma"
   },
   "summary": "Rohit Sharma is an Indian international cricketer who is the vice-captain of the India national team in limited-overs formats.",
@@ -85,11 +81,7 @@
     },
     {
       "title": "Style of play",
-<<<<<<< HEAD
-      "id": "qB_5R43Avlj",
-=======
-      "id": "Okw1G-Lx-gH",
->>>>>>> feature/content-parser
+      "id": "SjtNmggCq9f",
       "cardType": "simple",
       "facts": [
         {
@@ -97,14 +89,9 @@
           "value": {
             "label": "Rohit Sharma is a right-handed batsman and was an occasional right-arm off break bowler. ",
             "image": {
-<<<<<<< HEAD
-              "url": "https://en.wikipedia.org/wiki/Rohit_Sharma#/media/File:2015_CWC_I_v_UAE_02-28_Sharma_(01)_(cropped).JPG",
-              "altText": "Style of play for Rohit Sharma"
-=======
               "url": "/static/images/rohit_sharma/2015_CWC_I_v_UAE_02-28_Sharma_%2801%29_%28cropped%29.JPG",
               "altText": "Style of play for Rohit Sharma",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
->>>>>>> feature/content-parser
             }
           }
         }
@@ -116,11 +103,7 @@
       "facts": [
         {
           "label": "First class Debut",
-<<<<<<< HEAD
-          "id": "lr1-GmFYDLe",
-=======
-          "id": "i0nUnhK9_",
->>>>>>> feature/content-parser
+          "id": "CdBr-9HhV",
           "note": "2006",
           "value": {
             "label": "Sharma made his First-class debut for India A against New Zealand A, in 2006, before his Ranji trophy debut."
@@ -128,11 +111,7 @@
         },
         {
           "label": "National team debut ",
-<<<<<<< HEAD
-          "id": "deempGbZFIM",
-=======
-          "id": "kJUEmbOj83",
->>>>>>> feature/content-parser
+          "id": "rrDqaRZ2z3",
           "note": "2007",
           "value": {
             "label": "Rohit Sharma made his One Day International debut against Ireland, although he did not bat in the match."
@@ -140,11 +119,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-<<<<<<< HEAD
-          "id": "GLr6Xzk-KIG",
-=======
-          "id": "J8R7WsMb8z",
->>>>>>> feature/content-parser
+          "id": "8YDJW9tk9J",
           "note": "2007",
           "value": {
             "label": "Rohit Sharma led India to a crucial victory by scoring an unbeaten 50 against South Africa in the 2007 ICC World Twenty20, which took the team to the semi-finals.",
@@ -153,19 +128,11 @@
                 "url": "/read/en/icc_t20_world_cup",
                 "contentUrl": "/static/content/en/icc_t20_world_cup.json",
                 "label": "ICC T20 World Cup",
-<<<<<<< HEAD
-                "id": "952Md42MbVz",
-                "value": {
-                  "label": "The ICC T20 World Cup (earlier known as ICC World Twenty20) is the international championship of Twenty20 International cricket. The tournament currently consists of 16 teams, comprising the top eight teams from the rankings at the given deadline and four other teams chosen through the T20 World Cup Qualifier. ",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/ICC_T20_World_Cup#/media/File:ICC_World_Twenty20_Trophy.jpg",
-=======
-                "id": "SyFe84qAFs",
+                "id": "SDeKLWJ1pP",
                 "value": {
                   "label": "The ICC T20 World Cup (earlier known as ICC World Twenty20) is the international championship of Twenty20 International cricket. The tournament currently consists of 16 teams, comprising the top eight teams from the rankings at the given deadline and four other teams chosen through the T20 World Cup Qualifier. ",
                   "image": {
                     "url": "/static/images/rohit_sharma/ICC_World_Twenty20_Trophy.jpg",
->>>>>>> feature/content-parser
                     "altText": "Image of ICC T20 World Cup"
                   }
                 }
@@ -175,11 +142,7 @@
         },
         {
           "label": "2013 ICC Champions Trophy",
-<<<<<<< HEAD
-          "id": "dPsJ275fDET",
-=======
-          "id": "FR1GVVGDD1",
->>>>>>> feature/content-parser
+          "id": "ckPE15ipyX",
           "note": "2013",
           "value": {
             "label": "In 2013, he was promoted as the new opening batsman for India along with Shikhar Dhawan for the Champions Trophy.",
@@ -188,19 +151,11 @@
                 "url": "/read/en/icc_champions_trophy",
                 "contentUrl": "/static/content/en/icc_champions_trophy.json",
                 "label": "ICC Champions Trophy",
-<<<<<<< HEAD
-                "id": "Un2jQKP8nzL",
-                "value": {
-                  "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/ICC_Champions_Trophy#/media/File:ICC_Champions_Trophy_cricket_logo.png",
-=======
-                "id": "ZjokjuX-AA",
+                "id": "ovZ_mvW1gL",
                 "value": {
                   "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
                   "image": {
                     "url": "/static/images/rohit_sharma/ICC_Champions_Trophy_cricket_logo.png",
->>>>>>> feature/content-parser
                     "altText": "Image of ICC Champions Trophy"
                   }
                 }
@@ -210,11 +165,7 @@
         },
         {
           "label": "2015 World Cup",
-<<<<<<< HEAD
-          "id": "d2JAq9tak5x",
-=======
-          "id": "M5T-vNqKWW",
->>>>>>> feature/content-parser
+          "id": "1JSQJpaHId",
           "note": "2015",
           "value": {
             "label": "",
@@ -223,19 +174,11 @@
                 "url": "/read/en/2015_cricket_world_cup",
                 "contentUrl": "/static/content/en/2015_cricket_world_cup.json",
                 "label": "2015 Cricket World Cup",
-<<<<<<< HEAD
-                "id": "aMixrlazR8E",
-                "value": {
-                  "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/2015_Cricket_World_Cup#/media/File:2015_Cricket_World_Cup_Logo.svg",
-=======
-                "id": "c4sZMtQewa",
+                "id": "GFLruyIrVZ",
                 "value": {
                   "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
                   "image": {
                     "url": "/static/images/rohit_sharma/2015_Cricket_World_Cup_Logo.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of 2015 Cricket World Cup"
                   }
                 }
@@ -245,11 +188,7 @@
         },
         {
           "label": "IPL Debut",
-<<<<<<< HEAD
-          "id": "h0q73NlMs-X",
-=======
-          "id": "aHlOj5lQ0X",
->>>>>>> feature/content-parser
+          "id": "RsUjwFzlC0",
           "note": "2008",
           "value": {
             "label": "Sharma was signed up by the Deccan Chargers for a sum of US$750,000 a year in 2008.",
@@ -258,15 +197,7 @@
                 "url": "/read/en/sunrisers_hyderabad",
                 "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
                 "label": "Sunrisers Hyderabad",
-<<<<<<< HEAD
-                "id": "dTGooiosDA7",
-                "value": {
-                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
-                  "image": {
-                    "url": "https://upload.wikimedia.org/wikipedia/en/8/81/Sunrisers_Hyderabad.svg",
-                    "altText": "Image of Sunrisers Hyderabad"
-=======
-                "id": "dCo5-4yLs2",
+                "id": "VI7i_2iSK8",
                 "value": {
                   "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
                   "image": {
@@ -347,13 +278,13 @@
       "facts": [
         {
           "label": "Indian National Cricket team (2007-present)",
-          "id": "pbGVM8joI7",
+          "id": "GYYzwvvxcy",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "wkTR3EPATL",
+                "id": "Px8DA3aYpn",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -369,13 +300,13 @@
         },
         {
           "label": "Mumbai Indians (2011-present)",
-          "id": "BGRBiJWrgr",
+          "id": "pAQ8bahVq5",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Mumbai Indians",
-                "id": "hWUPj5FeV8",
+                "id": "cf4kRP4Hlg",
                 "url": "/read/en/mumbai_indians",
                 "contentUrl": "/static/content/en/mumbai_indians.json",
                 "value": {
@@ -383,18 +314,15 @@
                   "image": {
                     "url": "/static/images/rohit_sharma/Mumbai_Indians_Logo.svg",
                     "altText": "Picture of Mumbai Indians"
->>>>>>> feature/content-parser
                   }
                 }
               }
             ]
           }
-<<<<<<< HEAD
-=======
         },
         {
           "label": "Mumbai (2006-present)",
-          "id": "dAmb_JCIZk",
+          "id": "GLzxsj1uTm",
           "value": {
             "label": "Domestic Ranji trophy cricket team based in Mumbai"
           }
@@ -428,7 +356,6 @@
               "altText": "Image of Arjuna Award"
             }
           }
->>>>>>> feature/content-parser
         }
       ]
     }

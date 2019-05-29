@@ -2,11 +2,7 @@
   "title": "AB de Villiers",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/AB_de_Villiers",
   "coverImage": {
-<<<<<<< HEAD
-    "url": "https://commons.wikimedia.org/wiki/File:AB_de_Villiers_2.jpg",
-=======
     "url": "/static/images/ab_de_villiers/AB_de_Villiers_2.jpg",
->>>>>>> feature/content-parser
     "altText": "Image of AB de Villiers"
   },
   "summary": "AB de Villiers is a former South African international cricketer.",
@@ -80,11 +76,7 @@
           "value": {
             "label": "",
             "image": {
-<<<<<<< HEAD
-              "url": "https://en.wikipedia.org/wiki/File:Affie_wapen.jpg",
-=======
               "url": "/static/images/ab_de_villiers/Affie_wapen.jpg",
->>>>>>> feature/content-parser
               "altText": "Image of Afrikaanse Hoër Seunskool"
             }
           }
@@ -93,11 +85,7 @@
     },
     {
       "title": "Style of play",
-<<<<<<< HEAD
-      "id": "xahC01_DuOm",
-=======
-      "id": "iwNxAwcO4B",
->>>>>>> feature/content-parser
+      "id": "Ub2b0lWO_07",
       "cardType": "simple",
       "facts": [
         {
@@ -105,14 +93,9 @@
           "value": {
             "label": "De Villiers is a right-handed batsman and an occasional wicket-keeper",
             "image": {
-<<<<<<< HEAD
-              "url": "https://en.wikipedia.org/wiki/AB_de_Villiers#/media/File:AB_de_villiers_(cropped).jpg",
-              "altText": "Style of play for AB de Villiers"
-=======
               "url": "/static/images/ab_de_villiers/AB_de_villiers_%28cropped%29.jpg",
               "altText": "Style of play for AB de Villiers",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
->>>>>>> feature/content-parser
             }
           }
         }
@@ -124,11 +107,7 @@
       "facts": [
         {
           "label": "First class Debut",
-<<<<<<< HEAD
-          "id": "Zu62z4-n4FD",
-=======
-          "id": "s4SL_1JA10b",
->>>>>>> feature/content-parser
+          "id": "MveRmvqHX",
           "note": "2004",
           "value": {
             "label": "De Villiers made his first class debut for the South African domestic team Northerns"
@@ -136,11 +115,7 @@
         },
         {
           "label": "National team debut ",
-<<<<<<< HEAD
-          "id": "zSeI59LxE1d",
-=======
-          "id": "1bGytwG2pSS",
->>>>>>> feature/content-parser
+          "id": "2pG6AXGdXo",
           "note": "2004",
           "value": {
             "label": "AB de Villiers made his international debut in a Test match against England",
@@ -149,19 +124,11 @@
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "label": "England cricket team",
-<<<<<<< HEAD
-                "id": "-LuOzlBXYAO",
-                "value": {
-                  "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/England_cricket_team#/media/File:England_cricket_team_logo.svg",
-=======
-                "id": "HDH8OEnXogu",
+                "id": "PDxHQZnZQq",
                 "value": {
                   "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
                   "image": {
                     "url": "/static/images/ab_de_villiers/England_cricket_team_logo.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of England cricket team"
                   }
                 }
@@ -171,11 +138,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-<<<<<<< HEAD
-          "id": "_eGzeCXKtg6",
-=======
-          "id": "We4KLtVDHez",
->>>>>>> feature/content-parser
+          "id": "uNaAvrdqEx",
           "note": "2007",
           "value": {
             "label": "De Villiers' batting during the World Cup was inconsistent as he also failed to score on 4 occasions"
@@ -183,11 +146,7 @@
         },
         {
           "label": "IPL Debut",
-<<<<<<< HEAD
-          "id": "JoOJzeSM4KL",
-=======
-          "id": "FpSCrnOT1M0",
->>>>>>> feature/content-parser
+          "id": "irfiQB0eWH",
           "note": "2008",
           "value": {
             "label": "De Villiers played for the Delhi Daredevils in the first 3 seasons of IPL",
@@ -196,19 +155,11 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-<<<<<<< HEAD
-                "id": "5OUzx0nS8P_",
-                "value": {
-                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
-                  "image": {
-                    "url": "https://en.wikipedia.org/wiki/Delhi_Capitals#/media/File:Delhi_Capitals_Logo.svg",
-=======
-                "id": "auKjJ4Wy6UF",
+                "id": "AL1RKwpLQ8",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
                     "url": "/static/images/ab_de_villiers/Delhi_Capitals_Logo.svg",
->>>>>>> feature/content-parser
                     "altText": "Image of Delhi Capitals"
                   }
                 }
@@ -217,8 +168,6 @@
           }
         }
       ]
-<<<<<<< HEAD
-=======
     },
     {
       "title": "Achievements & Records",
@@ -287,13 +236,13 @@
       "facts": [
         {
           "label": "South African Nation team (2004-2018)",
-          "id": "ELijrv54NV9",
+          "id": "QttMRsSmby",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "South Africa national cricket team",
-                "id": "c5ikyW_s2Uv",
+                "id": "2rFgvkABp9",
                 "url": "/read/en/south_africa_national_cricket_team",
                 "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
                 "value": {
@@ -309,13 +258,13 @@
         },
         {
           "label": "Royal Challengers Bangalore (2011 - present)",
-          "id": "5ERgHcSUKjo",
+          "id": "VRQhLXWFIJ",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Royal Challengers Bangalore",
-                "id": "STpz3POLlD5",
+                "id": "_jqNBTMiDO",
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "value": {
@@ -331,7 +280,7 @@
         },
         {
           "label": "Northerns (2003-2004)",
-          "id": "qfbABer2Bzb",
+          "id": "sSJm2GZbY4",
           "value": {
             "label": "Northerns is a first-class cricket team in South Africa and represents area nother of Johannesburg, and includes Pretoria"
           }
@@ -379,7 +328,6 @@
           }
         }
       ]
->>>>>>> feature/content-parser
     }
   ]
 }

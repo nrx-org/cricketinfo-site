@@ -1,6 +1,6 @@
 const { exportIdAndUrlMaps } = require("./export_id_url_maps");
 const { exportPersonalities } = require("./export_personalities");
-<<<<<<< HEAD
+const { exportTeams } = require("./export_teams");
 const { exportHome } = require("./export_home");
 const { exportPlaces } = require("./export_places");
 const { exportEventsIndividual } = require("./export_events_individual");
@@ -8,16 +8,6 @@ const { exportEventsIndividual } = require("./export_events_individual");
 exportIdAndUrlMaps();
 exportPersonalities();
 exportHome();
+exportTeams();
 exportPlaces();
 exportEventsIndividual();
-=======
-const { exportTeams } = require("./export_teams");
-const { exportHome } = require("./export_home");
-const { exportPlaces } = require("./export_places");
-
-exportIdAndUrlMaps();
-exportPersonalities();
-exportTeams();
-exportHome();
-exportPlaces();
->>>>>>> feature/content-parser
