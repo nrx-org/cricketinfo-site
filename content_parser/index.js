@@ -8,3 +8,4 @@ exportIdAndUrlMaps();
 exportPersonalities();
 exportHome();
 exportPlaces();
+exportEventsIndividual();

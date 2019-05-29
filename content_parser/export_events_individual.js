@@ -57,6 +57,16 @@ module.exports.exportEventsIndividual = () => {
 
       event.sections = [];
 
+      // About table.
+
+      // Hosts.
+
+      // Tournament history.
+
+      // Statistics.
+
+      // Final positions.
+
       fs.writeFileSync(
         `./static/content/${lang}/${englishSlug}.json`,
         JSON.stringify(event, null, 2)
