@@ -12,7 +12,7 @@ const {
   getSluggedTitle,
   makeContentUrl,
   makeArticleUrl,
-  getFileNameFromURL,
+  downloadImageAndFillAttributions,
   findIdMapEntryByTitle,
   getCardInfoFromId
 } = require("./lib");
@@ -141,40 +141,15 @@ module.exports.exportHome = () => {
       delimiter: ","
     });
 
-    const getImagePathForArticle = async url => {
-      // TODO: Why did this stop working in half the places?
-      if (!url) {
-        return "/static/images/default_person.svg";
-      }
-      // const response = await fetch(url);
-      // const html = await response.text();
-      // const $ = cheerio.load(html);
-      // const imageURL = $(".fullMedia > p > a").attr("href");
-      // if (!imageURL) {
-      //   return null;
-      // }
-      const imageName = getFileNameFromURL(url);
-      const imageDirectory = `./static/images/home`;
-      const imagePath = `${imageDirectory}/${imageName}`;
-      if (lang === "en") {
-        const image = await fetch(url);
-        // const image = await fetch(imageURL);
-        if (!fs.existsSync(imageDirectory)) {
-          fs.mkdir(imageDirectory, err => {
-            if (err) throw err;
-          });
-        }
-        const imageFile = fs.createWriteStream(imagePath);
-        image.body.pipe(imageFile);
-      }
-      return imagePath.substring(1);
-    };
-
     const getFactsRecordsWithImagesDownloaded = async () => {
       return await Promise.all(
         factRecords.map(async record => {
-          const imagePath = await getImagePathForArticle(
-            record[HOME_FACTS_RELEVANT_IMAGE]
+          const imagePath = await downloadImageAndFillAttributions(
+            {
+              url: record[HOME_FACTS_RELEVANT_IMAGE],
+              altText: `Image of ${record.title}`
+            },
+            'home'
           );
           record[HOME_FACTS_RELEVANT_IMAGE] = imagePath;
           return record;
