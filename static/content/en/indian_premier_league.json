@@ -88,6 +88,24 @@
         },
         null
       ]
+    },
+    {
+      "title": "Statistics",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Most Runs scored- Name of the player",
+          "id": "most_runs_scored-_name_of_the_player",
+          "value": {
+            "label": "Virat Kohli , Sri Lanka",
+            "image": {
+              "url": "/static/images/indian_premier_league/LASITH_MALINGA_%285155175549%29.jpg",
+              "altText": "Picture of Virat Kohli ",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        }
+      ]
     }
   ]
 }
