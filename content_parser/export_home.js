@@ -372,15 +372,15 @@ module.exports.exportHome = () => {
     };
 
     // NEEDS TO BE CHANGED - NEED BETTER FACT -> ARTICLE MAPPING IN THE CSV
-    const getUrlFromArticleTitle = articleTitle => {
-      // const idMapRecord = findIdMapEntryByTitle(idMap, articleTitle, lang);
-      // console.log(articleTitle, idMapRecord && idMapRecord.title[lang]);
-      const englishSlug = getSluggedTitle(articleTitle);
-      return makeArticleUrl(lang, englishSlug);
-    };
 
     factRecords = await Promise.all(
-      factRecords.map(async factRecord => ({
+      factRecords.map(async factRecord => {
+        const articleInfo = getCardInfoFromId(
+          idMap,
+          factRecord[HOME_FACTS_LINKING_ARTICLE],
+          lang
+        );
+        return{
         label: factRecord[HOME_FACTS_FACT],
         dates: getDatesForIDFromStrategySheet(
           factRecord[HOME_FACTS_FACTID],
@@ -388,7 +388,7 @@ module.exports.exportHome = () => {
         ),
         id: factRecord[HOME_FACTS_FACTID],
         value: {
-          url: getUrlFromArticleTitle(factRecord[HOME_FACTS_LINKING_ARTICLE]),
+          url: articleInfo ? articleInfo.url : null,
           image: await downloadImageAndFillAttributions(
             {
               url: factRecord[HOME_FACTS_RELEVANT_IMAGE],
@@ -397,7 +397,7 @@ module.exports.exportHome = () => {
             "home"
           )
         }
-      }))
+      }})
     );
 
     homeJSON.constantFacts = [];
