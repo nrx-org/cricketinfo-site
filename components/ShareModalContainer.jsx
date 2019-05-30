@@ -4,14 +4,10 @@ import * as cogoToast from "cogo-toast";
 
 import { LanguageContext } from "../language_context";
 import { SHARE_MODAL_ID } from "../lib/modal_ids";
+import { articleUiStrings } from "../lib/ui_strings";
 
 import { ShareModal } from "./ShareModal";
 import { BottomSheet } from "./BottomSheet";
-
-const URL_COPY_SUCCESS_TEXT = {
-  en: "Share link copied!",
-  hi: "शेयर लिंक काॅपी कर लिया गया है!"
-};
 
 export class ShareModalContainer extends React.Component {
   constructor(props) {
@@ -38,7 +34,7 @@ export class ShareModalContainer extends React.Component {
     this.urlInput.current.select();
     document.execCommand("copy");
 
-    cogoToast.success(URL_COPY_SUCCESS_TEXT[lang], {
+    cogoToast.success(articleUiStrings.shareLinkCopied[lang], {
       bar: {
         size: "0px"
       }

@@ -2,7 +2,6 @@ import React from "react";
 import PropTypes from "prop-types";
 
 import Head from "next/head";
-// eslint-disable-next-line import/no-extraneous-dependencies
 import fetch from "isomorphic-fetch";
 
 import { BaseLayout } from "../components/BaseLayout";
@@ -18,6 +17,7 @@ import { ShareArticleFloatingToolbarContainer } from "../components/ShareArticle
 
 import { makeArticleTitle } from "../lib/make_title";
 import { articleContentUrl } from "../lib/urls";
+import { articleUiStrings } from "../lib/ui_strings";
 import {
   translationsPropTypes,
   imagePropTypes,
@@ -84,7 +84,7 @@ const Article = ({
                 openModal(CONTINUE_READING_MODAL_ID, { wikipediaUrl })
               }
             >
-              Read more on Wikipedia
+              {articleUiStrings.readOnWikipedia[lang]}
             </Button>
           )}
         </ModalContextConsumer>
