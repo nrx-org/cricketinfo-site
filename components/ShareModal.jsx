@@ -3,21 +3,7 @@ import PropTypes from "prop-types";
 
 import { IconButtonWithText } from "./IconButtonWithText";
 import { IconButton } from "./IconButton";
-
-const SHARE_TEXT = {
-  facebook: {
-    en: "Share on Facebook",
-    hi: "फेसबुक पर शेयर करें"
-  },
-  whatsapp: {
-    en: "Share on Whatsapp",
-    hi: "वॉट्सएप पर शेयर करें"
-  },
-  copy: {
-    en: "Copy link to share",
-    hi: "लिंक कॉपी करें"
-  }
-};
+import { articleUiStrings } from "../lib/ui_strings";
 
 export const ShareModal = ({ onCloseClick, onCopyClick, shareUrl, lang }) => {
   return (
@@ -33,17 +19,17 @@ export const ShareModal = ({ onCloseClick, onCopyClick, shareUrl, lang }) => {
         altText="WhatsApp Icon"
         url={`https://wa.me/?text=${shareUrl}`}
       >
-        {SHARE_TEXT.whatsapp[lang]}
+        {articleUiStrings.shareOnWhatsApp[lang]}
       </IconButtonWithText>
       <IconButtonWithText
         name="facebook"
         altText="Facebook Icon"
         url={`https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`}
       >
-        {SHARE_TEXT.facebook[lang]}
+        {articleUiStrings.shareOnFacebook[lang]}
       </IconButtonWithText>
       <IconButtonWithText name="copy" altText="Copy Icon" onClick={onCopyClick}>
-        {SHARE_TEXT.copy[lang]}
+        {articleUiStrings.copyLink[lang]}
       </IconButtonWithText>
     </div>
   );
