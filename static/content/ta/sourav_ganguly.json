@@ -20,48 +20,48 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "விவரம்",
       "cardType": "table",
       "facts": [
         {
-          "label": "Full Name",
+          "label": "முழுப் பெயர்",
           "value": {
             "label": "சவுரவ் கங்குலி"
           }
         },
         {
-          "label": "Born On",
+          "label": "பிறந்த தேதி",
           "value": {
-            "label": "08 Jul 1972 (age 46)"
+            "label": "08 Jul 1972 (வயது 46)"
           }
         },
         {
-          "label": "Birthplace",
+          "label": "பிறந்த இடம்",
           "value": {
             "label": "கொல்கத்தா, இந்தியா",
             "url": "https://en.wikipedia.org/wiki/Calcutta"
           }
         },
         {
-          "label": "Height",
+          "label": "உயரம்",
           "value": {
             "label": "5 அடி 11 அங்குலம் (1.80 மீ)"
           }
         },
         {
-          "label": "Other Names",
+          "label": "வேறு பெயர்கள்",
           "value": {
             "label": "மஹாராஜ்"
           }
         },
         {
-          "label": "Nationality",
+          "label": "சொந்த நாடு",
           "value": {
             "label": "இந்தியர்"
           }
         },
         {
-          "label": "Role",
+          "label": "இவரின் பங்கு",
           "value": {
             "label": "பேட்ஸ்மென்"
           }
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "கல்வி",
       "cardType": "avatar",
       "facts": [
         {
@@ -85,8 +85,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "WGf_XfEleDY",
+      "title": "விளையாட்டின் பாணி",
+      "id": "M3e9banhqNH",
       "cardType": "simple",
       "facts": [
         {
@@ -102,12 +102,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "படிநிலைகள்",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "7VZWU3bh1ue",
+          "id": "N9KNAqRYlPuO",
           "note": "1989",
           "value": {
             "label": "சவுரவ் கங்குலி 1989 இல் பெங்காலுக்காக தன்னுடைய முதல் பர்ஸ் கிளாஸ் கிரிக்கெட்டைத் தொடங்கினார்."
@@ -115,15 +115,30 @@
         },
         {
           "label": "தேசிய அணி அறிமுகம்",
-          "id": "hGAjLXb2jOq",
+          "id": "ICoAwNWATiNu",
           "note": "1992",
           "value": {
-            "label": "கங்குலி 1992 இல் மேற்கிந்தியத் தீவுகள் அணிக்கான தன்னுடைய முதல் சர்வதேச ஒரு நாள் போட்டியில் மூன்று ரன்கள் எடுத்தார்."
+            "label": "கங்குலி 1992 இல் மேற்கிந்தியத் தீவுகள் அணிக்கான தன்னுடைய முதல் சர்வதேச ஒரு நாள் போட்டியில் மூன்று ரன்கள் எடுத்தார்.",
+            "facts": [
+              {
+                "url": "/read/ta/west_indies_cricket_team",
+                "contentUrl": "/static/content/ta/west_indies_cricket_team.json",
+                "label": "வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி",
+                "id": "ZtAnRcTPTUbi",
+                "value": {
+                  "label": "பாரம்பரியமாக வின்டீஸ் என அழைக்கப்படுகின்ற வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி, ஆங்கிலோபோன் கரீபியன் பகுதியைப் பிரதிநிதித்துவப்படுத்தும் ஒரு பன்னாட்டு கிரிக்கெட் அணியாகும், இது கிரிக்கெட் வெஸ்ட் இன்டீஸால் நிர்வகிக்கப்படுகிறது. இந்த கலப்புக் குழுவிலுள்ள வீரர்கள் பதினைந்து கரீபியன் பிரதேசங்களிலிருந்து தேர்ந்தெடுக்கப்படுகின்றனர்",
+                  "image": {
+                    "url": "/static/images/sourav_ganguly/West_indies_cricket_board_flag.png",
+                    "altText": "Image of வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "முதல் ஐசிசி போட்டி ",
-          "id": "aF1frFpYqPm",
+          "id": "jDoqHe7Xc4aI",
           "note": "1999",
           "value": {
             "label": "கங்குலி 1999 உலகக் கோப்பையில் இலங்கைக்கு எதிரான போட்டியில் 158 பந்துகளுக்கு 183 ரன் எடுத்தார், இதுவே அவரது மிக அதிகமான ஓடிஐ ஸ்கோர்.",
@@ -132,7 +147,7 @@
                 "url": "/read/ta/1999_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1999_cricket_world_cup.json",
                 "label": "1999 கிரிக்கெட் உலகக் கோப்பை",
-                "id": "R2xjGBwHgF7",
+                "id": "Yyi1mZLUynxE",
                 "value": {
                   "label": "1999 का क्रिकेट विश्व कप क्रिकेट विश्व कप का सातवां संस्करण था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेज़बानी मुख्य रूप से इंग्लैंड ने की थी, जिसमें कुछ मैच स्कॉटलैंड, आयरलैंड, वेल्स और नीदरलैंड में भी खेले गए थे।",
                   "image": {
@@ -146,7 +161,7 @@
         },
         {
           "label": "சாம்பியன்ஸ் டிராபி 2002",
-          "id": "HTcnyND46b8",
+          "id": "AKeRJx4d5udV",
           "note": "2002",
           "value": {
             "label": "இங்கிலாந்துக்கு எதிரான போட்டியில் இந்தியா வெற்றி பெற்றது, மேலும் கங்குலி ஆட்டமிழக்காமல் 117 ரன்கள் எடுத்தார்.",
@@ -155,7 +170,7 @@
                 "url": "/read/ta/icc_champions_trophy",
                 "contentUrl": "/static/content/ta/icc_champions_trophy.json",
                 "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி",
-                "id": "BMYeDYuiYEP",
+                "id": "mphzaZVh2p41",
                 "value": {
                   "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி என்பது இன்டர்நேஷனல் கிரிக்கெட் கவுன்சிலால் (ஐசிசி) நடத்தப்படும் ஒன் டே இன்டர்நேஷனல் (ODI) கிரிக்கெட் டோர்னமென்ட் ஆகும். இது கிரிக்கெட் உலகக்கோப்பைக்கு அடுத்தபடியாக முக்கியமாக கருதப்படும் டோர்னமென்ட் ஆகும். 2002-ஆம் ஆண்டு இதன் பெயர் சேம்பியன்ஸ் டிராஃபி என்று மாற்றப்பட்டது.",
                   "image": {
@@ -169,7 +184,7 @@
         },
         {
           "label": "உலகக் கோப்பை",
-          "id": "_ADsb0tzRgG",
+          "id": "WikhGNqKjaRN",
           "note": "2003",
           "value": {
             "label": "1983க்குப் பிறகு முதன் முறையாக சவ்ரவ் கங்குலி தலைமையிலான இந்திய அணி உலகக் கோப்பை இறுதிப்போட்டிக்குச் சென்றது.",
@@ -178,7 +193,7 @@
                 "url": "/read/ta/2003_cricket_world_cup",
                 "contentUrl": "/static/content/ta/2003_cricket_world_cup.json",
                 "label": "2003 கிரிக்கெட் உலகக் கோப்பை",
-                "id": "5W24O2uqaaA",
+                "id": "NBpNh86Au5rM",
                 "value": {
                   "label": "2003 का क्रिकेट विश्व कप आठवां क्रिकेट विश्व कप था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेजबानी दक्षिण अफ्रीका, जिम्बाब्वे और केन्या ने मिल कर की थी।",
                   "image": {
@@ -192,7 +207,7 @@
         },
         {
           "label": "2007 உலகக் கோப்பை",
-          "id": "PJzj9C1c7pS",
+          "id": "gjqtoEOYWplt",
           "note": "இந்தியாவுக்கு கங்குலி அதிக ரன்களை எடுத்திருந்த போதிலும், அணியானது குழு நிலைப் போட்டியிலிருந்து வெளியேற்றப்பட்டது.",
           "value": {
             "label": "உலகக் கோப்பை",
@@ -201,7 +216,7 @@
                 "url": "/read/ta/2007_cricket_world_cup",
                 "contentUrl": "/static/content/ta/2007_cricket_world_cup.json",
                 "label": "2007 கிரிக்கெட் உலகக் கோப்பை",
-                "id": "T0sgcVDdRvq",
+                "id": "PZnZ3spiQMds",
                 "value": {
                   "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
                   "image": {
@@ -215,16 +230,31 @@
         },
         {
           "label": "2008",
-          "id": "VYZREPJTLgn",
+          "id": "KxDUvzwL6VCX",
           "note": "கொல்கத்தா நைட் ரைடர்ஸ்",
           "value": {
-            "label": "கொல்கத்தா நைட் ரைடர்ஸ்"
+            "label": "கொல்கத்தா நைட் ரைடர்ஸ்",
+            "facts": [
+              {
+                "url": "/read/ta/kolkata_knight_riders",
+                "contentUrl": "/static/content/ta/kolkata_knight_riders.json",
+                "label": "Kolkata Knight Riders",
+                "id": "ESwwMp3TqRZm",
+                "value": {
+                  "label": "The Kolkata Knight Riders (also known by the acronym KKR) are a franchise cricket team representing the city of Kolkata in the Indian Premier League. ",
+                  "image": {
+                    "url": "/static/images/sourav_ganguly/Kolkata_Knight_Riders_Logo.svg",
+                    "altText": "Image of Kolkata Knight Riders"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "சாதனைகள்",
       "cardType": "stories",
       "facts": [
         {
@@ -285,26 +315,41 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "அணிகள்",
       "cardType": "list_card",
       "facts": [
         {
           "label": "இந்திய கிரிக்கெட் அணி (1992-2008)",
-          "id": "4axg2D-U2yI",
+          "id": "PBBiqVfL6vW5",
           "value": {
-            "label": "இந்திய கிரிக்கெட் அணி டீம் இந்தியா மற்றும் மென் இன் புளூ என்றும் அழைக்கப்படுகிறது. இந்திய கிரிக்கெட் கட்டுப்பாட்டு வாரியம் இதை நிர்வகிக்கிறது"
+            "label": "",
+            "facts": [
+              {
+                "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+                "id": "8IXkSriiLIia",
+                "url": "/read/ta/india_national_cricket_team",
+                "contentUrl": "/static/content/ta/india_national_cricket_team.json",
+                "value": {
+                  "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
+                  "image": {
+                    "url": "/static/images/sourav_ganguly/Cricket_India_Crest.svg",
+                    "altText": "Picture of இந்திய தேசிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "புனே வாரியர்ஸ் இந்தியா (2011-2012)",
-          "id": "AjBeNoYlJwF",
+          "id": "CcNX6pMZraIA",
           "value": {
             "label": "புனே வாரியர்ஸ் இந்தியா, பூனே நகரைச் சேர்ந்த ஐபிஎல் கிரிக்கெட் அணியாக இருந்தது. இந்த அணி 2013 இல் கலைக்கப்பட்டது."
           }
         },
         {
           "label": "பெங்கால் (1990-2010)",
-          "id": "tQceFnXOn52",
+          "id": "F_SL2qI2dyhX",
           "value": {
             "label": "பெங்கால் கிரிக்கெட் அணி, உள்ளூர் பர்ஸ்ட் கிளாஸ் கிரிக்கெட்டில் இந்தியாவின் மேற்கு வங்க மாநிலத்துக்காக விளையாடுகிறது."
           }
@@ -312,7 +357,7 @@
       ]
     },
     {
-      "title": "Awards & Honors",
+      "title": "விருதுகள் & கௌரவங்கள்",
       "cardType": "tag_card",
       "facts": [
         {

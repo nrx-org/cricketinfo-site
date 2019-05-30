@@ -28,9 +28,9 @@
           }
         },
         {
-          "label": "Born On",
+          "label": "Born on",
           "value": {
-            "label": "Invalid Date (age 35)"
+            "label": "Invalid Date (Age 35)"
           }
         },
         {
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "Education",
       "cardType": "avatar",
       "facts": [
         {
@@ -84,8 +84,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "CquRqTujkRr",
+      "title": "Style of Play",
+      "id": "5qxPPTIE2S2",
       "cardType": "simple",
       "facts": [
         {
@@ -102,12 +102,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "Phases",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "First class Debut",
-          "id": "us-ivShzSOT",
+          "id": "WZizfvbxLCh",
           "note": "2004",
           "value": {
             "label": "De Villiers made his first class debut for the South African domestic team Northerns"
@@ -115,7 +115,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "HIReoNAOXjb",
+          "id": "o8vr9fB2uy6",
           "note": "2004",
           "value": {
             "label": "AB de Villiers made his international debut in a Test match against England",
@@ -124,7 +124,7 @@
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "label": "England cricket team",
-                "id": "j5gLYygNS",
+                "id": "WQwZ_jI5OAn",
                 "value": {
                   "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
                   "image": {
@@ -138,7 +138,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "weXqslRczV",
+          "id": "tXQzJfanxpD",
           "note": "2007",
           "value": {
             "label": "De Villiers' batting during the World Cup was inconsistent as he also failed to score on 4 occasions"
@@ -146,7 +146,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "R00oat8ApZ",
+          "id": "eydauWe8QP_",
           "note": "2008",
           "value": {
             "label": "De Villiers played for the Delhi Daredevils in the first 3 seasons of IPL",
@@ -155,7 +155,7 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-                "id": "qWdHm9Lu8J",
+                "id": "Y5Sv-OU6Sib",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "Achievement & Records",
       "cardType": "stories",
       "facts": [
         {
@@ -231,18 +231,18 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "Teams",
       "cardType": "list_card",
       "facts": [
         {
           "label": "South African Nation team (2004-2018)",
-          "id": "xFOZG0vvPE",
+          "id": "vX_RnljuWvp",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "South Africa national cricket team",
-                "id": "VwxzcMYboM",
+                "id": "iCmeWthD_Qs",
                 "url": "/read/en/south_africa_national_cricket_team",
                 "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
                 "value": {
@@ -258,13 +258,13 @@
         },
         {
           "label": "Royal Challengers Bangalore (2011 - present)",
-          "id": "3TYJD5oJXf",
+          "id": "L8DMBmBns74",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Royal Challengers Bangalore",
-                "id": "NK2aqvj0ZJ",
+                "id": "Eq0TiNw5jxd",
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "value": {
@@ -280,7 +280,7 @@
         },
         {
           "label": "Northerns (2003-2004)",
-          "id": "R6f1nfuS3L",
+          "id": "ze1aVglv9bS",
           "value": {
             "label": "Northerns is a first-class cricket team in South Africa and represents area nother of Johannesburg, and includes Pretoria"
           }

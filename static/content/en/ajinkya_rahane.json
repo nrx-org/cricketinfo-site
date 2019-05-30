@@ -29,16 +29,17 @@
           }
         },
         {
-          "label": "Born On",
+          "label": "Born on",
           "value": {
-            "label": "Invalid Date (age 30)"
+            "label": "Invalid Date (Age 30)"
           }
         },
         {
           "label": "Birthplace",
           "value": {
             "label": "Sangamner, Maharashtra, India",
-            "url": "https://en.wikipedia.org/wiki/Sangamner"
+            "url": "https://en.wikipedia.org/wiki/Sangamner",
+            "contentUrl": "/static/content/en/null.json"
           }
         },
         {
@@ -62,7 +63,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "Education",
       "cardType": "avatar",
       "facts": [
         {
@@ -79,8 +80,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "A1lxzPSha",
+      "title": "Style of Play",
+      "id": "hTxr8b82usv",
       "cardType": "simple",
       "facts": [
         {
@@ -92,12 +93,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "Phases",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "First class Debut",
-          "id": "nfvgYpuyAu",
+          "id": "pGNK01q1kPd",
           "note": "Rahane made his first-class debut, at the age of 19, for Mumbai against Karachi Urban in the Mohammad Nissar Trophy in September 2007",
           "value": {
             "label": "Mohammad Nissar Trophy was an annual first class cricket competition played over four days between the winners of the Ranji Trophy from India and Quaid-i-Azam Trophy from Pakistan."
@@ -105,7 +106,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "IlcLZQ-Q4r",
+          "id": "roUd1cJy_OV",
           "note": "2011",
           "value": {
             "label": "Rahane made his debut against England in 2011 as a replacement for opener Virender Sehwag",
@@ -114,7 +115,7 @@
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "label": "England cricket team",
-                "id": "SuQwBQN2_a",
+                "id": "J2ZTqcUMh51",
                 "value": {
                   "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
                   "image": {
@@ -128,7 +129,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "l44YAUusV8",
+          "id": "-jK2xFtAPtn",
           "note": "2014",
           "value": {
             "label": "Rahane was part of Indian team make it to the final of 2014 World T20"
@@ -136,7 +137,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "VoudHhHA4H",
+          "id": "X7B6B5OmlSS",
           "note": "2008",
           "value": {
             "label": "Rahane was initially in the Mumbai Indians squad but got limited opportunities",
@@ -145,7 +146,7 @@
                 "url": "/read/en/bangladesh_national_cricket_team",
                 "contentUrl": "/static/content/en/bangladesh_national_cricket_team.json",
                 "label": "Bangladesh national cricket team",
-                "id": "uElo3JQd1-",
+                "id": "rMIdK-xBF-b",
                 "value": {
                   "label": "The Bangladesh national cricket team, popularly known as \"The Tigers\", is administered by the Bangladesh Cricket Board (BCB). Bangladesh is a full member of the International Cricket Council (ICC) with Test and One Day International (ODI) status.",
                   "image": {
@@ -160,7 +161,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "Achievement & Records",
       "cardType": "stories",
       "facts": [
         {
@@ -221,18 +222,18 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "Teams",
       "cardType": "list_card",
       "facts": [
         {
           "label": "Indian national cricket team (2011-present)",
-          "id": "G32wQeDMFv",
+          "id": "MNEjfELmCW9",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "_xUmIgBeG7",
+                "id": "CJ5tNTtO-bN",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -248,13 +249,13 @@
         },
         {
           "label": "Rajasthan Royals (2011-present)",
-          "id": "CZLirtlSHn",
+          "id": "bKV-uWAVAVS",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Rajasthan Royals",
-                "id": "aGC3wutKT-",
+                "id": "oQDxl_H2ffW",
                 "url": "/read/en/rajasthan_royals",
                 "contentUrl": "/static/content/en/rajasthan_royals.json",
                 "value": {
@@ -270,7 +271,7 @@
         },
         {
           "label": "Mumbai (2007-present)",
-          "id": "rTkVMFZeQw",
+          "id": "w_smQtbGN5p",
           "value": {
             "label": "Domestic Ranji trophy cricket team based in Mumbai"
           }

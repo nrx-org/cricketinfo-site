@@ -20,48 +20,49 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इनके बारे में",
       "cardType": "table",
       "facts": [
         {
-          "label": "Full Name",
+          "label": "पूरा नाम",
           "value": {
             "label": "राहुल शरद द्रविड़ "
           }
         },
         {
-          "label": "Born On",
+          "label": "जन्मतिथि",
           "value": {
-            "label": "11 Jan 1973 (age 46)"
+            "label": "11 Jan 1973 (आयु 46)"
           }
         },
         {
-          "label": "Birthplace",
+          "label": "जन्मस्थान",
           "value": {
             "label": "इंदौर, भारत",
-            "url": "https://en.wikipedia.org/wiki/Indore"
+            "url": "https://en.wikipedia.org/wiki/Indore",
+            "contentUrl": "/static/content/hi/null.json"
           }
         },
         {
-          "label": "Height",
+          "label": "ऊंचाई",
           "value": {
             "label": "1.70 मीटर (5 फीट 7 इंच)"
           }
         },
         {
-          "label": "Other Names",
+          "label": "अन्य नाम",
           "value": {
             "label": "द वाल "
           }
         },
         {
-          "label": "Nationality",
+          "label": "राष्ट्रीयता",
           "value": {
             "label": "भारतीय"
           }
         },
         {
-          "label": "Role",
+          "label": "भूमिका",
           "value": {
             "label": "बल्लेबाज, विकेट-कीपर"
           }
@@ -69,7 +70,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "शिक्षा",
       "cardType": "avatar",
       "facts": [
         {
@@ -85,8 +86,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "m9K8E-GGKD1",
+      "title": "खेलने की शैली",
+      "id": "dN8gMgeu32O",
       "cardType": "simple",
       "facts": [
         {
@@ -102,12 +103,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "दौर",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": "xY7DVkiPDqI",
+          "id": "C0CNivFGDnrg",
           "note": "1991",
           "value": {
             "label": "द्रविड़ ने महाराष्ट्र के खिलाफ 1991 में रणजी ट्रॉफी क्रिकेट में पदार्पण किया। "
@@ -115,15 +116,30 @@
         },
         {
           "label": "राष्ट्रीय टीम ",
-          "id": "WYMSzVXHA8N",
+          "id": "nVf564S5ZIhL",
           "note": "1996",
           "value": {
-            "label": "द्रविड़ ने 1996 में सिंगापोर में सिंगर कप के दौरान ओडीआई क्रिकेट में श्रीलंका के विरुद्ध वनडे इंटरनेशनल में पदार्पण किया। "
+            "label": "द्रविड़ ने 1996 में सिंगापोर में सिंगर कप के दौरान ओडीआई क्रिकेट में श्रीलंका के विरुद्ध वनडे इंटरनेशनल में पदार्पण किया। ",
+            "facts": [
+              {
+                "url": "/read/hi/sri_lanka_national_cricket_team",
+                "contentUrl": "/static/content/hi/sri_lanka_national_cricket_team.json",
+                "label": "श्रीलंका की राष्ट्रीय क्रिकेट टीम",
+                "id": "P0Dn5zLs581o",
+                "value": {
+                  "label": "श्रीलंका की राष्ट्रीय क्रिकेट टीम, जिसे 'द लायंस' के नाम से भी जाना जाता है। यह अंतरराष्ट्रीय क्रिकेट में श्रीलंका का प्रतिनिधित्व करती है। यह टेस्ट, एकदिवसीय अंतरराष्ट्रीय (ओडीआई) और टी-20 अंतरराष्ट्रीय (टी20आई) में अंतरराष्ट्रीय क्रिकेट परिषद (आईसीसी) का पूर्ण सदस्य देश है।",
+                  "image": {
+                    "url": "/static/images/rahul_dravid/Sri_Lanka_Cricket_Cap_Insignia.svg",
+                    "altText": "Image of श्रीलंका की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "विश्व कप",
-          "id": "CrnqQA6Kk8I",
+          "id": "VtCvuzheUuXX",
           "note": "1999",
           "value": {
             "label": "द्रविड़ ने दक्षिण अफ्रीका के विरुद्ध होव में 1999 में क्रिकेट विश्व कप के मैचों में अपना पदार्पण किया और अर्द्ध शतक बनाया।",
@@ -132,7 +148,7 @@
                 "url": "/read/hi/1999_cricket_world_cup",
                 "contentUrl": "/static/content/hi/1999_cricket_world_cup.json",
                 "label": "1999 क्रिकेट विश्व कप",
-                "id": "RSMNyEznnrf",
+                "id": "50hkkvijLAsr",
                 "value": {
                   "label": "1999 का क्रिकेट विश्व कप क्रिकेट विश्व कप का सातवां संस्करण था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेज़बानी मुख्य रूप से इंग्लैंड ने की थी, जिसमें कुछ मैच स्कॉटलैंड, आयरलैंड, वेल्स और नीदरलैंड में भी खेले गए थे।",
                   "image": {
@@ -146,7 +162,7 @@
         },
         {
           "label": "2003 विश्व कप\n",
-          "id": "iW1Ndf1ebu5",
+          "id": "0hFAWLwQoskq",
           "note": "2003",
           "value": {
             "label": "2003 के विश्व कप के दौरान द्रविड़ उप-कप्तान रहे और एक विकेटकीपर बल्लेबाज के रूप में मैच खेले। ",
@@ -155,7 +171,7 @@
                 "url": "/read/hi/2003_cricket_world_cup",
                 "contentUrl": "/static/content/hi/2003_cricket_world_cup.json",
                 "label": "2003 क्रिकेट विश्व कप",
-                "id": "DLb1rd_ANJe",
+                "id": "GLtdPdTspFgR",
                 "value": {
                   "label": "2003 का क्रिकेट विश्व कप आठवां क्रिकेट विश्व कप था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेजबानी दक्षिण अफ्रीका, जिम्बाब्वे और केन्या ने मिल कर की थी।",
                   "image": {
@@ -169,7 +185,7 @@
         },
         {
           "label": "विश्व कप ",
-          "id": "kAZ40t_Qe3r",
+          "id": "Bz2xf97wO6im",
           "note": "2007",
           "value": {
             "label": "2007 के विश्व कप में राहुल द्रविड़ को भारत का कप्तान नियुक्त किया गया जिसमें भारत नाकामयाब रहा। ",
@@ -178,7 +194,7 @@
                 "url": "/read/hi/2007_cricket_world_cup",
                 "contentUrl": "/static/content/hi/2007_cricket_world_cup.json",
                 "label": "2007 क्रिकेट विश्व कप",
-                "id": "64Ude98uHz7",
+                "id": "zhkGi8DbWWdj",
                 "value": {
                   "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
                   "image": {
@@ -192,16 +208,31 @@
         },
         {
           "label": "IPL डेब्यू",
-          "id": "Jq3LW3L_nWz",
+          "id": "jFaZRh7oU-qf",
           "note": "2008",
           "value": {
-            "label": "आईपीएल 2008, 2009 और 2010 में राहुल द्रविड़ रॉयल चैलेंजर्स बंगलुरु के लिए खेले। "
+            "label": "आईपीएल 2008, 2009 और 2010 में राहुल द्रविड़ रॉयल चैलेंजर्स बंगलुरु के लिए खेले। ",
+            "facts": [
+              {
+                "url": "/read/hi/royal_challengers_bangalore",
+                "contentUrl": "/static/content/hi/royal_challengers_bangalore.json",
+                "label": "रॉयल चैलेंजर्स बैंगलोर",
+                "id": "pTaXKeWcwEjc",
+                "value": {
+                  "label": "रॉयल चैलेंजर्स बैंगलोर, बैंगलोर,कर्नाटक में स्थित एक फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में खेलती है।",
+                  "image": {
+                    "url": "/static/images/rahul_dravid/Royal_Challengers_Bangalore_Logo_2016.svg",
+                    "altText": "Image of रॉयल चैलेंजर्स बैंगलोर"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "उपलब्धि और रिकॉर्ड",
       "cardType": "stories",
       "facts": [
         {
@@ -262,26 +293,56 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "टीमें",
       "cardType": "list_card",
       "facts": [
         {
           "label": "भारतीय राष्ट्रीय क्रिकेट टीम (1996-2012)",
-          "id": "GIbn_WZQRcP",
+          "id": "ci6IZiR7DeqL",
           "value": {
-            "label": "भारत की राष्ट्रीय क्रिकेट टीम, जिसे टीम इंडिया और मैन इन ब्लू के नाम से भी जाना जाता है, भारतीय क्रिकेट कंट्रोल बोर्ड द्वारा संचालित है"
+            "label": "",
+            "facts": [
+              {
+                "label": "भारत की राष्ट्रीय क्रिकेट टीम",
+                "id": "DDdPQl_pat8c",
+                "url": "/read/hi/india_national_cricket_team",
+                "contentUrl": "/static/content/hi/india_national_cricket_team.json",
+                "value": {
+                  "label": "भारत की राष्ट्रीय क्रिकेट टीम को टीम इंडिया और मेन इन ब्लू के नाम से भी जाना जाता है। भारत को टेस्ट में पहला, वनडे में दूसरा और आईसीसी द्वारा टी20 में दूसरा स्थान मिला है। विराट कोहली टीम के वर्तमान कप्तान हैं जबकि मुख्य कोच रवि शास्त्री हैं।",
+                  "image": {
+                    "url": "/static/images/rahul_dravid/Cricket_India_Crest.svg",
+                    "altText": "Picture of भारत की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "राजस्थान रॉयल्स (2011-2013)",
-          "id": "AQharv15KBg",
+          "id": "Nvpl74QGYWwc",
           "value": {
-            "label": "राजस्थान रॉयल्स जयपुर, राजस्थान, भारत की एक आईपीएल क्रिकेट टीम है।"
+            "label": "",
+            "facts": [
+              {
+                "label": "राजस्थान रॉयल्स",
+                "id": "AqEdcB7tTKDq",
+                "url": "/read/hi/rajasthan_royals",
+                "contentUrl": "/static/content/hi/rajasthan_royals.json",
+                "value": {
+                  "label": "राजस्थान रॉयल्स (संक्षिप्त रूप में आरआर) इंडियन प्रीमियर लीग में खेलने वाली राजस्थान के जयपुर आधारित एक फ्रेंचाइजी क्रिकेट टीम है।",
+                  "image": {
+                    "url": "/static/images/rahul_dravid/RR-LOGO-1.png",
+                    "altText": "Picture of राजस्थान रॉयल्स"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "कर्नाटक (1990-2012)",
-          "id": "-Y94ol_BJF7",
+          "id": "t53sDr2hj8fH",
           "value": {
             "label": "कर्नाटक राज्य की घरेलू रणजी ट्रॉफी क्रिकेट टीम "
           }
@@ -289,7 +350,7 @@
       ]
     },
     {
-      "title": "Awards & Honors",
+      "title": "पुरस्कार और सम्मान",
       "cardType": "tag_card",
       "facts": [
         {

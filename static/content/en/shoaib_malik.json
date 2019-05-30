@@ -30,9 +30,9 @@
           }
         },
         {
-          "label": "Born On",
+          "label": "Born on",
           "value": {
-            "label": "Invalid Date (age 37)"
+            "label": "Invalid Date (Age 37)"
           }
         },
         {
@@ -71,8 +71,8 @@
           "label": "Spouse",
           "value": {
             "label": "Sania Mirza",
-            "url": null,
-            "contentUrl": null,
+            "url": "/read/en/null",
+            "contentUrl": "/static/content/en/null.json",
             "image": {
               "url": "/static/images/shoaib_malik/Sania_Mirza_%2835449409862%29.jpg",
               "altText": "Picture of Sania Mirza",
@@ -83,8 +83,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "mWVBOLVKju",
+      "title": "Style of Play",
+      "id": "qlv52HGSz",
       "cardType": "simple",
       "facts": [
         {
@@ -101,12 +101,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "Phases",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "First class Debut",
-          "id": "kTQH39h_9",
+          "id": "vA3MY46W8",
           "note": "",
           "value": {
             "label": ""
@@ -114,7 +114,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "aJG2OUcD2P",
+          "id": "HujHi7pner",
           "note": "",
           "value": {
             "label": "Shoaib Malik made his ODI debut on  14 October 1999 vs West Indies.",
@@ -123,7 +123,7 @@
                 "url": "/read/en/west_indies_cricket_team",
                 "contentUrl": "/static/content/en/west_indies_cricket_team.json",
                 "label": "West Indies cricket team",
-                "id": "nqniWl4WVi",
+                "id": "pNx8zJzsxM",
                 "value": {
                   "label": "The West Indies cricket team, traditionally known as the Windies, is a multi-national cricket team representing the Anglophone Caribbean region and administered by Cricket West Indies. The players on this composite team are selected from a chain of fifteen Caribbean territories",
                   "image": {
@@ -137,7 +137,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "dSE9-wUZw3",
+          "id": "kJ2A0wrwYF",
           "note": "",
           "value": {
             "label": ""
@@ -145,7 +145,7 @@
         },
         {
           "label": "World Cup Apperance",
-          "id": "5pym8uSQkx",
+          "id": "lnuRrT1MrE",
           "note": "",
           "value": {
             "label": ""
@@ -153,7 +153,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "_YQv5WdjnR",
+          "id": "OM62Vs_y01",
           "note": "",
           "value": {
             "label": ""
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "Achievement & Records",
       "cardType": "stories",
       "facts": [
         {
@@ -223,18 +223,18 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "Teams",
       "cardType": "list_card",
       "facts": [
         {
           "label": "Pakistan national cricket team (1999- present)",
-          "id": "B1BiU17gm9",
+          "id": "6sXU0KEC9g",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Pakistan national cricket team",
-                "id": "K0BBLBd9j-",
+                "id": "ldSyrzkzDF",
                 "url": "/read/en/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
                 "value": {

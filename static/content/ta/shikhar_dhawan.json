@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "விவரம்",
       "cardType": "table",
       "facts": [
         {
-          "label": "Full Name",
+          "label": "முழுப் பெயர்",
           "value": {
             "label": "சிக்கர் தவான்"
           }
         },
         {
-          "label": "Born On",
+          "label": "பிறந்த தேதி",
           "value": {
-            "label": "05 Dec 1985 (age 33)"
+            "label": "05 Dec 1985 (வயது 33)"
           }
         },
         {
-          "label": "Birthplace",
+          "label": "பிறந்த இடம்",
           "value": {
             "label": "டெல்லி, இந்தியா",
             "url": "https://en.wikipedia.org/wiki/Delhi",
@@ -44,19 +44,19 @@
           }
         },
         {
-          "label": "Height",
+          "label": "உயரம்",
           "value": {
             "label": "5 அடி 11 அங்குலம் (180 செமீ)"
           }
         },
         {
-          "label": "Nationality",
+          "label": "சொந்த நாடு",
           "value": {
             "label": "இந்தியர்"
           }
         },
         {
-          "label": "Role",
+          "label": "இவரின் பங்கு",
           "value": {
             "label": "பேட்ஸ்மென்"
           }
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "கல்வி",
       "cardType": "avatar",
       "facts": [
         {
@@ -80,8 +80,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "jELzMCDu10Z",
+      "title": "விளையாட்டின் பாணி",
+      "id": "oQkm8mm6QJc",
       "cardType": "simple",
       "facts": [
         {
@@ -98,12 +98,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "படிநிலைகள்",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "9PItMDVBtT",
+          "id": "qo3KyaSjg",
           "note": "2004",
           "value": {
             "label": "தவான் 2004 ஆம் ஆண்டு ரஞ்சி டிராஃபி போட்டியில் தன்னுடைய முதல் பர்ஸ் கிளாஸ் போட்டியை டெல்லி அணிக்காக ஆடினார்."
@@ -111,15 +111,30 @@
         },
         {
           "label": "தேசிய அணி அறிமுகம்",
-          "id": "Bs6atXFK5g",
+          "id": "pxthWymIsc",
           "note": "2010",
           "value": {
-            "label": "தவான் ஆஸ்திரேலியாவுக்கு எதிராக தன்னுடைய முதல் சர்வதேச ஒரு நாள் போட்டியில் ஆடினார், ஆனால் பூஜ்ஜியத்தில் அவுட் ஆகிவிட்டார்."
+            "label": "தவான் ஆஸ்திரேலியாவுக்கு எதிராக தன்னுடைய முதல் சர்வதேச ஒரு நாள் போட்டியில் ஆடினார், ஆனால் பூஜ்ஜியத்தில் அவுட் ஆகிவிட்டார்.",
+            "facts": [
+              {
+                "url": "/read/ta/australia_cricket_team",
+                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+                "id": "DlNhOKaBzB",
+                "value": {
+                  "label": "ஆஸ்திரேலிய தேசிய கிரிக்கெட் அணி 1877 ஆம் ஆண்டு நடைபெற்ற முதன்முதல் டெஸ்ட் போட்டியில் விளையாடிய, ஒரு மிகப் பழமையான அணியாகும்.",
+                  "image": {
+                    "url": "/static/images/shikhar_dhawan/Australia_cricket_logo.svg",
+                    "altText": "Image of ஆஸ்திரேலிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "முதல் ஐசிசி போட்டி ",
-          "id": "Dn4iwNZI53",
+          "id": "WnqOR9xIkj",
           "note": "2013",
           "value": {
             "label": "தவான், தொடரில் அதிக ரன்களைக் குவித்ததுடன், தொடரின் ஆட்ட நாயகன் என்ற பட்டதையும் பெற்றார்.",
@@ -128,7 +143,7 @@
                 "url": "/read/ta/icc_champions_trophy",
                 "contentUrl": "/static/content/ta/icc_champions_trophy.json",
                 "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி",
-                "id": "GLreYQlLJv",
+                "id": "wY5UiRxJ6S",
                 "value": {
                   "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி என்பது இன்டர்நேஷனல் கிரிக்கெட் கவுன்சிலால் (ஐசிசி) நடத்தப்படும் ஒன் டே இன்டர்நேஷனல் (ODI) கிரிக்கெட் டோர்னமென்ட் ஆகும். இது கிரிக்கெட் உலகக்கோப்பைக்கு அடுத்தபடியாக முக்கியமாக கருதப்படும் டோர்னமென்ட் ஆகும். 2002-ஆம் ஆண்டு இதன் பெயர் சேம்பியன்ஸ் டிராஃபி என்று மாற்றப்பட்டது.",
                   "image": {
@@ -142,7 +157,7 @@
         },
         {
           "label": "விளையாட்டில் போராட்டம்",
-          "id": "LFt4zaZJ_ay",
+          "id": "5_kgi9pzoX",
           "note": "2014",
           "value": {
             "label": "தவானால் பெரிய ரன்களை எடுக்க முடியாத காரணத்தால் அவர் அணியிலிருந்து விலக்கப்பட்டார்.",
@@ -151,7 +166,7 @@
                 "url": "/read/ta/icc_t20_world_cup",
                 "contentUrl": "/static/content/ta/icc_t20_world_cup.json",
                 "label": "ஐசிசி டி20 உலகக் கோப்பை",
-                "id": "voIxW8mi86Q",
+                "id": "E3soqNrWD0",
                 "value": {
                   "label": "ஐசிசி டி20 உலகக் கோப்பை (முன்னர் ஐசிசி வேர்ல்ட் ட்வென்டி20 என்று அழைக்கப்படும்), ட்வென்டி20 இன்டர்நேஷனல் கிரிக்கெட்டின் இன்டர்நேஷனல் சேம்பியன்ஷிப் ஆகும். டோர்னமென்ட்டில் தற்போது 16 அணிகள் இடம்பெற்றுள்ளன. அதில் கொடுக்கப்பட்ட நேரத்திற்குள் தரவரிசையில் முதல் எட்டு இடங்களைப் பிடித்த அணிகளும், டி20 உலகக் கோப்பை குவாலிஃபயர் மூலமாக தேர்வு செய்யப்பட்ட நான்கு அணிகளும் உள்ளடங்கும்.",
                   "image": {
@@ -165,7 +180,7 @@
         },
         {
           "label": "உலகக் கோப்பை",
-          "id": "aqMIYzbrOlg",
+          "id": "ChQbp63IM3",
           "note": "2015",
           "value": {
             "label": "தவான் 2015 உலகக் கோப்பையில் ஐந்தாவது அதிக ரன் எடுத்தவர் என்ற பெருமையைப் பெற்றார்.",
@@ -174,7 +189,7 @@
                 "url": "/read/ta/2015_cricket_world_cup",
                 "contentUrl": "/static/content/ta/2015_cricket_world_cup.json",
                 "label": "2015 கிரிக்கெட் உலகக் கோப்பை",
-                "id": "3pgbmsvuKYv",
+                "id": "uKbxxx7S3m",
                 "value": {
                   "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
                   "image": {
@@ -188,7 +203,7 @@
         },
         {
           "label": "சேம்பியன்ஸ் டிராஃபி",
-          "id": "kGGICyqAQHk",
+          "id": "2MH7ZXjwXa",
           "note": "தவான், டோர்னமெண்டில் அதிக ரன்களை குவித்து தங்க பேட் வென்றார்.",
           "value": {
             "label": "சேம்பியன்ஸ் டிராஃபி",
@@ -197,7 +212,7 @@
                 "url": "/read/ta/icc_champions_trophy",
                 "contentUrl": "/static/content/ta/icc_champions_trophy.json",
                 "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி",
-                "id": "2AP9wzZy_3C",
+                "id": "uNdg9GDwnU",
                 "value": {
                   "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி என்பது இன்டர்நேஷனல் கிரிக்கெட் கவுன்சிலால் (ஐசிசி) நடத்தப்படும் ஒன் டே இன்டர்நேஷனல் (ODI) கிரிக்கெட் டோர்னமென்ட் ஆகும். இது கிரிக்கெட் உலகக்கோப்பைக்கு அடுத்தபடியாக முக்கியமாக கருதப்படும் டோர்னமென்ட் ஆகும். 2002-ஆம் ஆண்டு இதன் பெயர் சேம்பியன்ஸ் டிராஃபி என்று மாற்றப்பட்டது.",
                   "image": {
@@ -211,16 +226,31 @@
         },
         {
           "label": "2008",
-          "id": "jGd0ahgl9ru",
+          "id": "aUleJnRplC",
           "note": "டெல்லி டேர்டெவில்ஸ்",
           "value": {
-            "label": "டெல்லி டேர்டெவில்ஸ்"
+            "label": "டெல்லி டேர்டெவில்ஸ்",
+            "facts": [
+              {
+                "url": "/read/ta/delhi_capitals",
+                "contentUrl": "/static/content/ta/delhi_capitals.json",
+                "label": "Delhi Capitals",
+                "id": "P6GXAnlPG1",
+                "value": {
+                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "image": {
+                    "url": "/static/images/shikhar_dhawan/Delhi_Capitals_Logo.svg",
+                    "altText": "Image of Delhi Capitals"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "சாதனைகள்",
       "cardType": "stories",
       "facts": [
         {
@@ -281,26 +311,56 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "அணிகள்",
       "cardType": "list_card",
       "facts": [
         {
           "label": "இந்திய கிரிக்கெட் அணி (2010 முதல் தற்போது வரை)",
-          "id": "SnwZg4ETAF5",
+          "id": "UamFSqq4c_",
           "value": {
-            "label": "இந்திய கிரிக்கெட் அணி டீம் இந்தியா மற்றும் மென் இன் புளூ என்றும் அழைக்கப்படுகிறது. இந்திய கிரிக்கெட் கட்டுப்பாட்டு வாரியம் இதை நிர்வகிக்கிறது"
+            "label": "",
+            "facts": [
+              {
+                "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+                "id": "aIl3AdiFRC",
+                "url": "/read/ta/india_national_cricket_team",
+                "contentUrl": "/static/content/ta/india_national_cricket_team.json",
+                "value": {
+                  "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
+                  "image": {
+                    "url": "/static/images/shikhar_dhawan/Cricket_India_Crest.svg",
+                    "altText": "Picture of இந்திய தேசிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "டெல்லி கேப்பிட்டல்ஸ் (2019 முதல் தற்போது வரை)",
-          "id": "LukXdft1z9L",
+          "id": "U7q-cStHtA",
           "value": {
-            "label": "டெல்லி கேப்பிட்டல்ஸ்  முன்னர் டெல்லி டேர்டெவில் என அழைக்கப்பட்டது. இது இந்தியாவில் டெல்லியைச் சேர்ந்த ஐபிஎல் கிரிக்கெட் அணி."
+            "label": "",
+            "facts": [
+              {
+                "label": "Delhi Capitals",
+                "id": "W49ROMJ2mA2",
+                "url": "/read/ta/delhi_capitals",
+                "contentUrl": "/static/content/ta/delhi_capitals.json",
+                "value": {
+                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "image": {
+                    "url": "/static/images/shikhar_dhawan/Delhi_Capitals_Logo.svg",
+                    "altText": "Picture of Delhi Capitals"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "டெல்லி (2004 முதல் தற்போது வரை)",
-          "id": "dSRgUNOBRV6",
+          "id": "dU0C2Fi8aN1",
           "value": {
             "label": "டெல்லியைச் சேர்ந்த உள்ளூர் ரஞ்சி டிராஃபி கிரிக்கெட் அணி"
           }
@@ -308,7 +368,7 @@
       ]
     },
     {
-      "title": "Awards & Honors",
+      "title": "விருதுகள் & கௌரவங்கள்",
       "cardType": "tag_card",
       "facts": [
         {

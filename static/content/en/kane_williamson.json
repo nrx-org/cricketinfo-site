@@ -29,9 +29,9 @@
           }
         },
         {
-          "label": "Born On",
+          "label": "Born on",
           "value": {
-            "label": "Invalid Date (age 28)"
+            "label": "Invalid Date (Age 28)"
           }
         },
         {
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "Education",
       "cardType": "avatar",
       "facts": [
         {
@@ -79,8 +79,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "_0cOMiOJX",
+      "title": "Style of Play",
+      "id": "1yhAj0GqV2",
       "cardType": "simple",
       "facts": [
         {
@@ -97,12 +97,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "Phases",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "First class Debut",
-          "id": "pqlGzWZKhi",
+          "id": "Q3lYeyVes",
           "note": "2007",
           "value": {
             "label": "Williamson made his first-class cricket debut in December 2007"
@@ -110,7 +110,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "I2-QXwExCO",
+          "id": "xR47utaets",
           "note": "2010",
           "value": {
             "label": "Williamson made his One-Day International debut against India, and was dismissed for a duck.",
@@ -119,7 +119,7 @@
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "label": "India national cricket team",
-                "id": "izLHSoYb14",
+                "id": "cTAKLvOg0z",
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
@@ -133,7 +133,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "lO2uQsS15A",
+          "id": "LV_FCeKrui",
           "note": "2011",
           "value": {
             "label": ""
@@ -141,7 +141,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "nh0-9p_W29G",
+          "id": "Z8rIw7RrEs",
           "note": "",
           "value": {
             "label": ""
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "Achievement & Records",
       "cardType": "stories",
       "facts": [
         {
@@ -211,18 +211,18 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "Teams",
       "cardType": "list_card",
       "facts": [
         {
           "label": "New Zealand (2010 - present)",
-          "id": "cDrlPpcizxj",
+          "id": "Y9zld0T248",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "New Zealand national cricket team",
-                "id": "QnUF0k0H6b7",
+                "id": "7mXKNPKP2j",
                 "url": "/read/en/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
                 "value": {
@@ -238,13 +238,13 @@
         },
         {
           "label": "Sunrisers Hyderabad (2015 - present)",
-          "id": "tGH-fPKfo4l",
+          "id": "jiEtKBtzKE",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Sunrisers Hyderabad",
-                "id": "yLLy3buHG5v",
+                "id": "9GBCxhuoir",
                 "url": "/read/en/sunrisers_hyderabad",
                 "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
                 "value": {
@@ -260,7 +260,7 @@
         },
         {
           "label": "Northern Districts (2007 - present)",
-          "id": "CXFmlWdM2If",
+          "id": "lWdPeo_ycm",
           "value": {
             "label": "Northern Districts cricket team is a first-class cricket team from New Zealand."
           }

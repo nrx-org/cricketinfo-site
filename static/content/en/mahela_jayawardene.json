@@ -28,9 +28,9 @@
           }
         },
         {
-          "label": "Born On",
+          "label": "Born on",
           "value": {
-            "label": "Invalid Date (age 41)"
+            "label": "Invalid Date (Age 41)"
           }
         },
         {
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "Education",
       "cardType": "avatar",
       "facts": [
         {
@@ -84,8 +84,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "4oifeTOLHP",
+      "title": "Style of Play",
+      "id": "yJqFPFBi3EG",
       "cardType": "simple",
       "facts": [
         {
@@ -101,12 +101,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "Phases",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "First class Debut",
-          "id": "rYn7JyGxxS",
+          "id": "7A-c64Afzwj",
           "note": "1995",
           "value": {
             "label": "Mahela Jayawardene made his first class debut while playing for the Sinhalese Sports Club"
@@ -114,7 +114,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "Qfps-3pz1TX",
+          "id": "Tnq7PAXgFXO",
           "note": "1997",
           "value": {
             "label": "Mahela Jayawardene made his international debut against India at Colombo in 1997",
@@ -123,7 +123,7 @@
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "label": "India national cricket team",
-                "id": "6NPJT6zh7B4",
+                "id": "sOQlK72M5_P",
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
@@ -137,7 +137,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "gZTJE3a8p23",
+          "id": "GtOpCRPhRt8",
           "note": "1999",
           "value": {
             "label": "Jayawardene was a key member of the 1999 world cup team"
@@ -145,7 +145,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "i39tfXn4M_S",
+          "id": "vW6Uv1wID07",
           "note": "2008",
           "value": {
             "label": "Jayawardene played for the Kings XI Punjab from 2008 to 2010",
@@ -154,7 +154,7 @@
                 "url": "/read/en/kings_xi_punjab",
                 "contentUrl": "/static/content/en/kings_xi_punjab.json",
                 "label": "Kings XI Punjab",
-                "id": "cg3zAnLz6hF",
+                "id": "Qw0NWKoos1i",
                 "value": {
                   "label": "The Kings XI Punjab (KXIP) are a franchise cricket team based in Mohali (Chandigarh CR), Punjab, that plays in the Indian Premier League. ",
                   "image": {
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "Achievement & Records",
       "cardType": "stories",
       "facts": [
         {
@@ -230,18 +230,18 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "Teams",
       "cardType": "list_card",
       "facts": [
         {
           "label": "Sri Lanka (1997-2015)",
-          "id": "8-JM7nYmJnh",
+          "id": "dxeRsq4MrLzb",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Sri Lanka national cricket team",
-                "id": "9mc9QstWHzl",
+                "id": "Km84zdKebwgL",
                 "url": "/read/en/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
                 "value": {
@@ -257,13 +257,13 @@
         },
         {
           "label": "Delhi Daredevils (now Delhi Capitals) (2012-2014)",
-          "id": "E4Ro2aSo7j4",
+          "id": "0gGQZcSTpWAt",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Delhi Capitals",
-                "id": "_KYogqAlp",
+                "id": "sEAaWLOFgRCm",
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "value": {
@@ -279,7 +279,7 @@
         },
         {
           "label": "Sinhalese Sports Club (1995-2015)",
-          "id": "yACuCTcWEF",
+          "id": "ui3IF3IDSzzC",
           "value": {
             "label": " Singhalese Sports Club (SSC) is a first-class cricket club in Sri Lanka"
           }

@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "விவரம்",
       "cardType": "table",
       "facts": [
         {
-          "label": "Full Name",
+          "label": "முழுப் பெயர்",
           "value": {
             "label": "செபரமாது லசித் மலிங்கா"
           }
         },
         {
-          "label": "Born On",
+          "label": "பிறந்த தேதி",
           "value": {
-            "label": "Invalid Date (age 35)"
+            "label": "Invalid Date (வயது 35)"
           }
         },
         {
-          "label": "Birthplace",
+          "label": "பிறந்த இடம்",
           "value": {
             "label": "கேலே, இலங்கை",
             "url": "https://en.wikipedia.org/wiki/Galle",
@@ -44,25 +44,25 @@
           }
         },
         {
-          "label": "Height",
+          "label": "உயரம்",
           "value": {
             "label": ""
           }
         },
         {
-          "label": "Other Names",
+          "label": "வேறு பெயர்கள்",
           "value": {
             "label": "ஸ்லிங்கா, காகவேனா, மலிங்கா தி ஸ்லிங்கா, மாலி, ரத்காமா எக்ஸ்பிரஸ்"
           }
         },
         {
-          "label": "Nationality",
+          "label": "சொந்த நாடு",
           "value": {
             "label": "ஸ்ரீலங்கன்"
           }
         },
         {
-          "label": "Role",
+          "label": "இவரின் பங்கு",
           "value": {
             "label": "வலதுகை வேகப் பந்துவீச்சாளர்"
           }
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "கல்வி",
       "cardType": "avatar",
       "facts": [
         {
@@ -86,8 +86,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "u90x3oJiifm",
+      "title": "விளையாட்டின் பாணி",
+      "id": "WtR6Xwqv0lo",
       "cardType": "simple",
       "facts": [
         {
@@ -103,12 +103,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "படிநிலைகள்",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "D-itEZQNAOZ",
+          "id": "pzWVlN6VT3wj",
           "note": "",
           "value": {
             "label": ""
@@ -116,15 +116,30 @@
         },
         {
           "label": "தேசிய அணி அறிமுகம்",
-          "id": "rulwjbLsqAC",
+          "id": "pCiDg6J78VPp",
           "note": "",
           "value": {
-            "label": "மலிங்கா 2004, ஜூலை 1 அன்று, டார்வினிலுள்ள மார்ரா ஓவலில் ஆஸ்திரேலியாவுக்கு எதிராகத் தன்னுடைய முதல் டெஸ்ட் போட்டியில் ஆடினார்."
+            "label": "மலிங்கா 2004, ஜூலை 1 அன்று, டார்வினிலுள்ள மார்ரா ஓவலில் ஆஸ்திரேலியாவுக்கு எதிராகத் தன்னுடைய முதல் டெஸ்ட் போட்டியில் ஆடினார்.",
+            "facts": [
+              {
+                "url": "/read/ta/australia_cricket_team",
+                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+                "id": "qm5JG6-3EK88",
+                "value": {
+                  "label": "ஆஸ்திரேலிய தேசிய கிரிக்கெட் அணி 1877 ஆம் ஆண்டு நடைபெற்ற முதன்முதல் டெஸ்ட் போட்டியில் விளையாடிய, ஒரு மிகப் பழமையான அணியாகும்.",
+                  "image": {
+                    "url": "/static/images/lasith_malinga/Australia_cricket_logo.svg",
+                    "altText": "Image of ஆஸ்திரேலிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "முதல் ஐசிசி போட்டி ",
-          "id": "ScW4o7Kw8IX",
+          "id": "QDjGzYINYOYc",
           "note": "2007",
           "value": {
             "label": "மலிங்கா 2007 கிரிக்கெட் உலகக் கோப்பை சூப்பர் 8 போட்டியில் மார்ச் 28 அன்று இலங்கை மற்றும் தென்னாப்பிரிக்காவுக்கு இடையேயான சர்வதேச ஒரு நாள் கிரிக்கெட்டில் தொடர்ந்து நான்கு பந்துகளுக்கு நான்கு விக்கெட்டுகள் எடுத்த முதல் வீரர் என்ற சாதனையைப் படைத்தார்.",
@@ -133,7 +148,7 @@
                 "url": "/read/ta/2007_cricket_world_cup",
                 "contentUrl": "/static/content/ta/2007_cricket_world_cup.json",
                 "label": "2007 கிரிக்கெட் உலகக் கோப்பை",
-                "id": "lIZS84RqqRu",
+                "id": "AAC8QrPLP_RA",
                 "value": {
                   "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
                   "image": {
@@ -147,7 +162,7 @@
         },
         {
           "label": "2011 World Cup",
-          "id": "TNlCNl-S44s",
+          "id": "0IERf905-f24",
           "note": "2011",
           "value": {
             "label": "2011 கிரிக்கெட் உலகக் கோப்பையின் போது, மலிங்கா கென்யாவுக்கு எதிரான இலங்கையின் குழு நிலைப் போட்டியில் தனது இரண்டாவது ஹாட்-ட்ரிக் சாதனையைப் படைத்தார். இது இரண்டு உலகக் கோப்பை ஹாட்-ட்ரிக்ஸ் சாதனையைப் புரிந்த முதல் பந்து வீச்சாளர் என்ற பெருமையை இவருக்குப் பெற்றுத் தந்தது.",
@@ -156,7 +171,7 @@
                 "url": "/read/ta/2011_cricket_world_cup",
                 "contentUrl": "/static/content/ta/2011_cricket_world_cup.json",
                 "label": "2011 கிரிக்கெட் உலகக் கோப்பை",
-                "id": "0hcnY3TzocM",
+                "id": "1cf3dpv4NWbN",
                 "value": {
                   "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
                   "image": {
@@ -170,7 +185,7 @@
         },
         {
           "label": "டி20 உலகக் கோப்பை",
-          "id": "1qUyS--PlvF",
+          "id": "ItCuyvF70JtB",
           "note": "2014",
           "value": {
             "label": "இவர், தினேஷ் சந்திமால் விளையாடுவதிலிருந்து தடை விதிக்கப்பட்ட பிறகு, 2014 ஐசிசி வேர்ல்டு ட்வென்டி20 போட்டியில் இலங்கை அணியின் கேப்டனாக நியமிக்கப்பட்டார். ஐசிசி வேர்ல்டு ட்வென்டி20 போட்டியில் வெற்றிபெற்று முதன் முறையாக அணியை வெற்றிப்பாதைக்கு வழிநடத்திச் சென்றவர் என்ற பெருமையைப் பெற்றார்.",
@@ -179,7 +194,7 @@
                 "url": "/read/ta/icc_t20_world_cup",
                 "contentUrl": "/static/content/ta/icc_t20_world_cup.json",
                 "label": "ஐசிசி டி20 உலகக் கோப்பை",
-                "id": "0YNA_68kZq5",
+                "id": "vsaUNPBYauS7",
                 "value": {
                   "label": "ஐசிசி டி20 உலகக் கோப்பை (முன்னர் ஐசிசி வேர்ல்ட் ட்வென்டி20 என்று அழைக்கப்படும்), ட்வென்டி20 இன்டர்நேஷனல் கிரிக்கெட்டின் இன்டர்நேஷனல் சேம்பியன்ஷிப் ஆகும். டோர்னமென்ட்டில் தற்போது 16 அணிகள் இடம்பெற்றுள்ளன. அதில் கொடுக்கப்பட்ட நேரத்திற்குள் தரவரிசையில் முதல் எட்டு இடங்களைப் பிடித்த அணிகளும், டி20 உலகக் கோப்பை குவாலிஃபயர் மூலமாக தேர்வு செய்யப்பட்ட நான்கு அணிகளும் உள்ளடங்கும்.",
                   "image": {
@@ -193,7 +208,7 @@
         },
         {
           "label": "உலகக் கோப்பை",
-          "id": "h8uFgtAbBqW",
+          "id": "_DTbyycDopBl",
           "note": "2019 ஆம் ஆண்டு ஏப்ரல் மாதம் 2019 ஆம் ஆண்டு உலகக் கோப்பைக்கான இலங்கை அணியில் இவர் பெயர் இடம்பெற்றது. ",
           "value": {
             "label": "உலகக் கோப்பை"
@@ -201,16 +216,31 @@
         },
         {
           "label": "2008",
-          "id": "L-bDWOI-01Q",
+          "id": "6SKKkti00e2Q",
           "note": "மும்பை இண்டியன்ஸ்",
           "value": {
-            "label": "மும்பை இண்டியன்ஸ்"
+            "label": "மும்பை இண்டியன்ஸ்",
+            "facts": [
+              {
+                "url": "/read/ta/mumbai_indians",
+                "contentUrl": "/static/content/ta/mumbai_indians.json",
+                "label": "மும்பை இண்டியன்ஸ்",
+                "id": "0eeTD_JWVA4C",
+                "value": {
+                  "label": "மும்பை இண்டியன்ஸ், மகாராஷ்டிராவில் உள்ள மும்பை நகரத்தைத் தலைமையிடமாகக் கொண்ட ஒரு உரிமைபெற்ற கிரிக்கெட் அணி ஆகும். இது 2008 ஆம் ஆண்டு நிறுவப்பட்டது, மும்பை இண்டியன்ஸ் இண்டியன் பிரீமியர் லீகில் (ஐபிஎல்) விளையாடுவார்கள். இந்த அணி, இந்தியாவில் மிகப்பெரிய நிறுவனமான ரிலையன்ஸ் நிறுவனங்களுக்குச் சொந்தமானது.",
+                  "image": {
+                    "url": "/static/images/lasith_malinga/Mumbai_Indians_Logo.svg",
+                    "altText": "Image of மும்பை இண்டியன்ஸ்"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "சாதனைகள்",
       "cardType": "stories",
       "facts": [
         {
@@ -271,27 +301,57 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "அணிகள்",
       "cardType": "list_card",
       "facts": [
         {
           "label": "இலங்கை தேசிய கிரிக்கெட் அணி (2004 முதல் தற்போது வரை)",
-          "id": "7_FYeV_Ec2U",
+          "id": "SA24fyEeCUVJ",
           "value": {
-            "label": "தி லயன்ஸ் என்ற செல்லப் பெயர் கொண்ட இலங்கை கிரிக்கெட் அணி சர்வதேச கிரிக்கெட்டில் இலங்கை சார்பாக விளையாடுகிறது"
+            "label": "",
+            "facts": [
+              {
+                "label": "Sri Lanka national cricket team",
+                "id": "Gycy8ZFRbNpV",
+                "url": "/read/ta/sri_lanka_national_cricket_team",
+                "contentUrl": "/static/content/ta/sri_lanka_national_cricket_team.json",
+                "value": {
+                  "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
+                  "image": {
+                    "url": "/static/images/lasith_malinga/Sri_Lanka_Cricket_Cap_Insignia.svg",
+                    "altText": "Picture of Sri Lanka national cricket team"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "மும்பை இந்தியன்ஸ் (2008 முதல் தற்போது வரை)",
-          "id": "kWzKz-u40Nm",
+          "id": "m6ZQa_9Ok2JF",
           "value": {
-            "label": "மும்பை இந்தியன்ஸ்  (சுருக்கமாக எம்ஐ) மகாராஷ்டிராவின் மும்பை நகரைச் சேர்ந்த ஐபிஎல் கிரிக்கெட் அணி."
+            "label": "",
+            "facts": [
+              {
+                "label": "மும்பை இண்டியன்ஸ்",
+                "id": "-iTus35QgnJF",
+                "url": "/read/ta/mumbai_indians",
+                "contentUrl": "/static/content/ta/mumbai_indians.json",
+                "value": {
+                  "label": "மும்பை இண்டியன்ஸ், மகாராஷ்டிராவில் உள்ள மும்பை நகரத்தைத் தலைமையிடமாகக் கொண்ட ஒரு உரிமைபெற்ற கிரிக்கெட் அணி ஆகும். இது 2008 ஆம் ஆண்டு நிறுவப்பட்டது, மும்பை இண்டியன்ஸ் இண்டியன் பிரீமியர் லீகில் (ஐபிஎல்) விளையாடுவார்கள். இந்த அணி, இந்தியாவில் மிகப்பெரிய நிறுவனமான ரிலையன்ஸ் நிறுவனங்களுக்குச் சொந்தமானது.",
+                  "image": {
+                    "url": "/static/images/lasith_malinga/Mumbai_Indians_Logo.svg",
+                    "altText": "Picture of மும்பை இண்டியன்ஸ்"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
     },
     {
-      "title": "Awards & Honors",
+      "title": "விருதுகள் & கௌரவங்கள்",
       "cardType": "tag_card",
       "facts": []
     }

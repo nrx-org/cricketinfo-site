@@ -29,9 +29,9 @@
           }
         },
         {
-          "label": "Born On",
+          "label": "Born on",
           "value": {
-            "label": "Invalid Date (age 27)"
+            "label": "Invalid Date (Age 27)"
           }
         },
         {
@@ -63,8 +63,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "g9eOWeHsPB",
+      "title": "Style of Play",
+      "id": "Mm5qD9v9b",
       "cardType": "simple",
       "facts": [
         {
@@ -81,12 +81,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "Phases",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "First class Debut",
-          "id": "UFrLyVp36",
+          "id": "cfw4-b08Io",
           "note": "2010",
           "value": {
             "label": "Stokes made his first-class debut for Durham against the Marylebone Cricket Club (MCC)"
@@ -94,7 +94,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "2n6dvBP9eU",
+          "id": "a_VAwluY2L",
           "note": "2011",
           "value": {
             "label": "Stokes made his international debut in a One Day International (ODI) against Ireland in August 2011."
@@ -102,7 +102,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "VMLAH4Slxu",
+          "id": "mgewRwoywx",
           "note": "2016",
           "value": {
             "label": "Stokes was part of the England team that finished as runner's up in the tournament"
@@ -110,7 +110,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "2UOgaWpF_w",
+          "id": "T7ZJCdbAfE",
           "note": "2017",
           "value": {
             "label": "Rising Pune Supergiant was an IPL cricket team based in Pune"
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "Achievement & Records",
       "cardType": "stories",
       "facts": [
         {
@@ -180,18 +180,18 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "Teams",
       "cardType": "list_card",
       "facts": [
         {
           "label": "England (2011 - present)",
-          "id": "azRZsFm3jH",
+          "id": "IwAVcbxfGG",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "England cricket team",
-                "id": "15wfK-1rSV",
+                "id": "hHhe6juW01",
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "value": {
@@ -207,13 +207,13 @@
         },
         {
           "label": "Rajasthan Royals (2018 - present)",
-          "id": "ukWUgGLhBP",
+          "id": "JZ_zh81q5VR",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Rajasthan Royals",
-                "id": "RgJhG0Y4Qg",
+                "id": "QcvgJ62Y17y",
                 "url": "/read/en/rajasthan_royals",
                 "contentUrl": "/static/content/en/rajasthan_royals.json",
                 "value": {
@@ -229,7 +229,7 @@
         },
         {
           "label": "Durham (2009 - present)",
-          "id": "SB_gU5-T4s",
+          "id": "Z9OElYocW5N",
           "value": {
             "label": "Durham County Cricket Club is one of eighteen first-class county clubs in domestic cricket structure of England and Wales"
           }

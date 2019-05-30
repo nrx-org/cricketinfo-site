@@ -28,9 +28,9 @@
           }
         },
         {
-          "label": "Born On",
+          "label": "Born on",
           "value": {
-            "label": "27 May 1962 (age 56)"
+            "label": "27 May 1962 (Age 56)"
           }
         },
         {
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "Education",
       "cardType": "avatar",
       "facts": [
         {
@@ -78,8 +78,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "7-KtC-vOHST",
+      "title": "Style of Play",
+      "id": "2zFF1BgGQc7",
       "cardType": "simple",
       "facts": [
         {
@@ -91,12 +91,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "Phases",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "First class Debut",
-          "id": "cIBsH2Wtm5o",
+          "id": "94s4y7djlVx",
           "note": "1979",
           "value": {
             "label": "At 17 years and 292 days, Shastri was then the youngest cricketer to debut and play for Bombay in Ranji Trophy."
@@ -104,7 +104,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "5Qx2WCrVwmP",
+          "id": "fowyYEmO3UD",
           "note": "1981",
           "value": {
             "label": "Ravi Shastri made his international debut for India in 1981 versus New Zealand",
@@ -113,7 +113,7 @@
                 "url": "/read/en/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
                 "label": "New Zealand national cricket team",
-                "id": "omMjSksjD_4",
+                "id": "JcL8N8xoOW0",
                 "value": {
                   "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
                   "image": {
@@ -127,7 +127,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "k99KpAu7hsM",
+          "id": "vc96aPOguvO",
           "note": "1983",
           "value": {
             "label": "Shastri was not selected to play in most of the important matches in the 1983 World Cup",
@@ -136,7 +136,7 @@
                 "url": "/read/en/1983_cricket_world_cup",
                 "contentUrl": "/static/content/en/1983_cricket_world_cup.json",
                 "label": "1983 Cricket World Cup",
-                "id": "EAO2U7_MunO",
+                "id": "m0Fw0j3CfoU",
                 "value": {
                   "label": "The 1983 Cricket World Cup (officially the Prudential Cup '83) was the 3rd edition of the Cricket World Cup tournament. It was held from 9 June to 25 June 1983 in England and Wales and was won by India.",
                   "image": {
@@ -150,7 +150,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "RA0Hd1UvJe3",
+          "id": "N60mFr2l4QW",
           "note": "",
           "value": {
             "label": ""
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "Achievement & Records",
       "cardType": "stories",
       "facts": [
         {
@@ -220,18 +220,18 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "Teams",
       "cardType": "list_card",
       "facts": [
         {
           "label": "Indian National Cricket team (1981-1992)",
-          "id": "I1uQqMZqFSY",
+          "id": "dpwm7Rd-8Z_H",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "aZrNjVYtpqC",
+                "id": "P6jva8WpCme7",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -247,7 +247,7 @@
         },
         {
           "label": "Bombay (now Mumbai) (1979-1993)",
-          "id": "EuPqTRQzEAS",
+          "id": "d-CrQjYe4rnv",
           "value": {
             "label": "Domestic Ranji trophy cricket team based in Mumbai"
           }

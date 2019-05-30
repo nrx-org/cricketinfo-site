@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "விவரம்",
       "cardType": "table",
       "facts": [
         {
-          "label": "Full Name",
+          "label": "முழுப் பெயர்",
           "value": {
             "label": "ஷோயப் மாலிக்"
           }
         },
         {
-          "label": "Born On",
+          "label": "பிறந்த தேதி",
           "value": {
-            "label": "Invalid Date (age 37)"
+            "label": "Invalid Date (வயது 37)"
           }
         },
         {
-          "label": "Birthplace",
+          "label": "பிறந்த இடம்",
           "value": {
             "label": "சியால்கோட், பாகிஸ்தான்",
             "url": "https://en.wikipedia.org/wiki/Sialkot",
@@ -44,19 +44,19 @@
           }
         },
         {
-          "label": "Height",
+          "label": "உயரம்",
           "value": {
             "label": "5 அடி 10 அங்குலம்"
           }
         },
         {
-          "label": "Nationality",
+          "label": "சொந்த நாடு",
           "value": {
             "label": "பாகிஸ்தானி"
           }
         },
         {
-          "label": "Role",
+          "label": "இவரின் பங்கு",
           "value": {
             "label": "பேட்டிங் ஆல்ரவுண்டர்"
           }
@@ -64,15 +64,15 @@
       ]
     },
     {
-      "title": "Family",
+      "title": "குடும்பம்",
       "cardType": "avatar",
       "facts": [
         {
           "label": "வாழ்க்கைத் துணை",
           "value": {
             "label": "சானியா மிர்ஸா",
-            "url": null,
-            "contentUrl": null,
+            "url": "/read/ta/null",
+            "contentUrl": "/static/content/ta/null.json",
             "image": {
               "url": "/static/images/shoaib_malik/Sania_Mirza_%2835449409862%29.jpg",
               "altText": "Picture of சானியா மிர்ஸா",
@@ -83,8 +83,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "mTRxQa-pZ",
+      "title": "விளையாட்டின் பாணி",
+      "id": "n8NKK-GHKf",
       "cardType": "simple",
       "facts": [
         {
@@ -101,12 +101,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "படிநிலைகள்",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "e_jXmQU2uR",
+          "id": "9oRpUBkgu",
           "note": "",
           "value": {
             "label": ""
@@ -114,15 +114,30 @@
         },
         {
           "label": "தேசிய அணி அறிமுகம்",
-          "id": "wEmvvlwXZW",
+          "id": "P2Z_AnQBfV",
           "note": "",
           "value": {
-            "label": "ஷோயப் மாலிக் 1999 இல் மேற்கிந்தியத் தீவுகளுக்கு எதிராகத் தன்னுடைய முதல் சர்வதேச ஒருநாள் போட்டியில் ஆடினார்."
+            "label": "ஷோயப் மாலிக் 1999 இல் மேற்கிந்தியத் தீவுகளுக்கு எதிராகத் தன்னுடைய முதல் சர்வதேச ஒருநாள் போட்டியில் ஆடினார்.",
+            "facts": [
+              {
+                "url": "/read/ta/west_indies_cricket_team",
+                "contentUrl": "/static/content/ta/west_indies_cricket_team.json",
+                "label": "வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி",
+                "id": "lXgQK4pVJA",
+                "value": {
+                  "label": "பாரம்பரியமாக வின்டீஸ் என அழைக்கப்படுகின்ற வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி, ஆங்கிலோபோன் கரீபியன் பகுதியைப் பிரதிநிதித்துவப்படுத்தும் ஒரு பன்னாட்டு கிரிக்கெட் அணியாகும், இது கிரிக்கெட் வெஸ்ட் இன்டீஸால் நிர்வகிக்கப்படுகிறது. இந்த கலப்புக் குழுவிலுள்ள வீரர்கள் பதினைந்து கரீபியன் பிரதேசங்களிலிருந்து தேர்ந்தெடுக்கப்படுகின்றனர்",
+                  "image": {
+                    "url": "/static/images/shoaib_malik/West_indies_cricket_board_flag.png",
+                    "altText": "Image of வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "முதல் ஐசிசி போட்டி ",
-          "id": "DUxJevGpgi",
+          "id": "10u7koZ_mt",
           "note": "",
           "value": {
             "label": ""
@@ -130,7 +145,7 @@
         },
         {
           "label": "உலக கோப்பை தோற்றம்",
-          "id": "c89K81ACFs",
+          "id": "rxbXFDnJSm",
           "note": "",
           "value": {
             "label": ""
@@ -139,7 +154,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "சாதனைகள்",
       "cardType": "stories",
       "facts": [
         {
@@ -200,20 +215,35 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "அணிகள்",
       "cardType": "list_card",
       "facts": [
         {
           "label": "பாகிஸ்தான் தேசிய கிரிக்கெட் அணி (1999 முதல் தற்போது வரை)",
-          "id": "uIJzX3pLaC",
+          "id": "mIMO9CzEdP",
           "value": {
-            "label": "பாகிஸ்தான் ஆண்கள் கிரிக்கெட் அணி, ஷாஹீன்ஸ் கிரீன் ஷர்ட்ஸ் மற்றும் மென் இன் கிரீன் எனப் பிரபலமாக அழைக்கப்படுகிறது, பாகிஸ்தான் கிரிக்கெட் வாரியம் (பிசிபி) இதை நிர்வகிக்கிறது."
+            "label": "",
+            "facts": [
+              {
+                "label": "Pakistan national cricket team",
+                "id": "I-kX65uZ44",
+                "url": "/read/ta/pakistan_national_cricket_team",
+                "contentUrl": "/static/content/ta/pakistan_national_cricket_team.json",
+                "value": {
+                  "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
+                  "image": {
+                    "url": "/static/images/shoaib_malik/PakistanCricketLogo.png",
+                    "altText": "Picture of Pakistan national cricket team"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
     },
     {
-      "title": "Awards & Honors",
+      "title": "விருதுகள் & கௌரவங்கள்",
       "cardType": "tag_card",
       "facts": []
     }

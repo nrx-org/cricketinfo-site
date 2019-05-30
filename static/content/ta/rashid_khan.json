@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "விவரம்",
       "cardType": "table",
       "facts": [
         {
-          "label": "Full Name",
+          "label": "முழுப் பெயர்",
           "value": {
             "label": "ரஷீத் கான் அர்மான்"
           }
         },
         {
-          "label": "Born On",
+          "label": "பிறந்த தேதி",
           "value": {
-            "label": "Invalid Date (age 20)"
+            "label": "Invalid Date (வயது 20)"
           }
         },
         {
-          "label": "Birthplace",
+          "label": "பிறந்த இடம்",
           "value": {
             "label": "நங்கர்ஹார், ஆப்கானிஸ்தான்",
             "url": "https://en.wikipedia.org/wiki/Nangarhar_Province",
@@ -44,19 +44,19 @@
           }
         },
         {
-          "label": "Height",
+          "label": "உயரம்",
           "value": {
             "label": ""
           }
         },
         {
-          "label": "Nationality",
+          "label": "சொந்த நாடு",
           "value": {
             "label": "ஆஃப்கன்"
           }
         },
         {
-          "label": "Role",
+          "label": "இவரின் பங்கு",
           "value": {
             "label": "வலதுகை லெக்ஸ்பின்"
           }
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "yXolsvHqWfj",
+      "title": "விளையாட்டின் பாணி",
+      "id": "qXfn8VlzztD",
       "cardType": "simple",
       "facts": [
         {
@@ -77,12 +77,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "படிநிலைகள்",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "S5tFoudfrYh",
+          "id": "hwACF9TjnYW",
           "note": "",
           "value": {
             "label": ""
@@ -90,7 +90,7 @@
         },
         {
           "label": "தேசிய அணி அறிமுகம்",
-          "id": "LBCdJl-MpoS",
+          "id": "cho-8Qal-D3",
           "note": "",
           "value": {
             "label": "அவர், 2015 அக்டோபர் 18 அன்று ஆப்கானிஸ்தானுக்காக ஜிம்பாப்வேக்கு எதிராகத் தன்னுடைய முதல் சர்வதேச ஒருநாள் போட்டியில் ஆடினார்."
@@ -98,7 +98,7 @@
         },
         {
           "label": "முதல் ஐசிசி போட்டி ",
-          "id": "Xa7rYxByWzg",
+          "id": "8MR4y2oKsVU",
           "note": "",
           "value": {
             "label": "2019 ஏப்ரல் மாதம், 2019 உலகக் கோப்பையில் ஆப்கானிஸ்தான் அணியில் அவர் பெயர் இடம்பெற்றது."
@@ -106,16 +106,31 @@
         },
         {
           "label": "2017",
-          "id": "-sPyk_i5Abu",
+          "id": "SYiTr5mxECd",
           "note": "சன்ரைசர்ஸ் ஹைதராபாத்",
           "value": {
-            "label": "சன்ரைசர்ஸ் ஹைதராபாத்"
+            "label": "சன்ரைசர்ஸ் ஹைதராபாத்",
+            "facts": [
+              {
+                "url": "/read/ta/sunrisers_hyderabad",
+                "contentUrl": "/static/content/ta/sunrisers_hyderabad.json",
+                "label": "Sunrisers Hyderabad",
+                "id": "EGmuKKcR9hS",
+                "value": {
+                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "/static/images/rashid_khan/Sunrisers_Hyderabad.svg",
+                    "altText": "Image of Sunrisers Hyderabad"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "சாதனைகள்",
       "cardType": "stories",
       "facts": [
         {
@@ -176,27 +191,57 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "அணிகள்",
       "cardType": "list_card",
       "facts": [
         {
           "label": "ஆப்கானிஸ்தான் தேசிய கிரிக்கெட் அணி (2015 முதல் தற்போது வரை)",
-          "id": "IqAsSJT_oe",
+          "id": "xUciox__K1H7",
           "value": {
-            "label": "ஆப்கானிஸ்தான் கிரிக்கெட் அணி, முழு உறுப்பினராக டெஸ்ட் போட்டிகளில் விளையாடும் 12 வது அணி."
+            "label": "",
+            "facts": [
+              {
+                "label": "Afghanistan national cricket team",
+                "id": "DawExgbSbx44",
+                "url": "/read/ta/afghanistan_national_cricket_team",
+                "contentUrl": "/static/content/ta/afghanistan_national_cricket_team.json",
+                "value": {
+                  "label": "The Afghanistan national cricket team is the 12th Test cricket playing Full Member nation. Cricket has been played in Afghanistan since the mid 19th century, but it is only in recent years that the national team has become successful. ",
+                  "image": {
+                    "url": "/static/images/rashid_khan/Afghanistan_cricket_board_logo.jpg",
+                    "altText": "Picture of Afghanistan national cricket team"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "சன்ரைசர்ஸ் ஹைதராபாத் (2017 முதல் தற்போது வரை)",
-          "id": "Ou9YxT3F6S",
+          "id": "hBvay9SaRFbj",
           "value": {
-            "label": "சன்ரைஸ் ஹைதராபாத் (பெரும்பாலும் எஸ்ஆர்ஹெச் என சுருக்கமாக அழைக்கப்படும்), தெலுங்கானாவின் ஹைதராபாத் நகரைச் சேர்ந்த ஐபிஎல் கிரிக்கெட் அணி, இது இந்தியன் பிரீமியர் லீக்கில் விளையாடுகிறது."
+            "label": "",
+            "facts": [
+              {
+                "label": "Sunrisers Hyderabad",
+                "id": "_LYb4cedrUCT",
+                "url": "/read/ta/sunrisers_hyderabad",
+                "contentUrl": "/static/content/ta/sunrisers_hyderabad.json",
+                "value": {
+                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "/static/images/rashid_khan/Sunrisers_Hyderabad.svg",
+                    "altText": "Picture of Sunrisers Hyderabad"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
     },
     {
-      "title": "Awards & Honors",
+      "title": "விருதுகள் & கௌரவங்கள்",
       "cardType": "tag_card",
       "facts": [
         {

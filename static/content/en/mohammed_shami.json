@@ -29,9 +29,9 @@
           }
         },
         {
-          "label": "Born On",
+          "label": "Born on",
           "value": {
-            "label": "Invalid Date (age 28)"
+            "label": "Invalid Date (Age 28)"
           }
         },
         {
@@ -63,8 +63,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "yDeXrSq2C",
+      "title": "Style of Play",
+      "id": "fApyhDDBRc",
       "cardType": "simple",
       "facts": [
         {
@@ -76,12 +76,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "Phases",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "First class Debut",
-          "id": "ir3LoH0PBT",
+          "id": "E5I9bCYM6F",
           "note": "2010",
           "value": {
             "label": "Shami made his first-class debut in 2010 against Assam, picking up three wickets."
@@ -89,7 +89,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "Qvmlg4EpME",
+          "id": "PSxuVBSPl7",
           "note": "2013",
           "value": {
             "label": "Shami made his ODI debut versus Pakistan in 2013.",
@@ -98,7 +98,7 @@
                 "url": "/read/en/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
                 "label": "Pakistan national cricket team",
-                "id": "TsixFlWNHC",
+                "id": "V9AQhphnnHC",
                 "value": {
                   "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
                   "image": {
@@ -112,7 +112,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "cwfmIo-UFM",
+          "id": "9TvMntCe030",
           "note": "2014",
           "value": {
             "label": "Shami made his T20 debut in the opening match of the T20 world cup"
@@ -120,7 +120,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "7NNhl3IQya",
+          "id": "2vOTHxMkl42",
           "note": "2014",
           "value": {
             "label": "Shami played for the Delhi Daredevils from 2014 to 2018",
@@ -129,7 +129,7 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-                "id": "I1iP2QFwE4",
+                "id": "Gp-YvKCDfJG",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "Achievement & Records",
       "cardType": "stories",
       "facts": [
         {
@@ -205,18 +205,18 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "Teams",
       "cardType": "list_card",
       "facts": [
         {
           "label": "Indian national cricket team (2013-present)",
-          "id": "-hMjl5kO9s",
+          "id": "EGcXvpcg3M-",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "l7urgzMI0l",
+                "id": "uMCXKP6-QVx",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -232,13 +232,13 @@
         },
         {
           "label": "Kings XI Punjab (2019)",
-          "id": "7Dn85ekyVc",
+          "id": "XRD1r6oEyIF",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Kings XI Punjab",
-                "id": "b-d2grIxoO",
+                "id": "KRenBo4iiID",
                 "url": "/read/en/kings_xi_punjab",
                 "contentUrl": "/static/content/en/kings_xi_punjab.json",
                 "value": {
@@ -254,7 +254,7 @@
         },
         {
           "label": "Bengal (2010 - present)",
-          "id": "mq8drlKxxO",
+          "id": "mJF45zE-hiM",
           "value": {
             "label": "The Bengal cricket team represents the Indian state of West Bengal in domestic first-class cricket."
           }

@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "விவரம்",
       "cardType": "table",
       "facts": [
         {
-          "label": "Full Name",
+          "label": "முழுப் பெயர்",
           "value": {
             "label": "அனில் கும்ப்ளே"
           }
         },
         {
-          "label": "Born On",
+          "label": "பிறந்த தேதி",
           "value": {
-            "label": "17 Oct 1970 (age 48)"
+            "label": "17 Oct 1970 (வயது 48)"
           }
         },
         {
-          "label": "Birthplace",
+          "label": "பிறந்த இடம்",
           "value": {
             "label": "பெங்களூரு, இந்தியா",
             "url": "https://en.wikipedia.org/wiki/Bangalore",
@@ -44,25 +44,25 @@
           }
         },
         {
-          "label": "Height",
+          "label": "உயரம்",
           "value": {
             "label": "6 அடி 1 அங்குலம் (1.85 மீ)"
           }
         },
         {
-          "label": "Other Names",
+          "label": "வேறு பெயர்கள்",
           "value": {
             "label": "ஜம்போ"
           }
         },
         {
-          "label": "Nationality",
+          "label": "சொந்த நாடு",
           "value": {
             "label": "இந்தியர்"
           }
         },
         {
-          "label": "Role",
+          "label": "இவரின் பங்கு",
           "value": {
             "label": "லெக்-ஸ்பின் பௌலர்"
           }
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "கல்வி",
       "cardType": "avatar",
       "facts": [
         {
@@ -86,8 +86,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "5LnxvWe1jyn",
+      "title": "விளையாட்டின் பாணி",
+      "id": "HdXJWFDtUcL",
       "cardType": "simple",
       "facts": [
         {
@@ -103,12 +103,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "படிநிலைகள்",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "JxKo1BfVif",
+          "id": "45wF6kpcnIQV",
           "note": "1989",
           "value": {
             "label": "கும்ப்ளே, 1989 ஆம் ஆண்டு ஹைதராபாத்துக்கு எதிராக கர்நாடகாவுக்காக தன்னுடயை முதல் போட்டியில் விளையாடினார், இதிலி 4 விக்கெட்டுகளை எடுத்தார்."
@@ -116,15 +116,30 @@
         },
         {
           "label": "தேசிய அணி அறிமுகம்",
-          "id": "wJkM4XLJvOx",
+          "id": "1UZZcbdMjmWt",
           "note": "1990",
           "value": {
-            "label": "1990 இல் ஷார்ஜாவில் நடந்த ஆஸ்திரலேஷியா கோப்பையில் கும்ப்ளே தன்னுடைய முதல் சர்வதேச ஒரு நாள் போட்டியில் ஆடினார்."
+            "label": "1990 இல் ஷார்ஜாவில் நடந்த ஆஸ்திரலேஷியா கோப்பையில் கும்ப்ளே தன்னுடைய முதல் சர்வதேச ஒரு நாள் போட்டியில் ஆடினார்.",
+            "facts": [
+              {
+                "url": "/read/ta/sri_lanka_national_cricket_team",
+                "contentUrl": "/static/content/ta/sri_lanka_national_cricket_team.json",
+                "label": "Sri Lanka national cricket team",
+                "id": "TU0y3C7rj9y0",
+                "value": {
+                  "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
+                  "image": {
+                    "url": "/static/images/anil_kumble/Sri_Lanka_Cricket_Cap_Insignia.svg",
+                    "altText": "Image of Sri Lanka national cricket team"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "முதல் ஐசிசி போட்டி ",
-          "id": "lExrX0LvOkC",
+          "id": "mH29owqz9E-H",
           "note": "1996",
           "value": {
             "label": "1996 உலகக் கோப்பையில் இந்திய அணிக்காக கும்ப்ளே தேர்ந்தெடுக்கப்பட்டு, அந்தப் போட்டியில் முன்னணி விக்கெட் எடுப்பவராக இருந்தார்.",
@@ -133,7 +148,7 @@
                 "url": "/read/ta/1996_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1996_cricket_world_cup.json",
                 "label": "1996 கிரிக்கெட் உலகக் கோப்பை",
-                "id": "5E3TYOHJ0JF",
+                "id": "MZI6ZsUdugR_",
                 "value": {
                   "label": "1996 क्रिकेट विश्व कप, जिसे उसके आधिकारिक प्रायोजकों (आईटीसी के विल्स ब्रांड) के नाम पर, विल्स वर्ल्ड कप 1996 भी कहा जाता है, छठा क्रिकेट विश्व कप था। यह पाकिस्तान और भारत द्वारा आयोजित होने वाला दूसरा, और श्रीलंका आयोजित होने वाला पहला विश्व कप था।",
                   "image": {
@@ -147,7 +162,7 @@
         },
         {
           "label": "உலக கோப்பை தோற்றம்",
-          "id": "TsFDq9Ln19F",
+          "id": "3KtfRgPZ6o6E",
           "note": "1999",
           "value": {
             "label": "",
@@ -156,7 +171,7 @@
                 "url": "/read/ta/1999_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1999_cricket_world_cup.json",
                 "label": "1999 கிரிக்கெட் உலகக் கோப்பை",
-                "id": "vVNdfQ39RSx",
+                "id": "kG5c-JFbVood",
                 "value": {
                   "label": "1999 का क्रिकेट विश्व कप क्रिकेट विश्व कप का सातवां संस्करण था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेज़बानी मुख्य रूप से इंग्लैंड ने की थी, जिसमें कुछ मैच स्कॉटलैंड, आयरलैंड, वेल्स और नीदरलैंड में भी खेले गए थे।",
                   "image": {
@@ -170,7 +185,7 @@
         },
         {
           "label": "உலகக் கோப்பை",
-          "id": "W9pAPk3bH0F",
+          "id": "iMPtOt-uUkPL",
           "note": "2003",
           "value": {
             "label": "",
@@ -179,7 +194,7 @@
                 "url": "/read/ta/2003_cricket_world_cup",
                 "contentUrl": "/static/content/ta/2003_cricket_world_cup.json",
                 "label": "2003 கிரிக்கெட் உலகக் கோப்பை",
-                "id": "vd0sKOER0BS",
+                "id": "3ylxJ66x0btG",
                 "value": {
                   "label": "2003 का क्रिकेट विश्व कप आठवां क्रिकेट विश्व कप था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेजबानी दक्षिण अफ्रीका, जिम्बाब्वे और केन्या ने मिल कर की थी।",
                   "image": {
@@ -193,7 +208,7 @@
         },
         {
           "label": "2007 உலகக் கோப்பை",
-          "id": "B2CigUccMa8",
+          "id": "HufxnliXENTu",
           "note": "2007 உலகக் கோப்பைக்குப் பிறகு, சர்வதேச ஒரு நாள் போட்டியிலிருந்து தான் ஓய்வு பெறுவதாக அறிவித்தார்",
           "value": {
             "label": "உலகக் கோப்பை",
@@ -202,7 +217,7 @@
                 "url": "/read/ta/2007_cricket_world_cup",
                 "contentUrl": "/static/content/ta/2007_cricket_world_cup.json",
                 "label": "2007 கிரிக்கெட் உலகக் கோப்பை",
-                "id": "Abrl0nxnRXo",
+                "id": "TwWCd4A7GRL3",
                 "value": {
                   "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
                   "image": {
@@ -216,16 +231,31 @@
         },
         {
           "label": "2008",
-          "id": "TxfnEWky0jE",
+          "id": "45EL8NspGKVJ",
           "note": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
           "value": {
-            "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்"
+            "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
+            "facts": [
+              {
+                "url": "/read/ta/royal_challengers_bangalore",
+                "contentUrl": "/static/content/ta/royal_challengers_bangalore.json",
+                "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
+                "id": "vf91_bhxbgxI",
+                "value": {
+                  "label": "ராயல் சேலஞ்சர்ஸ் அணி இண்டியன் பிரீமியர் லீக்கில் (ஐபிஎல்) விளையாடும் கர்நாடகாவின் பெங்களூரில் உள்ள ஒரு உரிமைப் பெற்ற கிரிக்கெட் அணி ஆகும்",
+                  "image": {
+                    "url": "/static/images/anil_kumble/Royal_Challengers_Bangalore_Logo_2016.svg",
+                    "altText": "Image of ராயல் சேலஞ்சர்ஸ் பெங்களூர்"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "சாதனைகள்",
       "cardType": "stories",
       "facts": [
         {
@@ -286,26 +316,56 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "அணிகள்",
       "cardType": "list_card",
       "facts": [
         {
           "label": "இந்திய கிரிக்கெட் அணி (1990-2008)",
-          "id": "pGNgYQR2Jdz",
+          "id": "qmX22z55YKk8",
           "value": {
-            "label": "இந்திய கிரிக்கெட் அணி டீம் இந்தியா மற்றும் மென் இன் புளூ என்றும் அழைக்கப்படுகிறது. இந்திய கிரிக்கெட் கட்டுப்பாட்டு வாரியம் இதை நிர்வகிக்கிறது"
+            "label": "",
+            "facts": [
+              {
+                "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+                "id": "4HJjTxneiD6p",
+                "url": "/read/ta/india_national_cricket_team",
+                "contentUrl": "/static/content/ta/india_national_cricket_team.json",
+                "value": {
+                  "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
+                  "image": {
+                    "url": "/static/images/anil_kumble/Cricket_India_Crest.svg",
+                    "altText": "Picture of இந்திய தேசிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூரு (2008-2010)",
-          "id": "mLqEbuKfPou",
+          "id": "Anz2fe91HJM6",
           "value": {
-            "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூரு (ஆர்சிபி), இந்தியாவில் பெங்களூருவைச் சேர்ந்த ஐபிஎல் கிரிக்கெட் அணி."
+            "label": "",
+            "facts": [
+              {
+                "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
+                "id": "TT4pl4YgmAJN",
+                "url": "/read/ta/royal_challengers_bangalore",
+                "contentUrl": "/static/content/ta/royal_challengers_bangalore.json",
+                "value": {
+                  "label": "ராயல் சேலஞ்சர்ஸ் அணி இண்டியன் பிரீமியர் லீக்கில் (ஐபிஎல்) விளையாடும் கர்நாடகாவின் பெங்களூரில் உள்ள ஒரு உரிமைப் பெற்ற கிரிக்கெட் அணி ஆகும்",
+                  "image": {
+                    "url": "/static/images/anil_kumble/Royal_Challengers_Bangalore_Logo_2016.svg",
+                    "altText": "Picture of ராயல் சேலஞ்சர்ஸ் பெங்களூர்"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "கர்நாடகா (1989-2009)",
-          "id": "EXxPOTMiHoy",
+          "id": "ZMHVlDMNgoRb",
           "value": {
             "label": "கர்நாடகா மாநிலத்தைச் சேர்ந்த உள்ளூர் ரஞ்சி டிராஃபி கிரிக்கெட் அணி"
           }
@@ -313,7 +373,7 @@
       ]
     },
     {
-      "title": "Awards & Honors",
+      "title": "விருதுகள் & கௌரவங்கள்",
       "cardType": "tag_card",
       "facts": [
         {

@@ -28,9 +28,9 @@
           }
         },
         {
-          "label": "Born On",
+          "label": "Born on",
           "value": {
-            "label": "Invalid Date (age 39)"
+            "label": "Invalid Date (Age 39)"
           }
         },
         {
@@ -68,8 +68,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "mCRtb5rQ53C",
+      "title": "Style of Play",
+      "id": "-XKMwKpcyqa",
       "cardType": "simple",
       "facts": [
         {
@@ -86,12 +86,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "Phases",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "First class Debut",
-          "id": "E_MnD3Tfy",
+          "id": "Y40htPw2gv",
           "note": "1998",
           "value": {
             "label": "Gayle made his first-class debut in 1998, at age 19 for Jamaica."
@@ -99,7 +99,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "aOInaEaPZY",
+          "id": "2n8yhKD8EY",
           "note": "1999",
           "value": {
             "label": "Gayle played his first One Day International against India in 1999",
@@ -108,7 +108,7 @@
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "label": "India national cricket team",
-                "id": "mEjRu2xk0C",
+                "id": "Htv2ENuWY7",
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
@@ -122,7 +122,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "XfAgR3Bdsy",
+          "id": "2hbmSGJl6L",
           "note": "2003",
           "value": {
             "label": "Gayle was part of the West Indies team in the 2003 world cup"
@@ -130,7 +130,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "PB8WfNK59L",
+          "id": "EO8KH1-14V",
           "note": "2008",
           "value": {
             "label": "Gayle could not play the inaugural version of the IPL due to an injury",
@@ -139,7 +139,7 @@
                 "url": "/read/en/kolkata_knight_riders",
                 "contentUrl": "/static/content/en/kolkata_knight_riders.json",
                 "label": "Kolkata Knight Riders",
-                "id": "qNHji_HSSC",
+                "id": "x99Ju2NUaa",
                 "value": {
                   "label": "The Kolkata Knight Riders (also known by the acronym KKR) are a franchise cricket team representing the city of Kolkata in the Indian Premier League. ",
                   "image": {
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "Achievement & Records",
       "cardType": "stories",
       "facts": [
         {
@@ -215,18 +215,18 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "Teams",
       "cardType": "list_card",
       "facts": [
         {
           "label": "West Indies (1999-2019)",
-          "id": "yVT_-qOBgq",
+          "id": "iE3cuSFwT1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "West Indies cricket team",
-                "id": "Z3BIBebuTE",
+                "id": "woAH7XFn1Z",
                 "url": "/read/en/west_indies_cricket_team",
                 "contentUrl": "/static/content/en/west_indies_cricket_team.json",
                 "value": {
@@ -242,13 +242,13 @@
         },
         {
           "label": "Kings XI Punjab (2018- present)",
-          "id": "qoVW158csi",
+          "id": "D0YuczCOAi",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Kings XI Punjab",
-                "id": "whDcixGmJQ",
+                "id": "1iIS11f3NO",
                 "url": "/read/en/kings_xi_punjab",
                 "contentUrl": "/static/content/en/kings_xi_punjab.json",
                 "value": {
@@ -264,7 +264,7 @@
         },
         {
           "label": "Jamaica (1998-2018)",
-          "id": "UwclYWYaci",
+          "id": "up00708JGb",
           "value": {
             "label": "Jamaican national cricket team is a first-class cricket team of Jamaica."
           }

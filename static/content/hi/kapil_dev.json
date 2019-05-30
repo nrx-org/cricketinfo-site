@@ -20,42 +20,42 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इनके बारे में",
       "cardType": "table",
       "facts": [
         {
-          "label": "Full Name",
+          "label": "पूरा नाम",
           "value": {
             "label": "कपिलदेव रामलाल निखंज "
           }
         },
         {
-          "label": "Born On",
+          "label": "जन्मतिथि",
           "value": {
-            "label": "06 Jan 1959 (age 60)"
+            "label": "06 Jan 1959 (आयु 60)"
           }
         },
         {
-          "label": "Birthplace",
+          "label": "जन्मस्थान",
           "value": {
             "label": "चंडीगढ़, भारत",
             "url": "https://en.wikipedia.org/wiki/Chandigarh"
           }
         },
         {
-          "label": "Height",
+          "label": "ऊंचाई",
           "value": {
             "label": ""
           }
         },
         {
-          "label": "Nationality",
+          "label": "राष्ट्रीयता",
           "value": {
             "label": "भारतीय"
           }
         },
         {
-          "label": "Role",
+          "label": "भूमिका",
           "value": {
             "label": "ऑलराउंडर"
           }
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "शिक्षा",
       "cardType": "avatar",
       "facts": [
         {
@@ -79,8 +79,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "_cGAWyfs71",
+      "title": "खेलने की शैली",
+      "id": "JYwxkw67K5C",
       "cardType": "simple",
       "facts": [
         {
@@ -92,12 +92,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "दौर",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": "bRDKbiSb9B",
+          "id": "MBmp9BekWIc",
           "note": "1975",
           "value": {
             "label": "देव ने हरियाणा की ओर से खेलते हुए पंजाब के विरुद्ध 1975 में प्रभावी पदार्पण किया। "
@@ -105,15 +105,30 @@
         },
         {
           "label": "राष्ट्रीय टीम ",
-          "id": "jX7FGHmLt1",
+          "id": "hSsSVVo-mxb",
           "note": "1978",
           "value": {
-            "label": "पाकिस्तान के विरुद्ध वनडे क्रिकेट में पदार्पण किया जहां उनका व्यक्तिगत प्रदर्शन मामूली रहा। "
+            "label": "पाकिस्तान के विरुद्ध वनडे क्रिकेट में पदार्पण किया जहां उनका व्यक्तिगत प्रदर्शन मामूली रहा। ",
+            "facts": [
+              {
+                "url": "/read/hi/pakistan_national_cricket_team",
+                "contentUrl": "/static/content/hi/pakistan_national_cricket_team.json",
+                "label": "पाकिस्तान की राष्ट्रीय क्रिकेट टीम ",
+                "id": "jiOMzgdC7h2",
+                "value": {
+                  "label": "पाकिस्तान की पुरुषों की राष्ट्रीय क्रिकेट टीम, जो शाहीन्स ग्रीन शर्ट्स और मैन इन ग्रीन के रूप में प्रसिद्घ है, उसका संचालन पाकिस्तान क्रिकेट बोर्ड (पीसीबी) द्वारा किया जाता है। टीम अंतर्राष्ट्रीय क्रिकेट परिषद की पूर्ण सदस्य है और टेस्ट, वनडे और टी-20 अंतर्राष्ट्रीय क्रिकेट मैचों में हिस्सा लेती है।",
+                  "image": {
+                    "url": "/static/images/kapil_dev/PakistanCricketLogo.png",
+                    "altText": "Image of पाकिस्तान की राष्ट्रीय क्रिकेट टीम "
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "विश्व कप ",
-          "id": "NiTjlqRlUlW",
+          "id": "Fs9TQ3pL3d1",
           "note": "1979",
           "value": {
             "label": "1979 के विश्व कप क्रिकेट में कपिलदेव और भारतीय टीम दोनों का प्रदर्शन कमजोर रहा। "
@@ -121,7 +136,7 @@
         },
         {
           "label": "1983 विश्व कप चैंपियंस\n",
-          "id": "SUTIP7yc35I",
+          "id": "OPhuinSgr5S",
           "note": "1983",
           "value": {
             "label": "भारत ने कपिलदेव की कप्तानी में 1983 का विश्व कप जीता। ",
@@ -130,7 +145,7 @@
                 "url": "/read/hi/1983_cricket_world_cup",
                 "contentUrl": "/static/content/hi/1983_cricket_world_cup.json",
                 "label": "1983 क्रिकेट विश्व कप",
-                "id": "P7pA141ulhK",
+                "id": "9s9ksXDhFZy",
                 "value": {
                   "label": "1983 क्रिकेट विश्व कप (आधिकारिक रूप से प्रूडेंशियल कप '83) क्रिकेट विश्व कप टूर्नामेंट का तीसरा संस्करण था। यह 9 जून से 25 जून 1983 तक इंग्लैंड और वेल्स में आयोजित किया गया था और इसे भारत ने जीता था।",
                   "image": {
@@ -144,7 +159,7 @@
         },
         {
           "label": "विश्व कप ",
-          "id": "sLTYPxEKxdd",
+          "id": "pww_hzo6mGc",
           "note": "1987",
           "value": {
             "label": "1987 के विश्व कप के लिए कपिलदेव को भारतीय टीम का कप्तान बरकरार रखा गया। "
@@ -152,7 +167,7 @@
         },
         {
           "label": "विश्व कप ",
-          "id": "RaeoO1NUWa-",
+          "id": "gS5-BoGlP-3",
           "note": "कपिलदेव ने अपना आखिरी विश्व कप मोहमद अजहरुद्दीन की कप्तानी में 1992 में खेला। ",
           "value": {
             "label": "विश्व कप "
@@ -160,7 +175,7 @@
         },
         {
           "label": "IPL डेब्यू",
-          "id": "JfvctAZzasM",
+          "id": "hdua21nguwT",
           "note": "",
           "value": {
             "label": ""
@@ -169,7 +184,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "उपलब्धि और रिकॉर्ड",
       "cardType": "stories",
       "facts": [
         {
@@ -230,19 +245,34 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "टीमें",
       "cardType": "list_card",
       "facts": [
         {
           "label": "भारतीय राष्ट्रीय क्रिकेट टीम (1978-1994)",
-          "id": "y6lVIvZQuFE",
+          "id": "7Ra760zXP08K",
           "value": {
-            "label": "भारत की राष्ट्रीय क्रिकेट टीम, जिसे टीम इंडिया और मैन इन ब्लू के नाम से भी जाना जाता है, भारतीय क्रिकेट कंट्रोल बोर्ड द्वारा संचालित है"
+            "label": "",
+            "facts": [
+              {
+                "label": "भारत की राष्ट्रीय क्रिकेट टीम",
+                "id": "SwbZlQ3ABOz6",
+                "url": "/read/hi/india_national_cricket_team",
+                "contentUrl": "/static/content/hi/india_national_cricket_team.json",
+                "value": {
+                  "label": "भारत की राष्ट्रीय क्रिकेट टीम को टीम इंडिया और मेन इन ब्लू के नाम से भी जाना जाता है। भारत को टेस्ट में पहला, वनडे में दूसरा और आईसीसी द्वारा टी20 में दूसरा स्थान मिला है। विराट कोहली टीम के वर्तमान कप्तान हैं जबकि मुख्य कोच रवि शास्त्री हैं।",
+                  "image": {
+                    "url": "/static/images/kapil_dev/Cricket_India_Crest.svg",
+                    "altText": "Picture of भारत की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "हरियाणा (1975-1992)",
-          "id": "9YBqMaJ3WrI",
+          "id": "2HDNKrqtz-sG",
           "value": {
             "label": "हरियाणा राज्य की घरेलू रणजी ट्रॉफी क्रिकेट टीम"
           }
@@ -250,7 +280,7 @@
       ]
     },
     {
-      "title": "Awards & Honors",
+      "title": "पुरस्कार और सम्मान",
       "cardType": "tag_card",
       "facts": [
         {
