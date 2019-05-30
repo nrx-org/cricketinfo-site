@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इनके बारे में",
       "cardType": "table",
       "facts": [
         {
-          "label": "Full Name",
+          "label": "पूरा नाम",
           "value": {
             "label": "रोहित शर्मा "
           }
         },
         {
-          "label": "Born On",
+          "label": "जन्मतिथि",
           "value": {
-            "label": "30 Apr 1987 (age 31)"
+            "label": "30 Apr 1987 (आयु 31)"
           }
         },
         {
-          "label": "Birthplace",
+          "label": "जन्मस्थान",
           "value": {
             "label": "नागपुर, भारत",
             "url": "https://en.wikipedia.org/wiki/Nagpur",
@@ -44,19 +44,19 @@
           }
         },
         {
-          "label": "Height",
+          "label": "ऊंचाई",
           "value": {
             "label": "5 फीट 8 इंच (1.73 मीटर)"
           }
         },
         {
-          "label": "Nationality",
+          "label": "राष्ट्रीयता",
           "value": {
             "label": "भारतीय"
           }
         },
         {
-          "label": "Role",
+          "label": "भूमिका",
           "value": {
             "label": "बल्लेबाज"
           }
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "शिक्षा",
       "cardType": "avatar",
       "facts": [
         {
@@ -80,8 +80,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "9NMr_FPaNAc",
+      "title": "खेलने की शैली",
+      "id": "pK_jyvGOPYh",
       "cardType": "simple",
       "facts": [
         {
@@ -98,12 +98,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "दौर",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": "ls2dID9JvD",
+          "id": "gB05gvqQC",
           "note": "2006",
           "value": {
             "label": "शर्मा ने भारत ए की ओर से न्यूजीलैंड ए के विरुद्ध 2006 में रणजी मैच खेलने से पूर्व ही प्रथम श्रेणी क्रिकेट में पदार्पण किया। "
@@ -111,7 +111,7 @@
         },
         {
           "label": "राष्ट्रीय टीम ",
-          "id": "D0gfeDGYRl",
+          "id": "n7498ejkL5",
           "note": "2007",
           "value": {
             "label": "रोहित शर्मा ने आयरलैंड के विरुद्ध वनडे इंटरनेशनल में पदार्पण किया, हालांकि इस मैच में उन्हें बल्लेबाजी का अवसर नहीं मिला। "
@@ -119,7 +119,7 @@
         },
         {
           "label": "टी 20 विश्व कप ",
-          "id": "49ZeJ5IVqN",
+          "id": "R4frdH0cV1",
           "note": "2007",
           "value": {
             "label": "2007 के आईसीसी विश्व ट्वेंटी 20 में रोहित शर्मा ने दक्षिण अफ्रीक के विरुद्ध  नाबाद 50 रन बनाए जिसकी मदद से भारतीय टीम सेमी फाइनल में पहुंची।  ",
@@ -128,7 +128,7 @@
                 "url": "/read/hi/icc_t20_world_cup",
                 "contentUrl": "/static/content/hi/icc_t20_world_cup.json",
                 "label": "आईसीसी टी20 विश्व कप",
-                "id": "3LejksOYKC",
+                "id": "e792hCrgBB",
                 "value": {
                   "label": "आईसीसी टी20 विश्व कप (जिसे पहले आईसीसी विश्व ट्वेंटी20 के नाम से जाना जाता था) ट्वेंटी20 क्रिकेट की अंतर्राष्ट्रीय चैम्पियनशिप है। वर्तमान में इस टूर्नामेंट में 16 टीमें भाग लेती हैं, जिसमें आठ टीमें दी गई समय सीमा के भीतर रैंकिंग के शीर्ष आठ में रहने वाली टीमें होती हैं जबकि चार अन्य टीमें टी20 विश्व कप क्वालीफायर के माध्यम से चुनी जातीं हैं।",
                   "image": {
@@ -142,7 +142,7 @@
         },
         {
           "label": "\n2013 आईसीसी चैंपियंस ट्रॉफी",
-          "id": "ncMpswSiCJ",
+          "id": "vmsC9qzJw3",
           "note": "2013",
           "value": {
             "label": "2013 में चैंपियंस ट्रॉफी में उन्हें सलामी बल्लेबाज के रूप में प्रोन्नत करते हुए शिखर धवन के साथ पारी शुरू करने के लिए भेजा गया।  ",
@@ -151,7 +151,7 @@
                 "url": "/read/hi/icc_champions_trophy",
                 "contentUrl": "/static/content/hi/icc_champions_trophy.json",
                 "label": "आईसीसी चैंपियंस ट्रॉफी",
-                "id": "X13XlzdY64",
+                "id": "ZFU8PecHG9",
                 "value": {
                   "label": "आईसीसी चैंपियंस ट्रॉफी एक दिवसीय अंतर्राष्ट्रीय (वनडे) क्रिकेट टूर्नामेंट था जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया जाता था, जो क्रिकेट विश्व कप के बाद दूसरा सबसे महत्वपूर्ण आयोजन था। 2002 में इसका नाम बदलकर चैंपियंस ट्रॉफी रखा गया।",
                   "image": {
@@ -165,7 +165,7 @@
         },
         {
           "label": "विश्व कप ",
-          "id": "7tjwZ0miIA",
+          "id": "yqH5HH_Pu6",
           "note": "2015",
           "value": {
             "label": "",
@@ -174,7 +174,7 @@
                 "url": "/read/hi/2015_cricket_world_cup",
                 "contentUrl": "/static/content/hi/2015_cricket_world_cup.json",
                 "label": "2015 क्रिकेट विश्व कप",
-                "id": "B7MfM-dNS6M",
+                "id": "HXNY05FGCa",
                 "value": {
                   "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
                   "image": {
@@ -188,16 +188,31 @@
         },
         {
           "label": "IPL डेब्यू",
-          "id": "abwM0IYTwAv",
+          "id": "snK1Q8JB7x",
           "note": "2008",
           "value": {
-            "label": "शर्मा को डेक्कन चार्जर्स ने प्रति वर्ष यूएस डॉलर 750,000 में 2008 के लिए साइन किया। "
+            "label": "शर्मा को डेक्कन चार्जर्स ने प्रति वर्ष यूएस डॉलर 750,000 में 2008 के लिए साइन किया। ",
+            "facts": [
+              {
+                "url": "/read/hi/sunrisers_hyderabad",
+                "contentUrl": "/static/content/hi/sunrisers_hyderabad.json",
+                "label": "सनराइजर्स हैदराबाद",
+                "id": "iXaUvv99vU",
+                "value": {
+                  "label": "सनराइजर्स हैदराबाद (संक्षिप्त रूप में एसआरएच) तेलंगाना के हैदराबाद आधारित एक फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में खेलती है।",
+                  "image": {
+                    "url": "/static/images/rohit_sharma/Sunrisers_Hyderabad.svg",
+                    "altText": "Image of सनराइजर्स हैदराबाद"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "उपलब्धि और रिकॉर्ड",
       "cardType": "stories",
       "facts": [
         {
@@ -258,26 +273,56 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "टीमें",
       "cardType": "list_card",
       "facts": [
         {
           "label": "भारतीय राष्ट्रीय क्रिकेट टीम (2007-अब तक )",
-          "id": "yFGpBXYWEJR",
+          "id": "E-8daeZU-E",
           "value": {
-            "label": "भारत की राष्ट्रीय क्रिकेट टीम, जिसे टीम इंडिया और मैन इन ब्लू के नाम से भी जाना जाता है, भारतीय क्रिकेट कंट्रोल बोर्ड द्वारा संचालित है"
+            "label": "",
+            "facts": [
+              {
+                "label": "भारत की राष्ट्रीय क्रिकेट टीम",
+                "id": "GXSRy-obni",
+                "url": "/read/hi/india_national_cricket_team",
+                "contentUrl": "/static/content/hi/india_national_cricket_team.json",
+                "value": {
+                  "label": "भारत की राष्ट्रीय क्रिकेट टीम को टीम इंडिया और मेन इन ब्लू के नाम से भी जाना जाता है। भारत को टेस्ट में पहला, वनडे में दूसरा और आईसीसी द्वारा टी20 में दूसरा स्थान मिला है। विराट कोहली टीम के वर्तमान कप्तान हैं जबकि मुख्य कोच रवि शास्त्री हैं।",
+                  "image": {
+                    "url": "/static/images/rohit_sharma/Cricket_India_Crest.svg",
+                    "altText": "Picture of भारत की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "मुंबई इंडियंस (2011-अब तक)",
-          "id": "8TYaZ3kv0CR",
+          "id": "XtuPXNKN_h",
           "value": {
-            "label": "मुंबई इंडियंस मुंबई, भारत की एक फ्रैंचाइज़ी क्रिकेट टीम है।"
+            "label": "",
+            "facts": [
+              {
+                "label": "मुंबई इंडियंस",
+                "id": "1RKvfRkzWg",
+                "url": "/read/hi/mumbai_indians",
+                "contentUrl": "/static/content/hi/mumbai_indians.json",
+                "value": {
+                  "label": "मुंबई इंडियंस एक फ्रैंचाइज़ी क्रिकेट टीम है जो मुंबई शहर, महाराष्ट्र में स्थित है। 2008 में स्थापित मुंबई इंडियंस इंडियन प्रीमियर लीग (आईपीएल) में खेलती है। टीम का स्वामित्व भारत के सबसे बड़े समूह रिलायंस इंडस्ट्रीज के पास है।",
+                  "image": {
+                    "url": "/static/images/rohit_sharma/Mumbai_Indians_Logo.svg",
+                    "altText": "Picture of मुंबई इंडियंस"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "मुंबई (2006-अब तक)",
-          "id": "LMBtJ77fjik",
+          "id": "8KM5F3X6K8",
           "value": {
             "label": "मुंबई की घरेलू रणजी ट्रॉफी क्रिकेट टीम"
           }
@@ -285,7 +330,7 @@
       ]
     },
     {
-      "title": "Awards & Honors",
+      "title": "पुरस्कार और सम्मान",
       "cardType": "tag_card",
       "facts": [
         {

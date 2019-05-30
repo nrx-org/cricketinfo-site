@@ -20,42 +20,42 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "விவரம்",
       "cardType": "table",
       "facts": [
         {
-          "label": "Full Name",
+          "label": "முழுப் பெயர்",
           "value": {
             "label": "கபில் தேவ் ராம்லால் நிகன்ஞ்"
           }
         },
         {
-          "label": "Born On",
+          "label": "பிறந்த தேதி",
           "value": {
-            "label": "06 Jan 1959 (age 60)"
+            "label": "06 Jan 1959 (வயது 60)"
           }
         },
         {
-          "label": "Birthplace",
+          "label": "பிறந்த இடம்",
           "value": {
             "label": "சண்டிகர், இந்தியா",
             "url": "https://en.wikipedia.org/wiki/Chandigarh"
           }
         },
         {
-          "label": "Height",
+          "label": "உயரம்",
           "value": {
             "label": ""
           }
         },
         {
-          "label": "Nationality",
+          "label": "சொந்த நாடு",
           "value": {
             "label": "இந்தியர்"
           }
         },
         {
-          "label": "Role",
+          "label": "இவரின் பங்கு",
           "value": {
             "label": "ஆல்ரவுண்டர்"
           }
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "கல்வி",
       "cardType": "avatar",
       "facts": [
         {
@@ -79,8 +79,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "RL1GeXJedQI",
+      "title": "விளையாட்டின் பாணி",
+      "id": "xt-9-ONbBPQ",
       "cardType": "simple",
       "facts": [
         {
@@ -92,12 +92,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "படிநிலைகள்",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "C1jCCTLuJ3-",
+          "id": "PuSNCEZKLTG",
           "note": "1975",
           "value": {
             "label": "தேவ், 1975 ஆம் ஆண்டு பஞ்சாப்புக்கு எதிரான போட்டியில் ஹரியானவுக்காக விளையாடிய முதல் போட்டியிலேயே சிறப்பாக ஆடினார்."
@@ -105,7 +105,7 @@
         },
         {
           "label": "தேசிய அணி அறிமுகம்",
-          "id": "qLpiE5JWPrw",
+          "id": "bBCyEgfC3a3",
           "note": "1978",
           "value": {
             "label": "பாகிஸ்தானுக்கு எதிராக முதல் ஒரு நாள் கிரிக்கெட் போட்டியில் ஆடினார், அதில் அவருடைய தனிப்பட்ட செயல்பாடு மிகவும் சாதாரணமாக இருந்தது.",
@@ -114,7 +114,7 @@
                 "url": "/read/ta/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/ta/pakistan_national_cricket_team.json",
                 "label": "Pakistan national cricket team",
-                "id": "jUgKSov0I6s",
+                "id": "tc2-F4XKV7m",
                 "value": {
                   "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
                   "image": {
@@ -128,7 +128,7 @@
         },
         {
           "label": "முதல் ஐசிசி போட்டி ",
-          "id": "3Zb79ymmlw_",
+          "id": "jE0m0Bv4Zqq",
           "note": "1979",
           "value": {
             "label": "1979 உலகக் கோப்பை கிரிக்கெட்டில் கபில் தேவ் மற்றும் இந்திய அணி மோசமான தோல்வியைத் தழுவினர்."
@@ -136,7 +136,7 @@
         },
         {
           "label": "1983 உலக கோப்பை சாம்பியன்ஸ்",
-          "id": "hgINzKa2IkK",
+          "id": "bMPeqBvCH9w",
           "note": "1983",
           "value": {
             "label": "கபில் தேவ் தலைமையிலான இந்திய அணி 1983 ஆம் ஆண்டு உலகக் கோப்பையை வென்றது.",
@@ -145,7 +145,7 @@
                 "url": "/read/ta/1983_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1983_cricket_world_cup.json",
                 "label": "1983 கிரிக்கெட் உலகக் கோப்பை",
-                "id": "FvuNmH38TLE",
+                "id": "ovc3jgpSwo_",
                 "value": {
                   "label": "1983 क्रिकेट विश्व कप (आधिकारिक रूप से प्रूडेंशियल कप '83) क्रिकेट विश्व कप टूर्नामेंट का तीसरा संस्करण था। यह 9 जून से 25 जून 1983 तक इंग्लैंड और वेल्स में आयोजित किया गया था और इसे भारत ने जीता था।",
                   "image": {
@@ -159,7 +159,7 @@
         },
         {
           "label": "உலகக் கோப்பை",
-          "id": "RWMlWaVtg-3",
+          "id": "EMmcMVxRACG",
           "note": "1987",
           "value": {
             "label": "கபில் தேவ், 1987 உலகக் கோப்பை வரை இந்திய அணியின் கேப்டனாக இருந்தார்."
@@ -167,7 +167,7 @@
         },
         {
           "label": "1992  உலகக் கோப்பை",
-          "id": "dI58rZanjX4",
+          "id": "9oob_-DyfWf",
           "note": "கபில் தேவ் தனது கடைசி உலகக் கோப்பை போட்டியை 1992 ஆம் ஆண்டு முகமது அசாருதீன் தலைமையில் விளையாடினார்",
           "value": {
             "label": "உலகக் கோப்பை"
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "சாதனைகள்",
       "cardType": "stories",
       "facts": [
         {
@@ -237,18 +237,18 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "அணிகள்",
       "cardType": "list_card",
       "facts": [
         {
           "label": "இந்திய கிரிக்கெட் அணி (1978-1994)",
-          "id": "gduVwmS2Jf_",
+          "id": "C4V8268aIDk",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "இந்திய தேசிய கிரிக்கெட் அணி",
-                "id": "pNfRj8n8Mbt",
+                "id": "gjgDRF5wavR",
                 "url": "/read/ta/india_national_cricket_team",
                 "contentUrl": "/static/content/ta/india_national_cricket_team.json",
                 "value": {
@@ -264,7 +264,7 @@
         },
         {
           "label": "ஹரியானா (1975-1992)",
-          "id": "Qzmr-H3H1n1",
+          "id": "jxGmzRyJrYV",
           "value": {
             "label": "ஹரியானா மாநிலத்தைச் சேர்ந்த உள்ளூர் ரஞ்சி டிராஃபி கிரிக்கெட் அணி"
           }
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "title": "Awards & Honors",
+      "title": "விருதுகள் & கௌரவங்கள்",
       "cardType": "tag_card",
       "facts": [
         {

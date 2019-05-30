@@ -88,6 +88,25 @@
       ]
     },
     {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
+            "url": "/read/ta/royal_challengers_bangalore",
+            "contentUrl": "/static/content/ta/royal_challengers_bangalore.json",
+            "image": {
+              "url": "/static/images/bangalore/Royal_Challengers_Bangalore_Logo_2016.svg",
+              "altText": "Picture of ராயல் சேலஞ்சர்ஸ் பெங்களூர்"
+            }
+          }
+        }
+      ]
+    },
+    {
       "title": "Geography",
       "id": "bangalore_geography",
       "cardType": "simple",

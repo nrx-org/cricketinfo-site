@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इनके बारे में",
       "cardType": "table",
       "facts": [
         {
-          "label": "Full Name",
+          "label": "पूरा नाम",
           "value": {
             "label": "शिखर धवन"
           }
         },
         {
-          "label": "Born On",
+          "label": "जन्मतिथि",
           "value": {
-            "label": "05 Dec 1985 (age 33)"
+            "label": "05 Dec 1985 (आयु 33)"
           }
         },
         {
-          "label": "Birthplace",
+          "label": "जन्मस्थान",
           "value": {
             "label": "दिल्ली, भारत",
             "url": "https://en.wikipedia.org/wiki/Delhi",
@@ -44,19 +44,19 @@
           }
         },
         {
-          "label": "Height",
+          "label": "ऊंचाई",
           "value": {
             "label": "5 फीट 11 इंच (180 सेमी)"
           }
         },
         {
-          "label": "Nationality",
+          "label": "राष्ट्रीयता",
           "value": {
             "label": "भारतीय"
           }
         },
         {
-          "label": "Role",
+          "label": "भूमिका",
           "value": {
             "label": "बल्लेबाज"
           }
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "शिक्षा",
       "cardType": "avatar",
       "facts": [
         {
@@ -80,8 +80,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "LaW-LDM7L1f",
+      "title": "खेलने की शैली",
+      "id": "c8KyXm7Qef7",
       "cardType": "simple",
       "facts": [
         {
@@ -98,12 +98,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "दौर",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": "NTim5-oS1Y7",
+          "id": "qXHl-f9SMI",
           "note": "2004",
           "value": {
             "label": "धवन ने 2004 में दिल्ली की ओर से आंध्र के खिलाफ रणजी ट्रॉफी क्रिकेट में पदार्पण किया। "
@@ -111,15 +111,30 @@
         },
         {
           "label": "राष्ट्रीय टीम ",
-          "id": "uXnDM8gZnYc",
+          "id": "WnEcREaTg9i",
           "note": "2010",
           "value": {
-            "label": "धवन ने आस्ट्रेलिया के विरुद्ध अंतराष्ट्रीय मैच में पदार्पण किया लेकिन इसमें वे शून्य रन पर आउट हो गए। "
+            "label": "धवन ने आस्ट्रेलिया के विरुद्ध अंतराष्ट्रीय मैच में पदार्पण किया लेकिन इसमें वे शून्य रन पर आउट हो गए। ",
+            "facts": [
+              {
+                "url": "/read/hi/australia_cricket_team",
+                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "label": "ऑस्ट्रेलिया क्रिकेट टीम",
+                "id": "N6Pqx61zQbt",
+                "value": {
+                  "label": "ऑस्ट्रेलिया की राष्ट्रीय क्रिकेट टीम टेस्ट क्रिकेट इतिहास की संयुक्त सबसे पुरानी टीम है, जिसने 1877 में पहली बार टेस्ट मैच खेला था।",
+                  "image": {
+                    "url": "/static/images/shikhar_dhawan/Australia_cricket_logo.svg",
+                    "altText": "Image of ऑस्ट्रेलिया क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "चैंपियंस ट्रॉफी ",
-          "id": "b_i7NxuAwcq",
+          "id": "Ta493tMiqT9",
           "note": "2013",
           "value": {
             "label": "धवन ने टुर्नामेंट में सबसे ज्यादा रन बनाए और उन्हें प्लेयर ऑफ द टुर्नामेंट घोषित किया गया। ",
@@ -128,7 +143,7 @@
                 "url": "/read/hi/icc_champions_trophy",
                 "contentUrl": "/static/content/hi/icc_champions_trophy.json",
                 "label": "आईसीसी चैंपियंस ट्रॉफी",
-                "id": "CTKQwXee5xa",
+                "id": "fOjQtc2hD2C",
                 "value": {
                   "label": "आईसीसी चैंपियंस ट्रॉफी एक दिवसीय अंतर्राष्ट्रीय (वनडे) क्रिकेट टूर्नामेंट था जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया जाता था, जो क्रिकेट विश्व कप के बाद दूसरा सबसे महत्वपूर्ण आयोजन था। 2002 में इसका नाम बदलकर चैंपियंस ट्रॉफी रखा गया।",
                   "image": {
@@ -142,7 +157,7 @@
         },
         {
           "label": "अच्छा खेल नहीं पा रहे हैं\n",
-          "id": "RdQ-t8I-RV8",
+          "id": "clpvet74eCZ",
           "note": "2014",
           "value": {
             "label": "धवन ज्यादा रन बनाने में नाकाम रहे और उन्हें टीम से हटा दिया गया। ",
@@ -151,7 +166,7 @@
                 "url": "/read/hi/icc_t20_world_cup",
                 "contentUrl": "/static/content/hi/icc_t20_world_cup.json",
                 "label": "आईसीसी टी20 विश्व कप",
-                "id": "PIUSPrCidFE",
+                "id": "34IipC-7Xvm",
                 "value": {
                   "label": "आईसीसी टी20 विश्व कप (जिसे पहले आईसीसी विश्व ट्वेंटी20 के नाम से जाना जाता था) ट्वेंटी20 क्रिकेट की अंतर्राष्ट्रीय चैम्पियनशिप है। वर्तमान में इस टूर्नामेंट में 16 टीमें भाग लेती हैं, जिसमें आठ टीमें दी गई समय सीमा के भीतर रैंकिंग के शीर्ष आठ में रहने वाली टीमें होती हैं जबकि चार अन्य टीमें टी20 विश्व कप क्वालीफायर के माध्यम से चुनी जातीं हैं।",
                   "image": {
@@ -165,7 +180,7 @@
         },
         {
           "label": "विश्व कप ",
-          "id": "LGNB9fpOdnF",
+          "id": "XZXTfxlvnDa",
           "note": "2015",
           "value": {
             "label": "2015 के विश्व कप में सबसे ज्यादा रन बनाने वाले बल्लेबाजों में धवन पांचवें स्थान पर रहे। ",
@@ -174,7 +189,7 @@
                 "url": "/read/hi/2015_cricket_world_cup",
                 "contentUrl": "/static/content/hi/2015_cricket_world_cup.json",
                 "label": "2015 क्रिकेट विश्व कप",
-                "id": "ILW0HtQXxww",
+                "id": "wMEMOT5TQ33",
                 "value": {
                   "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
                   "image": {
@@ -188,7 +203,7 @@
         },
         {
           "label": "चैंपियंस ट्रॉफी ",
-          "id": "rwsmz1SmVK-",
+          "id": "H9tk8PWu1z4",
           "note": "टुर्नामेंट में सबसे ज्यादा रन बनाने वाले धवन को गोल्डन बैट का पुरस्कार प्राप्त हुआ। ",
           "value": {
             "label": "चैंपियंस ट्रॉफी ",
@@ -197,7 +212,7 @@
                 "url": "/read/hi/icc_champions_trophy",
                 "contentUrl": "/static/content/hi/icc_champions_trophy.json",
                 "label": "आईसीसी चैंपियंस ट्रॉफी",
-                "id": "zxbEbE4lQgJ",
+                "id": "98MBlC62h9b",
                 "value": {
                   "label": "आईसीसी चैंपियंस ट्रॉफी एक दिवसीय अंतर्राष्ट्रीय (वनडे) क्रिकेट टूर्नामेंट था जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया जाता था, जो क्रिकेट विश्व कप के बाद दूसरा सबसे महत्वपूर्ण आयोजन था। 2002 में इसका नाम बदलकर चैंपियंस ट्रॉफी रखा गया।",
                   "image": {
@@ -211,16 +226,31 @@
         },
         {
           "label": "IPL डेब्यू",
-          "id": "iKifUGV5ZDk",
+          "id": "YMVuyPomZVa",
           "note": "2008",
           "value": {
-            "label": "आशीष नेहरा के बदले शिखर धवन को 2009 में मुंबई इंडियंस द्वारा खरीदा गया, इससे पहले तक वे देल्ही डेयरडेविल्स के लिए खेले।  "
+            "label": "आशीष नेहरा के बदले शिखर धवन को 2009 में मुंबई इंडियंस द्वारा खरीदा गया, इससे पहले तक वे देल्ही डेयरडेविल्स के लिए खेले।  ",
+            "facts": [
+              {
+                "url": "/read/hi/delhi_capitals",
+                "contentUrl": "/static/content/hi/delhi_capitals.json",
+                "label": "देल्ही कैपिटल्स",
+                "id": "4h_STFUmYG_",
+                "value": {
+                  "label": "देल्ही कैपिटल्स एक फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में दिल्ली शहर का प्रतिनिधित्व करती है।",
+                  "image": {
+                    "url": "/static/images/shikhar_dhawan/Delhi_Capitals_Logo.svg",
+                    "altText": "Image of देल्ही कैपिटल्स"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "उपलब्धि और रिकॉर्ड",
       "cardType": "stories",
       "facts": [
         {
@@ -281,26 +311,56 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "टीमें",
       "cardType": "list_card",
       "facts": [
         {
           "label": "भारतीय राष्ट्रीय क्रिकेट टीम (2010-अब तक )",
-          "id": "z5M9dCjfhpz",
+          "id": "d2PKarRiYWr",
           "value": {
-            "label": "भारत की राष्ट्रीय क्रिकेट टीम, जिसे टीम इंडिया और मैन इन ब्लू के नाम से भी जाना जाता है, भारतीय क्रिकेट कंट्रोल बोर्ड द्वारा संचालित है"
+            "label": "",
+            "facts": [
+              {
+                "label": "भारत की राष्ट्रीय क्रिकेट टीम",
+                "id": "qwp0lafofCe",
+                "url": "/read/hi/india_national_cricket_team",
+                "contentUrl": "/static/content/hi/india_national_cricket_team.json",
+                "value": {
+                  "label": "भारत की राष्ट्रीय क्रिकेट टीम को टीम इंडिया और मेन इन ब्लू के नाम से भी जाना जाता है। भारत को टेस्ट में पहला, वनडे में दूसरा और आईसीसी द्वारा टी20 में दूसरा स्थान मिला है। विराट कोहली टीम के वर्तमान कप्तान हैं जबकि मुख्य कोच रवि शास्त्री हैं।",
+                  "image": {
+                    "url": "/static/images/shikhar_dhawan/Cricket_India_Crest.svg",
+                    "altText": "Picture of भारत की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "देल्ही केपिटल्‍स  (2019 -अब तक)",
-          "id": "-3mU2lzmDRp",
+          "id": "ktMzc03s3H2",
           "value": {
-            "label": "देल्ही केपिटल्‍स (पहले देहली डेयरडेविल्स के नाम से चर्चित) दिल्ली, भारत की एक आईपीएल क्रिकेट टीम हैं।"
+            "label": "",
+            "facts": [
+              {
+                "label": "देल्ही कैपिटल्स",
+                "id": "_VKJ6Q5C6Cp",
+                "url": "/read/hi/delhi_capitals",
+                "contentUrl": "/static/content/hi/delhi_capitals.json",
+                "value": {
+                  "label": "देल्ही कैपिटल्स एक फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में दिल्ली शहर का प्रतिनिधित्व करती है।",
+                  "image": {
+                    "url": "/static/images/shikhar_dhawan/Delhi_Capitals_Logo.svg",
+                    "altText": "Picture of देल्ही कैपिटल्स"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "दिल्ली (2004-अब तक)",
-          "id": "r1CIt9yn_qi",
+          "id": "F5gJzkxJ2oT",
           "value": {
             "label": "दिल्ली की घरेलू रणजी ट्रॉफी क्रिकेट टीम"
           }
@@ -308,7 +368,7 @@
       ]
     },
     {
-      "title": "Awards & Honors",
+      "title": "पुरस्कार और सम्मान",
       "cardType": "tag_card",
       "facts": [
         {

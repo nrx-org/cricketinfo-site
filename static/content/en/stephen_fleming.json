@@ -28,9 +28,9 @@
           }
         },
         {
-          "label": "Born On",
+          "label": "Born on",
           "value": {
-            "label": "Invalid Date (age 46)"
+            "label": "Invalid Date (Age 46)"
           }
         },
         {
@@ -62,8 +62,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "9jbxsfwakE",
+      "title": "Style of Play",
+      "id": "VzzQhVITJ4",
       "cardType": "simple",
       "facts": [
         {
@@ -79,12 +79,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "Phases",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "First class Debut",
-          "id": "TR4LcKQC4Cq",
+          "id": "r-huvC0KM8X",
           "note": "1991",
           "value": {
             "label": "Fleming first played for the Canterbury, first class team during the 1991-92 season."
@@ -92,7 +92,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "XnczOr6g9XS",
+          "id": "ZAd-eb_1TGZ",
           "note": "1994",
           "value": {
             "label": "Fleming made his Test debut in March 1994 against India, winning the Man of the Match award in the match.",
@@ -101,7 +101,7 @@
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "label": "India national cricket team",
-                "id": "5KK5Msi1Q-L",
+                "id": "9A55_smGJ9X",
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
@@ -115,7 +115,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "xtJ5tMA8OhI",
+          "id": "IcWfq2nVw9r",
           "note": "",
           "value": {
             "label": ""
@@ -123,7 +123,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "0b7tB8wz2fU",
+          "id": "Eqome04Z3uW",
           "note": "2008",
           "value": {
             "label": "Fleming played for the Chennai Super Kings in the 2008 and scored 196 runs in 10 matches.",
@@ -132,7 +132,7 @@
                 "url": "/read/en/chennai_super_kings",
                 "contentUrl": "/static/content/en/chennai_super_kings.json",
                 "label": "Chennai Super Kings",
-                "id": "4XYcJJ9luac",
+                "id": "0OoS6zCrZ5Q",
                 "value": {
                   "label": "Founded in 2008, The Chennai Super Kings (CSK) is an Indian franchise cricket team based in Chennai, Tamil Nadu, which plays in the Indian Premier League (IPL).",
                   "image": {
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "Achievement & Records",
       "cardType": "stories",
       "facts": [
         {
@@ -208,18 +208,18 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "Teams",
       "cardType": "list_card",
       "facts": [
         {
           "label": "New Zealand (1994-2008)",
-          "id": "hpB5bO63Vc7",
+          "id": "JGtRnToJLrG",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "New Zealand national cricket team",
-                "id": "tJfZzNoHlLs",
+                "id": "NJPQH3yrS",
                 "url": "/read/en/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
                 "value": {
@@ -235,13 +235,13 @@
         },
         {
           "label": "Chennai Super Kings (2008)",
-          "id": "CS0RyWFAhFp",
+          "id": "i0Ca9it6kv",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Chennai Super Kings",
-                "id": "QoLkFsCFaAg",
+                "id": "76wp35JXrj",
                 "url": "/read/en/chennai_super_kings",
                 "contentUrl": "/static/content/en/chennai_super_kings.json",
                 "value": {
@@ -257,7 +257,7 @@
         },
         {
           "label": "Canterbury (1991-2000)",
-          "id": "w5F12JwSz4f",
+          "id": "gntbKyzx61",
           "value": {
             "label": "Canterbury is a New Zealand First-class cricket team based in Canterbury, New Zealand."
           }

@@ -144,6 +144,25 @@
       ]
     },
     {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "पाकिस्तान की राष्ट्रीय क्रिकेट टीम ",
+            "url": "/read/hi/pakistan_national_cricket_team",
+            "contentUrl": "/static/content/hi/pakistan_national_cricket_team.json",
+            "image": {
+              "url": "/static/images/pakistan/PakistanCricketLogo.png",
+              "altText": "Picture of पाकिस्तान की राष्ट्रीय क्रिकेट टीम "
+            }
+          }
+        }
+      ]
+    },
+    {
       "title": "Geography",
       "id": "pakistan_geography",
       "cardType": "simple",

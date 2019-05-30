@@ -39,16 +39,16 @@
           "label": "Champion",
           "value": {
             "label": "ஸ்ரீலங்கா (முதல் டைட்டில்)",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/ta/australia_cricket_team",
+            "contentUrl": "/static/content/ta/australia_cricket_team.json"
           }
         },
         {
           "label": "Runners Up",
           "value": {
             "label": "பாகிஸ்தான்",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/ta/pakistan_national_cricket_team",
+            "contentUrl": "/static/content/ta/pakistan_national_cricket_team.json"
           }
         },
         {
@@ -134,7 +134,20 @@
           "id": "final-positions-champion",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+                "url": "/read/ta/australia_cricket_team",
+                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "value": {
+                  "label": "ஆஸ்திரேலிய தேசிய கிரிக்கெட் அணி 1877 ஆம் ஆண்டு நடைபெற்ற முதன்முதல் டெஸ்ட் போட்டியில் விளையாடிய, ஒரு மிகப் பழமையான அணியாகும்.",
+                  "image": {
+                    "url": "/static/images/1999_cricket_world_cup/Australia_cricket_logo.svg",
+                    "altText": "Picture of ஆஸ்திரேலிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -142,7 +155,20 @@
           "id": "final-positions-runner-up",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "Pakistan national cricket team",
+                "url": "/read/ta/pakistan_national_cricket_team",
+                "contentUrl": "/static/content/ta/pakistan_national_cricket_team.json",
+                "value": {
+                  "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
+                  "image": {
+                    "url": "/static/images/1999_cricket_world_cup/PakistanCricketLogo.png",
+                    "altText": "Picture of ஆஸ்திரேலிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
           }
         }
       ]

@@ -133,3 +133,86 @@ module.exports.homeUIStrings = {
     ta: "Interesting Articles"
   }
 };
+
+module.exports.personalityUiStrings = {
+  birthplace: {
+    en: "Birthplace",
+    hi: "जन्मस्थान",
+    ta: "பிறந்த இடம்"
+  },
+  otherNames: {
+    en: "Other Names",
+    hi: "अन्य नाम",
+    ta: "வேறு பெயர்கள்"
+  },
+  about: {
+    en: "About",
+    hi: "इनके बारे में",
+    ta: "விவரம்"
+  },
+  fullName: {
+    en: "Full Name",
+    hi: "पूरा नाम",
+    ta: "முழுப் பெயர்"
+  },
+  bornOn: {
+    en: "Born on",
+    hi: "जन्मतिथि",
+    ta: "பிறந்த தேதி"
+  },
+  age: {
+    en: "Age",
+    hi: "आयु",
+    ta: "வயது"
+  },
+  height: {
+    en: "Height",
+    hi: "ऊंचाई",
+    ta: "உயரம்"
+  },
+  nationality: {
+    en: "Nationality",
+    hi: "राष्ट्रीयता",
+    ta: "சொந்த நாடு"
+  },
+  role: {
+    en: "Role",
+    hi: "भूमिका",
+    ta: "இவரின் பங்கு"
+  },
+  family: {
+    en: "Family",
+    hi: "परिवार",
+    ta: "குடும்பம்"
+  },
+  education: {
+    en: "Education",
+    hi: "शिक्षा",
+    ta: "கல்வி"
+  },
+  styleOfPlay: {
+    en: "Style of Play",
+    hi: "खेलने की शैली",
+    ta: "விளையாட்டின் பாணி"
+  },
+  phases: {
+    en: "Phases",
+    hi: "दौर",
+    ta: "படிநிலைகள்"
+  },
+  achievementsAndRecords: {
+    en: "Achievement & Records",
+    hi: "उपलब्धि और रिकॉर्ड",
+    ta: "சாதனைகள்"
+  },
+  teams: {
+    en: "Teams",
+    hi: "टीमें",
+    ta: "அணிகள்"
+  },
+  awardsAndHonors: {
+    en: "Awards & Honors",
+    hi: "पुरस्कार और सम्मान",
+    ta: "விருதுகள் & கௌரவங்கள்"
+  }
+};

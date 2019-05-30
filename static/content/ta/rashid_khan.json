@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "விவரம்",
       "cardType": "table",
       "facts": [
         {
-          "label": "Full Name",
+          "label": "முழுப் பெயர்",
           "value": {
             "label": "ரஷீத் கான் அர்மான்"
           }
         },
         {
-          "label": "Born On",
+          "label": "பிறந்த தேதி",
           "value": {
-            "label": "Invalid Date (age 20)"
+            "label": "Invalid Date (வயது 20)"
           }
         },
         {
-          "label": "Birthplace",
+          "label": "பிறந்த இடம்",
           "value": {
             "label": "நங்கர்ஹார், ஆப்கானிஸ்தான்",
             "url": "https://en.wikipedia.org/wiki/Nangarhar_Province",
@@ -44,19 +44,19 @@
           }
         },
         {
-          "label": "Height",
+          "label": "உயரம்",
           "value": {
             "label": ""
           }
         },
         {
-          "label": "Nationality",
+          "label": "சொந்த நாடு",
           "value": {
             "label": "ஆஃப்கன்"
           }
         },
         {
-          "label": "Role",
+          "label": "இவரின் பங்கு",
           "value": {
             "label": "வலதுகை லெக்ஸ்பின்"
           }
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "LzpNNywjZx7",
+      "title": "விளையாட்டின் பாணி",
+      "id": "Fu1nbcd9Hph",
       "cardType": "simple",
       "facts": [
         {
@@ -77,12 +77,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "படிநிலைகள்",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "FfMIflxasTB",
+          "id": "A_9cklQDDBi",
           "note": "",
           "value": {
             "label": ""
@@ -90,7 +90,7 @@
         },
         {
           "label": "தேசிய அணி அறிமுகம்",
-          "id": "kAS-xu2aZ7C",
+          "id": "gyil1raSMg9",
           "note": "",
           "value": {
             "label": "அவர், 2015 அக்டோபர் 18 அன்று ஆப்கானிஸ்தானுக்காக ஜிம்பாப்வேக்கு எதிராகத் தன்னுடைய முதல் சர்வதேச ஒருநாள் போட்டியில் ஆடினார்."
@@ -98,7 +98,7 @@
         },
         {
           "label": "முதல் ஐசிசி போட்டி ",
-          "id": "0wrbeFT0zM2",
+          "id": "838r9v90-r9",
           "note": "",
           "value": {
             "label": "2019 ஏப்ரல் மாதம், 2019 உலகக் கோப்பையில் ஆப்கானிஸ்தான் அணியில் அவர் பெயர் இடம்பெற்றது."
@@ -106,7 +106,7 @@
         },
         {
           "label": "2017",
-          "id": "qqsRQYb0gNb",
+          "id": "aSkm-74xUWf",
           "note": "சன்ரைசர்ஸ் ஹைதராபாத்",
           "value": {
             "label": "சன்ரைசர்ஸ் ஹைதராபாத்",
@@ -115,7 +115,7 @@
                 "url": "/read/ta/sunrisers_hyderabad",
                 "contentUrl": "/static/content/ta/sunrisers_hyderabad.json",
                 "label": "Sunrisers Hyderabad",
-                "id": "qFQ9Znx1yrb",
+                "id": "qgwZFAgykdw",
                 "value": {
                   "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
                   "image": {
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "சாதனைகள்",
       "cardType": "stories",
       "facts": [
         {
@@ -191,18 +191,18 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "அணிகள்",
       "cardType": "list_card",
       "facts": [
         {
           "label": "ஆப்கானிஸ்தான் தேசிய கிரிக்கெட் அணி (2015 முதல் தற்போது வரை)",
-          "id": "mJMug_cOWTZ",
+          "id": "0alqk44-YyL",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Afghanistan national cricket team",
-                "id": "Q2VrFXmV9Ta",
+                "id": "dwVjYgQPRGt",
                 "url": "/read/ta/afghanistan_national_cricket_team",
                 "contentUrl": "/static/content/ta/afghanistan_national_cricket_team.json",
                 "value": {
@@ -218,13 +218,13 @@
         },
         {
           "label": "சன்ரைசர்ஸ் ஹைதராபாத் (2017 முதல் தற்போது வரை)",
-          "id": "nzsS_fZzPfH",
+          "id": "DNpo-q9Uida",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Sunrisers Hyderabad",
-                "id": "uo0fDeCP0Oq",
+                "id": "3NmbvNQ3ZV5",
                 "url": "/read/ta/sunrisers_hyderabad",
                 "contentUrl": "/static/content/ta/sunrisers_hyderabad.json",
                 "value": {
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "title": "Awards & Honors",
+      "title": "விருதுகள் & கௌரவங்கள்",
       "cardType": "tag_card",
       "facts": [
         {

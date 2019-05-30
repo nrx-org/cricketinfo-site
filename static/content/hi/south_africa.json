@@ -140,6 +140,25 @@
       ]
     },
     {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "दक्षिण अफ्रीका की राष्ट्रीय क्रिकेट टीम",
+            "url": "/read/hi/south_africa_national_cricket_team",
+            "contentUrl": "/static/content/hi/south_africa_national_cricket_team.json",
+            "image": {
+              "url": "/static/images/south_africa/Southafrica_cricket_logo.svg",
+              "altText": "Picture of दक्षिण अफ्रीका की राष्ट्रीय क्रिकेट टीम"
+            }
+          }
+        }
+      ]
+    },
+    {
       "title": "Geography",
       "id": "south_africa_geography",
       "cardType": "simple",

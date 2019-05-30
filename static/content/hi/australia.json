@@ -141,6 +141,25 @@
       ]
     },
     {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "ऑस्ट्रेलिया क्रिकेट टीम",
+            "url": "/read/hi/australia_cricket_team",
+            "contentUrl": "/static/content/hi/australia_cricket_team.json",
+            "image": {
+              "url": "/static/images/australia/Australia_cricket_logo.svg",
+              "altText": "Picture of ऑस्ट्रेलिया क्रिकेट टीम"
+            }
+          }
+        }
+      ]
+    },
+    {
       "title": "Geography",
       "id": "australia_geography",
       "cardType": "simple",

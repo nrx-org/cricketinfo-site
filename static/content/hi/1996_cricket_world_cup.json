@@ -39,16 +39,16 @@
           "label": "Champion",
           "value": {
             "label": "श्रीलंका (पहला खिताब)",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/hi/sri_lanka_national_cricket_team",
+            "contentUrl": "/static/content/hi/sri_lanka_national_cricket_team.json"
           }
         },
         {
           "label": "Runners Up",
           "value": {
             "label": "ऑस्ट्रेलिया",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/hi/australia_cricket_team",
+            "contentUrl": "/static/content/hi/australia_cricket_team.json"
           }
         },
         {
@@ -159,7 +159,20 @@
           "id": "final-positions-champion",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "श्रीलंका की राष्ट्रीय क्रिकेट टीम",
+                "url": "/read/hi/sri_lanka_national_cricket_team",
+                "contentUrl": "/static/content/hi/sri_lanka_national_cricket_team.json",
+                "value": {
+                  "label": "श्रीलंका की राष्ट्रीय क्रिकेट टीम, जिसे 'द लायंस' के नाम से भी जाना जाता है। यह अंतरराष्ट्रीय क्रिकेट में श्रीलंका का प्रतिनिधित्व करती है। यह टेस्ट, एकदिवसीय अंतरराष्ट्रीय (ओडीआई) और टी-20 अंतरराष्ट्रीय (टी20आई) में अंतरराष्ट्रीय क्रिकेट परिषद (आईसीसी) का पूर्ण सदस्य देश है।",
+                  "image": {
+                    "url": "/static/images/1996_cricket_world_cup/Sri_Lanka_Cricket_Cap_Insignia.svg",
+                    "altText": "Picture of श्रीलंका की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -167,7 +180,20 @@
           "id": "final-positions-runner-up",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "ऑस्ट्रेलिया क्रिकेट टीम",
+                "url": "/read/hi/australia_cricket_team",
+                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "value": {
+                  "label": "ऑस्ट्रेलिया की राष्ट्रीय क्रिकेट टीम टेस्ट क्रिकेट इतिहास की संयुक्त सबसे पुरानी टीम है, जिसने 1877 में पहली बार टेस्ट मैच खेला था।",
+                  "image": {
+                    "url": "/static/images/1996_cricket_world_cup/Australia_cricket_logo.svg",
+                    "altText": "Picture of श्रीलंका की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
           }
         }
       ]

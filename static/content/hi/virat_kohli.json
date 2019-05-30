@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इनके बारे में",
       "cardType": "table",
       "facts": [
         {
-          "label": "Full Name",
+          "label": "पूरा नाम",
           "value": {
             "label": "विराट कोहली"
           }
         },
         {
-          "label": "Born On",
+          "label": "जन्मतिथि",
           "value": {
-            "label": "05 Nov 1988 (age 31)"
+            "label": "05 Nov 1988 (आयु 31)"
           }
         },
         {
-          "label": "Birthplace",
+          "label": "जन्मस्थान",
           "value": {
             "label": "दिल्ली, भारत",
             "url": "https://en.wikipedia.org/wiki/Delhi",
@@ -44,25 +44,25 @@
           }
         },
         {
-          "label": "Height",
+          "label": "ऊंचाई",
           "value": {
             "label": "5 फीट 9 इंच (1.75 मीटर)"
           }
         },
         {
-          "label": "Other Names",
+          "label": "अन्य नाम",
           "value": {
             "label": "चीकू"
           }
         },
         {
-          "label": "Nationality",
+          "label": "राष्ट्रीयता",
           "value": {
             "label": "भारतीय"
           }
         },
         {
-          "label": "Role",
+          "label": "भूमिका",
           "value": {
             "label": "बल्लेबाज"
           }
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "title": "Family",
+      "title": "परिवार",
       "cardType": "avatar",
       "facts": [
         {
@@ -88,8 +88,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "PZMttKXh0N",
+      "title": "खेलने की शैली",
+      "id": "pEpOeXlI6o",
       "cardType": "simple",
       "facts": [
         {
@@ -105,12 +105,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "दौर",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": "1nITmfSkj9C",
+          "id": "ITy0o00kvKI",
           "note": "2006",
           "value": {
             "label": "18 वर्ष की आयु में कोहली ने 2006 में दिल्ली की ओर से तमिलनाडु के विरुद्ध प्रथम श्रेणी क्रिकेट में पदार्पण किया। "
@@ -118,15 +118,30 @@
         },
         {
           "label": "राष्ट्रीय टीम ",
-          "id": "XG8eTNosS-K",
+          "id": "QjCo4X2deCB",
           "note": "2008",
           "value": {
-            "label": "कोहली को भारत के ओडीआई दल में 2008 के श्रीलंका और पाकिस्तान में खेले गए चैंपियंस ट्रॉफी के दौरे में शामिल किया गया। "
+            "label": "कोहली को भारत के ओडीआई दल में 2008 के श्रीलंका और पाकिस्तान में खेले गए चैंपियंस ट्रॉफी के दौरे में शामिल किया गया। ",
+            "facts": [
+              {
+                "url": "/read/hi/sri_lanka_national_cricket_team",
+                "contentUrl": "/static/content/hi/sri_lanka_national_cricket_team.json",
+                "label": "श्रीलंका की राष्ट्रीय क्रिकेट टीम",
+                "id": "gSuXkiLB-Ud",
+                "value": {
+                  "label": "श्रीलंका की राष्ट्रीय क्रिकेट टीम, जिसे 'द लायंस' के नाम से भी जाना जाता है। यह अंतरराष्ट्रीय क्रिकेट में श्रीलंका का प्रतिनिधित्व करती है। यह टेस्ट, एकदिवसीय अंतरराष्ट्रीय (ओडीआई) और टी-20 अंतरराष्ट्रीय (टी20आई) में अंतरराष्ट्रीय क्रिकेट परिषद (आईसीसी) का पूर्ण सदस्य देश है।",
+                  "image": {
+                    "url": "/static/images/virat_kohli/Sri_Lanka_Cricket_Cap_Insignia.svg",
+                    "altText": "Image of श्रीलंका की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "विश्व कप",
-          "id": "JM9QL7wx3wB",
+          "id": "2ur6dM2WYut",
           "note": "2008",
           "value": {
             "label": "मलेशिया में आयोजित 2018 के आईसीसी अंडर-19 क्रिकेट विश्व कप में कोहली ने विजेता भारतीय टीम की कप्तानी की।   "
@@ -134,7 +149,7 @@
         },
         {
           "label": "विश्व कप उपस्थिति\n",
-          "id": "BSYGptvZiNs",
+          "id": "iKI6xb6nLBg",
           "note": "2011",
           "value": {
             "label": "2011 के विश्व कप में भारत ने चैंपियनशिप जीतने में सफलता प्राप्त की और कोहली टुर्नामेंट के प्रत्येक मैचों में भारतीय टीम के लिए खेले। "
@@ -142,7 +157,7 @@
         },
         {
           "label": "चैंपियंस ट्रॉफी ",
-          "id": "ScabA62m7N6",
+          "id": "MZV_lnrVAo1",
           "note": "2013",
           "value": {
             "label": "जून 2013 में कोहली ने आईसीसी चैंपियंस ट्रॉफी में शिरकत की जिसे भारत ने जीता था।",
@@ -151,7 +166,7 @@
                 "url": "/read/hi/icc_champions_trophy",
                 "contentUrl": "/static/content/hi/icc_champions_trophy.json",
                 "label": "आईसीसी चैंपियंस ट्रॉफी",
-                "id": "7ZlVtF939Q8",
+                "id": "AGbTUIbAQVW",
                 "value": {
                   "label": "आईसीसी चैंपियंस ट्रॉफी एक दिवसीय अंतर्राष्ट्रीय (वनडे) क्रिकेट टूर्नामेंट था जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया जाता था, जो क्रिकेट विश्व कप के बाद दूसरा सबसे महत्वपूर्ण आयोजन था। 2002 में इसका नाम बदलकर चैंपियंस ट्रॉफी रखा गया।",
                   "image": {
@@ -165,7 +180,7 @@
         },
         {
           "label": "टी 20 विश्व कप ",
-          "id": "Vsl_hYtys3-",
+          "id": "qUQaC83tybU",
           "note": "2014 के आईसीसी विश्व ट्वेंटी 20 में कोहली को उप-कप्तान नियुक्त किया गया था। ",
           "value": {
             "label": "टी 20 विश्व कप ",
@@ -174,7 +189,7 @@
                 "url": "/read/hi/icc_t20_world_cup",
                 "contentUrl": "/static/content/hi/icc_t20_world_cup.json",
                 "label": "आईसीसी टी20 विश्व कप",
-                "id": "kKCT0gJS4DV",
+                "id": "Amj6uyb77v1",
                 "value": {
                   "label": "आईसीसी टी20 विश्व कप (जिसे पहले आईसीसी विश्व ट्वेंटी20 के नाम से जाना जाता था) ट्वेंटी20 क्रिकेट की अंतर्राष्ट्रीय चैम्पियनशिप है। वर्तमान में इस टूर्नामेंट में 16 टीमें भाग लेती हैं, जिसमें आठ टीमें दी गई समय सीमा के भीतर रैंकिंग के शीर्ष आठ में रहने वाली टीमें होती हैं जबकि चार अन्य टीमें टी20 विश्व कप क्वालीफायर के माध्यम से चुनी जातीं हैं।",
                   "image": {
@@ -188,16 +203,31 @@
         },
         {
           "label": "IPL डेब्यू",
-          "id": "qR4-Li9WOjg",
+          "id": "SJ88NWvc3kp",
           "note": "2008",
           "value": {
-            "label": "मार्च 2008 में कोहली को युवा अनुबंध के तौर पर रॉयल चैलेंजर्स बंगलुरु ने 30 हजार डॉलर में खरीदा। "
+            "label": "मार्च 2008 में कोहली को युवा अनुबंध के तौर पर रॉयल चैलेंजर्स बंगलुरु ने 30 हजार डॉलर में खरीदा। ",
+            "facts": [
+              {
+                "url": "/read/hi/royal_challengers_bangalore",
+                "contentUrl": "/static/content/hi/royal_challengers_bangalore.json",
+                "label": "रॉयल चैलेंजर्स बैंगलोर",
+                "id": "Uqqk0R8pf8D",
+                "value": {
+                  "label": "रॉयल चैलेंजर्स बैंगलोर, बैंगलोर,कर्नाटक में स्थित एक फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में खेलती है।",
+                  "image": {
+                    "url": "/static/images/virat_kohli/Royal_Challengers_Bangalore_Logo_2016.svg",
+                    "altText": "Image of रॉयल चैलेंजर्स बैंगलोर"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "उपलब्धि और रिकॉर्ड",
       "cardType": "stories",
       "facts": [
         {
@@ -261,26 +291,56 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "टीमें",
       "cardType": "list_card",
       "facts": [
         {
           "label": "भारतीय राष्ट्रीय क्रिकेट टीम (2008-अब तक )",
-          "id": "fzP1wQLlR",
+          "id": "1Bi7OBsvr",
           "value": {
-            "label": "भारत की राष्ट्रीय क्रिकेट टीम, जिसे टीम इंडिया और मैन इन ब्लू के नाम से भी जाना जाता है, भारतीय क्रिकेट कंट्रोल बोर्ड द्वारा संचालित है"
+            "label": "",
+            "facts": [
+              {
+                "label": "भारत की राष्ट्रीय क्रिकेट टीम",
+                "id": "vIjapdjIMi",
+                "url": "/read/hi/india_national_cricket_team",
+                "contentUrl": "/static/content/hi/india_national_cricket_team.json",
+                "value": {
+                  "label": "भारत की राष्ट्रीय क्रिकेट टीम को टीम इंडिया और मेन इन ब्लू के नाम से भी जाना जाता है। भारत को टेस्ट में पहला, वनडे में दूसरा और आईसीसी द्वारा टी20 में दूसरा स्थान मिला है। विराट कोहली टीम के वर्तमान कप्तान हैं जबकि मुख्य कोच रवि शास्त्री हैं।",
+                  "image": {
+                    "url": "/static/images/virat_kohli/Cricket_India_Crest.svg",
+                    "altText": "Picture of भारत की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "रॉयल चैलेंजर्स बैंगलोर (2008-अब तक)",
-          "id": "mj9ge3m5Bo",
+          "id": "LJyT__Wwlz",
           "value": {
-            "label": "रॉयल चैलेंजर्स बैंगलोर (आरसीबी) बैंगलोर, भारत की एक फ्रैंचाइज़ी क्रिकेट टीम है।"
+            "label": "",
+            "facts": [
+              {
+                "label": "रॉयल चैलेंजर्स बैंगलोर",
+                "id": "QCoqoPA3cm",
+                "url": "/read/hi/royal_challengers_bangalore",
+                "contentUrl": "/static/content/hi/royal_challengers_bangalore.json",
+                "value": {
+                  "label": "रॉयल चैलेंजर्स बैंगलोर, बैंगलोर,कर्नाटक में स्थित एक फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में खेलती है।",
+                  "image": {
+                    "url": "/static/images/virat_kohli/Royal_Challengers_Bangalore_Logo_2016.svg",
+                    "altText": "Picture of रॉयल चैलेंजर्स बैंगलोर"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "दिल्ली (2006-अब तक)",
-          "id": "LUxzvjsk6P",
+          "id": "2ejisAbpML",
           "value": {
             "label": "दिल्ली की घरेलू रणजी ट्रॉफी क्रिकेट टीम"
           }
@@ -288,7 +348,7 @@
       ]
     },
     {
-      "title": "Awards & Honors",
+      "title": "पुरस्कार और सम्मान",
       "cardType": "tag_card",
       "facts": [
         {

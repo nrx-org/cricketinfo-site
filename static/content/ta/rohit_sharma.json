@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "விவரம்",
       "cardType": "table",
       "facts": [
         {
-          "label": "Full Name",
+          "label": "முழுப் பெயர்",
           "value": {
             "label": "ரோஹித் குருநாத் ஷர்மா"
           }
         },
         {
-          "label": "Born On",
+          "label": "பிறந்த தேதி",
           "value": {
-            "label": "30 Apr 1987 (age 31)"
+            "label": "30 Apr 1987 (வயது 31)"
           }
         },
         {
-          "label": "Birthplace",
+          "label": "பிறந்த இடம்",
           "value": {
             "label": "நாக்பூர், இந்தியா",
             "url": "https://en.wikipedia.org/wiki/Nagpur",
@@ -44,19 +44,19 @@
           }
         },
         {
-          "label": "Height",
+          "label": "உயரம்",
           "value": {
             "label": "5 அடி 8 அங்குலம் (1.73 மீ)"
           }
         },
         {
-          "label": "Nationality",
+          "label": "சொந்த நாடு",
           "value": {
             "label": "இந்தியர்"
           }
         },
         {
-          "label": "Role",
+          "label": "இவரின் பங்கு",
           "value": {
             "label": "பேட்ஸ்மென்"
           }
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "கல்வி",
       "cardType": "avatar",
       "facts": [
         {
@@ -80,8 +80,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "oGNZmHN75J5",
+      "title": "விளையாட்டின் பாணி",
+      "id": "GuoSl-YPnPt",
       "cardType": "simple",
       "facts": [
         {
@@ -98,12 +98,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "படிநிலைகள்",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "nvCxiL7yy",
+          "id": "JJGg2Jt0aOF",
           "note": "2006",
           "value": {
             "label": "ஷர்மா, ரஞ்சி டிராஃபியில் ஆடுவதற்கு முன்னர், 2006 ஆம் ஆண்டு நியுசிலாந்து ஏ அணிக்கு எதிரான போட்டியில் இந்திய ஏ அணிக்காக தன்னுடைய முதல் பர்ஸ் கிளாஸ் போட்டியில் விளையாடினார்."
@@ -111,7 +111,7 @@
         },
         {
           "label": "தேசிய அணி அறிமுகம்",
-          "id": "QOqiTKTUAk",
+          "id": "_asNzUU0FAv",
           "note": "2007",
           "value": {
             "label": "ரோஹித் ஷர்மா அயர்லாந்துக்கு எதிராக தன்னுடைய முதல் சர்வதேச ஒரு நாள் போட்டியில் ஆடினார், ஆனால் அந்தப் போட்டியில் அவர் பேட்டிங் செய்யவில்லை."
@@ -119,7 +119,7 @@
         },
         {
           "label": "முதல் ஐசிசி போட்டி ",
-          "id": "qf3ecc4kE1",
+          "id": "iVGYjn1MTfS",
           "note": "2007",
           "value": {
             "label": "ரோஹித் ஷர்மா 2007 ஐசிசி வேர்ல்டு ட்வென்டி20 தென்னாப்பிரிக்காவுக்கு எதிரான போட்டியில் அவுட் ஆகாமல் 50 ரன்கள் எடுத்து இந்தியாவின் முக்கியமான வெற்றிக்கு வழிவகுத்தார், இந்த வெற்றி இந்தியாவை அரையிறுதிப் போட்டிக்கு முன்னேறச் செய்தது.",
@@ -128,7 +128,7 @@
                 "url": "/read/ta/icc_t20_world_cup",
                 "contentUrl": "/static/content/ta/icc_t20_world_cup.json",
                 "label": "ஐசிசி டி20 உலகக் கோப்பை",
-                "id": "e8DNN3747G",
+                "id": "dilVYB1qT",
                 "value": {
                   "label": "ஐசிசி டி20 உலகக் கோப்பை (முன்னர் ஐசிசி வேர்ல்ட் ட்வென்டி20 என்று அழைக்கப்படும்), ட்வென்டி20 இன்டர்நேஷனல் கிரிக்கெட்டின் இன்டர்நேஷனல் சேம்பியன்ஷிப் ஆகும். டோர்னமென்ட்டில் தற்போது 16 அணிகள் இடம்பெற்றுள்ளன. அதில் கொடுக்கப்பட்ட நேரத்திற்குள் தரவரிசையில் முதல் எட்டு இடங்களைப் பிடித்த அணிகளும், டி20 உலகக் கோப்பை குவாலிஃபயர் மூலமாக தேர்வு செய்யப்பட்ட நான்கு அணிகளும் உள்ளடங்கும்.",
                   "image": {
@@ -142,7 +142,7 @@
         },
         {
           "label": "2013 ஐசிசி சாம்பியன்ஸ் டிராபி",
-          "id": "AfAKMcI3gi",
+          "id": "29d4Z1wamE",
           "note": "2013",
           "value": {
             "label": "2013 இல், சேம்பியன்ஸ் டிராஃபியில் ஷிகர் தவானுடன் இணைந்து இந்தியாவின் புதிய தொடக்க ஆட்டக்காரராக நியமிக்கப்பட்டார்.",
@@ -151,7 +151,7 @@
                 "url": "/read/ta/icc_champions_trophy",
                 "contentUrl": "/static/content/ta/icc_champions_trophy.json",
                 "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி",
-                "id": "gzVGHeQl9n",
+                "id": "hFOHovJ0Ac",
                 "value": {
                   "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி என்பது இன்டர்நேஷனல் கிரிக்கெட் கவுன்சிலால் (ஐசிசி) நடத்தப்படும் ஒன் டே இன்டர்நேஷனல் (ODI) கிரிக்கெட் டோர்னமென்ட் ஆகும். இது கிரிக்கெட் உலகக்கோப்பைக்கு அடுத்தபடியாக முக்கியமாக கருதப்படும் டோர்னமென்ட் ஆகும். 2002-ஆம் ஆண்டு இதன் பெயர் சேம்பியன்ஸ் டிராஃபி என்று மாற்றப்பட்டது.",
                   "image": {
@@ -165,7 +165,7 @@
         },
         {
           "label": "உலகக் கோப்பை",
-          "id": "14cFT6srVY",
+          "id": "Rgn3Y0OUXb",
           "note": "2015",
           "value": {
             "label": "",
@@ -174,7 +174,7 @@
                 "url": "/read/ta/2015_cricket_world_cup",
                 "contentUrl": "/static/content/ta/2015_cricket_world_cup.json",
                 "label": "2015 கிரிக்கெட் உலகக் கோப்பை",
-                "id": "VoSe_SvUEh",
+                "id": "blnI8_Rl_5",
                 "value": {
                   "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
                   "image": {
@@ -188,16 +188,31 @@
         },
         {
           "label": "2008",
-          "id": "FykYswCmgO",
+          "id": "HI8AxlUl8I",
           "note": "டெக்கான் சார்ஜர்ஸ்",
           "value": {
-            "label": "டெக்கான் சார்ஜர்ஸ்"
+            "label": "டெக்கான் சார்ஜர்ஸ்",
+            "facts": [
+              {
+                "url": "/read/ta/sunrisers_hyderabad",
+                "contentUrl": "/static/content/ta/sunrisers_hyderabad.json",
+                "label": "Sunrisers Hyderabad",
+                "id": "Gsvq97vREc",
+                "value": {
+                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "/static/images/rohit_sharma/Sunrisers_Hyderabad.svg",
+                    "altText": "Image of Sunrisers Hyderabad"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "சாதனைகள்",
       "cardType": "stories",
       "facts": [
         {
@@ -258,26 +273,56 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "அணிகள்",
       "cardType": "list_card",
       "facts": [
         {
           "label": "இந்திய கிரிக்கெட் அணி (2007 முதல் தற்போது வரை)",
-          "id": "NKe47DEycw",
+          "id": "nZm47QTKRq",
           "value": {
-            "label": "இந்திய கிரிக்கெட் அணி டீம் இந்தியா மற்றும் மென் இன் புளூ என்றும் அழைக்கப்படுகிறது. இந்திய கிரிக்கெட் கட்டுப்பாட்டு வாரியம் இதை நிர்வகிக்கிறது"
+            "label": "",
+            "facts": [
+              {
+                "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+                "id": "XZRb9Ntema",
+                "url": "/read/ta/india_national_cricket_team",
+                "contentUrl": "/static/content/ta/india_national_cricket_team.json",
+                "value": {
+                  "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
+                  "image": {
+                    "url": "/static/images/rohit_sharma/Cricket_India_Crest.svg",
+                    "altText": "Picture of இந்திய தேசிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "மும்பை இந்தியன்ஸ் (2011 முதல் தற்போது வரை)",
-          "id": "8itVvASJr8",
+          "id": "unk0UBEVol",
           "value": {
-            "label": "மும்பை இந்தியன்ஸ், இந்தியாவில் மும்பையைச் சேர்ந்த ஐபிஎல் கிரிக்கெட் அணி."
+            "label": "",
+            "facts": [
+              {
+                "label": "மும்பை இண்டியன்ஸ்",
+                "id": "aBBY5FLeTb",
+                "url": "/read/ta/mumbai_indians",
+                "contentUrl": "/static/content/ta/mumbai_indians.json",
+                "value": {
+                  "label": "மும்பை இண்டியன்ஸ், மகாராஷ்டிராவில் உள்ள மும்பை நகரத்தைத் தலைமையிடமாகக் கொண்ட ஒரு உரிமைபெற்ற கிரிக்கெட் அணி ஆகும். இது 2008 ஆம் ஆண்டு நிறுவப்பட்டது, மும்பை இண்டியன்ஸ் இண்டியன் பிரீமியர் லீகில் (ஐபிஎல்) விளையாடுவார்கள். இந்த அணி, இந்தியாவில் மிகப்பெரிய நிறுவனமான ரிலையன்ஸ் நிறுவனங்களுக்குச் சொந்தமானது.",
+                  "image": {
+                    "url": "/static/images/rohit_sharma/Mumbai_Indians_Logo.svg",
+                    "altText": "Picture of மும்பை இண்டியன்ஸ்"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "மும்பை (2006 முதல் தற்போது வரை)",
-          "id": "mpT1Rkvgga",
+          "id": "4kRwG_iIH-",
           "value": {
             "label": "மும்பையைச் சேர்ந்த உள்ளூர் ரஞ்சி டிராஃபி கிரிக்கெட் அணி"
           }
@@ -285,7 +330,7 @@
       ]
     },
     {
-      "title": "Awards & Honors",
+      "title": "விருதுகள் & கௌரவங்கள்",
       "cardType": "tag_card",
       "facts": [
         {

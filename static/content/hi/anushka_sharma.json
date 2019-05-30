@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इनके बारे में",
       "cardType": "table",
       "facts": [
         {
-          "label": "Full Name",
+          "label": "पूरा नाम",
           "value": {
             "label": "अनुष्का शर्मा"
           }
         },
         {
-          "label": "Born On",
+          "label": "जन्मतिथि",
           "value": {
-            "label": "01 May 1988 (age 31)"
+            "label": "01 May 1988 (आयु 31)"
           }
         },
         {
-          "label": "Birthplace",
+          "label": "जन्मस्थान",
           "value": {
             "label": "अयोध्या, भारत",
             "url": "https://en.wikipedia.org/wiki/Ayodhya",
@@ -44,19 +44,19 @@
           }
         },
         {
-          "label": "Height",
+          "label": "ऊंचाई",
           "value": {
             "label": ""
           }
         },
         {
-          "label": "Nationality",
+          "label": "राष्ट्रीयता",
           "value": {
             "label": "भारतीय"
           }
         },
         {
-          "label": "Role",
+          "label": "भूमिका",
           "value": {
             "label": ""
           }
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "title": "Family",
+      "title": "परिवार",
       "cardType": "avatar",
       "facts": [
         {
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "शिक्षा",
       "cardType": "avatar",
       "facts": [
         {
@@ -98,8 +98,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "DmRPn6TNhiQ",
+      "title": "खेलने की शैली",
+      "id": "ePNXhm5b8Wl",
       "cardType": "simple",
       "facts": [
         {
@@ -111,12 +111,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "दौर",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": "3sTvV-Rpie3",
+          "id": "q03_YODEmfJ",
           "note": "",
           "value": {
             "label": ""
@@ -124,7 +124,7 @@
         },
         {
           "label": "राष्ट्रीय टीम ",
-          "id": "DmLq1GO3dDJ",
+          "id": "ttYJCsChIR7",
           "note": "",
           "value": {
             "label": ""
@@ -132,7 +132,7 @@
         },
         {
           "label": "IPL डेब्यू",
-          "id": "Vpfxx17I5iT",
+          "id": "nglgw9So0HS",
           "note": "",
           "value": {
             "label": ""
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "उपलब्धि और रिकॉर्ड",
       "cardType": "stories",
       "facts": [
         {
@@ -202,12 +202,12 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "टीमें",
       "cardType": "list_card",
       "facts": []
     },
     {
-      "title": "Awards & Honors",
+      "title": "पुरस्कार और सम्मान",
       "cardType": "tag_card",
       "facts": []
     }

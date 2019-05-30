@@ -28,9 +28,9 @@
           }
         },
         {
-          "label": "Born On",
+          "label": "Born on",
           "value": {
-            "label": "Invalid Date (age 24)"
+            "label": "Invalid Date (Age 24)"
           }
         },
         {
@@ -62,8 +62,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "77mWZizowtX",
+      "title": "Style of Play",
+      "id": "x55kqVzJXS4",
       "cardType": "simple",
       "facts": [
         {
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "Phases",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "First class Debut",
-          "id": "upRGLnoNVmS",
+          "id": "sv6Z8WuQyPi",
           "note": "2014",
           "value": {
             "label": "Kuldeep Yadav plays first class Indian domestic cricket for Uttar Pradesh"
@@ -88,7 +88,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "kngj-CjHH5e",
+          "id": "TOEuEOUFRsS",
           "note": "2017",
           "value": {
             "label": "Yadav made his Test debut for India against Australia in 2017, at Dharamshala",
@@ -97,7 +97,7 @@
                 "url": "/read/en/australia_cricket_team",
                 "contentUrl": "/static/content/en/australia_cricket_team.json",
                 "label": "Australia Cricket team",
-                "id": "pHiQtv6TYld",
+                "id": "dHTqmLtf00_",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
@@ -111,7 +111,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "C0pBysdtHVi",
+          "id": "L0sAWC7R59C",
           "note": "",
           "value": {
             "label": ""
@@ -119,7 +119,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "xd-sMCc2EEp",
+          "id": "F5mhBVByBKi",
           "note": "2012",
           "value": {
             "label": "Yadav was a member of the Mumbai Indians squad in 2012",
@@ -128,7 +128,7 @@
                 "url": "/read/en/mumbai_indians",
                 "contentUrl": "/static/content/en/mumbai_indians.json",
                 "label": "Mumbai Indians",
-                "id": "Zyl-aSgrvj9",
+                "id": "G9V_rYG-js7",
                 "value": {
                   "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
                   "image": {
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "Achievement & Records",
       "cardType": "stories",
       "facts": [
         {
@@ -204,18 +204,18 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "Teams",
       "cardType": "list_card",
       "facts": [
         {
           "label": "Indian national cricket team (2017 - present)",
-          "id": "SVouEwotXT",
+          "id": "8JPx5Pkjd3",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "lZj2DJY3Ci",
+                "id": "zfcg181Ylh",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -231,13 +231,13 @@
         },
         {
           "label": "Kolkata Knight Riders (2014 - present)",
-          "id": "kZfVaZSw7u",
+          "id": "LP4z9c4Zm_",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Kolkata Knight Riders",
-                "id": "bLrEXouQpk",
+                "id": "T-Hltgj_CO",
                 "url": "/read/en/kolkata_knight_riders",
                 "contentUrl": "/static/content/en/kolkata_knight_riders.json",
                 "value": {
@@ -253,7 +253,7 @@
         },
         {
           "label": "Uttar Pradesh (2014 - present)",
-          "id": "ul2Vp0Gqe8",
+          "id": "pxwQ4JipPY",
           "value": {
             "label": "The Uttar Pradesh cricket team, is a domestic team based in the Indian state of Uttar Pradesh with Kanpur as its home ground"
           }

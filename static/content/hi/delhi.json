@@ -82,6 +82,25 @@
       ]
     },
     {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "देल्ही कैपिटल्स",
+            "url": "/read/hi/delhi_capitals",
+            "contentUrl": "/static/content/hi/delhi_capitals.json",
+            "image": {
+              "url": "/static/images/delhi/Delhi_Capitals_Logo.svg",
+              "altText": "Picture of देल्ही कैपिटल्स"
+            }
+          }
+        }
+      ]
+    },
+    {
       "title": "Geography",
       "id": "delhi_geography",
       "cardType": "simple",

@@ -31,9 +31,9 @@
           }
         },
         {
-          "label": "Born On",
+          "label": "Born on",
           "value": {
-            "label": "Invalid Date (age 31)"
+            "label": "Invalid Date (Age 31)"
           }
         },
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "Education",
       "cardType": "avatar",
       "facts": [
         {
@@ -81,8 +81,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "qhRuAffDP",
+      "title": "Style of Play",
+      "id": "N6bv5bfyP",
       "cardType": "simple",
       "facts": [
         {
@@ -99,12 +99,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "Phases",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "First class Debut",
-          "id": "dJRzeIdFc",
+          "id": "cSCfDysyT",
           "note": "",
           "value": {
             "label": ""
@@ -112,7 +112,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "6WsAM0BZ6j",
+          "id": "mJ-590ga6O",
           "note": "",
           "value": {
             "label": "Rahim was selected for Bangladesh's tour of England in 2005. It was Bangladesh's first tour of England.",
@@ -121,7 +121,7 @@
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "label": "England cricket team",
-                "id": "PPFnvFC2rd",
+                "id": "BHb6UcO2WB",
                 "value": {
                   "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
                   "image": {
@@ -135,7 +135,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "l0sCcC_mzA",
+          "id": "JJM4E4rkni",
           "note": "2007",
           "value": {
             "label": "His good performances led him to picked as the first-choice wicket-keeper ahead of Khaled Mashud for the World Cup in the West Indies.",
@@ -144,7 +144,7 @@
                 "url": "/read/en/2007_cricket_world_cup",
                 "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
                 "label": "2007 Cricket World Cup",
-                "id": "tAMPb18QVd",
+                "id": "2AsQ2b6iGn",
                 "value": {
                   "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
                   "image": {
@@ -158,7 +158,7 @@
         },
         {
           "label": "2011 World Cup",
-          "id": "q4XC0BIgE4",
+          "id": "sgWZ-9QEsX",
           "note": "2011",
           "value": {
             "label": "Rahim was included in Bangladesh's 15-man squad for the 2011 World Cup. Bangladesh were knocked out in the group stage and Rahim had a poor tournament personally.",
@@ -167,7 +167,7 @@
                 "url": "/read/en/2011_cricket_world_cup",
                 "contentUrl": "/static/content/en/2011_cricket_world_cup.json",
                 "label": "2011 Cricket World Cup",
-                "id": "S_HqrQVDuH",
+                "id": "ps6weswmnk",
                 "value": {
                   "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
                   "image": {
@@ -181,7 +181,7 @@
         },
         {
           "label": "2019 World Cup",
-          "id": "ZMeIYlbw8o",
+          "id": "EJ-HCrpJIB",
           "note": "2019",
           "value": {
             "label": "In April 2019, he was named in Bangladesh's squad for the 2019 Cricket World Cup."
@@ -189,7 +189,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "tVN1sS1Etl",
+          "id": "3L7rUELuD-",
           "note": "",
           "value": {
             "label": ""
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "Achievement & Records",
       "cardType": "stories",
       "facts": [
         {
@@ -259,18 +259,18 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "Teams",
       "cardType": "list_card",
       "facts": [
         {
           "label": "Bangladesh Cricket team (2004- present)",
-          "id": "hHP0efM5hB",
+          "id": "RnsgN0YGnl",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Bangladesh national cricket team",
-                "id": "MOLlm3RqAX",
+                "id": "BDlOboViV",
                 "url": "/read/en/bangladesh_national_cricket_team",
                 "contentUrl": "/static/content/en/bangladesh_national_cricket_team.json",
                 "value": {

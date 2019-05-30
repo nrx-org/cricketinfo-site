@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "விவரம்",
       "cardType": "table",
       "facts": [
         {
-          "label": "Full Name",
+          "label": "முழுப் பெயர்",
           "value": {
             "label": "அனுஷ்கா ஷர்மா"
           }
         },
         {
-          "label": "Born On",
+          "label": "பிறந்த தேதி",
           "value": {
-            "label": "01 May 1988 (age 31)"
+            "label": "01 May 1988 (வயது 31)"
           }
         },
         {
-          "label": "Birthplace",
+          "label": "பிறந்த இடம்",
           "value": {
             "label": "அயோத்யா, இந்தியா",
             "url": "https://en.wikipedia.org/wiki/Ayodhya",
@@ -44,19 +44,19 @@
           }
         },
         {
-          "label": "Height",
+          "label": "உயரம்",
           "value": {
             "label": ""
           }
         },
         {
-          "label": "Nationality",
+          "label": "சொந்த நாடு",
           "value": {
             "label": "இந்தியர்"
           }
         },
         {
-          "label": "Role",
+          "label": "இவரின் பங்கு",
           "value": {
             "label": ""
           }
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "title": "Family",
+      "title": "குடும்பம்",
       "cardType": "avatar",
       "facts": [
         {
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "கல்வி",
       "cardType": "avatar",
       "facts": [
         {
@@ -98,8 +98,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "_kiIcTQH6bT",
+      "title": "விளையாட்டின் பாணி",
+      "id": "NpqDzxhkdq",
       "cardType": "simple",
       "facts": [
         {
@@ -111,12 +111,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "படிநிலைகள்",
       "cardType": "vertical_timeline",
       "facts": []
     },
     {
-      "title": "Achievements & Records",
+      "title": "சாதனைகள்",
       "cardType": "stories",
       "facts": [
         {
@@ -177,12 +177,12 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "அணிகள்",
       "cardType": "list_card",
       "facts": []
     },
     {
-      "title": "Awards & Honors",
+      "title": "விருதுகள் & கௌரவங்கள்",
       "cardType": "tag_card",
       "facts": []
     }

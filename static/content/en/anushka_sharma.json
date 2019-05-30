@@ -30,9 +30,9 @@
           }
         },
         {
-          "label": "Born On",
+          "label": "Born on",
           "value": {
-            "label": "01 May 1988 (age 31)"
+            "label": "01 May 1988 (Age 31)"
           }
         },
         {
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "Education",
       "cardType": "avatar",
       "facts": [
         {
@@ -98,8 +98,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "q4aXEzEaenH",
+      "title": "Style of Play",
+      "id": "nOX7opXI0Eg",
       "cardType": "simple",
       "facts": [
         {
@@ -111,12 +111,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "Phases",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "First class Debut",
-          "id": "_2eoFt1jVrm",
+          "id": "uCRCBynfTNi",
           "note": "",
           "value": {
             "label": ""
@@ -124,7 +124,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "wp3hJ4bF7t5",
+          "id": "_8-syR7CHvR",
           "note": "",
           "value": {
             "label": ""
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "Achievement & Records",
       "cardType": "stories",
       "facts": [
         {
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "Teams",
       "cardType": "list_card",
       "facts": []
     },

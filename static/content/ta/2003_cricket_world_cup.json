@@ -39,16 +39,16 @@
           "label": "Champion",
           "value": {
             "label": "ஆஸ்திரேலியா (2வது டைட்டில்)",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/ta/australia_cricket_team",
+            "contentUrl": "/static/content/ta/australia_cricket_team.json"
           }
         },
         {
           "label": "Runners Up",
           "value": {
             "label": "இந்தியா",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/ta/india_national_cricket_team",
+            "contentUrl": "/static/content/ta/india_national_cricket_team.json"
           }
         },
         {
@@ -134,7 +134,20 @@
           "id": "final-positions-champion",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+                "url": "/read/ta/australia_cricket_team",
+                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "value": {
+                  "label": "ஆஸ்திரேலிய தேசிய கிரிக்கெட் அணி 1877 ஆம் ஆண்டு நடைபெற்ற முதன்முதல் டெஸ்ட் போட்டியில் விளையாடிய, ஒரு மிகப் பழமையான அணியாகும்.",
+                  "image": {
+                    "url": "/static/images/2003_cricket_world_cup/Australia_cricket_logo.svg",
+                    "altText": "Picture of ஆஸ்திரேலிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -142,7 +155,20 @@
           "id": "final-positions-runner-up",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+                "url": "/read/ta/india_national_cricket_team",
+                "contentUrl": "/static/content/ta/india_national_cricket_team.json",
+                "value": {
+                  "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
+                  "image": {
+                    "url": "/static/images/2003_cricket_world_cup/Cricket_India_Crest.svg",
+                    "altText": "Picture of ஆஸ்திரேலிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
           }
         }
       ]

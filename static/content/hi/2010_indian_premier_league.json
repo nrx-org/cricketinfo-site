@@ -39,16 +39,16 @@
           "label": "Champion",
           "value": {
             "label": "चेन्नई सुपर किंग्स (पहला खिताब)",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/hi/chennai_super_kings",
+            "contentUrl": "/static/content/hi/chennai_super_kings.json"
           }
         },
         {
           "label": "Runners Up",
           "value": {
             "label": "मुंबई इंडियंस",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/hi/mumbai_indians",
+            "contentUrl": "/static/content/hi/mumbai_indians.json"
           }
         },
         {
@@ -146,7 +146,20 @@
           "id": "final-positions-champion",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "चेन्नई सुपर किंग्स",
+                "url": "/read/hi/chennai_super_kings",
+                "contentUrl": "/static/content/hi/chennai_super_kings.json",
+                "value": {
+                  "label": "2008 में स्थापित चेन्नई सुपर किंग्स (सीएसके) चेन्नई, तमिलनाडु में स्थित एक भारतीय फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में खेलती है।",
+                  "image": {
+                    "url": "/static/images/2010_indian_premier_league/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Picture of चेन्नई सुपर किंग्स"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -154,7 +167,20 @@
           "id": "final-positions-runner-up",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "मुंबई इंडियंस",
+                "url": "/read/hi/mumbai_indians",
+                "contentUrl": "/static/content/hi/mumbai_indians.json",
+                "value": {
+                  "label": "मुंबई इंडियंस एक फ्रैंचाइज़ी क्रिकेट टीम है जो मुंबई शहर, महाराष्ट्र में स्थित है। 2008 में स्थापित मुंबई इंडियंस इंडियन प्रीमियर लीग (आईपीएल) में खेलती है। टीम का स्वामित्व भारत के सबसे बड़े समूह रिलायंस इंडस्ट्रीज के पास है।",
+                  "image": {
+                    "url": "/static/images/2010_indian_premier_league/Mumbai_Indians_Logo.svg",
+                    "altText": "Picture of चेन्नई सुपर किंग्स"
+                  }
+                }
+              }
+            ]
           }
         }
       ]

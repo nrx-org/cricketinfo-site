@@ -88,6 +88,25 @@
       ]
     },
     {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "मुंबई इंडियंस",
+            "url": "/read/hi/mumbai_indians",
+            "contentUrl": "/static/content/hi/mumbai_indians.json",
+            "image": {
+              "url": "/static/images/mumbai/Mumbai_Indians_Logo.svg",
+              "altText": "Picture of मुंबई इंडियंस"
+            }
+          }
+        }
+      ]
+    },
+    {
       "title": "Geography",
       "id": "mumbai_geography",
       "cardType": "simple",

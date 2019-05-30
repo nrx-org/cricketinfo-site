@@ -141,6 +141,25 @@
       ]
     },
     {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "New Zealand national cricket team",
+            "url": "/read/ta/new_zealand_national_cricket_team",
+            "contentUrl": "/static/content/ta/new_zealand_national_cricket_team.json",
+            "image": {
+              "url": "/static/images/new_zealand/New_Zealand_Cricket_Cap_Insignia.svg",
+              "altText": "Picture of New Zealand national cricket team"
+            }
+          }
+        }
+      ]
+    },
+    {
       "title": "Geography",
       "id": "new_zealand_geography",
       "cardType": "simple",

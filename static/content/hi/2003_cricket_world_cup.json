@@ -39,16 +39,16 @@
           "label": "Champion",
           "value": {
             "label": "ऑस्ट्रेलिया (तीसरा खिताब)",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/hi/australia_cricket_team",
+            "contentUrl": "/static/content/hi/australia_cricket_team.json"
           }
         },
         {
           "label": "Runners Up",
           "value": {
             "label": "भारत",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/hi/india_national_cricket_team",
+            "contentUrl": "/static/content/hi/india_national_cricket_team.json"
           }
         },
         {
@@ -134,7 +134,20 @@
           "id": "final-positions-champion",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "ऑस्ट्रेलिया क्रिकेट टीम",
+                "url": "/read/hi/australia_cricket_team",
+                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "value": {
+                  "label": "ऑस्ट्रेलिया की राष्ट्रीय क्रिकेट टीम टेस्ट क्रिकेट इतिहास की संयुक्त सबसे पुरानी टीम है, जिसने 1877 में पहली बार टेस्ट मैच खेला था।",
+                  "image": {
+                    "url": "/static/images/2003_cricket_world_cup/Australia_cricket_logo.svg",
+                    "altText": "Picture of ऑस्ट्रेलिया क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -142,7 +155,20 @@
           "id": "final-positions-runner-up",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "भारत की राष्ट्रीय क्रिकेट टीम",
+                "url": "/read/hi/india_national_cricket_team",
+                "contentUrl": "/static/content/hi/india_national_cricket_team.json",
+                "value": {
+                  "label": "भारत की राष्ट्रीय क्रिकेट टीम को टीम इंडिया और मेन इन ब्लू के नाम से भी जाना जाता है। भारत को टेस्ट में पहला, वनडे में दूसरा और आईसीसी द्वारा टी20 में दूसरा स्थान मिला है। विराट कोहली टीम के वर्तमान कप्तान हैं जबकि मुख्य कोच रवि शास्त्री हैं।",
+                  "image": {
+                    "url": "/static/images/2003_cricket_world_cup/Cricket_India_Crest.svg",
+                    "altText": "Picture of ऑस्ट्रेलिया क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
           }
         }
       ]

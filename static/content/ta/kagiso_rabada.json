@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "விவரம்",
       "cardType": "table",
       "facts": [
         {
-          "label": "Full Name",
+          "label": "முழுப் பெயர்",
           "value": {
             "label": "காகிசோ ரபாடா"
           }
         },
         {
-          "label": "Born On",
+          "label": "பிறந்த தேதி",
           "value": {
-            "label": "Invalid Date (age 23)"
+            "label": "Invalid Date (வயது 23)"
           }
         },
         {
-          "label": "Birthplace",
+          "label": "பிறந்த இடம்",
           "value": {
             "label": "ஜோஹன்னஸ்பெர்க், தென்னாப்பிரிக்கா",
             "url": "https://en.wikipedia.org/wiki/Johannesburg",
@@ -44,25 +44,25 @@
           }
         },
         {
-          "label": "Height",
+          "label": "உயரம்",
           "value": {
             "label": "6 அடி 1 அங்குலம்"
           }
         },
         {
-          "label": "Other Names",
+          "label": "வேறு பெயர்கள்",
           "value": {
             "label": "கேஜி"
           }
         },
         {
-          "label": "Nationality",
+          "label": "சொந்த நாடு",
           "value": {
             "label": "தென்னாப்பிரிக்கர்"
           }
         },
         {
-          "label": "Role",
+          "label": "இவரின் பங்கு",
           "value": {
             "label": "வலதுகை வேகப் பந்துவீச்சாளர்"
           }
@@ -70,8 +70,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "acIP5hrWJ80",
+      "title": "விளையாட்டின் பாணி",
+      "id": "8k8d56rfpAr",
       "cardType": "simple",
       "facts": [
         {
@@ -88,12 +88,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "படிநிலைகள்",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "VgzN2CzbIT",
+          "id": "lJtGoIh7z",
           "note": "2013",
           "value": {
             "label": "ரபாடா 2013 ஆம் ஆண்டு, சிஎஸ்ஏ புரொவின்ஷியல் ஒரு நாள் போட்டிகளில் கௌடெங்குக்காக பார்டர் அணிக்கு எதிராக தன்னுடைய முதல் பர்ஸ்ட் கிளாஸ் போட்டியை ஆடினார்."
@@ -101,15 +101,30 @@
         },
         {
           "label": "தேசிய அணி அறிமுகம்",
-          "id": "YfKkp4gTB5",
+          "id": "3E7Ib6_3hE",
           "note": "",
           "value": {
-            "label": "ரபாடா, 2014, நவம்பர் 5 அன்று ஆஸ்திரேலியாவுக்கு எதிரான போட்டியில் தென்னாப்பிரிக்காவுக்காகத் தன்னுடைய முதல் சர்வதேச டி20 போட்டியில் ஆடினார்."
+            "label": "ரபாடா, 2014, நவம்பர் 5 அன்று ஆஸ்திரேலியாவுக்கு எதிரான போட்டியில் தென்னாப்பிரிக்காவுக்காகத் தன்னுடைய முதல் சர்வதேச டி20 போட்டியில் ஆடினார்.",
+            "facts": [
+              {
+                "url": "/read/ta/australia_cricket_team",
+                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+                "id": "RzGYdSpjfN",
+                "value": {
+                  "label": "ஆஸ்திரேலிய தேசிய கிரிக்கெட் அணி 1877 ஆம் ஆண்டு நடைபெற்ற முதன்முதல் டெஸ்ட் போட்டியில் விளையாடிய, ஒரு மிகப் பழமையான அணியாகும்.",
+                  "image": {
+                    "url": "/static/images/kagiso_rabada/Australia_cricket_logo.svg",
+                    "altText": "Image of ஆஸ்திரேலிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "முதல் ஐசிசி போட்டி ",
-          "id": "emdZY9MNrK",
+          "id": "7NX1RQLrc1",
           "note": "",
           "value": {
             "label": "2014 ஐசிசி கிரிக்கெட் உலகக் கோப்பையில் தென்னாப்பிரிக்காவின் அன்டர்-19 அணிக்கு ரபாடா தேர்ந்தெடுக்கப்பட்டார்."
@@ -117,7 +132,7 @@
         },
         {
           "label": "World Cup Appearance",
-          "id": "sFMlNN6k_m",
+          "id": "lXFTJgvl7X",
           "note": "2019",
           "value": {
             "label": "2019 ஏப்ரல் மாதம், 2019 உலகக் கோப்பையில் தென்னாப்பிரிக்கா அணியில் அவர் பெயர் இடம்பெற்றது."
@@ -125,16 +140,31 @@
         },
         {
           "label": "2017",
-          "id": "xdtbkh0aoB",
+          "id": "ZW59rsF3lk",
           "note": "டெல்லி கேப்பிடல்ஸ்",
           "value": {
-            "label": "டெல்லி கேப்பிடல்ஸ்"
+            "label": "டெல்லி கேப்பிடல்ஸ்",
+            "facts": [
+              {
+                "url": "/read/ta/delhi_capitals",
+                "contentUrl": "/static/content/ta/delhi_capitals.json",
+                "label": "Delhi Capitals",
+                "id": "x5dMBUqcmg",
+                "value": {
+                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "image": {
+                    "url": "/static/images/kagiso_rabada/Delhi_Capitals_Logo.svg",
+                    "altText": "Image of Delhi Capitals"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "சாதனைகள்",
       "cardType": "stories",
       "facts": [
         {
@@ -195,27 +225,57 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "அணிகள்",
       "cardType": "list_card",
       "facts": [
         {
           "label": "தென்னாப்பிரிக்க தேசிய கிரிக்கெட் அணி (2014 முதல் தற்போது வரை)",
-          "id": "ae-d9yMg0r",
+          "id": "JtTfjz_BPB",
           "value": {
-            "label": "புரோட்டீஸ் (\"கிங் புரோட்டி\" எனப் பொதுவாக அழைக்கப்படும் புரோட்டி சினராய்ட்ஸ் என்ற தென்னாப்பிரிக்க தேசிய மலரின் பெயர்) என்ற செல்லப்பெயர் கொண்ட தென்னாப்பிரிக்க கிரிக்கெட் அணி, கிரிக்கெட் தென்னாப்பிரிக்கா என்ற அமைப்பால் நிர்வகிக்கப்படுகிறது."
+            "label": "",
+            "facts": [
+              {
+                "label": "South Africa national cricket team",
+                "id": "82dPMDrILi",
+                "url": "/read/ta/south_africa_national_cricket_team",
+                "contentUrl": "/static/content/ta/south_africa_national_cricket_team.json",
+                "value": {
+                  "label": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
+                  "image": {
+                    "url": "/static/images/kagiso_rabada/Southafrica_cricket_logo.svg",
+                    "altText": "Picture of South Africa national cricket team"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "டெல்லி கேப்பிட்டல்ஸ் (2017 முதல் தற்போது வரை)",
-          "id": "MD36etZOsd",
+          "id": "X7jbbQEjpS",
           "value": {
-            "label": "டெல்லி கேப்பிட்டல்ஸ், இது இந்தியன் பிரீமியர் லீக்கில் (ஐபிஎல்) டெல்லிக்காக விளையாடும் ஐபிஎல் கிரிக்கெட் அணி."
+            "label": "",
+            "facts": [
+              {
+                "label": "Delhi Capitals",
+                "id": "3zacQACcgn",
+                "url": "/read/ta/delhi_capitals",
+                "contentUrl": "/static/content/ta/delhi_capitals.json",
+                "value": {
+                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "image": {
+                    "url": "/static/images/kagiso_rabada/Delhi_Capitals_Logo.svg",
+                    "altText": "Picture of Delhi Capitals"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
     },
     {
-      "title": "Awards & Honors",
+      "title": "விருதுகள் & கௌரவங்கள்",
       "cardType": "tag_card",
       "facts": []
     }

@@ -28,9 +28,9 @@
           }
         },
         {
-          "label": "Born On",
+          "label": "Born on",
           "value": {
-            "label": "Invalid Date (age 33)"
+            "label": "Invalid Date (Age 33)"
           }
         },
         {
@@ -62,8 +62,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "bmV_I8Slt35",
+      "title": "Style of Play",
+      "id": "3k1rJ3Yplj9",
       "cardType": "simple",
       "facts": [
         {
@@ -79,12 +79,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "Phases",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "First class Debut",
-          "id": "Mp6EyOntsP",
+          "id": "DdgZwWBy_Rn",
           "note": "2002",
           "value": {
             "label": "Karthik made his debut at the first-class level in late-2002 against Baroda"
@@ -92,7 +92,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "LwCdFolelm",
+          "id": "gx-gD-gaRZ_",
           "note": "2004",
           "value": {
             "label": "Karthik made his international debut in an One day international match against England in 2004",
@@ -101,7 +101,7 @@
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "label": "England cricket team",
-                "id": "SF2K-AKqUq_",
+                "id": "suSHr4cXI2F",
                 "value": {
                   "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
                   "image": {
@@ -115,7 +115,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "oDTQ4kAiyZc",
+          "id": "Q6yZz6TFLL5",
           "note": "",
           "value": {
             "label": ""
@@ -123,7 +123,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "ZcpC1_WL--H",
+          "id": "BCb0uo9d0y4",
           "note": "2008",
           "value": {
             "label": "Karthik played in the 2008 Indian Premier League as the wicket-keeper for the Delhi Daredevils",
@@ -132,7 +132,7 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-                "id": "G2ONaHPor2y",
+                "id": "5xjJ0PO1p",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "Achievement & Records",
       "cardType": "stories",
       "facts": [
         {
@@ -208,18 +208,18 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "Teams",
       "cardType": "list_card",
       "facts": [
         {
           "label": "Indian national cricket team (2004 - present)",
-          "id": "_h40fiJ260",
+          "id": "HggBvN_1O45",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "7SzEf-4891",
+                "id": "x8hExQWfWuL",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -235,13 +235,13 @@
         },
         {
           "label": "Kolkata Knight Riders (2018 - present)",
-          "id": "hxJ3imNRBt",
+          "id": "NlgvX9WGVDR",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Kolkata Knight Riders",
-                "id": "4AmxnQ68Yk",
+                "id": "pxHW3KBugMe",
                 "url": "/read/en/kolkata_knight_riders",
                 "contentUrl": "/static/content/en/kolkata_knight_riders.json",
                 "value": {
@@ -257,7 +257,7 @@
         },
         {
           "label": "Tamil Nadu (2002 - present)",
-          "id": "Jax80yb6bTZ",
+          "id": "tRP1UlicMZL",
           "value": {
             "label": "Tamil Nadu Cricket Team is a domestic cricket team representing the state of Tamil Nadu, India"
           }

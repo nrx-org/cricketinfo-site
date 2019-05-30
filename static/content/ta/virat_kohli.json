@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "விவரம்",
       "cardType": "table",
       "facts": [
         {
-          "label": "Full Name",
+          "label": "முழுப் பெயர்",
           "value": {
             "label": "விராட் கோலி"
           }
         },
         {
-          "label": "Born On",
+          "label": "பிறந்த தேதி",
           "value": {
-            "label": "05 Nov 1988 (age 31)"
+            "label": "05 Nov 1988 (வயது 31)"
           }
         },
         {
-          "label": "Birthplace",
+          "label": "பிறந்த இடம்",
           "value": {
             "label": "டெல்லி, இந்தியா",
             "url": "https://en.wikipedia.org/wiki/Delhi",
@@ -44,25 +44,25 @@
           }
         },
         {
-          "label": "Height",
+          "label": "உயரம்",
           "value": {
             "label": "5 அடி 9 அங்கும் (1.75 மீ)"
           }
         },
         {
-          "label": "Other Names",
+          "label": "வேறு பெயர்கள்",
           "value": {
             "label": "சிக்கூ"
           }
         },
         {
-          "label": "Nationality",
+          "label": "சொந்த நாடு",
           "value": {
             "label": "இந்தியர்"
           }
         },
         {
-          "label": "Role",
+          "label": "இவரின் பங்கு",
           "value": {
             "label": "பேட்ஸ்மென்"
           }
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "title": "Family",
+      "title": "குடும்பம்",
       "cardType": "avatar",
       "facts": [
         {
@@ -88,8 +88,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "58g1XdJuY3F",
+      "title": "விளையாட்டின் பாணி",
+      "id": "rGVkzsvSwEZ",
       "cardType": "simple",
       "facts": [
         {
@@ -105,12 +105,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "படிநிலைகள்",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "myd3mO1QNW",
+          "id": "w1AmEdvGOSA",
           "note": "2006",
           "value": {
             "label": "கோலி, 2006 ஆம் ஆண்டு தமிழ்நாட்டுக்கு எதிராக டெல்லி அணிக்காக தன்னுடயை முதல் போட்டியில் ஆடினார்."
@@ -118,15 +118,30 @@
         },
         {
           "label": "தேசிய அணி அறிமுகம்",
-          "id": "eefTBZvYB-",
+          "id": "prfrDcfRohx",
           "note": "2008",
           "value": {
-            "label": "இலங்கை போட்டித் தொடர் மற்றும் பாகிஸ்தானில் நடைபெற்ற சேம்பியன்ஸ் டிராஃபி ஆகியவற்றுக்கான ஒரு நாள் அணியில் கோலி சேர்க்கப்பட்டார்."
+            "label": "இலங்கை போட்டித் தொடர் மற்றும் பாகிஸ்தானில் நடைபெற்ற சேம்பியன்ஸ் டிராஃபி ஆகியவற்றுக்கான ஒரு நாள் அணியில் கோலி சேர்க்கப்பட்டார்.",
+            "facts": [
+              {
+                "url": "/read/ta/sri_lanka_national_cricket_team",
+                "contentUrl": "/static/content/ta/sri_lanka_national_cricket_team.json",
+                "label": "Sri Lanka national cricket team",
+                "id": "R-Eq37DsBmM",
+                "value": {
+                  "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
+                  "image": {
+                    "url": "/static/images/virat_kohli/Sri_Lanka_Cricket_Cap_Insignia.svg",
+                    "altText": "Image of Sri Lanka national cricket team"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "முதல் ஐசிசி போட்டி ",
-          "id": "BfVlB8sEYE",
+          "id": "R92vK2srGfb",
           "note": "2008",
           "value": {
             "label": "மலேசியாவில் நடைபெற்ற 2008 ஐசிசி அன்டர்-19 கிரிக்கெட் உலக கோப்பையில் வெற்றிகரமான இந்திய அணிக்கு கோலி தலைமை வகித்தார்."
@@ -134,7 +149,7 @@
         },
         {
           "label": "உலக கோப்பை தோற்றம்",
-          "id": "PjwtaCdWce",
+          "id": "BuFbCCxeVrK",
           "note": "2011",
           "value": {
             "label": "கோலி, 2011 இந்தியாவின் வெற்றிகரமான உலகக் கோப்பை யுத்தத்தில் ஒவ்வொரு போட்டியிலும் விளையாடினார். "
@@ -142,7 +157,7 @@
         },
         {
           "label": "சேம்பியன்ஸ் டிராஃபி",
-          "id": "IyjpfuMaRf",
+          "id": "zhcSkDDACRH",
           "note": "2013",
           "value": {
             "label": "2013 ஜூன் மாதம், கோலி, இந்தியா வெற்றி பெற்ற இங்கிலாந்தில் நடந்த ஐசிசி சேம்பியன்ஸ் டிராஃபியில் பங்கேற்றார்.",
@@ -151,7 +166,7 @@
                 "url": "/read/ta/icc_champions_trophy",
                 "contentUrl": "/static/content/ta/icc_champions_trophy.json",
                 "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி",
-                "id": "ENGHaYKvvp",
+                "id": "Z_Cb8Rykp3b",
                 "value": {
                   "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி என்பது இன்டர்நேஷனல் கிரிக்கெட் கவுன்சிலால் (ஐசிசி) நடத்தப்படும் ஒன் டே இன்டர்நேஷனல் (ODI) கிரிக்கெட் டோர்னமென்ட் ஆகும். இது கிரிக்கெட் உலகக்கோப்பைக்கு அடுத்தபடியாக முக்கியமாக கருதப்படும் டோர்னமென்ட் ஆகும். 2002-ஆம் ஆண்டு இதன் பெயர் சேம்பியன்ஸ் டிராஃபி என்று மாற்றப்பட்டது.",
                   "image": {
@@ -165,7 +180,7 @@
         },
         {
           "label": "2014 உலகக் கோப்பை",
-          "id": "QQokJD8jp2",
+          "id": "NZMMQ-Dnf7X",
           "note": "2014 ஐசிசி வேர்ல்டு ட்வென்டி20 போட்டியில் கோலி துணை கேப்டனாக நியமிக்கப்பட்டார்.",
           "value": {
             "label": "உலகக் கோப்பை",
@@ -174,7 +189,7 @@
                 "url": "/read/ta/icc_t20_world_cup",
                 "contentUrl": "/static/content/ta/icc_t20_world_cup.json",
                 "label": "ஐசிசி டி20 உலகக் கோப்பை",
-                "id": "z-M4sxkX-f",
+                "id": "hXkiGRLXx",
                 "value": {
                   "label": "ஐசிசி டி20 உலகக் கோப்பை (முன்னர் ஐசிசி வேர்ல்ட் ட்வென்டி20 என்று அழைக்கப்படும்), ட்வென்டி20 இன்டர்நேஷனல் கிரிக்கெட்டின் இன்டர்நேஷனல் சேம்பியன்ஷிப் ஆகும். டோர்னமென்ட்டில் தற்போது 16 அணிகள் இடம்பெற்றுள்ளன. அதில் கொடுக்கப்பட்ட நேரத்திற்குள் தரவரிசையில் முதல் எட்டு இடங்களைப் பிடித்த அணிகளும், டி20 உலகக் கோப்பை குவாலிஃபயர் மூலமாக தேர்வு செய்யப்பட்ட நான்கு அணிகளும் உள்ளடங்கும்.",
                   "image": {
@@ -188,16 +203,31 @@
         },
         {
           "label": "2008",
-          "id": "qZlAkqqI39",
+          "id": "eU-P6R7rvj",
           "note": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
           "value": {
-            "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்"
+            "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
+            "facts": [
+              {
+                "url": "/read/ta/royal_challengers_bangalore",
+                "contentUrl": "/static/content/ta/royal_challengers_bangalore.json",
+                "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
+                "id": "nMGyO26kcZ",
+                "value": {
+                  "label": "ராயல் சேலஞ்சர்ஸ் அணி இண்டியன் பிரீமியர் லீக்கில் (ஐபிஎல்) விளையாடும் கர்நாடகாவின் பெங்களூரில் உள்ள ஒரு உரிமைப் பெற்ற கிரிக்கெட் அணி ஆகும்",
+                  "image": {
+                    "url": "/static/images/virat_kohli/Royal_Challengers_Bangalore_Logo_2016.svg",
+                    "altText": "Image of ராயல் சேலஞ்சர்ஸ் பெங்களூர்"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "சாதனைகள்",
       "cardType": "stories",
       "facts": [
         {
@@ -261,26 +291,56 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "அணிகள்",
       "cardType": "list_card",
       "facts": [
         {
           "label": "இந்திய கிரிக்கெட் அணி (2008 முதல் தற்போது வரை)",
-          "id": "TJNZIr56U",
+          "id": "h6KsQx-5n",
           "value": {
-            "label": "இந்திய கிரிக்கெட் அணி டீம் இந்தியா மற்றும் மென் இன் புளூ என்றும் அழைக்கப்படுகிறது. இந்திய கிரிக்கெட் கட்டுப்பாட்டு வாரியம் இதை நிர்வகிக்கிறது"
+            "label": "",
+            "facts": [
+              {
+                "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+                "id": "VV3zRhmGra",
+                "url": "/read/ta/india_national_cricket_team",
+                "contentUrl": "/static/content/ta/india_national_cricket_team.json",
+                "value": {
+                  "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
+                  "image": {
+                    "url": "/static/images/virat_kohli/Cricket_India_Crest.svg",
+                    "altText": "Picture of இந்திய தேசிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூரு (2008 முதல் தற்போது வரை)",
-          "id": "vQ3LAfgXFs",
+          "id": "4K3oGyhtMB",
           "value": {
-            "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூரு (ஆர்சிபி), இந்தியாவில் பெங்களூருவைச் சேர்ந்த ஐபிஎல் கிரிக்கெட் அணி."
+            "label": "",
+            "facts": [
+              {
+                "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
+                "id": "qgKjsoX5uM",
+                "url": "/read/ta/royal_challengers_bangalore",
+                "contentUrl": "/static/content/ta/royal_challengers_bangalore.json",
+                "value": {
+                  "label": "ராயல் சேலஞ்சர்ஸ் அணி இண்டியன் பிரீமியர் லீக்கில் (ஐபிஎல்) விளையாடும் கர்நாடகாவின் பெங்களூரில் உள்ள ஒரு உரிமைப் பெற்ற கிரிக்கெட் அணி ஆகும்",
+                  "image": {
+                    "url": "/static/images/virat_kohli/Royal_Challengers_Bangalore_Logo_2016.svg",
+                    "altText": "Picture of ராயல் சேலஞ்சர்ஸ் பெங்களூர்"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "டெல்லி (2006 முதல் தற்போது வரை)",
-          "id": "-iZp74X25e",
+          "id": "HQjL4PQnpN",
           "value": {
             "label": "டெல்லியைச் சேர்ந்த உள்ளூர் ரஞ்சி டிராஃபி கிரிக்கெட் அணி"
           }
@@ -288,7 +348,7 @@
       ]
     },
     {
-      "title": "Awards & Honors",
+      "title": "விருதுகள் & கௌரவங்கள்",
       "cardType": "tag_card",
       "facts": [
         {

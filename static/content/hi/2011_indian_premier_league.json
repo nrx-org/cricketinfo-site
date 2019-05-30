@@ -39,16 +39,16 @@
           "label": "Champion",
           "value": {
             "label": "चेन्नई सुपर किंग्स (दूसरा खिताब)",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/hi/chennai_super_kings",
+            "contentUrl": "/static/content/hi/chennai_super_kings.json"
           }
         },
         {
           "label": "Runners Up",
           "value": {
             "label": "रॉयल चैलेंजर्स बैंगलोर",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/hi/royal_challengers_bangalore",
+            "contentUrl": "/static/content/hi/royal_challengers_bangalore.json"
           }
         },
         {
@@ -134,7 +134,20 @@
           "id": "final-positions-champion",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "चेन्नई सुपर किंग्स",
+                "url": "/read/hi/chennai_super_kings",
+                "contentUrl": "/static/content/hi/chennai_super_kings.json",
+                "value": {
+                  "label": "2008 में स्थापित चेन्नई सुपर किंग्स (सीएसके) चेन्नई, तमिलनाडु में स्थित एक भारतीय फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में खेलती है।",
+                  "image": {
+                    "url": "/static/images/2011_indian_premier_league/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Picture of चेन्नई सुपर किंग्स"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -142,7 +155,20 @@
           "id": "final-positions-runner-up",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "रॉयल चैलेंजर्स बैंगलोर",
+                "url": "/read/hi/royal_challengers_bangalore",
+                "contentUrl": "/static/content/hi/royal_challengers_bangalore.json",
+                "value": {
+                  "label": "रॉयल चैलेंजर्स बैंगलोर, बैंगलोर,कर्नाटक में स्थित एक फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में खेलती है।",
+                  "image": {
+                    "url": "/static/images/2011_indian_premier_league/Royal_Challengers_Bangalore_Logo_2016.svg",
+                    "altText": "Picture of चेन्नई सुपर किंग्स"
+                  }
+                }
+              }
+            ]
           }
         }
       ]

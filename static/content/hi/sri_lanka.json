@@ -151,6 +151,25 @@
       ]
     },
     {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "श्रीलंका की राष्ट्रीय क्रिकेट टीम",
+            "url": "/read/hi/sri_lanka_national_cricket_team",
+            "contentUrl": "/static/content/hi/sri_lanka_national_cricket_team.json",
+            "image": {
+              "url": "/static/images/sri_lanka/Sri_Lanka_Cricket_Cap_Insignia.svg",
+              "altText": "Picture of श्रीलंका की राष्ट्रीय क्रिकेट टीम"
+            }
+          }
+        }
+      ]
+    },
+    {
       "title": "Geography",
       "id": "sri_lanka_geography",
       "cardType": "simple",

@@ -12,6 +12,7 @@ const {
   getCardInfoFromId,
   downloadImageAndFillAttributions
 } = require("./lib");
+const { personalityUiStrings } = require("./ui_strings");
 
 const csvExports = {
   en: { path: "./csv/personalities.en.csv" },
@@ -216,7 +217,7 @@ module.exports.exportPersonalities = () => {
       personality.sections = [];
 
       const birthplaceSection = {
-        label: "Birthplace",
+        label: personalityUiStrings.birthplace[lang],
         value: {
           label: record[BIRTHPLACE_KEY],
           url: record[BIRTHPLACE_URL_KEY]
@@ -238,7 +239,7 @@ module.exports.exportPersonalities = () => {
       let otherNamesSection = null;
       if (record[OTHER_NAMES_KEY]) {
         otherNamesSection = {
-          label: "Other Names",
+          label: personalityUiStrings.otherNames[lang],
           value: {
             label: record[OTHER_NAMES_KEY]
           }
@@ -246,42 +247,41 @@ module.exports.exportPersonalities = () => {
       }
 
       // About table.
-      // TODO: translate the UI strings.
       personality.sections.push({
-        title: "About",
+        title: personalityUiStrings.about[lang],
         cardType: "table",
         facts: [
           {
-            label: "Full Name",
+            label: personalityUiStrings.fullName[lang],
             value: {
               label: record[FULL_NAME_KEY]
             }
           },
           {
-            label: "Born On",
+            label: personalityUiStrings.bornOn[lang],
             value: {
               label: `${format(
                 parseDate(record[BORN_ON_KEY], "dd/MM/yyyy", new Date()),
                 "dd MMM yyyy"
-              )} (age ${record[AGE_KEY]})`
+              )} (${personalityUiStrings.age[lang]} ${record[AGE_KEY]})`
             }
           },
           birthplaceSection,
           {
-            label: "Height",
+            label: personalityUiStrings.height[lang],
             value: {
               label: record[HEIGHT_KEY]
             }
           },
           otherNamesSection,
           {
-            label: "Nationality",
+            label: personalityUiStrings.nationality[lang],
             value: {
               label: record[NATIONALITY_KEY]
             }
           },
           {
-            label: "Role",
+            label: personalityUiStrings.role[lang],
             value: {
               label: record[ROLE_KEY]
             }
@@ -311,7 +311,7 @@ module.exports.exportPersonalities = () => {
         }
 
         personality.sections.push({
-          title: "Family",
+          title: personalityUiStrings.family[lang],
           cardType: "avatar",
           facts: [
             {
@@ -336,7 +336,7 @@ module.exports.exportPersonalities = () => {
       // Alma mater.
       if (record[ALMA_MATER_KEY].trim()) {
         personality.sections.push({
-          title: "Alma mater",
+          title: personalityUiStrings.education[lang],
           cardType: "avatar",
           facts: [
             {
@@ -361,7 +361,7 @@ module.exports.exportPersonalities = () => {
       // Style of play.
 
       const styleOfPlaySection = {
-        title: "Style of play",
+        title: personalityUiStrings.styleOfPlay[lang],
         id: shortid.generate(),
         cardType: "simple",
         facts: [
@@ -388,7 +388,7 @@ module.exports.exportPersonalities = () => {
 
       // Career phase(s).
       const careerPhasesSection = {
-        title: "Phase(s)",
+        title: personalityUiStrings.phases[lang],
         cardType: "vertical_timeline",
         facts: await Promise.all(
           PHASES.map(async phase => {
@@ -441,7 +441,7 @@ module.exports.exportPersonalities = () => {
 
       // Achievements and records.
       personality.sections.push({
-        title: "Achievements & Records",
+        title: personalityUiStrings.achievementsAndRecords[lang],
         cardType: "stories",
         facts: await Promise.all(
           ACHIEVEMENTS_AND_RECORDS.map(async ar => ({
@@ -504,7 +504,7 @@ module.exports.exportPersonalities = () => {
       );
 
       personality.sections.push({
-        title: "Team(s)",
+        title: personalityUiStrings.teams[lang],
         cardType: "list_card",
         facts: teamFacts.filter(f => !!f)
       });
@@ -535,7 +535,7 @@ module.exports.exportPersonalities = () => {
       );
 
       personality.sections.push({
-        title: "Awards & Honors",
+        title: personalityUiStrings.awardsAndHonors[lang],
         cardType: "tag_card",
         facts: awardsFacts.filter(a => !!a)
       });

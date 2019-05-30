@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इनके बारे में",
       "cardType": "table",
       "facts": [
         {
-          "label": "Full Name",
+          "label": "पूरा नाम",
           "value": {
             "label": "सचिन रमेश तेंदुलकर "
           }
         },
         {
-          "label": "Born On",
+          "label": "जन्मतिथि",
           "value": {
-            "label": "24 Apr 1973 (age 46)"
+            "label": "24 Apr 1973 (आयु 46)"
           }
         },
         {
-          "label": "Birthplace",
+          "label": "जन्मस्थान",
           "value": {
             "label": "मुंबई, भारत",
             "url": "https://en.wikipedia.org/wiki/Mumbai",
@@ -44,25 +44,25 @@
           }
         },
         {
-          "label": "Height",
+          "label": "ऊंचाई",
           "value": {
             "label": "5 फीट 5 इंच (165 सेमी)"
           }
         },
         {
-          "label": "Other Names",
+          "label": "अन्य नाम",
           "value": {
             "label": "क्रिकेट का भगवान "
           }
         },
         {
-          "label": "Nationality",
+          "label": "राष्ट्रीयता",
           "value": {
             "label": "भारतीय"
           }
         },
         {
-          "label": "Role",
+          "label": "भूमिका",
           "value": {
             "label": "बल्लेबाज"
           }
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "शिक्षा",
       "cardType": "avatar",
       "facts": [
         {
@@ -86,8 +86,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "Ugg02B5whEN",
+      "title": "खेलने की शैली",
+      "id": "j4s0qs7ObP",
       "cardType": "simple",
       "facts": [
         {
@@ -103,12 +103,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "दौर",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": "qr1vyOCgKK",
+          "id": "PsRCt1VHa2o",
           "note": "1988",
           "value": {
             "label": "1988 में 15 वर्ष 232 दिन की आयु में तेंदुलकर ने बंबई की ओर से गुजरात के विरुद्ध प्रथम श्रेणी क्रिकेट में  पदार्पण किया और नाबाद 100 रन बनाए।   "
@@ -116,7 +116,7 @@
         },
         {
           "label": "राष्ट्रीय टीम ",
-          "id": "vE7wCeAGrB",
+          "id": "cY37SrC0cpB",
           "note": "1989",
           "value": {
             "label": "तेंदुलकर ने 1989 में 16 वर्ष की आयु में पाकिस्तान के कराची में टेस्ट क्रिकेट में पदार्पण किया। ",
@@ -125,7 +125,7 @@
                 "url": "/read/hi/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/hi/pakistan_national_cricket_team.json",
                 "label": "पाकिस्तान की राष्ट्रीय क्रिकेट टीम ",
-                "id": "6vIxwcBknz",
+                "id": "ypZRVqw-GEe",
                 "value": {
                   "label": "पाकिस्तान की पुरुषों की राष्ट्रीय क्रिकेट टीम, जो शाहीन्स ग्रीन शर्ट्स और मैन इन ग्रीन के रूप में प्रसिद्घ है, उसका संचालन पाकिस्तान क्रिकेट बोर्ड (पीसीबी) द्वारा किया जाता है। टीम अंतर्राष्ट्रीय क्रिकेट परिषद की पूर्ण सदस्य है और टेस्ट, वनडे और टी-20 अंतर्राष्ट्रीय क्रिकेट मैचों में हिस्सा लेती है।",
                   "image": {
@@ -139,7 +139,7 @@
         },
         {
           "label": "विश्व कप",
-          "id": "033zaRuMx5",
+          "id": "xahEyEa-DjX",
           "note": "1992",
           "value": {
             "label": "तेंदुलकर 1992 क्रिकेट विश्व कप की भारतीय टीम के सदस्य थे। "
@@ -147,7 +147,7 @@
         },
         {
           "label": "टीम में सफलता शुरु",
-          "id": "R-0LsB-oTo",
+          "id": "Twg1RBX19TY",
           "note": "1996",
           "value": {
             "label": "1996 के विश्व कप में तेंदुलकर सर्वाधिक रन बनाने वाले खिलाड़ी रहे और उन्होंने कुल 523 रन बनाए। ",
@@ -156,7 +156,7 @@
                 "url": "/read/hi/1996_cricket_world_cup",
                 "contentUrl": "/static/content/hi/1996_cricket_world_cup.json",
                 "label": "1996 क्रिकेट विश्व कप",
-                "id": "vEofJBE-Xd",
+                "id": "bIO4ltkEHe2",
                 "value": {
                   "label": "1996 क्रिकेट विश्व कप, जिसे उसके आधिकारिक प्रायोजकों (आईटीसी के विल्स ब्रांड) के नाम पर, विल्स वर्ल्ड कप 1996 भी कहा जाता है, छठा क्रिकेट विश्व कप था। यह पाकिस्तान और भारत द्वारा आयोजित होने वाला दूसरा, और श्रीलंका आयोजित होने वाला पहला विश्व कप था।",
                   "image": {
@@ -170,7 +170,7 @@
         },
         {
           "label": "विश्व कप ",
-          "id": "WOWTC6ka0S",
+          "id": "aIAIfYpDrfd",
           "note": "1999",
           "value": {
             "label": "",
@@ -179,7 +179,7 @@
                 "url": "/read/hi/1999_cricket_world_cup",
                 "contentUrl": "/static/content/hi/1999_cricket_world_cup.json",
                 "label": "1999 क्रिकेट विश्व कप",
-                "id": "XBk8uj7jbz",
+                "id": "GVjcMuT4Jnh",
                 "value": {
                   "label": "1999 का क्रिकेट विश्व कप क्रिकेट विश्व कप का सातवां संस्करण था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेज़बानी मुख्य रूप से इंग्लैंड ने की थी, जिसमें कुछ मैच स्कॉटलैंड, आयरलैंड, वेल्स और नीदरलैंड में भी खेले गए थे।",
                   "image": {
@@ -193,7 +193,7 @@
         },
         {
           "label": "विश्व कप",
-          "id": "dxwoTx-8L2",
+          "id": "SqnT8sXmFQ3",
           "note": "2003 क्रिकेट विश्व कप में तेंदुलकर ने 11 मैचों में 673 रन बनाए थे। ",
           "value": {
             "label": "विश्व कप",
@@ -202,7 +202,7 @@
                 "url": "/read/hi/2003_cricket_world_cup",
                 "contentUrl": "/static/content/hi/2003_cricket_world_cup.json",
                 "label": "2003 क्रिकेट विश्व कप",
-                "id": "gI_em4KI65",
+                "id": "cOV0ygQpWKF",
                 "value": {
                   "label": "2003 का क्रिकेट विश्व कप आठवां क्रिकेट विश्व कप था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेजबानी दक्षिण अफ्रीका, जिम्बाब्वे और केन्या ने मिल कर की थी।",
                   "image": {
@@ -216,7 +216,7 @@
         },
         {
           "label": "IPL डेब्यू",
-          "id": "ZBsaflQnp6",
+          "id": "Ox3BTrdF8Vm",
           "note": "2008",
           "value": {
             "label": "इंडियन प्रीमियर लीग के उद्घाटन सत्र 2008 में तेंदुलकर को आइकॉन प्लेयर के साथ होम साइड, मुंबई इंडियंस का कप्तान बनाया गया।  ",
@@ -225,7 +225,7 @@
                 "url": "/read/hi/mumbai_indians",
                 "contentUrl": "/static/content/hi/mumbai_indians.json",
                 "label": "मुंबई इंडियंस",
-                "id": "N0drzCvdHM",
+                "id": "7ToUzLysY-k",
                 "value": {
                   "label": "मुंबई इंडियंस एक फ्रैंचाइज़ी क्रिकेट टीम है जो मुंबई शहर, महाराष्ट्र में स्थित है। 2008 में स्थापित मुंबई इंडियंस इंडियन प्रीमियर लीग (आईपीएल) में खेलती है। टीम का स्वामित्व भारत के सबसे बड़े समूह रिलायंस इंडस्ट्रीज के पास है।",
                   "image": {
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "उपलब्धि और रिकॉर्ड",
       "cardType": "stories",
       "facts": [
         {
@@ -301,18 +301,18 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "टीमें",
       "cardType": "list_card",
       "facts": [
         {
           "label": "भारतीय राष्ट्रीय क्रिकेट टीम (1989-2013)",
-          "id": "fp-4t8uVXO7",
+          "id": "SMCRXA2sCxL",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "भारत की राष्ट्रीय क्रिकेट टीम",
-                "id": "2n0wxyhC8Pb",
+                "id": "aO-2H-tTtWg",
                 "url": "/read/hi/india_national_cricket_team",
                 "contentUrl": "/static/content/hi/india_national_cricket_team.json",
                 "value": {
@@ -328,13 +328,13 @@
         },
         {
           "label": "मुंबई इंडियंस (2008-2013)",
-          "id": "YxiQeL7Na4N",
+          "id": "6ipVrPDzGTh",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "मुंबई इंडियंस",
-                "id": "1Ai7d0h3mvM",
+                "id": "J6JGyMXorj0",
                 "url": "/read/hi/mumbai_indians",
                 "contentUrl": "/static/content/hi/mumbai_indians.json",
                 "value": {
@@ -350,7 +350,7 @@
         },
         {
           "label": "मुंबई (1988-2013)",
-          "id": "_qeh8_obgtW",
+          "id": "66mmJkg1Yjj",
           "value": {
             "label": "मुंबई की घरेलू रणजी ट्रॉफी क्रिकेट टीम"
           }
@@ -358,7 +358,7 @@
       ]
     },
     {
-      "title": "Awards & Honors",
+      "title": "पुरस्कार और सम्मान",
       "cardType": "tag_card",
       "facts": [
         {

@@ -28,9 +28,9 @@
           }
         },
         {
-          "label": "Born On",
+          "label": "Born on",
           "value": {
-            "label": "Invalid Date (age 34)"
+            "label": "Invalid Date (Age 34)"
           }
         },
         {
@@ -62,8 +62,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "ua_9DXN-O9-",
+      "title": "Style of Play",
+      "id": "3LxFad7yh1y",
       "cardType": "simple",
       "facts": [
         {
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "Phases",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "First class Debut",
-          "id": "W_jilLcEEte",
+          "id": "OTdRrC55dfp",
           "note": "2007",
           "value": {
             "label": ""
@@ -88,7 +88,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "n_14W0e0CKt",
+          "id": "qVRT9t8nnAr",
           "note": "2014",
           "value": {
             "label": "Jadhav made his international debut in 2014 versus Sri Lanka",
@@ -97,7 +97,7 @@
                 "url": "/read/en/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
                 "label": "Sri Lanka national cricket team",
-                "id": "JkdVczlRmvo",
+                "id": "DwifAp2eNb4",
                 "value": {
                   "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
                   "image": {
@@ -111,7 +111,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "hd6Cwrz2nIT",
+          "id": "BOrj_F9cbeW",
           "note": "2017",
           "value": {
             "label": ""
@@ -119,7 +119,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "d11xkBuDeQ6",
+          "id": "flMIKsZVKHW",
           "note": "2010",
           "value": {
             "label": "Jadhav won the Man of the match award in his debut IPL match",
@@ -128,7 +128,7 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-                "id": "tmxY6x0JGsE",
+                "id": "kfRert306y2",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "Achievement & Records",
       "cardType": "stories",
       "facts": [
         {
@@ -204,18 +204,18 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "Teams",
       "cardType": "list_card",
       "facts": [
         {
           "label": "Indian national cricket team (2014-present)",
-          "id": "zZGw9E7mHY",
+          "id": "BDjMXXCMtm",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "mkbnLpOI1Z",
+                "id": "-U6O0iQ5W0",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -231,13 +231,13 @@
         },
         {
           "label": "Chennai Super Kings (2018-present)",
-          "id": "3rUfoItrZ9",
+          "id": "spID8XFEnX",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Chennai Super Kings",
-                "id": "-5D7brzRGQ",
+                "id": "SqUpmCYNMp",
                 "url": "/read/en/chennai_super_kings",
                 "contentUrl": "/static/content/en/chennai_super_kings.json",
                 "value": {
@@ -253,7 +253,7 @@
         },
         {
           "label": "Maharashtra (2007-present)",
-          "id": "40lo80AHfI",
+          "id": "ngbVnc0owl",
           "value": {
             "label": "Maharashtra cricket team is a domestic Indian cricket team based the city of Pune"
           }

@@ -30,9 +30,9 @@
           }
         },
         {
-          "label": "Born On",
+          "label": "Born on",
           "value": {
-            "label": "Invalid Date (age 23)"
+            "label": "Invalid Date (Age 23)"
           }
         },
         {
@@ -70,8 +70,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "aaz7pqGGx",
+      "title": "Style of Play",
+      "id": "h0PFkbrP8",
       "cardType": "simple",
       "facts": [
         {
@@ -88,12 +88,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "Phases",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "First class Debut",
-          "id": "YWyZGJR2W",
+          "id": "iy680y6JM",
           "note": "2013",
           "value": {
             "label": "Rabada made his debut for the Gauteng in the CSA Provincial One-Day Competition against Border in December 2013."
@@ -101,7 +101,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "UBauI-O6Pi",
+          "id": "gu6cheqZU2",
           "note": "",
           "value": {
             "label": "Rabada made his Twenty20 International debut for South Africa against Australia on 5 November 2014.",
@@ -110,7 +110,7 @@
                 "url": "/read/en/australia_cricket_team",
                 "contentUrl": "/static/content/en/australia_cricket_team.json",
                 "label": "Australia Cricket team",
-                "id": "-7uBSDOyS2",
+                "id": "VHNN8BHi2-",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
@@ -124,7 +124,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "WSRxXu2PW-",
+          "id": "AgBIEnidzo",
           "note": "",
           "value": {
             "label": "Rabada was chosen to represent South Africa's Under-19 side for the 2014 ICC Under-19 Cricket World Cup. "
@@ -132,7 +132,7 @@
         },
         {
           "label": "World Cup Appearance",
-          "id": "TCG3csZTSF",
+          "id": "GMLXOZTcTL",
           "note": "2019",
           "value": {
             "label": "In April 2019, he was named in South Africa's squad for the 2019 Cricket World Cup."
@@ -140,7 +140,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "ZDxyX69eGJ",
+          "id": "C6u32Rv7Rm",
           "note": "2017",
           "value": {
             "label": "In February 2017, Rabada was bought by the Delhi Daredevils team for the 2017 Indian Premier League for INR 50 million.",
@@ -149,7 +149,7 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-                "id": "U2saKVGkza",
+                "id": "-xpT3Da6w",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "Achievement & Records",
       "cardType": "stories",
       "facts": [
         {
@@ -225,18 +225,18 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "Teams",
       "cardType": "list_card",
       "facts": [
         {
           "label": "South African Nation team (2014- present)",
-          "id": "fuHL5Tlolz",
+          "id": "MpHQ81CK05",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "South Africa national cricket team",
-                "id": "C5FvbjddK6",
+                "id": "S0qbZ7rkGP",
                 "url": "/read/en/south_africa_national_cricket_team",
                 "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
                 "value": {
@@ -252,13 +252,13 @@
         },
         {
           "label": "Delhi capitals (2017- present)",
-          "id": "C4U_Tw-Uq4",
+          "id": "fNB0sZ7UvZ",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Delhi Capitals",
-                "id": "Ylx6WwIhXx",
+                "id": "imY2XuAeVF",
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "value": {

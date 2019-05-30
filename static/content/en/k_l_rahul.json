@@ -29,9 +29,9 @@
           }
         },
         {
-          "label": "Born On",
+          "label": "Born on",
           "value": {
-            "label": "Invalid Date (age 27)"
+            "label": "Invalid Date (Age 27)"
           }
         },
         {
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "Education",
       "cardType": "avatar",
       "facts": [
         {
@@ -79,8 +79,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "V65DEnR1F",
+      "title": "Style of Play",
+      "id": "qd88elU_V",
       "cardType": "simple",
       "facts": [
         {
@@ -92,12 +92,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "Phases",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "First class Debut",
-          "id": "6hzbkfTqm7",
+          "id": "DVRW38o06r",
           "note": "2012",
           "value": {
             "label": "Rahul made his first-class cricket debut for Karnataka in the 2012–13 season"
@@ -105,7 +105,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "V4GtGQFctj",
+          "id": "DG24FNiCcf",
           "note": "2014",
           "value": {
             "label": "Rahul made his Test debut in the 2014 Boxing Day Test at the Melbourne, versus Australia",
@@ -114,7 +114,7 @@
                 "url": "/read/en/australia_cricket_team",
                 "contentUrl": "/static/content/en/australia_cricket_team.json",
                 "label": "Australia Cricket team",
-                "id": "jEro8FHya2",
+                "id": "9dGCbmDJVy",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
@@ -128,7 +128,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "hshkspU7a9",
+          "id": "hVNWk0Lm3j",
           "note": "",
           "value": {
             "label": ""
@@ -136,7 +136,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "mYdEPJMyFZ",
+          "id": "EX4eHIV1Wv",
           "note": "2013",
           "value": {
             "label": "Rahul made his IPL debut in 2013 for Royal Challengers Bangalore as a wicket-keeper batsman",
@@ -145,7 +145,7 @@
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "label": "Royal Challengers Bangalore",
-                "id": "qpvaW4rg-h",
+                "id": "TrlElpnpC-",
                 "value": {
                   "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
                   "image": {
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "Achievement & Records",
       "cardType": "stories",
       "facts": [
         {
@@ -221,18 +221,18 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "Teams",
       "cardType": "list_card",
       "facts": [
         {
           "label": "Indian national cricket team (2014-present)",
-          "id": "wGFpbCMmz4",
+          "id": "B9x1c29z3H",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "DuvUmAbprv",
+                "id": "n098TTapKB",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -248,13 +248,13 @@
         },
         {
           "label": "Kings XI Punjab (2018 - present)",
-          "id": "6N16fpAtIo",
+          "id": "TARkt6VkLJ",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Kings XI Punjab",
-                "id": "XwaV-DMidy",
+                "id": "ZTftzKHK_9",
                 "url": "/read/en/kings_xi_punjab",
                 "contentUrl": "/static/content/en/kings_xi_punjab.json",
                 "value": {
@@ -270,7 +270,7 @@
         },
         {
           "label": "Karnataka (2010 - present)",
-          "id": "WLu2I9XDfA",
+          "id": "QJQI2HAms9",
           "value": {
             "label": "Domestic Ranji trophy cricket team based in the state of Karnataka"
           }

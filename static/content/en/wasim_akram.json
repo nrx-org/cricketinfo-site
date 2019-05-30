@@ -28,9 +28,9 @@
           }
         },
         {
-          "label": "Born On",
+          "label": "Born on",
           "value": {
-            "label": "Invalid Date (age 52)"
+            "label": "Invalid Date (Age 52)"
           }
         },
         {
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "Education",
       "cardType": "avatar",
       "facts": [
         {
@@ -78,8 +78,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "C_OssSjN77",
+      "title": "Style of Play",
+      "id": "oZkrJf1B64h",
       "cardType": "simple",
       "facts": [
         {
@@ -91,12 +91,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "Phases",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "First class Debut",
-          "id": "K9lGdo2eSe",
+          "id": "BYuuqnKGZve",
           "note": "1984",
           "value": {
             "label": "Wasim Akram made his first class debut in 1984 as part of the Pakistan Automobiles Corporation team."
@@ -104,7 +104,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "55qVPWOWtd",
+          "id": "rdXOHV29s_x",
           "note": "1984",
           "value": {
             "label": "Akram started his ODI career against New Zealand in Pakistan in 1984 under the captaincy of Zaheer Abbas.",
@@ -113,7 +113,7 @@
                 "url": "/read/en/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
                 "label": "New Zealand national cricket team",
-                "id": "yFjBUVvDyr",
+                "id": "MVn_gmTEf_a",
                 "value": {
                   "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
                   "image": {
@@ -127,7 +127,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "SZvpIk4_V9",
+          "id": "gKDZamDwuul",
           "note": "1987",
           "value": {
             "label": "In the 1987 Cricket World Cup held for the 1st time in South Asia, Akram struggled on Pakistani pitches."
@@ -135,7 +135,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "KnsdA5AJcq",
+          "id": "0uTSnHwQbBG",
           "note": "",
           "value": {
             "label": ""
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "Achievement & Records",
       "cardType": "stories",
       "facts": [
         {
@@ -205,18 +205,18 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "Teams",
       "cardType": "list_card",
       "facts": [
         {
           "label": "Pakistan National Cricket team (1984-2003)",
-          "id": "SIqJmBTAeR",
+          "id": "eOfZZyF0jo",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Pakistan national cricket team",
-                "id": "XUevbwWy40",
+                "id": "gO_tgaCSPc",
                 "url": "/read/en/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
                 "value": {
@@ -232,7 +232,7 @@
         },
         {
           "label": "Pakistan Automobiles Corporation (1984-86)",
-          "id": "mZrFXp4Udl",
+          "id": "GaDv6cXdbE",
           "value": {
             "label": "Pakistan Automobiles Corporation was a first-class cricket team that played in the domestic league in Pakistan between 1983 and 1994."
           }

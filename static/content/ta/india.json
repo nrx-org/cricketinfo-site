@@ -144,6 +144,25 @@
       ]
     },
     {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+            "url": "/read/ta/india_national_cricket_team",
+            "contentUrl": "/static/content/ta/india_national_cricket_team.json",
+            "image": {
+              "url": "/static/images/india/Cricket_India_Crest.svg",
+              "altText": "Picture of இந்திய தேசிய கிரிக்கெட் அணி"
+            }
+          }
+        }
+      ]
+    },
+    {
       "title": "Geography",
       "id": "india_geography",
       "cardType": "simple",

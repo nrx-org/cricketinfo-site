@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इनके बारे में",
       "cardType": "table",
       "facts": [
         {
-          "label": "Full Name",
+          "label": "पूरा नाम",
           "value": {
             "label": "शोयब मलिक "
           }
         },
         {
-          "label": "Born On",
+          "label": "जन्मतिथि",
           "value": {
-            "label": "Invalid Date (age 37)"
+            "label": "Invalid Date (आयु 37)"
           }
         },
         {
-          "label": "Birthplace",
+          "label": "जन्मस्थान",
           "value": {
             "label": "सियालकोट, पाकिस्तान",
             "url": "https://en.wikipedia.org/wiki/Sialkot",
@@ -44,19 +44,19 @@
           }
         },
         {
-          "label": "Height",
+          "label": "ऊंचाई",
           "value": {
             "label": "5 फीट 10 इंच"
           }
         },
         {
-          "label": "Nationality",
+          "label": "राष्ट्रीयता",
           "value": {
             "label": "पाकिस्तानी"
           }
         },
         {
-          "label": "Role",
+          "label": "भूमिका",
           "value": {
             "label": "ऑलराउंडर बल्लेबाज"
           }
@@ -64,15 +64,15 @@
       ]
     },
     {
-      "title": "Family",
+      "title": "परिवार",
       "cardType": "avatar",
       "facts": [
         {
           "label": "पत्नी",
           "value": {
             "label": "सानिया मिर्जा",
-            "url": null,
-            "contentUrl": null,
+            "url": "/read/hi/null",
+            "contentUrl": "/static/content/hi/null.json",
             "image": {
               "url": "/static/images/shoaib_malik/Sania_Mirza_%2835449409862%29.jpg",
               "altText": "Picture of सानिया मिर्जा",
@@ -83,8 +83,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "i5525LKlc",
+      "title": "खेलने की शैली",
+      "id": "LR-r-5X_D5",
       "cardType": "simple",
       "facts": [
         {
@@ -101,12 +101,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "दौर",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": "2oD681bMc",
+          "id": "QZt6GBHve",
           "note": "",
           "value": {
             "label": ""
@@ -114,15 +114,30 @@
         },
         {
           "label": "राष्ट्रीय टीम ",
-          "id": "ycWCqjKcQ7",
+          "id": "ZVBJXRzJbd",
           "note": "",
           "value": {
-            "label": "शोएब मलिक ने 14 अक्तूबर, 1999 को वेस्ट इंडीज के विरुद्ध ओडीआई में पदार्पण किया। "
+            "label": "शोएब मलिक ने 14 अक्तूबर, 1999 को वेस्ट इंडीज के विरुद्ध ओडीआई में पदार्पण किया। ",
+            "facts": [
+              {
+                "url": "/read/hi/west_indies_cricket_team",
+                "contentUrl": "/static/content/hi/west_indies_cricket_team.json",
+                "label": "वेस्टइंडीज क्रिकेट टीम",
+                "id": "_Hd5FAxI7F",
+                "value": {
+                  "label": "वेस्टइंडीज क्रिकेट टीम, जिसे परंपरागत रूप से विंडीज के रूप में जाना जाता है, एक बहु-राष्ट्रीय क्रिकेट टीम है, जो एंग्लोफोन कैरेबियन क्षेत्र का प्रतिनिधित्व करती है और क्रिकेट वेस्ट इंडीज द्वारा प्रशासित है। इस मिश्रित टीम के खिलाड़ियों का चयन पंद्रह कैरेबियाई क्षेत्रों की श्रृंखला से किया जाता है",
+                  "image": {
+                    "url": "/static/images/shoaib_malik/West_indies_cricket_board_flag.png",
+                    "altText": "Image of वेस्टइंडीज क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "IPL डेब्यू",
-          "id": "gcF-ksDrrG",
+          "id": "O7XTqLKveB",
           "note": "",
           "value": {
             "label": ""
@@ -131,7 +146,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "उपलब्धि और रिकॉर्ड",
       "cardType": "stories",
       "facts": [
         {
@@ -192,20 +207,35 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "टीमें",
       "cardType": "list_card",
       "facts": [
         {
           "label": "पाकिस्तानी राष्ट्रीय क्रिकेट टीम (1999- अब तक )",
-          "id": "uOhH9T61O8",
+          "id": "oRpbGxw7Ug",
           "value": {
-            "label": "पाकिस्तानी पुरूष राष्‍ट्रीय क्रिकेट टीम जो शाहीन ग्रीन शर्ट और मैन इन ग्रीन के रूप में लो‍कप्रिय है, पाकिस्तान क्रिकेट बोर्ड (पीसीबी) द्वारा शासित है।"
+            "label": "",
+            "facts": [
+              {
+                "label": "पाकिस्तान की राष्ट्रीय क्रिकेट टीम ",
+                "id": "JWuZZwazs0",
+                "url": "/read/hi/pakistan_national_cricket_team",
+                "contentUrl": "/static/content/hi/pakistan_national_cricket_team.json",
+                "value": {
+                  "label": "पाकिस्तान की पुरुषों की राष्ट्रीय क्रिकेट टीम, जो शाहीन्स ग्रीन शर्ट्स और मैन इन ग्रीन के रूप में प्रसिद्घ है, उसका संचालन पाकिस्तान क्रिकेट बोर्ड (पीसीबी) द्वारा किया जाता है। टीम अंतर्राष्ट्रीय क्रिकेट परिषद की पूर्ण सदस्य है और टेस्ट, वनडे और टी-20 अंतर्राष्ट्रीय क्रिकेट मैचों में हिस्सा लेती है।",
+                  "image": {
+                    "url": "/static/images/shoaib_malik/PakistanCricketLogo.png",
+                    "altText": "Picture of पाकिस्तान की राष्ट्रीय क्रिकेट टीम "
+                  }
+                }
+              }
+            ]
           }
         }
       ]
     },
     {
-      "title": "Awards & Honors",
+      "title": "पुरस्कार और सम्मान",
       "cardType": "tag_card",
       "facts": []
     }

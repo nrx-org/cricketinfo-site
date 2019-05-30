@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इनके बारे में",
       "cardType": "table",
       "facts": [
         {
-          "label": "Full Name",
+          "label": "पूरा नाम",
           "value": {
             "label": "राशिद खान "
           }
         },
         {
-          "label": "Born On",
+          "label": "जन्मतिथि",
           "value": {
-            "label": "Invalid Date (age 20)"
+            "label": "Invalid Date (आयु 20)"
           }
         },
         {
-          "label": "Birthplace",
+          "label": "जन्मस्थान",
           "value": {
             "label": "नांगरहार, अफगानिस्तान",
             "url": "https://en.wikipedia.org/wiki/Nangarhar_Province",
@@ -44,19 +44,19 @@
           }
         },
         {
-          "label": "Height",
+          "label": "ऊंचाई",
           "value": {
             "label": ""
           }
         },
         {
-          "label": "Nationality",
+          "label": "राष्ट्रीयता",
           "value": {
             "label": "अफ़ग़ानी"
           }
         },
         {
-          "label": "Role",
+          "label": "भूमिका",
           "value": {
             "label": "राइट-आर्म लेग ब्रेक "
           }
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "_UObxfAQ0p_",
+      "title": "खेलने की शैली",
+      "id": "D48KOO3WQoq",
       "cardType": "simple",
       "facts": [
         {
@@ -77,12 +77,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "दौर",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": "ZP5u1IEr3dF",
+          "id": "Yvvh0npySky",
           "note": "",
           "value": {
             "label": ""
@@ -90,7 +90,7 @@
         },
         {
           "label": "राष्ट्रीय टीम ",
-          "id": "VJB45fZAlf3",
+          "id": "1m-0RF5XoZ-",
           "note": "",
           "value": {
             "label": "उन्होंने अफगानिस्तान की ओर से जिम्बाबे के विरुद्ध 18 अक्तूबर, 2015 को वनडे इंटरनेशनल (ओडीआई) में पदार्पण किया। "
@@ -98,7 +98,7 @@
         },
         {
           "label": "विश्व कप ",
-          "id": "biQzV1s9LQh",
+          "id": "2qlANe4Rvo1",
           "note": "",
           "value": {
             "label": "अप्रैल 2019 में 2019 क्रिकेट विश्व कप के लिए अफगानिस्तान की टीम में उन्हें शामिल किया गया। "
@@ -106,7 +106,7 @@
         },
         {
           "label": "IPL डेब्यू",
-          "id": "gbKDs37E7-b",
+          "id": "tj_8XRvDvSM",
           "note": "2017",
           "value": {
             "label": "फरवरी 2017 में उन्हें सनराइजर्स हैदराबाद ने 2017 के इंडियन प्रीमियर लीग (आईपीएल) के लिए 4 करोड़ में खरीदा था। वे पहले ऐसे दो अफगानी खिलाड़ी हैं जिनका चयन आईपीएल में किया गया।  ",
@@ -115,7 +115,7 @@
                 "url": "/read/hi/sunrisers_hyderabad",
                 "contentUrl": "/static/content/hi/sunrisers_hyderabad.json",
                 "label": "सनराइजर्स हैदराबाद",
-                "id": "Cz9ZGARiKqc",
+                "id": "ajRsyLNdhVd",
                 "value": {
                   "label": "सनराइजर्स हैदराबाद (संक्षिप्त रूप में एसआरएच) तेलंगाना के हैदराबाद आधारित एक फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में खेलती है।",
                   "image": {
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "उपलब्धि और रिकॉर्ड",
       "cardType": "stories",
       "facts": [
         {
@@ -191,18 +191,18 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "टीमें",
       "cardType": "list_card",
       "facts": [
         {
           "label": "अफगानिस्‍तान राष्ट्रीय क्रिकेट टीम (2015-अब तक )",
-          "id": "bo9m6xhXkV6",
+          "id": "o1PjNf99o3P",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "अफगानिस्तान की राष्ट्रीय क्रिकेट टीम",
-                "id": "8SgNFq5H-nn",
+                "id": "cptYR6Gcp36",
                 "url": "/read/hi/afghanistan_national_cricket_team",
                 "contentUrl": "/static/content/hi/afghanistan_national_cricket_team.json",
                 "value": {
@@ -218,13 +218,13 @@
         },
         {
           "label": "सनराइजर्स हैदराबाद (2017- अब तक )",
-          "id": "HVVwdLiYvp0",
+          "id": "SdIxSufmKyE",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "सनराइजर्स हैदराबाद",
-                "id": "JL1wFbT7kj0",
+                "id": "e9TuqYZzPVz",
                 "url": "/read/hi/sunrisers_hyderabad",
                 "contentUrl": "/static/content/hi/sunrisers_hyderabad.json",
                 "value": {
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "title": "Awards & Honors",
+      "title": "पुरस्कार और सम्मान",
       "cardType": "tag_card",
       "facts": [
         {

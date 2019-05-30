@@ -30,9 +30,9 @@
           }
         },
         {
-          "label": "Born On",
+          "label": "Born on",
           "value": {
-            "label": "Invalid Date (age 20)"
+            "label": "Invalid Date (Age 20)"
           }
         },
         {
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "7onoSbOgDT",
+      "title": "Style of Play",
+      "id": "wC9zdBTn6k",
       "cardType": "simple",
       "facts": [
         {
@@ -77,12 +77,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "Phases",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "First class Debut",
-          "id": "pinO_5tsZY",
+          "id": "Hm1NE14So5",
           "note": "",
           "value": {
             "label": ""
@@ -90,7 +90,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "qoRsgFrVvt",
+          "id": "Y1hvkbjmDd",
           "note": "",
           "value": {
             "label": "He made his One Day International (ODI) debut for Afghanistan against Zimbabwe on 18 October 2015."
@@ -98,7 +98,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "BaCSpFv45v",
+          "id": "N4w2zUWadK",
           "note": "",
           "value": {
             "label": "In April 2019, he was named in Afghanistan's squad for the 2019 Cricket World Cup."
@@ -106,7 +106,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "gj9U0zwg7F",
+          "id": "9iYQV0u2ww",
           "note": "2017",
           "value": {
             "label": "In February 2017, he was bought by Sunrisers Hyderabad for the 2017 Indian Premier League (IPL) for 4 crores.He was also amongst the two first ever Afghan players to be selected for the IPL.",
@@ -115,7 +115,7 @@
                 "url": "/read/en/sunrisers_hyderabad",
                 "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
                 "label": "Sunrisers Hyderabad",
-                "id": "oVzUBBKBg4",
+                "id": "v8Ky6hjxQR",
                 "value": {
                   "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
                   "image": {
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "Achievement & Records",
       "cardType": "stories",
       "facts": [
         {
@@ -191,18 +191,18 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "Teams",
       "cardType": "list_card",
       "facts": [
         {
           "label": "Afganistan National Cricket team (2015-present)",
-          "id": "rS8QP85Wv",
+          "id": "l6dT0g0Wi",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Afghanistan national cricket team",
-                "id": "lwWl0TnVR_",
+                "id": "LKYaB-OLQS",
                 "url": "/read/en/afghanistan_national_cricket_team",
                 "contentUrl": "/static/content/en/afghanistan_national_cricket_team.json",
                 "value": {
@@ -218,13 +218,13 @@
         },
         {
           "label": "Sunrisers Hyderabad (2017- present)",
-          "id": "M-FMH35wFp",
+          "id": "klkM49f6Xe",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Sunrisers Hyderabad",
-                "id": "HJpTs0FA2q",
+                "id": "okW7_c5WKr",
                 "url": "/read/en/sunrisers_hyderabad",
                 "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
                 "value": {

@@ -28,9 +28,9 @@
           }
         },
         {
-          "label": "Born On",
+          "label": "Born on",
           "value": {
-            "label": "23 Nov 1967 (age 51)"
+            "label": "23 Nov 1967 (Age 51)"
           }
         },
         {
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "Education",
       "cardType": "avatar",
       "facts": [
         {
@@ -84,8 +84,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "DkMDMd9FqaK",
+      "title": "Style of Play",
+      "id": "xH9yC3NdL71",
       "cardType": "simple",
       "facts": [
         {
@@ -97,12 +97,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "Phases",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "National team debut ",
-          "id": "XdHoOe4IZ9h",
+          "id": "bFBqxXn1bqG",
           "note": "1993",
           "value": {
             "label": "Kirsten made his international debut in a ODI versus Australia in 1993",
@@ -111,7 +111,7 @@
                 "url": "/read/en/australia_cricket_team",
                 "contentUrl": "/static/content/en/australia_cricket_team.json",
                 "label": "Australia Cricket team",
-                "id": "z8SM7_4ucX2",
+                "id": "y2icokw8JIT",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
@@ -125,7 +125,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "T7J_kUfEVZe",
+          "id": "M_N8cukp3C6",
           "note": "1996",
           "value": {
             "label": "Kirsten scored 188 not-outagainst the United Arab Emirates during the 1996 World Cup",
@@ -134,7 +134,7 @@
                 "url": "/read/en/1996_cricket_world_cup",
                 "contentUrl": "/static/content/en/1996_cricket_world_cup.json",
                 "label": "1996 Cricket World Cup",
-                "id": "vqRvbJoJIxD",
+                "id": "mSp99mlg5gh",
                 "value": {
                   "label": "The 1996 Cricket World Cup, also called the Wills World Cup 1996 after its official sponsors, ITC's Wills brand, was the sixth Cricket World Cup. It was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka.",
                   "image": {
@@ -148,7 +148,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "DyLdCVgneiV",
+          "id": "M9WhNngur1V",
           "note": "",
           "value": {
             "label": ""
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "Achievement & Records",
       "cardType": "stories",
       "facts": [
         {
@@ -218,18 +218,18 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "Teams",
       "cardType": "list_card",
       "facts": [
         {
           "label": "South African national cricket team (1993 - 2004)",
-          "id": "fenUG-jSY72",
+          "id": "olhzMafaCZQ",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "South Africa national cricket team",
-                "id": "O2-4esYXiti",
+                "id": "L2CghIdBWba",
                 "url": "/read/en/south_africa_national_cricket_team",
                 "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
                 "value": {
@@ -245,7 +245,7 @@
         },
         {
           "label": "Western Province (1987-2004)",
-          "id": "dmLGHncPp_v",
+          "id": "Hl7F7y1GkS2",
           "value": {
             "label": "Western Province is the team representing Western Cape province in domestic first-class cricket in South Africa."
           }

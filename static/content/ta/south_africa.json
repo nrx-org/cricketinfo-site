@@ -140,6 +140,25 @@
       ]
     },
     {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "South Africa national cricket team",
+            "url": "/read/ta/south_africa_national_cricket_team",
+            "contentUrl": "/static/content/ta/south_africa_national_cricket_team.json",
+            "image": {
+              "url": "/static/images/south_africa/Southafrica_cricket_logo.svg",
+              "altText": "Picture of South Africa national cricket team"
+            }
+          }
+        }
+      ]
+    },
+    {
       "title": "Geography",
       "id": "south_africa_geography",
       "cardType": "simple",

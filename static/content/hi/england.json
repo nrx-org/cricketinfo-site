@@ -127,6 +127,25 @@
       ]
     },
     {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "इंग्लैंड क्रिकेट टीम",
+            "url": "/read/hi/england_cricket_team",
+            "contentUrl": "/static/content/hi/england_cricket_team.json",
+            "image": {
+              "url": "/static/images/england/England_cricket_team_logo.svg",
+              "altText": "Picture of इंग्लैंड क्रिकेट टीम"
+            }
+          }
+        }
+      ]
+    },
+    {
       "title": "Geography",
       "id": "england_geography",
       "cardType": "simple",

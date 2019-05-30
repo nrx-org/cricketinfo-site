@@ -39,16 +39,16 @@
           "label": "Champion",
           "value": {
             "label": "சென்னை சூப்பர் கிங்ஸ் (2வது டைட்டில்)",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/ta/sunrisers_hyderabad",
+            "contentUrl": "/static/content/ta/sunrisers_hyderabad.json"
           }
         },
         {
           "label": "Runners Up",
           "value": {
             "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/ta/royal_challengers_bangalore",
+            "contentUrl": "/static/content/ta/royal_challengers_bangalore.json"
           }
         },
         {
@@ -158,7 +158,20 @@
           "id": "final-positions-champion",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "Sunrisers Hyderabad",
+                "url": "/read/ta/sunrisers_hyderabad",
+                "contentUrl": "/static/content/ta/sunrisers_hyderabad.json",
+                "value": {
+                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "/static/images/2016_indian_premier_league/Sunrisers_Hyderabad.svg",
+                    "altText": "Picture of Sunrisers Hyderabad"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -166,7 +179,20 @@
           "id": "final-positions-runner-up",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
+                "url": "/read/ta/royal_challengers_bangalore",
+                "contentUrl": "/static/content/ta/royal_challengers_bangalore.json",
+                "value": {
+                  "label": "ராயல் சேலஞ்சர்ஸ் அணி இண்டியன் பிரீமியர் லீக்கில் (ஐபிஎல்) விளையாடும் கர்நாடகாவின் பெங்களூரில் உள்ள ஒரு உரிமைப் பெற்ற கிரிக்கெட் அணி ஆகும்",
+                  "image": {
+                    "url": "/static/images/2016_indian_premier_league/Royal_Challengers_Bangalore_Logo_2016.svg",
+                    "altText": "Picture of Sunrisers Hyderabad"
+                  }
+                }
+              }
+            ]
           }
         }
       ]

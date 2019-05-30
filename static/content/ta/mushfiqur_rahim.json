@@ -21,23 +21,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "விவரம்",
       "cardType": "table",
       "facts": [
         {
-          "label": "Full Name",
+          "label": "முழுப் பெயர்",
           "value": {
             "label": "மொஹம்மத் முஷ்ஃபிகுர் ரஹீம்"
           }
         },
         {
-          "label": "Born On",
+          "label": "பிறந்த தேதி",
           "value": {
-            "label": "Invalid Date (age 31)"
+            "label": "Invalid Date (வயது 31)"
           }
         },
         {
-          "label": "Birthplace",
+          "label": "பிறந்த இடம்",
           "value": {
             "label": "போக்ரா, பங்களாதேஷ்",
             "url": "https://en.wikipedia.org/wiki/Bogra",
@@ -45,19 +45,19 @@
           }
         },
         {
-          "label": "Height",
+          "label": "உயரம்",
           "value": {
             "label": "5 அடி 4 அங்குலம்"
           }
         },
         {
-          "label": "Nationality",
+          "label": "சொந்த நாடு",
           "value": {
             "label": "பங்களாதேஷி"
           }
         },
         {
-          "label": "Role",
+          "label": "இவரின் பங்கு",
           "value": {
             "label": "விக்கெட் கீப்பர் பேட்ஸ்மென்"
           }
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "title": "Alma mater",
+      "title": "கல்வி",
       "cardType": "avatar",
       "facts": [
         {
@@ -81,8 +81,8 @@
       ]
     },
     {
-      "title": "Style of play",
-      "id": "N13_FE_qR",
+      "title": "விளையாட்டின் பாணி",
+      "id": "aarj31NTbq",
       "cardType": "simple",
       "facts": [
         {
@@ -99,12 +99,12 @@
       ]
     },
     {
-      "title": "Phase(s)",
+      "title": "படிநிலைகள்",
       "cardType": "vertical_timeline",
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "Z7BUt4t9Nn9",
+          "id": "bHl3b_aCVI",
           "note": "",
           "value": {
             "label": ""
@@ -112,15 +112,30 @@
         },
         {
           "label": "தேசிய அணி அறிமுகம்",
-          "id": "qfPfIos8Ohn",
+          "id": "ScHfqybdR7",
           "note": "",
           "value": {
-            "label": "2005 இல் பங்களாதேஷின் இங்கிலாந்து டூருக்கு ரஹீம் தேர்ந்தெடுக்கப்பட்டார். அதுதான் பங்களாதேஷ் இங்கிலாந்து செல்வது முதல் முறை ஆகும்."
+            "label": "2005 இல் பங்களாதேஷின் இங்கிலாந்து டூருக்கு ரஹீம் தேர்ந்தெடுக்கப்பட்டார். அதுதான் பங்களாதேஷ் இங்கிலாந்து செல்வது முதல் முறை ஆகும்.",
+            "facts": [
+              {
+                "url": "/read/ta/england_cricket_team",
+                "contentUrl": "/static/content/ta/england_cricket_team.json",
+                "label": "இங்கிலாந்து கிரிக்கெட் அணி",
+                "id": "M7ESOa0ten",
+                "value": {
+                  "label": "இங்கிலாந்து கிரிக்கெட் அணி சர்வதேச கிரிக்கெட் போட்டியில் இங்கிலாந்து மற்றும் வேல்ஸை முன்னிறுத்தி விளையாடுகிறது. இங்கிலாந்து மற்றும் ஆஸ்திரேலியா 1877ஆம் ஆண்டில் டெஸ்ட் போட்டி விளையாடிய முதல் அணிகள் ஆகும்",
+                  "image": {
+                    "url": "/static/images/mushfiqur_rahim/England_cricket_team_logo.svg",
+                    "altText": "Image of இங்கிலாந்து கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "முதல் ஐசிசி போட்டி ",
-          "id": "s9DT0BJ2XxI",
+          "id": "P1OccggrNQ",
           "note": "2007",
           "value": {
             "label": "",
@@ -129,7 +144,7 @@
                 "url": "/read/ta/2007_cricket_world_cup",
                 "contentUrl": "/static/content/ta/2007_cricket_world_cup.json",
                 "label": "2007 கிரிக்கெட் உலகக் கோப்பை",
-                "id": "nysRCnXthft",
+                "id": "rbknrwhXQb",
                 "value": {
                   "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
                   "image": {
@@ -143,7 +158,7 @@
         },
         {
           "label": "2011 உலக கோப்பை",
-          "id": "ZCpB-NMEJPV",
+          "id": "wDAYvFDFXK",
           "note": "2011",
           "value": {
             "label": "",
@@ -152,7 +167,7 @@
                 "url": "/read/ta/2011_cricket_world_cup",
                 "contentUrl": "/static/content/ta/2011_cricket_world_cup.json",
                 "label": "2011 கிரிக்கெட் உலகக் கோப்பை",
-                "id": "jLljQqIAGiB",
+                "id": "V4JT47ZqVs",
                 "value": {
                   "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
                   "image": {
@@ -166,7 +181,7 @@
         },
         {
           "label": "உலகக் கோப்பை",
-          "id": "Tl8Nh-TvX0V",
+          "id": "oRu52WkiVB",
           "note": "2019",
           "value": {
             "label": ""
@@ -175,7 +190,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "சாதனைகள்",
       "cardType": "stories",
       "facts": [
         {
@@ -236,20 +251,35 @@
       ]
     },
     {
-      "title": "Team(s)",
+      "title": "அணிகள்",
       "cardType": "list_card",
       "facts": [
         {
           "label": "பங்ளாதேஷ் தேசிய கிரிக்கெட் அணி (2004 முதல் தற்போது வரை)",
-          "id": "9iqBh92o3Rs",
+          "id": "iabgcpUZOa",
           "value": {
-            "label": "பங்ளாதேஷ் கிரிக்கெட் அணி \"தி டைகர்\" எனப் பிரபலமாக அழைக்கப்படுகிறது, பங்ளாதேஷ் கிரிக்கெட் வாரியம் (பிசிபி) இதை நிர்வகிக்கிறது."
+            "label": "",
+            "facts": [
+              {
+                "label": "Bangladesh national cricket team",
+                "id": "rBXWCUnDss",
+                "url": "/read/ta/bangladesh_national_cricket_team",
+                "contentUrl": "/static/content/ta/bangladesh_national_cricket_team.json",
+                "value": {
+                  "label": "The Bangladesh national cricket team, popularly known as \"The Tigers\", is administered by the Bangladesh Cricket Board (BCB). Bangladesh is a full member of the International Cricket Council (ICC) with Test and One Day International (ODI) status.",
+                  "image": {
+                    "url": "/static/images/mushfiqur_rahim/Flag_of_Bangladesh.svg",
+                    "altText": "Picture of Bangladesh national cricket team"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
     },
     {
-      "title": "Awards & Honors",
+      "title": "விருதுகள் & கௌரவங்கள்",
       "cardType": "tag_card",
       "facts": []
     }

@@ -39,16 +39,16 @@
           "label": "Champion",
           "value": {
             "label": "இந்தியா (2வது டைட்டில்)",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/ta/australia_cricket_team",
+            "contentUrl": "/static/content/ta/australia_cricket_team.json"
           }
         },
         {
           "label": "Runners Up",
           "value": {
             "label": "நியூசிலாந்து",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/ta/new_zealand_national_cricket_team",
+            "contentUrl": "/static/content/ta/new_zealand_national_cricket_team.json"
           }
         },
         {
@@ -147,7 +147,20 @@
           "id": "final-positions-champion",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+                "url": "/read/ta/australia_cricket_team",
+                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "value": {
+                  "label": "ஆஸ்திரேலிய தேசிய கிரிக்கெட் அணி 1877 ஆம் ஆண்டு நடைபெற்ற முதன்முதல் டெஸ்ட் போட்டியில் விளையாடிய, ஒரு மிகப் பழமையான அணியாகும்.",
+                  "image": {
+                    "url": "/static/images/2015_cricket_world_cup/Australia_cricket_logo.svg",
+                    "altText": "Picture of ஆஸ்திரேலிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -155,7 +168,20 @@
           "id": "final-positions-runner-up",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "New Zealand national cricket team",
+                "url": "/read/ta/new_zealand_national_cricket_team",
+                "contentUrl": "/static/content/ta/new_zealand_national_cricket_team.json",
+                "value": {
+                  "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
+                  "image": {
+                    "url": "/static/images/2015_cricket_world_cup/New_Zealand_Cricket_Cap_Insignia.svg",
+                    "altText": "Picture of ஆஸ்திரேலிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
