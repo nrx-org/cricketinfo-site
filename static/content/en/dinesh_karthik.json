@@ -63,7 +63,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "4N0ig9pwST7",
+      "id": "style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -84,7 +84,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "GWarMtjlWaV",
+          "id": "phase_first_class_debut",
           "note": "2002",
           "value": {
             "label": "Karthik made his debut at the first-class level in late-2002 against Baroda"
@@ -92,7 +92,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "4UhLGBYHDFS",
+          "id": "phase_national_team_debut",
           "note": "2004",
           "value": {
             "label": "Karthik made his international debut in an One day international match against England in 2004",
@@ -101,7 +101,7 @@
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "label": "England cricket team",
-                "id": "sj6x_W7p9",
+                "id": "phase_fact_fact_england_cricket_team",
                 "value": {
                   "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
                   "image": {
@@ -115,7 +115,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "8s_ZfHt0Ki",
+          "id": "phase_icc_tournament_debut",
           "note": "",
           "value": {
             "label": ""
@@ -123,7 +123,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "HYvqZd95yi",
+          "id": "phase_ipl_debut",
           "note": "2008",
           "value": {
             "label": "Karthik played in the 2008 Indian Premier League as the wicket-keeper for the Delhi Daredevils",
@@ -132,7 +132,7 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-                "id": "jOe3r5p04j",
+                "id": "phase_fact_fact_delhi_capitals",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
@@ -213,13 +213,13 @@
       "facts": [
         {
           "label": "Indian national cricket team (2004 - present)",
-          "id": "-viNC6k65J0",
+          "id": "team_fact_indian_national_cricket_team_2004 - present",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "1bW1S0afTls",
+                "id": "team_fact_fact_india_national_cricket_team",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -235,13 +235,13 @@
         },
         {
           "label": "Kolkata Knight Riders (2018 - present)",
-          "id": "LPFxyFpHwPb",
+          "id": "team_fact_kolkata_knight_riders_2018 - present",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Kolkata Knight Riders",
-                "id": "BW-8RkBE4Aq",
+                "id": "team_fact_fact_kolkata_knight_riders",
                 "url": "/read/en/kolkata_knight_riders",
                 "contentUrl": "/static/content/en/kolkata_knight_riders.json",
                 "value": {
@@ -257,7 +257,7 @@
         },
         {
           "label": "Tamil Nadu (2002 - present)",
-          "id": "1DqxBATUo2n",
+          "id": "team_fact_tamil_nadu_2002 - present",
           "value": {
             "label": "Tamil Nadu Cricket Team is a domestic cricket team representing the state of Tamil Nadu, India"
           }

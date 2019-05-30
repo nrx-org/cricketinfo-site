@@ -1,7 +1,6 @@
 const fs = require("fs");
 const parse = require("csv-parse/lib/sync");
 const { parse: parseDate, format } = require("date-fns");
-const shortid = require("shortid");
 
 const idMap = require("../static/content/article_ids.json");
 const {
@@ -362,7 +361,7 @@ module.exports.exportPersonalities = () => {
 
       const styleOfPlaySection = {
         title: personalityUiStrings.styleOfPlay[lang],
-        id: shortid.generate(),
+        id: "style_of_play",
         cardType: "simple",
         facts: [
           {
@@ -398,7 +397,7 @@ module.exports.exportPersonalities = () => {
 
             const phaseFact = {
               label: record[phase.KEY],
-              id: shortid.generate(),
+              id: `phase_${getSluggedTitle(record[phase.KEY])}`,
               note: record[phase.YEAR_KEY],
               value: {
                 label: record[phase.DESCRIPTION_KEY]
@@ -416,7 +415,9 @@ module.exports.exportPersonalities = () => {
                   url: cardData.url,
                   contentUrl: cardData.contentUrl,
                   label: cardData.title || record[phase.CARD_LABEL_KEY],
-                  id: shortid.generate(),
+                  id: `phase_fact_fact_${getSluggedTitle(
+                    cardData.title || record[phase.CARD_LABEL_KEY]
+                  )}`,
                   value: {
                     label: cardData.summary,
                     image: await downloadImageAndFillAttributions(
@@ -470,7 +471,9 @@ module.exports.exportPersonalities = () => {
 
           const fact = {
             label: `${record[team.LABEL_KEY]} (${record[team.YEAR_KEY]})`,
-            id: shortid.generate(),
+            id: `team_fact_${getSluggedTitle(record[team.LABEL_KEY])}_${
+              record[team.YEAR_KEY]
+            }`,
             value: {
               label: record[team.DESCRIPTION_KEY]
             }
@@ -482,7 +485,7 @@ module.exports.exportPersonalities = () => {
             fact.value.facts = [
               {
                 label: card.title,
-                id: shortid.generate(),
+                id: `team_fact_fact_${getSluggedTitle(card.title)}`,
                 url: card.url,
                 contentUrl: card.contentUrl,
                 value: {

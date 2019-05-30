@@ -80,7 +80,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "Cqt5myTUhf",
+      "id": "style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -97,7 +97,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "HPUEWyX7bi",
+          "id": "phase_first_class_debut",
           "note": "1975",
           "value": {
             "label": "Dev made an impressive debut for Haryana in November 1975 against Punjab."
@@ -105,7 +105,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "RtReMRKDpF",
+          "id": "phase_national_team_debut",
           "note": "1978",
           "value": {
             "label": "One day cricket debut against Pakistan where his individual performance was ordinary.",
@@ -114,7 +114,7 @@
                 "url": "/read/en/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
                 "label": "Pakistan national cricket team",
-                "id": "omjRz-EJ_D",
+                "id": "phase_fact_fact_pakistan_national_cricket_team",
                 "value": {
                   "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
                   "image": {
@@ -128,7 +128,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "9kTXKP55I0",
+          "id": "phase_icc_tournament_debut",
           "note": "1979",
           "value": {
             "label": "Both Kapil Dev and India had a poor campaign at the 1979 Cricket World Cup."
@@ -136,7 +136,7 @@
         },
         {
           "label": "1983 World Cup Champions",
-          "id": "JBSFWKB9sR",
+          "id": "phase_1983_world_cup_champions",
           "note": "1983",
           "value": {
             "label": "India won the 1983 world cup under Kapil Dev's captaincy.",
@@ -145,7 +145,7 @@
                 "url": "/read/en/1983_cricket_world_cup",
                 "contentUrl": "/static/content/en/1983_cricket_world_cup.json",
                 "label": "1983 Cricket World Cup",
-                "id": "-Iq3HvTHqT",
+                "id": "phase_fact_fact_1983_cricket_world_cup",
                 "value": {
                   "label": "The 1983 Cricket World Cup (officially the Prudential Cup '83) was the 3rd edition of the Cricket World Cup tournament. It was held from 9 June to 25 June 1983 in England and Wales and was won by India.",
                   "image": {
@@ -159,7 +159,7 @@
         },
         {
           "label": "1987 World Cup",
-          "id": "qbAbXtPR3G",
+          "id": "phase_1987_world_cup",
           "note": "1987",
           "value": {
             "label": "Kapil Dev was retained as the captain of the Indian team for the 1987 World Cup."
@@ -167,7 +167,7 @@
         },
         {
           "label": "Final years",
-          "id": "MIze34pwBh",
+          "id": "phase_final_years",
           "note": "1992",
           "value": {
             "label": "Kapil Dev played his last world cup in 1992 under the captaincy of Mohammed Azharuddin"
@@ -175,7 +175,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "2gDI05WsDB",
+          "id": "phase_ipl_debut",
           "note": "",
           "value": {
             "label": ""
@@ -250,13 +250,13 @@
       "facts": [
         {
           "label": "Indian National Cricket team (1978-1994)",
-          "id": "UMeKy-lmr_",
+          "id": "team_fact_indian_national_cricket_team_1978-1994",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "hfIgL8SQp7",
+                "id": "team_fact_fact_india_national_cricket_team",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -272,7 +272,7 @@
         },
         {
           "label": "Haryana (1975-1992)",
-          "id": "FUU78h0wIN",
+          "id": "team_fact_haryana_1975-1992",
           "value": {
             "label": "Domestic Ranji trophy cricket team based in the state of Haryana "
           }

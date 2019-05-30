@@ -89,7 +89,7 @@
     },
     {
       "title": "விளையாட்டின் பாணி",
-      "id": "y3MCIH1josw",
+      "id": "style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -110,7 +110,7 @@
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "Up5mdNFsy7",
+          "id": "phase_முதல்_வகுப்பு",
           "note": "2006",
           "value": {
             "label": "கோலி, 2006 ஆம் ஆண்டு தமிழ்நாட்டுக்கு எதிராக டெல்லி அணிக்காக தன்னுடயை முதல் போட்டியில் ஆடினார்."
@@ -118,7 +118,7 @@
         },
         {
           "label": "தேசிய அணி அறிமுகம்",
-          "id": "MCFppQ9TOb",
+          "id": "phase_தேசிய_அணி_அறிமுகம்",
           "note": "2008",
           "value": {
             "label": "இலங்கை போட்டித் தொடர் மற்றும் பாகிஸ்தானில் நடைபெற்ற சேம்பியன்ஸ் டிராஃபி ஆகியவற்றுக்கான ஒரு நாள் அணியில் கோலி சேர்க்கப்பட்டார்.",
@@ -127,7 +127,7 @@
                 "url": "/read/ta/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/ta/sri_lanka_national_cricket_team.json",
                 "label": "Sri Lanka national cricket team",
-                "id": "MKkDmbKdb_",
+                "id": "phase_fact_fact_sri_lanka_national_cricket_team",
                 "value": {
                   "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
                   "image": {
@@ -141,7 +141,7 @@
         },
         {
           "label": "முதல் ஐசிசி போட்டி ",
-          "id": "UnrkGlK78oo",
+          "id": "phase_முதல்_ஐசிசி_போட்டி",
           "note": "2008",
           "value": {
             "label": "மலேசியாவில் நடைபெற்ற 2008 ஐசிசி அன்டர்-19 கிரிக்கெட் உலக கோப்பையில் வெற்றிகரமான இந்திய அணிக்கு கோலி தலைமை வகித்தார்."
@@ -149,7 +149,7 @@
         },
         {
           "label": "உலக கோப்பை தோற்றம்",
-          "id": "x316ApC0Tkm",
+          "id": "phase_உலக_கோப்பை_தோற்றம்",
           "note": "2011",
           "value": {
             "label": "கோலி, 2011 இந்தியாவின் வெற்றிகரமான உலகக் கோப்பை யுத்தத்தில் ஒவ்வொரு போட்டியிலும் விளையாடினார். "
@@ -157,7 +157,7 @@
         },
         {
           "label": "சேம்பியன்ஸ் டிராஃபி",
-          "id": "p6ld3SEQPU4",
+          "id": "phase_சேம்பியன்ஸ்_டிராஃபி",
           "note": "2013",
           "value": {
             "label": "2013 ஜூன் மாதம், கோலி, இந்தியா வெற்றி பெற்ற இங்கிலாந்தில் நடந்த ஐசிசி சேம்பியன்ஸ் டிராஃபியில் பங்கேற்றார்.",
@@ -166,7 +166,7 @@
                 "url": "/read/ta/icc_champions_trophy",
                 "contentUrl": "/static/content/ta/icc_champions_trophy.json",
                 "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி",
-                "id": "dRVfhvaJC8L",
+                "id": "phase_fact_fact_ஐசிசி_சேம்பியன்ஸ்_டிராஃபி",
                 "value": {
                   "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி என்பது இன்டர்நேஷனல் கிரிக்கெட் கவுன்சிலால் (ஐசிசி) நடத்தப்படும் ஒன் டே இன்டர்நேஷனல் (ODI) கிரிக்கெட் டோர்னமென்ட் ஆகும். இது கிரிக்கெட் உலகக்கோப்பைக்கு அடுத்தபடியாக முக்கியமாக கருதப்படும் டோர்னமென்ட் ஆகும். 2002-ஆம் ஆண்டு இதன் பெயர் சேம்பியன்ஸ் டிராஃபி என்று மாற்றப்பட்டது.",
                   "image": {
@@ -180,7 +180,7 @@
         },
         {
           "label": "2014 உலகக் கோப்பை",
-          "id": "lmbuTk-fGBi",
+          "id": "phase_2014_உலகக்_கோப்பை",
           "note": "2014 ஐசிசி வேர்ல்டு ட்வென்டி20 போட்டியில் கோலி துணை கேப்டனாக நியமிக்கப்பட்டார்.",
           "value": {
             "label": "உலகக் கோப்பை",
@@ -189,7 +189,7 @@
                 "url": "/read/ta/icc_t20_world_cup",
                 "contentUrl": "/static/content/ta/icc_t20_world_cup.json",
                 "label": "ஐசிசி டி20 உலகக் கோப்பை",
-                "id": "mbbZjfyAf89",
+                "id": "phase_fact_fact_ஐசிசி_டி20_உலகக்_கோப்பை",
                 "value": {
                   "label": "ஐசிசி டி20 உலகக் கோப்பை (முன்னர் ஐசிசி வேர்ல்ட் ட்வென்டி20 என்று அழைக்கப்படும்), ட்வென்டி20 இன்டர்நேஷனல் கிரிக்கெட்டின் இன்டர்நேஷனல் சேம்பியன்ஷிப் ஆகும். டோர்னமென்ட்டில் தற்போது 16 அணிகள் இடம்பெற்றுள்ளன. அதில் கொடுக்கப்பட்ட நேரத்திற்குள் தரவரிசையில் முதல் எட்டு இடங்களைப் பிடித்த அணிகளும், டி20 உலகக் கோப்பை குவாலிஃபயர் மூலமாக தேர்வு செய்யப்பட்ட நான்கு அணிகளும் உள்ளடங்கும்.",
                   "image": {
@@ -203,7 +203,7 @@
         },
         {
           "label": "2008",
-          "id": "tKQHWLyCHOA",
+          "id": "phase_2008",
           "note": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
           "value": {
             "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
@@ -212,7 +212,7 @@
                 "url": "/read/ta/royal_challengers_bangalore",
                 "contentUrl": "/static/content/ta/royal_challengers_bangalore.json",
                 "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
-                "id": "iWVpIL6plMi",
+                "id": "phase_fact_fact_ராயல்_சேலஞ்சர்ஸ்_பெங்களூர்",
                 "value": {
                   "label": "ராயல் சேலஞ்சர்ஸ் அணி இண்டியன் பிரீமியர் லீக்கில் (ஐபிஎல்) விளையாடும் கர்நாடகாவின் பெங்களூரில் உள்ள ஒரு உரிமைப் பெற்ற கிரிக்கெட் அணி ஆகும்",
                   "image": {
@@ -296,13 +296,13 @@
       "facts": [
         {
           "label": "இந்திய கிரிக்கெட் அணி (2008 முதல் தற்போது வரை)",
-          "id": "a8XMtRCqk",
+          "id": "team_fact_இந்திய_கிரிக்கெட்_அணி_2008 முதல் தற்போது வரை",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "இந்திய தேசிய கிரிக்கெட் அணி",
-                "id": "X2f3jzR290",
+                "id": "team_fact_fact_இந்திய_தேசிய_கிரிக்கெட்_அணி",
                 "url": "/read/ta/india_national_cricket_team",
                 "contentUrl": "/static/content/ta/india_national_cricket_team.json",
                 "value": {
@@ -318,13 +318,13 @@
         },
         {
           "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூரு (2008 முதல் தற்போது வரை)",
-          "id": "IvFqzXJaKI",
+          "id": "team_fact_ராயல்_சேலஞ்சர்ஸ்_பெங்களூரு_2008 முதல் தற்போது வரை",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
-                "id": "ytvbPBnND",
+                "id": "team_fact_fact_ராயல்_சேலஞ்சர்ஸ்_பெங்களூர்",
                 "url": "/read/ta/royal_challengers_bangalore",
                 "contentUrl": "/static/content/ta/royal_challengers_bangalore.json",
                 "value": {
@@ -340,7 +340,7 @@
         },
         {
           "label": "டெல்லி (2006 முதல் தற்போது வரை)",
-          "id": "ANJL1P4fBq",
+          "id": "team_fact_டெல்லி_2006 முதல் தற்போது வரை",
           "value": {
             "label": "டெல்லியைச் சேர்ந்த உள்ளூர் ரஞ்சி டிராஃபி கிரிக்கெட் அணி"
           }

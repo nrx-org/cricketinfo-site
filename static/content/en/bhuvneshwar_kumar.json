@@ -69,7 +69,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "KslA2B0egU",
+      "id": "style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -90,7 +90,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "qm8_frnxiT3",
+          "id": "phase_first_class_debut",
           "note": "2007",
           "value": {
             "label": "Kumar made his first-class debut playing for Uttar Pradesh at the age of 17 against Bengal"
@@ -98,7 +98,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "7dXaHMO0_W8",
+          "id": "phase_national_team_debut",
           "note": "2012",
           "value": {
             "label": "Kumar made his international debut playing a T20 match versus Pakistan in which he took 3 wickets for 9 runs in 4 overs.",
@@ -107,7 +107,7 @@
                 "url": "/read/en/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
                 "label": "Pakistan national cricket team",
-                "id": "nBdI-R2ivge",
+                "id": "phase_fact_fact_pakistan_national_cricket_team",
                 "value": {
                   "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
                   "image": {
@@ -121,7 +121,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "guHvqe6KFqJ",
+          "id": "phase_icc_tournament_debut",
           "note": "2013",
           "value": {
             "label": "Kumar was a part of the Indian team which won the 2013 Champions Trophy"
@@ -129,7 +129,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "aliyXAVaeAG",
+          "id": "phase_ipl_debut",
           "note": "2009",
           "value": {
             "label": "Following his good performances in the 2008/09 Ranji season, Kumar was signed up by the IPL team Royal Challengers Bangalore",
@@ -138,7 +138,7 @@
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "label": "Royal Challengers Bangalore",
-                "id": "LAiHrFCO-76",
+                "id": "phase_fact_fact_royal_challengers_bangalore",
                 "value": {
                   "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
                   "image": {
@@ -219,13 +219,13 @@
       "facts": [
         {
           "label": "Indian national cricket team (2012 - present)",
-          "id": "lXMwzRgrkG",
+          "id": "team_fact_indian_national_cricket_team_2012 - present",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "CqTpZEZmOae",
+                "id": "team_fact_fact_india_national_cricket_team",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -241,13 +241,13 @@
         },
         {
           "label": "Sunrisers Hyderabad (2014-present)",
-          "id": "NCJ1AJ_oeN4",
+          "id": "team_fact_sunrisers_hyderabad_2014-present",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Sunrisers Hyderabad",
-                "id": "I0k6OsHlW2G",
+                "id": "team_fact_fact_sunrisers_hyderabad",
                 "url": "/read/en/sunrisers_hyderabad",
                 "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
                 "value": {
@@ -263,7 +263,7 @@
         },
         {
           "label": "Uttar Pradesh (2007 - present)",
-          "id": "M4GPrJkU7g1",
+          "id": "team_fact_uttar_pradesh_2007 - present",
           "value": {
             "label": "The Uttar Pradesh cricket team, is a domestic team based in the Indian state of Uttar Pradesh with Kanpur as its home ground"
           }

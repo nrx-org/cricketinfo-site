@@ -71,7 +71,7 @@
     },
     {
       "title": "விளையாட்டின் பாணி",
-      "id": "mNb8d-2AZ2A",
+      "id": "style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -93,7 +93,7 @@
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "oiAlB85ez-",
+          "id": "phase_முதல்_வகுப்பு",
           "note": "2013",
           "value": {
             "label": "ரபாடா 2013 ஆம் ஆண்டு, சிஎஸ்ஏ புரொவின்ஷியல் ஒரு நாள் போட்டிகளில் கௌடெங்குக்காக பார்டர் அணிக்கு எதிராக தன்னுடைய முதல் பர்ஸ்ட் கிளாஸ் போட்டியை ஆடினார்."
@@ -101,7 +101,7 @@
         },
         {
           "label": "தேசிய அணி அறிமுகம்",
-          "id": "BGG3921Yfc",
+          "id": "phase_தேசிய_அணி_அறிமுகம்",
           "note": "",
           "value": {
             "label": "ரபாடா, 2014, நவம்பர் 5 அன்று ஆஸ்திரேலியாவுக்கு எதிரான போட்டியில் தென்னாப்பிரிக்காவுக்காகத் தன்னுடைய முதல் சர்வதேச டி20 போட்டியில் ஆடினார்.",
@@ -110,7 +110,7 @@
                 "url": "/read/ta/australia_cricket_team",
                 "contentUrl": "/static/content/ta/australia_cricket_team.json",
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "id": "R_EKKdJxAt",
+                "id": "phase_fact_fact_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "ஆஸ்திரேலிய தேசிய கிரிக்கெட் அணி 1877 ஆம் ஆண்டு நடைபெற்ற முதன்முதல் டெஸ்ட் போட்டியில் விளையாடிய, ஒரு மிகப் பழமையான அணியாகும்.",
                   "image": {
@@ -124,7 +124,7 @@
         },
         {
           "label": "முதல் ஐசிசி போட்டி ",
-          "id": "9ulToIFw6l",
+          "id": "phase_முதல்_ஐசிசி_போட்டி",
           "note": "",
           "value": {
             "label": "2014 ஐசிசி கிரிக்கெட் உலகக் கோப்பையில் தென்னாப்பிரிக்காவின் அன்டர்-19 அணிக்கு ரபாடா தேர்ந்தெடுக்கப்பட்டார்."
@@ -132,7 +132,7 @@
         },
         {
           "label": "World Cup Appearance",
-          "id": "RFbhIY0d_j",
+          "id": "phase_world_cup_appearance",
           "note": "2019",
           "value": {
             "label": "2019 ஏப்ரல் மாதம், 2019 உலகக் கோப்பையில் தென்னாப்பிரிக்கா அணியில் அவர் பெயர் இடம்பெற்றது."
@@ -140,7 +140,7 @@
         },
         {
           "label": "2017",
-          "id": "i994KzF-54_",
+          "id": "phase_2017",
           "note": "டெல்லி கேப்பிடல்ஸ்",
           "value": {
             "label": "டெல்லி கேப்பிடல்ஸ்",
@@ -149,7 +149,7 @@
                 "url": "/read/ta/delhi_capitals",
                 "contentUrl": "/static/content/ta/delhi_capitals.json",
                 "label": "Delhi Capitals",
-                "id": "NnvzzfINiRP",
+                "id": "phase_fact_fact_delhi_capitals",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
@@ -230,13 +230,13 @@
       "facts": [
         {
           "label": "தென்னாப்பிரிக்க தேசிய கிரிக்கெட் அணி (2014 முதல் தற்போது வரை)",
-          "id": "pvkMUpsuPNd",
+          "id": "team_fact_தென்னாப்பிரிக்க_தேசிய_கிரிக்கெட்_அணி_2014 முதல் தற்போது வரை",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "South Africa national cricket team",
-                "id": "4DM3kBcSy",
+                "id": "team_fact_fact_south_africa_national_cricket_team",
                 "url": "/read/ta/south_africa_national_cricket_team",
                 "contentUrl": "/static/content/ta/south_africa_national_cricket_team.json",
                 "value": {
@@ -252,13 +252,13 @@
         },
         {
           "label": "டெல்லி கேப்பிட்டல்ஸ் (2017 முதல் தற்போது வரை)",
-          "id": "FzfUCcRSjF",
+          "id": "team_fact_டெல்லி_கேப்பிட்டல்ஸ்_2017 முதல் தற்போது வரை",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Delhi Capitals",
-                "id": "GTBiqF5lHG",
+                "id": "team_fact_fact_delhi_capitals",
                 "url": "/read/ta/delhi_capitals",
                 "contentUrl": "/static/content/ta/delhi_capitals.json",
                 "value": {

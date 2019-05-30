@@ -87,7 +87,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "1etoAPfSJj",
+      "id": "style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -108,7 +108,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "RixWGMetp_e",
+          "id": "phase_first_class_debut",
           "note": "1991",
           "value": {
             "label": "Dravid made his Ranji Trophy debut in 1991versus Maharashtra."
@@ -116,7 +116,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "XuoWzxQVBjU",
+          "id": "phase_national_team_debut",
           "note": "1996",
           "value": {
             "label": "Dravid made his international debut in 1996 in an ODI against Sri Lanka in the Singer Cup held in Singapore.",
@@ -125,7 +125,7 @@
                 "url": "/read/en/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
                 "label": "Sri Lanka national cricket team",
-                "id": "nysveq-CA4l",
+                "id": "phase_fact_fact_sri_lanka_national_cricket_team",
                 "value": {
                   "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
                   "image": {
@@ -139,7 +139,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "MxuZdDcfTaz",
+          "id": "phase_icc_tournament_debut",
           "note": "1999",
           "value": {
             "label": "Dravid made his World Cup debut against South Africa in 1999 at Hove scoring a half century.",
@@ -148,7 +148,7 @@
                 "url": "/read/en/1999_cricket_world_cup",
                 "contentUrl": "/static/content/en/1999_cricket_world_cup.json",
                 "label": "1999 Cricket World Cup",
-                "id": "nNlhbIb_XFm",
+                "id": "phase_fact_fact_1999_cricket_world_cup",
                 "value": {
                   "label": "The 1999 Cricket World Cup was the seventh edition of the Cricket World Cup, organised by the International Cricket Council (ICC). It was hosted primarily by England, with some games being played in Scotland, Ireland, Wales and the Netherlands.",
                   "image": {
@@ -162,7 +162,7 @@
         },
         {
           "label": "2003 World Cup",
-          "id": "55ZbdPc3SXd",
+          "id": "phase_2003_world_cup",
           "note": "2003",
           "value": {
             "label": "Dravid was the vice-captain during the 2003 World Cup, playing as a wicket-keeper batsman.",
@@ -171,7 +171,7 @@
                 "url": "/read/en/2003_cricket_world_cup",
                 "contentUrl": "/static/content/en/2003_cricket_world_cup.json",
                 "label": "2003 Cricket World Cup",
-                "id": "63XtymQ2AIj",
+                "id": "phase_fact_fact_2003_cricket_world_cup",
                 "value": {
                   "label": "The 2003 Cricket World Cup was the eighth Cricket World Cup, organized by the International Cricket Council (ICC). It was co-hosted by South Africa, Zimbabwe and Kenya.",
                   "image": {
@@ -185,7 +185,7 @@
         },
         {
           "label": "2007 World Cup",
-          "id": "-a69eLAY8W0",
+          "id": "phase_2007_world_cup",
           "note": "2007",
           "value": {
             "label": "Rahul Dravid was appointed the captain for the Indian team for the 2007 World Cup, where India had an unsuccessful campaign.",
@@ -194,7 +194,7 @@
                 "url": "/read/en/2007_cricket_world_cup",
                 "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
                 "label": "2007 Cricket World Cup",
-                "id": "br3n9eQkyWU",
+                "id": "phase_fact_fact_2007_cricket_world_cup",
                 "value": {
                   "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
                   "image": {
@@ -208,7 +208,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "Ing0pluxGts",
+          "id": "phase_ipl_debut",
           "note": "2008",
           "value": {
             "label": "Rahul Dravid played for Royal Challengers Bangalore in IPL 2008, 2009 and 2010.",
@@ -217,7 +217,7 @@
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "label": "Royal Challengers Bangalore",
-                "id": "CPoAJPAGK_k",
+                "id": "phase_fact_fact_royal_challengers_bangalore",
                 "value": {
                   "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
                   "image": {
@@ -298,13 +298,13 @@
       "facts": [
         {
           "label": "Indian National Cricket team (1996-2012)",
-          "id": "4onLwKdmmg",
+          "id": "team_fact_indian_national_cricket_team_1996-2012",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "mPxn1gGJZ5",
+                "id": "team_fact_fact_india_national_cricket_team",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -320,13 +320,13 @@
         },
         {
           "label": "Rajasthan Royals (2011-2013)",
-          "id": "h7WCaLml-c",
+          "id": "team_fact_rajasthan_royals_2011-2013",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Rajasthan Royals",
-                "id": "15D5k1-cFs",
+                "id": "team_fact_fact_rajasthan_royals",
                 "url": "/read/en/rajasthan_royals",
                 "contentUrl": "/static/content/en/rajasthan_royals.json",
                 "value": {
@@ -342,7 +342,7 @@
         },
         {
           "label": "Karnataka (1990-2012)",
-          "id": "fdFYR_wNtW",
+          "id": "team_fact_karnataka_1990-2012",
           "value": {
             "label": "Domestic Ranji trophy cricket team based in the state of Karnataka"
           }

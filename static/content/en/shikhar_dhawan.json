@@ -81,7 +81,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "s1Fzsla1qOe",
+      "id": "style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -103,7 +103,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "rvGmRnqCOd",
+          "id": "phase_first_class_debut",
           "note": "2004",
           "value": {
             "label": "Dhawan made his first-class debut for Delhi against Andhra during Ranji Trophy in the year 2004."
@@ -111,7 +111,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "EnzZ7cUUd4",
+          "id": "phase_national_team_debut",
           "note": "2010",
           "value": {
             "label": "Dhawan made his international debut versus Australia but got out on a duck.",
@@ -120,7 +120,7 @@
                 "url": "/read/en/australia_cricket_team",
                 "contentUrl": "/static/content/en/australia_cricket_team.json",
                 "label": "Australia Cricket team",
-                "id": "d1eMuZkJqA",
+                "id": "phase_fact_fact_australia_cricket_team",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
@@ -134,7 +134,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "1NphT2mOBi",
+          "id": "phase_icc_tournament_debut",
           "note": "2013",
           "value": {
             "label": "Dhawan scored the most runs in the tournament and was also named as the player of the tournament.",
@@ -143,7 +143,7 @@
                 "url": "/read/en/icc_champions_trophy",
                 "contentUrl": "/static/content/en/icc_champions_trophy.json",
                 "label": "ICC Champions Trophy",
-                "id": "TXit8Sh8CI",
+                "id": "phase_fact_fact_icc_champions_trophy",
                 "value": {
                   "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
                   "image": {
@@ -157,7 +157,7 @@
         },
         {
           "label": "Struggle with form",
-          "id": "7o1OKfYB-w",
+          "id": "phase_struggle_with_form",
           "note": "2014",
           "value": {
             "label": "Dhawan failed to score big runs and was dropped from the team.",
@@ -166,7 +166,7 @@
                 "url": "/read/en/icc_t20_world_cup",
                 "contentUrl": "/static/content/en/icc_t20_world_cup.json",
                 "label": "ICC T20 World Cup",
-                "id": "CBcWwbDMnf",
+                "id": "phase_fact_fact_icc_t20_world_cup",
                 "value": {
                   "label": "The ICC T20 World Cup (earlier known as ICC World Twenty20) is the international championship of Twenty20 International cricket. The tournament currently consists of 16 teams, comprising the top eight teams from the rankings at the given deadline and four other teams chosen through the T20 World Cup Qualifier. ",
                   "image": {
@@ -180,7 +180,7 @@
         },
         {
           "label": "2015 World Cup",
-          "id": "7-OOhGeoWZ",
+          "id": "phase_2015_world_cup",
           "note": "2015",
           "value": {
             "label": "Dhawan finished the 2015 world cup as the fifth-highest run scorer.",
@@ -189,7 +189,7 @@
                 "url": "/read/en/2015_cricket_world_cup",
                 "contentUrl": "/static/content/en/2015_cricket_world_cup.json",
                 "label": "2015 Cricket World Cup",
-                "id": "O5O9PKcXzS",
+                "id": "phase_fact_fact_2015_cricket_world_cup",
                 "value": {
                   "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
                   "image": {
@@ -203,7 +203,7 @@
         },
         {
           "label": "2017 Champions Trophy",
-          "id": "mHdKQC5hJg",
+          "id": "phase_2017_champions_trophy",
           "note": "2017",
           "value": {
             "label": "Dhawan won the Golden bat for the most runs scored during the tournament",
@@ -212,7 +212,7 @@
                 "url": "/read/en/icc_champions_trophy",
                 "contentUrl": "/static/content/en/icc_champions_trophy.json",
                 "label": "ICC Champions Trophy",
-                "id": "FJTlhnuK0t",
+                "id": "phase_fact_fact_icc_champions_trophy",
                 "value": {
                   "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
                   "image": {
@@ -226,7 +226,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "g-GCgQ02H6",
+          "id": "phase_ipl_debut",
           "note": "2008",
           "value": {
             "label": "Shikhar Dhawan played for the Delhi Daredevils in the Indian Premier League until he was traded to the Mumbai Indians in 2009 in exchange for Ashish Nehra.",
@@ -235,7 +235,7 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-                "id": "HJv2VbU4oz4",
+                "id": "phase_fact_fact_delhi_capitals",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
@@ -316,13 +316,13 @@
       "facts": [
         {
           "label": "Indian National Cricket team (2010-present)",
-          "id": "F-CSKO5FkfT",
+          "id": "team_fact_indian_national_cricket_team_2010-present",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "eF9so3DE5ss",
+                "id": "team_fact_fact_india_national_cricket_team",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -338,13 +338,13 @@
         },
         {
           "label": "Delhi Capitals (2019-present)",
-          "id": "1rP235_ANiC",
+          "id": "team_fact_delhi_capitals_2019-present",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Delhi Capitals",
-                "id": "U0ETgJCC1ef",
+                "id": "team_fact_fact_delhi_capitals",
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "value": {
@@ -360,7 +360,7 @@
         },
         {
           "label": "Delhi (2004-present)",
-          "id": "c_oFmEngjgj",
+          "id": "team_fact_delhi_2004-present",
           "value": {
             "label": "Domestic Ranji trophy cricket team based in Delhi"
           }
