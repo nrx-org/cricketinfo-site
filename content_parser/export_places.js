@@ -7,6 +7,7 @@ const {
   getCardInfoFromId
 } = require("./lib");
 const idMap = require("../static/content/article_ids.json");
+const { placesUiStrings } = require("./ui_strings");
 
 const csvExports = {
   en: { path: "./csv/places.en.csv" },
@@ -199,37 +200,37 @@ module.exports.exportPlaces = () => {
           }
         },
         record[TOTAL_AREA_KEY] && {
-          label: TOTAL_AREA_KEY,
+          label: placesUiStrings[TOTAL_AREA_KEY][lang],
           value: {
             label: record[TOTAL_AREA_KEY]
           }
         },
         record[POPULATION_KEY] && {
-          label: POPULATION_KEY,
+          label: placesUiStrings[POPULATION_KEY][lang],
           value: {
             label: record[POPULATION_KEY]
           }
         },
         record[OTHER_NAMES_KEY] && {
-          label: OTHER_NAMES_KEY,
+          label: placesUiStrings[OTHER_NAMES_KEY][lang],
           value: {
             label: record[OTHER_NAMES_KEY]
           }
         },
         record[CAPITAL_CITY_KEY] && {
-          label: CAPITAL_CITY_KEY,
+          label: placesUiStrings[CAPITAL_CITY_KEY][lang],
           value: {
             label: record[CAPITAL_CITY_KEY]
           }
         },
         record[LARGEST_CITY_KEY] && {
-          label: LARGEST_CITY_KEY,
+          label: placesUiStrings[LARGEST_CITY_KEY][lang],
           value: {
             label: record[LARGEST_CITY_KEY]
           }
         },
         record[TIMEZONE_KEY] && {
-          label: TIMEZONE_KEY,
+          label: placesUiStrings[TIMEZONE_KEY][lang],
           value: {
             label: record[TIMEZONE_KEY]
           }
@@ -238,7 +239,7 @@ module.exports.exportPlaces = () => {
 
       if (aboutTableFacts.length > 0) {
         place.sections.push({
-          title: "About",
+          title: placesUiStrings.about[lang],
           cardType: "table",
           facts: aboutTableFacts
         });
@@ -246,7 +247,7 @@ module.exports.exportPlaces = () => {
 
       // History.
       const historySection = {
-        title: "History",
+        title: placesUiStrings.history[lang],
         cardType: "vertical_timeline",
         facts: HISTORY.map(historyItem => {
           if (!record[historyItem.TITLE_KEY]) {
@@ -276,7 +277,7 @@ module.exports.exportPlaces = () => {
           }
 
           return {
-            label: person.NAME_KEY,
+            label: placesUiStrings[person.NAME_KEY][lang],
             value: {
               label: record[person.NAME_KEY],
               image: await downloadImageAndFillAttributions(
@@ -295,7 +296,7 @@ module.exports.exportPlaces = () => {
 
       if (governmentFacts.length > 0) {
         place.sections.push({
-          title: "Government",
+          title: placesUiStrings.government[lang],
           cardType: "avatar",
           label: record[GOVERNMENT_KEY],
           facts: governmentFacts
@@ -316,7 +317,9 @@ module.exports.exportPlaces = () => {
           }
 
           return {
-            label: inSport.isPlayer ? "Player" : "Team",
+            label: inSport.isPlayer
+              ? placesUiStrings.player[lang]
+              : placesUiStrings.team[lang],
             value: {
               label: card.title,
               url: card.url,
@@ -337,7 +340,7 @@ module.exports.exportPlaces = () => {
 
       if (inSportsFacts.length > 0) {
         place.sections.push({
-          title: "In Sports",
+          title: placesUiStrings.inSports[lang],
           cardType: "avatar",
           label: "",
           facts: inSportsFacts
@@ -355,7 +358,7 @@ module.exports.exportPlaces = () => {
         );
 
         const geographySection = {
-          title: "Geography",
+          title: placesUiStrings.geography[lang],
           id: getSluggedTitle(`${englishSlug}_geography`),
           cardType: "simple",
           facts: [
@@ -403,7 +406,7 @@ module.exports.exportPlaces = () => {
 
       if (cultureFacts.length > 0) {
         place.sections.push({
-          title: "Culture",
+          title: placesUiStrings.culture[lang],
           cardType: "stories",
           facts: cultureFacts
         });
@@ -411,7 +414,7 @@ module.exports.exportPlaces = () => {
 
       // Demographics.
       const demographicsSection = {
-        title: "Demographics",
+        title: placesUiStrings.demographics[lang],
         cardType: "bar_chart_with_info",
         facts: []
       };
@@ -419,7 +422,7 @@ module.exports.exportPlaces = () => {
       if (record[LANGUAGES_KEY]) {
         demographicsSection.facts.push({
           id: getSluggedTitle(`section_languages_${englishSlug}`),
-          label: "Languages",
+          label: placesUiStrings.languages[lang],
           value: {
             label: record[LANGUAGES_KEY]
           }
@@ -443,7 +446,7 @@ module.exports.exportPlaces = () => {
       if (religionFacts.length > 0) {
         demographicsSection.facts.push({
           id: getSluggedTitle(`religion_section_${englishSlug}`),
-          label: "Religions",
+          label: placesUiStrings.religions[lang],
           value: {
             facts: religionFacts
           }

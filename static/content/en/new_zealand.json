@@ -36,7 +36,7 @@
           }
         },
         {
-          "label": "Total Area of country (km squared)",
+          "label": "Total Area",
           "value": {
             "label": "268021  km²"
           }
@@ -54,19 +54,19 @@
           }
         },
         {
-          "label": "Capital city",
+          "label": "Capital",
           "value": {
             "label": "Wellington"
           }
         },
         {
-          "label": "Largest city",
+          "label": "Largest City",
           "value": {
             "label": "Auckland"
           }
         },
         {
-          "label": "Timezone",
+          "label": "Timezone(s)",
           "value": {
             "label": "UTC+12 (UTC+13, summer)"
           }
@@ -117,7 +117,7 @@
       "label": "The New Zealand Parliament holds legislative power and consists of the Queen and the House of Representatives. The House of Representatives is democratically elected and a government is formed from the party or coalition with the majority of seats.",
       "facts": [
         {
-          "label": "Prime minister name",
+          "label": "Prime Minister",
           "value": {
             "label": "Jacinda Ardern",
             "image": {
@@ -128,7 +128,7 @@
           }
         },
         {
-          "label": "Chief Justice name",
+          "label": "Chief Justice",
           "value": {
             "label": "Dame Helen Winkelmann",
             "image": {

@@ -20,7 +20,7 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इसके बारे में",
       "cardType": "table",
       "facts": [
         {
@@ -36,37 +36,37 @@
           }
         },
         {
-          "label": "Total Area of country (km squared)",
+          "label": "कुल क्षेत्रफल",
           "value": {
             "label": "65,610 वर्ग किमी"
           }
         },
         {
-          "label": "Population",
+          "label": "जनसंख्या",
           "value": {
             "label": "21,670,000 (2018)"
           }
         },
         {
-          "label": "Other names",
+          "label": "अन्य नाम",
           "value": {
             "label": "सीलोन"
           }
         },
         {
-          "label": "Capital city",
+          "label": "राजधानी",
           "value": {
             "label": "श्री जयवर्धनेपुरा कोट्टे "
           }
         },
         {
-          "label": "Largest city",
+          "label": "सबसे बड़ा शहर",
           "value": {
             "label": "कोलंबो"
           }
         },
         {
-          "label": "Timezone",
+          "label": "समय क्षेत्र",
           "value": {
             "label": "UTC+5:30"
           }
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "title": "History",
+      "title": "इतिहास",
       "cardType": "vertical_timeline",
       "facts": [
         {
@@ -112,12 +112,12 @@
       ]
     },
     {
-      "title": "Government",
+      "title": "सरकार",
       "cardType": "avatar",
       "label": "श्रीलंका की राजनीति एक अर्ध-राष्ट्रपति प्रतिनिधि लोकतांत्रिक गणराज्य के ढांचे में होती है, जिसके तहत श्रीलंका के राष्ट्रपति राज्य के प्रमुख और सरकार के प्रमुख और एक बहुदलीय व्यवस्था के प्रमुख होते हैं। सरकार द्वारा कार्यकारी शक्ति का प्रयोग किया जाता है। सरकार और संसद दोनों में विधायी शक्ति निहित है।",
       "facts": [
         {
-          "label": "Prime minister name",
+          "label": "प्रधान मंत्री",
           "value": {
             "label": "रानिल विक्रमसिंघे",
             "image": {
@@ -128,7 +128,7 @@
           }
         },
         {
-          "label": "President",
+          "label": "राष्ट्रपति",
           "value": {
             "label": "मात्रिपाला श्रीसेना ",
             "image": {
@@ -139,7 +139,7 @@
           }
         },
         {
-          "label": "Chief Justice name",
+          "label": "मुख्य न्यायाधीश",
           "value": {
             "label": "न्यायमूर्ति हेतीकाननंगे नलिन जयलथ परेरा",
             "image": {
@@ -151,7 +151,26 @@
       ]
     },
     {
-      "title": "Geography",
+      "title": "खेलों में",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "टीम",
+          "value": {
+            "label": "श्रीलंका की राष्ट्रीय क्रिकेट टीम",
+            "url": "/read/hi/sri_lanka_national_cricket_team",
+            "contentUrl": "/static/content/hi/sri_lanka_national_cricket_team.json",
+            "image": {
+              "url": "/static/images/sri_lanka/Sri_Lanka_Cricket_Cap_Insignia.svg",
+              "altText": "Picture of श्रीलंका की राष्ट्रीय क्रिकेट टीम"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "भूगोल",
       "id": "sri_lanka_geography",
       "cardType": "simple",
       "facts": [
@@ -168,7 +187,7 @@
       ]
     },
     {
-      "title": "Culture",
+      "title": "संस्कृति",
       "cardType": "stories",
       "facts": [
         {
@@ -218,19 +237,19 @@
       ]
     },
     {
-      "title": "Demographics",
+      "title": "जनसांख्यिकी",
       "cardType": "bar_chart_with_info",
       "facts": [
         {
           "id": "section_languages_sri_lanka",
-          "label": "Languages",
+          "label": "भाषा",
           "value": {
             "label": "सिंहल और तमिल श्रीलंका के दो आधिकारिक भाषाएँ हैं। संविधान में अंग्रेजी को कड़ी भाषा के रूप में परिभाषित किया गया है|"
           }
         },
         {
           "id": "religion_section_sri_lanka",
-          "label": "Religions",
+          "label": "धर्म",
           "value": {
             "facts": [
               {

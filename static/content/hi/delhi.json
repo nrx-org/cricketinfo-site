@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इसके बारे में",
       "cardType": "table",
       "facts": [
         {
-          "label": "Total Area of country (km squared)",
+          "label": "कुल क्षेत्रफल",
           "value": {
             "label": "1484 वर्ग किमी"
           }
         },
         {
-          "label": "Population",
+          "label": "जनसंख्या",
           "value": {
             "label": "16,787,941"
           }
         },
         {
-          "label": "Timezone",
+          "label": "समय क्षेत्र",
           "value": {
             "label": "UTC+5:30"
           }
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "title": "History",
+      "title": "इतिहास",
       "cardType": "vertical_timeline",
       "facts": [
         {
@@ -82,7 +82,26 @@
       ]
     },
     {
-      "title": "Geography",
+      "title": "खेलों में",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "टीम",
+          "value": {
+            "label": "देल्ही कैपिटल्स",
+            "url": "/read/hi/delhi_capitals",
+            "contentUrl": "/static/content/hi/delhi_capitals.json",
+            "image": {
+              "url": "/static/images/delhi/Delhi_Capitals_Logo.svg",
+              "altText": "Picture of देल्ही कैपिटल्स"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "भूगोल",
       "id": "delhi_geography",
       "cardType": "simple",
       "facts": [
@@ -99,7 +118,7 @@
       ]
     },
     {
-      "title": "Culture",
+      "title": "संस्कृति",
       "cardType": "stories",
       "facts": [
         {
@@ -152,19 +171,19 @@
       ]
     },
     {
-      "title": "Demographics",
+      "title": "जनसांख्यिकी",
       "cardType": "bar_chart_with_info",
       "facts": [
         {
           "id": "section_languages_delhi",
-          "label": "Languages",
+          "label": "भाषा",
           "value": {
             "label": "हिंदी, उर्दू, पंजाबी, अंग्रेजी"
           }
         },
         {
           "id": "religion_section_delhi",
-          "label": "Religions",
+          "label": "धर्म",
           "value": {
             "facts": [
               {

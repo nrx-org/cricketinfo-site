@@ -20,7 +20,7 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इसके बारे में",
       "cardType": "table",
       "facts": [
         {
@@ -36,37 +36,37 @@
           }
         },
         {
-          "label": "Total Area of country (km squared)",
+          "label": "कुल क्षेत्रफल",
           "value": {
             "label": "1221037 वर्ग किमी"
           }
         },
         {
-          "label": "Population",
+          "label": "जनसंख्या",
           "value": {
             "label": "57725600 (2018 अनुमान)"
           }
         },
         {
-          "label": "Other names",
+          "label": "अन्य नाम",
           "value": {
             "label": "दक्षिण अफ्रीका, दक्षिण अफ्रीका के गणराज्य, मन्ज़सी, अज़ानिया का संघ"
           }
         },
         {
-          "label": "Capital city",
+          "label": "राजधानी",
           "value": {
             "label": "प्रिटोरिया (कार्यकारी), ब्लोम्फोनेटिन (न्यायिक), केप टाउन (विधायी)"
           }
         },
         {
-          "label": "Largest city",
+          "label": "सबसे बड़ा शहर",
           "value": {
             "label": "जोहानसबर्ग"
           }
         },
         {
-          "label": "Timezone",
+          "label": "समय क्षेत्र",
           "value": {
             "label": "UTC+2"
           }
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "title": "History",
+      "title": "इतिहास",
       "cardType": "vertical_timeline",
       "facts": [
         {
@@ -112,12 +112,12 @@
       ]
     },
     {
-      "title": "Government",
+      "title": "सरकार",
       "cardType": "avatar",
       "label": "दक्षिण अफ्रीका एक संसदीय गणतंत्र है, हालांकि अधिकांश ऐसे गणराज्यों के विपरीत राष्ट्रपति राज्य के प्रमुख और सरकार के प्रमुख हैं, और संसद के विश्वास पर उनके कार्यकाल के लिए निर्भर करता है।",
       "facts": [
         {
-          "label": "President",
+          "label": "राष्ट्रपति",
           "value": {
             "label": "सिरिल रामाफोसा",
             "image": {
@@ -128,7 +128,7 @@
           }
         },
         {
-          "label": "Chief Justice name",
+          "label": "मुख्य न्यायाधीश",
           "value": {
             "label": "थॉमस रेत्सांग मोगेंग",
             "image": {
@@ -140,7 +140,26 @@
       ]
     },
     {
-      "title": "Geography",
+      "title": "खेलों में",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "टीम",
+          "value": {
+            "label": "दक्षिण अफ्रीका की राष्ट्रीय क्रिकेट टीम",
+            "url": "/read/hi/south_africa_national_cricket_team",
+            "contentUrl": "/static/content/hi/south_africa_national_cricket_team.json",
+            "image": {
+              "url": "/static/images/south_africa/Southafrica_cricket_logo.svg",
+              "altText": "Picture of दक्षिण अफ्रीका की राष्ट्रीय क्रिकेट टीम"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "भूगोल",
       "id": "south_africa_geography",
       "cardType": "simple",
       "facts": [
@@ -157,7 +176,7 @@
       ]
     },
     {
-      "title": "Culture",
+      "title": "संस्कृति",
       "cardType": "stories",
       "facts": [
         {
@@ -208,19 +227,19 @@
       ]
     },
     {
-      "title": "Demographics",
+      "title": "जनसांख्यिकी",
       "cardType": "bar_chart_with_info",
       "facts": [
         {
           "id": "section_languages_south_africa",
-          "label": "Languages",
+          "label": "भाषा",
           "value": {
             "label": "अफ्रीकी, इसाईडेले, सेपेडी, सेसोथो सा बोरवा, सिस्वाती, शीत्सोंगा, सेत्सवाना, त्सिवेना, इशीएक्सोसा, और इज़ुलु"
           }
         },
         {
           "id": "religion_section_south_africa",
-          "label": "Religions",
+          "label": "धर्म",
           "value": {
             "facts": [
               {

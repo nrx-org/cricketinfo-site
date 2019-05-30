@@ -20,7 +20,7 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "தெரிந்து கொள்ளுங்கள்",
       "cardType": "table",
       "facts": [
         {
@@ -36,31 +36,31 @@
           }
         },
         {
-          "label": "Total Area of country (km squared)",
+          "label": "மொத்த பரப்பு",
           "value": {
             "label": "881913 சதுர கிமீ"
           }
         },
         {
-          "label": "Population",
+          "label": "மக்கள் தொகை",
           "value": {
             "label": "212742631 (2017 மக்கள் தொகை கணக்கெடுப்பின்படி)"
           }
         },
         {
-          "label": "Capital city",
+          "label": "தலைநகரம்",
           "value": {
             "label": "இஸ்லாமாபாத்"
           }
         },
         {
-          "label": "Largest city",
+          "label": "பெரிய நகரம்",
           "value": {
             "label": "கராச்சி"
           }
         },
         {
-          "label": "Timezone",
+          "label": "நேரம்(கள்)",
           "value": {
             "label": "UTC+5"
           }
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "title": "History",
+      "title": "வரலாறு",
       "cardType": "vertical_timeline",
       "facts": [
         {
@@ -106,12 +106,12 @@
       ]
     },
     {
-      "title": "Government",
+      "title": "அரசாங்கம்",
       "cardType": "avatar",
       "label": "பாகிஸ்தான் பலகட்சி பாராளுமன்ற அமைப்பைக் கொண்ட ஒரு இஸ்லாமிய குடியரசு நாடு. தேசிய சட்டமன்ற உறுப்பினர்கள் குடிமக்களால் தேர்ந்தெடுக்கப்பட்டனர். தேசிய சட்டமன்றத்தில் பெரும்பான்மையைக் கொண்ட கட்சியின் தலைவர் கூட்டணித் தலைவர் பிரதமராகப் பொறுப்பு வகிக்கிறார். ",
       "facts": [
         {
-          "label": "Prime minister name",
+          "label": "பிரதமர்",
           "value": {
             "label": "இம்ரான் கான்",
             "image": {
@@ -122,7 +122,7 @@
           }
         },
         {
-          "label": "President",
+          "label": "குடியரசுத் தலைவர்",
           "value": {
             "label": "ஆரிஃப் அல்வீ",
             "image": {
@@ -134,7 +134,26 @@
       ]
     },
     {
-      "title": "Geography",
+      "title": "விளையாட்டுத் துறையில் இவரின் பங்கு",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "அணி",
+          "value": {
+            "label": "Pakistan national cricket team",
+            "url": "/read/ta/pakistan_national_cricket_team",
+            "contentUrl": "/static/content/ta/pakistan_national_cricket_team.json",
+            "image": {
+              "url": "/static/images/pakistan/PakistanCricketLogo.png",
+              "altText": "Picture of Pakistan national cricket team"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "புவியியல்",
       "id": "pakistan_geography",
       "cardType": "simple",
       "facts": [
@@ -151,7 +170,7 @@
       ]
     },
     {
-      "title": "Culture",
+      "title": "கலாச்சாரம்",
       "cardType": "stories",
       "facts": [
         {
@@ -202,12 +221,12 @@
       ]
     },
     {
-      "title": "Demographics",
+      "title": "மக்கள் விகிதாச்சாரம்",
       "cardType": "bar_chart_with_info",
       "facts": [
         {
           "id": "section_languages_pakistan",
-          "label": "Languages",
+          "label": "மொழிகள்",
           "value": {
             "label": "உருது, பஞ்சாபி, பாஷ்டா, பலோச்சி, சிந்தி"
           }

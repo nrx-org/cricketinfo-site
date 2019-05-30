@@ -20,29 +20,29 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "தெரிந்து கொள்ளுங்கள்",
       "cardType": "table",
       "facts": [
         {
-          "label": "Total Area of country (km squared)",
+          "label": "மொத்த பரப்பு",
           "value": {
             "label": "4355 சதுர கிமீ"
           }
         },
         {
-          "label": "Population",
+          "label": "மக்கள் தொகை",
           "value": {
             "label": "20,748,395"
           }
         },
         {
-          "label": "Other names",
+          "label": "வேறு பெயர்கள்",
           "value": {
             "label": "Bombay, City of Seven Islands, City of Dreams, Gateway to India, Hollywood of India"
           }
         },
         {
-          "label": "Timezone",
+          "label": "நேரம்(கள்)",
           "value": {
             "label": "UTC+5:30"
           }
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "title": "History",
+      "title": "வரலாறு",
       "cardType": "vertical_timeline",
       "facts": [
         {
@@ -88,7 +88,26 @@
       ]
     },
     {
-      "title": "Geography",
+      "title": "விளையாட்டுத் துறையில் இவரின் பங்கு",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "அணி",
+          "value": {
+            "label": "மும்பை இண்டியன்ஸ்",
+            "url": "/read/ta/mumbai_indians",
+            "contentUrl": "/static/content/ta/mumbai_indians.json",
+            "image": {
+              "url": "/static/images/mumbai/Mumbai_Indians_Logo.svg",
+              "altText": "Picture of மும்பை இண்டியன்ஸ்"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "புவியியல்",
       "id": "mumbai_geography",
       "cardType": "simple",
       "facts": [
@@ -105,7 +124,7 @@
       ]
     },
     {
-      "title": "Culture",
+      "title": "கலாச்சாரம்",
       "cardType": "stories",
       "facts": [
         {
@@ -157,12 +176,12 @@
       ]
     },
     {
-      "title": "Demographics",
+      "title": "மக்கள் விகிதாச்சாரம்",
       "cardType": "bar_chart_with_info",
       "facts": [
         {
           "id": "section_languages_mumbai",
-          "label": "Languages",
+          "label": "மொழிகள்",
           "value": {
             "label": "இந்தியாவில் உள்ள மற்ற பெரு நகரங்களைப் போலவே மும்பையிலும் பல வகையான மக்கள் வாழ்கின்றனர். மராத்தி மற்றும் அதன் கிழக்கிந்திய பேச்சுவழக்கு, இந்தி, குஜராத்தி மற்றும் ஆங்கிலம் போன்ற இந்திய மொழிகளுள் பதினாறு முக்கிய மொழிகள் மும்பையில் பேசப்படுகின்றன."
           }

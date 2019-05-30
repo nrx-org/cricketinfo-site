@@ -20,29 +20,29 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "தெரிந்து கொள்ளுங்கள்",
       "cardType": "table",
       "facts": [
         {
-          "label": "Total Area of country (km squared)",
+          "label": "மொத்த பரப்பு",
           "value": {
             "label": "8005 சதுர கிமீ"
           }
         },
         {
-          "label": "Population",
+          "label": "மக்கள் தொகை",
           "value": {
             "label": "10,456,000"
           }
         },
         {
-          "label": "Other names",
+          "label": "வேறு பெயர்கள்",
           "value": {
             "label": "Bengaluru, Silicon Valley of India, Garden City"
           }
         },
         {
-          "label": "Timezone",
+          "label": "நேரம்(கள்)",
           "value": {
             "label": "UTC+05:30"
           }
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "title": "History",
+      "title": "வரலாறு",
       "cardType": "vertical_timeline",
       "facts": [
         {
@@ -88,7 +88,26 @@
       ]
     },
     {
-      "title": "Geography",
+      "title": "விளையாட்டுத் துறையில் இவரின் பங்கு",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "அணி",
+          "value": {
+            "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
+            "url": "/read/ta/royal_challengers_bangalore",
+            "contentUrl": "/static/content/ta/royal_challengers_bangalore.json",
+            "image": {
+              "url": "/static/images/bangalore/Royal_Challengers_Bangalore_Logo_2016.svg",
+              "altText": "Picture of ராயல் சேலஞ்சர்ஸ் பெங்களூர்"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "புவியியல்",
       "id": "bangalore_geography",
       "cardType": "simple",
       "facts": [
@@ -105,7 +124,7 @@
       ]
     },
     {
-      "title": "Culture",
+      "title": "கலாச்சாரம்",
       "cardType": "stories",
       "facts": [
         {
@@ -155,12 +174,12 @@
       ]
     },
     {
-      "title": "Demographics",
+      "title": "மக்கள் விகிதாச்சாரம்",
       "cardType": "bar_chart_with_info",
       "facts": [
         {
           "id": "section_languages_bangalore",
-          "label": "Languages",
+          "label": "மொழிகள்",
           "value": {
             "label": "2011 ஆம் ஆண்டின் கருத்துக்கணிப்பின் படி, கன்னடம் 46%, தமிழ் 13.99 %, தெலுங்கு 13.89%, இந்தி 5.4%, மலையாளம் 2.8%, மராத்தி 1.8%"
           }

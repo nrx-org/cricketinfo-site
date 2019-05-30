@@ -20,29 +20,29 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इसके बारे में",
       "cardType": "table",
       "facts": [
         {
-          "label": "Total Area of country (km squared)",
+          "label": "कुल क्षेत्रफल",
           "value": {
             "label": "4355 वर्ग किमी"
           }
         },
         {
-          "label": "Population",
+          "label": "जनसंख्या",
           "value": {
             "label": "20,748,395"
           }
         },
         {
-          "label": "Other names",
+          "label": "अन्य नाम",
           "value": {
             "label": "मुंबई, सात द्वीप समूह के सिटी, सपनों की सिटी, गेटवे भारत को, भारत के हॉलीवुड"
           }
         },
         {
-          "label": "Timezone",
+          "label": "समय क्षेत्र",
           "value": {
             "label": "UTC+5:30"
           }
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "title": "History",
+      "title": "इतिहास",
       "cardType": "vertical_timeline",
       "facts": [
         {
@@ -88,7 +88,26 @@
       ]
     },
     {
-      "title": "Geography",
+      "title": "खेलों में",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "टीम",
+          "value": {
+            "label": "मुंबई इंडियंस",
+            "url": "/read/hi/mumbai_indians",
+            "contentUrl": "/static/content/hi/mumbai_indians.json",
+            "image": {
+              "url": "/static/images/mumbai/Mumbai_Indians_Logo.svg",
+              "altText": "Picture of मुंबई इंडियंस"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "भूगोल",
       "id": "mumbai_geography",
       "cardType": "simple",
       "facts": [
@@ -105,7 +124,7 @@
       ]
     },
     {
-      "title": "Culture",
+      "title": "संस्कृति",
       "cardType": "stories",
       "facts": [
         {
@@ -157,19 +176,19 @@
       ]
     },
     {
-      "title": "Demographics",
+      "title": "जनसांख्यिकी",
       "cardType": "bar_chart_with_info",
       "facts": [
         {
           "id": "section_languages_mumbai",
-          "label": "Languages",
+          "label": "भाषा",
           "value": {
             "label": "मुंबई में भारत के किसी भी अन्य महानगरीय शहर की तरह एक बड़ी आबादी है। भारत की सोलह प्रमुख भाषाएँ मुंबई में भी बोली जाती हैं, जिनमें सबसे आम मराठी है और इसकी बोली पूर्व भारतीय, हिंदी, गुजराती और अंग्रेजी है"
           }
         },
         {
           "id": "religion_section_mumbai",
-          "label": "Religions",
+          "label": "धर्म",
           "value": {
             "facts": [
               {

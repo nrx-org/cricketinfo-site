@@ -20,29 +20,29 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इसके बारे में",
       "cardType": "table",
       "facts": [
         {
-          "label": "Total Area of country (km squared)",
+          "label": "कुल क्षेत्रफल",
           "value": {
             "label": "8005 वर्ग किमी"
           }
         },
         {
-          "label": "Population",
+          "label": "जनसंख्या",
           "value": {
             "label": "10,456,000"
           }
         },
         {
-          "label": "Other names",
+          "label": "अन्य नाम",
           "value": {
             "label": "बेंगलुरु, भारत की सिलिकॉन वैली, गार्डन सिटी"
           }
         },
         {
-          "label": "Timezone",
+          "label": "समय क्षेत्र",
           "value": {
             "label": "UTC+05:30"
           }
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "title": "History",
+      "title": "इतिहास",
       "cardType": "vertical_timeline",
       "facts": [
         {
@@ -88,7 +88,26 @@
       ]
     },
     {
-      "title": "Geography",
+      "title": "खेलों में",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "टीम",
+          "value": {
+            "label": "रॉयल चैलेंजर्स बैंगलोर",
+            "url": "/read/hi/royal_challengers_bangalore",
+            "contentUrl": "/static/content/hi/royal_challengers_bangalore.json",
+            "image": {
+              "url": "/static/images/bangalore/Royal_Challengers_Bangalore_Logo_2016.svg",
+              "altText": "Picture of रॉयल चैलेंजर्स बैंगलोर"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "भूगोल",
       "id": "bangalore_geography",
       "cardType": "simple",
       "facts": [
@@ -105,7 +124,7 @@
       ]
     },
     {
-      "title": "Culture",
+      "title": "संस्कृति",
       "cardType": "stories",
       "facts": [
         {
@@ -155,19 +174,19 @@
       ]
     },
     {
-      "title": "Demographics",
+      "title": "जनसांख्यिकी",
       "cardType": "bar_chart_with_info",
       "facts": [
         {
           "id": "section_languages_bangalore",
-          "label": "Languages",
+          "label": "भाषा",
           "value": {
             "label": "जनगणना 2011 के अनुसार, कन्नड़ 46%, तमिल 13.99%, तेलुगु 13.89%, उर्दू 12%, हिंदी 5.4%, मलयालम 2.8%, मराठी 1.8%"
           }
         },
         {
           "id": "religion_section_bangalore",
-          "label": "Religions",
+          "label": "धर्म",
           "value": {
             "facts": [
               {

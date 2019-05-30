@@ -20,7 +20,7 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "தெரிந்து கொள்ளுங்கள்",
       "cardType": "table",
       "facts": [
         {
@@ -30,31 +30,31 @@
           }
         },
         {
-          "label": "Total Area of country (km squared)",
+          "label": "மொத்த பரப்பு",
           "value": {
             "label": "130,279 சதுர கிமீ"
           }
         },
         {
-          "label": "Population",
+          "label": "மக்கள் தொகை",
           "value": {
             "label": "55619400 (2017 மதிப்பீட்டின் படி)"
           }
         },
         {
-          "label": "Capital city",
+          "label": "தலைநகரம்",
           "value": {
             "label": "லண்டன்"
           }
         },
         {
-          "label": "Largest city",
+          "label": "பெரிய நகரம்",
           "value": {
             "label": "லண்டன்"
           }
         },
         {
-          "label": "Timezone",
+          "label": "நேரம்(கள்)",
           "value": {
             "label": "UTC, UTC+1 (கோடை)"
           }
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "title": "History",
+      "title": "வரலாறு",
       "cardType": "vertical_timeline",
       "facts": [
         {
@@ -100,12 +100,12 @@
       ]
     },
     {
-      "title": "Government",
+      "title": "அரசாங்கம்",
       "cardType": "avatar",
       "label": "ஐக்கிய ராஜ்ஜியத்தின் பகுதியான இங்கிலாந்தில் அடிப்படை அரசியல் முறையானது அரசியலமைப்பு முடியாட்சி மற்றும் பாராளுமன்ற முறைமை கொண்டு விளங்குகிறது.",
       "facts": [
         {
-          "label": "Prime minister name",
+          "label": "பிரதமர்",
           "value": {
             "label": "தெரசா மே",
             "image": {
@@ -115,7 +115,7 @@
           }
         },
         {
-          "label": "Chief Justice name",
+          "label": "தலைமை நீதிபதி",
           "value": {
             "label": "இயன் டங்கன் பர்னேட், மாலனின் பரோன் பெர்னெட், பிசி",
             "image": {
@@ -127,7 +127,26 @@
       ]
     },
     {
-      "title": "Geography",
+      "title": "விளையாட்டுத் துறையில் இவரின் பங்கு",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "அணி",
+          "value": {
+            "label": "இங்கிலாந்து கிரிக்கெட் அணி",
+            "url": "/read/ta/england_cricket_team",
+            "contentUrl": "/static/content/ta/england_cricket_team.json",
+            "image": {
+              "url": "/static/images/england/England_cricket_team_logo.svg",
+              "altText": "Picture of இங்கிலாந்து கிரிக்கெட் அணி"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "புவியியல்",
       "id": "england_geography",
       "cardType": "simple",
       "facts": [
@@ -145,7 +164,7 @@
       ]
     },
     {
-      "title": "Culture",
+      "title": "கலாச்சாரம்",
       "cardType": "stories",
       "facts": [
         {
@@ -185,12 +204,12 @@
       ]
     },
     {
-      "title": "Demographics",
+      "title": "மக்கள் விகிதாச்சாரம்",
       "cardType": "bar_chart_with_info",
       "facts": [
         {
           "id": "section_languages_england",
-          "label": "Languages",
+          "label": "மொழிகள்",
           "value": {
             "label": "ஆங்கிலம், போலிஷ், பஞ்சாபி, உருது, பெங்காலி, முதலியன"
           }

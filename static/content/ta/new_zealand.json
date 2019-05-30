@@ -20,7 +20,7 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "தெரிந்து கொள்ளுங்கள்",
       "cardType": "table",
       "facts": [
         {
@@ -36,37 +36,37 @@
           }
         },
         {
-          "label": "Total Area of country (km squared)",
+          "label": "மொத்த பரப்பு",
           "value": {
             "label": "268021 சதுர கிமீ"
           }
         },
         {
-          "label": "Population",
+          "label": "மக்கள் தொகை",
           "value": {
             "label": "4,960,350 (2019 மதிப்பீட்டின் படி)"
           }
         },
         {
-          "label": "Other names",
+          "label": "வேறு பெயர்கள்",
           "value": {
             "label": "Aotearoa"
           }
         },
         {
-          "label": "Capital city",
+          "label": "தலைநகரம்",
           "value": {
             "label": "வெல்லிங்டன்"
           }
         },
         {
-          "label": "Largest city",
+          "label": "பெரிய நகரம்",
           "value": {
             "label": "ஆக்லாந்து"
           }
         },
         {
-          "label": "Timezone",
+          "label": "நேரம்(கள்)",
           "value": {
             "label": "UTC+12 (UTC+13, கோடை)"
           }
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "title": "History",
+      "title": "வரலாறு",
       "cardType": "vertical_timeline",
       "facts": [
         {
@@ -112,12 +112,12 @@
       ]
     },
     {
-      "title": "Government",
+      "title": "அரசாங்கம்",
       "cardType": "avatar",
       "label": "நியூசிலாந்து பாராளுமன்றம் சட்டசபை அதிகாரத்தைக் கொண்டுள்ளதுடன் ராணி மற்றும் பிரதிநிதிகள் சபையை உள்ளடக்கியுள்ளது. பிரதிநிதிகள் மன்றம் ஜனநாயக முறையில் தேர்ந்தெடுக்கப்படுவதோடு பெரும்பான்மை இடங்களைக் கொண்ட கட்சி அல்லது கூட்டணியின் மூலம் சட்டசபை அமைக்கப்படுகிறது.",
       "facts": [
         {
-          "label": "Prime minister name",
+          "label": "பிரதமர்",
           "value": {
             "label": "ஜெசிந்தா ஆர்டர்ன்",
             "image": {
@@ -128,7 +128,7 @@
           }
         },
         {
-          "label": "Chief Justice name",
+          "label": "தலைமை நீதிபதி",
           "value": {
             "label": "டேம் ஹெலன் வின்கெல்மேன்",
             "image": {
@@ -141,7 +141,26 @@
       ]
     },
     {
-      "title": "Geography",
+      "title": "விளையாட்டுத் துறையில் இவரின் பங்கு",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "அணி",
+          "value": {
+            "label": "New Zealand national cricket team",
+            "url": "/read/ta/new_zealand_national_cricket_team",
+            "contentUrl": "/static/content/ta/new_zealand_national_cricket_team.json",
+            "image": {
+              "url": "/static/images/new_zealand/New_Zealand_Cricket_Cap_Insignia.svg",
+              "altText": "Picture of New Zealand national cricket team"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "புவியியல்",
       "id": "new_zealand_geography",
       "cardType": "simple",
       "facts": [
@@ -159,7 +178,7 @@
       ]
     },
     {
-      "title": "Culture",
+      "title": "கலாச்சாரம்",
       "cardType": "stories",
       "facts": [
         {
@@ -198,12 +217,12 @@
       ]
     },
     {
-      "title": "Demographics",
+      "title": "மக்கள் விகிதாச்சாரம்",
       "cardType": "bar_chart_with_info",
       "facts": [
         {
           "id": "section_languages_new_zealand",
-          "label": "Languages",
+          "label": "மொழிகள்",
           "value": {
             "label": "ஆங்கிலம், மாவோரி, சமோன், இந்தி"
           }

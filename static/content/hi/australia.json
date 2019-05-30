@@ -20,7 +20,7 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इसके बारे में",
       "cardType": "table",
       "facts": [
         {
@@ -42,31 +42,31 @@
           }
         },
         {
-          "label": "Total Area of country (km squared)",
+          "label": "कुल क्षेत्रफल",
           "value": {
             "label": "7692024 वर्ग किमी"
           }
         },
         {
-          "label": "Population",
+          "label": "जनसंख्या",
           "value": {
             "label": "25,346,300 (2019 अनुमान)"
           }
         },
         {
-          "label": "Capital city",
+          "label": "राजधानी",
           "value": {
             "label": "कैनबरा"
           }
         },
         {
-          "label": "Largest city",
+          "label": "सबसे बड़ा शहर",
           "value": {
             "label": "सिडनी"
           }
         },
         {
-          "label": "Timezone",
+          "label": "समय क्षेत्र",
           "value": {
             "label": "UTC+8; +9.5; +10; ग्रीष्म UTC+8; +9.5; +10; +10.5; +11"
           }
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "title": "History",
+      "title": "इतिहास",
       "cardType": "vertical_timeline",
       "facts": [
         {
@@ -112,12 +112,12 @@
       ]
     },
     {
-      "title": "Government",
+      "title": "सरकार",
       "cardType": "avatar",
       "label": "ऑस्ट्रेलिया एक संघीय संसदीय संवैधानिक राजतंत्र है। एलिजाबेथ द्वितीय ने ऑस्ट्रेलिया की रानी के रूप में शासन किया। चूंकि वह यूनाइटेड किंगडम में रहती है, इसलिए उसका प्रतिनिधित्व ऑस्ट्रेलिया में संघीय स्तर पर गवर्नर-जनरल और राज्य स्तर पर राज्यपालों द्वारा किया जाता है, जो उसके मंत्रियों की सलाह पर कन्वेंशन एक्ट द्वारा किया जाता है।",
       "facts": [
         {
-          "label": "Prime minister name",
+          "label": "प्रधान मंत्री",
           "value": {
             "label": "स्कॉट मॉरिसन ",
             "image": {
@@ -128,7 +128,7 @@
           }
         },
         {
-          "label": "Chief Justice name",
+          "label": "मुख्य न्यायाधीश",
           "value": {
             "label": "गवर्नर जनरल पीटर कॉसग्रोव",
             "image": {
@@ -141,7 +141,26 @@
       ]
     },
     {
-      "title": "Geography",
+      "title": "खेलों में",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "टीम",
+          "value": {
+            "label": "ऑस्ट्रेलिया क्रिकेट टीम",
+            "url": "/read/hi/australia_cricket_team",
+            "contentUrl": "/static/content/hi/australia_cricket_team.json",
+            "image": {
+              "url": "/static/images/australia/Australia_cricket_logo.svg",
+              "altText": "Picture of ऑस्ट्रेलिया क्रिकेट टीम"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "भूगोल",
       "id": "australia_geography",
       "cardType": "simple",
       "facts": [
@@ -158,7 +177,7 @@
       ]
     },
     {
-      "title": "Culture",
+      "title": "संस्कृति",
       "cardType": "stories",
       "facts": [
         {
@@ -208,19 +227,19 @@
       ]
     },
     {
-      "title": "Demographics",
+      "title": "जनसांख्यिकी",
       "cardType": "bar_chart_with_info",
       "facts": [
         {
           "id": "section_languages_australia",
-          "label": "Languages",
+          "label": "भाषा",
           "value": {
             "label": "हालाँकि ऑस्ट्रेलिया की कोई आधिकारिक भाषा नहीं है, फिर भी अंग्रेजी वास्तव में राष्ट्रीय भाषा के रूप में जाना जाता है। ऑस्ट्रेलियाई अंग्रेजी व्याकरण और वर्तनी में अंग्रेजी की अन्य किस्मों से थोड़ा भिन्न है"
           }
         },
         {
           "id": "religion_section_australia",
-          "label": "Religions",
+          "label": "धर्म",
           "value": {
             "facts": [
               {

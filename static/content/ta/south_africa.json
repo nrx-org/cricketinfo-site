@@ -20,7 +20,7 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "தெரிந்து கொள்ளுங்கள்",
       "cardType": "table",
       "facts": [
         {
@@ -36,37 +36,37 @@
           }
         },
         {
-          "label": "Total Area of country (km squared)",
+          "label": "மொத்த பரப்பு",
           "value": {
             "label": "1221037 சதுர கிமீ"
           }
         },
         {
-          "label": "Population",
+          "label": "மக்கள் தொகை",
           "value": {
             "label": "57725600 (2018 மதிப்பீட்டின் படி)"
           }
         },
         {
-          "label": "Other names",
+          "label": "வேறு பெயர்கள்",
           "value": {
             "label": "Union of South Africa, Republic of South Africa, Mzansi, Azania"
           }
         },
         {
-          "label": "Capital city",
+          "label": "தலைநகரம்",
           "value": {
             "label": "\nபிரிட்டோரியா (எக்ஸிகியூட்டிவ்), ப்லோம்ஃபோன்டைன் (நீதித்துறை), கேப் டவுன் (சட்டமன்றம்)"
           }
         },
         {
-          "label": "Largest city",
+          "label": "பெரிய நகரம்",
           "value": {
             "label": "ஜோஹனஸ்பர்க்"
           }
         },
         {
-          "label": "Timezone",
+          "label": "நேரம்(கள்)",
           "value": {
             "label": "UTC+2"
           }
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "title": "History",
+      "title": "வரலாறு",
       "cardType": "vertical_timeline",
       "facts": [
         {
@@ -112,12 +112,12 @@
       ]
     },
     {
-      "title": "Government",
+      "title": "அரசாங்கம்",
       "cardType": "avatar",
       "label": "தென்னாப்பிரிக்கா ஒரு நாடாளுமன்ற குடியரசு நாடாக இருந்தாலும் மற்ற குடியரசுகளைப் போலல்லாமல், ஜனாதிபதியே நாட்டின் தலைவராகவும் அரசாங்கத்தின் தலைவராகவும் இருக்கின்றார், பாராளுமன்றத்தின் நம்பிக்கையை நிலைநாட்டியுள்ள வரை அவர் பதவி வகிப்பார்.",
       "facts": [
         {
-          "label": "President",
+          "label": "குடியரசுத் தலைவர்",
           "value": {
             "label": "சிரில் ராமபோசா",
             "image": {
@@ -128,7 +128,7 @@
           }
         },
         {
-          "label": "Chief Justice name",
+          "label": "தலைமை நீதிபதி",
           "value": {
             "label": "தாமஸ் ரீட்சாங் மோகோங்",
             "image": {
@@ -140,7 +140,26 @@
       ]
     },
     {
-      "title": "Geography",
+      "title": "விளையாட்டுத் துறையில் இவரின் பங்கு",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "அணி",
+          "value": {
+            "label": "South Africa national cricket team",
+            "url": "/read/ta/south_africa_national_cricket_team",
+            "contentUrl": "/static/content/ta/south_africa_national_cricket_team.json",
+            "image": {
+              "url": "/static/images/south_africa/Southafrica_cricket_logo.svg",
+              "altText": "Picture of South Africa national cricket team"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "புவியியல்",
       "id": "south_africa_geography",
       "cardType": "simple",
       "facts": [
@@ -157,7 +176,7 @@
       ]
     },
     {
-      "title": "Culture",
+      "title": "கலாச்சாரம்",
       "cardType": "stories",
       "facts": [
         {
@@ -208,12 +227,12 @@
       ]
     },
     {
-      "title": "Demographics",
+      "title": "மக்கள் விகிதாச்சாரம்",
       "cardType": "bar_chart_with_info",
       "facts": [
         {
           "id": "section_languages_south_africa",
-          "label": "Languages",
+          "label": "மொழிகள்",
           "value": {
             "label": "ஆஃப்ரிகான்ஸ், இசிநெட்பெலே, செபீடி, சீசோவோ சாவ் போர்வா, எஸ்ஸுவாட்டி, சிய்டொங்கொங்கா, சீட்வானா, ஷிவிவெனா, இசிஹோசா, மற்றும் இஸ்சூலு"
           }

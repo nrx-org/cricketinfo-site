@@ -20,7 +20,7 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इसके बारे में",
       "cardType": "table",
       "facts": [
         {
@@ -30,31 +30,31 @@
           }
         },
         {
-          "label": "Total Area of country (km squared)",
+          "label": "कुल क्षेत्रफल",
           "value": {
             "label": "130,279 वर्ग किमी"
           }
         },
         {
-          "label": "Population",
+          "label": "जनसंख्या",
           "value": {
             "label": "55619400 (2017 अनुमान)"
           }
         },
         {
-          "label": "Capital city",
+          "label": "राजधानी",
           "value": {
             "label": "लंडन"
           }
         },
         {
-          "label": "Largest city",
+          "label": "सबसे बड़ा शहर",
           "value": {
             "label": "लंडन"
           }
         },
         {
-          "label": "Timezone",
+          "label": "समय क्षेत्र",
           "value": {
             "label": "UTC, UTC+1 (ग्रीष्म)"
           }
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "title": "History",
+      "title": "इतिहास",
       "cardType": "vertical_timeline",
       "facts": [
         {
@@ -100,12 +100,12 @@
       ]
     },
     {
-      "title": "Government",
+      "title": "सरकार",
       "cardType": "avatar",
       "label": "यूनाइटेड किंगडम के हिस्से के रूप में, इंग्लैंड में मूल राजनीतिक प्रणाली एक संवैधानिक राजतंत्र और संसदीय प्रणाली है।",
       "facts": [
         {
-          "label": "Prime minister name",
+          "label": "प्रधान मंत्री",
           "value": {
             "label": "थेरेसा मे ",
             "image": {
@@ -115,7 +115,7 @@
           }
         },
         {
-          "label": "Chief Justice name",
+          "label": "मुख्य न्यायाधीश",
           "value": {
             "label": "इयान डंकन बर्नेट, माल्डन के बैरन बर्नेट, पीसी",
             "image": {
@@ -127,7 +127,26 @@
       ]
     },
     {
-      "title": "Geography",
+      "title": "खेलों में",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "टीम",
+          "value": {
+            "label": "इंग्लैंड क्रिकेट टीम",
+            "url": "/read/hi/england_cricket_team",
+            "contentUrl": "/static/content/hi/england_cricket_team.json",
+            "image": {
+              "url": "/static/images/england/England_cricket_team_logo.svg",
+              "altText": "Picture of इंग्लैंड क्रिकेट टीम"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "भूगोल",
       "id": "england_geography",
       "cardType": "simple",
       "facts": [
@@ -145,7 +164,7 @@
       ]
     },
     {
-      "title": "Culture",
+      "title": "संस्कृति",
       "cardType": "stories",
       "facts": [
         {
@@ -185,19 +204,19 @@
       ]
     },
     {
-      "title": "Demographics",
+      "title": "जनसांख्यिकी",
       "cardType": "bar_chart_with_info",
       "facts": [
         {
           "id": "section_languages_england",
-          "label": "Languages",
+          "label": "भाषा",
           "value": {
             "label": "अंग्रेजी, पोलिश, पंजाबी, उर्दू, बंगाली, आदि।"
           }
         },
         {
           "id": "religion_section_england",
-          "label": "Religions",
+          "label": "धर्म",
           "value": {
             "facts": [
               {

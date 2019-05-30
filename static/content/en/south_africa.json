@@ -36,7 +36,7 @@
           }
         },
         {
-          "label": "Total Area of country (km squared)",
+          "label": "Total Area",
           "value": {
             "label": "1221037 km²"
           }
@@ -54,19 +54,19 @@
           }
         },
         {
-          "label": "Capital city",
+          "label": "Capital",
           "value": {
             "label": "Pretoria (executive), Bloemfontein (judicial), Cape Town (legislative)"
           }
         },
         {
-          "label": "Largest city",
+          "label": "Largest City",
           "value": {
             "label": "Johannesburg"
           }
         },
         {
-          "label": "Timezone",
+          "label": "Timezone(s)",
           "value": {
             "label": "UTC+2"
           }
@@ -128,7 +128,7 @@
           }
         },
         {
-          "label": "Chief Justice name",
+          "label": "Chief Justice",
           "value": {
             "label": "Thomas Reetsang Mogoeng",
             "image": {
