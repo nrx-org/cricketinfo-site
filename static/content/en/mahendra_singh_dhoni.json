@@ -3,7 +3,8 @@
   "wikipediaUrl": "https://en.wikipedia.org/wiki/MS_Dhoni",
   "coverImage": {
     "url": "/static/images/master/Dhoni_behind_Stumps.jpg",
-    "altText": "Image of Mahendra Singh Dhoni"
+    "altText": "Image of Mahendra Singh Dhoni",
+    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
   },
   "summary": "Mahendra Singh Dhoni is an Indian international cricketer who captained the Indian national team in limited-overs formats from 2007 to 2016 and in Test cricket from 2008 to 2014.",
   "translations": [
@@ -86,7 +87,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "-5xKvS8-ah",
+      "id": "QJl9g8Brh",
       "cardType": "simple",
       "facts": [
         {
@@ -95,7 +96,8 @@
             "label": "Dhoni is a right-handed batsman and wicket-keeper. Initially, Dhoni appeared as a lower-order attacking batsman but he gradually changed his playing style to deal with high-pressure scenarios and his growing responsibility as a captain.",
             "image": {
               "url": "/static/images/master/Mahendra_Singh_Dhoni_batting.JPG",
-              "altText": "Style of play for Mahendra Singh Dhoni"
+              "altText": "Style of play for Mahendra Singh Dhoni",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
             }
           }
         }
@@ -107,7 +109,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "cWu9IsFnUr6",
+          "id": "w2fXLgfaSvM",
           "note": "1999",
           "value": {
             "label": "Dhoni made his Ranji Trophy debut for Bihar in the 1999–2000 season at the age of 18."
@@ -115,7 +117,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "Mcy_z67kSm5",
+          "id": "n-SWoZVT3s-",
           "note": "2004",
           "value": {
             "label": "Dhoni made his ODI debut.",
@@ -124,7 +126,7 @@
                 "url": "/read/en/bangladesh_national_cricket_team",
                 "contentUrl": "/static/content/en/bangladesh_national_cricket_team.json",
                 "label": "Bangladesh national cricket team",
-                "id": "RoV7FYKIXxe",
+                "id": "vUR-jL0yabG",
                 "value": {
                   "label": "The Bangladesh national cricket team, popularly known as \"The Tigers\", is administered by the Bangladesh Cricket Board (BCB). Bangladesh is a full member of the International Cricket Council (ICC) with Test and One Day International (ODI) status.",
                   "image": {
@@ -138,7 +140,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "hQ_94b6TUpJ",
+          "id": "oG-9515GiEw",
           "note": "2006",
           "value": {
             "label": "2006 Dhoni scored a half-century against West Indies.",
@@ -147,7 +149,7 @@
                 "url": "/read/en/icc_champions_trophy",
                 "contentUrl": "/static/content/en/icc_champions_trophy.json",
                 "label": "ICC Champions Trophy",
-                "id": "OAQ4v5PYkKw",
+                "id": "9m1v7saMMRD",
                 "value": {
                   "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
                   "image": {
@@ -161,7 +163,7 @@
         },
         {
           "label": "2007 World Cup",
-          "id": "mPsro6TPEv_",
+          "id": "Jtf5e3a-md2",
           "note": "2007",
           "value": {
             "label": "India crashed out of the World Cup after in the group stage and Dhoni scored just 29 runs in the tournament.",
@@ -170,7 +172,7 @@
                 "url": "/read/en/2007_cricket_world_cup",
                 "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
                 "label": "2007 Cricket World Cup",
-                "id": "OzacqFiimk6",
+                "id": "0uHhyM3Rh",
                 "value": {
                   "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
                   "image": {
@@ -184,7 +186,7 @@
         },
         {
           "label": "2007 ICC World Twenty20",
-          "id": "gl7QdDEbfvZ",
+          "id": "tu-h-jFGbE",
           "note": "2007",
           "value": {
             "label": "Dhoni was the captain of the Indian team that won the inaugural ICC World Twenty20 championship.",
@@ -193,7 +195,7 @@
                 "url": "/read/en/2007_cricket_world_cup",
                 "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
                 "label": "2007 Cricket World Cup",
-                "id": "IKvqpa4PW",
+                "id": "SLQsAKW6Se",
                 "value": {
                   "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
                   "image": {
@@ -207,7 +209,7 @@
         },
         {
           "label": "2011 World Cup",
-          "id": "WUVo8FUg7M",
+          "id": "Eq0TRrmATQ",
           "note": "2011",
           "value": {
             "label": "Under Dhoni's captaincy India won its second world cup title in 2011. He scored 91 not out, finishing the game with a historical six.",
@@ -216,7 +218,7 @@
                 "url": "/read/en/2011_cricket_world_cup",
                 "contentUrl": "/static/content/en/2011_cricket_world_cup.json",
                 "label": "2011 Cricket World Cup",
-                "id": "HyAvhaaCsf",
+                "id": "XBbCPc7oul",
                 "value": {
                   "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
                   "image": {
@@ -230,7 +232,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "0V8WAxmrIF",
+          "id": "9Nu4vzTggV",
           "note": "2008",
           "value": {
             "label": "Dhoni was contracted by the Chennai Super Kings for US$1.5 million which made him the most expensive player in the IPL for the first season.",
@@ -239,7 +241,7 @@
                 "url": "/read/en/chennai_super_kings",
                 "contentUrl": "/static/content/en/chennai_super_kings.json",
                 "label": "Chennai Super Kings",
-                "id": "7duOpd48fg",
+                "id": "EDYQo3UTFu",
                 "value": {
                   "label": "Founded in 2008, The Chennai Super Kings (CSK) is an Indian franchise cricket team based in Chennai, Tamil Nadu, which plays in the Indian Premier League (IPL).",
                   "image": {
@@ -320,13 +322,13 @@
       "facts": [
         {
           "label": "Indian National Cricket team (2004-present)",
-          "id": "GTEzJgoTK3K",
+          "id": "Tn3FrrIEzZ",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "Gzq7J3xrqWU",
+                "id": "uO-h0kdV1v",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -342,13 +344,13 @@
         },
         {
           "label": "Chennai Super Kings (2018-present)",
-          "id": "W9jOn3__Acc",
+          "id": "CxsuiWyY3x",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Chennai Super Kings",
-                "id": "OYGZqDclWfk",
+                "id": "EiACzofySH",
                 "url": "/read/en/chennai_super_kings",
                 "contentUrl": "/static/content/en/chennai_super_kings.json",
                 "value": {
@@ -364,7 +366,7 @@
         },
         {
           "label": "Jharkhand (2004-present)",
-          "id": "QSDck88Xwo4",
+          "id": "xV7CeQSPnH",
           "value": {
             "label": "The Jharkhand Cricket Team is a Ranji Trophy team based in the Indian state of Jharkhand, that replaced the Bihar Cricket team"
           }
@@ -383,7 +385,8 @@
             "label": "Rajiv Gandhi Khel Ratna Award is the highest sporting honour of the Republic of India.",
             "image": {
               "url": "/static/images/master/Rajiv_Gandhi_Khel_Ratna_Award.jpg",
-              "altText": "Image of Rajiv Gandhi Khel Ratna"
+              "altText": "Image of Rajiv Gandhi Khel Ratna",
+              "license": "<p><p>This is an image of a medal of Rajiv Gandhi Khel Ratna- India&#x2019;s highest honour given for achievement in sports.\n</p></p><p><p><a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.olympic.ind.in/award.html\">[1]</a>\n</p></p><p><p><a href=\"/wiki/Rajiv_Gandhi_Khel_Ratna\" title=\"Rajiv Gandhi Khel Ratna\">Rajiv Gandhi Khel Ratna</a>\n</p></p><p><p>The entire picture is used to convey the meaning intended and avoid tarnishing or misrepresenting the intended image.\n</p></p><p><p>This is a low resolution version.\n</p></p><p><p>The image is used in the infobox of concern award&apos;s article; to identify it, for the better &quot;visual&quot; understanding of viewers.\n</p></p><p><p>Free version is not possible.\n</p></p><p>This image is a faithful digitisation of a <b>unique historic image</b>, and the <b>copyright</b> for it is most likely held by the <b>person who created the image</b> or the <b>agency employing the person</b>. It is believed that the use of this image may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Other use of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> for more information.<br>\nPlease remember that the <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content criteria</a> <b>require</b> that non-free images on Wikipedia must not &quot;[be] used in a manner that is likely to replace the <b>original market role of the original copyrighted media.</b>&quot;  Use of historic images from press agencies must <b>only</b> be of a transformative nature, when <b>the image itself</b> is the subject of commentary rather than the event it depicts (which is the original market role, and is not allowed per policy).</p>"
             }
           }
         },
@@ -395,7 +398,8 @@
             "label": "Padma Shri is the fourth highest civilian award in the Republic of India",
             "image": {
               "url": "/static/images/master/Padma_Shri_India_IIIe_Klasse.jpg",
-              "altText": "Image of Padma Shri"
+              "altText": "Image of Padma Shri",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
             }
           }
         },
@@ -407,7 +411,8 @@
             "label": "Padma Bhushan is the third-highest civilian award in the Republic of India",
             "image": {
               "url": "/static/images/master/Padma_Bhushan_India_IIe_Klasse.jpg",
-              "altText": "Image of Padma Bhushan"
+              "altText": "Image of Padma Bhushan",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
             }
           }
         }

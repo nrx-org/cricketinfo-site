@@ -3,7 +3,8 @@
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Kagiso_Rabada",
   "coverImage": {
     "url": "/static/images/master/Rabada.jpg",
-    "altText": "Image of Kagiso Rabada"
+    "altText": "Image of Kagiso Rabada",
+    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
   },
   "summary": "Kagiso Rabada is a South African international cricketer who plays all formats of the game. Rabada, who is known by the nickname KG, is a fast bowler and plays domestic cricket for the Highveld Lions. ",
   "translations": [
@@ -71,7 +72,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "ZvHXsv8-g",
+      "id": "KKihFqz6Al",
       "cardType": "simple",
       "facts": [
         {
@@ -79,7 +80,7 @@
           "value": {
             "label": "",
             "image": {
-              "url": "/static/images/master/KAGISO_RABADA_%2815085792033%29.jpg",
+              "url": "/static/images/master/KAGISO_RABADA_281508579203329.jpg",
               "altText": "Style of play for Kagiso Rabada",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
@@ -93,7 +94,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "F_JJv7ZeA",
+          "id": "uy7g2Zy36kT",
           "note": "2013",
           "value": {
             "label": "Rabada made his debut for the Gauteng in the CSA Provincial One-Day Competition against Border in December 2013."
@@ -101,7 +102,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "0XThEPCrbC",
+          "id": "glkZBs_9D69",
           "note": "",
           "value": {
             "label": "Rabada made his Twenty20 International debut for South Africa against Australia on 5 November 2014.",
@@ -110,7 +111,7 @@
                 "url": "/read/en/australia_cricket_team",
                 "contentUrl": "/static/content/en/australia_cricket_team.json",
                 "label": "Australia Cricket team",
-                "id": "ecal9Q2yNS",
+                "id": "plMjmzBLcFJ",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
@@ -124,7 +125,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "8_hD8myHPN",
+          "id": "_rHh0wafwUS",
           "note": "",
           "value": {
             "label": "Rabada was chosen to represent South Africa's Under-19 side for the 2014 ICC Under-19 Cricket World Cup. "
@@ -132,7 +133,7 @@
         },
         {
           "label": "World Cup Appearance",
-          "id": "_2pJYJRVri",
+          "id": "fcnmMcjwIXP",
           "note": "2019",
           "value": {
             "label": "In April 2019, he was named in South Africa's squad for the 2019 Cricket World Cup."
@@ -140,7 +141,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "Iwc2ovSrug",
+          "id": "rT8L_yB7pgZ",
           "note": "2017",
           "value": {
             "label": "In February 2017, Rabada was bought by the Delhi Daredevils team for the 2017 Indian Premier League for INR 50 million.",
@@ -149,7 +150,7 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-                "id": "0u_aNzseM3",
+                "id": "EF6mbS3JgEN",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
@@ -230,13 +231,13 @@
       "facts": [
         {
           "label": "South African Nation team (2014- present)",
-          "id": "SpLOB3rgA-",
+          "id": "T1jP8nlzsrQ",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "South Africa national cricket team",
-                "id": "0GrPiuDMLa",
+                "id": "5HpGmkYZ0Io",
                 "url": "/read/en/south_africa_national_cricket_team",
                 "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
                 "value": {
@@ -252,13 +253,13 @@
         },
         {
           "label": "Delhi capitals (2017- present)",
-          "id": "QHFmJssv37",
+          "id": "8dTZM63I7yV",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Delhi Capitals",
-                "id": "n7Qg6oogwO",
+                "id": "FOM4dDU_My9",
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "value": {

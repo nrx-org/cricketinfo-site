@@ -3,7 +3,8 @@
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Glenn_McGrath",
   "coverImage": {
     "url": "/static/images/master/Glenn_McGrath_01_crop_2.jpg",
-    "altText": "Image of Glenn McGrath"
+    "altText": "Image of Glenn McGrath",
+    "license": ""
   },
   "summary": "Glenn McGrath is a former Australian cricketer who is considered one of the greatest bowlers in cricketing history",
   "translations": [
@@ -69,7 +70,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "S_R_OfcPIA",
+      "id": "7Cv6sbV7d",
       "cardType": "simple",
       "facts": [
         {
@@ -78,7 +79,8 @@
             "label": "McGrath was regarded as one of the best fast bowlers in the world who relied on accuracy rather than pace.",
             "image": {
               "url": "/static/images/master/Glenn_McGrath_in_final_test_series.jpg",
-              "altText": "Style of play for Glenn McGrath"
+              "altText": "Style of play for Glenn McGrath",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         }
@@ -90,7 +92,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "HeQlbHuV4Ol",
+          "id": "7oJDWR2siG",
           "note": "1992",
           "value": {
             "label": "Glenn McGrath made his first class debut for New South Wales during the 1992–93 season"
@@ -98,7 +100,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "hlGYW6Yb9l5",
+          "id": "HvJcRJBWRj",
           "note": "1993",
           "value": {
             "label": "McGrath's Test debut was against New Zealand at Perth in 1993",
@@ -107,7 +109,7 @@
                 "url": "/read/en/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
                 "label": "New Zealand national cricket team",
-                "id": "TekPXRivePg",
+                "id": "SrsULU1MuV",
                 "value": {
                   "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
                   "image": {
@@ -121,7 +123,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "GRvaUlNwDh6",
+          "id": "upbsFi2R_O",
           "note": "1996",
           "value": {
             "label": ""
@@ -129,7 +131,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "LE8Hb5Foww6",
+          "id": "WJN_NfIX2G",
           "note": "2008",
           "value": {
             "label": "McGrath was signed by the Delhi DareDevils for the first season of the Indian Premier League in 2008, for a sum of US$350,000.",
@@ -138,7 +140,7 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-                "id": "6SUJYjz706n",
+                "id": "vkApNlNDT",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
@@ -219,13 +221,13 @@
       "facts": [
         {
           "label": "Australia (1993-2007)",
-          "id": "xTUk7087PiE",
+          "id": "LeNDGtFAMy",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Australia Cricket team",
-                "id": "YDGMxCSNM4D",
+                "id": "NC_iUO4g8f",
                 "url": "/read/en/australia_cricket_team",
                 "contentUrl": "/static/content/en/australia_cricket_team.json",
                 "value": {
@@ -241,13 +243,13 @@
         },
         {
           "label": "Delhi Daredevils (2008)",
-          "id": "MizVgOffSmD",
+          "id": "Evt2LbfRTW",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Delhi Capitals",
-                "id": "poUatix11xa",
+                "id": "Uadz5EVPXl",
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "value": {
@@ -263,7 +265,7 @@
         },
         {
           "label": "New South Wales (1992-2007)",
-          "id": "Xi7tfu2ydEd",
+          "id": "p1NU7ZSRqj",
           "value": {
             "label": "The New South Wales cricket team (currently named NSW Blues) are an Australian men's professional first class cricket team based in Sydney."
           }
@@ -282,7 +284,8 @@
             "label": "The Order of Australia is an order of chivalry in 1975 by Queen Elizabeth II, to recognise Australian citizens and other persons for meritorious service.",
             "image": {
               "url": "/static/images/master/Order_of_Australia.png",
-              "altText": "Image of Order of Australia"
+              "altText": "Image of Order of Australia",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
             }
           }
         },
@@ -306,7 +309,8 @@
             "label": "The ICC Cricket Hall of Fame recognises the achievements of the legends of the game from cricket's long and illustrious history.",
             "image": {
               "url": "/static/images/master/ICC_Hall_Of_Fame.svg",
-              "altText": "Image of ICC Cricket Hall of Fame"
+              "altText": "Image of ICC Cricket Hall of Fame",
+              "license": "<p><p>This is a logo  for ICC Cricket Hall of Fame.\n</p></p><p><p>The logo may be obtained from ICC.\n</p></p><p><p><a href=\"/wiki/ICC_Cricket_Hall_of_Fame\" title=\"ICC Cricket Hall of Fame\">ICC Cricket Hall of Fame</a>\n</p></p><p><p>The entire logo is used to convey the meaning intended and avoid tarnishing or misrepresenting the intended image.\n</p></p><p><p>The logo is of a size and resolution sufficient to maintain the quality intended by the company or organization, without being unnecessarily high resolution.\n</p></p><p><p>The image is placed in the infobox at the top of the article discussing ICC Cricket Hall of Fame, a subject of public interest. The significance of the logo is to help the reader identify the organization, assure the readers that they have reached the right article containing critical commentary about the organization, and illustrate the organization&apos;s intended branding message in a way that words alone could not convey.\n</p></p><p><p>Because it is a non-free logo there is almost certainly no free repesentation. Any substitute that is not a derivative work would fail to convey the meaning intended, would tarnish or misrepresent its image, or would fail its purpose of identification or commentary.\n</p></p><p><p>Use of the logo in the article complies with Wikipedia non-free content policy, logo guidelines, and fair use under United States copyright law as described above.\n</p></p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:ICC_Hall_Of_Fame.svg</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p><p>This is a <a href=\"/wiki/Scalable_Vector_Graphics\" title=\"Scalable Vector Graphics\">Scalable Vector Graphics</a> (SVG) image of a registered <a href=\"/wiki/Trademark\" title=\"Trademark\">trademark</a> or <a href=\"/wiki/Copyright\" title=\"Copyright\">copyrighted</a> <a href=\"/wiki/Logo\" title=\"Logo\">logo</a>. If <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content restrictions</a> apply, this image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. See <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.</p>"
             }
           }
         }

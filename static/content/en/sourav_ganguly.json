@@ -3,7 +3,8 @@
   "wikipediaUrl": "https://en.wikipedia.org/wiki/File:Sourav_Ganguly_closeup.jpg",
   "coverImage": {
     "url": "/static/images/master/Sourav_Ganguly_closeup.jpg",
-    "altText": "Image of Sourav Ganguly"
+    "altText": "Image of Sourav Ganguly",
+    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
   },
   "summary": "Sourav Ganguly is a former Indian cricketer and captain of the Indian national team. During his playing career, Ganguly established himself as one of the world's leading batsmen, and also one of the greatest captains of the national cricket team.",
   "translations": [
@@ -86,7 +87,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "MzWq8CzNsH",
+      "id": "7WCeUNam0",
       "cardType": "simple",
       "facts": [
         {
@@ -95,7 +96,8 @@
             "label": "Ganguly is a left-handed batsman known for his elegant stroke-play. He is also a right-arm medium pace bowler.",
             "image": {
               "url": "/static/images/master/Sachin_in_action.jpg",
-              "altText": "Style of play for Sourav Ganguly"
+              "altText": "Style of play for Sourav Ganguly",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/4.0/\">4.0 International</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
             }
           }
         }
@@ -107,7 +109,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "tG22OzaLjqe",
+          "id": "qiRq446xOR",
           "note": "1989",
           "value": {
             "label": "Sourav Ganguly made his first-class cricket debut for Bengal in 1989."
@@ -115,7 +117,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "JZSR0kE5CWh",
+          "id": "TLr7yFuSwDO",
           "note": "1992",
           "value": {
             "label": "Ganguly scored three runs in his One Day International (ODI) debut for India against the West Indies in 1992.",
@@ -124,7 +126,7 @@
                 "url": "/read/en/west_indies_cricket_team",
                 "contentUrl": "/static/content/en/west_indies_cricket_team.json",
                 "label": "West Indies cricket team",
-                "id": "AInc3xk2mDE",
+                "id": "i0iS78lFSSi",
                 "value": {
                   "label": "The West Indies cricket team, traditionally known as the Windies, is a multi-national cricket team representing the Anglophone Caribbean region and administered by Cricket West Indies. The players on this composite team are selected from a chain of fifteen Caribbean territories",
                   "image": {
@@ -138,7 +140,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "nz1BMgVXEAp",
+          "id": "umdt2dX4zoS",
           "note": "1999",
           "value": {
             "label": "Ganguly scored 183 run from 158 balls versus Sri Lanka during the 1999 World cup, his highest ODI score.",
@@ -147,7 +149,7 @@
                 "url": "/read/en/1999_cricket_world_cup",
                 "contentUrl": "/static/content/en/1999_cricket_world_cup.json",
                 "label": "1999 Cricket World Cup",
-                "id": "erfGtcMg2eo",
+                "id": "Xp1QDh9X-4s",
                 "value": {
                   "label": "The 1999 Cricket World Cup was the seventh edition of the Cricket World Cup, organised by the International Cricket Council (ICC). It was hosted primarily by England, with some games being played in Scotland, Ireland, Wales and the Netherlands.",
                   "image": {
@@ -161,7 +163,7 @@
         },
         {
           "label": "Champions Trophy 2002",
-          "id": "L0rPRtC3u0i",
+          "id": "ZRSzB5wHFWU",
           "note": "2002",
           "value": {
             "label": "India was declared co-champions of the tournament and Ganguly score 117 not out in the pool stage versus England. ",
@@ -170,7 +172,7 @@
                 "url": "/read/en/icc_champions_trophy",
                 "contentUrl": "/static/content/en/icc_champions_trophy.json",
                 "label": "ICC Champions Trophy",
-                "id": "nCDc6Z7O2RS",
+                "id": "m-7qbF2QE",
                 "value": {
                   "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
                   "image": {
@@ -184,7 +186,7 @@
         },
         {
           "label": "2003 World Cup",
-          "id": "Hx-Ba7QoJqc",
+          "id": "cvxxGajk7u",
           "note": "2003",
           "value": {
             "label": "Under Sourav Ganguly's captainship India reached the finals of the world cup for the first time since 1983.",
@@ -193,7 +195,7 @@
                 "url": "/read/en/2003_cricket_world_cup",
                 "contentUrl": "/static/content/en/2003_cricket_world_cup.json",
                 "label": "2003 Cricket World Cup",
-                "id": "Vocn0GVo_0v",
+                "id": "_cmpvTw5Vt",
                 "value": {
                   "label": "The 2003 Cricket World Cup was the eighth Cricket World Cup, organized by the International Cricket Council (ICC). It was co-hosted by South Africa, Zimbabwe and Kenya.",
                   "image": {
@@ -207,7 +209,7 @@
         },
         {
           "label": "2007 World Cup",
-          "id": "Bq6DoS_YAI_",
+          "id": "NXT64QVgOI",
           "note": "2007",
           "value": {
             "label": "Ganguly was the leading scorer for India although the team was knocked out of the tournament in the group stage.",
@@ -216,7 +218,7 @@
                 "url": "/read/en/2007_cricket_world_cup",
                 "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
                 "label": "2007 Cricket World Cup",
-                "id": "WARxFGaNavd",
+                "id": "H_VngIzBnI",
                 "value": {
                   "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
                   "image": {
@@ -230,7 +232,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "X5im867tbNJ",
+          "id": "u6Et1Pue9u",
           "note": "2008",
           "value": {
             "label": "Ganguly joined the Kolkata Knight Riders team as captain for the Indian Premier League in 2008.",
@@ -239,7 +241,7 @@
                 "url": "/read/en/kolkata_knight_riders",
                 "contentUrl": "/static/content/en/kolkata_knight_riders.json",
                 "label": "Kolkata Knight Riders",
-                "id": "pVJUF6ZQWN7",
+                "id": "hzE2MJ2miG",
                 "value": {
                   "label": "The Kolkata Knight Riders (also known by the acronym KKR) are a franchise cricket team representing the city of Kolkata in the Indian Premier League. ",
                   "image": {
@@ -320,13 +322,13 @@
       "facts": [
         {
           "label": "Indian National Cricket team (1992-2008)",
-          "id": "ToAyz5NO3V",
+          "id": "sUieNc9j1w",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "RxAQvv_njyt",
+                "id": "qDvGOs9Qs8",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -342,14 +344,14 @@
         },
         {
           "label": "Pune Warriors India (2011-2012)",
-          "id": "CG1ErDr9u4a",
+          "id": "3tt1Bf4lWT",
           "value": {
             "label": "Pune Warriors India were an IPL cricket team that represented the city of Pune. The team was dissolved in 2013."
           }
         },
         {
           "label": "Bengal (1990-2010)",
-          "id": "UvQgEwS6aIW",
+          "id": "fZ2RHxRuNF",
           "value": {
             "label": "The Bengal cricket team represents the Indian state of West Bengal in domestic first-class cricket."
           }
@@ -368,7 +370,8 @@
             "label": "Arjuna Awards are given by the Government for outstanding achievement in sports",
             "image": {
               "url": "/static/images/master/Arjun_Award.jpg",
-              "altText": "Image of Arjuna Award"
+              "altText": "Image of Arjuna Award",
+              "license": "<p><p>This is an image of bronze statuette of Arjuna, awarded to recognize outstanding achievement in particular sport in India.\n</p></p><p><p><a rel=\"nofollow\" class=\"external text\" href=\"http://www.olympic.ind.in/award.html\">IOA Website</a>\n</p></p><p><p><a href=\"/wiki/Arjuna_Award\" title=\"Arjuna Award\">Arjuna Award</a>\n</p></p><p><p>The entire picture is used to convey the meaning intended and avoid tarnishing or misrepresenting the intended image.\n</p></p><p><p>This is a low resolution version.\n</p></p><p><p>The image is used to identify the prestigious award.\n</p></p><p><p>As this picture belongs to IOA,  no free version available.\n</p></p><p>This image is a faithful digitisation of a <b>unique historic image</b>, and the <b>copyright</b> for it is most likely held by the <b>person who created the image</b> or the <b>agency employing the person</b>. It is believed that the use of this image may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Other use of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> for more information.<br>\nPlease remember that the <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free content criteria</a> <b>require</b> that non-free images on Wikipedia must not &quot;[be] used in a manner that is likely to replace the <b>original market role of the original copyrighted media.</b>&quot;  Use of historic images from press agencies must <b>only</b> be of a transformative nature, when <b>the image itself</b> is the subject of commentary rather than the event it depicts (which is the original market role, and is not allowed per policy).</p>"
             }
           }
         },
@@ -379,7 +382,7 @@
           "value": {
             "label": "Padma Shri is the fourth highest civilian award in the Republic of India",
             "image": {
-              "url": "/static/images/master/The_President_Dr._A.P.J_Abdul_Kalam_presenting_Padma_Shri_Award_to_Shri_Saurav_Ganguly_the_most_successful_Captain_of_Indian_Cricket_Team_at_an_investiture_Ceremony_at_Rashtrapati_Bhawan_in_New_Delhi_on_June_30%2C_2004.jpg",
+              "url": "/static/images/master/The_President_Dr._A.P.J_Abdul_Kalam_presenting_Padma_Shri_Award_to_Shri_Saurav_Ganguly_the_most_successful_Captain_of_Indian_Cricket_Team_at_an_investiture_Ceremony_at_Rashtrapati_Bhawan_in_New_Delhi_on_June_302C_2004.jpg",
               "altText": "Image of Padma Shri",
               "license": "<p><i></i><div lang=\"en\" class=\"description en\" style=\"display:inline;\"><i>This file is a copyrighted work of the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.india.gov.in/\">Government of India</a></b>, licensed under the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf\">Government Open Data License - India (GODL)</a></b>.</i>\n<p>Following the mandate of the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://data.gov.in/sites/default/files/NDSAP.pdf\">National Data Sharing and Accessibility Policy (NDSAP) of Government of India</a></b> that\napplies to all shareable non-sensitive data available either in digital or analog forms but generated using public funds by\nvarious agencies of the Government of India, all users are provided a worldwide, royalty-free, non-exclusive license to <b>use, adapt, publish</b> (either in original, or in adapted and/or derivative forms), translate, display, add value, and create derivative works (including products and services), for all lawful <b>commercial and non-commercial purposes</b>, and for the duration of existence of such rights over the data or information. \n</p><p>The user must acknowledge the provider, source, and license of data by explicitly publishing the <b>attribution statement</b>, including the DOI (Digital Object Identifier), or the URL (Uniform Resource Locator), or the URI (Uniform Resource Identifier) of the data concerned. \n</p><p>The user must not indicate or suggest in any manner that the data provider(s) endorses their use and/or the user. \nThe data provider(s) are not liable for any errors or omissions, and will not under any circumstances be liable for any loss, injury or damage caused by its use.  \n</p><p>The data provider(s) do not guarantee the continued supply of updated or up-to-date versions of the data, and will not be held liable in case the continued supply of updated data is not provided. \n</p><p><b>Exemptions:</b> The license does not cover the following kinds of data: a. personal information; b. data that is non-shareable and/or sensitive; c. names, crests, logos and other official symbols of the data provider(s); d. data subject to other intellectual property rights, including patents, trade-marks and official marks; e. military insignia; f. identity documents; and g. any data that should not have been publicly disclosed for the grounds provided under section 8 of the <a rel=\"nofollow\" class=\"external text\" href=\"http://rti.gov.in/webactrti.htm\">Right to Information Act, 2005</a>.\n</p><p><span class=\"licensetpl_link\" style=\"display:none;\">https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf</span>\n<span class=\"licensetpl_short\" style=\"display:none;\">GODL-India</span>\n<span class=\"licensetpl_long\" style=\"display:none;\">Government Open Data License &#x2013; India</span>\n<span class=\"licensetpl_link_req\" style=\"display:none;\">true</span>\n</p>\n<span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div><i></i></p><p></p><p><hr>\n<p><span style=\"font-size:x-small;line-height:140%\" class=\"plainlinks noprint\"><a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/en\">English</a>&#xA0;| <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/fr\">fran&#xE7;ais</a>&#xA0;| <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/ml\">&#xD2E;&#xD32;&#xD2F;&#xD3E;&#xD33;&#xD02;</a>&#xA0;| <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/mr\">&#x92E;&#x930;&#x93E;&#x920;&#x940;</a>&#xA0;| <small class=\"plainlinks\"><a class=\"external text\" href=\"//commons.wikimedia.org/w/index.php?title=Template:GODL-India/lang&amp;action=edit\">+/&#x2212;</a></small></span>\n<span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=GODL-India 1%3D\">&#xA0;</span>\n</p></p>"
             }

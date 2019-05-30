@@ -3,7 +3,8 @@
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Stephen_Fleming",
   "coverImage": {
     "url": "/static/images/master/Stephen_Fleming_slip.jpg",
-    "altText": "Image of Stephen Fleming"
+    "altText": "Image of Stephen Fleming",
+    "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
   },
   "summary": "Stephen Fleming is a former cricketer from New Zealand who also captained the team.",
   "translations": [
@@ -63,7 +64,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "MY8QbyDTMB",
+      "id": "AcusW2l0f",
       "cardType": "simple",
       "facts": [
         {
@@ -72,7 +73,8 @@
             "label": "Fleming was an elegant left handed batsman, off-break bowler, and prolific fielder in the slips",
             "image": {
               "url": "/static/images/master/Stephen_Fleming_captain.jpg",
-              "altText": "Style of play for Stephen Fleming"
+              "altText": "Style of play for Stephen Fleming",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
             }
           }
         }
@@ -84,7 +86,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "sUgxiU9TK_y",
+          "id": "7FoXSVKo8",
           "note": "1991",
           "value": {
             "label": "Fleming first played for the Canterbury, first class team during the 1991-92 season."
@@ -92,7 +94,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "qRUkMiG3rnP",
+          "id": "WFO3LLPXdu",
           "note": "1994",
           "value": {
             "label": "Fleming made his Test debut in March 1994 against India, winning the Man of the Match award in the match.",
@@ -101,7 +103,7 @@
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "label": "India national cricket team",
-                "id": "WX4WzUBPGji",
+                "id": "sS-IXTg_Yl",
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
@@ -115,7 +117,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "p0tzAR9vVE3",
+          "id": "I1lNe7yu8V",
           "note": "",
           "value": {
             "label": ""
@@ -123,7 +125,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "YguY17ESYcK",
+          "id": "qJ96FvK_YS",
           "note": "2008",
           "value": {
             "label": "Fleming played for the Chennai Super Kings in the 2008 and scored 196 runs in 10 matches.",
@@ -132,7 +134,7 @@
                 "url": "/read/en/chennai_super_kings",
                 "contentUrl": "/static/content/en/chennai_super_kings.json",
                 "label": "Chennai Super Kings",
-                "id": "K8X9Au3HYsH",
+                "id": "t6wQn4H0WJ",
                 "value": {
                   "label": "Founded in 2008, The Chennai Super Kings (CSK) is an Indian franchise cricket team based in Chennai, Tamil Nadu, which plays in the Indian Premier League (IPL).",
                   "image": {
@@ -213,13 +215,13 @@
       "facts": [
         {
           "label": "New Zealand (1994-2008)",
-          "id": "Ph3eQ8DdbQ_",
+          "id": "ZXJv5AAZ3M",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "New Zealand national cricket team",
-                "id": "lpn1-IqQCWC",
+                "id": "urJzLiAOCW",
                 "url": "/read/en/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
                 "value": {
@@ -235,13 +237,13 @@
         },
         {
           "label": "Chennai Super Kings (2008)",
-          "id": "ZIWcZZjq5Kz",
+          "id": "33_mHvy2wp",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Chennai Super Kings",
-                "id": "ZojkEoTCYqX",
+                "id": "l2CO5aDoyw",
                 "url": "/read/en/chennai_super_kings",
                 "contentUrl": "/static/content/en/chennai_super_kings.json",
                 "value": {
@@ -257,7 +259,7 @@
         },
         {
           "label": "Canterbury (1991-2000)",
-          "id": "lNizsOwzNwF",
+          "id": "2hliFZ_ZOK",
           "value": {
             "label": "Canterbury is a New Zealand First-class cricket team based in Canterbury, New Zealand."
           }
@@ -276,7 +278,8 @@
             "label": "New Zealand Order of Merit is an honour established by royal warrant by Queen Elizabeth II, to honour persons who have rendered meritorious service in any field of endeavour.",
             "image": {
               "url": "/static/images/master/New_Zealand_Order_of_Merit_badge_WP.svg",
-              "altText": "Image of New Zealand Order of Merit"
+              "altText": "Image of New Zealand Order of Merit",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
             }
           }
         }

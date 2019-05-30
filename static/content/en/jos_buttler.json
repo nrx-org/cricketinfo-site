@@ -3,7 +3,8 @@
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos_Buttler",
   "coverImage": {
     "url": "/static/images/master/Jos_Buttler_2017.jpg",
-    "altText": "Image of Jos Buttler"
+    "altText": "Image of Jos Buttler",
+    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
   },
   "summary": "Jos Buttler is an English international cricketer who is currently vice-captain of the England cricket team.",
   "translations": [
@@ -71,7 +72,8 @@
             "label": "Buttler was named Young Wisden Schools Cricketer of the Year in 2010.",
             "image": {
               "url": "/static/images/master/Kingscollegetaunton.jpg",
-              "altText": "Image of King's College, Taunton"
+              "altText": "Image of King's College, Taunton",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         }
@@ -79,7 +81,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "74Cz1jEM9n4",
+      "id": "vioJ20nCtn",
       "cardType": "simple",
       "facts": [
         {
@@ -88,7 +90,8 @@
             "label": "Right-handed batsman and wicket-keeper ",
             "image": {
               "url": "/static/images/master/Jos_buttler_keeping.jpg",
-              "altText": "Style of play for Jos Buttler"
+              "altText": "Style of play for Jos Buttler",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
             }
           }
         }
@@ -100,7 +103,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "7uejjkB9sa",
+          "id": "nXm-lYK6T",
           "note": "2009",
           "value": {
             "label": "Buttler made his first-class debut for Somerset in September 2009 against Lancashire."
@@ -108,7 +111,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "V_v0hCbxEL",
+          "id": "xM4rQITYT_",
           "note": "2011",
           "value": {
             "label": "Buttler made his international debut as a specialist batsman in 2011",
@@ -117,7 +120,7 @@
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "label": "India national cricket team",
-                "id": "Z_Gd6H_44V",
+                "id": "3YSd7YzxtQ",
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
@@ -131,7 +134,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "cygTg54Xho",
+          "id": "6Spa0dd30o",
           "note": "2012",
           "value": {
             "label": "Buttler played in all five of England's matches in the competition"
@@ -139,7 +142,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "8bD6B69PUa",
+          "id": "X_89m4tuBe",
           "note": "2016",
           "value": {
             "label": "Buttler played for Mumbai Indians in the 2016 and 2017 IPL seasons",
@@ -148,7 +151,7 @@
                 "url": "/read/en/mumbai_indians",
                 "contentUrl": "/static/content/en/mumbai_indians.json",
                 "label": "Mumbai Indians",
-                "id": "qEUFUVJOMDe",
+                "id": "KHAnsUZ8Du",
                 "value": {
                   "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
                   "image": {
@@ -229,13 +232,13 @@
       "facts": [
         {
           "label": "England (2011 - present)",
-          "id": "owVYODez82U",
+          "id": "lZoLkD7FWQ",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "England cricket team",
-                "id": "-XUNdkD4RwC",
+                "id": "hfErUvFvRi",
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "value": {
@@ -251,13 +254,13 @@
         },
         {
           "label": "Rajasthan Royals (2018 - present)",
-          "id": "bsyXloheuzj",
+          "id": "ge0E_UFCV9",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Rajasthan Royals",
-                "id": "MdZXjZJrf9s",
+                "id": "dsxE24qs9g",
                 "url": "/read/en/rajasthan_royals",
                 "contentUrl": "/static/content/en/rajasthan_royals.json",
                 "value": {
@@ -273,7 +276,7 @@
         },
         {
           "label": "Lancashire (2014 - present)",
-          "id": "zejrJmzByiD",
+          "id": "Fvq2SYpLK-",
           "value": {
             "label": "Lancashire County Cricket Club is a first class English county team that represents the county of Lancashire"
           }

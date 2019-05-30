@@ -3,7 +3,8 @@
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Virat_Kohli",
   "coverImage": {
     "url": "/static/images/master/Virat..Kohli.jpg",
-    "altText": "Image of Virat Kohli"
+    "altText": "Image of Virat Kohli",
+    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
   },
   "summary": "Indian international cricketer who currently captains the India national team.",
   "translations": [
@@ -81,7 +82,8 @@
             "contentUrl": "/static/content/en/anushka_sharma.json",
             "image": {
               "url": "/static/images/master/Anushka_Sharma_promoting_Zero.jpg",
-              "altText": "Picture of Anuskha Sharma"
+              "altText": "Picture of Anuskha Sharma",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
             }
           }
         }
@@ -89,7 +91,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "6vG1TseZW",
+      "id": "0JHQ07DEz",
       "cardType": "simple",
       "facts": [
         {
@@ -98,7 +100,8 @@
             "label": "Kohli is a naturally aggressive batsman with strong technical skills. He usually bats in the middle-order, but, on many occasions, has opened the innings as well. He bats with a slightly open-chested stance and a strong bottom-hand grip,  and is said to have quick footwork. He is known for his wide range of shots, ability to pace an innings and batting under pressure.",
             "image": {
               "url": "/static/images/master/Virat_Kohli_batting_2013.jpg",
-              "altText": "Style of play for Virat Kohli"
+              "altText": "Style of play for Virat Kohli",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
             }
           }
         }
@@ -110,7 +113,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "hKilQBaXkGr",
+          "id": "ZIhjlzpUO",
           "note": "2006",
           "value": {
             "label": "Kohli made his first-class debut for Delhi against Tamil Nadu in 2006, at the age of 18"
@@ -118,7 +121,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "bu_g8NOKkvO",
+          "id": "ZFGqSY1d3R",
           "note": "2008",
           "value": {
             "label": "Kohli was included in the Indian ODI squad for 2008 tour of Sri Lanka and the Champions Trophy in Pakistan",
@@ -127,7 +130,7 @@
                 "url": "/read/en/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
                 "label": "Sri Lanka national cricket team",
-                "id": "ydkLqXWjHk0",
+                "id": "qI-QdliQGn",
                 "value": {
                   "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
                   "image": {
@@ -141,7 +144,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "qFWprw8bL1o",
+          "id": "U8hhCiJxWM",
           "note": "2008",
           "value": {
             "label": "Kohli captained the victorious Indian team at the 2008 ICC Under-19 Cricket World Cup held in Malaysia"
@@ -149,7 +152,7 @@
         },
         {
           "label": "World Cup Appearance",
-          "id": "HlPiKhlXS7D",
+          "id": "O0NweLTBNc",
           "note": "2011",
           "value": {
             "label": "Kohli played in every match of India's successful World Cup campaign in 2011"
@@ -157,7 +160,7 @@
         },
         {
           "label": "ICC Champions Trophy ",
-          "id": "Zj1cg4D-FgV",
+          "id": "n3JhvfAFfv",
           "note": "2013",
           "value": {
             "label": "In June 2013, Kohli featured in the ICC Champions Trophy in England which India won",
@@ -166,7 +169,7 @@
                 "url": "/read/en/icc_champions_trophy",
                 "contentUrl": "/static/content/en/icc_champions_trophy.json",
                 "label": "ICC Champions Trophy",
-                "id": "OD469GdCKuN",
+                "id": "d4H-erelrr",
                 "value": {
                   "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
                   "image": {
@@ -180,7 +183,7 @@
         },
         {
           "label": "ICC T20 Trophy ",
-          "id": "u_K9TDbMtwE",
+          "id": "4wbr-4i_s2",
           "note": "2014",
           "value": {
             "label": "For 2014 ICC World Twenty20 and Kohli was named vice-captain.",
@@ -189,7 +192,7 @@
                 "url": "/read/en/icc_t20_world_cup",
                 "contentUrl": "/static/content/en/icc_t20_world_cup.json",
                 "label": "ICC T20 World Cup",
-                "id": "ZkiD1BOqhK4",
+                "id": "yZ-PKEFGY9",
                 "value": {
                   "label": "The ICC T20 World Cup (earlier known as ICC World Twenty20) is the international championship of Twenty20 International cricket. The tournament currently consists of 16 teams, comprising the top eight teams from the rankings at the given deadline and four other teams chosen through the T20 World Cup Qualifier. ",
                   "image": {
@@ -203,7 +206,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "hZntQgqf-Hh",
+          "id": "Fxb4jGs1SR",
           "note": "2008",
           "value": {
             "label": "In March 2008, Kohli was bought on a youth contract by Royal Challengers Bangalore for $30,000. ",
@@ -212,7 +215,7 @@
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "label": "Royal Challengers Bangalore",
-                "id": "X39LvMK6ycm",
+                "id": "90QFOinJ6",
                 "value": {
                   "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
                   "image": {
@@ -236,7 +239,7 @@
           "value": {
             "label": "He captained India Under-19s to victory at the Under-19 World Cup in Malaysia in 2008",
             "image": {
-              "url": "/static/images/master/2015_CWC_I_v_UAE_02-28_Kohli_%2812%29_%28cropped%29.JPG",
+              "url": "/static/images/master/2015_CWC_I_v_UAE_02-28_Kohli_281229_28cropped29.JPG",
               "altText": "He captained India Under-19s to victory at the Under-19 World Cup in Malaysia in 2008",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
             }
@@ -259,7 +262,7 @@
           "value": {
             "label": "In 2013, Kohli reached the number one spot in the ICC rankings for ODI batsmen for the first time ",
             "image": {
-              "url": "/static/images/master/2015_CWC_I_v_UAE_02-28_Kohli_%2812%29_%28cropped%29.JPG",
+              "url": "/static/images/master/2015_CWC_I_v_UAE_02-28_Kohli_281229_28cropped29.JPG",
               "altText": "In 2013, Kohli reached the number one spot in the ICC rankings for ODI batsmen for the first time ",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
             }
@@ -282,7 +285,7 @@
           "value": {
             "label": "In2018, became the first batsman to score 500 runs in a bilateral ODI series.",
             "image": {
-              "url": "/static/images/master/2015_CWC_I_v_UAE_02-28_Kohli_%2812%29_%28cropped%29.JPG",
+              "url": "/static/images/master/2015_CWC_I_v_UAE_02-28_Kohli_281229_28cropped29.JPG",
               "altText": "In2018, became the first batsman to score 500 runs in a bilateral ODI series.",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
             }
@@ -296,13 +299,13 @@
       "facts": [
         {
           "label": "Indian National Cricket team (2008-present)",
-          "id": "FYTQV3R4t",
+          "id": "shdD-1cnw",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "iR4qhn2Bzv",
+                "id": "nkzG1nxPyz",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -318,13 +321,13 @@
         },
         {
           "label": "Royal Challengers Bangalore (2008-present)",
-          "id": "RJCeQocA7a",
+          "id": "7cCMaQMqvO",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Royal Challengers Bangalore",
-                "id": "qmi5NmUS1L",
+                "id": "jqW4pVE3E",
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "value": {
@@ -340,7 +343,7 @@
         },
         {
           "label": "Delhi (2006-present)",
-          "id": "pLGSieTNFT",
+          "id": "BeQodVukZZ",
           "value": {
             "label": "Domestic Ranji trophy cricket team based in Delhi"
           }
@@ -371,7 +374,8 @@
             "label": "Annual award by the International Cricket Council (ICC) to its chosen world player of the year.",
             "image": {
               "url": "/static/images/master/Sir_Garfield_Sobers_Trophy.jpeg",
-              "altText": "Image of Sir Garfield Sobers Trophy"
+              "altText": "Image of Sir Garfield Sobers Trophy",
+              "license": "<p>The Garfield Sobers Trophy for best cricketer of the year, awarded since 2004</p><p>International Cricket Council</p><p><a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20070929091304/http://www.icc-cricket.com/icc-news/content/story/143028.html\">https://web.archive.org/web/20070929091304/http://www.icc-cricket.com/icc-news/content/story/143028.html</a></p><p><b><a href=\"/wiki/Sir_Garfield_Sobers_Trophy\" title=\"Sir Garfield Sobers Trophy\">Sir Garfield Sobers Trophy</a></b></p><p>To support encyclopedic discussion of this work in this article. The illustration is specifically needed to support the following point(s): <br>\n<p>For visual identification of the object of the article. The article as a whole is dedicated specifically to a discussion of this work.\n</p></p><p>n.a.</p><p>Extremely low resolution image</p><p>n.a.</p><p>This work is <a href=\"/wiki/Copyright\" title=\"Copyright\">copyrighted</a> (or assumed to be copyrighted) and unlicensed. It does not fall into one of the blanket acceptable non-free content categories listed at <a href=\"/wiki/Wikipedia:Non-free_content#Images\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content &#xA7;&#xA0;Images</a> or <a href=\"/wiki/Wikipedia:Non-free_content#Audio_clips\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content &#xA7;&#xA0;Audio clips</a>, and it is not covered by a more specific non-free content license listed at <a href=\"/wiki/Category:Wikipedia_non-free_file_copyright_templates\" title=\"Category:Wikipedia non-free file copyright templates\">Category:Wikipedia non-free file copyright templates</a>. However, it is believed that the use of this work:\n<ul><li>To illustrate the <b>subject in question</b></li>\n<li>Where no free equivalent is available or could be created that would adequately give the same information</li>\n<li>On the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>,</li></ul>\n<p>qualifies as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under <a href=\"/wiki/Fair_use#Fair_use_under_United_States_law\" title=\"Fair use\">United States copyright law</a>.  <b>Any other uses of this image, on Wikipedia or elsewhere, <i>may</i> be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b>  See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Copyrights\" title=\"Wikipedia:Copyrights\">Wikipedia:Copyrights</a>.<br>\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:Sir_Garfield_Sobers_Trophy.jpeg</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p>"
             }
           }
         },
