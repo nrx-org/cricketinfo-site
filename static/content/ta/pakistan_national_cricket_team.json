@@ -156,12 +156,116 @@
     {
       "title": "Famous Players",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "Shoaib Malik",
+          "id": "shoaib_malik",
+          "value": {
+            "url": null,
+            "label": " On 1 July 2018, Malik became the first Asian batsman to score 2,000 runs in T20Is and first player to play 100 T20Is in the world.",
+            "image": {
+              "url": "/static/images/pakistan_national_cricket_team/Shoaib_Malik.jpg",
+              "altText": "Image of Shoaib Malik"
+            }
+          }
+        },
+        {
+          "label": "Shahid Afridi",
+          "id": "shahid_afridi",
+          "value": {
+            "url": null,
+            "label": "Shahid Afridi holds the distinction of having hit the most number of sixes in the history of ODI cricket.",
+            "image": {
+              "url": "/static/images/pakistan_national_cricket_team/Shahid_Afridi_in_2017.jpg",
+              "altText": "Image of Shahid Afridi"
+            }
+          }
+        },
+        {
+          "label": "Inzamam-ul-Haq",
+          "id": "inzamam-ul-haq",
+          "value": {
+            "url": null,
+            "label": "Syed Inzamam-ul-Haq, also known as Inzi, is a former Pakistani cricketer, and former captain. He is the leading run scorer for Pakistan in one-day internationals.",
+            "image": {
+              "url": "/static/images/pakistan_national_cricket_team/Inzamam-ul-Haq.jpg",
+              "altText": "Image of Inzamam-ul-Haq"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "Achievements & Records",
       "cardType": "list_card",
-      "facts": []
+      "facts": [
+        {
+          "label": "1992 Cricket World Cup",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Pakistan overcame a dismal start in the tournament to eventually defeat England by 22 runs in the final and emerge as winners.",
+            "facts": [
+              {
+                "label": "1992 World Cup",
+                "id": "1992_cricket_world_cup-1992_world_cup",
+                "url": null,
+                "value": {
+                  "label": null,
+                  "image": {
+                    "altText": "Image of 1992 Cricket World Cup",
+                    "license": ""
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC World Twenty20",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "The final took place at Lord's on Sunday 21 June 2009 with Pakistan beating Sri Lanka by eight wickets.",
+            "facts": [
+              {
+                "label": "ஐசிசி டி20 உலகக் கோப்பை",
+                "id": "icc_world_twenty20-",
+                "url": "/read/ta/icc_t20_world_cup",
+                "value": {
+                  "label": "ஐசிசி டி20 உலகக் கோப்பை (முன்னர் ஐசிசி வேர்ல்ட் ட்வென்டி20 என்று அழைக்கப்படும்), ட்வென்டி20 இன்டர்நேஷனல் கிரிக்கெட்டின் இன்டர்நேஷனல் சேம்பியன்ஷிப் ஆகும். டோர்னமென்ட்டில் தற்போது 16 அணிகள் இடம்பெற்றுள்ளன. அதில் கொடுக்கப்பட்ட நேரத்திற்குள் தரவரிசையில் முதல் எட்டு இடங்களைப் பிடித்த அணிகளும், டி20 உலகக் கோப்பை குவாலிஃபயர் மூலமாக தேர்வு செய்யப்பட்ட நான்கு அணிகளும் உள்ளடங்கும்.",
+                  "image": {
+                    "altText": "Image of ICC World Twenty20",
+                    "license": ""
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Champions Trophy",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Pakistan won the competition for the first time with a 180-run victory over India in the final.",
+            "facts": [
+              {
+                "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி",
+                "id": "icc_champions_trophy-",
+                "url": "/read/ta/icc_champions_trophy",
+                "value": {
+                  "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி என்பது இன்டர்நேஷனல் கிரிக்கெட் கவுன்சிலால் (ஐசிசி) நடத்தப்படும் ஒன் டே இன்டர்நேஷனல் (ODI) கிரிக்கெட் டோர்னமென்ட் ஆகும். இது கிரிக்கெட் உலகக்கோப்பைக்கு அடுத்தபடியாக முக்கியமாக கருதப்படும் டோர்னமென்ட் ஆகும். 2002-ஆம் ஆண்டு இதன் பெயர் சேம்பியன்ஸ் டிராஃபி என்று மாற்றப்பட்டது.",
+                  "image": {
+                    "url": "",
+                    "altText": "Image of ICC Champions Trophy"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Sponsors",
@@ -173,6 +277,7 @@
             "label": "CA Sports",
             "url": null,
             "image": {
+              "url": "/static/images/pakistan_national_cricket_team/CA_sports_logo.png",
               "altText": "Image of CA Sports"
             }
           }
@@ -183,6 +288,7 @@
             "label": "Pepsi",
             "url": null,
             "image": {
+              "url": "/static/images/pakistan_national_cricket_team/Pepsi_logo_new.svg",
               "altText": "Image of Pepsi"
             }
           }
@@ -193,6 +299,7 @@
             "label": "T10 Sports",
             "url": null,
             "image": {
+              "url": "",
               "altText": "Image of T10 Sports"
             }
           }

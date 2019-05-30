@@ -64,7 +64,7 @@ export class ArticleSummaryModalContainer extends React.Component {
   }
 
   render() {
-    const { isModalOpen } = this.props;
+    const { isModalOpen, modalData } = this.props;
     const { isLoading, data, error } = this.state;
 
     return (
@@ -78,6 +78,7 @@ export class ArticleSummaryModalContainer extends React.Component {
           article={data}
           onCloseClick={this.onCloseClick}
           error={error}
+          articleSlug={modalData ? modalData.articleSlug : ""}
           onRetry={this.fetchArticleData}
         />
       </BottomSheet>

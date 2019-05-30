@@ -156,12 +156,116 @@
     {
       "title": "Famous Players",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "Shoaib Malik",
+          "id": "shoaib_malik",
+          "value": {
+            "url": null,
+            "label": " On 1 July 2018, Malik became the first Asian batsman to score 2,000 runs in T20Is and first player to play 100 T20Is in the world.",
+            "image": {
+              "url": "/static/images/pakistan_national_cricket_team/Shoaib_Malik.jpg",
+              "altText": "Image of Shoaib Malik"
+            }
+          }
+        },
+        {
+          "label": "Shahid Afridi",
+          "id": "shahid_afridi",
+          "value": {
+            "url": null,
+            "label": "Shahid Afridi holds the distinction of having hit the most number of sixes in the history of ODI cricket.",
+            "image": {
+              "url": "/static/images/pakistan_national_cricket_team/Shahid_Afridi_in_2017.jpg",
+              "altText": "Image of Shahid Afridi"
+            }
+          }
+        },
+        {
+          "label": "Inzamam-ul-Haq",
+          "id": "inzamam-ul-haq",
+          "value": {
+            "url": null,
+            "label": "Syed Inzamam-ul-Haq, also known as Inzi, is a former Pakistani cricketer, and former captain. He is the leading run scorer for Pakistan in one-day internationals.",
+            "image": {
+              "url": "/static/images/pakistan_national_cricket_team/Inzamam-ul-Haq.jpg",
+              "altText": "Image of Inzamam-ul-Haq"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "Achievements & Records",
       "cardType": "list_card",
-      "facts": []
+      "facts": [
+        {
+          "label": "1992 Cricket World Cup",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Pakistan overcame a dismal start in the tournament to eventually defeat England by 22 runs in the final and emerge as winners.",
+            "facts": [
+              {
+                "label": "1992 World Cup",
+                "id": "1992_cricket_world_cup-1992_world_cup",
+                "url": null,
+                "value": {
+                  "label": null,
+                  "image": {
+                    "altText": "Image of 1992 Cricket World Cup",
+                    "license": ""
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC World Twenty20",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "The final took place at Lord's on Sunday 21 June 2009 with Pakistan beating Sri Lanka by eight wickets.",
+            "facts": [
+              {
+                "label": "आईसीसी टी20 विश्व कप",
+                "id": "icc_world_twenty20-",
+                "url": "/read/hi/icc_t20_world_cup",
+                "value": {
+                  "label": "आईसीसी टी20 विश्व कप (जिसे पहले आईसीसी विश्व ट्वेंटी20 के नाम से जाना जाता था) ट्वेंटी20 क्रिकेट की अंतर्राष्ट्रीय चैम्पियनशिप है। वर्तमान में इस टूर्नामेंट में 16 टीमें भाग लेती हैं, जिसमें आठ टीमें दी गई समय सीमा के भीतर रैंकिंग के शीर्ष आठ में रहने वाली टीमें होती हैं जबकि चार अन्य टीमें टी20 विश्व कप क्वालीफायर के माध्यम से चुनी जातीं हैं।",
+                  "image": {
+                    "altText": "Image of ICC World Twenty20",
+                    "license": ""
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Champions Trophy",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Pakistan won the competition for the first time with a 180-run victory over India in the final.",
+            "facts": [
+              {
+                "label": "आईसीसी चैंपियंस ट्रॉफी",
+                "id": "icc_champions_trophy-",
+                "url": "/read/hi/icc_champions_trophy",
+                "value": {
+                  "label": "आईसीसी चैंपियंस ट्रॉफी एक दिवसीय अंतर्राष्ट्रीय (वनडे) क्रिकेट टूर्नामेंट था जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया जाता था, जो क्रिकेट विश्व कप के बाद दूसरा सबसे महत्वपूर्ण आयोजन था। 2002 में इसका नाम बदलकर चैंपियंस ट्रॉफी रखा गया।",
+                  "image": {
+                    "url": "",
+                    "altText": "Image of ICC Champions Trophy"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Sponsors",
@@ -173,6 +277,7 @@
             "label": "CA Sports",
             "url": null,
             "image": {
+              "url": "/static/images/pakistan_national_cricket_team/CA_sports_logo.png",
               "altText": "Image of CA Sports"
             }
           }
@@ -183,6 +288,7 @@
             "label": "Pepsi",
             "url": null,
             "image": {
+              "url": "/static/images/pakistan_national_cricket_team/Pepsi_logo_new.svg",
               "altText": "Image of Pepsi"
             }
           }
@@ -193,6 +299,7 @@
             "label": "T10 Sports",
             "url": null,
             "image": {
+              "url": "",
               "altText": "Image of T10 Sports"
             }
           }

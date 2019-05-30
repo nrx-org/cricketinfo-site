@@ -156,12 +156,66 @@
     {
       "title": "Famous Players",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "Mohammed Nabi",
+          "id": "mohammed_nabi",
+          "value": {
+            "url": null,
+            "label": "Mohammad Nabi is an Afghan cricketer who has captained the side in limited overs matches. He played a major role in Afghanistan's rise to the top level of international cricket, playing in both their first One Day International and their first Test match. ",
+            "image": {
+              "url": "/static/images/afghanistan_national_cricket_team/Mohammad_Nabi-Australia.jpg",
+              "altText": "Image of Mohammed Nabi"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "Achievements & Records",
       "cardType": "list_card",
-      "facts": []
+      "facts": [
+        {
+          "label": "2015 World Cup Qualifiers",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "On 4 October 2013, Afghanistan qualified for their first Cricket World Cup after beating Kenya to finish in second place behind Ireland.",
+            "facts": []
+          }
+        },
+        {
+          "label": "Participation in World Cup",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "The 2015 Cricket World was the first and to date the only Cricket World Cup Afghanistan has participated in. Afghanistan was grouped with hosts Australia and New Zealand.",
+            "facts": [
+              {
+                "label": "2015 क्रिकेट विश्व कप",
+                "id": "participation_in_world_cup-",
+                "url": "/read/hi/2015_cricket_world_cup",
+                "value": {
+                  "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
+                  "image": {
+                    "url": "",
+                    "altText": "Image of Participation in World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2018 Cricket World Cup Qualifier",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Afghanistan won the tournament, beating the West Indies in the final. Afghanistan's Mohammad Shahzad was named the player of the match.",
+            "facts": []
+          }
+        }
+      ]
     },
     {
       "title": "Sponsors",
