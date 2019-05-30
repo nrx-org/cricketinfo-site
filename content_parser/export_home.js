@@ -45,6 +45,9 @@ const HOME_STRATEGY_PLAYER_TO_WATCH_1 = "Player to watch - 1";
 const HOME_STRATEGY_PLAYER_TO_WATCH_2 = "Player to watch - 2";
 const HOME_STRATEGY_PLAYER_TO_WATCH_3 = "Player to watch - 3";
 
+const HOME_STRATEGY_TEAM_TO_WATCH_1 = "Team to watch - 1";
+const HOME_STRATEGY_TEAM_TO_WATCH_2 = "Team to watch - 2";
+
 // Home page quiz data (home_quiz.[lang].csv)
 const HOME_QUIZ_QNO = "Q. No";
 const HOME_QUIZ_QUESTIONS = "Questions";
@@ -62,7 +65,6 @@ const HOME_FACTS_LINKING_ARTICLE = "Linking article";
 
 const HOME_POPULAR_ARTICLES_ARTICLEID = "Article Code";
 const HOME_INTERESTING_ARTICLES_ARTICLEID = "Article Code";
-const HOME_FEATURED_PLAYERS_ARTICLEID = "Article Code";
 const HOME_HISTORY_ARTICLEID = "Article Code";
 
 const groupArr = (data, n) => {
@@ -265,7 +267,7 @@ module.exports.exportHome = () => {
           ? {
               label: articleInfo.title,
               id: getSluggedTitle(articleInfo.title),
-              dates: dates,
+              dates,
               value: {
                 url: articleInfo.url,
                 label: articleInfo.summary,
