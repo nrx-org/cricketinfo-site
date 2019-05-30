@@ -9,26 +9,7 @@ import { Button } from "./Button";
 import { IconButton } from "./IconButton";
 import { LoadingSpinner } from "./LoadingSpinner";
 import { ERROR_NOT_FOUND, ERROR_NETWORK } from "../lib/errors";
-
-const RETRY_TEXT = {
-  en: "Retry",
-  hi: "TODO"
-};
-
-const NOT_FOUND_TEXT = {
-  en: "This page could not be found",
-  hi: "TODO"
-};
-
-const NETWORK_ERROR_TEXT = {
-  en: "There was a network error. Please try again.",
-  hi: "TODO"
-};
-
-const READ_THIS_TEXT = {
-  en: "Read this article",
-  hi: "TODO"
-};
+import { articleUiStrings, commonUiStrings } from "../lib/ui_strings";
 
 export const ArticleSummaryModal = props => (
   <LanguageContext.Consumer>
@@ -48,8 +29,8 @@ const ArticleSummaryModalInternal = ({
   if (error) {
     const message =
       error === ERROR_NOT_FOUND
-        ? NOT_FOUND_TEXT[lang]
-        : NETWORK_ERROR_TEXT[lang];
+        ? articleUiStrings.notFound[lang]
+        : articleUiStrings.networkError[lang];
 
     return (
       <div className="wcp-article-summary-modal__error">
@@ -59,10 +40,10 @@ const ArticleSummaryModalInternal = ({
           onClick={onCloseClick}
           className="wcp-article-summary-modal__error__button-close"
         >
-          Close
+          {commonUiStrings.close[lang]}
         </Button>
         {error === ERROR_NETWORK && (
-          <Button onClick={onRetry}>{RETRY_TEXT[lang]}</Button>
+          <Button onClick={onRetry}>{articleUiStrings.retry[lang]}</Button>
         )}
       </div>
     );
@@ -103,7 +84,7 @@ const ArticleSummaryModalInternal = ({
             isInverted
             href={articleUrl(articleSlug, lang)}
           >
-            {READ_THIS_TEXT[lang]}
+            {articleUiStrings.readThisArticle[lang]}
           </Button>
         ) : null}
       </div>
