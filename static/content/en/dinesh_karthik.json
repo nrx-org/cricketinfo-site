@@ -37,7 +37,8 @@
           "label": "Birthplace",
           "value": {
             "label": "Tiruchendur, Tamil Nadu, India",
-            "url": "https://en.wikipedia.org/wiki/Tiruchendur"
+            "url": "https://en.wikipedia.org/wiki/Tiruchendur",
+            "contentUrl": "/static/content/en/null.json"
           }
         },
         {
@@ -62,7 +63,7 @@
     },
     {
       "title": "Style of play",
-      "id": "hZhGUeUE86",
+      "id": "bmV_I8Slt35",
       "cardType": "simple",
       "facts": [
         {
@@ -83,7 +84,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "ohObdJ8Vk0",
+          "id": "Mp6EyOntsP",
           "note": "2002",
           "value": {
             "label": "Karthik made his debut at the first-class level in late-2002 against Baroda"
@@ -91,7 +92,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "GsbUlL0JwB",
+          "id": "LwCdFolelm",
           "note": "2004",
           "value": {
             "label": "Karthik made his international debut in an One day international match against England in 2004",
@@ -100,7 +101,7 @@
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "label": "England cricket team",
-                "id": "1zuWhsVYWo",
+                "id": "SF2K-AKqUq_",
                 "value": {
                   "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
                   "image": {
@@ -114,7 +115,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "O4vqcRaOzy",
+          "id": "oDTQ4kAiyZc",
           "note": "",
           "value": {
             "label": ""
@@ -122,7 +123,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "0z-k-OGSyz",
+          "id": "ZcpC1_WL--H",
           "note": "2008",
           "value": {
             "label": "Karthik played in the 2008 Indian Premier League as the wicket-keeper for the Delhi Daredevils",
@@ -131,7 +132,7 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-                "id": "yEP8e651_0",
+                "id": "G2ONaHPor2y",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
@@ -212,13 +213,13 @@
       "facts": [
         {
           "label": "Indian national cricket team (2004 - present)",
-          "id": "oQQ9JWMuPK",
+          "id": "_h40fiJ260",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "xnvN_ftNocj",
+                "id": "7SzEf-4891",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -234,13 +235,13 @@
         },
         {
           "label": "Kolkata Knight Riders (2018 - present)",
-          "id": "ZAnshi-gWzM",
+          "id": "hxJ3imNRBt",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Kolkata Knight Riders",
-                "id": "3iWCG2Lhbnh",
+                "id": "4AmxnQ68Yk",
                 "url": "/read/en/kolkata_knight_riders",
                 "contentUrl": "/static/content/en/kolkata_knight_riders.json",
                 "value": {
@@ -256,7 +257,7 @@
         },
         {
           "label": "Tamil Nadu (2002 - present)",
-          "id": "AhHWa2bHYHF",
+          "id": "Jax80yb6bTZ",
           "value": {
             "label": "Tamil Nadu Cricket Team is a domestic cricket team representing the state of Tamil Nadu, India"
           }

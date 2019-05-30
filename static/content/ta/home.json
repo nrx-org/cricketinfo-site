@@ -9,8 +9,360 @@
       "title": "Read in English"
     }
   ],
-  "participatingTeams": [],
-  "playingTeams": [],
+  "participatingTeams": [
+    {
+      "label": "இங்கிலாந்து கிரிக்கெட் அணி",
+      "id": "இங்கிலாந்து_கிரிக்கெட்_அணி",
+      "value": {
+        "url": "/read/ta/england_cricket_team",
+        "label": "இங்கிலாந்து கிரிக்கெட் அணி சர்வதேச கிரிக்கெட் போட்டியில் இங்கிலாந்து மற்றும் வேல்ஸை முன்னிறுத்தி விளையாடுகிறது. இங்கிலாந்து மற்றும் ஆஸ்திரேலியா 1877ஆம் ஆண்டில் டெஸ்ட் போட்டி விளையாடிய முதல் அணிகள் ஆகும்",
+        "image": {
+          "url": "/static/images/home/England_cricket_team_logo.svg",
+          "altText": "Image for இங்கிலாந்து கிரிக்கெட் அணி"
+        }
+      }
+    },
+    {
+      "label": "South Africa national cricket team",
+      "id": "south_africa_national_cricket_team",
+      "value": {
+        "url": "/read/ta/south_africa_national_cricket_team",
+        "label": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
+        "image": {
+          "url": "/static/images/home/Southafrica_cricket_logo.svg",
+          "altText": "Image for South Africa national cricket team"
+        }
+      }
+    },
+    {
+      "label": "வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி",
+      "id": "வெஸ்ட்_இன்டீஸ்_கிரிக்கெட்_அணி",
+      "value": {
+        "url": "/read/ta/west_indies_cricket_team",
+        "label": "பாரம்பரியமாக வின்டீஸ் என அழைக்கப்படுகின்ற வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி, ஆங்கிலோபோன் கரீபியன் பகுதியைப் பிரதிநிதித்துவப்படுத்தும் ஒரு பன்னாட்டு கிரிக்கெட் அணியாகும், இது கிரிக்கெட் வெஸ்ட் இன்டீஸால் நிர்வகிக்கப்படுகிறது. இந்த கலப்புக் குழுவிலுள்ள வீரர்கள் பதினைந்து கரீபியன் பிரதேசங்களிலிருந்து தேர்ந்தெடுக்கப்படுகின்றனர்",
+        "image": {
+          "url": "/static/images/home/West_indies_cricket_board_flag.png",
+          "altText": "Image for வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி"
+        }
+      }
+    },
+    {
+      "label": "Pakistan national cricket team",
+      "id": "pakistan_national_cricket_team",
+      "value": {
+        "url": "/read/ta/pakistan_national_cricket_team",
+        "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
+        "image": {
+          "url": "/static/images/home/PakistanCricketLogo.png",
+          "altText": "Image for Pakistan national cricket team"
+        }
+      }
+    },
+    {
+      "label": "New Zealand national cricket team",
+      "id": "new_zealand_national_cricket_team",
+      "value": {
+        "url": "/read/ta/new_zealand_national_cricket_team",
+        "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
+        "image": {
+          "url": "/static/images/home/New_Zealand_Cricket_Cap_Insignia.svg",
+          "altText": "Image for New Zealand national cricket team"
+        }
+      }
+    },
+    {
+      "label": "Sri Lanka national cricket team",
+      "id": "sri_lanka_national_cricket_team",
+      "value": {
+        "url": "/read/ta/sri_lanka_national_cricket_team",
+        "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
+        "image": {
+          "url": "/static/images/home/Sri_Lanka_Cricket_Cap_Insignia.svg",
+          "altText": "Image for Sri Lanka national cricket team"
+        }
+      }
+    },
+    {
+      "label": "Afghanistan national cricket team",
+      "id": "afghanistan_national_cricket_team",
+      "value": {
+        "url": "/read/ta/afghanistan_national_cricket_team",
+        "label": "The Afghanistan national cricket team is the 12th Test cricket playing Full Member nation. Cricket has been played in Afghanistan since the mid 19th century, but it is only in recent years that the national team has become successful. ",
+        "image": {
+          "url": "/static/images/home/Afghanistan_cricket_board_logo.jpg",
+          "altText": "Image for Afghanistan national cricket team"
+        }
+      }
+    },
+    {
+      "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+      "id": "ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
+      "value": {
+        "url": "/read/ta/australia_cricket_team",
+        "label": "ஆஸ்திரேலிய தேசிய கிரிக்கெட் அணி 1877 ஆம் ஆண்டு நடைபெற்ற முதன்முதல் டெஸ்ட் போட்டியில் விளையாடிய, ஒரு மிகப் பழமையான அணியாகும்.",
+        "image": {
+          "url": "/static/images/home/Australia_cricket_logo.svg",
+          "altText": "Image for ஆஸ்திரேலிய கிரிக்கெட் அணி"
+        }
+      }
+    },
+    {
+      "label": "Bangladesh national cricket team",
+      "id": "bangladesh_national_cricket_team",
+      "value": {
+        "url": "/read/ta/bangladesh_national_cricket_team",
+        "label": "The Bangladesh national cricket team, popularly known as \"The Tigers\", is administered by the Bangladesh Cricket Board (BCB). Bangladesh is a full member of the International Cricket Council (ICC) with Test and One Day International (ODI) status.",
+        "image": {
+          "url": "/static/images/home/Flag_of_Bangladesh.svg",
+          "altText": "Image for Bangladesh national cricket team"
+        }
+      }
+    },
+    {
+      "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+      "id": "இந்திய_தேசிய_கிரிக்கெட்_அணி",
+      "value": {
+        "url": "/read/ta/india_national_cricket_team",
+        "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
+        "image": {
+          "url": "/static/images/home/Cricket_India_Crest.svg",
+          "altText": "Image for இந்திய தேசிய கிரிக்கெட் அணி"
+        }
+      }
+    }
+  ],
+  "playingTeams": [
+    {
+      "label": "இங்கிலாந்து கிரிக்கெட் அணி",
+      "id": "இங்கிலாந்து_கிரிக்கெட்_அணி",
+      "dates": [
+        "2019-05-30",
+        "2019-06-03",
+        "2019-06-08",
+        "2019-06-14",
+        "2019-06-18",
+        "2019-06-21",
+        "2019-06-23",
+        "2019-06-25",
+        "2019-06-30",
+        "2019-07-03"
+      ],
+      "value": {
+        "url": "/read/ta/england_cricket_team",
+        "label": "இங்கிலாந்து கிரிக்கெட் அணி சர்வதேச கிரிக்கெட் போட்டியில் இங்கிலாந்து மற்றும் வேல்ஸை முன்னிறுத்தி விளையாடுகிறது. இங்கிலாந்து மற்றும் ஆஸ்திரேலியா 1877ஆம் ஆண்டில் டெஸ்ட் போட்டி விளையாடிய முதல் அணிகள் ஆகும்",
+        "image": {
+          "url": "/static/images/home/England_cricket_team_logo.svg",
+          "altText": "Image for இங்கிலாந்து கிரிக்கெட் அணி"
+        }
+      }
+    },
+    {
+      "label": "South Africa national cricket team",
+      "id": "south_africa_national_cricket_team",
+      "dates": [
+        "2019-05-30",
+        "2019-06-02",
+        "2019-06-05",
+        "2019-06-10",
+        "2019-06-15",
+        "2019-06-19",
+        "2019-06-28",
+        "2019-07-06"
+      ],
+      "value": {
+        "url": "/read/ta/south_africa_national_cricket_team",
+        "label": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
+        "image": {
+          "url": "/static/images/home/Southafrica_cricket_logo.svg",
+          "altText": "Image for South Africa national cricket team"
+        }
+      }
+    },
+    {
+      "label": "வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி",
+      "id": "வெஸ்ட்_இன்டீஸ்_கிரிக்கெட்_அணி",
+      "dates": [
+        "2019-05-31",
+        "2019-06-06",
+        "2019-06-10",
+        "2019-06-14",
+        "2019-06-17",
+        "2019-06-22",
+        "2019-06-27",
+        "2019-07-01",
+        "2019-07-04"
+      ],
+      "value": {
+        "url": "/read/ta/west_indies_cricket_team",
+        "label": "பாரம்பரியமாக வின்டீஸ் என அழைக்கப்படுகின்ற வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி, ஆங்கிலோபோன் கரீபியன் பகுதியைப் பிரதிநிதித்துவப்படுத்தும் ஒரு பன்னாட்டு கிரிக்கெட் அணியாகும், இது கிரிக்கெட் வெஸ்ட் இன்டீஸால் நிர்வகிக்கப்படுகிறது. இந்த கலப்புக் குழுவிலுள்ள வீரர்கள் பதினைந்து கரீபியன் பிரதேசங்களிலிருந்து தேர்ந்தெடுக்கப்படுகின்றனர்",
+        "image": {
+          "url": "/static/images/home/West_indies_cricket_board_flag.png",
+          "altText": "Image for வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி"
+        }
+      }
+    },
+    {
+      "label": "Pakistan national cricket team",
+      "id": "pakistan_national_cricket_team",
+      "dates": [
+        "2019-05-31",
+        "2019-06-03",
+        "2019-06-07",
+        "2019-06-12",
+        "2019-06-16",
+        "2019-06-23",
+        "2019-06-26",
+        "2019-06-29",
+        "2019-07-05"
+      ],
+      "value": {
+        "url": "/read/ta/pakistan_national_cricket_team",
+        "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
+        "image": {
+          "url": "/static/images/home/PakistanCricketLogo.png",
+          "altText": "Image for Pakistan national cricket team"
+        }
+      }
+    },
+    {
+      "label": "New Zealand national cricket team",
+      "id": "new_zealand_national_cricket_team",
+      "dates": [
+        "2019-06-01",
+        "2019-06-05",
+        "2019-06-08",
+        "2019-06-13",
+        "2019-06-19",
+        "2019-06-22",
+        "2019-06-26",
+        "2019-06-29",
+        "2019-07-03"
+      ],
+      "value": {
+        "url": "/read/ta/new_zealand_national_cricket_team",
+        "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
+        "image": {
+          "url": "/static/images/home/New_Zealand_Cricket_Cap_Insignia.svg",
+          "altText": "Image for New Zealand national cricket team"
+        }
+      }
+    },
+    {
+      "label": "Sri Lanka national cricket team",
+      "id": "sri_lanka_national_cricket_team",
+      "dates": [
+        "2019-06-01",
+        "2019-06-04",
+        "2019-06-07",
+        "2019-06-11",
+        "2019-06-15",
+        "2019-06-21",
+        "2019-06-28",
+        "2019-07-01",
+        "2019-07-06"
+      ],
+      "value": {
+        "url": "/read/ta/sri_lanka_national_cricket_team",
+        "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
+        "image": {
+          "url": "/static/images/home/Sri_Lanka_Cricket_Cap_Insignia.svg",
+          "altText": "Image for Sri Lanka national cricket team"
+        }
+      }
+    },
+    {
+      "label": "Afghanistan national cricket team",
+      "id": "afghanistan_national_cricket_team",
+      "dates": [
+        "2019-06-01",
+        "2019-06-04",
+        "2019-06-08",
+        "2019-06-15",
+        "2019-06-18",
+        "2019-06-22",
+        "2019-06-24",
+        "2019-06-29",
+        "2019-07-04"
+      ],
+      "value": {
+        "url": "/read/ta/afghanistan_national_cricket_team",
+        "label": "The Afghanistan national cricket team is the 12th Test cricket playing Full Member nation. Cricket has been played in Afghanistan since the mid 19th century, but it is only in recent years that the national team has become successful. ",
+        "image": {
+          "url": "/static/images/home/Afghanistan_cricket_board_logo.jpg",
+          "altText": "Image for Afghanistan national cricket team"
+        }
+      }
+    },
+    {
+      "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+      "id": "ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
+      "dates": [
+        "2019-06-01",
+        "2019-06-06",
+        "2019-06-09",
+        "2019-06-12",
+        "2019-06-15",
+        "2019-06-20",
+        "2019-06-25",
+        "2019-06-29",
+        "2019-07-06"
+      ],
+      "value": {
+        "url": "/read/ta/australia_cricket_team",
+        "label": "ஆஸ்திரேலிய தேசிய கிரிக்கெட் அணி 1877 ஆம் ஆண்டு நடைபெற்ற முதன்முதல் டெஸ்ட் போட்டியில் விளையாடிய, ஒரு மிகப் பழமையான அணியாகும்.",
+        "image": {
+          "url": "/static/images/home/Australia_cricket_logo.svg",
+          "altText": "Image for ஆஸ்திரேலிய கிரிக்கெட் அணி"
+        }
+      }
+    },
+    {
+      "label": "Bangladesh national cricket team",
+      "id": "bangladesh_national_cricket_team",
+      "dates": [
+        "2019-06-02",
+        "2019-06-05",
+        "2019-06-08",
+        "2019-06-11",
+        "2019-06-17",
+        "2019-06-20",
+        "2019-06-24",
+        "2019-07-02",
+        "2019-07-05"
+      ],
+      "value": {
+        "url": "/read/ta/bangladesh_national_cricket_team",
+        "label": "The Bangladesh national cricket team, popularly known as \"The Tigers\", is administered by the Bangladesh Cricket Board (BCB). Bangladesh is a full member of the International Cricket Council (ICC) with Test and One Day International (ODI) status.",
+        "image": {
+          "url": "/static/images/home/Flag_of_Bangladesh.svg",
+          "altText": "Image for Bangladesh national cricket team"
+        }
+      }
+    },
+    {
+      "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+      "id": "இந்திய_தேசிய_கிரிக்கெட்_அணி",
+      "dates": [
+        "2019-06-05",
+        "2019-06-09",
+        "2019-06-13",
+        "2019-06-16",
+        "2019-06-22",
+        "2019-06-27",
+        "2019-06-30",
+        "2019-07-02",
+        "2019-07-06"
+      ],
+      "value": {
+        "url": "/read/ta/india_national_cricket_team",
+        "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
+        "image": {
+          "url": "/static/images/home/Cricket_India_Crest.svg",
+          "altText": "Image for இந்திய தேசிய கிரிக்கெட் அணி"
+        }
+      }
+    }
+  ],
   "horizontalTimeline": {
     "title": "History of the World Cup",
     "id": 2,
@@ -188,20 +540,6 @@
       }
     },
     {
-      "label": "இந்தப் போட்டியில் டெஸ்ட் ஆடும் நாடுகளில் இந்தியா மட்டுமே ஒரு ஆட்டத்தில் கூட வெற்றி பெறத் தவறியது, ",
-      "dates": [
-        "2019-06-13"
-      ],
-      "id": "F9",
-      "value": {
-        "url": null,
-        "image": {
-          "url": "/static/images/home/Flagcricket.jpg",
-          "altText": "Image for இந்தியாவுக்கு வெற்றிகள் இல்லை"
-        }
-      }
-    },
-    {
       "label": "இந்த உலகக் கோப்பைப் போட்டியின் முந்தைய போட்டிகளில் குரூப் நிலைகளுக்கு அப்பால் இந்தியா தகுதிபெறவில்லை ஆனால் 1983 உலகக் கோப்பையை வென்றது.",
       "dates": [
         "2019-06-16"
@@ -232,9 +570,7 @@
     {
       "label": "கொல்கத்தாவின் ஈடன் கார்டன்ஸில் நடந்த உலகக் கோப்பை இறுதி ஆட்டத்தில் இங்கிலாந்துக்கு எதிராக ஆஸ்திரேலியா 7 ரன்கள் வித்தியாசத்தில் வெற்றி பெற்றது.",
       "dates": [
-        "2019-06-09",
-        "2019-06-20",
-        "2019-06-29"
+        "2019-06-20"
       ],
       "id": "F16",
       "value": {
@@ -251,8 +587,7 @@
         "2019-05-30",
         "2019-06-02",
         "2019-06-15",
-        "2019-06-23",
-        "2019-07-06"
+        "2019-06-23"
       ],
       "id": "F20",
       "value": {
@@ -266,9 +601,7 @@
     {
       "label": "இங்கிலாந்து மற்றும் தென்னாப்பிரிக்கா இடையே மழையால் பாதிக்கப்பட்ட அரையிறுதிப் போட்டியில், இறுதி ஸ்கோர் \"மிகவும் ஆக்கப்பூர்வமான ஓவர்கள்\" முறையைப் பயன்படுத்திக் கணக்கிடப்பட்டது -   13 பந்துகளில் 22 ரன்கள் என இருந்ததை 1 பந்தில் 22 ரன்கள் எடுக்க வேண்டும் எனக் குறைத்தது, அந்த வருடத்தில் தென்னாப்பிரிக்காவின் உலகக் கோப்பைக் கனவை முடிவுக்குக் கொண்டு வந்தது.",
       "dates": [
-        "2019-06-05",
         "2019-06-10",
-        "2019-06-19",
         "2019-06-28"
       ],
       "id": "F22",
@@ -283,26 +616,6 @@
     {
       "label": "1996 உலகக் கோப்பைப் போட்டியில், முதல் முறையாகப் போட்டியை இணைந்து நடத்திய இலங்கையே உலகக் கோப்பையை வென்றது.",
       "dates": [
-        "2019-06-01"
-      ],
-      "id": "F24",
-      "value": {
-        "url": null,
-        "image": {
-          "url": "/static/images/home/Wills_World_Cup_1996.svg",
-          "altText": "Image for போட்டி நடத்தியவர் பெற்ற வெற்றி"
-        }
-      }
-    },
-    {
-      "label": "1996 உலகக் கோப்பைப் போட்டியில், முதல் முறையாகப் போட்டியை இணைந்து நடத்திய இலங்கையே உலகக் கோப்பையை வென்றது.",
-      "dates": [
-        "2019-06-04",
-        "2019-06-07",
-        "2019-06-11",
-        "2019-06-15",
-        "2019-06-21",
-        "2019-06-28",
         "2019-07-01",
         "2019-07-06"
       ],
@@ -318,13 +631,7 @@
     {
       "label": "இந்த உலகக் கோப்பைப் போட்டியின் போது, இந்தியாவும் பாகிஸ்தானும் அதிகாரப்பூர்வமாகப் போரில் ஈடுபட்டிருந்தன, அரசியல் சூழ்நிலையில், இரு நாடுகள் போரில் இருக்கும்போதும் ஒரு விளையாட்டில் ஈடுபட்டிருப்பது இந்த முறை மட்டுமே.",
       "dates": [
-        "2019-05-31",
-        "2019-06-03",
         "2019-06-07",
-        "2019-06-12",
-        "2019-06-16",
-        "2019-06-23",
-        "2019-06-26",
         "2019-06-29",
         "2019-07-05"
       ],
@@ -338,23 +645,8 @@
       }
     },
     {
-      "label": "இந்த உலகக் கோப்பைப் போட்டியின் போது, இந்தியாவும் பாகிஸ்தானும் அதிகாரப்பூர்வமாகப் போரில் ஈடுபட்டிருந்தன, அரசியல் சூழ்நிலையில், இரு நாடுகள் போரில் இருக்கும்போதும் ஒரு விளையாட்டில் ஈடுபட்டிருப்பது இந்த முறை மட்டுமே.",
-      "dates": [
-        "2019-06-27"
-      ],
-      "id": "F28",
-      "value": {
-        "url": null,
-        "image": {
-          "url": "/static/images/home/Flagcricket.jpg",
-          "altText": "Image for போரின் போது"
-        }
-      }
-    },
-    {
       "label": "இந்தப் போட்டியில் ஆஸ்திரேலியாவின் தோற்கடிக்கப்படாத சாதனை என்பது உலகக் கோப்பைப் போட்டிகளில் தொடர்ச்சியாகப் பெற்ற 29 வெற்றிகள் அவர்களுடைய மொத்த வெற்றிகளின் எண்ணிக்கையை அதிகரித்தது.",
       "dates": [
-        "2019-06-01",
         "2019-06-12",
         "2019-06-25",
         "2019-07-06"
@@ -365,20 +657,6 @@
         "image": {
           "url": "/static/images/home/Australian_World_Cup_treble.jpg",
           "altText": "Image for தோற்கடிக்கப்படாத ஆஸ்திரேலியா"
-        }
-      }
-    },
-    {
-      "label": "1979 ஆம் ஆண்டு முதல், இந்தியா குரூப் நிலையில் தகுதி பெறாதது இதுவே முதல் தடவையாகும்.",
-      "dates": [
-        "2019-06-30"
-      ],
-      "id": "F36",
-      "value": {
-        "url": null,
-        "image": {
-          "url": "/static/images/home/Wills_World_Cup_1996.svg",
-          "altText": "Image for மோசமான இந்திய ஆட்டம்"
         }
       }
     },
@@ -414,8 +692,7 @@
     {
       "label": "இந்தியக் கிரிக்கெட் அணி 300+ ரன்களை அதிக தடவை பதிவு செய்திருக்கிறது: 90 முறை.",
       "dates": [
-        "2019-06-05",
-        "2019-07-06"
+        "2019-06-05"
       ],
       "id": "F53",
       "value": {
@@ -429,7 +706,6 @@
     {
       "label": "1996 முதல் 2007 வரை நான்கு தொடர்ச்சியான உலகக் கோப்பை இறுதிப் போட்டிகளில் ஆஸ்திரேலிய அணி ஆடிய சாதனையைக் கொண்டுள்ளது..",
       "dates": [
-        "2019-06-06",
         "2019-06-15"
       ],
       "id": "F54",
@@ -444,15 +720,11 @@
     {
       "label": "இங்கிலாந்தைப் பிரதிநிதித்துவம் செய்யும் உரிமையுடன் ஓர் அணியின் பதிவுசெய்யப்பட்ட முதல் நிகழ்வு ஜூலை 9, 1739-இலிருந்து கிடைக்கிறது.",
       "dates": [
-        "2019-05-30",
         "2019-06-03",
         "2019-06-08",
-        "2019-06-14",
         "2019-06-18",
         "2019-06-21",
-        "2019-06-25",
-        "2019-06-30",
-        "2019-07-03"
+        "2019-06-30"
       ],
       "id": "F55",
       "value": {
@@ -468,13 +740,9 @@
       "dates": [
         "2019-05-31",
         "2019-06-06",
-        "2019-06-10",
         "2019-06-14",
-        "2019-06-17",
         "2019-06-22",
-        "2019-06-27",
-        "2019-07-01",
-        "2019-07-04"
+        "2019-06-27"
       ],
       "id": "F56",
       "value": {
@@ -544,7 +812,17 @@
         }
       ],
       "answerIndex": 1,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி",
+        "value": {
+          "label": "பாரம்பரியமாக வின்டீஸ் என அழைக்கப்படுகின்ற வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி, ஆங்கிலோபோன் கரீபியன் பகுதியைப் பிரதிநிதித்துவப்படுத்தும் ஒரு பன்னாட்டு கிரிக்கெட் அணியாகும், இது கிரிக்கெட் வெஸ்ட் இன்டீஸால் நிர்வகிக்கப்படுகிறது. இந்த கலப்புக் குழுவிலுள்ள வீரர்கள் பதினைந்து கரீபியன் பிரதேசங்களிலிருந்து தேர்ந்தெடுக்கப்படுகின்றனர்",
+          "url": "/read/ta/west_indies_cricket_team",
+          "image": {
+            "url": "/static/images/home/West_indies_cricket_board_flag.png",
+            "altText": "Image for வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி"
+          }
+        }
+      }
     },
     {
       "label": "1975 உலகக்கோப்பை அதிகாரப்பூர்வமாக எப்படி அழைக்கப்பட்டது?",
@@ -596,7 +874,17 @@
         }
       ],
       "answerIndex": 0,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "South Africa national cricket team",
+        "value": {
+          "label": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
+          "url": "/read/ta/south_africa_national_cricket_team",
+          "image": {
+            "url": "/static/images/home/Southafrica_cricket_logo.svg",
+            "altText": "Image for South Africa national cricket team"
+          }
+        }
+      }
     },
     {
       "label": "1975-ஆம் ஆண்டு கிரிக்கெட் உலகக்கோப்பையில் அதிக ரன்கள் எடுத்தவர் யார்?",
@@ -613,7 +901,17 @@
         }
       ],
       "answerIndex": 1,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி",
+        "value": {
+          "label": "பாரம்பரியமாக வின்டீஸ் என அழைக்கப்படுகின்ற வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி, ஆங்கிலோபோன் கரீபியன் பகுதியைப் பிரதிநிதித்துவப்படுத்தும் ஒரு பன்னாட்டு கிரிக்கெட் அணியாகும், இது கிரிக்கெட் வெஸ்ட் இன்டீஸால் நிர்வகிக்கப்படுகிறது. இந்த கலப்புக் குழுவிலுள்ள வீரர்கள் பதினைந்து கரீபியன் பிரதேசங்களிலிருந்து தேர்ந்தெடுக்கப்படுகின்றனர்",
+          "url": "/read/ta/west_indies_cricket_team",
+          "image": {
+            "url": "/static/images/home/West_indies_cricket_board_flag.png",
+            "altText": "Image for வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி"
+          }
+        }
+      }
     },
     {
       "label": "முதல் உலகக்கோப்பையின் முதல் ஆட்டத்தில் எந்த அணிகள் விளையாடியன?",
@@ -628,7 +926,17 @@
         }
       ],
       "answerIndex": 0,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+        "value": {
+          "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
+          "url": "/read/ta/india_national_cricket_team",
+          "image": {
+            "url": "/static/images/home/Cricket_India_Crest.svg",
+            "altText": "Image for இந்திய தேசிய கிரிக்கெட் அணி"
+          }
+        }
+      }
     },
     {
       "label": "இங்கிலாந்துக்கு எதிரான முதல் ஆட்டத்தில், சுனில் கவாஸ்கர் எத்தனை பந்துகளில் 36 ரன்கள் எடுத்தார்?",
@@ -645,7 +953,17 @@
         }
       ],
       "answerIndex": 0,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+        "value": {
+          "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
+          "url": "/read/ta/india_national_cricket_team",
+          "image": {
+            "url": "/static/images/home/Cricket_India_Crest.svg",
+            "altText": "Image for இந்திய தேசிய கிரிக்கெட் அணி"
+          }
+        }
+      }
     },
     {
       "label": "1975-இல் நடந்த முதல் உலகக்கோப்பை கிரிக்கெட்டில் எத்தனை மேட்ச்கள் விளையாடப்பட்டன?",
@@ -706,7 +1024,17 @@
         }
       ],
       "answerIndex": 0,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "Sri Lanka national cricket team",
+        "value": {
+          "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
+          "url": "/read/ta/sri_lanka_national_cricket_team",
+          "image": {
+            "url": "/static/images/home/Sri_Lanka_Cricket_Cap_Insignia.svg",
+            "altText": "Image for Sri Lanka national cricket team"
+          }
+        }
+      }
     },
     {
       "label": "1979-ல் கிரிக்கெட் உலகக்கோப்பையை வென்றது யார்?",
@@ -721,7 +1049,17 @@
         }
       ],
       "answerIndex": 1,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி",
+        "value": {
+          "label": "பாரம்பரியமாக வின்டீஸ் என அழைக்கப்படுகின்ற வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி, ஆங்கிலோபோன் கரீபியன் பகுதியைப் பிரதிநிதித்துவப்படுத்தும் ஒரு பன்னாட்டு கிரிக்கெட் அணியாகும், இது கிரிக்கெட் வெஸ்ட் இன்டீஸால் நிர்வகிக்கப்படுகிறது. இந்த கலப்புக் குழுவிலுள்ள வீரர்கள் பதினைந்து கரீபியன் பிரதேசங்களிலிருந்து தேர்ந்தெடுக்கப்படுகின்றனர்",
+          "url": "/read/ta/west_indies_cricket_team",
+          "image": {
+            "url": "/static/images/home/West_indies_cricket_board_flag.png",
+            "altText": "Image for வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி"
+          }
+        }
+      }
     },
     {
       "label": "1979-ஆம் ஆண்டு கிரிக்கெட் உலகக்கோப்பையில் அதிக ரன்கள் எடுத்தது யார்?",
@@ -738,7 +1076,17 @@
         }
       ],
       "answerIndex": 1,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி",
+        "value": {
+          "label": "பாரம்பரியமாக வின்டீஸ் என அழைக்கப்படுகின்ற வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி, ஆங்கிலோபோன் கரீபியன் பகுதியைப் பிரதிநிதித்துவப்படுத்தும் ஒரு பன்னாட்டு கிரிக்கெட் அணியாகும், இது கிரிக்கெட் வெஸ்ட் இன்டீஸால் நிர்வகிக்கப்படுகிறது. இந்த கலப்புக் குழுவிலுள்ள வீரர்கள் பதினைந்து கரீபியன் பிரதேசங்களிலிருந்து தேர்ந்தெடுக்கப்படுகின்றனர்",
+          "url": "/read/ta/west_indies_cricket_team",
+          "image": {
+            "url": "/static/images/home/West_indies_cricket_board_flag.png",
+            "altText": "Image for வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி"
+          }
+        }
+      }
     },
     {
       "label": "1983-ஆம் ஆண்டு நடைபெற்ற ஆண்களுக்கான கிரிக்கெட் உலகக்கோப்பையை நடத்திய நாடு எது?",
@@ -780,7 +1128,17 @@
         }
       ],
       "answerIndex": 1,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி",
+        "value": {
+          "label": "பாரம்பரியமாக வின்டீஸ் என அழைக்கப்படுகின்ற வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி, ஆங்கிலோபோன் கரீபியன் பகுதியைப் பிரதிநிதித்துவப்படுத்தும் ஒரு பன்னாட்டு கிரிக்கெட் அணியாகும், இது கிரிக்கெட் வெஸ்ட் இன்டீஸால் நிர்வகிக்கப்படுகிறது. இந்த கலப்புக் குழுவிலுள்ள வீரர்கள் பதினைந்து கரீபியன் பிரதேசங்களிலிருந்து தேர்ந்தெடுக்கப்படுகின்றனர்",
+          "url": "/read/ta/west_indies_cricket_team",
+          "image": {
+            "url": "/static/images/home/West_indies_cricket_board_flag.png",
+            "altText": "Image for வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி"
+          }
+        }
+      }
     },
     {
       "label": "1983 உலகக்கோப்பை இறுதிப் போட்டியில் 'மேன் ஆஃப் தி மேட்ச்' வென்றவர் யார்?",
@@ -798,7 +1156,17 @@
         }
       ],
       "answerIndex": 0,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+        "value": {
+          "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
+          "url": "/read/ta/india_national_cricket_team",
+          "image": {
+            "url": "/static/images/home/Cricket_India_Crest.svg",
+            "altText": "Image for இந்திய தேசிய கிரிக்கெட் அணி"
+          }
+        }
+      }
     },
     {
       "label": "வெஸ்ட் இண்டீஸுக்கு எதிரான 1983 உலகக்கோப்பை இறுதிப் போட்டியில் இந்தியா எத்தனை ரன்கள் எடுத்தது?",
@@ -815,7 +1183,17 @@
         }
       ],
       "answerIndex": 1,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+        "value": {
+          "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
+          "url": "/read/ta/india_national_cricket_team",
+          "image": {
+            "url": "/static/images/home/Cricket_India_Crest.svg",
+            "altText": "Image for இந்திய தேசிய கிரிக்கெட் அணி"
+          }
+        }
+      }
     },
     {
       "label": "1983 கிரிக்கெட் உலகக்கோப்பையில் எத்தனை மேட்ச்கள் விளையாடப்பட்டன?",
@@ -902,7 +1280,17 @@
         }
       ],
       "answerIndex": 0,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+        "value": {
+          "label": "ஆஸ்திரேலிய தேசிய கிரிக்கெட் அணி 1877 ஆம் ஆண்டு நடைபெற்ற முதன்முதல் டெஸ்ட் போட்டியில் விளையாடிய, ஒரு மிகப் பழமையான அணியாகும்.",
+          "url": "/read/ta/australia_cricket_team",
+          "image": {
+            "url": "/static/images/home/Australia_cricket_logo.svg",
+            "altText": "Image for ஆஸ்திரேலிய கிரிக்கெட் அணி"
+          }
+        }
+      }
     },
     {
       "label": "1992-ஆம் ஆண்டு கிரிக்கெட் உலகக்கோப்பை வரலாற்றில் முதல் ஹாட்ரிக்கை எடுத்த வீரர் யார்?",
@@ -920,7 +1308,17 @@
         }
       ],
       "answerIndex": 0,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+        "value": {
+          "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
+          "url": "/read/ta/india_national_cricket_team",
+          "image": {
+            "url": "/static/images/home/Cricket_India_Crest.svg",
+            "altText": "Image for இந்திய தேசிய கிரிக்கெட் அணி"
+          }
+        }
+      }
     },
     {
       "label": "எந்த உலகக் கோப்பையின்போது வண்ண ஆடைகள் முதலில் அறிமுகப்படுத்தப்பட்டன?",
@@ -956,7 +1354,17 @@
         }
       ],
       "answerIndex": 0,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "Pakistan national cricket team",
+        "value": {
+          "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
+          "url": "/read/ta/pakistan_national_cricket_team",
+          "image": {
+            "url": "/static/images/home/PakistanCricketLogo.png",
+            "altText": "Image for Pakistan national cricket team"
+          }
+        }
+      }
     },
     {
       "label": "1992-ஆம் ஆண்டில் அதன் முதல் உலகக்கோப்பையை விளையாடிய நாடு எது?",
@@ -974,7 +1382,17 @@
         }
       ],
       "answerIndex": 1,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "South Africa national cricket team",
+        "value": {
+          "label": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
+          "url": "/read/ta/south_africa_national_cricket_team",
+          "image": {
+            "url": "/static/images/home/Southafrica_cricket_logo.svg",
+            "altText": "Image for South Africa national cricket team"
+          }
+        }
+      }
     },
     {
       "label": "1992 உலகக்கோப்பையின் போது மழை காரணமாக தாமதமான அரை இறுதி ஆட்டத்தில், 1 பந்தில் 22 ரன்கள் எடுக்க வேண்டிய நிலையில் இருந்த அணி எது?",
@@ -991,7 +1409,17 @@
         }
       ],
       "answerIndex": 0,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "South Africa national cricket team",
+        "value": {
+          "label": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
+          "url": "/read/ta/south_africa_national_cricket_team",
+          "image": {
+            "url": "/static/images/home/Southafrica_cricket_logo.svg",
+            "altText": "Image for South Africa national cricket team"
+          }
+        }
+      }
     },
     {
       "label": "1992 கிரிக்கெட் உலகக்கோப்பையை நடத்திய நாடு எது?",
@@ -1072,7 +1500,17 @@
         }
       ],
       "answerIndex": 0,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "New Zealand national cricket team",
+        "value": {
+          "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
+          "url": "/read/ta/new_zealand_national_cricket_team",
+          "image": {
+            "url": "/static/images/home/New_Zealand_Cricket_Cap_Insignia.svg",
+            "altText": "Image for New Zealand national cricket team"
+          }
+        }
+      }
     },
     {
       "label": "1996 உலகக்கோப்பை வேறு எப்படி குறிப்பிடப்படுகிறது?",
@@ -1172,7 +1610,17 @@
         }
       ],
       "answerIndex": 0,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "Sri Lanka national cricket team",
+        "value": {
+          "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
+          "url": "/read/ta/sri_lanka_national_cricket_team",
+          "image": {
+            "url": "/static/images/home/Sri_Lanka_Cricket_Cap_Insignia.svg",
+            "altText": "Image for Sri Lanka national cricket team"
+          }
+        }
+      }
     },
     {
       "label": "1996 கிரிக்கெட் உலகக்கோப்பையில் எத்தனை போட்டிகள் நடத்தப்பட்டன?",
@@ -1296,7 +1744,17 @@
         }
       ],
       "answerIndex": 0,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+        "value": {
+          "label": "ஆஸ்திரேலிய தேசிய கிரிக்கெட் அணி 1877 ஆம் ஆண்டு நடைபெற்ற முதன்முதல் டெஸ்ட் போட்டியில் விளையாடிய, ஒரு மிகப் பழமையான அணியாகும்.",
+          "url": "/read/ta/australia_cricket_team",
+          "image": {
+            "url": "/static/images/home/Australia_cricket_logo.svg",
+            "altText": "Image for ஆஸ்திரேலிய கிரிக்கெட் அணி"
+          }
+        }
+      }
     },
     {
       "label": "1999 கிரிக்கெட் உலகக்கோப்பையை இணைந்து நடத்திய நாடு (கோ-ஹோஸ்ட்) எது?",
@@ -1476,7 +1934,17 @@
         }
       ],
       "answerIndex": 0,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+        "value": {
+          "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
+          "url": "/read/ta/india_national_cricket_team",
+          "image": {
+            "url": "/static/images/home/Cricket_India_Crest.svg",
+            "altText": "Image for இந்திய தேசிய கிரிக்கெட் அணி"
+          }
+        }
+      }
     },
     {
       "label": "2007 கிரிக்கெட் உலகக்கோப்பை எங்கு நடைபெற்றது?",
@@ -1547,7 +2015,17 @@
         }
       ],
       "answerIndex": 0,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+        "value": {
+          "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
+          "url": "/read/ta/india_national_cricket_team",
+          "image": {
+            "url": "/static/images/home/Cricket_India_Crest.svg",
+            "altText": "Image for இந்திய தேசிய கிரிக்கெட் அணி"
+          }
+        }
+      }
     },
     {
       "label": "2011 கிரிக்கெட் உலகக்கோப்பைக்கு அதிகாரப்பூர்வ தூதராக (அம்பாஸிடர்) இருந்தவர் யார்?",
@@ -1589,7 +2067,17 @@
         }
       ],
       "answerIndex": 0,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+        "value": {
+          "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
+          "url": "/read/ta/india_national_cricket_team",
+          "image": {
+            "url": "/static/images/home/Cricket_India_Crest.svg",
+            "altText": "Image for இந்திய தேசிய கிரிக்கெட் அணி"
+          }
+        }
+      }
     },
     {
       "label": "2011 கிரிக்கெட் உலகக்கோப்பையில் 'தொடர் நாயகன்' விருதை வென்றது யார்?",
@@ -1659,7 +2147,17 @@
         }
       ],
       "answerIndex": 0,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+        "value": {
+          "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
+          "url": "/read/ta/india_national_cricket_team",
+          "image": {
+            "url": "/static/images/home/Cricket_India_Crest.svg",
+            "altText": "Image for இந்திய தேசிய கிரிக்கெட் அணி"
+          }
+        }
+      }
     },
     {
       "label": "2015 கிரிக்கெட் உலகக்கோப்பை எங்கு நடைபெற்றது?",
@@ -1703,7 +2201,17 @@
         }
       ],
       "answerIndex": 0,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+        "value": {
+          "label": "ஆஸ்திரேலிய தேசிய கிரிக்கெட் அணி 1877 ஆம் ஆண்டு நடைபெற்ற முதன்முதல் டெஸ்ட் போட்டியில் விளையாடிய, ஒரு மிகப் பழமையான அணியாகும்.",
+          "url": "/read/ta/australia_cricket_team",
+          "image": {
+            "url": "/static/images/home/Australia_cricket_logo.svg",
+            "altText": "Image for ஆஸ்திரேலிய கிரிக்கெட் அணி"
+          }
+        }
+      }
     },
     {
       "label": "2015 கிரிக்கெட் உலகக்கோப்பையில் 'தொடரின் சிறந்த வீரர்' விருதை வென்றது யார்?",
@@ -1748,7 +2256,17 @@
         }
       ],
       "answerIndex": 0,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "New Zealand national cricket team",
+        "value": {
+          "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
+          "url": "/read/ta/new_zealand_national_cricket_team",
+          "image": {
+            "url": "/static/images/home/New_Zealand_Cricket_Cap_Insignia.svg",
+            "altText": "Image for New Zealand national cricket team"
+          }
+        }
+      }
     },
     {
       "label": "2019 உலகக்கோப்பையை நடத்தப்போவது எந்த நாடு?",
@@ -1822,7 +2340,17 @@
         }
       ],
       "answerIndex": 0,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+        "value": {
+          "label": "ஆஸ்திரேலிய தேசிய கிரிக்கெட் அணி 1877 ஆம் ஆண்டு நடைபெற்ற முதன்முதல் டெஸ்ட் போட்டியில் விளையாடிய, ஒரு மிகப் பழமையான அணியாகும்.",
+          "url": "/read/ta/australia_cricket_team",
+          "image": {
+            "url": "/static/images/home/Australia_cricket_logo.svg",
+            "altText": "Image for ஆஸ்திரேலிய கிரிக்கெட் அணி"
+          }
+        }
+      }
     },
     {
       "label": "உலகக்கோப்பையை அதிகமுறை வென்ற அணி எது?",
@@ -1839,7 +2367,17 @@
         }
       ],
       "answerIndex": 0,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+        "value": {
+          "label": "ஆஸ்திரேலிய தேசிய கிரிக்கெட் அணி 1877 ஆம் ஆண்டு நடைபெற்ற முதன்முதல் டெஸ்ட் போட்டியில் விளையாடிய, ஒரு மிகப் பழமையான அணியாகும்.",
+          "url": "/read/ta/australia_cricket_team",
+          "image": {
+            "url": "/static/images/home/Australia_cricket_logo.svg",
+            "altText": "Image for ஆஸ்திரேலிய கிரிக்கெட் அணி"
+          }
+        }
+      }
     },
     {
       "label": "100 ஒரு நாள் சர்வதேசப் போட்டிகளை வென்ற ஆஸ்திரேலியர் அல்லாத முதல் கேப்டன் யார்?",
@@ -1996,7 +2534,17 @@
         }
       ],
       "answerIndex": 0,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "இங்கிலாந்து கிரிக்கெட் அணி",
+        "value": {
+          "label": "இங்கிலாந்து கிரிக்கெட் அணி சர்வதேச கிரிக்கெட் போட்டியில் இங்கிலாந்து மற்றும் வேல்ஸை முன்னிறுத்தி விளையாடுகிறது. இங்கிலாந்து மற்றும் ஆஸ்திரேலியா 1877ஆம் ஆண்டில் டெஸ்ட் போட்டி விளையாடிய முதல் அணிகள் ஆகும்",
+          "url": "/read/ta/england_cricket_team",
+          "image": {
+            "url": "/static/images/home/England_cricket_team_logo.svg",
+            "altText": "Image for இங்கிலாந்து கிரிக்கெட் அணி"
+          }
+        }
+      }
     },
     {
       "label": "150 விக்கெட்டுகளை எடுத்த தென்னாப்பிரிக்க இளம் பந்து வீச்சாளர் யார்?",
@@ -2058,7 +2606,17 @@
         }
       ],
       "answerIndex": 0,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி",
+        "value": {
+          "label": "பாரம்பரியமாக வின்டீஸ் என அழைக்கப்படுகின்ற வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி, ஆங்கிலோபோன் கரீபியன் பகுதியைப் பிரதிநிதித்துவப்படுத்தும் ஒரு பன்னாட்டு கிரிக்கெட் அணியாகும், இது கிரிக்கெட் வெஸ்ட் இன்டீஸால் நிர்வகிக்கப்படுகிறது. இந்த கலப்புக் குழுவிலுள்ள வீரர்கள் பதினைந்து கரீபியன் பிரதேசங்களிலிருந்து தேர்ந்தெடுக்கப்படுகின்றனர்",
+          "url": "/read/ta/west_indies_cricket_team",
+          "image": {
+            "url": "/static/images/home/West_indies_cricket_board_flag.png",
+            "altText": "Image for வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி"
+          }
+        }
+      }
     },
     {
       "label": "இறுதிப் போட்டிக்கு அதிக முறை தகுதி பெற்ற அணி எது?",
@@ -2075,7 +2633,17 @@
         }
       ],
       "answerIndex": 0,
-      "relatedArticle": null
+      "relatedArticle": {
+        "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+        "value": {
+          "label": "ஆஸ்திரேலிய தேசிய கிரிக்கெட் அணி 1877 ஆம் ஆண்டு நடைபெற்ற முதன்முதல் டெஸ்ட் போட்டியில் விளையாடிய, ஒரு மிகப் பழமையான அணியாகும்.",
+          "url": "/read/ta/australia_cricket_team",
+          "image": {
+            "url": "/static/images/home/Australia_cricket_logo.svg",
+            "altText": "Image for ஆஸ்திரேலிய கிரிக்கெட் அணி"
+          }
+        }
+      }
     },
     {
       "label": "உலகக்கோப்பையில் குரூப் ஸ்டேஜ் போட்டியில் தோற்காத ஒரே இந்திய கேப்டன் யார்?",
@@ -2190,6 +2758,30 @@
     "columns": [
       [
         {
+          "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+          "id": "R1",
+          "url": "/read/ta/india_national_cricket_team",
+          "value": {
+            "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
+            "image": {
+              "url": "/static/images/home/Cricket_India_Crest.svg",
+              "altText": "Image for இந்திய தேசிய கிரிக்கெட் அணி"
+            }
+          }
+        },
+        {
+          "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+          "id": "R2",
+          "url": "/read/ta/australia_cricket_team",
+          "value": {
+            "label": "ஆஸ்திரேலிய தேசிய கிரிக்கெட் அணி 1877 ஆம் ஆண்டு நடைபெற்ற முதன்முதல் டெஸ்ட் போட்டியில் விளையாடிய, ஒரு மிகப் பழமையான அணியாகும்.",
+            "image": {
+              "url": "/static/images/home/Australia_cricket_logo.svg",
+              "altText": "Image for ஆஸ்திரேலிய கிரிக்கெட் அணி"
+            }
+          }
+        },
+        {
           "label": "2007 கிரிக்கெட் உலகக் கோப்பை",
           "id": "P6",
           "url": "/read/ta/2007_cricket_world_cup",
@@ -2212,7 +2804,9 @@
               "altText": "Image for 2011 கிரிக்கெட் உலகக் கோப்பை"
             }
           }
-        },
+        }
+      ],
+      [
         {
           "label": "விராட் கோலி",
           "id": "O1",
@@ -2236,9 +2830,7 @@
               "altText": "Image for மகேந்திர சிங் தோனி"
             }
           }
-        }
-      ],
-      [
+        },
         {
           "label": "ரோஹித் ஷர்மா",
           "id": "O3",
@@ -2264,7 +2856,9 @@
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
-        },
+        }
+      ],
+      [
         {
           "label": "சச்சின் டெண்டுல்கர்",
           "id": "O5",
@@ -2288,9 +2882,7 @@
               "altText": "Image for கபில்தேவ்"
             }
           }
-        }
-      ],
-      [
+        },
         {
           "label": "அனில் கும்ப்ளே",
           "id": "O7",
@@ -2314,7 +2906,9 @@
               "altText": "Image for சவுரவ் கங்குலி"
             }
           }
-        },
+        }
+      ],
+      [
         {
           "label": "ராகுல் டிராவிட்",
           "id": "O9",
@@ -2338,9 +2932,7 @@
               "altText": "Image for பெங்களூரு"
             }
           }
-        }
-      ],
-      [
+        },
         {
           "label": "மும்பை",
           "id": "G2",
@@ -2364,7 +2956,9 @@
               "altText": "Image for இந்தியா"
             }
           }
-        },
+        }
+      ],
+      [
         {
           "label": "ஆஸ்திரேலியா",
           "id": "G4",
@@ -2390,9 +2984,7 @@
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
             }
           }
-        }
-      ],
-      [
+        },
         {
           "label": "தென்னாப்பிரிக்கா",
           "id": "G6",
@@ -2416,7 +3008,9 @@
               "altText": "Image for இலங்கை"
             }
           }
-        },
+        }
+      ],
+      [
         {
           "label": "நியூசிலாந்து",
           "id": "G8",
@@ -2438,6 +3032,118 @@
             "image": {
               "url": "/static/images/home/Flag_of_England.svg",
               "altText": "Image for இங்கிலாந்து"
+            }
+          }
+        },
+        {
+          "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+          "id": "R1",
+          "url": "/read/ta/india_national_cricket_team",
+          "value": {
+            "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
+            "image": {
+              "url": "/static/images/home/Cricket_India_Crest.svg",
+              "altText": "Image for இந்திய தேசிய கிரிக்கெட் அணி"
+            }
+          }
+        },
+        {
+          "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+          "id": "R2",
+          "url": "/read/ta/australia_cricket_team",
+          "value": {
+            "label": "ஆஸ்திரேலிய தேசிய கிரிக்கெட் அணி 1877 ஆம் ஆண்டு நடைபெற்ற முதன்முதல் டெஸ்ட் போட்டியில் விளையாடிய, ஒரு மிகப் பழமையான அணியாகும்.",
+            "image": {
+              "url": "/static/images/home/Australia_cricket_logo.svg",
+              "altText": "Image for ஆஸ்திரேலிய கிரிக்கெட் அணி"
+            }
+          }
+        }
+      ],
+      [
+        {
+          "label": "வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி",
+          "id": "R3",
+          "url": "/read/ta/west_indies_cricket_team",
+          "value": {
+            "label": "பாரம்பரியமாக வின்டீஸ் என அழைக்கப்படுகின்ற வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி, ஆங்கிலோபோன் கரீபியன் பகுதியைப் பிரதிநிதித்துவப்படுத்தும் ஒரு பன்னாட்டு கிரிக்கெட் அணியாகும், இது கிரிக்கெட் வெஸ்ட் இன்டீஸால் நிர்வகிக்கப்படுகிறது. இந்த கலப்புக் குழுவிலுள்ள வீரர்கள் பதினைந்து கரீபியன் பிரதேசங்களிலிருந்து தேர்ந்தெடுக்கப்படுகின்றனர்",
+            "image": {
+              "url": "/static/images/home/West_indies_cricket_board_flag.png",
+              "altText": "Image for வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி"
+            }
+          }
+        },
+        {
+          "label": "இங்கிலாந்து கிரிக்கெட் அணி",
+          "id": "R4",
+          "url": "/read/ta/england_cricket_team",
+          "value": {
+            "label": "இங்கிலாந்து கிரிக்கெட் அணி சர்வதேச கிரிக்கெட் போட்டியில் இங்கிலாந்து மற்றும் வேல்ஸை முன்னிறுத்தி விளையாடுகிறது. இங்கிலாந்து மற்றும் ஆஸ்திரேலியா 1877ஆம் ஆண்டில் டெஸ்ட் போட்டி விளையாடிய முதல் அணிகள் ஆகும்",
+            "image": {
+              "url": "/static/images/home/England_cricket_team_logo.svg",
+              "altText": "Image for இங்கிலாந்து கிரிக்கெட் அணி"
+            }
+          }
+        },
+        {
+          "label": "சென்னை சூப்பர் கிங்க்ஸ்",
+          "id": "R5",
+          "url": "/read/ta/chennai_super_kings",
+          "value": {
+            "label": "சென்னை சூப்பர் கிங்க்ஸ் (சிஎஸ்கே) 2008 ஆம் ஆண்டு நிறுவப்பட்டது, இண்டியன் பிரீமியர் லீக்கில் (ஐபிஎல்) விளையாடும் இந்த அணி தமிழ்நாட்டின் சென்னையைத் தலைமையிடமாகக் கொண்ட கிரிக்கெட் அணி ஆகும்.",
+            "image": {
+              "url": "/static/images/home/Chennai_Super_Kings_Logo.svg",
+              "altText": "Image for சென்னை சூப்பர் கிங்க்ஸ்"
+            }
+          }
+        },
+        {
+          "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
+          "id": "R6",
+          "url": "/read/ta/royal_challengers_bangalore",
+          "value": {
+            "label": "ராயல் சேலஞ்சர்ஸ் அணி இண்டியன் பிரீமியர் லீக்கில் (ஐபிஎல்) விளையாடும் கர்நாடகாவின் பெங்களூரில் உள்ள ஒரு உரிமைப் பெற்ற கிரிக்கெட் அணி ஆகும்",
+            "image": {
+              "url": "/static/images/home/Royal_Challengers_Bangalore_Logo_2016.svg",
+              "altText": "Image for ராயல் சேலஞ்சர்ஸ் பெங்களூர்"
+            }
+          }
+        }
+      ],
+      [
+        {
+          "label": "மும்பை இண்டியன்ஸ்",
+          "id": "R7",
+          "url": "/read/ta/mumbai_indians",
+          "value": {
+            "label": "மும்பை இண்டியன்ஸ், மகாராஷ்டிராவில் உள்ள மும்பை நகரத்தைத் தலைமையிடமாகக் கொண்ட ஒரு உரிமைபெற்ற கிரிக்கெட் அணி ஆகும். இது 2008 ஆம் ஆண்டு நிறுவப்பட்டது, மும்பை இண்டியன்ஸ் இண்டியன் பிரீமியர் லீகில் (ஐபிஎல்) விளையாடுவார்கள். இந்த அணி, இந்தியாவில் மிகப்பெரிய நிறுவனமான ரிலையன்ஸ் நிறுவனங்களுக்குச் சொந்தமானது.",
+            "image": {
+              "url": "/static/images/home/Mumbai_Indians_Logo.svg",
+              "altText": "Image for மும்பை இண்டியன்ஸ்"
+            }
+          }
+        },
+        {
+          "label": "Pakistan national cricket team",
+          "id": "R8",
+          "url": "/read/ta/pakistan_national_cricket_team",
+          "value": {
+            "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
+            "image": {
+              "url": "/static/images/home/PakistanCricketLogo.png",
+              "altText": "Image for Pakistan national cricket team"
+            }
+          }
+        },
+        {
+          "label": "Kings XI Punjab",
+          "id": "R9",
+          "url": "/read/ta/kings_xi_punjab",
+          "value": {
+            "label": "The Kings XI Punjab (KXIP) are a franchise cricket team based in Mohali (Chandigarh CR), Punjab, that plays in the Indian Premier League. ",
+            "image": {
+              "url": "/static/images/home/Kings_XI_Punjab_logo.svg",
+              "altText": "Image for Kings XI Punjab"
             }
           }
         }
@@ -2928,7 +3634,9 @@
       "label": "ககிசோ ரபாடா",
       "id": "ககிசோ_ரபாடா",
       "dates": [
+        "2019-05-30",
         "2019-06-02",
+        "2019-06-05",
         "2019-06-10",
         "2019-06-15",
         "2019-06-19",
@@ -2950,8 +3658,10 @@
       "id": "ஷோயப்_மாலிக்",
       "dates": [
         "2019-05-31",
+        "2019-06-03",
         "2019-06-07",
         "2019-06-12",
+        "2019-06-16",
         "2019-06-23",
         "2019-06-26",
         "2019-06-29",
@@ -2975,8 +3685,10 @@
         "2019-06-07",
         "2019-06-11",
         "2019-06-15",
+        "2019-06-21",
         "2019-06-28",
-        "2019-07-01"
+        "2019-07-01",
+        "2019-07-06"
       ],
       "value": {
         "url": "/read/ta/lasith_malinga",
@@ -2996,6 +3708,8 @@
         "2019-06-04",
         "2019-06-08",
         "2019-06-15",
+        "2019-06-18",
+        "2019-06-22",
         "2019-06-24",
         "2019-06-29",
         "2019-07-04"
@@ -3015,10 +3729,12 @@
       "dates": [
         "2019-06-02",
         "2019-06-05",
+        "2019-06-08",
         "2019-06-11",
         "2019-06-17",
         "2019-06-20",
         "2019-06-24",
+        "2019-07-02",
         "2019-07-05"
       ],
       "value": {

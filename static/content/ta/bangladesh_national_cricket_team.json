@@ -160,12 +160,127 @@
     {
       "title": "Famous Players",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "Mashrafe Mortaza",
+          "id": "mashrafe_mortaza",
+          "value": {
+            "url": null,
+            "label": "In April 2019, he was named as the captain of Bangladesh's squad for the 2019 Cricket World Cup.",
+            "image": {
+              "url": "/static/images/bangladesh_national_cricket_team/Mashrafe_Bin_Mortaza_%28cropped%29.jpg",
+              "altText": "Image of Mashrafe Mortaza",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Shakib Al Hasan",
+          "id": "shakib_al_hasan",
+          "value": {
+            "url": null,
+            "label": "Shakib Al Hasan is a Bangladeshi international cricketer who currently captains the Bangladesh national team in Test and T20I formats. He is considered as the best and greatest cricketer to have ever played for Bangladesh.",
+            "image": {
+              "url": "/static/images/bangladesh_national_cricket_team/Shakib_Al_Hasan_%284%29_%28cropped%29.jpg",
+              "altText": "Image of Shakib Al Hasan",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Mushfiqur Rahim",
+          "id": "mushfiqur_rahim",
+          "value": {
+            "url": null,
+            "label": "Mohammad Mushfiqur Rahim is a Bangladeshi cricketer and the former captain of the Bangladesh national cricket team.He holds the record for highest score by a test Bangladesh batsman.",
+            "image": {
+              "url": "/static/images/bangladesh_national_cricket_team/Mushfiqur_Rahim_2009_%28cropped%29.jpg",
+              "altText": "Image of Mushfiqur Rahim",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Tamim Iqbal",
+          "id": "tamim_iqbal",
+          "value": {
+            "url": null,
+            "label": "Muhammad Tamim Iqbal Khan is a Bangladeshi international cricketer. A left-handed opening batsman, he is the Bangladeshi's most successful runscorer to date. ",
+            "image": {
+              "url": "/static/images/bangladesh_national_cricket_team/Tamim-Iqbal-wt20.png",
+              "altText": "Image of Tamim Iqbal"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "Achievements & Records",
       "cardType": "list_card",
-      "facts": []
+      "facts": [
+        {
+          "label": "1999 Cricket World Cup",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "They appeared for the first time in World Cup in the 1999 Cricket World Cup as an associate team. ",
+            "facts": []
+          }
+        },
+        {
+          "label": "2007 Cricket World Cup",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Bangladesh enjoyed a good tournament with two great wins against India and South Africa.",
+            "facts": [
+              {
+                "label": "2007 கிரிக்கெட் உலகக் கோப்பை",
+                "id": "2007_cricket_world_cup-",
+                "url": "/read/ta/2007_cricket_world_cup",
+                "value": {
+                  "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
+                  "image": {
+                    "url": "",
+                    "altText": "Image of 2007 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2011 Cricket World Cup",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Bangladesh was a co-host with India for the 2011 Cricket World Cup.",
+            "facts": [
+              {
+                "label": "2011 கிரிக்கெட் உலகக் கோப்பை",
+                "id": "2011_cricket_world_cup-",
+                "url": "/read/ta/2011_cricket_world_cup",
+                "value": {
+                  "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
+                  "image": {
+                    "url": "",
+                    "altText": "Image of 2011 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "All-rounder category number 1",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Shakib Al Hasan became the first player in history to hold the number 1 positions in all three formats of cricket, in the all-rounder category on 12 January 2015.",
+            "facts": []
+          }
+        }
+      ]
     },
     {
       "title": "Sponsors",
@@ -177,6 +292,7 @@
             "label": "Grameenphone",
             "url": null,
             "image": {
+              "url": "/static/images/bangladesh_national_cricket_team/Grameephone_Logo.png",
               "altText": "Image of Grameenphone"
             }
           }

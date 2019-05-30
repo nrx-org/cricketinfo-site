@@ -65,7 +65,7 @@
     },
     {
       "title": "Style of play",
-      "id": "yXolsvHqWfj",
+      "id": "LzpNNywjZx7",
       "cardType": "simple",
       "facts": [
         {
@@ -82,7 +82,7 @@
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "S5tFoudfrYh",
+          "id": "FfMIflxasTB",
           "note": "",
           "value": {
             "label": ""
@@ -90,7 +90,7 @@
         },
         {
           "label": "தேசிய அணி அறிமுகம்",
-          "id": "LBCdJl-MpoS",
+          "id": "kAS-xu2aZ7C",
           "note": "",
           "value": {
             "label": "அவர், 2015 அக்டோபர் 18 அன்று ஆப்கானிஸ்தானுக்காக ஜிம்பாப்வேக்கு எதிராகத் தன்னுடைய முதல் சர்வதேச ஒருநாள் போட்டியில் ஆடினார்."
@@ -98,7 +98,7 @@
         },
         {
           "label": "முதல் ஐசிசி போட்டி ",
-          "id": "Xa7rYxByWzg",
+          "id": "0wrbeFT0zM2",
           "note": "",
           "value": {
             "label": "2019 ஏப்ரல் மாதம், 2019 உலகக் கோப்பையில் ஆப்கானிஸ்தான் அணியில் அவர் பெயர் இடம்பெற்றது."
@@ -106,10 +106,25 @@
         },
         {
           "label": "2017",
-          "id": "-sPyk_i5Abu",
+          "id": "qqsRQYb0gNb",
           "note": "சன்ரைசர்ஸ் ஹைதராபாத்",
           "value": {
-            "label": "சன்ரைசர்ஸ் ஹைதராபாத்"
+            "label": "சன்ரைசர்ஸ் ஹைதராபாத்",
+            "facts": [
+              {
+                "url": "/read/ta/sunrisers_hyderabad",
+                "contentUrl": "/static/content/ta/sunrisers_hyderabad.json",
+                "label": "Sunrisers Hyderabad",
+                "id": "qFQ9Znx1yrb",
+                "value": {
+                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "/static/images/rashid_khan/Sunrisers_Hyderabad.svg",
+                    "altText": "Image of Sunrisers Hyderabad"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
@@ -181,16 +196,46 @@
       "facts": [
         {
           "label": "ஆப்கானிஸ்தான் தேசிய கிரிக்கெட் அணி (2015 முதல் தற்போது வரை)",
-          "id": "IqAsSJT_oe",
+          "id": "mJMug_cOWTZ",
           "value": {
-            "label": "ஆப்கானிஸ்தான் கிரிக்கெட் அணி, முழு உறுப்பினராக டெஸ்ட் போட்டிகளில் விளையாடும் 12 வது அணி."
+            "label": "",
+            "facts": [
+              {
+                "label": "Afghanistan national cricket team",
+                "id": "Q2VrFXmV9Ta",
+                "url": "/read/ta/afghanistan_national_cricket_team",
+                "contentUrl": "/static/content/ta/afghanistan_national_cricket_team.json",
+                "value": {
+                  "label": "The Afghanistan national cricket team is the 12th Test cricket playing Full Member nation. Cricket has been played in Afghanistan since the mid 19th century, but it is only in recent years that the national team has become successful. ",
+                  "image": {
+                    "url": "/static/images/rashid_khan/Afghanistan_cricket_board_logo.jpg",
+                    "altText": "Picture of Afghanistan national cricket team"
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "சன்ரைசர்ஸ் ஹைதராபாத் (2017 முதல் தற்போது வரை)",
-          "id": "Ou9YxT3F6S",
+          "id": "nzsS_fZzPfH",
           "value": {
-            "label": "சன்ரைஸ் ஹைதராபாத் (பெரும்பாலும் எஸ்ஆர்ஹெச் என சுருக்கமாக அழைக்கப்படும்), தெலுங்கானாவின் ஹைதராபாத் நகரைச் சேர்ந்த ஐபிஎல் கிரிக்கெட் அணி, இது இந்தியன் பிரீமியர் லீக்கில் விளையாடுகிறது."
+            "label": "",
+            "facts": [
+              {
+                "label": "Sunrisers Hyderabad",
+                "id": "uo0fDeCP0Oq",
+                "url": "/read/ta/sunrisers_hyderabad",
+                "contentUrl": "/static/content/ta/sunrisers_hyderabad.json",
+                "value": {
+                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "/static/images/rashid_khan/Sunrisers_Hyderabad.svg",
+                    "altText": "Picture of Sunrisers Hyderabad"
+                  }
+                }
+              }
+            ]
           }
         }
       ]

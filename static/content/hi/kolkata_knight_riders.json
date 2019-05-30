@@ -157,12 +157,102 @@
     {
       "title": "Famous Players",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "Dinesh Karthik",
+          "id": "dinesh_karthik",
+          "value": {
+            "url": null,
+            "label": "Dinesh Karthik made his maiden Test century against Bangladesh and then was India's leading scorer in the Test tour of England, helping India to win their first series in England in 21 years.",
+            "image": {
+              "url": "/static/images/kolkata_knight_riders/Dinesh.Karthik.jpg",
+              "altText": "Image of Dinesh Karthik"
+            }
+          }
+        },
+        {
+          "label": "Robin Uthappa",
+          "id": "robin_uthappa",
+          "value": {
+            "url": null,
+            "label": "Robin Uthappa  is named 'The Walking Assassin' for his tactic of charging the bowler. He played an important role in India's win at the 2007 ICC World Twenty20. ",
+            "image": {
+              "url": "/static/images/kolkata_knight_riders/Robin_Uthappa_on_the_Show.jpg",
+              "altText": "Image of Robin Uthappa"
+            }
+          }
+        },
+        {
+          "label": "Sourav Ganguly",
+          "id": "sourav_ganguly",
+          "value": {
+            "url": null,
+            "label": "Sourav Gangly is the most successful Indian test captain overseas with 11 wins. The Indian team was ranked eighth in the ICC rankings before he became the captain, and under his tenure the team rank went up to second.",
+            "image": {
+              "url": "/static/images/kolkata_knight_riders/Sourav_Ganguly_closeup.jpg",
+              "altText": "Image of Sourav Ganguly"
+            }
+          }
+        },
+        {
+          "label": "Andre Russell",
+          "id": "andre_russell",
+          "value": {
+            "url": null,
+            "label": "Andre Russell has played in over 300 Twenty20 matches for a range of sides in leagues throughout the world.",
+            "image": {
+              "altText": "Image of Andre Russell",
+              "license": ""
+            }
+          }
+        }
+      ]
     },
     {
       "title": "Achievements & Records",
       "cardType": "list_card",
-      "facts": []
+      "facts": [
+        {
+          "label": "2012 Indian Premier League",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Kolkata Knight Riders were the winning team, beating defending champions Chennai Super Kings by five wickets in the final.",
+            "facts": []
+          }
+        },
+        {
+          "label": "2014 Indian Premier League",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": " Kolkata Knight Riders won the tournament, defeating Kings XI Punjab by 3 wickets.",
+            "facts": []
+          }
+        },
+        {
+          "label": "Orange Cap",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Robin Uthappa won the Orange Cap for 660 runs in the 2014 IPL season.",
+            "facts": [
+              {
+                "label": "रॉबिन उथप्पा",
+                "id": "orange_cap-",
+                "url": "/read/hi/robin_uthappa",
+                "value": {
+                  "label": "रॉबिन वेणु उथप्पा एक भारतीय क्रिकेटर हैं। वह घरेलू क्रिकेट में कर्नाटक के लिए और आईपीएल में कोलकाता नाइट राइडर्स के लिए खेलते हैं।",
+                  "image": {
+                    "url": "",
+                    "altText": "Image of Orange Cap"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Sponsors",
@@ -174,6 +264,7 @@
             "label": " Nokia",
             "url": null,
             "image": {
+              "url": "/static/images/kolkata_knight_riders/Nokia_wordmark.svg",
               "altText": "Image of  Nokia"
             }
           }
@@ -184,7 +275,9 @@
             "label": "Jio",
             "url": null,
             "image": {
-              "altText": "Image of Jio"
+              "url": "/static/images/kolkata_knight_riders/Reliance_Jio_Logo_%28October_2015%29.svg",
+              "altText": "Image of Jio",
+              "license": ""
             }
           }
         },
@@ -194,6 +287,7 @@
             "label": "Alcis Sports",
             "url": null,
             "image": {
+              "url": "",
               "altText": "Image of Alcis Sports"
             }
           }

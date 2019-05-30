@@ -48,6 +48,12 @@ const HOME_STRATEGY_PLAYER_TO_WATCH_3 = "Player to watch - 3";
 const HOME_STRATEGY_TEAM_TO_WATCH_1 = "Team to watch - 1";
 const HOME_STRATEGY_TEAM_TO_WATCH_2 = "Team to watch - 2";
 
+const HOME_STRATEGY_FACT_OF_THE_DAY_1 = "Fact of the day - 1";
+const HOME_STRATEGY_FACT_OF_THE_DAY_2 = "Fact of the day - 1";
+
+const HOME_STRATEGY_QUIZ_OF_THE_DAY_1 = "Quiz of the day -1";
+const HOME_STRATEGY_QUIZ_OF_THE_DAY_2 = "Quiz of the day -2";
+
 // Home page quiz data (home_quiz.[lang].csv)
 const HOME_QUIZ_QNO = "Q. No";
 const HOME_QUIZ_QUESTIONS = "Questions";
@@ -181,20 +187,30 @@ module.exports.exportHome = () => {
     const getDatesForIDFromStrategySheet = (id, type) => {
       const dates = [];
 
-      let arrayToCheck = null;
+      let arrayToCheck = [];
 
       strategyRecords.forEach((strategyRecord, index) => {
         /* eslint-disable no-eval */
-        if (type === "STRATEGY_PLAYER_TO_WATCH")
+        if (type === "PLAYER_TO_WATCH")
           arrayToCheck = [
-            strategyRecord[eval(`HOME_STRATEGY_${type}_1`)],
-            strategyRecord[eval(`HOME_STRATEGY_${type}_2`)],
-            strategyRecord[eval(`HOME_STRATEGY_${type}_3`)]
+            strategyRecord[HOME_STRATEGY_PLAYER_TO_WATCH_1],
+            strategyRecord[HOME_STRATEGY_PLAYER_TO_WATCH_2],
+            strategyRecord[HOME_STRATEGY_PLAYER_TO_WATCH_3]
           ];
-        else
+        else if (type === "FACT_OF_THE_DAY")
           arrayToCheck = [
-            strategyRecord[eval(`HOME_STRATEGY_${type}_1`)],
-            strategyRecord[eval(`HOME_STRATEGY_${type}_2`)]
+            strategyRecord[HOME_STRATEGY_FACT_OF_THE_DAY_1],
+            strategyRecord[HOME_STRATEGY_FACT_OF_THE_DAY_2]
+          ];
+        else if (type === "QUIZ_OF_THE_DAY")
+          arrayToCheck = [
+            strategyRecord[HOME_STRATEGY_QUIZ_OF_THE_DAY_1],
+            strategyRecord[HOME_STRATEGY_QUIZ_OF_THE_DAY_2]
+          ];
+        else if (type === "TEAM_TO_WATCH")
+          arrayToCheck = [
+            strategyRecord[HOME_STRATEGY_TEAM_TO_WATCH_1],
+            strategyRecord[HOME_STRATEGY_TEAM_TO_WATCH_2]
           ];
         /* eslint-enable no-eval */
 

@@ -157,12 +157,139 @@
     {
       "title": "Famous Players",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "Lasith Malinga",
+          "id": "lasith_malinga",
+          "value": {
+            "url": null,
+            "label": "Separamadu Lasith Malinga bowls right-arm fast-medium and, is commonly used as a specialist death bowler, which lead to his nicknames, \"Slinga Malinga\" and \"Malinga the Slinga\".",
+            "image": {
+              "url": "/static/images/sri_lanka_national_cricket_team/LASITH_MALINGA_%285155175549%29.jpg",
+              "altText": "Image of Lasith Malinga",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Dinesh Chandimal",
+          "id": "dinesh_chandimal",
+          "value": {
+            "url": null,
+            "label": "Chandimal holds the joint record for taking the most number of catches in a single T20I as a fielder.",
+            "image": {
+              "url": "/static/images/sri_lanka_national_cricket_team/Dinesh_Chandimal_2.JPG",
+              "altText": "Image of Dinesh Chandimal"
+            }
+          }
+        },
+        {
+          "label": "Angelo Mathews",
+          "id": "angelo_mathews",
+          "value": {
+            "url": null,
+            "label": "Angelo Davis Mathews, is a professional Sri Lankan cricketer and a former captain in all formats.",
+            "image": {
+              "url": "/static/images/sri_lanka_national_cricket_team/Angelo_Mathews_%285338334462%29.jpg",
+              "altText": "Image of Angelo Mathews",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Thisara Perera",
+          "id": "thisara_perera",
+          "value": {
+            "url": null,
+            "label": "Thisara Perera, is a professional Sri Lankan cricketer. He was purchased by the Chennai Super Kings for US$50,000 in the auction for the 2010 Indian Premier League.",
+            "image": {
+              "url": "/static/images/sri_lanka_national_cricket_team/Thisara_Perera.jpg",
+              "altText": "Image of Thisara Perera"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "Achievements & Records",
       "cardType": "list_card",
-      "facts": []
+      "facts": [
+        {
+          "label": "1996 Cricket World Cup",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": " Winners of the 1996 Cricket World Cup, which they co-hosted with India & Pakistan",
+            "facts": []
+          }
+        },
+        {
+          "label": "Winners of the 2002 ICC Champions Trophy",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Joint winners of the 2002 ICC Champions Trophy, which they also hosted in their own right",
+            "facts": [
+              {
+                "label": "आईसीसी चैंपियंस ट्रॉफी",
+                "id": "winners_of_the_2002_icc_champions_trophy-",
+                "url": "/read/hi/icc_champions_trophy",
+                "value": {
+                  "label": "आईसीसी चैंपियंस ट्रॉफी एक दिवसीय अंतर्राष्ट्रीय (वनडे) क्रिकेट टूर्नामेंट था जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया जाता था, जो क्रिकेट विश्व कप के बाद दूसरा सबसे महत्वपूर्ण आयोजन था। 2002 में इसका नाम बदलकर चैंपियंस ट्रॉफी रखा गया।",
+                  "image": {
+                    "url": "",
+                    "altText": "Image of Winners of the 2002 ICC Champions Trophy"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2007 Cricket World Cup",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Runners up in the 2007 Cricket World Cup, hosted by the West Indies",
+            "facts": [
+              {
+                "label": "2007 क्रिकेट विश्व कप",
+                "id": "2007_cricket_world_cup-",
+                "url": "/read/hi/2007_cricket_world_cup",
+                "value": {
+                  "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
+                  "image": {
+                    "url": "",
+                    "altText": "Image of 2007 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2011 Cricket World Cup",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Runners up of the 2011 Cricket World Cup, which they co-hosted with India & Bangladesh.",
+            "facts": [
+              {
+                "label": "P7",
+                "id": "2011_cricket_world_cup-p7",
+                "url": null,
+                "value": {
+                  "label": null,
+                  "image": {
+                    "url": "",
+                    "altText": "Image of 2011 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Sponsors",
@@ -174,6 +301,7 @@
             "label": "Dilmah ",
             "url": null,
             "image": {
+              "url": "/static/images/sri_lanka_national_cricket_team/Dilmah-Logo.jpg",
               "altText": "Image of Dilmah "
             }
           }
@@ -184,6 +312,7 @@
             "label": "Kent RO Systems",
             "url": null,
             "image": {
+              "url": "/static/images/sri_lanka_national_cricket_team/KENT_Healthcare_Logo.jpg",
               "altText": "Image of Kent RO Systems"
             }
           }

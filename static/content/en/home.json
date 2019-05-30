@@ -540,20 +540,6 @@
       }
     },
     {
-      "label": "India failed to win a single match in the competition, the only test-playing nation to do so.",
-      "dates": [
-        "2019-06-13"
-      ],
-      "id": "F9",
-      "value": {
-        "url": null,
-        "image": {
-          "url": "/static/images/home/Flagcricket.jpg",
-          "altText": "Image for No wins for India"
-        }
-      }
-    },
-    {
       "label": "India had never qualified beyond the group stages in the previous editions of the tournament but went on to win the 1983 World Cup.",
       "dates": [
         "2019-06-16"
@@ -584,9 +570,7 @@
     {
       "label": "Australia defeated their arch-rivals England by 7 runs in the closest  World Cup final  at Kolkata's Eden Gardens.  ",
       "dates": [
-        "2019-06-09",
-        "2019-06-20",
-        "2019-06-29"
+        "2019-06-20"
       ],
       "id": "F16",
       "value": {
@@ -603,8 +587,7 @@
         "2019-05-30",
         "2019-06-02",
         "2019-06-15",
-        "2019-06-23",
-        "2019-07-06"
+        "2019-06-23"
       ],
       "id": "F20",
       "value": {
@@ -618,9 +601,7 @@
     {
       "label": "In the rain-affected semi-final match between England and South Africa, the final score was calculated using the “Most Productive Overs” method - reducing the required score of 22 off 13 balls to 22 off 1 ball, ending South Africa’s World Cup dreams that year.",
       "dates": [
-        "2019-06-05",
         "2019-06-10",
-        "2019-06-19",
         "2019-06-28"
       ],
       "id": "F22",
@@ -635,26 +616,6 @@
     {
       "label": "In the 1996 World Cup, Sri Lanka won to become the first co-host country to win the World Cup.",
       "dates": [
-        "2019-06-01"
-      ],
-      "id": "F24",
-      "value": {
-        "url": null,
-        "image": {
-          "url": "/static/images/home/Wills_World_Cup_1996.svg",
-          "altText": "Image for Host win"
-        }
-      }
-    },
-    {
-      "label": "In the 1996 World Cup, Sri Lanka won to become the first co-host country to win the World Cup.",
-      "dates": [
-        "2019-06-04",
-        "2019-06-07",
-        "2019-06-11",
-        "2019-06-15",
-        "2019-06-21",
-        "2019-06-28",
         "2019-07-01",
         "2019-07-06"
       ],
@@ -670,13 +631,7 @@
     {
       "label": "India and Pakistan were officially at war during their match in this edition of the World Cup, the only time two nations at war to have engaged in a sports game in the political scenario.",
       "dates": [
-        "2019-05-31",
-        "2019-06-03",
         "2019-06-07",
-        "2019-06-12",
-        "2019-06-16",
-        "2019-06-23",
-        "2019-06-26",
         "2019-06-29",
         "2019-07-05"
       ],
@@ -690,23 +645,8 @@
       }
     },
     {
-      "label": "India and Pakistan were officially at war during their match in this edition of the World Cup, the only time two nations at war to have engaged in a sports game in the political scenario.",
-      "dates": [
-        "2019-06-27"
-      ],
-      "id": "F28",
-      "value": {
-        "url": null,
-        "image": {
-          "url": "/static/images/home/Flagcricket.jpg",
-          "altText": "Image for At war"
-        }
-      }
-    },
-    {
       "label": "Australia's unbeaten record in the tournament increased their total wins to 29 consecutive World Cup matches.",
       "dates": [
-        "2019-06-01",
         "2019-06-12",
         "2019-06-25",
         "2019-07-06"
@@ -717,20 +657,6 @@
         "image": {
           "url": "/static/images/home/Australian_World_Cup_treble.jpg",
           "altText": "Image for Unbeaten Australia"
-        }
-      }
-    },
-    {
-      "label": "Since 1979, this was the first time India failed to qualify the group stage.",
-      "dates": [
-        "2019-06-30"
-      ],
-      "id": "F36",
-      "value": {
-        "url": null,
-        "image": {
-          "url": "/static/images/home/Wills_World_Cup_1996.svg",
-          "altText": "Image for Dismal Indian performance"
         }
       }
     },
@@ -766,8 +692,7 @@
     {
       "label": "Indian cricket team holds the record for most number of times scoring 300+ score: 90 times.",
       "dates": [
-        "2019-06-05",
-        "2019-07-06"
+        "2019-06-05"
       ],
       "id": "F53",
       "value": {
@@ -781,7 +706,6 @@
     {
       "label": "Australian team holds the record for appearing in four consecutive World Cup finals between 1996 - 2007.",
       "dates": [
-        "2019-06-06",
         "2019-06-15"
       ],
       "id": "F54",
@@ -796,15 +720,11 @@
     {
       "label": "The first recorded incidence of a team with a claim to represent England comes from 9 July 1739.",
       "dates": [
-        "2019-05-30",
         "2019-06-03",
         "2019-06-08",
-        "2019-06-14",
         "2019-06-18",
         "2019-06-21",
-        "2019-06-25",
-        "2019-06-30",
-        "2019-07-03"
+        "2019-06-30"
       ],
       "id": "F55",
       "value": {
@@ -820,13 +740,9 @@
       "dates": [
         "2019-05-31",
         "2019-06-06",
-        "2019-06-10",
         "2019-06-14",
-        "2019-06-17",
         "2019-06-22",
-        "2019-06-27",
-        "2019-07-01",
-        "2019-07-04"
+        "2019-06-27"
       ],
       "id": "F56",
       "value": {
@@ -3820,6 +3736,7 @@
         "2019-06-18",
         "2019-06-21",
         "2019-06-25",
+        "2019-06-30",
         "2019-07-03"
       ],
       "value": {
@@ -3858,7 +3775,9 @@
       "label": "Kagiso Rabada",
       "id": "kagiso_rabada",
       "dates": [
+        "2019-05-30",
         "2019-06-02",
+        "2019-06-05",
         "2019-06-10",
         "2019-06-15",
         "2019-06-19",
@@ -3882,8 +3801,10 @@
         "2019-05-31",
         "2019-06-06",
         "2019-06-10",
+        "2019-06-14",
         "2019-06-17",
         "2019-06-22",
+        "2019-06-27",
         "2019-06-29",
         "2019-07-01",
         "2019-07-04"
@@ -3902,8 +3823,10 @@
       "id": "shoaib_malik",
       "dates": [
         "2019-05-31",
+        "2019-06-03",
         "2019-06-07",
         "2019-06-12",
+        "2019-06-16",
         "2019-06-23",
         "2019-06-26",
         "2019-06-29",
@@ -3925,9 +3848,11 @@
         "2019-06-01",
         "2019-06-05",
         "2019-06-08",
+        "2019-06-13",
         "2019-06-19",
         "2019-06-22",
-        "2019-06-26"
+        "2019-06-26",
+        "2019-07-03"
       ],
       "value": {
         "url": "/read/en/kane_williamson",
@@ -3948,8 +3873,10 @@
         "2019-06-07",
         "2019-06-11",
         "2019-06-15",
+        "2019-06-21",
         "2019-06-28",
-        "2019-07-01"
+        "2019-07-01",
+        "2019-07-06"
       ],
       "value": {
         "url": "/read/en/lasith_malinga",
@@ -3967,9 +3894,11 @@
       "dates": [
         "2019-06-01",
         "2019-06-06",
+        "2019-06-09",
         "2019-06-12",
         "2019-06-15",
         "2019-06-20",
+        "2019-06-25",
         "2019-06-29",
         "2019-07-06"
       ],
@@ -3991,6 +3920,8 @@
         "2019-06-04",
         "2019-06-08",
         "2019-06-15",
+        "2019-06-18",
+        "2019-06-22",
         "2019-06-24",
         "2019-06-29",
         "2019-07-04"
@@ -4010,10 +3941,12 @@
       "dates": [
         "2019-06-02",
         "2019-06-05",
+        "2019-06-08",
         "2019-06-11",
         "2019-06-17",
         "2019-06-20",
         "2019-06-24",
+        "2019-07-02",
         "2019-07-05"
       ],
       "value": {

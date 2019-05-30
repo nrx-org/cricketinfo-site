@@ -38,7 +38,8 @@
           "label": "Birthplace",
           "value": {
             "label": "Paddington, New South Wales, Australia",
-            "url": "https://en.wikipedia.org/wiki/Paddington,_New_South_Wales"
+            "url": "https://en.wikipedia.org/wiki/Paddington,_New_South_Wales",
+            "contentUrl": "/static/content/en/null.json"
           }
         },
         {
@@ -85,7 +86,7 @@
     },
     {
       "title": "Style of play",
-      "id": "QVdenrFx2q",
+      "id": "S_Tkovov8",
       "cardType": "simple",
       "facts": [
         {
@@ -106,7 +107,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "BvY97-Mpz3",
+          "id": "CKAJJ0Yex-",
           "note": "2009",
           "value": {
             "label": "Warner made his first-class debut playing for New South Wales against Western Australia."
@@ -114,7 +115,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "Mylxg7woAR",
+          "id": "6gIuMP-_vh",
           "note": "2009",
           "value": {
             "label": "Warner made his international debut for Australia in a Twenty20 International against South Africa at the Melbourne.",
@@ -123,7 +124,7 @@
                 "url": "/read/en/south_africa_national_cricket_team",
                 "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
                 "label": "South Africa national cricket team",
-                "id": "MFSIOhcZKA",
+                "id": "AoZuW2lBhi",
                 "value": {
                   "label": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
                   "image": {
@@ -137,7 +138,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "qATaAvDJdtX",
+          "id": "ylZqC0Ozgx",
           "note": "2013",
           "value": {
             "label": "Warner was dropped from the team after the first match due to a off-field fight with English player Joe Root"
@@ -145,7 +146,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "zyUVfWdAoPF",
+          "id": "ZRfCtNoG2k",
           "note": "2009",
           "value": {
             "label": "Warner was signed by IPL team Delhi Daredevils for 2009–10 seasons.",
@@ -154,7 +155,7 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-                "id": "OtJV8seBM3T",
+                "id": "c-PtbBjAiX",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
@@ -235,13 +236,13 @@
       "facts": [
         {
           "label": "Australia (2009 - present)",
-          "id": "Yx5UMBB-a8N",
+          "id": "U39igPxroe",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Australia Cricket team",
-                "id": "ZKAwdkV3AK-",
+                "id": "InP2c9sYfA",
                 "url": "/read/en/australia_cricket_team",
                 "contentUrl": "/static/content/en/australia_cricket_team.json",
                 "value": {
@@ -257,13 +258,13 @@
         },
         {
           "label": "Sunrisers Hyderabad (2014 - present)",
-          "id": "HL_CArKN7zU",
+          "id": "Ku9P_fhHP9",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Sunrisers Hyderabad",
-                "id": "6puvgGIqL77",
+                "id": "16kv_rsY7N",
                 "url": "/read/en/sunrisers_hyderabad",
                 "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
                 "value": {
@@ -279,7 +280,7 @@
         },
         {
           "label": "New South Wales (2006-2018)",
-          "id": "K4llhFOeBUx",
+          "id": "PYfJJxZzVa",
           "value": {
             "label": "The New South Wales cricket team (currently named NSW Blues) are an Australian men's professional first class cricket team based in Sydney."
           }
