@@ -3,7 +3,7 @@
   "summary": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/2015_Cricket_World_Cup",
   "coverImage": {
-    "url": "/static/images/2015_cricket_world_cup/2015_Cricket_World_Cup_Logo.svg",
+    "url": "/static/images/master/2015_Cricket_World_Cup_Logo.svg",
     "altText": "Image of 2015 Cricket World Cup"
   },
   "translations": [
@@ -76,7 +76,7 @@
                 "value": {
                   "label": "Australia, officially the Commonwealth of Australia, is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands.",
                   "image": {
-                    "url": "/static/images/2015_cricket_world_cup/Flag_of_Australia_%28converted%29.svg",
+                    "url": "/static/images/master/Flag_of_Australia_%28converted%29.svg",
                     "altText": "Australia",
                     "license": ""
                   }
@@ -89,7 +89,7 @@
                 "value": {
                   "label": "New Zealand is a sovereign island country in the southwestern Pacific Ocean. The country geographically comprises two main landmasses and around 600 smaller islands. New Zealand is situated some 2,000 kilometres east of Australia.",
                   "image": {
-                    "url": "/static/images/2015_cricket_world_cup/Lake_Gunn.jpg",
+                    "url": "/static/images/master/Lake_Gunn.jpg",
                     "altText": "New Zealand"
                   }
                 }
@@ -155,7 +155,7 @@
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
-                    "url": "/static/images/2015_cricket_world_cup/Australia_cricket_logo.svg",
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
                     "altText": "Picture of Australia Cricket team"
                   }
                 }
@@ -176,7 +176,7 @@
                 "value": {
                   "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
                   "image": {
-                    "url": "/static/images/2015_cricket_world_cup/New_Zealand_Cricket_Cap_Insignia.svg",
+                    "url": "/static/images/master/New_Zealand_Cricket_Cap_Insignia.svg",
                     "altText": "Picture of Australia Cricket team"
                   }
                 }

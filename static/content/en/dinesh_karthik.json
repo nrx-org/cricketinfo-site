@@ -2,7 +2,7 @@
   "title": "Dinesh Karthik",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Dinesh_Karthik",
   "coverImage": {
-    "url": "/static/images/dinesh_karthik/Dinesh.Karthik.jpg",
+    "url": "/static/images/master/Dinesh.Karthik.jpg",
     "altText": "Image of Dinesh Karthik"
   },
   "summary": "Dinesh Karthik is an international cricketer from India",
@@ -63,7 +63,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "4N0ig9pwST7",
+      "id": "NqDgV6rAlXs",
       "cardType": "simple",
       "facts": [
         {
@@ -71,7 +71,7 @@
           "value": {
             "label": "Dinesh Karthik is a wicket-keeper mostly in Test matches, and right-handed batsman",
             "image": {
-              "url": "/static/images/dinesh_karthik/Dinesh_Karthik_fielding.jpg",
+              "url": "/static/images/master/Dinesh_Karthik_fielding.jpg",
               "altText": "Style of play for Dinesh Karthik"
             }
           }
@@ -84,7 +84,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "GWarMtjlWaV",
+          "id": "xqGoE6xpmJU",
           "note": "2002",
           "value": {
             "label": "Karthik made his debut at the first-class level in late-2002 against Baroda"
@@ -92,7 +92,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "4UhLGBYHDFS",
+          "id": "WH83JOKinQz",
           "note": "2004",
           "value": {
             "label": "Karthik made his international debut in an One day international match against England in 2004",
@@ -101,11 +101,11 @@
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "label": "England cricket team",
-                "id": "sj6x_W7p9",
+                "id": "hSkTYExf9ga",
                 "value": {
                   "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
                   "image": {
-                    "url": "/static/images/dinesh_karthik/England_cricket_team_logo.svg",
+                    "url": "/static/images/master/England_cricket_team_logo.svg",
                     "altText": "Image of England cricket team"
                   }
                 }
@@ -115,7 +115,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "8s_ZfHt0Ki",
+          "id": "H8oM2dYXdIZ",
           "note": "",
           "value": {
             "label": ""
@@ -123,7 +123,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "HYvqZd95yi",
+          "id": "8M0uXdC370Q",
           "note": "2008",
           "value": {
             "label": "Karthik played in the 2008 Indian Premier League as the wicket-keeper for the Delhi Daredevils",
@@ -132,11 +132,11 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-                "id": "jOe3r5p04j",
+                "id": "OQCc95IcyFf",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
-                    "url": "/static/images/dinesh_karthik/Delhi_Capitals_Logo.svg",
+                    "url": "/static/images/master/Delhi_Capitals_Logo.svg",
                     "altText": "Image of Delhi Capitals"
                   }
                 }
@@ -213,19 +213,19 @@
       "facts": [
         {
           "label": "Indian national cricket team (2004 - present)",
-          "id": "-viNC6k65J0",
+          "id": "kbwXq7Gisw3",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "1bW1S0afTls",
+                "id": "z17YJRa5W-G",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
-                    "url": "/static/images/dinesh_karthik/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
                     "altText": "Picture of India national cricket team"
                   }
                 }
@@ -235,19 +235,19 @@
         },
         {
           "label": "Kolkata Knight Riders (2018 - present)",
-          "id": "LPFxyFpHwPb",
+          "id": "hjvpkYg_mLN",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Kolkata Knight Riders",
-                "id": "BW-8RkBE4Aq",
+                "id": "u4HHPO3gp7u",
                 "url": "/read/en/kolkata_knight_riders",
                 "contentUrl": "/static/content/en/kolkata_knight_riders.json",
                 "value": {
                   "label": "The Kolkata Knight Riders (also known by the acronym KKR) are a franchise cricket team representing the city of Kolkata in the Indian Premier League. ",
                   "image": {
-                    "url": "/static/images/dinesh_karthik/Kolkata_Knight_Riders_Logo.svg",
+                    "url": "/static/images/master/Kolkata_Knight_Riders_Logo.svg",
                     "altText": "Picture of Kolkata Knight Riders"
                   }
                 }
@@ -257,7 +257,7 @@
         },
         {
           "label": "Tamil Nadu (2002 - present)",
-          "id": "1DqxBATUo2n",
+          "id": "457MYZtAN4i",
           "value": {
             "label": "Tamil Nadu Cricket Team is a domestic cricket team representing the state of Tamil Nadu, India"
           }

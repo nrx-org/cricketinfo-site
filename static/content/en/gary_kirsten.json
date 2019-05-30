@@ -2,7 +2,7 @@
   "title": "Gary Kirsten",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Gary_Kirsten",
   "coverImage": {
-    "url": "/static/images/gary_kirsten/GaryKirsten.jpg",
+    "url": "/static/images/master/GaryKirsten.jpg",
     "altText": "Image of Gary Kirsten"
   },
   "summary": "Gary Kirsten is a former South African cricketer. He was also the coach of the Indian cricket team that won the 2011 world cup.",
@@ -76,7 +76,7 @@
           "value": {
             "label": "",
             "image": {
-              "url": "/static/images/gary_kirsten/Rondebosch_Boys%27_High_School_logo.gif",
+              "url": "/static/images/master/Rondebosch_Boys%27_High_School_logo.gif",
               "altText": "Image of Rondebosch Boys' High School, Cape Town"
             }
           }
@@ -85,7 +85,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "N6HFraYxDIB",
+      "id": "4t60S0kBn7p",
       "cardType": "simple",
       "facts": [
         {
@@ -102,7 +102,7 @@
       "facts": [
         {
           "label": "National team debut ",
-          "id": "drtRsvsVx-e",
+          "id": "VV6GcK83vAu",
           "note": "1993",
           "value": {
             "label": "Kirsten made his international debut in a ODI versus Australia in 1993",
@@ -111,11 +111,11 @@
                 "url": "/read/en/australia_cricket_team",
                 "contentUrl": "/static/content/en/australia_cricket_team.json",
                 "label": "Australia Cricket team",
-                "id": "WpGeEVljrYn",
+                "id": "Bf74uKGx7iS",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
-                    "url": "/static/images/gary_kirsten/Australia_cricket_logo.svg",
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
                     "altText": "Image of Australia Cricket team"
                   }
                 }
@@ -125,7 +125,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "QAMbJCec77t",
+          "id": "3bK688GX5c2",
           "note": "1996",
           "value": {
             "label": "Kirsten scored 188 not-outagainst the United Arab Emirates during the 1996 World Cup",
@@ -134,11 +134,11 @@
                 "url": "/read/en/1996_cricket_world_cup",
                 "contentUrl": "/static/content/en/1996_cricket_world_cup.json",
                 "label": "1996 Cricket World Cup",
-                "id": "AHVNsXiYHFL",
+                "id": "tQl7_ffN-YC",
                 "value": {
                   "label": "The 1996 Cricket World Cup, also called the Wills World Cup 1996 after its official sponsors, ITC's Wills brand, was the sixth Cricket World Cup. It was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka.",
                   "image": {
-                    "url": "/static/images/gary_kirsten/Wills_World_Cup_1996.svg",
+                    "url": "/static/images/master/Wills_World_Cup_1996.svg",
                     "altText": "Image of 1996 Cricket World Cup"
                   }
                 }
@@ -148,7 +148,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "FFYsXkrzauz",
+          "id": "kkO418M88hS",
           "note": "",
           "value": {
             "label": ""
@@ -223,19 +223,19 @@
       "facts": [
         {
           "label": "South African national cricket team (1993 - 2004)",
-          "id": "b1T-bj6UhY2",
+          "id": "T2iI4YCdKl",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "South Africa national cricket team",
-                "id": "fSe07pqiC",
+                "id": "FrGrMazql6J",
                 "url": "/read/en/south_africa_national_cricket_team",
                 "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
                 "value": {
                   "label": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
                   "image": {
-                    "url": "/static/images/gary_kirsten/Southafrica_cricket_logo.svg",
+                    "url": "/static/images/master/Southafrica_cricket_logo.svg",
                     "altText": "Picture of South Africa national cricket team"
                   }
                 }
@@ -245,7 +245,7 @@
         },
         {
           "label": "Western Province (1987-2004)",
-          "id": "W4d5vJ6Dy5",
+          "id": "WE9_YCATI-J",
           "value": {
             "label": "Western Province is the team representing Western Cape province in domestic first-class cricket in South Africa."
           }

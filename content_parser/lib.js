@@ -7,6 +7,8 @@ const cheerio = require("cheerio");
 const unescape = require("unescape");
 const Bottleneck = require("bottleneck");
 
+const ALL_IMAGES_DIRECTORY_NAME = 'master'
+
 const limiter = new Bottleneck({
   maxConcurrent: 3,
   minTime: 500
@@ -93,11 +95,11 @@ const getCardInfoFromId = (idMap, id, lang) => {
 
 const makeImageDirectoryPath = articleSlug => `./static/images/${articleSlug}`;
 
-const makeImagePath = (imageFileName, articleSlug) =>
-  `./static/images/${articleSlug}/${imageFileName}`;
+const makeImagePath = (imageFileName) =>
+  `./static/images/${ALL_IMAGES_DIRECTORY_NAME}/${imageFileName}`;
 
-const makeServerSideImageUrl = (imageFileName, articleSlug) =>
-  `/static/images/${articleSlug}/${imageFileName}`;
+const makeServerSideImageUrl = (imageFileName) =>
+  `/static/images/${ALL_IMAGES_DIRECTORY_NAME}/${imageFileName}`;
 
 const downloadImageAndFillAttributions = async (imageObject, articleSlug) => {
   // Operate on a copy.
@@ -112,7 +114,7 @@ const downloadImageAndFillAttributions = async (imageObject, articleSlug) => {
     return localImageObject;
   }
 
-  const imageDirectory = makeImageDirectoryPath(articleSlug);
+  const imageDirectory = `./static/images/${ALL_IMAGES_DIRECTORY_NAME}`;
   if (!fs.existsSync(imageDirectory)) {
     fs.mkdirSync(imageDirectory);
   }
@@ -143,14 +145,14 @@ const downloadImageAndFillAttributions = async (imageObject, articleSlug) => {
   imageFileName = unescape(imageFileName);
 
   // If image already exists, return the correct response object and exit.
-  if (fs.existsSync(makeImagePath(imageFileName, articleSlug))) {
+  if (fs.existsSync(makeImagePath(imageFileName))) {
     // eslint-disable-next-line no-console
     console.log(
       `INFO: Skipping image ${localImageObject.url} because it already exists`
     );
     return {
       ...localImageObject,
-      url: makeServerSideImageUrl(imageFileName, articleSlug)
+      url: makeServerSideImageUrl(imageFileName)
     };
   }
 
@@ -178,7 +180,7 @@ const downloadImageAndFillAttributions = async (imageObject, articleSlug) => {
     imageResponse.body.pipe(imageFile);
     return {
       ...localImageObject,
-      url: makeServerSideImageUrl(imageFileName, articleSlug)
+      url: makeServerSideImageUrl(imageFileName)
     };
   }
 

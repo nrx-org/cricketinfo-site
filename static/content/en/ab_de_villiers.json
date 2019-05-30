@@ -2,7 +2,7 @@
   "title": "AB de Villiers",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/AB_de_Villiers",
   "coverImage": {
-    "url": "/static/images/ab_de_villiers/AB_de_Villiers_2.jpg",
+    "url": "/static/images/master/AB_de_Villiers_2.jpg",
     "altText": "Image of AB de Villiers"
   },
   "summary": "AB de Villiers is a former South African international cricketer.",
@@ -76,7 +76,7 @@
           "value": {
             "label": "",
             "image": {
-              "url": "/static/images/ab_de_villiers/Affie_wapen.jpg",
+              "url": "/static/images/master/Affie_wapen.jpg",
               "altText": "Image of Afrikaanse Hoër Seunskool"
             }
           }
@@ -85,7 +85,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "-DqkzcPFie0",
+      "id": "lfK0tr3sgiV",
       "cardType": "simple",
       "facts": [
         {
@@ -93,7 +93,7 @@
           "value": {
             "label": "De Villiers is a right-handed batsman and an occasional wicket-keeper",
             "image": {
-              "url": "/static/images/ab_de_villiers/AB_de_villiers_%28cropped%29.jpg",
+              "url": "/static/images/master/AB_de_villiers_%28cropped%29.jpg",
               "altText": "Style of play for AB de Villiers",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
@@ -107,7 +107,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "PIMJ80USl",
+          "id": "YvP05g0ck",
           "note": "2004",
           "value": {
             "label": "De Villiers made his first class debut for the South African domestic team Northerns"
@@ -115,7 +115,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "EQ41I_GeZq",
+          "id": "YWfKhA7uAG",
           "note": "2004",
           "value": {
             "label": "AB de Villiers made his international debut in a Test match against England",
@@ -124,11 +124,11 @@
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "label": "England cricket team",
-                "id": "E7mU0Upnfd",
+                "id": "ST6FD-d7qt",
                 "value": {
                   "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
                   "image": {
-                    "url": "/static/images/ab_de_villiers/England_cricket_team_logo.svg",
+                    "url": "/static/images/master/England_cricket_team_logo.svg",
                     "altText": "Image of England cricket team"
                   }
                 }
@@ -138,7 +138,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "2ad80zbZxC",
+          "id": "61Vo3JzALt",
           "note": "2007",
           "value": {
             "label": "De Villiers' batting during the World Cup was inconsistent as he also failed to score on 4 occasions"
@@ -146,7 +146,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "iOQs4bKE5_",
+          "id": "P3n4iYMDBd",
           "note": "2008",
           "value": {
             "label": "De Villiers played for the Delhi Daredevils in the first 3 seasons of IPL",
@@ -155,11 +155,11 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-                "id": "sJMENmS1O6",
+                "id": "8ZPI9lMSFJ",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
-                    "url": "/static/images/ab_de_villiers/Delhi_Capitals_Logo.svg",
+                    "url": "/static/images/master/Delhi_Capitals_Logo.svg",
                     "altText": "Image of Delhi Capitals"
                   }
                 }
@@ -236,19 +236,19 @@
       "facts": [
         {
           "label": "South African Nation team (2004-2018)",
-          "id": "EzKOItVDQl",
+          "id": "I-QgZVIz0y",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "South Africa national cricket team",
-                "id": "cjdLuZWioU",
+                "id": "8RGBVDUo6",
                 "url": "/read/en/south_africa_national_cricket_team",
                 "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
                 "value": {
                   "label": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
                   "image": {
-                    "url": "/static/images/ab_de_villiers/Southafrica_cricket_logo.svg",
+                    "url": "/static/images/master/Southafrica_cricket_logo.svg",
                     "altText": "Picture of South Africa national cricket team"
                   }
                 }
@@ -258,19 +258,19 @@
         },
         {
           "label": "Royal Challengers Bangalore (2011 - present)",
-          "id": "tCYvm9sITN",
+          "id": "T6ZfIesx6t",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Royal Challengers Bangalore",
-                "id": "MOwA4Q9ats",
+                "id": "SxdcGwXXkj",
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "value": {
                   "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
                   "image": {
-                    "url": "/static/images/ab_de_villiers/Royal_Challengers_Bangalore_Logo_2016.svg",
+                    "url": "/static/images/master/Royal_Challengers_Bangalore_Logo_2016.svg",
                     "altText": "Picture of Royal Challengers Bangalore"
                   }
                 }
@@ -280,7 +280,7 @@
         },
         {
           "label": "Northerns (2003-2004)",
-          "id": "NBIIi9OzGe",
+          "id": "zHL9C7n_gU",
           "value": {
             "label": "Northerns is a first-class cricket team in South Africa and represents area nother of Johannesburg, and includes Pretoria"
           }

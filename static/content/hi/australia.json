@@ -3,8 +3,9 @@
   "summary": "ऑस्ट्रेलिया, आधिकारिक तौर पर ऑस्ट्रेलिया का राष्ट्रमंडल, एक संप्रभु देश है जिसमें ऑस्ट्रेलियाई महाद्वीप की मुख्य भूमि, तस्मानिया द्वीप और कई छोटे द्वीप शामिल हैं।",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Australia",
   "coverImage": {
-    "url": "/static/images/australia/Flag_of_Australia_(converted).svg",
-    "altText": "Image of ऑस्ट्रेलिया"
+    "url": "/static/images/master/Flag_of_Australia_%28converted%29.svg",
+    "altText": "Image of ऑस्ट्रेलिया",
+    "license": ""
   },
   "translations": [
     {
@@ -121,7 +122,7 @@
           "value": {
             "label": "स्कॉट मॉरिसन ",
             "image": {
-              "url": "/static/images/australia/Scott_Morrison_2014.jpg",
+              "url": "/static/images/master/Scott_Morrison_2014.jpg",
               "altText": "Picture of स्कॉट मॉरिसन ",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">Attribution 4.0 International</a> license.</p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
             }
@@ -132,7 +133,7 @@
           "value": {
             "label": "गवर्नर जनरल पीटर कॉसग्रोव",
             "image": {
-              "url": "/static/images/australia/Peter_Cosgrove_2017_%281%29_crop.jpg",
+              "url": "/static/images/master/Peter_Cosgrove_2017_%281%29_crop.jpg",
               "altText": "Picture of गवर्नर जनरल पीटर कॉसग्रोव",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
             }
@@ -152,7 +153,7 @@
             "url": "/read/hi/australia_cricket_team",
             "contentUrl": "/static/content/hi/australia_cricket_team.json",
             "image": {
-              "url": "/static/images/australia/Australia_cricket_logo.svg",
+              "url": "/static/images/master/Australia_cricket_logo.svg",
               "altText": "Picture of ऑस्ट्रेलिया क्रिकेट टीम"
             }
           }
@@ -169,7 +170,7 @@
           "value": {
             "label": " हिन्द और प्रशांत महासागरों से घिरा, ऑस्ट्रेलिया दुनिया का सबसे छोटा महाद्वीप और कुल क्षेत्रफल में छठा सबसे बड़ा देश है। अपने आकार और अलगाव के कारण, इसे अक्सर \"द्वीप महाद्वीप\" कहा जाता है, और कभी-कभी दुनिया का सबसे बड़ा द्वीप माना जाता है।",
             "image": {
-              "url": "/static/images/australia/The_great_dividing_range.jpg",
+              "url": "/static/images/master/The_great_dividing_range.jpg",
               "altText": "An image of ऑस्ट्रेलिया"
             }
           }
@@ -186,7 +187,7 @@
           "value": {
             "label": "मेलबोर्न में रॉयल प्रदर्शनी भवन 2004 में यूनेस्को की विश्व धरोहर स्थल के रूप में सूचीबद्ध होने वाली ऑस्ट्रेलिया की पहली इमारत थी।",
             "image": {
-              "url": "/static/images/australia/Royal_exhibition_building_tulips_straight.jpg",
+              "url": "/static/images/master/Royal_exhibition_building_tulips_straight.jpg",
               "altText": "मेलबोर्न में रॉयल प्रदर्शनी भवन 2004 में यूनेस्को की विश्व धरोहर स्थल के रूप में सूचीबद्ध होने वाली ऑस्ट्रेलिया की पहली इमारत थी।"
             }
           }
@@ -197,7 +198,7 @@
           "value": {
             "label": "वेजेमाइट, पावलोवा, लैमिंगटन और मांस पाईस प्रतिष्ठित ऑस्ट्रेलियाई खाद्य पदार्थ मानी जाती हैं।",
             "image": {
-              "url": "/static/images/australia/Pavlova_garnished_with_cream_and_strawberries.jpg",
+              "url": "/static/images/master/Pavlova_garnished_with_cream_and_strawberries.jpg",
               "altText": "वेजेमाइट, पावलोवा, लैमिंगटन और मांस पाईस प्रतिष्ठित ऑस्ट्रेलियाई खाद्य पदार्थ मानी जाती हैं।"
             }
           }
@@ -208,7 +209,7 @@
           "value": {
             "label": "मेलबर्न क्रिकेट मैदान ऑस्ट्रेलिया के दो सबसे लोकप्रियदेखे जाने वाले खेलों  क्रिकेट और ऑस्ट्रेलियाई रूल्स फुटबॉल के इतिहास और विकास से दृढ़ता से जुड़ा हुआ है।",
             "image": {
-              "url": "/static/images/australia/AFL_Grand_Final_2010_on_the_Melbourne_Cricket_Ground.jpg",
+              "url": "/static/images/master/AFL_Grand_Final_2010_on_the_Melbourne_Cricket_Ground.jpg",
               "altText": "मेलबर्न क्रिकेट मैदान ऑस्ट्रेलिया के दो सबसे लोकप्रियदेखे जाने वाले खेलों  क्रिकेट और ऑस्ट्रेलियाई रूल्स फुटबॉल के इतिहास और विकास से दृढ़ता से जुड़ा हुआ है।"
             }
           }
@@ -219,7 +220,7 @@
           "value": {
             "label": "एटेल टर्नर द्वारा सेवन लिटिल ऑस्ट्रेलियन, एक ऑस्ट्रेलियाई लेखक की पहली और एकमात्र पुस्तक है जो 100 वर्षों से लगातार छपाई में है।",
             "image": {
-              "url": "/static/images/australia/SevenLittleAustralians16thEdnCvr.jpg",
+              "url": "/static/images/master/SevenLittleAustralians16thEdnCvr.jpg",
               "altText": "एटेल टर्नर द्वारा सेवन लिटिल ऑस्ट्रेलियन, एक ऑस्ट्रेलियाई लेखक की पहली और एकमात्र पुस्तक है जो 100 वर्षों से लगातार छपाई में है।"
             }
           }
