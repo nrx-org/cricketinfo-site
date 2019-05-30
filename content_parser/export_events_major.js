@@ -7,6 +7,7 @@ const {
   getCardInfoFromId
 } = require("./lib");
 const idMap = require("../static/content/article_ids.json");
+const { eventsUiStrings } = require("./ui_strings");
 
 const csvExports = {
   en: { path: "./csv/events_major.en.csv" },
@@ -112,23 +113,23 @@ module.exports.exportEventsMajor = () => {
         .filter(c => !!c);
 
       const aboutTable = {
-        title: "About",
+        title: eventsUiStrings.about[lang],
         cardType: "table",
         facts: [
           {
-            label: DATES_KEY,
+            label: eventsUiStrings[DATES_KEY][lang],
             value: {
               label: record[DATES_KEY]
             }
           },
           {
-            label: FORMAT_KEY,
+            label: eventsUiStrings[FORMAT_KEY][lang],
             value: {
-              label: FORMAT_KEY
+              label: record[FORMAT_KEY]
             }
           },
           {
-            label: CHAMPION_KEY,
+            label: eventsUiStrings[CHAMPION_KEY][lang],
             value: {
               label: record[CHAMPION_KEY],
               url: championCard && championCard.url,
@@ -136,13 +137,13 @@ module.exports.exportEventsMajor = () => {
             }
           },
           {
-            label: MOST_SUCCESSFUL_KEY,
+            label: eventsUiStrings[MOST_SUCCESSFUL_KEY][lang],
             value: {
               label: mostSuccessfulCards.map(c => c.title).join(", ")
             }
           },
           {
-            label: NUMBER_OF_TEAMS_KEY,
+            label: eventsUiStrings[NUMBER_OF_TEAMS_KEY][lang],
             value: {
               label: record[NUMBER_OF_TEAMS_KEY]
             }
@@ -154,7 +155,7 @@ module.exports.exportEventsMajor = () => {
 
       // Events.
       const eventsSection = {
-        title: "Events",
+        title: eventsUiStrings.events[lang],
         cardType: "vertical_timeline",
         facts: await Promise.all(
           EVENTS.map(async mapEvent => {
@@ -213,7 +214,7 @@ module.exports.exportEventsMajor = () => {
           }
 
           return {
-            label: stat.STATISTIC_KEY,
+            label: eventsUiStrings[stat.STATISTIC_KEY][lang],
             id: getSluggedTitle(stat.STATISTIC_KEY),
             value: {
               label: `${record[stat.STATISTIC_KEY]}, ${
@@ -235,7 +236,7 @@ module.exports.exportEventsMajor = () => {
 
       if (statisticsFacts.length > 0) {
         event.sections.push({
-          title: "Statistics",
+          title: eventsUiStrings.statistics[lang],
           cardType: "stories",
           facts: statisticsFacts
         });

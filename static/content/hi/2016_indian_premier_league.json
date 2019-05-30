@@ -20,39 +20,39 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इसके बारे में",
       "cardType": "table",
       "facts": [
         {
-          "label": "Dates",
+          "label": "तिथियां",
           "value": {
             "label": "9 April–29 May"
           }
         },
         {
-          "label": "Format",
+          "label": "स्वरूप",
           "value": {
-            "label": "Format"
+            "label": "ट्वेंटी-20"
           }
         },
         {
-          "label": "Champion",
+          "label": "विजेता",
           "value": {
             "label": "सनराइजर्स हैदराबाद (पहला खिताब)",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/hi/sunrisers_hyderabad",
+            "contentUrl": "/static/content/hi/sunrisers_hyderabad.json"
           }
         },
         {
-          "label": "Runners Up",
+          "label": "उपविजेता",
           "value": {
             "label": "रॉयल चैलेंजर्स बैंगलोर",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/hi/royal_challengers_bangalore",
+            "contentUrl": "/static/content/hi/royal_challengers_bangalore.json"
           }
         },
         {
-          "label": "No of Teams",
+          "label": "टीमों की संख्या",
           "value": {
             "label": "8"
           }
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "title": "Hosts",
+      "title": "मेजबान",
       "cardType": "list_card",
       "facts": [
         {
@@ -111,11 +111,11 @@
       ]
     },
     {
-      "title": "Statistics",
+      "title": "आंकड़े",
       "cardType": "stories",
       "facts": [
         {
-          "label": "Man of the series",
+          "label": "मैन ऑफ द सीरीज",
           "id": "man_of_the_series",
           "value": {
             "label": "विराट कोहली, भारत",
@@ -126,7 +126,7 @@
           }
         },
         {
-          "label": "Most runs scored/ Orange cap",
+          "label": "सबसे ज्यादा रन",
           "id": "most_runs_scored/_orange_cap",
           "value": {
             "label": "विराट कोहली, भारत",
@@ -137,7 +137,7 @@
           }
         },
         {
-          "label": "Most wickets taken/ purple cap",
+          "label": "सबसे ज्यादा विकेट",
           "id": "most_wickets_taken/_purple_cap",
           "value": {
             "label": "भुवनेश्वर कुमार, भारत",
@@ -154,19 +154,45 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Champion",
+          "label": "विजेता",
           "id": "final-positions-champion",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "सनराइजर्स हैदराबाद",
+                "url": "/read/hi/sunrisers_hyderabad",
+                "contentUrl": "/static/content/hi/sunrisers_hyderabad.json",
+                "value": {
+                  "label": "सनराइजर्स हैदराबाद (संक्षिप्त रूप में एसआरएच) तेलंगाना के हैदराबाद आधारित एक फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में खेलती है।",
+                  "image": {
+                    "url": "/static/images/2016_indian_premier_league/Sunrisers_Hyderabad.svg",
+                    "altText": "Picture of सनराइजर्स हैदराबाद"
+                  }
+                }
+              }
+            ]
           }
         },
         {
-          "label": "Runner-up",
+          "label": "उपविजेता",
           "id": "final-positions-runner-up",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "रॉयल चैलेंजर्स बैंगलोर",
+                "url": "/read/hi/royal_challengers_bangalore",
+                "contentUrl": "/static/content/hi/royal_challengers_bangalore.json",
+                "value": {
+                  "label": "रॉयल चैलेंजर्स बैंगलोर, बैंगलोर,कर्नाटक में स्थित एक फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में खेलती है।",
+                  "image": {
+                    "url": "/static/images/2016_indian_premier_league/Royal_Challengers_Bangalore_Logo_2016.svg",
+                    "altText": "Picture of सनराइजर्स हैदराबाद"
+                  }
+                }
+              }
+            ]
           }
         }
       ]

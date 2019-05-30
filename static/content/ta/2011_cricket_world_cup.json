@@ -20,39 +20,39 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "தெரிந்து கொள்ளுங்கள்",
       "cardType": "table",
       "facts": [
         {
-          "label": "Dates",
+          "label": "தேதிகள்",
           "value": {
             "label": "19 February–2 April"
           }
         },
         {
-          "label": "Format",
+          "label": "வடிவம்",
           "value": {
-            "label": "Format"
+            "label": "ஒன் டே இன்டர்நேஷனல்"
           }
         },
         {
-          "label": "Champion",
+          "label": "சாம்பியன்ஸ்",
           "value": {
             "label": "ஆஸ்திரேலியா (4வது டைட்டில்)",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/ta/india_national_cricket_team",
+            "contentUrl": "/static/content/ta/india_national_cricket_team.json"
           }
         },
         {
-          "label": "Runners Up",
+          "label": "இரண்டாம் இடம் பெற்ற அணி",
           "value": {
             "label": "ஸ்ரீலங்கா",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/ta/sri_lanka_national_cricket_team",
+            "contentUrl": "/static/content/ta/sri_lanka_national_cricket_team.json"
           }
         },
         {
-          "label": "No of Teams",
+          "label": "அணிகளின் எண்ணிக்கை",
           "value": {
             "label": "14"
           }
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "title": "Hosts",
+      "title": "நிகழ்ச்சி நடத்துனர்கள்",
       "cardType": "list_card",
       "facts": [
         {
@@ -99,11 +99,11 @@
       ]
     },
     {
-      "title": "Statistics",
+      "title": "புள்ளியியல்",
       "cardType": "stories",
       "facts": [
         {
-          "label": "Man of the series",
+          "label": "தொடர் நாயகன்",
           "id": "man_of_the_series",
           "value": {
             "label": "யுவராஜ் சிங், இந்தியா, பாகிஸ்தான்",
@@ -114,7 +114,7 @@
           }
         },
         {
-          "label": "Most runs scored/ Orange cap",
+          "label": "அதிக ரன் எடுத்தவர்",
           "id": "most_runs_scored/_orange_cap",
           "value": {
             "label": "திலகரத்ன தில்சான், இந்தியா, பாகிஸ்தான்",
@@ -125,7 +125,7 @@
           }
         },
         {
-          "label": "Most wickets taken/ purple cap",
+          "label": "அதிக விக்கெட் எடுத்தவர்",
           "id": "most_wickets_taken/_purple_cap",
           "value": {
             "label": "ஜாஹீர் கான், சாகித் அஃபிரிடி, இந்தியா, பாகிஸ்தான்",
@@ -142,19 +142,45 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Champion",
+          "label": "சாம்பியன்ஸ்",
           "id": "final-positions-champion",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+                "url": "/read/ta/india_national_cricket_team",
+                "contentUrl": "/static/content/ta/india_national_cricket_team.json",
+                "value": {
+                  "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
+                  "image": {
+                    "url": "/static/images/2011_cricket_world_cup/Cricket_India_Crest.svg",
+                    "altText": "Picture of இந்திய தேசிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
           }
         },
         {
-          "label": "Runner-up",
+          "label": "இரண்டாம் இடம் பெற்ற அணி",
           "id": "final-positions-runner-up",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "Sri Lanka national cricket team",
+                "url": "/read/ta/sri_lanka_national_cricket_team",
+                "contentUrl": "/static/content/ta/sri_lanka_national_cricket_team.json",
+                "value": {
+                  "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
+                  "image": {
+                    "url": "/static/images/2011_cricket_world_cup/Sri_Lanka_Cricket_Cap_Insignia.svg",
+                    "altText": "Picture of இந்திய தேசிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
           }
         }
       ]

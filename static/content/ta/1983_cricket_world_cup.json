@@ -20,39 +20,39 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "தெரிந்து கொள்ளுங்கள்",
       "cardType": "table",
       "facts": [
         {
-          "label": "Dates",
+          "label": "தேதிகள்",
           "value": {
             "label": "9 June–25 June"
           }
         },
         {
-          "label": "Format",
+          "label": "வடிவம்",
           "value": {
-            "label": "Format"
+            "label": "ஒன் டே இன்டர்நேஷனல்"
           }
         },
         {
-          "label": "Champion",
+          "label": "சாம்பியன்ஸ்",
           "value": {
             "label": "भारत (पहला खिताब)",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/ta/india_national_cricket_team",
+            "contentUrl": "/static/content/ta/india_national_cricket_team.json"
           }
         },
         {
-          "label": "Runners Up",
+          "label": "இரண்டாம் இடம் பெற்ற அணி",
           "value": {
             "label": "வெஸ்ட் இண்டீஸ்",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/ta/west_indies_cricket_team",
+            "contentUrl": "/static/content/ta/west_indies_cricket_team.json"
           }
         },
         {
-          "label": "No of Teams",
+          "label": "அணிகளின் எண்ணிக்கை",
           "value": {
             "label": "8"
           }
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "title": "Hosts",
+      "title": "நிகழ்ச்சி நடத்துனர்கள்",
       "cardType": "list_card",
       "facts": [
         {
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "title": "Statistics",
+      "title": "புள்ளியியல்",
       "cardType": "stories",
       "facts": [
         {
-          "label": "Man of the series",
+          "label": "தொடர் நாயகன்",
           "id": "man_of_the_series",
           "value": {
             "label": "1983-இல் மேன் ஆஃப் தி சீரிஸ் விருது வழங்கப்படவில்லை, இந்தியா",
@@ -102,7 +102,7 @@
           }
         },
         {
-          "label": "Most runs scored/ Orange cap",
+          "label": "அதிக ரன் எடுத்தவர்",
           "id": "most_runs_scored/_orange_cap",
           "value": {
             "label": "டேவிட் கோவர், இந்தியா",
@@ -113,7 +113,7 @@
           }
         },
         {
-          "label": "Most wickets taken/ purple cap",
+          "label": "அதிக விக்கெட் எடுத்தவர்",
           "id": "most_wickets_taken/_purple_cap",
           "value": {
             "label": "ரோஜர் பின்னி, இந்தியா",
@@ -130,19 +130,45 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Champion",
+          "label": "சாம்பியன்ஸ்",
           "id": "final-positions-champion",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+                "url": "/read/ta/india_national_cricket_team",
+                "contentUrl": "/static/content/ta/india_national_cricket_team.json",
+                "value": {
+                  "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
+                  "image": {
+                    "url": "/static/images/1983_cricket_world_cup/Cricket_India_Crest.svg",
+                    "altText": "Picture of இந்திய தேசிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
           }
         },
         {
-          "label": "Runner-up",
+          "label": "இரண்டாம் இடம் பெற்ற அணி",
           "id": "final-positions-runner-up",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி",
+                "url": "/read/ta/west_indies_cricket_team",
+                "contentUrl": "/static/content/ta/west_indies_cricket_team.json",
+                "value": {
+                  "label": "பாரம்பரியமாக வின்டீஸ் என அழைக்கப்படுகின்ற வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி, ஆங்கிலோபோன் கரீபியன் பகுதியைப் பிரதிநிதித்துவப்படுத்தும் ஒரு பன்னாட்டு கிரிக்கெட் அணியாகும், இது கிரிக்கெட் வெஸ்ட் இன்டீஸால் நிர்வகிக்கப்படுகிறது. இந்த கலப்புக் குழுவிலுள்ள வீரர்கள் பதினைந்து கரீபியன் பிரதேசங்களிலிருந்து தேர்ந்தெடுக்கப்படுகின்றனர்",
+                  "image": {
+                    "url": "/static/images/1983_cricket_world_cup/West_indies_cricket_board_flag.png",
+                    "altText": "Picture of இந்திய தேசிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
           }
         }
       ]

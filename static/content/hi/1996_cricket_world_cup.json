@@ -20,39 +20,39 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इसके बारे में",
       "cardType": "table",
       "facts": [
         {
-          "label": "Dates",
+          "label": "तिथियां",
           "value": {
             "label": "14 February–17 March"
           }
         },
         {
-          "label": "Format",
+          "label": "स्वरूप",
           "value": {
-            "label": "Format"
+            "label": "वन डे इंटरनेशनल"
           }
         },
         {
-          "label": "Champion",
+          "label": "विजेता",
           "value": {
             "label": "श्रीलंका (पहला खिताब)",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/hi/sri_lanka_national_cricket_team",
+            "contentUrl": "/static/content/hi/sri_lanka_national_cricket_team.json"
           }
         },
         {
-          "label": "Runners Up",
+          "label": "उपविजेता",
           "value": {
             "label": "ऑस्ट्रेलिया",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/hi/australia_cricket_team",
+            "contentUrl": "/static/content/hi/australia_cricket_team.json"
           }
         },
         {
-          "label": "No of Teams",
+          "label": "टीमों की संख्या",
           "value": {
             "label": "12"
           }
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "title": "Hosts",
+      "title": "मेजबान",
       "cardType": "list_card",
       "facts": [
         {
@@ -112,11 +112,11 @@
       ]
     },
     {
-      "title": "Statistics",
+      "title": "आंकड़े",
       "cardType": "stories",
       "facts": [
         {
-          "label": "Man of the series",
+          "label": "मैन ऑफ द सीरीज",
           "id": "man_of_the_series",
           "value": {
             "label": "सनत जयसूर्या, भारत",
@@ -127,7 +127,7 @@
           }
         },
         {
-          "label": "Most runs scored/ Orange cap",
+          "label": "सबसे ज्यादा रन",
           "id": "most_runs_scored/_orange_cap",
           "value": {
             "label": "सचिन तेंडुलकर, भारत",
@@ -138,7 +138,7 @@
           }
         },
         {
-          "label": "Most wickets taken/ purple cap",
+          "label": "सबसे ज्यादा विकेट",
           "id": "most_wickets_taken/_purple_cap",
           "value": {
             "label": "अनिल कुंबले, भारत",
@@ -155,19 +155,45 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Champion",
+          "label": "विजेता",
           "id": "final-positions-champion",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "श्रीलंका की राष्ट्रीय क्रिकेट टीम",
+                "url": "/read/hi/sri_lanka_national_cricket_team",
+                "contentUrl": "/static/content/hi/sri_lanka_national_cricket_team.json",
+                "value": {
+                  "label": "श्रीलंका की राष्ट्रीय क्रिकेट टीम, जिसे 'द लायंस' के नाम से भी जाना जाता है। यह अंतरराष्ट्रीय क्रिकेट में श्रीलंका का प्रतिनिधित्व करती है। यह टेस्ट, एकदिवसीय अंतरराष्ट्रीय (ओडीआई) और टी-20 अंतरराष्ट्रीय (टी20आई) में अंतरराष्ट्रीय क्रिकेट परिषद (आईसीसी) का पूर्ण सदस्य देश है।",
+                  "image": {
+                    "url": "/static/images/1996_cricket_world_cup/Sri_Lanka_Cricket_Cap_Insignia.svg",
+                    "altText": "Picture of श्रीलंका की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
           }
         },
         {
-          "label": "Runner-up",
+          "label": "उपविजेता",
           "id": "final-positions-runner-up",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "ऑस्ट्रेलिया क्रिकेट टीम",
+                "url": "/read/hi/australia_cricket_team",
+                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "value": {
+                  "label": "ऑस्ट्रेलिया की राष्ट्रीय क्रिकेट टीम टेस्ट क्रिकेट इतिहास की संयुक्त सबसे पुरानी टीम है, जिसने 1877 में पहली बार टेस्ट मैच खेला था।",
+                  "image": {
+                    "url": "/static/images/1996_cricket_world_cup/Australia_cricket_logo.svg",
+                    "altText": "Picture of श्रीलंका की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
           }
         }
       ]

@@ -20,39 +20,39 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "தெரிந்து கொள்ளுங்கள்",
       "cardType": "table",
       "facts": [
         {
-          "label": "Dates",
+          "label": "தேதிகள்",
           "value": {
             "label": "9 April–29 May"
           }
         },
         {
-          "label": "Format",
+          "label": "வடிவம்",
           "value": {
-            "label": "Format"
+            "label": "ட்வென்டி20"
           }
         },
         {
-          "label": "Champion",
+          "label": "சாம்பியன்ஸ்",
           "value": {
             "label": "சென்னை சூப்பர் கிங்ஸ் (2வது டைட்டில்)",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/ta/sunrisers_hyderabad",
+            "contentUrl": "/static/content/ta/sunrisers_hyderabad.json"
           }
         },
         {
-          "label": "Runners Up",
+          "label": "இரண்டாம் இடம் பெற்ற அணி",
           "value": {
             "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/ta/royal_challengers_bangalore",
+            "contentUrl": "/static/content/ta/royal_challengers_bangalore.json"
           }
         },
         {
-          "label": "No of Teams",
+          "label": "அணிகளின் எண்ணிக்கை",
           "value": {
             "label": "8"
           }
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "title": "Hosts",
+      "title": "நிகழ்ச்சி நடத்துனர்கள்",
       "cardType": "list_card",
       "facts": [
         {
@@ -111,11 +111,11 @@
       ]
     },
     {
-      "title": "Statistics",
+      "title": "புள்ளியியல்",
       "cardType": "stories",
       "facts": [
         {
-          "label": "Man of the series",
+          "label": "தொடர் நாயகன்",
           "id": "man_of_the_series",
           "value": {
             "label": "விராட் கோலி, இந்தியா",
@@ -126,7 +126,7 @@
           }
         },
         {
-          "label": "Most runs scored/ Orange cap",
+          "label": "அதிக ரன் எடுத்தவர்",
           "id": "most_runs_scored/_orange_cap",
           "value": {
             "label": "விராட் கோலி, இந்தியா",
@@ -137,7 +137,7 @@
           }
         },
         {
-          "label": "Most wickets taken/ purple cap",
+          "label": "அதிக விக்கெட் எடுத்தவர்",
           "id": "most_wickets_taken/_purple_cap",
           "value": {
             "label": "புவனேஸ்வர் குமார், இந்தியா",
@@ -154,19 +154,45 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Champion",
+          "label": "சாம்பியன்ஸ்",
           "id": "final-positions-champion",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "Sunrisers Hyderabad",
+                "url": "/read/ta/sunrisers_hyderabad",
+                "contentUrl": "/static/content/ta/sunrisers_hyderabad.json",
+                "value": {
+                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
+                  "image": {
+                    "url": "/static/images/2016_indian_premier_league/Sunrisers_Hyderabad.svg",
+                    "altText": "Picture of Sunrisers Hyderabad"
+                  }
+                }
+              }
+            ]
           }
         },
         {
-          "label": "Runner-up",
+          "label": "இரண்டாம் இடம் பெற்ற அணி",
           "id": "final-positions-runner-up",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
+                "url": "/read/ta/royal_challengers_bangalore",
+                "contentUrl": "/static/content/ta/royal_challengers_bangalore.json",
+                "value": {
+                  "label": "ராயல் சேலஞ்சர்ஸ் அணி இண்டியன் பிரீமியர் லீக்கில் (ஐபிஎல்) விளையாடும் கர்நாடகாவின் பெங்களூரில் உள்ள ஒரு உரிமைப் பெற்ற கிரிக்கெட் அணி ஆகும்",
+                  "image": {
+                    "url": "/static/images/2016_indian_premier_league/Royal_Challengers_Bangalore_Logo_2016.svg",
+                    "altText": "Picture of Sunrisers Hyderabad"
+                  }
+                }
+              }
+            ]
           }
         }
       ]

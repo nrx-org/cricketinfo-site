@@ -20,39 +20,39 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इसके बारे में",
       "cardType": "table",
       "facts": [
         {
-          "label": "Dates",
+          "label": "तिथियां",
           "value": {
             "label": "14 May–20 June"
           }
         },
         {
-          "label": "Format",
+          "label": "स्वरूप",
           "value": {
-            "label": "Format"
+            "label": "वन डे इंटरनेशनल"
           }
         },
         {
-          "label": "Champion",
+          "label": "विजेता",
           "value": {
             "label": "ऑस्ट्रेलिया (दूसरा खिताब)",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/hi/australia_cricket_team",
+            "contentUrl": "/static/content/hi/australia_cricket_team.json"
           }
         },
         {
-          "label": "Runners Up",
+          "label": "उपविजेता",
           "value": {
             "label": "पाकिस्तान",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/hi/pakistan_national_cricket_team",
+            "contentUrl": "/static/content/hi/pakistan_national_cricket_team.json"
           }
         },
         {
-          "label": "No of Teams",
+          "label": "टीमों की संख्या",
           "value": {
             "label": "12"
           }
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "title": "Hosts",
+      "title": "मेजबान",
       "cardType": "list_card",
       "facts": [
         {
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "title": "Statistics",
+      "title": "आंकड़े",
       "cardType": "stories",
       "facts": [
         {
-          "label": "Man of the series",
+          "label": "मैन ऑफ द सीरीज",
           "id": "man_of_the_series",
           "value": {
             "label": "लांस क्लूजनर, न्यूजीलैंड; ऑस्ट्रेलिया",
@@ -102,7 +102,7 @@
           }
         },
         {
-          "label": "Most runs scored/ Orange cap",
+          "label": "सबसे ज्यादा रन",
           "id": "most_runs_scored/_orange_cap",
           "value": {
             "label": "राहुल द्रविड़, न्यूजीलैंड; ऑस्ट्रेलिया",
@@ -113,7 +113,7 @@
           }
         },
         {
-          "label": "Most wickets taken/ purple cap",
+          "label": "सबसे ज्यादा विकेट",
           "id": "most_wickets_taken/_purple_cap",
           "value": {
             "label": "ज्योफ अलॉट; शेन वार्न, न्यूजीलैंड; ऑस्ट्रेलिया",
@@ -130,19 +130,45 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Champion",
+          "label": "विजेता",
           "id": "final-positions-champion",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "ऑस्ट्रेलिया क्रिकेट टीम",
+                "url": "/read/hi/australia_cricket_team",
+                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "value": {
+                  "label": "ऑस्ट्रेलिया की राष्ट्रीय क्रिकेट टीम टेस्ट क्रिकेट इतिहास की संयुक्त सबसे पुरानी टीम है, जिसने 1877 में पहली बार टेस्ट मैच खेला था।",
+                  "image": {
+                    "url": "/static/images/1999_cricket_world_cup/Australia_cricket_logo.svg",
+                    "altText": "Picture of ऑस्ट्रेलिया क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
           }
         },
         {
-          "label": "Runner-up",
+          "label": "उपविजेता",
           "id": "final-positions-runner-up",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "पाकिस्तान की राष्ट्रीय क्रिकेट टीम ",
+                "url": "/read/hi/pakistan_national_cricket_team",
+                "contentUrl": "/static/content/hi/pakistan_national_cricket_team.json",
+                "value": {
+                  "label": "पाकिस्तान की पुरुषों की राष्ट्रीय क्रिकेट टीम, जो शाहीन्स ग्रीन शर्ट्स और मैन इन ग्रीन के रूप में प्रसिद्घ है, उसका संचालन पाकिस्तान क्रिकेट बोर्ड (पीसीबी) द्वारा किया जाता है। टीम अंतर्राष्ट्रीय क्रिकेट परिषद की पूर्ण सदस्य है और टेस्ट, वनडे और टी-20 अंतर्राष्ट्रीय क्रिकेट मैचों में हिस्सा लेती है।",
+                  "image": {
+                    "url": "/static/images/1999_cricket_world_cup/PakistanCricketLogo.png",
+                    "altText": "Picture of ऑस्ट्रेलिया क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
           }
         }
       ]

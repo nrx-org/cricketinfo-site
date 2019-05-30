@@ -20,37 +20,37 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "தெரிந்து கொள்ளுங்கள்",
       "cardType": "table",
       "facts": [
         {
-          "label": "First edition Year",
+          "label": "முதல் பதிப்பு",
           "value": {
             "label": "2008"
           }
         },
         {
-          "label": "Format of the tournament",
+          "label": "வடிவம்",
           "value": {
-            "label": "Format of the tournament"
+            "label": "டி20"
           }
         },
         {
-          "label": "Current champions",
+          "label": "தற்போதைய சாம்பியன்",
           "value": {
             "label": "சென்னை சூப்பர் கிங்ஸ் (3வது டைட்டில்)",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/ta/chennai_super_kings",
+            "contentUrl": "/static/content/ta/chennai_super_kings.json"
           }
         },
         {
-          "label": "Most successful Team",
+          "label": "மிகவும் வெற்றிகரமான அணி",
           "value": {
-            "label": ""
+            "label": "சென்னை சூப்பர் கிங்க்ஸ், மும்பை இண்டியன்ஸ்"
           }
         },
         {
-          "label": "No of Teams",
+          "label": "அணிகளின் எண்ணிக்கை",
           "value": {}
         }
       ]
@@ -90,11 +90,11 @@
       ]
     },
     {
-      "title": "Statistics",
+      "title": "புள்ளியியல்",
       "cardType": "stories",
       "facts": [
         {
-          "label": "Most Runs scored- Name of the player",
+          "label": "அதிக ரன் எடுத்தவர்",
           "id": "most_runs_scored-_name_of_the_player",
           "value": {
             "label": "விராட் கோலி, ஸ்ரீலங்கா",

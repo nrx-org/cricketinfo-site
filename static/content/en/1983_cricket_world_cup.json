@@ -32,11 +32,11 @@
         {
           "label": "Format",
           "value": {
-            "label": "Format"
+            "label": "One Day International"
           }
         },
         {
-          "label": "Champion",
+          "label": "Champions",
           "value": {
             "label": "India (1st title)",
             "url": "/read/en/india_national_cricket_team",
@@ -52,7 +52,7 @@
           }
         },
         {
-          "label": "No of Teams",
+          "label": "Number of Teams",
           "value": {
             "label": "8"
           }
@@ -102,7 +102,7 @@
           }
         },
         {
-          "label": "Most runs scored/ Orange cap",
+          "label": "Most runs",
           "id": "most_runs_scored/_orange_cap",
           "value": {
             "label": "David Gower, India",
@@ -113,7 +113,7 @@
           }
         },
         {
-          "label": "Most wickets taken/ purple cap",
+          "label": "Most wickets",
           "id": "most_wickets_taken/_purple_cap",
           "value": {
             "label": "Roger Binny, India",
@@ -130,7 +130,7 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Champion",
+          "label": "Champions",
           "id": "final-positions-champion",
           "value": {
             "label": "",
@@ -151,7 +151,7 @@
           }
         },
         {
-          "label": "Runner-up",
+          "label": "Runners Up",
           "id": "final-positions-runner-up",
           "value": {
             "label": "",

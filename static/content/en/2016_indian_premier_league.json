@@ -32,11 +32,11 @@
         {
           "label": "Format",
           "value": {
-            "label": "Format"
+            "label": "Twenty20"
           }
         },
         {
-          "label": "Champion",
+          "label": "Champions",
           "value": {
             "label": "Sunrisers Hyderabad (1st title)",
             "url": "/read/en/sunrisers_hyderabad",
@@ -52,7 +52,7 @@
           }
         },
         {
-          "label": "No of Teams",
+          "label": "Number of Teams",
           "value": {
             "label": "8"
           }
@@ -126,7 +126,7 @@
           }
         },
         {
-          "label": "Most runs scored/ Orange cap",
+          "label": "Most runs",
           "id": "most_runs_scored/_orange_cap",
           "value": {
             "label": "Virat Kohli , India",
@@ -137,7 +137,7 @@
           }
         },
         {
-          "label": "Most wickets taken/ purple cap",
+          "label": "Most wickets",
           "id": "most_wickets_taken/_purple_cap",
           "value": {
             "label": "Bhuvneshwar Kumar, India",
@@ -154,7 +154,7 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Champion",
+          "label": "Champions",
           "id": "final-positions-champion",
           "value": {
             "label": "",
@@ -175,7 +175,7 @@
           }
         },
         {
-          "label": "Runner-up",
+          "label": "Runners Up",
           "id": "final-positions-runner-up",
           "value": {
             "label": "",

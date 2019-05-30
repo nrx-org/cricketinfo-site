@@ -319,3 +319,106 @@ module.exports.placesUiStrings = {
     ta: "மதங்கள்"
   }
 };
+
+module.exports.eventsUiStrings = {
+  about: {
+    en: "About",
+    hi: "इसके बारे में",
+    ta: "தெரிந்து கொள்ளுங்கள்"
+  },
+  Dates: {
+    en: "Dates",
+    hi: "तिथियां",
+    ta: "தேதிகள்"
+  },
+  Format: {
+    en: "Format",
+    hi: "स्वरूप",
+    ta: "வடிவம்"
+  },
+  Champion: {
+    en: "Champions",
+    hi: "विजेता",
+    ta: "சாம்பியன்ஸ்"
+  },
+  "Runners Up": {
+    en: "Runners Up",
+    hi: "उपविजेता",
+    ta: "இரண்டாம் இடம் பெற்ற அணி"
+  },
+  "No of Teams": {
+    en: "Number of Teams",
+    hi: "टीमों की संख्या",
+    ta: "அணிகளின் எண்ணிக்கை"
+  },
+  hosts: {
+    en: "Hosts",
+    hi: "मेजबान",
+    ta: "நிகழ்ச்சி நடத்துனர்கள்"
+  },
+  "Man of the series": {
+    en: "Man of the series",
+    hi: "मैन ऑफ द सीरीज",
+    ta: "தொடர் நாயகன்"
+  },
+  "Most runs scored/ Orange cap": {
+    en: "Most runs",
+    hi: "सबसे ज्यादा रन",
+    ta: "அதிக ரன் எடுத்தவர்"
+  },
+  "Most wickets taken/ purple cap": {
+    en: "Most wickets",
+    hi: "सबसे ज्यादा विकेट",
+    ta: "அதிக விக்கெட் எடுத்தவர்"
+  },
+  statistics: {
+    en: "Statistics",
+    hi: "आंकड़े",
+    ta: "புள்ளியியல்"
+  },
+  finalPositions: {
+    en: "Final Positions",
+    hi: "अंतिम स्थिति",
+    ta: "இறுதி நிலவரம்"
+  },
+  champion: {
+    en: "Champions",
+    hi: "विजेता",
+    ta: "சாம்பியன்ஸ்"
+  },
+  runnerUp: {
+    en: "Runners Up",
+    hi: "उपविजेता",
+    ta: "இரண்டாம் இடம் பெற்ற அணி"
+  },
+  "First edition Year": {
+    en: "First Edition",
+    hi: "पहला संस्करण",
+    ta: "முதல் பதிப்பு"
+  },
+  "Format of the tournament": {
+    en: "Format",
+    hi: "स्वरूप",
+    ta: "வடிவம்"
+  },
+  "Current champions": {
+    en: "Current Champion",
+    hi: "वर्तमान विजेता",
+    ta: "தற்போதைய சாம்பியன்"
+  },
+  "Most successful Team": {
+    en: "Most successful",
+    hi: "सबसे सफल",
+    ta: "மிகவும் வெற்றிகரமான அணி"
+  },
+  events: {
+    en: "Events",
+    hi: "घटनाएं",
+    ta: "Events"
+  },
+  "Most Runs scored- Name of the player": {
+    en: "Most Runs",
+    hi: "सबसे ज्यादा रन",
+    ta: "அதிக ரன் எடுத்தவர்"
+  }
+};

@@ -20,39 +20,39 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इसके बारे में",
       "cardType": "table",
       "facts": [
         {
-          "label": "Dates",
+          "label": "तिथियां",
           "value": {
             "label": "19 February–2 April"
           }
         },
         {
-          "label": "Format",
+          "label": "स्वरूप",
           "value": {
-            "label": "Format"
+            "label": "वन डे इंटरनेशनल"
           }
         },
         {
-          "label": "Champion",
+          "label": "विजेता",
           "value": {
             "label": "भारत (दूसरा खिताब)",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/hi/india_national_cricket_team",
+            "contentUrl": "/static/content/hi/india_national_cricket_team.json"
           }
         },
         {
-          "label": "Runners Up",
+          "label": "उपविजेता",
           "value": {
             "label": "श्रीलंका",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/hi/sri_lanka_national_cricket_team",
+            "contentUrl": "/static/content/hi/sri_lanka_national_cricket_team.json"
           }
         },
         {
-          "label": "No of Teams",
+          "label": "टीमों की संख्या",
           "value": {
             "label": "14"
           }
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "title": "Hosts",
+      "title": "मेजबान",
       "cardType": "list_card",
       "facts": [
         {
@@ -99,11 +99,11 @@
       ]
     },
     {
-      "title": "Statistics",
+      "title": "आंकड़े",
       "cardType": "stories",
       "facts": [
         {
-          "label": "Man of the series",
+          "label": "मैन ऑफ द सीरीज",
           "id": "man_of_the_series",
           "value": {
             "label": "युवराज सिंह, भारत, पाकिस्तान",
@@ -114,7 +114,7 @@
           }
         },
         {
-          "label": "Most runs scored/ Orange cap",
+          "label": "सबसे ज्यादा रन",
           "id": "most_runs_scored/_orange_cap",
           "value": {
             "label": "तिलकरत्ने दिलशान, भारत, पाकिस्तान",
@@ -125,7 +125,7 @@
           }
         },
         {
-          "label": "Most wickets taken/ purple cap",
+          "label": "सबसे ज्यादा विकेट",
           "id": "most_wickets_taken/_purple_cap",
           "value": {
             "label": "जहीर खान, शाहिद अफरीदी, भारत, पाकिस्तान",
@@ -142,19 +142,45 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Champion",
+          "label": "विजेता",
           "id": "final-positions-champion",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "भारत की राष्ट्रीय क्रिकेट टीम",
+                "url": "/read/hi/india_national_cricket_team",
+                "contentUrl": "/static/content/hi/india_national_cricket_team.json",
+                "value": {
+                  "label": "भारत की राष्ट्रीय क्रिकेट टीम को टीम इंडिया और मेन इन ब्लू के नाम से भी जाना जाता है। भारत को टेस्ट में पहला, वनडे में दूसरा और आईसीसी द्वारा टी20 में दूसरा स्थान मिला है। विराट कोहली टीम के वर्तमान कप्तान हैं जबकि मुख्य कोच रवि शास्त्री हैं।",
+                  "image": {
+                    "url": "/static/images/2011_cricket_world_cup/Cricket_India_Crest.svg",
+                    "altText": "Picture of भारत की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
           }
         },
         {
-          "label": "Runner-up",
+          "label": "उपविजेता",
           "id": "final-positions-runner-up",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "श्रीलंका की राष्ट्रीय क्रिकेट टीम",
+                "url": "/read/hi/sri_lanka_national_cricket_team",
+                "contentUrl": "/static/content/hi/sri_lanka_national_cricket_team.json",
+                "value": {
+                  "label": "श्रीलंका की राष्ट्रीय क्रिकेट टीम, जिसे 'द लायंस' के नाम से भी जाना जाता है। यह अंतरराष्ट्रीय क्रिकेट में श्रीलंका का प्रतिनिधित्व करती है। यह टेस्ट, एकदिवसीय अंतरराष्ट्रीय (ओडीआई) और टी-20 अंतरराष्ट्रीय (टी20आई) में अंतरराष्ट्रीय क्रिकेट परिषद (आईसीसी) का पूर्ण सदस्य देश है।",
+                  "image": {
+                    "url": "/static/images/2011_cricket_world_cup/Sri_Lanka_Cricket_Cap_Insignia.svg",
+                    "altText": "Picture of भारत की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
           }
         }
       ]

@@ -20,31 +20,31 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "தெரிந்து கொள்ளுங்கள்",
       "cardType": "table",
       "facts": [
         {
-          "label": "Dates",
+          "label": "தேதிகள்",
           "value": {
             "label": "14 February–29 March"
           }
         },
         {
-          "label": "Format",
+          "label": "வடிவம்",
           "value": {
-            "label": "Format"
+            "label": "Twenty20"
           }
         },
         {
-          "label": "Champion",
+          "label": "சாம்பியன்ஸ்",
           "value": {
             "label": "Mumbai Indians (3rd title)",
-            "url": null,
-            "contentUrl": null
+            "url": "/read/ta/mumbai_indians",
+            "contentUrl": "/static/content/ta/mumbai_indians.json"
           }
         },
         {
-          "label": "Runners Up",
+          "label": "இரண்டாம் இடம் பெற்ற அணி",
           "value": {
             "label": "Rising Pune Supergiants",
             "url": null,
@@ -52,7 +52,7 @@
           }
         },
         {
-          "label": "No of Teams",
+          "label": "அணிகளின் எண்ணிக்கை",
           "value": {
             "label": "8"
           }
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "title": "Hosts",
+      "title": "நிகழ்ச்சி நடத்துனர்கள்",
       "cardType": "list_card",
       "facts": [
         {
@@ -99,11 +99,11 @@
       ]
     },
     {
-      "title": "Statistics",
+      "title": "புள்ளியியல்",
       "cardType": "stories",
       "facts": [
         {
-          "label": "Man of the series",
+          "label": "தொடர் நாயகன்",
           "id": "man_of_the_series",
           "value": {
             "label": "Ben Stokes, India",
@@ -115,7 +115,7 @@
           }
         },
         {
-          "label": "Most runs scored/ Orange cap",
+          "label": "அதிக ரன் எடுத்தவர்",
           "id": "most_runs_scored/_orange_cap",
           "value": {
             "label": "David Warner, India",
@@ -127,7 +127,7 @@
           }
         },
         {
-          "label": "Most wickets taken/ purple cap",
+          "label": "அதிக விக்கெட் எடுத்தவர்",
           "id": "most_wickets_taken/_purple_cap",
           "value": {
             "label": "Bhuvneshwar Kumar, India",
@@ -144,15 +144,28 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Champion",
+          "label": "சாம்பியன்ஸ்",
           "id": "final-positions-champion",
           "value": {
             "label": "",
-            "facts": []
+            "facts": [
+              {
+                "label": "மும்பை இண்டியன்ஸ்",
+                "url": "/read/ta/mumbai_indians",
+                "contentUrl": "/static/content/ta/mumbai_indians.json",
+                "value": {
+                  "label": "மும்பை இண்டியன்ஸ், மகாராஷ்டிராவில் உள்ள மும்பை நகரத்தைத் தலைமையிடமாகக் கொண்ட ஒரு உரிமைபெற்ற கிரிக்கெட் அணி ஆகும். இது 2008 ஆம் ஆண்டு நிறுவப்பட்டது, மும்பை இண்டியன்ஸ் இண்டியன் பிரீமியர் லீகில் (ஐபிஎல்) விளையாடுவார்கள். இந்த அணி, இந்தியாவில் மிகப்பெரிய நிறுவனமான ரிலையன்ஸ் நிறுவனங்களுக்குச் சொந்தமானது.",
+                  "image": {
+                    "url": "/static/images/2017_indian_premier_league/Mumbai_Indians_Logo.svg",
+                    "altText": "Picture of மும்பை இண்டியன்ஸ்"
+                  }
+                }
+              }
+            ]
           }
         },
         {
-          "label": "Runner-up",
+          "label": "இரண்டாம் இடம் பெற்ற அணி",
           "id": "final-positions-runner-up",
           "value": {
             "label": "",
