@@ -4,23 +4,13 @@ import React from "react";
 import PropTypes from "prop-types";
 
 import { ShareModalContainer } from "./ShareModalContainer";
-
 import { ModalContextConsumer } from "./ModalContext";
 import { SHARE_MODAL_ID, WHATSAPP_SUBSCRIBE_MODAL_ID } from "../lib/modal_ids";
 import { FloatingToolbar } from "./FloatingToolbar";
 import { LanguageContext } from "../language_context";
 import { FloatingToolbarButton } from "./FloatingToolbarButton";
 import { WhatsAppSubscribeModalContainer } from "./WhatsAppSubscribeModalContainer";
-
-const SAVE_TEXT = {
-  hi: "सेव करें",
-  en: "Save for later"
-};
-
-const SHARE_TEXT = {
-  hi: "लेख शेयर करें",
-  en: "Share article"
-};
+import { articleUiStrings } from "../lib/ui_strings";
 
 export const ShareArticleFloatingToolbarContainer = ({ articleId }) => {
   const shareData = process.browser
@@ -64,7 +54,7 @@ export const ShareArticleFloatingToolbarContainer = ({ articleId }) => {
                   <FloatingToolbarButton
                     onClick={event => onSaveForLaterClick(event, openModal)}
                     icon={{ name: "bookmark", altText: "Save for later icon" }}
-                    label={SAVE_TEXT[lang]}
+                    label={articleUiStrings.saveForLater[lang]}
                   />
                 }
                 rightButton={
@@ -73,7 +63,7 @@ export const ShareArticleFloatingToolbarContainer = ({ articleId }) => {
                       onShareClick(event, openModal);
                     }}
                     icon={{ name: "share", altText: "Share icon" }}
-                    label={SHARE_TEXT[lang]}
+                    label={articleUiStrings.shareArticle[lang]}
                   />
                 }
               />
