@@ -36,7 +36,7 @@
           }
         },
         {
-          "label": "Total Area of country (km squared)",
+          "label": "Total Area",
           "value": {
             "label": "3287263 km²"
           }
@@ -48,19 +48,19 @@
           }
         },
         {
-          "label": "Capital city",
+          "label": "Capital",
           "value": {
             "label": "New Delhi"
           }
         },
         {
-          "label": "Largest city",
+          "label": "Largest City",
           "value": {
             "label": "Mumbai"
           }
         },
         {
-          "label": "Timezone",
+          "label": "Timezone(s)",
           "value": {
             "label": "UTC +05:30"
           }
@@ -111,7 +111,7 @@
       "label": "India has a parliamentary republic with a multi-party system.",
       "facts": [
         {
-          "label": "Prime minister name",
+          "label": "Prime Minister",
           "value": {
             "label": "Narendra Modi",
             "image": {
@@ -132,7 +132,7 @@
           }
         },
         {
-          "label": "Chief Justice name",
+          "label": "Chief Justice",
           "value": {
             "label": "Ranjan Gogoi",
             "image": {

@@ -20,7 +20,7 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "தெரிந்து கொள்ளுங்கள்",
       "cardType": "table",
       "facts": [
         {
@@ -36,37 +36,37 @@
           }
         },
         {
-          "label": "Total Area of country (km squared)",
+          "label": "மொத்த பரப்பு",
           "value": {
             "label": "65610 சதுர கிமீ"
           }
         },
         {
-          "label": "Population",
+          "label": "மக்கள் தொகை",
           "value": {
             "label": "21,670,000 (2018)"
           }
         },
         {
-          "label": "Other names",
+          "label": "வேறு பெயர்கள்",
           "value": {
             "label": "சிலோன்"
           }
         },
         {
-          "label": "Capital city",
+          "label": "தலைநகரம்",
           "value": {
             "label": "ஸ்ரீ ஜெயவர்தனபுர கோட்டே"
           }
         },
         {
-          "label": "Largest city",
+          "label": "பெரிய நகரம்",
           "value": {
             "label": "கொழும்பு"
           }
         },
         {
-          "label": "Timezone",
+          "label": "நேரம்(கள்)",
           "value": {
             "label": "UTC+5:30"
           }
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "title": "History",
+      "title": "வரலாறு",
       "cardType": "vertical_timeline",
       "facts": [
         {
@@ -112,12 +112,12 @@
       ]
     },
     {
-      "title": "Government",
+      "title": "அரசாங்கம்",
       "cardType": "avatar",
       "label": "பகுதியளவிலான ஜனாதிபதி பிரதிநிதிதத்துவ மக்களாட்சி குடியரசின் கட்டமைப்பை இலங்கை அரசியல் முன்னிறுத்தியது, அத்துடன் இலங்கையின் ஜனாதிபதி மாநிலம் மற்றும் அரசாங்கத்தின் தலைவராக இருக்கிறார், இந்நாடு பல கட்சி அமைப்புமுறையைக் கொண்டதாகவும் இருக்கின்றது, நிர்வாக சக்திகள் அரசாங்கத்தால் செயல்படுத்தப்படுகின்றன. அரசாங்கம் மற்றும் பாராளுமன்றம் இரண்டிற்கும் சட்டரீதியான அதிகாரம் வழங்கப்பட்டுள்ளது.",
       "facts": [
         {
-          "label": "Prime minister name",
+          "label": "பிரதமர்",
           "value": {
             "label": "ரணில் விக்கிரமசிங்க",
             "image": {
@@ -128,7 +128,7 @@
           }
         },
         {
-          "label": "President",
+          "label": "குடியரசுத் தலைவர்",
           "value": {
             "label": "மைத்திரிபால சிறிசேனா",
             "image": {
@@ -139,7 +139,7 @@
           }
         },
         {
-          "label": "Chief Justice name",
+          "label": "தலைமை நீதிபதி",
           "value": {
             "label": "நீதிபதி ஹெட்டிக்கண்கனங்க நளின் ஜெயலத் பெரேரா",
             "image": {
@@ -151,12 +151,12 @@
       ]
     },
     {
-      "title": "In Sports",
+      "title": "விளையாட்டுத் துறையில் இவரின் பங்கு",
       "cardType": "avatar",
       "label": "",
       "facts": [
         {
-          "label": "Team",
+          "label": "அணி",
           "value": {
             "label": "Sri Lanka national cricket team",
             "url": "/read/ta/sri_lanka_national_cricket_team",
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "title": "Geography",
+      "title": "புவியியல்",
       "id": "sri_lanka_geography",
       "cardType": "simple",
       "facts": [
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "title": "Culture",
+      "title": "கலாச்சாரம்",
       "cardType": "stories",
       "facts": [
         {
@@ -237,12 +237,12 @@
       ]
     },
     {
-      "title": "Demographics",
+      "title": "மக்கள் விகிதாச்சாரம்",
       "cardType": "bar_chart_with_info",
       "facts": [
         {
           "id": "section_languages_sri_lanka",
-          "label": "Languages",
+          "label": "மொழிகள்",
           "value": {
             "label": "சிங்களம் மற்றும் தமிழ் ஆகிய இரண்டும் இலங்கையின் அதிகாரப்பூர்வ மொழிகளாகும். ஆங்கில மொழியானது இணைப்பு மொழியாக வரையறுக்கப்படுகிறது"
           }

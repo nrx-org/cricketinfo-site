@@ -20,7 +20,7 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "தெரிந்து கொள்ளுங்கள்",
       "cardType": "table",
       "facts": [
         {
@@ -36,31 +36,31 @@
           }
         },
         {
-          "label": "Total Area of country (km squared)",
+          "label": "மொத்த பரப்பு",
           "value": {
             "label": "7692024 சதுர கிமீ"
           }
         },
         {
-          "label": "Population",
+          "label": "மக்கள் தொகை",
           "value": {
             "label": "25,346,300 (2019 மதிப்பீட்டின் படி)"
           }
         },
         {
-          "label": "Capital city",
+          "label": "தலைநகரம்",
           "value": {
             "label": "கேன்பெரா"
           }
         },
         {
-          "label": "Largest city",
+          "label": "பெரிய நகரம்",
           "value": {
             "label": "சிட்னி"
           }
         },
         {
-          "label": "Timezone",
+          "label": "நேரம்(கள்)",
           "value": {
             "label": "UTC+8; +9.5; +10; கோடை UTC+8; +9.5; +10; +10.5; +11"
           }
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "title": "History",
+      "title": "வரலாறு",
       "cardType": "vertical_timeline",
       "facts": [
         {
@@ -106,12 +106,12 @@
       ]
     },
     {
-      "title": "Government",
+      "title": "அரசாங்கம்",
       "cardType": "avatar",
       "label": "ஆஸ்திரேலியா கூட்டாட்சி முறையில் பாராளுமன்ற அரசியலமைப்பு மன்னராட்சியை கொண்டுள்ள நாடாகும்.இரண்டாம் எலிசபெத் அந்நாட்டின் அரசியாக இருக்கிறார். அவர் ஐக்கிய இராஜ்ஜியத்தில் இருப்பதனால், அவர் கூட்டாட்சி மட்டத்தில் கவர்னர் ஜெனராலும் மாநில அளவில் ஆளுநர்களாலும் அமைச்சர்களின் அறிவுரையின்படி ஆஸ்திரேலியாவை பிரதிநிதித்துவப்படுத்தப்படுகிறார்.",
       "facts": [
         {
-          "label": "Prime minister name",
+          "label": "பிரதமர்",
           "value": {
             "label": "ஸ்காட் மோரிசன்",
             "image": {
@@ -122,7 +122,7 @@
           }
         },
         {
-          "label": "Chief Justice name",
+          "label": "தலைமை நீதிபதி",
           "value": {
             "label": "கவர்னர் ஜெனரல் பீட்டர் காஸ்ரூவ்",
             "image": {
@@ -135,12 +135,12 @@
       ]
     },
     {
-      "title": "In Sports",
+      "title": "விளையாட்டுத் துறையில் இவரின் பங்கு",
       "cardType": "avatar",
       "label": "",
       "facts": [
         {
-          "label": "Team",
+          "label": "அணி",
           "value": {
             "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
             "url": "/read/ta/australia_cricket_team",
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "title": "Geography",
+      "title": "புவியியல்",
       "id": "australia_geography",
       "cardType": "simple",
       "facts": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "title": "Culture",
+      "title": "கலாச்சாரம்",
       "cardType": "stories",
       "facts": [
         {
@@ -221,12 +221,12 @@
       ]
     },
     {
-      "title": "Demographics",
+      "title": "மக்கள் விகிதாச்சாரம்",
       "cardType": "bar_chart_with_info",
       "facts": [
         {
           "id": "section_languages_australia",
-          "label": "Languages",
+          "label": "மொழிகள்",
           "value": {
             "label": "ஆஸ்திரேலியாவிற்கென அதிகாரப்பூர்வ மொழி எதுவுமில்லை என்றாலும், ஆங்கிலம் எப்போதும் தேசிய மொழியாகப் போற்றப்படுகிறது.ஆஸ்திரேலிய ஆங்கிலம் பிற ஆங்கிலத்தைக் காட்டிலும் இலக்கண மற்றும் உச்சரிப்பு ரீதியாகச் சிறிது வேறுபடுகிறது."
           }

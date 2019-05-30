@@ -30,7 +30,7 @@
           }
         },
         {
-          "label": "Total Area of country (km squared)",
+          "label": "Total Area",
           "value": {
             "label": "130,279 km²"
           }
@@ -42,19 +42,19 @@
           }
         },
         {
-          "label": "Capital city",
+          "label": "Capital",
           "value": {
             "label": "London"
           }
         },
         {
-          "label": "Largest city",
+          "label": "Largest City",
           "value": {
             "label": "London"
           }
         },
         {
-          "label": "Timezone",
+          "label": "Timezone(s)",
           "value": {
             "label": "UTC, UTC+1 (Summer)"
           }
@@ -105,7 +105,7 @@
       "label": "As part of the United Kingdom, the basic political system in England is a constitutional monarchy and parliamentary system.",
       "facts": [
         {
-          "label": "Prime minister name",
+          "label": "Prime Minister",
           "value": {
             "label": "Theresa May",
             "image": {
@@ -115,7 +115,7 @@
           }
         },
         {
-          "label": "Chief Justice name",
+          "label": "Chief Justice",
           "value": {
             "label": "Ian Duncan Burnett, Baron Burnett of Maldon, PC",
             "image": {

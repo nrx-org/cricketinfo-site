@@ -20,7 +20,7 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इसके बारे में",
       "cardType": "table",
       "facts": [
         {
@@ -36,37 +36,37 @@
           }
         },
         {
-          "label": "Total Area of country (km squared)",
+          "label": "कुल क्षेत्रफल",
           "value": {
             "label": "268,021 वर्ग किमी"
           }
         },
         {
-          "label": "Population",
+          "label": "जनसंख्या",
           "value": {
             "label": "4,960,350 (2019 अनुमान)"
           }
         },
         {
-          "label": "Other names",
+          "label": "अन्य नाम",
           "value": {
             "label": "एटोरिया"
           }
         },
         {
-          "label": "Capital city",
+          "label": "राजधानी",
           "value": {
             "label": "वेलिंगटन"
           }
         },
         {
-          "label": "Largest city",
+          "label": "सबसे बड़ा शहर",
           "value": {
             "label": "ऑकलैंड"
           }
         },
         {
-          "label": "Timezone",
+          "label": "समय क्षेत्र",
           "value": {
             "label": "UTC+12 (UTC+13, ग्रीष्म)"
           }
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "title": "History",
+      "title": "इतिहास",
       "cardType": "vertical_timeline",
       "facts": [
         {
@@ -112,12 +112,12 @@
       ]
     },
     {
-      "title": "Government",
+      "title": "सरकार",
       "cardType": "avatar",
       "label": "न्यूजीलैंड की संसद में विधायी शक्ति है और इसमें महारानी और प्रतिनिधि सभा शामिल हैं। प्रतिनिधि सभा लोकतांत्रिक रूप से चुनी जाती है और बहुमत से सीटों के साथ पार्टी या गठबंधन से सरकार बनाई जाती है।",
       "facts": [
         {
-          "label": "Prime minister name",
+          "label": "प्रधान मंत्री",
           "value": {
             "label": "जैकिंडा अर्डर्न",
             "image": {
@@ -128,7 +128,7 @@
           }
         },
         {
-          "label": "Chief Justice name",
+          "label": "मुख्य न्यायाधीश",
           "value": {
             "label": "डेम हेलेन विंकेलमैन",
             "image": {
@@ -141,12 +141,12 @@
       ]
     },
     {
-      "title": "In Sports",
+      "title": "खेलों में",
       "cardType": "avatar",
       "label": "",
       "facts": [
         {
-          "label": "Team",
+          "label": "टीम",
           "value": {
             "label": "न्यूजीलैंड की राष्ट्रीय क्रिकेट टीम",
             "url": "/read/hi/new_zealand_national_cricket_team",
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "title": "Geography",
+      "title": "भूगोल",
       "id": "new_zealand_geography",
       "cardType": "simple",
       "facts": [
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "title": "Culture",
+      "title": "संस्कृति",
       "cardType": "stories",
       "facts": [
         {
@@ -217,19 +217,19 @@
       ]
     },
     {
-      "title": "Demographics",
+      "title": "जनसांख्यिकी",
       "cardType": "bar_chart_with_info",
       "facts": [
         {
           "id": "section_languages_new_zealand",
-          "label": "Languages",
+          "label": "भाषा",
           "value": {
             "label": "अंग्रेजी, माओरी, सामोन, हिंदी"
           }
         },
         {
           "id": "religion_section_new_zealand",
-          "label": "Religions",
+          "label": "धर्म",
           "value": {
             "facts": [
               {

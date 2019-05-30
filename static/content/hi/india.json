@@ -20,7 +20,7 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इसके बारे में",
       "cardType": "table",
       "facts": [
         {
@@ -36,31 +36,31 @@
           }
         },
         {
-          "label": "Total Area of country (km squared)",
+          "label": "कुल क्षेत्रफल",
           "value": {
             "label": "3287263 वर्ग किमी"
           }
         },
         {
-          "label": "Population",
+          "label": "जनसंख्या",
           "value": {
             "label": "1324171354 (2016 अनुमान)"
           }
         },
         {
-          "label": "Capital city",
+          "label": "राजधानी",
           "value": {
             "label": "नई दिल्ली"
           }
         },
         {
-          "label": "Largest city",
+          "label": "सबसे बड़ा शहर",
           "value": {
             "label": "मुंबई"
           }
         },
         {
-          "label": "Timezone",
+          "label": "समय क्षेत्र",
           "value": {
             "label": "UTC +05:30"
           }
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "title": "History",
+      "title": "इतिहास",
       "cardType": "vertical_timeline",
       "facts": [
         {
@@ -106,12 +106,12 @@
       ]
     },
     {
-      "title": "Government",
+      "title": "सरकार",
       "cardType": "avatar",
       "label": "भारत में एक संसदीय गणतंत्र एक बहुदलीय प्रणाली है।",
       "facts": [
         {
-          "label": "Prime minister name",
+          "label": "प्रधान मंत्री",
           "value": {
             "label": "नरेंद्र मोदी",
             "image": {
@@ -122,7 +122,7 @@
           }
         },
         {
-          "label": "President",
+          "label": "राष्ट्रपति",
           "value": {
             "label": "रामनाथ कोविन्द ",
             "image": {
@@ -132,7 +132,7 @@
           }
         },
         {
-          "label": "Chief Justice name",
+          "label": "मुख्य न्यायाधीश",
           "value": {
             "label": "रंजन गोगोई ",
             "image": {
@@ -144,12 +144,12 @@
       ]
     },
     {
-      "title": "In Sports",
+      "title": "खेलों में",
       "cardType": "avatar",
       "label": "",
       "facts": [
         {
-          "label": "Team",
+          "label": "टीम",
           "value": {
             "label": "भारत की राष्ट्रीय क्रिकेट टीम",
             "url": "/read/hi/india_national_cricket_team",
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "title": "Geography",
+      "title": "भूगोल",
       "id": "india_geography",
       "cardType": "simple",
       "facts": [
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "title": "Culture",
+      "title": "संस्कृति",
       "cardType": "stories",
       "facts": [
         {
@@ -231,19 +231,19 @@
       ]
     },
     {
-      "title": "Demographics",
+      "title": "जनसांख्यिकी",
       "cardType": "bar_chart_with_info",
       "facts": [
         {
           "id": "section_languages_india",
-          "label": "Languages",
+          "label": "भाषा",
           "value": {
             "label": "हिंदी, अंग्रेजी, असमिया, बंगाली, बोडो, डोगरी, गुजराती, कन्नड़, कश्मीरी, कोकबोरोक, कोंकणी, मैथिली, मलयालम, मणिपुरी, मराठी, मिजो, नेपाली, ओडिया, पंजाबी, संस्कृत, संताली, सिंधी, तमिल, तेलुगु, उर्दू"
           }
         },
         {
           "id": "religion_section_india",
-          "label": "Religions",
+          "label": "धर्म",
           "value": {
             "facts": [
               {

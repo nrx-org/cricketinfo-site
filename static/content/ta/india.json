@@ -20,7 +20,7 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "தெரிந்து கொள்ளுங்கள்",
       "cardType": "table",
       "facts": [
         {
@@ -36,31 +36,31 @@
           }
         },
         {
-          "label": "Total Area of country (km squared)",
+          "label": "மொத்த பரப்பு",
           "value": {
             "label": "3287263 சதுர கிமீ"
           }
         },
         {
-          "label": "Population",
+          "label": "மக்கள் தொகை",
           "value": {
             "label": "1324171354 (2016 மதிப்பீட்டின் படி)"
           }
         },
         {
-          "label": "Capital city",
+          "label": "தலைநகரம்",
           "value": {
             "label": "புது தில்லி"
           }
         },
         {
-          "label": "Largest city",
+          "label": "பெரிய நகரம்",
           "value": {
             "label": "மும்பை"
           }
         },
         {
-          "label": "Timezone",
+          "label": "நேரம்(கள்)",
           "value": {
             "label": "UTC +05:30"
           }
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "title": "History",
+      "title": "வரலாறு",
       "cardType": "vertical_timeline",
       "facts": [
         {
@@ -106,12 +106,12 @@
       ]
     },
     {
-      "title": "Government",
+      "title": "அரசாங்கம்",
       "cardType": "avatar",
       "label": "இந்தியா பல கட்சி அமைப்புடன் பாராளுமன்ற மக்களாட்சியை கடைப்பிடித்து வருகிறது.",
       "facts": [
         {
-          "label": "Prime minister name",
+          "label": "பிரதமர்",
           "value": {
             "label": "நரேந்திர மோடி",
             "image": {
@@ -122,7 +122,7 @@
           }
         },
         {
-          "label": "President",
+          "label": "குடியரசுத் தலைவர்",
           "value": {
             "label": "ராம் நாத் கோவிந்த்",
             "image": {
@@ -132,7 +132,7 @@
           }
         },
         {
-          "label": "Chief Justice name",
+          "label": "தலைமை நீதிபதி",
           "value": {
             "label": "ரஞ்சன் கோகோய்",
             "image": {
@@ -144,12 +144,12 @@
       ]
     },
     {
-      "title": "In Sports",
+      "title": "விளையாட்டுத் துறையில் இவரின் பங்கு",
       "cardType": "avatar",
       "label": "",
       "facts": [
         {
-          "label": "Team",
+          "label": "அணி",
           "value": {
             "label": "இந்திய தேசிய கிரிக்கெட் அணி",
             "url": "/read/ta/india_national_cricket_team",
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "title": "Geography",
+      "title": "புவியியல்",
       "id": "india_geography",
       "cardType": "simple",
       "facts": [
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "title": "Culture",
+      "title": "கலாச்சாரம்",
       "cardType": "stories",
       "facts": [
         {
@@ -231,12 +231,12 @@
       ]
     },
     {
-      "title": "Demographics",
+      "title": "மக்கள் விகிதாச்சாரம்",
       "cardType": "bar_chart_with_info",
       "facts": [
         {
           "id": "section_languages_india",
-          "label": "Languages",
+          "label": "மொழிகள்",
           "value": {
             "label": "ஹிந்தி, ஆங்கிலம், அசாமிஸ், பெங்காலி, போடோ, டோக்ரி, குஜராத்தி, கன்னடம், காஷ்மீரி, கோக்ரோபோக், கொங்கனி, மைதிலி, மலையாளம், மணிப்பூரி, மராத்தி, மிஸ்ஸோ, நேபாளி, ஓடியா, பஞ்சாபி, சமஸ்கிருதம், சன்டாலி, சிந்தி, தமிழ், தெலுங்கு, உருது"
           }

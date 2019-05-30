@@ -216,3 +216,106 @@ module.exports.personalityUiStrings = {
     ta: "விருதுகள் & கௌரவங்கள்"
   }
 };
+
+module.exports.placesUiStrings = {
+  "Total Area of country (km squared)": {
+    en: "Total Area",
+    hi: "कुल क्षेत्रफल",
+    ta: "மொத்த பரப்பு"
+  },
+  Population: {
+    en: "Population",
+    hi: "जनसंख्या",
+    ta: "மக்கள் தொகை"
+  },
+  "Other names": {
+    en: "Other names",
+    hi: "अन्य नाम",
+    ta: "வேறு பெயர்கள்"
+  },
+  "Capital city": {
+    en: "Capital",
+    hi: "राजधानी",
+    ta: "தலைநகரம்"
+  },
+  "Largest city": {
+    en: "Largest City",
+    hi: "सबसे बड़ा शहर",
+    ta: "பெரிய நகரம்"
+  },
+  Timezone: {
+    en: "Timezone(s)",
+    hi: "समय क्षेत्र",
+    ta: "நேரம்(கள்)"
+  },
+  about: {
+    en: "About",
+    hi: "इसके बारे में",
+    ta: "தெரிந்து கொள்ளுங்கள்"
+  },
+  history: {
+    en: "History",
+    hi: "इतिहास",
+    ta: "வரலாறு"
+  },
+  "Prime minister name": {
+    en: "Prime Minister",
+    hi: "प्रधान मंत्री",
+    ta: "பிரதமர்"
+  },
+  President: {
+    en: "President",
+    hi: "राष्ट्रपति",
+    ta: "குடியரசுத் தலைவர்"
+  },
+  "Chief Justice name": {
+    en: "Chief Justice",
+    hi: "मुख्य न्यायाधीश",
+    ta: "தலைமை நீதிபதி"
+  },
+  government: {
+    en: "Government",
+    hi: "सरकार",
+    ta: "அரசாங்கம்"
+  },
+  player: {
+    en: "Player",
+    hi: "खिलाड़ी",
+    ta: "விளையாட்டு வீரர்"
+  },
+  team: {
+    en: "Team",
+    hi: "टीम",
+    ta: "அணி"
+  },
+  inSports: {
+    en: "In Sports",
+    hi: "खेलों में",
+    ta: "விளையாட்டுத் துறையில் இவரின் பங்கு"
+  },
+  geography: {
+    en: "Geography",
+    hi: "भूगोल",
+    ta: "புவியியல்"
+  },
+  culture: {
+    en: "Culture",
+    hi: "संस्कृति",
+    ta: "கலாச்சாரம்"
+  },
+  demographics: {
+    en: "Demographics",
+    hi: "जनसांख्यिकी",
+    ta: "மக்கள் விகிதாச்சாரம்"
+  },
+  languages: {
+    en: "Languages",
+    hi: "भाषा",
+    ta: "மொழிகள்"
+  },
+  religions: {
+    en: "Religions",
+    hi: "धर्म",
+    ta: "மதங்கள்"
+  }
+};
