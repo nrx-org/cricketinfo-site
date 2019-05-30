@@ -3,7 +3,7 @@
   "summary": "The 1999 Cricket World Cup was the seventh edition of the Cricket World Cup, organised by the International Cricket Council (ICC). It was hosted primarily by England, with some games being played in Scotland, Ireland, Wales and the Netherlands.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/1999_Cricket_World_Cup",
   "coverImage": {
-    "url": "/static/images/1999_cricket_world_cup/Wc99.png",
+    "url": "/static/images/master/Wc99.png",
     "altText": "Image of 1999 Cricket World Cup"
   },
   "translations": [
@@ -76,7 +76,7 @@
                 "value": {
                   "label": "England is a country that is part of the United Kingdom. It shares land borders with Wales to the west and Scotland to the north-northwest.",
                   "image": {
-                    "url": "/static/images/1999_cricket_world_cup/Flag_of_England.svg",
+                    "url": "/static/images/master/Flag_of_England.svg",
                     "altText": "England"
                   }
                 }
@@ -142,7 +142,7 @@
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
-                    "url": "/static/images/1999_cricket_world_cup/Australia_cricket_logo.svg",
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
                     "altText": "Picture of Australia Cricket team"
                   }
                 }
@@ -163,7 +163,7 @@
                 "value": {
                   "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
                   "image": {
-                    "url": "/static/images/1999_cricket_world_cup/PakistanCricketLogo.png",
+                    "url": "/static/images/master/PakistanCricketLogo.png",
                     "altText": "Picture of Australia Cricket team"
                   }
                 }

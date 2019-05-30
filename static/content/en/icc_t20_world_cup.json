@@ -3,7 +3,7 @@
   "summary": "The ICC T20 World Cup (earlier known as ICC World Twenty20) is the international championship of Twenty20 International cricket. The tournament currently consists of 16 teams, comprising the top eight teams from the rankings at the given deadline and four other teams chosen through the T20 World Cup Qualifier. ",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/ICC_T20_World_Cup",
   "coverImage": {
-    "url": "/static/images/icc_t20_world_cup/ICC_World_Twenty20_Trophy.jpg",
+    "url": "/static/images/master/ICC_World_Twenty20_Trophy.jpg",
     "altText": "Image of ICC T20 World Cup"
   },
   "translations": [
@@ -92,7 +92,7 @@
                 "value": {
                   "label": "South Africa, officially the Republic of South Africa (RSA), is the southernmost country in Africa. It is bounded to the south by 2,798 kilometres of coastline of Southern Africa stretching along the South Atlantic and Indian Oceans.",
                   "image": {
-                    "url": "/static/images/icc_t20_world_cup/MapungubweHill.jpg",
+                    "url": "/static/images/master/MapungubweHill.jpg",
                     "altText": "Image of South Africa"
                   }
                 }
@@ -121,7 +121,7 @@
           "value": {
             "label": "Mahela Jayawardene, Pakistan",
             "image": {
-              "url": "/static/images/icc_t20_world_cup/Shahid_Afridi_in_2017.jpg",
+              "url": "/static/images/master/Shahid_Afridi_in_2017.jpg",
               "altText": "Picture of Mahela Jayawardene"
             }
           }
