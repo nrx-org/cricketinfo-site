@@ -1,6 +1,5 @@
 import React from "react";
 import PropTypes from "prop-types";
-import slugify from "slugify";
 
 import { imagePropTypes } from "../lib/prop_types";
 import { articleUrl } from "../lib/urls";
@@ -43,13 +42,15 @@ const ArticleSummaryModalInternal = ({
   onCloseClick,
   error,
   onRetry,
-  lang
+  lang,
+  articleSlug
 }) => {
   if (error) {
     const message =
       error === ERROR_NOT_FOUND
         ? NOT_FOUND_TEXT[lang]
         : NETWORK_ERROR_TEXT[lang];
+
     return (
       <div className="wcp-article-summary-modal__error">
         <p>{message}</p>
@@ -96,13 +97,15 @@ const ArticleSummaryModalInternal = ({
       <div className="wcp-article-summary-modal__content">
         <h1 className="wcp-article-summary-modal__title">{article.title}</h1>
         <p className="wcp-article-summary-modal__summary">{article.summary}</p>
-        <Button
-          className="wcp-article-summary-modal__button-read-article"
-          isInverted
-          href={articleUrl(slugify(article.id, "_"), lang)}
-        >
-          {READ_THIS_TEXT[lang]}
-        </Button>
+        {article.sections && article.sections.length > 0 ? (
+          <Button
+            className="wcp-article-summary-modal__button-read-article"
+            isInverted
+            href={articleUrl(articleSlug, lang)}
+          >
+            {READ_THIS_TEXT[lang]}
+          </Button>
+        ) : null}
       </div>
     </div>
   );
@@ -120,6 +123,7 @@ ArticleSummaryModalInternal.propTypes = {
     summary: PropTypes.string.isRequired,
     coverImage: imagePropTypes
   }),
+  articleSlug: PropTypes.string.isRequired,
   onCloseClick: PropTypes.func.isRequired,
   error: PropTypes.string,
   onRetry: PropTypes.func.isRequired,

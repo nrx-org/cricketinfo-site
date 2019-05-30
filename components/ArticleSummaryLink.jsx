@@ -10,6 +10,7 @@ const ArticleSummaryLink = ({ href, className, children, styles }) => {
     .filter(item => item)
     .slice(-1)
     .pop();
+
   return (
     <ModalContextConsumer>
       {({ openModal }) => (
