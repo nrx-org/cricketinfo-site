@@ -4,69 +4,7 @@ import PropTypes from "prop-types";
 import { Button } from "./Button";
 import { Icon } from "./Icon";
 import { getAbsoluteArticleUrl, getPdfShareUrl } from "../lib/urls";
-
-const GET_UPDATES_MESSAGE = {
-  en: "Get updates on WhatsApp",
-  hi: "व्हाट्सएप पर अपडेट पाएं",
-  ta: "TODO"
-};
-
-const CONFIRM_SUBSCRIPTION_MESSAGE = {
-  en: "Do you want similar fun and engaging information on WhatsApp?",
-  hi:
-    "क्या आप व्हाट्सएप पर इसी तरह की रोचक और मनोरंजक जानकारी प्राप्त करना चाहते हैं?",
-  ta: "TODO"
-};
-
-const BUTTON_MESSAGE_YES = {
-  en: "Yes, I'm interested",
-  hi: "हाँ",
-  ta: "TODO"
-};
-
-const BUTTON_MESSAGE_NO = {
-  en: "No",
-  hi: "नहीं",
-  ta: "TODO"
-};
-
-const ENTER_NUMBER_MESSAGE = {
-  en:
-    "Enter your WhatsApp number below to start receiving interesting articles on your WhatsApp.",
-  hi: "TODO",
-  ta: "TODO"
-};
-
-const ENTER_NUMBER_INPUT_PLACEHOLDER_MESSAGE = {
-  en: "Enter WhatsApp number",
-  hi: "TODO",
-  ta: "TODO"
-};
-
-const BUTTON_MESSAGE_SUBSCRIBE = {
-  en: "Subscribe to updates",
-  hi: "TODO",
-  ta: "TODO"
-};
-
-const BUTTON_MESSAGE_CLOSE = {
-  en: "Close",
-  hi: "TODO",
-  ta: "TODO"
-};
-
-const BUTTON_MESSAGE_DOWNLOAD_PDF = {
-  en: "Download PDF",
-  hi: "TODO",
-  ta: "TODO"
-};
-
-const ERROR_SUBSCRIBING_MESSAGE = {
-  en:
-    "There was an error while subscribing you to WhatsApp updates. Please try again.",
-  hi: "TODO",
-  ta: "TODO"
-};
+import { articleUiStrings, commonUiStrings } from "../lib/ui_strings";
 
 const STEP_CONFIRM = "STEP_CONFIRM";
 const STEP_INPUT_NUMBER = "STEP_INPUT_NUMBER";
@@ -112,19 +50,19 @@ export class WhatsAppSubscribeModal extends Component {
       <section className="wcp-whatsapp-subscribe-modal">
         <div className="wcp-whatsapp-subscribe-modal__header">
           <Icon size="xl" altText="WhatsApp logo" name="whatsapp" />
-          <h1>{GET_UPDATES_MESSAGE[lang]}</h1>
+          <h1>{articleUiStrings.getUpdatesOnWhatsApp[lang]}</h1>
         </div>
         {currentStep === STEP_CONFIRM ? (
           <>
             <p className="wcp-whatsapp-subscribe-modal__body-text">
-              {CONFIRM_SUBSCRIPTION_MESSAGE[lang]}
+              {articleUiStrings.confirmSubscription[lang]}
             </p>
             <div className="wcp-whatsapp-subscribe-modal__button-container">
               <Button onClick={this.onAgreeClick}>
-                {BUTTON_MESSAGE_YES[lang]}
+                {articleUiStrings.yesImInterested[lang]}
               </Button>
               <Button isInverted onClick={close}>
-                {BUTTON_MESSAGE_NO[lang]}
+                {commonUiStrings.no[lang]}
               </Button>
             </div>
           </>
@@ -132,16 +70,16 @@ export class WhatsAppSubscribeModal extends Component {
         {currentStep === STEP_INPUT_NUMBER ? (
           <>
             <p className="wcp-whatsapp-subscribe-modal__body-text">
-              {ENTER_NUMBER_MESSAGE[lang]}
+              {articleUiStrings.enterNumber[lang]}
             </p>
             <div className="wcp-whatsapp-subscribe-modal__button-container">
               <input
-                placeholder={ENTER_NUMBER_INPUT_PLACEHOLDER_MESSAGE[lang]}
+                placeholder={articleUiStrings.enterNumberInput[lang]}
                 className="wcp-whatsapp-subscribe-modal__input"
                 type="text"
               />
               <Button onClick={this.onSubmitNumber}>
-                {BUTTON_MESSAGE_SUBSCRIBE[lang]}
+                {articleUiStrings.subscribeToUpdates[lang]}
               </Button>
             </div>
           </>
@@ -149,16 +87,16 @@ export class WhatsAppSubscribeModal extends Component {
         {currentStep === STEP_DOWNLOAD_PDF ? (
           <>
             <p className="wcp-whatsapp-subscribe-modal__body-text">
-              {ERROR_SUBSCRIBING_MESSAGE[lang]}
+              {articleUiStrings.whatsAppSubscribeError[lang]}
             </p>
             <div className="wcp-whatsapp-subscribe-modal__button-container">
               <Button
                 href={getPdfShareUrl(getAbsoluteArticleUrl(articleId, lang))}
               >
-                {BUTTON_MESSAGE_DOWNLOAD_PDF[lang]}
+                {articleUiStrings.downloadPdf[lang]}
               </Button>
               <Button isInverted onClick={close}>
-                {BUTTON_MESSAGE_CLOSE[lang]}
+                {commonUiStrings.close[lang]}
               </Button>
             </div>
           </>
