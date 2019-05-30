@@ -10,38 +10,23 @@ import { TEAMS_LIST_MODAL_ID } from "../lib/modal_ids";
 import { TinyCardsListModalContainer } from "./TinyCardsListModalContainer";
 import { LargeSectionTitle } from "./LargeSectionTitle";
 import { todayString } from "../lib/date";
-
-const TEAMS_TO_WATCH_MESSAGE = {
-  en: "Playing teams",
-  hi: "आज खेलने वाली टीमें",
-  ta: "TODO"
-};
-
-const SEE_ALL_MESSAGE = {
-  en: "See all participating teams",
-  hi: "सभी भाग लेने वाली टीमें देखें",
-  ta: "TODO"
-};
-
-const ALL_TEAMS_MESSAGE = {
-  en: "All Participating Teams",
-  hi: "दिलचस्प टीमें",
-  ta: "TODO"
-};
+import { homeUiStrings } from "../lib/ui_strings";
 
 export const PlayingTeams = ({ teams, allTeams }) => {
   const dateString = todayString();
   let teamsForToday = teams.filter(f => f.dates.indexOf(dateString) > -1);
 
-  if(teamsForToday.length === 0) {
-    teamsForToday = teams.filter(f => f.dates.indexOf('2019-05-31') > -1);
+  if (teamsForToday.length === 0) {
+    teamsForToday = teams.filter(f => f.dates.indexOf("2019-05-31") > -1);
   }
-  
+
   return (
     <LanguageContext.Consumer>
       {lang => (
         <section className="wcp-playing-teams">
-          <LargeSectionTitle>{TEAMS_TO_WATCH_MESSAGE[lang]}</LargeSectionTitle>
+          <LargeSectionTitle>
+            {homeUiStrings.playingTeams[lang]}
+          </LargeSectionTitle>
           <CoverCardCarousel cards={teamsForToday} />
           <ModalContextConsumer>
             {({
@@ -57,11 +42,11 @@ export const PlayingTeams = ({ teams, allTeams }) => {
                   onClick={() =>
                     openModal(TEAMS_LIST_MODAL_ID, {
                       items: allTeams,
-                      title: ALL_TEAMS_MESSAGE[lang]
+                      title: homeUiStrings.allParticipatingTeams[lang]
                     })
                   }
                 >
-                  {SEE_ALL_MESSAGE[lang]}
+                  {homeUiStrings.seeAllParticipatingTeams[lang]}
                 </Button>
                 <TinyCardsListModalContainer
                   registerModal={registerModal}

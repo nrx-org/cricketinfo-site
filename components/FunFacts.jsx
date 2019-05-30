@@ -5,12 +5,7 @@ import { factPropTypes } from "../lib/prop_types";
 import { LargeCardCarousel } from "./LargeCardCarousel";
 import { LargeSectionTitle } from "./LargeSectionTitle";
 import { todayString } from "../lib/date";
-
-const SECTION_TITLE_MESSAGE = {
-  en: "Fun facts",
-  hi: "दिलचस्प तथ्य",
-  ta: "TODO"
-};
+import { homeUiStrings } from "../lib/ui_strings";
 
 export const FunFacts = ({ scheduled, constant }) => {
   const dateString = todayString();
@@ -29,7 +24,7 @@ export const FunFacts = ({ scheduled, constant }) => {
     <LanguageContext.Consumer>
       {lang => (
         <section>
-          <LargeSectionTitle>{SECTION_TITLE_MESSAGE[lang]}</LargeSectionTitle>
+          <LargeSectionTitle>{homeUiStrings.funFacts[lang]}</LargeSectionTitle>
           <LargeCardCarousel cards={facts} />
         </section>
       )}

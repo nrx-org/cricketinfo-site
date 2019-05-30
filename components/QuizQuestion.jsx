@@ -6,22 +6,7 @@ import PropTypes from "prop-types";
 import { LanguageContextConsumer } from "../language_context";
 import { TinyCard } from "./TinyCard";
 import { quizQuestionPropType } from "../lib/prop_types";
-
-const CORRECT_ANSWER_MESSAGE = {
-  en: "Correct answer! Learn more:",
-  hi: "सही जवाब! और जानें:",
-  ta: "TODO"
-};
-
-const INCORRECT_ANSWER_MESSAGE = (lang, answerIndex) => {
-  const answerLetter = ["A", "B"][answerIndex];
-
-  return {
-    en: `Wrong answer! The correct answer is option ${answerLetter}. Learn more:`,
-    hi: `गलत जवाब! सही जवाब है विकल्प ${answerLetter}। और जानें:`,
-    ta: "TODO"
-  }[lang];
-};
+import { homeUiStrings } from "../lib/ui_strings";
 
 export class QuizQuestion extends Component {
   constructor(props) {
@@ -94,10 +79,10 @@ export class QuizQuestion extends Component {
 
             <div>
               {isAnswered && isAnsweredCorrectly ? (
-                <p>{CORRECT_ANSWER_MESSAGE[lang]}</p>
+                <p>{homeUiStrings.correctAnswer[lang]}</p>
               ) : null}
               {isAnswered && !isAnsweredCorrectly ? (
-                <p>{INCORRECT_ANSWER_MESSAGE(lang, question.answerIndex)}</p>
+                <p>{homeUiStrings.wrongAnswer[lang](question.answerIndex)}</p>
               ) : null}
               {isAnswered ? (
                 <TinyCard

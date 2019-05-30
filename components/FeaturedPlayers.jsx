@@ -9,18 +9,7 @@ import { factPropTypes } from "../lib/prop_types";
 import { TEAMS_LIST_MODAL_ID } from "../lib/modal_ids";
 import { ModalContextConsumer } from "./ModalContext";
 import { TinyCardsListModalContainer } from "./TinyCardsListModalContainer";
-
-const SECTION_TITLE_MESSAGE = {
-  en: "Players to look out for",
-  hi: "दिलचस्प खिलाड़ी",
-  ta: "TODO"
-};
-
-const SEE_ALL_MESSAGE = {
-  en: "See all players",
-  hi: "सभी खिलाड़ी देखें",
-  ta: "TODO"
-};
+import { homeUiStrings } from "../lib/ui_strings";
 
 export const FeaturedPlayers = ({ scheduled, constant, all }) => {
   const dateString = todayString();
@@ -40,7 +29,9 @@ export const FeaturedPlayers = ({ scheduled, constant, all }) => {
     <LanguageContextConsumer>
       {lang => (
         <section className="wcp-featured-players">
-          <LargeSectionTitle>{SECTION_TITLE_MESSAGE[lang]}</LargeSectionTitle>
+          <LargeSectionTitle>
+            {homeUiStrings.playersToLookOutFor[lang]}
+          </LargeSectionTitle>
           <AvatarCarousel cards={players} />
           <ModalContextConsumer>
             {({
@@ -58,11 +49,11 @@ export const FeaturedPlayers = ({ scheduled, constant, all }) => {
                   onClick={() =>
                     openModal(TEAMS_LIST_MODAL_ID, {
                       items: all,
-                      title: SECTION_TITLE_MESSAGE[lang]
+                      title: homeUiStrings.playersToLookOutFor[lang]
                     })
                   }
                 >
-                  {SEE_ALL_MESSAGE[lang]}
+                  {homeUiStrings.seeAllPlayers[lang]}
                 </Button>
                 <TinyCardsListModalContainer
                   registerModal={registerModal}
