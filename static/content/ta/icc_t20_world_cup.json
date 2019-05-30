@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "தெரிந்து கொள்ளுங்கள்",
       "cardType": "table",
       "facts": [
         {
-          "label": "First edition Year",
+          "label": "முதல் பதிப்பு",
           "value": {
             "label": "2007"
           }
         },
         {
-          "label": "Format of the tournament",
+          "label": "வடிவம்",
           "value": {
-            "label": "Format of the tournament"
+            "label": "ப்ரிலிமினரி ரவுண்ட் சூப்பர் 10/12 பிளே-ஆஃப்ஸ்"
           }
         },
         {
-          "label": "Current champions",
+          "label": "தற்போதைய சாம்பியன்",
           "value": {
             "label": "வெஸ்ட் இண்டீஸ் (2வது டைட்டில்)",
             "url": "/read/ta/west_indies_cricket_team",
@@ -44,13 +44,13 @@
           }
         },
         {
-          "label": "Most successful Team",
+          "label": "மிகவும் வெற்றிகரமான அணி",
           "value": {
             "label": "வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி"
           }
         },
         {
-          "label": "No of Teams",
+          "label": "அணிகளின் எண்ணிக்கை",
           "value": {}
         }
       ]
@@ -112,11 +112,11 @@
       ]
     },
     {
-      "title": "Statistics",
+      "title": "புள்ளியியல்",
       "cardType": "stories",
       "facts": [
         {
-          "label": "Most Runs scored- Name of the player",
+          "label": "அதிக ரன் எடுத்தவர்",
           "id": "most_runs_scored-_name_of_the_player",
           "value": {
             "label": "மகேல ஜெயவர்தனெ, பாகிஸ்தான்",

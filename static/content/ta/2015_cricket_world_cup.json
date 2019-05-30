@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "தெரிந்து கொள்ளுங்கள்",
       "cardType": "table",
       "facts": [
         {
-          "label": "Dates",
+          "label": "தேதிகள்",
           "value": {
             "label": "14 February–29 March"
           }
         },
         {
-          "label": "Format",
+          "label": "வடிவம்",
           "value": {
-            "label": "Format"
+            "label": "ஒன் டே இன்டர்நேஷனல்"
           }
         },
         {
-          "label": "Champion",
+          "label": "சாம்பியன்ஸ்",
           "value": {
             "label": "இந்தியா (2வது டைட்டில்)",
             "url": "/read/ta/australia_cricket_team",
@@ -44,7 +44,7 @@
           }
         },
         {
-          "label": "Runners Up",
+          "label": "இரண்டாம் இடம் பெற்ற அணி",
           "value": {
             "label": "நியூசிலாந்து",
             "url": "/read/ta/new_zealand_national_cricket_team",
@@ -52,7 +52,7 @@
           }
         },
         {
-          "label": "No of Teams",
+          "label": "அணிகளின் எண்ணிக்கை",
           "value": {
             "label": "14"
           }
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "title": "Hosts",
+      "title": "நிகழ்ச்சி நடத்துனர்கள்",
       "cardType": "list_card",
       "facts": [
         {
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "title": "Statistics",
+      "title": "புள்ளியியல்",
       "cardType": "stories",
       "facts": [
         {
-          "label": "Man of the series",
+          "label": "தொடர் நாயகன்",
           "id": "man_of_the_series",
           "value": {
             "label": "மிட்செல் ஸ்டார்க், நியூசிலாந்து",
@@ -115,7 +115,7 @@
           }
         },
         {
-          "label": "Most runs scored/ Orange cap",
+          "label": "அதிக ரன் எடுத்தவர்",
           "id": "most_runs_scored/_orange_cap",
           "value": {
             "label": "மார்ட்டின் குப்தில், நியூசிலாந்து",
@@ -126,7 +126,7 @@
           }
         },
         {
-          "label": "Most wickets taken/ purple cap",
+          "label": "அதிக விக்கெட் எடுத்தவர்",
           "id": "most_wickets_taken/_purple_cap",
           "value": {
             "label": "மிட்செல் ஸ்டார்க், டிரென்ட் போல்ட், நியூசிலாந்து",
@@ -143,7 +143,7 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Champion",
+          "label": "சாம்பியன்ஸ்",
           "id": "final-positions-champion",
           "value": {
             "label": "",
@@ -164,7 +164,7 @@
           }
         },
         {
-          "label": "Runner-up",
+          "label": "இரண்டாம் இடம் பெற்ற அணி",
           "id": "final-positions-runner-up",
           "value": {
             "label": "",

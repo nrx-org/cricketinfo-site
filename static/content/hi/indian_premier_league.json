@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इसके बारे में",
       "cardType": "table",
       "facts": [
         {
-          "label": "First edition Year",
+          "label": "पहला संस्करण",
           "value": {
             "label": "2008"
           }
         },
         {
-          "label": "Format of the tournament",
+          "label": "स्वरूप",
           "value": {
-            "label": "Format of the tournament"
+            "label": "टी-20"
           }
         },
         {
-          "label": "Current champions",
+          "label": "वर्तमान विजेता",
           "value": {
             "label": "चेन्नई सुपर किंग्स (तीसरा खिताब)",
             "url": "/read/hi/chennai_super_kings",
@@ -44,19 +44,19 @@
           }
         },
         {
-          "label": "Most successful Team",
+          "label": "सबसे सफल",
           "value": {
             "label": "चेन्नई सुपर किंग्स, मुंबई इंडियंस"
           }
         },
         {
-          "label": "No of Teams",
+          "label": "टीमों की संख्या",
           "value": {}
         }
       ]
     },
     {
-      "title": "Events",
+      "title": "घटनाएं",
       "cardType": "vertical_timeline",
       "facts": [
         {
@@ -90,11 +90,11 @@
       ]
     },
     {
-      "title": "Statistics",
+      "title": "आंकड़े",
       "cardType": "stories",
       "facts": [
         {
-          "label": "Most Runs scored- Name of the player",
+          "label": "सबसे ज्यादा रन",
           "id": "most_runs_scored-_name_of_the_player",
           "value": {
             "label": "विराट कोहली, श्रीलंका",

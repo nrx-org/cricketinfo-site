@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इसके बारे में",
       "cardType": "table",
       "facts": [
         {
-          "label": "Dates",
+          "label": "तिथियां",
           "value": {
             "label": "19 February–2 April"
           }
         },
         {
-          "label": "Format",
+          "label": "स्वरूप",
           "value": {
-            "label": "Format"
+            "label": "वन डे इंटरनेशनल"
           }
         },
         {
-          "label": "Champion",
+          "label": "विजेता",
           "value": {
             "label": "भारत (दूसरा खिताब)",
             "url": "/read/hi/india_national_cricket_team",
@@ -44,7 +44,7 @@
           }
         },
         {
-          "label": "Runners Up",
+          "label": "उपविजेता",
           "value": {
             "label": "श्रीलंका",
             "url": "/read/hi/sri_lanka_national_cricket_team",
@@ -52,7 +52,7 @@
           }
         },
         {
-          "label": "No of Teams",
+          "label": "टीमों की संख्या",
           "value": {
             "label": "14"
           }
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "title": "Hosts",
+      "title": "मेजबान",
       "cardType": "list_card",
       "facts": [
         {
@@ -99,11 +99,11 @@
       ]
     },
     {
-      "title": "Statistics",
+      "title": "आंकड़े",
       "cardType": "stories",
       "facts": [
         {
-          "label": "Man of the series",
+          "label": "मैन ऑफ द सीरीज",
           "id": "man_of_the_series",
           "value": {
             "label": "युवराज सिंह, भारत, पाकिस्तान",
@@ -114,7 +114,7 @@
           }
         },
         {
-          "label": "Most runs scored/ Orange cap",
+          "label": "सबसे ज्यादा रन",
           "id": "most_runs_scored/_orange_cap",
           "value": {
             "label": "तिलकरत्ने दिलशान, भारत, पाकिस्तान",
@@ -125,7 +125,7 @@
           }
         },
         {
-          "label": "Most wickets taken/ purple cap",
+          "label": "सबसे ज्यादा विकेट",
           "id": "most_wickets_taken/_purple_cap",
           "value": {
             "label": "जहीर खान, शाहिद अफरीदी, भारत, पाकिस्तान",
@@ -142,7 +142,7 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Champion",
+          "label": "विजेता",
           "id": "final-positions-champion",
           "value": {
             "label": "",
@@ -163,7 +163,7 @@
           }
         },
         {
-          "label": "Runner-up",
+          "label": "उपविजेता",
           "id": "final-positions-runner-up",
           "value": {
             "label": "",

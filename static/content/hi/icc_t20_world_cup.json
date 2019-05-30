@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इसके बारे में",
       "cardType": "table",
       "facts": [
         {
-          "label": "First edition Year",
+          "label": "पहला संस्करण",
           "value": {
             "label": "2007"
           }
         },
         {
-          "label": "Format of the tournament",
+          "label": "स्वरूप",
           "value": {
-            "label": "Format of the tournament"
+            "label": "प्रारंभिक दौर सुपर 10/12 प्ले-ऑफ"
           }
         },
         {
-          "label": "Current champions",
+          "label": "वर्तमान विजेता",
           "value": {
             "label": "वेस्टइंडीज (दूसरा खिताब)",
             "url": "/read/hi/west_indies_cricket_team",
@@ -44,19 +44,19 @@
           }
         },
         {
-          "label": "Most successful Team",
+          "label": "सबसे सफल",
           "value": {
             "label": "वेस्टइंडीज क्रिकेट टीम"
           }
         },
         {
-          "label": "No of Teams",
+          "label": "टीमों की संख्या",
           "value": {}
         }
       ]
     },
     {
-      "title": "Events",
+      "title": "घटनाएं",
       "cardType": "vertical_timeline",
       "facts": [
         {
@@ -112,11 +112,11 @@
       ]
     },
     {
-      "title": "Statistics",
+      "title": "आंकड़े",
       "cardType": "stories",
       "facts": [
         {
-          "label": "Most Runs scored- Name of the player",
+          "label": "सबसे ज्यादा रन",
           "id": "most_runs_scored-_name_of_the_player",
           "value": {
             "label": "महेला जयवर्धने, पाकिस्तान",

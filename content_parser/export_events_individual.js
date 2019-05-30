@@ -7,7 +7,7 @@ const {
   getCardInfoFromId
 } = require("./lib");
 const idMap = require("../static/content/article_ids.json");
-const { teamUIStrings } = require("./ui_strings");
+const { eventsUiStrings } = require("./ui_strings");
 
 const csvExports = {
   en: { path: "./csv/events_individual.en.csv" },
@@ -114,23 +114,23 @@ module.exports.exportEventsIndividual = () => {
       );
 
       const aboutTable = {
-        title: "About",
+        title: eventsUiStrings.about[lang],
         cardType: "table",
         facts: [
           {
-            label: DATES_KEY,
+            label: eventsUiStrings[DATES_KEY][lang],
             value: {
               label: record[DATES_KEY]
             }
           },
           {
-            label: FORMAT_KEY,
+            label: eventsUiStrings[FORMAT_KEY][lang],
             value: {
-              label: FORMAT_KEY
+              label: record[FORMAT_KEY]
             }
           },
           {
-            label: CHAMPION_KEY,
+            label: eventsUiStrings[CHAMPION_KEY][lang],
             value: {
               label: record[CHAMPION_KEY],
               url: championCard && championCard.url,
@@ -138,7 +138,7 @@ module.exports.exportEventsIndividual = () => {
             }
           },
           {
-            label: RUNNERS_UP_KEY,
+            label: eventsUiStrings[RUNNERS_UP_KEY][lang],
             value: {
               label: record[RUNNERS_UP_KEY],
               url: runnersUpCard && runnersUpCard.url,
@@ -146,7 +146,7 @@ module.exports.exportEventsIndividual = () => {
             }
           },
           {
-            label: NUMBER_OF_TEAMS_KEY,
+            label: eventsUiStrings[NUMBER_OF_TEAMS_KEY][lang],
             value: {
               label: record[NUMBER_OF_TEAMS_KEY]
             }
@@ -191,7 +191,7 @@ module.exports.exportEventsIndividual = () => {
 
       if (hostFacts.length > 0) {
         event.sections.push({
-          title: "Hosts",
+          title: eventsUiStrings.hosts[lang],
           cardType: "list_card",
           facts: [
             {
@@ -216,7 +216,7 @@ module.exports.exportEventsIndividual = () => {
           }
 
           return {
-            label: stat.STATISTIC_KEY,
+            label: eventsUiStrings[stat.STATISTIC_KEY][lang],
             id: getSluggedTitle(stat.STATISTIC_KEY),
             value: {
               label: `${record[stat.STATISTIC_KEY]}, ${
@@ -237,7 +237,7 @@ module.exports.exportEventsIndividual = () => {
 
       if (statisticsFacts.length > 0) {
         event.sections.push({
-          title: teamUIStrings.statisticsSectionTitle[lang],
+          title: eventsUiStrings.statistics[lang],
           cardType: "stories",
           facts: statisticsFacts
         });
@@ -285,7 +285,7 @@ module.exports.exportEventsIndividual = () => {
         cardType: "list_card",
         facts: [
           {
-            label: "Champion",
+            label: eventsUiStrings.champion[lang],
             id: "final-positions-champion",
             value: {
               label: "",
@@ -303,7 +303,7 @@ module.exports.exportEventsIndividual = () => {
             }
           },
           {
-            label: "Runner-up",
+            label: eventsUiStrings.runnerUp[lang],
             id: "final-positions-runner-up",
             value: {
               label: "",

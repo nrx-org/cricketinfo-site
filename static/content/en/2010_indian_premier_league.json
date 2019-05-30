@@ -32,11 +32,11 @@
         {
           "label": "Format",
           "value": {
-            "label": "Format"
+            "label": "Twenty20"
           }
         },
         {
-          "label": "Champion",
+          "label": "Champions",
           "value": {
             "label": "Chennai Super Kings (1st title)",
             "url": "/read/en/chennai_super_kings",
@@ -52,7 +52,7 @@
           }
         },
         {
-          "label": "No of Teams",
+          "label": "Number of Teams",
           "value": {
             "label": "8"
           }
@@ -114,7 +114,7 @@
           }
         },
         {
-          "label": "Most runs scored/ Orange cap",
+          "label": "Most runs",
           "id": "most_runs_scored/_orange_cap",
           "value": {
             "label": "Sachin Tendulkar, India",
@@ -125,7 +125,7 @@
           }
         },
         {
-          "label": "Most wickets taken/ purple cap",
+          "label": "Most wickets",
           "id": "most_wickets_taken/_purple_cap",
           "value": {
             "label": "Pragyan Ojha, India",
@@ -142,7 +142,7 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Champion",
+          "label": "Champions",
           "id": "final-positions-champion",
           "value": {
             "label": "",
@@ -163,7 +163,7 @@
           }
         },
         {
-          "label": "Runner-up",
+          "label": "Runners Up",
           "id": "final-positions-runner-up",
           "value": {
             "label": "",

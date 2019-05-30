@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इसके बारे में",
       "cardType": "table",
       "facts": [
         {
-          "label": "Dates",
+          "label": "तिथियां",
           "value": {
             "label": "14 February–29 March"
           }
         },
         {
-          "label": "Format",
+          "label": "स्वरूप",
           "value": {
-            "label": "Format"
+            "label": "Twenty20"
           }
         },
         {
-          "label": "Champion",
+          "label": "विजेता",
           "value": {
             "label": "Mumbai Indians (3rd title)",
             "url": "/read/hi/mumbai_indians",
@@ -44,7 +44,7 @@
           }
         },
         {
-          "label": "Runners Up",
+          "label": "उपविजेता",
           "value": {
             "label": "Rising Pune Supergiants",
             "url": null,
@@ -52,7 +52,7 @@
           }
         },
         {
-          "label": "No of Teams",
+          "label": "टीमों की संख्या",
           "value": {
             "label": "8"
           }
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "title": "Hosts",
+      "title": "मेजबान",
       "cardType": "list_card",
       "facts": [
         {
@@ -99,11 +99,11 @@
       ]
     },
     {
-      "title": "Statistics",
+      "title": "आंकड़े",
       "cardType": "stories",
       "facts": [
         {
-          "label": "Man of the series",
+          "label": "मैन ऑफ द सीरीज",
           "id": "man_of_the_series",
           "value": {
             "label": "Ben Stokes, India",
@@ -115,7 +115,7 @@
           }
         },
         {
-          "label": "Most runs scored/ Orange cap",
+          "label": "सबसे ज्यादा रन",
           "id": "most_runs_scored/_orange_cap",
           "value": {
             "label": "David Warner, India",
@@ -127,7 +127,7 @@
           }
         },
         {
-          "label": "Most wickets taken/ purple cap",
+          "label": "सबसे ज्यादा विकेट",
           "id": "most_wickets_taken/_purple_cap",
           "value": {
             "label": "Bhuvneshwar Kumar, India",
@@ -144,7 +144,7 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Champion",
+          "label": "विजेता",
           "id": "final-positions-champion",
           "value": {
             "label": "",
@@ -165,7 +165,7 @@
           }
         },
         {
-          "label": "Runner-up",
+          "label": "उपविजेता",
           "id": "final-positions-runner-up",
           "value": {
             "label": "",

@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इसके बारे में",
       "cardType": "table",
       "facts": [
         {
-          "label": "Dates",
+          "label": "तिथियां",
           "value": {
             "label": "14 February–29 March"
           }
         },
         {
-          "label": "Format",
+          "label": "स्वरूप",
           "value": {
-            "label": "Format"
+            "label": "वन डे इंटरनेशनल"
           }
         },
         {
-          "label": "Champion",
+          "label": "विजेता",
           "value": {
             "label": "ऑस्ट्रेलिया (पांचवां खिताब)",
             "url": "/read/hi/australia_cricket_team",
@@ -44,7 +44,7 @@
           }
         },
         {
-          "label": "Runners Up",
+          "label": "उपविजेता",
           "value": {
             "label": "न्यूजीलैंड",
             "url": "/read/hi/new_zealand_national_cricket_team",
@@ -52,7 +52,7 @@
           }
         },
         {
-          "label": "No of Teams",
+          "label": "टीमों की संख्या",
           "value": {
             "label": "14"
           }
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "title": "Hosts",
+      "title": "मेजबान",
       "cardType": "list_card",
       "facts": [
         {
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "title": "Statistics",
+      "title": "आंकड़े",
       "cardType": "stories",
       "facts": [
         {
-          "label": "Man of the series",
+          "label": "मैन ऑफ द सीरीज",
           "id": "man_of_the_series",
           "value": {
             "label": "मिशेल स्टार्क, न्यूजीलैंड",
@@ -115,7 +115,7 @@
           }
         },
         {
-          "label": "Most runs scored/ Orange cap",
+          "label": "सबसे ज्यादा रन",
           "id": "most_runs_scored/_orange_cap",
           "value": {
             "label": "मार्टिन गप्टिल, न्यूजीलैंड",
@@ -126,7 +126,7 @@
           }
         },
         {
-          "label": "Most wickets taken/ purple cap",
+          "label": "सबसे ज्यादा विकेट",
           "id": "most_wickets_taken/_purple_cap",
           "value": {
             "label": "मिशेल स्टार्क, ट्रेंट बोल्ट, न्यूजीलैंड",
@@ -143,7 +143,7 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Champion",
+          "label": "विजेता",
           "id": "final-positions-champion",
           "value": {
             "label": "",
@@ -164,7 +164,7 @@
           }
         },
         {
-          "label": "Runner-up",
+          "label": "उपविजेता",
           "id": "final-positions-runner-up",
           "value": {
             "label": "",

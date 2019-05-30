@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इसके बारे में",
       "cardType": "table",
       "facts": [
         {
-          "label": "Dates",
+          "label": "तिथियां",
           "value": {
             "label": "8 April – 28 May"
           }
         },
         {
-          "label": "Format",
+          "label": "स्वरूप",
           "value": {
-            "label": "Format"
+            "label": "ट्वेंटी-20"
           }
         },
         {
-          "label": "Champion",
+          "label": "विजेता",
           "value": {
             "label": "चेन्नई सुपर किंग्स (दूसरा खिताब)",
             "url": "/read/hi/chennai_super_kings",
@@ -44,7 +44,7 @@
           }
         },
         {
-          "label": "Runners Up",
+          "label": "उपविजेता",
           "value": {
             "label": "रॉयल चैलेंजर्स बैंगलोर",
             "url": "/read/hi/royal_challengers_bangalore",
@@ -52,7 +52,7 @@
           }
         },
         {
-          "label": "No of Teams",
+          "label": "टीमों की संख्या",
           "value": {
             "label": "10"
           }
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "title": "Hosts",
+      "title": "मेजबान",
       "cardType": "list_card",
       "facts": [
         {
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "title": "Statistics",
+      "title": "आंकड़े",
       "cardType": "stories",
       "facts": [
         {
-          "label": "Man of the series",
+          "label": "मैन ऑफ द सीरीज",
           "id": "man_of_the_series",
           "value": {
             "label": "क्रिस गेल, श्रीलंका",
@@ -102,7 +102,7 @@
           }
         },
         {
-          "label": "Most runs scored/ Orange cap",
+          "label": "सबसे ज्यादा रन",
           "id": "most_runs_scored/_orange_cap",
           "value": {
             "label": "क्रिस गेल, श्रीलंका",
@@ -113,7 +113,7 @@
           }
         },
         {
-          "label": "Most wickets taken/ purple cap",
+          "label": "सबसे ज्यादा विकेट",
           "id": "most_wickets_taken/_purple_cap",
           "value": {
             "label": "लसिथ मलिंगा, श्रीलंका",
@@ -130,7 +130,7 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Champion",
+          "label": "विजेता",
           "id": "final-positions-champion",
           "value": {
             "label": "",
@@ -151,7 +151,7 @@
           }
         },
         {
-          "label": "Runner-up",
+          "label": "उपविजेता",
           "id": "final-positions-runner-up",
           "value": {
             "label": "",

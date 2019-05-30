@@ -32,11 +32,11 @@
         {
           "label": "Format",
           "value": {
-            "label": "Format"
+            "label": "One Day International"
           }
         },
         {
-          "label": "Champion",
+          "label": "Champions",
           "value": {
             "label": "Australia (5th title)",
             "url": "/read/en/australia_cricket_team",
@@ -52,7 +52,7 @@
           }
         },
         {
-          "label": "No of Teams",
+          "label": "Number of Teams",
           "value": {
             "label": "14"
           }
@@ -115,7 +115,7 @@
           }
         },
         {
-          "label": "Most runs scored/ Orange cap",
+          "label": "Most runs",
           "id": "most_runs_scored/_orange_cap",
           "value": {
             "label": "Martin Guptill , New Zealand",
@@ -126,7 +126,7 @@
           }
         },
         {
-          "label": "Most wickets taken/ purple cap",
+          "label": "Most wickets",
           "id": "most_wickets_taken/_purple_cap",
           "value": {
             "label": "Mitchell Starc, Trent Boult , New Zealand",
@@ -143,7 +143,7 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Champion",
+          "label": "Champions",
           "id": "final-positions-champion",
           "value": {
             "label": "",
@@ -164,7 +164,7 @@
           }
         },
         {
-          "label": "Runner-up",
+          "label": "Runners Up",
           "id": "final-positions-runner-up",
           "value": {
             "label": "",

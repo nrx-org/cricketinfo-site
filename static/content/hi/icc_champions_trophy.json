@@ -20,23 +20,23 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इसके बारे में",
       "cardType": "table",
       "facts": [
         {
-          "label": "First edition Year",
+          "label": "पहला संस्करण",
           "value": {
             "label": "1998"
           }
         },
         {
-          "label": "Format of the tournament",
+          "label": "स्वरूप",
           "value": {
-            "label": "Format of the tournament"
+            "label": "वन डे इंटरनेशनल"
           }
         },
         {
-          "label": "Current champions",
+          "label": "वर्तमान विजेता",
           "value": {
             "label": "पाकिस्तान (पहला खिताब)",
             "url": "/read/hi/pakistan_national_cricket_team",
@@ -44,19 +44,19 @@
           }
         },
         {
-          "label": "Most successful Team",
+          "label": "सबसे सफल",
           "value": {
             "label": "ऑस्ट्रेलिया क्रिकेट टीम, भारत की राष्ट्रीय क्रिकेट टीम"
           }
         },
         {
-          "label": "No of Teams",
+          "label": "टीमों की संख्या",
           "value": {}
         }
       ]
     },
     {
-      "title": "Events",
+      "title": "घटनाएं",
       "cardType": "vertical_timeline",
       "facts": [
         {
@@ -98,11 +98,11 @@
       ]
     },
     {
-      "title": "Statistics",
+      "title": "आंकड़े",
       "cardType": "stories",
       "facts": [
         {
-          "label": "Most Runs scored- Name of the player",
+          "label": "सबसे ज्यादा रन",
           "id": "most_runs_scored-_name_of_the_player",
           "value": {
             "label": "क्रिस गेल, न्यूजीलैंड",
