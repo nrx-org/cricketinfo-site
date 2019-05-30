@@ -7,7 +7,7 @@ const cheerio = require("cheerio");
 const unescape = require("unescape");
 const Bottleneck = require("bottleneck");
 
-const ALL_IMAGES_DIRECTORY_NAME = 'master'
+const ALL_IMAGES_DIRECTORY_NAME = "master";
 
 const limiter = new Bottleneck({
   maxConcurrent: 3,
@@ -93,13 +93,16 @@ const getCardInfoFromId = (idMap, id, lang) => {
   };
 };
 
-const makeImageDirectoryPath = articleSlug => `./static/images/${articleSlug}`;
+// const makeImageDirectoryPath = articleSlug => `./static/images/${articleSlug}`;
 
-const makeImagePath = (imageFileName) =>
+const makeImagePath = imageFileName =>
   `./static/images/${ALL_IMAGES_DIRECTORY_NAME}/${imageFileName}`;
 
-const makeServerSideImageUrl = (imageFileName) =>
+const makeServerSideImageUrl = imageFileName =>
   `/static/images/${ALL_IMAGES_DIRECTORY_NAME}/${imageFileName}`;
+
+const makeValidImageFileName = fileName =>
+  fileName.replace(/[&/\\#,+()$~%'":*?<>{}]/g, "");
 
 const downloadImageAndFillAttributions = async (imageObject, articleSlug) => {
   // Operate on a copy.
@@ -141,6 +144,8 @@ const downloadImageAndFillAttributions = async (imageObject, articleSlug) => {
   if (imageFileName.match(/File:/)) {
     imageFileName = imageFileName.replace("File:", "");
   }
+
+  imageFileName = makeValidImageFileName(imageFileName);
 
   imageFileName = unescape(imageFileName);
 
