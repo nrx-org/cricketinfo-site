@@ -29,7 +29,7 @@ import { ShareModalContainer } from "../components/ShareModalContainer";
 import { FeaturedPlayers } from "../components/FeaturedPlayers";
 import { QuizContainer } from "../components/QuizContainer";
 import { getImageAttributions } from "../lib/image_attributions";
-import { ImageAttributions } from "../components/ImageAttributions";
+import { Attributions } from "../components/Attributions";
 import { ImageAttributionsModalContainer } from "../components/ImageAttributionsModalContainer";
 import { ArticleSummaryModalContainer } from "../components/ArticleSummaryModalContainer";
 import { HomeHeader } from "../components/HomeHeader";
@@ -75,7 +75,7 @@ const Home = ({
         />
         <QuizContainer questions={quizQuestions} />
         <InterestingArticles interestingArticles={interestingArticles} />
-        <ImageAttributions attributions={imageAttributions} lang={lang} />
+        <Attributions attributions={imageAttributions} lang={lang} />
 
         <ModalContextConsumer>
           {({ registerModal, isModalOpen, modalData, closeModal }) => (

@@ -1,4 +1,4 @@
-.wcp-image-attributions {
+.wcp-attributions {
   font-size: $font-size-xs;
   line-height: $line-height-xs;
 
@@ -18,12 +18,18 @@
   }
 }
 
-.wcp-image-attributions__know-more {
+.wcp-attributions__know-more {
   display: flex;
   align-items: center;
   color: $link-color;
 
   .wcp-icon {
     margin-left: 0.25rem;
+  }
+}
+
+.wcp-attributions__privacy-policy {
+  .wcp-icon {
+    vertical-align: middle;
   }
 }

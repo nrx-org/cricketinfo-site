@@ -23,7 +23,7 @@ import {
   imagePropTypes,
   factCardDataPropTypes
 } from "../lib/prop_types";
-import { ImageAttributions } from "../components/ImageAttributions";
+import { Attributions } from "../components/Attributions";
 import { getImageAttributions } from "../lib/image_attributions";
 import { ImageAttributionsModalContainer } from "../components/ImageAttributionsModalContainer";
 import { CONTINUE_READING_MODAL_ID } from "../lib/modal_ids";
@@ -88,7 +88,7 @@ const Article = ({
             </Button>
           )}
         </ModalContextConsumer>
-        <ImageAttributions attributions={imageAttributions} lang={lang} />
+        <Attributions attributions={imageAttributions} lang={lang} />
       </BaseLayout>
 
       <ModalContextConsumer>

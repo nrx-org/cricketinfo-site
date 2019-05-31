@@ -5,9 +5,10 @@ import { Icon } from "./Icon";
 import { ModalContextConsumer } from "./ModalContext";
 import { IMAGE_ATTRIBUTIONS_MODAL_ID } from "../lib/modal_ids";
 import { imagePropTypes } from "../lib/prop_types";
+import { getPrivacyPolicyUrl } from "../lib/urls";
 
-export const ImageAttributions = ({ attributions }) => (
-  <section className="wcp-image-attributions">
+export const Attributions = ({ attributions, lang }) => (
+  <section className="wcp-attributions">
     {/* eslint-disable react/jsx-one-expression-per-line */}
     <p>
       All content on this page has been adapted from{" "}
@@ -25,7 +26,7 @@ export const ImageAttributions = ({ attributions }) => (
               openModal(IMAGE_ATTRIBUTIONS_MODAL_ID, { attributions })
             }
             type="button"
-            className="wcp-image-attributions__know-more"
+            className="wcp-attributions__know-more"
           >
             See licenses for images used on this page{" "}
             <Icon size="xs" name="arrow_right" altText="Right arrow icon" />
@@ -33,10 +34,17 @@ export const ImageAttributions = ({ attributions }) => (
         )}
       </ModalContextConsumer>
     </p>
+    <p className="wcp-attributions__privacy-policy">
+      <a href={getPrivacyPolicyUrl(lang)}>
+        Privacy policy{" "}
+        <Icon size="xs" name="arrow_right" altText="Right arrow icon" />
+      </a>
+    </p>
     {/* eslint-enable react/jsx-one-expression-per-line */}
   </section>
 );
 
-ImageAttributions.propTypes = {
-  attributions: PropTypes.arrayOf(imagePropTypes).isRequired
+Attributions.propTypes = {
+  attributions: PropTypes.arrayOf(imagePropTypes).isRequired,
+  lang: PropTypes.string.isRequired
 };
