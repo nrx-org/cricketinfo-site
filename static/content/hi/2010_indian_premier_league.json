@@ -1,10 +1,10 @@
 {
   "title": "2010 इंडियन प्रीमियर लीग",
-  "summary": "The 2010 Indian Premier League season, abbreviated as IPL 3 or the 2010 IPL, was the third season of the Indian Premier League",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/2010_Indian_Premier_League",
+  "summary": "2010 इंडियन प्रीमियर लीग सत्र, जिसे आईपीएल 3 या आईपीएल 2010 से भी बुलाया जाता था, इंडियन प्रीमियर लीग के तीसरा सत्र था",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A5%A8%E0%A5%A6%E0%A5%A7%E0%A5%A6_%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%A8_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE%E0%A4%BF%E0%A4%AF%E0%A4%B0_%E0%A4%B2%E0%A5%80%E0%A4%97",
   "coverImage": {
-    "altText": "Image of 2010 इंडियन प्रीमियर लीग",
-    "license": ""
+    "url": "/static/images/master/IPL_T20_Chennai_vs_Kolkata.JPG",
+    "altText": "Image of 2010 इंडियन प्रीमियर लीग"
   },
   "translations": [
     {
@@ -26,7 +26,7 @@
         {
           "label": "तिथियां",
           "value": {
-            "label": "12 March –25 April"
+            "label": "12 मार्च -25 अप्रैल"
           }
         },
         {
@@ -77,8 +77,7 @@
                   "label": "नागपुर (पूर्व में नागपोर) भारतीय राज्य महाराष्ट्र का तीसरा सबसे बड़ा शहर और शीतकालीन राजधानी है। यह जनसंख्या के हिसाब से 13 वां सबसे बड़ा भारतीय शहर है।",
                   "image": {
                     "url": "/static/images/master/Diksha_Bhumi.jpg",
-                    "altText": "नागपुर",
-                    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+                    "altText": "नागपुर"
                   }
                 }
               },
@@ -90,8 +89,398 @@
                   "label": "मुंबई, जिसे बॉम्बे के नाम से भी जाना जाता है, 1995 तक आधिकारिक नाम, भारतीय राज्य महाराष्ट्र की राजधानी है। 2011 तक यह भारत का सबसे अधिक आबादी वाला शहर है।",
                   "image": {
                     "url": "/static/images/master/Victoria_Terminus_-_CST.JPG",
-                    "altText": "मुंबई",
-                    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+                    "altText": "मुंबई"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "इतिहास",
+      "cardType": "horizontal_timeline",
+      "facts": [
+        {
+          "label": "2008",
+          "id": "tournament_year_2008",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2008 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2008_indian_premier_league",
+                "contentUrl": "/static/content/hi/2008_indian_premier_league.json",
+                "id": "tournament_card_2008_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "altText": "Image of 2008 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "राजस्थान रॉयल्स",
+                "url": "/read/hi/rajasthan_royals",
+                "contentUrl": "/static/content/hi/rajasthan_royals.json",
+                "id": "winner_card_राजस्थान_रॉयल्स",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/RR-LOGO-1.png",
+                    "altText": "Image of राजस्थान रॉयल्स"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2009",
+          "id": "tournament_year_2009",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2009 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2009_indian_premier_league",
+                "contentUrl": "/static/content/hi/2009_indian_premier_league.json",
+                "id": "tournament_card_2009_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Ipl.svg",
+                    "altText": "Image of 2009 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "सनराइजर्स हैदराबाद",
+                "url": "/read/hi/sunrisers_hyderabad",
+                "contentUrl": "/static/content/hi/sunrisers_hyderabad.json",
+                "id": "winner_card_सनराइजर्स_हैदराबाद",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Sunrisers_Hyderabad.svg",
+                    "altText": "Image of सनराइजर्स हैदराबाद"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2010",
+          "id": "tournament_year_2010",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2010 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2010_indian_premier_league",
+                "contentUrl": "/static/content/hi/2010_indian_premier_league.json",
+                "id": "tournament_card_2010_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/IPL_T20_Chennai_vs_Kolkata.JPG",
+                    "altText": "Image of 2010 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "चेन्नई सुपर किंग्स",
+                "url": "/read/hi/chennai_super_kings",
+                "contentUrl": "/static/content/hi/chennai_super_kings.json",
+                "id": "winner_card_चेन्नई_सुपर_किंग्स",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Image of चेन्नई सुपर किंग्स"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2011",
+          "id": "tournament_year_2011",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2011 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2011_indian_premier_league",
+                "contentUrl": "/static/content/hi/2011_indian_premier_league.json",
+                "id": "tournament_card_2011_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Ma_ChidambaramStadium_panaroma.jpg",
+                    "altText": "Image of 2011 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "चेन्नई सुपर किंग्स",
+                "url": "/read/hi/chennai_super_kings",
+                "contentUrl": "/static/content/hi/chennai_super_kings.json",
+                "id": "winner_card_चेन्नई_सुपर_किंग्स",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Image of चेन्नई सुपर किंग्स"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2012",
+          "id": "tournament_year_2012",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2012 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2012_indian_premier_league",
+                "contentUrl": "/static/content/hi/2012_indian_premier_league.json",
+                "id": "tournament_card_2012_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
+                    "altText": "Image of 2012 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "कोलकाता नाइट राइडर्स",
+                "url": "/read/hi/kolkata_knight_riders",
+                "contentUrl": "/static/content/hi/kolkata_knight_riders.json",
+                "id": "winner_card_कोलकाता_नाइट_राइडर्स",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Kolkata_Knight_Riders_Logo.svg",
+                    "altText": "Image of कोलकाता नाइट राइडर्स"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2013",
+          "id": "tournament_year_2013",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2013 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2013_indian_premier_league",
+                "contentUrl": "/static/content/hi/2013_indian_premier_league.json",
+                "id": "tournament_card_2013_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Sahara_Stadium_Pune_4.jpg",
+                    "altText": "Image of 2013 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "मुंबई इंडियंस",
+                "url": "/read/hi/mumbai_indians",
+                "contentUrl": "/static/content/hi/mumbai_indians.json",
+                "id": "winner_card_मुंबई_इंडियंस",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Mumbai_Indians_Logo.svg",
+                    "altText": "Image of मुंबई इंडियंस"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2014",
+          "id": "tournament_year_2014",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2014 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2014_indian_premier_league",
+                "contentUrl": "/static/content/hi/2014_indian_premier_league.json",
+                "id": "tournament_card_2014_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "altText": "Image of 2014 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "कोलकाता नाइट राइडर्स",
+                "url": "/read/hi/kolkata_knight_riders",
+                "contentUrl": "/static/content/hi/kolkata_knight_riders.json",
+                "id": "winner_card_कोलकाता_नाइट_राइडर्स",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Kolkata_Knight_Riders_Logo.svg",
+                    "altText": "Image of कोलकाता नाइट राइडर्स"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2015",
+          "id": "tournament_year_2015",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2015 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2015_indian_premier_league",
+                "contentUrl": "/static/content/hi/2015_indian_premier_league.json",
+                "id": "tournament_card_2015_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
+                    "altText": "Image of 2015 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "मुंबई इंडियंस",
+                "url": "/read/hi/mumbai_indians",
+                "contentUrl": "/static/content/hi/mumbai_indians.json",
+                "id": "winner_card_मुंबई_इंडियंस",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Mumbai_Indians_Logo.svg",
+                    "altText": "Image of मुंबई इंडियंस"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2016",
+          "id": "tournament_year_2016",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2016 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2016_indian_premier_league",
+                "contentUrl": "/static/content/hi/2016_indian_premier_league.json",
+                "id": "tournament_card_2016_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "altText": "Image of 2016 इंडियन प्रीमियर लीग",
+                    "license": ""
+                  }
+                }
+              },
+              {
+                "label": "सनराइजर्स हैदराबाद",
+                "url": "/read/hi/sunrisers_hyderabad",
+                "contentUrl": "/static/content/hi/sunrisers_hyderabad.json",
+                "id": "winner_card_सनराइजर्स_हैदराबाद",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Sunrisers_Hyderabad.svg",
+                    "altText": "Image of सनराइजर्स हैदराबाद"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2017",
+          "id": "tournament_year_2017",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2017 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2017_indian_premier_league",
+                "contentUrl": "/static/content/hi/2017_indian_premier_league.json",
+                "id": "tournament_card_2017_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of 2017 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "मुंबई इंडियंस",
+                "url": "/read/hi/mumbai_indians",
+                "contentUrl": "/static/content/hi/mumbai_indians.json",
+                "id": "winner_card_मुंबई_इंडियंस",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Mumbai_Indians_Logo.svg",
+                    "altText": "Image of मुंबई इंडियंस"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2018",
+          "id": "tournament_year_2018",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2018 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2018_indian_premier_league",
+                "contentUrl": "/static/content/hi/2018_indian_premier_league.json",
+                "id": "tournament_card_2018_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of 2018 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "चेन्नई सुपर किंग्स",
+                "url": "/read/hi/chennai_super_kings",
+                "contentUrl": "/static/content/hi/chennai_super_kings.json",
+                "id": "winner_card_चेन्नई_सुपर_किंग्स",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Image of चेन्नई सुपर किंग्स"
                   }
                 }
               }
@@ -110,8 +499,9 @@
           "value": {
             "label": "लसिथ मलिंगा, भारत",
             "image": {
+              "url": "/static/images/master/LASITH_MALINGA_28515517554929.jpg",
               "altText": "Picture of लसिथ मलिंगा",
-              "license": ""
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -121,8 +511,8 @@
           "value": {
             "label": "सचिन तेंडुलकर, भारत",
             "image": {
-              "altText": "Picture of सचिन तेंडुलकर",
-              "license": ""
+              "url": "/static/images/master/Sachin_Tendulkar_at_MRF_Promotion_Event.jpg",
+              "altText": "Picture of सचिन तेंडुलकर"
             }
           }
         },
@@ -132,8 +522,8 @@
           "value": {
             "label": "प्रज्ञान ओझा, भारत",
             "image": {
-              "altText": "Picture of प्रज्ञान ओझा",
-              "license": ""
+              "url": "/static/images/master/PragyanOjha_.jpg",
+              "altText": "Picture of प्रज्ञान ओझा"
             }
           }
         }

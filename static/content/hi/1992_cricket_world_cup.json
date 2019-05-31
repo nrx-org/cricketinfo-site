@@ -1,0 +1,581 @@
+{
+  "title": "1992 क्रिकेट विश्व कप",
+  "summary": "1992 क्रिकेट विश्व कप (आधिकारिक तौर पर बेंसन एंड हेजेस विश्व कप 1992) क्रिकेट विश्व कप का पांचवा टूर्नामेंट था, जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया गया था। यह 22 फरवरी से 25 मार्च 1992 तक ऑस्ट्रेलिया और न्यूजीलैंड में आयोजित किया गया था और फाइनल में इंग्लैंड को हराकर पाकिस्तान पहली बार विश्व कप चैंपियन बना था।",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AF%E0%A5%AF%E0%A5%A8_%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%9F_%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5_%E0%A4%95%E0%A4%AA",
+  "coverImage": {
+    "url": "/static/images/master/World_Cup_1992_logo.svg",
+    "altText": "Image of 1992 क्रिकेट विश्व कप"
+  },
+  "translations": [
+    {
+      "lang": "en",
+      "title": "1992 Cricket World Cup",
+      "url": "/read/en/1992_cricket_world_cup"
+    },
+    {
+      "lang": "ta",
+      "title": "1992 Cricket World Cup",
+      "url": "/read/ta/1992_cricket_world_cup"
+    }
+  ],
+  "sections": [
+    {
+      "title": "इसके बारे में",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "तिथियां",
+          "value": {
+            "label": "22 फरवरी-मार्च 25"
+          }
+        },
+        {
+          "label": "स्वरूप",
+          "value": {
+            "label": "वन डे इंटरनेशनल"
+          }
+        },
+        {
+          "label": "विजेता",
+          "value": {
+            "label": "पाकिस्तान (पहला खिताब)",
+            "url": "/read/hi/pakistan_national_cricket_team",
+            "contentUrl": "/static/content/hi/pakistan_national_cricket_team.json"
+          }
+        },
+        {
+          "label": "उपविजेता",
+          "value": {
+            "label": "इंग्लैंड",
+            "url": "/read/hi/england_cricket_team",
+            "contentUrl": "/static/content/hi/england_cricket_team.json"
+          }
+        },
+        {
+          "label": "टीमों की संख्या",
+          "value": {
+            "label": "9"
+          }
+        }
+      ]
+    },
+    {
+      "title": "मेजबान",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_1992_cricket_world_cup",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "ऑस्ट्रेलिया",
+                "url": "/read/hi/australia",
+                "contentUrl": "/static/content/hi/australia.json",
+                "value": {
+                  "label": "ऑस्ट्रेलिया, आधिकारिक तौर पर ऑस्ट्रेलिया का राष्ट्रमंडल, एक संप्रभु देश है जिसमें ऑस्ट्रेलियाई महाद्वीप की मुख्य भूमि, तस्मानिया द्वीप और कई छोटे द्वीप शामिल हैं।",
+                  "image": {
+                    "url": "/static/images/master/Flag_of_Australia_28converted29.svg",
+                    "altText": "ऑस्ट्रेलिया",
+                    "license": ""
+                  }
+                }
+              },
+              {
+                "label": "न्यूजीलैंड",
+                "url": "/read/hi/new_zealand",
+                "contentUrl": "/static/content/hi/new_zealand.json",
+                "value": {
+                  "label": "न्यूजीलैंड दक्षिण पश्चिमी प्रशांत महासागर में एक संप्रभु द्वीप देश है। भौगोलिक रूप से देश में दो मुख्य भूभाग और लगभग 600 छोटे द्वीप हैं। न्यूजीलैंड ऑस्ट्रेलिया से लगभग 2,000 किलोमीटर पूर्व में स्थित है।",
+                  "image": {
+                    "url": "/static/images/master/Lake_Gunn.jpg",
+                    "altText": "न्यूजीलैंड"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "इतिहास",
+      "cardType": "horizontal_timeline",
+      "facts": [
+        {
+          "label": "1975",
+          "id": "tournament_year_1975",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "1975 क्रिकेट विश्व कप",
+                "url": "/read/hi/1975_cricket_world_cup",
+                "contentUrl": "/static/content/hi/1975_cricket_world_cup.json",
+                "id": "tournament_card_1975_क्रिकेट_विश्व_कप",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Prudential_Cup_75_logo.svg",
+                    "altText": "Image of 1975 क्रिकेट विश्व कप"
+                  }
+                }
+              },
+              {
+                "label": "वेस्टइंडीज क्रिकेट टीम",
+                "url": "/read/hi/west_indies_cricket_team",
+                "contentUrl": "/static/content/hi/west_indies_cricket_team.json",
+                "id": "winner_card_वेस्टइंडीज_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/West_indies_cricket_board_flag.png",
+                    "altText": "Image of वेस्टइंडीज क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "1979",
+          "id": "tournament_year_1979",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "1979 क्रिकेट विश्व कप",
+                "url": "/read/hi/1979_cricket_world_cup",
+                "contentUrl": "/static/content/hi/1979_cricket_world_cup.json",
+                "id": "tournament_card_1979_क्रिकेट_विश्व_कप",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Prudential_Cup_79_logo.svg",
+                    "altText": "Image of 1979 क्रिकेट विश्व कप"
+                  }
+                }
+              },
+              {
+                "label": "वेस्टइंडीज क्रिकेट टीम",
+                "url": "/read/hi/west_indies_cricket_team",
+                "contentUrl": "/static/content/hi/west_indies_cricket_team.json",
+                "id": "winner_card_वेस्टइंडीज_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/West_indies_cricket_board_flag.png",
+                    "altText": "Image of वेस्टइंडीज क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "1983",
+          "id": "tournament_year_1983",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "1983 क्रिकेट विश्व कप",
+                "url": "/read/hi/1983_cricket_world_cup",
+                "contentUrl": "/static/content/hi/1983_cricket_world_cup.json",
+                "id": "tournament_card_1983_क्रिकेट_विश्व_कप",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Prudential_Cup_83_logo.svg",
+                    "altText": "Image of 1983 क्रिकेट विश्व कप"
+                  }
+                }
+              },
+              {
+                "label": "भारत की राष्ट्रीय क्रिकेट टीम",
+                "url": "/read/hi/india_national_cricket_team",
+                "contentUrl": "/static/content/hi/india_national_cricket_team.json",
+                "id": "winner_card_भारत_की_राष्ट्रीय_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "altText": "Image of भारत की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "1987",
+          "id": "tournament_year_1987",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "1987 क्रिकेट विश्व कप",
+                "url": "/read/hi/1987_cricket_world_cup",
+                "contentUrl": "/static/content/hi/1987_cricket_world_cup.json",
+                "id": "tournament_card_1987_क्रिकेट_विश्व_कप",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "altText": "Image of 1987 क्रिकेट विश्व कप",
+                    "license": ""
+                  }
+                }
+              },
+              {
+                "label": "ऑस्ट्रेलिया क्रिकेट टीम",
+                "url": "/read/hi/australia_cricket_team",
+                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Image of ऑस्ट्रेलिया क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "1992",
+          "id": "tournament_year_1992",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "1992 क्रिकेट विश्व कप",
+                "url": "/read/hi/1992_cricket_world_cup",
+                "contentUrl": "/static/content/hi/1992_cricket_world_cup.json",
+                "id": "tournament_card_1992_क्रिकेट_विश्व_कप",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/World_Cup_1992_logo.svg",
+                    "altText": "Image of 1992 क्रिकेट विश्व कप"
+                  }
+                }
+              },
+              {
+                "label": "पाकिस्तान की राष्ट्रीय क्रिकेट टीम ",
+                "url": "/read/hi/pakistan_national_cricket_team",
+                "contentUrl": "/static/content/hi/pakistan_national_cricket_team.json",
+                "id": "winner_card_पाकिस्तान_की_राष्ट्रीय_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/PakistanCricketLogo.png",
+                    "altText": "Image of पाकिस्तान की राष्ट्रीय क्रिकेट टीम "
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "1996",
+          "id": "tournament_year_1996",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "1996 क्रिकेट विश्व कप",
+                "url": "/read/hi/1996_cricket_world_cup",
+                "contentUrl": "/static/content/hi/1996_cricket_world_cup.json",
+                "id": "tournament_card_1996_क्रिकेट_विश्व_कप",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Wills_World_Cup_1996.svg",
+                    "altText": "Image of 1996 क्रिकेट विश्व कप"
+                  }
+                }
+              },
+              {
+                "label": "श्रीलंका की राष्ट्रीय क्रिकेट टीम",
+                "url": "/read/hi/sri_lanka_national_cricket_team",
+                "contentUrl": "/static/content/hi/sri_lanka_national_cricket_team.json",
+                "id": "winner_card_श्रीलंका_की_राष्ट्रीय_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Sri_Lanka_Cricket_Cap_Insignia.svg",
+                    "altText": "Image of श्रीलंका की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "1999",
+          "id": "tournament_year_1999",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "1999 क्रिकेट विश्व कप",
+                "url": "/read/hi/1999_cricket_world_cup",
+                "contentUrl": "/static/content/hi/1999_cricket_world_cup.json",
+                "id": "tournament_card_1999_क्रिकेट_विश्व_कप",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Wc99.png",
+                    "altText": "Image of 1999 क्रिकेट विश्व कप"
+                  }
+                }
+              },
+              {
+                "label": "ऑस्ट्रेलिया क्रिकेट टीम",
+                "url": "/read/hi/australia_cricket_team",
+                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Image of ऑस्ट्रेलिया क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2003",
+          "id": "tournament_year_2003",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2003 क्रिकेट विश्व कप",
+                "url": "/read/hi/2003_cricket_world_cup",
+                "contentUrl": "/static/content/hi/2003_cricket_world_cup.json",
+                "id": "tournament_card_2003_क्रिकेट_विश्व_कप",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Cricket_World_Cup_Logo_2003.svg",
+                    "altText": "Image of 2003 क्रिकेट विश्व कप"
+                  }
+                }
+              },
+              {
+                "label": "ऑस्ट्रेलिया क्रिकेट टीम",
+                "url": "/read/hi/australia_cricket_team",
+                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Image of ऑस्ट्रेलिया क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2007",
+          "id": "tournament_year_2007",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2007 क्रिकेट विश्व कप",
+                "url": "/read/hi/2007_cricket_world_cup",
+                "contentUrl": "/static/content/hi/2007_cricket_world_cup.json",
+                "id": "tournament_card_2007_क्रिकेट_विश्व_कप",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/2007_Cricket_World_Cup_logo.svg",
+                    "altText": "Image of 2007 क्रिकेट विश्व कप"
+                  }
+                }
+              },
+              {
+                "label": "ऑस्ट्रेलिया क्रिकेट टीम",
+                "url": "/read/hi/australia_cricket_team",
+                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Image of ऑस्ट्रेलिया क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2011",
+          "id": "tournament_year_2011",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2011 क्रिकेट विश्व कप",
+                "url": "/read/hi/2011_cricket_world_cup",
+                "contentUrl": "/static/content/hi/2011_cricket_world_cup.json",
+                "id": "tournament_card_2011_क्रिकेट_विश्व_कप",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/2011_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2011 क्रिकेट विश्व कप"
+                  }
+                }
+              },
+              {
+                "label": "भारत की राष्ट्रीय क्रिकेट टीम",
+                "url": "/read/hi/india_national_cricket_team",
+                "contentUrl": "/static/content/hi/india_national_cricket_team.json",
+                "id": "winner_card_भारत_की_राष्ट्रीय_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "altText": "Image of भारत की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2015",
+          "id": "tournament_year_2015",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2015 क्रिकेट विश्व कप",
+                "url": "/read/hi/2015_cricket_world_cup",
+                "contentUrl": "/static/content/hi/2015_cricket_world_cup.json",
+                "id": "tournament_card_2015_क्रिकेट_विश्व_कप",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/2015_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2015 क्रिकेट विश्व कप"
+                  }
+                }
+              },
+              {
+                "label": "ऑस्ट्रेलिया क्रिकेट टीम",
+                "url": "/read/hi/australia_cricket_team",
+                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Image of ऑस्ट्रेलिया क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "आंकड़े",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "मैन ऑफ द सीरीज",
+          "id": "man_of_the_series",
+          "value": {
+            "label": "मार्टिन क्रो, पाकिस्तान",
+            "image": {
+              "url": "/static/images/master/Martin_Crowe_2011.jpg",
+              "altText": "Picture of मार्टिन क्रो"
+            }
+          }
+        },
+        {
+          "label": "सबसे ज्यादा रन",
+          "id": "most_runs_scored/_orange_cap",
+          "value": {
+            "label": "मार्टिन क्रो (456), पाकिस्तान",
+            "image": {
+              "url": "/static/images/master/Martin_Crowe_2011.jpg",
+              "altText": "Picture of मार्टिन क्रो (456)"
+            }
+          }
+        },
+        {
+          "label": "सबसे ज्यादा विकेट",
+          "id": "most_wickets_taken/_purple_cap",
+          "value": {
+            "label": "वसीम अकरम (18), पाकिस्तान",
+            "image": {
+              "url": "/static/images/master/Wasim-akram-gesf-2018-7878.jpg",
+              "altText": "Picture of वसीम अकरम (18)"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Final Positions",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "विजेता",
+          "id": "final-positions-champion",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "पाकिस्तान की राष्ट्रीय क्रिकेट टीम ",
+                "url": "/read/hi/pakistan_national_cricket_team",
+                "contentUrl": "/static/content/hi/pakistan_national_cricket_team.json",
+                "value": {
+                  "label": "पाकिस्तान की पुरुषों की राष्ट्रीय क्रिकेट टीम, जो शाहीन्स ग्रीन शर्ट्स और मैन इन ग्रीन के रूप में प्रसिद्घ है, उसका संचालन पाकिस्तान क्रिकेट बोर्ड (पीसीबी) द्वारा किया जाता है। टीम अंतर्राष्ट्रीय क्रिकेट परिषद की पूर्ण सदस्य है और टेस्ट, वनडे और टी-20 अंतर्राष्ट्रीय क्रिकेट मैचों में हिस्सा लेती है।",
+                  "image": {
+                    "url": "/static/images/master/PakistanCricketLogo.png",
+                    "altText": "Picture of पाकिस्तान की राष्ट्रीय क्रिकेट टीम "
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "उपविजेता",
+          "id": "final-positions-runner-up",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "इंग्लैंड क्रिकेट टीम",
+                "url": "/read/hi/england_cricket_team",
+                "contentUrl": "/static/content/hi/england_cricket_team.json",
+                "value": {
+                  "label": "इंग्लैंड क्रिकेट टीम अंतरराष्ट्रीय क्रिकेट में इंग्लैंड और वेल्स का प्रतिनिधित्व करती है। इंग्लैंड और ऑस्ट्रेलिया 1877 में टेस्ट मैच खेलने वाली पहली टीमें थीं। ",
+                  "image": {
+                    "url": "/static/images/master/England_cricket_team_logo.svg",
+                    "altText": "Picture of पाकिस्तान की राष्ट्रीय क्रिकेट टीम "
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

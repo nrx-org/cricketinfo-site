@@ -77,8 +77,398 @@
                   "label": "மும்பை, பம்பாய் என்றும் அறியப்படுகிறது, 1995ஆம் ஆண்டு வரை இதுவே அதன் அதிகாரப்பூர்வ பெயராகவும் இருந்தது, இது மஹாராஷ்டிரா மாநிலத்தின் தலைநகரம் ஆகும். 2011 ஆம் ஆண்டு வரை இதுவே இந்தியாவின் மிகப் பெரிய மக்கள்தொகையைக் கொண்ட நகரமாகவும் இருந்துவந்துள்ளது.",
                   "image": {
                     "url": "/static/images/master/Victoria_Terminus_-_CST.JPG",
-                    "altText": "மும்பை",
-                    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+                    "altText": "மும்பை"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "வரலாறு",
+      "cardType": "horizontal_timeline",
+      "facts": [
+        {
+          "label": "2008",
+          "id": "tournament_year_2008",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2008 Indian Premier League",
+                "url": "/read/ta/2008_indian_premier_league",
+                "contentUrl": "/static/content/ta/2008_indian_premier_league.json",
+                "id": "tournament_card_2008_indian_premier_league",
+                "value": {
+                  "label": "போட்டியில்",
+                  "image": {
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "altText": "Image of 2008 Indian Premier League"
+                  }
+                }
+              },
+              {
+                "label": "Rajasthan Royals",
+                "url": "/read/ta/rajasthan_royals",
+                "contentUrl": "/static/content/ta/rajasthan_royals.json",
+                "id": "winner_card_rajasthan_royals",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/RR-LOGO-1.png",
+                    "altText": "Image of Rajasthan Royals"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2009",
+          "id": "tournament_year_2009",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2009 Indian Premier League",
+                "url": "/read/ta/2009_indian_premier_league",
+                "contentUrl": "/static/content/ta/2009_indian_premier_league.json",
+                "id": "tournament_card_2009_indian_premier_league",
+                "value": {
+                  "label": "போட்டியில்",
+                  "image": {
+                    "url": "/static/images/master/Ipl.svg",
+                    "altText": "Image of 2009 Indian Premier League"
+                  }
+                }
+              },
+              {
+                "label": "Sunrisers Hyderabad",
+                "url": "/read/ta/sunrisers_hyderabad",
+                "contentUrl": "/static/content/ta/sunrisers_hyderabad.json",
+                "id": "winner_card_sunrisers_hyderabad",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Sunrisers_Hyderabad.svg",
+                    "altText": "Image of Sunrisers Hyderabad"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2010",
+          "id": "tournament_year_2010",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2010 இந்தியன் ப்ரீமியர் லீக்",
+                "url": "/read/ta/2010_indian_premier_league",
+                "contentUrl": "/static/content/ta/2010_indian_premier_league.json",
+                "id": "tournament_card_2010_இந்தியன்_ப்ரீமியர்_லீக்",
+                "value": {
+                  "label": "போட்டியில்",
+                  "image": {
+                    "url": "/static/images/master/IPL_T20_Chennai_vs_Kolkata.JPG",
+                    "altText": "Image of 2010 இந்தியன் ப்ரீமியர் லீக்"
+                  }
+                }
+              },
+              {
+                "label": "சென்னை சூப்பர் கிங்க்ஸ்",
+                "url": "/read/ta/chennai_super_kings",
+                "contentUrl": "/static/content/ta/chennai_super_kings.json",
+                "id": "winner_card_சென்னை_சூப்பர்_கிங்க்ஸ்",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Image of சென்னை சூப்பர் கிங்க்ஸ்"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2011",
+          "id": "tournament_year_2011",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2011 இந்தியன் ப்ரீமியர் லீக்",
+                "url": "/read/ta/2011_indian_premier_league",
+                "contentUrl": "/static/content/ta/2011_indian_premier_league.json",
+                "id": "tournament_card_2011_இந்தியன்_ப்ரீமியர்_லீக்",
+                "value": {
+                  "label": "போட்டியில்",
+                  "image": {
+                    "url": "/static/images/master/Ma_ChidambaramStadium_panaroma.jpg",
+                    "altText": "Image of 2011 இந்தியன் ப்ரீமியர் லீக்"
+                  }
+                }
+              },
+              {
+                "label": "சென்னை சூப்பர் கிங்க்ஸ்",
+                "url": "/read/ta/chennai_super_kings",
+                "contentUrl": "/static/content/ta/chennai_super_kings.json",
+                "id": "winner_card_சென்னை_சூப்பர்_கிங்க்ஸ்",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Image of சென்னை சூப்பர் கிங்க்ஸ்"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2012",
+          "id": "tournament_year_2012",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2012 Indian Premier League",
+                "url": "/read/ta/2012_indian_premier_league",
+                "contentUrl": "/static/content/ta/2012_indian_premier_league.json",
+                "id": "tournament_card_2012_indian_premier_league",
+                "value": {
+                  "label": "போட்டியில்",
+                  "image": {
+                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
+                    "altText": "Image of 2012 Indian Premier League"
+                  }
+                }
+              },
+              {
+                "label": "Kolkata Knight Riders",
+                "url": "/read/ta/kolkata_knight_riders",
+                "contentUrl": "/static/content/ta/kolkata_knight_riders.json",
+                "id": "winner_card_kolkata_knight_riders",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Kolkata_Knight_Riders_Logo.svg",
+                    "altText": "Image of Kolkata Knight Riders"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2013",
+          "id": "tournament_year_2013",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2013 Indian Premier League",
+                "url": "/read/ta/2013_indian_premier_league",
+                "contentUrl": "/static/content/ta/2013_indian_premier_league.json",
+                "id": "tournament_card_2013_indian_premier_league",
+                "value": {
+                  "label": "போட்டியில்",
+                  "image": {
+                    "url": "/static/images/master/Sahara_Stadium_Pune_4.jpg",
+                    "altText": "Image of 2013 Indian Premier League"
+                  }
+                }
+              },
+              {
+                "label": "மும்பை இண்டியன்ஸ்",
+                "url": "/read/ta/mumbai_indians",
+                "contentUrl": "/static/content/ta/mumbai_indians.json",
+                "id": "winner_card_மும்பை_இண்டியன்ஸ்",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Mumbai_Indians_Logo.svg",
+                    "altText": "Image of மும்பை இண்டியன்ஸ்"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2014",
+          "id": "tournament_year_2014",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2014 Indian Premier League",
+                "url": "/read/ta/2014_indian_premier_league",
+                "contentUrl": "/static/content/ta/2014_indian_premier_league.json",
+                "id": "tournament_card_2014_indian_premier_league",
+                "value": {
+                  "label": "போட்டியில்",
+                  "image": {
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "altText": "Image of 2014 Indian Premier League"
+                  }
+                }
+              },
+              {
+                "label": "Kolkata Knight Riders",
+                "url": "/read/ta/kolkata_knight_riders",
+                "contentUrl": "/static/content/ta/kolkata_knight_riders.json",
+                "id": "winner_card_kolkata_knight_riders",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Kolkata_Knight_Riders_Logo.svg",
+                    "altText": "Image of Kolkata Knight Riders"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2015",
+          "id": "tournament_year_2015",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2015 Indian Premier League",
+                "url": "/read/ta/2015_indian_premier_league",
+                "contentUrl": "/static/content/ta/2015_indian_premier_league.json",
+                "id": "tournament_card_2015_indian_premier_league",
+                "value": {
+                  "label": "போட்டியில்",
+                  "image": {
+                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
+                    "altText": "Image of 2015 Indian Premier League"
+                  }
+                }
+              },
+              {
+                "label": "மும்பை இண்டியன்ஸ்",
+                "url": "/read/ta/mumbai_indians",
+                "contentUrl": "/static/content/ta/mumbai_indians.json",
+                "id": "winner_card_மும்பை_இண்டியன்ஸ்",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Mumbai_Indians_Logo.svg",
+                    "altText": "Image of மும்பை இண்டியன்ஸ்"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2016",
+          "id": "tournament_year_2016",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2016 இந்தியன் ப்ரீமியர் லீக்",
+                "url": "/read/ta/2016_indian_premier_league",
+                "contentUrl": "/static/content/ta/2016_indian_premier_league.json",
+                "id": "tournament_card_2016_இந்தியன்_ப்ரீமியர்_லீக்",
+                "value": {
+                  "label": "போட்டியில்",
+                  "image": {
+                    "altText": "Image of 2016 இந்தியன் ப்ரீமியர் லீக்",
+                    "license": ""
+                  }
+                }
+              },
+              {
+                "label": "Sunrisers Hyderabad",
+                "url": "/read/ta/sunrisers_hyderabad",
+                "contentUrl": "/static/content/ta/sunrisers_hyderabad.json",
+                "id": "winner_card_sunrisers_hyderabad",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Sunrisers_Hyderabad.svg",
+                    "altText": "Image of Sunrisers Hyderabad"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2017",
+          "id": "tournament_year_2017",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2017 Indian Premier League",
+                "url": "/read/ta/2017_indian_premier_league",
+                "contentUrl": "/static/content/ta/2017_indian_premier_league.json",
+                "id": "tournament_card_2017_indian_premier_league",
+                "value": {
+                  "label": "போட்டியில்",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of 2017 Indian Premier League"
+                  }
+                }
+              },
+              {
+                "label": "மும்பை இண்டியன்ஸ்",
+                "url": "/read/ta/mumbai_indians",
+                "contentUrl": "/static/content/ta/mumbai_indians.json",
+                "id": "winner_card_மும்பை_இண்டியன்ஸ்",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Mumbai_Indians_Logo.svg",
+                    "altText": "Image of மும்பை இண்டியன்ஸ்"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2018",
+          "id": "tournament_year_2018",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2018 Indian Premier League",
+                "url": "/read/ta/2018_indian_premier_league",
+                "contentUrl": "/static/content/ta/2018_indian_premier_league.json",
+                "id": "tournament_card_2018_indian_premier_league",
+                "value": {
+                  "label": "போட்டியில்",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of 2018 Indian Premier League"
+                  }
+                }
+              },
+              {
+                "label": "சென்னை சூப்பர் கிங்க்ஸ்",
+                "url": "/read/ta/chennai_super_kings",
+                "contentUrl": "/static/content/ta/chennai_super_kings.json",
+                "id": "winner_card_சென்னை_சூப்பர்_கிங்க்ஸ்",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Image of சென்னை சூப்பர் கிங்க்ஸ்"
                   }
                 }
               }
@@ -97,8 +487,8 @@
           "value": {
             "label": "கிரிஸ் கெயில், ஸ்ரீலங்கா",
             "image": {
-              "altText": "Picture of கிரிஸ் கெயில்",
-              "license": ""
+              "url": "/static/images/master/ChrisGayle_Cropped.jpg",
+              "altText": "Picture of கிரிஸ் கெயில்"
             }
           }
         },

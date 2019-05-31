@@ -7,7 +7,7 @@ const {
   getCardInfoFromId
 } = require("./lib");
 const idMap = require("../static/content/article_ids.json");
-const { eventsUiStrings } = require("./ui_strings");
+const { eventsUiStrings, teamUIStrings } = require("./ui_strings");
 
 const csvExports = {
   en: { path: "./csv/events_individual.en.csv" },
@@ -63,6 +63,69 @@ const STATISTICS = [
 
 const FINAL_CHAMPION_KEY = "Champion Card ID";
 const FINAL_RUNNER_UP_KEY = "Runner Up Card ID";
+
+const HISTORY = [
+  {
+    YEAR_KEY: "Tournament year 1",
+    TOURNAMENT_ID_KEY: "Tournament Year 1 Card",
+    WINNER_ID_KEY: "Winner 1 Card"
+  },
+  {
+    YEAR_KEY: "Tournament year 2",
+    TOURNAMENT_ID_KEY: "Tournament Year 2 Card",
+    WINNER_ID_KEY: "Winner Card 2"
+  },
+  {
+    YEAR_KEY: "Tournament year 3",
+    TOURNAMENT_ID_KEY: "Tournament Year 3 Card",
+    WINNER_ID_KEY: "Winner Card 3"
+  },
+  {
+    YEAR_KEY: "Tournament year 4",
+    TOURNAMENT_ID_KEY: "Tournament Year 4 Card",
+    WINNER_ID_KEY: "Winner Card 4"
+  },
+  {
+    YEAR_KEY: "Tournament year 5",
+    TOURNAMENT_ID_KEY: "Tournament Year 5 Card",
+    WINNER_ID_KEY: "Winner Card 5"
+  },
+  {
+    YEAR_KEY: "Tournament year 6",
+    TOURNAMENT_ID_KEY: "Tournament Year 6 Card",
+    WINNER_ID_KEY: "Winner Card 6"
+  },
+  {
+    YEAR_KEY: "Tournament year 7",
+    TOURNAMENT_ID_KEY: "Tournament year 7 Card",
+    WINNER_ID_KEY: "Winner Card 7"
+  },
+  {
+    YEAR_KEY: "Tournament year 8",
+    TOURNAMENT_ID_KEY: "Tournament year 8 Card",
+    WINNER_ID_KEY: "Winner Card 8"
+  },
+  {
+    YEAR_KEY: "Tournament year 9",
+    TOURNAMENT_ID_KEY: "Tournament Year 9 Card",
+    WINNER_ID_KEY: "Winner Card 9"
+  },
+  {
+    YEAR_KEY: "Tournament year 10",
+    TOURNAMENT_ID_KEY: "Tournament Year 10 Card",
+    WINNER_ID_KEY: "Winner Card 10"
+  },
+  {
+    YEAR_KEY: "Tournament year 11",
+    TOURNAMENT_ID_KEY: "Tournament Year 11 Card",
+    WINNER_ID_KEY: "Winner Card 11"
+  },
+  {
+    YEAR_KEY: "Tournament year 12",
+    TOURNAMENT_ID_KEY: "Tournament Year 12 Card",
+    WINNER_ID_KEY: "Winner Card 12"
+  }
+];
 
 module.exports.exportEventsIndividual = () => {
   Object.keys(csvExports).forEach(lang => {
@@ -207,6 +270,82 @@ module.exports.exportEventsIndividual = () => {
       }
 
       // Tournament history.
+      let historyFacts = await Promise.all(
+        HISTORY.map(async history => {
+          if (!record[history.TOURNAMENT_ID_KEY]) {
+            return null;
+          }
+
+          const tournamentCard = getCardInfoFromId(
+            idMap,
+            record[history.TOURNAMENT_ID_KEY],
+            lang
+          );
+          const winnerCard = getCardInfoFromId(
+            idMap,
+            record[history.WINNER_ID_KEY],
+            lang
+          );
+
+          if (!tournamentCard || !winnerCard) {
+            return null;
+          }
+
+          return {
+            label: record[history.YEAR_KEY],
+            id: `tournament_year_${record[history.YEAR_KEY]}`,
+            value: {
+              label: "",
+              facts: [
+                {
+                  label: tournamentCard.title,
+                  url: tournamentCard.url,
+                  contentUrl: tournamentCard.contentUrl,
+                  id: `tournament_card_${getSluggedTitle(
+                    tournamentCard.title
+                  )}`,
+                  value: {
+                    label: eventsUiStrings.tournament[lang],
+                    image: await downloadImageAndFillAttributions(
+                      {
+                        url: tournamentCard.imageUrl,
+                        altText: `Image of ${tournamentCard.title}`
+                      },
+                      englishSlug
+                    )
+                  }
+                },
+                {
+                  label: winnerCard.title,
+                  url: winnerCard.url,
+                  contentUrl: winnerCard.contentUrl,
+                  id: `winner_card_${getSluggedTitle(winnerCard.title)}`,
+                  value: {
+                    label: eventsUiStrings.champion[lang],
+                    image: await downloadImageAndFillAttributions(
+                      {
+                        url: winnerCard.imageUrl,
+                        altText: `Image of ${winnerCard.title}`
+                      },
+                      englishSlug
+                    )
+                  }
+                }
+              ]
+            }
+          };
+        })
+      );
+
+      historyFacts = historyFacts.filter(f => !!f);
+
+      if (historyFacts.length > 0) {
+        event.sections.push({
+          title: teamUIStrings.historySectionTitle[lang],
+          cardType: "horizontal_timeline",
+          facts: historyFacts
+        });
+      }
 
       // Statistics.
       let statisticsFacts = await Promise.all(

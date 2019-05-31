@@ -1,0 +1,568 @@
+{
+  "title": "1975 Cricket World Cup",
+  "summary": "The 1975 Cricket World Cup (officially called the Prudential Cup '75) was the first edition of the Cricket World Cup, organised by the International Cricket Conference (ICC) and was the first major limited overs One Day International (ODI) cricket tournament to be held. It was held from 7 to 21 June 1975 in England.",
+  "wikipediaUrl": "https://ta.wikipedia.org/wiki/1975_%E0%AE%A4%E0%AF%81%E0%AE%9F%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F_%E0%AE%89%E0%AE%B2%E0%AE%95%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%A3%E0%AF%8D%E0%AE%A3%E0%AE%AE%E0%AF%8D",
+  "coverImage": {
+    "url": "/static/images/master/Prudential_Cup_75_logo.svg",
+    "altText": "Image of 1975 Cricket World Cup"
+  },
+  "translations": [
+    {
+      "lang": "en",
+      "title": "1975 Cricket World Cup",
+      "url": "/read/en/1975_cricket_world_cup"
+    },
+    {
+      "lang": "hi",
+      "title": "1975 क्रिकेट विश्व कप",
+      "url": "/read/hi/1975_cricket_world_cup"
+    }
+  ],
+  "sections": [
+    {
+      "title": "தெரிந்து கொள்ளுங்கள்",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "தேதிகள்",
+          "value": {
+            "label": "7 June–21 June"
+          }
+        },
+        {
+          "label": "வடிவம்",
+          "value": {
+            "label": "One Day International"
+          }
+        },
+        {
+          "label": "சாம்பியன்ஸ்",
+          "value": {
+            "label": "West Indies (1st title)",
+            "url": "/read/ta/west_indies_cricket_team",
+            "contentUrl": "/static/content/ta/west_indies_cricket_team.json"
+          }
+        },
+        {
+          "label": "இரண்டாம் இடம் பெற்ற அணி",
+          "value": {
+            "label": "Australia",
+            "url": "/read/ta/australia_cricket_team",
+            "contentUrl": "/static/content/ta/australia_cricket_team.json"
+          }
+        },
+        {
+          "label": "அணிகளின் எண்ணிக்கை",
+          "value": {
+            "label": "8"
+          }
+        }
+      ]
+    },
+    {
+      "title": "நிகழ்ச்சி நடத்துனர்கள்",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_1975_cricket_world_cup",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "இங்கிலாந்து",
+                "url": "/read/ta/england",
+                "contentUrl": "/static/content/ta/england.json",
+                "value": {
+                  "label": "இங்கிலாந்து ஐக்கிய இராஜ்ஜியத்தின் ஒரு பகுதியாகும். இது மேற்கே வேல்ஸ் மற்றும் வடகிழக்கில் ஸ்காட்லாந்து வரை பரவியுள்ளது. ",
+                  "image": {
+                    "url": "/static/images/master/Flag_of_England.svg",
+                    "altText": "இங்கிலாந்து"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "வரலாறு",
+      "cardType": "horizontal_timeline",
+      "facts": [
+        {
+          "label": "1975",
+          "id": "tournament_year_1975",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "1975 Cricket World Cup",
+                "url": "/read/ta/1975_cricket_world_cup",
+                "contentUrl": "/static/content/ta/1975_cricket_world_cup.json",
+                "id": "tournament_card_1975_cricket_world_cup",
+                "value": {
+                  "label": "போட்டியில்",
+                  "image": {
+                    "url": "/static/images/master/Prudential_Cup_75_logo.svg",
+                    "altText": "Image of 1975 Cricket World Cup"
+                  }
+                }
+              },
+              {
+                "label": "வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி",
+                "url": "/read/ta/west_indies_cricket_team",
+                "contentUrl": "/static/content/ta/west_indies_cricket_team.json",
+                "id": "winner_card_வெஸ்ட்_இன்டீஸ்_கிரிக்கெட்_அணி",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/West_indies_cricket_board_flag.png",
+                    "altText": "Image of வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "1979",
+          "id": "tournament_year_1979",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "1979 Cricket World Cup",
+                "url": "/read/ta/1979_cricket_world_cup",
+                "contentUrl": "/static/content/ta/1979_cricket_world_cup.json",
+                "id": "tournament_card_1979_cricket_world_cup",
+                "value": {
+                  "label": "போட்டியில்",
+                  "image": {
+                    "url": "/static/images/master/Prudential_Cup_79_logo.svg",
+                    "altText": "Image of 1979 Cricket World Cup"
+                  }
+                }
+              },
+              {
+                "label": "வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி",
+                "url": "/read/ta/west_indies_cricket_team",
+                "contentUrl": "/static/content/ta/west_indies_cricket_team.json",
+                "id": "winner_card_வெஸ்ட்_இன்டீஸ்_கிரிக்கெட்_அணி",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/West_indies_cricket_board_flag.png",
+                    "altText": "Image of வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "1983",
+          "id": "tournament_year_1983",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "1983 கிரிக்கெட் உலகக் கோப்பை",
+                "url": "/read/ta/1983_cricket_world_cup",
+                "contentUrl": "/static/content/ta/1983_cricket_world_cup.json",
+                "id": "tournament_card_1983_கிரிக்கெட்_உலகக்_கோப்பை",
+                "value": {
+                  "label": "போட்டியில்",
+                  "image": {
+                    "url": "/static/images/master/Prudential_Cup_83_logo.svg",
+                    "altText": "Image of 1983 கிரிக்கெட் உலகக் கோப்பை"
+                  }
+                }
+              },
+              {
+                "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+                "url": "/read/ta/india_national_cricket_team",
+                "contentUrl": "/static/content/ta/india_national_cricket_team.json",
+                "id": "winner_card_இந்திய_தேசிய_கிரிக்கெட்_அணி",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "altText": "Image of இந்திய தேசிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "1987",
+          "id": "tournament_year_1987",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "1987 Cricket World Cup",
+                "url": "/read/ta/1987_cricket_world_cup",
+                "contentUrl": "/static/content/ta/1987_cricket_world_cup.json",
+                "id": "tournament_card_1987_cricket_world_cup",
+                "value": {
+                  "label": "போட்டியில்",
+                  "image": {
+                    "altText": "Image of 1987 Cricket World Cup",
+                    "license": ""
+                  }
+                }
+              },
+              {
+                "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+                "url": "/read/ta/australia_cricket_team",
+                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Image of ஆஸ்திரேலிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "1992",
+          "id": "tournament_year_1992",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "1992 Cricket World Cup",
+                "url": "/read/ta/1992_cricket_world_cup",
+                "contentUrl": "/static/content/ta/1992_cricket_world_cup.json",
+                "id": "tournament_card_1992_cricket_world_cup",
+                "value": {
+                  "label": "போட்டியில்",
+                  "image": {
+                    "url": "/static/images/master/World_Cup_1992_logo.svg",
+                    "altText": "Image of 1992 Cricket World Cup"
+                  }
+                }
+              },
+              {
+                "label": "Pakistan national cricket team",
+                "url": "/read/ta/pakistan_national_cricket_team",
+                "contentUrl": "/static/content/ta/pakistan_national_cricket_team.json",
+                "id": "winner_card_pakistan_national_cricket_team",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/PakistanCricketLogo.png",
+                    "altText": "Image of Pakistan national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "1996",
+          "id": "tournament_year_1996",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "1996 கிரிக்கெட் உலகக் கோப்பை",
+                "url": "/read/ta/1996_cricket_world_cup",
+                "contentUrl": "/static/content/ta/1996_cricket_world_cup.json",
+                "id": "tournament_card_1996_கிரிக்கெட்_உலகக்_கோப்பை",
+                "value": {
+                  "label": "போட்டியில்",
+                  "image": {
+                    "url": "/static/images/master/Wills_World_Cup_1996.svg",
+                    "altText": "Image of 1996 கிரிக்கெட் உலகக் கோப்பை"
+                  }
+                }
+              },
+              {
+                "label": "Sri Lanka national cricket team",
+                "url": "/read/ta/sri_lanka_national_cricket_team",
+                "contentUrl": "/static/content/ta/sri_lanka_national_cricket_team.json",
+                "id": "winner_card_sri_lanka_national_cricket_team",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Sri_Lanka_Cricket_Cap_Insignia.svg",
+                    "altText": "Image of Sri Lanka national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "1999",
+          "id": "tournament_year_1999",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "1999 கிரிக்கெட் உலகக் கோப்பை",
+                "url": "/read/ta/1999_cricket_world_cup",
+                "contentUrl": "/static/content/ta/1999_cricket_world_cup.json",
+                "id": "tournament_card_1999_கிரிக்கெட்_உலகக்_கோப்பை",
+                "value": {
+                  "label": "போட்டியில்",
+                  "image": {
+                    "url": "/static/images/master/Wc99.png",
+                    "altText": "Image of 1999 கிரிக்கெட் உலகக் கோப்பை"
+                  }
+                }
+              },
+              {
+                "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+                "url": "/read/ta/australia_cricket_team",
+                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Image of ஆஸ்திரேலிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2003",
+          "id": "tournament_year_2003",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2003 கிரிக்கெட் உலகக் கோப்பை",
+                "url": "/read/ta/2003_cricket_world_cup",
+                "contentUrl": "/static/content/ta/2003_cricket_world_cup.json",
+                "id": "tournament_card_2003_கிரிக்கெட்_உலகக்_கோப்பை",
+                "value": {
+                  "label": "போட்டியில்",
+                  "image": {
+                    "url": "/static/images/master/Cricket_World_Cup_Logo_2003.svg",
+                    "altText": "Image of 2003 கிரிக்கெட் உலகக் கோப்பை"
+                  }
+                }
+              },
+              {
+                "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+                "url": "/read/ta/australia_cricket_team",
+                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Image of ஆஸ்திரேலிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2007",
+          "id": "tournament_year_2007",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2007 கிரிக்கெட் உலகக் கோப்பை",
+                "url": "/read/ta/2007_cricket_world_cup",
+                "contentUrl": "/static/content/ta/2007_cricket_world_cup.json",
+                "id": "tournament_card_2007_கிரிக்கெட்_உலகக்_கோப்பை",
+                "value": {
+                  "label": "போட்டியில்",
+                  "image": {
+                    "url": "/static/images/master/2007_Cricket_World_Cup_logo.svg",
+                    "altText": "Image of 2007 கிரிக்கெட் உலகக் கோப்பை"
+                  }
+                }
+              },
+              {
+                "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+                "url": "/read/ta/australia_cricket_team",
+                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Image of ஆஸ்திரேலிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2011",
+          "id": "tournament_year_2011",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2011 கிரிக்கெட் உலகக் கோப்பை",
+                "url": "/read/ta/2011_cricket_world_cup",
+                "contentUrl": "/static/content/ta/2011_cricket_world_cup.json",
+                "id": "tournament_card_2011_கிரிக்கெட்_உலகக்_கோப்பை",
+                "value": {
+                  "label": "போட்டியில்",
+                  "image": {
+                    "url": "/static/images/master/2011_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2011 கிரிக்கெட் உலகக் கோப்பை"
+                  }
+                }
+              },
+              {
+                "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+                "url": "/read/ta/india_national_cricket_team",
+                "contentUrl": "/static/content/ta/india_national_cricket_team.json",
+                "id": "winner_card_இந்திய_தேசிய_கிரிக்கெட்_அணி",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "altText": "Image of இந்திய தேசிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2015",
+          "id": "tournament_year_2015",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2015 கிரிக்கெட் உலகக் கோப்பை",
+                "url": "/read/ta/2015_cricket_world_cup",
+                "contentUrl": "/static/content/ta/2015_cricket_world_cup.json",
+                "id": "tournament_card_2015_கிரிக்கெட்_உலகக்_கோப்பை",
+                "value": {
+                  "label": "போட்டியில்",
+                  "image": {
+                    "url": "/static/images/master/2015_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2015 கிரிக்கெட் உலகக் கோப்பை"
+                  }
+                }
+              },
+              {
+                "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+                "url": "/read/ta/australia_cricket_team",
+                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Image of ஆஸ்திரேலிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "புள்ளியியல்",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "தொடர் நாயகன்",
+          "id": "man_of_the_series",
+          "value": {
+            "label": "No 'Man of the Series' was awarded in 1975., Australia",
+            "image": {
+              "url": "",
+              "altText": "Picture of No 'Man of the Series' was awarded in 1975."
+            }
+          }
+        },
+        {
+          "label": "அதிக ரன் எடுத்தவர்",
+          "id": "most_runs_scored/_orange_cap",
+          "value": {
+            "label": "Glenn Turner (333), Australia",
+            "image": {
+              "url": "",
+              "altText": "Picture of Glenn Turner (333)"
+            }
+          }
+        },
+        {
+          "label": "அதிக விக்கெட் எடுத்தவர்",
+          "id": "most_wickets_taken/_purple_cap",
+          "value": {
+            "label": "Gary Gilmour (11), Australia",
+            "image": {
+              "url": "",
+              "altText": "Picture of Gary Gilmour (11)"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Final Positions",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "சாம்பியன்ஸ்",
+          "id": "final-positions-champion",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி",
+                "url": "/read/ta/west_indies_cricket_team",
+                "contentUrl": "/static/content/ta/west_indies_cricket_team.json",
+                "value": {
+                  "label": "பாரம்பரியமாக வின்டீஸ் என அழைக்கப்படுகின்ற வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி, ஆங்கிலோபோன் கரீபியன் பகுதியைப் பிரதிநிதித்துவப்படுத்தும் ஒரு பன்னாட்டு கிரிக்கெட் அணியாகும், இது கிரிக்கெட் வெஸ்ட் இன்டீஸால் நிர்வகிக்கப்படுகிறது. இந்த கலப்புக் குழுவிலுள்ள வீரர்கள் பதினைந்து கரீபியன் பிரதேசங்களிலிருந்து தேர்ந்தெடுக்கப்படுகின்றனர்",
+                  "image": {
+                    "url": "/static/images/master/West_indies_cricket_board_flag.png",
+                    "altText": "Picture of வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "இரண்டாம் இடம் பெற்ற அணி",
+          "id": "final-positions-runner-up",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+                "url": "/read/ta/australia_cricket_team",
+                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "value": {
+                  "label": "ஆஸ்திரேலிய தேசிய கிரிக்கெட் அணி 1877 ஆம் ஆண்டு நடைபெற்ற முதன்முதல் டெஸ்ட் போட்டியில் விளையாடிய, ஒரு மிகப் பழமையான அணியாகும்.",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Picture of வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

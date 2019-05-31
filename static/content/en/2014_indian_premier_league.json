@@ -1,0 +1,569 @@
+{
+  "title": "2014 Indian Premier League",
+  "summary": "The 2014 season of the Indian Premier League, abbreviated as IPL 7 or Pepsi IPL 2014, was the seventh season of the IPL. The tournament featured eight teams, one fewer than in 2013 after the withdrawal of the Pune Warriors India. It was held from 16 April 2014 to 1 June 2014. ",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/2014_Indian_Premier_League",
+  "coverImage": {
+    "url": "/static/images/master/Cricket_India_Crest.svg",
+    "altText": "Image of 2014 Indian Premier League"
+  },
+  "translations": [
+    {
+      "lang": "hi",
+      "title": "2014 इंडियन प्रीमियर लीग",
+      "url": "/read/hi/2014_indian_premier_league"
+    },
+    {
+      "lang": "ta",
+      "title": "2014 Indian Premier League",
+      "url": "/read/ta/2014_indian_premier_league"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Dates",
+          "value": {
+            "label": "16 April - 1 June"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": "Twenty20"
+          }
+        },
+        {
+          "label": "Champions",
+          "value": {
+            "label": "Kolkata Knight Riders (2nd title)",
+            "url": "/read/en/kolkata_knight_riders",
+            "contentUrl": "/static/content/en/kolkata_knight_riders.json"
+          }
+        },
+        {
+          "label": "Runners Up",
+          "value": {
+            "label": "Kings XI Punjab",
+            "url": "/read/en/kings_xi_punjab",
+            "contentUrl": "/static/content/en/kings_xi_punjab.json"
+          }
+        },
+        {
+          "label": "Number of Teams",
+          "value": {
+            "label": "8"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hosts",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_2014_indian_premier_league",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India",
+                "url": "/read/en/india",
+                "contentUrl": "/static/content/en/india.json",
+                "value": {
+                  "label": "India, also known as the Republic of India is a country in South Asia. It is the seventh largest country by area with more than 1.3 billion people. It is the second most populous country as well as the most populous democracy in the world.",
+                  "image": {
+                    "url": "/static/images/master/India_topo_big.jpg",
+                    "altText": "India"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "horizontal_timeline",
+      "facts": [
+        {
+          "label": "2008",
+          "id": "tournament_year_2008",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2008 Indian Premier League",
+                "url": "/read/en/2008_indian_premier_league",
+                "contentUrl": "/static/content/en/2008_indian_premier_league.json",
+                "id": "tournament_card_2008_indian_premier_league",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "altText": "Image of 2008 Indian Premier League"
+                  }
+                }
+              },
+              {
+                "label": "Rajasthan Royals",
+                "url": "/read/en/rajasthan_royals",
+                "contentUrl": "/static/content/en/rajasthan_royals.json",
+                "id": "winner_card_rajasthan_royals",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/RR-LOGO-1.png",
+                    "altText": "Image of Rajasthan Royals"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2009",
+          "id": "tournament_year_2009",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2009 Indian Premier League",
+                "url": "/read/en/2009_indian_premier_league",
+                "contentUrl": "/static/content/en/2009_indian_premier_league.json",
+                "id": "tournament_card_2009_indian_premier_league",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "url": "/static/images/master/Ipl.svg",
+                    "altText": "Image of 2009 Indian Premier League"
+                  }
+                }
+              },
+              {
+                "label": "Sunrisers Hyderabad",
+                "url": "/read/en/sunrisers_hyderabad",
+                "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
+                "id": "winner_card_sunrisers_hyderabad",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/Sunrisers_Hyderabad.svg",
+                    "altText": "Image of Sunrisers Hyderabad"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2010",
+          "id": "tournament_year_2010",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2010 Indian Premier League",
+                "url": "/read/en/2010_indian_premier_league",
+                "contentUrl": "/static/content/en/2010_indian_premier_league.json",
+                "id": "tournament_card_2010_indian_premier_league",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "url": "/static/images/master/IPL_T20_Chennai_vs_Kolkata.JPG",
+                    "altText": "Image of 2010 Indian Premier League"
+                  }
+                }
+              },
+              {
+                "label": "Chennai Super Kings",
+                "url": "/read/en/chennai_super_kings",
+                "contentUrl": "/static/content/en/chennai_super_kings.json",
+                "id": "winner_card_chennai_super_kings",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Image of Chennai Super Kings"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2011",
+          "id": "tournament_year_2011",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2011 Indian Premier League",
+                "url": "/read/en/2011_indian_premier_league",
+                "contentUrl": "/static/content/en/2011_indian_premier_league.json",
+                "id": "tournament_card_2011_indian_premier_league",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "url": "/static/images/master/Ma_ChidambaramStadium_panaroma.jpg",
+                    "altText": "Image of 2011 Indian Premier League"
+                  }
+                }
+              },
+              {
+                "label": "Chennai Super Kings",
+                "url": "/read/en/chennai_super_kings",
+                "contentUrl": "/static/content/en/chennai_super_kings.json",
+                "id": "winner_card_chennai_super_kings",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Image of Chennai Super Kings"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2012",
+          "id": "tournament_year_2012",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2012 Indian Premier League",
+                "url": "/read/en/2012_indian_premier_league",
+                "contentUrl": "/static/content/en/2012_indian_premier_league.json",
+                "id": "tournament_card_2012_indian_premier_league",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
+                    "altText": "Image of 2012 Indian Premier League"
+                  }
+                }
+              },
+              {
+                "label": "Kolkata Knight Riders",
+                "url": "/read/en/kolkata_knight_riders",
+                "contentUrl": "/static/content/en/kolkata_knight_riders.json",
+                "id": "winner_card_kolkata_knight_riders",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/Kolkata_Knight_Riders_Logo.svg",
+                    "altText": "Image of Kolkata Knight Riders"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2013",
+          "id": "tournament_year_2013",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2013 Indian Premier League",
+                "url": "/read/en/2013_indian_premier_league",
+                "contentUrl": "/static/content/en/2013_indian_premier_league.json",
+                "id": "tournament_card_2013_indian_premier_league",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "url": "/static/images/master/Sahara_Stadium_Pune_4.jpg",
+                    "altText": "Image of 2013 Indian Premier League"
+                  }
+                }
+              },
+              {
+                "label": "Mumbai Indians",
+                "url": "/read/en/mumbai_indians",
+                "contentUrl": "/static/content/en/mumbai_indians.json",
+                "id": "winner_card_mumbai_indians",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/Mumbai_Indians_Logo.svg",
+                    "altText": "Image of Mumbai Indians"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2014",
+          "id": "tournament_year_2014",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2014 Indian Premier League",
+                "url": "/read/en/2014_indian_premier_league",
+                "contentUrl": "/static/content/en/2014_indian_premier_league.json",
+                "id": "tournament_card_2014_indian_premier_league",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "altText": "Image of 2014 Indian Premier League"
+                  }
+                }
+              },
+              {
+                "label": "Kolkata Knight Riders",
+                "url": "/read/en/kolkata_knight_riders",
+                "contentUrl": "/static/content/en/kolkata_knight_riders.json",
+                "id": "winner_card_kolkata_knight_riders",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/Kolkata_Knight_Riders_Logo.svg",
+                    "altText": "Image of Kolkata Knight Riders"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2015",
+          "id": "tournament_year_2015",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2015 Indian Premier League",
+                "url": "/read/en/2015_indian_premier_league",
+                "contentUrl": "/static/content/en/2015_indian_premier_league.json",
+                "id": "tournament_card_2015_indian_premier_league",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
+                    "altText": "Image of 2015 Indian Premier League"
+                  }
+                }
+              },
+              {
+                "label": "Mumbai Indians",
+                "url": "/read/en/mumbai_indians",
+                "contentUrl": "/static/content/en/mumbai_indians.json",
+                "id": "winner_card_mumbai_indians",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/Mumbai_Indians_Logo.svg",
+                    "altText": "Image of Mumbai Indians"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2016",
+          "id": "tournament_year_2016",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2016 Indian Premier League",
+                "url": "/read/en/2016_indian_premier_league",
+                "contentUrl": "/static/content/en/2016_indian_premier_league.json",
+                "id": "tournament_card_2016_indian_premier_league",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "altText": "Image of 2016 Indian Premier League",
+                    "license": ""
+                  }
+                }
+              },
+              {
+                "label": "Sunrisers Hyderabad",
+                "url": "/read/en/sunrisers_hyderabad",
+                "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
+                "id": "winner_card_sunrisers_hyderabad",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/Sunrisers_Hyderabad.svg",
+                    "altText": "Image of Sunrisers Hyderabad"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2017",
+          "id": "tournament_year_2017",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2017 Indian Premier League",
+                "url": "/read/en/2017_indian_premier_league",
+                "contentUrl": "/static/content/en/2017_indian_premier_league.json",
+                "id": "tournament_card_2017_indian_premier_league",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of 2017 Indian Premier League"
+                  }
+                }
+              },
+              {
+                "label": "Mumbai Indians",
+                "url": "/read/en/mumbai_indians",
+                "contentUrl": "/static/content/en/mumbai_indians.json",
+                "id": "winner_card_mumbai_indians",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/Mumbai_Indians_Logo.svg",
+                    "altText": "Image of Mumbai Indians"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2018",
+          "id": "tournament_year_2018",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2018 Indian Premier League",
+                "url": "/read/en/2018_indian_premier_league",
+                "contentUrl": "/static/content/en/2018_indian_premier_league.json",
+                "id": "tournament_card_2018_indian_premier_league",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of 2018 Indian Premier League"
+                  }
+                }
+              },
+              {
+                "label": "Chennai Super Kings",
+                "url": "/read/en/chennai_super_kings",
+                "contentUrl": "/static/content/en/chennai_super_kings.json",
+                "id": "winner_card_chennai_super_kings",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Image of Chennai Super Kings"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Statistics",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Man of the series",
+          "id": "man_of_the_series",
+          "value": {
+            "label": "Glenn Maxwell , India",
+            "image": {
+              "url": "/static/images/master/2018.02.03.22.38.28-Glenn_Maxwell-0003_282555792666729_28cropped29.jpg",
+              "altText": "Picture of Glenn Maxwell ",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Most runs",
+          "id": "most_runs_scored/_orange_cap",
+          "value": {
+            "label": "Robin Uthappa, India",
+            "image": {
+              "url": "/static/images/master/Robin_Uthappa_on_the_Show.jpg",
+              "altText": "Picture of Robin Uthappa"
+            }
+          }
+        },
+        {
+          "label": "Most wickets",
+          "id": "most_wickets_taken/_purple_cap",
+          "value": {
+            "label": "Mohit Sharma, India",
+            "image": {
+              "url": "",
+              "altText": "Picture of Mohit Sharma"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Final Positions",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "Champions",
+          "id": "final-positions-champion",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Kolkata Knight Riders",
+                "url": "/read/en/kolkata_knight_riders",
+                "contentUrl": "/static/content/en/kolkata_knight_riders.json",
+                "value": {
+                  "label": "The Kolkata Knight Riders (also known by the acronym KKR) are a franchise cricket team representing the city of Kolkata in the Indian Premier League. ",
+                  "image": {
+                    "url": "/static/images/master/Kolkata_Knight_Riders_Logo.svg",
+                    "altText": "Picture of Kolkata Knight Riders"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Runners Up",
+          "id": "final-positions-runner-up",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Kings XI Punjab",
+                "url": "/read/en/kings_xi_punjab",
+                "contentUrl": "/static/content/en/kings_xi_punjab.json",
+                "value": {
+                  "label": "The Kings XI Punjab (KXIP) are a franchise cricket team based in Mohali (Chandigarh CR), Punjab, that plays in the Indian Premier League. ",
+                  "image": {
+                    "url": "/static/images/master/Kings_XI_Punjab_logo.svg",
+                    "altText": "Picture of Kolkata Knight Riders"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

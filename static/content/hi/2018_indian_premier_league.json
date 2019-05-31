@@ -1,0 +1,570 @@
+{
+  "title": "2018 इंडियन प्रीमियर लीग",
+  "summary": "इंडियन प्रीमियर लीग का 2018 का सीज़न, जिसे आईपीएल 11 के रूप में भी जाना जाता है, पेशेवर ट्वेंटी 20 क्रिकेट लीग आईपीएल का ग्यारहवां सीज़न था। 7 अप्रैल से 27 मई तक आयोजित किये गए इस सीज़न में चेन्नई सुपर किंग्स और राजस्थान रॉयल्स की दो साल के निलंबन के बाद वापसी हुई थी।",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A5%A8%E0%A5%A6%E0%A5%A7%E0%A5%AE_%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%A8_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE%E0%A4%BF%E0%A4%AF%E0%A4%B0_%E0%A4%B2%E0%A5%80%E0%A4%97",
+  "coverImage": {
+    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+    "altText": "Image of 2018 इंडियन प्रीमियर लीग"
+  },
+  "translations": [
+    {
+      "lang": "en",
+      "title": "2018 Indian Premier League",
+      "url": "/read/en/2018_indian_premier_league"
+    },
+    {
+      "lang": "ta",
+      "title": "2018 Indian Premier League",
+      "url": "/read/ta/2018_indian_premier_league"
+    }
+  ],
+  "sections": [
+    {
+      "title": "इसके बारे में",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "तिथियां",
+          "value": {
+            "label": "7 अप्रैल - 27 मई"
+          }
+        },
+        {
+          "label": "स्वरूप",
+          "value": {
+            "label": "ट्वेंटी-20"
+          }
+        },
+        {
+          "label": "विजेता",
+          "value": {
+            "label": "चेन्नई सुपर किंग्स",
+            "url": "/read/hi/chennai_super_kings",
+            "contentUrl": "/static/content/hi/chennai_super_kings.json"
+          }
+        },
+        {
+          "label": "उपविजेता",
+          "value": {
+            "label": "सनराइजर्स हैदराबाद",
+            "url": "/read/hi/sunrisers_hyderabad",
+            "contentUrl": "/static/content/hi/sunrisers_hyderabad.json"
+          }
+        },
+        {
+          "label": "टीमों की संख्या",
+          "value": {
+            "label": "8"
+          }
+        }
+      ]
+    },
+    {
+      "title": "मेजबान",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "",
+          "id": "host_card_2018_indian_premier_league",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "भारत",
+                "url": "/read/hi/india",
+                "contentUrl": "/static/content/hi/india.json",
+                "value": {
+                  "label": "भारत, जिसे भारत गणराज्य के रूप में भी जाना जाता है, दक्षिण एशिया का एक देश है। यह 1.3 बिलियन से ज्यादा आबादी के साथ  क्षेत्रफल में सातवां सबसे बड़ा देश है जहां  के साथ स्थित है  यह दूसरा सबसे अधिक आबादी वाला देश है और साथ ही दुनिया में सबसे अधिक आबादी वाला लोकतंत्र है।",
+                  "image": {
+                    "url": "/static/images/master/India_topo_big.jpg",
+                    "altText": "भारत"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "इतिहास",
+      "cardType": "horizontal_timeline",
+      "facts": [
+        {
+          "label": "2008",
+          "id": "tournament_year_2008",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2008 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2008_indian_premier_league",
+                "contentUrl": "/static/content/hi/2008_indian_premier_league.json",
+                "id": "tournament_card_2008_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "altText": "Image of 2008 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "राजस्थान रॉयल्स",
+                "url": "/read/hi/rajasthan_royals",
+                "contentUrl": "/static/content/hi/rajasthan_royals.json",
+                "id": "winner_card_राजस्थान_रॉयल्स",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/RR-LOGO-1.png",
+                    "altText": "Image of राजस्थान रॉयल्स"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2009",
+          "id": "tournament_year_2009",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2009 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2009_indian_premier_league",
+                "contentUrl": "/static/content/hi/2009_indian_premier_league.json",
+                "id": "tournament_card_2009_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Ipl.svg",
+                    "altText": "Image of 2009 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "सनराइजर्स हैदराबाद",
+                "url": "/read/hi/sunrisers_hyderabad",
+                "contentUrl": "/static/content/hi/sunrisers_hyderabad.json",
+                "id": "winner_card_सनराइजर्स_हैदराबाद",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Sunrisers_Hyderabad.svg",
+                    "altText": "Image of सनराइजर्स हैदराबाद"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2010",
+          "id": "tournament_year_2010",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2010 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2010_indian_premier_league",
+                "contentUrl": "/static/content/hi/2010_indian_premier_league.json",
+                "id": "tournament_card_2010_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/IPL_T20_Chennai_vs_Kolkata.JPG",
+                    "altText": "Image of 2010 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "चेन्नई सुपर किंग्स",
+                "url": "/read/hi/chennai_super_kings",
+                "contentUrl": "/static/content/hi/chennai_super_kings.json",
+                "id": "winner_card_चेन्नई_सुपर_किंग्स",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Image of चेन्नई सुपर किंग्स"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2011",
+          "id": "tournament_year_2011",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2011 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2011_indian_premier_league",
+                "contentUrl": "/static/content/hi/2011_indian_premier_league.json",
+                "id": "tournament_card_2011_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Ma_ChidambaramStadium_panaroma.jpg",
+                    "altText": "Image of 2011 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "चेन्नई सुपर किंग्स",
+                "url": "/read/hi/chennai_super_kings",
+                "contentUrl": "/static/content/hi/chennai_super_kings.json",
+                "id": "winner_card_चेन्नई_सुपर_किंग्स",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Image of चेन्नई सुपर किंग्स"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2012",
+          "id": "tournament_year_2012",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2012 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2012_indian_premier_league",
+                "contentUrl": "/static/content/hi/2012_indian_premier_league.json",
+                "id": "tournament_card_2012_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
+                    "altText": "Image of 2012 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "कोलकाता नाइट राइडर्स",
+                "url": "/read/hi/kolkata_knight_riders",
+                "contentUrl": "/static/content/hi/kolkata_knight_riders.json",
+                "id": "winner_card_कोलकाता_नाइट_राइडर्स",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Kolkata_Knight_Riders_Logo.svg",
+                    "altText": "Image of कोलकाता नाइट राइडर्स"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2013",
+          "id": "tournament_year_2013",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2013 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2013_indian_premier_league",
+                "contentUrl": "/static/content/hi/2013_indian_premier_league.json",
+                "id": "tournament_card_2013_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Sahara_Stadium_Pune_4.jpg",
+                    "altText": "Image of 2013 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "मुंबई इंडियंस",
+                "url": "/read/hi/mumbai_indians",
+                "contentUrl": "/static/content/hi/mumbai_indians.json",
+                "id": "winner_card_मुंबई_इंडियंस",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Mumbai_Indians_Logo.svg",
+                    "altText": "Image of मुंबई इंडियंस"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2014",
+          "id": "tournament_year_2014",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2014 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2014_indian_premier_league",
+                "contentUrl": "/static/content/hi/2014_indian_premier_league.json",
+                "id": "tournament_card_2014_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "altText": "Image of 2014 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "कोलकाता नाइट राइडर्स",
+                "url": "/read/hi/kolkata_knight_riders",
+                "contentUrl": "/static/content/hi/kolkata_knight_riders.json",
+                "id": "winner_card_कोलकाता_नाइट_राइडर्स",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Kolkata_Knight_Riders_Logo.svg",
+                    "altText": "Image of कोलकाता नाइट राइडर्स"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2015",
+          "id": "tournament_year_2015",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2015 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2015_indian_premier_league",
+                "contentUrl": "/static/content/hi/2015_indian_premier_league.json",
+                "id": "tournament_card_2015_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
+                    "altText": "Image of 2015 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "मुंबई इंडियंस",
+                "url": "/read/hi/mumbai_indians",
+                "contentUrl": "/static/content/hi/mumbai_indians.json",
+                "id": "winner_card_मुंबई_इंडियंस",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Mumbai_Indians_Logo.svg",
+                    "altText": "Image of मुंबई इंडियंस"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2016",
+          "id": "tournament_year_2016",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2016 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2016_indian_premier_league",
+                "contentUrl": "/static/content/hi/2016_indian_premier_league.json",
+                "id": "tournament_card_2016_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "altText": "Image of 2016 इंडियन प्रीमियर लीग",
+                    "license": ""
+                  }
+                }
+              },
+              {
+                "label": "सनराइजर्स हैदराबाद",
+                "url": "/read/hi/sunrisers_hyderabad",
+                "contentUrl": "/static/content/hi/sunrisers_hyderabad.json",
+                "id": "winner_card_सनराइजर्स_हैदराबाद",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Sunrisers_Hyderabad.svg",
+                    "altText": "Image of सनराइजर्स हैदराबाद"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2017",
+          "id": "tournament_year_2017",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2017 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2017_indian_premier_league",
+                "contentUrl": "/static/content/hi/2017_indian_premier_league.json",
+                "id": "tournament_card_2017_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of 2017 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "मुंबई इंडियंस",
+                "url": "/read/hi/mumbai_indians",
+                "contentUrl": "/static/content/hi/mumbai_indians.json",
+                "id": "winner_card_मुंबई_इंडियंस",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Mumbai_Indians_Logo.svg",
+                    "altText": "Image of मुंबई इंडियंस"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2018",
+          "id": "tournament_year_2018",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2018 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2018_indian_premier_league",
+                "contentUrl": "/static/content/hi/2018_indian_premier_league.json",
+                "id": "tournament_card_2018_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of 2018 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "चेन्नई सुपर किंग्स",
+                "url": "/read/hi/chennai_super_kings",
+                "contentUrl": "/static/content/hi/chennai_super_kings.json",
+                "id": "winner_card_चेन्नई_सुपर_किंग्स",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Image of चेन्नई सुपर किंग्स"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "आंकड़े",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "मैन ऑफ द सीरीज",
+          "id": "man_of_the_series",
+          "value": {
+            "label": "सुनील नारायन, ऑस्ट्रेलिया",
+            "image": {
+              "url": "",
+              "altText": "Picture of सुनील नारायन"
+            }
+          }
+        },
+        {
+          "label": "सबसे ज्यादा रन",
+          "id": "most_runs_scored/_orange_cap",
+          "value": {
+            "label": "केन विलियमसन, ऑस्ट्रेलिया",
+            "image": {
+              "url": "/static/images/master/Kane_Williamson_28977366799129.jpg",
+              "altText": "Picture of केन विलियमसन",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "सबसे ज्यादा विकेट",
+          "id": "most_wickets_taken/_purple_cap",
+          "value": {
+            "label": "एंड्रयू टाई, ऑस्ट्रेलिया",
+            "image": {
+              "url": "/static/images/master/2018.02.03.20.38.56-AUSvNZL_T20_NZL_innings2C_SCG-0001_283861820589029_28Tye_cropped29.jpg",
+              "altText": "Picture of एंड्रयू टाई",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Final Positions",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "विजेता",
+          "id": "final-positions-champion",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "चेन्नई सुपर किंग्स",
+                "url": "/read/hi/chennai_super_kings",
+                "contentUrl": "/static/content/hi/chennai_super_kings.json",
+                "value": {
+                  "label": "2008 में स्थापित चेन्नई सुपर किंग्स (सीएसके) चेन्नई, तमिलनाडु में स्थित एक भारतीय फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में खेलती है।",
+                  "image": {
+                    "url": "/static/images/master/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Picture of चेन्नई सुपर किंग्स"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "उपविजेता",
+          "id": "final-positions-runner-up",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "सनराइजर्स हैदराबाद",
+                "url": "/read/hi/sunrisers_hyderabad",
+                "contentUrl": "/static/content/hi/sunrisers_hyderabad.json",
+                "value": {
+                  "label": "सनराइजर्स हैदराबाद (संक्षिप्त रूप में एसआरएच) तेलंगाना के हैदराबाद आधारित एक फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में खेलती है।",
+                  "image": {
+                    "url": "/static/images/master/Sunrisers_Hyderabad.svg",
+                    "altText": "Picture of चेन्नई सुपर किंग्स"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

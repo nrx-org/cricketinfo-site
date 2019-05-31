@@ -1020,7 +1020,7 @@
     "id": "P15",
     "title": {
       "en": "2017 Indian Premier League",
-      "hi": "2017 Indian Premier League",
+      "hi": "2017 इंडियन प्रीमियर लीग",
       "ta": "2017 Indian Premier League"
     },
     "sourceCsvFile": {
@@ -1192,6 +1192,210 @@
       "en": "1983 Cricket World Cup",
       "hi": "1983 क्रिकेट विश्व कप",
       "ta": "1983 கிரிக்கெட் உலகக் கோப்பை"
+    },
+    "sourceCsvFile": {
+      "en": "./csv/events_individual.en.csv",
+      "hi": "./csv/events_individual.hi.csv",
+      "ta": "./csv/events_individual.ta.csv"
+    },
+    "idFieldName": "Article Link ID",
+    "titleFieldName": "Name of tournament",
+    "descriptionFieldName": "Short summary of the article",
+    "imageFieldName": "Header  image "
+  },
+  {
+    "id": "P16",
+    "title": {
+      "en": "1987 Cricket World Cup",
+      "hi": "1987 क्रिकेट विश्व कप",
+      "ta": "1987 Cricket World Cup"
+    },
+    "sourceCsvFile": {
+      "en": "./csv/events_individual.en.csv",
+      "hi": "./csv/events_individual.hi.csv",
+      "ta": "./csv/events_individual.ta.csv"
+    },
+    "idFieldName": "Article Link ID",
+    "titleFieldName": "Name of tournament",
+    "descriptionFieldName": "Short summary of the article",
+    "imageFieldName": "Header  image "
+  },
+  {
+    "id": "P17",
+    "title": {
+      "en": "1992 Cricket World Cup",
+      "hi": "1992 क्रिकेट विश्व कप",
+      "ta": "1992 Cricket World Cup"
+    },
+    "sourceCsvFile": {
+      "en": "./csv/events_individual.en.csv",
+      "hi": "./csv/events_individual.hi.csv",
+      "ta": "./csv/events_individual.ta.csv"
+    },
+    "idFieldName": "Article Link ID",
+    "titleFieldName": "Name of tournament",
+    "descriptionFieldName": "Short summary of the article",
+    "imageFieldName": "Header  image "
+  },
+  {
+    "id": "P18",
+    "title": {
+      "en": "2019 Cricket World Cup",
+      "hi": "2019 क्रिकेट विश्व कप",
+      "ta": "2019 Cricket World Cup"
+    },
+    "sourceCsvFile": {
+      "en": "./csv/events_individual.en.csv",
+      "hi": "./csv/events_individual.hi.csv",
+      "ta": "./csv/events_individual.ta.csv"
+    },
+    "idFieldName": "Article Link ID",
+    "titleFieldName": "Name of tournament",
+    "descriptionFieldName": "Short summary of the article",
+    "imageFieldName": "Header  image "
+  },
+  {
+    "id": "P26",
+    "title": {
+      "en": "1975 Cricket World Cup",
+      "hi": "1975 क्रिकेट विश्व कप",
+      "ta": "1975 Cricket World Cup"
+    },
+    "sourceCsvFile": {
+      "en": "./csv/events_individual.en.csv",
+      "hi": "./csv/events_individual.hi.csv",
+      "ta": "./csv/events_individual.ta.csv"
+    },
+    "idFieldName": "Article Link ID",
+    "titleFieldName": "Name of tournament",
+    "descriptionFieldName": "Short summary of the article",
+    "imageFieldName": "Header  image "
+  },
+  {
+    "id": "P27",
+    "title": {
+      "en": "1979 Cricket World Cup",
+      "hi": "1979 क्रिकेट विश्व कप",
+      "ta": "1979 Cricket World Cup"
+    },
+    "sourceCsvFile": {
+      "en": "./csv/events_individual.en.csv",
+      "hi": "./csv/events_individual.hi.csv",
+      "ta": "./csv/events_individual.ta.csv"
+    },
+    "idFieldName": "Article Link ID",
+    "titleFieldName": "Name of tournament",
+    "descriptionFieldName": "Short summary of the article",
+    "imageFieldName": "Header  image "
+  },
+  {
+    "id": "P19",
+    "title": {
+      "en": "2008 Indian Premier League",
+      "hi": "2008 इंडियन प्रीमियर लीग",
+      "ta": "2008 Indian Premier League"
+    },
+    "sourceCsvFile": {
+      "en": "./csv/events_individual.en.csv",
+      "hi": "./csv/events_individual.hi.csv",
+      "ta": "./csv/events_individual.ta.csv"
+    },
+    "idFieldName": "Article Link ID",
+    "titleFieldName": "Name of tournament",
+    "descriptionFieldName": "Short summary of the article",
+    "imageFieldName": "Header  image "
+  },
+  {
+    "id": "P20",
+    "title": {
+      "en": "2009 Indian Premier League",
+      "hi": "2009 इंडियन प्रीमियर लीग",
+      "ta": "2009 Indian Premier League"
+    },
+    "sourceCsvFile": {
+      "en": "./csv/events_individual.en.csv",
+      "hi": "./csv/events_individual.hi.csv",
+      "ta": "./csv/events_individual.ta.csv"
+    },
+    "idFieldName": "Article Link ID",
+    "titleFieldName": "Name of tournament",
+    "descriptionFieldName": "Short summary of the article",
+    "imageFieldName": "Header  image "
+  },
+  {
+    "id": "P21",
+    "title": {
+      "en": "2012 Indian Premier League",
+      "hi": "2012 इंडियन प्रीमियर लीग",
+      "ta": "2012 Indian Premier League"
+    },
+    "sourceCsvFile": {
+      "en": "./csv/events_individual.en.csv",
+      "hi": "./csv/events_individual.hi.csv",
+      "ta": "./csv/events_individual.ta.csv"
+    },
+    "idFieldName": "Article Link ID",
+    "titleFieldName": "Name of tournament",
+    "descriptionFieldName": "Short summary of the article",
+    "imageFieldName": "Header  image "
+  },
+  {
+    "id": "P22",
+    "title": {
+      "en": "2013 Indian Premier League",
+      "hi": "2013 इंडियन प्रीमियर लीग",
+      "ta": "2013 Indian Premier League"
+    },
+    "sourceCsvFile": {
+      "en": "./csv/events_individual.en.csv",
+      "hi": "./csv/events_individual.hi.csv",
+      "ta": "./csv/events_individual.ta.csv"
+    },
+    "idFieldName": "Article Link ID",
+    "titleFieldName": "Name of tournament",
+    "descriptionFieldName": "Short summary of the article",
+    "imageFieldName": "Header  image "
+  },
+  {
+    "id": "P23",
+    "title": {
+      "en": "2014 Indian Premier League",
+      "hi": "2014 इंडियन प्रीमियर लीग",
+      "ta": "2014 Indian Premier League"
+    },
+    "sourceCsvFile": {
+      "en": "./csv/events_individual.en.csv",
+      "hi": "./csv/events_individual.hi.csv",
+      "ta": "./csv/events_individual.ta.csv"
+    },
+    "idFieldName": "Article Link ID",
+    "titleFieldName": "Name of tournament",
+    "descriptionFieldName": "Short summary of the article",
+    "imageFieldName": "Header  image "
+  },
+  {
+    "id": "P24",
+    "title": {
+      "en": "2015 Indian Premier League",
+      "hi": "2015 इंडियन प्रीमियर लीग",
+      "ta": "2015 Indian Premier League"
+    },
+    "sourceCsvFile": {
+      "en": "./csv/events_individual.en.csv",
+      "hi": "./csv/events_individual.hi.csv",
+      "ta": "./csv/events_individual.ta.csv"
+    },
+    "idFieldName": "Article Link ID",
+    "titleFieldName": "Name of tournament",
+    "descriptionFieldName": "Short summary of the article",
+    "imageFieldName": "Header  image "
+  },
+  {
+    "id": "P25",
+    "title": {
+      "en": "2018 Indian Premier League",
+      "hi": "2018 इंडियन प्रीमियर लीग",
+      "ta": "2018 Indian Premier League"
     },
     "sourceCsvFile": {
       "en": "./csv/events_individual.en.csv",

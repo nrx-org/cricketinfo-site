@@ -347,5 +347,10 @@ module.exports.eventsUiStrings = {
     en: "Most Runs",
     hi: "सबसे ज्यादा रन",
     ta: "அதிக ரன் எடுத்தவர்"
+  },
+  tournament: {
+    en: "Tournament",
+    hi: "टूर्नामेंट",
+    ta: "போட்டியில்"
   }
 };
