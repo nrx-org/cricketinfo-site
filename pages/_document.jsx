@@ -10,7 +10,7 @@ import {
 export default class extends Document {
   render() {
     return (
-      <html>
+      <html lang="en">
         <Head>
           <script async src={MATOMO_SCRIPT_URL} />
           <script

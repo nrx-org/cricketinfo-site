@@ -2,6 +2,7 @@
 
 import React from "react";
 import PropTypes from "prop-types";
+import { useTracking } from "react-tracking";
 
 import { ShareModalContainer } from "./ShareModalContainer";
 import { ModalContextConsumer } from "./ModalContext";
@@ -12,18 +13,7 @@ import { FloatingToolbarButton } from "./FloatingToolbarButton";
 import { WhatsAppSubscribeModalContainer } from "./WhatsAppSubscribeModalContainer";
 import { articleUiStrings } from "../lib/ui_strings";
 
-import track, { useTracking } from "react-tracking";
 import { SAVE_FOR_LATER_CLICK } from "../lib/matomo";
-
-const SAVE_TEXT = {
-  hi: "सेव करें",
-  en: "Save for later"
-};
-
-const SHARE_TEXT = {
-  hi: "लेख शेयर करें",
-  en: "Share article"
-};
 
 export const ShareArticleFloatingToolbarContainer = ({ articleId }) => {
   const tracking = useTracking();

@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 
 import Head from "next/head";
 import fetch from "isomorphic-fetch";
+import track from "react-tracking";
 
 import { BaseLayout } from "../components/BaseLayout";
 import { LanguageSelector } from "../components/LanguageSelector";
@@ -30,8 +31,6 @@ import { CONTINUE_READING_MODAL_ID } from "../lib/modal_ids";
 import { Button } from "../components/Button";
 import { ContinueReadingModalContainer } from "../components/ContinueReadingModalContainer";
 import { HomeButton } from "../components/HomeButton";
-
-import track from "react-tracking";
 
 const Article = ({
   articleId,
@@ -163,6 +162,9 @@ Article.propTypes = {
   imageAttributions: PropTypes.arrayOf(imagePropTypes).isRequired
 };
 
-export default track(props => {
-  return { page: "ArticlePage", language: props.lang };
-}, { dispatchOnMount: true })(Article)
+export default track(
+  props => {
+    return { page: "ArticlePage", language: props.lang };
+  },
+  { dispatchOnMount: true }
+)(Article);

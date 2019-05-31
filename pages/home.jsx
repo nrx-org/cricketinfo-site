@@ -2,14 +2,13 @@ import React from "react";
 import Head from "next/head";
 import PropTypes from "prop-types";
 import fetch from "isomorphic-fetch";
+import track from "react-tracking";
 
 import { BaseLayout } from "../components/BaseLayout";
 import { LanguageContext } from "../language_context";
 import { makeSiteTitle } from "../lib/make_title";
 import { homeContentUrl } from "../lib/urls";
 import { SwitchLanguageFloatingToolbar } from "../components/SwitchLanguageFloatingToolbar";
-
-import track from "react-tracking";
 
 import {
   factPropTypes,
@@ -167,6 +166,9 @@ Home.propTypes = {
   quizQuestions: PropTypes.arrayOf(quizQuestionPropType).isRequired
 };
 
-export default track(props => {
-  return { page: "HomePage", language: props.lang };
-}, { dispatchOnMount: true })(Home);
+export default track(
+  props => {
+    return { page: "HomePage", language: props.lang };
+  },
+  { dispatchOnMount: true }
+)(Home);
