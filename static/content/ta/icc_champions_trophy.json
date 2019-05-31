@@ -98,6 +98,166 @@
       ]
     },
     {
+      "title": "வரலாறு",
+      "cardType": "horizontal_timeline",
+      "facts": [
+        {
+          "label": "1998",
+          "id": "tournament_year_1998",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "South Africa national cricket team",
+                "url": "/read/ta/south_africa_national_cricket_team",
+                "contentUrl": "/static/content/ta/south_africa_national_cricket_team.json",
+                "id": "winner_card_south_africa_national_cricket_team",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Southafrica_cricket_logo.svg",
+                    "altText": "Image of South Africa national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2000",
+          "id": "tournament_year_2000",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "New Zealand national cricket team",
+                "url": "/read/ta/new_zealand_national_cricket_team",
+                "contentUrl": "/static/content/ta/new_zealand_national_cricket_team.json",
+                "id": "winner_card_new_zealand_national_cricket_team",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/New_Zealand_Cricket_Cap_Insignia.svg",
+                    "altText": "Image of New Zealand national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2004",
+          "id": "tournament_year_2004",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி",
+                "url": "/read/ta/west_indies_cricket_team",
+                "contentUrl": "/static/content/ta/west_indies_cricket_team.json",
+                "id": "winner_card_வெஸ்ட்_இன்டீஸ்_கிரிக்கெட்_அணி",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/West_indies_cricket_board_flag.png",
+                    "altText": "Image of வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2006",
+          "id": "tournament_year_2006",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+                "url": "/read/ta/australia_cricket_team",
+                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Image of ஆஸ்திரேலிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2009",
+          "id": "tournament_year_2009",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+                "url": "/read/ta/australia_cricket_team",
+                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Image of ஆஸ்திரேலிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2013",
+          "id": "tournament_year_2013",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+                "url": "/read/ta/india_national_cricket_team",
+                "contentUrl": "/static/content/ta/india_national_cricket_team.json",
+                "id": "winner_card_இந்திய_தேசிய_கிரிக்கெட்_அணி",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "altText": "Image of இந்திய தேசிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2017",
+          "id": "tournament_year_2017",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Pakistan national cricket team",
+                "url": "/read/ta/pakistan_national_cricket_team",
+                "contentUrl": "/static/content/ta/pakistan_national_cricket_team.json",
+                "id": "winner_card_pakistan_national_cricket_team",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/PakistanCricketLogo.png",
+                    "altText": "Image of Pakistan national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "title": "புள்ளியியல்",
       "cardType": "stories",
       "facts": [

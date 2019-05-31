@@ -98,6 +98,166 @@
       ]
     },
     {
+      "title": "इतिहास",
+      "cardType": "horizontal_timeline",
+      "facts": [
+        {
+          "label": "1998",
+          "id": "tournament_year_1998",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "दक्षिण अफ्रीका की राष्ट्रीय क्रिकेट टीम",
+                "url": "/read/hi/south_africa_national_cricket_team",
+                "contentUrl": "/static/content/hi/south_africa_national_cricket_team.json",
+                "id": "winner_card_दक्षिण_अफ्रीका_की_राष्ट्रीय_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Southafrica_cricket_logo.svg",
+                    "altText": "Image of दक्षिण अफ्रीका की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2000",
+          "id": "tournament_year_2000",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "न्यूजीलैंड की राष्ट्रीय क्रिकेट टीम",
+                "url": "/read/hi/new_zealand_national_cricket_team",
+                "contentUrl": "/static/content/hi/new_zealand_national_cricket_team.json",
+                "id": "winner_card_न्यूजीलैंड_की_राष्ट्रीय_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/New_Zealand_Cricket_Cap_Insignia.svg",
+                    "altText": "Image of न्यूजीलैंड की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2004",
+          "id": "tournament_year_2004",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "वेस्टइंडीज क्रिकेट टीम",
+                "url": "/read/hi/west_indies_cricket_team",
+                "contentUrl": "/static/content/hi/west_indies_cricket_team.json",
+                "id": "winner_card_वेस्टइंडीज_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/West_indies_cricket_board_flag.png",
+                    "altText": "Image of वेस्टइंडीज क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2006",
+          "id": "tournament_year_2006",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "ऑस्ट्रेलिया क्रिकेट टीम",
+                "url": "/read/hi/australia_cricket_team",
+                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Image of ऑस्ट्रेलिया क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2009",
+          "id": "tournament_year_2009",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "ऑस्ट्रेलिया क्रिकेट टीम",
+                "url": "/read/hi/australia_cricket_team",
+                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Image of ऑस्ट्रेलिया क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2013",
+          "id": "tournament_year_2013",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "भारत की राष्ट्रीय क्रिकेट टीम",
+                "url": "/read/hi/india_national_cricket_team",
+                "contentUrl": "/static/content/hi/india_national_cricket_team.json",
+                "id": "winner_card_भारत_की_राष्ट्रीय_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "altText": "Image of भारत की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2017",
+          "id": "tournament_year_2017",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "पाकिस्तान की राष्ट्रीय क्रिकेट टीम ",
+                "url": "/read/hi/pakistan_national_cricket_team",
+                "contentUrl": "/static/content/hi/pakistan_national_cricket_team.json",
+                "id": "winner_card_पाकिस्तान_की_राष्ट्रीय_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/PakistanCricketLogo.png",
+                    "altText": "Image of पाकिस्तान की राष्ट्रीय क्रिकेट टीम "
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "title": "आंकड़े",
       "cardType": "stories",
       "facts": [

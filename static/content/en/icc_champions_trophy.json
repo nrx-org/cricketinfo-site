@@ -98,6 +98,166 @@
       ]
     },
     {
+      "title": "History",
+      "cardType": "horizontal_timeline",
+      "facts": [
+        {
+          "label": "1998",
+          "id": "tournament_year_1998",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "South Africa national cricket team",
+                "url": "/read/en/south_africa_national_cricket_team",
+                "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
+                "id": "winner_card_south_africa_national_cricket_team",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/Southafrica_cricket_logo.svg",
+                    "altText": "Image of South Africa national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2000",
+          "id": "tournament_year_2000",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "New Zealand national cricket team",
+                "url": "/read/en/new_zealand_national_cricket_team",
+                "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
+                "id": "winner_card_new_zealand_national_cricket_team",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/New_Zealand_Cricket_Cap_Insignia.svg",
+                    "altText": "Image of New Zealand national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2004",
+          "id": "tournament_year_2004",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "West Indies cricket team",
+                "url": "/read/en/west_indies_cricket_team",
+                "contentUrl": "/static/content/en/west_indies_cricket_team.json",
+                "id": "winner_card_west_indies_cricket_team",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/West_indies_cricket_board_flag.png",
+                    "altText": "Image of West Indies cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2006",
+          "id": "tournament_year_2006",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Australia Cricket team",
+                "url": "/read/en/australia_cricket_team",
+                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "id": "winner_card_australia_cricket_team",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Image of Australia Cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2009",
+          "id": "tournament_year_2009",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Australia Cricket team",
+                "url": "/read/en/australia_cricket_team",
+                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "id": "winner_card_australia_cricket_team",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Image of Australia Cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2013",
+          "id": "tournament_year_2013",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "India national cricket team",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "id": "winner_card_india_national_cricket_team",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "altText": "Image of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2017",
+          "id": "tournament_year_2017",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Pakistan national cricket team",
+                "url": "/read/en/pakistan_national_cricket_team",
+                "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
+                "id": "winner_card_pakistan_national_cricket_team",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/PakistanCricketLogo.png",
+                    "altText": "Image of Pakistan national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "title": "Statistics",
       "cardType": "stories",
       "facts": [

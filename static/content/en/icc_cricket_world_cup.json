@@ -1,0 +1,531 @@
+{
+  "title": "ICC Cricket World Cup",
+  "summary": "The ICC Cricket World Cup is the international championship of One Day International cricket. The event is organised by the sport's governing body, the International Cricket Council, every four years, with preliminary qualification rounds leading up to a finals tournament.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cricket_World_Cup",
+  "coverImage": {
+    "url": "/static/images/master/Icc_cricket_world_cup_trophy.jpg",
+    "altText": "Image of ICC Cricket World Cup"
+  },
+  "translations": [
+    {
+      "lang": "hi",
+      "title": "क्रिकेट विश्व कप",
+      "url": "/read/hi/icc_cricket_world_cup"
+    },
+    {
+      "lang": "ta",
+      "title": "கிரிக்கெட் உலகக் கோப்பை",
+      "url": "/read/ta/icc_cricket_world_cup"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "First Edition",
+          "value": {
+            "label": "1975"
+          }
+        },
+        {
+          "label": "Format",
+          "value": {
+            "label": " One Day International "
+          }
+        },
+        {
+          "label": "Current Champion",
+          "value": {
+            "label": "Australia (5th title)",
+            "url": "/read/en/australia_cricket_team",
+            "contentUrl": "/static/content/en/australia_cricket_team.json"
+          }
+        },
+        {
+          "label": "Most successful",
+          "value": {
+            "label": "Australia Cricket team"
+          }
+        },
+        {
+          "label": "Number of Teams",
+          "value": {}
+        }
+      ]
+    },
+    {
+      "title": "Events",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Before the World Cup",
+          "note": "-1974",
+          "id": "before_the_world_cup",
+          "value": {
+            "label": "The first international cricket match was played between Canada and the United States, on 24 and 25 September 1844. The first credited Test match was played in 1877 between Australia and England, and the two teams competed regularly for The Ashes in subsequent years.",
+            "facts": []
+          }
+        },
+        {
+          "label": "Prudential World Cups",
+          "note": "1975–1983",
+          "id": "prudential_world_cups",
+          "value": {
+            "label": "The inaugural Cricket World Cup was hosted in 1975 by England. West Indies won the tournament. The 1979 World Cup saw the introduction of the ICC Trophy competition to select non-Test playing teams for the World Cup. The 1983 event was hosted by England for a third consecutive time. ",
+            "facts": []
+          }
+        },
+        {
+          "label": "Different champions",
+          "note": "1987–1996",
+          "id": "different_champions",
+          "value": {
+            "label": "India and Pakistan jointly hosted the 1987 tournament, the first time that the competition was held outside England. The 1992 World Cup, held in Australia and New Zealand, introduced many changes to the game, such as coloured clothing, white balls, day/night matches, and a change to the fielding restriction rules.",
+            "facts": []
+          }
+        },
+        {
+          "label": "Australian treble",
+          "note": "1999–2007",
+          "id": "australian_treble",
+          "value": {
+            "label": "Australia won the ICC World Cup three times consecutively in 1999, 2003 and 2007, completing the first World Cup hat-trick.",
+            "facts": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "horizontal_timeline",
+      "facts": [
+        {
+          "label": "1975",
+          "id": "tournament_year_1975",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "1975 Cricket World Cup",
+                "url": "/read/en/1975_cricket_world_cup",
+                "contentUrl": "/static/content/en/1975_cricket_world_cup.json",
+                "id": "tournament_card_1975_cricket_world_cup",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "url": "/static/images/master/Prudential_Cup_75_logo.svg",
+                    "altText": "Image of 1975 Cricket World Cup"
+                  }
+                }
+              },
+              {
+                "label": "West Indies cricket team",
+                "url": "/read/en/west_indies_cricket_team",
+                "contentUrl": "/static/content/en/west_indies_cricket_team.json",
+                "id": "winner_card_west_indies_cricket_team",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/West_indies_cricket_board_flag.png",
+                    "altText": "Image of West Indies cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "1979",
+          "id": "tournament_year_1979",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "1979 Cricket World Cup",
+                "url": "/read/en/1979_cricket_world_cup",
+                "contentUrl": "/static/content/en/1979_cricket_world_cup.json",
+                "id": "tournament_card_1979_cricket_world_cup",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "url": "/static/images/master/Prudential_Cup_79_logo.svg",
+                    "altText": "Image of 1979 Cricket World Cup"
+                  }
+                }
+              },
+              {
+                "label": "West Indies cricket team",
+                "url": "/read/en/west_indies_cricket_team",
+                "contentUrl": "/static/content/en/west_indies_cricket_team.json",
+                "id": "winner_card_west_indies_cricket_team",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/West_indies_cricket_board_flag.png",
+                    "altText": "Image of West Indies cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "1983",
+          "id": "tournament_year_1983",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "1983 Cricket World Cup",
+                "url": "/read/en/1983_cricket_world_cup",
+                "contentUrl": "/static/content/en/1983_cricket_world_cup.json",
+                "id": "tournament_card_1983_cricket_world_cup",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "url": "/static/images/master/Prudential_Cup_83_logo.svg",
+                    "altText": "Image of 1983 Cricket World Cup"
+                  }
+                }
+              },
+              {
+                "label": "India national cricket team",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "id": "winner_card_india_national_cricket_team",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "altText": "Image of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "1987",
+          "id": "tournament_year_1987",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "1987 Cricket World Cup",
+                "url": "/read/en/1987_cricket_world_cup",
+                "contentUrl": "/static/content/en/1987_cricket_world_cup.json",
+                "id": "tournament_card_1987_cricket_world_cup",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "altText": "Image of 1987 Cricket World Cup",
+                    "license": ""
+                  }
+                }
+              },
+              {
+                "label": "Australia Cricket team",
+                "url": "/read/en/australia_cricket_team",
+                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "id": "winner_card_australia_cricket_team",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Image of Australia Cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "1992",
+          "id": "tournament_year_1992",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "1992 Cricket World Cup",
+                "url": "/read/en/1992_cricket_world_cup",
+                "contentUrl": "/static/content/en/1992_cricket_world_cup.json",
+                "id": "tournament_card_1992_cricket_world_cup",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "url": "/static/images/master/World_Cup_1992_logo.svg",
+                    "altText": "Image of 1992 Cricket World Cup"
+                  }
+                }
+              },
+              {
+                "label": "Pakistan national cricket team",
+                "url": "/read/en/pakistan_national_cricket_team",
+                "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
+                "id": "winner_card_pakistan_national_cricket_team",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/PakistanCricketLogo.png",
+                    "altText": "Image of Pakistan national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "1996",
+          "id": "tournament_year_1996",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "1996 Cricket World Cup",
+                "url": "/read/en/1996_cricket_world_cup",
+                "contentUrl": "/static/content/en/1996_cricket_world_cup.json",
+                "id": "tournament_card_1996_cricket_world_cup",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "url": "/static/images/master/Wills_World_Cup_1996.svg",
+                    "altText": "Image of 1996 Cricket World Cup"
+                  }
+                }
+              },
+              {
+                "label": "Sri Lanka national cricket team",
+                "url": "/read/en/sri_lanka_national_cricket_team",
+                "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
+                "id": "winner_card_sri_lanka_national_cricket_team",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/Sri_Lanka_Cricket_Cap_Insignia.svg",
+                    "altText": "Image of Sri Lanka national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "1999",
+          "id": "tournament_year_1999",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "1999 Cricket World Cup",
+                "url": "/read/en/1999_cricket_world_cup",
+                "contentUrl": "/static/content/en/1999_cricket_world_cup.json",
+                "id": "tournament_card_1999_cricket_world_cup",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "url": "/static/images/master/Wc99.png",
+                    "altText": "Image of 1999 Cricket World Cup"
+                  }
+                }
+              },
+              {
+                "label": "Australia Cricket team",
+                "url": "/read/en/australia_cricket_team",
+                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "id": "winner_card_australia_cricket_team",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Image of Australia Cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2003",
+          "id": "tournament_year_2003",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2003 Cricket World Cup",
+                "url": "/read/en/2003_cricket_world_cup",
+                "contentUrl": "/static/content/en/2003_cricket_world_cup.json",
+                "id": "tournament_card_2003_cricket_world_cup",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "url": "/static/images/master/Cricket_World_Cup_Logo_2003.svg",
+                    "altText": "Image of 2003 Cricket World Cup"
+                  }
+                }
+              },
+              {
+                "label": "Australia Cricket team",
+                "url": "/read/en/australia_cricket_team",
+                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "id": "winner_card_australia_cricket_team",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Image of Australia Cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2007",
+          "id": "tournament_year_2007",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2007 Cricket World Cup",
+                "url": "/read/en/2007_cricket_world_cup",
+                "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
+                "id": "tournament_card_2007_cricket_world_cup",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "url": "/static/images/master/2007_Cricket_World_Cup_logo.svg",
+                    "altText": "Image of 2007 Cricket World Cup"
+                  }
+                }
+              },
+              {
+                "label": "Australia Cricket team",
+                "url": "/read/en/australia_cricket_team",
+                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "id": "winner_card_australia_cricket_team",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Image of Australia Cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2011",
+          "id": "tournament_year_2011",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2011 Cricket World Cup",
+                "url": "/read/en/2011_cricket_world_cup",
+                "contentUrl": "/static/content/en/2011_cricket_world_cup.json",
+                "id": "tournament_card_2011_cricket_world_cup",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "url": "/static/images/master/2011_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2011 Cricket World Cup"
+                  }
+                }
+              },
+              {
+                "label": "India national cricket team",
+                "url": "/read/en/india_national_cricket_team",
+                "contentUrl": "/static/content/en/india_national_cricket_team.json",
+                "id": "winner_card_india_national_cricket_team",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "altText": "Image of India national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2015",
+          "id": "tournament_year_2015",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2015 Cricket World Cup",
+                "url": "/read/en/2015_cricket_world_cup",
+                "contentUrl": "/static/content/en/2015_cricket_world_cup.json",
+                "id": "tournament_card_2015_cricket_world_cup",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "url": "/static/images/master/2015_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2015 Cricket World Cup"
+                  }
+                }
+              },
+              {
+                "label": "Australia Cricket team",
+                "url": "/read/en/australia_cricket_team",
+                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "id": "winner_card_australia_cricket_team",
+                "value": {
+                  "label": "Champions",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Image of Australia Cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2019",
+          "id": "tournament_year_2019",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2019 Cricket World Cup",
+                "url": "/read/en/2019_cricket_world_cup",
+                "contentUrl": "/static/content/en/2019_cricket_world_cup.json",
+                "id": "tournament_card_2019_cricket_world_cup",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "url": "/static/images/master/ICC_Cricket_World_Cup_2019_logo.svg",
+                    "altText": "Image of 2019 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Statistics",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Most Runs",
+          "id": "most_runs_scored-_name_of_the_player",
+          "value": {
+            "label": "Sachin Tendulkar, with 2278 runs, is the leading run-scorer in World Cup history., Australia",
+            "image": {
+              "url": "",
+              "altText": "Picture of Sachin Tendulkar, with 2278 runs, is the leading run-scorer in World Cup history."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

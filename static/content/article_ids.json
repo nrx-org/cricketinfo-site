@@ -1459,6 +1459,23 @@
     "imageFieldName": "Header  image "
   },
   {
+    "id": "P1",
+    "title": {
+      "en": "ICC Cricket World Cup",
+      "hi": "क्रिकेट विश्व कप",
+      "ta": "கிரிக்கெட் உலகக் கோப்பை"
+    },
+    "sourceCsvFile": {
+      "en": "./csv/events_major.en.csv",
+      "hi": "./csv/events_major.hi.csv",
+      "ta": "./csv/events_major.ta.csv"
+    },
+    "idFieldName": "Article Link ID",
+    "titleFieldName": "Name of tournament",
+    "descriptionFieldName": "Short summary of the article",
+    "imageFieldName": "Header  image "
+  },
+  {
     "id": "SF1",
     "title": {
       "en": "Nagpur",
@@ -3115,7 +3132,7 @@
     },
     "sourceCsvFile": {
       "hi": "./csv/teams.hi.csv",
-      "ta": "./csv/teams.ta.csv"
+      "ta": "./csv/events_major.ta.csv"
     },
     "idFieldName": "Article Code",
     "titleFieldName": "Name of Team",

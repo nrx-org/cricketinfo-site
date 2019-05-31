@@ -7,7 +7,7 @@ const {
   getCardInfoFromId
 } = require("./lib");
 const idMap = require("../static/content/article_ids.json");
-const { eventsUiStrings } = require("./ui_strings");
+const { eventsUiStrings, teamUIStrings } = require("./ui_strings");
 
 const csvExports = {
   en: { path: "./csv/events_major.en.csv" },
@@ -60,6 +60,69 @@ const STATISTICS = [
     STATISTIC_KEY: "Most Runs scored- Name of the player",
     COUNTRY_KEY: "Country of the player",
     IMAGE_KEY: "Link to image of the player"
+  }
+];
+
+const HISTORY = [
+  {
+    YEAR_KEY: "Tournament year 1",
+    TOURNAMENT_ID_KEY: "Tournament Year 1 Card",
+    WINNER_ID_KEY: "Winner 1 Card"
+  },
+  {
+    YEAR_KEY: "Tournament year 2",
+    TOURNAMENT_ID_KEY: "Tournament Year 2 Card",
+    WINNER_ID_KEY: "Winner Card 2"
+  },
+  {
+    YEAR_KEY: "Tournament year 3",
+    TOURNAMENT_ID_KEY: "Tournament Year 3 Card",
+    WINNER_ID_KEY: "Winner Card 3"
+  },
+  {
+    YEAR_KEY: "Tournament year 4",
+    TOURNAMENT_ID_KEY: "Tournament Year 4 Card",
+    WINNER_ID_KEY: "Winner Card 4"
+  },
+  {
+    YEAR_KEY: "Tournament year 5",
+    TOURNAMENT_ID_KEY: "Tournament Year 5 Card",
+    WINNER_ID_KEY: "Winner Card 5"
+  },
+  {
+    YEAR_KEY: "Tournament year 6",
+    TOURNAMENT_ID_KEY: "Tournament Year 6 Card",
+    WINNER_ID_KEY: "Winner Card 6"
+  },
+  {
+    YEAR_KEY: "Tournament year 7",
+    TOURNAMENT_ID_KEY: "Tournament year 7 Card",
+    WINNER_ID_KEY: "Winner Card 7"
+  },
+  {
+    YEAR_KEY: "Tournament year 8",
+    TOURNAMENT_ID_KEY: "Tournament year 8 Card",
+    WINNER_ID_KEY: "Winner Card 8"
+  },
+  {
+    YEAR_KEY: "Tournament year 9",
+    TOURNAMENT_ID_KEY: "Tournament Year 9 Card",
+    WINNER_ID_KEY: "Winner Card 9"
+  },
+  {
+    YEAR_KEY: "Tournament year 10",
+    TOURNAMENT_ID_KEY: "Tournament Year 10 Card",
+    WINNER_ID_KEY: "Winner Card 10"
+  },
+  {
+    YEAR_KEY: "Tournament year 11",
+    TOURNAMENT_ID_KEY: "Tournament Year 11 Card",
+    WINNER_ID_KEY: "Winner Card 11"
+  },
+  {
+    YEAR_KEY: "Tournament year 12",
+    TOURNAMENT_ID_KEY: "Tournament Year 12 Card",
+    WINNER_ID_KEY: "Winner Card 12"
   }
 ];
 
@@ -205,6 +268,89 @@ module.exports.exportEventsMajor = () => {
       };
 
       event.sections.push(eventsSection);
+
+      // History.
+      let historyFacts = await Promise.all(
+        HISTORY.map(async history => {
+          if (
+            !record[history.TOURNAMENT_ID_KEY] &&
+            !record[history.WINNER_ID_KEY]
+          ) {
+            return null;
+          }
+
+          const tournamentCard = getCardInfoFromId(
+            idMap,
+            record[history.TOURNAMENT_ID_KEY],
+            lang
+          );
+          const winnerCard = getCardInfoFromId(
+            idMap,
+            record[history.WINNER_ID_KEY],
+            lang
+          );
+
+          if (!tournamentCard && !winnerCard) {
+            return null;
+          }
+
+          let timelineCards = [
+            tournamentCard && {
+              label: tournamentCard.title,
+              url: tournamentCard.url,
+              contentUrl: tournamentCard.contentUrl,
+              id: `tournament_card_${getSluggedTitle(tournamentCard.title)}`,
+              value: {
+                label: eventsUiStrings.tournament[lang],
+                image: await downloadImageAndFillAttributions(
+                  {
+                    url: tournamentCard.imageUrl,
+                    altText: `Image of ${tournamentCard.title}`
+                  },
+                  englishSlug
+                )
+              }
+            },
+            winnerCard && {
+              label: winnerCard.title,
+              url: winnerCard.url,
+              contentUrl: winnerCard.contentUrl,
+              id: `winner_card_${getSluggedTitle(winnerCard.title)}`,
+              value: {
+                label: eventsUiStrings.champion[lang],
+                image: await downloadImageAndFillAttributions(
+                  {
+                    url: winnerCard.imageUrl,
+                    altText: `Image of ${winnerCard.title}`
+                  },
+                  englishSlug
+                )
+              }
+            }
+          ];
+
+          timelineCards = timelineCards.filter(tc => !!tc);
+
+          return {
+            label: record[history.YEAR_KEY],
+            id: `tournament_year_${record[history.YEAR_KEY]}`,
+            value: {
+              label: "",
+              facts: timelineCards
+            }
+          };
+        })
+      );
+
+      historyFacts = historyFacts.filter(f => !!f);
+
+      if (historyFacts.length > 0) {
+        event.sections.push({
+          title: teamUIStrings.historySectionTitle[lang],
+          cardType: "horizontal_timeline",
+          facts: historyFacts
+        });
+      }
 
       // Statistics.
       let statisticsFacts = await Promise.all(

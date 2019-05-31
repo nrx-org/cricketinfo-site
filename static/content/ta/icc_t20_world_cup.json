@@ -112,6 +112,144 @@
       ]
     },
     {
+      "title": "வரலாறு",
+      "cardType": "horizontal_timeline",
+      "facts": [
+        {
+          "label": "2007",
+          "id": "tournament_year_2007",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+                "url": "/read/ta/india_national_cricket_team",
+                "contentUrl": "/static/content/ta/india_national_cricket_team.json",
+                "id": "winner_card_இந்திய_தேசிய_கிரிக்கெட்_அணி",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "altText": "Image of இந்திய தேசிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2009",
+          "id": "tournament_year_2009",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Pakistan national cricket team",
+                "url": "/read/ta/pakistan_national_cricket_team",
+                "contentUrl": "/static/content/ta/pakistan_national_cricket_team.json",
+                "id": "winner_card_pakistan_national_cricket_team",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/PakistanCricketLogo.png",
+                    "altText": "Image of Pakistan national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2010",
+          "id": "tournament_year_2010",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "இங்கிலாந்து கிரிக்கெட் அணி",
+                "url": "/read/ta/england_cricket_team",
+                "contentUrl": "/static/content/ta/england_cricket_team.json",
+                "id": "winner_card_இங்கிலாந்து_கிரிக்கெட்_அணி",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/England_cricket_team_logo.svg",
+                    "altText": "Image of இங்கிலாந்து கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2012",
+          "id": "tournament_year_2012",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி",
+                "url": "/read/ta/west_indies_cricket_team",
+                "contentUrl": "/static/content/ta/west_indies_cricket_team.json",
+                "id": "winner_card_வெஸ்ட்_இன்டீஸ்_கிரிக்கெட்_அணி",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/West_indies_cricket_board_flag.png",
+                    "altText": "Image of வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2014",
+          "id": "tournament_year_2014",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "Sri Lanka national cricket team",
+                "url": "/read/ta/sri_lanka_national_cricket_team",
+                "contentUrl": "/static/content/ta/sri_lanka_national_cricket_team.json",
+                "id": "winner_card_sri_lanka_national_cricket_team",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/Sri_Lanka_Cricket_Cap_Insignia.svg",
+                    "altText": "Image of Sri Lanka national cricket team"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2016",
+          "id": "tournament_year_2016",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி",
+                "url": "/read/ta/west_indies_cricket_team",
+                "contentUrl": "/static/content/ta/west_indies_cricket_team.json",
+                "id": "winner_card_வெஸ்ட்_இன்டீஸ்_கிரிக்கெட்_அணி",
+                "value": {
+                  "label": "சாம்பியன்ஸ்",
+                  "image": {
+                    "url": "/static/images/master/West_indies_cricket_board_flag.png",
+                    "altText": "Image of வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "title": "புள்ளியியல்",
       "cardType": "stories",
       "facts": [

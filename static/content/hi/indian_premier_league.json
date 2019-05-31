@@ -65,7 +65,21 @@
           "id": "पृष्ठभूमि",
           "value": {
             "label": "इंडियन क्रिकेट लीग (आईसीएल) की स्थापना 2007 में ज़ी एंटरटेनमेंट एंटरप्राइजेज द्वारा की गई फंडिंग से हुई थी।",
-            "facts": []
+            "facts": [
+              {
+                "label": "2008 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2008_indian_premier_league",
+                "contentUrl": "/static/content/hi/2008_indian_premier_league.json",
+                "id": "2008_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "2008 का इंडियन प्रीमियर लीग 2007 में बीसीसीआई द्वारा स्थापित इंडियन प्रीमियर लीग का उद्घाटन सीज़न था। इस सीज़न की शुरुआत 18 अप्रैल 2008 को हुई और फाइनल मैच 1 जून 2008 को आयोजित हुआ। प्रतियोगिता की शुरुआत डबल राउंड रॉबिन ग्रुप स्टेज से हुई। जिसमें 8 टीमों में से प्रत्येक ने हर दूसरी टीम के खिलाफ एक घरेलू मैच और एक मैच बाहर खेला। इन मैचों के बाद दो सेमीफाइनल और एक फाइनल हुआ।",
+                  "image": {
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "altText": "Image of 2008 इंडियन प्रीमियर लीग"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -87,6 +101,397 @@
           }
         },
         null
+      ]
+    },
+    {
+      "title": "इतिहास",
+      "cardType": "horizontal_timeline",
+      "facts": [
+        {
+          "label": "2008",
+          "id": "tournament_year_2008",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2008 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2008_indian_premier_league",
+                "contentUrl": "/static/content/hi/2008_indian_premier_league.json",
+                "id": "tournament_card_2008_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "altText": "Image of 2008 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "राजस्थान रॉयल्स",
+                "url": "/read/hi/rajasthan_royals",
+                "contentUrl": "/static/content/hi/rajasthan_royals.json",
+                "id": "winner_card_राजस्थान_रॉयल्स",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/RR-LOGO-1.png",
+                    "altText": "Image of राजस्थान रॉयल्स"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2009",
+          "id": "tournament_year_2009",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2009 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2009_indian_premier_league",
+                "contentUrl": "/static/content/hi/2009_indian_premier_league.json",
+                "id": "tournament_card_2009_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Ipl.svg",
+                    "altText": "Image of 2009 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "सनराइजर्स हैदराबाद",
+                "url": "/read/hi/sunrisers_hyderabad",
+                "contentUrl": "/static/content/hi/sunrisers_hyderabad.json",
+                "id": "winner_card_सनराइजर्स_हैदराबाद",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Sunrisers_Hyderabad.svg",
+                    "altText": "Image of सनराइजर्स हैदराबाद"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2010",
+          "id": "tournament_year_2010",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2010 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2010_indian_premier_league",
+                "contentUrl": "/static/content/hi/2010_indian_premier_league.json",
+                "id": "tournament_card_2010_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/IPL_T20_Chennai_vs_Kolkata.JPG",
+                    "altText": "Image of 2010 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "चेन्नई सुपर किंग्स",
+                "url": "/read/hi/chennai_super_kings",
+                "contentUrl": "/static/content/hi/chennai_super_kings.json",
+                "id": "winner_card_चेन्नई_सुपर_किंग्स",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Image of चेन्नई सुपर किंग्स"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2011",
+          "id": "tournament_year_2011",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2011 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2011_indian_premier_league",
+                "contentUrl": "/static/content/hi/2011_indian_premier_league.json",
+                "id": "tournament_card_2011_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Ma_ChidambaramStadium_panaroma.jpg",
+                    "altText": "Image of 2011 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "चेन्नई सुपर किंग्स",
+                "url": "/read/hi/chennai_super_kings",
+                "contentUrl": "/static/content/hi/chennai_super_kings.json",
+                "id": "winner_card_चेन्नई_सुपर_किंग्स",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Image of चेन्नई सुपर किंग्स"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2012",
+          "id": "tournament_year_2012",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2012 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2012_indian_premier_league",
+                "contentUrl": "/static/content/hi/2012_indian_premier_league.json",
+                "id": "tournament_card_2012_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
+                    "altText": "Image of 2012 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "कोलकाता नाइट राइडर्स",
+                "url": "/read/hi/kolkata_knight_riders",
+                "contentUrl": "/static/content/hi/kolkata_knight_riders.json",
+                "id": "winner_card_कोलकाता_नाइट_राइडर्स",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Kolkata_Knight_Riders_Logo.svg",
+                    "altText": "Image of कोलकाता नाइट राइडर्स"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2013",
+          "id": "tournament_year_2013",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2013 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2013_indian_premier_league",
+                "contentUrl": "/static/content/hi/2013_indian_premier_league.json",
+                "id": "tournament_card_2013_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Sahara_Stadium_Pune_4.jpg",
+                    "altText": "Image of 2013 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "मुंबई इंडियंस",
+                "url": "/read/hi/mumbai_indians",
+                "contentUrl": "/static/content/hi/mumbai_indians.json",
+                "id": "winner_card_मुंबई_इंडियंस",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Mumbai_Indians_Logo.svg",
+                    "altText": "Image of मुंबई इंडियंस"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2014",
+          "id": "tournament_year_2014",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2014 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2014_indian_premier_league",
+                "contentUrl": "/static/content/hi/2014_indian_premier_league.json",
+                "id": "tournament_card_2014_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "altText": "Image of 2014 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "कोलकाता नाइट राइडर्स",
+                "url": "/read/hi/kolkata_knight_riders",
+                "contentUrl": "/static/content/hi/kolkata_knight_riders.json",
+                "id": "winner_card_कोलकाता_नाइट_राइडर्स",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Kolkata_Knight_Riders_Logo.svg",
+                    "altText": "Image of कोलकाता नाइट राइडर्स"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2015",
+          "id": "tournament_year_2015",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2015 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2015_indian_premier_league",
+                "contentUrl": "/static/content/hi/2015_indian_premier_league.json",
+                "id": "tournament_card_2015_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
+                    "altText": "Image of 2015 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "मुंबई इंडियंस",
+                "url": "/read/hi/mumbai_indians",
+                "contentUrl": "/static/content/hi/mumbai_indians.json",
+                "id": "winner_card_मुंबई_इंडियंस",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Mumbai_Indians_Logo.svg",
+                    "altText": "Image of मुंबई इंडियंस"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2016",
+          "id": "tournament_year_2016",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2016 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2016_indian_premier_league",
+                "contentUrl": "/static/content/hi/2016_indian_premier_league.json",
+                "id": "tournament_card_2016_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "altText": "Image of 2016 इंडियन प्रीमियर लीग",
+                    "license": ""
+                  }
+                }
+              },
+              {
+                "label": "सनराइजर्स हैदराबाद",
+                "url": "/read/hi/sunrisers_hyderabad",
+                "contentUrl": "/static/content/hi/sunrisers_hyderabad.json",
+                "id": "winner_card_सनराइजर्स_हैदराबाद",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Sunrisers_Hyderabad.svg",
+                    "altText": "Image of सनराइजर्स हैदराबाद"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2017",
+          "id": "tournament_year_2017",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2017 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2017_indian_premier_league",
+                "contentUrl": "/static/content/hi/2017_indian_premier_league.json",
+                "id": "tournament_card_2017_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of 2017 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "मुंबई इंडियंस",
+                "url": "/read/hi/mumbai_indians",
+                "contentUrl": "/static/content/hi/mumbai_indians.json",
+                "id": "winner_card_मुंबई_इंडियंस",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Mumbai_Indians_Logo.svg",
+                    "altText": "Image of मुंबई इंडियंस"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2018",
+          "id": "tournament_year_2018",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2018 इंडियन प्रीमियर लीग",
+                "url": "/read/hi/2018_indian_premier_league",
+                "contentUrl": "/static/content/hi/2018_indian_premier_league.json",
+                "id": "tournament_card_2018_इंडियन_प्रीमियर_लीग",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of 2018 इंडियन प्रीमियर लीग"
+                  }
+                }
+              },
+              {
+                "label": "चेन्नई सुपर किंग्स",
+                "url": "/read/hi/chennai_super_kings",
+                "contentUrl": "/static/content/hi/chennai_super_kings.json",
+                "id": "winner_card_चेन्नई_सुपर_किंग्स",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Image of चेन्नई सुपर किंग्स"
+                  }
+                }
+              }
+            ]
+          }
+        }
       ]
     },
     {

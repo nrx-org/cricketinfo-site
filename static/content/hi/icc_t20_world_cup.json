@@ -112,6 +112,144 @@
       ]
     },
     {
+      "title": "इतिहास",
+      "cardType": "horizontal_timeline",
+      "facts": [
+        {
+          "label": "2007",
+          "id": "tournament_year_2007",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "भारत की राष्ट्रीय क्रिकेट टीम",
+                "url": "/read/hi/india_national_cricket_team",
+                "contentUrl": "/static/content/hi/india_national_cricket_team.json",
+                "id": "winner_card_भारत_की_राष्ट्रीय_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "altText": "Image of भारत की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2009",
+          "id": "tournament_year_2009",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "पाकिस्तान की राष्ट्रीय क्रिकेट टीम ",
+                "url": "/read/hi/pakistan_national_cricket_team",
+                "contentUrl": "/static/content/hi/pakistan_national_cricket_team.json",
+                "id": "winner_card_पाकिस्तान_की_राष्ट्रीय_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/PakistanCricketLogo.png",
+                    "altText": "Image of पाकिस्तान की राष्ट्रीय क्रिकेट टीम "
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2010",
+          "id": "tournament_year_2010",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "इंग्लैंड क्रिकेट टीम",
+                "url": "/read/hi/england_cricket_team",
+                "contentUrl": "/static/content/hi/england_cricket_team.json",
+                "id": "winner_card_इंग्लैंड_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/England_cricket_team_logo.svg",
+                    "altText": "Image of इंग्लैंड क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2012",
+          "id": "tournament_year_2012",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "वेस्टइंडीज क्रिकेट टीम",
+                "url": "/read/hi/west_indies_cricket_team",
+                "contentUrl": "/static/content/hi/west_indies_cricket_team.json",
+                "id": "winner_card_वेस्टइंडीज_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/West_indies_cricket_board_flag.png",
+                    "altText": "Image of वेस्टइंडीज क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2014",
+          "id": "tournament_year_2014",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "श्रीलंका की राष्ट्रीय क्रिकेट टीम",
+                "url": "/read/hi/sri_lanka_national_cricket_team",
+                "contentUrl": "/static/content/hi/sri_lanka_national_cricket_team.json",
+                "id": "winner_card_श्रीलंका_की_राष्ट्रीय_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/Sri_Lanka_Cricket_Cap_Insignia.svg",
+                    "altText": "Image of श्रीलंका की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2016",
+          "id": "tournament_year_2016",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "वेस्टइंडीज क्रिकेट टीम",
+                "url": "/read/hi/west_indies_cricket_team",
+                "contentUrl": "/static/content/hi/west_indies_cricket_team.json",
+                "id": "winner_card_वेस्टइंडीज_क्रिकेट_टीम",
+                "value": {
+                  "label": "विजेता",
+                  "image": {
+                    "url": "/static/images/master/West_indies_cricket_board_flag.png",
+                    "altText": "Image of वेस्टइंडीज क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "title": "आंकड़े",
       "cardType": "stories",
       "facts": [
