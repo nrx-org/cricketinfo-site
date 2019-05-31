@@ -19,6 +19,17 @@ export const Attributions = ({ attributions, lang }) => (
       license.
     </p>
     <p>
+      This site uses cookies to give you the best experience on our website as
+      well as help us understand how to make it better for you. By using
+      CricketInfo, you agree with our privacy notice and terms of use.
+    </p>
+    <p className="wcp-attributions__privacy-policy">
+      <a href={getPrivacyPolicyUrl(lang)}>
+        Privacy policy{" "}
+        <Icon size="xs" name="arrow_right" altText="Right arrow icon" />
+      </a>
+    </p>
+    <p>
       <ModalContextConsumer>
         {({ openModal }) => (
           <button
@@ -33,12 +44,6 @@ export const Attributions = ({ attributions, lang }) => (
           </button>
         )}
       </ModalContextConsumer>
-    </p>
-    <p className="wcp-attributions__privacy-policy">
-      <a href={getPrivacyPolicyUrl(lang)}>
-        Privacy policy{" "}
-        <Icon size="xs" name="arrow_right" altText="Right arrow icon" />
-      </a>
     </p>
     {/* eslint-enable react/jsx-one-expression-per-line */}
   </section>
