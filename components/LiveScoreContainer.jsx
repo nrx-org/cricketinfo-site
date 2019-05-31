@@ -73,7 +73,7 @@ export class LiveScoreContainer extends React.Component {
                     alt={`Flag of ${match.teamA.name}`}
                   />
                   <span className="wcp-live-score-container__team-label">
-                    {match.teamA.label}
+                    {match.teamA.label.toLocaleUpperCase()}
                   </span>
                 </th>
                 <td>{formatScore(match.teamA)}</td>
@@ -86,7 +86,7 @@ export class LiveScoreContainer extends React.Component {
                     alt={`Flag of ${match.teamB.name}`}
                   />
                   <span className="wcp-live-score-container__team-label">
-                    {match.teamB.label}
+                    {match.teamB.label.toLocaleUpperCase()}
                   </span>
                 </th>
                 <td>{formatScore(match.teamB)}</td>
