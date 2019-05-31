@@ -20,7 +20,7 @@
   ],
   "sections": [
     {
-      "title": "About",
+      "title": "इनके बारे में",
       "cardType": "table",
       "facts": [
         {
@@ -49,7 +49,7 @@
       "label": null,
       "facts": [
         {
-          "label": "Test Captain",
+          "label": "टेस्ट कप्तान",
           "value": {
             "label": "",
             "url": null,
@@ -60,7 +60,7 @@
           }
         },
         {
-          "label": "ODI Captain",
+          "label": "अंतर्राष्ट्रीय वनडे कप्तान",
           "value": {
             "label": "",
             "url": null,
@@ -71,7 +71,7 @@
           }
         },
         {
-          "label": "T20I Captain",
+          "label": "अंतर्राष्ट्रीय टी20 कप्तान",
           "value": {
             "label": "Kane Williamson",
             "url": null,
@@ -83,21 +83,20 @@
           }
         },
         {
-          "label": "Coach",
+          "label": "कोच",
           "value": {
             "label": "Tom Moody",
             "url": null,
             "image": {
               "url": "/static/images/master/Tom_Moody_Sunrisers.jpg",
-              "altText": "Image of Tom Moody",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+              "altText": "Image of Tom Moody"
             }
           }
         }
       ]
     },
     {
-      "title": "Popular Venue",
+      "title": "लोकप्रिय स्थल",
       "id": "r12-rajiv_gandhi_international_cricket_stadium",
       "cardType": "simple",
       "facts": [
@@ -107,15 +106,14 @@
             "label": "The Rajiv Gandhi International Cricket Stadium is the principal cricket stadium in Hyderabad, Telangana, India and is the home ground of the Hyderabad Cricket Association.  It is located in Uppal, an eastern suburb of the city. It has a capacity of 55,000.",
             "image": {
               "url": "/static/images/master/RGIS_HYD.jpg",
-              "altText": "Image of Rajiv Gandhi International Cricket Stadium",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+              "altText": "Image of Rajiv Gandhi International Cricket Stadium"
             }
           }
         }
       ]
     },
     {
-      "title": "History",
+      "title": "इतिहास",
       "cardType": "vertical_timeline",
       "facts": [
         {
@@ -157,7 +155,7 @@
       ]
     },
     {
-      "title": "Famous Players",
+      "title": "प्रसिद्ध खिलाड़ी",
       "cardType": "stories",
       "facts": [
         {
@@ -213,7 +211,7 @@
       ]
     },
     {
-      "title": "Achievements & Records",
+      "title": "उपलब्धियां और रिकॉर्ड",
       "cardType": "list_card",
       "facts": [
         {
@@ -268,7 +266,7 @@
       ]
     },
     {
-      "title": "Sponsors",
+      "title": "प्रायोजक",
       "cardType": "avatar",
       "label": null,
       "facts": [
@@ -278,8 +276,7 @@
             "url": null,
             "image": {
               "url": "/static/images/master/TYKASports_logo.png",
-              "altText": "Image of TYKA Sports",
-              "license": "<p>Official Logo of TYKA Sports - A Sportswear brand</p><p></p><p>Official Website of that Company</p><p><b><a href=\"/wiki/TYKA_Sports\" title=\"TYKA Sports\">TYKA Sports</a></b></p><p>to serve as the primary means of visual identification at the top of the article dedicated to the entity in question.</p><p>n.a.</p><p>It will be only used in the wikipedia page of the brand</p><p>n.a.</p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:TYKASports_logo.png</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p>"
+              "altText": "Image of TYKA Sports"
             }
           }
         },

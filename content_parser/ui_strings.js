@@ -1,8 +1,8 @@
 module.exports.teamUIStrings = {
   aboutSectionTitle: {
     en: "About",
-    hi: "About",
-    ta: "About"
+    hi: "इनके बारे में",
+    ta: "அறிமுகம்"
   },
   rolesSectionTitle: {
     en: "Roles",
@@ -11,53 +11,53 @@ module.exports.teamUIStrings = {
   },
   testCaptainRoleTitle: {
     en: "Test Captain",
-    hi: "Test Captain",
-    ta: "Test Captain"
+    hi: "टेस्ट कप्तान",
+    ta: "டெஸ்ட் கேப்டன்"
   },
   ODICaptainRoleTitle: {
     en: "ODI Captain",
-    hi: "ODI Captain",
-    ta: "ODI Captain"
+    hi: "अंतर्राष्ट्रीय वनडे कप्तान",
+    ta: "ஓடிஐ கேப்டன்"
   },
   T20ICaptainRoleTitle: {
     en: "T20I Captain",
-    hi: "T20I Captain",
-    ta: "T20I Captain"
+    hi: "अंतर्राष्ट्रीय टी20 कप्तान",
+    ta: "டி20 கேப்டன்"
   },
   coachRoleTitle: {
     en: "Coach",
-    hi: "Coach",
-    ta: "Coach"
+    hi: "कोच",
+    ta: "பயிற்சியாளர்"
   },
   popularVenueSectionTitle: {
     en: "Popular Venue",
-    hi: "Popular Venue",
-    ta: "Popular Venue"
+    hi: "लोकप्रिय स्थल",
+    ta: "பிரபலமான மைதானம்"
   },
   historySectionTitle: {
     en: "History",
-    hi: "History",
-    ta: "History"
+    hi: "इतिहास",
+    ta: "வரலாறு"
   },
   famousPlayersSectionTitle: {
     en: "Famous Players",
-    hi: "Famous Players",
-    ta: "Famous Players"
+    hi: "प्रसिद्ध खिलाड़ी",
+    ta: "பிரபலமான வீரர்"
   },
   achievementsSectionTitle: {
     en: "Achievements & Records",
-    hi: "Achievements & Records",
-    ta: "Achievements & Records"
+    hi: "उपलब्धियां और रिकॉर्ड",
+    ta: "சாதனைகள் & பதிவுகள்"
   },
   sponsorsSectionTitle: {
     en: "Sponsors",
-    hi: "Sponsors",
-    ta: "Sponsors"
+    hi: "प्रायोजक",
+    ta: "வழங்குநர்கள்"
   },
   statisticsSectionTitle: {
     en: "Statistics",
-    hi: "Statistics",
-    ta: "Statistics"
+    hi: "आंकड़े",
+    ta: "புள்ளியியல்"
   }
 };
 
