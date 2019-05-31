@@ -272,7 +272,10 @@ module.exports.exportEventsIndividual = () => {
       // Tournament history.
       let historyFacts = await Promise.all(
         HISTORY.map(async history => {
-          if (!record[history.TOURNAMENT_ID_KEY]) {
+          if (
+            !record[history.TOURNAMENT_ID_KEY] &&
+            !record[history.WINNER_ID_KEY]
+          ) {
             return null;
           }
 
@@ -287,51 +290,53 @@ module.exports.exportEventsIndividual = () => {
             lang
           );
 
-          if (!tournamentCard || !winnerCard) {
+          if (!tournamentCard && !winnerCard) {
             return null;
           }
+
+          let facts = [
+            tournamentCard && {
+              label: tournamentCard.title,
+              url: tournamentCard.url,
+              contentUrl: tournamentCard.contentUrl,
+              id: `tournament_card_${getSluggedTitle(tournamentCard.title)}`,
+              value: {
+                label: eventsUiStrings.tournament[lang],
+                image: await downloadImageAndFillAttributions(
+                  {
+                    url: tournamentCard.imageUrl,
+                    altText: `Image of ${tournamentCard.title}`
+                  },
+                  englishSlug
+                )
+              }
+            },
+            winnerCard && {
+              label: winnerCard.title,
+              url: winnerCard.url,
+              contentUrl: winnerCard.contentUrl,
+              id: `winner_card_${getSluggedTitle(winnerCard.title)}`,
+              value: {
+                label: eventsUiStrings.champion[lang],
+                image: await downloadImageAndFillAttributions(
+                  {
+                    url: winnerCard.imageUrl,
+                    altText: `Image of ${winnerCard.title}`
+                  },
+                  englishSlug
+                )
+              }
+            }
+          ];
+
+          facts = facts.filter(f => !!f);
 
           return {
             label: record[history.YEAR_KEY],
             id: `tournament_year_${record[history.YEAR_KEY]}`,
             value: {
               label: "",
-              facts: [
-                {
-                  label: tournamentCard.title,
-                  url: tournamentCard.url,
-                  contentUrl: tournamentCard.contentUrl,
-                  id: `tournament_card_${getSluggedTitle(
-                    tournamentCard.title
-                  )}`,
-                  value: {
-                    label: eventsUiStrings.tournament[lang],
-                    image: await downloadImageAndFillAttributions(
-                      {
-                        url: tournamentCard.imageUrl,
-                        altText: `Image of ${tournamentCard.title}`
-                      },
-                      englishSlug
-                    )
-                  }
-                },
-                {
-                  label: winnerCard.title,
-                  url: winnerCard.url,
-                  contentUrl: winnerCard.contentUrl,
-                  id: `winner_card_${getSluggedTitle(winnerCard.title)}`,
-                  value: {
-                    label: eventsUiStrings.champion[lang],
-                    image: await downloadImageAndFillAttributions(
-                      {
-                        url: winnerCard.imageUrl,
-                        altText: `Image of ${winnerCard.title}`
-                      },
-                      englishSlug
-                    )
-                  }
-                }
-              ]
+              facts
             }
           };
         })

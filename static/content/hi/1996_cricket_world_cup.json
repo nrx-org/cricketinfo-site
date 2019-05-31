@@ -499,6 +499,28 @@
               }
             ]
           }
+        },
+        {
+          "label": "2019",
+          "id": "tournament_year_2019",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2019 क्रिकेट विश्व कप",
+                "url": "/read/hi/2019_cricket_world_cup",
+                "contentUrl": "/static/content/hi/2019_cricket_world_cup.json",
+                "id": "tournament_card_2019_क्रिकेट_विश्व_कप",
+                "value": {
+                  "label": "टूर्नामेंट",
+                  "image": {
+                    "url": "/static/images/master/ICC_Cricket_World_Cup_2019_logo.svg",
+                    "altText": "Image of 2019 क्रिकेट विश्व कप"
+                  }
+                }
+              }
+            ]
+          }
         }
       ]
     },

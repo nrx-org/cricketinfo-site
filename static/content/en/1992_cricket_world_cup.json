@@ -487,6 +487,28 @@
               }
             ]
           }
+        },
+        {
+          "label": "2019",
+          "id": "tournament_year_2019",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "2019 Cricket World Cup",
+                "url": "/read/en/2019_cricket_world_cup",
+                "contentUrl": "/static/content/en/2019_cricket_world_cup.json",
+                "id": "tournament_card_2019_cricket_world_cup",
+                "value": {
+                  "label": "Tournament",
+                  "image": {
+                    "url": "/static/images/master/ICC_Cricket_World_Cup_2019_logo.svg",
+                    "altText": "Image of 2019 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
         }
       ]
     },
