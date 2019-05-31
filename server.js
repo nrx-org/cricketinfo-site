@@ -31,6 +31,16 @@ app
       app.render(req, res, actualPage, queryParams);
     });
 
+    server.get("/privacy_policy/:lang", (req, res) => {
+      const actualPage = "/privacy_policy";
+
+      const queryParams = {
+        lang: req.params.lang
+      };
+
+      app.render(req, res, actualPage, queryParams);
+    });
+
     server.get("*", (req, res) => {
       return handle(req, res);
     });

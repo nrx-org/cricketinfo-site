@@ -28,11 +28,11 @@ import { InterestingArticles } from "../components/InterestingArticles";
 import { ShareModalContainer } from "../components/ShareModalContainer";
 import { FeaturedPlayers } from "../components/FeaturedPlayers";
 import { QuizContainer } from "../components/QuizContainer";
-import { LiveScoreContainer } from "../components/LiveScoreContainer";
 import { getImageAttributions } from "../lib/image_attributions";
 import { ImageAttributions } from "../components/ImageAttributions";
 import { ImageAttributionsModalContainer } from "../components/ImageAttributionsModalContainer";
 import { ArticleSummaryModalContainer } from "../components/ArticleSummaryModalContainer";
+import { HomeHeader } from "../components/HomeHeader";
 
 const Home = ({
   lang,
@@ -57,16 +57,7 @@ const Home = ({
           <title>{makeSiteTitle(lang)}</title>
         </Head>
 
-        <header className="wcp-home__header">
-          <div className="wcp-home__logo__container">
-            <img
-              className="wcp-home__logo"
-              src="/static/images/logo.svg"
-              alt="World Cup logo"
-            />
-          </div>
-          <LiveScoreContainer />
-        </header>
+        <HomeHeader />
 
         <SwitchLanguageFloatingToolbar translations={translations} />
         <PlayingTeams teams={playingTeams} allTeams={participatingTeams} />

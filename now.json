@@ -9,6 +9,10 @@
     {
       "src": "/read/(?<lang>.*)",
       "dest": "/home?lang=$lang"
+    },
+    {
+      "src": "/privacy_policy/(?<lang>.*)",
+      "dest": "/privacy_policy?lang=$lang"
     }
   ],
   "name": "wikipedia-client-prototypes",
