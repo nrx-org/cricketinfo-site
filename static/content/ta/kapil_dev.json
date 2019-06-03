@@ -1,6 +1,6 @@
 {
   "title": "கபில்தேவ்",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kapil_Dev",
+  "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%AA%E0%AE%BF%E0%AE%B2%E0%AF%8D%E0%AE%A4%E0%AF%87%E0%AE%B5%E0%AF%8D",
   "coverImage": {
     "url": "/static/images/master/Kapil_Dev_at_Equation_sports_auction.jpg",
     "altText": "Image of கபில்தேவ்"
@@ -39,7 +39,8 @@
           "label": "பிறந்த இடம்",
           "value": {
             "label": "சண்டிகர், இந்தியா",
-            "url": "https://en.wikipedia.org/wiki/Chandigarh"
+            "url": "",
+            "contentUrl": "/static/content/ta/chandigarh.json"
           }
         },
         {
@@ -113,13 +114,13 @@
               {
                 "url": "/read/ta/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/ta/pakistan_national_cricket_team.json",
-                "label": "Pakistan national cricket team",
-                "id": "phase_fact_fact_pakistan_national_cricket_team",
+                "label": "பாகிஸ்தான் தேசியக் கிரிக்கெட் அணி",
+                "id": "phase_fact_fact_பாகிஸ்தான்_தேசியக்_கிரிக்கெட்_அணி",
                 "value": {
-                  "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
+                  "label": "ஷாஹின்ஸ், கிரீன் ஷேர்ட்ஸ் மற்றும் மென் இன் கிரீன் என பிரபலமாகக் கருதப்படும் பாகிஸ்தான் ஆண்கள் தேசியக் கிரிக்கெட் அணி பாகிஸ்தான் கிரிக்கெட் வாரியத்தால் (பிசிபி) நிர்வகிக்கப்படுகிறது. இந்த அணி சர்வதேசக் கிரிக்கெட் கவுன்சிலின் முழு உறுப்பினர் ஆகும், மேலும் டெஸ்ட், ஒருநாள் மற்றும் சர்வதேச டிவென்டி20 கிரிக்கெட் போட்டிகளில் பங்கேற்கிறது.",
                   "image": {
                     "url": "/static/images/master/PakistanCricketLogo.png",
-                    "altText": "Image of Pakistan national cricket team"
+                    "altText": "Image of பாகிஸ்தான் தேசியக் கிரிக்கெட் அணி"
                   }
                 }
               }
@@ -136,13 +137,13 @@
               {
                 "url": "/read/ta/1979_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1979_cricket_world_cup.json",
-                "label": "1979 Cricket World Cup",
-                "id": "phase_fact_fact_1979_cricket_world_cup",
+                "label": "1979 கிரிக்கெட் உலகக் கோப்பை",
+                "id": "phase_fact_fact_1979_கிரிக்கெட்_உலகக்_கோப்பை",
                 "value": {
-                  "label": "The 1979 Cricket World Cup (officially the Prudential Cup '79) was the second edition of the Cricket World Cup and was won by the West Indies, who had also won the inaugural tournament four years earlier. It was held in England from 9 to 23 June 1979.",
+                  "label": "1979 கிரிக்கெட் உலகக் கோப்பை (அதிகாரபூர்வமாக புரூடென்ஷியல் கப் '79) இரண்டாவது கிரிக்கெட் உலகக் கோப்பையாகும், இதில் மேற்கிந்தியத் தீவுகள் வெற்றி பெற்றது, இவர்களேதான் நான்கு ஆண்டு முன்னர் நடந்த முதல் உலகக் கோப்பையையும் வென்றார்கள். இது இங்கிலாந்தில் ஜூன் 9 முதல் 23 வரை நடந்தது.",
                   "image": {
                     "url": "/static/images/master/Prudential_Cup_79_logo.svg",
-                    "altText": "Image of 1979 Cricket World Cup"
+                    "altText": "Image of 1979 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               }
@@ -182,13 +183,13 @@
               {
                 "url": "/read/ta/1987_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1987_cricket_world_cup.json",
-                "label": "1987 Cricket World Cup",
-                "id": "phase_fact_fact_1987_cricket_world_cup",
+                "label": "1987 கிரிக்கெட் உலகக் கோப்பை",
+                "id": "phase_fact_fact_1987_கிரிக்கெட்_உலகக்_கோப்பை",
                 "value": {
-                  "label": "The 1987 Cricket World Cup (known as the Reliance Cup 1987 for sponsorship reasons) was the fourth edition of the ICC Cricket World Cup tournament. It was held from 8 October to 8 November 1987 in India and Pakistan.",
+                  "label": "1987 கிரிக்கெட் உலகக் கோப்பை (ஸ்பான்சர்ஷிப் காரணங்களுக்காக ரிலையன்ஸ் கப் 1987 எனப்பட்டது) நான்காவது ஐசிசி கிரிக்கெட் உலகக் கோப்பை டோர்னமெண்ட் ஆகும். இது 1987 ஆம் ஆண்டு இந்தியா மற்றும் பாகிஸ்தானில் அக்டோபர் 8 முதல் நவம்பர் 8 வரை நடத்தப்பட்டது.",
                   "image": {
-                    "altText": "Image of 1987 Cricket World Cup",
-                    "license": ""
+                    "url": "/static/images/master/Worldcup1987.jpg",
+                    "altText": "Image of 1987 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               }
@@ -205,13 +206,13 @@
               {
                 "url": "/read/ta/1992_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1992_cricket_world_cup.json",
-                "label": "1992 Cricket World Cup",
-                "id": "phase_fact_fact_1992_cricket_world_cup",
+                "label": "1992 கிரிக்கெட் உலகக் கோப்பை",
+                "id": "phase_fact_fact_1992_கிரிக்கெட்_உலகக்_கோப்பை",
                 "value": {
-                  "label": "The 1992 Cricket World Cup (officially the Benson & Hedges World Cup 1992) was the fifth staging of the Cricket World Cup, organised by the International Cricket Council (ICC). It was held in Australia and New Zealand from 22 February to 25 March 1992 and finished with Pakistan beating England in the final to become the World Cup champions for the first time.",
+                  "label": "1992 கிரிக்கெட் உலகக் கோப்பை (அதிகாரபூர்வமாக பென்சன் & ஹெட்ஜஸ் உலகக் கோப்பை 1992) ஐந்தாவது ஐசிசி கிரிக்கெட் உலகக் கோப்பை டோர்னமெண்ட். இது ஆஸ்திரேலியா மற்றும் நியூசிலாந்தில், பிப்ரவரி 22 முதல் மார்ச் 25 வரை நடத்தப்பட்டது. இறுதிப் போட்டியில் இங்கிலாந்தை வீழ்த்தி பாகிஸ்தான் முதல் முறையாக உலகச் சேம்பியன் ஆனது.",
                   "image": {
                     "url": "/static/images/master/World_Cup_1992_logo.svg",
-                    "altText": "Image of 1992 Cricket World Cup"
+                    "altText": "Image of 1992 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               }
@@ -230,7 +231,7 @@
           "value": {
             "label": "1979 இல் டெல்லி ஃபெரோஸ் ஷா கொட்லாவில் நடந்த மேற்கிந்தியத் தீவுகளுக்கு எதிரான போட்டியில் வெறும் 124 பந்துகளில் முதல் டெஸ்ட் சதம் (126) அடித்தார்",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Kapil_Dev_at_Equation_sports_auction.jpg",
               "altText": "1979 இல் டெல்லி ஃபெரோஸ் ஷா கொட்லாவில் நடந்த மேற்கிந்தியத் தீவுகளுக்கு எதிரான போட்டியில் வெறும் 124 பந்துகளில் முதல் டெஸ்ட் சதம் (126) அடித்தார்"
             }
           }
@@ -241,7 +242,7 @@
           "value": {
             "label": "1980 ஆம் ஆண்டு ஹோம் டெஸ்ட் தொடரில் ஆஸ்திரேலியாவுக்கு எதிரான போட்டியில் இரண்டு முறை ஒரே இன்னிங்ஸில் 5 விக்கெட் எடுத்து சாதனைப் படைத்துள்ளார்.",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Kapil_Dev_for_a_cricket_show_for_Aajtak.jpg",
               "altText": "1980 ஆம் ஆண்டு ஹோம் டெஸ்ட் தொடரில் ஆஸ்திரேலியாவுக்கு எதிரான போட்டியில் இரண்டு முறை ஒரே இன்னிங்ஸில் 5 விக்கெட் எடுத்து சாதனைப் படைத்துள்ளார்."
             }
           }
@@ -252,7 +253,7 @@
           "value": {
             "label": "இலங்கைக்கு எதிராக 1982-83 நடந்த போட்டியில் முதல் முறையாக இந்திய அணியின் கேப்டன் பொறுப்பை ஏற்றார்.",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Kapil_dev_cropped.jpg",
               "altText": "இலங்கைக்கு எதிராக 1982-83 நடந்த போட்டியில் முதல் முறையாக இந்திய அணியின் கேப்டன் பொறுப்பை ஏற்றார்."
             }
           }
@@ -263,8 +264,9 @@
           "value": {
             "label": "1983 உலகக் கோப்பை போட்டியில் ஜிம்பாப்வேவுக்கு எதிராக சர்வதேச ஒரு நாள் போட்டியில் அவுட் ஆகாமல் 175 ரன்கள் என்ற அதிகபட்ச ஸ்கோரை எடுத்தார்",
             "image": {
-              "url": "",
-              "altText": "1983 உலகக் கோப்பை போட்டியில் ஜிம்பாப்வேவுக்கு எதிராக சர்வதேச ஒரு நாள் போட்டியில் அவுட் ஆகாமல் 175 ரன்கள் என்ற அதிகபட்ச ஸ்கோரை எடுத்தார்"
+              "url": "/static/images/master/The_former_Indian_Cricket2C_Shri_Kapil_Dev_holding_the_Queen60s_Baton_on_the_occasion_of_the_launching_ceremony_of_the_Queens_Baton_Relay2C_in_London_on_October_292C_2009.jpg",
+              "altText": "1983 உலகக் கோப்பை போட்டியில் ஜிம்பாப்வேவுக்கு எதிராக சர்வதேச ஒரு நாள் போட்டியில் அவுட் ஆகாமல் 175 ரன்கள் என்ற அதிகபட்ச ஸ்கோரை எடுத்தார்",
+              "license": "<p><i></i><div lang=\"en\" class=\"description en\" style=\"display:inline;\"><i>This file is a copyrighted work of the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.india.gov.in/\">Government of India</a></b>, licensed under the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf\">Government Open Data License - India (GODL)</a></b>.</i>\n<p>Following the mandate of the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://data.gov.in/sites/default/files/NDSAP.pdf\">National Data Sharing and Accessibility Policy (NDSAP) of Government of India</a></b> that\napplies to all shareable non-sensitive data available either in digital or analog forms but generated using public funds by\nvarious agencies of the Government of India, all users are provided a worldwide, royalty-free, non-exclusive license to <b>use, adapt, publish</b> (either in original, or in adapted and/or derivative forms), translate, display, add value, and create derivative works (including products and services), for all lawful <b>commercial and non-commercial purposes</b>, and for the duration of existence of such rights over the data or information. \n</p><p>The user must acknowledge the provider, source, and license of data by explicitly publishing the <b>attribution statement</b>, including the DOI (Digital Object Identifier), or the URL (Uniform Resource Locator), or the URI (Uniform Resource Identifier) of the data concerned. \n</p><p>The user must not indicate or suggest in any manner that the data provider(s) endorses their use and/or the user. \nThe data provider(s) are not liable for any errors or omissions, and will not under any circumstances be liable for any loss, injury or damage caused by its use.  \n</p><p>The data provider(s) do not guarantee the continued supply of updated or up-to-date versions of the data, and will not be held liable in case the continued supply of updated data is not provided. \n</p><p><b>Exemptions:</b> The license does not cover the following kinds of data: a. personal information; b. data that is non-shareable and/or sensitive; c. names, crests, logos and other official symbols of the data provider(s); d. data subject to other intellectual property rights, including patents, trade-marks and official marks; e. military insignia; f. identity documents; and g. any data that should not have been publicly disclosed for the grounds provided under section 8 of the <a rel=\"nofollow\" class=\"external text\" href=\"http://rti.gov.in/webactrti.htm\">Right to Information Act, 2005</a>.\n</p><p><span class=\"licensetpl_link\" style=\"display:none;\">https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf</span>\n<span class=\"licensetpl_short\" style=\"display:none;\">GODL-India</span>\n<span class=\"licensetpl_long\" style=\"display:none;\">Government Open Data License &#x2013; India</span>\n<span class=\"licensetpl_link_req\" style=\"display:none;\">true</span>\n</p>\n<span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div><i></i></p><p><b>Attribution: <span style=\"font-size: larger;\" class=\"licensetpl_attr\">Ministry of Youth Affairs and Sports (<a rel=\"nofollow\" class=\"external text\" href=\"https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf\">GODL-India</a>)</span></b></p><p><hr>\n<p><span style=\"font-size:x-small;line-height:140%\" class=\"plainlinks noprint\"><a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/en\">English</a>&#xA0;| <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/fr\">fran&#xE7;ais</a>&#xA0;| <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/ml\">&#xD2E;&#xD32;&#xD2F;&#xD3E;&#xD33;&#xD02;</a>&#xA0;| <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/mr\">&#x92E;&#x930;&#x93E;&#x920;&#x940;</a>&#xA0;| <small class=\"plainlinks\"><a class=\"external text\" href=\"//commons.wikimedia.org/w/index.php?title=Template:GODL-India/lang&amp;action=edit\">+/&#x2212;</a></small></span>\n<span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=GODL-India 1%3DMinistry+of+Youth+Affairs+and+Sports+%28%5Bhttps%3A%2F%2Fdata.gov.in%2Fsites%2Fdefault%2Ffiles%2FGazette_Notification_OGDL.pdf+GODL-India%5D%29\">&#xA0;</span>\n</p></p>"
             }
           }
         },
@@ -299,7 +301,7 @@
                 "value": {
                   "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of இந்திய தேசிய கிரிக்கெட் அணி"
                   }
                 }

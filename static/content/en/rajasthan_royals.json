@@ -14,7 +14,7 @@
     },
     {
       "lang": "ta",
-      "title": "Rajasthan Royals",
+      "title": "ராஜஸ்தான் ராயல்ஸ்",
       "url": "/read/ta/rajasthan_royals"
     }
   ],
@@ -126,7 +126,7 @@
           }
         },
         {
-          "label": "2009 IPL season",
+          "label": "2019 IPL பருவம்",
           "id": 3,
           "note": "2009",
           "value": {
@@ -157,129 +157,12 @@
     {
       "title": "Famous Players",
       "cardType": "stories",
-      "facts": [
-        {
-          "label": "Steve Smith",
-          "id": "steve_smith",
-          "value": {
-            "url": null,
-            "label": "Steven Peter Devereux Smith is an Australian international cricketer and former captain of the Australian national team. On 30 December 2017, he reached a Test batting rating of 947, the second-highest of all time.",
-            "image": {
-              "url": "/static/images/master/Steve_Smith_28cricketer292C_2014_28cropped29.jpg",
-              "altText": "Image of Steve Smith",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
-            }
-          }
-        },
-        {
-          "label": "Shane Warne",
-          "id": "shane_warne",
-          "value": {
-            "url": null,
-            "label": "Shane Warne played in the first four seasons (2008-2011) of the Indian Premier League for the Rajasthan Royals, where he played the roles of both captain and coach.",
-            "image": {
-              "url": "/static/images/master/Shane_Warne_bowling_2009.jpg",
-              "altText": "Image of Shane Warne"
-            }
-          }
-        },
-        {
-          "label": "Rahul Dravid",
-          "id": "rahul_dravid",
-          "value": {
-            "url": null,
-            "label": "Rahul Dravid has faced 31258 balls, which is the highest number of balls faced by any player in test cricket.",
-            "image": {
-              "url": "/static/images/master/RahulDravid.jpg",
-              "altText": "Image of Rahul Dravid"
-            }
-          }
-        },
-        {
-          "label": "Ajinkya Rahane",
-          "id": "ajinkya_rahane",
-          "value": {
-            "url": null,
-            "label": "Ajinkya Rahane is currently the Captain of the Indian cricket team in Test cricket.",
-            "image": {
-              "altText": "Image of Ajinkya Rahane",
-              "license": ""
-            }
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "Achievements & Records",
       "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2008 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Captained by Shane Warne, Rajasthan Royals finished winners in the IPL and qualified for the champions league T20.",
-            "facts": [
-              {
-                "label": "2008 Indian Premier League",
-                "id": "2008_indian_premier_league-",
-                "url": "/read/en/2008_indian_premier_league",
-                "value": {
-                  "label": "The 2008 Indian Premier League season was the inaugural season of the Indian Premier League, established by the BCCI in 2007. The season commenced on 18 April 2008 with the final match held on 1 June 2008. The competition started with a double round robin group stage, in which each of the 8 teams played a home match and an away match against every other team. These matches were followed by two semi-finals and a final.",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2008 Indian Premier League"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2013 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Shane Watson was named player of the series in the 2013 Indian Premier League.",
-            "facts": [
-              {
-                "label": "2013 Indian Premier League",
-                "id": "2013_indian_premier_league-",
-                "url": "/read/en/2013_indian_premier_league",
-                "value": {
-                  "label": "The 2013 season of the Indian Premier League, abbreviated as IPL 6 or Pepsi IPL 2013, was the sixth season of the IPL, established by the Board of Control for Cricket in India (BCCI) . The tournament was held from 3 April to 26 May 2013. Mumbai Indians won the tournament for the first time.",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2013 Indian Premier League"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "Play-offs ",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Rajasthan Royals finished 3rd in the 2013 IPL",
-            "facts": [
-              {
-                "label": "2013 Indian Premier League",
-                "id": "play-offs_-",
-                "url": "/read/en/2013_indian_premier_league",
-                "value": {
-                  "label": "The 2013 season of the Indian Premier League, abbreviated as IPL 6 or Pepsi IPL 2013, was the sixth season of the IPL, established by the Board of Control for Cricket in India (BCCI) . The tournament was held from 3 April to 26 May 2013. Mumbai Indians won the tournament for the first time.",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of Play-offs "
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "Sponsors",
@@ -291,7 +174,6 @@
             "label": "JK Lakshmi Cement",
             "url": null,
             "image": {
-              "url": "",
               "altText": "Image of JK Lakshmi Cement"
             }
           }
@@ -302,7 +184,6 @@
             "label": "Surya LED",
             "url": null,
             "image": {
-              "url": "",
               "altText": "Image of Surya LED"
             }
           }
@@ -313,7 +194,6 @@
             "label": "Red FM",
             "url": null,
             "image": {
-              "url": "/static/images/master/Red_fm.jpg",
               "altText": "Image of Red FM"
             }
           }

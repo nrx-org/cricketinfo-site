@@ -32,7 +32,7 @@
         {
           "label": "பிறந்த தேதி",
           "value": {
-            "label": "05-02-1990 (வயது 29)"
+            "label": "Invalid Date (வயது 29)"
           }
         },
         {
@@ -323,5 +323,6 @@
       "cardType": "tag_card",
       "facts": []
     }
-  ]
+  ],
+  "category": "personality"
 }

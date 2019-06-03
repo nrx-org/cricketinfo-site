@@ -1,11 +1,11 @@
 {
-  "title": "Rajasthan Royals",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rajasthan_Royals",
+  "title": "ராஜஸ்தான் ராயல்ஸ்",
+  "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%B0%E0%AE%BE%E0%AE%9C%E0%AE%B8%E0%AF%8D%E0%AE%A4%E0%AE%BE%E0%AE%A9%E0%AF%8D_%E0%AE%B0%E0%AE%BE%E0%AE%AF%E0%AE%B2%E0%AF%8D%E0%AE%B8%E0%AF%8D",
   "coverImage": {
     "url": "/static/images/master/RR-LOGO-1.png",
-    "altText": "Image of Rajasthan Royals"
+    "altText": "Image of ராஜஸ்தான் ராயல்ஸ்"
   },
-  "summary": "The Rajasthan Royals (often abbreviated as RR) are a franchise cricket team based in Jaipur, Rajasthan, that plays in the Indian Premier League.",
+  "summary": "ராஜஸ்தான் ராயல்ஸ் (பெரும்பாலும் ஆர்ஆர் என சுருக்கமாக அழைக்கப்படுகிறது) என்பது ஜெய்ப்பூர், ராஜஸ்தானை அடிப்படையாகக் கொண்ட ஐபிஎல் பிரீமியர் லீக்கில் ஆடும் உரிமம் பெற்ற ஒரு கிரிக்கெட் அணி,",
   "translations": [
     {
       "lang": "en",
@@ -26,7 +26,7 @@
         {
           "label": "Location",
           "value": {
-            "label": "Jaipur, Rajasthan"
+            "label": "ஜெய்ப்பூர், ராஜஸ்தான்"
           }
         },
         {
@@ -38,7 +38,7 @@
         {
           "label": "Association",
           "value": {
-            "label": "Indian Premier League"
+            "label": ""
           }
         }
       ]
@@ -73,11 +73,11 @@
         {
           "label": "டி20 கேப்டன்",
           "value": {
-            "label": "Steve Smith",
+            "label": "ஸ்டீவ் ஸ்மித்",
             "url": "/read/ta/andrew_tye",
             "image": {
               "url": "/static/images/master/Steve_Smith_28cricketer292C_2014_28cropped29.jpg",
-              "altText": "Image of Steve Smith",
+              "altText": "Image of ஸ்டீவ் ஸ்மித்",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
@@ -85,11 +85,11 @@
         {
           "label": "பயிற்சியாளர்",
           "value": {
-            "label": "Paddy Upton",
+            "label": "பேடி அப்டன்",
             "url": null,
             "image": {
               "url": "",
-              "altText": "Image of Paddy Upton"
+              "altText": "Image of பேடி அப்டன்"
             }
           }
         }
@@ -97,16 +97,16 @@
     },
     {
       "title": "பிரபலமான மைதானம்",
-      "id": "r11-sawai_mansingh_stadium",
+      "id": "r11-சவாய்_மான்சிங்_ஸ்டேடியம்",
       "cardType": "simple",
       "facts": [
         {
-          "label": "Sawai Mansingh Stadium",
+          "label": "சவாய் மான்சிங் ஸ்டேடியம்",
           "value": {
-            "label": "The Sawai Mansingh Stadium is a cricket stadium in Jaipur, Rajasthan, India. It was built during the reign of Raja Sawai Man Singh II who was also known as SMS, therefore the name is frequently shortened to SMS Stadium. As of July 2013, the stadium and grounds could be toured using Google Street View.",
+            "label": "ஸவாய் மான்சிங் ஸ்டேடியம் இந்தியாவின் ராஜஸ்தானில் உள்ள ஜெய்ப்பூரில் அமைந்துள்ளது. எஸ்எம்எஸ் என்று அறியப்படுகின்ற இரண்டாம் ராஜா ஸவாய் மான்சிங் ஆட்சியின்போது இது கட்டப்பட்டது, இதனாலேயே இது எஸ்எம்எஸ் ஸ்டேடியம் என்றே சுருக்கிக் கூறப்படுகிறது. 2013 ஜூலையில் இருந்து இந்த ஸ்டேடியம் மற்றும் மைதானங்களுக்கு கூகுள் ஸ்ட்ரீட் வியூவைப் பயன்படுத்தி சுற்றுப்பயணம் செல்லலாம்.",
             "image": {
               "url": "/static/images/master/Sawai-Mansingh-Stadium-Jaipur.jpg",
-              "altText": "Image of Sawai Mansingh Stadium"
+              "altText": "Image of சவாய் மான்சிங் ஸ்டேடியம்"
             }
           }
         }
@@ -117,38 +117,38 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "2008 IPL season",
+          "label": "2008 ஐபிஎல் சீசன்",
           "id": 3,
           "note": "2008",
           "value": {
-            "label": "The Rajasthan Royals became the winner of the first IPL tournament, when they defeated the Chennai Super Kings by 3 wickets in the final.",
+            "label": "சென்னை சூப்பர் கிங்ஸ் அணியை 3 விக்கெட் வித்தியாசத்தில் வீழ்த்தி முதல் ஐபிஎல் போட்டியில் ராஜஸ்தான் ராயல்ஸ் வெற்றி பெற்றது.",
             "facts": []
           }
         },
         {
-          "label": "2009 IPL season",
+          "label": "2009 IPL பருவம்",
           "id": 3,
           "note": "2009",
           "value": {
-            "label": "The Royals failed to make it to the semifinals after losing their last two matches against Delhi Daredevils and Kolkata Knight Riders.",
+            "label": "டெல்லி டேர்டெவில்ஸ் மற்றும் கொல்கத்தா நைட் ரைடர்ஸ் ஆகியோருக்கு எதிராக கடந்த இரண்டு போட்டிகளில் தோல்வியடைந்ததன் மூலம் ராயல்ஸ் அரையிறுதியில் தோல்வியடைந்தது.",
             "facts": []
           }
         },
         {
-          "label": "2011 IPL season",
+          "label": "2011 ஐபிஎல் பருவம்",
           "id": 3,
           "note": "2011",
           "value": {
-            "label": "The Rajasthan Royals, and the Kings XI Punjab were temporarily ejected from the league due to issues with their unreported ownership changes. The teams were reinstated with involvement from the High Court.",
+            "label": "ராஜஸ்தான் ராயல்ஸ், மற்றும் கிங்ஸ் XI பஞ்சாப் ஆகியவை தற்காலிகமாக அறிவிக்கப்படாத உரிமையாளர் மாற்றங்களுடன் பிரச்சினைகள் காரணமாக லீக்கில் இருந்து வெளியேற்றப்பட்டன. உயர்நீதிமன்றத்தில் இருந்து தத்தெடுக்கப்பட்டதன் மூலம் அணிகள் மறுபரிசீலனை செய்யப்பட்டன.",
             "facts": []
           }
         },
         {
-          "label": "2019 IPL season",
+          "label": "2019 IPL பருவம்",
           "id": 3,
           "note": "2019",
           "value": {
-            "label": "Steve Smith made a comeback to IPL  after he was banned by BCCI to participate in 2018 season due to Australian ball-tampering controversy. Ajinkya Rahane retained his captaincy at the start of the season, however,  Steve Smith returned to the captaincy after poor results.",
+            "label": "ஆஸ்திரேலிய பந்து வீச்சாளர் சர்ச்சை காரணமாக, 2018 ஆம் ஆண்டு சீசனில் பங்கேற்க ஸ்டீவ் ஸ்மித் ஐ.பி.எல். க்கு திரும்பினார். பருவத்தின் தொடக்கத்தில் அஜிங்கியா ரஹானே தனது தலைமையைத் தக்க வைத்துக் கொண்டார், இருப்பினும், ஸ்டீவ் ஸ்மித் மோசமான முடிவுக்குப் பிறகு கேப்டனீயைத் திரும்பினார்.",
             "facts": []
           }
         }
@@ -157,129 +157,12 @@
     {
       "title": "பிரபலமான வீரர்",
       "cardType": "stories",
-      "facts": [
-        {
-          "label": "Steve Smith",
-          "id": "steve_smith",
-          "value": {
-            "url": null,
-            "label": "Steven Peter Devereux Smith is an Australian international cricketer and former captain of the Australian national team. On 30 December 2017, he reached a Test batting rating of 947, the second-highest of all time.",
-            "image": {
-              "url": "/static/images/master/Steve_Smith_28cricketer292C_2014_28cropped29.jpg",
-              "altText": "Image of Steve Smith",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
-            }
-          }
-        },
-        {
-          "label": "Shane Warne",
-          "id": "shane_warne",
-          "value": {
-            "url": null,
-            "label": "Shane Warne played in the first four seasons (2008-2011) of the Indian Premier League for the Rajasthan Royals, where he played the roles of both captain and coach.",
-            "image": {
-              "url": "/static/images/master/Shane_Warne_bowling_2009.jpg",
-              "altText": "Image of Shane Warne"
-            }
-          }
-        },
-        {
-          "label": "Rahul Dravid",
-          "id": "rahul_dravid",
-          "value": {
-            "url": null,
-            "label": "Rahul Dravid has faced 31258 balls, which is the highest number of balls faced by any player in test cricket.",
-            "image": {
-              "url": "/static/images/master/RahulDravid.jpg",
-              "altText": "Image of Rahul Dravid"
-            }
-          }
-        },
-        {
-          "label": "Ajinkya Rahane",
-          "id": "ajinkya_rahane",
-          "value": {
-            "url": null,
-            "label": "Ajinkya Rahane is currently the Captain of the Indian cricket team in Test cricket.",
-            "image": {
-              "altText": "Image of Ajinkya Rahane",
-              "license": ""
-            }
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "சாதனைகள் & பதிவுகள்",
       "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2008 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Captained by Shane Warne, Rajasthan Royals finished winners in the IPL and qualified for the champions league T20.",
-            "facts": [
-              {
-                "label": "2008 Indian Premier League",
-                "id": "2008_indian_premier_league-",
-                "url": "/read/ta/2008_indian_premier_league",
-                "value": {
-                  "label": "The 2008 Indian Premier League season was the inaugural season of the Indian Premier League, established by the BCCI in 2007. The season commenced on 18 April 2008 with the final match held on 1 June 2008. The competition started with a double round robin group stage, in which each of the 8 teams played a home match and an away match against every other team. These matches were followed by two semi-finals and a final.",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2008 Indian Premier League"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2013 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Shane Watson was named player of the series in the 2013 Indian Premier League.",
-            "facts": [
-              {
-                "label": "2013 Indian Premier League",
-                "id": "2013_indian_premier_league-",
-                "url": "/read/ta/2013_indian_premier_league",
-                "value": {
-                  "label": "The 2013 season of the Indian Premier League, abbreviated as IPL 6 or Pepsi IPL 2013, was the sixth season of the IPL, established by the Board of Control for Cricket in India (BCCI) . The tournament was held from 3 April to 26 May 2013. Mumbai Indians won the tournament for the first time.",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2013 Indian Premier League"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "Play-offs ",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Rajasthan Royals finished 3rd in the 2013 IPL",
-            "facts": [
-              {
-                "label": "2013 Indian Premier League",
-                "id": "play-offs_-",
-                "url": "/read/ta/2013_indian_premier_league",
-                "value": {
-                  "label": "The 2013 season of the Indian Premier League, abbreviated as IPL 6 or Pepsi IPL 2013, was the sixth season of the IPL, established by the Board of Control for Cricket in India (BCCI) . The tournament was held from 3 April to 26 May 2013. Mumbai Indians won the tournament for the first time.",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of Play-offs "
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "வழங்குநர்கள்",
@@ -288,33 +171,30 @@
       "facts": [
         {
           "value": {
-            "label": "JK Lakshmi Cement",
+            "label": "ஜே.கே. லட்சுமி சிமெண்ட்",
             "url": null,
             "image": {
-              "url": "",
-              "altText": "Image of JK Lakshmi Cement"
+              "altText": "Image of ஜே.கே. லட்சுமி சிமெண்ட்"
             }
           }
         },
         {
-          "label": "Shirt Sponsor (Back)",
+          "label": "ஷர்ட் ஸ்பான்சர் (பேக்)",
           "value": {
-            "label": "Surya LED",
+            "label": "சூர்யா LED",
             "url": null,
             "image": {
-              "url": "",
-              "altText": "Image of Surya LED"
+              "altText": "Image of சூர்யா LED"
             }
           }
         },
         {
-          "label": "Shirt Sponsor (Away), Shirt Sponsor (Back)",
+          "label": "ஷர்ட் ஸ்பான்சர் (வெளிநாடு), ஷர்ட் ஸ்பான்சர் (பேக்)",
           "value": {
-            "label": "Red FM",
+            "label": "ரெட் FM",
             "url": null,
             "image": {
-              "url": "/static/images/master/Red_fm.jpg",
-              "altText": "Image of Red FM"
+              "altText": "Image of ரெட் FM"
             }
           }
         }

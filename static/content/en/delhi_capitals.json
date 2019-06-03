@@ -14,7 +14,7 @@
     },
     {
       "lang": "ta",
-      "title": "Delhi Capitals",
+      "title": "டெல்லி கேபிடல்ஸ்",
       "url": "/read/ta/delhi_capitals"
     }
   ],
@@ -125,7 +125,7 @@
           }
         },
         {
-          "label": "2009 IPL season",
+          "label": "2016 IPL பருவம்",
           "id": 3,
           "note": "2009",
           "value": {
@@ -156,95 +156,12 @@
     {
       "title": "Famous Players",
       "cardType": "stories",
-      "facts": [
-        {
-          "label": "Shikhar Dhawan",
-          "id": "shikhar_dhawan",
-          "value": {
-            "url": null,
-            "label": "In August 2013, Shikhar Dhawan recorded the then-second-highest individual score in a List A match when he scored 248 runs off 150 balls for India A against South Africa A at Pretoria",
-            "image": {
-              "url": "/static/images/master/SHIKHAR_DHAWAN_281600549441829.jpg",
-              "altText": "Image of Shikhar Dhawan",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
-            }
-          }
-        },
-        {
-          "label": "Colin Munro",
-          "id": "colin_munro",
-          "value": {
-            "url": null,
-            "label": "Colin Munro is a South-African born New Zealand international cricketer, who plays limited overs formats of the game.  He is the first player to score three Twenty20 International centuries.",
-            "image": {
-              "url": "/static/images/master/Colin_Munro_with_the_Sydney_Sixers.jpg",
-              "altText": "Image of Colin Munro"
-            }
-          }
-        },
-        {
-          "label": "Kagiso Rabada",
-          "id": "kagiso_rabada",
-          "value": {
-            "url": null,
-            "label": "Kagiso Rabada (born 25 May 1995) is a South African international cricketer who plays all formats of the game. Rabada, who is known by the nickname KG became the first cricketer to win six awards at Cricket South Africa's (CSA) annual dinner, including the prize for Cricketer of the Year in 2016.",
-            "image": {
-              "url": "/static/images/master/Rabada.jpg",
-              "altText": "Image of Kagiso Rabada"
-            }
-          }
-        },
-        {
-          "label": "Trent Boult",
-          "id": "trent_boult",
-          "value": {
-            "url": null,
-            "label": "Trent Alexander Boult is a New Zealand international cricketer who plays as a bowler.  He was the joint leading wicket taker at the 2015 Cricket World Cup.",
-            "image": {
-              "url": "/static/images/master/2018.02.03.22.23.14-AUSvNZL_T20_AUS_innings2C_SCG_283953315666529.jpg",
-              "altText": "Image of Trent Boult",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
-            }
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "Achievements & Records",
       "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2008 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Placed 4th at the 2008 Indian Premier League",
-            "facts": []
-          }
-        },
-        {
-          "label": "2009 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Delhi Capitals were 3rd in the 2009 Indian Premier League",
-            "facts": [
-              {
-                "label": "2009 Indian Premier League",
-                "id": "2009_indian_premier_league-",
-                "url": "/read/en/2009_indian_premier_league",
-                "value": {
-                  "label": "The 2009 Indian Premier League season, abbreviated as IPL 2 or the 2009 IPL, was the second season of the Indian Premier League, established by the Board of Control for Cricket in India (BCCI) in 2007. The tournament was hosted by South Africa and was played between 18 April and 24 May 2009.",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2009 Indian Premier League"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "Sponsors",
@@ -256,7 +173,6 @@
             "label": "Daikin",
             "url": null,
             "image": {
-              "url": "/static/images/master/DAIKIN_logo.svg",
               "altText": "Image of Daikin"
             }
           }
@@ -267,7 +183,6 @@
             "label": "APL Apollo Steel Tubes",
             "url": null,
             "image": {
-              "url": "",
               "altText": "Image of APL Apollo Steel Tubes"
             }
           }

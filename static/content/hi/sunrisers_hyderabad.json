@@ -1,6 +1,6 @@
 {
   "title": "सनराइजर्स हैदराबाद",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sunrisers_Hyderabad",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A8%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%9C%E0%A4%B0%E0%A5%8D%E0%A4%B8_%E0%A4%B9%E0%A5%88%E0%A4%A6%E0%A4%B0%E0%A4%BE%E0%A4%AC%E0%A4%BE%E0%A4%A6",
   "coverImage": {
     "url": "/static/images/master/Sunrisers_Hyderabad.svg",
     "altText": "Image of सनराइजर्स हैदराबाद"
@@ -14,7 +14,7 @@
     },
     {
       "lang": "ta",
-      "title": "Sunrisers Hyderabad",
+      "title": "சன்ரைஸர்ஸ் ஹைதராபாத்",
       "url": "/read/ta/sunrisers_hyderabad"
     }
   ],
@@ -73,11 +73,11 @@
         {
           "label": "अंतर्राष्ट्रीय टी20 कप्तान",
           "value": {
-            "label": "Kane Williamson",
-            "url": null,
+            "label": "केन विलियमसन",
+            "url": "/read/hi/kane_williamson",
             "image": {
               "url": "/static/images/master/Kane_Williamson_28977366799129.jpg",
-              "altText": "Image of Kane Williamson",
+              "altText": "Image of केन विलियमसन",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
@@ -85,11 +85,11 @@
         {
           "label": "कोच",
           "value": {
-            "label": "Tom Moody",
+            "label": "टॉम मूडी",
             "url": null,
             "image": {
               "url": "/static/images/master/Tom_Moody_Sunrisers.jpg",
-              "altText": "Image of Tom Moody"
+              "altText": "Image of टॉम मूडी"
             }
           }
         }
@@ -97,16 +97,16 @@
     },
     {
       "title": "लोकप्रिय स्थल",
-      "id": "r12-rajiv_gandhi_international_cricket_stadium",
+      "id": "r12-राजीव_गांधी_अंतरराष्ट्रीय_क्रिकेट_स्टेडियम,_हैदराबाद",
       "cardType": "simple",
       "facts": [
         {
-          "label": "Rajiv Gandhi International Cricket Stadium",
+          "label": "राजीव गांधी अंतरराष्ट्रीय क्रिकेट स्टेडियम, हैदराबाद",
           "value": {
-            "label": "The Rajiv Gandhi International Cricket Stadium is the principal cricket stadium in Hyderabad, Telangana, India and is the home ground of the Hyderabad Cricket Association.  It is located in Uppal, an eastern suburb of the city. It has a capacity of 55,000.",
+            "label": "राजीव गांधी अंतर्राष्ट्रीय क्रिकेट स्टेडियम भारत के तेलंगाना राज्य के हैदराबाद का प्रमुख क्रिकेट स्टेडियम है और हैदराबाद क्रिकेट एसोसिएशन का घरेलू मैदान भी है। यह शहर के पूर्वी उपनगर उप्पल में स्थित है। इसकी क्षमता 55,000 दर्शकों की है।",
             "image": {
               "url": "/static/images/master/RGIS_HYD.jpg",
-              "altText": "Image of Rajiv Gandhi International Cricket Stadium"
+              "altText": "Image of राजीव गांधी अंतरराष्ट्रीय क्रिकेट स्टेडियम, हैदराबाद"
             }
           }
         }
@@ -117,29 +117,29 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "Initial years",
+          "label": "प्रारंभिक वर्ष",
           "id": 3,
           "note": "2013-2014",
           "value": {
-            "label": "Sunrisers Hyderabad made their IPL debut in the 2013 season. The team reached the playoffs but were eliminated after losing against Rajasthan Royals.",
+            "label": "सनराइजर्स हैदराबाद ने वर्ष 2013 के सीजन में आईपीएल में पदार्पण किया था। टीम प्लेऑफ में पहुंची थी, लेकिन राजस्थान रॉयल्स से हारने के बाद बाहर हो गई थी।",
             "facts": []
           }
         },
         {
-          "label": "Maiden title and success",
+          "label": "पहला खिताब और सफलता",
           "id": 3,
           "note": "2015–2017",
           "value": {
-            "label": "For the 2015 season, David Warner was appointed as the captain for this season and led the team in all matches played. Warner won the first Orange Cap for Sunrisers Hyderabad.",
+            "label": "2015 सीज़न के लिए डेविड वार्नर को कप्तान नियुक्त किया गया था और उन्होंने खेले गए सभी मैचों में टीम का नेतृत्व किया। वॉर्नर ने सनराइजर्स हैदराबाद के लिए पहला ऑरेंज कैप भी जीता।",
             "facts": []
           }
         },
         {
-          "label": "Runners Up",
+          "label": "उप विजेता",
           "id": 3,
           "note": "2018",
           "value": {
-            "label": "SRH finished the 2018 season as runners-up of the competition after losing to Chennai Super Kings in the final. Williamson won the Orange Cap with 735 runs.",
+            "label": "एसआरएच ने वर्ष 2018 सीजन के फाइनल में चेन्नई सुपर किंग्स से हारने के बाद उपविजेता के रूप में सत्र का समापन किया। विलियमसन ने 735 रनों के साथ ऑरेंज कैप पर कब्जा जमाया।",
             "facts": []
           }
         },
@@ -157,139 +157,12 @@
     {
       "title": "प्रसिद्ध खिलाड़ी",
       "cardType": "stories",
-      "facts": [
-        {
-          "label": "David Warner",
-          "id": "david_warner",
-          "value": {
-            "url": null,
-            "label": "Warner is the first Australian cricketer in 132 years to be selected for a national team in any format without experience in first-class cricket.",
-            "image": {
-              "url": "/static/images/master/DAVID_WARNER_281170478245329.jpg",
-              "altText": "Image of David Warner",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
-            }
-          }
-        },
-        {
-          "label": "Kane Williamson",
-          "id": "kane_williamson",
-          "value": {
-            "url": null,
-            "label": "During the New Zealand vs Pakistan 2014 ODI series, Williamson donated his entire match fee for all five ODIs to the victims of the 2014 Peshawar school massacre. He bowls and bats right handed but writes left handed.",
-            "image": {
-              "altText": "Image of Kane Williamson",
-              "license": ""
-            }
-          }
-        },
-        {
-          "label": "Bhuvneshwar Kumar",
-          "id": "bhuvneshwar_kumar",
-          "value": {
-            "url": null,
-            "label": "After his five-wicket haul against South Africa in the first T20I in February 2018, Kumar became the first Indian bowler to take a five-wicket haul in all formats of the game.",
-            "image": {
-              "url": "/static/images/master/Bhuvneshwar_Kumar.jpg",
-              "altText": "Image of Bhuvneshwar Kumar"
-            }
-          }
-        },
-        {
-          "label": "Martin Guptill",
-          "id": "martin_guptill",
-          "value": {
-            "url": null,
-            "label": "Guptill is the first cricketer from New Zealand and the fifth overall to have scored a double century in a One Day International match and holds the current record for the highest individual score in Cricket World Cup matches.",
-            "image": {
-              "url": "/static/images/master/Martin_Guptill_2_28cropped29.jpg",
-              "altText": "Image of Martin Guptill",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
-            }
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "उपलब्धियां और रिकॉर्ड",
       "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2013 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Semi-finalists of the 2013 Indian Premier League",
-            "facts": []
-          }
-        },
-        {
-          "label": "2015 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Winner of Orange Cap (David Warner – 562 runs)",
-            "facts": [
-              {
-                "label": "2015 इंडियन प्रीमियर लीग",
-                "id": "2015_indian_premier_league-",
-                "url": "/read/hi/2015_indian_premier_league",
-                "value": {
-                  "label": "इंडियन प्रीमियर लीग का 2015 का सीज़न, जिसे संक्षेप में आईपीएल 8 या पेप्सी आईपीएल 2015 के नाम से जाना जाता है, ट्वेंटी20 क्रिकेट लीग आईपीएल का आठवां सीज़न था। टूर्नामेंट में आठ टीमें थीं और इसे 8 अप्रैल 2015 से 24 मई 2015 तक आयोजित किया गया था।",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2015 Indian Premier League"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2016 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Champions of the 2016 Indian Premier League",
-            "facts": [
-              {
-                "label": "2018 इंडियन प्रीमियर लीग",
-                "id": "2016_indian_premier_league-",
-                "url": "/read/hi/2018_indian_premier_league",
-                "value": {
-                  "label": "इंडियन प्रीमियर लीग का 2018 का सीज़न, जिसे आईपीएल 11 के रूप में भी जाना जाता है, पेशेवर ट्वेंटी 20 क्रिकेट लीग आईपीएल का ग्यारहवां सीज़न था। 7 अप्रैल से 27 मई तक आयोजित किये गए इस सीज़न में चेन्नई सुपर किंग्स और राजस्थान रॉयल्स की दो साल के निलंबन के बाद वापसी हुई थी।",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2016 Indian Premier League"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2017 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Winner of Purple Cap (Bhuvneshwar Kumar – 26 wickets)",
-            "facts": [
-              {
-                "label": "O15",
-                "id": "2017_indian_premier_league-o15",
-                "url": null,
-                "value": {
-                  "label": null,
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2017 Indian Premier League"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "प्रायोजक",
@@ -298,21 +171,19 @@
       "facts": [
         {
           "value": {
-            "label": "TYKA Sports",
+            "label": "टीवाईकेए स्पोर्ट्स",
             "url": null,
             "image": {
-              "url": "/static/images/master/TYKASports_logo.png",
-              "altText": "Image of TYKA Sports"
+              "altText": "Image of टीवाईकेए स्पोर्ट्स"
             }
           }
         },
         {
-          "label": "Shirt Sponsor (Front)",
+          "label": "शर्ट प्रायोजक (सामने)",
           "value": {
             "label": "Coolwinks.com",
             "url": null,
             "image": {
-              "url": "",
               "altText": "Image of Coolwinks.com"
             }
           }

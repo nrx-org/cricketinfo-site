@@ -33,7 +33,7 @@
         {
           "label": "பிறந்த தேதி",
           "value": {
-            "label": "27-10-1986 (வயது 32)"
+            "label": "Invalid Date (வயது 32)"
           }
         },
         {
@@ -357,5 +357,6 @@
         }
       ]
     }
-  ]
+  ],
+  "category": "personality"
 }

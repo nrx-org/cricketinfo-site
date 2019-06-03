@@ -1,11 +1,11 @@
 {
-  "title": "Delhi Capitals",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Delhi_Capitals",
+  "title": "டெல்லி கேபிடல்ஸ்",
+  "wikipediaUrl": "",
   "coverImage": {
     "url": "/static/images/master/Delhi_Capitals_Logo.svg",
-    "altText": "Image of Delhi Capitals"
+    "altText": "Image of டெல்லி கேபிடல்ஸ்"
   },
-  "summary": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+  "summary": "டெல்லி கேபிட்டல்ஸ் ஐபிஎல் லீக்கில் (ஐபிஎல்) டெல்லி நகரை பிரதிநிதித்துவப்படுத்தும் ஒரு உரிமம் பெற்ற கிரிக்கெட் அணியாகும்.",
   "translations": [
     {
       "lang": "en",
@@ -26,7 +26,7 @@
         {
           "label": "Location",
           "value": {
-            "label": "Delhi, India"
+            "label": "புது தில்லி"
           }
         },
         {
@@ -38,7 +38,7 @@
         {
           "label": "Association",
           "value": {
-            "label": "Indian Premier League"
+            "label": ""
           }
         }
       ]
@@ -73,22 +73,22 @@
         {
           "label": "டி20 கேப்டன்",
           "value": {
-            "label": "Shreyas Iyer",
+            "label": "ஷிரியாஸ் ஐயர்",
             "url": "/read/ta/prithvi_shaw",
             "image": {
               "url": "",
-              "altText": "Image of Shreyas Iyer"
+              "altText": "Image of ஷிரியாஸ் ஐயர்"
             }
           }
         },
         {
           "label": "பயிற்சியாளர்",
           "value": {
-            "label": "Ricky Ponting",
+            "label": "ரிக்கி பாண்டிங்",
             "url": "/read/ta/shane_warne",
             "image": {
               "url": "/static/images/master/Ricky_Ponting_2015.jpg",
-              "altText": "Image of Ricky Ponting"
+              "altText": "Image of ரிக்கி பாண்டிங்"
             }
           }
         }
@@ -96,16 +96,16 @@
     },
     {
       "title": "பிரபலமான மைதானம்",
-      "id": "r16-feroz_shah_kotla_ground",
+      "id": "r16-ஃபெரோஸ்_ஷா_கோட்லா_மைதானம்",
       "cardType": "simple",
       "facts": [
         {
-          "label": "Feroz Shah Kotla Ground",
+          "label": "ஃபெரோஸ் ஷா கோட்லா மைதானம்",
           "value": {
-            "label": "The Feroz Shah Kotla Ground is a cricket ground located at Bahadur Shah Zafar Marg, New Delhi. It was established in 1883 and is the second oldest international cricket stadium still functional in India.",
+            "label": "ஃபெரோஸ் ஷா கோட்லா மைதானம் நியூ டெல்லி, பகதூர் ஷா ஜாபர் மார்க்கில் அமைந்துள்ள கிரிக்கெட் மைதானமாகும். 1883-இல் உருவாக்கப்பட்ட இது இந்தியாவில் இப்போதும் செயல்பட்டு வருகின்ற மிகப்பழமையான சர்வதேச கிரிக்கெட் மைதானமாகும்.",
             "image": {
               "url": "/static/images/master/Feroz_Shah_Kotla_during_India_vs_Australia_2019_ODI.jpg",
-              "altText": "Image of Feroz Shah Kotla Ground"
+              "altText": "Image of ஃபெரோஸ் ஷா கோட்லா மைதானம்"
             }
           }
         }
@@ -116,38 +116,38 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "2008 IPL season",
+          "label": "2008 ஐபிஎல் சீசன்",
           "id": 3,
           "note": "2008",
           "value": {
-            "label": "Delhi Daredevils had a good run in the inaugural edition of the IPL.They lost to eventual champions Rajasthan Royals in the semi final.",
+            "label": "டெல்லி டேர்டெவில்ஸ் ஐபிஎல் தொடரின் துவக்கத்தில் சிறப்பாக ரன் எடுத்தது. அரையிறுதி ஆட்டத்தில் ராஜஸ்தான் ராயல்ஸ் அணியிடம் தோல்வியடைந்தது.",
             "facts": []
           }
         },
         {
-          "label": "2009 IPL season",
+          "label": "2009 IPL பருவம்",
           "id": 3,
           "note": "2009",
           "value": {
-            "label": " Despite dominating for the regular season, the Daredevils crumbled in the semi-final under a fierce batting by Aussie keeper Adam Gilchrist, who hit the joint 5th fastest fifty in IPL history (just 17 balls). ",
+            "label": " வழக்கமான பருவத்தில் ஆதிக்கம் செலுத்திய போதிலும், ஐபிஎல் வரலாற்றில் ஐந்தாவது ஐந்தாவது ஐந்தாவது ஐ.பி.எல் (17 பந்துகளில்) தோல்வியடைந்த ஆஸ்திரேலிய கீப்பர் ஆடம் கில்கிறிஸ்ட், டேர்டெவில்ஸ் அரை இறுதி போட்டியில் வீழ்ந்தது.",
             "facts": []
           }
         },
         {
-          "label": "2013 IPL season",
+          "label": "2013 ஐபிஎல் பருவம்",
           "id": 3,
           "note": "2013",
           "value": {
-            "label": "The Delhi Daredevils lost all first six matches of IPL 2013 and won their first match in seven games against the Mumbai Indians.",
+            "label": "டெல்லி டேர்டெவில்ஸ் ஐபிஎல் 2013 தொடரில் முதல் ஆறு போட்டிகளில் தோல்வியடைந்ததுடன், மும்பை இந்தியர்களுக்கு எதிராக ஏழு போட்டிகளில் தங்கள் முதல் போட்டியை வென்றது.",
             "facts": []
           }
         },
         {
-          "label": "2016 IPL season",
+          "label": "2016 IPL பருவம்",
           "id": 3,
           "note": "2016",
           "value": {
-            "label": "After losing their first match against the two-time Champions Kolkata Knight Riders, they went on to dominate Kings XI Punjab, Royal Challengers Bangalore, Defending Mumbai Indians, Kolkata Knight Riders in the second leg and newcomers Gujarat Lions. ",
+            "label": "கொல்கத்தா நைட் ரைடர்ஸ் அணிக்கெதிரான முதல் ஆட்டத்தில் கொல்கத்தா நைட் ரைடர்ஸ் அணிக்கு எதிரான முதல் போட்டியில், ராயல் சேலஞ்சர்ஸ் பெங்களூரு, மும்பை இண்டியன்ஸ், கொல்கத்தா நைட் ரைடர்ஸ் ஆகியோரை எதிர்கொண்டது.",
             "facts": []
           }
         }
@@ -156,95 +156,12 @@
     {
       "title": "பிரபலமான வீரர்",
       "cardType": "stories",
-      "facts": [
-        {
-          "label": "Shikhar Dhawan",
-          "id": "shikhar_dhawan",
-          "value": {
-            "url": null,
-            "label": "In August 2013, Shikhar Dhawan recorded the then-second-highest individual score in a List A match when he scored 248 runs off 150 balls for India A against South Africa A at Pretoria",
-            "image": {
-              "url": "/static/images/master/SHIKHAR_DHAWAN_281600549441829.jpg",
-              "altText": "Image of Shikhar Dhawan",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
-            }
-          }
-        },
-        {
-          "label": "Colin Munro",
-          "id": "colin_munro",
-          "value": {
-            "url": null,
-            "label": "Colin Munro is a South-African born New Zealand international cricketer, who plays limited overs formats of the game.  He is the first player to score three Twenty20 International centuries.",
-            "image": {
-              "url": "/static/images/master/Colin_Munro_with_the_Sydney_Sixers.jpg",
-              "altText": "Image of Colin Munro"
-            }
-          }
-        },
-        {
-          "label": "Kagiso Rabada",
-          "id": "kagiso_rabada",
-          "value": {
-            "url": null,
-            "label": "Kagiso Rabada (born 25 May 1995) is a South African international cricketer who plays all formats of the game. Rabada, who is known by the nickname KG became the first cricketer to win six awards at Cricket South Africa's (CSA) annual dinner, including the prize for Cricketer of the Year in 2016.",
-            "image": {
-              "url": "/static/images/master/Rabada.jpg",
-              "altText": "Image of Kagiso Rabada"
-            }
-          }
-        },
-        {
-          "label": "Trent Boult",
-          "id": "trent_boult",
-          "value": {
-            "url": null,
-            "label": "Trent Alexander Boult is a New Zealand international cricketer who plays as a bowler.  He was the joint leading wicket taker at the 2015 Cricket World Cup.",
-            "image": {
-              "url": "/static/images/master/2018.02.03.22.23.14-AUSvNZL_T20_AUS_innings2C_SCG_283953315666529.jpg",
-              "altText": "Image of Trent Boult",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
-            }
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "சாதனைகள் & பதிவுகள்",
       "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2008 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Placed 4th at the 2008 Indian Premier League",
-            "facts": []
-          }
-        },
-        {
-          "label": "2009 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Delhi Capitals were 3rd in the 2009 Indian Premier League",
-            "facts": [
-              {
-                "label": "2009 Indian Premier League",
-                "id": "2009_indian_premier_league-",
-                "url": "/read/ta/2009_indian_premier_league",
-                "value": {
-                  "label": "The 2009 Indian Premier League season, abbreviated as IPL 2 or the 2009 IPL, was the second season of the Indian Premier League, established by the Board of Control for Cricket in India (BCCI) in 2007. The tournament was hosted by South Africa and was played between 18 April and 24 May 2009.",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2009 Indian Premier League"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "வழங்குநர்கள்",
@@ -253,22 +170,20 @@
       "facts": [
         {
           "value": {
-            "label": "Daikin",
+            "label": "டாய்க்கின்",
             "url": null,
             "image": {
-              "url": "/static/images/master/DAIKIN_logo.svg",
-              "altText": "Image of Daikin"
+              "altText": "Image of டாய்க்கின்"
             }
           }
         },
         {
-          "label": "Shirt Sponsor (Back)",
+          "label": "ஷர்ட் ஸ்பான்சர் (பேக்)",
           "value": {
-            "label": "APL Apollo Steel Tubes",
+            "label": "ஏபிஎல் அப்பல்லோ ஸ்டீல் டூப்ஸ்",
             "url": null,
             "image": {
-              "url": "",
-              "altText": "Image of APL Apollo Steel Tubes"
+              "altText": "Image of ஏபிஎல் அப்பல்லோ ஸ்டீல் டூப்ஸ்"
             }
           }
         }

@@ -32,7 +32,7 @@
         {
           "label": "பிறந்த தேதி",
           "value": {
-            "label": "21-09-1979 (வயது 39)"
+            "label": "Invalid Date (வயது 39)"
           }
         },
         {
@@ -361,5 +361,6 @@
         }
       ]
     }
-  ]
+  ],
+  "category": "personality"
 }
