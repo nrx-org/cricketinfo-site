@@ -187,7 +187,7 @@
                 "value": {
                   "label": "विजेता",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of भारत की राष्ट्रीय क्रिकेट टीम"
                   }
                 }
@@ -209,15 +209,15 @@
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
-                    "altText": "Image of 1987 क्रिकेट विश्व कप",
-                    "license": ""
+                    "url": "/static/images/master/Worldcup1987.jpg",
+                    "altText": "Image of 1987 क्रिकेट विश्व कप"
                   }
                 }
               },
               {
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
                   "label": "विजेता",
@@ -321,8 +321,8 @@
               },
               {
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
                   "label": "विजेता",
@@ -356,8 +356,8 @@
               },
               {
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
                   "label": "विजेता",
@@ -391,8 +391,8 @@
               },
               {
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
                   "label": "विजेता",
@@ -432,7 +432,7 @@
                 "value": {
                   "label": "विजेता",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of भारत की राष्ट्रीय क्रिकेट टीम"
                   }
                 }
@@ -461,8 +461,8 @@
               },
               {
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
                   "label": "विजेता",
@@ -531,8 +531,8 @@
           "value": {
             "label": "रोजर बिन्नी, भारत",
             "image": {
-              "altText": "Picture of रोजर बिन्नी",
-              "license": ""
+              "url": "/static/images/master/Roger_Binny_2018.jpg",
+              "altText": "Picture of रोजर बिन्नी"
             }
           }
         }
@@ -555,7 +555,7 @@
                 "value": {
                   "label": "भारत की राष्ट्रीय क्रिकेट टीम को टीम इंडिया और मेन इन ब्लू के नाम से भी जाना जाता है। भारत को टेस्ट में पहला, वनडे में दूसरा और आईसीसी द्वारा टी20 में दूसरा स्थान मिला है। विराट कोहली टीम के वर्तमान कप्तान हैं जबकि मुख्य कोच रवि शास्त्री हैं।",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of भारत की राष्ट्रीय क्रिकेट टीम"
                   }
                 }

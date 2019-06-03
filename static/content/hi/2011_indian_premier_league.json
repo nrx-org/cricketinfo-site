@@ -3,7 +3,7 @@
   "summary": "2011 इंडियन प्रीमियर लीग सत्र, जो आईपीएल 4 या आईपीएल 2011 के रूप से भी बुलाया जाता था , भारत के शीर्ष ट्वेंटी -20 क्रिकेट लीग का चौथा सत्र था। ",
   "wikipediaUrl": "https://hi.wikipedia.org/wiki/2011_%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%A8_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE%E0%A4%BF%E0%A4%AF%E0%A4%B0_%E0%A4%B2%E0%A5%80%E0%A4%97",
   "coverImage": {
-    "url": "/static/images/master/Ma_ChidambaramStadium_panaroma.jpg",
+    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
     "altText": "Image of 2011 इंडियन प्रीमियर लीग"
   },
   "translations": [
@@ -69,6 +69,18 @@
           "value": {
             "label": "",
             "facts": [
+              {
+                "label": "चेन्नई",
+                "url": "/read/hi/chennai",
+                "contentUrl": "/static/content/hi/chennai.json",
+                "value": {
+                  "label": "चेन्नई के पल्लवराम के पास पाषाण युग के औजार पाए गए हैं। भारतीय पुरातत्व सर्वेक्षण के अनुसार पल्लवराम एक महापाषाणकालीन सांस्कृतिक प्रतिष्ठान था, और पूर्व-ऐतिहासिक समुदाय के लोग बस्ती में रहते थे।",
+                  "image": {
+                    "altText": "चेन्नई",
+                    "license": ""
+                  }
+                }
+              },
               {
                 "label": "मुंबई",
                 "url": "/read/hi/mumbai",
@@ -174,8 +186,9 @@
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
-                    "url": "/static/images/master/IPL_T20_Chennai_vs_Kolkata.JPG",
-                    "altText": "Image of 2010 इंडियन प्रीमियर लीग"
+                    "url": "/static/images/master/Crowd_cheers_Sachin_Tendulkar_during_a_2010_IPL_match_28446468575429.jpg",
+                    "altText": "Image of 2010 इंडियन प्रीमियर लीग",
+                    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
                   }
                 }
               },
@@ -209,7 +222,7 @@
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
-                    "url": "/static/images/master/Ma_ChidambaramStadium_panaroma.jpg",
+                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
                     "altText": "Image of 2011 इंडियन प्रीमियर लीग"
                   }
                 }
@@ -244,7 +257,7 @@
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
-                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
+                    "url": "/static/images/master/IPL_T20_Chennai_vs_Kolkata.JPG",
                     "altText": "Image of 2012 इंडियन प्रीमियर लीग"
                   }
                 }
@@ -349,7 +362,7 @@
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
-                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
+                    "url": "/static/images/master/Ipl.svg",
                     "altText": "Image of 2015 इंडियन प्रीमियर लीग"
                   }
                 }
@@ -384,8 +397,8 @@
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
-                    "altText": "Image of 2016 इंडियन प्रीमियर लीग",
-                    "license": ""
+                    "url": "/static/images/master/DY_Patil_IPL.jpg",
+                    "altText": "Image of 2016 इंडियन प्रीमियर लीग"
                   }
                 }
               },
@@ -419,7 +432,7 @@
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
-                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "url": "/static/images/master/IPL_2017_evening.jpg",
                     "altText": "Image of 2017 इंडियन प्रीमियर लीग"
                   }
                 }
@@ -498,8 +511,8 @@
           "value": {
             "label": "क्रिस गेल, श्रीलंका",
             "image": {
-              "altText": "Picture of क्रिस गेल",
-              "license": ""
+              "url": "/static/images/master/ChrisGayle_Cropped.jpg",
+              "altText": "Picture of क्रिस गेल"
             }
           }
         },
@@ -509,8 +522,8 @@
           "value": {
             "label": "लसिथ मलिंगा, श्रीलंका",
             "image": {
-              "altText": "Picture of लसिथ मलिंगा",
-              "license": ""
+              "url": "/static/images/master/Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg",
+              "altText": "Picture of लसिथ मलिंगा"
             }
           }
         }

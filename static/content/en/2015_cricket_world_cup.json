@@ -1,6 +1,6 @@
 {
   "title": "2015 Cricket World Cup",
-  "summary": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
+  "summary": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/2015_Cricket_World_Cup",
   "coverImage": {
     "url": "/static/images/master/2015_Cricket_World_Cup_Logo.svg",
@@ -26,7 +26,7 @@
         {
           "label": "Dates",
           "value": {
-            "label": "14 February–29 March"
+            "label": "14 February – 29 March"
           }
         },
         {
@@ -39,8 +39,8 @@
           "label": "Champions",
           "value": {
             "label": "Australia (5th title)",
-            "url": "/read/en/australia_cricket_team",
-            "contentUrl": "/static/content/en/australia_cricket_team.json"
+            "url": "/read/en/australia_national_cricket_team",
+            "contentUrl": "/static/content/en/australia_national_cricket_team.json"
           }
         },
         {
@@ -89,7 +89,7 @@
                 "value": {
                   "label": "New Zealand is a sovereign island country in the southwestern Pacific Ocean. The country geographically comprises two main landmasses and around 600 smaller islands. New Zealand is situated some 2,000 kilometres east of Australia.",
                   "image": {
-                    "url": "/static/images/master/Lake_Gunn.jpg",
+                    "url": "/static/images/master/Flag_of_New_Zealand.svg",
                     "altText": "New Zealand"
                   }
                 }
@@ -200,7 +200,7 @@
                 "value": {
                   "label": "Champions",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of India national cricket team"
                   }
                 }
@@ -222,21 +222,21 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "altText": "Image of 1987 Cricket World Cup",
-                    "license": ""
+                    "url": "/static/images/master/Worldcup1987.jpg",
+                    "altText": "Image of 1987 Cricket World Cup"
                   }
                 }
               },
               {
-                "label": "Australia Cricket team",
-                "url": "/read/en/australia_cricket_team",
-                "contentUrl": "/static/content/en/australia_cricket_team.json",
-                "id": "winner_card_australia_cricket_team",
+                "label": "Australia national cricket team",
+                "url": "/read/en/australia_national_cricket_team",
+                "contentUrl": "/static/content/en/australia_national_cricket_team.json",
+                "id": "winner_card_australia_national_cricket_team",
                 "value": {
                   "label": "Champions",
                   "image": {
                     "url": "/static/images/master/Australia_cricket_logo.svg",
-                    "altText": "Image of Australia Cricket team"
+                    "altText": "Image of Australia national cricket team"
                   }
                 }
               }
@@ -333,15 +333,15 @@
                 }
               },
               {
-                "label": "Australia Cricket team",
-                "url": "/read/en/australia_cricket_team",
-                "contentUrl": "/static/content/en/australia_cricket_team.json",
-                "id": "winner_card_australia_cricket_team",
+                "label": "Australia national cricket team",
+                "url": "/read/en/australia_national_cricket_team",
+                "contentUrl": "/static/content/en/australia_national_cricket_team.json",
+                "id": "winner_card_australia_national_cricket_team",
                 "value": {
                   "label": "Champions",
                   "image": {
                     "url": "/static/images/master/Australia_cricket_logo.svg",
-                    "altText": "Image of Australia Cricket team"
+                    "altText": "Image of Australia national cricket team"
                   }
                 }
               }
@@ -368,15 +368,15 @@
                 }
               },
               {
-                "label": "Australia Cricket team",
-                "url": "/read/en/australia_cricket_team",
-                "contentUrl": "/static/content/en/australia_cricket_team.json",
-                "id": "winner_card_australia_cricket_team",
+                "label": "Australia national cricket team",
+                "url": "/read/en/australia_national_cricket_team",
+                "contentUrl": "/static/content/en/australia_national_cricket_team.json",
+                "id": "winner_card_australia_national_cricket_team",
                 "value": {
                   "label": "Champions",
                   "image": {
                     "url": "/static/images/master/Australia_cricket_logo.svg",
-                    "altText": "Image of Australia Cricket team"
+                    "altText": "Image of Australia national cricket team"
                   }
                 }
               }
@@ -403,15 +403,15 @@
                 }
               },
               {
-                "label": "Australia Cricket team",
-                "url": "/read/en/australia_cricket_team",
-                "contentUrl": "/static/content/en/australia_cricket_team.json",
-                "id": "winner_card_australia_cricket_team",
+                "label": "Australia national cricket team",
+                "url": "/read/en/australia_national_cricket_team",
+                "contentUrl": "/static/content/en/australia_national_cricket_team.json",
+                "id": "winner_card_australia_national_cricket_team",
                 "value": {
                   "label": "Champions",
                   "image": {
                     "url": "/static/images/master/Australia_cricket_logo.svg",
-                    "altText": "Image of Australia Cricket team"
+                    "altText": "Image of Australia national cricket team"
                   }
                 }
               }
@@ -445,7 +445,7 @@
                 "value": {
                   "label": "Champions",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of India national cricket team"
                   }
                 }
@@ -473,15 +473,15 @@
                 }
               },
               {
-                "label": "Australia Cricket team",
-                "url": "/read/en/australia_cricket_team",
-                "contentUrl": "/static/content/en/australia_cricket_team.json",
-                "id": "winner_card_australia_cricket_team",
+                "label": "Australia national cricket team",
+                "url": "/read/en/australia_national_cricket_team",
+                "contentUrl": "/static/content/en/australia_national_cricket_team.json",
+                "id": "winner_card_australia_national_cricket_team",
                 "value": {
                   "label": "Champions",
                   "image": {
                     "url": "/static/images/master/Australia_cricket_logo.svg",
-                    "altText": "Image of Australia Cricket team"
+                    "altText": "Image of Australia national cricket team"
                   }
                 }
               }
@@ -522,8 +522,9 @@
           "value": {
             "label": "Mitchell Starc, New Zealand",
             "image": {
-              "url": "/static/images/master/Mitchell_Starc.jpg",
-              "altText": "Picture of Mitchell Starc"
+              "url": "/static/images/master/MITCHELL_STARC_28631055464929.jpg",
+              "altText": "Picture of Mitchell Starc",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -535,7 +536,7 @@
             "image": {
               "url": "/static/images/master/Martin_Guptill_2_28cropped29.jpg",
               "altText": "Picture of Martin Guptill ",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
             }
           }
         },
@@ -545,8 +546,9 @@
           "value": {
             "label": "Mitchell Starc, New Zealand",
             "image": {
-              "url": "/static/images/master/Mitchell_Starc.jpg",
-              "altText": "Picture of Mitchell Starc"
+              "url": "/static/images/master/MITCHELL_STARC_28631055464929.jpg",
+              "altText": "Picture of Mitchell Starc",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         }
@@ -563,14 +565,14 @@
             "label": "",
             "facts": [
               {
-                "label": "Australia Cricket team",
-                "url": "/read/en/australia_cricket_team",
-                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "label": "Australia national cricket team",
+                "url": "/read/en/australia_national_cricket_team",
+                "contentUrl": "/static/content/en/australia_national_cricket_team.json",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
                     "url": "/static/images/master/Australia_cricket_logo.svg",
-                    "altText": "Picture of Australia Cricket team"
+                    "altText": "Picture of Australia national cricket team"
                   }
                 }
               }
@@ -591,7 +593,7 @@
                   "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
                   "image": {
                     "url": "/static/images/master/New_Zealand_Cricket_Cap_Insignia.svg",
-                    "altText": "Picture of Australia Cricket team"
+                    "altText": "Picture of Australia national cricket team"
                   }
                 }
               }

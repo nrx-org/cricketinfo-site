@@ -3,7 +3,7 @@
   "summary": "इंडियन प्रीमियर लीग का 2017 का सीज़न, जिसे आईपीएल 10 और वीवो आईपीएल 2017 के नाम से जाना जाता है, आईपीएल का दसवां संस्करण था। 2017 का सीज़न 5 अप्रैल 2017 को शुरू हुआ और 21 मई 2017 को समाप्त हुआ। इसमें मुंबई इंडियंस ने जीत हासिल की।",
   "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A5%A8%E0%A5%A6%E0%A5%A7%E0%A5%AC_%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%A8_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE%E0%A4%BF%E0%A4%AF%E0%A4%B0_%E0%A4%B2%E0%A5%80%E0%A4%97",
   "coverImage": {
-    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+    "url": "/static/images/master/IPL_2017_evening.jpg",
     "altText": "Image of 2017 इंडियन प्रीमियर लीग"
   },
   "translations": [
@@ -69,6 +69,18 @@
           "value": {
             "label": "",
             "facts": [
+              {
+                "label": "हैदराबाद",
+                "url": "/read/hi/hyderabad",
+                "contentUrl": "/static/content/hi/hyderabad.json",
+                "value": {
+                  "label": "पुरातत्वविदों ने शहर के पास खुदाई में लौह युग के स्थलों का पता लगाया है जो 500 ईसा पूर्व के हो सकते हैं।",
+                  "image": {
+                    "altText": "हैदराबाद",
+                    "license": ""
+                  }
+                }
+              },
               {
                 "label": "बैंगलोर",
                 "url": "/read/hi/bangalore",
@@ -186,8 +198,9 @@
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
-                    "url": "/static/images/master/IPL_T20_Chennai_vs_Kolkata.JPG",
-                    "altText": "Image of 2010 इंडियन प्रीमियर लीग"
+                    "url": "/static/images/master/Crowd_cheers_Sachin_Tendulkar_during_a_2010_IPL_match_28446468575429.jpg",
+                    "altText": "Image of 2010 इंडियन प्रीमियर लीग",
+                    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
                   }
                 }
               },
@@ -221,7 +234,7 @@
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
-                    "url": "/static/images/master/Ma_ChidambaramStadium_panaroma.jpg",
+                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
                     "altText": "Image of 2011 इंडियन प्रीमियर लीग"
                   }
                 }
@@ -256,7 +269,7 @@
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
-                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
+                    "url": "/static/images/master/IPL_T20_Chennai_vs_Kolkata.JPG",
                     "altText": "Image of 2012 इंडियन प्रीमियर लीग"
                   }
                 }
@@ -361,7 +374,7 @@
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
-                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
+                    "url": "/static/images/master/Ipl.svg",
                     "altText": "Image of 2015 इंडियन प्रीमियर लीग"
                   }
                 }
@@ -396,8 +409,8 @@
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
-                    "altText": "Image of 2016 इंडियन प्रीमियर लीग",
-                    "license": ""
+                    "url": "/static/images/master/DY_Patil_IPL.jpg",
+                    "altText": "Image of 2016 इंडियन प्रीमियर लीग"
                   }
                 }
               },
@@ -431,7 +444,7 @@
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
-                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "url": "/static/images/master/IPL_2017_evening.jpg",
                     "altText": "Image of 2017 इंडियन प्रीमियर लीग"
                   }
                 }
@@ -499,7 +512,7 @@
           "value": {
             "label": "बेन स्टोक्स, भारत",
             "image": {
-              "url": "/static/images/master/BEN_STOKES_281170483702329_28cropped29.jpg",
+              "url": "/static/images/master/BEN_STOKES_281170483702329.jpg",
               "altText": "Picture of बेन स्टोक्स",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }

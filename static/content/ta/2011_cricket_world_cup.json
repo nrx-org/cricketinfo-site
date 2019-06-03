@@ -76,7 +76,7 @@
                 "value": {
                   "label": "இந்திய குடியரசு என அழைக்கப்படும் இந்தியா, தெற்காசியாவில் அமையப்பெற்றுள்ள ஒரு நாடாகும். இது 1.3 பில்லியனுக்கும் அதிகமான மக்கள் தொகையைக் கொண்ட ஏழாவது மிகப் பெரிய நாடாகும். இது உலகின் இரண்டாவது மிக அதிக மக்கள்தொகை கொண்ட நாடாகவும், உலகிலேயே மிகப் பெரிய மக்களாட்சி நாடாகவும் உள்ளது.",
                   "image": {
-                    "url": "/static/images/master/India_topo_big.jpg",
+                    "url": "/static/images/master/Flag_of_India.svg",
                     "altText": "இந்தியா"
                   }
                 }
@@ -109,15 +109,15 @@
             "label": "",
             "facts": [
               {
-                "label": "1975 Cricket World Cup",
+                "label": "1975 கிரிக்கெட் உலகக் கோப்பை",
                 "url": "/read/ta/1975_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1975_cricket_world_cup.json",
-                "id": "tournament_card_1975_cricket_world_cup",
+                "id": "tournament_card_1975_கிரிக்கெட்_உலகக்_கோப்பை",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
                     "url": "/static/images/master/Prudential_Cup_75_logo.svg",
-                    "altText": "Image of 1975 Cricket World Cup"
+                    "altText": "Image of 1975 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               },
@@ -144,15 +144,15 @@
             "label": "",
             "facts": [
               {
-                "label": "1979 Cricket World Cup",
+                "label": "1979 கிரிக்கெட் உலகக் கோப்பை",
                 "url": "/read/ta/1979_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1979_cricket_world_cup.json",
-                "id": "tournament_card_1979_cricket_world_cup",
+                "id": "tournament_card_1979_கிரிக்கெட்_உலகக்_கோப்பை",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
                     "url": "/static/images/master/Prudential_Cup_79_logo.svg",
-                    "altText": "Image of 1979 Cricket World Cup"
+                    "altText": "Image of 1979 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               },
@@ -199,7 +199,7 @@
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of இந்திய தேசிய கிரிக்கெட் அணி"
                   }
                 }
@@ -214,22 +214,22 @@
             "label": "",
             "facts": [
               {
-                "label": "1987 Cricket World Cup",
+                "label": "1987 கிரிக்கெட் உலகக் கோப்பை",
                 "url": "/read/ta/1987_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1987_cricket_world_cup.json",
-                "id": "tournament_card_1987_cricket_world_cup",
+                "id": "tournament_card_1987_கிரிக்கெட்_உலகக்_கோப்பை",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
-                    "altText": "Image of 1987 Cricket World Cup",
-                    "license": ""
+                    "url": "/static/images/master/Worldcup1987.jpg",
+                    "altText": "Image of 1987 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               },
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
@@ -249,28 +249,28 @@
             "label": "",
             "facts": [
               {
-                "label": "1992 Cricket World Cup",
+                "label": "1992 கிரிக்கெட் உலகக் கோப்பை",
                 "url": "/read/ta/1992_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1992_cricket_world_cup.json",
-                "id": "tournament_card_1992_cricket_world_cup",
+                "id": "tournament_card_1992_கிரிக்கெட்_உலகக்_கோப்பை",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
                     "url": "/static/images/master/World_Cup_1992_logo.svg",
-                    "altText": "Image of 1992 Cricket World Cup"
+                    "altText": "Image of 1992 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               },
               {
-                "label": "Pakistan national cricket team",
+                "label": "பாகிஸ்தான் தேசியக் கிரிக்கெட் அணி",
                 "url": "/read/ta/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/ta/pakistan_national_cricket_team.json",
-                "id": "winner_card_pakistan_national_cricket_team",
+                "id": "winner_card_பாகிஸ்தான்_தேசியக்_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
                     "url": "/static/images/master/PakistanCricketLogo.png",
-                    "altText": "Image of Pakistan national cricket team"
+                    "altText": "Image of பாகிஸ்தான் தேசியக் கிரிக்கெட் அணி"
                   }
                 }
               }
@@ -297,15 +297,15 @@
                 }
               },
               {
-                "label": "Sri Lanka national cricket team",
+                "label": "இலங்கை தேசியக் கிரிக்கெட் அணி",
                 "url": "/read/ta/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/ta/sri_lanka_national_cricket_team.json",
-                "id": "winner_card_sri_lanka_national_cricket_team",
+                "id": "winner_card_இலங்கை_தேசியக்_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
                     "url": "/static/images/master/Sri_Lanka_Cricket_Cap_Insignia.svg",
-                    "altText": "Image of Sri Lanka national cricket team"
+                    "altText": "Image of இலங்கை தேசியக் கிரிக்கெட் அணி"
                   }
                 }
               }
@@ -333,8 +333,8 @@
               },
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
@@ -368,8 +368,8 @@
               },
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
@@ -403,8 +403,8 @@
               },
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
@@ -444,7 +444,7 @@
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of இந்திய தேசிய கிரிக்கெட் அணி"
                   }
                 }
@@ -473,8 +473,8 @@
               },
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
@@ -494,15 +494,15 @@
             "label": "",
             "facts": [
               {
-                "label": "2019 Cricket World Cup",
+                "label": "2019 கிரிக்கெட் உலகக் கோப்பை",
                 "url": "/read/ta/2019_cricket_world_cup",
                 "contentUrl": "/static/content/ta/2019_cricket_world_cup.json",
-                "id": "tournament_card_2019_cricket_world_cup",
+                "id": "tournament_card_2019_கிரிக்கெட்_உலகக்_கோப்பை",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
                     "url": "/static/images/master/ICC_Cricket_World_Cup_2019_logo.svg",
-                    "altText": "Image of 2019 Cricket World Cup"
+                    "altText": "Image of 2019 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               }
@@ -543,8 +543,9 @@
           "value": {
             "label": "ஜாஹீர் கான், சாகித் அஃபிரிடி, இந்தியா, பாகிஸ்தான்",
             "image": {
+              "url": "/static/images/master/Glenn_McGrath_in_Circular_Quay2C_Sydney2C_Australia2C_2018-02-03.jpg",
               "altText": "Picture of ஜாஹீர் கான், சாகித் அஃபிரிடி",
-              "license": ""
+              "license": "<p>This file is made available under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\">CC0 1.0 Universal Public Domain Dedication</a>.</p>"
             }
           }
         }
@@ -567,7 +568,7 @@
                 "value": {
                   "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of இந்திய தேசிய கிரிக்கெட் அணி"
                   }
                 }
@@ -582,11 +583,11 @@
             "label": "",
             "facts": [
               {
-                "label": "Sri Lanka national cricket team",
+                "label": "இலங்கை தேசியக் கிரிக்கெட் அணி",
                 "url": "/read/ta/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/ta/sri_lanka_national_cricket_team.json",
                 "value": {
-                  "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
+                  "label": "இலங்கை தேசியக் கிரிக்கெட் அணி, தி லயன்ஸ் எனப் பெயரிடப்பட்டு, சர்வதேசக் கிரிக்கெட்டில் இலங்கையைப் பிரதிநிதித்துவம் செய்கிறது. இது டெஸ்ட், ஒருநாள் சர்வதேசப் போட்டி மற்றும் சர்வதேச டி20 போட்டி அந்தஸ்தில் சர்வதேசக் கிரிக்கெட் கவுன்சிலின் (ஐசிசி) முழு உறுப்பினராக உள்ளது.",
                   "image": {
                     "url": "/static/images/master/Sri_Lanka_Cricket_Cap_Insignia.svg",
                     "altText": "Picture of இந்திய தேசிய கிரிக்கெட் அணி"

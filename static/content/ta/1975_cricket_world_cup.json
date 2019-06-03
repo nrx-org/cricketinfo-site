@@ -1,10 +1,10 @@
 {
-  "title": "1975 Cricket World Cup",
-  "summary": "The 1975 Cricket World Cup (officially called the Prudential Cup '75) was the first edition of the Cricket World Cup, organised by the International Cricket Conference (ICC) and was the first major limited overs One Day International (ODI) cricket tournament to be held. It was held from 7 to 21 June 1975 in England.",
+  "title": "1975 கிரிக்கெட் உலகக் கோப்பை",
+  "summary": "1975 கிரிக்கெட் உலகக் கோப்பைதான் முதல் உலகக் கோப்பைப் போட்டியாகும், இதை ஏற்பாடு செய்து நடத்தியது சர்வதேசக் கிரிக்கெட் கவுன்சில் (ஐசிசி). இதுதான் முதல் பெரிய ஒருநாள் சர்வதேசக் கிரிக்கெட் டோர்னமெண்ட் ஆகும். இது இங்கிலாந்தில் ஜூன் 7 முதல் 21 வரை நடந்தது.",
   "wikipediaUrl": "https://ta.wikipedia.org/wiki/1975_%E0%AE%A4%E0%AF%81%E0%AE%9F%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F_%E0%AE%89%E0%AE%B2%E0%AE%95%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%A3%E0%AF%8D%E0%AE%A3%E0%AE%AE%E0%AF%8D",
   "coverImage": {
     "url": "/static/images/master/Prudential_Cup_75_logo.svg",
-    "altText": "Image of 1975 Cricket World Cup"
+    "altText": "Image of 1975 கிரிக்கெட் உலகக் கோப்பை"
   },
   "translations": [
     {
@@ -26,19 +26,19 @@
         {
           "label": "தேதிகள்",
           "value": {
-            "label": "7 June–21 June"
+            "label": "7 ஜூன் -21 ஜூன்"
           }
         },
         {
           "label": "வடிவம்",
           "value": {
-            "label": "One Day International"
+            "label": "ரவுண்ட் ராபின் மற்றும் நாக்-அவுட்"
           }
         },
         {
           "label": "சாம்பியன்ஸ்",
           "value": {
-            "label": "West Indies (1st title)",
+            "label": "மேற்கிந்தியத் தீவுகள் (1வது டைட்டில்)",
             "url": "/read/ta/west_indies_cricket_team",
             "contentUrl": "/static/content/ta/west_indies_cricket_team.json"
           }
@@ -46,9 +46,9 @@
         {
           "label": "இரண்டாம் இடம் பெற்ற அணி",
           "value": {
-            "label": "Australia",
-            "url": "/read/ta/australia_cricket_team",
-            "contentUrl": "/static/content/ta/australia_cricket_team.json"
+            "label": "ஆஸ்திரேலியா",
+            "url": "/read/ta/australia_national_cricket_team",
+            "contentUrl": "/static/content/ta/australia_national_cricket_team.json"
           }
         },
         {
@@ -97,15 +97,15 @@
             "label": "",
             "facts": [
               {
-                "label": "1975 Cricket World Cup",
+                "label": "1975 கிரிக்கெட் உலகக் கோப்பை",
                 "url": "/read/ta/1975_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1975_cricket_world_cup.json",
-                "id": "tournament_card_1975_cricket_world_cup",
+                "id": "tournament_card_1975_கிரிக்கெட்_உலகக்_கோப்பை",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
                     "url": "/static/images/master/Prudential_Cup_75_logo.svg",
-                    "altText": "Image of 1975 Cricket World Cup"
+                    "altText": "Image of 1975 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               },
@@ -132,15 +132,15 @@
             "label": "",
             "facts": [
               {
-                "label": "1979 Cricket World Cup",
+                "label": "1979 கிரிக்கெட் உலகக் கோப்பை",
                 "url": "/read/ta/1979_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1979_cricket_world_cup.json",
-                "id": "tournament_card_1979_cricket_world_cup",
+                "id": "tournament_card_1979_கிரிக்கெட்_உலகக்_கோப்பை",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
                     "url": "/static/images/master/Prudential_Cup_79_logo.svg",
-                    "altText": "Image of 1979 Cricket World Cup"
+                    "altText": "Image of 1979 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               },
@@ -187,7 +187,7 @@
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of இந்திய தேசிய கிரிக்கெட் அணி"
                   }
                 }
@@ -202,22 +202,22 @@
             "label": "",
             "facts": [
               {
-                "label": "1987 Cricket World Cup",
+                "label": "1987 கிரிக்கெட் உலகக் கோப்பை",
                 "url": "/read/ta/1987_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1987_cricket_world_cup.json",
-                "id": "tournament_card_1987_cricket_world_cup",
+                "id": "tournament_card_1987_கிரிக்கெட்_உலகக்_கோப்பை",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
-                    "altText": "Image of 1987 Cricket World Cup",
-                    "license": ""
+                    "url": "/static/images/master/Worldcup1987.jpg",
+                    "altText": "Image of 1987 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               },
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
@@ -237,28 +237,28 @@
             "label": "",
             "facts": [
               {
-                "label": "1992 Cricket World Cup",
+                "label": "1992 கிரிக்கெட் உலகக் கோப்பை",
                 "url": "/read/ta/1992_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1992_cricket_world_cup.json",
-                "id": "tournament_card_1992_cricket_world_cup",
+                "id": "tournament_card_1992_கிரிக்கெட்_உலகக்_கோப்பை",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
                     "url": "/static/images/master/World_Cup_1992_logo.svg",
-                    "altText": "Image of 1992 Cricket World Cup"
+                    "altText": "Image of 1992 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               },
               {
-                "label": "Pakistan national cricket team",
+                "label": "பாகிஸ்தான் தேசியக் கிரிக்கெட் அணி",
                 "url": "/read/ta/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/ta/pakistan_national_cricket_team.json",
-                "id": "winner_card_pakistan_national_cricket_team",
+                "id": "winner_card_பாகிஸ்தான்_தேசியக்_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
                     "url": "/static/images/master/PakistanCricketLogo.png",
-                    "altText": "Image of Pakistan national cricket team"
+                    "altText": "Image of பாகிஸ்தான் தேசியக் கிரிக்கெட் அணி"
                   }
                 }
               }
@@ -285,15 +285,15 @@
                 }
               },
               {
-                "label": "Sri Lanka national cricket team",
+                "label": "இலங்கை தேசியக் கிரிக்கெட் அணி",
                 "url": "/read/ta/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/ta/sri_lanka_national_cricket_team.json",
-                "id": "winner_card_sri_lanka_national_cricket_team",
+                "id": "winner_card_இலங்கை_தேசியக்_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
                     "url": "/static/images/master/Sri_Lanka_Cricket_Cap_Insignia.svg",
-                    "altText": "Image of Sri Lanka national cricket team"
+                    "altText": "Image of இலங்கை தேசியக் கிரிக்கெட் அணி"
                   }
                 }
               }
@@ -321,8 +321,8 @@
               },
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
@@ -356,8 +356,8 @@
               },
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
@@ -391,8 +391,8 @@
               },
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
@@ -432,7 +432,7 @@
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of இந்திய தேசிய கிரிக்கெட் அணி"
                   }
                 }
@@ -461,8 +461,8 @@
               },
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
@@ -482,15 +482,15 @@
             "label": "",
             "facts": [
               {
-                "label": "2019 Cricket World Cup",
+                "label": "2019 கிரிக்கெட் உலகக் கோப்பை",
                 "url": "/read/ta/2019_cricket_world_cup",
                 "contentUrl": "/static/content/ta/2019_cricket_world_cup.json",
-                "id": "tournament_card_2019_cricket_world_cup",
+                "id": "tournament_card_2019_கிரிக்கெட்_உலகக்_கோப்பை",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
                     "url": "/static/images/master/ICC_Cricket_World_Cup_2019_logo.svg",
-                    "altText": "Image of 2019 Cricket World Cup"
+                    "altText": "Image of 2019 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               }
@@ -507,10 +507,10 @@
           "label": "தொடர் நாயகன்",
           "id": "man_of_the_series",
           "value": {
-            "label": "No 'Man of the Series' was awarded in 1975., Australia",
+            "label": "1975 இல் தொடர் நாயகன் விருது இல்லை, ஆஸ்திரேலியா",
             "image": {
               "url": "",
-              "altText": "Picture of No 'Man of the Series' was awarded in 1975."
+              "altText": "Picture of 1975 இல் தொடர் நாயகன் விருது இல்லை"
             }
           }
         },
@@ -518,10 +518,10 @@
           "label": "அதிக ரன் எடுத்தவர்",
           "id": "most_runs_scored/_orange_cap",
           "value": {
-            "label": "Glenn Turner (333), Australia",
+            "label": "கிளென் டர்னர் (333), ஆஸ்திரேலியா",
             "image": {
               "url": "",
-              "altText": "Picture of Glenn Turner (333)"
+              "altText": "Picture of கிளென் டர்னர் (333)"
             }
           }
         },
@@ -529,10 +529,10 @@
           "label": "அதிக விக்கெட் எடுத்தவர்",
           "id": "most_wickets_taken/_purple_cap",
           "value": {
-            "label": "Gary Gilmour (11), Australia",
+            "label": "கேரி கில்மோர் (11), ஆஸ்திரேலியா",
             "image": {
               "url": "",
-              "altText": "Picture of Gary Gilmour (11)"
+              "altText": "Picture of கேரி கில்மோர் (11)"
             }
           }
         }
@@ -571,8 +571,8 @@
             "facts": [
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "value": {
                   "label": "ஆஸ்திரேலிய தேசிய கிரிக்கெட் அணி 1877 ஆம் ஆண்டு நடைபெற்ற முதன்முதல் டெஸ்ட் போட்டியில் விளையாடிய, ஒரு மிகப் பழமையான அணியாகும்.",
                   "image": {

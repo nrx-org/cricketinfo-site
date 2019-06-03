@@ -26,7 +26,7 @@
         {
           "label": "Dates",
           "value": {
-            "label": "14 February–17 March"
+            "label": "14 February – 17 March"
           }
         },
         {
@@ -47,8 +47,8 @@
           "label": "Runners Up",
           "value": {
             "label": "Australia",
-            "url": "/read/en/australia_cricket_team",
-            "contentUrl": "/static/content/en/australia_cricket_team.json"
+            "url": "/read/en/australia_national_cricket_team",
+            "contentUrl": "/static/content/en/australia_national_cricket_team.json"
           }
         },
         {
@@ -76,7 +76,7 @@
                 "value": {
                   "label": "India, also known as the Republic of India is a country in South Asia. It is the seventh largest country by area with more than 1.3 billion people. It is the second most populous country as well as the most populous democracy in the world.",
                   "image": {
-                    "url": "/static/images/master/India_topo_big.jpg",
+                    "url": "/static/images/master/Flag_of_India.svg",
                     "altText": "India"
                   }
                 }
@@ -88,9 +88,8 @@
                 "value": {
                   "label": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the world’s sixth-most populous country with a population exceeding 212,742,631 people.",
                   "image": {
-                    "url": "/static/images/master/Parliament_House2C_Islamabad_by_Usman_Ghani.jpg",
-                    "altText": "Pakistan",
-                    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+                    "url": "/static/images/master/Flag_of_Pakistan.svg",
+                    "altText": "Pakistan"
                   }
                 }
               },
@@ -212,7 +211,7 @@
                 "value": {
                   "label": "Champions",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of India national cricket team"
                   }
                 }
@@ -234,21 +233,21 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "altText": "Image of 1987 Cricket World Cup",
-                    "license": ""
+                    "url": "/static/images/master/Worldcup1987.jpg",
+                    "altText": "Image of 1987 Cricket World Cup"
                   }
                 }
               },
               {
-                "label": "Australia Cricket team",
-                "url": "/read/en/australia_cricket_team",
-                "contentUrl": "/static/content/en/australia_cricket_team.json",
-                "id": "winner_card_australia_cricket_team",
+                "label": "Australia national cricket team",
+                "url": "/read/en/australia_national_cricket_team",
+                "contentUrl": "/static/content/en/australia_national_cricket_team.json",
+                "id": "winner_card_australia_national_cricket_team",
                 "value": {
                   "label": "Champions",
                   "image": {
                     "url": "/static/images/master/Australia_cricket_logo.svg",
-                    "altText": "Image of Australia Cricket team"
+                    "altText": "Image of Australia national cricket team"
                   }
                 }
               }
@@ -345,15 +344,15 @@
                 }
               },
               {
-                "label": "Australia Cricket team",
-                "url": "/read/en/australia_cricket_team",
-                "contentUrl": "/static/content/en/australia_cricket_team.json",
-                "id": "winner_card_australia_cricket_team",
+                "label": "Australia national cricket team",
+                "url": "/read/en/australia_national_cricket_team",
+                "contentUrl": "/static/content/en/australia_national_cricket_team.json",
+                "id": "winner_card_australia_national_cricket_team",
                 "value": {
                   "label": "Champions",
                   "image": {
                     "url": "/static/images/master/Australia_cricket_logo.svg",
-                    "altText": "Image of Australia Cricket team"
+                    "altText": "Image of Australia national cricket team"
                   }
                 }
               }
@@ -380,15 +379,15 @@
                 }
               },
               {
-                "label": "Australia Cricket team",
-                "url": "/read/en/australia_cricket_team",
-                "contentUrl": "/static/content/en/australia_cricket_team.json",
-                "id": "winner_card_australia_cricket_team",
+                "label": "Australia national cricket team",
+                "url": "/read/en/australia_national_cricket_team",
+                "contentUrl": "/static/content/en/australia_national_cricket_team.json",
+                "id": "winner_card_australia_national_cricket_team",
                 "value": {
                   "label": "Champions",
                   "image": {
                     "url": "/static/images/master/Australia_cricket_logo.svg",
-                    "altText": "Image of Australia Cricket team"
+                    "altText": "Image of Australia national cricket team"
                   }
                 }
               }
@@ -415,15 +414,15 @@
                 }
               },
               {
-                "label": "Australia Cricket team",
-                "url": "/read/en/australia_cricket_team",
-                "contentUrl": "/static/content/en/australia_cricket_team.json",
-                "id": "winner_card_australia_cricket_team",
+                "label": "Australia national cricket team",
+                "url": "/read/en/australia_national_cricket_team",
+                "contentUrl": "/static/content/en/australia_national_cricket_team.json",
+                "id": "winner_card_australia_national_cricket_team",
                 "value": {
                   "label": "Champions",
                   "image": {
                     "url": "/static/images/master/Australia_cricket_logo.svg",
-                    "altText": "Image of Australia Cricket team"
+                    "altText": "Image of Australia national cricket team"
                   }
                 }
               }
@@ -457,7 +456,7 @@
                 "value": {
                   "label": "Champions",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of India national cricket team"
                   }
                 }
@@ -485,15 +484,15 @@
                 }
               },
               {
-                "label": "Australia Cricket team",
-                "url": "/read/en/australia_cricket_team",
-                "contentUrl": "/static/content/en/australia_cricket_team.json",
-                "id": "winner_card_australia_cricket_team",
+                "label": "Australia national cricket team",
+                "url": "/read/en/australia_national_cricket_team",
+                "contentUrl": "/static/content/en/australia_national_cricket_team.json",
+                "id": "winner_card_australia_national_cricket_team",
                 "value": {
                   "label": "Champions",
                   "image": {
                     "url": "/static/images/master/Australia_cricket_logo.svg",
-                    "altText": "Image of Australia Cricket team"
+                    "altText": "Image of Australia national cricket team"
                   }
                 }
               }
@@ -595,9 +594,9 @@
             "label": "",
             "facts": [
               {
-                "label": "Australia Cricket team",
-                "url": "/read/en/australia_cricket_team",
-                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "label": "Australia national cricket team",
+                "url": "/read/en/australia_national_cricket_team",
+                "contentUrl": "/static/content/en/australia_national_cricket_team.json",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {

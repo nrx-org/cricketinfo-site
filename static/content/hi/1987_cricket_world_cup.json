@@ -3,8 +3,8 @@
   "summary": "1987 क्रिकेट विश्व कप (जिसे प्रायोजक के कारण रिलायंस कप 1987 के नाम से जाना जाता है) आईसीसी क्रिकेट विश्व कप टूर्नामेंट का चौथा संस्करण था। यह भारत और पाकिस्तान में 8 अक्टूबर से 8 नवंबर 1987 तक आयोजित किया गया था।",
   "wikipediaUrl": "https://hi.wikipedia.org/wiki/1987_%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%9F_%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5_%E0%A4%95%E0%A4%AA",
   "coverImage": {
-    "altText": "Image of 1987 क्रिकेट विश्व कप",
-    "license": ""
+    "url": "/static/images/master/Worldcup1987.jpg",
+    "altText": "Image of 1987 क्रिकेट विश्व कप"
   },
   "translations": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "lang": "ta",
-      "title": "1987 Cricket World Cup",
+      "title": "1987 கிரிக்கெட் உலகக் கோப்பை",
       "url": "/read/ta/1987_cricket_world_cup"
     }
   ],
@@ -39,8 +39,8 @@
           "label": "विजेता",
           "value": {
             "label": "ऑस्ट्रेलिया (पहला खिताब)",
-            "url": "/read/hi/australia_cricket_team",
-            "contentUrl": "/static/content/hi/australia_cricket_team.json"
+            "url": "/read/hi/australia_national_cricket_team",
+            "contentUrl": "/static/content/hi/australia_national_cricket_team.json"
           }
         },
         {
@@ -76,7 +76,7 @@
                 "value": {
                   "label": "भारत, जिसे भारत गणराज्य के रूप में भी जाना जाता है, दक्षिण एशिया का एक देश है। यह 1.3 बिलियन से ज्यादा आबादी के साथ  क्षेत्रफल में सातवां सबसे बड़ा देश है जहां  के साथ स्थित है  यह दूसरा सबसे अधिक आबादी वाला देश है और साथ ही दुनिया में सबसे अधिक आबादी वाला लोकतंत्र है।",
                   "image": {
-                    "url": "/static/images/master/India_topo_big.jpg",
+                    "url": "/static/images/master/Flag_of_India.svg",
                     "altText": "भारत"
                   }
                 }
@@ -88,9 +88,8 @@
                 "value": {
                   "label": "पाकिस्तान, आधिकारिक तौर पर इस्लामिक गणराज्य, दक्षिण एशिया का एक देश है। यह दुनिया का छठा सबसे अधिक आबादी वाला देश है जिसकी जनसंख्या 212,742,631 से अधिक है।",
                   "image": {
-                    "url": "/static/images/master/Parliament_House2C_Islamabad_by_Usman_Ghani.jpg",
-                    "altText": "पाकिस्तान",
-                    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+                    "url": "/static/images/master/Flag_of_Pakistan.svg",
+                    "altText": "पाकिस्तान"
                   }
                 }
               }
@@ -200,7 +199,7 @@
                 "value": {
                   "label": "विजेता",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of भारत की राष्ट्रीय क्रिकेट टीम"
                   }
                 }
@@ -222,15 +221,15 @@
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
-                    "altText": "Image of 1987 क्रिकेट विश्व कप",
-                    "license": ""
+                    "url": "/static/images/master/Worldcup1987.jpg",
+                    "altText": "Image of 1987 क्रिकेट विश्व कप"
                   }
                 }
               },
               {
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
                   "label": "विजेता",
@@ -334,8 +333,8 @@
               },
               {
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
                   "label": "विजेता",
@@ -369,8 +368,8 @@
               },
               {
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
                   "label": "विजेता",
@@ -404,8 +403,8 @@
               },
               {
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
                   "label": "विजेता",
@@ -445,7 +444,7 @@
                 "value": {
                   "label": "विजेता",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of भारत की राष्ट्रीय क्रिकेट टीम"
                   }
                 }
@@ -474,8 +473,8 @@
               },
               {
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
                   "label": "विजेता",
@@ -564,8 +563,8 @@
             "facts": [
               {
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "value": {
                   "label": "ऑस्ट्रेलिया की राष्ट्रीय क्रिकेट टीम टेस्ट क्रिकेट इतिहास की संयुक्त सबसे पुरानी टीम है, जिसने 1877 में पहली बार टेस्ट मैच खेला था।",
                   "image": {

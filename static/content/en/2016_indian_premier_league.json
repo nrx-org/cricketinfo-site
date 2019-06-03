@@ -1,10 +1,10 @@
 {
   "title": "2016 Indian Premier League",
-  "summary": "The 2016 season of the Indian Premier League, also known as IPL 9, and branded as Vivo IPL 2016 for sponsorship reasons, was the ninth season of the IPL",
+  "summary": "The 2016 season of the Indian Premier League, also known as IPL 9, and branded as Vivo IPL 2016 for sponsorship reasons, was the ninth season of the IPL.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/2016_Indian_Premier_League",
   "coverImage": {
-    "altText": "Image of 2016 Indian Premier League",
-    "license": ""
+    "url": "/static/images/master/DY_Patil_IPL.jpg",
+    "altText": "Image of 2016 Indian Premier League"
   },
   "translations": [
     {
@@ -26,7 +26,7 @@
         {
           "label": "Dates",
           "value": {
-            "label": "9 April–29 May"
+            "label": "9 April – 29 May"
           }
         },
         {
@@ -198,8 +198,9 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "url": "/static/images/master/IPL_T20_Chennai_vs_Kolkata.JPG",
-                    "altText": "Image of 2010 Indian Premier League"
+                    "url": "/static/images/master/Crowd_cheers_Sachin_Tendulkar_during_a_2010_IPL_match_28446468575429.jpg",
+                    "altText": "Image of 2010 Indian Premier League",
+                    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
                   }
                 }
               },
@@ -233,7 +234,7 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "url": "/static/images/master/Ma_ChidambaramStadium_panaroma.jpg",
+                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
                     "altText": "Image of 2011 Indian Premier League"
                   }
                 }
@@ -268,7 +269,7 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
+                    "url": "/static/images/master/IPL_T20_Chennai_vs_Kolkata.JPG",
                     "altText": "Image of 2012 Indian Premier League"
                   }
                 }
@@ -373,7 +374,7 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
+                    "url": "/static/images/master/Ipl.svg",
                     "altText": "Image of 2015 Indian Premier League"
                   }
                 }
@@ -408,8 +409,8 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "altText": "Image of 2016 Indian Premier League",
-                    "license": ""
+                    "url": "/static/images/master/DY_Patil_IPL.jpg",
+                    "altText": "Image of 2016 Indian Premier League"
                   }
                 }
               },
@@ -443,7 +444,7 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "url": "/static/images/master/IPL_2017_evening.jpg",
                     "altText": "Image of 2017 Indian Premier League"
                   }
                 }
@@ -555,7 +556,7 @@
                 "url": "/read/en/sunrisers_hyderabad",
                 "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
                 "value": {
-                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
+                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL).",
                   "image": {
                     "url": "/static/images/master/Sunrisers_Hyderabad.svg",
                     "altText": "Picture of Sunrisers Hyderabad"
@@ -576,7 +577,7 @@
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "value": {
-                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
+                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL).",
                   "image": {
                     "url": "/static/images/master/Royal_Challengers_Bangalore_Logo_2016.svg",
                     "altText": "Picture of Sunrisers Hyderabad"

@@ -1,10 +1,10 @@
 {
-  "title": "1979 Cricket World Cup",
-  "summary": "The 1979 Cricket World Cup (officially the Prudential Cup '79) was the second edition of the Cricket World Cup and was won by the West Indies, who had also won the inaugural tournament four years earlier. It was held in England from 9 to 23 June 1979.",
+  "title": "1979 கிரிக்கெட் உலகக் கோப்பை",
+  "summary": "1979 கிரிக்கெட் உலகக் கோப்பை (அதிகாரபூர்வமாக புரூடென்ஷியல் கப் '79) இரண்டாவது கிரிக்கெட் உலகக் கோப்பையாகும், இதில் மேற்கிந்தியத் தீவுகள் வெற்றி பெற்றது, இவர்களேதான் நான்கு ஆண்டு முன்னர் நடந்த முதல் உலகக் கோப்பையையும் வென்றார்கள். இது இங்கிலாந்தில் ஜூன் 9 முதல் 23 வரை நடந்தது.",
   "wikipediaUrl": "https://ta.wikipedia.org/wiki/1979_%E0%AE%A4%E0%AF%81%E0%AE%9F%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F_%E0%AE%89%E0%AE%B2%E0%AE%95%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%A3%E0%AF%8D%E0%AE%A3%E0%AE%AE%E0%AF%8D",
   "coverImage": {
     "url": "/static/images/master/Prudential_Cup_79_logo.svg",
-    "altText": "Image of 1979 Cricket World Cup"
+    "altText": "Image of 1979 கிரிக்கெட் உலகக் கோப்பை"
   },
   "translations": [
     {
@@ -26,19 +26,19 @@
         {
           "label": "தேதிகள்",
           "value": {
-            "label": "9 June–23 June"
+            "label": "9 ஜூன் -23 ஜூன்"
           }
         },
         {
           "label": "வடிவம்",
           "value": {
-            "label": "One Day International"
+            "label": "ரவுண்ட் ராபின் மற்றும் நாக்-அவுட்"
           }
         },
         {
           "label": "சாம்பியன்ஸ்",
           "value": {
-            "label": "West Indies (2nd title)",
+            "label": "மேற்கிந்தியத் தீவுகள் (2வது டைட்டில்)",
             "url": "/read/ta/west_indies_cricket_team",
             "contentUrl": "/static/content/ta/west_indies_cricket_team.json"
           }
@@ -46,7 +46,7 @@
         {
           "label": "இரண்டாம் இடம் பெற்ற அணி",
           "value": {
-            "label": "England",
+            "label": "இங்கிலாந்து",
             "url": "/read/ta/england_cricket_team",
             "contentUrl": "/static/content/ta/england_cricket_team.json"
           }
@@ -97,15 +97,15 @@
             "label": "",
             "facts": [
               {
-                "label": "1975 Cricket World Cup",
+                "label": "1975 கிரிக்கெட் உலகக் கோப்பை",
                 "url": "/read/ta/1975_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1975_cricket_world_cup.json",
-                "id": "tournament_card_1975_cricket_world_cup",
+                "id": "tournament_card_1975_கிரிக்கெட்_உலகக்_கோப்பை",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
                     "url": "/static/images/master/Prudential_Cup_75_logo.svg",
-                    "altText": "Image of 1975 Cricket World Cup"
+                    "altText": "Image of 1975 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               },
@@ -132,15 +132,15 @@
             "label": "",
             "facts": [
               {
-                "label": "1979 Cricket World Cup",
+                "label": "1979 கிரிக்கெட் உலகக் கோப்பை",
                 "url": "/read/ta/1979_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1979_cricket_world_cup.json",
-                "id": "tournament_card_1979_cricket_world_cup",
+                "id": "tournament_card_1979_கிரிக்கெட்_உலகக்_கோப்பை",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
                     "url": "/static/images/master/Prudential_Cup_79_logo.svg",
-                    "altText": "Image of 1979 Cricket World Cup"
+                    "altText": "Image of 1979 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               },
@@ -187,7 +187,7 @@
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of இந்திய தேசிய கிரிக்கெட் அணி"
                   }
                 }
@@ -202,22 +202,22 @@
             "label": "",
             "facts": [
               {
-                "label": "1987 Cricket World Cup",
+                "label": "1987 கிரிக்கெட் உலகக் கோப்பை",
                 "url": "/read/ta/1987_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1987_cricket_world_cup.json",
-                "id": "tournament_card_1987_cricket_world_cup",
+                "id": "tournament_card_1987_கிரிக்கெட்_உலகக்_கோப்பை",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
-                    "altText": "Image of 1987 Cricket World Cup",
-                    "license": ""
+                    "url": "/static/images/master/Worldcup1987.jpg",
+                    "altText": "Image of 1987 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               },
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
@@ -237,28 +237,28 @@
             "label": "",
             "facts": [
               {
-                "label": "1992 Cricket World Cup",
+                "label": "1992 கிரிக்கெட் உலகக் கோப்பை",
                 "url": "/read/ta/1992_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1992_cricket_world_cup.json",
-                "id": "tournament_card_1992_cricket_world_cup",
+                "id": "tournament_card_1992_கிரிக்கெட்_உலகக்_கோப்பை",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
                     "url": "/static/images/master/World_Cup_1992_logo.svg",
-                    "altText": "Image of 1992 Cricket World Cup"
+                    "altText": "Image of 1992 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               },
               {
-                "label": "Pakistan national cricket team",
+                "label": "பாகிஸ்தான் தேசியக் கிரிக்கெட் அணி",
                 "url": "/read/ta/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/ta/pakistan_national_cricket_team.json",
-                "id": "winner_card_pakistan_national_cricket_team",
+                "id": "winner_card_பாகிஸ்தான்_தேசியக்_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
                     "url": "/static/images/master/PakistanCricketLogo.png",
-                    "altText": "Image of Pakistan national cricket team"
+                    "altText": "Image of பாகிஸ்தான் தேசியக் கிரிக்கெட் அணி"
                   }
                 }
               }
@@ -285,15 +285,15 @@
                 }
               },
               {
-                "label": "Sri Lanka national cricket team",
+                "label": "இலங்கை தேசியக் கிரிக்கெட் அணி",
                 "url": "/read/ta/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/ta/sri_lanka_national_cricket_team.json",
-                "id": "winner_card_sri_lanka_national_cricket_team",
+                "id": "winner_card_இலங்கை_தேசியக்_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
                     "url": "/static/images/master/Sri_Lanka_Cricket_Cap_Insignia.svg",
-                    "altText": "Image of Sri Lanka national cricket team"
+                    "altText": "Image of இலங்கை தேசியக் கிரிக்கெட் அணி"
                   }
                 }
               }
@@ -321,8 +321,8 @@
               },
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
@@ -356,8 +356,8 @@
               },
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
@@ -391,8 +391,8 @@
               },
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
@@ -432,7 +432,7 @@
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of இந்திய தேசிய கிரிக்கெட் அணி"
                   }
                 }
@@ -461,8 +461,8 @@
               },
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
@@ -482,15 +482,15 @@
             "label": "",
             "facts": [
               {
-                "label": "2019 Cricket World Cup",
+                "label": "2019 கிரிக்கெட் உலகக் கோப்பை",
                 "url": "/read/ta/2019_cricket_world_cup",
                 "contentUrl": "/static/content/ta/2019_cricket_world_cup.json",
-                "id": "tournament_card_2019_cricket_world_cup",
+                "id": "tournament_card_2019_கிரிக்கெட்_உலகக்_கோப்பை",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
                     "url": "/static/images/master/ICC_Cricket_World_Cup_2019_logo.svg",
-                    "altText": "Image of 2019 Cricket World Cup"
+                    "altText": "Image of 2019 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               }
@@ -507,10 +507,10 @@
           "label": "தொடர் நாயகன்",
           "id": "man_of_the_series",
           "value": {
-            "label": "Viv Richards, England",
+            "label": "விவ் ரிச்சர்ட்ஸ், இங்கிலாந்து",
             "image": {
               "url": "/static/images/master/Sir_Vivian_Richards.jpg",
-              "altText": "Picture of Viv Richards"
+              "altText": "Picture of விவ் ரிச்சர்ட்ஸ்"
             }
           }
         },
@@ -518,10 +518,10 @@
           "label": "அதிக ரன் எடுத்தவர்",
           "id": "most_runs_scored/_orange_cap",
           "value": {
-            "label": "Gordon Greenidge (253), England",
+            "label": "கார்டன் கீரினிட்ஜ் (253), இங்கிலாந்து",
             "image": {
               "url": "",
-              "altText": "Picture of Gordon Greenidge (253)"
+              "altText": "Picture of கார்டன் கீரினிட்ஜ் (253)"
             }
           }
         },
@@ -529,10 +529,10 @@
           "label": "அதிக விக்கெட் எடுத்தவர்",
           "id": "most_wickets_taken/_purple_cap",
           "value": {
-            "label": "Mike Hendrick (10), England",
+            "label": "மைக் ஹென்ரிக் (10), இங்கிலாந்து",
             "image": {
               "url": "",
-              "altText": "Picture of Mike Hendrick (10)"
+              "altText": "Picture of மைக் ஹென்ரிக் (10)"
             }
           }
         }

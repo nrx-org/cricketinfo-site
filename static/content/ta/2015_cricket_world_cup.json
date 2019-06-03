@@ -39,8 +39,8 @@
           "label": "சாம்பியன்ஸ்",
           "value": {
             "label": "இந்தியா (2வது டைட்டில்)",
-            "url": "/read/ta/australia_cricket_team",
-            "contentUrl": "/static/content/ta/australia_cricket_team.json"
+            "url": "/read/ta/australia_national_cricket_team",
+            "contentUrl": "/static/content/ta/australia_national_cricket_team.json"
           }
         },
         {
@@ -89,7 +89,7 @@
                 "value": {
                   "label": "நியூசிலாந்து தென்மேற்கு பசிபிக் பெருங்கடலில் அருகிலுள்ள ஒரு இறையாண்மை தீவாகும். இது பூகோள ரீதியாக இரண்டு முக்கிய நிலப்பரப்புகளையும் சுமார் 600 சிறிய தீவுகளையும் கொண்டுள்ளது. நியூசிலாந்து ஆஸ்திரேலியாவிலிருந்து ஏறத்தாழ 2,000 கிலோமீட்டர் கிழக்கில் அமைந்துள்ளது.",
                   "image": {
-                    "url": "/static/images/master/Lake_Gunn.jpg",
+                    "url": "/static/images/master/Flag_of_New_Zealand.svg",
                     "altText": "நியூசிலாந்து"
                   }
                 }
@@ -110,15 +110,15 @@
             "label": "",
             "facts": [
               {
-                "label": "1975 Cricket World Cup",
+                "label": "1975 கிரிக்கெட் உலகக் கோப்பை",
                 "url": "/read/ta/1975_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1975_cricket_world_cup.json",
-                "id": "tournament_card_1975_cricket_world_cup",
+                "id": "tournament_card_1975_கிரிக்கெட்_உலகக்_கோப்பை",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
                     "url": "/static/images/master/Prudential_Cup_75_logo.svg",
-                    "altText": "Image of 1975 Cricket World Cup"
+                    "altText": "Image of 1975 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               },
@@ -145,15 +145,15 @@
             "label": "",
             "facts": [
               {
-                "label": "1979 Cricket World Cup",
+                "label": "1979 கிரிக்கெட் உலகக் கோப்பை",
                 "url": "/read/ta/1979_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1979_cricket_world_cup.json",
-                "id": "tournament_card_1979_cricket_world_cup",
+                "id": "tournament_card_1979_கிரிக்கெட்_உலகக்_கோப்பை",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
                     "url": "/static/images/master/Prudential_Cup_79_logo.svg",
-                    "altText": "Image of 1979 Cricket World Cup"
+                    "altText": "Image of 1979 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               },
@@ -200,7 +200,7 @@
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of இந்திய தேசிய கிரிக்கெட் அணி"
                   }
                 }
@@ -215,22 +215,22 @@
             "label": "",
             "facts": [
               {
-                "label": "1987 Cricket World Cup",
+                "label": "1987 கிரிக்கெட் உலகக் கோப்பை",
                 "url": "/read/ta/1987_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1987_cricket_world_cup.json",
-                "id": "tournament_card_1987_cricket_world_cup",
+                "id": "tournament_card_1987_கிரிக்கெட்_உலகக்_கோப்பை",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
-                    "altText": "Image of 1987 Cricket World Cup",
-                    "license": ""
+                    "url": "/static/images/master/Worldcup1987.jpg",
+                    "altText": "Image of 1987 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               },
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
@@ -250,28 +250,28 @@
             "label": "",
             "facts": [
               {
-                "label": "1992 Cricket World Cup",
+                "label": "1992 கிரிக்கெட் உலகக் கோப்பை",
                 "url": "/read/ta/1992_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1992_cricket_world_cup.json",
-                "id": "tournament_card_1992_cricket_world_cup",
+                "id": "tournament_card_1992_கிரிக்கெட்_உலகக்_கோப்பை",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
                     "url": "/static/images/master/World_Cup_1992_logo.svg",
-                    "altText": "Image of 1992 Cricket World Cup"
+                    "altText": "Image of 1992 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               },
               {
-                "label": "Pakistan national cricket team",
+                "label": "பாகிஸ்தான் தேசியக் கிரிக்கெட் அணி",
                 "url": "/read/ta/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/ta/pakistan_national_cricket_team.json",
-                "id": "winner_card_pakistan_national_cricket_team",
+                "id": "winner_card_பாகிஸ்தான்_தேசியக்_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
                     "url": "/static/images/master/PakistanCricketLogo.png",
-                    "altText": "Image of Pakistan national cricket team"
+                    "altText": "Image of பாகிஸ்தான் தேசியக் கிரிக்கெட் அணி"
                   }
                 }
               }
@@ -298,15 +298,15 @@
                 }
               },
               {
-                "label": "Sri Lanka national cricket team",
+                "label": "இலங்கை தேசியக் கிரிக்கெட் அணி",
                 "url": "/read/ta/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/ta/sri_lanka_national_cricket_team.json",
-                "id": "winner_card_sri_lanka_national_cricket_team",
+                "id": "winner_card_இலங்கை_தேசியக்_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
                     "url": "/static/images/master/Sri_Lanka_Cricket_Cap_Insignia.svg",
-                    "altText": "Image of Sri Lanka national cricket team"
+                    "altText": "Image of இலங்கை தேசியக் கிரிக்கெட் அணி"
                   }
                 }
               }
@@ -334,8 +334,8 @@
               },
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
@@ -369,8 +369,8 @@
               },
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
@@ -404,8 +404,8 @@
               },
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
@@ -445,7 +445,7 @@
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of இந்திய தேசிய கிரிக்கெட் அணி"
                   }
                 }
@@ -474,8 +474,8 @@
               },
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
@@ -495,15 +495,15 @@
             "label": "",
             "facts": [
               {
-                "label": "2019 Cricket World Cup",
+                "label": "2019 கிரிக்கெட் உலகக் கோப்பை",
                 "url": "/read/ta/2019_cricket_world_cup",
                 "contentUrl": "/static/content/ta/2019_cricket_world_cup.json",
-                "id": "tournament_card_2019_cricket_world_cup",
+                "id": "tournament_card_2019_கிரிக்கெட்_உலகக்_கோப்பை",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
                     "url": "/static/images/master/ICC_Cricket_World_Cup_2019_logo.svg",
-                    "altText": "Image of 2019 Cricket World Cup"
+                    "altText": "Image of 2019 கிரிக்கெட் உலகக் கோப்பை"
                   }
                 }
               }
@@ -522,8 +522,9 @@
           "value": {
             "label": "மிட்செல் ஸ்டார்க், நியூசிலாந்து",
             "image": {
-              "url": "/static/images/master/Mitchell_Starc.jpg",
-              "altText": "Picture of மிட்செல் ஸ்டார்க்"
+              "url": "/static/images/master/MITCHELL_STARC_28631055464929.jpg",
+              "altText": "Picture of மிட்செல் ஸ்டார்க்",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -535,7 +536,7 @@
             "image": {
               "url": "/static/images/master/Martin_Guptill_2_28cropped29.jpg",
               "altText": "Picture of மார்ட்டின் குப்தில்",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
             }
           }
         },
@@ -545,8 +546,8 @@
           "value": {
             "label": "மிட்செல் ஸ்டார்க், டிரென்ட் போல்ட், நியூசிலாந்து",
             "image": {
-              "altText": "Picture of மிட்செல் ஸ்டார்க், டிரென்ட் போல்ட்",
-              "license": ""
+              "url": "/static/images/master/Zaheer_khan_72.jpg",
+              "altText": "Picture of மிட்செல் ஸ்டார்க், டிரென்ட் போல்ட்"
             }
           }
         }
@@ -564,8 +565,8 @@
             "facts": [
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "value": {
                   "label": "ஆஸ்திரேலிய தேசிய கிரிக்கெட் அணி 1877 ஆம் ஆண்டு நடைபெற்ற முதன்முதல் டெஸ்ட் போட்டியில் விளையாடிய, ஒரு மிகப் பழமையான அணியாகும்.",
                   "image": {
@@ -584,11 +585,11 @@
             "label": "",
             "facts": [
               {
-                "label": "New Zealand national cricket team",
+                "label": "நியூசிலாந்து தேசியக் கிரிக்கெட் அணி",
                 "url": "/read/ta/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/ta/new_zealand_national_cricket_team.json",
                 "value": {
-                  "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
+                  "label": "நியூசிலாந்து தேசியக் கிரிக்கெட் அணி, பிளாக் கேப்ஸ் எனப் பெயரிடப்பட்டது, 1930-இல் கிறிஸ்ட்சர்ச்சிலில் இங்கிலாந்திற்கு எதிராக முதல் டெஸ்ட் ஆடி, டெஸ்ட் ஆடிய ஐந்தாவது நாடாக ஆனது.",
                   "image": {
                     "url": "/static/images/master/New_Zealand_Cricket_Cap_Insignia.svg",
                     "altText": "Picture of ஆஸ்திரேலிய கிரிக்கெட் அணி"

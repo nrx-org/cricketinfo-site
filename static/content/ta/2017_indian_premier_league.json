@@ -1,9 +1,9 @@
 {
   "title": "2017 Indian Premier League",
   "summary": "The 2017 season of the Indian Premier League, also known as IPL 10 and branded as Vivo IPL 2017, was the tenth edition of the IPL",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/2017_Indian_Premier_League",
+  "wikipediaUrl": "",
   "coverImage": {
-    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+    "url": "/static/images/master/IPL_2017_evening.jpg",
     "altText": "Image of 2017 Indian Premier League"
   },
   "translations": [
@@ -109,28 +109,28 @@
             "label": "",
             "facts": [
               {
-                "label": "2008 Indian Premier League",
+                "label": "2008 இந்தியன் பிரீமியர் லீக்",
                 "url": "/read/ta/2008_indian_premier_league",
                 "contentUrl": "/static/content/ta/2008_indian_premier_league.json",
-                "id": "tournament_card_2008_indian_premier_league",
+                "id": "tournament_card_2008_இந்தியன்_பிரீமியர்_லீக்",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
                     "url": "/static/images/master/Cricket_India_Crest.svg",
-                    "altText": "Image of 2008 Indian Premier League"
+                    "altText": "Image of 2008 இந்தியன் பிரீமியர் லீக்"
                   }
                 }
               },
               {
-                "label": "Rajasthan Royals",
+                "label": "ராஜஸ்தான் ராயல்ஸ்",
                 "url": "/read/ta/rajasthan_royals",
                 "contentUrl": "/static/content/ta/rajasthan_royals.json",
-                "id": "winner_card_rajasthan_royals",
+                "id": "winner_card_ராஜஸ்தான்_ராயல்ஸ்",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
                     "url": "/static/images/master/RR-LOGO-1.png",
-                    "altText": "Image of Rajasthan Royals"
+                    "altText": "Image of ராஜஸ்தான் ராயல்ஸ்"
                   }
                 }
               }
@@ -144,28 +144,28 @@
             "label": "",
             "facts": [
               {
-                "label": "2009 Indian Premier League",
+                "label": "2009 இந்தியன் பிரீமியர் லீக்",
                 "url": "/read/ta/2009_indian_premier_league",
                 "contentUrl": "/static/content/ta/2009_indian_premier_league.json",
-                "id": "tournament_card_2009_indian_premier_league",
+                "id": "tournament_card_2009_இந்தியன்_பிரீமியர்_லீக்",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
                     "url": "/static/images/master/Ipl.svg",
-                    "altText": "Image of 2009 Indian Premier League"
+                    "altText": "Image of 2009 இந்தியன் பிரீமியர் லீக்"
                   }
                 }
               },
               {
-                "label": "Sunrisers Hyderabad",
+                "label": "சன்ரைஸர்ஸ் ஹைதராபாத்",
                 "url": "/read/ta/sunrisers_hyderabad",
                 "contentUrl": "/static/content/ta/sunrisers_hyderabad.json",
-                "id": "winner_card_sunrisers_hyderabad",
+                "id": "winner_card_சன்ரைஸர்ஸ்_ஹைதராபாத்",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
                     "url": "/static/images/master/Sunrisers_Hyderabad.svg",
-                    "altText": "Image of Sunrisers Hyderabad"
+                    "altText": "Image of சன்ரைஸர்ஸ் ஹைதராபாத்"
                   }
                 }
               }
@@ -186,8 +186,9 @@
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
-                    "url": "/static/images/master/IPL_T20_Chennai_vs_Kolkata.JPG",
-                    "altText": "Image of 2010 இந்தியன் ப்ரீமியர் லீக்"
+                    "url": "/static/images/master/Crowd_cheers_Sachin_Tendulkar_during_a_2010_IPL_match_28446468575429.jpg",
+                    "altText": "Image of 2010 இந்தியன் ப்ரீமியர் லீக்",
+                    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
                   }
                 }
               },
@@ -221,7 +222,7 @@
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
-                    "url": "/static/images/master/Ma_ChidambaramStadium_panaroma.jpg",
+                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
                     "altText": "Image of 2011 இந்தியன் ப்ரீமியர் லீக்"
                   }
                 }
@@ -249,28 +250,28 @@
             "label": "",
             "facts": [
               {
-                "label": "2012 Indian Premier League",
+                "label": "2012 இந்தியன் பிரீமியர் லீக்",
                 "url": "/read/ta/2012_indian_premier_league",
                 "contentUrl": "/static/content/ta/2012_indian_premier_league.json",
-                "id": "tournament_card_2012_indian_premier_league",
+                "id": "tournament_card_2012_இந்தியன்_பிரீமியர்_லீக்",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
-                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
-                    "altText": "Image of 2012 Indian Premier League"
+                    "url": "/static/images/master/IPL_T20_Chennai_vs_Kolkata.JPG",
+                    "altText": "Image of 2012 இந்தியன் பிரீமியர் லீக்"
                   }
                 }
               },
               {
-                "label": "Kolkata Knight Riders",
+                "label": "கொல்கத்தா நைட் ரைடர்ஸ்",
                 "url": "/read/ta/kolkata_knight_riders",
                 "contentUrl": "/static/content/ta/kolkata_knight_riders.json",
-                "id": "winner_card_kolkata_knight_riders",
+                "id": "winner_card_கொல்கத்தா_நைட்_ரைடர்ஸ்",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
                     "url": "/static/images/master/Kolkata_Knight_Riders_Logo.svg",
-                    "altText": "Image of Kolkata Knight Riders"
+                    "altText": "Image of கொல்கத்தா நைட் ரைடர்ஸ்"
                   }
                 }
               }
@@ -284,15 +285,15 @@
             "label": "",
             "facts": [
               {
-                "label": "2013 Indian Premier League",
+                "label": "2013 இந்தியன் பிரீமியர் லீக்",
                 "url": "/read/ta/2013_indian_premier_league",
                 "contentUrl": "/static/content/ta/2013_indian_premier_league.json",
-                "id": "tournament_card_2013_indian_premier_league",
+                "id": "tournament_card_2013_இந்தியன்_பிரீமியர்_லீக்",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
                     "url": "/static/images/master/Sahara_Stadium_Pune_4.jpg",
-                    "altText": "Image of 2013 Indian Premier League"
+                    "altText": "Image of 2013 இந்தியன் பிரீமியர் லீக்"
                   }
                 }
               },
@@ -319,28 +320,28 @@
             "label": "",
             "facts": [
               {
-                "label": "2014 Indian Premier League",
+                "label": "2014 இந்தியன் பிரீமியர் லீக்",
                 "url": "/read/ta/2014_indian_premier_league",
                 "contentUrl": "/static/content/ta/2014_indian_premier_league.json",
-                "id": "tournament_card_2014_indian_premier_league",
+                "id": "tournament_card_2014_இந்தியன்_பிரீமியர்_லீக்",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
                     "url": "/static/images/master/Cricket_India_Crest.svg",
-                    "altText": "Image of 2014 Indian Premier League"
+                    "altText": "Image of 2014 இந்தியன் பிரீமியர் லீக்"
                   }
                 }
               },
               {
-                "label": "Kolkata Knight Riders",
+                "label": "கொல்கத்தா நைட் ரைடர்ஸ்",
                 "url": "/read/ta/kolkata_knight_riders",
                 "contentUrl": "/static/content/ta/kolkata_knight_riders.json",
-                "id": "winner_card_kolkata_knight_riders",
+                "id": "winner_card_கொல்கத்தா_நைட்_ரைடர்ஸ்",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
                     "url": "/static/images/master/Kolkata_Knight_Riders_Logo.svg",
-                    "altText": "Image of Kolkata Knight Riders"
+                    "altText": "Image of கொல்கத்தா நைட் ரைடர்ஸ்"
                   }
                 }
               }
@@ -354,15 +355,15 @@
             "label": "",
             "facts": [
               {
-                "label": "2015 Indian Premier League",
+                "label": "2015 இந்தியன் பிரீமியர் லீக்",
                 "url": "/read/ta/2015_indian_premier_league",
                 "contentUrl": "/static/content/ta/2015_indian_premier_league.json",
-                "id": "tournament_card_2015_indian_premier_league",
+                "id": "tournament_card_2015_இந்தியன்_பிரீமியர்_லீக்",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
-                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
-                    "altText": "Image of 2015 Indian Premier League"
+                    "url": "/static/images/master/Ipl.svg",
+                    "altText": "Image of 2015 இந்தியன் பிரீமியர் லீக்"
                   }
                 }
               },
@@ -396,21 +397,21 @@
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
-                    "altText": "Image of 2016 இந்தியன் ப்ரீமியர் லீக்",
-                    "license": ""
+                    "url": "/static/images/master/DY_Patil_IPL.jpg",
+                    "altText": "Image of 2016 இந்தியன் ப்ரீமியர் லீக்"
                   }
                 }
               },
               {
-                "label": "Sunrisers Hyderabad",
+                "label": "சன்ரைஸர்ஸ் ஹைதராபாத்",
                 "url": "/read/ta/sunrisers_hyderabad",
                 "contentUrl": "/static/content/ta/sunrisers_hyderabad.json",
-                "id": "winner_card_sunrisers_hyderabad",
+                "id": "winner_card_சன்ரைஸர்ஸ்_ஹைதராபாத்",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
                     "url": "/static/images/master/Sunrisers_Hyderabad.svg",
-                    "altText": "Image of Sunrisers Hyderabad"
+                    "altText": "Image of சன்ரைஸர்ஸ் ஹைதராபாத்"
                   }
                 }
               }
@@ -431,7 +432,7 @@
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
-                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "url": "/static/images/master/IPL_2017_evening.jpg",
                     "altText": "Image of 2017 Indian Premier League"
                   }
                 }
@@ -459,15 +460,15 @@
             "label": "",
             "facts": [
               {
-                "label": "2018 Indian Premier League",
+                "label": "2018 இந்தியன் பிரீமியர் லீக்",
                 "url": "/read/ta/2018_indian_premier_league",
                 "contentUrl": "/static/content/ta/2018_indian_premier_league.json",
-                "id": "tournament_card_2018_indian_premier_league",
+                "id": "tournament_card_2018_இந்தியன்_பிரீமியர்_லீக்",
                 "value": {
                   "label": "போட்டியில்",
                   "image": {
                     "url": "/static/images/master/Indian_Premier_League_Logo.png",
-                    "altText": "Image of 2018 Indian Premier League"
+                    "altText": "Image of 2018 இந்தியன் பிரீமியர் லீக்"
                   }
                 }
               },
@@ -499,7 +500,7 @@
           "value": {
             "label": "Ben Stokes, India",
             "image": {
-              "url": "/static/images/master/BEN_STOKES_281170483702329_28cropped29.jpg",
+              "url": "/static/images/master/BEN_STOKES_281170483702329.jpg",
               "altText": "Picture of Ben Stokes",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }

@@ -14,7 +14,7 @@
     },
     {
       "lang": "ta",
-      "title": "2009 Indian Premier League",
+      "title": "2009 இந்தியன் பிரீமியர் லீக்",
       "url": "/read/ta/2009_indian_premier_league"
     }
   ],
@@ -76,7 +76,7 @@
                 "value": {
                   "label": "South Africa, officially the Republic of South Africa (RSA), is the southernmost country in Africa. It is bounded to the south by 2,798 kilometres of coastline of Southern Africa stretching along the South Atlantic and Indian Oceans.",
                   "image": {
-                    "url": "/static/images/master/MapungubweHill.jpg",
+                    "url": "/static/images/master/Flag_of_South_Africa.svg",
                     "altText": "South Africa"
                   }
                 }
@@ -174,8 +174,9 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "url": "/static/images/master/IPL_T20_Chennai_vs_Kolkata.JPG",
-                    "altText": "Image of 2010 Indian Premier League"
+                    "url": "/static/images/master/Crowd_cheers_Sachin_Tendulkar_during_a_2010_IPL_match_28446468575429.jpg",
+                    "altText": "Image of 2010 Indian Premier League",
+                    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
                   }
                 }
               },
@@ -209,7 +210,7 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "url": "/static/images/master/Ma_ChidambaramStadium_panaroma.jpg",
+                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
                     "altText": "Image of 2011 Indian Premier League"
                   }
                 }
@@ -244,7 +245,7 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
+                    "url": "/static/images/master/IPL_T20_Chennai_vs_Kolkata.JPG",
                     "altText": "Image of 2012 Indian Premier League"
                   }
                 }
@@ -349,7 +350,7 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
+                    "url": "/static/images/master/Ipl.svg",
                     "altText": "Image of 2015 Indian Premier League"
                   }
                 }
@@ -384,8 +385,8 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "altText": "Image of 2016 Indian Premier League",
-                    "license": ""
+                    "url": "/static/images/master/DY_Patil_IPL.jpg",
+                    "altText": "Image of 2016 Indian Premier League"
                   }
                 }
               },
@@ -419,7 +420,7 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "url": "/static/images/master/IPL_2017_evening.jpg",
                     "altText": "Image of 2017 Indian Premier League"
                   }
                 }
@@ -532,7 +533,7 @@
                 "url": "/read/en/sunrisers_hyderabad",
                 "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
                 "value": {
-                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
+                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL).",
                   "image": {
                     "url": "/static/images/master/Sunrisers_Hyderabad.svg",
                     "altText": "Picture of Sunrisers Hyderabad"
@@ -553,7 +554,7 @@
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "value": {
-                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
+                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL).",
                   "image": {
                     "url": "/static/images/master/Royal_Challengers_Bangalore_Logo_2016.svg",
                     "altText": "Picture of Sunrisers Hyderabad"

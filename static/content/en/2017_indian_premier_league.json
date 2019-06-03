@@ -1,9 +1,9 @@
 {
   "title": "2017 Indian Premier League",
-  "summary": "The 2017 season of the Indian Premier League, also known as IPL 10 and branded as Vivo IPL 2017, was the tenth edition of the IPL",
+  "summary": "The 2017 season of the Indian Premier League, also known as IPL 10 and branded as Vivo IPL 2017, was the tenth edition of the IPL.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/2017_Indian_Premier_League",
   "coverImage": {
-    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+    "url": "/static/images/master/IPL_2017_evening.jpg",
     "altText": "Image of 2017 Indian Premier League"
   },
   "translations": [
@@ -26,7 +26,7 @@
         {
           "label": "Dates",
           "value": {
-            "label": "14 February–29 March"
+            "label": "14 February – 29 March"
           }
         },
         {
@@ -69,6 +69,18 @@
           "value": {
             "label": "",
             "facts": [
+              {
+                "label": "Hyderabad",
+                "url": "/read/en/hyderabad",
+                "contentUrl": "/static/content/en/hyderabad.json",
+                "value": {
+                  "label": "Hyderabad is the capital of the Indian state of Telangana and de jure capital of Andhra Pradesh",
+                  "image": {
+                    "altText": "Hyderabad",
+                    "license": ""
+                  }
+                }
+              },
               {
                 "label": "Bangalore",
                 "url": "/read/en/bangalore",
@@ -186,8 +198,9 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "url": "/static/images/master/IPL_T20_Chennai_vs_Kolkata.JPG",
-                    "altText": "Image of 2010 Indian Premier League"
+                    "url": "/static/images/master/Crowd_cheers_Sachin_Tendulkar_during_a_2010_IPL_match_28446468575429.jpg",
+                    "altText": "Image of 2010 Indian Premier League",
+                    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
                   }
                 }
               },
@@ -221,7 +234,7 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "url": "/static/images/master/Ma_ChidambaramStadium_panaroma.jpg",
+                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
                     "altText": "Image of 2011 Indian Premier League"
                   }
                 }
@@ -256,7 +269,7 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
+                    "url": "/static/images/master/IPL_T20_Chennai_vs_Kolkata.JPG",
                     "altText": "Image of 2012 Indian Premier League"
                   }
                 }
@@ -361,7 +374,7 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
+                    "url": "/static/images/master/Ipl.svg",
                     "altText": "Image of 2015 Indian Premier League"
                   }
                 }
@@ -396,8 +409,8 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "altText": "Image of 2016 Indian Premier League",
-                    "license": ""
+                    "url": "/static/images/master/DY_Patil_IPL.jpg",
+                    "altText": "Image of 2016 Indian Premier League"
                   }
                 }
               },
@@ -431,7 +444,7 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "url": "/static/images/master/IPL_2017_evening.jpg",
                     "altText": "Image of 2017 Indian Premier League"
                   }
                 }
@@ -499,7 +512,7 @@
           "value": {
             "label": "Ben Stokes, India",
             "image": {
-              "url": "/static/images/master/BEN_STOKES_281170483702329_28cropped29.jpg",
+              "url": "/static/images/master/BEN_STOKES_281170483702329.jpg",
               "altText": "Picture of Ben Stokes",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }

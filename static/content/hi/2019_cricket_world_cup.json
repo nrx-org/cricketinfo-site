@@ -14,7 +14,7 @@
     },
     {
       "lang": "ta",
-      "title": "2019 Cricket World Cup",
+      "title": "2019 கிரிக்கெட் உலகக் கோப்பை",
       "url": "/read/ta/2019_cricket_world_cup"
     }
   ],
@@ -187,7 +187,7 @@
                 "value": {
                   "label": "विजेता",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of भारत की राष्ट्रीय क्रिकेट टीम"
                   }
                 }
@@ -209,15 +209,15 @@
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
-                    "altText": "Image of 1987 क्रिकेट विश्व कप",
-                    "license": ""
+                    "url": "/static/images/master/Worldcup1987.jpg",
+                    "altText": "Image of 1987 क्रिकेट विश्व कप"
                   }
                 }
               },
               {
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
                   "label": "विजेता",
@@ -321,8 +321,8 @@
               },
               {
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
                   "label": "विजेता",
@@ -356,8 +356,8 @@
               },
               {
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
                   "label": "विजेता",
@@ -391,8 +391,8 @@
               },
               {
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
                   "label": "विजेता",
@@ -432,7 +432,7 @@
                 "value": {
                   "label": "विजेता",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of भारत की राष्ट्रीय क्रिकेट टीम"
                   }
                 }
@@ -461,8 +461,8 @@
               },
               {
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
                   "label": "विजेता",

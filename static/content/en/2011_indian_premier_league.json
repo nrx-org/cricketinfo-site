@@ -1,9 +1,9 @@
 {
   "title": "2011 Indian Premier League",
-  "summary": "The 2011 Indian Premier League season, abbreviated as IPL 4 or the IPL 2011, was the fourth season of the Indian Premier League, the top Twenty20 cricket league in India",
+  "summary": "The 2011 Indian Premier League season, abbreviated as IPL 4 or the IPL 2011, was the fourth season of the Indian Premier League, the top Twenty20 cricket league in India.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/2011_Indian_Premier_League",
   "coverImage": {
-    "url": "/static/images/master/Ma_ChidambaramStadium_panaroma.jpg",
+    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
     "altText": "Image of 2011 Indian Premier League"
   },
   "translations": [
@@ -69,6 +69,18 @@
           "value": {
             "label": "",
             "facts": [
+              {
+                "label": "Chennai",
+                "url": "/read/en/chennai",
+                "contentUrl": "/static/content/en/chennai.json",
+                "value": {
+                  "label": "Chennai is the capital of the Indian state of Tamil Nadu. Located on the Coromandel Coast off the Bay of Bengal, it is the biggest cultural, economic and educational centre of south India.",
+                  "image": {
+                    "altText": "Chennai",
+                    "license": ""
+                  }
+                }
+              },
               {
                 "label": "Mumbai",
                 "url": "/read/en/mumbai",
@@ -174,8 +186,9 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "url": "/static/images/master/IPL_T20_Chennai_vs_Kolkata.JPG",
-                    "altText": "Image of 2010 Indian Premier League"
+                    "url": "/static/images/master/Crowd_cheers_Sachin_Tendulkar_during_a_2010_IPL_match_28446468575429.jpg",
+                    "altText": "Image of 2010 Indian Premier League",
+                    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
                   }
                 }
               },
@@ -209,7 +222,7 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "url": "/static/images/master/Ma_ChidambaramStadium_panaroma.jpg",
+                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
                     "altText": "Image of 2011 Indian Premier League"
                   }
                 }
@@ -244,7 +257,7 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
+                    "url": "/static/images/master/IPL_T20_Chennai_vs_Kolkata.JPG",
                     "altText": "Image of 2012 Indian Premier League"
                   }
                 }
@@ -349,7 +362,7 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "url": "/static/images/master/Eden_gardens_ipl_2011.jpg",
+                    "url": "/static/images/master/Ipl.svg",
                     "altText": "Image of 2015 Indian Premier League"
                   }
                 }
@@ -384,8 +397,8 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "altText": "Image of 2016 Indian Premier League",
-                    "license": ""
+                    "url": "/static/images/master/DY_Patil_IPL.jpg",
+                    "altText": "Image of 2016 Indian Premier League"
                   }
                 }
               },
@@ -419,7 +432,7 @@
                 "value": {
                   "label": "Tournament",
                   "image": {
-                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "url": "/static/images/master/IPL_2017_evening.jpg",
                     "altText": "Image of 2017 Indian Premier League"
                   }
                 }
@@ -509,9 +522,8 @@
           "value": {
             "label": "Lasith Malinga, Sri Lanka",
             "image": {
-              "url": "/static/images/master/LASITH_MALINGA_28515517554929.jpg",
-              "altText": "Picture of Lasith Malinga",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+              "url": "/static/images/master/Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg",
+              "altText": "Picture of Lasith Malinga"
             }
           }
         }
@@ -553,7 +565,7 @@
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "value": {
-                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
+                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL).",
                   "image": {
                     "url": "/static/images/master/Royal_Challengers_Bangalore_Logo_2016.svg",
                     "altText": "Picture of Chennai Super Kings"
