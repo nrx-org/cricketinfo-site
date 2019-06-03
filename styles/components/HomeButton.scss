@@ -1,0 +1,14 @@
+.wcp-home-button {
+  display: flex;
+  border-radius: $border-radius-m;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08), 0 1px 4px rgba(0, 0, 0, 0.04);
+  background-color: $color-white;
+  width: 60%;
+  padding: $gutter-s;
+  font-size: $font-size-s;
+  color: $color-black-light;
+
+  span {
+    margin-left: $gutter-s;
+  }
+}

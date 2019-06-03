@@ -29,6 +29,7 @@ import { ImageAttributionsModalContainer } from "../components/ImageAttributions
 import { CONTINUE_READING_MODAL_ID } from "../lib/modal_ids";
 import { Button } from "../components/Button";
 import { ContinueReadingModalContainer } from "../components/ContinueReadingModalContainer";
+import { HomeButton } from "../components/HomeButton";
 
 const Article = ({
   articleId,
@@ -56,6 +57,7 @@ const Article = ({
         </div>
         <ShareArticleFloatingToolbarContainer articleId={articleId} />
         <section>
+          <HomeButton lang={lang} />
           <h1 className="wcp-article__title">{title}</h1>
 
           {/* eslint-disable-next-line react/no-danger */}
