@@ -72,7 +72,6 @@ const Article = ({
                 key={factCard.title}
                 className="wcp-summary-fact-card"
                 cardData={factCard}
-                lang={lang}
               />
             );
           return null;
@@ -132,6 +131,8 @@ Article.getInitialProps = async ({ query }) => {
   // Insert a survey link just before the second last section of each article.
   if (articleJson.sections) {
     articleJson.sections.splice(articleJson.sections.length - 1, 0, {
+      lang,
+      articleId,
       cardType: "survey_link"
     });
   }

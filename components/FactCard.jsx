@@ -1,5 +1,4 @@
 import React from "react";
-import PropTypes from "prop-types";
 
 import { StoriesContainer } from "./StoriesContainer";
 import { factCardDataPropTypes } from "../lib/prop_types";
@@ -42,7 +41,7 @@ FactCardTable.propTypes = {
   cardData: factCardDataPropTypes.isRequired
 };
 
-export const FactCard = ({ cardData, lang }) => {
+export const FactCard = ({ cardData }) => {
   if (cardData.cardType === "table") {
     return <FactCardTable cardData={cardData} />;
   }
@@ -87,11 +86,15 @@ export const FactCard = ({ cardData, lang }) => {
     return (
       <section>
         <Button
-          href={getSurveyUrl(lang, "matomo-user-id")}
+          href={getSurveyUrl(
+            cardData.lang,
+            "matomo-user-id",
+            cardData.articleId
+          )}
           isFullWidth
           shouldOpenInNewTab
         >
-          {articleUiStrings.takeSurvey[lang]}
+          {articleUiStrings.takeSurvey[cardData.lang]}
         </Button>
       </section>
     );
@@ -101,6 +104,5 @@ export const FactCard = ({ cardData, lang }) => {
 };
 
 FactCard.propTypes = {
-  cardData: factCardDataPropTypes.isRequired,
-  lang: PropTypes.string.isRequired
+  cardData: factCardDataPropTypes.isRequired
 };
