@@ -1,11 +1,10 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import { Icon } from "./Icon";
 import { ModalContextConsumer } from "./ModalContext";
 import { IMAGE_ATTRIBUTIONS_MODAL_ID } from "../lib/modal_ids";
 import { imagePropTypes } from "../lib/prop_types";
-import { getPrivacyPolicyUrl } from "../lib/urls";
+import { getContactFormUrl, getPrivacyPolicyUrl } from "../lib/urls";
 
 export const Attributions = ({ attributions, lang }) => (
   <section className="wcp-attributions">
@@ -24,10 +23,7 @@ export const Attributions = ({ attributions, lang }) => (
       CricketInfo, you agree with our privacy notice and terms of use.
     </p>
     <p className="wcp-attributions__privacy-policy">
-      <a href={getPrivacyPolicyUrl(lang)}>
-        Privacy policy{" "}
-        <Icon size="xs" name="arrow_right" altText="Right arrow icon" />
-      </a>
+      <a href={getPrivacyPolicyUrl(lang)}>Privacy policy </a>
     </p>
     <p>
       <ModalContextConsumer>
@@ -40,10 +36,14 @@ export const Attributions = ({ attributions, lang }) => (
             className="wcp-attributions__know-more"
           >
             See licenses for images used on this page{" "}
-            <Icon size="xs" name="arrow_right" altText="Right arrow icon" />
           </button>
         )}
       </ModalContextConsumer>
+    </p>
+    <p>
+      <a href={getContactFormUrl(lang)} target="_blank" rel="noopener">
+        Contact us
+      </a>
     </p>
     {/* eslint-enable react/jsx-one-expression-per-line */}
   </section>
