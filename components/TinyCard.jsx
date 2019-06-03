@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import ArticleSummaryLink from "./ArticleSummaryLink";
 import { imagePropTypes } from "../lib/prop_types";
+import { Image } from "./Image";
 
 export const TinyCard = ({ children, coverImage, title, href }) => {
   const activeClassName = href
@@ -10,7 +11,7 @@ export const TinyCard = ({ children, coverImage, title, href }) => {
 
   const contentEl = (
     <div className={`wcp-tiny-card ${activeClassName}`}>
-      <img
+      <Image
         className="wcp-tiny-card__cover-image"
         src={coverImage.url}
         alt={coverImage.altText}

@@ -1,0 +1,8 @@
+.wcp-image--error {
+  background-color: $color-gray-lighter;
+  font-size: 2rem;
+  filter: grayscale(100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

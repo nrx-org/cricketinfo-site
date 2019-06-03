@@ -5,6 +5,7 @@ import { SectionTitle } from "./SectionTitle";
 import { factCardDataPropTypes } from "../lib/prop_types";
 
 import ArticleSummaryLink from "./ArticleSummaryLink";
+import { Image } from "./Image";
 
 export const AvatarList = ({ cardData }) => (
   <section className="wcp-avatar-list">
@@ -18,14 +19,10 @@ export const AvatarList = ({ cardData }) => (
       {cardData.facts.map(f => {
         const content = (
           <div className="wcp-avatar-list__item">
-            <div
+            <Image
+              src={f.value && f.value.image && f.value.image.url}
+              alt={f.value && f.value.image && f.value.image.altText}
               className="wcp-avatar-list__item__profile-picture"
-              style={{
-                backgroundImage: `url(${
-                  f.value && f.value.image ? f.value.image.url : ""
-                })`
-              }}
-              title={f.value && f.value.image ? f.value.image.alt : ""}
             />
             <div className="wcp-avatar-list__item__info">
               <div className="wcp-avatar-list__item__info__label">
