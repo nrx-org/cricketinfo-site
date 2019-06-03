@@ -1,0 +1,340 @@
+{
+  "title": "अजिंक्य रहाणे ",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%9C%E0%A4%BF%E0%A4%82%E0%A4%95%E0%A5%8D%E0%A4%AF_%E0%A4%B0%E0%A4%B9%E0%A4%BE%E0%A4%A3%E0%A5%87",
+  "coverImage": {
+    "url": "/static/images/master/Ajinkya_Rahane_2016_28cropped29.jpg",
+    "altText": "Image of अजिंक्य रहाणे ",
+    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+  },
+  "summary": "अजिंक्य रहाणे एक भारतीय अंतर्राष्ट्रीय क्रिकेटर हैं।",
+  "translations": [
+    {
+      "lang": "en",
+      "title": "Ajinkya Rahane",
+      "url": "/read/en/ajinkya_rahane"
+    },
+    {
+      "lang": "ta",
+      "title": "அஜிங்கியா ரஹானே",
+      "url": "/read/ta/ajinkya_rahane"
+    }
+  ],
+  "sections": [
+    {
+      "title": "इनके बारे में",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "पूरा नाम",
+          "value": {
+            "label": "अजिंक्य मधुकर रहाणे"
+          }
+        },
+        {
+          "label": "जन्मतिथि",
+          "value": {
+            "label": "06 Jun 1988 (आयु 30)"
+          }
+        },
+        {
+          "label": "जन्मस्थान",
+          "value": {
+            "label": "संगमनेर, महाराष्ट्र, भारत",
+            "url": "",
+            "contentUrl": "/static/content/hi/null.json"
+          }
+        },
+        {
+          "label": "ऊंचाई",
+          "value": {
+            "label": "5 फीट 7 इंच (1.70 मीटर)"
+          }
+        },
+        {
+          "label": "राष्ट्रीयता",
+          "value": {
+            "label": "भारतीय"
+          }
+        },
+        {
+          "label": "भूमिका",
+          "value": {
+            "label": "मध्य क्रम के दाएं हाथ के बल्लेबाज"
+          }
+        }
+      ]
+    },
+    {
+      "title": "शिक्षा",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "एसवी जोशी हाई स्कूल, मुंबई",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/master/S_v_joshi_high_school_dombivali_28E29.jpg",
+              "altText": "Image of एसवी जोशी हाई स्कूल, मुंबई",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "खेलने की शैली",
+      "id": "style_of_play",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "रहाणे दाएं हाथ के मध्य क्रम के बल्लेबाज हैं"
+          }
+        }
+      ]
+    },
+    {
+      "title": "दौर",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "प्रथम श्रेणी की शुरुआत",
+          "id": "phase_प्रथम_श्रेणी_की_शुरुआत",
+          "note": "2007",
+          "value": {
+            "label": "मोहम्मद निसार ट्रॉफी एक वार्षिक प्रथम श्रेणी क्रिकेट प्रतियोगिता थी जो भारत की ओर से रणजी ट्रॉफी के विजेताओं और पाकिस्तान की ओर से कैद -ए-आज़म ट्रॉफी के विजेताओं के बीच चार दिनों तक खेली गई थी।"
+          }
+        },
+        {
+          "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
+          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
+          "note": "2011",
+          "value": {
+            "label": "रहाणे ने सलामी बल्लेबाज वीरेंद्र सहवाग की जगह 2011 में इंग्लैंड के खिलाफ मैच से पदार्पण किया",
+            "facts": [
+              {
+                "url": "/read/hi/england_cricket_team",
+                "contentUrl": "/static/content/hi/england_cricket_team.json",
+                "label": "इंग्लैंड क्रिकेट टीम",
+                "id": "phase_fact_fact_इंग्लैंड_क्रिकेट_टीम",
+                "value": {
+                  "label": "इंग्लैंड क्रिकेट टीम अंतरराष्ट्रीय क्रिकेट में इंग्लैंड और वेल्स का प्रतिनिधित्व करती है। इंग्लैंड और ऑस्ट्रेलिया 1877 में टेस्ट मैच खेलने वाली पहली टीमें थीं। ",
+                  "image": {
+                    "url": "/static/images/master/England_cricket_team_logo.svg",
+                    "altText": "Image of इंग्लैंड क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "आईसीसी टूर्नामेंट में प्रथम प्रवेश",
+          "id": "phase_आईसीसी_टूर्नामेंट_में_प्रथम_प्रवेश",
+          "note": "2014",
+          "value": {
+            "label": "रहाणे उस भारतीय टीम का हिस्सा थे जिसने 2014 विश्व टी 20 के फाइनल में जगह बनाई"
+          }
+        },
+        {
+          "label": "2015 विश्व कप",
+          "id": "phase_2015_विश्व_कप",
+          "note": "2015",
+          "value": {
+            "label": "2015 के विश्व कप में, रहाणे 8 मैचों में केवल 208 रन बनाने में सफल रहे",
+            "facts": [
+              {
+                "url": "/read/hi/2015_cricket_world_cup",
+                "contentUrl": "/static/content/hi/2015_cricket_world_cup.json",
+                "label": "2015 क्रिकेट विश्व कप",
+                "id": "phase_fact_fact_2015_क्रिकेट_विश्व_कप",
+                "value": {
+                  "label": "2015 आईसीसी क्रिकेट विश्व कप 11 वीं क्रिकेट विश्व कप था,  जो संयुक्त रूप से ऑस्ट्रेलिया और न्यूजीलैंड द्वारा आयोजित किया गया",
+                  "image": {
+                    "url": "/static/images/master/2015_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2015 क्रिकेट विश्व कप"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "आईपीएल में प्रथम प्रवेश",
+          "id": "phase_आईपीएल_में_प्रथम_प्रवेश",
+          "note": "2008",
+          "value": {
+            "label": "रहाणे शुरुआत में मुंबई इंडियंस टीम में थे लेकिन उन्हें सीमित अवसर मिले",
+            "facts": [
+              {
+                "url": "/read/hi/bangladesh_national_cricket_team",
+                "contentUrl": "/static/content/hi/bangladesh_national_cricket_team.json",
+                "label": "बांग्लादेश की राष्ट्रीय क्रिकेट टीम",
+                "id": "phase_fact_fact_बांग्लादेश_की_राष्ट्रीय_क्रिकेट_टीम",
+                "value": {
+                  "label": "बांग्लादेश की राष्ट्रीय क्रिकेट टीम, जो \"द टाइगर्स\" के नाम से भी मशहूर है का संचालन बांग्लादेश क्रिकेट बोर्ड (बीसीबी) द्वारा किया जाता है। बांग्लादेश टेस्ट और एकदिवसीय अंतरराष्ट्रीय (ओडीआई) में अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) का पूर्ण सदस्य है।",
+                  "image": {
+                    "url": "/static/images/master/Flag_of_Bangladesh.svg",
+                    "altText": "Image of बांग्लादेश की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "उपलब्धि और रिकॉर्ड",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "एक अकेले टेस्ट मैच में किसी गैर विकेटकीपर द्वारा सबसे ज्यादा कैच (8) रहाणे के नाम हैं",
+            "image": {
+              "altText": "एक अकेले टेस्ट मैच में किसी गैर विकेटकीपर द्वारा सबसे ज्यादा कैच (8) रहाणे के नाम हैं",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "रहाणे एक टेस्ट की प्रत्येक पारी में शतक बनाने वाले 5वें भारतीय बल्लेबाज हैं",
+            "image": {
+              "url": "/static/images/master/Ajinkya_Rahane_2016_28cropped29.jpg",
+              "altText": "रहाणे एक टेस्ट की प्रत्येक पारी में शतक बनाने वाले 5वें भारतीय बल्लेबाज हैं",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "रहाणे ने कप्तान के रूप में अपना पहला टेस्ट मैच जीतने का रिकॉर्ड संयुक्त रूप से बनाया",
+            "image": {
+              "url": "/static/images/master/Ajinkya_Rahane.jpg",
+              "altText": "रहाणे ने कप्तान के रूप में अपना पहला टेस्ट मैच जीतने का रिकॉर्ड संयुक्त रूप से बनाया",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "रहाणे आईपीएल में एक ओवर में छह चौके लगाने वाले पहले बल्लेबाज थे",
+            "image": {
+              "url": "/static/images/master/Ajinkya_Rahane_Image.jpg",
+              "altText": "रहाणे आईपीएल में एक ओवर में छह चौके लगाने वाले पहले बल्लेबाज थे",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "रहाणे लॉर्ड्स के क्रिकेट मैदान पर अपने पहले मैच में टेस्ट शतक लगाने वाले चौथे भारतीय बल्लेबाज हैं",
+            "image": {
+              "url": "",
+              "altText": "रहाणे लॉर्ड्स के क्रिकेट मैदान पर अपने पहले मैच में टेस्ट शतक लगाने वाले चौथे भारतीय बल्लेबाज हैं"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "टीमें",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "भारतीय राष्ट्रीय क्रिकेट टीम  (2011 से अब तक)",
+          "id": "team_fact_भारतीय_राष्ट्रीय_क्रिकेट_टीम_2011 से अब तक",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "भारत की राष्ट्रीय क्रिकेट टीम",
+                "id": "team_fact_fact_भारत_की_राष्ट्रीय_क्रिकेट_टीम",
+                "url": "/read/hi/india_national_cricket_team",
+                "contentUrl": "/static/content/hi/india_national_cricket_team.json",
+                "value": {
+                  "label": "भारत की राष्ट्रीय क्रिकेट टीम को टीम इंडिया और मेन इन ब्लू के नाम से भी जाना जाता है। भारत को टेस्ट में पहला, वनडे में दूसरा और आईसीसी द्वारा टी20 में दूसरा स्थान मिला है। विराट कोहली टीम के वर्तमान कप्तान हैं जबकि मुख्य कोच रवि शास्त्री हैं।",
+                  "image": {
+                    "url": "/static/images/master/Flagcricket.jpg",
+                    "altText": "Picture of भारत की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "राजस्थान रॉयल्स (2011 से अब तक)",
+          "id": "team_fact_राजस्थान_रॉयल्स_2011 से अब तक",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "राजस्थान रॉयल्स",
+                "id": "team_fact_fact_राजस्थान_रॉयल्स",
+                "url": "/read/hi/rajasthan_royals",
+                "contentUrl": "/static/content/hi/rajasthan_royals.json",
+                "value": {
+                  "label": "राजस्थान रॉयल्स (संक्षिप्त रूप में आरआर) इंडियन प्रीमियर लीग में खेलने वाली राजस्थान के जयपुर आधारित एक फ्रेंचाइजी क्रिकेट टीम है।",
+                  "image": {
+                    "url": "/static/images/master/RR-LOGO-1.png",
+                    "altText": "Picture of राजस्थान रॉयल्स"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "मुंबई (2007 से अब तक)",
+          "id": "team_fact_मुंबई_2007 से अब तक",
+          "value": {
+            "label": "मुंबई की घरेलू रणजी ट्रॉफी क्रिकेट टीम"
+          }
+        }
+      ]
+    },
+    {
+      "title": "पुरस्कार और सम्मान",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "सिएट इंडियन क्रिकेटर ऑफ द ईयर",
+          "tag": "2015",
+          "id": "award-0",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": "Image of सिएट इंडियन क्रिकेटर ऑफ द ईयर"
+            }
+          }
+        },
+        {
+          "label": "अर्जुन पुरस्कार",
+          "tag": "2016",
+          "id": "award-1",
+          "value": {
+            "label": "खेल में उत्कृष्ट उपलब्धि के लिए सरकार द्वारा अर्जुन पुरस्कार दिए जाते हैं",
+            "image": {
+              "url": "/static/images/master/Arjun_Award.jpg",
+              "altText": "Image of अर्जुन पुरस्कार"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

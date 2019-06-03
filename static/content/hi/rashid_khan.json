@@ -1,6 +1,6 @@
 {
   "title": "राशिद खान",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rashid_Khan_(cricketer)",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%B6%E0%A4%BF%E0%A4%A6_%E0%A4%96%E0%A4%BE%E0%A4%A8_(%E0%A4%85%E0%A4%AB%E0%A4%BC%E0%A4%97%E0%A4%BC%E0%A4%BE%E0%A4%A8_%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%9F%E0%A4%B0)",
   "coverImage": {
     "url": "-",
     "altText": "Image of राशिद खान"
@@ -32,14 +32,14 @@
         {
           "label": "जन्मतिथि",
           "value": {
-            "label": "Invalid Date (आयु 20)"
+            "label": "20 Sep 1998 (आयु 20)"
           }
         },
         {
           "label": "जन्मस्थान",
           "value": {
             "label": "नांगरहार, अफगानिस्तान",
-            "url": "https://en.wikipedia.org/wiki/Nangarhar_Province",
+            "url": "",
             "contentUrl": "/static/content/hi/bogra.json"
           }
         },
@@ -89,8 +89,8 @@
           }
         },
         {
-          "label": "राष्ट्रीय टीम ",
-          "id": "phase_राष्ट्रीय_टीम",
+          "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
+          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
           "note": "",
           "value": {
             "label": "उन्होंने अफगानिस्तान की ओर से जिम्बाबे के विरुद्ध 18 अक्तूबर, 2015 को वनडे इंटरनेशनल (ओडीआई) में पदार्पण किया। "
@@ -195,8 +195,8 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "अफगानिस्‍तान राष्ट्रीय क्रिकेट टीम (2015-अब तक )",
-          "id": "team_fact_अफगानिस्‍तान_राष्ट्रीय_क्रिकेट_टीम_2015-अब तक ",
+          "label": "अफगानिस्‍तान राष्ट्रीय क्रिकेट टीम (2015 से अब तक)",
+          "id": "team_fact_अफगानिस्‍तान_राष्ट्रीय_क्रिकेट_टीम_2015 से अब तक",
           "value": {
             "label": "",
             "facts": [
@@ -208,8 +208,9 @@
                 "value": {
                   "label": "अफगानिस्तान की राष्ट्रीय क्रिकेट टीम  टेस्ट क्रिकेट खेलने वाला 12वां पूर्ण सदस्य देश है। अफगानिस्तान में 19वीं शताब्दी के मध्य से क्रिकेट खेला जाता रहा है, लेकिन हाल के वर्षों में ही वह राष्ट्रीय टीम के रूप में सफल हुआ है।",
                   "image": {
-                    "url": "/static/images/master/Afghanistan_cricket_board_logo.jpg",
-                    "altText": "Picture of अफगानिस्तान की राष्ट्रीय क्रिकेट टीम"
+                    "url": "/static/images/master/Flag_of_Afghanistan.svg",
+                    "altText": "Picture of अफगानिस्तान की राष्ट्रीय क्रिकेट टीम",
+                    "license": ""
                   }
                 }
               }
@@ -217,8 +218,8 @@
           }
         },
         {
-          "label": "सनराइजर्स हैदराबाद (2017- अब तक )",
-          "id": "team_fact_सनराइजर्स_हैदराबाद_2017- अब तक ",
+          "label": "सनराइजर्स हैदराबाद (2017 से अब तक)",
+          "id": "team_fact_सनराइजर्स_हैदराबाद_2017 से अब तक",
           "value": {
             "label": "",
             "facts": [

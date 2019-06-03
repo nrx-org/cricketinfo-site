@@ -5,14 +5,16 @@
     "url": "/static/images/master/Bhuvneshwar_Kumar.jpg",
     "altText": "Image of Bhuvneshwar Kumar"
   },
-  "summary": "Bhuvneshwar Kumar is an Indian international cricketer",
+  "summary": "Bhuvneshwar Kumar is an Indian international cricketer.",
   "translations": [
     {
       "lang": "hi",
+      "title": "भुवनेश्वर कुमार",
       "url": "/read/hi/bhuvneshwar_kumar"
     },
     {
       "lang": "ta",
+      "title": "புவனேஸ்வர் குமார்",
       "url": "/read/ta/bhuvneshwar_kumar"
     }
   ],
@@ -30,7 +32,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": "Invalid Date (Age 29)"
+            "label": "05-02-1990 (Age 29)"
           }
         },
         {
@@ -75,7 +77,7 @@
         {
           "label": "",
           "value": {
-            "label": "Kumar is a right-arm medium-fast bowler who swings the ball both ways ",
+            "label": "Kumar is a right-arm medium-fast bowler who swings the ball both ways.",
             "image": {
               "url": "/static/images/master/Bhuvneshwar_Kumar.jpg",
               "altText": "Style of play for Bhuvneshwar Kumar"
@@ -93,7 +95,23 @@
           "id": "phase_first_class_debut",
           "note": "2007",
           "value": {
-            "label": "Kumar made his first-class debut playing for Uttar Pradesh at the age of 17 against Bengal"
+            "label": "Kumar made his first-class debut playing for Uttar Pradesh at the age of 17 against Bengal",
+            "facts": [
+              {
+                "url": "/read/en/ranji_trophy",
+                "contentUrl": "/static/content/en/ranji_trophy.json",
+                "label": "Ranji Trophy",
+                "id": "phase_fact_fact_ranji_trophy",
+                "value": {
+                  "label": "The Ranji Trophy is a domestic first-class cricket championship played in India between teams representing regional and state cricket associations.",
+                  "image": {
+                    "url": "/static/images/master/Ranji_Trophy_logo.png",
+                    "altText": "Image of Ranji Trophy",
+                    "license": "<p>The logo for Paytm Ranji Trophy</p><p></p><p>hotstar.com</p><p><b><a href=\"/wiki/Ranji_Trophy\" title=\"Ranji Trophy\">Ranji Trophy</a></b></p><p>to serve as the primary means of visual identification at the top of the article dedicated to the entity in question.</p><p>n.a.</p><p>The file will only be used as the logo for Ranji Trophy.</p><p>n.a.</p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:Ranji_Trophy_logo.png</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p><p><b>To the uploader</b>: \n<ol><li>This tag is only for use on images of logos.</li>\n<li>This tag is not sufficient on its own. Please add a detailed <b><a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">fair use rationale</a></b> for each use, as well as the <b>source</b> of the work and copyright information.</li>\n<li>For an example fair use rationale for a logo, see <a href=\"/wiki/Wikipedia:Use_rationale_examples#Logo_in_the_article_about_the_topic_that_the_logo_represents\" title=\"Wikipedia:Use rationale examples\">here</a>.</li>\n<li><b><a href=\"/wiki/Template:Non-free_use_rationale_logo\" title=\"Template:Non-free use rationale logo\">Template:Non-free use rationale logo</a></b> may be helpful for stating the rationale.</li>\n<li>Please do not use this template to tag non-free icons of computer software. Such items should be tagged with {{<a href=\"/wiki/Template:Non-free_computer_icon\" title=\"Template:Non-free computer icon\">Non-free computer icon</a>}} template.</li></ol>\n<p><b>Regarding uses other than in the original article:</b>\n</p>\n<ul><li>A detailed <b><a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">non-free use rationale</a></b> is required for <b>every</b> article the logo is used in. Check the <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free use criteria</a> and do not assume that existing rationales can be simply copied and pasted, as they may not necessarily apply.</li></ul>\n<b> To patrollers and administrators</b>: If this image has an &apos;appropriate&apos; rationale please append <code>|image has rationale=yes</code> as a parameter to the license template.</p>"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -128,6 +146,52 @@
           }
         },
         {
+          "label": "2015 World cup",
+          "id": "phase_2015_world_cup",
+          "note": "2015",
+          "value": {
+            "label": "Kumar was expected to start in all matches for the 2015 ICC Cricket World Cup but could not due to poor fitness",
+            "facts": [
+              {
+                "url": "/read/en/2015_cricket_world_cup",
+                "contentUrl": "/static/content/en/2015_cricket_world_cup.json",
+                "label": "2015 Cricket World Cup",
+                "id": "phase_fact_fact_2015_cricket_world_cup",
+                "value": {
+                  "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand.",
+                  "image": {
+                    "url": "/static/images/master/2015_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2015 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Champions trophy",
+          "id": "phase_champions_trophy",
+          "note": "2017",
+          "value": {
+            "label": "In the 2017 ICC Champions Trophy, Kumar led the Indian bowling attack alongside Jasprit Bumrah",
+            "facts": [
+              {
+                "url": "/read/en/icc_champions_trophy",
+                "contentUrl": "/static/content/en/icc_champions_trophy.json",
+                "label": "ICC Champions Trophy",
+                "id": "phase_fact_fact_icc_champions_trophy",
+                "value": {
+                  "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
+                  "image": {
+                    "url": "/static/images/master/ICC_Champions_Trophy_cricket_logo.png",
+                    "altText": "Image of ICC Champions Trophy"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
           "label": "IPL Debut",
           "id": "phase_ipl_debut",
           "note": "2009",
@@ -140,7 +204,7 @@
                 "label": "Royal Challengers Bangalore",
                 "id": "phase_fact_fact_royal_challengers_bangalore",
                 "value": {
-                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
+                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL).",
                   "image": {
                     "url": "/static/images/master/Royal_Challengers_Bangalore_Logo_2016.svg",
                     "altText": "Image of Royal Challengers Bangalore"
@@ -162,7 +226,7 @@
           "value": {
             "label": "Kumar is the first bowler to dismiss Sachin Tendulkar for a duck in first-class domestic cricket.",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Bhuvneshwar_Kumar.jpg",
               "altText": "Kumar is the first bowler to dismiss Sachin Tendulkar for a duck in first-class domestic cricket."
             }
           }
@@ -218,8 +282,8 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Indian national cricket team (2012 - present)",
-          "id": "team_fact_indian_national_cricket_team_2012 - present",
+          "label": "India National Cricket team (2012 - present)",
+          "id": "team_fact_india_national_cricket_team_2012 - present",
           "value": {
             "label": "",
             "facts": [
@@ -231,7 +295,7 @@
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of India national cricket team"
                   }
                 }
@@ -251,7 +315,7 @@
                 "url": "/read/en/sunrisers_hyderabad",
                 "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
                 "value": {
-                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
+                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL).",
                   "image": {
                     "url": "/static/images/master/Sunrisers_Hyderabad.svg",
                     "altText": "Picture of Sunrisers Hyderabad"

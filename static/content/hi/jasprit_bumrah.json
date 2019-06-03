@@ -1,0 +1,272 @@
+{
+  "title": "जसप्रीत बुमराह\n",
+  "wikipediaUrl": "",
+  "coverImage": {
+    "url": "/static/images/master/Bowling_shadow_figure.png",
+    "altText": "Image of जसप्रीत बुमराह\n"
+  },
+  "summary": "जसप्रीत बुमराह एक भारतीय क्रिकेटर हैं जो भारतीय राष्ट्रीय क्रिकेट टीम के लिए खेलते हैं.",
+  "translations": [
+    {
+      "lang": "en",
+      "title": "Jasprit Bumrah",
+      "url": "/read/en/jasprit_bumrah"
+    },
+    {
+      "lang": "ta",
+      "title": "ஜஸ்பிரித் பும்ரா",
+      "url": "/read/ta/jasprit_bumrah"
+    }
+  ],
+  "sections": [
+    {
+      "title": "इनके बारे में",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "पूरा नाम",
+          "value": {
+            "label": "जसप्रीत जसबीरसिंह बुमराह\n"
+          }
+        },
+        {
+          "label": "जन्मतिथि",
+          "value": {
+            "label": "06 Dec 1993 (आयु 25)"
+          }
+        },
+        {
+          "label": "जन्मस्थान",
+          "value": {
+            "label": "अहमदाबाद, भारत",
+            "url": "https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%B9%E0%A4%AE%E0%A4%A6%E0%A4%BE%E0%A4%AC%E0%A4%BE%E0%A4%A6",
+            "contentUrl": "/static/content/hi/ahmedabad.json"
+          }
+        },
+        {
+          "label": "ऊंचाई",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "राष्ट्रीयता",
+          "value": {
+            "label": "भारतीय "
+          }
+        },
+        {
+          "label": "भूमिका",
+          "value": {
+            "label": "गेंदबाज "
+          }
+        }
+      ]
+    },
+    {
+      "title": "खेलने की शैली",
+      "id": "style_of_play",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "बुमराह दाएं हाथ के तेज गेंदबाज हैं, जो लगातार 140-145 किमी प्रति घंटे की रफ्तार से गेंदबाजी करते हैं और भारत के सबसे तेज गेंदबाजों में से एक हैं.\n"
+          }
+        }
+      ]
+    },
+    {
+      "title": "दौर",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "प्रथम श्रेणी की शुरुआत",
+          "id": "phase_प्रथम_श्रेणी_की_शुरुआत",
+          "note": "2013",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
+          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
+          "note": "2016",
+          "value": {
+            "label": "बुमराह ने भारत बनाम ऑस्ट्रेलिया के लिए एकदिवसीय मैच खेलकर अंतरराष्ट्रीय स्तर पर अपनी शुरुआत की\n",
+            "facts": [
+              {
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
+                "label": "ऑस्ट्रेलिया क्रिकेट टीम",
+                "id": "phase_fact_fact_ऑस्ट्रेलिया_क्रिकेट_टीम",
+                "value": {
+                  "label": "ऑस्ट्रेलिया की राष्ट्रीय क्रिकेट टीम टेस्ट क्रिकेट इतिहास की संयुक्त सबसे पुरानी टीम है, जिसने 1877 में पहली बार टेस्ट मैच खेला था।",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Image of ऑस्ट्रेलिया क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "आईसीसी टूर्नामेंट में प्रथम प्रवेश",
+          "id": "phase_आईसीसी_टूर्नामेंट_में_प्रथम_प्रवेश",
+          "note": "2017",
+          "value": {
+            "label": "चैंपियंस ट्रॉफी 2017 के फाइनल में, बुमराह ने एक नो-बॉल फेंकी, जो अंत में एक शतक बनाने वाले बल्लेबाज का विकेट हो सकता था, जिसने विपक्षी को मैच जीतने में मदद की."
+          }
+        },
+        {
+          "label": "आईपीएल में प्रथम प्रवेश",
+          "id": "phase_आईपीएल_में_प्रथम_प्रवेश",
+          "note": "2013",
+          "value": {
+            "label": "आरसीबी के खिलाफ इंडियन प्रीमियर लीग के अपने पहले मैच में बुमराह ने 3 विकेट लिए\n",
+            "facts": [
+              {
+                "url": "/read/hi/mumbai_indians",
+                "contentUrl": "/static/content/hi/mumbai_indians.json",
+                "label": "मुंबई इंडियंस",
+                "id": "phase_fact_fact_मुंबई_इंडियंस",
+                "value": {
+                  "label": "मुंबई इंडियंस एक फ्रैंचाइज़ी क्रिकेट टीम है जो मुंबई शहर, महाराष्ट्र में स्थित है। 2008 में स्थापित मुंबई इंडियंस इंडियन प्रीमियर लीग (आईपीएल) में खेलती है। टीम का स्वामित्व भारत के सबसे बड़े समूह रिलायंस इंडस्ट्रीज के पास है।",
+                  "image": {
+                    "url": "/static/images/master/Mumbai_Indians_Logo.svg",
+                    "altText": "Image of मुंबई इंडियंस"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "उपलब्धि और रिकॉर्ड",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "बुमराह एक ही कैलेंडर वर्ष के दौरान दक्षिण अफ्रीका, इंग्लैंड और ऑस्ट्रेलिया में एक टेस्ट पारी में 5 विकेट लेने वाले पहले एशियाई गेंदबाज हैं\n",
+            "image": {
+              "url": "/static/images/master/England_v_India2C_Trent_Bridge_284418010225129.jpg",
+              "altText": "बुमराह एक ही कैलेंडर वर्ष के दौरान दक्षिण अफ्रीका, इंग्लैंड और ऑस्ट्रेलिया में एक टेस्ट पारी में 5 विकेट लेने वाले पहले एशियाई गेंदबाज हैं\n",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "बुमराह अपने पदार्पण वर्ष में टेस्ट मैचों में तीसरे सबसे अधिक विकेट लेने वाले गेंदबाज हैं, जिन्होंने 9 मैचों में 48 विकेट लिए हैं\n",
+            "image": {
+              "url": "",
+              "altText": "बुमराह अपने पदार्पण वर्ष में टेस्ट मैचों में तीसरे सबसे अधिक विकेट लेने वाले गेंदबाज हैं, जिन्होंने 9 मैचों में 48 विकेट लिए हैं\n"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "अपने प्रथम श्रेणी डेब्यू मैच में, बुमराह ने विदर्भ के खिलाफ गुजरात के लिए खेलते हुए 7 विकेट लिए\n",
+            "image": {
+              "url": "",
+              "altText": "अपने प्रथम श्रेणी डेब्यू मैच में, बुमराह ने विदर्भ के खिलाफ गुजरात के लिए खेलते हुए 7 विकेट लिए\n"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "टीमें",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "भारतीय राष्ट्रीय क्रिकेट टीम  (2016 से अब तक)",
+          "id": "team_fact_भारतीय_राष्ट्रीय_क्रिकेट_टीम_2016 से अब तक",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "भारत की राष्ट्रीय क्रिकेट टीम",
+                "id": "team_fact_fact_भारत_की_राष्ट्रीय_क्रिकेट_टीम",
+                "url": "/read/hi/india_national_cricket_team",
+                "contentUrl": "/static/content/hi/india_national_cricket_team.json",
+                "value": {
+                  "label": "भारत की राष्ट्रीय क्रिकेट टीम को टीम इंडिया और मेन इन ब्लू के नाम से भी जाना जाता है। भारत को टेस्ट में पहला, वनडे में दूसरा और आईसीसी द्वारा टी20 में दूसरा स्थान मिला है। विराट कोहली टीम के वर्तमान कप्तान हैं जबकि मुख्य कोच रवि शास्त्री हैं।",
+                  "image": {
+                    "url": "/static/images/master/Flagcricket.jpg",
+                    "altText": "Picture of भारत की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "मुंबई इंडियंस (2013 से अब तक)",
+          "id": "team_fact_मुंबई_इंडियंस_2013 से अब तक",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "मुंबई इंडियंस",
+                "id": "team_fact_fact_मुंबई_इंडियंस",
+                "url": "/read/hi/mumbai_indians",
+                "contentUrl": "/static/content/hi/mumbai_indians.json",
+                "value": {
+                  "label": "मुंबई इंडियंस एक फ्रैंचाइज़ी क्रिकेट टीम है जो मुंबई शहर, महाराष्ट्र में स्थित है। 2008 में स्थापित मुंबई इंडियंस इंडियन प्रीमियर लीग (आईपीएल) में खेलती है। टीम का स्वामित्व भारत के सबसे बड़े समूह रिलायंस इंडस्ट्रीज के पास है।",
+                  "image": {
+                    "url": "/static/images/master/Mumbai_Indians_Logo.svg",
+                    "altText": "Picture of मुंबई इंडियंस"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "गुजरात (2012 से अब तक)",
+          "id": "team_fact_गुजरात_2012 से अब तक",
+          "value": {
+            "label": "गुजरात क्रिकेट टीम गुजरात राज्य का प्रतिनिधित्व करने वाली तीन रणजी ट्रॉफी क्रिकेट टीमों में से एक है"
+          }
+        }
+      ]
+    },
+    {
+      "title": "पुरस्कार और सम्मान",
+      "cardType": "tag_card",
+      "facts": []
+    }
+  ]
+}

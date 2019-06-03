@@ -1,6 +1,6 @@
 {
   "title": "कपिल देव",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kapil_Dev",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%AA%E0%A4%BF%E0%A4%B2%E0%A4%A6%E0%A5%87%E0%A4%B5",
   "coverImage": {
     "url": "/static/images/master/Kapil_Dev_at_Equation_sports_auction.jpg",
     "altText": "Image of कपिल देव"
@@ -39,7 +39,8 @@
           "label": "जन्मस्थान",
           "value": {
             "label": "चंडीगढ़, भारत",
-            "url": "https://en.wikipedia.org/wiki/Chandigarh"
+            "url": "https://hi.wikipedia.org/wiki/%E0%A4%9A%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A5%80%E0%A4%97%E0%A4%A2%E0%A4%BC",
+            "contentUrl": "/static/content/hi/chandigarh.json"
           }
         },
         {
@@ -104,8 +105,8 @@
           }
         },
         {
-          "label": "राष्ट्रीय टीम ",
-          "id": "phase_राष्ट्रीय_टीम",
+          "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
+          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
           "note": "1978",
           "value": {
             "label": "पाकिस्तान के विरुद्ध वनडे क्रिकेट में पदार्पण किया जहां उनका व्यक्तिगत प्रदर्शन मामूली रहा। ",
@@ -131,7 +132,22 @@
           "id": "phase_विश्व_कप",
           "note": "1979",
           "value": {
-            "label": "1979 के विश्व कप क्रिकेट में कपिलदेव और भारतीय टीम दोनों का प्रदर्शन कमजोर रहा। "
+            "label": "1979 के विश्व कप क्रिकेट में कपिलदेव और भारतीय टीम दोनों का प्रदर्शन कमजोर रहा। ",
+            "facts": [
+              {
+                "url": "/read/hi/1979_cricket_world_cup",
+                "contentUrl": "/static/content/hi/1979_cricket_world_cup.json",
+                "label": "1979 क्रिकेट विश्व कप",
+                "id": "phase_fact_fact_1979_क्रिकेट_विश्व_कप",
+                "value": {
+                  "label": "1979 क्रिकेट विश्व कप (आधिकारिक रूप से प्रूडेंशियल कप '79) क्रिकेट विश्व कप का दूसरा संस्करण था और इसे वेस्टइंडीज ने जीता था जिसने चार साल पहले वाला उद्घाटन टूर्नामेंट भी जीता था। यह इंग्लैंड में 9 से 23 जून 1979 तक आयोजित किया गया था।",
+                  "image": {
+                    "url": "/static/images/master/Prudential_Cup_79_logo.svg",
+                    "altText": "Image of 1979 क्रिकेट विश्व कप"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -162,7 +178,22 @@
           "id": "phase_विश्व_कप",
           "note": "1987",
           "value": {
-            "label": "1987 के विश्व कप के लिए कपिलदेव को भारतीय टीम का कप्तान बरकरार रखा गया। "
+            "label": "1987 के विश्व कप के लिए कपिलदेव को भारतीय टीम का कप्तान बरकरार रखा गया। ",
+            "facts": [
+              {
+                "url": "/read/hi/1987_cricket_world_cup",
+                "contentUrl": "/static/content/hi/1987_cricket_world_cup.json",
+                "label": "1987 क्रिकेट विश्व कप",
+                "id": "phase_fact_fact_1987_क्रिकेट_विश्व_कप",
+                "value": {
+                  "label": "1987 क्रिकेट विश्व कप (जिसे प्रायोजक के कारण रिलायंस कप 1987 के नाम से जाना जाता है) आईसीसी क्रिकेट विश्व कप टूर्नामेंट का चौथा संस्करण था। यह भारत और पाकिस्तान में 8 अक्टूबर से 8 नवंबर 1987 तक आयोजित किया गया था।",
+                  "image": {
+                    "url": "/static/images/master/Worldcup1987.jpg",
+                    "altText": "Image of 1987 क्रिकेट विश्व कप"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -170,7 +201,22 @@
           "id": "phase_विश्व_कप",
           "note": "कपिलदेव ने अपना आखिरी विश्व कप मोहमद अजहरुद्दीन की कप्तानी में 1992 में खेला। ",
           "value": {
-            "label": "विश्व कप "
+            "label": "विश्व कप ",
+            "facts": [
+              {
+                "url": "/read/hi/1992_cricket_world_cup",
+                "contentUrl": "/static/content/hi/1992_cricket_world_cup.json",
+                "label": "1992 क्रिकेट विश्व कप",
+                "id": "phase_fact_fact_1992_क्रिकेट_विश्व_कप",
+                "value": {
+                  "label": "1992 क्रिकेट विश्व कप (आधिकारिक तौर पर बेंसन एंड हेजेस विश्व कप 1992) क्रिकेट विश्व कप का पांचवा टूर्नामेंट था, जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया गया था। यह 22 फरवरी से 25 मार्च 1992 तक ऑस्ट्रेलिया और न्यूजीलैंड में आयोजित किया गया था और फाइनल में इंग्लैंड को हराकर पाकिस्तान पहली बार विश्व कप चैंपियन बना था।",
+                  "image": {
+                    "url": "/static/images/master/World_Cup_1992_logo.svg",
+                    "altText": "Image of 1992 क्रिकेट विश्व कप"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -193,7 +239,7 @@
           "value": {
             "label": "फ़िरोज़ शाह कोटला, दिल्ली में पहला टेस्ट शतक (126) 1979 में वेस्टइंडीज़ के खिलाफ केवल 124 गेंदों में बना था।",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Kapil_Dev_at_Equation_sports_auction.jpg",
               "altText": "फ़िरोज़ शाह कोटला, दिल्ली में पहला टेस्ट शतक (126) 1979 में वेस्टइंडीज़ के खिलाफ केवल 124 गेंदों में बना था।"
             }
           }
@@ -204,8 +250,9 @@
           "value": {
             "label": "1980 की एक घरेलू टेस्ट सीरीज़ में ऑस्ट्रेलिया के खिलाफ दो बार 5 विकेट लिए",
             "image": {
-              "url": "",
-              "altText": "1980 की एक घरेलू टेस्ट सीरीज़ में ऑस्ट्रेलिया के खिलाफ दो बार 5 विकेट लिए"
+              "url": "/static/images/master/Kapil_Dev_for_a_cricket_show_for_Aajtak.jpg",
+              "altText": "1980 की एक घरेलू टेस्ट सीरीज़ में ऑस्ट्रेलिया के खिलाफ दो बार 5 विकेट लिए",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
             }
           }
         },
@@ -215,8 +262,9 @@
           "value": {
             "label": "1982-83 में श्रीलंका खिलाफ़ पहली बार भारत की कप्तानी की।",
             "image": {
-              "url": "",
-              "altText": "1982-83 में श्रीलंका खिलाफ़ पहली बार भारत की कप्तानी की।"
+              "url": "/static/images/master/Kapil_dev_cropped.jpg",
+              "altText": "1982-83 में श्रीलंका खिलाफ़ पहली बार भारत की कप्तानी की।",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
             }
           }
         },
@@ -226,8 +274,9 @@
           "value": {
             "label": "1983 के विश्व कप में जिम्बाब्वे के खिलाफ़ नाबाद 175 रन का सर्वोच्च वनडे स्कोर बनाया",
             "image": {
-              "url": "",
-              "altText": "1983 के विश्व कप में जिम्बाब्वे के खिलाफ़ नाबाद 175 रन का सर्वोच्च वनडे स्कोर बनाया"
+              "url": "/static/images/master/The_former_Indian_Cricket2C_Shri_Kapil_Dev_holding_the_Queen60s_Baton_on_the_occasion_of_the_launching_ceremony_of_the_Queens_Baton_Relay2C_in_London_on_October_292C_2009.jpg",
+              "altText": "1983 के विश्व कप में जिम्बाब्वे के खिलाफ़ नाबाद 175 रन का सर्वोच्च वनडे स्कोर बनाया",
+              "license": "<p><i></i><div lang=\"en\" class=\"description en\" style=\"display:inline;\"><i>This file is a copyrighted work of the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.india.gov.in/\">Government of India</a></b>, licensed under the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf\">Government Open Data License - India (GODL)</a></b>.</i>\n<p>Following the mandate of the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://data.gov.in/sites/default/files/NDSAP.pdf\">National Data Sharing and Accessibility Policy (NDSAP) of Government of India</a></b> that\napplies to all shareable non-sensitive data available either in digital or analog forms but generated using public funds by\nvarious agencies of the Government of India, all users are provided a worldwide, royalty-free, non-exclusive license to <b>use, adapt, publish</b> (either in original, or in adapted and/or derivative forms), translate, display, add value, and create derivative works (including products and services), for all lawful <b>commercial and non-commercial purposes</b>, and for the duration of existence of such rights over the data or information. \n</p><p>The user must acknowledge the provider, source, and license of data by explicitly publishing the <b>attribution statement</b>, including the DOI (Digital Object Identifier), or the URL (Uniform Resource Locator), or the URI (Uniform Resource Identifier) of the data concerned. \n</p><p>The user must not indicate or suggest in any manner that the data provider(s) endorses their use and/or the user. \nThe data provider(s) are not liable for any errors or omissions, and will not under any circumstances be liable for any loss, injury or damage caused by its use.  \n</p><p>The data provider(s) do not guarantee the continued supply of updated or up-to-date versions of the data, and will not be held liable in case the continued supply of updated data is not provided. \n</p><p><b>Exemptions:</b> The license does not cover the following kinds of data: a. personal information; b. data that is non-shareable and/or sensitive; c. names, crests, logos and other official symbols of the data provider(s); d. data subject to other intellectual property rights, including patents, trade-marks and official marks; e. military insignia; f. identity documents; and g. any data that should not have been publicly disclosed for the grounds provided under section 8 of the <a rel=\"nofollow\" class=\"external text\" href=\"http://rti.gov.in/webactrti.htm\">Right to Information Act, 2005</a>.\n</p><p><span class=\"licensetpl_link\" style=\"display:none;\">https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf</span>\n<span class=\"licensetpl_short\" style=\"display:none;\">GODL-India</span>\n<span class=\"licensetpl_long\" style=\"display:none;\">Government Open Data License &#x2013; India</span>\n<span class=\"licensetpl_link_req\" style=\"display:none;\">true</span>\n</p>\n<span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div><i></i></p><p><b>Attribution: <span style=\"font-size: larger;\" class=\"licensetpl_attr\">Ministry of Youth Affairs and Sports (<a rel=\"nofollow\" class=\"external text\" href=\"https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf\">GODL-India</a>)</span></b></p><p><hr>\n<p><span style=\"font-size:x-small;line-height:140%\" class=\"plainlinks noprint\"><a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/en\">English</a>&#xA0;| <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/fr\">fran&#xE7;ais</a>&#xA0;| <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/ml\">&#xD2E;&#xD32;&#xD2F;&#xD3E;&#xD33;&#xD02;</a>&#xA0;| <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/mr\">&#x92E;&#x930;&#x93E;&#x920;&#x940;</a>&#xA0;| <small class=\"plainlinks\"><a class=\"external text\" href=\"//commons.wikimedia.org/w/index.php?title=Template:GODL-India/lang&amp;action=edit\">+/&#x2212;</a></small></span>\n<span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=GODL-India 1%3DMinistry+of+Youth+Affairs+and+Sports+%28%5Bhttps%3A%2F%2Fdata.gov.in%2Fsites%2Fdefault%2Ffiles%2FGazette_Notification_OGDL.pdf+GODL-India%5D%29\">&#xA0;</span>\n</p></p>"
             }
           }
         },
@@ -262,7 +311,7 @@
                 "value": {
                   "label": "भारत की राष्ट्रीय क्रिकेट टीम को टीम इंडिया और मेन इन ब्लू के नाम से भी जाना जाता है। भारत को टेस्ट में पहला, वनडे में दूसरा और आईसीसी द्वारा टी20 में दूसरा स्थान मिला है। विराट कोहली टीम के वर्तमान कप्तान हैं जबकि मुख्य कोच रवि शास्त्री हैं।",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of भारत की राष्ट्रीय क्रिकेट टीम"
                   }
                 }

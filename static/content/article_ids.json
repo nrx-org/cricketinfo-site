@@ -257,10 +257,14 @@
   {
     "id": "O21",
     "title": {
-      "en": "Ravi Shastri"
+      "en": "Ravi Shastri",
+      "hi": "रवि शास्त्री ",
+      "ta": "ரவி சாஸ்திரி"
     },
     "sourceCsvFile": {
-      "en": "./csv/personalities.en.csv"
+      "en": "./csv/personalities.en.csv",
+      "hi": "./csv/personalities.hi.csv",
+      "ta": "./csv/personalities.ta.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -270,10 +274,14 @@
   {
     "id": "O23",
     "title": {
-      "en": "Gary Kirsten"
+      "en": "Gary Kirsten",
+      "hi": "गैरी कर्स्टन ",
+      "ta": "கேரி கிர்ஸ்டன்"
     },
     "sourceCsvFile": {
-      "en": "./csv/personalities.en.csv"
+      "en": "./csv/personalities.en.csv",
+      "hi": "./csv/personalities.hi.csv",
+      "ta": "./csv/personalities.ta.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -283,10 +291,14 @@
   {
     "id": "O22",
     "title": {
-      "en": "Stephen Fleming"
+      "en": "Stephen Fleming",
+      "hi": "स्टीफन फ्लेमिंग ",
+      "ta": "ஸ்டீபன் பிளெமிங்"
     },
     "sourceCsvFile": {
-      "en": "./csv/personalities.en.csv"
+      "en": "./csv/personalities.en.csv",
+      "hi": "./csv/personalities.hi.csv",
+      "ta": "./csv/personalities.ta.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -296,10 +308,14 @@
   {
     "id": "O25",
     "title": {
-      "en": "Glenn McGrath"
+      "en": "Glenn McGrath",
+      "hi": "ग्लेन मैक्ग्राथ ",
+      "ta": "கிளென் மெக்ராத்"
     },
     "sourceCsvFile": {
-      "en": "./csv/personalities.en.csv"
+      "en": "./csv/personalities.en.csv",
+      "hi": "./csv/personalities.hi.csv",
+      "ta": "./csv/personalities.ta.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -309,10 +325,14 @@
   {
     "id": "O28",
     "title": {
-      "en": "Wasim Akram"
+      "en": "Wasim Akram",
+      "hi": "वसीम अकरम ",
+      "ta": "வாஸிம் அக்ரம்"
     },
     "sourceCsvFile": {
-      "en": "./csv/personalities.en.csv"
+      "en": "./csv/personalities.en.csv",
+      "hi": "./csv/personalities.hi.csv",
+      "ta": "./csv/personalities.ta.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -322,10 +342,14 @@
   {
     "id": "O29",
     "title": {
-      "en": "AB de Villiers"
+      "en": "AB de Villiers",
+      "hi": "एबी डिविलियर्स ",
+      "ta": "ஏபி டி வில்லியர்ஸ்"
     },
     "sourceCsvFile": {
-      "en": "./csv/personalities.en.csv"
+      "en": "./csv/personalities.en.csv",
+      "hi": "./csv/personalities.hi.csv",
+      "ta": "./csv/personalities.ta.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -335,10 +359,14 @@
   {
     "id": "O10",
     "title": {
-      "en": "Hardik Pandya"
+      "en": "Hardik Pandya",
+      "hi": "हार्दिक पंड्या\n",
+      "ta": "ஹர்த்திக் பாண்டியா"
     },
     "sourceCsvFile": {
-      "en": "./csv/personalities.en.csv"
+      "en": "./csv/personalities.en.csv",
+      "hi": "./csv/personalities.hi.csv",
+      "ta": "./csv/personalities.ta.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -348,10 +376,14 @@
   {
     "id": "O11",
     "title": {
-      "en": "Jasprit Bumrah"
+      "en": "Jasprit Bumrah",
+      "hi": "जसप्रीत बुमराह\n",
+      "ta": "ஜஸ்பிரித் பும்ரா"
     },
     "sourceCsvFile": {
-      "en": "./csv/personalities.en.csv"
+      "en": "./csv/personalities.en.csv",
+      "hi": "./csv/personalities.hi.csv",
+      "ta": "./csv/personalities.ta.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -361,10 +393,14 @@
   {
     "id": "O12",
     "title": {
-      "en": "Kedar Jadhav"
+      "en": "Kedar Jadhav",
+      "hi": "केदार जाधव",
+      "ta": "கேதர் ஜாதவ்"
     },
     "sourceCsvFile": {
-      "en": "./csv/personalities.en.csv"
+      "en": "./csv/personalities.en.csv",
+      "hi": "./csv/personalities.hi.csv",
+      "ta": "./csv/personalities.ta.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -374,10 +410,14 @@
   {
     "id": "O14",
     "title": {
-      "en": "Kuldeep Yadav"
+      "en": "Kuldeep Yadav",
+      "hi": "कुलदीप यादव",
+      "ta": "குல்தீப் யாதவ்"
     },
     "sourceCsvFile": {
-      "en": "./csv/personalities.en.csv"
+      "en": "./csv/personalities.en.csv",
+      "hi": "./csv/personalities.hi.csv",
+      "ta": "./csv/personalities.ta.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -387,10 +427,14 @@
   {
     "id": "O15",
     "title": {
-      "en": "Bhuvneshwar Kumar"
+      "en": "Bhuvneshwar Kumar",
+      "hi": "भुवनेश्वर कुमार",
+      "ta": "புவனேஸ்வர் குமார்"
     },
     "sourceCsvFile": {
-      "en": "./csv/personalities.en.csv"
+      "en": "./csv/personalities.en.csv",
+      "hi": "./csv/personalities.hi.csv",
+      "ta": "./csv/personalities.ta.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -400,10 +444,14 @@
   {
     "id": "O17",
     "title": {
-      "en": "Mohammed Shami"
+      "en": "Mohammed Shami",
+      "hi": "मुहम्मद शमी",
+      "ta": "முகம்மது ஷமி"
     },
     "sourceCsvFile": {
-      "en": "./csv/personalities.en.csv"
+      "en": "./csv/personalities.en.csv",
+      "hi": "./csv/personalities.hi.csv",
+      "ta": "./csv/personalities.ta.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -413,10 +461,14 @@
   {
     "id": "O16",
     "title": {
-      "en": "Ajinkya Rahane"
+      "en": "Ajinkya Rahane",
+      "hi": "अजिंक्य रहाणे ",
+      "ta": "அஜிங்கியா ரஹானே"
     },
     "sourceCsvFile": {
-      "en": "./csv/personalities.en.csv"
+      "en": "./csv/personalities.en.csv",
+      "hi": "./csv/personalities.hi.csv",
+      "ta": "./csv/personalities.ta.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -426,10 +478,14 @@
   {
     "id": "O18",
     "title": {
-      "en": "K L Rahul"
+      "en": "K L Rahul",
+      "hi": "के एल राहुल",
+      "ta": "கே எல் ராகுல்"
     },
     "sourceCsvFile": {
-      "en": "./csv/personalities.en.csv"
+      "en": "./csv/personalities.en.csv",
+      "hi": "./csv/personalities.hi.csv",
+      "ta": "./csv/personalities.ta.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -439,10 +495,14 @@
   {
     "id": "O19",
     "title": {
-      "en": "Dinesh Karthik"
+      "en": "Dinesh Karthik",
+      "hi": "दिनेश कार्तिक ",
+      "ta": "தினேஷ் கார்த்திக்"
     },
     "sourceCsvFile": {
-      "en": "./csv/personalities.en.csv"
+      "en": "./csv/personalities.en.csv",
+      "hi": "./csv/personalities.hi.csv",
+      "ta": "./csv/personalities.ta.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -452,10 +512,14 @@
   {
     "id": "O20",
     "title": {
-      "en": "Ravindra Jadeja"
+      "en": "Ravindra Jadeja",
+      "hi": "रवींद्र जडेजा ",
+      "ta": "ரவீந்திர ஜடேஜா"
     },
     "sourceCsvFile": {
-      "en": "./csv/personalities.en.csv"
+      "en": "./csv/personalities.en.csv",
+      "hi": "./csv/personalities.hi.csv",
+      "ta": "./csv/personalities.ta.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -465,10 +529,14 @@
   {
     "id": "O24",
     "title": {
-      "en": "Mahela Jayawardene"
+      "en": "Mahela Jayawardene",
+      "hi": "महेला जयवर्धने ",
+      "ta": "மஹெல ஜெயவர்தனே"
     },
     "sourceCsvFile": {
-      "en": "./csv/personalities.en.csv"
+      "en": "./csv/personalities.en.csv",
+      "hi": "./csv/personalities.hi.csv",
+      "ta": "./csv/personalities.ta.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -478,10 +546,14 @@
   {
     "id": "O26",
     "title": {
-      "en": "David Warner"
+      "en": "David Warner",
+      "hi": "डेविड वॉर्नर",
+      "ta": "டேவிட் வார்னர்"
     },
     "sourceCsvFile": {
-      "en": "./csv/personalities.en.csv"
+      "en": "./csv/personalities.en.csv",
+      "hi": "./csv/personalities.hi.csv",
+      "ta": "./csv/personalities.ta.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -491,10 +563,14 @@
   {
     "id": "O27",
     "title": {
-      "en": "Chris Gayle"
+      "en": "Chris Gayle",
+      "hi": "क्रिस गेल",
+      "ta": "கிறிஸ் கெய்ல்"
     },
     "sourceCsvFile": {
-      "en": "./csv/personalities.en.csv"
+      "en": "./csv/personalities.en.csv",
+      "hi": "./csv/personalities.hi.csv",
+      "ta": "./csv/personalities.ta.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -504,10 +580,14 @@
   {
     "id": "O30",
     "title": {
-      "en": "Kane Williamson"
+      "en": "Kane Williamson",
+      "hi": "केन विलियमसन",
+      "ta": "கேன் வில்லியம்சன்"
     },
     "sourceCsvFile": {
-      "en": "./csv/personalities.en.csv"
+      "en": "./csv/personalities.en.csv",
+      "hi": "./csv/personalities.hi.csv",
+      "ta": "./csv/personalities.ta.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -517,10 +597,14 @@
   {
     "id": "O31",
     "title": {
-      "en": "Ben Stokes"
+      "en": "Ben Stokes",
+      "hi": "बेन स्टोक्स",
+      "ta": "பென் ஸ்டோக்ஸ்"
     },
     "sourceCsvFile": {
-      "en": "./csv/personalities.en.csv"
+      "en": "./csv/personalities.en.csv",
+      "hi": "./csv/personalities.hi.csv",
+      "ta": "./csv/personalities.ta.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -530,10 +614,14 @@
   {
     "id": "O32",
     "title": {
-      "en": "Jos Buttler"
+      "en": "Jos Buttler",
+      "hi": "जोस बटलर",
+      "ta": "ஜோஸ் பட்லர்"
     },
     "sourceCsvFile": {
-      "en": "./csv/personalities.en.csv"
+      "en": "./csv/personalities.en.csv",
+      "hi": "./csv/personalities.hi.csv",
+      "ta": "./csv/personalities.ta.csv"
     },
     "idFieldName": "Article Link ID",
     "titleFieldName": "Name of personality",
@@ -711,6 +799,111 @@
     "imageFieldName": "Header image"
   },
   {
+    "id": "G11",
+    "title": {
+      "en": "Chennai",
+      "hi": "चेन्नई"
+    },
+    "sourceCsvFile": {
+      "en": "./csv/places.en.csv",
+      "hi": "./csv/places.hi.csv"
+    },
+    "idFieldName": "Article Link ID",
+    "titleFieldName": "Name of the place",
+    "descriptionFieldName": "Short summary description of the place",
+    "imageFieldName": "Header image"
+  },
+  {
+    "id": "G12",
+    "title": {
+      "en": "Kolkata",
+      "hi": "कोलकाता"
+    },
+    "sourceCsvFile": {
+      "en": "./csv/places.en.csv",
+      "hi": "./csv/places.hi.csv"
+    },
+    "idFieldName": "Article Link ID",
+    "titleFieldName": "Name of the place",
+    "descriptionFieldName": "Short summary description of the place",
+    "imageFieldName": "Header image"
+  },
+  {
+    "id": "G13",
+    "title": {
+      "en": "Hyderabad",
+      "hi": "हैदराबाद"
+    },
+    "sourceCsvFile": {
+      "en": "./csv/places.en.csv",
+      "hi": "./csv/places.hi.csv"
+    },
+    "idFieldName": "Article Link ID",
+    "titleFieldName": "Name of the place",
+    "descriptionFieldName": "Short summary description of the place",
+    "imageFieldName": "Header image"
+  },
+  {
+    "id": "G15",
+    "title": {
+      "en": "Mohali",
+      "hi": "मोहाली"
+    },
+    "sourceCsvFile": {
+      "en": "./csv/places.en.csv",
+      "hi": "./csv/places.hi.csv"
+    },
+    "idFieldName": "Article Link ID",
+    "titleFieldName": "Name of the place",
+    "descriptionFieldName": "Short summary description of the place",
+    "imageFieldName": "Header image"
+  },
+  {
+    "id": "G17",
+    "title": {
+      "en": "Ranchi",
+      "hi": "रांची"
+    },
+    "sourceCsvFile": {
+      "en": "./csv/places.en.csv",
+      "hi": "./csv/places.hi.csv"
+    },
+    "idFieldName": "Article Link ID",
+    "titleFieldName": "Name of the place",
+    "descriptionFieldName": "Short summary description of the place",
+    "imageFieldName": "Header image"
+  },
+  {
+    "id": "G18",
+    "title": {
+      "en": "Chandigarh",
+      "hi": "चंडीगढ़"
+    },
+    "sourceCsvFile": {
+      "en": "./csv/places.en.csv",
+      "hi": "./csv/places.hi.csv"
+    },
+    "idFieldName": "Article Link ID",
+    "titleFieldName": "Name of the place",
+    "descriptionFieldName": "Short summary description of the place",
+    "imageFieldName": "Header image"
+  },
+  {
+    "id": "G14",
+    "title": {
+      "en": "Jaipur",
+      "hi": "जयपुर"
+    },
+    "sourceCsvFile": {
+      "en": "./csv/places.en.csv",
+      "hi": "./csv/places.hi.csv"
+    },
+    "idFieldName": "Article Link ID",
+    "titleFieldName": "Name of the place",
+    "descriptionFieldName": "Short summary description of the place",
+    "imageFieldName": "Header image"
+  },
+  {
     "id": "R1",
     "title": {
       "en": "India national cricket team",
@@ -781,7 +974,7 @@
   {
     "id": "R2",
     "title": {
-      "en": "Australia Cricket team",
+      "en": "Australia national cricket team",
       "hi": "ऑस्ट्रेलिया क्रिकेट टीम",
       "ta": "ஆஸ்திரேலிய கிரிக்கெட் அணி"
     },
@@ -834,7 +1027,7 @@
     "title": {
       "en": "Pakistan national cricket team",
       "hi": "पाकिस्तान की राष्ट्रीय क्रिकेट टीम ",
-      "ta": "Pakistan national cricket team"
+      "ta": "பாகிஸ்தான் தேசியக் கிரிக்கெட் அணி"
     },
     "sourceCsvFile": {
       "en": "./csv/teams.en.csv",
@@ -851,7 +1044,7 @@
     "title": {
       "en": "Kings XI Punjab",
       "hi": "किंग्स इलेवन पंजाब",
-      "ta": "Kings XI Punjab"
+      "ta": "கிங்ஸ் லெவன் பஞ்சாப்"
     },
     "sourceCsvFile": {
       "en": "./csv/teams.en.csv",
@@ -868,7 +1061,7 @@
     "title": {
       "en": "Kolkata Knight Riders",
       "hi": "कोलकाता नाइट राइडर्स",
-      "ta": "Kolkata Knight Riders"
+      "ta": "கொல்கத்தா நைட் ரைடர்ஸ்"
     },
     "sourceCsvFile": {
       "en": "./csv/teams.en.csv",
@@ -885,7 +1078,7 @@
     "title": {
       "en": "Rajasthan Royals",
       "hi": "राजस्थान रॉयल्स",
-      "ta": "Rajasthan Royals"
+      "ta": "ராஜஸ்தான் ராயல்ஸ்"
     },
     "sourceCsvFile": {
       "en": "./csv/teams.en.csv",
@@ -902,7 +1095,7 @@
     "title": {
       "en": "Sunrisers Hyderabad",
       "hi": "सनराइजर्स हैदराबाद",
-      "ta": "Sunrisers Hyderabad"
+      "ta": "சன்ரைஸர்ஸ் ஹைதராபாத்"
     },
     "sourceCsvFile": {
       "en": "./csv/teams.en.csv",
@@ -919,7 +1112,7 @@
     "title": {
       "en": "Afghanistan national cricket team",
       "hi": "अफगानिस्तान की राष्ट्रीय क्रिकेट टीम",
-      "ta": "Afghanistan national cricket team"
+      "ta": "ஆப்கானிஸ்தான் தேசியக் கிரிக்கெட் அணி"
     },
     "sourceCsvFile": {
       "en": "./csv/teams.en.csv",
@@ -936,7 +1129,7 @@
     "title": {
       "en": "Bangladesh national cricket team",
       "hi": "बांग्लादेश की राष्ट्रीय क्रिकेट टीम",
-      "ta": "Bangladesh national cricket team"
+      "ta": "வங்காளதேசக் தேசியக் கிரிக்கெட் அணி"
     },
     "sourceCsvFile": {
       "en": "./csv/teams.en.csv",
@@ -953,7 +1146,7 @@
     "title": {
       "en": "Sri Lanka national cricket team",
       "hi": "श्रीलंका की राष्ट्रीय क्रिकेट टीम",
-      "ta": "Sri Lanka national cricket team"
+      "ta": "இலங்கை தேசியக் கிரிக்கெட் அணி"
     },
     "sourceCsvFile": {
       "en": "./csv/teams.en.csv",
@@ -970,7 +1163,7 @@
     "title": {
       "en": "South Africa national cricket team",
       "hi": "दक्षिण अफ्रीका की राष्ट्रीय क्रिकेट टीम",
-      "ta": "South Africa national cricket team"
+      "ta": "தென்னாப்பிரிக்கா தேசியக் கிரிக்கெட் அணி"
     },
     "sourceCsvFile": {
       "en": "./csv/teams.en.csv",
@@ -987,7 +1180,7 @@
     "title": {
       "en": "New Zealand national cricket team",
       "hi": "न्यूजीलैंड की राष्ट्रीय क्रिकेट टीम",
-      "ta": "New Zealand national cricket team"
+      "ta": "நியூசிலாந்து தேசியக் கிரிக்கெட் அணி"
     },
     "sourceCsvFile": {
       "en": "./csv/teams.en.csv",
@@ -1004,7 +1197,7 @@
     "title": {
       "en": "Delhi Capitals",
       "hi": "देल्ही कैपिटल्स",
-      "ta": "Delhi Capitals"
+      "ta": "டெல்லி கேபிடல்ஸ்"
     },
     "sourceCsvFile": {
       "en": "./csv/teams.en.csv",
@@ -1208,7 +1401,7 @@
     "title": {
       "en": "1987 Cricket World Cup",
       "hi": "1987 क्रिकेट विश्व कप",
-      "ta": "1987 Cricket World Cup"
+      "ta": "1987 கிரிக்கெட் உலகக் கோப்பை"
     },
     "sourceCsvFile": {
       "en": "./csv/events_individual.en.csv",
@@ -1225,7 +1418,7 @@
     "title": {
       "en": "1992 Cricket World Cup",
       "hi": "1992 क्रिकेट विश्व कप",
-      "ta": "1992 Cricket World Cup"
+      "ta": "1992 கிரிக்கெட் உலகக் கோப்பை"
     },
     "sourceCsvFile": {
       "en": "./csv/events_individual.en.csv",
@@ -1242,7 +1435,7 @@
     "title": {
       "en": "2019 Cricket World Cup",
       "hi": "2019 क्रिकेट विश्व कप",
-      "ta": "2019 Cricket World Cup"
+      "ta": "2019 கிரிக்கெட் உலகக் கோப்பை"
     },
     "sourceCsvFile": {
       "en": "./csv/events_individual.en.csv",
@@ -1259,7 +1452,7 @@
     "title": {
       "en": "1975 Cricket World Cup",
       "hi": "1975 क्रिकेट विश्व कप",
-      "ta": "1975 Cricket World Cup"
+      "ta": "1975 கிரிக்கெட் உலகக் கோப்பை"
     },
     "sourceCsvFile": {
       "en": "./csv/events_individual.en.csv",
@@ -1276,7 +1469,7 @@
     "title": {
       "en": "1979 Cricket World Cup",
       "hi": "1979 क्रिकेट विश्व कप",
-      "ta": "1979 Cricket World Cup"
+      "ta": "1979 கிரிக்கெட் உலகக் கோப்பை"
     },
     "sourceCsvFile": {
       "en": "./csv/events_individual.en.csv",
@@ -1293,7 +1486,7 @@
     "title": {
       "en": "2008 Indian Premier League",
       "hi": "2008 इंडियन प्रीमियर लीग",
-      "ta": "2008 Indian Premier League"
+      "ta": "2008 இந்தியன் பிரீமியர் லீக்"
     },
     "sourceCsvFile": {
       "en": "./csv/events_individual.en.csv",
@@ -1310,7 +1503,7 @@
     "title": {
       "en": "2009 Indian Premier League",
       "hi": "2009 इंडियन प्रीमियर लीग",
-      "ta": "2009 Indian Premier League"
+      "ta": "2009 இந்தியன் பிரீமியர் லீக்"
     },
     "sourceCsvFile": {
       "en": "./csv/events_individual.en.csv",
@@ -1327,7 +1520,7 @@
     "title": {
       "en": "2012 Indian Premier League",
       "hi": "2012 इंडियन प्रीमियर लीग",
-      "ta": "2012 Indian Premier League"
+      "ta": "2012 இந்தியன் பிரீமியர் லீக்"
     },
     "sourceCsvFile": {
       "en": "./csv/events_individual.en.csv",
@@ -1344,7 +1537,7 @@
     "title": {
       "en": "2013 Indian Premier League",
       "hi": "2013 इंडियन प्रीमियर लीग",
-      "ta": "2013 Indian Premier League"
+      "ta": "2013 இந்தியன் பிரீமியர் லீக்"
     },
     "sourceCsvFile": {
       "en": "./csv/events_individual.en.csv",
@@ -1361,7 +1554,7 @@
     "title": {
       "en": "2014 Indian Premier League",
       "hi": "2014 इंडियन प्रीमियर लीग",
-      "ta": "2014 Indian Premier League"
+      "ta": "2014 இந்தியன் பிரீமியர் லீக்"
     },
     "sourceCsvFile": {
       "en": "./csv/events_individual.en.csv",
@@ -1378,7 +1571,7 @@
     "title": {
       "en": "2015 Indian Premier League",
       "hi": "2015 इंडियन प्रीमियर लीग",
-      "ta": "2015 Indian Premier League"
+      "ta": "2015 இந்தியன் பிரீமியர் லீக்"
     },
     "sourceCsvFile": {
       "en": "./csv/events_individual.en.csv",
@@ -1395,7 +1588,7 @@
     "title": {
       "en": "2018 Indian Premier League",
       "hi": "2018 इंडियन प्रीमियर लीग",
-      "ta": "2018 Indian Premier League"
+      "ta": "2018 இந்தியன் பிரீமியர் லீக்"
     },
     "sourceCsvFile": {
       "en": "./csv/events_individual.en.csv",
@@ -1792,6 +1985,19 @@
       "en": "./csv/bottom_sheets.en.csv",
       "hi": "./csv/bottom_sheets.hi.csv",
       "ta": "./csv/bottom_sheets.ta.csv"
+    },
+    "idFieldName": "No",
+    "titleFieldName": "Title",
+    "descriptionFieldName": "Short description",
+    "imageFieldName": "Image Link"
+  },
+  {
+    "id": "SF20",
+    "title": {
+      "en": "Ranji Trophy"
+    },
+    "sourceCsvFile": {
+      "en": "./csv/bottom_sheets.en.csv"
     },
     "idFieldName": "No",
     "titleFieldName": "Title",
@@ -3125,18 +3331,84 @@
     "imageFieldName": "Image Link"
   },
   {
+    "id": "SF101",
+    "title": {
+      "en": "Batsman",
+      "hi": "बल्लेबाज़ी",
+      "ta": "பேட்ஸ்மேன் "
+    },
+    "sourceCsvFile": {
+      "en": "./csv/bottom_sheets.en.csv",
+      "hi": "./csv/bottom_sheets.hi.csv",
+      "ta": "./csv/bottom_sheets.ta.csv"
+    },
+    "idFieldName": "No",
+    "titleFieldName": "Title",
+    "descriptionFieldName": "Short description",
+    "imageFieldName": "Image Link"
+  },
+  {
+    "id": "SF102",
+    "title": {
+      "en": "All- Rounder",
+      "hi": "हरफनमौला (ऑल-राउण्डर)\n",
+      "ta": "ஆல் ரவுண்டர் "
+    },
+    "sourceCsvFile": {
+      "en": "./csv/bottom_sheets.en.csv",
+      "hi": "./csv/bottom_sheets.hi.csv",
+      "ta": "./csv/bottom_sheets.ta.csv"
+    },
+    "idFieldName": "No",
+    "titleFieldName": "Title",
+    "descriptionFieldName": "Short description",
+    "imageFieldName": "Image Link"
+  },
+  {
+    "id": "SF103",
+    "title": {
+      "en": "Bowling",
+      "hi": "गेंदबाजी",
+      "ta": "பந்து வீச்சாளர் "
+    },
+    "sourceCsvFile": {
+      "en": "./csv/bottom_sheets.en.csv",
+      "hi": "./csv/bottom_sheets.hi.csv",
+      "ta": "./csv/bottom_sheets.ta.csv"
+    },
+    "idFieldName": "No",
+    "titleFieldName": "Title",
+    "descriptionFieldName": "Short description",
+    "imageFieldName": "Image Link"
+  },
+  {
+    "id": "SF104",
+    "title": {
+      "en": "Wicket keeper",
+      "hi": "Wicket keeper",
+      "ta": "விக்கெட் கீப்பர்"
+    },
+    "sourceCsvFile": {
+      "en": "./csv/bottom_sheets.en.csv",
+      "hi": "./csv/bottom_sheets.hi.csv",
+      "ta": "./csv/bottom_sheets.ta.csv"
+    },
+    "idFieldName": "No",
+    "titleFieldName": "Title",
+    "descriptionFieldName": "Short description",
+    "imageFieldName": "Image Link"
+  },
+  {
     "id": "",
     "title": {
-      "hi": "",
       "ta": ""
     },
     "sourceCsvFile": {
-      "hi": "./csv/teams.hi.csv",
       "ta": "./csv/events_major.ta.csv"
     },
-    "idFieldName": "Article Code",
-    "titleFieldName": "Name of Team",
-    "descriptionFieldName": "Short Summary of Team",
-    "imageFieldName": "Header Image Link"
+    "idFieldName": "Article Link ID",
+    "titleFieldName": "Name of the place",
+    "descriptionFieldName": "Short summary description of the place",
+    "imageFieldName": "Header image"
   }
 ]

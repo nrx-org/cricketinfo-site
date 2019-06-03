@@ -1,6 +1,6 @@
 {
   "title": "சிக்கர் தவான்",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shikhar_Dhawan",
+  "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%B7%E0%AE%BF%E0%AE%95%E0%AE%B0%E0%AF%8D_%E0%AE%A4%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AF%8D",
   "coverImage": {
     "url": "/static/images/master/SHIKHAR_DHAWAN_281600549441829.jpg",
     "altText": "Image of சிக்கர் தவான்",
@@ -40,7 +40,7 @@
           "label": "பிறந்த இடம்",
           "value": {
             "label": "டெல்லி, இந்தியா",
-            "url": "https://en.wikipedia.org/wiki/Delhi",
+            "url": "https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AE%BF%E0%AE%B2%E0%AF%8D%E0%AE%B2%E0%AE%BF",
             "contentUrl": "/static/content/ta/delhi.json"
           }
         },
@@ -90,9 +90,9 @@
           "value": {
             "label": "விராட் கோலி வலது கை ஓப்பனிங் பேட்ஸ்மேன் மற்றும் எப்போதாவது வலது கையில் ஆஃப் பிரேக் பந்துவீசுவார்.",
             "image": {
-              "url": "/static/images/master/SHIKHAR_DHAWAN_281600716308729.jpg",
+              "url": "/static/images/master/Virat_Kohli_Batting.jpg",
               "altText": "Style of play for சிக்கர் தவான்",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         }
@@ -118,8 +118,8 @@
             "label": "தவான் ஆஸ்திரேலியாவுக்கு எதிராக தன்னுடைய முதல் சர்வதேச ஒரு நாள் போட்டியில் ஆடினார், ஆனால் பூஜ்ஜியத்தில் அவுட் ஆகிவிட்டார்.",
             "facts": [
               {
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
                 "id": "phase_fact_fact_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
@@ -235,13 +235,13 @@
               {
                 "url": "/read/ta/delhi_capitals",
                 "contentUrl": "/static/content/ta/delhi_capitals.json",
-                "label": "Delhi Capitals",
-                "id": "phase_fact_fact_delhi_capitals",
+                "label": "டெல்லி கேபிடல்ஸ்",
+                "id": "phase_fact_fact_டெல்லி_கேபிடல்ஸ்",
                 "value": {
-                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "label": "டெல்லி கேபிட்டல்ஸ் ஐபிஎல் லீக்கில் (ஐபிஎல்) டெல்லி நகரை பிரதிநிதித்துவப்படுத்தும் ஒரு உரிமம் பெற்ற கிரிக்கெட் அணியாகும்.",
                   "image": {
                     "url": "/static/images/master/Delhi_Capitals_Logo.svg",
-                    "altText": "Image of Delhi Capitals"
+                    "altText": "Image of டெல்லி கேபிடல்ஸ்"
                   }
                 }
               }
@@ -260,8 +260,9 @@
           "value": {
             "label": "ஷிகர் தவான், தனது முதல் டெஸ்ட் போட்டியில் மிக விரைவாக சதம் அடித்த வீரராவார்",
             "image": {
-              "url": "",
-              "altText": "ஷிகர் தவான், தனது முதல் டெஸ்ட் போட்டியில் மிக விரைவாக சதம் அடித்த வீரராவார்"
+              "url": "/static/images/master/England_v_India2C_Trent_Bridge_284418010225129.jpg",
+              "altText": "ஷிகர் தவான், தனது முதல் டெஸ்ட் போட்டியில் மிக விரைவாக சதம் அடித்த வீரராவார்",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -271,8 +272,9 @@
           "value": {
             "label": "2015 ஐசிசி உலகக் கோப்பையில் இந்திய வீரர் எடுத்த அதிக ரன்கள்",
             "image": {
-              "url": "",
-              "altText": "2015 ஐசிசி உலகக் கோப்பையில் இந்திய வீரர் எடுத்த அதிக ரன்கள்"
+              "url": "/static/images/master/SHIKHAR_DHAWAN_281600549441829.jpg",
+              "altText": "2015 ஐசிசி உலகக் கோப்பையில் இந்திய வீரர் எடுத்த அதிக ரன்கள்",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -282,8 +284,9 @@
           "value": {
             "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி போட்டிகளில் மிக அதிகமான ரன்கள் குவித்து தொடர்ச்சியாக 2 முறை கோல்டன் பேட்ஸ் வாங்கிய ஒரே வீரர்",
             "image": {
-              "url": "",
-              "altText": "ஐசிசி சேம்பியன்ஸ் டிராஃபி போட்டிகளில் மிக அதிகமான ரன்கள் குவித்து தொடர்ச்சியாக 2 முறை கோல்டன் பேட்ஸ் வாங்கிய ஒரே வீரர்"
+              "url": "/static/images/master/SHIKHAR_DHAWAN_281600716308729.jpg",
+              "altText": "ஐசிசி சேம்பியன்ஸ் டிராஃபி போட்டிகளில் மிக அதிகமான ரன்கள் குவித்து தொடர்ச்சியாக 2 முறை கோல்டன் பேட்ஸ் வாங்கிய ஒரே வீரர்",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -293,8 +296,9 @@
           "value": {
             "label": "தவான் டெஸ்ட் போட்டியின் முதல் நாளில் மதிய உணவு இடைவேளைக்கு முன்னரே சதம் அடித்த முதல் இந்திய பேட்ஸ்மேன் ஆவார்.",
             "image": {
-              "url": "",
-              "altText": "தவான் டெஸ்ட் போட்டியின் முதல் நாளில் மதிய உணவு இடைவேளைக்கு முன்னரே சதம் அடித்த முதல் இந்திய பேட்ஸ்மேன் ஆவார்."
+              "url": "/static/images/master/Shikhar_Dhawan_January_2016_28cropped29.jpg",
+              "altText": "தவான் டெஸ்ட் போட்டியின் முதல் நாளில் மதிய உணவு இடைவேளைக்கு முன்னரே சதம் அடித்த முதல் இந்திய பேட்ஸ்மேன் ஆவார்.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
             }
           }
         },
@@ -329,7 +333,7 @@
                 "value": {
                   "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of இந்திய தேசிய கிரிக்கெட் அணி"
                   }
                 }
@@ -344,15 +348,15 @@
             "label": "",
             "facts": [
               {
-                "label": "Delhi Capitals",
-                "id": "team_fact_fact_delhi_capitals",
+                "label": "டெல்லி கேபிடல்ஸ்",
+                "id": "team_fact_fact_டெல்லி_கேபிடல்ஸ்",
                 "url": "/read/ta/delhi_capitals",
                 "contentUrl": "/static/content/ta/delhi_capitals.json",
                 "value": {
-                  "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
+                  "label": "டெல்லி கேபிட்டல்ஸ் ஐபிஎல் லீக்கில் (ஐபிஎல்) டெல்லி நகரை பிரதிநிதித்துவப்படுத்தும் ஒரு உரிமம் பெற்ற கிரிக்கெட் அணியாகும்.",
                   "image": {
                     "url": "/static/images/master/Delhi_Capitals_Logo.svg",
-                    "altText": "Picture of Delhi Capitals"
+                    "altText": "Picture of டெல்லி கேபிடல்ஸ்"
                   }
                 }
               }

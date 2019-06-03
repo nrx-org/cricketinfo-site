@@ -1,6 +1,6 @@
 {
   "title": "ரோஹித் ஷர்மா",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rohit_Sharma",
+  "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%B0%E0%AF%8B%E0%AE%95%E0%AE%BF%E0%AE%A4%E0%AF%8D_%E0%AE%9A%E0%AE%B0%E0%AF%8D%E0%AE%AE%E0%AE%BE",
   "coverImage": {
     "url": "/static/images/master/Rohit_Sharma_November_2016_28cropped29.jpg",
     "altText": "Image of ரோஹித் ஷர்மா",
@@ -40,7 +40,7 @@
           "label": "பிறந்த இடம்",
           "value": {
             "label": "நாக்பூர், இந்தியா",
-            "url": "https://en.wikipedia.org/wiki/Nagpur",
+            "url": "",
             "contentUrl": "/static/content/ta/nagpur.json"
           }
         },
@@ -197,13 +197,13 @@
               {
                 "url": "/read/ta/sunrisers_hyderabad",
                 "contentUrl": "/static/content/ta/sunrisers_hyderabad.json",
-                "label": "Sunrisers Hyderabad",
-                "id": "phase_fact_fact_sunrisers_hyderabad",
+                "label": "சன்ரைஸர்ஸ் ஹைதராபாத்",
+                "id": "phase_fact_fact_சன்ரைஸர்ஸ்_ஹைதராபாத்",
                 "value": {
-                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
+                  "label": "சன் ரைசர்ஸ் ஹைதராபாத் (பெரும்பாலும் எஸ்ஆர்எச் என சுருக்கமாக அழைக்கப்படுகிறது) என்பது ஐதராபாத், தெலுங்கானாவை அடிப்படையாகக் கொண்ட ஐபிஎல் பிரீமியர் லீக்கில் ஆடும் உரிமம் பெற்ற ஒரு கிரிக்கெட் அணி,",
                   "image": {
                     "url": "/static/images/master/Sunrisers_Hyderabad.svg",
-                    "altText": "Image of Sunrisers Hyderabad"
+                    "altText": "Image of சன்ரைஸர்ஸ் ஹைதராபாத்"
                   }
                 }
               }
@@ -222,8 +222,9 @@
           "value": {
             "label": "2014 ஆம் ஆண்டில், ஒரே சர்வதேச ஒரு நாள் கிரிக்கெட் போட்டியில் 250-க்கும் அதிகமான ரன்கள் குவித்த முதல் நபர் ஆனார்",
             "image": {
-              "url": "",
-              "altText": "2014 ஆம் ஆண்டில், ஒரே சர்வதேச ஒரு நாள் கிரிக்கெட் போட்டியில் 250-க்கும் அதிகமான ரன்கள் குவித்த முதல் நபர் ஆனார்"
+              "url": "/static/images/master/Rohit_Sharma_in_2012.jpg",
+              "altText": "2014 ஆம் ஆண்டில், ஒரே சர்வதேச ஒரு நாள் கிரிக்கெட் போட்டியில் 250-க்கும் அதிகமான ரன்கள் குவித்த முதல் நபர் ஆனார்",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
             }
           }
         },
@@ -233,8 +234,9 @@
           "value": {
             "label": "ரோஹித் ஷர்மா, இரண்டு வெவ்வேறு முறைகள் முழுமையடைந்த சர்வதேச ஒரு நாள் போட்டிகளில், எதிரணியை விட அதிக ரன்கள் பெற்ற ஒரே இந்திய பேட்ஸ்மேன் என்ற பெருமைக்குரியவராவார்.",
             "image": {
-              "url": "",
-              "altText": "ரோஹித் ஷர்மா, இரண்டு வெவ்வேறு முறைகள் முழுமையடைந்த சர்வதேச ஒரு நாள் போட்டிகளில், எதிரணியை விட அதிக ரன்கள் பெற்ற ஒரே இந்திய பேட்ஸ்மேன் என்ற பெருமைக்குரியவராவார்."
+              "url": "/static/images/master/Rohit_Sharma_2015_28cropped29.jpg",
+              "altText": "ரோஹித் ஷர்மா, இரண்டு வெவ்வேறு முறைகள் முழுமையடைந்த சர்வதேச ஒரு நாள் போட்டிகளில், எதிரணியை விட அதிக ரன்கள் பெற்ற ஒரே இந்திய பேட்ஸ்மேன் என்ற பெருமைக்குரியவராவார்.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
             }
           }
         },
@@ -244,8 +246,9 @@
           "value": {
             "label": "ஷர்மா, பவுண்டரிகளில் மட்டும் 186 ரன்கள் எடுத்து ஒரே இன்னிங்க்ஸில் நான்குகள் மற்றும் ஆறுகள் மூலம் அதிக ரன்கள் எடுத்து சாதனையை முறியடித்தார். ",
             "image": {
-              "url": "",
-              "altText": "ஷர்மா, பவுண்டரிகளில் மட்டும் 186 ரன்கள் எடுத்து ஒரே இன்னிங்க்ஸில் நான்குகள் மற்றும் ஆறுகள் மூலம் அதிக ரன்கள் எடுத்து சாதனையை முறியடித்தார். "
+              "url": "/static/images/master/Rohit_Sharma_bowling.jpg",
+              "altText": "ஷர்மா, பவுண்டரிகளில் மட்டும் 186 ரன்கள் எடுத்து ஒரே இன்னிங்க்ஸில் நான்குகள் மற்றும் ஆறுகள் மூலம் அதிக ரன்கள் எடுத்து சாதனையை முறியடித்தார். ",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
             }
           }
         },
@@ -255,8 +258,9 @@
           "value": {
             "label": "இந்திய பேட்ஸ்மேன்களில், ரோஹித் ஷர்மா டி20 போட்டிகளில் அதிக எண்ணிக்கையிலான சிக்ஸ்களை அடித்துள்ளார். ",
             "image": {
-              "url": "",
-              "altText": "இந்திய பேட்ஸ்மேன்களில், ரோஹித் ஷர்மா டி20 போட்டிகளில் அதிக எண்ணிக்கையிலான சிக்ஸ்களை அடித்துள்ளார். "
+              "url": "/static/images/master/2015_CWC_I_v_UAE_02-28_Sharma_281229.JPG",
+              "altText": "இந்திய பேட்ஸ்மேன்களில், ரோஹித் ஷர்மா டி20 போட்டிகளில் அதிக எண்ணிக்கையிலான சிக்ஸ்களை அடித்துள்ளார். ",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
             }
           }
         },
@@ -291,7 +295,7 @@
                 "value": {
                   "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of இந்திய தேசிய கிரிக்கெட் அணி"
                   }
                 }

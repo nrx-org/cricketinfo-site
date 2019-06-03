@@ -10,10 +10,12 @@
   "translations": [
     {
       "lang": "hi",
+      "title": "अजिंक्य रहाणे ",
       "url": "/read/hi/ajinkya_rahane"
     },
     {
       "lang": "ta",
+      "title": "அஜிங்கியா ரஹானே",
       "url": "/read/ta/ajinkya_rahane"
     }
   ],
@@ -31,7 +33,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": "Invalid Date (Age 30)"
+            "label": "06-06-1988 (Age 30)"
           }
         },
         {
@@ -87,7 +89,7 @@
         {
           "label": "",
           "value": {
-            "label": "Rahane is a right-handed middle order batsman"
+            "label": "Rahane is a right-handed middle order batsman."
           }
         }
       ]
@@ -101,7 +103,23 @@
           "id": "phase_first_class_debut",
           "note": "Rahane made his first-class debut, at the age of 19, for Mumbai against Karachi Urban in the Mohammad Nissar Trophy in September 2007",
           "value": {
-            "label": "Mohammad Nissar Trophy was an annual first class cricket competition played over four days between the winners of the Ranji Trophy from India and Quaid-i-Azam Trophy from Pakistan."
+            "label": "Mohammad Nissar Trophy was an annual first class cricket competition played over four days between the winners of the Ranji Trophy from India and Quaid-i-Azam Trophy from Pakistan.",
+            "facts": [
+              {
+                "url": "/read/en/ranji_trophy",
+                "contentUrl": "/static/content/en/ranji_trophy.json",
+                "label": "Ranji Trophy",
+                "id": "phase_fact_fact_ranji_trophy",
+                "value": {
+                  "label": "The Ranji Trophy is a domestic first-class cricket championship played in India between teams representing regional and state cricket associations.",
+                  "image": {
+                    "url": "/static/images/master/Ranji_Trophy_logo.png",
+                    "altText": "Image of Ranji Trophy",
+                    "license": "<p>The logo for Paytm Ranji Trophy</p><p></p><p>hotstar.com</p><p><b><a href=\"/wiki/Ranji_Trophy\" title=\"Ranji Trophy\">Ranji Trophy</a></b></p><p>to serve as the primary means of visual identification at the top of the article dedicated to the entity in question.</p><p>n.a.</p><p>The file will only be used as the logo for Ranji Trophy.</p><p>n.a.</p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:Ranji_Trophy_logo.png</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p><p><b>To the uploader</b>: \n<ol><li>This tag is only for use on images of logos.</li>\n<li>This tag is not sufficient on its own. Please add a detailed <b><a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">fair use rationale</a></b> for each use, as well as the <b>source</b> of the work and copyright information.</li>\n<li>For an example fair use rationale for a logo, see <a href=\"/wiki/Wikipedia:Use_rationale_examples#Logo_in_the_article_about_the_topic_that_the_logo_represents\" title=\"Wikipedia:Use rationale examples\">here</a>.</li>\n<li><b><a href=\"/wiki/Template:Non-free_use_rationale_logo\" title=\"Template:Non-free use rationale logo\">Template:Non-free use rationale logo</a></b> may be helpful for stating the rationale.</li>\n<li>Please do not use this template to tag non-free icons of computer software. Such items should be tagged with {{<a href=\"/wiki/Template:Non-free_computer_icon\" title=\"Template:Non-free computer icon\">Non-free computer icon</a>}} template.</li></ol>\n<p><b>Regarding uses other than in the original article:</b>\n</p>\n<ul><li>A detailed <b><a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">non-free use rationale</a></b> is required for <b>every</b> article the logo is used in. Check the <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free use criteria</a> and do not assume that existing rationales can be simply copied and pasted, as they may not necessarily apply.</li></ul>\n<b> To patrollers and administrators</b>: If this image has an &apos;appropriate&apos; rationale please append <code>|image has rationale=yes</code> as a parameter to the license template.</p>"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -117,7 +135,7 @@
                 "label": "England cricket team",
                 "id": "phase_fact_fact_england_cricket_team",
                 "value": {
-                  "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
+                  "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877.",
                   "image": {
                     "url": "/static/images/master/England_cricket_team_logo.svg",
                     "altText": "Image of England cricket team"
@@ -133,6 +151,29 @@
           "note": "2014",
           "value": {
             "label": "Rahane was part of Indian team make it to the final of 2014 World T20"
+          }
+        },
+        {
+          "label": "2015 World cup",
+          "id": "phase_2015_world_cup",
+          "note": "2015",
+          "value": {
+            "label": "In the 2015 World Cup, Rahane only managed to score 208 runs from 8 matches",
+            "facts": [
+              {
+                "url": "/read/en/2015_cricket_world_cup",
+                "contentUrl": "/static/content/en/2015_cricket_world_cup.json",
+                "label": "2015 Cricket World Cup",
+                "id": "phase_fact_fact_2015_cricket_world_cup",
+                "value": {
+                  "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand.",
+                  "image": {
+                    "url": "/static/images/master/2015_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2015 Cricket World Cup"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -170,8 +211,8 @@
           "value": {
             "label": "Rahane has the highest number of catches (8) by a non wicketkeeper in a single Test match",
             "image": {
-              "url": "",
-              "altText": "Rahane has the highest number of catches (8) by a non wicketkeeper in a single Test match"
+              "altText": "Rahane has the highest number of catches (8) by a non wicketkeeper in a single Test match",
+              "license": ""
             }
           }
         },
@@ -181,8 +222,9 @@
           "value": {
             "label": "Rahane is the 5th Indian Batsman to score centuries in each innings of a Test",
             "image": {
-              "url": "",
-              "altText": "Rahane is the 5th Indian Batsman to score centuries in each innings of a Test"
+              "url": "/static/images/master/Ajinkya_Rahane_2016_28cropped29.jpg",
+              "altText": "Rahane is the 5th Indian Batsman to score centuries in each innings of a Test",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
             }
           }
         },
@@ -192,8 +234,9 @@
           "value": {
             "label": "Rahane jointly holds the record of winning his first test match as a captain",
             "image": {
-              "url": "",
-              "altText": "Rahane jointly holds the record of winning his first test match as a captain"
+              "url": "/static/images/master/Ajinkya_Rahane.jpg",
+              "altText": "Rahane jointly holds the record of winning his first test match as a captain",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
             }
           }
         },
@@ -203,8 +246,9 @@
           "value": {
             "label": "Rahane was the first batsman to hit six fours in an over in IPL",
             "image": {
-              "url": "",
-              "altText": "Rahane was the first batsman to hit six fours in an over in IPL"
+              "url": "/static/images/master/Ajinkya_Rahane_Image.jpg",
+              "altText": "Rahane was the first batsman to hit six fours in an over in IPL",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
             }
           }
         },
@@ -226,8 +270,8 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Indian national cricket team (2011-present)",
-          "id": "team_fact_indian_national_cricket_team_2011-present",
+          "label": "India National Cricket team (2011-present)",
+          "id": "team_fact_india_national_cricket_team_2011-present",
           "value": {
             "label": "",
             "facts": [
@@ -239,7 +283,7 @@
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of India national cricket team"
                   }
                 }
@@ -270,8 +314,8 @@
           }
         },
         {
-          "label": "Mumbai (2007-present)",
-          "id": "team_fact_mumbai_2007-present",
+          "label": "Mumbai (2007- present)",
+          "id": "team_fact_mumbai_2007- present",
           "value": {
             "label": "Domestic Ranji trophy cricket team based in Mumbai"
           }

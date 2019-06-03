@@ -1,6 +1,6 @@
 {
   "title": "लसिथ मलिंगा",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lasith_Malinga",
+  "wikipediaUrl": "",
   "coverImage": {
     "url": "/static/images/master/LASITH_MALINGA_28515517554929.jpg",
     "altText": "Image of लसिथ मलिंगा",
@@ -33,14 +33,14 @@
         {
           "label": "जन्मतिथि",
           "value": {
-            "label": "Invalid Date (आयु 35)"
+            "label": "28 Aug 1983 (आयु 35)"
           }
         },
         {
           "label": "जन्मस्थान",
           "value": {
             "label": "गाले, श्रीलंका",
-            "url": "https://en.wikipedia.org/wiki/Galle",
+            "url": "",
             "contentUrl": "/static/content/hi/shreyas_iyer.json"
           }
         },
@@ -116,15 +116,15 @@
           }
         },
         {
-          "label": "राष्ट्रीय टीम ",
-          "id": "phase_राष्ट्रीय_टीम",
+          "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
+          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
           "note": "",
           "value": {
             "label": "मलिंगा ने 1 जुलाई, 2004 को आस्ट्रेलिया के खिलाफ मरारा ओवल डार्विन में टेस्ट क्रिकेट में पदार्पण किया। ",
             "facts": [
               {
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
                 "id": "phase_fact_fact_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
@@ -174,7 +174,7 @@
                 "label": "2011 क्रिकेट विश्व कप",
                 "id": "phase_fact_fact_2011_क्रिकेट_विश्व_कप",
                 "value": {
-                  "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
+                  "label": "2011 आईसीसी क्रिकेट विश्व कप, दसवें क्रिकेट विश्व कप था। यह भारत, श्रीलंका (पहली बार के लिए), और बांग्लादेश में खेला गया था",
                   "image": {
                     "url": "/static/images/master/2011_Cricket_World_Cup_Logo.svg",
                     "altText": "Image of 2011 क्रिकेट विश्व कप"
@@ -212,7 +212,22 @@
           "id": "phase_विश्व_कप",
           "note": "अप्रैल 2019 में 2019 के क्रिकेट विश्व कप के लिए उन्हें श्रीलंका की टीम में शामिल किया गया। ",
           "value": {
-            "label": "विश्व कप"
+            "label": "विश्व कप",
+            "facts": [
+              {
+                "url": "/read/hi/icc_cricket_world_cup",
+                "contentUrl": "/static/content/hi/icc_cricket_world_cup.json",
+                "label": "क्रिकेट विश्व कप",
+                "id": "phase_fact_fact_क्रिकेट_विश्व_कप",
+                "value": {
+                  "label": "आयेसीसी क्रिकेट विश्व कप वान डे इंटरनेशनल क्रिकेट की अंतर्राष्ट्रीय चैम्पियनशिप है। यह हर चार साल अंतर्राष्ट्रीय क्रिकेट परिषद से  आयोजित किया जाता है। यह चुनाव प्रारंभिक योग्यता दौर से शुरू होकर फाइनल टूर्नामेंट तक पहुँच जाता है।",
+                  "image": {
+                    "url": "/static/images/master/Icc_cricket_world_cup_trophy.jpg",
+                    "altText": "Image of क्रिकेट विश्व कप"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -250,8 +265,9 @@
           "value": {
             "label": "अंतरराष्ट्रीय क्रिकेट में लगातार चार गेंदों पर चार विकेट लेने वाले क्रिकेट इतिहास के इकलौते गेंदबाज (बनाम दक्षिण अफ्रीका मार्च 2007)",
             "image": {
-              "url": "",
-              "altText": "अंतरराष्ट्रीय क्रिकेट में लगातार चार गेंदों पर चार विकेट लेने वाले क्रिकेट इतिहास के इकलौते गेंदबाज (बनाम दक्षिण अफ्रीका मार्च 2007)"
+              "url": "/static/images/master/LASITH_MALINGA_28515517554929.jpg",
+              "altText": "अंतरराष्ट्रीय क्रिकेट में लगातार चार गेंदों पर चार विकेट लेने वाले क्रिकेट इतिहास के इकलौते गेंदबाज (बनाम दक्षिण अफ्रीका मार्च 2007)",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -261,8 +277,9 @@
           "value": {
             "label": "अगस्त 2011 में अपनी तीसरी हैट्रिक लेकर, वंडे इंटरनेशलन क्रिकेट में तीन हैट्रिक लेने वाले इतिहास के पहले और अबतक के इकलौते गेंदबाज।",
             "image": {
-              "url": "",
-              "altText": "अगस्त 2011 में अपनी तीसरी हैट्रिक लेकर, वंडे इंटरनेशलन क्रिकेट में तीन हैट्रिक लेने वाले इतिहास के पहले और अबतक के इकलौते गेंदबाज।"
+              "url": "/static/images/master/Lasith_Malinga_portrait.jpg",
+              "altText": "अगस्त 2011 में अपनी तीसरी हैट्रिक लेकर, वंडे इंटरनेशलन क्रिकेट में तीन हैट्रिक लेने वाले इतिहास के पहले और अबतक के इकलौते गेंदबाज।",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -272,8 +289,9 @@
           "value": {
             "label": "वे दो विश्व कप हैट्रिक लेने वाले इकलौते गेंदबाज हैं, पहला उन्होंने 2007 क्रिकेट विश्व कप में दक्षिण अफ्रीका के खिलाफ और दूसरा 2011 क्रिकेट विश्व कप में केन्या के खिलाफ हासिल किया था।",
             "image": {
-              "url": "",
-              "altText": "वे दो विश्व कप हैट्रिक लेने वाले इकलौते गेंदबाज हैं, पहला उन्होंने 2007 क्रिकेट विश्व कप में दक्षिण अफ्रीका के खिलाफ और दूसरा 2011 क्रिकेट विश्व कप में केन्या के खिलाफ हासिल किया था।"
+              "url": "/static/images/master/T20_final_2009.jpg",
+              "altText": "वे दो विश्व कप हैट्रिक लेने वाले इकलौते गेंदबाज हैं, पहला उन्होंने 2007 क्रिकेट विश्व कप में दक्षिण अफ्रीका के खिलाफ और दूसरा 2011 क्रिकेट विश्व कप में केन्या के खिलाफ हासिल किया था।",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
             }
           }
         },
@@ -283,7 +301,7 @@
           "value": {
             "label": "अप्रैल 2017 तक, मलिंगा 232 मैचों में 317 विकेट के साथ सभी ट्वेंटी 20 मैचों में सबसे अधिक विकेट लेने के मामले में दूसरे नंबर पर हैं।",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Lasith_Malinga_signing.jpg",
               "altText": "अप्रैल 2017 तक, मलिंगा 232 मैचों में 317 विकेट के साथ सभी ट्वेंटी 20 मैचों में सबसे अधिक विकेट लेने के मामले में दूसरे नंबर पर हैं।"
             }
           }
@@ -328,8 +346,8 @@
           }
         },
         {
-          "label": "मुंबई इंडियंस (2008- अब तक)",
-          "id": "team_fact_मुंबई_इंडियंस_2008- अब तक",
+          "label": "मुंबई इंडियंस (2008 से अब तक)",
+          "id": "team_fact_मुंबई_इंडियंस_2008 से अब तक",
           "value": {
             "label": "",
             "facts": [

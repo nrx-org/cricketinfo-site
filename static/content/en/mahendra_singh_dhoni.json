@@ -39,7 +39,8 @@
           "label": "Birthplace",
           "value": {
             "label": "Ranchi, Bihar (now Jharkhand)",
-            "url": "https://en.wikipedia.org/wiki/Ranchi"
+            "url": "https://en.wikipedia.org/wiki/Ranchi",
+            "contentUrl": "/static/content/en/ranchi.json"
           }
         },
         {
@@ -110,7 +111,23 @@
           "id": "phase_first_class_debut",
           "note": "1999",
           "value": {
-            "label": "Dhoni made his Ranji Trophy debut for Bihar in the 1999–2000 season at the age of 18."
+            "label": "Dhoni made his Ranji Trophy debut for Bihar in the 1999–2000 season at the age of 18.",
+            "facts": [
+              {
+                "url": "/read/en/ranji_trophy",
+                "contentUrl": "/static/content/en/ranji_trophy.json",
+                "label": "Ranji Trophy",
+                "id": "phase_fact_fact_ranji_trophy",
+                "value": {
+                  "label": "The Ranji Trophy is a domestic first-class cricket championship played in India between teams representing regional and state cricket associations.",
+                  "image": {
+                    "url": "/static/images/master/Ranji_Trophy_logo.png",
+                    "altText": "Image of Ranji Trophy",
+                    "license": "<p>The logo for Paytm Ranji Trophy</p><p></p><p>hotstar.com</p><p><b><a href=\"/wiki/Ranji_Trophy\" title=\"Ranji Trophy\">Ranji Trophy</a></b></p><p>to serve as the primary means of visual identification at the top of the article dedicated to the entity in question.</p><p>n.a.</p><p>The file will only be used as the logo for Ranji Trophy.</p><p>n.a.</p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:Ranji_Trophy_logo.png</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p><p><b>To the uploader</b>: \n<ol><li>This tag is only for use on images of logos.</li>\n<li>This tag is not sufficient on its own. Please add a detailed <b><a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">fair use rationale</a></b> for each use, as well as the <b>source</b> of the work and copyright information.</li>\n<li>For an example fair use rationale for a logo, see <a href=\"/wiki/Wikipedia:Use_rationale_examples#Logo_in_the_article_about_the_topic_that_the_logo_represents\" title=\"Wikipedia:Use rationale examples\">here</a>.</li>\n<li><b><a href=\"/wiki/Template:Non-free_use_rationale_logo\" title=\"Template:Non-free use rationale logo\">Template:Non-free use rationale logo</a></b> may be helpful for stating the rationale.</li>\n<li>Please do not use this template to tag non-free icons of computer software. Such items should be tagged with {{<a href=\"/wiki/Template:Non-free_computer_icon\" title=\"Template:Non-free computer icon\">Non-free computer icon</a>}} template.</li></ol>\n<p><b>Regarding uses other than in the original article:</b>\n</p>\n<ul><li>A detailed <b><a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">non-free use rationale</a></b> is required for <b>every</b> article the logo is used in. Check the <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free use criteria</a> and do not assume that existing rationales can be simply copied and pasted, as they may not necessarily apply.</li></ul>\n<b> To patrollers and administrators</b>: If this image has an &apos;appropriate&apos; rationale please append <code>|image has rationale=yes</code> as a parameter to the license template.</p>"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -218,7 +235,7 @@
                 "label": "2011 Cricket World Cup",
                 "id": "phase_fact_fact_2011_cricket_world_cup",
                 "value": {
-                  "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
+                  "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh.",
                   "image": {
                     "url": "/static/images/master/2011_Cricket_World_Cup_Logo.svg",
                     "altText": "Image of 2011 Cricket World Cup"
@@ -263,7 +280,7 @@
           "value": {
             "label": "Dhoni is the most successful Indian Test captain.",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Dhoni_behind_Stumps.jpg",
               "altText": "Dhoni is the most successful Indian Test captain."
             }
           }
@@ -274,8 +291,9 @@
           "value": {
             "label": "Dhoni is the first Indian wicket-keeper to complete 4,000 Test runs",
             "image": {
-              "url": "",
-              "altText": "Dhoni is the first Indian wicket-keeper to complete 4,000 Test runs"
+              "url": "/static/images/master/Mahendra_Singh_Dhoni_1.jpg",
+              "altText": "Dhoni is the first Indian wicket-keeper to complete 4,000 Test runs",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/4.0/\">4.0 International</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
             }
           }
         },
@@ -285,7 +303,7 @@
           "value": {
             "label": "Dhoni's 224 against Australia during a Test match in Chennai is the third highest score by an Indian captain",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Mahendra_Singh_Dhoni_batting.JPG",
               "altText": "Dhoni's 224 against Australia during a Test match in Chennai is the third highest score by an Indian captain"
             }
           }
@@ -296,8 +314,9 @@
           "value": {
             "label": "Dhoni has the most stumpings (38) by any wicket-keeper in a Test career",
             "image": {
-              "url": "",
-              "altText": "Dhoni has the most stumpings (38) by any wicket-keeper in a Test career"
+              "url": "/static/images/master/MS_Dhoni.jpg",
+              "altText": "Dhoni has the most stumpings (38) by any wicket-keeper in a Test career",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
             }
           }
         },
@@ -319,8 +338,8 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Indian National Cricket team (2004-present)",
-          "id": "team_fact_indian_national_cricket_team_2004-present",
+          "label": "India National Cricket team (2004-present)",
+          "id": "team_fact_india_national_cricket_team_2004-present",
           "value": {
             "label": "",
             "facts": [
@@ -332,7 +351,7 @@
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of India national cricket team"
                   }
                 }
@@ -341,8 +360,8 @@
           }
         },
         {
-          "label": "Chennai Super Kings (2018-present)",
-          "id": "team_fact_chennai_super_kings_2018-present",
+          "label": "Chennai Super Kings (2018 - present)",
+          "id": "team_fact_chennai_super_kings_2018 - present",
           "value": {
             "label": "",
             "facts": [
@@ -363,8 +382,8 @@
           }
         },
         {
-          "label": "Jharkhand (2004-present)",
-          "id": "team_fact_jharkhand_2004-present",
+          "label": "Jharkhand (2004 - present)",
+          "id": "team_fact_jharkhand_2004 - present",
           "value": {
             "label": "The Jharkhand Cricket Team is a Ranji Trophy team based in the Indian state of Jharkhand, that replaced the Bihar Cricket team"
           }

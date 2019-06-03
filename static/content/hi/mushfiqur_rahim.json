@@ -1,6 +1,6 @@
 {
   "title": "मुशफिकुर रहीम ",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mushfiqur_Rahim",
+  "wikipediaUrl": "",
   "coverImage": {
     "url": "/static/images/master/Mushfiqur_Rahim_batting_against_England_at_Lords_in_20102C_cropped.jpg",
     "altText": "Image of मुशफिकुर रहीम ",
@@ -33,14 +33,14 @@
         {
           "label": "जन्मतिथि",
           "value": {
-            "label": "Invalid Date (आयु 31)"
+            "label": "09 Jun 1987 (आयु 31)"
           }
         },
         {
           "label": "जन्मस्थान",
           "value": {
             "label": "बोगरा, बांग्लादेश",
-            "url": "https://en.wikipedia.org/wiki/Bogra",
+            "url": "",
             "contentUrl": "/static/content/hi/rishab_pant.json"
           }
         },
@@ -111,8 +111,8 @@
           }
         },
         {
-          "label": "राष्ट्रीय टीम ",
-          "id": "phase_राष्ट्रीय_टीम",
+          "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
+          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
           "note": "",
           "value": {
             "label": "रहीम का चयन बांग्लादेश के इंग्लैंड दौरे के लिए 2005 में चयन किया गया। यह बांग्लादेश का प्रथम इंग्लैंड दौरा था। ",
@@ -169,7 +169,7 @@
                 "label": "2011 क्रिकेट विश्व कप",
                 "id": "phase_fact_fact_2011_क्रिकेट_विश्व_कप",
                 "value": {
-                  "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
+                  "label": "2011 आईसीसी क्रिकेट विश्व कप, दसवें क्रिकेट विश्व कप था। यह भारत, श्रीलंका (पहली बार के लिए), और बांग्लादेश में खेला गया था",
                   "image": {
                     "url": "/static/images/master/2011_Cricket_World_Cup_Logo.svg",
                     "altText": "Image of 2011 क्रिकेट विश्व कप"
@@ -184,7 +184,22 @@
           "id": "phase_विश्व_कप",
           "note": "2019",
           "value": {
-            "label": "अप्रैल 2019 में उसका नाम 2019 के विश्व कप के लिए चुनी गई बांग्लादेश की टीम में शामिल किया गया है। "
+            "label": "अप्रैल 2019 में उसका नाम 2019 के विश्व कप के लिए चुनी गई बांग्लादेश की टीम में शामिल किया गया है। ",
+            "facts": [
+              {
+                "url": "/read/hi/icc_cricket_world_cup",
+                "contentUrl": "/static/content/hi/icc_cricket_world_cup.json",
+                "label": "क्रिकेट विश्व कप",
+                "id": "phase_fact_fact_क्रिकेट_विश्व_कप",
+                "value": {
+                  "label": "आयेसीसी क्रिकेट विश्व कप वान डे इंटरनेशनल क्रिकेट की अंतर्राष्ट्रीय चैम्पियनशिप है। यह हर चार साल अंतर्राष्ट्रीय क्रिकेट परिषद से  आयोजित किया जाता है। यह चुनाव प्रारंभिक योग्यता दौर से शुरू होकर फाइनल टूर्नामेंट तक पहुँच जाता है।",
+                  "image": {
+                    "url": "/static/images/master/Icc_cricket_world_cup_trophy.jpg",
+                    "altText": "Image of क्रिकेट विश्व कप"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -263,8 +278,8 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "बांग्लादेश क्रिकेट टीम (2004- अब तक )",
-          "id": "team_fact_बांग्लादेश_क्रिकेट_टीम_2004- अब तक ",
+          "label": "बांग्लादेश क्रिकेट टीम (2004 से अब तक)",
+          "id": "team_fact_बांग्लादेश_क्रिकेट_टीम_2004 से अब तक",
           "value": {
             "label": "",
             "facts": [

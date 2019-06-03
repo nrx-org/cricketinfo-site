@@ -5,14 +5,16 @@
     "url": "/static/images/master/Batting_shadow_figure.png",
     "altText": "Image of Kedar Jadhav"
   },
-  "summary": "Kedar Jadhav is an Indian cricketer",
+  "summary": "Kedar Jadhav is an Indian cricketer.",
   "translations": [
     {
       "lang": "hi",
+      "title": "केदार जाधव",
       "url": "/read/hi/kedar_jadhav"
     },
     {
       "lang": "ta",
+      "title": "கேதர் ஜாதவ்",
       "url": "/read/ta/kedar_jadhav"
     }
   ],
@@ -30,7 +32,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": "Invalid Date (Age 34)"
+            "label": "26-03-1985 (Age 34)"
           }
         },
         {
@@ -69,7 +71,7 @@
         {
           "label": "",
           "value": {
-            "label": "Jadhav bats right-handed and bowls right-arm off-breaks, and occasionally keeps wicket"
+            "label": "Jadhav bats right-handed and bowls right-arm off-breaks, and occasionally keeps wicket."
           }
         }
       ]
@@ -208,8 +210,8 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Indian national cricket team (2014-present)",
-          "id": "team_fact_indian_national_cricket_team_2014-present",
+          "label": "India National Cricket team (2014-present)",
+          "id": "team_fact_india_national_cricket_team_2014-present",
           "value": {
             "label": "",
             "facts": [
@@ -221,7 +223,7 @@
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of India national cricket team"
                   }
                 }
@@ -252,8 +254,8 @@
           }
         },
         {
-          "label": "Maharashtra (2007-present)",
-          "id": "team_fact_maharashtra_2007-present",
+          "label": "Maharashtra (2007 - present)",
+          "id": "team_fact_maharashtra_2007 - present",
           "value": {
             "label": "Maharashtra cricket team is a domestic Indian cricket team based the city of Pune"
           }

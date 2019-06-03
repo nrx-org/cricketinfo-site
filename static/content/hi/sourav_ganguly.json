@@ -1,6 +1,6 @@
 {
   "title": "सौरव गांगुली",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/File:Sourav_Ganguly_closeup.jpg",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%8C%E0%A4%B0%E0%A4%B5_%E0%A4%97%E0%A4%BE%E0%A4%82%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A5%80",
   "coverImage": {
     "url": "/static/images/master/Sourav_Ganguly_closeup.jpg",
     "altText": "Image of सौरव गांगुली"
@@ -39,7 +39,8 @@
           "label": "जन्मस्थान",
           "value": {
             "label": "कोलकाता, भारत",
-            "url": "https://en.wikipedia.org/wiki/Calcutta"
+            "url": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%8B%E0%A4%B2%E0%A4%95%E0%A4%BE%E0%A4%A4%E0%A4%BE",
+            "contentUrl": "/static/content/hi/kolkata.json"
           }
         },
         {
@@ -114,8 +115,8 @@
           }
         },
         {
-          "label": "राष्ट्रीय टीम ",
-          "id": "phase_राष्ट्रीय_टीम",
+          "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
+          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
           "note": "1992",
           "value": {
             "label": "गांगुली ने वेस्ट इंडीज के खिलाफ भारत की ओर से वनडे इंटरनेशनल (ओडीआई) में 1992 में पदार्पण किया जिसमें उन्होंने तीन रन बनाए। ",
@@ -263,8 +264,9 @@
           "value": {
             "label": "सौरव गांगुली ने लॉर्ड्स में अपने पदार्पण टेस्ट में इंग्लैंड के खिलाफ शतक बनाया",
             "image": {
-              "url": "",
-              "altText": "सौरव गांगुली ने लॉर्ड्स में अपने पदार्पण टेस्ट में इंग्लैंड के खिलाफ शतक बनाया"
+              "url": "/static/images/master/Gangooly_28279085958629.jpg",
+              "altText": "सौरव गांगुली ने लॉर्ड्स में अपने पदार्पण टेस्ट में इंग्लैंड के खिलाफ शतक बनाया",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -274,8 +276,9 @@
           "value": {
             "label": "गांगुली के नाम पर क्रिकेट विश्व कप में किसी भारतीय बल्लेबाज (183) द्वारा बनाया गया सर्वोच्च व्यक्तिगत स्कोर है",
             "image": {
-              "url": "",
-              "altText": "गांगुली के नाम पर क्रिकेट विश्व कप में किसी भारतीय बल्लेबाज (183) द्वारा बनाया गया सर्वोच्च व्यक्तिगत स्कोर है"
+              "url": "/static/images/master/Sourav_Ganguly4_28129.jpg",
+              "altText": "गांगुली के नाम पर क्रिकेट विश्व कप में किसी भारतीय बल्लेबाज (183) द्वारा बनाया गया सर्वोच्च व्यक्तिगत स्कोर है",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -285,8 +288,9 @@
           "value": {
             "label": "गांगुली भारत के सबसे सफल टेस्ट कप्तान बने जिन्होंने 21 मौकों पर टीम को जीत दिलाई",
             "image": {
-              "url": "",
-              "altText": "गांगुली भारत के सबसे सफल टेस्ट कप्तान बने जिन्होंने 21 मौकों पर टीम को जीत दिलाई"
+              "url": "/static/images/master/Ganguly_with_shahrukh.jpg",
+              "altText": "गांगुली भारत के सबसे सफल टेस्ट कप्तान बने जिन्होंने 21 मौकों पर टीम को जीत दिलाई",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
             }
           }
         },
@@ -296,7 +300,7 @@
           "value": {
             "label": "गांगुली विदेशों में भारत के सबसे सफल टेस्ट कप्तान हैं, उन्होंने 28 मैचों में से 11 में जीत दर्ज की है",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Sourav_Ganguly_closeup.jpg",
               "altText": "गांगुली विदेशों में भारत के सबसे सफल टेस्ट कप्तान हैं, उन्होंने 28 मैचों में से 11 में जीत दर्ज की है"
             }
           }
@@ -332,7 +336,7 @@
                 "value": {
                   "label": "भारत की राष्ट्रीय क्रिकेट टीम को टीम इंडिया और मेन इन ब्लू के नाम से भी जाना जाता है। भारत को टेस्ट में पहला, वनडे में दूसरा और आईसीसी द्वारा टी20 में दूसरा स्थान मिला है। विराट कोहली टीम के वर्तमान कप्तान हैं जबकि मुख्य कोच रवि शास्त्री हैं।",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of भारत की राष्ट्रीय क्रिकेट टीम"
                   }
                 }

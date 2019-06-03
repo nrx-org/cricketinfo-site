@@ -5,14 +5,16 @@
     "url": "/static/images/master/Glenn_McGrath_01_crop_2.jpg",
     "altText": "Image of Glenn McGrath"
   },
-  "summary": "Glenn McGrath is a former Australian cricketer who is considered one of the greatest bowlers in cricketing history",
+  "summary": "Glenn McGrath is a former Australian cricketer who is considered one of the greatest bowlers in cricketing history.",
   "translations": [
     {
       "lang": "hi",
+      "title": "ग्लेन मैक्ग्राथ ",
       "url": "/read/hi/glenn_mcgrath"
     },
     {
       "lang": "ta",
+      "title": "கிளென் மெக்ராத்",
       "url": "/read/ta/glenn_mcgrath"
     }
   ],
@@ -30,7 +32,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": "Invalid Date (Age 59)"
+            "label": "09-02-1970 (Age 59)"
           }
         },
         {
@@ -128,6 +130,29 @@
           }
         },
         {
+          "label": "World cup 2007",
+          "id": "phase_world_cup_2007",
+          "note": "2007",
+          "value": {
+            "label": "McGrath won the man-of-the-tournament award for his outstanding bowling",
+            "facts": [
+              {
+                "url": "/read/en/2007_cricket_world_cup",
+                "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
+                "label": "2007 Cricket World Cup",
+                "id": "phase_fact_fact_2007_cricket_world_cup",
+                "value": {
+                  "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
+                  "image": {
+                    "url": "/static/images/master/2007_Cricket_World_Cup_logo.svg",
+                    "altText": "Image of 2007 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
           "label": "IPL Debut",
           "id": "phase_ipl_debut",
           "note": "2008",
@@ -162,8 +187,9 @@
           "value": {
             "label": "At the time of his retirement McGrath held the record for most runs scored as a number eleven batsman",
             "image": {
-              "url": "",
-              "altText": "At the time of his retirement McGrath held the record for most runs scored as a number eleven batsman"
+              "url": "/static/images/master/Glen_McGrath_28713175037529.jpg",
+              "altText": "At the time of his retirement McGrath held the record for most runs scored as a number eleven batsman",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -173,7 +199,7 @@
           "value": {
             "label": "During this career, Glenn McGrath has taken 563 Test wickets",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Glenn_McGrath_01_crop_2.jpg",
               "altText": "During this career, Glenn McGrath has taken 563 Test wickets"
             }
           }
@@ -184,8 +210,9 @@
           "value": {
             "label": "McGrath holds the record for dismissing the most batsmen (104) for ducks in test cricket",
             "image": {
-              "url": "",
-              "altText": "McGrath holds the record for dismissing the most batsmen (104) for ducks in test cricket"
+              "url": "/static/images/master/Glenn_McGrath_2005.jpg",
+              "altText": "McGrath holds the record for dismissing the most batsmen (104) for ducks in test cricket",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -195,8 +222,9 @@
           "value": {
             "label": "McGrath has taken the seventh-highest number of one day international wickets (381)",
             "image": {
-              "url": "",
-              "altText": "McGrath has taken the seventh-highest number of one day international wickets (381)"
+              "url": "/static/images/master/Glenn_McGrath_in_Circular_Quay2C_Sydney2C_Australia2C_2018-02-03.jpg",
+              "altText": "McGrath has taken the seventh-highest number of one day international wickets (381)",
+              "license": "<p>This file is made available under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\">CC0 1.0 Universal Public Domain Dedication</a>.</p>"
             }
           }
         },
@@ -218,21 +246,21 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Australia (1993-2007)",
-          "id": "team_fact_australia_1993-2007",
+          "label": "Australia National Cricket team (1993-2007)",
+          "id": "team_fact_australia_national_cricket_team_1993-2007",
           "value": {
             "label": "",
             "facts": [
               {
-                "label": "Australia Cricket team",
-                "id": "team_fact_fact_australia_cricket_team",
-                "url": "/read/en/australia_cricket_team",
-                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "label": "Australia national cricket team",
+                "id": "team_fact_fact_australia_national_cricket_team",
+                "url": "/read/en/australia_national_cricket_team",
+                "contentUrl": "/static/content/en/australia_national_cricket_team.json",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
                     "url": "/static/images/master/Australia_cricket_logo.svg",
-                    "altText": "Picture of Australia Cricket team"
+                    "altText": "Picture of Australia national cricket team"
                   }
                 }
               }
@@ -262,8 +290,8 @@
           }
         },
         {
-          "label": "New South Wales (1992-2007)",
-          "id": "team_fact_new_south_wales_1992-2007",
+          "label": "New South Wales (1992 - 2007)",
+          "id": "team_fact_new_south_wales_1992 - 2007",
           "value": {
             "label": "The New South Wales cricket team (currently named NSW Blues) are an Australian men's professional first class cricket team based in Sydney."
           }

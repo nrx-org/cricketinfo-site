@@ -1,0 +1,298 @@
+{
+  "title": "बेन स्टोक्स",
+  "wikipediaUrl": "",
+  "coverImage": {
+    "url": "/static/images/master/BEN_STOKES_281170483702329_28cropped29.jpg",
+    "altText": "Image of बेन स्टोक्स",
+    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+  },
+  "summary": "बेन स्टोक्स  इंग्लैंड के अंतर्राष्ट्रीय क्रिकेटर हैं और इंग्लैंड टेस्ट टीम के पूर्व उप-कप्तान हैं।",
+  "translations": [
+    {
+      "lang": "en",
+      "title": "Ben Stokes",
+      "url": "/read/en/ben_stokes"
+    },
+    {
+      "lang": "ta",
+      "title": "பென் ஸ்டோக்ஸ்",
+      "url": "/read/ta/ben_stokes"
+    }
+  ],
+  "sections": [
+    {
+      "title": "इनके बारे में",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "पूरा नाम",
+          "value": {
+            "label": "बेंजामिन एंड्रयू स्टोक्स"
+          }
+        },
+        {
+          "label": "जन्मतिथि",
+          "value": {
+            "label": "04 Jun 1991 (आयु 27)"
+          }
+        },
+        {
+          "label": "जन्मस्थान",
+          "value": {
+            "label": "क्राइस्टचर्च, न्यूजीलैंड",
+            "url": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%9A%E0%A4%B0%E0%A5%8D%E0%A4%9A",
+            "contentUrl": "/static/content/hi/christ_church.json"
+          }
+        },
+        {
+          "label": "ऊंचाई",
+          "value": {
+            "label": "6 फीट 2 इंच (1.88 मीटर)"
+          }
+        },
+        {
+          "label": "राष्ट्रीयता",
+          "value": {
+            "label": "अंग्रेज"
+          }
+        },
+        {
+          "label": "भूमिका",
+          "value": {
+            "label": "हरफनमौला"
+          }
+        }
+      ]
+    },
+    {
+      "title": "खेलने की शैली",
+      "id": "style_of_play",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "बाएं हाथ के मध्यक्रम के आक्रामक बल्लेबाज",
+            "image": {
+              "url": "/static/images/master/England_vs._New_Zealand_2015_283429.jpg",
+              "altText": "Style of play for बेन स्टोक्स",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "दौर",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "प्रथम श्रेणी की शुरुआत",
+          "id": "phase_प्रथम_श्रेणी_की_शुरुआत",
+          "note": "2010",
+          "value": {
+            "label": "स्टोक्स ने डरहम के लिए मैरीलेबोन क्रिकेट क्लब (एमसीसी) के खिलाफ प्रथम श्रेणी में पदार्पण किया"
+          }
+        },
+        {
+          "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
+          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
+          "note": "2011",
+          "value": {
+            "label": "स्टोक्स ने अगस्त 2011 में आयरलैंड के खिलाफ अंतर्राष्ट्रीय एकदिवसीय क्रिकेट (वनडे) में पदार्पण किया।"
+          }
+        },
+        {
+          "label": "आईसीसी टूर्नामेंट में प्रथम प्रवेश",
+          "id": "phase_आईसीसी_टूर्नामेंट_में_प्रथम_प्रवेश",
+          "note": "2016",
+          "value": {
+            "label": "स्टोक्स इंग्लैंड टीम का हिस्सा थे जो टूर्नामेंट में उपविजेता रही"
+          }
+        },
+        {
+          "label": "2017 चैंपियंस ट्रॉफी",
+          "id": "phase_2017_चैंपियंस_ट्रॉफी",
+          "note": "2017",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "url": "/read/hi/icc_champions_trophy",
+                "contentUrl": "/static/content/hi/icc_champions_trophy.json",
+                "label": "आईसीसी चैंपियंस ट्रॉफी",
+                "id": "phase_fact_fact_आईसीसी_चैंपियंस_ट्रॉफी",
+                "value": {
+                  "label": "आईसीसी चैंपियंस ट्रॉफी एक दिवसीय अंतर्राष्ट्रीय (वनडे) क्रिकेट टूर्नामेंट था जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया जाता था, जो क्रिकेट विश्व कप के बाद दूसरा सबसे महत्वपूर्ण आयोजन था। 2002 में इसका नाम बदलकर चैंपियंस ट्रॉफी रखा गया।",
+                  "image": {
+                    "url": "/static/images/master/ICC_Champions_Trophy_cricket_logo.png",
+                    "altText": "Image of आईसीसी चैंपियंस ट्रॉफी"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "आईपीएल में प्रथम प्रवेश",
+          "id": "phase_आईपीएल_में_प्रथम_प्रवेश",
+          "note": "2017",
+          "value": {
+            "label": "राइजिंग पुणे सुपरजायंट पुणे स्थित एक आईपीएल क्रिकेट टीम थी"
+          }
+        }
+      ]
+    },
+    {
+      "title": "उपलब्धि और रिकॉर्ड",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "स्टोक्स ने इंग्लैंड की ओर से सबसे तेज टेस्ट दोहरा शतक लगाने का रिकॉर्ड बनाया",
+            "image": {
+              "url": "/static/images/master/England_vs._New_Zealand_2015_283529.jpg",
+              "altText": "स्टोक्स ने इंग्लैंड की ओर से सबसे तेज टेस्ट दोहरा शतक लगाने का रिकॉर्ड बनाया",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "स्टोक्स के नाम टेस्ट मैच के सुबह के सत्र में किसी भी बल्लेबाज द्वारा बनाए गए सर्वाधिक रनों का रिकॉर्ड है",
+            "image": {
+              "url": "/static/images/master/Ben_Stokes_bowling_2C_2013.jpg",
+              "altText": "स्टोक्स के नाम टेस्ट मैच के सुबह के सत्र में किसी भी बल्लेबाज द्वारा बनाए गए सर्वाधिक रनों का रिकॉर्ड है",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "स्टोक्स के नाम एक टेस्ट पारी में सबसे ज्यादा छक्के (11) का रिकॉर्ड हैं",
+            "image": {
+              "url": "/static/images/master/England_vs._New_Zealand_2015_282629.jpg",
+              "altText": "स्टोक्स के नाम एक टेस्ट पारी में सबसे ज्यादा छक्के (11) का रिकॉर्ड हैं",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "जॉनी बेयरस्टो के साथ स्टोक्स ने छठे विकेट के लिए सर्वाधिक टेस्ट साझेदारी का रिकॉर्ड बनाया।",
+            "image": {
+              "url": "",
+              "altText": "जॉनी बेयरस्टो के साथ स्टोक्स ने छठे विकेट के लिए सर्वाधिक टेस्ट साझेदारी का रिकॉर्ड बनाया।"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "टीमें",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "इंग्लैंड (2010 से अब तक)",
+          "id": "team_fact_इंग्लैंड_2010 से अब तक",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "इंग्लैंड क्रिकेट टीम",
+                "id": "team_fact_fact_इंग्लैंड_क्रिकेट_टीम",
+                "url": "/read/hi/england_cricket_team",
+                "contentUrl": "/static/content/hi/england_cricket_team.json",
+                "value": {
+                  "label": "इंग्लैंड क्रिकेट टीम अंतरराष्ट्रीय क्रिकेट में इंग्लैंड और वेल्स का प्रतिनिधित्व करती है। इंग्लैंड और ऑस्ट्रेलिया 1877 में टेस्ट मैच खेलने वाली पहली टीमें थीं। ",
+                  "image": {
+                    "url": "/static/images/master/England_cricket_team_logo.svg",
+                    "altText": "Picture of इंग्लैंड क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "राजस्थान रॉयल्स (2018 से अब तक)",
+          "id": "team_fact_राजस्थान_रॉयल्स_2018 से अब तक",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "राजस्थान रॉयल्स",
+                "id": "team_fact_fact_राजस्थान_रॉयल्स",
+                "url": "/read/hi/rajasthan_royals",
+                "contentUrl": "/static/content/hi/rajasthan_royals.json",
+                "value": {
+                  "label": "राजस्थान रॉयल्स (संक्षिप्त रूप में आरआर) इंडियन प्रीमियर लीग में खेलने वाली राजस्थान के जयपुर आधारित एक फ्रेंचाइजी क्रिकेट टीम है।",
+                  "image": {
+                    "url": "/static/images/master/RR-LOGO-1.png",
+                    "altText": "Picture of राजस्थान रॉयल्स"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "डरहम (2009 से अब तक)",
+          "id": "team_fact_डरहम_2009 से अब तक",
+          "value": {
+            "label": "डरहम काउंटी क्रिकेट क्लब इंग्लैंड और वेल्स के घरेलू क्रिकेट संरचना के अठारह प्रथम श्रेणी काउंटी क्लबों में से एक है"
+          }
+        }
+      ]
+    },
+    {
+      "title": "पुरस्कार और सम्मान",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "एनबीसी डेनिस कॉम्पटन अवार्ड",
+          "tag": "2010",
+          "id": "award-0",
+          "value": {
+            "label": "एनबीसी डेनिस कॉम्पटन पुरस्कार 18 अंग्रेजी प्रथम श्रेणी की काउंटी टीम में से प्रत्येक में 'द मोस्ट प्रॉमिसिंग यंग प्लेयर' को दिया जाने वाला एक वार्षिक पुरस्कार है",
+            "image": {
+              "url": "",
+              "altText": "Image of एनबीसी डेनिस कॉम्पटन अवार्ड"
+            }
+          }
+        },
+        {
+          "label": "विजडन क्रिकेटर ऑफ द ईयर",
+          "tag": "2016",
+          "id": "award-1",
+          "value": {
+            "label": "विजडन क्रिकेटर्स अलमैनैक द्वारा दिया जाने वाला एक वार्षिक पुरस्कार",
+            "image": {
+              "url": "",
+              "altText": "Image of विजडन क्रिकेटर ऑफ द ईयर"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

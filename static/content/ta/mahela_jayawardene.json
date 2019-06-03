@@ -1,0 +1,368 @@
+{
+  "title": "மஹெல ஜெயவர்தனே",
+  "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AE%95%E0%AF%87%E0%AE%B2_%E0%AE%9C%E0%AE%AF%E0%AE%B5%E0%AE%B0%E0%AF%8D%E0%AE%A4%E0%AE%A9",
+  "coverImage": {
+    "url": "/static/images/master/Mahela_Jayawardene_3.JPG",
+    "altText": "Image of மஹெல ஜெயவர்தனே"
+  },
+  "summary": "மஹெல ஜெயவர்தனே இலங்கையைச் சேர்ந்த கிரிக்கெட் கோச் மற்றும் முன்னாள் சர்வதேசக் கிரிக்கெட் வீரர்",
+  "translations": [
+    {
+      "lang": "en",
+      "title": "Mahela Jayawardene",
+      "url": "/read/en/mahela_jayawardene"
+    },
+    {
+      "lang": "hi",
+      "title": "महेला जयवर्धने ",
+      "url": "/read/hi/mahela_jayawardene"
+    }
+  ],
+  "sections": [
+    {
+      "title": "விவரம்",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "முழுப் பெயர்",
+          "value": {
+            "label": "தெனகமகே பிரபாத் மஹெல தி சில்வா ஜெயவர்தனே"
+          }
+        },
+        {
+          "label": "பிறந்த தேதி",
+          "value": {
+            "label": "27-05-1977 (வயது 41)"
+          }
+        },
+        {
+          "label": "பிறந்த இடம்",
+          "value": {
+            "label": "கொழும்பு, இலங்கை",
+            "url": "https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AF%8A%E0%AE%B4%E0%AF%81%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81",
+            "contentUrl": "/static/content/ta/colombo.json"
+          }
+        },
+        {
+          "label": "உயரம்",
+          "value": {
+            "label": "5 அடி 7 அங்குலம் (1.70 மீ)"
+          }
+        },
+        {
+          "label": "வேறு பெயர்கள்",
+          "value": {
+            "label": "மையா"
+          }
+        },
+        {
+          "label": "சொந்த நாடு",
+          "value": {
+            "label": "இலங்கையர்"
+          }
+        },
+        {
+          "label": "இவரின் பங்கு",
+          "value": {
+            "label": "பேட்ஸ்மேன்"
+          }
+        }
+      ]
+    },
+    {
+      "title": "கல்வி",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "நாலந்தா கல்லூரி, கொழும்பு",
+          "value": {
+            "label": "ஜெயவர்தனே 1994-இல் கொழும்பு நாளந்தா கல்லூரியின் முதல் கிரிக்கெட் அணிக்கு கேப்டனாக இருந்தார்",
+            "image": {
+              "url": "/static/images/master/Nalanda_Crest.png",
+              "altText": "Image of நாலந்தா கல்லூரி, கொழும்பு"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "விளையாட்டின் பாணி",
+      "id": "style_of_play",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "வலதுகை பேட்ஸ்மேன் மற்றும் வலதுகை மீடியம் பந்துவீச்சாளர்",
+            "image": {
+              "url": "/static/images/master/Mahela_Jayawardene_-_batting.jpg",
+              "altText": "Style of play for மஹெல ஜெயவர்தனே"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "படிநிலைகள்",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "முதல் வகுப்பு",
+          "id": "phase_முதல்_வகுப்பு",
+          "note": "1995",
+          "value": {
+            "label": "மஹெல ஜெயவர்தனே தனது முதல் ஃபர்ஸ்ட்-கிளாஸ் கிரிக்கெட் போட்டியை சிங்கள ஸ்போர்ட்ஸ் கிளப்பிற்காக ஆடினார்"
+          }
+        },
+        {
+          "label": "National team debut ",
+          "id": "phase_national_team_debut",
+          "note": "1997",
+          "value": {
+            "label": "1997-இல் கொழும்புவில், இந்தியாவுக்கு எதிராக மஹெல ஜெயவர்தனே தனது முதல் சர்வதேசப் போட்டியை விளையாடினார்",
+            "facts": [
+              {
+                "url": "/read/ta/india_national_cricket_team",
+                "contentUrl": "/static/content/ta/india_national_cricket_team.json",
+                "label": "இந்திய தேசிய கிரிக்கெட் அணி",
+                "id": "phase_fact_fact_இந்திய_தேசிய_கிரிக்கெட்_அணி",
+                "value": {
+                  "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
+                  "image": {
+                    "url": "/static/images/master/Flagcricket.jpg",
+                    "altText": "Image of இந்திய தேசிய கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "ICC Tournament Debut",
+          "id": "phase_icc_tournament_debut",
+          "note": "1999",
+          "value": {
+            "label": "1999 உலகக்கோப்பை அணியின் மிக முக்கிய வீரராக ஜெயவர்தனே திகழ்ந்தார்"
+          }
+        },
+        {
+          "label": "2003  World cup",
+          "id": "phase_2003_world_cup",
+          "note": "2003",
+          "value": {
+            "label": "2003 உலகக்கோப்பை அணியின் மிக முக்கிய வீரராக ஜெயவர்தனே திகழ்ந்தார்",
+            "facts": [
+              {
+                "url": "/read/ta/2003_cricket_world_cup",
+                "contentUrl": "/static/content/ta/2003_cricket_world_cup.json",
+                "label": "2003 கிரிக்கெட் உலகக் கோப்பை",
+                "id": "phase_fact_fact_2003_கிரிக்கெட்_உலகக்_கோப்பை",
+                "value": {
+                  "label": "2003 का क्रिकेट विश्व कप आठवां क्रिकेट विश्व कप था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेजबानी दक्षिण अफ्रीका, जिम्बाब्वे और केन्या ने मिल कर की थी।",
+                  "image": {
+                    "url": "/static/images/master/Cricket_World_Cup_Logo_2003.svg",
+                    "altText": "Image of 2003 கிரிக்கெட் உலகக் கோப்பை"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2007 Cricket world cup",
+          "id": "phase_2007_cricket_world_cup",
+          "note": "2007",
+          "value": {
+            "label": "2007 கிரிக்கெட் உலகக்கோப்பையில், நியூசிலாந்துக்கு எதிரான அரை இறுதிப் போட்டியில் ஜெயவர்தனே சதம் அடித்தார்"
+          }
+        },
+        {
+          "label": "ஐ.பி.எல்",
+          "id": "phase_ஐ.பி.எல்",
+          "note": "2008",
+          "value": {
+            "label": "ஜெயவர்தனே, 2008 முதல் 2010 வரை கிங்ஸ் லெவன் பஞ்சாப் அணிக்காக விளையாடினார்",
+            "facts": [
+              {
+                "url": "/read/ta/kings_xi_punjab",
+                "contentUrl": "/static/content/ta/kings_xi_punjab.json",
+                "label": "கிங்ஸ் லெவன் பஞ்சாப்",
+                "id": "phase_fact_fact_கிங்ஸ்_லெவன்_பஞ்சாப்",
+                "value": {
+                  "label": "கிங்ஸ் லெவன் பஞ்சாப் (கே11பி) என்பது மொஹலி (சண்டிகர் சிஆர்), பஞ்சாப்பை அடிப்படையாகக் கொண்ட, இந்திய ஐபிஎல் லீக்கில் ஆடும் ஒரு உரிமம் பெற்ற கிரிக்கெட் அணியாகும்.",
+                  "image": {
+                    "url": "/static/images/master/Kings_XI_Punjab_logo.svg",
+                    "altText": "Image of கிங்ஸ் லெவன் பஞ்சாப்"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "சாதனைகள்",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "ஜெயவர்தனே, குமார் சங்ககாராவுடன் இணைந்து அதிக ரன் பார்ட்னர்ஷிப் (624)  என்ற உலக சாதனைப் படைத்தார்",
+            "image": {
+              "url": "/static/images/master/Mahela_Jayawardene_3.JPG",
+              "altText": "ஜெயவர்தனே, குமார் சங்ககாராவுடன் இணைந்து அதிக ரன் பார்ட்னர்ஷிப் (624)  என்ற உலக சாதனைப் படைத்தார்"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "ஜெயவர்த்தன, டெஸ்ட் போட்டிகளில் 205 கேட்சுகளைப் பிடித்து இரண்டாவது அதிகபட்ச கேட்சுகளைப் பிடித்தவர் என்ற ரெக்கார்டை தக்கவைத்துள்ளார்",
+            "image": {
+              "url": "/static/images/master/Mahela_Jayawardene.jpg",
+              "altText": "ஜெயவர்த்தன, டெஸ்ட் போட்டிகளில் 205 கேட்சுகளைப் பிடித்து இரண்டாவது அதிகபட்ச கேட்சுகளைப் பிடித்தவர் என்ற ரெக்கார்டை தக்கவைத்துள்ளார்",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "2006-ஆம் ஆண்டு, ஜெயவர்தனே டெஸ்ட் போட்டிகளில் தனிநபராக அதிகபட்ச ரன்களை (374)  எடுத்த வலதுகை பேட்ஸ்மேன் என்ற சாதனையைப் படைத்தார்",
+            "image": {
+              "url": "/static/images/master/Mahela_batting_vs_England_in_his_final_ODI_in_Sri_Lanka.JPG",
+              "altText": "2006-ஆம் ஆண்டு, ஜெயவர்தனே டெஸ்ட் போட்டிகளில் தனிநபராக அதிகபட்ச ரன்களை (374)  எடுத்த வலதுகை பேட்ஸ்மேன் என்ற சாதனையைப் படைத்தார்",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "ஜெயர்வர்தன, ஓடிஐ வரலாற்றில் 200 ஓடிஐ கேட்சுகளைப் பிடித்த முதல் ஃபீல்டர் என்ற பெருமைக்குரியவர்",
+            "image": {
+              "url": "/static/images/master/Mahela_Jayawardene_2.jpg",
+              "altText": "ஜெயர்வர்தன, ஓடிஐ வரலாற்றில் 200 ஓடிஐ கேட்சுகளைப் பிடித்த முதல் ஃபீல்டர் என்ற பெருமைக்குரியவர்",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "4-வது பொசிஷனில் பேட்டிங் செய்து, ஓடிஐ வரலாற்றில் அதிக ரன்களை (6,946) எடுத்தவர் என்ற பெருமைக்குரியவர் ஜெயர்வர்தன",
+            "image": {
+              "url": "",
+              "altText": "4-வது பொசிஷனில் பேட்டிங் செய்து, ஓடிஐ வரலாற்றில் அதிக ரன்களை (6,946) எடுத்தவர் என்ற பெருமைக்குரியவர் ஜெயர்வர்தன"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "அணிகள்",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "இலங்கையர் (1997-2015)",
+          "id": "team_fact_இலங்கையர்_1997-2015",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "இலங்கை தேசியக் கிரிக்கெட் அணி",
+                "id": "team_fact_fact_இலங்கை_தேசியக்_கிரிக்கெட்_அணி",
+                "url": "/read/ta/sri_lanka_national_cricket_team",
+                "contentUrl": "/static/content/ta/sri_lanka_national_cricket_team.json",
+                "value": {
+                  "label": "இலங்கை தேசியக் கிரிக்கெட் அணி, தி லயன்ஸ் எனப் பெயரிடப்பட்டு, சர்வதேசக் கிரிக்கெட்டில் இலங்கையைப் பிரதிநிதித்துவம் செய்கிறது. இது டெஸ்ட், ஒருநாள் சர்வதேசப் போட்டி மற்றும் சர்வதேச டி20 போட்டி அந்தஸ்தில் சர்வதேசக் கிரிக்கெட் கவுன்சிலின் (ஐசிசி) முழு உறுப்பினராக உள்ளது.",
+                  "image": {
+                    "url": "/static/images/master/Sri_Lanka_Cricket_Cap_Insignia.svg",
+                    "altText": "Picture of இலங்கை தேசியக் கிரிக்கெட் அணி"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "டெல்லி டேர்டெவில்ஸ் (இப்போது டெல்லி கேப்பிட்டல்ஸ்) (2012-2014)",
+          "id": "team_fact_டெல்லி_டேர்டெவில்ஸ்_(இப்போது_டெல்லி_கேப்பிட்டல்ஸ்)_2012-2014",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "டெல்லி கேபிடல்ஸ்",
+                "id": "team_fact_fact_டெல்லி_கேபிடல்ஸ்",
+                "url": "/read/ta/delhi_capitals",
+                "contentUrl": "/static/content/ta/delhi_capitals.json",
+                "value": {
+                  "label": "டெல்லி கேபிட்டல்ஸ் ஐபிஎல் லீக்கில் (ஐபிஎல்) டெல்லி நகரை பிரதிநிதித்துவப்படுத்தும் ஒரு உரிமம் பெற்ற கிரிக்கெட் அணியாகும்.",
+                  "image": {
+                    "url": "/static/images/master/Delhi_Capitals_Logo.svg",
+                    "altText": "Picture of டெல்லி கேபிடல்ஸ்"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "சிங்கள ஸ்போர்ட்ஸ் கிளப் (1995-2015)",
+          "id": "team_fact_சிங்கள_ஸ்போர்ட்ஸ்_கிளப்_1995-2015",
+          "value": {
+            "label": "சிங்கள ஸ்போர்ட்ஸ் கிளப் (எஸ்எஸ்சி), இலங்கையில் உள்ள ஃபர்ஸ்ட்-கிளாஸ் கிரிக்கெட் கிளப் ஆகும்"
+          }
+        }
+      ]
+    },
+    {
+      "title": "விருதுகள் & கௌரவங்கள்",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "ஆண்டின் சிறந்த ஐசிசி கேப்டன் விருது",
+          "tag": "2006",
+          "id": "award-0",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": "Image of ஆண்டின் சிறந்த ஐசிசி கேப்டன் விருது"
+            }
+          }
+        },
+        {
+          "label": "ஆண்டின் விஸ்டன் கிரிக்கெட் வீரர் விருது",
+          "tag": "2007",
+          "id": "award-1",
+          "value": {
+            "label": "விஸ்டன் கிரிக்கெட்டர்ஸ் அல்மனாக்கால் வருடத்திற்கு ஒரு முறை வழங்கப்படும் விருதாகும்",
+            "image": {
+              "url": "",
+              "altText": "Image of ஆண்டின் விஸ்டன் கிரிக்கெட் வீரர் விருது"
+            }
+          }
+        },
+        {
+          "label": "ஐசிசி ஸ்பிரிட் ஆஃப் கிரிக்கெட் விருது",
+          "tag": "2013",
+          "id": "award-2",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": "Image of ஐசிசி ஸ்பிரிட் ஆஃப் கிரிக்கெட் விருது"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

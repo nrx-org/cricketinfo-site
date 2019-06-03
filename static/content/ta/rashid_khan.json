@@ -1,6 +1,6 @@
 {
   "title": "ரஷீத் கான்",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rashid_Khan_(cricketer)",
+  "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%B0%E0%AE%B7%E0%AF%80%E0%AE%A4%E0%AF%8D_%E0%AE%95%E0%AE%BE%E0%AE%A9%E0%AF%8D",
   "coverImage": {
     "url": "-",
     "altText": "Image of ரஷீத் கான்"
@@ -32,14 +32,14 @@
         {
           "label": "பிறந்த தேதி",
           "value": {
-            "label": "Invalid Date (வயது 20)"
+            "label": "20 September 1998 (வயது 20)"
           }
         },
         {
           "label": "பிறந்த இடம்",
           "value": {
             "label": "நங்கர்ஹார், ஆப்கானிஸ்தான்",
-            "url": "https://en.wikipedia.org/wiki/Nangarhar_Province",
+            "url": "https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%95%E0%AE%BE%E0%AE%A3%E0%AE%AE%E0%AF%8D",
             "contentUrl": "/static/content/ta/bogra.json"
           }
         },
@@ -114,13 +114,13 @@
               {
                 "url": "/read/ta/sunrisers_hyderabad",
                 "contentUrl": "/static/content/ta/sunrisers_hyderabad.json",
-                "label": "Sunrisers Hyderabad",
-                "id": "phase_fact_fact_sunrisers_hyderabad",
+                "label": "சன்ரைஸர்ஸ் ஹைதராபாத்",
+                "id": "phase_fact_fact_சன்ரைஸர்ஸ்_ஹைதராபாத்",
                 "value": {
-                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
+                  "label": "சன் ரைசர்ஸ் ஹைதராபாத் (பெரும்பாலும் எஸ்ஆர்எச் என சுருக்கமாக அழைக்கப்படுகிறது) என்பது ஐதராபாத், தெலுங்கானாவை அடிப்படையாகக் கொண்ட ஐபிஎல் பிரீமியர் லீக்கில் ஆடும் உரிமம் பெற்ற ஒரு கிரிக்கெட் அணி,",
                   "image": {
                     "url": "/static/images/master/Sunrisers_Hyderabad.svg",
-                    "altText": "Image of Sunrisers Hyderabad"
+                    "altText": "Image of சன்ரைஸர்ஸ் ஹைதராபாத்"
                   }
                 }
               }
@@ -201,15 +201,16 @@
             "label": "",
             "facts": [
               {
-                "label": "Afghanistan national cricket team",
-                "id": "team_fact_fact_afghanistan_national_cricket_team",
+                "label": "ஆப்கானிஸ்தான் தேசியக் கிரிக்கெட் அணி",
+                "id": "team_fact_fact_ஆப்கானிஸ்தான்_தேசியக்_கிரிக்கெட்_அணி",
                 "url": "/read/ta/afghanistan_national_cricket_team",
                 "contentUrl": "/static/content/ta/afghanistan_national_cricket_team.json",
                 "value": {
-                  "label": "The Afghanistan national cricket team is the 12th Test cricket playing Full Member nation. Cricket has been played in Afghanistan since the mid 19th century, but it is only in recent years that the national team has become successful. ",
+                  "label": "ஆப்கானிஸ்தான் தேசியக் கிரிக்கெட் அணி 12வது டெஸ்ட் கிரிக்கெட் ஆடும் முழு உறுப்பினர் நாடு. 19ஆம் நூற்றாண்டின் மத்தியில் இருந்தே ஆப்கானிஸ்தானில் கிரிக்கெட் ஆடப்பட்டது, ஆனால் சமீபத்திய ஆண்டுகளில் தான் தேசிய அணி வெற்றிகரமாக உருவாக்கப்பட்டது.",
                   "image": {
-                    "url": "/static/images/master/Afghanistan_cricket_board_logo.jpg",
-                    "altText": "Picture of Afghanistan national cricket team"
+                    "url": "/static/images/master/Flag_of_Afghanistan.svg",
+                    "altText": "Picture of ஆப்கானிஸ்தான் தேசியக் கிரிக்கெட் அணி",
+                    "license": ""
                   }
                 }
               }
@@ -223,15 +224,15 @@
             "label": "",
             "facts": [
               {
-                "label": "Sunrisers Hyderabad",
-                "id": "team_fact_fact_sunrisers_hyderabad",
+                "label": "சன்ரைஸர்ஸ் ஹைதராபாத்",
+                "id": "team_fact_fact_சன்ரைஸர்ஸ்_ஹைதராபாத்",
                 "url": "/read/ta/sunrisers_hyderabad",
                 "contentUrl": "/static/content/ta/sunrisers_hyderabad.json",
                 "value": {
-                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
+                  "label": "சன் ரைசர்ஸ் ஹைதராபாத் (பெரும்பாலும் எஸ்ஆர்எச் என சுருக்கமாக அழைக்கப்படுகிறது) என்பது ஐதராபாத், தெலுங்கானாவை அடிப்படையாகக் கொண்ட ஐபிஎல் பிரீமியர் லீக்கில் ஆடும் உரிமம் பெற்ற ஒரு கிரிக்கெட் அணி,",
                   "image": {
                     "url": "/static/images/master/Sunrisers_Hyderabad.svg",
-                    "altText": "Picture of Sunrisers Hyderabad"
+                    "altText": "Picture of சன்ரைஸர்ஸ் ஹைதராபாத்"
                   }
                 }
               }

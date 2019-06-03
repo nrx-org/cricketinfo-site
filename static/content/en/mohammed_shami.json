@@ -6,14 +6,16 @@
     "altText": "Image of Mohammed Shami",
     "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
   },
-  "summary": "Mohammed Shami is an Indian international cricketer",
+  "summary": "Mohammed Shami is an Indian international cricketer.",
   "translations": [
     {
       "lang": "hi",
+      "title": "मुहम्मद शमी",
       "url": "/read/hi/mohammed_shami"
     },
     {
       "lang": "ta",
+      "title": "முகம்மது ஷமி",
       "url": "/read/ta/mohammed_shami"
     }
   ],
@@ -31,7 +33,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": "Invalid Date (Age 28)"
+            "label": "03-09-1990 (Age 28)"
           }
         },
         {
@@ -70,7 +72,7 @@
         {
           "label": "",
           "value": {
-            "label": "Right-arm fast-medium bowler"
+            "label": "Right-arm fast-medium bowler."
           }
         }
       ]
@@ -84,7 +86,23 @@
           "id": "phase_first_class_debut",
           "note": "2010",
           "value": {
-            "label": "Shami made his first-class debut in 2010 against Assam, picking up three wickets."
+            "label": "Shami made his first-class debut in 2010 against Assam, picking up three wickets.",
+            "facts": [
+              {
+                "url": "/read/en/ranji_trophy",
+                "contentUrl": "/static/content/en/ranji_trophy.json",
+                "label": "Ranji Trophy",
+                "id": "phase_fact_fact_ranji_trophy",
+                "value": {
+                  "label": "The Ranji Trophy is a domestic first-class cricket championship played in India between teams representing regional and state cricket associations.",
+                  "image": {
+                    "url": "/static/images/master/Ranji_Trophy_logo.png",
+                    "altText": "Image of Ranji Trophy",
+                    "license": "<p>The logo for Paytm Ranji Trophy</p><p></p><p>hotstar.com</p><p><b><a href=\"/wiki/Ranji_Trophy\" title=\"Ranji Trophy\">Ranji Trophy</a></b></p><p>to serve as the primary means of visual identification at the top of the article dedicated to the entity in question.</p><p>n.a.</p><p>The file will only be used as the logo for Ranji Trophy.</p><p>n.a.</p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:Ranji_Trophy_logo.png</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p><p><b>To the uploader</b>: \n<ol><li>This tag is only for use on images of logos.</li>\n<li>This tag is not sufficient on its own. Please add a detailed <b><a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">fair use rationale</a></b> for each use, as well as the <b>source</b> of the work and copyright information.</li>\n<li>For an example fair use rationale for a logo, see <a href=\"/wiki/Wikipedia:Use_rationale_examples#Logo_in_the_article_about_the_topic_that_the_logo_represents\" title=\"Wikipedia:Use rationale examples\">here</a>.</li>\n<li><b><a href=\"/wiki/Template:Non-free_use_rationale_logo\" title=\"Template:Non-free use rationale logo\">Template:Non-free use rationale logo</a></b> may be helpful for stating the rationale.</li>\n<li>Please do not use this template to tag non-free icons of computer software. Such items should be tagged with {{<a href=\"/wiki/Template:Non-free_computer_icon\" title=\"Template:Non-free computer icon\">Non-free computer icon</a>}} template.</li></ol>\n<p><b>Regarding uses other than in the original article:</b>\n</p>\n<ul><li>A detailed <b><a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">non-free use rationale</a></b> is required for <b>every</b> article the logo is used in. Check the <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free use criteria</a> and do not assume that existing rationales can be simply copied and pasted, as they may not necessarily apply.</li></ul>\n<b> To patrollers and administrators</b>: If this image has an &apos;appropriate&apos; rationale please append <code>|image has rationale=yes</code> as a parameter to the license template.</p>"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -116,6 +134,29 @@
           "note": "2014",
           "value": {
             "label": "Shami made his T20 debut in the opening match of the T20 world cup"
+          }
+        },
+        {
+          "label": "2015 World cup",
+          "id": "phase_2015_world_cup",
+          "note": "2015",
+          "value": {
+            "label": "Shami picked 4 wickets in the match between Indian and Pakistan",
+            "facts": [
+              {
+                "url": "/read/en/2015_cricket_world_cup",
+                "contentUrl": "/static/content/en/2015_cricket_world_cup.json",
+                "label": "2015 Cricket World Cup",
+                "id": "phase_fact_fact_2015_cricket_world_cup",
+                "value": {
+                  "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand.",
+                  "image": {
+                    "url": "/static/images/master/2015_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2015 Cricket World Cup"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -153,8 +194,8 @@
           "value": {
             "label": "Shami picked 5  wickets on his Test debut against West Indies in November 2013",
             "image": {
-              "url": "",
-              "altText": "Shami picked 5  wickets on his Test debut against West Indies in November 2013"
+              "altText": "Shami picked 5  wickets on his Test debut against West Indies in November 2013",
+              "license": ""
             }
           }
         },
@@ -164,8 +205,9 @@
           "value": {
             "label": "In 2019, Shami picked up 100 ODIs wickets, fastest to reach this milestone among Indian bowlers",
             "image": {
-              "url": "",
-              "altText": "In 2019, Shami picked up 100 ODIs wickets, fastest to reach this milestone among Indian bowlers"
+              "url": "/static/images/master/Indian_Cricket_team_training_SCG_2015_281600716163729.jpg",
+              "altText": "In 2019, Shami picked up 100 ODIs wickets, fastest to reach this milestone among Indian bowlers",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -209,8 +251,8 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Indian national cricket team (2013-present)",
-          "id": "team_fact_indian_national_cricket_team_2013-present",
+          "label": "India National Cricket team (2013-present)",
+          "id": "team_fact_india_national_cricket_team_2013-present",
           "value": {
             "label": "",
             "facts": [
@@ -222,7 +264,7 @@
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of India national cricket team"
                   }
                 }

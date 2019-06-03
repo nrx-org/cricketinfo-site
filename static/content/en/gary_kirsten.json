@@ -5,14 +5,16 @@
     "url": "/static/images/master/GaryKirsten.jpg",
     "altText": "Image of Gary Kirsten"
   },
-  "summary": "Gary Kirsten is a former South African cricketer. He was also the coach of the Indian cricket team that won the 2011 world cup.",
+  "summary": "Gary Kirsten is a former South African cricketer. He was also the coach of the Indian cricket team that won the 2011 World Cup.",
   "translations": [
     {
       "lang": "hi",
+      "title": "गैरी कर्स्टन ",
       "url": "/read/hi/gary_kirsten"
     },
     {
       "lang": "ta",
+      "title": "கேரி கிர்ஸ்டன்",
       "url": "/read/ta/gary_kirsten"
     }
   ],
@@ -108,15 +110,15 @@
             "label": "Kirsten made his international debut in a ODI versus Australia in 1993",
             "facts": [
               {
-                "url": "/read/en/australia_cricket_team",
-                "contentUrl": "/static/content/en/australia_cricket_team.json",
-                "label": "Australia Cricket team",
-                "id": "phase_fact_fact_australia_cricket_team",
+                "url": "/read/en/australia_national_cricket_team",
+                "contentUrl": "/static/content/en/australia_national_cricket_team.json",
+                "label": "Australia national cricket team",
+                "id": "phase_fact_fact_australia_national_cricket_team",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
                     "url": "/static/images/master/Australia_cricket_logo.svg",
-                    "altText": "Image of Australia Cricket team"
+                    "altText": "Image of Australia national cricket team"
                   }
                 }
               }
@@ -166,7 +168,7 @@
           "value": {
             "label": "Created the record for highest innings by a South African in a One Day International versus UAE, scoring 188 not out",
             "image": {
-              "url": "",
+              "url": "/static/images/master/GaryKirsten.jpg",
               "altText": "Created the record for highest innings by a South African in a One Day International versus UAE, scoring 188 not out"
             }
           }
@@ -222,8 +224,8 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "South African national cricket team (1993 - 2004)",
-          "id": "team_fact_south_african_national_cricket_team_1993 - 2004",
+          "label": "South Africa National Cricket team (1993 - 2004)",
+          "id": "team_fact_south_africa_national_cricket_team_1993 - 2004",
           "value": {
             "label": "",
             "facts": [
@@ -244,8 +246,8 @@
           }
         },
         {
-          "label": "Western Province (1987-2004)",
-          "id": "team_fact_western_province_1987-2004",
+          "label": "Western Province (1987 - 2004)",
+          "id": "team_fact_western_province_1987 - 2004",
           "value": {
             "label": "Western Province is the team representing Western Cape province in domestic first-class cricket in South Africa."
           }

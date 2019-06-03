@@ -1,6 +1,6 @@
 {
   "title": "Sourav Ganguly",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/File:Sourav_Ganguly_closeup.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sourav_Ganguly",
   "coverImage": {
     "url": "/static/images/master/Sourav_Ganguly_closeup.jpg",
     "altText": "Image of Sourav Ganguly"
@@ -39,7 +39,8 @@
           "label": "Birthplace",
           "value": {
             "label": "Kolkata, India",
-            "url": "https://en.wikipedia.org/wiki/Calcutta"
+            "url": "https://en.wikipedia.org/wiki/Calcutta",
+            "contentUrl": "/static/content/en/kolkata.json"
           }
         },
         {
@@ -110,7 +111,23 @@
           "id": "phase_first_class_debut",
           "note": "1989",
           "value": {
-            "label": "Sourav Ganguly made his first-class cricket debut for Bengal in 1989."
+            "label": "Sourav Ganguly made his first-class cricket debut for Bengal in 1989.",
+            "facts": [
+              {
+                "url": "/read/en/ranji_trophy",
+                "contentUrl": "/static/content/en/ranji_trophy.json",
+                "label": "Ranji Trophy",
+                "id": "phase_fact_fact_ranji_trophy",
+                "value": {
+                  "label": "The Ranji Trophy is a domestic first-class cricket championship played in India between teams representing regional and state cricket associations.",
+                  "image": {
+                    "url": "/static/images/master/Ranji_Trophy_logo.png",
+                    "altText": "Image of Ranji Trophy",
+                    "license": "<p>The logo for Paytm Ranji Trophy</p><p></p><p>hotstar.com</p><p><b><a href=\"/wiki/Ranji_Trophy\" title=\"Ranji Trophy\">Ranji Trophy</a></b></p><p>to serve as the primary means of visual identification at the top of the article dedicated to the entity in question.</p><p>n.a.</p><p>The file will only be used as the logo for Ranji Trophy.</p><p>n.a.</p><p>This is a <b><a href=\"/wiki/Logo\" title=\"Logo\">logo</a></b> of an organization, item, or event, and is protected by <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a>. It is believed that the use of <b>low-resolution</b> images on the <a href=\"/wiki/Main_Page\" title=\"Main Page\">English-language Wikipedia</a>, hosted on servers in the United States by the non-profit <a href=\"https://foundation.wikimedia.org/wiki/Home\" class=\"extiw\" title=\"wmf:Home\">Wikimedia Foundation</a>, of logos for certain uses involving identification and critical commentary may qualify as <b><a href=\"/wiki/Fair_use\" title=\"Fair use\">fair use</a></b> under the <a href=\"/wiki/Copyright_law_of_the_United_States\" title=\"Copyright law of the United States\">Copyright law of the United States</a>. <b>Any other uses of this image, on Wikipedia or elsewhere, may be <a href=\"/wiki/Copyright_infringement\" title=\"Copyright infringement\">copyright infringement</a>.</b> Certain commercial use of this image may also be trademark infringement. See <a href=\"/wiki/Wikipedia:Non-free_content\" title=\"Wikipedia:Non-free content\">Wikipedia:Non-free content</a> and <a href=\"/wiki/Wikipedia:Logos\" title=\"Wikipedia:Logos\">Wikipedia:Logos</a>.\n<p>Use of the logo here does not imply endorsement of the organization by Wikipedia or the <a href=\"/wiki/Wikimedia_Foundation\" title=\"Wikimedia Foundation\">Wikimedia Foundation</a>, nor vice versa.\n<span class=\"licensetpl_short licensetpl_long\" style=\"display: none\">Fair use</span>\n<span class=\"licensetpl_link\" style=\"display: none\">//en.wikipedia.org/wiki/File:Ranji_Trophy_logo.png</span>\n</p>\n<span class=\"licensetpl_nonfree\" style=\"display:none\">true</span></p><p><b>To the uploader</b>: \n<ol><li>This tag is only for use on images of logos.</li>\n<li>This tag is not sufficient on its own. Please add a detailed <b><a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">fair use rationale</a></b> for each use, as well as the <b>source</b> of the work and copyright information.</li>\n<li>For an example fair use rationale for a logo, see <a href=\"/wiki/Wikipedia:Use_rationale_examples#Logo_in_the_article_about_the_topic_that_the_logo_represents\" title=\"Wikipedia:Use rationale examples\">here</a>.</li>\n<li><b><a href=\"/wiki/Template:Non-free_use_rationale_logo\" title=\"Template:Non-free use rationale logo\">Template:Non-free use rationale logo</a></b> may be helpful for stating the rationale.</li>\n<li>Please do not use this template to tag non-free icons of computer software. Such items should be tagged with {{<a href=\"/wiki/Template:Non-free_computer_icon\" title=\"Template:Non-free computer icon\">Non-free computer icon</a>}} template.</li></ol>\n<p><b>Regarding uses other than in the original article:</b>\n</p>\n<ul><li>A detailed <b><a href=\"/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">non-free use rationale</a></b> is required for <b>every</b> article the logo is used in. Check the <a href=\"/wiki/Wikipedia:Non-free_content_criteria\" title=\"Wikipedia:Non-free content criteria\">non-free use criteria</a> and do not assume that existing rationales can be simply copied and pasted, as they may not necessarily apply.</li></ul>\n<b> To patrollers and administrators</b>: If this image has an &apos;appropriate&apos; rationale please append <code>|image has rationale=yes</code> as a parameter to the license template.</p>"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -126,7 +143,7 @@
                 "label": "West Indies cricket team",
                 "id": "phase_fact_fact_west_indies_cricket_team",
                 "value": {
-                  "label": "The West Indies cricket team, traditionally known as the Windies, is a multi-national cricket team representing the Anglophone Caribbean region and administered by Cricket West Indies. The players on this composite team are selected from a chain of fifteen Caribbean territories",
+                  "label": "The West Indies cricket team, traditionally known as the Windies, is a multi-national cricket team representing the Anglophone Caribbean region and administered by Cricket West Indies. The players on this composite team are selected from a chain of fifteen Caribbean territories.",
                   "image": {
                     "url": "/static/images/master/West_indies_cricket_board_flag.png",
                     "altText": "Image of West Indies cricket team"
@@ -263,8 +280,9 @@
           "value": {
             "label": "Sourav Ganguly scored a century on his test debut versus England at Lord's",
             "image": {
-              "url": "",
-              "altText": "Sourav Ganguly scored a century on his test debut versus England at Lord's"
+              "url": "/static/images/master/Gangooly_28279085958629.jpg",
+              "altText": "Sourav Ganguly scored a century on his test debut versus England at Lord's",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -274,8 +292,9 @@
           "value": {
             "label": "Ganguly has the highest individual score by an Indian batsman (183) in the Cricket World Cup",
             "image": {
-              "url": "",
-              "altText": "Ganguly has the highest individual score by an Indian batsman (183) in the Cricket World Cup"
+              "url": "/static/images/master/Sourav_Ganguly4_28129.jpg",
+              "altText": "Ganguly has the highest individual score by an Indian batsman (183) in the Cricket World Cup",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -283,10 +302,11 @@
           "label": "",
           "id": "achievement_or_record_3",
           "value": {
-            "label": "Ganguly became India's most successful Test captain leading the team to victory on 21 occasions",
+            "label": "Ganguly became India's most successful Test captain leading the team to victory on 21 occasions.",
             "image": {
-              "url": "",
-              "altText": "Ganguly became India's most successful Test captain leading the team to victory on 21 occasions"
+              "url": "/static/images/master/Ganguly_with_shahrukh.jpg",
+              "altText": "Ganguly became India's most successful Test captain leading the team to victory on 21 occasions.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
             }
           }
         },
@@ -294,10 +314,10 @@
           "label": "",
           "id": "achievement_or_record_4",
           "value": {
-            "label": "Ganguly is India's most successful Test captain overseas, winning 11 out of 28 matches that he led",
+            "label": "Ganguly is India's most successful Test captain overseas, winning 11 out of 28 matches that he led.",
             "image": {
-              "url": "",
-              "altText": "Ganguly is India's most successful Test captain overseas, winning 11 out of 28 matches that he led"
+              "url": "/static/images/master/Sourav_Ganguly_closeup.jpg",
+              "altText": "Ganguly is India's most successful Test captain overseas, winning 11 out of 28 matches that he led."
             }
           }
         },
@@ -319,8 +339,8 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Indian National Cricket team (1992-2008)",
-          "id": "team_fact_indian_national_cricket_team_1992-2008",
+          "label": "India National Cricket team (1992-2008)",
+          "id": "team_fact_india_national_cricket_team_1992-2008",
           "value": {
             "label": "",
             "facts": [
@@ -332,7 +352,7 @@
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of India national cricket team"
                   }
                 }
@@ -341,15 +361,15 @@
           }
         },
         {
-          "label": "Pune Warriors India (2011-2012)",
-          "id": "team_fact_pune_warriors_india_2011-2012",
+          "label": "Pune Warriors India (2011 - 2012)",
+          "id": "team_fact_pune_warriors_india_2011 - 2012",
           "value": {
             "label": "Pune Warriors India were an IPL cricket team that represented the city of Pune. The team was dissolved in 2013."
           }
         },
         {
-          "label": "Bengal (1990-2010)",
-          "id": "team_fact_bengal_1990-2010",
+          "label": "Bengal (1990 - 2010)",
+          "id": "team_fact_bengal_1990 - 2010",
           "value": {
             "label": "The Bengal cricket team represents the Indian state of West Bengal in domestic first-class cricket."
           }
@@ -365,7 +385,7 @@
           "tag": "1997",
           "id": "award-0",
           "value": {
-            "label": "Arjuna Awards are given by the Government for outstanding achievement in sports",
+            "label": "Arjuna Awards are given by the Government for outstanding achievement in sports.",
             "image": {
               "url": "/static/images/master/Arjun_Award.jpg",
               "altText": "Image of Arjuna Award"

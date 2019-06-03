@@ -5,14 +5,16 @@
     "url": "/static/images/master/Ravindra_Jadeja.jpg",
     "altText": "Image of Ravindra Jadeja"
   },
-  "summary": "Ravindra Jadeja is an Indian international cricketer",
+  "summary": "Ravindra Jadeja is an Indian international cricketer.",
   "translations": [
     {
       "lang": "hi",
+      "title": "रवींद्र जडेजा ",
       "url": "/read/hi/ravindra_jadeja"
     },
     {
       "lang": "ta",
+      "title": "ரவீந்திர ஜடேஜா",
       "url": "/read/ta/ravindra_jadeja"
     }
   ],
@@ -30,7 +32,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": "Invalid Date (Age 30)"
+            "label": "06-12-1988 (Age 30)"
           }
         },
         {
@@ -69,7 +71,7 @@
         {
           "label": "",
           "value": {
-            "label": "Left-handed middle-order batsman and slow left-arm orthodox bowler"
+            "label": "Left-handed middle-order batsman and slow left-arm orthodox bowler."
           }
         }
       ]
@@ -133,6 +135,29 @@
           }
         },
         {
+          "label": "2015 World cup",
+          "id": "phase_2015_world_cup",
+          "note": "2015",
+          "value": {
+            "label": "Jadeja was not 100% fit and took 9 wickets in 8 games",
+            "facts": [
+              {
+                "url": "/read/en/2015_cricket_world_cup",
+                "contentUrl": "/static/content/en/2015_cricket_world_cup.json",
+                "label": "2015 Cricket World Cup",
+                "id": "phase_fact_fact_2015_cricket_world_cup",
+                "value": {
+                  "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand.",
+                  "image": {
+                    "url": "/static/images/master/2015_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2015 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
           "label": "IPL Debut",
           "id": "phase_ipl_debut",
           "note": "2008",
@@ -167,7 +192,7 @@
           "value": {
             "label": "In 2017, Jadeja became the first Indian left-arm spinner to take 150 One Day International wickets",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Ravindra_Jadeja.jpg",
               "altText": "In 2017, Jadeja became the first Indian left-arm spinner to take 150 One Day International wickets"
             }
           }
@@ -178,8 +203,8 @@
           "value": {
             "label": "In 2012, Jadeja became the eighth player in history, and the first Indian player, to score three first-class triple centuries in his career.",
             "image": {
-              "url": "",
-              "altText": "In 2012, Jadeja became the eighth player in history, and the first Indian player, to score three first-class triple centuries in his career."
+              "altText": "In 2012, Jadeja became the eighth player in history, and the first Indian player, to score three first-class triple centuries in his career.",
+              "license": ""
             }
           }
         },
@@ -223,8 +248,8 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Indian national cricket team (2009 - present)",
-          "id": "team_fact_indian_national_cricket_team_2009 - present",
+          "label": "India National Cricket team (2009 - present)",
+          "id": "team_fact_india_national_cricket_team_2009 - present",
           "value": {
             "label": "",
             "facts": [
@@ -236,7 +261,7 @@
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of India national cricket team"
                   }
                 }

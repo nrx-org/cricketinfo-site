@@ -1,6 +1,6 @@
 {
   "title": "சவுரவ் கங்குலி",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/File:Sourav_Ganguly_closeup.jpg",
+  "wikipediaUrl": "",
   "coverImage": {
     "url": "/static/images/master/Sourav_Ganguly_closeup.jpg",
     "altText": "Image of சவுரவ் கங்குலி"
@@ -39,7 +39,8 @@
           "label": "பிறந்த இடம்",
           "value": {
             "label": "கொல்கத்தா, இந்தியா",
-            "url": "https://en.wikipedia.org/wiki/Calcutta"
+            "url": "",
+            "contentUrl": "/static/content/ta/kolkata.json"
           }
         },
         {
@@ -238,13 +239,13 @@
               {
                 "url": "/read/ta/kolkata_knight_riders",
                 "contentUrl": "/static/content/ta/kolkata_knight_riders.json",
-                "label": "Kolkata Knight Riders",
-                "id": "phase_fact_fact_kolkata_knight_riders",
+                "label": "கொல்கத்தா நைட் ரைடர்ஸ்",
+                "id": "phase_fact_fact_கொல்கத்தா_நைட்_ரைடர்ஸ்",
                 "value": {
-                  "label": "The Kolkata Knight Riders (also known by the acronym KKR) are a franchise cricket team representing the city of Kolkata in the Indian Premier League. ",
+                  "label": "கொல்கத்தா நைட் ரைடர்ஸ் (இது சுருக்கமான கேகேஆர் என்றும் அறியப்படுகிறது) என்பது இந்தியப் பிரீமியர் லீகில் கொல்கத்தா நகரத்தைப் பிரதிநிதித்துவப்படுத்தும் ஒரு உரிமம் பெற்ற கிரிக்கெட் அணி ஆகும்.",
                   "image": {
                     "url": "/static/images/master/Kolkata_Knight_Riders_Logo.svg",
-                    "altText": "Image of Kolkata Knight Riders"
+                    "altText": "Image of கொல்கத்தா நைட் ரைடர்ஸ்"
                   }
                 }
               }
@@ -263,8 +264,9 @@
           "value": {
             "label": "சவ்ரவ் கங்குலி லார்ட்ஸில் நடந்த இங்கிலாந்துக்கு எதிரான தனது முதல் டெஸ்ட் போட்டியில் சதம் அடித்தார்.",
             "image": {
-              "url": "",
-              "altText": "சவ்ரவ் கங்குலி லார்ட்ஸில் நடந்த இங்கிலாந்துக்கு எதிரான தனது முதல் டெஸ்ட் போட்டியில் சதம் அடித்தார்."
+              "url": "/static/images/master/Gangooly_28279085958629.jpg",
+              "altText": "சவ்ரவ் கங்குலி லார்ட்ஸில் நடந்த இங்கிலாந்துக்கு எதிரான தனது முதல் டெஸ்ட் போட்டியில் சதம் அடித்தார்.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -274,8 +276,9 @@
           "value": {
             "label": "கங்குலி உலகக் கோப்பை கிரிக்கெட் போட்டியில் தனிநபராக அதிக ரன் எடுத்த இந்திய பேட்ஸ்மேன் (183) ஆவார்.",
             "image": {
-              "url": "",
-              "altText": "கங்குலி உலகக் கோப்பை கிரிக்கெட் போட்டியில் தனிநபராக அதிக ரன் எடுத்த இந்திய பேட்ஸ்மேன் (183) ஆவார்."
+              "url": "/static/images/master/Sourav_Ganguly4_28129.jpg",
+              "altText": "கங்குலி உலகக் கோப்பை கிரிக்கெட் போட்டியில் தனிநபராக அதிக ரன் எடுத்த இந்திய பேட்ஸ்மேன் (183) ஆவார்.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -285,8 +288,9 @@
           "value": {
             "label": "கங்குலி, அணியைத் தலைமை தாங்கி 24 தருணங்களில் வெற்றிபெறச்செய்து இந்தியாவின் மிக வெற்றிகரமான டெஸ்ட் கேப்டன் என்ற பெயரைப் பெற்றார்",
             "image": {
-              "url": "",
-              "altText": "கங்குலி, அணியைத் தலைமை தாங்கி 24 தருணங்களில் வெற்றிபெறச்செய்து இந்தியாவின் மிக வெற்றிகரமான டெஸ்ட் கேப்டன் என்ற பெயரைப் பெற்றார்"
+              "url": "/static/images/master/Ganguly_with_shahrukh.jpg",
+              "altText": "கங்குலி, அணியைத் தலைமை தாங்கி 24 தருணங்களில் வெற்றிபெறச்செய்து இந்தியாவின் மிக வெற்றிகரமான டெஸ்ட் கேப்டன் என்ற பெயரைப் பெற்றார்",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
             }
           }
         },
@@ -296,7 +300,7 @@
           "value": {
             "label": "கங்குலி, தான் தலைமை தாங்கிய 28 போட்டிகளில் 11 போட்டிகளில் வெற்றி பெற்ற, இந்தியாவின் மிக வெற்றிகரமான ஓவர்சீஸ் டெஸ்ட் கேப்டன் ஆவார்",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Sourav_Ganguly_closeup.jpg",
               "altText": "கங்குலி, தான் தலைமை தாங்கிய 28 போட்டிகளில் 11 போட்டிகளில் வெற்றி பெற்ற, இந்தியாவின் மிக வெற்றிகரமான ஓவர்சீஸ் டெஸ்ட் கேப்டன் ஆவார்"
             }
           }
@@ -332,7 +336,7 @@
                 "value": {
                   "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of இந்திய தேசிய கிரிக்கெட் அணி"
                   }
                 }

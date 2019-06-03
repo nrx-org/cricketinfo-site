@@ -1,6 +1,6 @@
 {
   "title": "रोहित शर्मा",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rohit_Sharma",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A5%8B%E0%A4%B9%E0%A4%BF%E0%A4%A4_%E0%A4%B6%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE",
   "coverImage": {
     "url": "/static/images/master/Rohit_Sharma_November_2016_28cropped29.jpg",
     "altText": "Image of रोहित शर्मा",
@@ -40,7 +40,7 @@
           "label": "जन्मस्थान",
           "value": {
             "label": "नागपुर, भारत",
-            "url": "https://en.wikipedia.org/wiki/Nagpur",
+            "url": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A4%AA%E0%A5%81%E0%A4%B0",
             "contentUrl": "/static/content/hi/nagpur.json"
           }
         },
@@ -111,8 +111,8 @@
           }
         },
         {
-          "label": "राष्ट्रीय टीम ",
-          "id": "phase_राष्ट्रीय_टीम",
+          "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
+          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
           "note": "2007",
           "value": {
             "label": "रोहित शर्मा ने आयरलैंड के विरुद्ध वनडे इंटरनेशनल में पदार्पण किया, हालांकि इस मैच में उन्हें बल्लेबाजी का अवसर नहीं मिला। "
@@ -177,7 +177,7 @@
                 "label": "2015 क्रिकेट विश्व कप",
                 "id": "phase_fact_fact_2015_क्रिकेट_विश्व_कप",
                 "value": {
-                  "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
+                  "label": "2015 आईसीसी क्रिकेट विश्व कप 11 वीं क्रिकेट विश्व कप था,  जो संयुक्त रूप से ऑस्ट्रेलिया और न्यूजीलैंड द्वारा आयोजित किया गया",
                   "image": {
                     "url": "/static/images/master/2015_Cricket_World_Cup_Logo.svg",
                     "altText": "Image of 2015 क्रिकेट विश्व कप"
@@ -222,8 +222,9 @@
           "value": {
             "label": "वह 2014 में, अंतर्राष्ट्रीय एक-दिवसीय मैच में 250 से अधिक रन बनाने वाले पहले व्यक्ति बने",
             "image": {
-              "url": "",
-              "altText": "वह 2014 में, अंतर्राष्ट्रीय एक-दिवसीय मैच में 250 से अधिक रन बनाने वाले पहले व्यक्ति बने"
+              "url": "/static/images/master/Rohit_Sharma_in_2012.jpg",
+              "altText": "वह 2014 में, अंतर्राष्ट्रीय एक-दिवसीय मैच में 250 से अधिक रन बनाने वाले पहले व्यक्ति बने",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
             }
           }
         },
@@ -233,8 +234,9 @@
           "value": {
             "label": "रोहित शर्मा इकलौते ऐसे भारतीय बल्लेबाज हैं जिन्होंने किसी पूर्ण वनडे मैच में दो अलग-अलग मौकों पर विपक्षी टीम के कुल स्कोर से ज़्यादा रन बनाये हैं।",
             "image": {
-              "url": "",
-              "altText": "रोहित शर्मा इकलौते ऐसे भारतीय बल्लेबाज हैं जिन्होंने किसी पूर्ण वनडे मैच में दो अलग-अलग मौकों पर विपक्षी टीम के कुल स्कोर से ज़्यादा रन बनाये हैं।"
+              "url": "/static/images/master/Rohit_Sharma_2015_28cropped29.jpg",
+              "altText": "रोहित शर्मा इकलौते ऐसे भारतीय बल्लेबाज हैं जिन्होंने किसी पूर्ण वनडे मैच में दो अलग-अलग मौकों पर विपक्षी टीम के कुल स्कोर से ज़्यादा रन बनाये हैं।",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
             }
           }
         },
@@ -244,8 +246,9 @@
           "value": {
             "label": "शर्मा ने बाउंड्री से 186 रन बना कर एक पारी में चौकों और छक्कों की मदद से बनाये गए सर्वाधिक रन का रिकॉर्ड तोड़ा",
             "image": {
-              "url": "",
-              "altText": "शर्मा ने बाउंड्री से 186 रन बना कर एक पारी में चौकों और छक्कों की मदद से बनाये गए सर्वाधिक रन का रिकॉर्ड तोड़ा"
+              "url": "/static/images/master/Rohit_Sharma_bowling.jpg",
+              "altText": "शर्मा ने बाउंड्री से 186 रन बना कर एक पारी में चौकों और छक्कों की मदद से बनाये गए सर्वाधिक रन का रिकॉर्ड तोड़ा",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
             }
           }
         },
@@ -255,8 +258,9 @@
           "value": {
             "label": "अंतर्राष्ट्रीय टीट्वेंटी में किसी भारतीय बल्लेबाज द्वारा लगाए गए सर्वाधिक छक्के रोहित शर्मा ने लगाए हैं",
             "image": {
-              "url": "",
-              "altText": "अंतर्राष्ट्रीय टीट्वेंटी में किसी भारतीय बल्लेबाज द्वारा लगाए गए सर्वाधिक छक्के रोहित शर्मा ने लगाए हैं"
+              "url": "/static/images/master/2015_CWC_I_v_UAE_02-28_Sharma_281229.JPG",
+              "altText": "अंतर्राष्ट्रीय टीट्वेंटी में किसी भारतीय बल्लेबाज द्वारा लगाए गए सर्वाधिक छक्के रोहित शर्मा ने लगाए हैं",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
             }
           }
         },
@@ -291,7 +295,7 @@
                 "value": {
                   "label": "भारत की राष्ट्रीय क्रिकेट टीम को टीम इंडिया और मेन इन ब्लू के नाम से भी जाना जाता है। भारत को टेस्ट में पहला, वनडे में दूसरा और आईसीसी द्वारा टी20 में दूसरा स्थान मिला है। विराट कोहली टीम के वर्तमान कप्तान हैं जबकि मुख्य कोच रवि शास्त्री हैं।",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of भारत की राष्ट्रीय क्रिकेट टीम"
                   }
                 }
@@ -300,8 +304,8 @@
           }
         },
         {
-          "label": "मुंबई इंडियंस (2011-अब तक)",
-          "id": "team_fact_मुंबई_इंडियंस_2011-अब तक",
+          "label": "मुंबई इंडियंस (2011 से अब तक)",
+          "id": "team_fact_मुंबई_इंडियंस_2011 से अब तक",
           "value": {
             "label": "",
             "facts": [
@@ -322,8 +326,8 @@
           }
         },
         {
-          "label": "मुंबई (2006-अब तक)",
-          "id": "team_fact_मुंबई_2006-अब तक",
+          "label": "मुंबई (2006 से अब तक)",
+          "id": "team_fact_मुंबई_2006 से अब तक",
           "value": {
             "label": "मुंबई की घरेलू रणजी ट्रॉफी क्रिकेट टीम"
           }

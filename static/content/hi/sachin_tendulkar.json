@@ -1,6 +1,6 @@
 {
   "title": "सचिन तेंदुलकर",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sachin_Tendulkar",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%9A%E0%A4%BF%E0%A4%A8_%E0%A4%A4%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%81%E0%A4%B2%E0%A4%95%E0%A4%B0",
   "coverImage": {
     "url": "/static/images/master/Sachin_Tendulkar_at_MRF_Promotion_Event.jpg",
     "altText": "Image of सचिन तेंदुलकर"
@@ -39,7 +39,7 @@
           "label": "जन्मस्थान",
           "value": {
             "label": "मुंबई, भारत",
-            "url": "https://en.wikipedia.org/wiki/Mumbai",
+            "url": "https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A5%81%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%88",
             "contentUrl": "/static/content/hi/mumbai.json"
           }
         },
@@ -115,8 +115,8 @@
           }
         },
         {
-          "label": "राष्ट्रीय टीम ",
-          "id": "phase_राष्ट्रीय_टीम",
+          "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
+          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
           "note": "1989",
           "value": {
             "label": "तेंदुलकर ने 1989 में 16 वर्ष की आयु में पाकिस्तान के कराची में टेस्ट क्रिकेट में पदार्पण किया। ",
@@ -142,7 +142,22 @@
           "id": "phase_विश्व_कप",
           "note": "1992",
           "value": {
-            "label": "तेंदुलकर 1992 क्रिकेट विश्व कप की भारतीय टीम के सदस्य थे। "
+            "label": "तेंदुलकर 1992 क्रिकेट विश्व कप की भारतीय टीम के सदस्य थे। ",
+            "facts": [
+              {
+                "url": "/read/hi/1992_cricket_world_cup",
+                "contentUrl": "/static/content/hi/1992_cricket_world_cup.json",
+                "label": "1992 क्रिकेट विश्व कप",
+                "id": "phase_fact_fact_1992_क्रिकेट_विश्व_कप",
+                "value": {
+                  "label": "1992 क्रिकेट विश्व कप (आधिकारिक तौर पर बेंसन एंड हेजेस विश्व कप 1992) क्रिकेट विश्व कप का पांचवा टूर्नामेंट था, जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया गया था। यह 22 फरवरी से 25 मार्च 1992 तक ऑस्ट्रेलिया और न्यूजीलैंड में आयोजित किया गया था और फाइनल में इंग्लैंड को हराकर पाकिस्तान पहली बार विश्व कप चैंपियन बना था।",
+                  "image": {
+                    "url": "/static/images/master/World_Cup_1992_logo.svg",
+                    "altText": "Image of 1992 क्रिकेट विश्व कप"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -249,8 +264,9 @@
           "value": {
             "label": "इन्होंने विनोद कांबली के साथ 664 रन बना कर, क्रिकेट के किसी भी प्रारूप में सबसे बड़ी अटूट साझेदारी का विश्व रिकॉर्ड कायम किया",
             "image": {
-              "url": "",
-              "altText": "इन्होंने विनोद कांबली के साथ 664 रन बना कर, क्रिकेट के किसी भी प्रारूप में सबसे बड़ी अटूट साझेदारी का विश्व रिकॉर्ड कायम किया"
+              "url": "/static/images/master/Sachin_at_the_other_end.jpg",
+              "altText": "इन्होंने विनोद कांबली के साथ 664 रन बना कर, क्रिकेट के किसी भी प्रारूप में सबसे बड़ी अटूट साझेदारी का विश्व रिकॉर्ड कायम किया",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -260,8 +276,9 @@
           "value": {
             "label": "भारत के लिए वनडे और टेस्ट में सबसे कम उम्र डेब्यू करने वाले खिलाड़ी  ",
             "image": {
-              "url": "",
-              "altText": "भारत के लिए वनडे और टेस्ट में सबसे कम उम्र डेब्यू करने वाले खिलाड़ी  "
+              "url": "/static/images/master/Sachin_tendulkar_fielding.jpg",
+              "altText": "भारत के लिए वनडे और टेस्ट में सबसे कम उम्र डेब्यू करने वाले खिलाड़ी  ",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -271,8 +288,9 @@
           "value": {
             "label": "तीनों घरेलू प्रथम श्रेणी के टूर्नामेंटों (रणजी, ईरानी और दलीप ट्रॉफियों) में अपने डेब्यू पर शतक बनाने वाले इकलौते खिलाड़ी।",
             "image": {
-              "url": "",
-              "altText": "तीनों घरेलू प्रथम श्रेणी के टूर्नामेंटों (रणजी, ईरानी और दलीप ट्रॉफियों) में अपने डेब्यू पर शतक बनाने वाले इकलौते खिलाड़ी।"
+              "url": "/static/images/master/Sachin_Tendulkar_28266728406829.jpg",
+              "altText": "तीनों घरेलू प्रथम श्रेणी के टूर्नामेंटों (रणजी, ईरानी और दलीप ट्रॉफियों) में अपने डेब्यू पर शतक बनाने वाले इकलौते खिलाड़ी।",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -282,8 +300,9 @@
           "value": {
             "label": "10,000 वंडे रन पूरे करने वाले पहले बल्लेबाज",
             "image": {
-              "url": "",
-              "altText": "10,000 वंडे रन पूरे करने वाले पहले बल्लेबाज"
+              "url": "/static/images/master/Tendulkar_batting_against_Australia2C_October_2010_281292C_cropped.jpg",
+              "altText": "10,000 वंडे रन पूरे करने वाले पहले बल्लेबाज",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -318,7 +337,7 @@
                 "value": {
                   "label": "भारत की राष्ट्रीय क्रिकेट टीम को टीम इंडिया और मेन इन ब्लू के नाम से भी जाना जाता है। भारत को टेस्ट में पहला, वनडे में दूसरा और आईसीसी द्वारा टी20 में दूसरा स्थान मिला है। विराट कोहली टीम के वर्तमान कप्तान हैं जबकि मुख्य कोच रवि शास्त्री हैं।",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of भारत की राष्ट्रीय क्रिकेट टीम"
                   }
                 }

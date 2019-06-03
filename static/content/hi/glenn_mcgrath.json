@@ -1,0 +1,360 @@
+{
+  "title": "ग्लेन मैक्ग्राथ ",
+  "wikipediaUrl": "",
+  "coverImage": {
+    "url": "/static/images/master/Glenn_McGrath_01_crop_2.jpg",
+    "altText": "Image of ग्लेन मैक्ग्राथ "
+  },
+  "summary": "ग्लेन मैक्ग्राथ आस्ट्रेलिया के पूर्व क्रिकेटर हैं जिन्हें क्रिकेट के इतिहास के महानतम गेंदबाजों में से एक माना जाता है ",
+  "translations": [
+    {
+      "lang": "en",
+      "title": "Glenn McGrath",
+      "url": "/read/en/glenn_mcgrath"
+    },
+    {
+      "lang": "ta",
+      "title": "கிளென் மெக்ராத்",
+      "url": "/read/ta/glenn_mcgrath"
+    }
+  ],
+  "sections": [
+    {
+      "title": "इनके बारे में",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "पूरा नाम",
+          "value": {
+            "label": "ग्लेन डोनाल्ड मैक्ग्राथ "
+          }
+        },
+        {
+          "label": "जन्मतिथि",
+          "value": {
+            "label": "09 Feb 1970 (आयु 59)"
+          }
+        },
+        {
+          "label": "जन्मस्थान",
+          "value": {
+            "label": "डुबो, एनएसडब्लू, आस्ट्रलिया ",
+            "url": "",
+            "contentUrl": "/static/content/hi/dubbo.json"
+          }
+        },
+        {
+          "label": "ऊंचाई",
+          "value": {
+            "label": "6 फीट 6 इंच (1.97 मीटर) "
+          }
+        },
+        {
+          "label": "अन्य नाम",
+          "value": {
+            "label": "पीजन "
+          }
+        },
+        {
+          "label": "राष्ट्रीयता",
+          "value": {
+            "label": "ऑस्ट्रेलियाई "
+          }
+        },
+        {
+          "label": "भूमिका",
+          "value": {
+            "label": "गेंदबाज "
+          }
+        }
+      ]
+    },
+    {
+      "title": "खेलने की शैली",
+      "id": "style_of_play",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "मैक्ग्राथ  को दुनिया के सर्वश्रेष्ठ तेज गेंदबाजों में से एक माना जाता है जो गति से ज्यादा स्टीकता पर निर्भर रहे। ",
+            "image": {
+              "url": "/static/images/master/Glenn_McGrath_in_final_test_series.jpg",
+              "altText": "Style of play for ग्लेन मैक्ग्राथ "
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "दौर",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "प्रथम श्रेणी की शुरुआत",
+          "id": "phase_प्रथम_श्रेणी_की_शुरुआत",
+          "note": "1992",
+          "value": {
+            "label": "ग्लेन मैक्ग्राथ ने 1992-93 सीजन के दौरान न्यू साउथ वेल्स की ओर से प्रथम श्रेणी क्रिकेट मैच में पदार्पण किया। "
+          }
+        },
+        {
+          "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
+          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
+          "note": "1993",
+          "value": {
+            "label": "मैक्ग्राथ ने 1993 में पर्थ में न्यूजीलैंड के विरुद्ध टेस्ट में पदार्पण किया ",
+            "facts": [
+              {
+                "url": "/read/hi/new_zealand_national_cricket_team",
+                "contentUrl": "/static/content/hi/new_zealand_national_cricket_team.json",
+                "label": "न्यूजीलैंड की राष्ट्रीय क्रिकेट टीम",
+                "id": "phase_fact_fact_न्यूजीलैंड_की_राष्ट्रीय_क्रिकेट_टीम",
+                "value": {
+                  "label": "न्यूजीलैंड की राष्ट्रीय क्रिकेट टीम, जिसका निकनेम ब्लैक कैप्स भी है, उसने अपना पहला टेस्ट वर्ष 1930 में इंग्लैंड के खिलाफ क्राइस्टचर्च में खेला था, जो टेस्ट क्रिकेट खेलने वाला पांचवा देश बना।",
+                  "image": {
+                    "url": "/static/images/master/New_Zealand_Cricket_Cap_Insignia.svg",
+                    "altText": "Image of न्यूजीलैंड की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "आईसीसी टूर्नामेंट में प्रथम प्रवेश",
+          "id": "phase_आईसीसी_टूर्नामेंट_में_प्रथम_प्रवेश",
+          "note": "1996",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "1999 विश्व कप",
+          "id": "phase_1999_विश्व_कप",
+          "note": "1999",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "2003 विश्व कप",
+          "id": "phase_2003_विश्व_कप",
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "2007 विश्व कप",
+          "id": "phase_2007_विश्व_कप",
+          "note": "2007",
+          "value": {
+            "label": "मैक्ग्राथ को उनकी शानदार गेंदबाजी के  लिए मैन ऑफ द टूर्नामेंट का पुरस्कार प्राप्त हुआ।",
+            "facts": [
+              {
+                "url": "/read/hi/2007_cricket_world_cup",
+                "contentUrl": "/static/content/hi/2007_cricket_world_cup.json",
+                "label": "2007 क्रिकेट विश्व कप",
+                "id": "phase_fact_fact_2007_क्रिकेट_विश्व_कप",
+                "value": {
+                  "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
+                  "image": {
+                    "url": "/static/images/master/2007_Cricket_World_Cup_logo.svg",
+                    "altText": "Image of 2007 क्रिकेट विश्व कप"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "आईपीएल में प्रथम प्रवेश",
+          "id": "phase_आईपीएल_में_प्रथम_प्रवेश",
+          "note": "2008",
+          "value": {
+            "label": "मैक्ग्राथ को इंडियन प्रीमियर लीग के प्रथम सीजन के लिए देल्ही डेयरडेविल्स ने 2008 में यूएस डॉलर 350,000 में अनुबंधित किया। ",
+            "facts": [
+              {
+                "url": "/read/hi/delhi_capitals",
+                "contentUrl": "/static/content/hi/delhi_capitals.json",
+                "label": "देल्ही कैपिटल्स",
+                "id": "phase_fact_fact_देल्ही_कैपिटल्स",
+                "value": {
+                  "label": "देल्ही कैपिटल्स एक फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में दिल्ली शहर का प्रतिनिधित्व करती है।",
+                  "image": {
+                    "url": "/static/images/master/Delhi_Capitals_Logo.svg",
+                    "altText": "Image of देल्ही कैपिटल्स"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "उपलब्धि और रिकॉर्ड",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "संन्यास लेने के समय तक मैक्ग्राथ के पास 11वें नंबर पर बल्लेबाज़ी करते हुए सबसे ज्यादा रन बनाने का रिकॉर्ड दर्ज था। ",
+            "image": {
+              "url": "/static/images/master/Glen_McGrath_28713175037529.jpg",
+              "altText": "संन्यास लेने के समय तक मैक्ग्राथ के पास 11वें नंबर पर बल्लेबाज़ी करते हुए सबसे ज्यादा रन बनाने का रिकॉर्ड दर्ज था। ",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "अपने करियर में मैक्ग्राथ ने टेस्ट क्रिकेट में 563 विकेट लिए",
+            "image": {
+              "url": "/static/images/master/Glenn_McGrath_01_crop_2.jpg",
+              "altText": "अपने करियर में मैक्ग्राथ ने टेस्ट क्रिकेट में 563 विकेट लिए"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "मैक्ग्राथ के पास  टेस्ट क्रिकेट में सर्वाधिक बल्लेबाजों (104)  को शून्य पर आउट करने का रिकॉर्ड दर्ज है ",
+            "image": {
+              "url": "/static/images/master/Glenn_McGrath_2005.jpg",
+              "altText": "मैक्ग्राथ के पास  टेस्ट क्रिकेट में सर्वाधिक बल्लेबाजों (104)  को शून्य पर आउट करने का रिकॉर्ड दर्ज है ",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "मैक्ग्राथ एक दिवसीय अंतर्राष्ट्रीय में सबसे ज्यादा विकेट (381) लेने के मामले में सातवें स्थान पर हैं ",
+            "image": {
+              "url": "/static/images/master/Glenn_McGrath_in_Circular_Quay2C_Sydney2C_Australia2C_2018-02-03.jpg",
+              "altText": "मैक्ग्राथ एक दिवसीय अंतर्राष्ट्रीय में सबसे ज्यादा विकेट (381) लेने के मामले में सातवें स्थान पर हैं ",
+              "license": "<p>This file is made available under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\">CC0 1.0 Universal Public Domain Dedication</a>.</p>"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "ग्लेन मैक्ग्राथ के पास विश्व कप में सबसे ज्यादा विकेट (71) विकेट लेने का रिकॉर्ड है। ",
+            "image": {
+              "url": "",
+              "altText": "ग्लेन मैक्ग्राथ के पास विश्व कप में सबसे ज्यादा विकेट (71) विकेट लेने का रिकॉर्ड है। "
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "टीमें",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "ऑस्ट्रेलिया (1993-2007)",
+          "id": "team_fact_ऑस्ट्रेलिया_1993-2007",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "ऑस्ट्रेलिया क्रिकेट टीम",
+                "id": "team_fact_fact_ऑस्ट्रेलिया_क्रिकेट_टीम",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
+                "value": {
+                  "label": "ऑस्ट्रेलिया की राष्ट्रीय क्रिकेट टीम टेस्ट क्रिकेट इतिहास की संयुक्त सबसे पुरानी टीम है, जिसने 1877 में पहली बार टेस्ट मैच खेला था।",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Picture of ऑस्ट्रेलिया क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "देल्ही डेयरडेविल्स  (2008)",
+          "id": "team_fact_देल्ही_डेयरडेविल्स_2008",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "देल्ही कैपिटल्स",
+                "id": "team_fact_fact_देल्ही_कैपिटल्स",
+                "url": "/read/hi/delhi_capitals",
+                "contentUrl": "/static/content/hi/delhi_capitals.json",
+                "value": {
+                  "label": "देल्ही कैपिटल्स एक फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में दिल्ली शहर का प्रतिनिधित्व करती है।",
+                  "image": {
+                    "url": "/static/images/master/Delhi_Capitals_Logo.svg",
+                    "altText": "Picture of देल्ही कैपिटल्स"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "न्यू साउथ वेल्स  (1992-2007)",
+          "id": "team_fact_न्यू_साउथ_वेल्स_1992-2007",
+          "value": {
+            "label": "न्यू साउथ वेल्स क्रिकेट टीम (वर्तमान में एनएसडब्लू ब्ल्यू नाम से प्रसिद्ध) पुरुषों की पेशेवर आस्ट्रेलियाई प्रथम श्रेणी क्रिकेट टीम है जो सिडनी आधारित है।  "
+          }
+        }
+      ]
+    },
+    {
+      "title": "पुरस्कार और सम्मान",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "आर्डर ऑफ आस्ट्रेलिया ",
+          "tag": "2008",
+          "id": "award-0",
+          "value": {
+            "label": "आस्ट्रेलिया के नागरिकों और अन्य व्यक्तियों की मेधावी सेवा की पहचान देने के लिए क्वीन एलिजाबेथ द्वितीय द्वारा 1975 में ऑर्डर ऑफ ऑस्ट्रेलिया शिष्टाचार का आदेश है।",
+            "image": {
+              "url": "/static/images/master/Order_of_Australia.png",
+              "altText": "Image of आर्डर ऑफ आस्ट्रेलिया "
+            }
+          }
+        },
+        {
+          "label": "स्पोर्ट आस्ट्रेलिया हॉल ऑफ फेम ",
+          "tag": "2011",
+          "id": "award-1",
+          "value": {
+            "label": "स्पोर्ट आस्ट्रेलिया हॉल ऑफ फेम की स्थापना 1985 में आस्ट्रेलियाई  खिलाड़ियों और महिला खिलाड़ियों की उपलब्धियों को पहचानने के लिए की गई थी।",
+            "image": {
+              "url": "",
+              "altText": "Image of स्पोर्ट आस्ट्रेलिया हॉल ऑफ फेम "
+            }
+          }
+        },
+        {
+          "label": "आईसीसी क्रिकेट हॉल ऑफ ऑफ फेम ",
+          "tag": "2013",
+          "id": "award-2",
+          "value": {
+            "label": "आईसीसी क्रिकेट हॉल ऑफ फेम क्रिकेट के लंबे इतिहास में इस खेल में उत्कृष्ट प्रदर्शन करने वाली महान हस्तियों को पहचानता  है। ",
+            "image": {
+              "url": "/static/images/master/ICC_Hall_Of_Fame.svg",
+              "altText": "Image of आईसीसी क्रिकेट हॉल ऑफ ऑफ फेम "
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

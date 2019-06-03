@@ -1,6 +1,6 @@
 {
   "title": "அனில் கும்ப்ளே",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anil_Kumble",
+  "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%A9%E0%AE%BF%E0%AE%B2%E0%AF%8D_%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%8D%E0%AE%B3%E0%AF%87",
   "coverImage": {
     "url": "/static/images/master/Anil_Kumble.jpg",
     "altText": "Image of அனில் கும்ப்ளே"
@@ -39,7 +39,7 @@
           "label": "பிறந்த இடம்",
           "value": {
             "label": "பெங்களூரு, இந்தியா",
-            "url": "https://en.wikipedia.org/wiki/Bangalore",
+            "url": "",
             "contentUrl": "/static/content/ta/bangalore.json"
           }
         },
@@ -124,13 +124,13 @@
               {
                 "url": "/read/ta/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/ta/sri_lanka_national_cricket_team.json",
-                "label": "Sri Lanka national cricket team",
-                "id": "phase_fact_fact_sri_lanka_national_cricket_team",
+                "label": "இலங்கை தேசியக் கிரிக்கெட் அணி",
+                "id": "phase_fact_fact_இலங்கை_தேசியக்_கிரிக்கெட்_அணி",
                 "value": {
-                  "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
+                  "label": "இலங்கை தேசியக் கிரிக்கெட் அணி, தி லயன்ஸ் எனப் பெயரிடப்பட்டு, சர்வதேசக் கிரிக்கெட்டில் இலங்கையைப் பிரதிநிதித்துவம் செய்கிறது. இது டெஸ்ட், ஒருநாள் சர்வதேசப் போட்டி மற்றும் சர்வதேச டி20 போட்டி அந்தஸ்தில் சர்வதேசக் கிரிக்கெட் கவுன்சிலின் (ஐசிசி) முழு உறுப்பினராக உள்ளது.",
                   "image": {
                     "url": "/static/images/master/Sri_Lanka_Cricket_Cap_Insignia.svg",
-                    "altText": "Image of Sri Lanka national cricket team"
+                    "altText": "Image of இலங்கை தேசியக் கிரிக்கெட் அணி"
                   }
                 }
               }
@@ -264,8 +264,9 @@
           "value": {
             "label": "டெஸ்ட் போட்டியில் ஒரே இன்னிங்க்ஸில் 10 விக்கெட்டுகளையும் எடுத்த இரண்டாவது வீரர் கும்ப்ளே ஆவார்.",
             "image": {
-              "url": "",
-              "altText": "டெஸ்ட் போட்டியில் ஒரே இன்னிங்க்ஸில் 10 விக்கெட்டுகளையும் எடுத்த இரண்டாவது வீரர் கும்ப்ளே ஆவார்."
+              "url": "/static/images/master/Anil_Kumble_2.jpg",
+              "altText": "டெஸ்ட் போட்டியில் ஒரே இன்னிங்க்ஸில் 10 விக்கெட்டுகளையும் எடுத்த இரண்டாவது வீரர் கும்ப்ளே ஆவார்.",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/4.0/\">4.0 International</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
             }
           }
         },
@@ -275,7 +276,7 @@
           "value": {
             "label": "கும்ப்ளே, 1996 ஆம் ஆண்டு 61 விக்கெட்டுகளை எடுத்து, சர்வதேச ஒரு நாள் போட்டிகளில் ஓரேஆண்டில் அதிக விக்கெட்டுகளை எடுத்த இந்திய வீரர் என்ற சாதனையைப் படைத்தார்.",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Anil_Kumble.jpg",
               "altText": "கும்ப்ளே, 1996 ஆம் ஆண்டு 61 விக்கெட்டுகளை எடுத்து, சர்வதேச ஒரு நாள் போட்டிகளில் ஓரேஆண்டில் அதிக விக்கெட்டுகளை எடுத்த இந்திய வீரர் என்ற சாதனையைப் படைத்தார்."
             }
           }
@@ -286,8 +287,9 @@
           "value": {
             "label": "கும்ப்ளே தனது ஒட்டுமொத்த டெஸ்ட் கேரியரில் 40850 பந்துகளை வீசி சாதனைப் படைத்துள்ளார், இந்தியாவைப் பொறுத்தவரை இதுவே மிக அதிகம்.",
             "image": {
-              "url": "",
-              "altText": "கும்ப்ளே தனது ஒட்டுமொத்த டெஸ்ட் கேரியரில் 40850 பந்துகளை வீசி சாதனைப் படைத்துள்ளார், இந்தியாவைப் பொறுத்தவரை இதுவே மிக அதிகம்."
+              "url": "/static/images/master/Anil_Kumble_-_Boxing_Day.jpg",
+              "altText": "கும்ப்ளே தனது ஒட்டுமொத்த டெஸ்ட் கேரியரில் 40850 பந்துகளை வீசி சாதனைப் படைத்துள்ளார், இந்தியாவைப் பொறுத்தவரை இதுவே மிக அதிகம்.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -297,7 +299,7 @@
           "value": {
             "label": "கும்ப்ளே 10 போட்டிகளில் தனது முதல் 50 விக்கெட்டுகளை எடுத்தார்",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Kumble_edited.jpg",
               "altText": "கும்ப்ளே 10 போட்டிகளில் தனது முதல் 50 விக்கெட்டுகளை எடுத்தார்"
             }
           }
@@ -308,8 +310,9 @@
           "value": {
             "label": "1993 ஆம் ஆண்டு, வெஸ்ட் இண்டீஸ்க்கு எதிரான சர்வதேச ஒரு நாள் போட்டியில் 12 ரன்களில் ஆறு விக்கெட்டுகளை எடுத்தார், இது நீண்ட காலம் இந்திய சாதனையாக இருந்தது.",
             "image": {
-              "url": "",
-              "altText": "1993 ஆம் ஆண்டு, வெஸ்ட் இண்டீஸ்க்கு எதிரான சர்வதேச ஒரு நாள் போட்டியில் 12 ரன்களில் ஆறு விக்கெட்டுகளை எடுத்தார், இது நீண்ட காலம் இந்திய சாதனையாக இருந்தது."
+              "url": "/static/images/master/Former_Indian_cricketer_Anil_Kumble.jpg",
+              "altText": "1993 ஆம் ஆண்டு, வெஸ்ட் இண்டீஸ்க்கு எதிரான சர்வதேச ஒரு நாள் போட்டியில் 12 ரன்களில் ஆறு விக்கெட்டுகளை எடுத்தார், இது நீண்ட காலம் இந்திய சாதனையாக இருந்தது.",
+              "license": "<p><i></i><div lang=\"en\" class=\"description en\" style=\"display:inline;\"><i>This file is a copyrighted work of the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.india.gov.in/\">Government of India</a></b>, licensed under the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf\">Government Open Data License - India (GODL)</a></b>.</i>\n<p>Following the mandate of the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://data.gov.in/sites/default/files/NDSAP.pdf\">National Data Sharing and Accessibility Policy (NDSAP) of Government of India</a></b> that\napplies to all shareable non-sensitive data available either in digital or analog forms but generated using public funds by\nvarious agencies of the Government of India, all users are provided a worldwide, royalty-free, non-exclusive license to <b>use, adapt, publish</b> (either in original, or in adapted and/or derivative forms), translate, display, add value, and create derivative works (including products and services), for all lawful <b>commercial and non-commercial purposes</b>, and for the duration of existence of such rights over the data or information. \n</p><p>The user must acknowledge the provider, source, and license of data by explicitly publishing the <b>attribution statement</b>, including the DOI (Digital Object Identifier), or the URL (Uniform Resource Locator), or the URI (Uniform Resource Identifier) of the data concerned. \n</p><p>The user must not indicate or suggest in any manner that the data provider(s) endorses their use and/or the user. \nThe data provider(s) are not liable for any errors or omissions, and will not under any circumstances be liable for any loss, injury or damage caused by its use.  \n</p><p>The data provider(s) do not guarantee the continued supply of updated or up-to-date versions of the data, and will not be held liable in case the continued supply of updated data is not provided. \n</p><p><b>Exemptions:</b> The license does not cover the following kinds of data: a. personal information; b. data that is non-shareable and/or sensitive; c. names, crests, logos and other official symbols of the data provider(s); d. data subject to other intellectual property rights, including patents, trade-marks and official marks; e. military insignia; f. identity documents; and g. any data that should not have been publicly disclosed for the grounds provided under section 8 of the <a rel=\"nofollow\" class=\"external text\" href=\"http://rti.gov.in/webactrti.htm\">Right to Information Act, 2005</a>.\n</p><p><span class=\"licensetpl_link\" style=\"display:none;\">https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf</span>\n<span class=\"licensetpl_short\" style=\"display:none;\">GODL-India</span>\n<span class=\"licensetpl_long\" style=\"display:none;\">Government Open Data License &#x2013; India</span>\n<span class=\"licensetpl_link_req\" style=\"display:none;\">true</span>\n</p>\n<span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div><i></i></p><p></p><p><hr>\n<p><span style=\"font-size:x-small;line-height:140%\" class=\"plainlinks noprint\"><a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/en\">English</a>&#xA0;| <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/fr\">fran&#xE7;ais</a>&#xA0;| <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/ml\">&#xD2E;&#xD32;&#xD2F;&#xD3E;&#xD33;&#xD02;</a>&#xA0;| <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/mr\">&#x92E;&#x930;&#x93E;&#x920;&#x940;</a>&#xA0;| <small class=\"plainlinks\"><a class=\"external text\" href=\"//commons.wikimedia.org/w/index.php?title=Template:GODL-India/lang&amp;action=edit\">+/&#x2212;</a></small></span>\n<span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=GODL-India 1%3D\">&#xA0;</span>\n</p></p>"
             }
           }
         }
@@ -333,7 +336,7 @@
                 "value": {
                   "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of இந்திய தேசிய கிரிக்கெட் அணி"
                   }
                 }

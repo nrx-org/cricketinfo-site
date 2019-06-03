@@ -10,10 +10,12 @@
   "translations": [
     {
       "lang": "hi",
+      "title": "बेन स्टोक्स",
       "url": "/read/hi/ben_stokes"
     },
     {
       "lang": "ta",
+      "title": "பென் ஸ்டோக்ஸ்",
       "url": "/read/ta/ben_stokes"
     }
   ],
@@ -31,7 +33,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": "Invalid Date (Age 27)"
+            "label": "04-06-1991 (Age 27)"
           }
         },
         {
@@ -70,7 +72,7 @@
         {
           "label": "",
           "value": {
-            "label": "Attacking middle-order left-handed batsman",
+            "label": "Attacking middle-order left-handed batsman.",
             "image": {
               "url": "/static/images/master/England_vs._New_Zealand_2015_283429.jpg",
               "altText": "Style of play for Ben Stokes",
@@ -109,6 +111,29 @@
           }
         },
         {
+          "label": "Champions trophy ",
+          "id": "phase_champions_trophy",
+          "note": "2017",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "url": "/read/en/icc_champions_trophy",
+                "contentUrl": "/static/content/en/icc_champions_trophy.json",
+                "label": "ICC Champions Trophy",
+                "id": "phase_fact_fact_icc_champions_trophy",
+                "value": {
+                  "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
+                  "image": {
+                    "url": "/static/images/master/ICC_Champions_Trophy_cricket_logo.png",
+                    "altText": "Image of ICC Champions Trophy"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
           "label": "IPL Debut",
           "id": "phase_ipl_debut",
           "note": "2017",
@@ -128,8 +153,9 @@
           "value": {
             "label": "Stokes holds the record for England's fastest ever Test double-century",
             "image": {
-              "url": "",
-              "altText": "Stokes holds the record for England's fastest ever Test double-century"
+              "url": "/static/images/master/England_vs._New_Zealand_2015_283529.jpg",
+              "altText": "Stokes holds the record for England's fastest ever Test double-century",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -139,8 +165,9 @@
           "value": {
             "label": "Stokes holds the record for the most runs scored by an individual batsman in the morning session of a Test match",
             "image": {
-              "url": "",
-              "altText": "Stokes holds the record for the most runs scored by an individual batsman in the morning session of a Test match"
+              "url": "/static/images/master/Ben_Stokes_bowling_2C_2013.jpg",
+              "altText": "Stokes holds the record for the most runs scored by an individual batsman in the morning session of a Test match",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -150,8 +177,9 @@
           "value": {
             "label": "Stokes has the second highest number of sixes (11) in a Test innings",
             "image": {
-              "url": "",
-              "altText": "Stokes has the second highest number of sixes (11) in a Test innings"
+              "url": "/static/images/master/England_vs._New_Zealand_2015_282629.jpg",
+              "altText": "Stokes has the second highest number of sixes (11) in a Test innings",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -184,8 +212,8 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "England (2011 - present)",
-          "id": "team_fact_england_2011 - present",
+          "label": "England Cricket team (2011 - present)",
+          "id": "team_fact_england_cricket_team_2011 - present",
           "value": {
             "label": "",
             "facts": [
@@ -195,7 +223,7 @@
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "value": {
-                  "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
+                  "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877.",
                   "image": {
                     "url": "/static/images/master/England_cricket_team_logo.svg",
                     "altText": "Picture of England cricket team"

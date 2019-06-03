@@ -1,0 +1,391 @@
+{
+  "title": "महेला जयवर्धने ",
+  "wikipediaUrl": "",
+  "coverImage": {
+    "url": "/static/images/master/Mahela_Jayawardene_3.JPG",
+    "altText": "Image of महेला जयवर्धने "
+  },
+  "summary": "महेला जयवर्धने, श्रीलंकाई क्रिकेट कोच और पूर्व अंतर्राष्ट्रीय क्रिकेटर हैं",
+  "translations": [
+    {
+      "lang": "en",
+      "title": "Mahela Jayawardene",
+      "url": "/read/en/mahela_jayawardene"
+    },
+    {
+      "lang": "ta",
+      "title": "மஹெல ஜெயவர்தனே",
+      "url": "/read/ta/mahela_jayawardene"
+    }
+  ],
+  "sections": [
+    {
+      "title": "इनके बारे में",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "पूरा नाम",
+          "value": {
+            "label": "डेनागमेज प्रबोथ महेला डे सिल्वा जयवर्धने"
+          }
+        },
+        {
+          "label": "जन्मतिथि",
+          "value": {
+            "label": "27 May 1977 (आयु 41)"
+          }
+        },
+        {
+          "label": "जन्मस्थान",
+          "value": {
+            "label": "कोलम्बो, श्रीलंका",
+            "url": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%8B%E0%A4%B2%E0%A4%82%E0%A4%AC%E0%A5%8B",
+            "contentUrl": "/static/content/hi/colombo.json"
+          }
+        },
+        {
+          "label": "ऊंचाई",
+          "value": {
+            "label": "5 फीट 7 इंच (1.70 मीटर)"
+          }
+        },
+        {
+          "label": "अन्य नाम",
+          "value": {
+            "label": "मैया"
+          }
+        },
+        {
+          "label": "राष्ट्रीयता",
+          "value": {
+            "label": "श्रीलंकाई"
+          }
+        },
+        {
+          "label": "भूमिका",
+          "value": {
+            "label": "बल्लेबाज"
+          }
+        }
+      ]
+    },
+    {
+      "title": "शिक्षा",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "नालंदा कॉलेज, कोलंबो",
+          "value": {
+            "label": "जयवर्धने ने 1994 में नालंदा कॉलेज कोलंबो की पहली XI क्रिकेट टीम की कप्तानी की",
+            "image": {
+              "url": "/static/images/master/Nalanda_Crest.png",
+              "altText": "Image of नालंदा कॉलेज, कोलंबो"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "खेलने की शैली",
+      "id": "style_of_play",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "दाएं हाथ के बल्लेबाज और दाएं हाथ के मध्यम गेंदबाज",
+            "image": {
+              "url": "/static/images/master/Mahela_Jayawardene_-_batting.jpg",
+              "altText": "Style of play for महेला जयवर्धने "
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "दौर",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "प्रथम श्रेणी की शुरुआत",
+          "id": "phase_प्रथम_श्रेणी_की_शुरुआत",
+          "note": "1995",
+          "value": {
+            "label": "महेला जयवर्धने ने सिंहली स्पोर्ट्स क्लब के लिए खेलते हुए प्रथम श्रेणी में अपनी शुरुआत की"
+          }
+        },
+        {
+          "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
+          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
+          "note": "1997",
+          "value": {
+            "label": "महेला जयवर्धने ने 1997 में भारत के खिलाफ कोलंबो में मैच से अंतर्राष्ट्रीय क्रिकेट में पदार्पण किया",
+            "facts": [
+              {
+                "url": "/read/hi/india_national_cricket_team",
+                "contentUrl": "/static/content/hi/india_national_cricket_team.json",
+                "label": "भारत की राष्ट्रीय क्रिकेट टीम",
+                "id": "phase_fact_fact_भारत_की_राष्ट्रीय_क्रिकेट_टीम",
+                "value": {
+                  "label": "भारत की राष्ट्रीय क्रिकेट टीम को टीम इंडिया और मेन इन ब्लू के नाम से भी जाना जाता है। भारत को टेस्ट में पहला, वनडे में दूसरा और आईसीसी द्वारा टी20 में दूसरा स्थान मिला है। विराट कोहली टीम के वर्तमान कप्तान हैं जबकि मुख्य कोच रवि शास्त्री हैं।",
+                  "image": {
+                    "url": "/static/images/master/Flagcricket.jpg",
+                    "altText": "Image of भारत की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "आईसीसी टूर्नामेंट में प्रथम प्रवेश",
+          "id": "phase_आईसीसी_टूर्नामेंट_में_प्रथम_प्रवेश",
+          "note": "1999",
+          "value": {
+            "label": "जयवर्धने 1999 की विश्व कप टीम के प्रमुख सदस्य थे"
+          }
+        },
+        {
+          "label": "2003 विश्व कप",
+          "id": "phase_2003_विश्व_कप",
+          "note": "2003",
+          "value": {
+            "label": "जयवर्धने 2003 की विश्व कप टीम के प्रमुख सदस्य थे",
+            "facts": [
+              {
+                "url": "/read/hi/2003_cricket_world_cup",
+                "contentUrl": "/static/content/hi/2003_cricket_world_cup.json",
+                "label": "2003 क्रिकेट विश्व कप",
+                "id": "phase_fact_fact_2003_क्रिकेट_विश्व_कप",
+                "value": {
+                  "label": "2003 का क्रिकेट विश्व कप आठवां क्रिकेट विश्व कप था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेजबानी दक्षिण अफ्रीका, जिम्बाब्वे और केन्या ने मिल कर की थी।",
+                  "image": {
+                    "url": "/static/images/master/Cricket_World_Cup_Logo_2003.svg",
+                    "altText": "Image of 2003 क्रिकेट विश्व कप"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2007 विश्व कप",
+          "id": "phase_2007_विश्व_कप",
+          "note": "2007",
+          "value": {
+            "label": "जयवर्धने ने न्यूजीलैंड के खिलाफ 2007 क्रिकेट विश्व कप के सेमीफाइनल में शतक बनाया"
+          }
+        },
+        {
+          "label": "2010 टी 20 विश्व कप",
+          "id": "phase_2010_टी_20_विश्व_कप",
+          "note": "2010",
+          "value": {
+            "label": "जयवर्धने को 2010 के आईसीसी  वर्ल्ड ट्वेंटी 20 के लिए सलामी बल्लेबाज के रूप में भेजा गया था",
+            "facts": [
+              {
+                "url": "/read/hi/icc_t20_world_cup",
+                "contentUrl": "/static/content/hi/icc_t20_world_cup.json",
+                "label": "आईसीसी टी20 विश्व कप",
+                "id": "phase_fact_fact_आईसीसी_टी20_विश्व_कप",
+                "value": {
+                  "label": "आईसीसी टी20 विश्व कप (जिसे पहले आईसीसी विश्व ट्वेंटी20 के नाम से जाना जाता था) ट्वेंटी20 क्रिकेट की अंतर्राष्ट्रीय चैम्पियनशिप है। वर्तमान में इस टूर्नामेंट में 16 टीमें भाग लेती हैं, जिसमें आठ टीमें दी गई समय सीमा के भीतर रैंकिंग के शीर्ष आठ में रहने वाली टीमें होती हैं जबकि चार अन्य टीमें टी20 विश्व कप क्वालीफायर के माध्यम से चुनी जातीं हैं।",
+                  "image": {
+                    "url": "/static/images/master/ICC_World_Twenty20_Trophy.jpg",
+                    "altText": "Image of आईसीसी टी20 विश्व कप"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "आईपीएल में प्रथम प्रवेश",
+          "id": "phase_आईपीएल_में_प्रथम_प्रवेश",
+          "note": "2008",
+          "value": {
+            "label": "जयवर्धने 2008 से 2010 तक किंग्स इलेवन पंजाब के लिए खेले",
+            "facts": [
+              {
+                "url": "/read/hi/kings_xi_punjab",
+                "contentUrl": "/static/content/hi/kings_xi_punjab.json",
+                "label": "किंग्स इलेवन पंजाब",
+                "id": "phase_fact_fact_किंग्स_इलेवन_पंजाब",
+                "value": {
+                  "label": "किंग्स इलेवन पंजाब (KXIP) मोहाली (चंडीगढ़ सीआर), पंजाब आधारित एक फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग में खेलती है।",
+                  "image": {
+                    "url": "/static/images/master/Kings_XI_Punjab_logo.svg",
+                    "altText": "Image of किंग्स इलेवन पंजाब"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "उपलब्धि और रिकॉर्ड",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "कुमार संगकारा के साथ जयवर्धने ने सर्वाधिक रन (624) की साझेदारी का विश्व रिकॉर्ड बनाया",
+            "image": {
+              "url": "/static/images/master/Mahela_Jayawardene_3.JPG",
+              "altText": "कुमार संगकारा के साथ जयवर्धने ने सर्वाधिक रन (624) की साझेदारी का विश्व रिकॉर्ड बनाया"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "जयवर्धने ने टेस्ट में 205 कैच के साथ दूसरे सबसे ज्यादा कैच लेने का रिकॉर्ड बनाया",
+            "image": {
+              "url": "/static/images/master/Mahela_Jayawardene.jpg",
+              "altText": "जयवर्धने ने टेस्ट में 205 कैच के साथ दूसरे सबसे ज्यादा कैच लेने का रिकॉर्ड बनाया",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "2006 में, जयवर्धने ने दाएं हाथ के बल्लेबाज द्वारा टेस्ट में सर्वाधिक व्यक्तिगत स्कोर (374) का रिकॉर्ड बनाया",
+            "image": {
+              "url": "/static/images/master/Mahela_batting_vs_England_in_his_final_ODI_in_Sri_Lanka.JPG",
+              "altText": "2006 में, जयवर्धने ने दाएं हाथ के बल्लेबाज द्वारा टेस्ट में सर्वाधिक व्यक्तिगत स्कोर (374) का रिकॉर्ड बनाया",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "जयवर्धने एक दिवसीय अंतर्राष्ट्रीय (ओडीआई) के इतिहास में 200 एक दिवसीय अंतर्राष्ट्रीय कैच लेने वाले पहले क्षेत्ररक्षक थे",
+            "image": {
+              "url": "/static/images/master/Mahela_Jayawardene_2.jpg",
+              "altText": "जयवर्धने एक दिवसीय अंतर्राष्ट्रीय (ओडीआई) के इतिहास में 200 एक दिवसीय अंतर्राष्ट्रीय कैच लेने वाले पहले क्षेत्ररक्षक थे",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "जयवर्धने ने एकदिवसीय अंतरराष्ट्रीय इतिहास में सबसे अधिक रन बनाने का रिकॉर्ड बनाया जब नंबर 4 की स्थिति पर बल्लेबाजी की (6,946)",
+            "image": {
+              "url": "",
+              "altText": "जयवर्धने ने एकदिवसीय अंतरराष्ट्रीय इतिहास में सबसे अधिक रन बनाने का रिकॉर्ड बनाया जब नंबर 4 की स्थिति पर बल्लेबाजी की (6,946)"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "टीमें",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "श्रीलंका (1997 - 2015)",
+          "id": "team_fact_श्रीलंका_1997 - 2015",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "श्रीलंका की राष्ट्रीय क्रिकेट टीम",
+                "id": "team_fact_fact_श्रीलंका_की_राष्ट्रीय_क्रिकेट_टीम",
+                "url": "/read/hi/sri_lanka_national_cricket_team",
+                "contentUrl": "/static/content/hi/sri_lanka_national_cricket_team.json",
+                "value": {
+                  "label": "श्रीलंका की राष्ट्रीय क्रिकेट टीम, जिसे 'द लायंस' के नाम से भी जाना जाता है। यह अंतरराष्ट्रीय क्रिकेट में श्रीलंका का प्रतिनिधित्व करती है। यह टेस्ट, एकदिवसीय अंतरराष्ट्रीय (ओडीआई) और टी-20 अंतरराष्ट्रीय (टी20आई) में अंतरराष्ट्रीय क्रिकेट परिषद (आईसीसी) का पूर्ण सदस्य देश है।",
+                  "image": {
+                    "url": "/static/images/master/Sri_Lanka_Cricket_Cap_Insignia.svg",
+                    "altText": "Picture of श्रीलंका की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "दिल्ली डेयरडेविल्स (अब दिल्ली कैपिटल) (2012-2014)",
+          "id": "team_fact_दिल्ली_डेयरडेविल्स_(अब_दिल्ली_कैपिटल)_2012-2014",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "देल्ही कैपिटल्स",
+                "id": "team_fact_fact_देल्ही_कैपिटल्स",
+                "url": "/read/hi/delhi_capitals",
+                "contentUrl": "/static/content/hi/delhi_capitals.json",
+                "value": {
+                  "label": "देल्ही कैपिटल्स एक फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में दिल्ली शहर का प्रतिनिधित्व करती है।",
+                  "image": {
+                    "url": "/static/images/master/Delhi_Capitals_Logo.svg",
+                    "altText": "Picture of देल्ही कैपिटल्स"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "सिंहली स्पोर्ट्स क्लब  (1995-2015)",
+          "id": "team_fact_सिंहली_स्पोर्ट्स_क्लब_1995-2015",
+          "value": {
+            "label": "सिंघलीज़ स्पोर्ट्स क्लब (एसएससी) श्रीलंका में प्रथम श्रेणी का क्रिकेट क्लब है"
+          }
+        }
+      ]
+    },
+    {
+      "title": "पुरस्कार और सम्मान",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "आईसीसी कैप्टन ऑफ द ईयर",
+          "tag": "2006",
+          "id": "award-0",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": "Image of आईसीसी कैप्टन ऑफ द ईयर"
+            }
+          }
+        },
+        {
+          "label": "विजडन क्रिकेटर ऑफ द ईयर",
+          "tag": "2007",
+          "id": "award-1",
+          "value": {
+            "label": "विजडन क्रिकेटर्स अलमैनैक द्वारा एक वार्षिक पुरस्कार",
+            "image": {
+              "url": "",
+              "altText": "Image of विजडन क्रिकेटर ऑफ द ईयर"
+            }
+          }
+        },
+        {
+          "label": "आईसीसी स्पिरिट ऑफ क्रिकेट अवार्ड",
+          "tag": "2013",
+          "id": "award-2",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": "Image of आईसीसी स्पिरिट ऑफ क्रिकेट अवार्ड"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

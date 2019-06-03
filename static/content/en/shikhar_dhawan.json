@@ -88,11 +88,11 @@
         {
           "label": "",
           "value": {
-            "label": "Viral Kohli is a left-handed opening batsman and an occasional right-arm off break bowler.",
+            "label": "Virat Kohli is a left-handed opening batsman and an occasional right-arm off break bowler.",
             "image": {
-              "url": "/static/images/master/SHIKHAR_DHAWAN_281600716308729.jpg",
+              "url": "/static/images/master/Virat_Kohli_Batting.jpg",
               "altText": "Style of play for Shikhar Dhawan",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         }
@@ -107,7 +107,22 @@
           "id": "phase_first_class_debut",
           "note": "2004",
           "value": {
-            "label": "Dhawan made his first-class debut for Delhi against Andhra during Ranji Trophy in the year 2004."
+            "label": "Dhawan made his first-class debut for Delhi against Andhra during Ranji Trophy in the year 2004.",
+            "facts": [
+              {
+                "url": "/read/en/ranji_trophy",
+                "contentUrl": "/static/content/en/ranji_trophy.json",
+                "label": "Ranji Trophy",
+                "id": "phase_fact_fact_ranji_trophy",
+                "value": {
+                  "label": "The Ranji Trophy is a domestic first-class cricket championship played in India between teams representing regional and state cricket associations.",
+                  "image": {
+                    "url": "/static/images/master/Ranji_Trophy_logo.png",
+                    "altText": "Image of Ranji Trophy"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -118,15 +133,15 @@
             "label": "Dhawan made his international debut versus Australia but got out on a duck.",
             "facts": [
               {
-                "url": "/read/en/australia_cricket_team",
-                "contentUrl": "/static/content/en/australia_cricket_team.json",
-                "label": "Australia Cricket team",
-                "id": "phase_fact_fact_australia_cricket_team",
+                "url": "/read/en/australia_national_cricket_team",
+                "contentUrl": "/static/content/en/australia_national_cricket_team.json",
+                "label": "Australia national cricket team",
+                "id": "phase_fact_fact_australia_national_cricket_team",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
                     "url": "/static/images/master/Australia_cricket_logo.svg",
-                    "altText": "Image of Australia Cricket team"
+                    "altText": "Image of Australia national cricket team"
                   }
                 }
               }
@@ -192,7 +207,7 @@
                 "label": "2015 Cricket World Cup",
                 "id": "phase_fact_fact_2015_cricket_world_cup",
                 "value": {
-                  "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
+                  "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand.",
                   "image": {
                     "url": "/static/images/master/2015_Cricket_World_Cup_Logo.svg",
                     "altText": "Image of 2015 Cricket World Cup"
@@ -260,8 +275,9 @@
           "value": {
             "label": "Shikhar Dhawan scored the fastest century by a player on their Test debut ",
             "image": {
-              "url": "",
-              "altText": "Shikhar Dhawan scored the fastest century by a player on their Test debut "
+              "url": "/static/images/master/England_v_India2C_Trent_Bridge_284418010225129.jpg",
+              "altText": "Shikhar Dhawan scored the fastest century by a player on their Test debut ",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -271,8 +287,9 @@
           "value": {
             "label": "Most Runs from Indian Player in ICC World Cup 2015",
             "image": {
-              "url": "",
-              "altText": "Most Runs from Indian Player in ICC World Cup 2015"
+              "url": "/static/images/master/SHIKHAR_DHAWAN_281600549441829.jpg",
+              "altText": "Most Runs from Indian Player in ICC World Cup 2015",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -282,8 +299,9 @@
           "value": {
             "label": "Only player to get 2 consecutive golden bats at ICC Champions Trophy for being the highest run scorer of the tournament",
             "image": {
-              "url": "",
-              "altText": "Only player to get 2 consecutive golden bats at ICC Champions Trophy for being the highest run scorer of the tournament"
+              "url": "/static/images/master/SHIKHAR_DHAWAN_281600716308729.jpg",
+              "altText": "Only player to get 2 consecutive golden bats at ICC Champions Trophy for being the highest run scorer of the tournament",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -293,8 +311,9 @@
           "value": {
             "label": "Dhawan is the first Indian batsman to score a century before lunch on the first day of a Test match.",
             "image": {
-              "url": "",
-              "altText": "Dhawan is the first Indian batsman to score a century before lunch on the first day of a Test match."
+              "url": "/static/images/master/Shikhar_Dhawan_January_2016_28cropped29.jpg",
+              "altText": "Dhawan is the first Indian batsman to score a century before lunch on the first day of a Test match.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
             }
           }
         },
@@ -316,8 +335,8 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Indian National Cricket team (2010-present)",
-          "id": "team_fact_indian_national_cricket_team_2010-present",
+          "label": "India National Cricket team (2010-present)",
+          "id": "team_fact_india_national_cricket_team_2010-present",
           "value": {
             "label": "",
             "facts": [
@@ -329,7 +348,7 @@
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of India national cricket team"
                   }
                 }
@@ -338,8 +357,8 @@
           }
         },
         {
-          "label": "Delhi Capitals (2019-present)",
-          "id": "team_fact_delhi_capitals_2019-present",
+          "label": "Delhi Capitals (2019 - present)",
+          "id": "team_fact_delhi_capitals_2019 - present",
           "value": {
             "label": "",
             "facts": [
@@ -360,8 +379,8 @@
           }
         },
         {
-          "label": "Delhi (2004-present)",
-          "id": "team_fact_delhi_2004-present",
+          "label": "Delhi (2004 - present)",
+          "id": "team_fact_delhi_2004 - present",
           "value": {
             "label": "Domestic Ranji trophy cricket team based in Delhi"
           }

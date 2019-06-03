@@ -1,6 +1,6 @@
 {
   "title": "முஷ்ஃபிகுர் ரஹீம்",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mushfiqur_Rahim",
+  "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%81%E0%AE%B7%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%95%E0%AF%81%E0%AE%B0%E0%AF%8D_%E0%AE%B0%E0%AE%95%E0%AF%80%E0%AE%AE%E0%AF%8D",
   "coverImage": {
     "url": "/static/images/master/Mushfiqur_Rahim_batting_against_England_at_Lords_in_20102C_cropped.jpg",
     "altText": "Image of முஷ்ஃபிகுர் ரஹீம்",
@@ -33,14 +33,14 @@
         {
           "label": "பிறந்த தேதி",
           "value": {
-            "label": "Invalid Date (வயது 31)"
+            "label": "9 June 1987  (வயது 31)"
           }
         },
         {
           "label": "பிறந்த இடம்",
           "value": {
             "label": "போக்ரா, பங்களாதேஷ்",
-            "url": "https://en.wikipedia.org/wiki/Bogra",
+            "url": "https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%8B%E0%AE%95%E0%AF%8D%E0%AE%B0%E0%AE%BE",
             "contentUrl": "/static/content/ta/rishab_pant.json"
           }
         },
@@ -184,7 +184,22 @@
           "id": "phase_உலகக்_கோப்பை",
           "note": "2019",
           "value": {
-            "label": ""
+            "label": "",
+            "facts": [
+              {
+                "url": "/read/ta/icc_cricket_world_cup",
+                "contentUrl": "/static/content/ta/icc_cricket_world_cup.json",
+                "label": "கிரிக்கெட் உலகக் கோப்பை",
+                "id": "phase_fact_fact_கிரிக்கெட்_உலகக்_கோப்பை",
+                "value": {
+                  "label": "ஐசிசி கிரிக்கெட் உலக கோப்பை ஒரு நாள் சர்வதேச கிரிக்கெட்டின் சர்வதேச சாம்பியன்ஷிப் ஆகும். இந்த நிகழ்வானது, விளையாட்டு நிர்வாக ஆணையம், சர்வதேச கிரிக்கெட் கவுன்சில்லால்  ஒவ்வொரு நான்கு வருடங்களுக்கும் ஏற்பாடு செய்யப்படுகின்றது",
+                  "image": {
+                    "url": "/static/images/master/Icc_cricket_world_cup_trophy.jpg",
+                    "altText": "Image of கிரிக்கெட் உலகக் கோப்பை"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
@@ -261,15 +276,15 @@
             "label": "",
             "facts": [
               {
-                "label": "Bangladesh national cricket team",
-                "id": "team_fact_fact_bangladesh_national_cricket_team",
+                "label": "வங்காளதேசக் தேசியக் கிரிக்கெட் அணி",
+                "id": "team_fact_fact_வங்காளதேசக்_தேசியக்_கிரிக்கெட்_அணி",
                 "url": "/read/ta/bangladesh_national_cricket_team",
                 "contentUrl": "/static/content/ta/bangladesh_national_cricket_team.json",
                 "value": {
-                  "label": "The Bangladesh national cricket team, popularly known as \"The Tigers\", is administered by the Bangladesh Cricket Board (BCB). Bangladesh is a full member of the International Cricket Council (ICC) with Test and One Day International (ODI) status.",
+                  "label": "வங்களாதேசக் தேசியக் கிரிக்கெட் அணி, \"தி டைகர்ஸ்\" என்று பிரபலமாக அறியப்படுகிறது, இது வங்கதேச கிரிக்கெட் வாரியத்தால் (பிசிபி) நிர்வகிக்கப்படுகிறது. வங்களாதேசம் டெஸ்ட் மற்றும் ஒருநாள் சர்வதேசப் போட்டி அந்தஸ்தில் சர்வதேசக் கிரிக்கெட் கவுன்சிலின் (ஐசிசி)  முழு உறுப்பினராக உள்ளது.",
                   "image": {
                     "url": "/static/images/master/Flag_of_Bangladesh.svg",
-                    "altText": "Picture of Bangladesh national cricket team"
+                    "altText": "Picture of வங்காளதேசக் தேசியக் கிரிக்கெட் அணி"
                   }
                 }
               }

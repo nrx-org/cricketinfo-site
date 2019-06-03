@@ -9,10 +9,12 @@
   "translations": [
     {
       "lang": "hi",
+      "title": "वसीम अकरम ",
       "url": "/read/hi/wasim_akram"
     },
     {
       "lang": "ta",
+      "title": "வாஸிம் அக்ரம்",
       "url": "/read/ta/wasim_akram"
     }
   ],
@@ -30,7 +32,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": "Invalid Date (Age 52)"
+            "label": "03-06-1966 (Age 52)"
           }
         },
         {
@@ -85,7 +87,7 @@
         {
           "label": "",
           "value": {
-            "label": "Wasim Akram was a left-arm fast bowler who could bowl with significant pace,"
+            "label": "Wasim Akram was a left-arm fast bowler who could bowl with significant pace."
           }
         }
       ]
@@ -134,6 +136,75 @@
           }
         },
         {
+          "label": "1992 Cricket World cup",
+          "id": "phase_1992_cricket_world_cup",
+          "note": "1992",
+          "value": {
+            "label": "In the final against England, Akram's innings of 33 runs off 19 balls pushed Pakistan to a score of 249 runs for 6 wickets.",
+            "facts": [
+              {
+                "url": "/read/en/1992_cricket_world_cup",
+                "contentUrl": "/static/content/en/1992_cricket_world_cup.json",
+                "label": "1992 Cricket World Cup",
+                "id": "phase_fact_fact_1992_cricket_world_cup",
+                "value": {
+                  "label": "The 1992 Cricket World Cup (officially the Benson & Hedges World Cup 1992) was the fifth staging of the Cricket World Cup, organised by the International Cricket Council (ICC). It was held in Australia and New Zealand from 22 February to 25 March 1992 and finished with Pakistan beating England in the final to become the World Cup champions for the first time.",
+                  "image": {
+                    "url": "/static/images/master/World_Cup_1992_logo.svg",
+                    "altText": "Image of 1992 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "World cup 1996",
+          "id": "phase_world_cup_1996",
+          "note": "1996",
+          "value": {
+            "label": "In the 1996 Cricket World Cup, Akram missed the quarterfinal match against India which Pakistan lost and went out of the tournament.",
+            "facts": [
+              {
+                "url": "/read/en/1996_cricket_world_cup",
+                "contentUrl": "/static/content/en/1996_cricket_world_cup.json",
+                "label": "1996 Cricket World Cup",
+                "id": "phase_fact_fact_1996_cricket_world_cup",
+                "value": {
+                  "label": "The 1996 Cricket World Cup, also called the Wills World Cup 1996 after its official sponsors, ITC's Wills brand, was the sixth Cricket World Cup. It was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka.",
+                  "image": {
+                    "url": "/static/images/master/Wills_World_Cup_1996.svg",
+                    "altText": "Image of 1996 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "World cup 1999",
+          "id": "phase_world_cup_1999",
+          "note": "1999",
+          "value": {
+            "label": "In 1999, Akram led Pakistan to the finals of the World Cup where they were defeated by Australia.",
+            "facts": [
+              {
+                "url": "/read/en/1999_cricket_world_cup",
+                "contentUrl": "/static/content/en/1999_cricket_world_cup.json",
+                "label": "1999 Cricket World Cup",
+                "id": "phase_fact_fact_1999_cricket_world_cup",
+                "value": {
+                  "label": "The 1999 Cricket World Cup was the seventh edition of the Cricket World Cup, organised by the International Cricket Council (ICC). It was hosted primarily by England, with some games being played in Scotland, Ireland, Wales and the Netherlands.",
+                  "image": {
+                    "url": "/static/images/master/Wc99.png",
+                    "altText": "Image of 1999 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
           "label": "IPL Debut",
           "id": "phase_ipl_debut",
           "note": "",
@@ -153,7 +224,7 @@
           "value": {
             "label": "Wasim Akram holds the record for taking the most number of ODI wickets as captain.",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Wasim-akram-gesf-2018-7878.jpg",
               "altText": "Wasim Akram holds the record for taking the most number of ODI wickets as captain."
             }
           }
@@ -164,8 +235,9 @@
           "value": {
             "label": " Akram took 502 ODI wickets and 414 Test wickets during his career.",
             "image": {
-              "url": "",
-              "altText": " Akram took 502 ODI wickets and 414 Test wickets during his career."
+              "url": "/static/images/master/Wasim_Akram_2.jpg",
+              "altText": " Akram took 502 ODI wickets and 414 Test wickets during his career.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -175,8 +247,9 @@
           "value": {
             "label": "Akram is the first bowler to take 500 ODI wickets.",
             "image": {
-              "url": "",
-              "altText": "Akram is the first bowler to take 500 ODI wickets."
+              "url": "/static/images/master/Wasim_Akram_3.jpg",
+              "altText": "Akram is the first bowler to take 500 ODI wickets.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -231,8 +304,8 @@
           }
         },
         {
-          "label": "Pakistan Automobiles Corporation (1984-86)",
-          "id": "team_fact_pakistan_automobiles_corporation_1984-86",
+          "label": "Pakistan Automobiles Corporation (1984 - 86)",
+          "id": "team_fact_pakistan_automobiles_corporation_1984 - 86",
           "value": {
             "label": "Pakistan Automobiles Corporation was a first-class cricket team that played in the domestic league in Pakistan between 1983 and 1994."
           }

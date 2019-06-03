@@ -9,10 +9,12 @@
   "translations": [
     {
       "lang": "hi",
+      "title": "स्टीफन फ्लेमिंग ",
       "url": "/read/hi/stephen_fleming"
     },
     {
       "lang": "ta",
+      "title": "ஸ்டீபன் பிளெமிங்",
       "url": "/read/ta/stephen_fleming"
     }
   ],
@@ -30,7 +32,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": "Invalid Date (Age 46)"
+            "label": "01-04-1973 (Age 46)"
           }
         },
         {
@@ -69,7 +71,7 @@
         {
           "label": "",
           "value": {
-            "label": "Fleming was an elegant left handed batsman, off-break bowler, and prolific fielder in the slips",
+            "label": "Fleming was an elegant left handed batsman, off-break bowler, and prolific fielder in the slips.",
             "image": {
               "url": "/static/images/master/Stephen_Fleming_captain.jpg",
               "altText": "Style of play for Stephen Fleming"
@@ -105,7 +107,7 @@
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of India national cricket team"
                   }
                 }
@@ -119,6 +121,52 @@
           "note": "",
           "value": {
             "label": ""
+          }
+        },
+        {
+          "label": "2003 Cricket World cup",
+          "id": "phase_2003_cricket_world_cup",
+          "note": "2003",
+          "value": {
+            "label": "Fleming scored and unbeaten 134 to help New Zealand beat hosts South Africa in the 2003 Cricket World Cup.",
+            "facts": [
+              {
+                "url": "/read/en/2003_cricket_world_cup",
+                "contentUrl": "/static/content/en/2003_cricket_world_cup.json",
+                "label": "2003 Cricket World Cup",
+                "id": "phase_fact_fact_2003_cricket_world_cup",
+                "value": {
+                  "label": "The 2003 Cricket World Cup was the eighth Cricket World Cup, organized by the International Cricket Council (ICC). It was co-hosted by South Africa, Zimbabwe and Kenya.",
+                  "image": {
+                    "url": "/static/images/master/Cricket_World_Cup_Logo_2003.svg",
+                    "altText": "Image of 2003 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "World cup 2007",
+          "id": "phase_world_cup_2007",
+          "note": "2007",
+          "value": {
+            "label": "Fleming played well throughout the 2007 World Cup scoring a total of 353 runs.",
+            "facts": [
+              {
+                "url": "/read/en/2007_cricket_world_cup",
+                "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
+                "label": "2007 Cricket World Cup",
+                "id": "phase_fact_fact_2007_cricket_world_cup",
+                "value": {
+                  "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
+                  "image": {
+                    "url": "/static/images/master/2007_Cricket_World_Cup_logo.svg",
+                    "altText": "Image of 2007 Cricket World Cup"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -167,7 +215,7 @@
           "value": {
             "label": "2000 - Fleming became New Zealand's most successful captain with 12 test match wins",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Stephen_Fleming_slip.jpg",
               "altText": "2000 - Fleming became New Zealand's most successful captain with 12 test match wins"
             }
           }
@@ -212,8 +260,8 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "New Zealand (1994-2008)",
-          "id": "team_fact_new_zealand_1994-2008",
+          "label": "New Zealand National Cricket team (1994-2008)",
+          "id": "team_fact_new_zealand_national_cricket_team_1994-2008",
           "value": {
             "label": "",
             "facts": [
@@ -256,8 +304,8 @@
           }
         },
         {
-          "label": "Canterbury (1991-2000)",
-          "id": "team_fact_canterbury_1991-2000",
+          "label": "Canterbury (1991 - 2000)",
+          "id": "team_fact_canterbury_1991 - 2000",
           "value": {
             "label": "Canterbury is a New Zealand First-class cricket team based in Canterbury, New Zealand."
           }

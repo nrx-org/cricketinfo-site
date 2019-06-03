@@ -10,10 +10,12 @@
   "translations": [
     {
       "lang": "hi",
+      "title": "हार्दिक पंड्या\n",
       "url": "/read/hi/hardik_pandya"
     },
     {
       "lang": "ta",
+      "title": "ஹர்த்திக் பாண்டியா",
       "url": "/read/ta/hardik_pandya"
     }
   ],
@@ -31,7 +33,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": "Invalid Date (Age 25)"
+            "label": "11-10-1993 (Age 25)"
           }
         },
         {
@@ -95,15 +97,15 @@
             "label": "Pandya made his international debut in a T20 match against Australia",
             "facts": [
               {
-                "url": "/read/en/australia_cricket_team",
-                "contentUrl": "/static/content/en/australia_cricket_team.json",
-                "label": "Australia Cricket team",
-                "id": "phase_fact_fact_australia_cricket_team",
+                "url": "/read/en/australia_national_cricket_team",
+                "contentUrl": "/static/content/en/australia_national_cricket_team.json",
+                "label": "Australia national cricket team",
+                "id": "phase_fact_fact_australia_national_cricket_team",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
                     "url": "/static/images/master/Australia_cricket_logo.svg",
-                    "altText": "Image of Australia Cricket team"
+                    "altText": "Image of Australia national cricket team"
                   }
                 }
               }
@@ -116,6 +118,29 @@
           "note": "2016",
           "value": {
             "label": "In the T20 World cup match against Bangladesh , Pandya took two crucial wickets in the last over which helped India win the match."
+          }
+        },
+        {
+          "label": "2017 Champions trophy",
+          "id": "phase_2017_champions_trophy",
+          "note": "2017",
+          "value": {
+            "label": "In the final of the 2017 Champions Trophy he score 76 of 43 balls after the top-order collapsed.",
+            "facts": [
+              {
+                "url": "/read/en/icc_champions_trophy",
+                "contentUrl": "/static/content/en/icc_champions_trophy.json",
+                "label": "ICC Champions Trophy",
+                "id": "phase_fact_fact_icc_champions_trophy",
+                "value": {
+                  "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
+                  "image": {
+                    "url": "/static/images/master/ICC_Champions_Trophy_cricket_logo.png",
+                    "altText": "Image of ICC Champions Trophy"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -153,8 +178,9 @@
           "value": {
             "label": "In 2016, Pandya hit eight sixes to score 86 not out to help the Baroda cricket team win the Syed Mushtaq Ali Trophy.",
             "image": {
-              "url": "",
-              "altText": "In 2016, Pandya hit eight sixes to score 86 not out to help the Baroda cricket team win the Syed Mushtaq Ali Trophy."
+              "url": "/static/images/master/Hardik_Pandya_28cropped29.jpg",
+              "altText": "In 2016, Pandya hit eight sixes to score 86 not out to help the Baroda cricket team win the Syed Mushtaq Ali Trophy.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
             }
           }
         },
@@ -209,8 +235,8 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Indian national cricket team (2016 to present)",
-          "id": "team_fact_indian_national_cricket_team_2016 to present",
+          "label": "India National Cricket team (2016 to present)",
+          "id": "team_fact_india_national_cricket_team_2016 to present",
           "value": {
             "label": "",
             "facts": [
@@ -222,7 +248,7 @@
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of India national cricket team"
                   }
                 }

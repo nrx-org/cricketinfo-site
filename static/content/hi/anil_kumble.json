@@ -1,6 +1,6 @@
 {
   "title": "अनिल कुंबले",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anil_Kumble",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%A8%E0%A4%BF%E0%A4%B2_%E0%A4%95%E0%A5%81%E0%A4%82%E0%A4%AC%E0%A4%B2%E0%A5%87",
   "coverImage": {
     "url": "/static/images/master/Anil_Kumble.jpg",
     "altText": "Image of अनिल कुंबले"
@@ -39,7 +39,7 @@
           "label": "जन्मस्थान",
           "value": {
             "label": "बेंगलुरु, भारत",
-            "url": "https://en.wikipedia.org/wiki/Bangalore",
+            "url": "https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A4%82%E0%A4%97%E0%A4%B2%E0%A5%8C%E0%A4%B0",
             "contentUrl": "/static/content/hi/bangalore.json"
           }
         },
@@ -115,8 +115,8 @@
           }
         },
         {
-          "label": "राष्ट्रीय टीम ",
-          "id": "phase_राष्ट्रीय_टीम",
+          "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
+          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
           "note": "1990",
           "value": {
             "label": "कुंबले ने 1990 में आस्ट्रेलेशिया कप में सारजाह में श्रीलंका के विरुद्ध वनडे इंटरनेशनल में पदार्पण किया। ",
@@ -203,8 +203,9 @@
           "value": {
             "label": "कुंबले ऐसे दूसरे खिलाड़ी हैं जिन्होंने एक टेस्ट मैच की एक पारी में सभी 10 विकेट लिए हैं।",
             "image": {
-              "url": "",
-              "altText": "कुंबले ऐसे दूसरे खिलाड़ी हैं जिन्होंने एक टेस्ट मैच की एक पारी में सभी 10 विकेट लिए हैं।"
+              "url": "/static/images/master/Anil_Kumble_2.jpg",
+              "altText": "कुंबले ऐसे दूसरे खिलाड़ी हैं जिन्होंने एक टेस्ट मैच की एक पारी में सभी 10 विकेट लिए हैं।",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/4.0/\">4.0 International</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
             }
           }
         },
@@ -214,7 +215,7 @@
           "value": {
             "label": "कुंबले ने 1996 में 61 विकेट के साथ किसी भी भारतीय क्रिकेटर द्वारा एक कैलेंडर वर्ष में सर्वाधिक विकेट लेने का रिकॉर्ड बनाया",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Anil_Kumble.jpg",
               "altText": "कुंबले ने 1996 में 61 विकेट के साथ किसी भी भारतीय क्रिकेटर द्वारा एक कैलेंडर वर्ष में सर्वाधिक विकेट लेने का रिकॉर्ड बनाया"
             }
           }
@@ -225,8 +226,9 @@
           "value": {
             "label": "कुंबले के नाम अपने पूरे टेस्ट करियर के दौरान 40850 गेंदे करने का रिकॉर्ड है, जो किसी भी भारतीय का सर्वाधिक है।",
             "image": {
-              "url": "",
-              "altText": "कुंबले के नाम अपने पूरे टेस्ट करियर के दौरान 40850 गेंदे करने का रिकॉर्ड है, जो किसी भी भारतीय का सर्वाधिक है।"
+              "url": "/static/images/master/Anil_Kumble_-_Boxing_Day.jpg",
+              "altText": "कुंबले के नाम अपने पूरे टेस्ट करियर के दौरान 40850 गेंदे करने का रिकॉर्ड है, जो किसी भी भारतीय का सर्वाधिक है।",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -236,7 +238,7 @@
           "value": {
             "label": "कुंबले ने अपने पहले 50 टेस्ट विकेट 10 मैचों में लिए",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Kumble_edited.jpg",
               "altText": "कुंबले ने अपने पहले 50 टेस्ट विकेट 10 मैचों में लिए"
             }
           }
@@ -247,8 +249,9 @@
           "value": {
             "label": "1993 में, इन्होंने वेस्टइंडीज के खिलाफ एक वनडे मैच में 12 रन देकर छह विकेट लिए जो बहुत लंबे समय तक एक भारतीय रिकॉर्ड बना रहा।",
             "image": {
-              "url": "",
-              "altText": "1993 में, इन्होंने वेस्टइंडीज के खिलाफ एक वनडे मैच में 12 रन देकर छह विकेट लिए जो बहुत लंबे समय तक एक भारतीय रिकॉर्ड बना रहा।"
+              "url": "/static/images/master/Former_Indian_cricketer_Anil_Kumble.jpg",
+              "altText": "1993 में, इन्होंने वेस्टइंडीज के खिलाफ एक वनडे मैच में 12 रन देकर छह विकेट लिए जो बहुत लंबे समय तक एक भारतीय रिकॉर्ड बना रहा।",
+              "license": "<p><i></i><div lang=\"en\" class=\"description en\" style=\"display:inline;\"><i>This file is a copyrighted work of the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.india.gov.in/\">Government of India</a></b>, licensed under the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf\">Government Open Data License - India (GODL)</a></b>.</i>\n<p>Following the mandate of the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://data.gov.in/sites/default/files/NDSAP.pdf\">National Data Sharing and Accessibility Policy (NDSAP) of Government of India</a></b> that\napplies to all shareable non-sensitive data available either in digital or analog forms but generated using public funds by\nvarious agencies of the Government of India, all users are provided a worldwide, royalty-free, non-exclusive license to <b>use, adapt, publish</b> (either in original, or in adapted and/or derivative forms), translate, display, add value, and create derivative works (including products and services), for all lawful <b>commercial and non-commercial purposes</b>, and for the duration of existence of such rights over the data or information. \n</p><p>The user must acknowledge the provider, source, and license of data by explicitly publishing the <b>attribution statement</b>, including the DOI (Digital Object Identifier), or the URL (Uniform Resource Locator), or the URI (Uniform Resource Identifier) of the data concerned. \n</p><p>The user must not indicate or suggest in any manner that the data provider(s) endorses their use and/or the user. \nThe data provider(s) are not liable for any errors or omissions, and will not under any circumstances be liable for any loss, injury or damage caused by its use.  \n</p><p>The data provider(s) do not guarantee the continued supply of updated or up-to-date versions of the data, and will not be held liable in case the continued supply of updated data is not provided. \n</p><p><b>Exemptions:</b> The license does not cover the following kinds of data: a. personal information; b. data that is non-shareable and/or sensitive; c. names, crests, logos and other official symbols of the data provider(s); d. data subject to other intellectual property rights, including patents, trade-marks and official marks; e. military insignia; f. identity documents; and g. any data that should not have been publicly disclosed for the grounds provided under section 8 of the <a rel=\"nofollow\" class=\"external text\" href=\"http://rti.gov.in/webactrti.htm\">Right to Information Act, 2005</a>.\n</p><p><span class=\"licensetpl_link\" style=\"display:none;\">https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf</span>\n<span class=\"licensetpl_short\" style=\"display:none;\">GODL-India</span>\n<span class=\"licensetpl_long\" style=\"display:none;\">Government Open Data License &#x2013; India</span>\n<span class=\"licensetpl_link_req\" style=\"display:none;\">true</span>\n</p>\n<span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div><i></i></p><p></p><p><hr>\n<p><span style=\"font-size:x-small;line-height:140%\" class=\"plainlinks noprint\"><a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/en\">English</a>&#xA0;| <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/fr\">fran&#xE7;ais</a>&#xA0;| <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/ml\">&#xD2E;&#xD32;&#xD2F;&#xD3E;&#xD33;&#xD02;</a>&#xA0;| <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:GODL-India/mr\">&#x92E;&#x930;&#x93E;&#x920;&#x940;</a>&#xA0;| <small class=\"plainlinks\"><a class=\"external text\" href=\"//commons.wikimedia.org/w/index.php?title=Template:GODL-India/lang&amp;action=edit\">+/&#x2212;</a></small></span>\n<span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=GODL-India 1%3D\">&#xA0;</span>\n</p></p>"
             }
           }
         }
@@ -272,7 +275,7 @@
                 "value": {
                   "label": "भारत की राष्ट्रीय क्रिकेट टीम को टीम इंडिया और मेन इन ब्लू के नाम से भी जाना जाता है। भारत को टेस्ट में पहला, वनडे में दूसरा और आईसीसी द्वारा टी20 में दूसरा स्थान मिला है। विराट कोहली टीम के वर्तमान कप्तान हैं जबकि मुख्य कोच रवि शास्त्री हैं।",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of भारत की राष्ट्रीय क्रिकेट टीम"
                   }
                 }

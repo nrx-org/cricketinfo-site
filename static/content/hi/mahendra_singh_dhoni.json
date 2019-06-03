@@ -1,6 +1,6 @@
 {
   "title": "महेन्द्र सिंह धोनी",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/MS_Dhoni",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A4%B9%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0_%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9_%E0%A4%A7%E0%A5%8B%E0%A4%A8%E0%A5%80",
   "coverImage": {
     "url": "/static/images/master/Dhoni_behind_Stumps.jpg",
     "altText": "Image of महेन्द्र सिंह धोनी"
@@ -39,7 +39,8 @@
           "label": "जन्मस्थान",
           "value": {
             "label": "रांची, बिहार (अब झारखंड)",
-            "url": "https://en.wikipedia.org/wiki/Ranchi"
+            "url": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%81%E0%A4%9A%E0%A5%80",
+            "contentUrl": "/static/content/hi/ranchi.json"
           }
         },
         {
@@ -114,8 +115,8 @@
           }
         },
         {
-          "label": "राष्ट्रीय टीम ",
-          "id": "phase_राष्ट्रीय_टीम",
+          "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
+          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
           "note": "2004",
           "value": {
             "label": "धोनी ने ओडीआई में पदार्पण किया। ",
@@ -218,7 +219,7 @@
                 "label": "2011 क्रिकेट विश्व कप",
                 "id": "phase_fact_fact_2011_क्रिकेट_विश्व_कप",
                 "value": {
-                  "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
+                  "label": "2011 आईसीसी क्रिकेट विश्व कप, दसवें क्रिकेट विश्व कप था। यह भारत, श्रीलंका (पहली बार के लिए), और बांग्लादेश में खेला गया था",
                   "image": {
                     "url": "/static/images/master/2011_Cricket_World_Cup_Logo.svg",
                     "altText": "Image of 2011 क्रिकेट विश्व कप"
@@ -263,7 +264,7 @@
           "value": {
             "label": "धोनी भारत के सबसे सफल टेस्ट कप्तान हैं।",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Dhoni_behind_Stumps.jpg",
               "altText": "धोनी भारत के सबसे सफल टेस्ट कप्तान हैं।"
             }
           }
@@ -274,8 +275,9 @@
           "value": {
             "label": "धोनी 4,000 टेस्ट रन पूरे करने वाले पहले भारतीय विकेटकीपर हैं",
             "image": {
-              "url": "",
-              "altText": "धोनी 4,000 टेस्ट रन पूरे करने वाले पहले भारतीय विकेटकीपर हैं"
+              "url": "/static/images/master/Mahendra_Singh_Dhoni_1.jpg",
+              "altText": "धोनी 4,000 टेस्ट रन पूरे करने वाले पहले भारतीय विकेटकीपर हैं",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/4.0/\">4.0 International</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
             }
           }
         },
@@ -285,7 +287,7 @@
           "value": {
             "label": "धोनी का ऑस्ट्रेलिया के खिलाफ चेन्नई में बनाया गया 224 रन, किसी भारतीय कप्तान द्वारा बनाया गया तीसरा सबसे बड़ा टेस्ट स्कोर है",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Mahendra_Singh_Dhoni_batting.JPG",
               "altText": "धोनी का ऑस्ट्रेलिया के खिलाफ चेन्नई में बनाया गया 224 रन, किसी भारतीय कप्तान द्वारा बनाया गया तीसरा सबसे बड़ा टेस्ट स्कोर है"
             }
           }
@@ -296,8 +298,9 @@
           "value": {
             "label": "टेस्ट करियर में किसी भी विकेटकीपर द्वारा की गयी सबसे अधिक स्टंपिंग (38) धोनी ने की है",
             "image": {
-              "url": "",
-              "altText": "टेस्ट करियर में किसी भी विकेटकीपर द्वारा की गयी सबसे अधिक स्टंपिंग (38) धोनी ने की है"
+              "url": "/static/images/master/MS_Dhoni.jpg",
+              "altText": "टेस्ट करियर में किसी भी विकेटकीपर द्वारा की गयी सबसे अधिक स्टंपिंग (38) धोनी ने की है",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
             }
           }
         },
@@ -332,7 +335,7 @@
                 "value": {
                   "label": "भारत की राष्ट्रीय क्रिकेट टीम को टीम इंडिया और मेन इन ब्लू के नाम से भी जाना जाता है। भारत को टेस्ट में पहला, वनडे में दूसरा और आईसीसी द्वारा टी20 में दूसरा स्थान मिला है। विराट कोहली टीम के वर्तमान कप्तान हैं जबकि मुख्य कोच रवि शास्त्री हैं।",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of भारत की राष्ट्रीय क्रिकेट टीम"
                   }
                 }
@@ -341,8 +344,8 @@
           }
         },
         {
-          "label": "चेन्नई सुपर किंग्स (2018-अब तक)",
-          "id": "team_fact_चेन्नई_सुपर_किंग्स_2018-अब तक",
+          "label": "चेन्नई सुपर किंग्स (2018 से अब तक)",
+          "id": "team_fact_चेन्नई_सुपर_किंग्स_2018 से अब तक",
           "value": {
             "label": "",
             "facts": [
@@ -363,8 +366,8 @@
           }
         },
         {
-          "label": "झारखंड (2004-अब तक)",
-          "id": "team_fact_झारखंड_2004-अब तक",
+          "label": "झारखंड (2004 से अब तक)",
+          "id": "team_fact_झारखंड_2004 से अब तक",
           "value": {
             "label": "बिहार क्रिकेट टीम से परिवर्तित होकर बनी झारखंड क्रिकेट टीम भारतीय राज्य झारखंड की एक रणजी ट्रॉफी टीम है"
           }

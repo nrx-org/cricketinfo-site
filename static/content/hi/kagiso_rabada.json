@@ -1,6 +1,6 @@
 {
   "title": "कगिसो रबाडा",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kagiso_Rabada",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%97%E0%A4%BF%E0%A4%B8%E0%A5%8B_%E0%A4%B0%E0%A4%AC%E0%A4%BE%E0%A4%A1%E0%A4%BE",
   "coverImage": {
     "url": "/static/images/master/Rabada.jpg",
     "altText": "Image of कगिसो रबाडा"
@@ -32,14 +32,14 @@
         {
           "label": "जन्मतिथि",
           "value": {
-            "label": "Invalid Date (आयु 23)"
+            "label": "25 May 1995 (आयु 23)"
           }
         },
         {
           "label": "जन्मस्थान",
           "value": {
             "label": "जोहान्सबर्ग, दक्षिण अफ्रीका",
-            "url": "https://en.wikipedia.org/wiki/Johannesburg",
+            "url": "https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A5%8B%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B8%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%97",
             "contentUrl": "/static/content/hi/sialkot.json"
           }
         },
@@ -100,15 +100,15 @@
           }
         },
         {
-          "label": "राष्ट्रीय टीम ",
-          "id": "phase_राष्ट्रीय_टीम",
+          "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
+          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
           "note": "",
           "value": {
             "label": "रबाडा ने दक्षिण अफ्रीका की ओर से आस्ट्रेलिया के खिलाफ 5 नवंबर, 2014 को ट्वेंटी 20 इंटरनेशनल में पदार्पण किया। ",
             "facts": [
               {
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
                 "id": "phase_fact_fact_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
@@ -127,7 +127,22 @@
           "id": "phase_विश्व_कप_उपस्थिति",
           "note": "2019",
           "value": {
-            "label": "अप्रैल 2019 में उन्हें 2019 के क्रिकेट विश्व कप के लिए चुनी गई दक्षिण अफ्रीकी टीम में शामिल किया गया। "
+            "label": "अप्रैल 2019 में उन्हें 2019 के क्रिकेट विश्व कप के लिए चुनी गई दक्षिण अफ्रीकी टीम में शामिल किया गया। ",
+            "facts": [
+              {
+                "url": "/read/hi/icc_cricket_world_cup",
+                "contentUrl": "/static/content/hi/icc_cricket_world_cup.json",
+                "label": "क्रिकेट विश्व कप",
+                "id": "phase_fact_fact_क्रिकेट_विश्व_कप",
+                "value": {
+                  "label": "आयेसीसी क्रिकेट विश्व कप वान डे इंटरनेशनल क्रिकेट की अंतर्राष्ट्रीय चैम्पियनशिप है। यह हर चार साल अंतर्राष्ट्रीय क्रिकेट परिषद से  आयोजित किया जाता है। यह चुनाव प्रारंभिक योग्यता दौर से शुरू होकर फाइनल टूर्नामेंट तक पहुँच जाता है।",
+                  "image": {
+                    "url": "/static/images/master/Icc_cricket_world_cup_trophy.jpg",
+                    "altText": "Image of क्रिकेट विश्व कप"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -165,8 +180,9 @@
           "value": {
             "label": "जुलाई 2018 में श्रीलंका के खिलाफ पहले टेस्ट के दौरान, रबाडा टेस्ट क्रिकेट में 150 विकेट लेने वाले सबसे कम उम्र के गेंदबाज बने",
             "image": {
-              "url": "",
-              "altText": "जुलाई 2018 में श्रीलंका के खिलाफ पहले टेस्ट के दौरान, रबाडा टेस्ट क्रिकेट में 150 विकेट लेने वाले सबसे कम उम्र के गेंदबाज बने"
+              "url": "/static/images/master/KAGISO_RABADA_281552032888029.jpg",
+              "altText": "जुलाई 2018 में श्रीलंका के खिलाफ पहले टेस्ट के दौरान, रबाडा टेस्ट क्रिकेट में 150 विकेट लेने वाले सबसे कम उम्र के गेंदबाज बने",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -176,8 +192,9 @@
           "value": {
             "label": "2018 में, इन्होंने 52 विकेट के साथ टेस्ट में सबसे अधिक विकेट लिए।",
             "image": {
-              "url": "",
-              "altText": "2018 में, इन्होंने 52 विकेट के साथ टेस्ट में सबसे अधिक विकेट लिए।"
+              "url": "/static/images/master/KAGISO_RABADA_281508579203329.jpg",
+              "altText": "2018 में, इन्होंने 52 विकेट के साथ टेस्ट में सबसे अधिक विकेट लिए।",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -243,8 +260,8 @@
           }
         },
         {
-          "label": "देल्ही केपिटल्‍स  (2017- अब तक)",
-          "id": "team_fact_देल्ही_केपिटल्‍स_2017- अब तक",
+          "label": "देल्ही केपिटल्‍स  (2017 से अब तक)",
+          "id": "team_fact_देल्ही_केपिटल्‍स_2017 से अब तक",
           "value": {
             "label": "",
             "facts": [

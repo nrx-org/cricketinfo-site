@@ -1,6 +1,6 @@
 {
   "title": "विराट कोहली",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Virat_Kohli",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B0%E0%A4%BE%E0%A4%9F_%E0%A4%95%E0%A5%8B%E0%A4%B9%E0%A4%B2%E0%A5%80",
   "coverImage": {
     "url": "/static/images/master/Virat..Kohli.jpg",
     "altText": "Image of विराट कोहली"
@@ -39,7 +39,7 @@
           "label": "जन्मस्थान",
           "value": {
             "label": "दिल्ली, भारत",
-            "url": "https://en.wikipedia.org/wiki/Delhi",
+            "url": "https://hi.wikipedia.org/wiki/%E0%A4%A6%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
             "contentUrl": "/static/content/hi/delhi.json"
           }
         },
@@ -117,8 +117,8 @@
           }
         },
         {
-          "label": "राष्ट्रीय टीम ",
-          "id": "phase_राष्ट्रीय_टीम",
+          "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
+          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
           "note": "2008",
           "value": {
             "label": "कोहली को भारत के ओडीआई दल में 2008 के श्रीलंका और पाकिस्तान में खेले गए चैंपियंस ट्रॉफी के दौरे में शामिल किया गया। ",
@@ -282,7 +282,7 @@
           "value": {
             "label": "2018 में द्विपक्षीय वंडे श्रृंखला में 500 रन बनाने वाले पहले बल्लेबाज बने।",
             "image": {
-              "url": "/static/images/master/2015_CWC_I_v_UAE_02-28_Kohli_281229_28cropped29.JPG",
+              "url": "/static/images/master/2015_CWC_I_v_UAE_02-28_Kohli_280329_28cropped29.JPG",
               "altText": "2018 में द्विपक्षीय वंडे श्रृंखला में 500 रन बनाने वाले पहले बल्लेबाज बने।",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
             }
@@ -295,8 +295,8 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "भारतीय राष्ट्रीय क्रिकेट टीम (2008-अब तक )",
-          "id": "team_fact_भारतीय_राष्ट्रीय_क्रिकेट_टीम_2008-अब तक ",
+          "label": "भारतीय राष्ट्रीय क्रिकेट टीम (2008 से अब तक)",
+          "id": "team_fact_भारतीय_राष्ट्रीय_क्रिकेट_टीम_2008 से अब तक",
           "value": {
             "label": "",
             "facts": [
@@ -308,7 +308,7 @@
                 "value": {
                   "label": "भारत की राष्ट्रीय क्रिकेट टीम को टीम इंडिया और मेन इन ब्लू के नाम से भी जाना जाता है। भारत को टेस्ट में पहला, वनडे में दूसरा और आईसीसी द्वारा टी20 में दूसरा स्थान मिला है। विराट कोहली टीम के वर्तमान कप्तान हैं जबकि मुख्य कोच रवि शास्त्री हैं।",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of भारत की राष्ट्रीय क्रिकेट टीम"
                   }
                 }
@@ -317,8 +317,8 @@
           }
         },
         {
-          "label": "रॉयल चैलेंजर्स बैंगलोर (2008-अब तक)",
-          "id": "team_fact_रॉयल_चैलेंजर्स_बैंगलोर_2008-अब तक",
+          "label": "रॉयल चैलेंजर्स बैंगलोर (2008 से अब तक)",
+          "id": "team_fact_रॉयल_चैलेंजर्स_बैंगलोर_2008 से अब तक",
           "value": {
             "label": "",
             "facts": [
@@ -339,8 +339,8 @@
           }
         },
         {
-          "label": "दिल्ली (2006-अब तक)",
-          "id": "team_fact_दिल्ली_2006-अब तक",
+          "label": "दिल्ली (2006 से अब तक)",
+          "id": "team_fact_दिल्ली_2006 से अब तक",
           "value": {
             "label": "दिल्ली की घरेलू रणजी ट्रॉफी क्रिकेट टीम"
           }

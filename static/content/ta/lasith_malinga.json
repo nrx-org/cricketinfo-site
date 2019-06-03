@@ -1,6 +1,6 @@
 {
   "title": "லசித் மலிங்கா",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lasith_Malinga",
+  "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%B2%E0%AE%9A%E0%AE%BF%E0%AE%A4%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B2%E0%AE%BF%E0%AE%99%E0%AF%8D%E0%AE%95",
   "coverImage": {
     "url": "/static/images/master/LASITH_MALINGA_28515517554929.jpg",
     "altText": "Image of லசித் மலிங்கா",
@@ -33,14 +33,14 @@
         {
           "label": "பிறந்த தேதி",
           "value": {
-            "label": "Invalid Date (வயது 35)"
+            "label": "28 August 1983 (வயது 35)"
           }
         },
         {
           "label": "பிறந்த இடம்",
           "value": {
             "label": "கேலே, இலங்கை",
-            "url": "https://en.wikipedia.org/wiki/Galle",
+            "url": "https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%BE%E0%AE%B2%E0%AE%BF",
             "contentUrl": "/static/content/ta/shreyas_iyer.json"
           }
         },
@@ -123,8 +123,8 @@
             "label": "மலிங்கா 2004, ஜூலை 1 அன்று, டார்வினிலுள்ள மார்ரா ஓவலில் ஆஸ்திரேலியாவுக்கு எதிராகத் தன்னுடைய முதல் டெஸ்ட் போட்டியில் ஆடினார்.",
             "facts": [
               {
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
                 "id": "phase_fact_fact_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
@@ -212,7 +212,22 @@
           "id": "phase_உலகக்_கோப்பை",
           "note": "2019 ஆம் ஆண்டு ஏப்ரல் மாதம் 2019 ஆம் ஆண்டு உலகக் கோப்பைக்கான இலங்கை அணியில் இவர் பெயர் இடம்பெற்றது. ",
           "value": {
-            "label": "உலகக் கோப்பை"
+            "label": "உலகக் கோப்பை",
+            "facts": [
+              {
+                "url": "/read/ta/icc_cricket_world_cup",
+                "contentUrl": "/static/content/ta/icc_cricket_world_cup.json",
+                "label": "கிரிக்கெட் உலகக் கோப்பை",
+                "id": "phase_fact_fact_கிரிக்கெட்_உலகக்_கோப்பை",
+                "value": {
+                  "label": "ஐசிசி கிரிக்கெட் உலக கோப்பை ஒரு நாள் சர்வதேச கிரிக்கெட்டின் சர்வதேச சாம்பியன்ஷிப் ஆகும். இந்த நிகழ்வானது, விளையாட்டு நிர்வாக ஆணையம், சர்வதேச கிரிக்கெட் கவுன்சில்லால்  ஒவ்வொரு நான்கு வருடங்களுக்கும் ஏற்பாடு செய்யப்படுகின்றது",
+                  "image": {
+                    "url": "/static/images/master/Icc_cricket_world_cup_trophy.jpg",
+                    "altText": "Image of கிரிக்கெட் உலகக் கோப்பை"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -250,8 +265,9 @@
           "value": {
             "label": "கிரிக்கெட் வரலாற்றிலேயே சர்வதேச கிரிக்கெட் போட்டியில் (மார்ச் 2017 தென் ஆப்பிரிக்காவிற்கு எதிரான போட்டி) தொடர்ச்சியாக நான்கு பந்துகளில் நான்கு விக்கெட்டுகளை எடுத்த ஒரே பந்து வீச்சாளர்.",
             "image": {
-              "url": "",
-              "altText": "கிரிக்கெட் வரலாற்றிலேயே சர்வதேச கிரிக்கெட் போட்டியில் (மார்ச் 2017 தென் ஆப்பிரிக்காவிற்கு எதிரான போட்டி) தொடர்ச்சியாக நான்கு பந்துகளில் நான்கு விக்கெட்டுகளை எடுத்த ஒரே பந்து வீச்சாளர்."
+              "url": "/static/images/master/LASITH_MALINGA_28515517554929.jpg",
+              "altText": "கிரிக்கெட் வரலாற்றிலேயே சர்வதேச கிரிக்கெட் போட்டியில் (மார்ச் 2017 தென் ஆப்பிரிக்காவிற்கு எதிரான போட்டி) தொடர்ச்சியாக நான்கு பந்துகளில் நான்கு விக்கெட்டுகளை எடுத்த ஒரே பந்து வீச்சாளர்.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -261,8 +277,9 @@
           "value": {
             "label": "கிரிக்கெட் வரலாற்றிலேயே முதன் முறையாகவும், இது வரையிலும் சர்வதேச ஒரு நாள் கிரிக்கெட் போட்டியில் மூன்று ஹாட்-ட்ரிக்ஸ் சாதனைப் புரிந்த ஒரே பந்து வீச்சாளர், 2011 ஆம் ஆண்டு ஆகஸ்டு மாதம் தனது மூன்றாவது ஹாட்-ட்ரிக் சாதனையைப் படைத்தார்.",
             "image": {
-              "url": "",
-              "altText": "கிரிக்கெட் வரலாற்றிலேயே முதன் முறையாகவும், இது வரையிலும் சர்வதேச ஒரு நாள் கிரிக்கெட் போட்டியில் மூன்று ஹாட்-ட்ரிக்ஸ் சாதனைப் புரிந்த ஒரே பந்து வீச்சாளர், 2011 ஆம் ஆண்டு ஆகஸ்டு மாதம் தனது மூன்றாவது ஹாட்-ட்ரிக் சாதனையைப் படைத்தார்."
+              "url": "/static/images/master/Lasith_Malinga_portrait.jpg",
+              "altText": "கிரிக்கெட் வரலாற்றிலேயே முதன் முறையாகவும், இது வரையிலும் சர்வதேச ஒரு நாள் கிரிக்கெட் போட்டியில் மூன்று ஹாட்-ட்ரிக்ஸ் சாதனைப் புரிந்த ஒரே பந்து வீச்சாளர், 2011 ஆம் ஆண்டு ஆகஸ்டு மாதம் தனது மூன்றாவது ஹாட்-ட்ரிக் சாதனையைப் படைத்தார்.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -272,8 +289,9 @@
           "value": {
             "label": "2007 உலகக் கோப்பை கிரிக்கெட்டில் தென் ஆப்பிரிக்காவுக்கு எதிரான போட்டியிலும், 2011 உலகக் கோப்பை கிரிக்கெட்டில் கென்யாவுக்கு எதிரான போட்டியிலும் இரண்டு உலகக் கோப்பை ஹாட் ட்ரிக்ஸ் சாதனைப் படைத்த ஒரே பந்து வீச்சாளர்.",
             "image": {
-              "url": "",
-              "altText": "2007 உலகக் கோப்பை கிரிக்கெட்டில் தென் ஆப்பிரிக்காவுக்கு எதிரான போட்டியிலும், 2011 உலகக் கோப்பை கிரிக்கெட்டில் கென்யாவுக்கு எதிரான போட்டியிலும் இரண்டு உலகக் கோப்பை ஹாட் ட்ரிக்ஸ் சாதனைப் படைத்த ஒரே பந்து வீச்சாளர்."
+              "url": "/static/images/master/T20_final_2009.jpg",
+              "altText": "2007 உலகக் கோப்பை கிரிக்கெட்டில் தென் ஆப்பிரிக்காவுக்கு எதிரான போட்டியிலும், 2011 உலகக் கோப்பை கிரிக்கெட்டில் கென்யாவுக்கு எதிரான போட்டியிலும் இரண்டு உலகக் கோப்பை ஹாட் ட்ரிக்ஸ் சாதனைப் படைத்த ஒரே பந்து வீச்சாளர்.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
             }
           }
         },
@@ -283,7 +301,7 @@
           "value": {
             "label": "ஏப்ரல் 2017 இன் படி, எல் டி20 போட்டிகளிலும் இரண்டாவது அதிக விக்கெட் எடுத்தவர், 232 போட்டிகளில் 317 விக்கெட்டுகள்.",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Lasith_Malinga_signing.jpg",
               "altText": "ஏப்ரல் 2017 இன் படி, எல் டி20 போட்டிகளிலும் இரண்டாவது அதிக விக்கெட் எடுத்தவர், 232 போட்டிகளில் 317 விக்கெட்டுகள்."
             }
           }
@@ -312,15 +330,15 @@
             "label": "",
             "facts": [
               {
-                "label": "Sri Lanka national cricket team",
-                "id": "team_fact_fact_sri_lanka_national_cricket_team",
+                "label": "இலங்கை தேசியக் கிரிக்கெட் அணி",
+                "id": "team_fact_fact_இலங்கை_தேசியக்_கிரிக்கெட்_அணி",
                 "url": "/read/ta/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/ta/sri_lanka_national_cricket_team.json",
                 "value": {
-                  "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
+                  "label": "இலங்கை தேசியக் கிரிக்கெட் அணி, தி லயன்ஸ் எனப் பெயரிடப்பட்டு, சர்வதேசக் கிரிக்கெட்டில் இலங்கையைப் பிரதிநிதித்துவம் செய்கிறது. இது டெஸ்ட், ஒருநாள் சர்வதேசப் போட்டி மற்றும் சர்வதேச டி20 போட்டி அந்தஸ்தில் சர்வதேசக் கிரிக்கெட் கவுன்சிலின் (ஐசிசி) முழு உறுப்பினராக உள்ளது.",
                   "image": {
                     "url": "/static/images/master/Sri_Lanka_Cricket_Cap_Insignia.svg",
-                    "altText": "Picture of Sri Lanka national cricket team"
+                    "altText": "Picture of இலங்கை தேசியக் கிரிக்கெட் அணி"
                   }
                 }
               }

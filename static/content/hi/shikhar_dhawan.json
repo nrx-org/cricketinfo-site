@@ -1,6 +1,6 @@
 {
   "title": "शिखर धवन",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shikhar_Dhawan",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%B6%E0%A4%BF%E0%A4%96%E0%A4%B0_%E0%A4%A7%E0%A4%B5%E0%A4%A8'",
   "coverImage": {
     "url": "/static/images/master/SHIKHAR_DHAWAN_281600549441829.jpg",
     "altText": "Image of शिखर धवन",
@@ -40,7 +40,7 @@
           "label": "जन्मस्थान",
           "value": {
             "label": "दिल्ली, भारत",
-            "url": "https://en.wikipedia.org/wiki/Delhi",
+            "url": "https://hi.wikipedia.org/wiki/%E0%A4%A6%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
             "contentUrl": "/static/content/hi/delhi.json"
           }
         },
@@ -90,9 +90,9 @@
           "value": {
             "label": "विराट कोहली बाएं हाथ के सलामी बल्लेबाज हैं और कभी-कभी दाएं हाथ के ऑफ ब्रेक गेंदबाजी भी करते हैं।",
             "image": {
-              "url": "/static/images/master/SHIKHAR_DHAWAN_281600716308729.jpg",
+              "url": "/static/images/master/Virat_Kohli_Batting.jpg",
               "altText": "Style of play for शिखर धवन",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         }
@@ -111,15 +111,15 @@
           }
         },
         {
-          "label": "राष्ट्रीय टीम ",
-          "id": "phase_राष्ट्रीय_टीम",
+          "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
+          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
           "note": "2010",
           "value": {
             "label": "धवन ने आस्ट्रेलिया के विरुद्ध अंतराष्ट्रीय मैच में पदार्पण किया लेकिन इसमें वे शून्य रन पर आउट हो गए। ",
             "facts": [
               {
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
                 "id": "phase_fact_fact_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
@@ -192,7 +192,7 @@
                 "label": "2015 क्रिकेट विश्व कप",
                 "id": "phase_fact_fact_2015_क्रिकेट_विश्व_कप",
                 "value": {
-                  "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
+                  "label": "2015 आईसीसी क्रिकेट विश्व कप 11 वीं क्रिकेट विश्व कप था,  जो संयुक्त रूप से ऑस्ट्रेलिया और न्यूजीलैंड द्वारा आयोजित किया गया",
                   "image": {
                     "url": "/static/images/master/2015_Cricket_World_Cup_Logo.svg",
                     "altText": "Image of 2015 क्रिकेट विश्व कप"
@@ -260,8 +260,9 @@
           "value": {
             "label": "शिखर धवन ने अपने पदार्पण टेस्ट मैच में किसी खिलाड़ी द्वारा बनाया गया सबसे तेज़ शतक बनाया",
             "image": {
-              "url": "",
-              "altText": "शिखर धवन ने अपने पदार्पण टेस्ट मैच में किसी खिलाड़ी द्वारा बनाया गया सबसे तेज़ शतक बनाया"
+              "url": "/static/images/master/England_v_India2C_Trent_Bridge_284418010225129.jpg",
+              "altText": "शिखर धवन ने अपने पदार्पण टेस्ट मैच में किसी खिलाड़ी द्वारा बनाया गया सबसे तेज़ शतक बनाया",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -271,8 +272,9 @@
           "value": {
             "label": "आईसीसी विश्व कप 2015 में भारत की ओर से सर्वाधिक रन बनाये ",
             "image": {
-              "url": "",
-              "altText": "आईसीसी विश्व कप 2015 में भारत की ओर से सर्वाधिक रन बनाये "
+              "url": "/static/images/master/SHIKHAR_DHAWAN_281600549441829.jpg",
+              "altText": "आईसीसी विश्व कप 2015 में भारत की ओर से सर्वाधिक रन बनाये ",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -282,8 +284,9 @@
           "value": {
             "label": "इकलौते खिलाड़ी जिन्होंने आईसीसी चैंपियंस ट्रॉफी में सबसे अधिक रन बना बना कर लगातार 2 बार गोल्डन बैट जीता",
             "image": {
-              "url": "",
-              "altText": "इकलौते खिलाड़ी जिन्होंने आईसीसी चैंपियंस ट्रॉफी में सबसे अधिक रन बना बना कर लगातार 2 बार गोल्डन बैट जीता"
+              "url": "/static/images/master/SHIKHAR_DHAWAN_281600716308729.jpg",
+              "altText": "इकलौते खिलाड़ी जिन्होंने आईसीसी चैंपियंस ट्रॉफी में सबसे अधिक रन बना बना कर लगातार 2 बार गोल्डन बैट जीता",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -293,8 +296,9 @@
           "value": {
             "label": "धवन टेस्ट मैच के पहले दिन लंच से पहले शतक लगाने वाले पहले भारतीय बल्लेबाज हैं।",
             "image": {
-              "url": "",
-              "altText": "धवन टेस्ट मैच के पहले दिन लंच से पहले शतक लगाने वाले पहले भारतीय बल्लेबाज हैं।"
+              "url": "/static/images/master/Shikhar_Dhawan_January_2016_28cropped29.jpg",
+              "altText": "धवन टेस्ट मैच के पहले दिन लंच से पहले शतक लगाने वाले पहले भारतीय बल्लेबाज हैं।",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
             }
           }
         },
@@ -329,7 +333,7 @@
                 "value": {
                   "label": "भारत की राष्ट्रीय क्रिकेट टीम को टीम इंडिया और मेन इन ब्लू के नाम से भी जाना जाता है। भारत को टेस्ट में पहला, वनडे में दूसरा और आईसीसी द्वारा टी20 में दूसरा स्थान मिला है। विराट कोहली टीम के वर्तमान कप्तान हैं जबकि मुख्य कोच रवि शास्त्री हैं।",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of भारत की राष्ट्रीय क्रिकेट टीम"
                   }
                 }
@@ -338,8 +342,8 @@
           }
         },
         {
-          "label": "देल्ही केपिटल्‍स  (2019 -अब तक)",
-          "id": "team_fact_देल्ही_केपिटल्‍स_2019 -अब तक",
+          "label": "देल्ही केपिटल्‍स  (2019 से अब तक)",
+          "id": "team_fact_देल्ही_केपिटल्‍स_2019 से अब तक",
           "value": {
             "label": "",
             "facts": [
@@ -360,8 +364,8 @@
           }
         },
         {
-          "label": "दिल्ली (2004-अब तक)",
-          "id": "team_fact_दिल्ली_2004-अब तक",
+          "label": "दिल्ली (2004 से अब तक)",
+          "id": "team_fact_दिल्ली_2004 से अब तक",
           "value": {
             "label": "दिल्ली की घरेलू रणजी ट्रॉफी क्रिकेट टीम"
           }

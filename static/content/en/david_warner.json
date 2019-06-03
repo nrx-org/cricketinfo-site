@@ -10,10 +10,12 @@
   "translations": [
     {
       "lang": "hi",
+      "title": "डेविड वॉर्नर",
       "url": "/read/hi/david_warner"
     },
     {
       "lang": "ta",
+      "title": "டேவிட் வார்னர்",
       "url": "/read/ta/david_warner"
     }
   ],
@@ -31,7 +33,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": "Invalid Date (Age 32)"
+            "label": "27-10-1986 (Age 32)"
           }
         },
         {
@@ -92,7 +94,7 @@
         {
           "label": "",
           "value": {
-            "label": "Left-handed opening batsman, part-time spin bowler and aggressive fielder",
+            "label": "Left-handed opening batsman, part-time spin bowler and aggressive fielder.",
             "image": {
               "url": "/static/images/master/David_warner_t20_debut.JPG",
               "altText": "Style of play for David Warner"
@@ -145,6 +147,29 @@
           }
         },
         {
+          "label": "2015 World Cup",
+          "id": "phase_2015_world_cup",
+          "note": "2015",
+          "value": {
+            "label": "Warner ended up as the tournament's 11th highest scorer, scoring 345 runs",
+            "facts": [
+              {
+                "url": "/read/en/2015_cricket_world_cup",
+                "contentUrl": "/static/content/en/2015_cricket_world_cup.json",
+                "label": "2015 Cricket World Cup",
+                "id": "phase_fact_fact_2015_cricket_world_cup",
+                "value": {
+                  "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand.",
+                  "image": {
+                    "url": "/static/images/master/2015_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2015 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
           "label": "IPL Debut",
           "id": "phase_ipl_debut",
           "note": "2009",
@@ -179,8 +204,9 @@
           "value": {
             "label": "Warner is the first Australian cricketer in 132 years to be selected for a national team in any format without experience in first-class cricket",
             "image": {
-              "url": "",
-              "altText": "Warner is the first Australian cricketer in 132 years to be selected for a national team in any format without experience in first-class cricket"
+              "url": "/static/images/master/DAVID_WARNER_281170488942429.jpg",
+              "altText": "Warner is the first Australian cricketer in 132 years to be selected for a national team in any format without experience in first-class cricket",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -199,10 +225,11 @@
           "label": "",
           "id": "achievement_or_record_3",
           "value": {
-            "label": "Warner is the first Australian batsman to score a century in his 100th ODI",
+            "label": "Warner is the first Australian batsman to score a century in his 100th ODI.",
             "image": {
-              "url": "",
-              "altText": "Warner is the first Australian batsman to score a century in his 100th ODI"
+              "url": "/static/images/master/DAVID_WARNER_28631951903929.jpg",
+              "altText": "Warner is the first Australian batsman to score a century in his 100th ODI.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -223,8 +250,9 @@
           "value": {
             "label": "In 2015, Warner became only the third batsman in history of Test cricket to score centuries in both innings of a Test match thrice",
             "image": {
-              "url": "",
-              "altText": "In 2015, Warner became only the third batsman in history of Test cricket to score centuries in both innings of a Test match thrice"
+              "url": "/static/images/master/DAVID_WARNER_28631954512129.jpg",
+              "altText": "In 2015, Warner became only the third batsman in history of Test cricket to score centuries in both innings of a Test match thrice",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         }
@@ -235,21 +263,21 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Australia (2009 - present)",
-          "id": "team_fact_australia_2009 - present",
+          "label": "Australia National Cricket team (2009 - present)",
+          "id": "team_fact_australia_national_cricket_team_2009 - present",
           "value": {
             "label": "",
             "facts": [
               {
-                "label": "Australia Cricket team",
-                "id": "team_fact_fact_australia_cricket_team",
-                "url": "/read/en/australia_cricket_team",
-                "contentUrl": "/static/content/en/australia_cricket_team.json",
+                "label": "Australia national cricket team",
+                "id": "team_fact_fact_australia_national_cricket_team",
+                "url": "/read/en/australia_national_cricket_team",
+                "contentUrl": "/static/content/en/australia_national_cricket_team.json",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
                     "url": "/static/images/master/Australia_cricket_logo.svg",
-                    "altText": "Picture of Australia Cricket team"
+                    "altText": "Picture of Australia national cricket team"
                   }
                 }
               }
@@ -268,7 +296,7 @@
                 "url": "/read/en/sunrisers_hyderabad",
                 "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
                 "value": {
-                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
+                  "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL).",
                   "image": {
                     "url": "/static/images/master/Sunrisers_Hyderabad.svg",
                     "altText": "Picture of Sunrisers Hyderabad"
@@ -279,8 +307,8 @@
           }
         },
         {
-          "label": "New South Wales (2006-2018)",
-          "id": "team_fact_new_south_wales_2006-2018",
+          "label": "New South Wales (2006 - 2018)",
+          "id": "team_fact_new_south_wales_2006 - 2018",
           "value": {
             "label": "The New South Wales cricket team (currently named NSW Blues) are an Australian men's professional first class cricket team based in Sydney."
           }

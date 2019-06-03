@@ -1,6 +1,6 @@
 {
   "title": "अनुष्का शर्मा",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anushka_Sharma",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B7%E0%A5%8D%E0%A4%95%E0%A4%BE_%E0%A4%B6%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE",
   "coverImage": {
     "url": "/static/images/master/Anushka_Sharma_promoting_Zero.jpg",
     "altText": "Image of अनुष्का शर्मा"
@@ -39,7 +39,7 @@
           "label": "जन्मस्थान",
           "value": {
             "label": "अयोध्या, भारत",
-            "url": "https://en.wikipedia.org/wiki/Ayodhya",
+            "url": "https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE",
             "contentUrl": "/static/content/hi/nangarhar.json"
           }
         },
@@ -123,8 +123,8 @@
           }
         },
         {
-          "label": "राष्ट्रीय टीम ",
-          "id": "phase_राष्ट्रीय_टीम",
+          "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
+          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
           "note": "",
           "value": {
             "label": ""

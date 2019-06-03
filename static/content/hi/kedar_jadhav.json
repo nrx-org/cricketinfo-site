@@ -1,0 +1,271 @@
+{
+  "title": "केदार जाधव",
+  "wikipediaUrl": "",
+  "coverImage": {
+    "url": "/static/images/master/Batting_shadow_figure.png",
+    "altText": "Image of केदार जाधव"
+  },
+  "summary": "केदार जाधव एक भारतीय क्रिकेटर हैं",
+  "translations": [
+    {
+      "lang": "en",
+      "title": "Kedar Jadhav",
+      "url": "/read/en/kedar_jadhav"
+    },
+    {
+      "lang": "ta",
+      "title": "கேதர் ஜாதவ்",
+      "url": "/read/ta/kedar_jadhav"
+    }
+  ],
+  "sections": [
+    {
+      "title": "इनके बारे में",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "पूरा नाम",
+          "value": {
+            "label": "केदार महादेव जाधव"
+          }
+        },
+        {
+          "label": "जन्मतिथि",
+          "value": {
+            "label": "26 Mar 1985 (आयु 34)"
+          }
+        },
+        {
+          "label": "जन्मस्थान",
+          "value": {
+            "label": "पुणे, भारत",
+            "url": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%81%E0%A4%A3%E0%A5%87",
+            "contentUrl": "/static/content/hi/pune.json"
+          }
+        },
+        {
+          "label": "ऊंचाई",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "राष्ट्रीयता",
+          "value": {
+            "label": "भारतीय"
+          }
+        },
+        {
+          "label": "भूमिका",
+          "value": {
+            "label": "हरफनमौला"
+          }
+        }
+      ]
+    },
+    {
+      "title": "खेलने की शैली",
+      "id": "style_of_play",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "जाधव दाएं हाथ से बल्लेबाजी करते हैं और दाएं हाथ से ऑफ-ब्रेक गेंदबाजी करते हैं, और कभी-कभार विकेटकीपिंग भी करते हैं"
+          }
+        }
+      ]
+    },
+    {
+      "title": "दौर",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "प्रथम श्रेणी की शुरुआत",
+          "id": "phase_प्रथम_श्रेणी_की_शुरुआत",
+          "note": "2007",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
+          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
+          "note": "2014",
+          "value": {
+            "label": "जाधव ने 2014 में श्रीलंका के खिलाफ अंतरराष्ट्रीय क्रिकेट में पदार्पण किया",
+            "facts": [
+              {
+                "url": "/read/hi/sri_lanka_national_cricket_team",
+                "contentUrl": "/static/content/hi/sri_lanka_national_cricket_team.json",
+                "label": "श्रीलंका की राष्ट्रीय क्रिकेट टीम",
+                "id": "phase_fact_fact_श्रीलंका_की_राष्ट्रीय_क्रिकेट_टीम",
+                "value": {
+                  "label": "श्रीलंका की राष्ट्रीय क्रिकेट टीम, जिसे 'द लायंस' के नाम से भी जाना जाता है। यह अंतरराष्ट्रीय क्रिकेट में श्रीलंका का प्रतिनिधित्व करती है। यह टेस्ट, एकदिवसीय अंतरराष्ट्रीय (ओडीआई) और टी-20 अंतरराष्ट्रीय (टी20आई) में अंतरराष्ट्रीय क्रिकेट परिषद (आईसीसी) का पूर्ण सदस्य देश है।",
+                  "image": {
+                    "url": "/static/images/master/Sri_Lanka_Cricket_Cap_Insignia.svg",
+                    "altText": "Image of श्रीलंका की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "आईसीसी टूर्नामेंट में प्रथम प्रवेश",
+          "id": "phase_आईसीसी_टूर्नामेंट_में_प्रथम_प्रवेश",
+          "note": "2017",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "आईपीएल में प्रथम प्रवेश",
+          "id": "phase_आईपीएल_में_प्रथम_प्रवेश",
+          "note": "2010",
+          "value": {
+            "label": "जाधव ने अपने पहले आईपीएल मैच में मैन ऑफ द मैच का पुरस्कार जीता",
+            "facts": [
+              {
+                "url": "/read/hi/delhi_capitals",
+                "contentUrl": "/static/content/hi/delhi_capitals.json",
+                "label": "देल्ही कैपिटल्स",
+                "id": "phase_fact_fact_देल्ही_कैपिटल्स",
+                "value": {
+                  "label": "देल्ही कैपिटल्स एक फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में दिल्ली शहर का प्रतिनिधित्व करती है।",
+                  "image": {
+                    "url": "/static/images/master/Delhi_Capitals_Logo.svg",
+                    "altText": "Image of देल्ही कैपिटल्स"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "उपलब्धि और रिकॉर्ड",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "2012 में, जाधव ने 327 बनाये, जो रणजी ट्रॉफी में महाराष्ट्र के बल्लेबाज द्वारा दूसरा सबसे बड़ा स्कोर था",
+            "image": {
+              "url": "",
+              "altText": "2012 में, जाधव ने 327 बनाये, जो रणजी ट्रॉफी में महाराष्ट्र के बल्लेबाज द्वारा दूसरा सबसे बड़ा स्कोर था"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "जाधव 2013-14 सत्र में रणजी ट्रॉफी में सर्वाधिक (1,223) रन बनाने वाले खिलाड़ी थे",
+            "image": {
+              "url": "",
+              "altText": "जाधव 2013-14 सत्र में रणजी ट्रॉफी में सर्वाधिक (1,223) रन बनाने वाले खिलाड़ी थे"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "2017 में जाधव ने 76 गेंदों में 120 रन बनाए और इंग्लैंड के खिलाफ विराट कोहली के साथ 200 रनों की साझेदारी की",
+            "image": {
+              "url": "",
+              "altText": "2017 में जाधव ने 76 गेंदों में 120 रन बनाए और इंग्लैंड के खिलाफ विराट कोहली के साथ 200 रनों की साझेदारी की"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "जाधव को इंग्लैंड के भारत दौरे में 232 रन बनाने के लिए मैन ऑफ़ द सीरीज़ (वनडे) दिया गया",
+            "image": {
+              "url": "",
+              "altText": "जाधव को इंग्लैंड के भारत दौरे में 232 रन बनाने के लिए मैन ऑफ़ द सीरीज़ (वनडे) दिया गया"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "टीमें",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "भारतीय राष्ट्रीय क्रिकेट टीम (2014 से अब तक)",
+          "id": "team_fact_भारतीय_राष्ट्रीय_क्रिकेट_टीम_2014 से अब तक",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "भारत की राष्ट्रीय क्रिकेट टीम",
+                "id": "team_fact_fact_भारत_की_राष्ट्रीय_क्रिकेट_टीम",
+                "url": "/read/hi/india_national_cricket_team",
+                "contentUrl": "/static/content/hi/india_national_cricket_team.json",
+                "value": {
+                  "label": "भारत की राष्ट्रीय क्रिकेट टीम को टीम इंडिया और मेन इन ब्लू के नाम से भी जाना जाता है। भारत को टेस्ट में पहला, वनडे में दूसरा और आईसीसी द्वारा टी20 में दूसरा स्थान मिला है। विराट कोहली टीम के वर्तमान कप्तान हैं जबकि मुख्य कोच रवि शास्त्री हैं।",
+                  "image": {
+                    "url": "/static/images/master/Flagcricket.jpg",
+                    "altText": "Picture of भारत की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "चेन्नई सुपर किंग्स (2018 से अब तक)",
+          "id": "team_fact_चेन्नई_सुपर_किंग्स_2018 से अब तक",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "चेन्नई सुपर किंग्स",
+                "id": "team_fact_fact_चेन्नई_सुपर_किंग्स",
+                "url": "/read/hi/chennai_super_kings",
+                "contentUrl": "/static/content/hi/chennai_super_kings.json",
+                "value": {
+                  "label": "2008 में स्थापित चेन्नई सुपर किंग्स (सीएसके) चेन्नई, तमिलनाडु में स्थित एक भारतीय फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में खेलती है।",
+                  "image": {
+                    "url": "/static/images/master/Chennai_Super_Kings_Logo.svg",
+                    "altText": "Picture of चेन्नई सुपर किंग्स"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "महाराष्ट्र (2007 से अब तक)",
+          "id": "team_fact_महाराष्ट्र_2007 से अब तक",
+          "value": {
+            "label": "महाराष्ट्र क्रिकेट टीम एक घरेलू भारतीय क्रिकेट टीम है जो पुणे शहर आधारित है"
+          }
+        }
+      ]
+    },
+    {
+      "title": "पुरस्कार और सम्मान",
+      "cardType": "tag_card",
+      "facts": []
+    }
+  ]
+}

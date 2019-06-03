@@ -9,10 +9,12 @@
   "translations": [
     {
       "lang": "hi",
+      "title": "एबी डिविलियर्स ",
       "url": "/read/hi/ab_de_villiers"
     },
     {
       "lang": "ta",
+      "title": "ஏபி டி வில்லியர்ஸ்",
       "url": "/read/ta/ab_de_villiers"
     }
   ],
@@ -30,7 +32,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": "Invalid Date (Age 35)"
+            "label": "17-02-1984 (Age 35)"
           }
         },
         {
@@ -91,7 +93,7 @@
         {
           "label": "",
           "value": {
-            "label": "De Villiers is a right-handed batsman and an occasional wicket-keeper",
+            "label": "De Villiers is a right-handed batsman and an occasional wicket-keeper.",
             "image": {
               "url": "/static/images/master/AB_de_villiers_28cropped29.jpg",
               "altText": "Style of play for AB de Villiers",
@@ -126,7 +128,7 @@
                 "label": "England cricket team",
                 "id": "phase_fact_fact_england_cricket_team",
                 "value": {
-                  "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
+                  "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877.",
                   "image": {
                     "url": "/static/images/master/England_cricket_team_logo.svg",
                     "altText": "Image of England cricket team"
@@ -142,6 +144,52 @@
           "note": "2007",
           "value": {
             "label": "De Villiers' batting during the World Cup was inconsistent as he also failed to score on 4 occasions"
+          }
+        },
+        {
+          "label": "Double centuries",
+          "id": "phase_double_centuries",
+          "note": "2011",
+          "value": {
+            "label": "De Villiers became the first South African to score two centuries in a single World Cup.",
+            "facts": [
+              {
+                "url": "/read/en/2011_cricket_world_cup",
+                "contentUrl": "/static/content/en/2011_cricket_world_cup.json",
+                "label": "2011 Cricket World Cup",
+                "id": "phase_fact_fact_2011_cricket_world_cup",
+                "value": {
+                  "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh.",
+                  "image": {
+                    "url": "/static/images/master/2011_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2011 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2015 Cricket World cup",
+          "id": "phase_2015_cricket_world_cup",
+          "note": "2015",
+          "value": {
+            "label": "Under the captaincy of de Villiers, South Africa qualified for the semi-finals of the World Cup but lost to New Zealand.",
+            "facts": [
+              {
+                "url": "/read/en/2015_cricket_world_cup",
+                "contentUrl": "/static/content/en/2015_cricket_world_cup.json",
+                "label": "2015 Cricket World Cup",
+                "id": "phase_fact_fact_2015_cricket_world_cup",
+                "value": {
+                  "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand.",
+                  "image": {
+                    "url": "/static/images/master/2015_Cricket_World_Cup_Logo.svg",
+                    "altText": "Image of 2015 Cricket World Cup"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -179,8 +227,9 @@
           "value": {
             "label": "De Villiers became the second-youngest and second-fastest South African to reach 1,000 test runs",
             "image": {
-              "url": "",
-              "altText": "De Villiers became the second-youngest and second-fastest South African to reach 1,000 test runs"
+              "url": "/static/images/master/AB_de_Villiers_glove.jpg",
+              "altText": "De Villiers became the second-youngest and second-fastest South African to reach 1,000 test runs",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/4.0/\">4.0 International</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
             }
           }
         },
@@ -190,7 +239,7 @@
           "value": {
             "label": "In 2008 de Villiers became the first South African to score a double century",
             "image": {
-              "url": "",
+              "url": "/static/images/master/AB_de_Villiers_2.jpg",
               "altText": "In 2008 de Villiers became the first South African to score a double century"
             }
           }
@@ -201,8 +250,9 @@
           "value": {
             "label": "In 2011 de Villiers became the first South African to score two centuries in a single World Cup",
             "image": {
-              "url": "",
-              "altText": "In 2011 de Villiers became the first South African to score two centuries in a single World Cup"
+              "url": "/static/images/master/AB_de_villiers_28cropped29.jpg",
+              "altText": "In 2011 de Villiers became the first South African to score two centuries in a single World Cup",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -212,8 +262,9 @@
           "value": {
             "label": "In 2015, playing against West Indies, de Villiers scored the fastest century by a batsman in One Day International cricket, off 31 balls",
             "image": {
-              "url": "",
-              "altText": "In 2015, playing against West Indies, de Villiers scored the fastest century by a batsman in One Day International cricket, off 31 balls"
+              "url": "/static/images/master/AB_de_Villiers_3.jpg",
+              "altText": "In 2015, playing against West Indies, de Villiers scored the fastest century by a batsman in One Day International cricket, off 31 balls",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -235,8 +286,8 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "South African Nation team (2004-2018)",
-          "id": "team_fact_south_african_nation_team_2004-2018",
+          "label": "South Africa National Cricket team (2004-2018)",
+          "id": "team_fact_south_africa_national_cricket_team_2004-2018",
           "value": {
             "label": "",
             "facts": [
@@ -268,7 +319,7 @@
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "value": {
-                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
+                  "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL).",
                   "image": {
                     "url": "/static/images/master/Royal_Challengers_Bangalore_Logo_2016.svg",
                     "altText": "Picture of Royal Challengers Bangalore"
@@ -279,8 +330,8 @@
           }
         },
         {
-          "label": "Northerns (2003-2004)",
-          "id": "team_fact_northerns_2003-2004",
+          "label": "Northerns (2003 - 2004)",
+          "id": "team_fact_northerns_2003 - 2004",
           "value": {
             "label": "Northerns is a first-class cricket team in South Africa and represents area nother of Johannesburg, and includes Pretoria"
           }

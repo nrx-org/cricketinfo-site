@@ -1,0 +1,292 @@
+{
+  "title": "गैरी कर्स्टन ",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%88%E0%A4%B0%E0%A5%80_%E0%A4%95%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%A8",
+  "coverImage": {
+    "url": "/static/images/master/GaryKirsten.jpg",
+    "altText": "Image of गैरी कर्स्टन "
+  },
+  "summary": "गैरी कर्स्टन पूर्व दक्षिण अफ्रीकी क्रिकेट खिलाड़ी हैं। वे  2011 में विश्व कप जीतने वाली भारतीय क्रिकेट टीम के कोच  थे।  ",
+  "translations": [
+    {
+      "lang": "en",
+      "title": "Gary Kirsten",
+      "url": "/read/en/gary_kirsten"
+    },
+    {
+      "lang": "ta",
+      "title": "கேரி கிர்ஸ்டன்",
+      "url": "/read/ta/gary_kirsten"
+    }
+  ],
+  "sections": [
+    {
+      "title": "इनके बारे में",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "पूरा नाम",
+          "value": {
+            "label": "गैरी कर्स्टन "
+          }
+        },
+        {
+          "label": "जन्मतिथि",
+          "value": {
+            "label": "23 Nov 1967 (आयु 51)"
+          }
+        },
+        {
+          "label": "जन्मस्थान",
+          "value": {
+            "label": "केपटाउन, दक्षिण अफ्रीका ",
+            "url": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%87%E0%A4%AA%E0%A4%9F%E0%A4%BE%E0%A4%89%E0%A4%A8",
+            "contentUrl": "/static/content/hi/cape_town.json"
+          }
+        },
+        {
+          "label": "ऊंचाई",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "अन्य नाम",
+          "value": {
+            "label": "गजा "
+          }
+        },
+        {
+          "label": "राष्ट्रीयता",
+          "value": {
+            "label": "दक्षिण अफ्रीकी "
+          }
+        },
+        {
+          "label": "भूमिका",
+          "value": {
+            "label": "बाएं हाथ के सलामी बल्लेबाज और दाएं हाथ के ऑफ-ब्रेक गेंदबाज "
+          }
+        }
+      ]
+    },
+    {
+      "title": "शिक्षा",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "रॉन्डेबाश बॉयज़ हाई स्कूल, केपटाउन ",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "/static/images/master/Rondebosch_Boys27_High_School_logo.gif",
+              "altText": "Image of रॉन्डेबाश बॉयज़ हाई स्कूल, केपटाउन "
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "खेलने की शैली",
+      "id": "style_of_play",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "गैरी कर्स्टन  एक बाएं हाथ के सलामी बल्लेबाज और दाएं हाथ के ऑफ-ब्रेक गेंदबाज हैं। "
+          }
+        }
+      ]
+    },
+    {
+      "title": "दौर",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
+          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
+          "note": "1993",
+          "value": {
+            "label": "कर्स्टन ने 1993 में आस्ट्रेलिया के खिलाफ एक दिवसीय अंतर्राष्ट्रीय में पदार्पण कर अंतर्राष्ट्रीय  मैचों में प्रवेश किया ",
+            "facts": [
+              {
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
+                "label": "ऑस्ट्रेलिया क्रिकेट टीम",
+                "id": "phase_fact_fact_ऑस्ट्रेलिया_क्रिकेट_टीम",
+                "value": {
+                  "label": "ऑस्ट्रेलिया की राष्ट्रीय क्रिकेट टीम टेस्ट क्रिकेट इतिहास की संयुक्त सबसे पुरानी टीम है, जिसने 1877 में पहली बार टेस्ट मैच खेला था।",
+                  "image": {
+                    "url": "/static/images/master/Australia_cricket_logo.svg",
+                    "altText": "Image of ऑस्ट्रेलिया क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "आईसीसी टूर्नामेंट में प्रथम प्रवेश",
+          "id": "phase_आईसीसी_टूर्नामेंट_में_प्रथम_प्रवेश",
+          "note": "1996",
+          "value": {
+            "label": "1996 के विश्व कप मैचों के दौरान कर्स्टन ने संयुक्त अरब अमीरात के खिलाफ 188 नाबाद रन बनाए ",
+            "facts": [
+              {
+                "url": "/read/hi/1996_cricket_world_cup",
+                "contentUrl": "/static/content/hi/1996_cricket_world_cup.json",
+                "label": "1996 क्रिकेट विश्व कप",
+                "id": "phase_fact_fact_1996_क्रिकेट_विश्व_कप",
+                "value": {
+                  "label": "1996 क्रिकेट विश्व कप, जिसे उसके आधिकारिक प्रायोजकों (आईटीसी के विल्स ब्रांड) के नाम पर, विल्स वर्ल्ड कप 1996 भी कहा जाता है, छठा क्रिकेट विश्व कप था। यह पाकिस्तान और भारत द्वारा आयोजित होने वाला दूसरा, और श्रीलंका आयोजित होने वाला पहला विश्व कप था।",
+                  "image": {
+                    "url": "/static/images/master/Wills_World_Cup_1996.svg",
+                    "altText": "Image of 1996 क्रिकेट विश्व कप"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "1999 विश्व कप",
+          "id": "phase_1999_विश्व_कप",
+          "note": "1999",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "2003 विश्व कप",
+          "id": "phase_2003_विश्व_कप",
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "आईपीएल में प्रथम प्रवेश",
+          "id": "phase_आईपीएल_में_प्रथम_प्रवेश",
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        }
+      ]
+    },
+    {
+      "title": "उपलब्धि और रिकॉर्ड",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "यूएई के खिलाफ नाबाद 188 रन बनाकर उन्होंने एकदिवसीय अंतर्राष्ट्रीय में दक्षिण अफ्रीकी द्वारा सर्वोच्च पाली का रिकॉर्ड बनाया",
+            "image": {
+              "url": "/static/images/master/GaryKirsten.jpg",
+              "altText": "यूएई के खिलाफ नाबाद 188 रन बनाकर उन्होंने एकदिवसीय अंतर्राष्ट्रीय में दक्षिण अफ्रीकी द्वारा सर्वोच्च पाली का रिकॉर्ड बनाया"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "उस भारतीय टीम को कोच किया जिसने 2011 में विश्व कप जीता",
+            "image": {
+              "url": "",
+              "altText": "उस भारतीय टीम को कोच किया जिसने 2011 में विश्व कप जीता"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "टीमें",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "दक्षिण अफ्रीकी राष्ट्रीय क्रिकेट टीम  (1993 - 2004)",
+          "id": "team_fact_दक्षिण_अफ्रीकी_राष्ट्रीय_क्रिकेट_टीम_1993 - 2004",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "दक्षिण अफ्रीका की राष्ट्रीय क्रिकेट टीम",
+                "id": "team_fact_fact_दक्षिण_अफ्रीका_की_राष्ट्रीय_क्रिकेट_टीम",
+                "url": "/read/hi/south_africa_national_cricket_team",
+                "contentUrl": "/static/content/hi/south_africa_national_cricket_team.json",
+                "value": {
+                  "label": "दक्षिण अफ्रीका की राष्ट्रीय क्रिकेट टीम, उपनाम प्रोटियाज का संचालन क्रिकेट दक्षिण अफ्रीका द्वारा किया जाता है। दक्षिण अफ्रीका टेस्ट,  एकदिवसीय अंतरराष्ट्रीय (ओडीआई) और टी-20 अंतरराष्ट्रीय (टी-20आई) में अंतरराष्ट्रीय क्रिकेट परिषद (आईसीसी) का पूर्ण सदस्य है।",
+                  "image": {
+                    "url": "/static/images/master/Southafrica_cricket_logo.svg",
+                    "altText": "Picture of दक्षिण अफ्रीका की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "पश्चिमी प्रांत  (1987-2004)",
+          "id": "team_fact_पश्चिमी_प्रांत_1987-2004",
+          "value": {
+            "label": "दक्षिण अफ्रीका में घरेलू प्रथम श्रेणी क्रिकेट में पश्चिमी प्रांत, पश्चिमी केप प्रांत का प्रतिनिधित्व करने वाली टीम है।"
+          }
+        }
+      ]
+    },
+    {
+      "title": "पुरस्कार और सम्मान",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "विजडन क्रिकेटर ऑफ द ईयर ",
+          "tag": "2004",
+          "id": "award-0",
+          "value": {
+            "label": "विजडन क्रिकेटर्स ऑफ द ईयर, वार्षिक प्रकाशन विजडन क्रिकेटर्स अलमैनैक द्वारा सम्मान के लिए चुने गए क्रिकेटर हैं।",
+            "image": {
+              "url": "",
+              "altText": "Image of विजडन क्रिकेटर ऑफ द ईयर "
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

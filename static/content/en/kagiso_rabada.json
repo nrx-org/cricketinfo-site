@@ -32,7 +32,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": "Invalid Date (Age 23)"
+            "label": "25 May 1995  (Age 23)"
           }
         },
         {
@@ -77,7 +77,7 @@
         {
           "label": "",
           "value": {
-            "label": "",
+            "label": "Kagiso Rabada is a left-handed, right-arm fast bowler.",
             "image": {
               "url": "/static/images/master/KAGISO_RABADA_281508579203329.jpg",
               "altText": "Style of play for Kagiso Rabada",
@@ -107,15 +107,15 @@
             "label": "Rabada made his Twenty20 International debut for South Africa against Australia on 5 November 2014.",
             "facts": [
               {
-                "url": "/read/en/australia_cricket_team",
-                "contentUrl": "/static/content/en/australia_cricket_team.json",
-                "label": "Australia Cricket team",
-                "id": "phase_fact_fact_australia_cricket_team",
+                "url": "/read/en/australia_national_cricket_team",
+                "contentUrl": "/static/content/en/australia_national_cricket_team.json",
+                "label": "Australia national cricket team",
+                "id": "phase_fact_fact_australia_national_cricket_team",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
                     "url": "/static/images/master/Australia_cricket_logo.svg",
-                    "altText": "Image of Australia Cricket team"
+                    "altText": "Image of Australia national cricket team"
                   }
                 }
               }
@@ -135,7 +135,22 @@
           "id": "phase_world_cup_appearance",
           "note": "2019",
           "value": {
-            "label": "In April 2019, he was named in South Africa's squad for the 2019 Cricket World Cup."
+            "label": "In April 2019, he was named in South Africa's squad for the 2019 Cricket World Cup.",
+            "facts": [
+              {
+                "url": "/read/en/icc_cricket_world_cup",
+                "contentUrl": "/static/content/en/icc_cricket_world_cup.json",
+                "label": "ICC Cricket World Cup",
+                "id": "phase_fact_fact_icc_cricket_world_cup",
+                "value": {
+                  "label": "The ICC Cricket World Cup is the international championship of One Day International cricket. The event is organised by the sport's governing body, the International Cricket Council, every four years, with preliminary qualification rounds leading up to a finals tournament.",
+                  "image": {
+                    "url": "/static/images/master/Icc_cricket_world_cup_trophy.jpg",
+                    "altText": "Image of ICC Cricket World Cup"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -173,8 +188,9 @@
           "value": {
             "label": "In July 2018 during the first test against Sri Lanka, Rabada is the youngest ever bowler to take 150 wickets in Test cricket ",
             "image": {
-              "url": "",
-              "altText": "In July 2018 during the first test against Sri Lanka, Rabada is the youngest ever bowler to take 150 wickets in Test cricket "
+              "url": "/static/images/master/KAGISO_RABADA_281552032888029.jpg",
+              "altText": "In July 2018 during the first test against Sri Lanka, Rabada is the youngest ever bowler to take 150 wickets in Test cricket ",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -182,10 +198,11 @@
           "label": "",
           "id": "achievement_or_record_2",
           "value": {
-            "label": "n 2018, He took the most wickets in Tests by any bowler, with 52 dismissals.",
+            "label": "In 2018, He took the most wickets in Tests by any bowler, with 52 dismissals.",
             "image": {
-              "url": "",
-              "altText": "n 2018, He took the most wickets in Tests by any bowler, with 52 dismissals."
+              "url": "/static/images/master/KAGISO_RABADA_281508579203329.jpg",
+              "altText": "In 2018, He took the most wickets in Tests by any bowler, with 52 dismissals.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -229,8 +246,8 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "South African Nation team (2014- present)",
-          "id": "team_fact_south_african_nation_team_2014- present",
+          "label": "South Africa National Cricket team (2014- present)",
+          "id": "team_fact_south_africa_national_cricket_team_2014- present",
           "value": {
             "label": "",
             "facts": [
@@ -251,7 +268,7 @@
           }
         },
         {
-          "label": "Delhi capitals (2017- present)",
+          "label": "Delhi Capitals (2017- present)",
           "id": "team_fact_delhi_capitals_2017- present",
           "value": {
             "label": "",

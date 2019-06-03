@@ -1,0 +1,357 @@
+{
+  "title": "जोस बटलर",
+  "wikipediaUrl": "",
+  "coverImage": {
+    "url": "/static/images/master/Jos_Buttler_2017.jpg",
+    "altText": "Image of जोस बटलर"
+  },
+  "summary": "जोस बटलर इंग्लैंड के अंतर्राष्ट्रीय क्रिकेटर हैं जो वर्तमान में इंग्लैंड क्रिकेट टीम के उप-कप्तान हैं।",
+  "translations": [
+    {
+      "lang": "en",
+      "title": "Jos Buttler",
+      "url": "/read/en/jos_buttler"
+    },
+    {
+      "lang": "ta",
+      "title": "ஜோஸ் பட்லர்",
+      "url": "/read/ta/jos_buttler"
+    }
+  ],
+  "sections": [
+    {
+      "title": "इनके बारे में",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "पूरा नाम",
+          "value": {
+            "label": "जोसेफ चार्ल्स बटलर"
+          }
+        },
+        {
+          "label": "जन्मतिथि",
+          "value": {
+            "label": "08 Sep 1990 (आयु 28)"
+          }
+        },
+        {
+          "label": "जन्मस्थान",
+          "value": {
+            "label": "टांटन, समरसेट, इंग्लैंड",
+            "url": "",
+            "contentUrl": "/static/content/hi/taunton.json"
+          }
+        },
+        {
+          "label": "ऊंचाई",
+          "value": {
+            "label": "5 फीट 11 इंच (1.80 मीटर)"
+          }
+        },
+        {
+          "label": "राष्ट्रीयता",
+          "value": {
+            "label": "अंग्रेज"
+          }
+        },
+        {
+          "label": "भूमिका",
+          "value": {
+            "label": "बल्लेबाज, विकेट-कीपर"
+          }
+        }
+      ]
+    },
+    {
+      "title": "शिक्षा",
+      "cardType": "avatar",
+      "facts": [
+        {
+          "label": "किंग्स कॉलेज, टांटन",
+          "value": {
+            "label": "बटलर को वर्ष 2010 में यंग विजडन स्कूल क्रिकेटर ऑफ द ईयर नामित किया गया था।",
+            "image": {
+              "url": "/static/images/master/Kingscollegetaunton.jpg",
+              "altText": "Image of किंग्स कॉलेज, टांटन"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "खेलने की शैली",
+      "id": "style_of_play",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "",
+          "value": {
+            "label": "दाएं हाथ के बल्लेबाज और विकेट कीपर",
+            "image": {
+              "url": "/static/images/master/Jos_buttler_keeping.jpg",
+              "altText": "Style of play for जोस बटलर"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "दौर",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "प्रथम श्रेणी की शुरुआत",
+          "id": "phase_प्रथम_श्रेणी_की_शुरुआत",
+          "note": "2009",
+          "value": {
+            "label": "बटलर ने सितंबर 2009 में समरसेट के लिए लंकाशायर के खिलाफ  प्रथम श्रेणी में पदार्पण किया।"
+          }
+        },
+        {
+          "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
+          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
+          "note": "2011",
+          "value": {
+            "label": "बटलर ने 2011 में एक विशेषज्ञ बल्लेबाज के रूप में अंतर्राष्ट्रीय क्रिकेट में पदार्पण किया",
+            "facts": [
+              {
+                "url": "/read/hi/india_national_cricket_team",
+                "contentUrl": "/static/content/hi/india_national_cricket_team.json",
+                "label": "भारत की राष्ट्रीय क्रिकेट टीम",
+                "id": "phase_fact_fact_भारत_की_राष्ट्रीय_क्रिकेट_टीम",
+                "value": {
+                  "label": "भारत की राष्ट्रीय क्रिकेट टीम को टीम इंडिया और मेन इन ब्लू के नाम से भी जाना जाता है। भारत को टेस्ट में पहला, वनडे में दूसरा और आईसीसी द्वारा टी20 में दूसरा स्थान मिला है। विराट कोहली टीम के वर्तमान कप्तान हैं जबकि मुख्य कोच रवि शास्त्री हैं।",
+                  "image": {
+                    "url": "/static/images/master/Flagcricket.jpg",
+                    "altText": "Image of भारत की राष्ट्रीय क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "आईसीसी टूर्नामेंट में प्रथम प्रवेश",
+          "id": "phase_आईसीसी_टूर्नामेंट_में_प्रथम_प्रवेश",
+          "note": "2012",
+          "value": {
+            "label": "प्रतियोगिता में इंग्लैंड के सभी पांच मैचों में बटलर खेले"
+          }
+        },
+        {
+          "label": "2013 चैंपियंस ट्रॉफी",
+          "id": "phase_2013_चैंपियंस_ट्रॉफी",
+          "note": "2013",
+          "value": {
+            "label": "बटलर इंग्लैंड के 2013 आईसीसी चैंपियंस ट्रॉफी के हर मैच में खेले",
+            "facts": [
+              {
+                "url": "/read/hi/icc_champions_trophy",
+                "contentUrl": "/static/content/hi/icc_champions_trophy.json",
+                "label": "आईसीसी चैंपियंस ट्रॉफी",
+                "id": "phase_fact_fact_आईसीसी_चैंपियंस_ट्रॉफी",
+                "value": {
+                  "label": "आईसीसी चैंपियंस ट्रॉफी एक दिवसीय अंतर्राष्ट्रीय (वनडे) क्रिकेट टूर्नामेंट था जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया जाता था, जो क्रिकेट विश्व कप के बाद दूसरा सबसे महत्वपूर्ण आयोजन था। 2002 में इसका नाम बदलकर चैंपियंस ट्रॉफी रखा गया।",
+                  "image": {
+                    "url": "/static/images/master/ICC_Champions_Trophy_cricket_logo.png",
+                    "altText": "Image of आईसीसी चैंपियंस ट्रॉफी"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2014 टी20 विश्व कप",
+          "id": "phase_2014_टी20_विश्व_कप",
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "2015 विश्व कप",
+          "id": "phase_2015_विश्व_कप",
+          "note": "",
+          "value": {
+            "label": ""
+          }
+        },
+        {
+          "label": "आईपीएल में प्रथम प्रवेश",
+          "id": "phase_आईपीएल_में_प्रथम_प्रवेश",
+          "note": "2016",
+          "value": {
+            "label": "बटलर 2016 और 2017 के आईपीएल सीजन में मुंबई इंडियंस के लिए खेले",
+            "facts": [
+              {
+                "url": "/read/hi/mumbai_indians",
+                "contentUrl": "/static/content/hi/mumbai_indians.json",
+                "label": "मुंबई इंडियंस",
+                "id": "phase_fact_fact_मुंबई_इंडियंस",
+                "value": {
+                  "label": "मुंबई इंडियंस एक फ्रैंचाइज़ी क्रिकेट टीम है जो मुंबई शहर, महाराष्ट्र में स्थित है। 2008 में स्थापित मुंबई इंडियंस इंडियन प्रीमियर लीग (आईपीएल) में खेलती है। टीम का स्वामित्व भारत के सबसे बड़े समूह रिलायंस इंडस्ट्रीज के पास है।",
+                  "image": {
+                    "url": "/static/images/master/Mumbai_Indians_Logo.svg",
+                    "altText": "Image of मुंबई इंडियंस"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "उपलब्धि और रिकॉर्ड",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "",
+          "id": "achievement_or_record_1",
+          "value": {
+            "label": "बटलर ने 2014 में लॉर्ड्स में श्रीलंका के खिलाफ अपना पहला वनडे शतक लगाया",
+            "image": {
+              "url": "/static/images/master/England_vs._New_Zealand_2015_282829.jpg",
+              "altText": "बटलर ने 2014 में लॉर्ड्स में श्रीलंका के खिलाफ अपना पहला वनडे शतक लगाया",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_2",
+          "value": {
+            "label": "2018 में बटलर ने 22 गेंदों में किसी अंग्रेज क्रिकेटर द्वारा बनाया गया सबसे तेज अंतर्राष्ट्रीय टी20 अर्धशतक बनाया",
+            "image": {
+              "altText": "2018 में बटलर ने 22 गेंदों में किसी अंग्रेज क्रिकेटर द्वारा बनाया गया सबसे तेज अंतर्राष्ट्रीय टी20 अर्धशतक बनाया",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_3",
+          "value": {
+            "label": "बटलर ने वेस्टइंडीज के खिलाफ बल्लेबाजी करते हुए 12 छक्के लगाए जो एक वनडे में किसी भी इंग्लिश बल्लेबाज द्वारा लगाया सबसे ज्यादा छक्का था ",
+            "image": {
+              "url": "/static/images/master/Jos_buttler.JPG",
+              "altText": "बटलर ने वेस्टइंडीज के खिलाफ बल्लेबाजी करते हुए 12 छक्के लगाए जो एक वनडे में किसी भी इंग्लिश बल्लेबाज द्वारा लगाया सबसे ज्यादा छक्का था ",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_4",
+          "value": {
+            "label": "बटलर आईपीएल इतिहास के मैचों में पचास या उससे अधिक के पांच स्कोर लगातार बनाने वाले दूसरे बल्लेबाज हैं।",
+            "image": {
+              "altText": "बटलर आईपीएल इतिहास के मैचों में पचास या उससे अधिक के पांच स्कोर लगातार बनाने वाले दूसरे बल्लेबाज हैं।",
+              "license": ""
+            }
+          }
+        },
+        {
+          "label": "",
+          "id": "achievement_or_record_5",
+          "value": {
+            "label": "",
+            "image": {
+              "url": "",
+              "altText": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "टीमें",
+      "cardType": "list_card",
+      "facts": [
+        {
+          "label": "इंग्लैंड (2010 से अब तक)",
+          "id": "team_fact_इंग्लैंड_2010 से अब तक",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "इंग्लैंड क्रिकेट टीम",
+                "id": "team_fact_fact_इंग्लैंड_क्रिकेट_टीम",
+                "url": "/read/hi/england_cricket_team",
+                "contentUrl": "/static/content/hi/england_cricket_team.json",
+                "value": {
+                  "label": "इंग्लैंड क्रिकेट टीम अंतरराष्ट्रीय क्रिकेट में इंग्लैंड और वेल्स का प्रतिनिधित्व करती है। इंग्लैंड और ऑस्ट्रेलिया 1877 में टेस्ट मैच खेलने वाली पहली टीमें थीं। ",
+                  "image": {
+                    "url": "/static/images/master/England_cricket_team_logo.svg",
+                    "altText": "Picture of इंग्लैंड क्रिकेट टीम"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "राजस्थान रॉयल्स (2018 से अब तक)",
+          "id": "team_fact_राजस्थान_रॉयल्स_2018 से अब तक",
+          "value": {
+            "label": "",
+            "facts": [
+              {
+                "label": "राजस्थान रॉयल्स",
+                "id": "team_fact_fact_राजस्थान_रॉयल्स",
+                "url": "/read/hi/rajasthan_royals",
+                "contentUrl": "/static/content/hi/rajasthan_royals.json",
+                "value": {
+                  "label": "राजस्थान रॉयल्स (संक्षिप्त रूप में आरआर) इंडियन प्रीमियर लीग में खेलने वाली राजस्थान के जयपुर आधारित एक फ्रेंचाइजी क्रिकेट टीम है।",
+                  "image": {
+                    "url": "/static/images/master/RR-LOGO-1.png",
+                    "altText": "Picture of राजस्थान रॉयल्स"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "लंकाशायर (2014 से अब तक)",
+          "id": "team_fact_लंकाशायर_2014 से अब तक",
+          "value": {
+            "label": "लंकाशायर काउंटी क्रिकेट क्लब एक प्रथम श्रेणी की अंग्रेजी काउंटी टीम है जो लंकाशायर काउंटी का प्रतिनिधित्व करती है"
+          }
+        }
+      ]
+    },
+    {
+      "title": "पुरस्कार और सम्मान",
+      "cardType": "tag_card",
+      "facts": [
+        {
+          "label": "एनबीसी डेनिस कॉम्पटन अवार्ड",
+          "tag": "2010",
+          "id": "award-0",
+          "value": {
+            "label": "एनबीसी डेनिस कॉम्पटन पुरस्कार 18 अंग्रेजी प्रथम श्रेणी की काउंटी टीम में से प्रत्येक में 'सबसे होनहार युवा खिलाड़ी' को दिया जाने वाला एक वार्षिक पुरस्कार है",
+            "image": {
+              "url": "",
+              "altText": "Image of एनबीसी डेनिस कॉम्पटन अवार्ड"
+            }
+          }
+        },
+        {
+          "label": "विजडन क्रिकेटर ऑफ द ईयर",
+          "tag": "2019",
+          "id": "award-1",
+          "value": {
+            "label": "विजडन क्रिकेटर्स अलमैनैक द्वारा दिया जाने वाला एक वार्षिक पुरस्कार",
+            "image": {
+              "url": "",
+              "altText": "Image of विजडन क्रिकेटर ऑफ द ईयर"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

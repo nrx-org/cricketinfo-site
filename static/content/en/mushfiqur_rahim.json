@@ -33,7 +33,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": "Invalid Date (Age 31)"
+            "label": "9 June 1987  (Age 31)"
           }
         },
         {
@@ -123,7 +123,7 @@
                 "label": "England cricket team",
                 "id": "phase_fact_fact_england_cricket_team",
                 "value": {
-                  "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877",
+                  "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877.",
                   "image": {
                     "url": "/static/images/master/England_cricket_team_logo.svg",
                     "altText": "Image of England cricket team"
@@ -169,7 +169,7 @@
                 "label": "2011 Cricket World Cup",
                 "id": "phase_fact_fact_2011_cricket_world_cup",
                 "value": {
-                  "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
+                  "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh.",
                   "image": {
                     "url": "/static/images/master/2011_Cricket_World_Cup_Logo.svg",
                     "altText": "Image of 2011 Cricket World Cup"
@@ -184,7 +184,22 @@
           "id": "phase_2019_world_cup",
           "note": "2019",
           "value": {
-            "label": "In April 2019, he was named in Bangladesh's squad for the 2019 Cricket World Cup."
+            "label": "In April 2019, he was named in Bangladesh's squad for the 2019 Cricket World Cup.",
+            "facts": [
+              {
+                "url": "/read/en/icc_cricket_world_cup",
+                "contentUrl": "/static/content/en/icc_cricket_world_cup.json",
+                "label": "ICC Cricket World Cup",
+                "id": "phase_fact_fact_icc_cricket_world_cup",
+                "value": {
+                  "label": "The ICC Cricket World Cup is the international championship of One Day International cricket. The event is organised by the sport's governing body, the International Cricket Council, every four years, with preliminary qualification rounds leading up to a finals tournament.",
+                  "image": {
+                    "url": "/static/images/master/Icc_cricket_world_cup_trophy.jpg",
+                    "altText": "Image of ICC Cricket World Cup"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -263,8 +278,8 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Bangladesh Cricket team (2004- present)",
-          "id": "team_fact_bangladesh_cricket_team_2004- present",
+          "label": "Bangladesh National Cricket team (2004- present)",
+          "id": "team_fact_bangladesh_national_cricket_team_2004- present",
           "value": {
             "label": "",
             "facts": [

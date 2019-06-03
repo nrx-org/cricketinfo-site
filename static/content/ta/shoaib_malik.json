@@ -1,6 +1,6 @@
 {
   "title": "ஷோயப் மாலிக்",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shoaib_Malik",
+  "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AF%8B%E0%AE%AF%E0%AE%BF%E0%AE%AA%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B2%E0%AE%BF%E0%AE%95%E0%AF%8D",
   "coverImage": {
     "url": "/static/images/master/Shoaib_Malik.jpg",
     "altText": "Image of ஷோயப் மாலிக்"
@@ -32,14 +32,14 @@
         {
           "label": "பிறந்த தேதி",
           "value": {
-            "label": "Invalid Date (வயது 37)"
+            "label": " 1 February 1982 (வயது 37)"
           }
         },
         {
           "label": "பிறந்த இடம்",
           "value": {
             "label": "சியால்கோட், பாகிஸ்தான்",
-            "url": "https://en.wikipedia.org/wiki/Sialkot",
+            "url": "https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%B2%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%8D",
             "contentUrl": "/static/content/ta/galle.json"
           }
         },
@@ -94,7 +94,7 @@
             "image": {
               "url": "/static/images/master/Shoaib_Malik2C_Dunedin2C_NZ2C_2009.jpg",
               "altText": "Style of play for ஷோயப் மாலிக்",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
             }
           }
         }
@@ -225,15 +225,15 @@
             "label": "",
             "facts": [
               {
-                "label": "Pakistan national cricket team",
-                "id": "team_fact_fact_pakistan_national_cricket_team",
+                "label": "பாகிஸ்தான் தேசியக் கிரிக்கெட் அணி",
+                "id": "team_fact_fact_பாகிஸ்தான்_தேசியக்_கிரிக்கெட்_அணி",
                 "url": "/read/ta/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/ta/pakistan_national_cricket_team.json",
                 "value": {
-                  "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
+                  "label": "ஷாஹின்ஸ், கிரீன் ஷேர்ட்ஸ் மற்றும் மென் இன் கிரீன் என பிரபலமாகக் கருதப்படும் பாகிஸ்தான் ஆண்கள் தேசியக் கிரிக்கெட் அணி பாகிஸ்தான் கிரிக்கெட் வாரியத்தால் (பிசிபி) நிர்வகிக்கப்படுகிறது. இந்த அணி சர்வதேசக் கிரிக்கெட் கவுன்சிலின் முழு உறுப்பினர் ஆகும், மேலும் டெஸ்ட், ஒருநாள் மற்றும் சர்வதேச டிவென்டி20 கிரிக்கெட் போட்டிகளில் பங்கேற்கிறது.",
                   "image": {
                     "url": "/static/images/master/PakistanCricketLogo.png",
-                    "altText": "Picture of Pakistan national cricket team"
+                    "altText": "Picture of பாகிஸ்தான் தேசியக் கிரிக்கெட் அணி"
                   }
                 }
               }

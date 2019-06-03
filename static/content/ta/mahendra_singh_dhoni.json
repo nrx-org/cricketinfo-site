@@ -1,6 +1,6 @@
 {
   "title": "மகேந்திர சிங் தோனி",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/MS_Dhoni",
+  "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AE%95%E0%AF%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%9A%E0%AE%BF%E0%AE%99%E0%AF%8D_%E0%AE%A4%E0%AF%8B%E0%AE%A9%E0%AE%BF",
   "coverImage": {
     "url": "/static/images/master/Dhoni_behind_Stumps.jpg",
     "altText": "Image of மகேந்திர சிங் தோனி"
@@ -39,7 +39,8 @@
           "label": "பிறந்த இடம்",
           "value": {
             "label": "ராஞ்சி, பீகார் (இப்போது ஜார்கண்ட்)",
-            "url": "https://en.wikipedia.org/wiki/Ranchi"
+            "url": "",
+            "contentUrl": "/static/content/ta/ranchi.json"
           }
         },
         {
@@ -123,13 +124,13 @@
               {
                 "url": "/read/ta/bangladesh_national_cricket_team",
                 "contentUrl": "/static/content/ta/bangladesh_national_cricket_team.json",
-                "label": "Bangladesh national cricket team",
-                "id": "phase_fact_fact_bangladesh_national_cricket_team",
+                "label": "வங்காளதேசக் தேசியக் கிரிக்கெட் அணி",
+                "id": "phase_fact_fact_வங்காளதேசக்_தேசியக்_கிரிக்கெட்_அணி",
                 "value": {
-                  "label": "The Bangladesh national cricket team, popularly known as \"The Tigers\", is administered by the Bangladesh Cricket Board (BCB). Bangladesh is a full member of the International Cricket Council (ICC) with Test and One Day International (ODI) status.",
+                  "label": "வங்களாதேசக் தேசியக் கிரிக்கெட் அணி, \"தி டைகர்ஸ்\" என்று பிரபலமாக அறியப்படுகிறது, இது வங்கதேச கிரிக்கெட் வாரியத்தால் (பிசிபி) நிர்வகிக்கப்படுகிறது. வங்களாதேசம் டெஸ்ட் மற்றும் ஒருநாள் சர்வதேசப் போட்டி அந்தஸ்தில் சர்வதேசக் கிரிக்கெட் கவுன்சிலின் (ஐசிசி)  முழு உறுப்பினராக உள்ளது.",
                   "image": {
                     "url": "/static/images/master/Flag_of_Bangladesh.svg",
-                    "altText": "Image of Bangladesh national cricket team"
+                    "altText": "Image of வங்காளதேசக் தேசியக் கிரிக்கெட் அணி"
                   }
                 }
               }
@@ -263,7 +264,7 @@
           "value": {
             "label": "இந்திய டெஸ்ட் போட்டிகளில் அதிகமான வெற்றிகளைப் பெற்றுத் தந்த கேப்டன் தோனி ஆவார்.",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Dhoni_behind_Stumps.jpg",
               "altText": "இந்திய டெஸ்ட் போட்டிகளில் அதிகமான வெற்றிகளைப் பெற்றுத் தந்த கேப்டன் தோனி ஆவார்."
             }
           }
@@ -274,8 +275,9 @@
           "value": {
             "label": "4000 டெஸ்ட் ரன்கள் எடுத்த முதல் இந்திய விக்கெட் கீப்பர் தோனி",
             "image": {
-              "url": "",
-              "altText": "4000 டெஸ்ட் ரன்கள் எடுத்த முதல் இந்திய விக்கெட் கீப்பர் தோனி"
+              "url": "/static/images/master/Mahendra_Singh_Dhoni_1.jpg",
+              "altText": "4000 டெஸ்ட் ரன்கள் எடுத்த முதல் இந்திய விக்கெட் கீப்பர் தோனி",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/4.0/\">4.0 International</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
             }
           }
         },
@@ -285,7 +287,7 @@
           "value": {
             "label": "சென்னையில் நடந்த ஆஸ்திரேலியாவுக்கு எதிரான டெஸ்ட் போட்டியில் தோனியின் 224 ரன்கள், இந்திய கேப்டன்கள் எடுத்த ஸ்கோரில் மூன்றாவது அதிக ஸ்கோர் ஆகும்.",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Mahendra_Singh_Dhoni_batting.JPG",
               "altText": "சென்னையில் நடந்த ஆஸ்திரேலியாவுக்கு எதிரான டெஸ்ட் போட்டியில் தோனியின் 224 ரன்கள், இந்திய கேப்டன்கள் எடுத்த ஸ்கோரில் மூன்றாவது அதிக ஸ்கோர் ஆகும்."
             }
           }
@@ -296,8 +298,9 @@
           "value": {
             "label": "தோனி டெஸ்ட் கேரியரில் மற்ற எந்த விக்கெட் கீப்பர்களையும் விட அதிகமான ஸ்டம்பிங்குகளை (38) செய்துள்ளார்.",
             "image": {
-              "url": "",
-              "altText": "தோனி டெஸ்ட் கேரியரில் மற்ற எந்த விக்கெட் கீப்பர்களையும் விட அதிகமான ஸ்டம்பிங்குகளை (38) செய்துள்ளார்."
+              "url": "/static/images/master/MS_Dhoni.jpg",
+              "altText": "தோனி டெஸ்ட் கேரியரில் மற்ற எந்த விக்கெட் கீப்பர்களையும் விட அதிகமான ஸ்டம்பிங்குகளை (38) செய்துள்ளார்.",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
             }
           }
         },
@@ -332,7 +335,7 @@
                 "value": {
                   "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Picture of இந்திய தேசிய கிரிக்கெட் அணி"
                   }
                 }

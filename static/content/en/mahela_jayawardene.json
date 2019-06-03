@@ -5,14 +5,16 @@
     "url": "/static/images/master/Mahela_Jayawardene_3.JPG",
     "altText": "Image of Mahela Jayawardene"
   },
-  "summary": "Mahela Jayawardene, is a Sri Lankan cricket coach and former international cricketer",
+  "summary": "Mahela Jayawardene, is a Sri Lankan cricket coach and former international cricketer.",
   "translations": [
     {
       "lang": "hi",
+      "title": "महेला जयवर्धने ",
       "url": "/read/hi/mahela_jayawardene"
     },
     {
       "lang": "ta",
+      "title": "மஹெல ஜெயவர்தனே",
       "url": "/read/ta/mahela_jayawardene"
     }
   ],
@@ -30,7 +32,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": "Invalid Date (Age 41)"
+            "label": "27-05-1977 (Age 41)"
           }
         },
         {
@@ -91,7 +93,7 @@
         {
           "label": "",
           "value": {
-            "label": "Right-handed batsman and right-arm medium bowler",
+            "label": "Right-handed batsman and right-arm medium bowler.",
             "image": {
               "url": "/static/images/master/Mahela_Jayawardene_-_batting.jpg",
               "altText": "Style of play for Mahela Jayawardene"
@@ -127,7 +129,7 @@
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of India national cricket team"
                   }
                 }
@@ -141,6 +143,37 @@
           "note": "1999",
           "value": {
             "label": "Jayawardene was a key member of the 1999 world cup team"
+          }
+        },
+        {
+          "label": "2003  World cup",
+          "id": "phase_2003_world_cup",
+          "note": "2003",
+          "value": {
+            "label": "Jayawardene was a key member of the 2003 world cup team",
+            "facts": [
+              {
+                "url": "/read/en/2003_cricket_world_cup",
+                "contentUrl": "/static/content/en/2003_cricket_world_cup.json",
+                "label": "2003 Cricket World Cup",
+                "id": "phase_fact_fact_2003_cricket_world_cup",
+                "value": {
+                  "label": "The 2003 Cricket World Cup was the eighth Cricket World Cup, organized by the International Cricket Council (ICC). It was co-hosted by South Africa, Zimbabwe and Kenya.",
+                  "image": {
+                    "url": "/static/images/master/Cricket_World_Cup_Logo_2003.svg",
+                    "altText": "Image of 2003 Cricket World Cup"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2007 Cricket world cup",
+          "id": "phase_2007_cricket_world_cup",
+          "note": "2007",
+          "value": {
+            "label": "Jayawardene scored a century in 2007 Cricket World Cup semi final against New Zealand"
           }
         },
         {
@@ -178,7 +211,7 @@
           "value": {
             "label": "Jayawardene along with Kumar Sangakkara created a world record for the highest run (624) partnership",
             "image": {
-              "url": "",
+              "url": "/static/images/master/Mahela_Jayawardene_3.JPG",
               "altText": "Jayawardene along with Kumar Sangakkara created a world record for the highest run (624) partnership"
             }
           }
@@ -189,8 +222,9 @@
           "value": {
             "label": "Jayawardene held the record for the second highest number of catches in Tests with 205 catches",
             "image": {
-              "url": "",
-              "altText": "Jayawardene held the record for the second highest number of catches in Tests with 205 catches"
+              "url": "/static/images/master/Mahela_Jayawardene.jpg",
+              "altText": "Jayawardene held the record for the second highest number of catches in Tests with 205 catches",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -200,8 +234,9 @@
           "value": {
             "label": "In 2006, Jayawardene set the record for the highest individual score (374) in Tests by a right-handed batsman",
             "image": {
-              "url": "",
-              "altText": "In 2006, Jayawardene set the record for the highest individual score (374) in Tests by a right-handed batsman"
+              "url": "/static/images/master/Mahela_batting_vs_England_in_his_final_ODI_in_Sri_Lanka.JPG",
+              "altText": "In 2006, Jayawardene set the record for the highest individual score (374) in Tests by a right-handed batsman",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
             }
           }
         },
@@ -211,8 +246,9 @@
           "value": {
             "label": "Jayawardene was the only fielder to take 400 catches in international cricket.",
             "image": {
-              "url": "",
-              "altText": "Jayawardene was the only fielder to take 400 catches in international cricket."
+              "url": "/static/images/master/Mahela_Jayawardene_2.jpg",
+              "altText": "Jayawardene was the only fielder to take 400 catches in international cricket.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         },
@@ -234,8 +270,8 @@
       "cardType": "list_card",
       "facts": [
         {
-          "label": "Sri Lanka (1997-2015)",
-          "id": "team_fact_sri_lanka_1997-2015",
+          "label": "Sri Lanka National Cricket team (1997 - 2015)",
+          "id": "team_fact_sri_lanka_national_cricket_team_1997 - 2015",
           "value": {
             "label": "",
             "facts": [
@@ -278,8 +314,8 @@
           }
         },
         {
-          "label": "Sinhalese Sports Club (1995-2015)",
-          "id": "team_fact_sinhalese_sports_club_1995-2015",
+          "label": "Sinhalese Sports Club (1995 - 2015)",
+          "id": "team_fact_sinhalese_sports_club_1995 - 2015",
           "value": {
             "label": " Singhalese Sports Club (SSC) is a first-class cricket club in Sri Lanka"
           }

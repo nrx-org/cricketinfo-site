@@ -246,6 +246,14 @@ module.exports.exportPersonalities = () => {
       }
 
       // About table.
+      let bornOnDate = null;
+      try {
+        bornOnDate = parseDate(record[BORN_ON_KEY], "dd/MM/yyyy", new Date());
+        bornOnDate = format(bornOnDate, "dd MMM yyyy");
+      } catch (e) {
+        bornOnDate = record[BORN_ON_KEY];
+      }
+
       personality.sections.push({
         title: personalityUiStrings.about[lang],
         cardType: "table",
@@ -259,10 +267,9 @@ module.exports.exportPersonalities = () => {
           {
             label: personalityUiStrings.bornOn[lang],
             value: {
-              label: `${format(
-                parseDate(record[BORN_ON_KEY], "dd/MM/yyyy", new Date()),
-                "dd MMM yyyy"
-              )} (${personalityUiStrings.age[lang]} ${record[AGE_KEY]})`
+              label: `${bornOnDate} (${personalityUiStrings.age[lang]} ${
+                record[AGE_KEY]
+              })`
             }
           },
           birthplaceSection,
