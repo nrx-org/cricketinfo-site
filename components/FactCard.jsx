@@ -1,4 +1,5 @@
 import React from "react";
+import PropTypes from "prop-types";
 
 import { StoriesContainer } from "./StoriesContainer";
 import { factCardDataPropTypes } from "../lib/prop_types";
@@ -13,6 +14,52 @@ import { BarChartWithInfo } from "./BarChartWithInfo";
 import { Button } from "./Button";
 import { articleUiStrings } from "../lib/ui_strings";
 import { getSurveyUrl } from "../lib/urls";
+
+class SurveyButton extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      matomoVisitorId: null
+    };
+  }
+
+  componentDidMount() {
+    /* eslint-disable */
+    const paq = window._paq || [];
+    /* eslint-enable */
+    const self = this;
+    let visitorId = null;
+    paq.push([
+      function() {
+        visitorId = this.getVisitorId();
+        self.setState({
+          matomoVisitorId: visitorId
+        });
+      }
+    ]);
+  }
+
+  render() {
+    const { matomoVisitorId } = this.state;
+    const { lang, articleId } = this.props;
+    return (
+      <section>
+        <Button
+          href={getSurveyUrl(lang, matomoVisitorId, articleId)}
+          isFullWidth
+          shouldOpenInNewTab
+        >
+          {articleUiStrings.takeSurvey[lang]}
+        </Button>
+      </section>
+    );
+  }
+}
+
+SurveyButton.propTypes = {
+  lang: PropTypes.string.isRequired,
+  articleId: PropTypes.string.isRequired
+};
 
 const FactCardTable = ({ cardData }) => {
   const content = cardData.facts.map(f => (
@@ -83,21 +130,7 @@ export const FactCard = ({ cardData }) => {
   }
 
   if (cardData.cardType === "survey_link") {
-    return (
-      <section>
-        <Button
-          href={getSurveyUrl(
-            cardData.lang,
-            "matomo-user-id",
-            cardData.articleId
-          )}
-          isFullWidth
-          shouldOpenInNewTab
-        >
-          {articleUiStrings.takeSurvey[cardData.lang]}
-        </Button>
-      </section>
-    );
+    return <SurveyButton lang={cardData.lang} articleId={cardData.articleId} />;
   }
 
   return null;
