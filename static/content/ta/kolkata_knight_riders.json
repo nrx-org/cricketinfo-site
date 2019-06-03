@@ -1,11 +1,11 @@
 {
-  "title": "Kolkata Knight Riders",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kolkata_Knight_Riders",
+  "title": "கொல்கத்தா நைட் ரைடர்ஸ்",
+  "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AF%8A%E0%AE%B2%E0%AF%8D%E0%AE%95%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BE_%E0%AE%A8%E0%AF%88%E0%AE%9F%E0%AF%8D_%E0%AE%B0%E0%AF%88%E0%AE%9F%E0%AE%B0%E0%AF%8D%E0%AE%B8%E0%AF%8D",
   "coverImage": {
     "url": "/static/images/master/Kolkata_Knight_Riders_Logo.svg",
-    "altText": "Image of Kolkata Knight Riders"
+    "altText": "Image of கொல்கத்தா நைட் ரைடர்ஸ்"
   },
-  "summary": "The Kolkata Knight Riders (also known by the acronym KKR) are a franchise cricket team representing the city of Kolkata in the Indian Premier League. ",
+  "summary": "கொல்கத்தா நைட் ரைடர்ஸ் (இது சுருக்கமான கேகேஆர் என்றும் அறியப்படுகிறது) என்பது இந்தியப் பிரீமியர் லீகில் கொல்கத்தா நகரத்தைப் பிரதிநிதித்துவப்படுத்தும் ஒரு உரிமம் பெற்ற கிரிக்கெட் அணி ஆகும்.",
   "translations": [
     {
       "lang": "en",
@@ -26,7 +26,7 @@
         {
           "label": "Location",
           "value": {
-            "label": "Kolkata"
+            "label": "கொல்கத்தா"
           }
         },
         {
@@ -38,7 +38,7 @@
         {
           "label": "Association",
           "value": {
-            "label": "Indian Premier League"
+            "label": ""
           }
         }
       ]
@@ -73,22 +73,22 @@
         {
           "label": "டி20 கேப்டன்",
           "value": {
-            "label": "Dinesh Karthik",
-            "url": null,
+            "label": "தினேஷ் கார்த்திக்",
+            "url": "/read/ta/dinesh_karthik",
             "image": {
-              "url": "/static/images/master/Dinesh.Karthik.jpg",
-              "altText": "Image of Dinesh Karthik"
+              "url": "/static/images/master/Dinesh_Karthik_2.jpg",
+              "altText": "Image of தினேஷ் கார்த்திக்"
             }
           }
         },
         {
           "label": "பயிற்சியாளர்",
           "value": {
-            "label": "Jacques Kallis",
+            "label": "ஜாக் காலிஸ்",
             "url": "/read/ta/allan_donald",
             "image": {
               "url": "/static/images/master/JAQUES_KALLIS_28317590178629.jpg",
-              "altText": "Image of Jacques Kallis",
+              "altText": "Image of ஜாக் காலிஸ்",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
@@ -97,16 +97,16 @@
     },
     {
       "title": "பிரபலமான மைதானம்",
-      "id": "r10-eden_gardens",
+      "id": "r10-ஈடன்_கார்டன்ஸ்",
       "cardType": "simple",
       "facts": [
         {
-          "label": "Eden Gardens",
+          "label": "ஈடன் கார்டன்ஸ்",
           "value": {
-            "label": "Eden Gardens is a cricket ground in Kolkata, India established in 1864. It is the oldest cricket stadium in India. It is the home venue of the Bengal cricket team and the IPL franchise cricket team Kolkata Knight Riders.",
+            "label": "ஈடன் கார்டன்ஸ், இந்தியாவில் உள்ள கொல்கத்தாவில் 1864-ஆம் ஆண்டு உருவாக்கப்பட்ட கிரிக்கெட் மைதானம். இது இந்தியாவில் உள்ளதிலேயே பழமையான கிரிக்கெட் ஸ்டேடியமாகும். இது பெங்கால் கிரிக்கெட் அணிக்கும், ஐபிஎல் கிரிக்கெட் அணியான கொல்கத்தா நைட் ரைடர்ஸ் அணிக்கும் சொந்தக் களமாக விளங்குகிறது.",
             "image": {
               "url": "/static/images/master/Eden_Gardens_under_floodlights_during_a_match.jpg",
-              "altText": "Image of Eden Gardens"
+              "altText": "Image of ஈடன் கார்டன்ஸ்"
             }
           }
         }
@@ -117,38 +117,38 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "Franchise history",
+          "label": "உரிம வரலாறு",
           "id": 3,
           "note": "2008",
           "value": {
-            "label": " The team representing Kolkata was bought by Bollywood superstar Shah Rukh Khan's company Red Chillies Entertainment in partnership with actress Juhi Chawla and her husband Jay Mehta for a price of $75.09 million.",
+            "label": "ஷாருக்கானின் நிறுவனம் ரெட் சில்லீஸ் எண்டர்டெயின்மெண்ட் மூலம் நடிகை ஜூஹி சாவ்லா மற்றும் அவரது கணவர் ஜெய் மெஹ்தா ஆகியோருடன் 75.09 மில்லியன் டாலர் விலையில் கொல்கத்தாவை பிரதிநிதித்துவப்படுத்தும் அணி வாங்கப்பட்டது.",
             "facts": []
           }
         },
         {
-          "label": "Sourav Ganguly",
+          "label": "சவுரவ் கங்குலி",
           "id": 3,
           "note": "2011",
           "value": {
-            "label": "Former captain and icon player Sourav Ganguly was not purchased in the January auction. This led to protest rallies, signature campaigns throughout the country and abroad along with stadium protests by various fan groups, such as No Dada No KKR,[27] which received both national and international press attention",
+            "label": "முன்னாள் கேப்டன் மற்றும் ஐகான் வீரர் சவுரவ் கங்குலி ஜனவரி ஏலத்தில் வாங்கப்படவில்லை. இது தேசிய மற்றும் சர்வதேச செய்தி ஊடகத்தின் கவனத்தை ஈர்த்தது, இது No Dada No KKR, [27] போன்ற பல்வேறு ரசிகர்கள் குழுவினரால் அரங்கு எதிர்ப்புக்களுடன் நாட்டிலும் வெளிநாடுகளிலும் நடந்த பேரணிகள்,",
             "facts": []
           }
         },
         {
-          "label": "New logo",
+          "label": "புதிய லோகோ",
           "id": 3,
           "note": "2012",
           "value": {
-            "label": "It was in 2012 that the current logo, which has a blazing purple Corinthian helmet trimmed with gold, with Kolkata Knight Riders written within a shield was introduced.",
+            "label": "2012 ஆம் ஆண்டில், ஒரு லேசான ஊதா நிற கொரிந்திய ஹெல்மட்டை தங்கத்துடன் சுருக்கிக் கொண்ட தற்போதைய லோகோ, ஒரு கேடயத்திற்குள் எழுதப்பட்ட கொல்கத்தா நைட் ரைடர்ஸ் அறிமுகப்படுத்தப்பட்டது.",
             "facts": []
           }
         },
         {
-          "label": "IPL 2018",
+          "label": "ஐபிஎல் 2018",
           "id": 3,
           "note": "2018",
           "value": {
-            "label": "On 4 March 2018, Dinesh Karthik was appointed as the captain of KKR for IPL 2018 and Robin Uthappa was named vice-captain.",
+            "label": "2018 ஆம் ஆண்டு மார்ச் 4 ஆம் தேதி, ஐ.பி.எல். கிரிக்கெட்டிற்கான கே.கே.ஆர். கேப்டனாக தினேஷ் கார்த்திக் நியமிக்கப்பட்டார். ராபின் உத்தப்பா துணை கேப்டனாக நியமிக்கப்பட்டார்.",
             "facts": []
           }
         }
@@ -157,102 +157,12 @@
     {
       "title": "பிரபலமான வீரர்",
       "cardType": "stories",
-      "facts": [
-        {
-          "label": "Dinesh Karthik",
-          "id": "dinesh_karthik",
-          "value": {
-            "url": null,
-            "label": "Dinesh Karthik made his maiden Test century against Bangladesh and then was India's leading scorer in the Test tour of England, helping India to win their first series in England in 21 years.",
-            "image": {
-              "url": "/static/images/master/Dinesh.Karthik.jpg",
-              "altText": "Image of Dinesh Karthik"
-            }
-          }
-        },
-        {
-          "label": "Robin Uthappa",
-          "id": "robin_uthappa",
-          "value": {
-            "url": null,
-            "label": "Robin Uthappa  is named 'The Walking Assassin' for his tactic of charging the bowler. He played an important role in India's win at the 2007 ICC World Twenty20. ",
-            "image": {
-              "url": "/static/images/master/Robin_Uthappa_on_the_Show.jpg",
-              "altText": "Image of Robin Uthappa"
-            }
-          }
-        },
-        {
-          "label": "Sourav Ganguly",
-          "id": "sourav_ganguly",
-          "value": {
-            "url": null,
-            "label": "Sourav Gangly is the most successful Indian test captain overseas with 11 wins. The Indian team was ranked eighth in the ICC rankings before he became the captain, and under his tenure the team rank went up to second.",
-            "image": {
-              "url": "/static/images/master/Sourav_Ganguly_closeup.jpg",
-              "altText": "Image of Sourav Ganguly"
-            }
-          }
-        },
-        {
-          "label": "Andre Russell",
-          "id": "andre_russell",
-          "value": {
-            "url": null,
-            "label": "Andre Russell has played in over 300 Twenty20 matches for a range of sides in leagues throughout the world.",
-            "image": {
-              "altText": "Image of Andre Russell",
-              "license": ""
-            }
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "சாதனைகள் & பதிவுகள்",
       "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2012 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Kolkata Knight Riders were the winning team, beating defending champions Chennai Super Kings by five wickets in the final.",
-            "facts": []
-          }
-        },
-        {
-          "label": "2014 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": " Kolkata Knight Riders won the tournament, defeating Kings XI Punjab by 3 wickets.",
-            "facts": []
-          }
-        },
-        {
-          "label": "Orange Cap",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Robin Uthappa won the Orange Cap for 660 runs in the 2014 IPL season.",
-            "facts": [
-              {
-                "label": "ராபின் உத்தப்பா",
-                "id": "orange_cap-",
-                "url": "/read/ta/robin_uthappa",
-                "value": {
-                  "label": "ராபின் வேணு உத்தப்பா ஓர் இந்திய கிரிக்கெட் வீரர் ஆவார். உள்ளூர் கிரிக்கெட் போட்டியில் கர்நாடகா அணிக்காகவும், ஐபிஎல்லில் கொல்கத்தா நைட் ரைடர்ஸ் அணிக்காகவும் ஆடுகிறார்.",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of Orange Cap"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "வழங்குநர்கள்",
@@ -261,34 +171,30 @@
       "facts": [
         {
           "value": {
-            "label": " Nokia",
+            "label": "  நோக்கியா",
             "url": null,
             "image": {
-              "url": "/static/images/master/Nokia_wordmark.svg",
-              "altText": "Image of  Nokia"
+              "altText": "Image of   நோக்கியா"
             }
           }
         },
         {
-          "label": "Co-Sponsor",
+          "label": "கூட்டுறவு ஸ்பான்சர்",
           "value": {
             "label": "Jio",
             "url": null,
             "image": {
-              "url": "/static/images/master/Reliance_Jio_Logo_28October_201529.svg",
-              "altText": "Image of Jio",
-              "license": ""
+              "altText": "Image of Jio"
             }
           }
         },
         {
-          "label": "Kit sponsor",
+          "label": "கிட் ஸ்பான்சர்",
           "value": {
-            "label": "Alcis Sports",
+            "label": "அல்சிஸ் ஸ்போர்ட்ஸ்",
             "url": null,
             "image": {
-              "url": "",
-              "altText": "Image of Alcis Sports"
+              "altText": "Image of அல்சிஸ் ஸ்போர்ட்ஸ்"
             }
           }
         }

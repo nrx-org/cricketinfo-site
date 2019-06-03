@@ -1,11 +1,11 @@
 {
-  "title": "Sunrisers Hyderabad",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sunrisers_Hyderabad",
+  "title": "சன்ரைஸர்ஸ் ஹைதராபாத்",
+  "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AE%A9%E0%AF%8D%E0%AE%B0%E0%AF%88%E0%AE%9A%E0%AE%B0%E0%AF%8D%E0%AE%B8%E0%AF%8D_%E0%AE%90%E0%AE%A4%E0%AE%B0%E0%AE%BE%E0%AE%AA%E0%AE%BE%E0%AE%A4%E0%AF%8D",
   "coverImage": {
     "url": "/static/images/master/Sunrisers_Hyderabad.svg",
-    "altText": "Image of Sunrisers Hyderabad"
+    "altText": "Image of சன்ரைஸர்ஸ் ஹைதராபாத்"
   },
-  "summary": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL)",
+  "summary": "சன் ரைசர்ஸ் ஹைதராபாத் (பெரும்பாலும் எஸ்ஆர்எச் என சுருக்கமாக அழைக்கப்படுகிறது) என்பது ஐதராபாத், தெலுங்கானாவை அடிப்படையாகக் கொண்ட ஐபிஎல் பிரீமியர் லீக்கில் ஆடும் உரிமம் பெற்ற ஒரு கிரிக்கெட் அணி,",
   "translations": [
     {
       "lang": "en",
@@ -26,7 +26,7 @@
         {
           "label": "Location",
           "value": {
-            "label": "Hyderabad"
+            "label": "ஹைதராபாத்"
           }
         },
         {
@@ -38,7 +38,7 @@
         {
           "label": "Association",
           "value": {
-            "label": "Indian Premier League"
+            "label": ""
           }
         }
       ]
@@ -73,11 +73,11 @@
         {
           "label": "டி20 கேப்டன்",
           "value": {
-            "label": "Kane Williamson",
-            "url": null,
+            "label": "கேன் வில்லியம்சன்",
+            "url": "/read/ta/kane_williamson",
             "image": {
               "url": "/static/images/master/Kane_Williamson_28977366799129.jpg",
-              "altText": "Image of Kane Williamson",
+              "altText": "Image of கேன் வில்லியம்சன்",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
@@ -85,11 +85,11 @@
         {
           "label": "பயிற்சியாளர்",
           "value": {
-            "label": "Tom Moody",
+            "label": "டாம் மூடி",
             "url": null,
             "image": {
               "url": "/static/images/master/Tom_Moody_Sunrisers.jpg",
-              "altText": "Image of Tom Moody"
+              "altText": "Image of டாம் மூடி"
             }
           }
         }
@@ -97,16 +97,16 @@
     },
     {
       "title": "பிரபலமான மைதானம்",
-      "id": "r12-rajiv_gandhi_international_cricket_stadium",
+      "id": "r12-ராஜீவ்_காந்தி_சர்வதேசக்_கிரிக்கெட்_ஸ்டேடியம்,_ஹைதராபாத்",
       "cardType": "simple",
       "facts": [
         {
-          "label": "Rajiv Gandhi International Cricket Stadium",
+          "label": "ராஜீவ் காந்தி சர்வதேசக் கிரிக்கெட் ஸ்டேடியம், ஹைதராபாத்",
           "value": {
-            "label": "The Rajiv Gandhi International Cricket Stadium is the principal cricket stadium in Hyderabad, Telangana, India and is the home ground of the Hyderabad Cricket Association.  It is located in Uppal, an eastern suburb of the city. It has a capacity of 55,000.",
+            "label": "ராஜீவ் காந்தி இண்டர்நேஷனல் கிரிக்கெட் ஸ்டேடியம் இந்தியாவின் தெலுங்கானாவில் உள்ள ஹைதராபாத்தில் அமைந்திருக்கும் முதன்மை கிரிக்கெட் மைதானம் என்பதுடன் அது ஹைதராபாத் கிரிக்கெட் அசோஸியேஷனின் சொந்த மைதானமாகவும் விளங்குகிறது. இது அந்த நகரத்தின் கிழக்குப்புற புறநகரான உப்பாலில் அமைந்துள்ளது. இது 55,000 பேர் அமரும் வசதி கொண்டது.",
             "image": {
               "url": "/static/images/master/RGIS_HYD.jpg",
-              "altText": "Image of Rajiv Gandhi International Cricket Stadium"
+              "altText": "Image of ராஜீவ் காந்தி சர்வதேசக் கிரிக்கெட் ஸ்டேடியம், ஹைதராபாத்"
             }
           }
         }
@@ -117,29 +117,29 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "Initial years",
+          "label": "ஆரம்ப வருடங்கள்",
           "id": 3,
           "note": "2013-2014",
           "value": {
-            "label": "Sunrisers Hyderabad made their IPL debut in the 2013 season. The team reached the playoffs but were eliminated after losing against Rajasthan Royals.",
+            "label": "சன்ரைஸர்ஸ் ஐதராபாத் ஐபிஎல் தொடரில் 2013 சீசனில் அறிமுகமானது. இந்த அணி ப்ளேஆஃப் சுற்று வரை சென்று ராஜஸ்தான் ராயல்ஸ் அணிக்கெதிரான ஆட்டத்தில் தோற்று வெளியேறியது.",
             "facts": []
           }
         },
         {
-          "label": "Maiden title and success",
+          "label": "முதல் தலைப்பு மற்றும் வெற்றி",
           "id": 3,
           "note": "2015–2017",
           "value": {
-            "label": "For the 2015 season, David Warner was appointed as the captain for this season and led the team in all matches played. Warner won the first Orange Cap for Sunrisers Hyderabad.",
+            "label": "2015 பருவத்தில், டேவிட் வார்னர் இந்த பருவத்தின் கேப்டனாக நியமிக்கப்பட்டார் மற்றும் அணி அனைத்து போட்டிகளிலும் அணிக்கு வழிவகுத்தது. சன்ரைஸர்ஸ் ஹைதராபாதில் முதல் ஆரஞ்சு காப்பை வார்னர் வென்றார்.",
             "facts": []
           }
         },
         {
-          "label": "Runners Up",
+          "label": "ரன்னர்ஸ் அப்",
           "id": 3,
           "note": "2018",
           "value": {
-            "label": "SRH finished the 2018 season as runners-up of the competition after losing to Chennai Super Kings in the final. Williamson won the Orange Cap with 735 runs.",
+            "label": "இறுதிப் போட்டியில் சென்னை சூப்பர் கிங்ஸ் அணிக்கெதிராக போட்டியிட்டு போட்டியிட்டு போட்டியிட்டு சல்மாவை 2018 பருவத்தில் SRH முடித்தார். வில்லியம்சன் ஆரஞ்சு காப்பை 735 ரன்கள் வித்தியாசத்தில் வென்றார்.",
             "facts": []
           }
         },
@@ -157,113 +157,12 @@
     {
       "title": "பிரபலமான வீரர்",
       "cardType": "stories",
-      "facts": [
-        {
-          "label": "David Warner",
-          "id": "david_warner",
-          "value": {
-            "url": null,
-            "label": "Warner is the first Australian cricketer in 132 years to be selected for a national team in any format without experience in first-class cricket.",
-            "image": {
-              "url": "/static/images/master/DAVID_WARNER_281170478245329.jpg",
-              "altText": "Image of David Warner",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
-            }
-          }
-        },
-        {
-          "label": "Kane Williamson",
-          "id": "kane_williamson",
-          "value": {
-            "url": null,
-            "label": "During the New Zealand vs Pakistan 2014 ODI series, Williamson donated his entire match fee for all five ODIs to the victims of the 2014 Peshawar school massacre. He bowls and bats right handed but writes left handed.",
-            "image": {
-              "altText": "Image of Kane Williamson",
-              "license": ""
-            }
-          }
-        },
-        {
-          "label": "Bhuvneshwar Kumar",
-          "id": "bhuvneshwar_kumar",
-          "value": {
-            "url": null,
-            "label": "After his five-wicket haul against South Africa in the first T20I in February 2018, Kumar became the first Indian bowler to take a five-wicket haul in all formats of the game.",
-            "image": {
-              "url": "/static/images/master/Bhuvneshwar_Kumar.jpg",
-              "altText": "Image of Bhuvneshwar Kumar"
-            }
-          }
-        },
-        {
-          "label": "Martin Guptill",
-          "id": "martin_guptill",
-          "value": {
-            "url": null,
-            "label": "Guptill is the first cricketer from New Zealand and the fifth overall to have scored a double century in a One Day International match and holds the current record for the highest individual score in Cricket World Cup matches.",
-            "image": {
-              "url": "/static/images/master/Martin_Guptill_2_28cropped29.jpg",
-              "altText": "Image of Martin Guptill",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
-            }
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "சாதனைகள் & பதிவுகள்",
       "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2013 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Semi-finalists of the 2013 Indian Premier League",
-            "facts": []
-          }
-        },
-        {
-          "label": "2015 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Winner of Orange Cap (David Warner – 562 runs)",
-            "facts": []
-          }
-        },
-        {
-          "label": "2016 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Champions of the 2016 Indian Premier League",
-            "facts": []
-          }
-        },
-        {
-          "label": "2017 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Winner of Purple Cap (Bhuvneshwar Kumar – 26 wickets)",
-            "facts": [
-              {
-                "label": "O15",
-                "id": "2017_indian_premier_league-o15",
-                "url": null,
-                "value": {
-                  "label": null,
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2017 Indian Premier League"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "வழங்குநர்கள்",
@@ -272,21 +171,19 @@
       "facts": [
         {
           "value": {
-            "label": "TYKA Sports",
+            "label": "TYKA விளையாட்டு",
             "url": null,
             "image": {
-              "url": "/static/images/master/TYKASports_logo.png",
-              "altText": "Image of TYKA Sports"
+              "altText": "Image of TYKA விளையாட்டு"
             }
           }
         },
         {
-          "label": "Shirt Sponsor (Front)",
+          "label": "ஷர்ட் ஸ்பான்சர் (முன்னணி)",
           "value": {
             "label": "Coolwinks.com",
             "url": null,
             "image": {
-              "url": "",
               "altText": "Image of Coolwinks.com"
             }
           }

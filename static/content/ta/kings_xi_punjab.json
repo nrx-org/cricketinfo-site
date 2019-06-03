@@ -1,11 +1,11 @@
 {
-  "title": "Kings XI Punjab",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kings_XI_Punjab",
+  "title": "கிங்ஸ் லெவன் பஞ்சாப்",
+  "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%BF%E0%AE%99%E0%AF%8D%E0%AE%9A%E0%AF%81_%E0%AE%87%E0%AE%B2%E0%AF%86%E0%AE%B5%E0%AE%A9%E0%AF%8D_%E0%AE%AA%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE%E0%AE%AA%E0%AF%81",
   "coverImage": {
     "url": "/static/images/master/Kings_XI_Punjab_logo.svg",
-    "altText": "Image of Kings XI Punjab"
+    "altText": "Image of கிங்ஸ் லெவன் பஞ்சாப்"
   },
-  "summary": "The Kings XI Punjab (KXIP) are a franchise cricket team based in Mohali (Chandigarh CR), Punjab, that plays in the Indian Premier League. ",
+  "summary": "கிங்ஸ் லெவன் பஞ்சாப் (கே11பி) என்பது மொஹலி (சண்டிகர் சிஆர்), பஞ்சாப்பை அடிப்படையாகக் கொண்ட, இந்திய ஐபிஎல் லீக்கில் ஆடும் ஒரு உரிமம் பெற்ற கிரிக்கெட் அணியாகும்.",
   "translations": [
     {
       "lang": "en",
@@ -26,7 +26,7 @@
         {
           "label": "Location",
           "value": {
-            "label": "Mohali"
+            "label": "பஞ்சாப்"
           }
         },
         {
@@ -38,7 +38,7 @@
         {
           "label": "Association",
           "value": {
-            "label": "Indian Premier League"
+            "label": ""
           }
         }
       ]
@@ -73,11 +73,11 @@
         {
           "label": "டி20 கேப்டன்",
           "value": {
-            "label": "Ravichandran Ashwin",
+            "label": "ரவிச்சந்திரன் அஸ்வின்",
             "url": "/read/ta/suresh_raina",
             "image": {
               "url": "/static/images/master/Ravichandran_Ashwin_28cropped29.jpg",
-              "altText": "Image of Ravichandran Ashwin",
+              "altText": "Image of ரவிச்சந்திரன் அஸ்வின்",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
             }
           }
@@ -85,11 +85,11 @@
         {
           "label": "பயிற்சியாளர்",
           "value": {
-            "label": "Mike Hesson",
+            "label": "மைக் ஹெஸ்ஸன்",
             "url": null,
             "image": {
               "url": "",
-              "altText": "Image of Mike Hesson"
+              "altText": "Image of மைக் ஹெஸ்ஸன்"
             }
           }
         }
@@ -97,16 +97,16 @@
     },
     {
       "title": "பிரபலமான மைதானம்",
-      "id": "r9-mohali_stadium",
+      "id": "r9-பிசிஏ_ஸ்டேடியம்,_மொஹாலி",
       "cardType": "simple",
       "facts": [
         {
-          "label": "Mohali Stadium",
+          "label": "பிசிஏ ஸ்டேடியம், மொஹாலி",
           "value": {
-            "label": "The Punjab Cricket Association Inderjit Singh Bindra Stadium is a cricket ground located in Mohali, Chandigarh CR. It is popularly referred to as the Mohali Stadium. The stadium is home to the Punjab team. The stadium has an official capacity of 26,950 spectators.",
+            "label": "பஞ்சாப் கிரிக்கெட் கூட்டமைப்பு இந்திரஜித் சிங் பிந்த்ரா ஸ்டேடியமானது சண்டிகர் சிஆர், மொஹாலியில் அமைந்துள்ள கிரிக்கெட் மைதானமாகும். இது மொஹாலி ஸ்டேடியம் என பிரபலமாக குறிப்பிடுகிறது. இது பஞ்சாப் அணியின் சொந்த ஸ்டேடியமாகும். இந்த ஸ்டேடியம் 26,950 பார்வையாளர்கள் அமரும் வசதி கொண்டது. ",
             "image": {
               "url": "/static/images/master/LightsMohali.png",
-              "altText": "Image of Mohali Stadium"
+              "altText": "Image of பிசிஏ ஸ்டேடியம், மொஹாலி"
             }
           }
         }
@@ -117,38 +117,38 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "First IPL match",
+          "label": "முதல் ஐபிஎல் போட்டி",
           "id": 3,
           "note": "2008",
           "value": {
-            "label": "Captained by Yuvraj Singh, Kings XI Punjab finished third in the 2008 IPL.",
+            "label": "தொடக்க ஐபிஎல் போட்டியில் ஷான் மார்ஷ் கிங் லெவன் பஞ்சாப்பின் நட்சத்திர வீரராக இருந்தார். அவர் ஆரஞ்சுத் தொப்பியை வென்று போட்டியை முடித்தார்",
             "facts": []
           }
         },
         {
-          "label": "Strong team",
+          "label": "வலுவான அணி",
           "id": 3,
           "note": "2011",
           "value": {
-            "label": "IPL 2011 looked promising when they bought a full strength team with Michael Bevan as coach and Adam Gilchrist appointed as captain.",
+            "label": "ஐபிஎல் 2011 பயிற்சியாளராக மைக்கேல் பேவன் உடன் ஆல் கில்கிறிஸ்ட் நியமிக்கப்பட்டபோது, ​​முழு அணித்தலைமை அணிக்கு கேப்டன் நியமிக்கப்பட்டார்.",
             "facts": []
           }
         },
         {
-          "label": "New head coach",
+          "label": "புதிய தலைமை பயிற்சியாளர்",
           "id": 3,
           "note": "2017",
           "value": {
-            "label": "Virender Sehwag joined as head coach as the team looked to recover from two back-to-back last-place finishes in the league. He appointed Glenn Maxwell as the captain.",
+            "label": "லீக்கில் இரு முதுகில் இருந்து கடைசி இடங்களை கைப்பற்றும் அணிக்கு பயிற்சியாளராக இருந்த விரேந்தர் சேவாக் தலைமை பயிற்சியாளராக சேர்ந்தார். கேப்டன் க்ளென் மேக்ஸ்வெல் நியமிக்கப்பட்டார்.",
             "facts": []
           }
         },
         {
-          "label": "International players",
+          "label": "சர்வதேச வீரர்கள்",
           "id": 3,
           "note": "2018",
           "value": {
-            "label": "Kings XI Punjab squad for the 2018 IPL season included internationals such as Ravichandran Ashwin, Yuvraj Singh, KL Rahul, Aaron Finch and Chris Gayle. ",
+            "label": "கிங்ஸ் லெவன் பஞ்சாப் அணி 2018 ஐபிஎல் பருவத்தில் ரவிச்சந்திரன் அஸ்வின், யுவராஜ் சிங், கே.எல். ராகுல், ஆரோன் பிஞ்ச் மற்றும் கிறிஸ் கெய்ல் ஆகியோர் உள்ளனர்.",
             "facts": []
           }
         }
@@ -157,82 +157,12 @@
     {
       "title": "பிரபலமான வீரர்",
       "cardType": "stories",
-      "facts": [
-        {
-          "label": "Chris Gayle",
-          "id": "chris_gayle",
-          "value": {
-            "url": null,
-            "label": "Christopher Henry Gayle, OD (born 21 September 1979) is a Jamaican cricketer who plays international cricket for the West Indies. He plays domestic cricket for Jamaica, and also represents the Kings XI Punjab in the Indian Premier League.",
-            "image": {
-              "url": "/static/images/master/ChrisGayle_Cropped.jpg",
-              "altText": "Image of Chris Gayle"
-            }
-          }
-        },
-        {
-          "label": "KL Rahul",
-          "id": "kl_rahul",
-          "value": {
-            "url": null,
-            "label": "Kannur Lokesh Rahul commonly known as KL Rahul, is an Indian cricketer. A top-order batsman and occasional wicket-keeper, he plays for India internationally, Karnataka in domestic circuit and Kings XI Punjab in the Indian Premier League.",
-            "image": {
-              "url": "/static/images/master/KL_Rahul_at_Femina_Miss_India_2018_Grand_Finale_28cropped29.jpg",
-              "altText": "Image of KL Rahul",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
-            }
-          }
-        },
-        {
-          "label": "Moises Henriques",
-          "id": "moises_henriques",
-          "value": {
-            "url": null,
-            "label": "Moises Constantino Henriques is a Portugal-born Australian professional cricketer. He was the first cricketer born in Portugal to play for Australia in an international match",
-            "image": {
-              "url": "/static/images/master/Moises_Henriques_with_the_Sydney_Sixers.jpg",
-              "altText": "Image of Moises Henriques"
-            }
-          }
-        },
-        {
-          "label": "Andrew Tye",
-          "id": "andrew_tye",
-          "value": {
-            "url": null,
-            "label": "Andrew James Tye  is an Australian cricketer who plays One Day Internationals (ODIs) and Twenty20 Internationals (T20Is) for the Australian national cricket team.",
-            "image": {
-              "url": "/static/images/master/2018.02.03.20.38.56-AUSvNZL_T20_NZL_innings2C_SCG-0001_283861820589029_28Tye_cropped29.jpg",
-              "altText": "Image of Andrew Tye",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
-            }
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "சாதனைகள் & பதிவுகள்",
       "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2008 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Captained by Yuvraj Singh, Kings XI Punjab finished third in the 2008 IPL.",
-            "facts": []
-          }
-        },
-        {
-          "label": "2014 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Captained by George Bailey, Kings XI Punjab finished runners-up in the IPL and qualified for the Champions League T20 for the first time.",
-            "facts": []
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "வழங்குநர்கள்",
@@ -241,23 +171,20 @@
       "facts": [
         {
           "value": {
-            "label": "Aaj Tak",
+            "label": "ஆஜ் தக்",
             "url": null,
             "image": {
-              "url": "/static/images/master/Aaj_tak_logo.png",
-              "altText": "Image of Aaj Tak"
+              "altText": "Image of ஆஜ் தக்"
             }
           }
         },
         {
-          "label": "Shirt Sponsor (Back)",
+          "label": "ஷர்ட் ஸ்பான்சர் (பேக்)",
           "value": {
             "label": "Jio",
             "url": null,
             "image": {
-              "url": "/static/images/master/Reliance_Jio_Logo_28October_201529.svg",
-              "altText": "Image of Jio",
-              "license": ""
+              "altText": "Image of Jio"
             }
           }
         }

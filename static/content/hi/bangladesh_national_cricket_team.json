@@ -1,6 +1,6 @@
 {
   "title": "बांग्लादेश की राष्ट्रीय क्रिकेट टीम",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bangladesh_national_cricket_team",
+  "wikipediaUrl": "",
   "coverImage": {
     "url": "/static/images/master/Flag_of_Bangladesh.svg",
     "altText": "Image of बांग्लादेश की राष्ट्रीय क्रिकेट टीम"
@@ -14,7 +14,7 @@
     },
     {
       "lang": "ta",
-      "title": "Bangladesh national cricket team",
+      "title": "வங்காளதேசக் தேசியக் கிரிக்கெட் அணி",
       "url": "/read/ta/bangladesh_national_cricket_team"
     }
   ],
@@ -32,7 +32,7 @@
         {
           "label": "Established on",
           "value": {
-            "label": ""
+            "label": "1977"
           }
         },
         {
@@ -51,11 +51,11 @@
         {
           "label": "टेस्ट कप्तान",
           "value": {
-            "label": "Shakib Al Hasan",
+            "label": "शाकिब अल हसन",
             "url": null,
             "image": {
               "url": "/static/images/master/Shakib_Al_Hasan_28429_28cropped29.jpg",
-              "altText": "Image of Shakib Al Hasan",
+              "altText": "Image of शाकिब अल हसन",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
             }
           }
@@ -63,11 +63,11 @@
         {
           "label": "अंतर्राष्ट्रीय वनडे कप्तान",
           "value": {
-            "label": "Mashrafe Mortaza",
+            "label": "मशरफे मुर्तजा",
             "url": null,
             "image": {
               "url": "/static/images/master/Mashrafe_Bin_Mortaza_28cropped29.jpg",
-              "altText": "Image of Mashrafe Mortaza",
+              "altText": "Image of मशरफे मुर्तजा",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
             }
           }
@@ -75,11 +75,11 @@
         {
           "label": "अंतर्राष्ट्रीय टी20 कप्तान",
           "value": {
-            "label": "Shakib Al Hasan",
+            "label": "शाकिब अल हसन",
             "url": null,
             "image": {
               "url": "/static/images/master/Shakib_Al_Hasan_28429_28cropped29.jpg",
-              "altText": "Image of Shakib Al Hasan",
+              "altText": "Image of शाकिब अल हसन",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
             }
           }
@@ -87,11 +87,11 @@
         {
           "label": "कोच",
           "value": {
-            "label": "Steve Rhodes",
+            "label": "स्टीव रोड्स",
             "url": null,
             "image": {
               "url": "/static/images/master/Steve_Rhodes_281429_28cropped29.jpg",
-              "altText": "Image of Steve Rhodes",
+              "altText": "Image of स्टीव रोड्स",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
             }
           }
@@ -100,16 +100,17 @@
     },
     {
       "title": "लोकप्रिय स्थल",
-      "id": "r18-sher-e-bangla_national_cricket_stadium",
+      "id": "r18-शेर-ए-बांग्ला_राष्ट्रीय_क्रिकेट_स्टेडियम",
       "cardType": "simple",
       "facts": [
         {
-          "label": "Sher-e-Bangla National Cricket Stadium",
+          "label": "शेर-ए-बांग्ला राष्ट्रीय क्रिकेट स्टेडियम",
           "value": {
-            "label": "The Sher-e-Bangla National Cricket Stadium (SBNCS), also called Mirpur Stadium, is a cricket ground in Dhaka, the capital of Bangladesh. The ground holds approximately 25,000 people. The venue was taken over by the Bangladesh Cricket Board in 2004, as the home of both the men's and women's national teams. ",
+            "label": "शेर-ए-बांग्ला नेशनल क्रिकेट स्टेडियम (एसबीएनसीएस), जिसे मीरपुर स्टेडियम भी कहा जाता है, बांग्लादेश की राजधानी ढाका में अवस्थित एक क्रिकेट मैदान है। इसमें 25,000 लोगों के बैठने की क्षमता है। बांग्लादेश क्रिकेट बोर्ड ने वर्ष 2004 में इसे पुरुष और महिला राष्ट्रीय टीमों के घरेलू मैदान के रूप में लिया था।",
             "image": {
-              "url": "",
-              "altText": "Image of Sher-e-Bangla National Cricket Stadium"
+              "url": "/static/images/master/Ispahani_End2C_Sher-e-Bangla_Cricket_Stadium.jpg",
+              "altText": "Image of शेर-ए-बांग्ला राष्ट्रीय क्रिकेट स्टेडियम",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
             }
           }
         }
@@ -120,38 +121,38 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "Bangladesh Cricket Board",
+          "label": "बांग्लादेश क्रिकेट बोर्ड",
           "id": 3,
           "note": "1972-1977",
           "value": {
-            "label": "In 1972, the government created the Bangladesh Cricket Board, then called the Bangladesh Cricket Control Board, with a directive to organise cricket in the new country. ",
+            "label": "सरकार ने वर्ष 1972 में बांग्लादेश क्रिकेट बोर्ड बनाया। जिसे नए देश में क्रिकेट आयोजन के दिशा-निर्देशों के साथ बांग्लादेश क्रिकेट कंट्रोल बोर्ड का नाम दिया गया।",
             "facts": []
           }
         },
         {
-          "label": "International match with Sri Lanka",
+          "label": "श्रीलंका के साथ अंतरराष्ट्रीय मैच",
           "id": 3,
           "note": "1978",
           "value": {
-            "label": "The first full international team to visit Bangladesh was Sri Lanka in January 1978. Sri Lanka was then close to ICC Full Member status (achieved in 1982) and their higher standard was underlined by a series of innings victories in the three international matches against Bangladesh. ",
+            "label": "बांग्लादेश का दौरा करने वाली पहली पूर्ण अंतर्राष्ट्रीय टीम जनवरी 1978 में श्रीलंका थी। तब श्रीलंका आईसीसी पूर्ण सदस्य का दर्जा (1982 में हासिल) के करीब थी और बांग्लादेश के खिलाफ तीन अंतरराष्ट्रीय मैचों में पारी की जीत वाली श्रृंखला ने उसे उच्च श्रेणी की टीम के रूप में पहचान दिलाई।",
             "facts": []
           }
         },
         {
-          "label": "1979–80 season",
+          "label": "सत्र 1979-80",
           "id": 3,
           "note": "1979-1980",
           "value": {
-            "label": "Pakistan visited Bangladesh for the first time. It was eight years after the end of the Liberation War but tensions were still evident. ",
+            "label": "पाकिस्तान ने पहली बार बांग्लादेश का दौरा किया था। वह मुक्ति युद्घ के करीब आठ साल बाद था, लेकिन तनाव तब भी बरकरार था।",
             "facts": []
           }
         },
         {
-          "label": "1999 Cricket World Cup",
+          "label": "क्रिकेट विश्व कप- 1999",
           "id": 3,
           "note": "1999",
           "value": {
-            "label": "The Bangladesh team played in the Cricket World Cup for the first time, having qualified by winning the 1997 ICC Trophy, for the 1999 tournament in Great Britain.",
+            "label": "बांग्लादेश की टीम पहली बार क्रिकेट विश्व कप में खेली। उन्होंने वर्ष 1997 में आईसीसी ट्रॉफी जीतकर वर्ष 1999 में ग्रेट ब्रिटेन में आयोजित होने वाले टूर्नामेंट के लिए क्वालीफाई किया था।",
             "facts": []
           }
         }
@@ -160,127 +161,12 @@
     {
       "title": "प्रसिद्ध खिलाड़ी",
       "cardType": "stories",
-      "facts": [
-        {
-          "label": "Mashrafe Mortaza",
-          "id": "mashrafe_mortaza",
-          "value": {
-            "url": null,
-            "label": "In April 2019, he was named as the captain of Bangladesh's squad for the 2019 Cricket World Cup.",
-            "image": {
-              "url": "/static/images/master/Mashrafe_Bin_Mortaza_28cropped29.jpg",
-              "altText": "Image of Mashrafe Mortaza",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
-            }
-          }
-        },
-        {
-          "label": "Shakib Al Hasan",
-          "id": "shakib_al_hasan",
-          "value": {
-            "url": null,
-            "label": "Shakib Al Hasan is a Bangladeshi international cricketer who currently captains the Bangladesh national team in Test and T20I formats. He is considered as the best and greatest cricketer to have ever played for Bangladesh.",
-            "image": {
-              "url": "/static/images/master/Shakib_Al_Hasan_28429_28cropped29.jpg",
-              "altText": "Image of Shakib Al Hasan",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
-            }
-          }
-        },
-        {
-          "label": "Mushfiqur Rahim",
-          "id": "mushfiqur_rahim",
-          "value": {
-            "url": null,
-            "label": "Mohammad Mushfiqur Rahim is a Bangladeshi cricketer and the former captain of the Bangladesh national cricket team.He holds the record for highest score by a test Bangladesh batsman.",
-            "image": {
-              "url": "/static/images/master/Mushfiqur_Rahim_2009_28cropped29.jpg",
-              "altText": "Image of Mushfiqur Rahim",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
-            }
-          }
-        },
-        {
-          "label": "Tamim Iqbal",
-          "id": "tamim_iqbal",
-          "value": {
-            "url": null,
-            "label": "Muhammad Tamim Iqbal Khan is a Bangladeshi international cricketer. A left-handed opening batsman, he is the Bangladeshi's most successful runscorer to date. ",
-            "image": {
-              "url": "/static/images/master/Tamim-Iqbal-wt20.png",
-              "altText": "Image of Tamim Iqbal"
-            }
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "उपलब्धियां और रिकॉर्ड",
       "cardType": "list_card",
-      "facts": [
-        {
-          "label": "1999 Cricket World Cup",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "They appeared for the first time in World Cup in the 1999 Cricket World Cup as an associate team. ",
-            "facts": []
-          }
-        },
-        {
-          "label": "2007 Cricket World Cup",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Bangladesh enjoyed a good tournament with two great wins against India and South Africa.",
-            "facts": [
-              {
-                "label": "2007 क्रिकेट विश्व कप",
-                "id": "2007_cricket_world_cup-",
-                "url": "/read/hi/2007_cricket_world_cup",
-                "value": {
-                  "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2007 Cricket World Cup"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2011 Cricket World Cup",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Bangladesh was a co-host with India for the 2011 Cricket World Cup.",
-            "facts": [
-              {
-                "label": "2011 क्रिकेट विश्व कप",
-                "id": "2011_cricket_world_cup-",
-                "url": "/read/hi/2011_cricket_world_cup",
-                "value": {
-                  "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2011 Cricket World Cup"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "All-rounder category number 1",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Shakib Al Hasan became the first player in history to hold the number 1 positions in all three formats of cricket, in the all-rounder category on 12 January 2015.",
-            "facts": []
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "प्रायोजक",
@@ -289,11 +175,10 @@
       "facts": [
         {
           "value": {
-            "label": "Grameenphone",
+            "label": "ग्रामीनफोन",
             "url": null,
             "image": {
-              "url": "/static/images/master/Grameephone_Logo.png",
-              "altText": "Image of Grameenphone"
+              "altText": "Image of ग्रामीनफोन"
             }
           }
         }

@@ -1,6 +1,6 @@
 {
   "title": "किंग्स इलेवन पंजाब",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kings_XI_Punjab",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%BF%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B8_%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%B5%E0%A4%A8_%E0%A4%AA%E0%A4%82%E0%A4%9C%E0%A4%BE%E0%A4%AC",
   "coverImage": {
     "url": "/static/images/master/Kings_XI_Punjab_logo.svg",
     "altText": "Image of किंग्स इलेवन पंजाब"
@@ -14,7 +14,7 @@
     },
     {
       "lang": "ta",
-      "title": "Kings XI Punjab",
+      "title": "கிங்ஸ் லெவன் பஞ்சாப்",
       "url": "/read/ta/kings_xi_punjab"
     }
   ],
@@ -73,11 +73,11 @@
         {
           "label": "अंतर्राष्ट्रीय टी20 कप्तान",
           "value": {
-            "label": "Ravichandran Ashwin",
+            "label": "रविचंद्रन अश्विन",
             "url": "/read/hi/suresh_raina",
             "image": {
               "url": "/static/images/master/Ravichandran_Ashwin_28cropped29.jpg",
-              "altText": "Image of Ravichandran Ashwin",
+              "altText": "Image of रविचंद्रन अश्विन",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
             }
           }
@@ -85,11 +85,11 @@
         {
           "label": "कोच",
           "value": {
-            "label": "Mike Hesson",
+            "label": "माइक हेसन",
             "url": null,
             "image": {
               "url": "",
-              "altText": "Image of Mike Hesson"
+              "altText": "Image of माइक हेसन"
             }
           }
         }
@@ -97,16 +97,16 @@
     },
     {
       "title": "लोकप्रिय स्थल",
-      "id": "r9-mohali_stadium",
+      "id": "r9-पीसीए_स्टेडियम,_मोहाली",
       "cardType": "simple",
       "facts": [
         {
-          "label": "Mohali Stadium",
+          "label": "पीसीए स्टेडियम, मोहाली",
           "value": {
-            "label": "The Punjab Cricket Association Inderjit Singh Bindra Stadium is a cricket ground located in Mohali, Chandigarh CR. It is popularly referred to as the Mohali Stadium. The stadium is home to the Punjab team. The stadium has an official capacity of 26,950 spectators.",
+            "label": "पंजाब क्रिकेट एसोसिएशन इंद्रजीत सिंह बिंद्रा स्टेडियम, चंडीगढ़, राजधानी क्षेत्र के मोहाली में स्थित एक क्रिकेट मैदान है। इसे मोहाली स्टेडियम के नाम से भी जाना जाता है। यह स्टेडियम पंजाब टीम का घरेलू मैदान है। स्टेडियम में 26,950 दर्शकों के बैठने की क्षमता है।",
             "image": {
               "url": "/static/images/master/LightsMohali.png",
-              "altText": "Image of Mohali Stadium"
+              "altText": "Image of पीसीए स्टेडियम, मोहाली"
             }
           }
         }
@@ -117,38 +117,38 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "First IPL match",
+          "label": "पहला आईपीएल मैच",
           "id": 3,
           "note": "2008",
           "value": {
-            "label": "Captained by Yuvraj Singh, Kings XI Punjab finished third in the 2008 IPL.",
+            "label": "युवराज सिंह की कप्तानी में किंग्स इलेवन पंजाब ने आईपीएल 2008 में तीसरे स्थान पर रहा। ",
             "facts": []
           }
         },
         {
-          "label": "Strong team",
+          "label": "मजबूत टीम",
           "id": 3,
           "note": "2011",
           "value": {
-            "label": "IPL 2011 looked promising when they bought a full strength team with Michael Bevan as coach and Adam Gilchrist appointed as captain.",
+            "label": "इन्होंने आईपीएल 2011 में बुद्घिमानी दिखाई और कोच के रूप में माइकल बेवन के साथ बेहद मजबूत टीम खरीदी और कप्तान के रूप में एडम गिलक्रिस्ट को नियुक्त किया।",
             "facts": []
           }
         },
         {
-          "label": "New head coach",
+          "label": "नया मुख्य कोच",
           "id": 3,
           "note": "2017",
           "value": {
-            "label": "Virender Sehwag joined as head coach as the team looked to recover from two back-to-back last-place finishes in the league. He appointed Glenn Maxwell as the captain.",
+            "label": "लीग के लगातार दो संस्करणों में अंतिम स्थान पर रहने के बाद उभरने की तैयारी में लगी टीम में वीरेन्द्र सहवाग मुख्य कोच के रूप में शामिल हुए। उन्होंने ग्लेन मैक्सवेल को कप्तान नियुक्त किया था।",
             "facts": []
           }
         },
         {
-          "label": "International players",
+          "label": "अंतरराष्ट्रीय खिलाड़ी",
           "id": 3,
           "note": "2018",
           "value": {
-            "label": "Kings XI Punjab squad for the 2018 IPL season included internationals such as Ravichandran Ashwin, Yuvraj Singh, KL Rahul, Aaron Finch and Chris Gayle. ",
+            "label": "2018 आईपीएल सीजन के लिए किंग्स इलेवन, पंजाब की टीम में रविचंद्रन अश्विन, युवराज सिंह, केएल राहुल, एरॉन फिंच और क्रिस गेल जैसे अंतरराष्ट्रीय खिलाड़ी शामिल थे।",
             "facts": []
           }
         }
@@ -157,82 +157,12 @@
     {
       "title": "प्रसिद्ध खिलाड़ी",
       "cardType": "stories",
-      "facts": [
-        {
-          "label": "Chris Gayle",
-          "id": "chris_gayle",
-          "value": {
-            "url": null,
-            "label": "Christopher Henry Gayle, OD (born 21 September 1979) is a Jamaican cricketer who plays international cricket for the West Indies. He plays domestic cricket for Jamaica, and also represents the Kings XI Punjab in the Indian Premier League.",
-            "image": {
-              "url": "/static/images/master/ChrisGayle_Cropped.jpg",
-              "altText": "Image of Chris Gayle"
-            }
-          }
-        },
-        {
-          "label": "KL Rahul",
-          "id": "kl_rahul",
-          "value": {
-            "url": null,
-            "label": "Kannur Lokesh Rahul commonly known as KL Rahul, is an Indian cricketer. A top-order batsman and occasional wicket-keeper, he plays for India internationally, Karnataka in domestic circuit and Kings XI Punjab in the Indian Premier League.",
-            "image": {
-              "url": "/static/images/master/KL_Rahul_at_Femina_Miss_India_2018_Grand_Finale_28cropped29.jpg",
-              "altText": "Image of KL Rahul",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
-            }
-          }
-        },
-        {
-          "label": "Moises Henriques",
-          "id": "moises_henriques",
-          "value": {
-            "url": null,
-            "label": "Moises Constantino Henriques is a Portugal-born Australian professional cricketer. He was the first cricketer born in Portugal to play for Australia in an international match",
-            "image": {
-              "url": "/static/images/master/Moises_Henriques_with_the_Sydney_Sixers.jpg",
-              "altText": "Image of Moises Henriques"
-            }
-          }
-        },
-        {
-          "label": "Andrew Tye",
-          "id": "andrew_tye",
-          "value": {
-            "url": null,
-            "label": "Andrew James Tye  is an Australian cricketer who plays One Day Internationals (ODIs) and Twenty20 Internationals (T20Is) for the Australian national cricket team.",
-            "image": {
-              "url": "/static/images/master/2018.02.03.20.38.56-AUSvNZL_T20_NZL_innings2C_SCG-0001_283861820589029_28Tye_cropped29.jpg",
-              "altText": "Image of Andrew Tye",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
-            }
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "उपलब्धियां और रिकॉर्ड",
       "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2008 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Captained by Yuvraj Singh, Kings XI Punjab finished third in the 2008 IPL.",
-            "facts": []
-          }
-        },
-        {
-          "label": "2014 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Captained by George Bailey, Kings XI Punjab finished runners-up in the IPL and qualified for the Champions League T20 for the first time.",
-            "facts": []
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "प्रायोजक",
@@ -241,23 +171,20 @@
       "facts": [
         {
           "value": {
-            "label": "Aaj Tak",
+            "label": "आज तक",
             "url": null,
             "image": {
-              "url": "/static/images/master/Aaj_tak_logo.png",
-              "altText": "Image of Aaj Tak"
+              "altText": "Image of आज तक"
             }
           }
         },
         {
-          "label": "Shirt Sponsor (Back)",
+          "label": "शर्ट प्रायोजक (पीठ)",
           "value": {
-            "label": "Jio",
+            "label": "जियो",
             "url": null,
             "image": {
-              "url": "/static/images/master/Reliance_Jio_Logo_28October_201529.svg",
-              "altText": "Image of Jio",
-              "license": ""
+              "altText": "Image of जियो"
             }
           }
         }

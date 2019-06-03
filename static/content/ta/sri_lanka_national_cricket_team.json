@@ -1,11 +1,11 @@
 {
-  "title": "Sri Lanka national cricket team",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sri_Lanka_national_cricket_team",
+  "title": "இலங்கை தேசியக் கிரிக்கெட் அணி",
+  "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AF%81%E0%AE%9F%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F_%E0%AE%85%E0%AE%A3%E0%AE%BF",
   "coverImage": {
     "url": "/static/images/master/Sri_Lanka_Cricket_Cap_Insignia.svg",
-    "altText": "Image of Sri Lanka national cricket team"
+    "altText": "Image of இலங்கை தேசியக் கிரிக்கெட் அணி"
   },
-  "summary": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
+  "summary": "இலங்கை தேசியக் கிரிக்கெட் அணி, தி லயன்ஸ் எனப் பெயரிடப்பட்டு, சர்வதேசக் கிரிக்கெட்டில் இலங்கையைப் பிரதிநிதித்துவம் செய்கிறது. இது டெஸ்ட், ஒருநாள் சர்வதேசப் போட்டி மற்றும் சர்வதேச டி20 போட்டி அந்தஸ்தில் சர்வதேசக் கிரிக்கெட் கவுன்சிலின் (ஐசிசி) முழு உறுப்பினராக உள்ளது.",
   "translations": [
     {
       "lang": "en",
@@ -26,7 +26,7 @@
         {
           "label": "Location",
           "value": {
-            "label": "Sri Lanka"
+            "label": "இலங்கை"
           }
         },
         {
@@ -38,7 +38,7 @@
         {
           "label": "Association",
           "value": {
-            "label": "Sri Lanka Cricket"
+            "label": "இலங்கை கிரிக்கெட்"
           }
         }
       ]
@@ -51,33 +51,33 @@
         {
           "label": "டெஸ்ட் கேப்டன்",
           "value": {
-            "label": "Dimuth Karunaratne",
+            "label": "டிமுத் கருணாரட்ன",
             "url": null,
             "image": {
               "url": "",
-              "altText": "Image of Dimuth Karunaratne"
+              "altText": "Image of டிமுத் கருணாரட்ன"
             }
           }
         },
         {
           "label": "ஓடிஐ கேப்டன்",
           "value": {
-            "label": "Dimuth Karunaratne",
+            "label": "டிமுத் கருணாரட்ன",
             "url": null,
             "image": {
               "url": "",
-              "altText": "Image of Dimuth Karunaratne"
+              "altText": "Image of டிமுத் கருணாரட்ன"
             }
           }
         },
         {
           "label": "டி20 கேப்டன்",
           "value": {
-            "label": "Lasith Malinga",
+            "label": "லசித் மலிங்கா",
             "url": "/read/ta/lasith_malinga",
             "image": {
               "url": "/static/images/master/LASITH_MALINGA_28515517554929.jpg",
-              "altText": "Image of Lasith Malinga",
+              "altText": "Image of லசித் மலிங்கா",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
@@ -85,11 +85,11 @@
         {
           "label": "பயிற்சியாளர்",
           "value": {
-            "label": "Chandika Hathurusingha",
+            "label": "சண்டிகா ஹத்துருசிங்கா",
             "url": null,
             "image": {
               "url": "",
-              "altText": "Image of Chandika Hathurusingha"
+              "altText": "Image of சண்டிகா ஹத்துருசிங்கா"
             }
           }
         }
@@ -97,16 +97,16 @@
     },
     {
       "title": "பிரபலமான மைதானம்",
-      "id": "r13-galle_international_stadium",
+      "id": "r13-காலே_சர்வதேச_ஸ்டேடியம்",
       "cardType": "simple",
       "facts": [
         {
-          "label": "Galle International Stadium",
+          "label": "காலே சர்வதேச ஸ்டேடியம்",
           "value": {
-            "label": "Galle International Stadium is a cricket stadium in Galle, Sri Lanka, situated near the Galle fort and fringed on two sides by the Indian Ocean. It is considered to be one of the most picturesque cricket grounds in the world. ",
+            "label": "காலே கிரிக்கெட் ஸ்டேடியம் ஸ்ரீலங்காவின் காலேயில் உள்ள கிரிக்கெட் அரங்கமாகும், இது இருபக்கமும் இந்தியப் பெருங்கடல் சூழ காலே கோட்டைக்கு அருகாமையில் அமைந்திருக்கிறது. இது உலகின் மிகவும் காட்சிக்கினிய கிரிக்கெட் மைதானங்களுள் ஒன்றாக கருதப்படுகிறது.",
             "image": {
               "url": "/static/images/master/Sri_Lanka_vs_Pakistan_test_match.JPG",
-              "altText": "Image of Galle International Stadium"
+              "altText": "Image of காலே சர்வதேச ஸ்டேடியம்"
             }
           }
         }
@@ -117,38 +117,38 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": " Ceylon national cricket team",
+          "label": "இலங்கை தேசியக் கிரிக்கெட் அணி",
           "id": 3,
           "note": "1972",
           "value": {
-            "label": "Renamed Sri Lanka in 1972, the national team first competed in top level international cricket in 1975, when they played against West Indies during 1975 Cricket World Cup",
+            "label": "1972-இல் இலங்கை என பெயர் மாற்றம் செய்யப்பட்டது, 1975 உலகக் கோப்பையின் போது  மேற்கிந்திய தீவுகள் அணிகளுக்கு எதிராக ஆடிய போது, 1975-இல் தேசிய அணி முதன்முதலில் உயர் நிலை சர்வதேசக் கிரிக்கெட்டில் போட்டியிட்டது.",
             "facts": []
           }
         },
         {
-          "label": "First test win",
+          "label": "முதல் டெஸ்ட் வெற்றி",
           "id": 3,
           "note": "1981",
           "value": {
-            "label": "After Sri Lanka was awarded Test status in 21 July 1981 as eighth Test playing nation, they had to wait until 6 September 1985, where Sri Lanka recorded their first Test win by beating India",
+            "label": "1981 ஆம் ஆண்டு ஜூலை மாதம் 21 ஆம் திகதி இலங்கைக்கு டெஸ்ட் தரவரிசை வழங்கப்பட்ட பின்னர், 1985 ஆம் ஆண்டு செப்டம்பர் 6 ஆம் திகதி வரை இலங்கை காத்திருந்தது.",
             "facts": []
           }
         },
         {
-          "label": "1990s",
+          "label": "1990",
           "id": 3,
           "note": "1990s",
           "value": {
-            "label": "Sri Lanka had to wait for more than 7 years for their next series victory, which came against New Zealand in December 1992. ",
+            "label": "1992 ஆம் ஆண்டு டிசம்பரில் நியூசிலாந்திற்கு எதிராக வந்த அடுத்த தொடர் வெற்றிக்காக 7 வருடங்களுக்கும் மேல் இலங்கை காத்திருக்க வேண்டியிருந்தது.",
             "facts": []
           }
         },
         {
-          "label": "Comparison with other teams",
+          "label": "மற்ற அணிகள் ஒப்பிடுகையில்",
           "id": 3,
           "note": "2018",
           "value": {
-            "label": "Sri Lanka have registered more wins against Pakistan and Bangladesh than any other team, with 14.",
+            "label": "ஸ்ரீலங்கா, பாகிஸ்தான் மற்றும் பங்களாதேஷ் அணிகளுக்கு எதிராக இன்னும் அதிகமான வெற்றிகளை பதிவு செய்துள்ளது.",
             "facts": []
           }
         }
@@ -157,139 +157,12 @@
     {
       "title": "பிரபலமான வீரர்",
       "cardType": "stories",
-      "facts": [
-        {
-          "label": "Lasith Malinga",
-          "id": "lasith_malinga",
-          "value": {
-            "url": null,
-            "label": "Separamadu Lasith Malinga bowls right-arm fast-medium and, is commonly used as a specialist death bowler, which lead to his nicknames, \"Slinga Malinga\" and \"Malinga the Slinga\".",
-            "image": {
-              "url": "/static/images/master/LASITH_MALINGA_28515517554929.jpg",
-              "altText": "Image of Lasith Malinga",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
-            }
-          }
-        },
-        {
-          "label": "Dinesh Chandimal",
-          "id": "dinesh_chandimal",
-          "value": {
-            "url": null,
-            "label": "Chandimal holds the joint record for taking the most number of catches in a single T20I as a fielder.",
-            "image": {
-              "url": "/static/images/master/Dinesh_Chandimal_2.JPG",
-              "altText": "Image of Dinesh Chandimal"
-            }
-          }
-        },
-        {
-          "label": "Angelo Mathews",
-          "id": "angelo_mathews",
-          "value": {
-            "url": null,
-            "label": "Angelo Davis Mathews, is a professional Sri Lankan cricketer and a former captain in all formats.",
-            "image": {
-              "url": "/static/images/master/Angelo_Mathews_28533833446229.jpg",
-              "altText": "Image of Angelo Mathews",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
-            }
-          }
-        },
-        {
-          "label": "Thisara Perera",
-          "id": "thisara_perera",
-          "value": {
-            "url": null,
-            "label": "Thisara Perera, is a professional Sri Lankan cricketer. He was purchased by the Chennai Super Kings for US$50,000 in the auction for the 2010 Indian Premier League.",
-            "image": {
-              "url": "/static/images/master/Thisara_Perera.jpg",
-              "altText": "Image of Thisara Perera"
-            }
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "சாதனைகள் & பதிவுகள்",
       "cardType": "list_card",
-      "facts": [
-        {
-          "label": "1996 Cricket World Cup",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": " Winners of the 1996 Cricket World Cup, which they co-hosted with India & Pakistan",
-            "facts": []
-          }
-        },
-        {
-          "label": "Winners of the 2002 ICC Champions Trophy",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Joint winners of the 2002 ICC Champions Trophy, which they also hosted in their own right",
-            "facts": [
-              {
-                "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி",
-                "id": "winners_of_the_2002_icc_champions_trophy-",
-                "url": "/read/ta/icc_champions_trophy",
-                "value": {
-                  "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி என்பது இன்டர்நேஷனல் கிரிக்கெட் கவுன்சிலால் (ஐசிசி) நடத்தப்படும் ஒன் டே இன்டர்நேஷனல் (ODI) கிரிக்கெட் டோர்னமென்ட் ஆகும். இது கிரிக்கெட் உலகக்கோப்பைக்கு அடுத்தபடியாக முக்கியமாக கருதப்படும் டோர்னமென்ட் ஆகும். 2002-ஆம் ஆண்டு இதன் பெயர் சேம்பியன்ஸ் டிராஃபி என்று மாற்றப்பட்டது.",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of Winners of the 2002 ICC Champions Trophy"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2007 Cricket World Cup",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Runners up in the 2007 Cricket World Cup, hosted by the West Indies",
-            "facts": [
-              {
-                "label": "2007 கிரிக்கெட் உலகக் கோப்பை",
-                "id": "2007_cricket_world_cup-",
-                "url": "/read/ta/2007_cricket_world_cup",
-                "value": {
-                  "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2007 Cricket World Cup"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2011 Cricket World Cup",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Runners up of the 2011 Cricket World Cup, which they co-hosted with India & Bangladesh.",
-            "facts": [
-              {
-                "label": "P7",
-                "id": "2011_cricket_world_cup-p7",
-                "url": null,
-                "value": {
-                  "label": null,
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2011 Cricket World Cup"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "வழங்குநர்கள்",
@@ -298,22 +171,20 @@
       "facts": [
         {
           "value": {
-            "label": "Dilmah ",
+            "label": "டில்மா",
             "url": null,
             "image": {
-              "url": "/static/images/master/Dilmah-Logo.jpg",
-              "altText": "Image of Dilmah "
+              "altText": "Image of டில்மா"
             }
           }
         },
         {
-          "label": "Principal Sponsor, 2019 World Cup",
+          "label": "முதன்மையான ஸ்பான்சர், 2019 உலக கோப்பை",
           "value": {
-            "label": "Kent RO Systems",
+            "label": "கென்ட் RO சிஸ்டம்ஸ்",
             "url": null,
             "image": {
-              "url": "/static/images/master/KENT_Healthcare_Logo.jpg",
-              "altText": "Image of Kent RO Systems"
+              "altText": "Image of கென்ட் RO சிஸ்டம்ஸ்"
             }
           }
         }

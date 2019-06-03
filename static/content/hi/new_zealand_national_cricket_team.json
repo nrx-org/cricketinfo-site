@@ -1,6 +1,6 @@
 {
   "title": "न्यूजीलैंड की राष्ट्रीय क्रिकेट टीम",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Zealand_national_cricket_team",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9C%E0%A4%BC%E0%A5%80%E0%A4%B2%E0%A5%88%E0%A4%82%E0%A4%A1_%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%9F_%E0%A4%9F%E0%A5%80%E0%A4%AE",
   "coverImage": {
     "url": "/static/images/master/New_Zealand_Cricket_Cap_Insignia.svg",
     "altText": "Image of न्यूजीलैंड की राष्ट्रीय क्रिकेट टीम"
@@ -14,7 +14,7 @@
     },
     {
       "lang": "ta",
-      "title": "New Zealand national cricket team",
+      "title": "நியூசிலாந்து தேசியக் கிரிக்கெட் அணி",
       "url": "/read/ta/new_zealand_national_cricket_team"
     }
   ],
@@ -32,7 +32,7 @@
         {
           "label": "Established on",
           "value": {
-            "label": ""
+            "label": "1894"
           }
         },
         {
@@ -51,11 +51,11 @@
         {
           "label": "टेस्ट कप्तान",
           "value": {
-            "label": "Kane Williamson",
-            "url": null,
+            "label": "केन विलियमसन",
+            "url": "/read/hi/kane_williamson",
             "image": {
               "url": "/static/images/master/Kane_Williamson_28977366799129.jpg",
-              "altText": "Image of Kane Williamson",
+              "altText": "Image of केन विलियमसन",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
@@ -63,11 +63,11 @@
         {
           "label": "अंतर्राष्ट्रीय वनडे कप्तान",
           "value": {
-            "label": "Kane Williamson",
-            "url": null,
+            "label": "केन विलियमसन",
+            "url": "/read/hi/kane_williamson",
             "image": {
               "url": "/static/images/master/Kane_Williamson_28977366799129.jpg",
-              "altText": "Image of Kane Williamson",
+              "altText": "Image of केन विलियमसन",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
@@ -75,11 +75,11 @@
         {
           "label": "अंतर्राष्ट्रीय टी20 कप्तान",
           "value": {
-            "label": "Kane Williamson",
-            "url": null,
+            "label": "केन विलियमसन",
+            "url": "/read/hi/kane_williamson",
             "image": {
               "url": "/static/images/master/Kane_Williamson_28977366799129.jpg",
-              "altText": "Image of Kane Williamson",
+              "altText": "Image of केन विलियमसन",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
@@ -87,11 +87,11 @@
         {
           "label": "कोच",
           "value": {
-            "label": "Gary Stead",
+            "label": "गैरी स्टेड",
             "url": "/read/hi/gary_stead",
             "image": {
               "url": "",
-              "altText": "Image of Gary Stead"
+              "altText": "Image of गैरी स्टेड"
             }
           }
         }
@@ -99,16 +99,16 @@
     },
     {
       "title": "लोकप्रिय स्थल",
-      "id": "r15-eden_park",
+      "id": "r15-ईडन_पार्क",
       "cardType": "simple",
       "facts": [
         {
-          "label": "Eden Park",
+          "label": "ईडन पार्क",
           "value": {
-            "label": "Eden Park is New Zealand's largest sports stadium, located in central Auckland, New Zealand. It is used primarily for cricket in summer.",
+            "label": "ईडन पार्क न्यूजीलैंड का सबसे बड़ा खेल स्टेडियम है। यह न्यूजीलैंड के मध्य ऑकलैंड में स्थित है। इसका उपयोग मुख्य रूप से गर्मियों में क्रिकेट के लिए किया जाता है।",
             "image": {
               "url": "/static/images/master/Auckland_EdenPark.jpg",
-              "altText": "Image of Eden Park"
+              "altText": "Image of ईडन पार्क"
             }
           }
         }
@@ -119,38 +119,38 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "Beginnings of cricket in New Zealand",
+          "label": "न्यूजीलैंड में क्रिकेट की शुरुआत",
           "id": 3,
           "note": "1842",
           "value": {
-            "label": "The first recorded game of cricket in New Zealand took place in Wellington in December 1842.",
+            "label": "न्यूजीलैंड में पहला आधिकारिक क्रिकेट मैच दिसंबर 1842 में वेलिंगटन में खेला गया था।",
             "facts": []
           }
         },
         {
-          "label": "First national team",
+          "label": "पहली राष्ट्रीय टीम",
           "id": 3,
           "note": "1904-1905",
           "value": {
-            "label": "New Zealand played its first two internationals (not Tests) in 1904–05 against a star-studded Australia team",
+            "label": "न्यूजीलैंड ने अपने पहले दो अंतरराष्ट्रीय मैच (टेस्ट में नहीं) वर्ष 1904–05 में ऑस्ट्रेलिया की स्टार टीम के खिलाफ खेले थे।",
             "facts": []
           }
         },
         {
-          "label": "Inter-war period",
+          "label": "गृह युद्घ का समय",
           "id": 3,
           "note": "1927",
           "value": {
-            "label": "In 1927 New Zealant toured England. They played 26 first class matches, mostly against county sides.",
+            "label": "न्यूजीलैंड ने वर्ष 1927 में इंग्लैंड का दौरा किया था। इस दौरा में उन्होंने 26 प्रथम श्रेणी मैच खेले थे, जिनमें ज्यादातर मैच काउंटी टीमों के खिलाफ थे।",
             "facts": []
           }
         },
         {
-          "label": "After World War II",
+          "label": "द्वितीय विश्व युद्ध के बाद",
           "id": 3,
-          "note": "1950s",
+          "note": "1950",
           "value": {
-            "label": "New Zealand played its first matches against the West Indies in 1951–52, and Pakistan and India in 1955/56.",
+            "label": "न्यूजीलैंड ने अपना पहला मैच वर्ष 1951-52 में वेस्टइंडीज और 1955/56 में पाकिस्तान और भारत के खिलाफ खेला था।",
             "facts": []
           }
         }
@@ -159,140 +159,12 @@
     {
       "title": "प्रसिद्ध खिलाड़ी",
       "cardType": "stories",
-      "facts": [
-        {
-          "label": "Martin Guptill",
-          "id": "martin_guptill",
-          "value": {
-            "url": null,
-            "label": "Martin James Guptill, is a New Zealand international cricketer who plays as an opening batsman. Guptill holds the current record for the highest individual score in Cricket World Cup matches.",
-            "image": {
-              "url": "/static/images/master/Martin_Guptill_2_28cropped29.jpg",
-              "altText": "Image of Martin Guptill",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
-            }
-          }
-        },
-        {
-          "label": "Colin Munro",
-          "id": "colin_munro",
-          "value": {
-            "url": null,
-            "label": "Colin Munro is a South-African born New Zealand international cricketer. He is the first player to score three Twenty20 International centuries.",
-            "image": {
-              "url": "/static/images/master/Colin_Munro_with_the_Sydney_Sixers.jpg",
-              "altText": "Image of Colin Munro"
-            }
-          }
-        },
-        {
-          "label": "Kane Williamson",
-          "id": "kane_williamson",
-          "value": {
-            "url": null,
-            "label": "Kane Stuart Williamson (is a New Zealand international cricketer who is currently the captain of the New Zealand national team and Sunrisers Hyderabad in the Indian Premier League. He is considered as one of the best batsmen in the world.",
-            "image": {
-              "url": "/static/images/master/Kane_Williamson_28977366799129.jpg",
-              "altText": "Image of Kane Williamson",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
-            }
-          }
-        },
-        {
-          "label": "Ross Taylor",
-          "id": "ross_taylor",
-          "value": {
-            "url": null,
-            "label": "Taylor is considered as one of the greatest batsmen to represent New Zealand and became the nation's highest ODI century maker in 2017, with his 17th ODI century.",
-            "image": {
-              "url": "/static/images/master/Ross_Taylor_28615994052129_28cropped29.jpg",
-              "altText": "Image of Ross Taylor",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
-            }
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "उपलब्धियां और रिकॉर्ड",
       "cardType": "list_card",
-      "facts": [
-        {
-          "label": "1992 Cricket World Cup",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "New Zealand were hosts and semi finalists of the 1992 Cricket World Cup",
-            "facts": []
-          }
-        },
-        {
-          "label": "2007 Cricket World Cup",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "New Zealand went through to the semifinals and placed 3rd overall.",
-            "facts": [
-              {
-                "label": "2007 क्रिकेट विश्व कप",
-                "id": "2007_cricket_world_cup-",
-                "url": "/read/hi/2007_cricket_world_cup",
-                "value": {
-                  "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2007 Cricket World Cup"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2009 ICC Champions Trophy",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "New Zealand was runner's up in the 2009 ICC Champions Trophy",
-            "facts": [
-              {
-                "label": "आईसीसी चैंपियंस ट्रॉफी",
-                "id": "2009_icc_champions_trophy-",
-                "url": "/read/hi/icc_champions_trophy",
-                "value": {
-                  "label": "आईसीसी चैंपियंस ट्रॉफी एक दिवसीय अंतर्राष्ट्रीय (वनडे) क्रिकेट टूर्नामेंट था जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया जाता था, जो क्रिकेट विश्व कप के बाद दूसरा सबसे महत्वपूर्ण आयोजन था। 2002 में इसका नाम बदलकर चैंपियंस ट्रॉफी रखा गया।",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2009 ICC Champions Trophy"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2015 Cricket World Cup",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "New Zealand was Runners-up at the 2015 Cricket World Cup.",
-            "facts": [
-              {
-                "label": "P8",
-                "id": "2015_cricket_world_cup-p8",
-                "url": null,
-                "value": {
-                  "label": null,
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2015 Cricket World Cup"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "प्रायोजक",
@@ -301,33 +173,30 @@
       "facts": [
         {
           "value": {
-            "label": "ANZ",
+            "label": "एएनजेड",
             "url": null,
             "image": {
-              "url": "/static/images/master/ANZ-brand.svg",
-              "altText": "Image of ANZ"
+              "altText": "Image of एएनजेड"
             }
           }
         },
         {
-          "label": "Kit sponsor",
+          "label": "किट प्रायोजक",
           "value": {
-            "label": "Canterbury",
+            "label": "कैंटरबरी",
             "url": null,
             "image": {
-              "url": "/static/images/master/Canterbury_of_New_Zealand_logo.svg",
-              "altText": "Image of Canterbury"
+              "altText": "Image of कैंटरबरी"
             }
           }
         },
         {
-          "label": "Chest Branding",
+          "label": "शर्ट प्रायोजक (सामने)",
           "value": {
-            "label": "Lotus Herbals",
+            "label": "लॉटस हर्बल्स",
             "url": null,
             "image": {
-              "url": "",
-              "altText": "Image of Lotus Herbals"
+              "altText": "Image of लॉटस हर्बल्स"
             }
           }
         }

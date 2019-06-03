@@ -1,6 +1,6 @@
 {
   "title": "इंग्लैंड क्रिकेट टीम",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/England_cricket_team",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%87%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B2%E0%A5%88%E0%A4%82%E0%A4%A1_%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%9F_%E0%A4%9F%E0%A5%80%E0%A4%AE",
   "coverImage": {
     "url": "/static/images/master/England_cricket_team_logo.svg",
     "altText": "Image of इंग्लैंड क्रिकेट टीम"
@@ -85,11 +85,11 @@
         {
           "label": "कोच",
           "value": {
-            "label": "https://en.wikipedia.org/wiki/Trevor_Bayliss",
+            "label": "ट्रेव्हर बेलिस",
             "url": "/read/hi/ricky_ponting",
             "image": {
               "url": "",
-              "altText": "Image of https://en.wikipedia.org/wiki/Trevor_Bayliss"
+              "altText": "Image of ट्रेव्हर बेलिस"
             }
           }
         }
@@ -157,130 +157,12 @@
     {
       "title": "प्रसिद्ध खिलाड़ी",
       "cardType": "stories",
-      "facts": [
-        {
-          "label": "जोस बटलर",
-          "id": "जोस_बटलर",
-          "value": {
-            "url": null,
-            "label": "वह वर्तमान में इंग्लैंड क्रिकेट टीम के उप-कप्तान हैं।",
-            "image": {
-              "url": "/static/images/master/Jos_Buttler_2017.jpg",
-              "altText": "Image of जोस बटलर"
-            }
-          }
-        },
-        {
-          "label": "बेन स्टोक्स",
-          "id": "बेन_स्टोक्स",
-          "value": {
-            "url": null,
-            "label": " उन्होंने इंग्लैंड के लिए सबसे तेज दोहरे टेस्ट शतक का रिकॉर्ड बनाया",
-            "image": {
-              "url": "/static/images/master/BEN_STOKES_281170483702329_28cropped29.jpg",
-              "altText": "Image of बेन स्टोक्स",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
-            }
-          }
-        },
-        {
-          "label": "जो रूट",
-          "id": "जो_रूट",
-          "value": {
-            "url": null,
-            "label": "वह इंग्लैंड टेस्ट टीम के वर्तमान कप्तान हैं। उन्हें अक्सर दुनिया के सर्वश्रेष्ठ बल्लेबाजों में से एक माना जाता है।",
-            "image": {
-              "url": "/static/images/master/England_Cricket_Team_-_The_Ashes_Trent_Bridge_2015_282041795119229_28root_cropped29_28cropped29.jpg",
-              "altText": "Image of जो रूट",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
-            }
-          }
-        },
-        {
-          "label": "इयोन मॉर्गन",
-          "id": "इयोन_मॉर्गन",
-          "value": {
-            "url": null,
-            "label": "वे इतिहास में केवल दो खिलाड़ियों में से पहले हैं जिन्होंने दो देशों के लिए एकदिवसीय शतक बनाया है और",
-            "image": {
-              "url": "/static/images/master/Eoin_Morgan_2013.jpg",
-              "altText": "Image of इयोन मॉर्गन"
-            }
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "उपलब्धियां और रिकॉर्ड",
       "cardType": "list_card",
-      "facts": [
-        {
-          "label": "1987 विश्व कप",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "कोलकाता के ईडन गार्डन्स स्टेडियम में आज तक के सबसे करीबी विश्व कप फाइनल मुकाबले में इंग्लैंड को अपने चिर प्रतिद्वंद्वी ऑस्ट्रेलिया से सात रनों से हार का सामना करना पड़ा।",
-            "facts": [
-              {
-                "label": "1987 विश्व कप",
-                "id": "1987_विश्व_कप-1987_विश्व_कप",
-                "url": null,
-                "value": {
-                  "label": null,
-                  "image": {
-                    "altText": "Image of 1987 विश्व कप",
-                    "license": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "1992 विश्व कप",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "1992 के क्रिकेट विश्व कप में इंग्लैंड द्वारा एक मजबूत प्रदर्शन जिसमें इंग्लैंड की टीम लगातार दूसरे विश्व कप में उपविजेता के रूप में अंत किया। ",
-            "facts": [
-              {
-                "label": "1992 विश्व कप",
-                "id": "1992_विश्व_कप-1992_विश्व_कप",
-                "url": null,
-                "value": {
-                  "label": null,
-                  "image": {
-                    "altText": "Image of 1992 विश्व कप",
-                    "license": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2010 टी 20 विश्व कप",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "इसे इंग्लैंड ने जीता था, जिसने फाइनल में ऑस्ट्रेलिया को हराया था। केविन पीटरसन को टूर्नामेंट के खिलाड़ी के रूप में नामित किया गया था।",
-            "facts": [
-              {
-                "label": "टी 20 विश्व कप",
-                "id": "2010_टी_20_विश्व_कप-टी_20_विश्व_कप",
-                "url": "/read/hi/icc_t20_world_cup",
-                "value": {
-                  "label": "आईसीसी टी20 विश्व कप (जिसे पहले आईसीसी विश्व ट्वेंटी20 के नाम से जाना जाता था) ट्वेंटी20 क्रिकेट की अंतर्राष्ट्रीय चैम्पियनशिप है। वर्तमान में इस टूर्नामेंट में 16 टीमें भाग लेती हैं, जिसमें आठ टीमें दी गई समय सीमा के भीतर रैंकिंग के शीर्ष आठ में रहने वाली टीमें होती हैं जबकि चार अन्य टीमें टी20 विश्व कप क्वालीफायर के माध्यम से चुनी जातीं हैं।",
-                  "image": {
-                    "altText": "Image of 2010 टी 20 विश्व कप",
-                    "license": ""
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "प्रायोजक",
@@ -291,7 +173,9 @@
           "value": {
             "label": "किट निर्माता",
             "url": null,
-            "image": null
+            "image": {
+              "altText": "Image of किट निर्माता"
+            }
           }
         },
         {
@@ -300,7 +184,6 @@
             "label": "नेटवेस्ट",
             "url": null,
             "image": {
-              "url": "/static/images/master/Natwest_logo.svg",
               "altText": "Image of नेटवेस्ट"
             }
           }

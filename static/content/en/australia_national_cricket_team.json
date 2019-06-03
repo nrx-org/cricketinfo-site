@@ -1,0 +1,203 @@
+{
+  "title": "Australia national cricket team",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Australia_national_cricket_team",
+  "coverImage": {
+    "url": "/static/images/master/Australia_cricket_logo.svg",
+    "altText": "Image of Australia national cricket team"
+  },
+  "summary": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
+  "translations": [
+    {
+      "lang": "hi",
+      "title": "ऑस्ट्रेलिया क्रिकेट टीम",
+      "url": "/read/hi/australia_national_cricket_team"
+    },
+    {
+      "lang": "ta",
+      "title": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
+      "url": "/read/ta/australia_national_cricket_team"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Location",
+          "value": {
+            "label": "Australia"
+          }
+        },
+        {
+          "label": "Established on",
+          "value": {
+            "label": "1877"
+          }
+        },
+        {
+          "label": "Association",
+          "value": {
+            "label": "Cricket Australia"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Roles",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "label": "Test Captain",
+          "value": {
+            "label": "Tim Paine",
+            "url": null,
+            "image": {
+              "url": "/static/images/master/Tim_Paine.jpg",
+              "altText": "Image of Tim Paine"
+            }
+          }
+        },
+        {
+          "label": "ODI Captain",
+          "value": {
+            "label": "Aaron Finch",
+            "url": null,
+            "image": {
+              "url": "/static/images/master/Aaron_Finch.jpg",
+              "altText": "Image of Aaron Finch"
+            }
+          }
+        },
+        {
+          "label": "T20I Captain",
+          "value": {
+            "label": "Aaron Finch",
+            "url": null,
+            "image": {
+              "url": "/static/images/master/Aaron_Finch.jpg",
+              "altText": "Image of Aaron Finch"
+            }
+          }
+        },
+        {
+          "label": "Coach",
+          "value": {
+            "label": "Justin Langer",
+            "url": "/read/en/justin_langer",
+            "image": {
+              "url": "/static/images/master/Justin_Langer_Portrait.png",
+              "altText": "Image of Justin Langer"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Popular Venue",
+      "id": "r2-melbourne_cricket_ground",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "Melbourne Cricket Ground",
+          "value": {
+            "label": "The Melbourne Cricket Ground (MCG), also known simply as \"The G\", is an Australian sports stadium located in Yarra Park, Melbourne, Victoria.\nHome to the Melbourne Cricket Club, it is the 10th largest stadium in the world, the largest in Australia, the largest in the Southern Hemisphere, the largest cricket ground by capacity, and has the tallest light towers of any sporting venue.",
+            "image": {
+              "url": "/static/images/master/2017_AFL_Grand_Final_panorama_during_national_anthem.jpg",
+              "altText": "Image of Melbourne Cricket Ground"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Early History",
+          "id": 3,
+          "note": "1876 - 1890",
+          "value": {
+            "label": "The Australian cricket team participated in the first Test match at the MCG in 1877, defeating an English team by 45 runs, with Charles Bannerman making the first Test century, a score of 165 retired hurt. ",
+            "facts": []
+          }
+        },
+        {
+          "label": "Golden age",
+          "id": 3,
+          "note": "1890 - 1900",
+          "value": {
+            "label": "The so-called 'Golden Age' of Australian Test cricket occurred around the end of the 19th century and the beginning of the 20th century, with the team under the captaincy of Joe Darling, Monty Noble and Clem Hill winning eight of ten tours.",
+            "facts": []
+          }
+        },
+        {
+          "label": "The Bradman era",
+          "id": 3,
+          "note": "1930/31-1945",
+          "value": {
+            "label": "The 1930 tour of England heralded a new age of success for the Australian team. The team, led by Bill Woodfull – the \"Great Un-bowlable\" – featured legends of the game including Bill Ponsford, Stan McCabe, Clarrie Grimmett and the young pair of Archie Jackson and Don Bradman.",
+            "facts": []
+          }
+        },
+        {
+          "label": "Cricket after World War II",
+          "id": 3,
+          "note": "1945/46-1960",
+          "value": {
+            "label": "The team continued its success after the end of the Second World War, with the first Test (also Australia's first against New Zealand) being played in the 1945–46 season against New Zealand. \n\nAustralia was by far the most successful team of the 1940s, being undefeated throughout the decade, winning two Ashes series against England and its first Test series against India. ",
+            "facts": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Famous Players",
+      "cardType": "stories",
+      "facts": []
+    },
+    {
+      "title": "Achievements & Records",
+      "cardType": "list_card",
+      "facts": []
+    },
+    {
+      "title": "Sponsors",
+      "cardType": "avatar",
+      "label": null,
+      "facts": [
+        {
+          "value": {
+            "label": "Asics",
+            "url": null,
+            "image": {
+              "altText": "Image of Asics"
+            }
+          }
+        },
+        {
+          "label": "Team sponsor",
+          "value": {
+            "label": "Alinta Energy",
+            "url": null,
+            "image": {
+              "altText": "Image of Alinta Energy"
+            }
+          }
+        },
+        {
+          "label": "Team sponsor",
+          "value": {
+            "label": "Quantas",
+            "url": null,
+            "image": {
+              "altText": "Image of Quantas"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

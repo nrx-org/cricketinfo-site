@@ -2,7 +2,7 @@
   "title": "India national cricket team",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/India_national_cricket_team",
   "coverImage": {
-    "url": "/static/images/master/Cricket_India_Crest.svg",
+    "url": "/static/images/master/Flagcricket.jpg",
     "altText": "Image of India national cricket team"
   },
   "summary": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
@@ -122,113 +122,26 @@
           "id": 3,
           "note": "1971 - 1983",
           "value": {
-            "label": "The advent of One Day International (ODI) cricket in 1971 created a new dimension in the cricket world. India began as a weak team in ODIs and did not qualify for the second round in the first two editions of the Cricket World Cup.\n\nHowever, under the captaincy of Kapil Dev, India won the Cricket World Cup in 1983, defeating the favourites and the two-time defending champions West Indies in the final at Lords, owing to a strong bowling performance.",
-            "facts": [
-              {
-                "label": "1983 World Cup",
-                "url": "/read/en/1983_cricket_world_cup",
-                "id": 1,
-                "value": {
-                  "label": "The 1983 Cricket World Cup (officially the Prudential Cup '83) was the 3rd edition of the Cricket World Cup tournament. It was held in England and Wales and was won by India. ",
-                  "image": {
-                    "url": "/static/images/master/Prudential_Cup_83_logo.svg",
-                    "altText": "Image of 1983 World Cup"
-                  }
-                }
-              },
-              {
-                "label": "Kapil Dev",
-                "url": "/read/en/kapil_dev",
-                "id": 1,
-                "value": {
-                  "label": "Kapil Dev captained the Indian cricket team that won the 1983 Cricket World Cup. He was named by Wisden as the Indian Cricketer of the Century in 2002.\n\n",
-                  "image": {
-                    "url": "/static/images/master/Kapil_Dev_at_Equation_sports_auction.jpg",
-                    "altText": "Image of Kapil Dev"
-                  }
-                }
-              }
-            ]
+            "label": "The advent of One Day International (ODI) cricket in 1971 created a new dimension in the cricket world. India began as a weak team in ODIs and did not qualify for the second round in the first two editions of the Cricket World Cup. \n\nHowever, under the captaincy of Kapil Dev, India won the Cricket World Cup in 1983, defeating the favourites and the two-time defending champions West Indies in the final at Lords, owing to a strong bowling performance.",
+            "facts": []
           }
         },
         {
           "label": "Late 20th Century",
           "id": 3,
-          "note": "1983-2000 ",
+          "note": "1983 - 2000 ",
           "value": {
             "label": "India and Pakistan jointly hosted the 1987 World Cup, the first time that the competition was held outside England. They again jointly hosted the 1996 World Cup with Sri Lanka. Sachin Tendulkar and Anil Kumble joined the national side in 1989 and 1990 and further improved the team. However, the team was damaged in 2000 when Mohammed Azharuddin and Ajay Jadeja were implicated in match fixing and given bans. ",
-            "facts": [
-              {
-                "label": "1987 World Cup",
-                "url": null,
-                "id": 1,
-                "value": {
-                  "label": "The 1987 World Cup was jointly hosted by both India and Pakistan and was won by Australia",
-                  "image": {
-                    "altText": "Image of 1987 World Cup",
-                    "license": ""
-                  }
-                }
-              },
-              {
-                "label": "1992 World Cup ",
-                "url": null,
-                "id": 1,
-                "value": {
-                  "label": "The 1992 World Cup was held in Australia and New Zealand and was won by Pakistan for the first time ",
-                  "image": {
-                    "url": "/static/images/master/World_Cup_1992_logo.svg",
-                    "altText": "Image of 1992 World Cup "
-                  }
-                }
-              },
-              {
-                "label": "1996 World Cup",
-                "url": "/read/en/1996_cricket_world_cup",
-                "id": 1,
-                "value": {
-                  "label": "The 1996 World Cup was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka. The tournament was won by Sri Lanka for the first time.",
-                  "image": {
-                    "url": "/static/images/master/Wills_World_Cup_1996.svg",
-                    "altText": "Image of 1996 World Cup"
-                  }
-                }
-              }
-            ]
+            "facts": []
           }
         },
         {
           "label": "Improvement in 2000s",
           "id": 3,
-          "note": "2000-2007",
+          "note": "2000 - 2007",
           "value": {
             "label": "Since 2000, the Indian team underwent major improvements under the captaincy of Sourav Ganguly and guidance of John Wright, India's first foreign coach. It made it to the final of the 2003 World Cup, but failed to advance past the group stage of the 2007 World Cup.",
-            "facts": [
-              {
-                "label": "2003 World Cup",
-                "url": "/read/en/2003_cricket_world_cup",
-                "id": 1,
-                "value": {
-                  "label": "The 2003 World Cup was the first to be hosted in Africa. It was won by Australia.",
-                  "image": {
-                    "url": "/static/images/master/Cricket_World_Cup_Logo_2003.svg",
-                    "altText": "Image of 2003 World Cup"
-                  }
-                }
-              },
-              {
-                "label": "2007 World Cup",
-                "url": "/read/en/2007_cricket_world_cup",
-                "id": 1,
-                "value": {
-                  "label": "The 2007 World Cup was hosted by West Indies. It was won by Australia",
-                  "image": {
-                    "url": "/static/images/master/2007_Cricket_World_Cup_logo.svg",
-                    "altText": "Image of 2007 World Cup"
-                  }
-                }
-              }
-            ]
+            "facts": []
           }
         },
         {
@@ -237,44 +150,7 @@
           "note": "2007 - Present",
           "value": {
             "label": "Dravid stepped down as the captain of the team, following which Dhoni was made the captain of the Twenty20 and ODI team. In September 2007, India won the first-ever Twenty20 World Cup. India went on to win the 2011 Cricket World Cup. India then won the 2013 Champions trophy, thus making Dhoni the first captain in history to win the three major ICC trophies. ",
-            "facts": [
-              {
-                "label": "ICC T20 World Cup",
-                "url": "/read/en/icc_t20_world_cup",
-                "id": 1,
-                "value": {
-                  "label": "The first ICC T20 World Cup was hosted by South Africa and won by India",
-                  "image": {
-                    "url": "/static/images/master/ICC_World_Twenty20_Trophy.jpg",
-                    "altText": "Image of ICC T20 World Cup"
-                  }
-                }
-              },
-              {
-                "label": "2011 World Cup",
-                "url": "/read/en/2011_cricket_world_cup",
-                "id": 1,
-                "value": {
-                  "label": "The 2011 World Cup was hosted by India, Sri Lanka and for the first time Bangladesh. It was won by India",
-                  "image": {
-                    "url": "/static/images/master/2011_Cricket_World_Cup_Logo.svg",
-                    "altText": "Image of 2011 World Cup"
-                  }
-                }
-              },
-              {
-                "label": "ICC Champions Trophy",
-                "url": "/read/en/icc_champions_trophy",
-                "id": 1,
-                "value": {
-                  "label": "England and Wales hosted the 2013 Champions Trophy, which was won by India ",
-                  "image": {
-                    "url": "/static/images/master/ICC_Champions_Trophy_cricket_logo.png",
-                    "altText": "Image of ICC Champions Trophy"
-                  }
-                }
-              }
-            ]
+            "facts": []
           }
         }
       ]
@@ -282,83 +158,12 @@
     {
       "title": "Famous Players",
       "cardType": "stories",
-      "facts": [
-        {
-          "label": "Anil Kumble",
-          "id": "anil_kumble",
-          "value": {
-            "url": null,
-            "label": "With 619 wickets, Anil Kumble is the world's third highest wicket-taker in Tests and India's highest Test and ODI wicket-taker.",
-            "image": {
-              "url": "/static/images/master/Kumble_edited.jpg",
-              "altText": "Image of Anil Kumble"
-            }
-          }
-        },
-        {
-          "label": "Sachin Tendulkar",
-          "id": "sachin_tendulkar",
-          "value": {
-            "url": null,
-            "label": "Sachin Tendulkar celebrates his 38th Test century during a match against Australia in 2008. Tendulkar holds multiple world records. ",
-            "image": {
-              "url": "/static/images/master/Sachin_Tendulkar_at_MRF_Promotion_Event.jpg",
-              "altText": "Image of Sachin Tendulkar"
-            }
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "Achievements & Records",
       "cardType": "list_card",
-      "facts": [
-        {
-          "label": "Triple Achievement ",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "In 2013, MS Dhoni became the first captain in history to win all three major ICC trophies- ICC Cricket World Cup in 2011, ICC World Twenty20 in 2007 and ICC Champions Trophy in 2013.",
-            "facts": [
-              {
-                "label": "MS Dhoni",
-                "id": "triple_achievement_-ms_dhoni",
-                "url": "/read/en/mahendra_singh_dhoni",
-                "value": {
-                  "label": "Mahendra Singh Dhoni is an Indian international cricketer who captained the Indian national team in limited-overs formats from 2007 to 2016 and in Test cricket from 2008 to 2014.",
-                  "image": {
-                    "url": "/static/images/master/Mahendra_Singh_Dhoni_January_2016_28cropped29.jpg",
-                    "altText": "Image of Triple Achievement ",
-                    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "Sons of the soil",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "In the 2011 Cricket World Cup, India beat Sri Lanka in the finals thus becoming the first country to win the Cricket World Cup final on home soil",
-            "facts": [
-              {
-                "label": "ICC Cricket World Cup ",
-                "id": "sons_of_the_soil-icc_cricket_world_cup",
-                "url": null,
-                "value": {
-                  "label": null,
-                  "image": {
-                    "url": "/static/images/master/Icc_cricket_world_cup_trophy.jpg",
-                    "altText": "Image of Sons of the soil"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "Sponsors",
@@ -370,7 +175,6 @@
             "label": "Nike",
             "url": null,
             "image": {
-              "url": "/static/images/master/Logo_NIKE.svg",
               "altText": "Image of Nike"
             }
           }
@@ -381,7 +185,6 @@
             "label": "Oppo",
             "url": null,
             "image": {
-              "url": "/static/images/master/OPPO_LOGO_2019.png",
               "altText": "Image of Oppo"
             }
           }

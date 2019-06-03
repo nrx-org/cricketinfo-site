@@ -14,7 +14,7 @@
     },
     {
       "lang": "ta",
-      "title": "Kolkata Knight Riders",
+      "title": "கொல்கத்தா நைட் ரைடர்ஸ்",
       "url": "/read/ta/kolkata_knight_riders"
     }
   ],
@@ -76,7 +76,7 @@
             "label": "Dinesh Karthik",
             "url": "/read/en/dinesh_karthik",
             "image": {
-              "url": "/static/images/master/Dinesh.Karthik.jpg",
+              "url": "/static/images/master/Dinesh_Karthik_2.jpg",
               "altText": "Image of Dinesh Karthik"
             }
           }
@@ -126,11 +126,11 @@
           }
         },
         {
-          "label": "Sourav Ganguly",
+          "label": "ஐபிஎல் 2018",
           "id": 3,
           "note": "2011",
           "value": {
-            "label": "Former captain and icon player Sourav Ganguly was not purchased in the January auction. This led to protest rallies, signature campaigns throughout the country and abroad along with stadium protests by various fan groups, such as No Dada No KKR,[27] which received both national and international press attention",
+            "label": "Former captain and icon player Sourav Ganguly was not purchased in the January auction. This led to protest rallies, signature campaigns throughout the country and abroad along with stadium protests by various fan groups, such as No Dada No KKR,[27] which received both national and international press attention.",
             "facts": []
           }
         },
@@ -157,102 +157,12 @@
     {
       "title": "Famous Players",
       "cardType": "stories",
-      "facts": [
-        {
-          "label": "Dinesh Karthik",
-          "id": "dinesh_karthik",
-          "value": {
-            "url": null,
-            "label": "Dinesh Karthik made his maiden Test century against Bangladesh and then was India's leading scorer in the Test tour of England, helping India to win their first series in England in 21 years.",
-            "image": {
-              "url": "/static/images/master/Dinesh.Karthik.jpg",
-              "altText": "Image of Dinesh Karthik"
-            }
-          }
-        },
-        {
-          "label": "Robin Uthappa",
-          "id": "robin_uthappa",
-          "value": {
-            "url": null,
-            "label": "Robin Uthappa  is named 'The Walking Assassin' for his tactic of charging the bowler. He played an important role in India's win at the 2007 ICC World Twenty20. ",
-            "image": {
-              "url": "/static/images/master/Robin_Uthappa_on_the_Show.jpg",
-              "altText": "Image of Robin Uthappa"
-            }
-          }
-        },
-        {
-          "label": "Sourav Ganguly",
-          "id": "sourav_ganguly",
-          "value": {
-            "url": null,
-            "label": "Sourav Gangly is the most successful Indian test captain overseas with 11 wins. The Indian team was ranked eighth in the ICC rankings before he became the captain, and under his tenure the team rank went up to second.",
-            "image": {
-              "url": "/static/images/master/Sourav_Ganguly_closeup.jpg",
-              "altText": "Image of Sourav Ganguly"
-            }
-          }
-        },
-        {
-          "label": "Andre Russell",
-          "id": "andre_russell",
-          "value": {
-            "url": null,
-            "label": "Andre Russell has played in over 300 Twenty20 matches for a range of sides in leagues throughout the world.",
-            "image": {
-              "altText": "Image of Andre Russell",
-              "license": ""
-            }
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "Achievements & Records",
       "cardType": "list_card",
-      "facts": [
-        {
-          "label": "2012 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Kolkata Knight Riders were the winning team, beating defending champions Chennai Super Kings by five wickets in the final.",
-            "facts": []
-          }
-        },
-        {
-          "label": "2014 Indian Premier League",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": " Kolkata Knight Riders won the tournament, defeating Kings XI Punjab by 3 wickets.",
-            "facts": []
-          }
-        },
-        {
-          "label": "Orange Cap",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Robin Uthappa won the Orange Cap for 660 runs in the 2014 IPL season.",
-            "facts": [
-              {
-                "label": "Robin Uthappa",
-                "id": "orange_cap-",
-                "url": "/read/en/robin_uthappa",
-                "value": {
-                  "label": "Robin Venu Uthappa is an Indian cricketer. He plays for Karnataka in domestic cricket and Kolkata Knight Riders in the IPL.",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of Orange Cap"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "Sponsors",
@@ -264,7 +174,6 @@
             "label": " Nokia",
             "url": null,
             "image": {
-              "url": "/static/images/master/Nokia_wordmark.svg",
               "altText": "Image of  Nokia"
             }
           }
@@ -275,9 +184,7 @@
             "label": "Jio",
             "url": null,
             "image": {
-              "url": "/static/images/master/Reliance_Jio_Logo_28October_201529.svg",
-              "altText": "Image of Jio",
-              "license": ""
+              "altText": "Image of Jio"
             }
           }
         },
@@ -287,7 +194,6 @@
             "label": "Alcis Sports",
             "url": null,
             "image": {
-              "url": "",
               "altText": "Image of Alcis Sports"
             }
           }

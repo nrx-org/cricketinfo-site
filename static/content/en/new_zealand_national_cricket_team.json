@@ -14,7 +14,7 @@
     },
     {
       "lang": "ta",
-      "title": "New Zealand national cricket team",
+      "title": "நியூசிலாந்து தேசியக் கிரிக்கெட் அணி",
       "url": "/read/ta/new_zealand_national_cricket_team"
     }
   ],
@@ -32,7 +32,7 @@
         {
           "label": "Established on",
           "value": {
-            "label": ""
+            "label": "1894"
           }
         },
         {
@@ -128,11 +128,11 @@
           }
         },
         {
-          "label": "First national team",
+          "label": "இரண்டாம் உலகப் போருக்குப் பிறகு",
           "id": 3,
-          "note": "1904-1905",
+          "note": "1904 - 1905",
           "value": {
-            "label": "New Zealand played its first two internationals (not Tests) in 1904–05 against a star-studded Australia team",
+            "label": "New Zealand played its first two internationals (not Tests) in 1904–05 against a star-studded Australia team.",
             "facts": []
           }
         },
@@ -159,140 +159,12 @@
     {
       "title": "Famous Players",
       "cardType": "stories",
-      "facts": [
-        {
-          "label": "Martin Guptill",
-          "id": "martin_guptill",
-          "value": {
-            "url": null,
-            "label": "Martin James Guptill, is a New Zealand international cricketer who plays as an opening batsman. Guptill holds the current record for the highest individual score in Cricket World Cup matches.",
-            "image": {
-              "url": "/static/images/master/Martin_Guptill_2_28cropped29.jpg",
-              "altText": "Image of Martin Guptill",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
-            }
-          }
-        },
-        {
-          "label": "Colin Munro",
-          "id": "colin_munro",
-          "value": {
-            "url": null,
-            "label": "Colin Munro is a South-African born New Zealand international cricketer. He is the first player to score three Twenty20 International centuries.",
-            "image": {
-              "url": "/static/images/master/Colin_Munro_with_the_Sydney_Sixers.jpg",
-              "altText": "Image of Colin Munro"
-            }
-          }
-        },
-        {
-          "label": "Kane Williamson",
-          "id": "kane_williamson",
-          "value": {
-            "url": null,
-            "label": "Kane Stuart Williamson (is a New Zealand international cricketer who is currently the captain of the New Zealand national team and Sunrisers Hyderabad in the Indian Premier League. He is considered as one of the best batsmen in the world.",
-            "image": {
-              "url": "/static/images/master/Kane_Williamson_28977366799129.jpg",
-              "altText": "Image of Kane Williamson",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
-            }
-          }
-        },
-        {
-          "label": "Ross Taylor",
-          "id": "ross_taylor",
-          "value": {
-            "url": null,
-            "label": "Taylor is considered as one of the greatest batsmen to represent New Zealand and became the nation's highest ODI century maker in 2017, with his 17th ODI century.",
-            "image": {
-              "url": "/static/images/master/Ross_Taylor_28615994052129_28cropped29.jpg",
-              "altText": "Image of Ross Taylor",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
-            }
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "Achievements & Records",
       "cardType": "list_card",
-      "facts": [
-        {
-          "label": "1992 Cricket World Cup",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "New Zealand were hosts and semi finalists of the 1992 Cricket World Cup",
-            "facts": []
-          }
-        },
-        {
-          "label": "2007 Cricket World Cup",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "New Zealand went through to the semifinals and placed 3rd overall.",
-            "facts": [
-              {
-                "label": "2007 Cricket World Cup",
-                "id": "2007_cricket_world_cup-",
-                "url": "/read/en/2007_cricket_world_cup",
-                "value": {
-                  "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2007 Cricket World Cup"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2009 ICC Champions Trophy",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "New Zealand was runner's up in the 2009 ICC Champions Trophy",
-            "facts": [
-              {
-                "label": "ICC Champions Trophy",
-                "id": "2009_icc_champions_trophy-",
-                "url": "/read/en/icc_champions_trophy",
-                "value": {
-                  "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2009 ICC Champions Trophy"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2015 Cricket World Cup",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "New Zealand was Runners-up at the 2015 Cricket World Cup.",
-            "facts": [
-              {
-                "label": "P8",
-                "id": "2015_cricket_world_cup-p8",
-                "url": null,
-                "value": {
-                  "label": null,
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2015 Cricket World Cup"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "Sponsors",
@@ -304,7 +176,6 @@
             "label": "ANZ",
             "url": null,
             "image": {
-              "url": "/static/images/master/ANZ-brand.svg",
               "altText": "Image of ANZ"
             }
           }
@@ -315,7 +186,6 @@
             "label": "Canterbury",
             "url": null,
             "image": {
-              "url": "/static/images/master/Canterbury_of_New_Zealand_logo.svg",
               "altText": "Image of Canterbury"
             }
           }
@@ -326,7 +196,6 @@
             "label": "Lotus Herbals",
             "url": null,
             "image": {
-              "url": "",
               "altText": "Image of Lotus Herbals"
             }
           }

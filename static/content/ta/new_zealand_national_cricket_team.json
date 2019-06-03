@@ -1,11 +1,11 @@
 {
-  "title": "New Zealand national cricket team",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Zealand_national_cricket_team",
+  "title": "நியூசிலாந்து தேசியக் கிரிக்கெட் அணி",
+  "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AE%BF%E0%AE%AF%E0%AF%82%E0%AE%9A%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81_%E0%AE%A4%E0%AF%81%E0%AE%9F%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F_%E0%AE%85%E0%AE%A3%E0%AE%BF",
   "coverImage": {
     "url": "/static/images/master/New_Zealand_Cricket_Cap_Insignia.svg",
-    "altText": "Image of New Zealand national cricket team"
+    "altText": "Image of நியூசிலாந்து தேசியக் கிரிக்கெட் அணி"
   },
-  "summary": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
+  "summary": "நியூசிலாந்து தேசியக் கிரிக்கெட் அணி, பிளாக் கேப்ஸ் எனப் பெயரிடப்பட்டது, 1930-இல் கிறிஸ்ட்சர்ச்சிலில் இங்கிலாந்திற்கு எதிராக முதல் டெஸ்ட் ஆடி, டெஸ்ட் ஆடிய ஐந்தாவது நாடாக ஆனது.",
   "translations": [
     {
       "lang": "en",
@@ -26,7 +26,7 @@
         {
           "label": "Location",
           "value": {
-            "label": "New Zealand"
+            "label": "நியூசிலாந்து"
           }
         },
         {
@@ -38,7 +38,7 @@
         {
           "label": "Association",
           "value": {
-            "label": "New Zealand Cricket"
+            "label": "நியூசிலாந்து கிரிக்கெட்"
           }
         }
       ]
@@ -51,11 +51,11 @@
         {
           "label": "டெஸ்ட் கேப்டன்",
           "value": {
-            "label": "Kane Williamson",
-            "url": null,
+            "label": "கேன் வில்லியம்சன்",
+            "url": "/read/ta/kane_williamson",
             "image": {
               "url": "/static/images/master/Kane_Williamson_28977366799129.jpg",
-              "altText": "Image of Kane Williamson",
+              "altText": "Image of கேன் வில்லியம்சன்",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
@@ -63,11 +63,11 @@
         {
           "label": "ஓடிஐ கேப்டன்",
           "value": {
-            "label": "Kane Williamson",
-            "url": null,
+            "label": "கேன் வில்லியம்சன்",
+            "url": "/read/ta/kane_williamson",
             "image": {
               "url": "/static/images/master/Kane_Williamson_28977366799129.jpg",
-              "altText": "Image of Kane Williamson",
+              "altText": "Image of கேன் வில்லியம்சன்",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
@@ -75,11 +75,11 @@
         {
           "label": "டி20 கேப்டன்",
           "value": {
-            "label": "Kane Williamson",
-            "url": null,
+            "label": "கேன் வில்லியம்சன்",
+            "url": "/read/ta/kane_williamson",
             "image": {
               "url": "/static/images/master/Kane_Williamson_28977366799129.jpg",
-              "altText": "Image of Kane Williamson",
+              "altText": "Image of கேன் வில்லியம்சன்",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
@@ -87,11 +87,11 @@
         {
           "label": "பயிற்சியாளர்",
           "value": {
-            "label": "Gary Stead",
+            "label": "கேரி ஸ்டீட்",
             "url": "/read/ta/gary_stead",
             "image": {
               "url": "",
-              "altText": "Image of Gary Stead"
+              "altText": "Image of கேரி ஸ்டீட்"
             }
           }
         }
@@ -99,16 +99,16 @@
     },
     {
       "title": "பிரபலமான மைதானம்",
-      "id": "r15-eden_park",
+      "id": "r15-",
       "cardType": "simple",
       "facts": [
         {
-          "label": "Eden Park",
+          "label": "",
           "value": {
-            "label": "Eden Park is New Zealand's largest sports stadium, located in central Auckland, New Zealand. It is used primarily for cricket in summer.",
+            "label": "ஈடன் பார்க், நியூஸிலாந்தின் மத்திய ஆக்லேண்டில் அமைந்துள்ள நியூஸிலாந்தின் மிகப்பெரிய விளையாட்டு அரங்கமாகும். இது கோடைகாலத்தில் பிரதானமாக கிரிக்கெட்டிற்கு என்றே பயன்படுத்தப்படுகிறது.",
             "image": {
               "url": "/static/images/master/Auckland_EdenPark.jpg",
-              "altText": "Image of Eden Park"
+              "altText": "Image of "
             }
           }
         }
@@ -119,38 +119,38 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "Beginnings of cricket in New Zealand",
+          "label": "நியூசிலாந்தில் கிரிக்கெட்டின் ஆரம்பம்",
           "id": 3,
           "note": "1842",
           "value": {
-            "label": "The first recorded game of cricket in New Zealand took place in Wellington in December 1842.",
+            "label": "டிசம்பர் 1842-இல் நியூசிலாந்தில் முதலில் பதிவு செய்யப்பட்ட கிரிக்கெட் ஆட்டம் வெலிங்டனில் நடைபெற்றது.",
             "facts": []
           }
         },
         {
-          "label": "First national team",
+          "label": "முதல் தேசிய அணி",
           "id": 3,
           "note": "1904-1905",
           "value": {
-            "label": "New Zealand played its first two internationals (not Tests) in 1904–05 against a star-studded Australia team",
+            "label": "நியூசிலாந்து அதன் முதல் இரண்டு சர்வதேச போட்டிகளில் (டெஸ்ட் போட்டிகளில் இல்லை) 1904-05 ஆண்டில் ஒரு நட்சத்திர-பதித்த ஆஸ்திரேலிய அணிக்கு எதிராக விளையாடியது",
             "facts": []
           }
         },
         {
-          "label": "Inter-war period",
+          "label": "இடை-போர் காலம்",
           "id": 3,
           "note": "1927",
           "value": {
-            "label": "In 1927 New Zealant toured England. They played 26 first class matches, mostly against county sides.",
+            "label": "1927 இல் நியூசிலாந்த் இங்கிலாந்து சென்றார். அவர்கள் 26 முதல் முதல் வகுப்பு ஆட்டங்களில் விளையாடினர், பெரும்பாலும் கவுண்டி பக்கங்களுக்கு எதிராக.",
             "facts": []
           }
         },
         {
-          "label": "After World War II",
+          "label": "இரண்டாம் உலகப் போருக்குப் பிறகு",
           "id": 3,
           "note": "1950s",
           "value": {
-            "label": "New Zealand played its first matches against the West Indies in 1951–52, and Pakistan and India in 1955/56.",
+            "label": "நியூசிலாந்து 1951-52ல் வெஸ்ட் இண்டீஸ் மற்றும் 1955/56 ஆம் ஆண்டுகளில் பாகிஸ்தான் மற்றும் இந்தியாவிற்கு எதிராக முதல் போட்டிகளில் விளையாடியது.",
             "facts": []
           }
         }
@@ -159,140 +159,12 @@
     {
       "title": "பிரபலமான வீரர்",
       "cardType": "stories",
-      "facts": [
-        {
-          "label": "Martin Guptill",
-          "id": "martin_guptill",
-          "value": {
-            "url": null,
-            "label": "Martin James Guptill, is a New Zealand international cricketer who plays as an opening batsman. Guptill holds the current record for the highest individual score in Cricket World Cup matches.",
-            "image": {
-              "url": "/static/images/master/Martin_Guptill_2_28cropped29.jpg",
-              "altText": "Image of Martin Guptill",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
-            }
-          }
-        },
-        {
-          "label": "Colin Munro",
-          "id": "colin_munro",
-          "value": {
-            "url": null,
-            "label": "Colin Munro is a South-African born New Zealand international cricketer. He is the first player to score three Twenty20 International centuries.",
-            "image": {
-              "url": "/static/images/master/Colin_Munro_with_the_Sydney_Sixers.jpg",
-              "altText": "Image of Colin Munro"
-            }
-          }
-        },
-        {
-          "label": "Kane Williamson",
-          "id": "kane_williamson",
-          "value": {
-            "url": null,
-            "label": "Kane Stuart Williamson (is a New Zealand international cricketer who is currently the captain of the New Zealand national team and Sunrisers Hyderabad in the Indian Premier League. He is considered as one of the best batsmen in the world.",
-            "image": {
-              "url": "/static/images/master/Kane_Williamson_28977366799129.jpg",
-              "altText": "Image of Kane Williamson",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
-            }
-          }
-        },
-        {
-          "label": "Ross Taylor",
-          "id": "ross_taylor",
-          "value": {
-            "url": null,
-            "label": "Taylor is considered as one of the greatest batsmen to represent New Zealand and became the nation's highest ODI century maker in 2017, with his 17th ODI century.",
-            "image": {
-              "url": "/static/images/master/Ross_Taylor_28615994052129_28cropped29.jpg",
-              "altText": "Image of Ross Taylor",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
-            }
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "சாதனைகள் & பதிவுகள்",
       "cardType": "list_card",
-      "facts": [
-        {
-          "label": "1992 Cricket World Cup",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "New Zealand were hosts and semi finalists of the 1992 Cricket World Cup",
-            "facts": []
-          }
-        },
-        {
-          "label": "2007 Cricket World Cup",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "New Zealand went through to the semifinals and placed 3rd overall.",
-            "facts": [
-              {
-                "label": "2007 கிரிக்கெட் உலகக் கோப்பை",
-                "id": "2007_cricket_world_cup-",
-                "url": "/read/ta/2007_cricket_world_cup",
-                "value": {
-                  "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2007 Cricket World Cup"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2009 ICC Champions Trophy",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "New Zealand was runner's up in the 2009 ICC Champions Trophy",
-            "facts": [
-              {
-                "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி",
-                "id": "2009_icc_champions_trophy-",
-                "url": "/read/ta/icc_champions_trophy",
-                "value": {
-                  "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி என்பது இன்டர்நேஷனல் கிரிக்கெட் கவுன்சிலால் (ஐசிசி) நடத்தப்படும் ஒன் டே இன்டர்நேஷனல் (ODI) கிரிக்கெட் டோர்னமென்ட் ஆகும். இது கிரிக்கெட் உலகக்கோப்பைக்கு அடுத்தபடியாக முக்கியமாக கருதப்படும் டோர்னமென்ட் ஆகும். 2002-ஆம் ஆண்டு இதன் பெயர் சேம்பியன்ஸ் டிராஃபி என்று மாற்றப்பட்டது.",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2009 ICC Champions Trophy"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "2015 Cricket World Cup",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "New Zealand was Runners-up at the 2015 Cricket World Cup.",
-            "facts": [
-              {
-                "label": "P8",
-                "id": "2015_cricket_world_cup-p8",
-                "url": null,
-                "value": {
-                  "label": null,
-                  "image": {
-                    "url": "",
-                    "altText": "Image of 2015 Cricket World Cup"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "வழங்குநர்கள்",
@@ -304,30 +176,27 @@
             "label": "ANZ",
             "url": null,
             "image": {
-              "url": "/static/images/master/ANZ-brand.svg",
               "altText": "Image of ANZ"
             }
           }
         },
         {
-          "label": "Kit sponsor",
+          "label": "கிட் ஸ்பான்சர்",
           "value": {
-            "label": "Canterbury",
+            "label": "கேன்டர்பரி",
             "url": null,
             "image": {
-              "url": "/static/images/master/Canterbury_of_New_Zealand_logo.svg",
-              "altText": "Image of Canterbury"
+              "altText": "Image of கேன்டர்பரி"
             }
           }
         },
         {
-          "label": "Chest Branding",
+          "label": "மார்பு பிராண்டிங்",
           "value": {
-            "label": "Lotus Herbals",
+            "label": "தாமரை மூலிகை",
             "url": null,
             "image": {
-              "url": "",
-              "altText": "Image of Lotus Herbals"
+              "altText": "Image of தாமரை மூலிகை"
             }
           }
         }

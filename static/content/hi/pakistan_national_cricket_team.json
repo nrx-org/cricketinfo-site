@@ -1,6 +1,6 @@
 {
   "title": "पाकिस्तान की राष्ट्रीय क्रिकेट टीम ",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pakistan_national_cricket_team",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%A8_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%9F_%E0%A4%9F%E0%A5%80%E0%A4%AE",
   "coverImage": {
     "url": "/static/images/master/PakistanCricketLogo.png",
     "altText": "Image of पाकिस्तान की राष्ट्रीय क्रिकेट टीम "
@@ -14,7 +14,7 @@
     },
     {
       "lang": "ta",
-      "title": "Pakistan national cricket team",
+      "title": "பாகிஸ்தான் தேசியக் கிரிக்கெட் அணி",
       "url": "/read/ta/pakistan_national_cricket_team"
     }
   ],
@@ -51,44 +51,44 @@
         {
           "label": "टेस्ट कप्तान",
           "value": {
-            "label": "Sarfaraz Ahmed",
+            "label": "सरफराज अहमद",
             "url": null,
             "image": {
               "url": "",
-              "altText": "Image of Sarfaraz Ahmed"
+              "altText": "Image of सरफराज अहमद"
             }
           }
         },
         {
           "label": "अंतर्राष्ट्रीय वनडे कप्तान",
           "value": {
-            "label": "Sarfaraz Ahmed",
+            "label": "सरफराज अहमद",
             "url": null,
             "image": {
               "url": "",
-              "altText": "Image of Sarfaraz Ahmed"
+              "altText": "Image of सरफराज अहमद"
             }
           }
         },
         {
           "label": "अंतर्राष्ट्रीय टी20 कप्तान",
           "value": {
-            "label": "Sarfaraz Ahmed",
+            "label": "सरफराज अहमद",
             "url": null,
             "image": {
               "url": "",
-              "altText": "Image of Sarfaraz Ahmed"
+              "altText": "Image of सरफराज अहमद"
             }
           }
         },
         {
           "label": "कोच",
           "value": {
-            "label": "Mickey Arthur",
+            "label": "मिकी आर्थर",
             "url": "/read/hi/mickey_arthur",
             "image": {
               "url": "/static/images/master/Mickey_Arthur.jpg",
-              "altText": "Image of Mickey Arthur"
+              "altText": "Image of मिकी आर्थर"
             }
           }
         }
@@ -96,16 +96,16 @@
     },
     {
       "title": "लोकप्रिय स्थल",
-      "id": "r8-national_stadium",
+      "id": "r8-नेशनल_स्टेडियम,_कराची",
       "cardType": "simple",
       "facts": [
         {
-          "label": "National Stadium",
+          "label": "नेशनल स्टेडियम, कराची",
           "value": {
-            "label": "The National Stadium in Karachi, Pakistan is able to hold 34,228 spectators",
+            "label": "पाकिस्तान के कराची स्थित नेशनल स्टेडियम में 34,228 दर्शकों के बैठने की क्षमता है",
             "image": {
               "url": "/static/images/master/Nat_Std01.JPG",
-              "altText": "Image of National Stadium"
+              "altText": "Image of नेशनल स्टेडियम, कराची"
             }
           }
         }
@@ -116,38 +116,38 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "Pre-independence",
+          "label": "स्वतंत्रता पूर्व",
           "id": 3,
           "note": "1935",
           "value": {
-            "label": " The first ever international cricket match in Karachi was held on 22 November 1935 between Sindh and Australian cricket teams. The match was seen by 5,000.",
+            "label": "कराची में पहला अंतरराष्ट्रीय क्रिकेट मैच 22 नवंबर, 1935 को सिंध और ऑस्ट्रेलियाई क्रिकेट टीम के बीच आयोजित किया गया था। मैच को 5,000 दर्शकों ने देखा था।",
             "facts": []
           }
         },
         {
-          "label": "1986 Austral-Asia Cup",
+          "label": "1986 ऑस्ट्रल-एशिया कप",
           "id": 3,
           "note": "1986",
           "value": {
-            "label": "The 1986 Austral-Asia Cup, played in Sharjah in UAE, is remembered for a famous last-ball victory for Pakistan against India, with Javed Miandad emerging as a national hero.",
+            "label": "वर्ष 1986 का ऑस्ट्रल-एशिया कप संयुक्त अरब अमीरात के शारजाह में खेला गया था। उसे पाकिस्तान की भारत के खिलाफ अंतिम गेंद पर मिली प्रसिद्घ जीत के लिए याद किया जाता है। इसमें जावेद मियादाद एक राष्ट्रीय नायक के रूप में सामने आए थे।",
             "facts": []
           }
         },
         {
-          "label": "1992 Cricket World Cup",
+          "label": "क्रिकेट विश्व कप- 1992",
           "id": 3,
           "note": "1992",
           "value": {
-            "label": "The 1992 Cricket World Cup in Australia and New Zealand marked Pakistan's first World Cup victory. ",
+            "label": "वर्ष 1992 में ऑस्ट्रेलिया और न्यूजीलैंड में आयोजित क्रिकेट विश्व कप में पाकिस्तान ने पहली बार विश्व कप जीता था।",
             "facts": []
           }
         },
         {
-          "label": "2009 ICC World T20",
+          "label": "2009 आईसीसी टी20 विश्व कप",
           "id": 3,
           "note": "2009",
           "value": {
-            "label": "Pakistan defeated Sri Lanka in the finals to mark its first world title since Imran Khan's \"cornered tigers\" in 1992",
+            "label": "पाकिस्तान ने फाइनल में श्रीलंका को हराकर 1992 में इमरान खान के बाद से अपना पहला विश्व खिताब जीता",
             "facts": []
           }
         }
@@ -156,116 +156,12 @@
     {
       "title": "प्रसिद्ध खिलाड़ी",
       "cardType": "stories",
-      "facts": [
-        {
-          "label": "Shoaib Malik",
-          "id": "shoaib_malik",
-          "value": {
-            "url": null,
-            "label": " On 1 July 2018, Malik became the first Asian batsman to score 2,000 runs in T20Is and first player to play 100 T20Is in the world.",
-            "image": {
-              "url": "/static/images/master/Shoaib_Malik.jpg",
-              "altText": "Image of Shoaib Malik"
-            }
-          }
-        },
-        {
-          "label": "Shahid Afridi",
-          "id": "shahid_afridi",
-          "value": {
-            "url": null,
-            "label": "Shahid Afridi holds the distinction of having hit the most number of sixes in the history of ODI cricket.",
-            "image": {
-              "url": "/static/images/master/Shahid_Afridi_in_2017.jpg",
-              "altText": "Image of Shahid Afridi"
-            }
-          }
-        },
-        {
-          "label": "Inzamam-ul-Haq",
-          "id": "inzamam-ul-haq",
-          "value": {
-            "url": null,
-            "label": "Syed Inzamam-ul-Haq, also known as Inzi, is a former Pakistani cricketer, and former captain. He is the leading run scorer for Pakistan in one-day internationals.",
-            "image": {
-              "url": "/static/images/master/Inzamam-ul-Haq.jpg",
-              "altText": "Image of Inzamam-ul-Haq"
-            }
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "उपलब्धियां और रिकॉर्ड",
       "cardType": "list_card",
-      "facts": [
-        {
-          "label": "1992 Cricket World Cup",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Pakistan overcame a dismal start in the tournament to eventually defeat England by 22 runs in the final and emerge as winners.",
-            "facts": [
-              {
-                "label": "1992 World Cup",
-                "id": "1992_cricket_world_cup-1992_world_cup",
-                "url": null,
-                "value": {
-                  "label": null,
-                  "image": {
-                    "altText": "Image of 1992 Cricket World Cup",
-                    "license": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "ICC World Twenty20",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "The final took place at Lord's on Sunday 21 June 2009 with Pakistan beating Sri Lanka by eight wickets.",
-            "facts": [
-              {
-                "label": "आईसीसी टी20 विश्व कप",
-                "id": "icc_world_twenty20-",
-                "url": "/read/hi/icc_t20_world_cup",
-                "value": {
-                  "label": "आईसीसी टी20 विश्व कप (जिसे पहले आईसीसी विश्व ट्वेंटी20 के नाम से जाना जाता था) ट्वेंटी20 क्रिकेट की अंतर्राष्ट्रीय चैम्पियनशिप है। वर्तमान में इस टूर्नामेंट में 16 टीमें भाग लेती हैं, जिसमें आठ टीमें दी गई समय सीमा के भीतर रैंकिंग के शीर्ष आठ में रहने वाली टीमें होती हैं जबकि चार अन्य टीमें टी20 विश्व कप क्वालीफायर के माध्यम से चुनी जातीं हैं।",
-                  "image": {
-                    "altText": "Image of ICC World Twenty20",
-                    "license": ""
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
-          "label": "ICC Champions Trophy",
-          "id": 0,
-          "note": null,
-          "value": {
-            "label": "Pakistan won the competition for the first time with a 180-run victory over India in the final.",
-            "facts": [
-              {
-                "label": "आईसीसी चैंपियंस ट्रॉफी",
-                "id": "icc_champions_trophy-",
-                "url": "/read/hi/icc_champions_trophy",
-                "value": {
-                  "label": "आईसीसी चैंपियंस ट्रॉफी एक दिवसीय अंतर्राष्ट्रीय (वनडे) क्रिकेट टूर्नामेंट था जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया जाता था, जो क्रिकेट विश्व कप के बाद दूसरा सबसे महत्वपूर्ण आयोजन था। 2002 में इसका नाम बदलकर चैंपियंस ट्रॉफी रखा गया।",
-                  "image": {
-                    "url": "",
-                    "altText": "Image of ICC Champions Trophy"
-                  }
-                }
-              }
-            ]
-          }
-        }
-      ]
+      "facts": []
     },
     {
       "title": "प्रायोजक",
@@ -274,33 +170,30 @@
       "facts": [
         {
           "value": {
-            "label": "CA Sports",
+            "label": "सीए स्पोर्ट्स",
             "url": null,
             "image": {
-              "url": "/static/images/master/CA_sports_logo.png",
-              "altText": "Image of CA Sports"
+              "altText": "Image of सीए स्पोर्ट्स"
             }
           }
         },
         {
-          "label": "Shirt Sponsor",
+          "label": "शर्ट प्रायोजक",
           "value": {
-            "label": "Pepsi",
+            "label": "पेप्सी",
             "url": null,
             "image": {
-              "url": "/static/images/master/Pepsi_logo_new.svg",
-              "altText": "Image of Pepsi"
+              "altText": "Image of पेप्सी"
             }
           }
         },
         {
-          "label": "Kit sponsor",
+          "label": "किट प्रायोजक",
           "value": {
-            "label": "T10 Sports",
+            "label": "टी10 स्पोर्ट्स",
             "url": null,
             "image": {
-              "url": "",
-              "altText": "Image of T10 Sports"
+              "altText": "Image of टी10 स्पोर्ट्स"
             }
           }
         }
