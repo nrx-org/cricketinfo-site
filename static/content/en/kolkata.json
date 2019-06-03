@@ -104,7 +104,7 @@
       "facts": [
         {
           "label": "Art",
-          "id": "culture-art",
+          "id": "culture_0",
           "value": {
             "label": "Kolkata has been called the \"City of Furious, Creative Energy\" as well as the \"cultural [or literary] capital of India\".",
             "image": {
@@ -115,7 +115,7 @@
         },
         {
           "label": "Architecture",
-          "id": "culture-architecture",
+          "id": "culture_1",
           "value": {
             "label": "Kolkata has many buildings adorned with Indo-Islamic and Indo-Saracenic architectural motifs. Several well-maintained major buildings from the colonial period have been declared \"heritage structures\".",
             "image": {
@@ -126,7 +126,7 @@
         },
         {
           "label": "Film",
-          "id": "culture-film",
+          "id": "culture_2",
           "value": {
             "label": "Kolkata is the home of the Bengali cinema industry, dubbed \"Tollywood\" for Tollygunj, where most of the state's film studios are located.",
             "image": {
@@ -137,7 +137,7 @@
         },
         {
           "label": "Dress",
-          "id": "culture-dress",
+          "id": "culture_3",
           "value": {
             "label": "Though Bengali women traditionally wear the sari, the shalwar kameez and Western attire is gaining acceptance among younger women. Western-style dress has greater acceptance among men, although the traditional dhoti and kurta are seen during festivals.",
             "image": {

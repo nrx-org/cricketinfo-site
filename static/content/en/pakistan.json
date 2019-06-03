@@ -185,7 +185,7 @@
       "facts": [
         {
           "label": "Literature",
-          "id": "culture-literature",
+          "id": "culture_0",
           "value": {
             "label": "Pakistan has literature in Urdu, Sindhi, Punjabi, Pashto, Baluchi, Persian, English, and many other languages. Before the 19th century, Pakistani literature consisted mainly of lyric and religious poetry, and mystical and folkloric works. During the colonial period, native literary figures were influenced by western literary realism and took up increasingly varied topics and narrative forms. Well-known figures in contemporary Pakistani Urdu literature include Josh Malihabadi, Faiz Ahmed Faiz, and Saadat Hasan Manto. ",
             "image": {
@@ -197,7 +197,7 @@
         },
         {
           "label": "Architecture",
-          "id": "culture-architecture",
+          "id": "culture_1",
           "value": {
             "label": "Four periods are recognised in Pakistani architecture: pre-Islamic, Islamic, colonial, and post-colonial. Lahore, as the occasional residence of Mughal rulers, contains many important buildings from the era. Several examples of architectural influenced by British design can be found in Lahore, Peshawar, and Karachi.",
             "image": {
@@ -208,7 +208,7 @@
         },
         {
           "label": "Music",
-          "id": "culture-music",
+          "id": "culture_2",
           "value": {
             "label": "Music of Pakistan includes diverse music from various parts of South Asia as well as Central Asian, Middle Eastern, and modern-day Western popular music.",
             "image": {
@@ -219,7 +219,7 @@
         },
         {
           "label": "Sports",
-          "id": "culture-sports",
+          "id": "culture_3",
           "value": {
             "label": "Cricket is the most popular sport in Pakistan, while field hockey, polo, and squash are also popular. Traditional sports like kabaddi and other well-known games are also played.",
             "image": {

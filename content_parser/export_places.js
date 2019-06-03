@@ -380,14 +380,14 @@ module.exports.exportPlaces = () => {
 
       // Culture.
       let cultureFacts = await Promise.all(
-        CULTURE.map(async culture => {
+        CULTURE.map(async (culture, index) => {
           if (!record[culture.TITLE_KEY]) {
             return null;
           }
 
           return {
             label: record[culture.TITLE_KEY],
-            id: getSluggedTitle(`culture-${record[culture.TITLE_KEY]}`),
+            id: getSluggedTitle(`culture_${index}`),
             value: {
               label: record[culture.DESCRIPTION_KEY],
               image: await downloadImageAndFillAttributions(

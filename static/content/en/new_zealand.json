@@ -183,7 +183,7 @@
       "facts": [
         {
           "label": "Art",
-          "id": "culture-art",
+          "id": "culture_0",
           "value": {
             "label": "As part of the resurgence of Māori culture, the traditional crafts of carving and weaving are now more widely practised and Māori artists are increasing in number and influence. During the 1960s and 1970s many artists combined traditional Māori and Western techniques, creating unique art forms.",
             "image": {
@@ -194,7 +194,7 @@
         },
         {
           "label": "Sports",
-          "id": "culture-sports",
+          "id": "culture_1",
           "value": {
             "label": "Most of the major sports played in New Zealand have British origins - Cricket, Rugby, etc. Rugby is considered the national sport. The national Rugby team, 'All Blacks' are the most successful in the history of international Rugby and the team performs a haka, a traditional Māori challenge, before international matches. New Zealand also has a strong mountaineering tradition, as seen in the success of notable New Zealander Sir Edmund Hillary, the first to climb Mount Everest.",
             "image": {
@@ -205,7 +205,7 @@
         },
         {
           "label": "Entertainment",
-          "id": "culture-entertainment",
+          "id": "culture_2",
           "value": {
             "label": "The country's diverse scenery and compact size, plus government incentives, have encouraged the shooting of big-budget film productions in New Zealand, including Avatar, The Lord of the Rings, The Hobbit, The Chronicles of Narnia, King Kong and The Last Samurai.",
             "image": {

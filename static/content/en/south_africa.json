@@ -181,7 +181,7 @@
       "facts": [
         {
           "label": "Arts",
-          "id": "culture-arts",
+          "id": "culture_0",
           "value": {
             "label": "South African art includes the oldest art objects in the world, which were discovered in a South African cave, and dated from 75,000 years ago.",
             "image": {
@@ -193,7 +193,7 @@
         },
         {
           "label": "Popular culture",
-          "id": "culture-popular_culture",
+          "id": "culture_1",
           "value": {
             "label": "The South African media sector is large, and South Africa is one of Africa's major media centres. While South Africa's many broadcasters and publications reflect the diversity of the population as a whole, the most commonly used language is English. However, all ten other official languages are represented to some extent or another.",
             "image": {
@@ -204,7 +204,7 @@
         },
         {
           "label": "Cuisine",
-          "id": "culture-cuisine",
+          "id": "culture_2",
           "value": {
             "label": "South African cuisine is heavily meat-based and has spawned the distinctively South African social gathering known as the braai, a variation of the barbecue. South Africa has also developed into a major wine producer.",
             "image": {
@@ -215,7 +215,7 @@
         },
         {
           "label": "Sports",
-          "id": "culture-sports",
+          "id": "culture_3",
           "value": {
             "label": "South Africa's most popular sports are soccer, rugby and cricket.",
             "image": {

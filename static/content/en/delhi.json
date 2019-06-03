@@ -123,7 +123,7 @@
       "facts": [
         {
           "label": "Architecture",
-          "id": "culture-architecture",
+          "id": "culture_0",
           "value": {
             "label": "The Archaeological Survey of India recognises 1,200 heritage buildings and 175 monuments as national heritage sites in Delhi.",
             "image": {
@@ -135,7 +135,7 @@
         },
         {
           "label": "Food",
-          "id": "culture-food",
+          "id": "culture_1",
           "value": {
             "label": "Delhi's lengthy history as a capital city has seen the food habits of its residents be influenced by many groups that occupied the city over the centuries.",
             "image": {
@@ -146,7 +146,7 @@
         },
         {
           "label": "New Delhi World Book Fair",
-          "id": "culture-new_delhi_world_book_fair",
+          "id": "culture_2",
           "value": {
             "label": "The New Delhi World Book Fair, held biennially at the Pragati Maidan, is the second-largest exhibition of books in the world.",
             "image": {
@@ -158,7 +158,7 @@
         },
         {
           "label": "World Heritage Sites",
-          "id": "culture-world_heritage_sites",
+          "id": "culture_3",
           "value": {
             "label": "Three World Heritage Sites—the Red Fort, Qutub Minar and Humayun's Tomb—are located in Delhi.",
             "image": {

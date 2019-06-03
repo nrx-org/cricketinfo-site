@@ -183,7 +183,7 @@
       "facts": [
         {
           "label": "Arts",
-          "id": "culture-arts",
+          "id": "culture_0",
           "value": {
             "label": "The Royal Exhibition Building in Melbourne was the first building in Australia to be listed as a UNESCO World Heritage Site in 2004.",
             "image": {
@@ -194,7 +194,7 @@
         },
         {
           "label": "Cuisine",
-          "id": "culture-cuisine",
+          "id": "culture_1",
           "value": {
             "label": "Vegemite, pavlova, lamingtons and meat pies are regarded as iconic Australian foods.",
             "image": {
@@ -205,7 +205,7 @@
         },
         {
           "label": "Sport and recreation",
-          "id": "culture-sport_and_recreation",
+          "id": "culture_2",
           "value": {
             "label": "The Melbourne Cricket Ground is strongly associated with the history and development of cricket and Australian rules football, Australia's two most popular spectator sports.",
             "image": {
@@ -216,7 +216,7 @@
         },
         {
           "label": "Literature",
-          "id": "culture-literature",
+          "id": "culture_3",
           "value": {
             "label": "Seven Little Australians by Ethel Turner is the first and only book by an Australian author to have been continuously in print for 100 years.",
             "image": {
