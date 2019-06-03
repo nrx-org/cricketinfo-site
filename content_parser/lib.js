@@ -233,6 +233,23 @@ const downloadImageAndFillAttributions = async (imageObject, articleSlug) => {
   return null;
 };
 
+module.exports.defaultImages = {
+  personCard: {},
+  schoolCard: {},
+  cricketFull: {},
+  awardFull: {},
+  teamCard: {},
+  awardCard: {},
+  geographyFull: {},
+  cultureFull: {},
+  historyFull: {},
+  factFull: {},
+  articleCard: {},
+  placeCard: {},
+  eventCard: {},
+  statisticFull: {}
+};
+
 module.exports = {
   findIdMapEntryById,
   getSluggedTitle,

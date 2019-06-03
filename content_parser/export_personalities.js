@@ -351,9 +351,7 @@ module.exports.exportPersonalities = () => {
                 label: record[ALMA_MATER_DESCRIPTION_KEY],
                 image: await downloadImageAndFillAttributions(
                   {
-                    url:
-                      record[ALMA_MATER_IMAGE_KEY] ||
-                      "/static/images/default_person.svg",
+                    url: record[ALMA_MATER_IMAGE_KEY],
                     altText: `Image of ${record[ALMA_MATER_KEY]}`
                   },
                   englishSlug
