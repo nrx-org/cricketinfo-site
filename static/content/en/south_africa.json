@@ -4,8 +4,7 @@
   "wikipediaUrl": "https://en.wikipedia.org/wiki/South_Africa",
   "coverImage": {
     "url": "/static/images/master/Flag_of_South_Africa.svg",
-    "altText": "Image of South Africa",
-    "license": ""
+    "altText": "Image of South Africa"
   },
   "translations": [
     {
@@ -170,8 +169,7 @@
             "label": "South Africa is located at the southernmost region of Africa, with a long coastline that stretches more than 2,500 km (1,553 mi) and along two oceans (the South Atlantic and the Indian).",
             "image": {
               "url": "/static/images/master/Durban_beach.jpg",
-              "altText": "An image of South Africa",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+              "altText": "An image of South Africa"
             }
           }
         }
@@ -200,8 +198,7 @@
             "label": "The South African media sector is large, and South Africa is one of Africa's major media centres. While South Africa's many broadcasters and publications reflect the diversity of the population as a whole, the most commonly used language is English. However, all ten other official languages are represented to some extent or another.",
             "image": {
               "url": "/static/images/master/South_African_Broadcasting_Corporation_logo.svg",
-              "altText": "The South African media sector is large, and South Africa is one of Africa's major media centres. While South Africa's many broadcasters and publications reflect the diversity of the population as a whole, the most commonly used language is English. However, all ten other official languages are represented to some extent or another.",
-              "license": ""
+              "altText": "The South African media sector is large, and South Africa is one of Africa's major media centres. While South Africa's many broadcasters and publications reflect the diversity of the population as a whole, the most commonly used language is English. However, all ten other official languages are represented to some extent or another."
             }
           }
         },
@@ -212,8 +209,7 @@
             "label": "South African cuisine is heavily meat-based and has spawned the distinctively South African social gathering known as the braai, a variation of the barbecue. South Africa has also developed into a major wine producer.",
             "image": {
               "url": "/static/images/master/Braai_Fire.JPG",
-              "altText": "South African cuisine is heavily meat-based and has spawned the distinctively South African social gathering known as the braai, a variation of the barbecue. South Africa has also developed into a major wine producer.",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+              "altText": "South African cuisine is heavily meat-based and has spawned the distinctively South African social gathering known as the braai, a variation of the barbecue. South Africa has also developed into a major wine producer."
             }
           }
         },
@@ -281,5 +277,6 @@
         }
       ]
     }
-  ]
+  ],
+  "category": "place"
 }

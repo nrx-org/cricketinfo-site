@@ -33,7 +33,7 @@
         {
           "label": "பிறந்த தேதி",
           "value": {
-            "label": "18-04-1992 (வயது 27)"
+            "label": "Invalid Date (வயது 27)"
           }
         },
         {
@@ -286,5 +286,6 @@
       "cardType": "tag_card",
       "facts": []
     }
-  ]
+  ],
+  "category": "personality"
 }

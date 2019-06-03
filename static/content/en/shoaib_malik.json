@@ -33,7 +33,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": " 1 February 1982 (Age 37)"
+            "label": "Invalid Date (Age 37)"
           }
         },
         {
@@ -256,5 +256,6 @@
       "cardType": "tag_card",
       "facts": []
     }
-  ]
+  ],
+  "category": "personality"
 }

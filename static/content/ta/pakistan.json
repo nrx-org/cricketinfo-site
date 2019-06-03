@@ -4,8 +4,7 @@
   "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BE%E0%AE%A9%E0%AF%8D",
   "coverImage": {
     "url": "/static/images/master/Flag_of_Pakistan.svg",
-    "altText": "Image of பாகிஸ்தான்",
-    "license": ""
+    "altText": "Image of பாகிஸ்தான்"
   },
   "translations": [
     {
@@ -234,5 +233,6 @@
         }
       ]
     }
-  ]
+  ],
+  "category": "place"
 }

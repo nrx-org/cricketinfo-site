@@ -33,7 +33,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": "04-06-1991 (Age 27)"
+            "label": "Invalid Date (Age 27)"
           }
         },
         {
@@ -294,5 +294,6 @@
         }
       ]
     }
-  ]
+  ],
+  "category": "personality"
 }

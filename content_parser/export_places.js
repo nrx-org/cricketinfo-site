@@ -457,6 +457,8 @@ module.exports.exportPlaces = () => {
         place.sections.push(demographicsSection);
       }
 
+      place.category = "place";
+
       fs.writeFileSync(
         `./static/content/${lang}/${englishSlug}.json`,
         JSON.stringify(place, null, 2)

@@ -1,5 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
+import track from "react-tracking";
+import { LIKE_STORY } from "../../lib/matomo";
 import { factPropTypes } from "../../lib/prop_types";
 import { BackgroundImage } from "../BackgroundImage";
 import { Icon } from "../Icon";
@@ -8,6 +10,7 @@ import { ExternalUrlShareModalContainer } from "../ExternalUrlShareModalContaine
 
 const LOCALSTORAGE_KEY = "wcpStoryFavorites";
 
+@track({ page: "StoryIndividual" })
 export class Story extends React.Component {
   constructor(props) {
     super(props);
@@ -43,6 +46,9 @@ export class Story extends React.Component {
       : {};
   }
 
+  @track(props => {
+    return LIKE_STORY(`${props.story.id}-${props.story.label}`);
+  })
   setFavoritedInfoToLocalStorage() {
     const { story } = this.props;
 

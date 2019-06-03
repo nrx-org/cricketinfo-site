@@ -33,7 +33,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": "06-06-1988 (Age 30)"
+            "label": "Invalid Date (Age 30)"
           }
         },
         {
@@ -349,5 +349,6 @@
         }
       ]
     }
-  ]
+  ],
+  "category": "personality"
 }

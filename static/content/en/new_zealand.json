@@ -4,8 +4,7 @@
   "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Zealand",
   "coverImage": {
     "url": "/static/images/master/Flag_of_New_Zealand.svg",
-    "altText": "Image of New Zealand",
-    "license": ""
+    "altText": "Image of New Zealand"
   },
   "translations": [
     {
@@ -248,5 +247,6 @@
         }
       ]
     }
-  ]
+  ],
+  "category": "place"
 }

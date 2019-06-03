@@ -32,7 +32,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": "20 September 1998 (Age 20)"
+            "label": "Invalid Date (Age 20)"
           }
         },
         {
@@ -258,5 +258,6 @@
         }
       ]
     }
-  ]
+  ],
+  "category": "personality"
 }

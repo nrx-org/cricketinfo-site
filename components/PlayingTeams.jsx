@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
-
+import { useTracking } from "react-tracking";
+import { CLICK_ALL_PARTICIPATING_TEAMS } from "../lib/matomo";
 import { factPropTypes } from "../lib/prop_types";
 import { CoverCardCarousel } from "./CoverCardCarousel";
 import { Button } from "./Button";
@@ -13,6 +14,8 @@ import { todayString } from "../lib/date";
 import { homeUiStrings } from "../lib/ui_strings";
 
 export const PlayingTeams = ({ teams, allTeams }) => {
+  const tracking = useTracking();
+
   const dateString = todayString();
   let teamsForToday = teams.filter(f => f.dates.indexOf(dateString) > -1);
 
@@ -39,12 +42,15 @@ export const PlayingTeams = ({ teams, allTeams }) => {
               <>
                 <Button
                   isInverted
-                  onClick={() =>
+                  onClick={() => {
+                    tracking.trackEvent(
+                      CLICK_ALL_PARTICIPATING_TEAMS(window.location.pathname)
+                    );
                     openModal(TEAMS_LIST_MODAL_ID, {
                       items: allTeams,
                       title: homeUiStrings.allParticipatingTeams[lang]
-                    })
-                  }
+                    });
+                  }}
                 >
                   {homeUiStrings.seeAllParticipatingTeams[lang]}
                 </Button>

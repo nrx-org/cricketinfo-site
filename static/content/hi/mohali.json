@@ -4,8 +4,7 @@
   "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%9C%E0%A5%80%E0%A4%A4%E0%A4%97%E0%A4%A2%E0%A4%BC",
   "coverImage": {
     "url": "/static/images/master/ISB27s_Mohali_Campus.jpg",
-    "altText": "Image of मोहाली",
-    "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\" title=\"Wikipedia:Text of the GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.\n<div style=\"display: none\">\n<p><span class=\"licensetpl_short\">GFDL</span>\n<span class=\"licensetpl_long\">GNU Free Documentation License</span>\n<span class=\"licensetpl_link\">//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License</span>\n</p>\n</div></p><p><i>This work is licensed under the <a href=\"/wiki/Creative_Commons\" title=\"Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Attribution-ShareAlike 3.0</a> License. </i><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">CC-BY-SA-3.0</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-ShareAlike 3.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
+    "altText": "Image of मोहाली"
   },
   "translations": [
     {
@@ -109,8 +108,7 @@
             "label": "गुरुद्वारा अंब साहिब एक ऐतिहासिक तीर्थ स्थान है जो मोहाली में स्थित है। यह सिखों के 7वें गुरु, गुरु हर राय की यात्रा की स्मृति में है।",
             "image": {
               "url": "/static/images/master/Guru_Har_Rai.jpg",
-              "altText": "गुरुद्वारा अंब साहिब एक ऐतिहासिक तीर्थ स्थान है जो मोहाली में स्थित है। यह सिखों के 7वें गुरु, गुरु हर राय की यात्रा की स्मृति में है।",
-              "license": ""
+              "altText": "गुरुद्वारा अंब साहिब एक ऐतिहासिक तीर्थ स्थान है जो मोहाली में स्थित है। यह सिखों के 7वें गुरु, गुरु हर राय की यात्रा की स्मृति में है।"
             }
           }
         }
@@ -157,5 +155,6 @@
         }
       ]
     }
-  ]
+  ],
+  "category": "place"
 }

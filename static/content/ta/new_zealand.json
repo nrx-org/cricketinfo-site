@@ -4,8 +4,7 @@
   "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AE%BF%E0%AE%AF%E0%AF%82%E0%AE%9A%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81",
   "coverImage": {
     "url": "/static/images/master/Flag_of_New_Zealand.svg",
-    "altText": "Image of நியூசிலாந்து",
-    "license": ""
+    "altText": "Image of நியூசிலாந்து"
   },
   "translations": [
     {
@@ -230,5 +229,6 @@
         }
       ]
     }
-  ]
+  ],
+  "category": "place"
 }

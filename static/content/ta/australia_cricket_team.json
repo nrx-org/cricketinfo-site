@@ -222,9 +222,9 @@
               {
                 "label": "1987 கிரிக்கெட் உலகக் கோப்பை",
                 "id": "1987_உலகக்_கோப்பை_வெற்றி-1987_கிரிக்கெட்_உலகக்_கோப்பை",
-                "url": null,
+                "url": "/read/ta/1987_cricket_world_cup",
                 "value": {
-                  "label": null,
+                  "label": "The 1987 Cricket World Cup (known as the Reliance Cup 1987 for sponsorship reasons) was the fourth edition of the ICC Cricket World Cup tournament. It was held from 8 October to 8 November 1987 in India and Pakistan.",
                   "image": {
                     "altText": "Image of 1987 உலகக் கோப்பை வெற்றி",
                     "license": ""
@@ -342,5 +342,6 @@
         }
       ]
     }
-  ]
+  ],
+  "category": "team"
 }

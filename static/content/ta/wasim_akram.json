@@ -32,7 +32,7 @@
         {
           "label": "பிறந்த தேதி",
           "value": {
-            "label": "03-06-1966 (வயது 52)"
+            "label": "Invalid Date (வயது 52)"
           }
         },
         {
@@ -352,5 +352,6 @@
         }
       ]
     }
-  ]
+  ],
+  "category": "personality"
 }

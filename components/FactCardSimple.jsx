@@ -1,5 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
+import { useTracking } from "react-tracking";
+import { SHARE_FLAT_CARD } from "../lib/matomo";
 
 import { IconButton } from "./IconButton";
 import { SectionTitle } from "./SectionTitle";
@@ -10,7 +12,10 @@ import { getImageShareUrl } from "../lib/urls";
 import { SHARE_MODAL_ID } from "../lib/modal_ids";
 
 const FactCardSimpleContents = ({ cardData, openModal }) => {
+  const tracking = useTracking();
+
   const share = () => {
+    tracking.trackEvent(SHARE_FLAT_CARD(cardData.facts[0].label));
     const shareUrl = getImageShareUrl(window.location.href, `#${cardData.id}`);
     if (navigator.share) {
       navigator.share({

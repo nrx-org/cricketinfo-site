@@ -1,10 +1,13 @@
 import React from "react";
 import PropTypes from "prop-types";
+import { useTracking } from "react-tracking";
+import { CLICK_TINY_CARD } from "../lib/matomo";
 import ArticleSummaryLink from "./ArticleSummaryLink";
 import { imagePropTypes } from "../lib/prop_types";
 import { Image } from "./Image";
 
 export const TinyCard = ({ children, coverImage, title, href }) => {
+  const tracking = useTracking();
   const activeClassName = href
     ? "wcp-tiny-card--active"
     : "wcp-tiny-card--passive";
@@ -27,6 +30,9 @@ export const TinyCard = ({ children, coverImage, title, href }) => {
     <ArticleSummaryLink
       className={`wcp-tiny-card-wrapper ${activeClassName}`}
       href={href}
+      onClick={() => {
+        tracking.trackEvent(CLICK_TINY_CARD(title));
+      }}
     >
       {contentEl}
     </ArticleSummaryLink>

@@ -33,7 +33,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": "11-10-1993 (Age 25)"
+            "label": "Invalid Date (Age 25)"
           }
         },
         {
@@ -292,5 +292,6 @@
       "cardType": "tag_card",
       "facts": []
     }
-  ]
+  ],
+  "category": "personality"
 }

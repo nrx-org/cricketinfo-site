@@ -32,7 +32,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": "14-12-1994 (Age 24)"
+            "label": "Invalid Date (Age 24)"
           }
         },
         {
@@ -282,5 +282,6 @@
       "cardType": "tag_card",
       "facts": []
     }
-  ]
+  ],
+  "category": "personality"
 }

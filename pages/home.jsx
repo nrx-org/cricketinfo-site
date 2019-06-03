@@ -2,6 +2,7 @@ import React from "react";
 import Head from "next/head";
 import PropTypes from "prop-types";
 import fetch from "isomorphic-fetch";
+import track from "react-tracking";
 
 import { BaseLayout } from "../components/BaseLayout";
 import { LanguageContext } from "../language_context";
@@ -165,4 +166,9 @@ Home.propTypes = {
   quizQuestions: PropTypes.arrayOf(quizQuestionPropType).isRequired
 };
 
-export default Home;
+export default track(
+  props => {
+    return { page: "HomePage", language: props.lang };
+  },
+  { dispatchOnMount: true }
+)(Home);

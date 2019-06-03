@@ -469,6 +469,8 @@ module.exports.exportEventsIndividual = () => {
 
       event.sections.push(finalPositionsSection);
 
+      event.category = "tournament_individual";
+
       fs.writeFileSync(
         `./static/content/${lang}/${englishSlug}.json`,
         JSON.stringify(event, null, 2)

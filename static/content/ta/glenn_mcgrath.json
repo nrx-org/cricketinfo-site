@@ -32,7 +32,7 @@
         {
           "label": "பிறந்த தேதி",
           "value": {
-            "label": "09-02-1970 (வயது 59)"
+            "label": "Invalid Date (வயது 59)"
           }
         },
         {
@@ -339,5 +339,6 @@
         }
       ]
     }
-  ]
+  ],
+  "category": "personality"
 }

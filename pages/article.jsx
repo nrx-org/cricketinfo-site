@@ -3,6 +3,11 @@ import PropTypes from "prop-types";
 
 import Head from "next/head";
 import fetch from "isomorphic-fetch";
+import track, { useTracking } from "react-tracking";
+import {
+  SET_ARTICLE_CATEGORY,
+  CLICK_READ_MORE_ON_WIKIPEDIA
+} from "../lib/matomo";
 
 import { BaseLayout } from "../components/BaseLayout";
 import { LanguageSelector } from "../components/LanguageSelector";
@@ -41,86 +46,95 @@ const Article = ({
   translations,
   imageAttributions,
   wikipediaUrl
-}) => (
-  <LanguageContext.Provider value={lang}>
-    <ModalContextProvider>
-      <BaseLayout>
-        <Head>
-          <title>{makeArticleTitle(title, lang)}</title>
-        </Head>
-        <div className="wcp-article__cover-image-container">
-          <img
-            className="wcp-article__cover-image"
-            src={coverImage.url}
-            alt={coverImage.altText}
+}) => {
+  const tracking = useTracking();
+  return (
+    <LanguageContext.Provider value={lang}>
+      <ModalContextProvider>
+        <BaseLayout>
+          <Head>
+            <title>{makeArticleTitle(title, lang)}</title>
+          </Head>
+          <div className="wcp-article__cover-image-container">
+            <img
+              className="wcp-article__cover-image"
+              src={coverImage.url}
+              alt={coverImage.altText}
+            />
+          </div>
+          <ShareArticleFloatingToolbarContainer articleId={articleId} />
+          <section>
+            <HomeButton lang={lang} />
+            <h1 className="wcp-article__title">{title}</h1>
+
+            {/* eslint-disable-next-line react/no-danger */}
+            <p dangerouslySetInnerHTML={{ __html: summary }} />
+          </section>
+
+          <LanguageSelector
+            translations={translations}
+            coverImage={coverImage}
           />
-        </div>
-        <ShareArticleFloatingToolbarContainer articleId={articleId} />
-        <section>
-          <HomeButton lang={lang} />
-          <h1 className="wcp-article__title">{title}</h1>
+          {sections.map(factCard => {
+            if (factCard)
+              return (
+                <FactCard
+                  key={factCard.title}
+                  className="wcp-summary-fact-card"
+                  cardData={factCard}
+                />
+              );
+            return null;
+          })}
+          <ModalContextConsumer>
+            {({ openModal }) => (
+              <Button
+                className="wcp-article__button-read-more"
+                isInverted
+                isFullWidth
+                onClick={() => {
+                  tracking.trackEvent(
+                    CLICK_READ_MORE_ON_WIKIPEDIA(window.location.pathname)
+                  );
+                  openModal(CONTINUE_READING_MODAL_ID, { wikipediaUrl });
+                }}
+              >
+                {articleUiStrings.readOnWikipedia[lang]}
+              </Button>
+            )}
+          </ModalContextConsumer>
+          <Attributions attributions={imageAttributions} lang={lang} />
+        </BaseLayout>
 
-          {/* eslint-disable-next-line react/no-danger */}
-          <p dangerouslySetInnerHTML={{ __html: summary }} />
-        </section>
-
-        <LanguageSelector translations={translations} coverImage={coverImage} />
-        {sections.map(factCard => {
-          if (factCard)
-            return (
-              <FactCard
-                key={factCard.title}
-                className="wcp-summary-fact-card"
-                cardData={factCard}
-              />
-            );
-          return null;
-        })}
         <ModalContextConsumer>
-          {({ openModal }) => (
-            <Button
-              className="wcp-article__button-read-more"
-              isInverted
-              isFullWidth
-              onClick={() =>
-                openModal(CONTINUE_READING_MODAL_ID, { wikipediaUrl })
-              }
-            >
-              {articleUiStrings.readOnWikipedia[lang]}
-            </Button>
+          {({ registerModal, isModalOpen, modalData, closeModal }) => (
+            <>
+              <ArticleSummaryModalContainer
+                registerModal={registerModal}
+                isModalOpen={isModalOpen}
+                modalData={modalData}
+                closeModal={closeModal}
+              />
+              <ImageAttributionsModalContainer
+                registerModal={registerModal}
+                closeModal={closeModal}
+                isModalOpen={isModalOpen}
+                modalData={modalData}
+              />
+              <ContinueReadingModalContainer
+                registerModal={registerModal}
+                closeModal={closeModal}
+                isModalOpen={isModalOpen}
+                modalData={modalData}
+                lang={lang}
+              />
+            </>
           )}
         </ModalContextConsumer>
-        <Attributions attributions={imageAttributions} lang={lang} />
-      </BaseLayout>
-
-      <ModalContextConsumer>
-        {({ registerModal, isModalOpen, modalData, closeModal }) => (
-          <>
-            <ArticleSummaryModalContainer
-              registerModal={registerModal}
-              isModalOpen={isModalOpen}
-              modalData={modalData}
-              closeModal={closeModal}
-            />
-            <ImageAttributionsModalContainer
-              registerModal={registerModal}
-              closeModal={closeModal}
-              isModalOpen={isModalOpen}
-              modalData={modalData}
-            />
-            <ContinueReadingModalContainer
-              registerModal={registerModal}
-              closeModal={closeModal}
-              isModalOpen={isModalOpen}
-              modalData={modalData}
-              lang={lang}
-            />
-          </>
-        )}
-      </ModalContextConsumer>
-    </ModalContextProvider>
-  </LanguageContext.Provider>
-);
+      </ModalContextProvider>
+    </LanguageContext.Provider>
+  );
+};
 
 Article.getInitialProps = async ({ query }) => {
   const { articleId, lang } = query;
@@ -136,12 +150,14 @@ Article.getInitialProps = async ({ query }) => {
       cardType: "survey_link"
     });
   }
+  const { category } = articleJson;
 
   return {
     ...articleJson,
     articleId,
     lang,
-    imageAttributions
+    imageAttributions,
+    category
   };
 };
 
@@ -161,4 +177,9 @@ Article.propTypes = {
   imageAttributions: PropTypes.arrayOf(imagePropTypes).isRequired
 };
 
-export default Article;
+export default track(
+  props => {
+    return { page: "ArticlePage", data: SET_ARTICLE_CATEGORY(props.category) };
+  },
+  { dispatchOnMount: true }
+)(Article);

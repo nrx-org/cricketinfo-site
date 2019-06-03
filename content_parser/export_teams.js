@@ -522,6 +522,8 @@ module.exports.exportTeams = () => {
       team.sections.push(achievementsSection);
       team.sections.push(sponsorsSection);
 
+      team.category = "team";
+
       fs.writeFileSync(
         `./static/content/${lang}/${englishSlug}.json`,
         JSON.stringify(team, null, 2)

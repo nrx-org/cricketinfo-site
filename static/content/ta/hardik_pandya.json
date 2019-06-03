@@ -33,7 +33,7 @@
         {
           "label": "பிறந்த தேதி",
           "value": {
-            "label": "11-10-1993 (வயது 25)"
+            "label": "Invalid Date (வயது 25)"
           }
         },
         {
@@ -292,5 +292,6 @@
       "cardType": "tag_card",
       "facts": []
     }
-  ]
+  ],
+  "category": "personality"
 }

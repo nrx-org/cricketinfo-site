@@ -33,7 +33,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": "03-09-1990 (Age 28)"
+            "label": "Invalid Date (Age 28)"
           }
         },
         {
@@ -307,5 +307,6 @@
       "cardType": "tag_card",
       "facts": []
     }
-  ]
+  ],
+  "category": "personality"
 }

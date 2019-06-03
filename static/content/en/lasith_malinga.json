@@ -33,7 +33,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": "28 August 1983 (Age 35)"
+            "label": "Invalid Date (Age 35)"
           }
         },
         {
@@ -372,5 +372,6 @@
       "cardType": "tag_card",
       "facts": []
     }
-  ]
+  ],
+  "category": "personality"
 }

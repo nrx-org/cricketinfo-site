@@ -33,7 +33,7 @@
         {
           "label": "பிறந்த தேதி",
           "value": {
-            "label": "28 August 1983 (வயது 35)"
+            "label": "Invalid Date (வயது 35)"
           }
         },
         {
@@ -372,5 +372,6 @@
       "cardType": "tag_card",
       "facts": []
     }
-  ]
+  ],
+  "category": "personality"
 }

@@ -1,10 +1,13 @@
 import React from "react";
 import PropTypes from "prop-types";
+import track from "react-tracking";
+import { OPEN_STORY_FULL_SCREEN } from "../../lib/matomo";
 import { factPropTypes } from "../../lib/prop_types";
 import { Story } from "./Story";
 import { ProgressBar } from "./ProgressBar";
 import { Icon } from "../Icon";
 
+@track({ page: "StoryContainer" })
 export class Container extends React.Component {
   constructor(props) {
     super(props);
@@ -37,6 +40,9 @@ export class Container extends React.Component {
     if (interval) this.defaultInterval = interval;
   }
 
+  @track(() => {
+    return OPEN_STORY_FULL_SCREEN(window.location.pathname);
+  })
   onOpenFullScreen(e) {
     e.preventDefault();
     this.setState({

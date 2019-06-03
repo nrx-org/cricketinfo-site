@@ -33,7 +33,7 @@
         {
           "label": "பிறந்த தேதி",
           "value": {
-            "label": "06-06-1988 (வயது 30)"
+            "label": "Invalid Date (வயது 30)"
           }
         },
         {
@@ -334,5 +334,6 @@
         }
       ]
     }
-  ]
+  ],
+  "category": "personality"
 }

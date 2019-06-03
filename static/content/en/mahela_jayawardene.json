@@ -32,7 +32,7 @@
         {
           "label": "Born on",
           "value": {
-            "label": "27-05-1977 (Age 41)"
+            "label": "Invalid Date (Age 41)"
           }
         },
         {
@@ -361,5 +361,6 @@
         }
       ]
     }
-  ]
+  ],
+  "category": "personality"
 }

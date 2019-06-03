@@ -4,8 +4,7 @@
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Pakistan",
   "coverImage": {
     "url": "/static/images/master/Flag_of_Pakistan.svg",
-    "altText": "Image of Pakistan",
-    "license": ""
+    "altText": "Image of Pakistan"
   },
   "translations": [
     {
@@ -272,5 +271,6 @@
         }
       ]
     }
-  ]
+  ],
+  "category": "place"
 }

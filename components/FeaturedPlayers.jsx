@@ -1,5 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
+import { useTracking } from "react-tracking";
+import { CLICK_ALL_PLAYERS } from "../lib/matomo";
 import { LargeSectionTitle } from "./LargeSectionTitle";
 import { LanguageContextConsumer } from "../language_context";
 import { todayString } from "../lib/date";
@@ -12,6 +14,7 @@ import { TinyCardsListModalContainer } from "./TinyCardsListModalContainer";
 import { homeUiStrings } from "../lib/ui_strings";
 
 export const FeaturedPlayers = ({ scheduled, constant, all }) => {
+  const tracking = useTracking();
   const dateString = todayString();
   let players = [
     ...scheduled.filter(f => f.dates.indexOf(dateString) > -1),
@@ -46,12 +49,15 @@ export const FeaturedPlayers = ({ scheduled, constant, all }) => {
                   className="wcp-featured-players__see-all-players-button"
                   isFullWidth
                   isInverted
-                  onClick={() =>
+                  onClick={() => {
+                    tracking.trackEvent(
+                      CLICK_ALL_PLAYERS(window.location.pathname)
+                    );
                     openModal(TEAMS_LIST_MODAL_ID, {
                       items: all,
                       title: homeUiStrings.playersToLookOutFor[lang]
-                    })
-                  }
+                    });
+                  }}
                 >
                   {homeUiStrings.seeAllPlayers[lang]}
                 </Button>

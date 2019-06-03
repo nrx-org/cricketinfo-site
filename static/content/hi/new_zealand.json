@@ -4,8 +4,7 @@
   "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9C%E0%A4%BC%E0%A5%80%E0%A4%B2%E0%A5%88%E0%A4%A3%E0%A5%8D%E0%A4%A1",
   "coverImage": {
     "url": "/static/images/master/Flag_of_New_Zealand.svg",
-    "altText": "Image of न्यूजीलैंड",
-    "license": ""
+    "altText": "Image of न्यूजीलैंड"
   },
   "translations": [
     {
@@ -248,5 +247,6 @@
         }
       ]
     }
-  ]
+  ],
+  "category": "place"
 }
