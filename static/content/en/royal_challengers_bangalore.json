@@ -5,7 +5,7 @@
     "url": "/static/images/master/Royal_Challengers_Bangalore_Logo_2016.svg",
     "altText": "Image of Royal Challengers Bangalore"
   },
-  "summary": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL).",
+  "summary": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL)",
   "translations": [
     {
       "lang": "hi",
@@ -85,7 +85,7 @@
           "label": "Coach",
           "value": {
             "label": "Gary Kirsten",
-            "url": "/read/en/gary_kirsten",
+            "url": null,
             "image": {
               "url": "/static/images/master/GaryKirsten.jpg",
               "altText": "Image of Gary Kirsten"
@@ -102,7 +102,7 @@
         {
           "label": "M. Chinnaswamy Stadium",
           "value": {
-            "label": "This four decade old stadium is situated in the heart of the city of Bengaluru.",
+            "label": "This four decade old stadium is situated in the heart of the city of Bengaluru",
             "image": {
               "url": "/static/images/master/Chinnaswamy_Stadium_MI_vs_RCB.jpg",
               "altText": "Image of M. Chinnaswamy Stadium"
@@ -118,19 +118,93 @@
         {
           "label": "Initial seasons",
           "id": 3,
-          "note": "2008 - 2010",
+          "note": "2008-2010",
           "value": {
-            "label": "The team won only 4 of the 14 matches in the inaugural season, finishing seventh in the eight-team table. \n\nIn the 2009 season, they were able to reach the finals, losing to Deccan Chargers by six runs in a tense finish.\n\nIn the 2010 season,  the Royal Challengers were defeated by the table-toppers Mumbai Indians by 35 runs in the semi-final",
-            "facts": []
+            "label": "The team won only 4 of the 14 matches in the inaugural season, finishing seventh in the eight-team table.\n\nIn the 2009 season, they were able to reach the finals, losing to Deccan Chargers by six runs in a tense finish.\n\nIn the 2010 season,  the Royal Challengers were defeated by the table-toppers Mumbai Indians by 35 runs in the semi-final",
+            "facts": [
+              {
+                "label": "IPL 2008",
+                "url": "/read/en/2008_indian_premier_league",
+                "id": 1,
+                "value": {
+                  "label": "",
+                  "image": {
+                    "altText": "Image of IPL 2008",
+                    "license": ""
+                  }
+                }
+              },
+              {
+                "label": "IPL 2009",
+                "url": "/read/en/2009_indian_premier_league",
+                "id": 1,
+                "value": {
+                  "label": "",
+                  "image": {
+                    "altText": "Image of IPL 2009",
+                    "license": ""
+                  }
+                }
+              },
+              {
+                "label": "IPL 2010",
+                "url": null,
+                "id": 1,
+                "value": {
+                  "label": "",
+                  "image": {
+                    "altText": "Image of IPL 2010",
+                    "license": ""
+                  }
+                }
+              }
+            ]
           }
         },
         {
           "label": "Gayle-Kohli-de Villiers era",
           "id": 3,
-          "note": "2011 – 2017",
+          "note": "2011–2017",
           "value": {
-            "label": "In the 2011 auction, Royal Challengers retained only one of their players, Virat Kohli. West Indian batsman Chris Gayle and South African batsman AB de Villiers was brought in. \n\nIn the 2011 season, The Royal Challengers qualified for the finals but lost to Chennai at their home ground. \n\nIn the 2012 season, a batting failure at Hyderabad in RCB’s final game of the season led to the end of the team’s campaign, making it the first time since 2009 that they failed to qualify for both the play-offs and the Champions League. \n\nIn the 2013 season, they again did not qualify for the playoffs.\n\nIn the 2014 season, they ended up 7th in the points table and didn't qualify for the playoffs.\n\nIn the 2015 season, they lost to the Chennai Super Kings in the Qualifier 2, and ended the season finishing third.\n\nIn the 2016 season, they played the final against SRH, again in Bengaluru. RCB lost a hard fought match by 8 runs, to end as runners up in this ninth season of the IPL.\n\nIn the 2017 season, they ended up at the bottom of the table with 10 losses and 3 wins.\n\nIn the 2018 season, they did not advance to the playoffs.\n",
-            "facts": []
+            "label": "In the 2011 auction, Royal Challengers retained only one of their players, Virat Kohli. West Indian batsman Chris Gayle and South African batsman AB de Villiers was brought in.\n\nIn the 2011 season, The Royal Challengers qualified for the finals but lost to Chennai at their home ground.\n\nIn the 2012 season, a batting failure at Hyderabad in RCB’s final game of the season led to the end of the team’s campaign, making it the first time since 2009 that they failed to qualify for both the play-offs and the Champions League.\n\nIn the 2013 season, they again did not qualify for the playoffs.\n\nIn the 2014 season, they ended up 7th in the points table and didn't qualify for the playoffs.\n\nIn the 2015 season, they lost to the Chennai Super Kings in the Qualifier 2, and ended the season finishing third.\n\nIn the 2016 season, they played the final against SRH, again in Bengaluru. RCB lost a hard fought match by 8 runs, to end as runners up in this ninth season of the IPL.\n\nIn the 2017 season, they ended up at the bottom of the table with 10 losses and 3 wins.\n\nIn the 2018 season, they did not advance to the playoffs.\n",
+            "facts": [
+              {
+                "label": "IPL 2011",
+                "url": null,
+                "id": 1,
+                "value": {
+                  "label": "",
+                  "image": {
+                    "altText": "Image of IPL 2011",
+                    "license": ""
+                  }
+                }
+              },
+              {
+                "label": "IPL 2015",
+                "url": null,
+                "id": 1,
+                "value": {
+                  "label": "",
+                  "image": {
+                    "altText": "Image of IPL 2015",
+                    "license": ""
+                  }
+                }
+              },
+              {
+                "label": "IPL 2016",
+                "url": null,
+                "id": 1,
+                "value": {
+                  "label": "",
+                  "image": {
+                    "altText": "Image of IPL 2016",
+                    "license": ""
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -156,12 +230,84 @@
     {
       "title": "Famous Players",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "Virat Kohli",
+          "id": "virat_kohli",
+          "value": {
+            "url": null,
+            "label": "Virat Kohli set the record for most runs (973) in an IPL season in 2016.",
+            "image": {
+              "url": "/static/images/master/Virat_Kohli_at_the_2015_IPL_opening_ceremony_28cropped29.jpg",
+              "altText": "Image of Virat Kohli",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Rahul Dravid",
+          "id": "rahul_dravid",
+          "value": {
+            "url": null,
+            "label": "Rahul Dravid was the team's icon player in 2008.",
+            "image": {
+              "url": "/static/images/master/Rahul_dravid_Bangalore_Royal_Challengers_28cropped29.jpg",
+              "altText": "Image of Rahul Dravid",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "Achievements & Records",
       "cardType": "list_card",
-      "facts": []
+      "facts": [
+        {
+          "label": "Gayle Storm!",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "In a single match against Pune Warriors India saw Chris Gayle smash 175 off just 66 balls which was the highest individual score in T20 cricket and RCB put up 263-5 which was the highest total in T20 cricket.",
+            "facts": [
+              {
+                "label": "IPL 2013",
+                "id": "gayle_storm!-ipl_2013",
+                "url": "/read/en/2013_indian_premier_league",
+                "value": {
+                  "label": "The 2013 season of the Indian Premier League, abbreviated as IPL 6 or Pepsi IPL 2013, was the sixth season of the IPL, established by the Board of Control for Cricket in India (BCCI) . The tournament was held from 3 April to 26 May 2013. Mumbai Indians won the tournament for the first time.",
+                  "image": {
+                    "altText": "Image of Gayle Storm!",
+                    "license": ""
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "What goes up, also comes down!",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "In their  game against Kolkata Knight Riders, they were bundled out for 49 all out which is the lowest IPL score and also where no batsman could score 10 run. ",
+            "facts": [
+              {
+                "label": "IPL 2017",
+                "id": "what_goes_up,_also_comes_down!-ipl_2017",
+                "url": "/read/en/2017_indian_premier_league",
+                "value": {
+                  "label": "The 2017 season of the Indian Premier League, also known as IPL 10 and branded as Vivo IPL 2017, was the tenth edition of the IPL",
+                  "image": {
+                    "altText": "Image of What goes up, also comes down!",
+                    "license": ""
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Sponsors",
@@ -173,6 +319,7 @@
             "label": "Zeven Sports",
             "url": null,
             "image": {
+              "url": "/static/images/master/maxresdefault.jpg",
               "altText": "Image of Zeven Sports"
             }
           }
@@ -183,6 +330,7 @@
             "label": "Wrogn",
             "url": null,
             "image": {
+              "url": "/static/images/master/wrogn-b.png",
               "altText": "Image of Wrogn"
             }
           }
@@ -193,6 +341,7 @@
             "label": "Pilsbury Cookie Cake",
             "url": null,
             "image": {
+              "url": "/static/images/master/Pillsbury_logo.svg",
               "altText": "Image of Pilsbury Cookie Cake"
             }
           }
@@ -203,11 +352,13 @@
             "label": "Valvoline",
             "url": null,
             "image": {
+              "url": "/static/images/master/authorized-dealer.jpg",
               "altText": "Image of Valvoline"
             }
           }
         }
       ]
     }
-  ]
+  ],
+  "category": "team"
 }

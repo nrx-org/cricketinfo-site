@@ -1,6 +1,6 @@
 {
   "title": "देल्ही कैपिटल्स",
-  "wikipediaUrl": "",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Delhi_Capitals",
   "coverImage": {
     "url": "/static/images/master/Delhi_Capitals_Logo.svg",
     "altText": "Image of देल्ही कैपिटल्स"
@@ -14,7 +14,7 @@
     },
     {
       "lang": "ta",
-      "title": "டெல்லி கேபிடல்ஸ்",
+      "title": "Delhi Capitals",
       "url": "/read/ta/delhi_capitals"
     }
   ],
@@ -73,22 +73,22 @@
         {
           "label": "अंतर्राष्ट्रीय टी20 कप्तान",
           "value": {
-            "label": "श्रेयस अय्यर",
+            "label": "Shreyas Iyer",
             "url": "/read/hi/prithvi_shaw",
             "image": {
               "url": "",
-              "altText": "Image of श्रेयस अय्यर"
+              "altText": "Image of Shreyas Iyer"
             }
           }
         },
         {
           "label": "कोच",
           "value": {
-            "label": "रिकी पोंटिंग",
+            "label": "Ricky Ponting",
             "url": "/read/hi/shane_warne",
             "image": {
               "url": "/static/images/master/Ricky_Ponting_2015.jpg",
-              "altText": "Image of रिकी पोंटिंग"
+              "altText": "Image of Ricky Ponting"
             }
           }
         }
@@ -96,16 +96,16 @@
     },
     {
       "title": "लोकप्रिय स्थल",
-      "id": "r16-फिरोज_शाह_कोटला_मैदान",
+      "id": "r16-feroz_shah_kotla_ground",
       "cardType": "simple",
       "facts": [
         {
-          "label": "फिरोज शाह कोटला मैदान",
+          "label": "Feroz Shah Kotla Ground",
           "value": {
-            "label": "फ़िरोज़ शाह कोटला मैदान नई दिल्ली के बहादुर शाह ज़फ़र मार्ग पर स्थित एक क्रिकेट मैदान है। इसकी स्थापना 1883 में हुई थी और यह भारत का दूसरा सबसे पुराना अंतरराष्ट्रीय क्रिकेट स्टेडियम है।",
+            "label": "The Feroz Shah Kotla Ground is a cricket ground located at Bahadur Shah Zafar Marg, New Delhi. It was established in 1883 and is the second oldest international cricket stadium still functional in India.",
             "image": {
               "url": "/static/images/master/Feroz_Shah_Kotla_during_India_vs_Australia_2019_ODI.jpg",
-              "altText": "Image of फिरोज शाह कोटला मैदान"
+              "altText": "Image of Feroz Shah Kotla Ground"
             }
           }
         }
@@ -116,38 +116,38 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "आईपीएल सत्र-2008",
+          "label": "2008 IPL season",
           "id": 3,
           "note": "2008",
           "value": {
-            "label": "देल्ही डेयरडेविल्स ने आईपीएल के उद्घाटन संस्करण में अच्छा प्रदर्शन किया था। वह सेमीफाइनल में चैंपियन राजस्थान रॉयल्स से हार गई थी।",
+            "label": "Delhi Daredevils had a good run in the inaugural edition of the IPL.They lost to eventual champions Rajasthan Royals in the semi final.",
             "facts": []
           }
         },
         {
-          "label": "आईपीएल सत्र-2009",
+          "label": "2009 IPL season",
           "id": 3,
           "note": "2009",
           "value": {
-            "label": "नियमित सत्र में हावी होने के बाव डेयरडेविल्स ने ऑस्ट्रेलियाई बल्लेबाज एडम गिलक्रिस्ट की जबरदस्त बल्लेबाजी से सेमीफाइनल में प्रवेश कर लिया। जिसने आईपीएल इतिहास (सिर्फ 17 गेंदों) में संयुक्त 5वां सबसे तेज अर्धशतक जमाया था।",
+            "label": " Despite dominating for the regular season, the Daredevils crumbled in the semi-final under a fierce batting by Aussie keeper Adam Gilchrist, who hit the joint 5th fastest fifty in IPL history (just 17 balls). ",
             "facts": []
           }
         },
         {
-          "label": "आईपीएल सत्र-2013",
+          "label": "2013 IPL season",
           "id": 3,
           "note": "2013",
           "value": {
-            "label": "दिल्ली डेयरडेविल्स ने आईपीएल 2013 में अपने पहले छह मैच गंवा दिए थे और उसने सातवें मैच में मुंबई इंडियंस के खिलाफ अपनी पहली जीत हासिल की थी।",
+            "label": "The Delhi Daredevils lost all first six matches of IPL 2013 and won their first match in seven games against the Mumbai Indians.",
             "facts": []
           }
         },
         {
-          "label": "आईपीएल सत्र- 2016",
+          "label": "2016 IPL season",
           "id": 3,
           "note": "2016",
           "value": {
-            "label": "दो बार की चैंपियंस कोलकाता नाइट राइडर्स के खिलाफ अपना पहला मैच हारने के बाद, वो किंग्स इलेवन पंजाब, रॉयल चैलेंजर्स बैंगलोर, मौजूदा चैंपियन मुंबई इंडियंस व दूसरे चरण में कोलकाता नाइट राइडर्स और नई शामिल हुई टीम गुजरात लायंस पर हावी हो गए।",
+            "label": "After losing their first match against the two-time Champions Kolkata Knight Riders, they went on to dominate Kings XI Punjab, Royal Challengers Bangalore, Defending Mumbai Indians, Kolkata Knight Riders in the second leg and newcomers Gujarat Lions. ",
             "facts": []
           }
         }
@@ -156,12 +156,95 @@
     {
       "title": "प्रसिद्ध खिलाड़ी",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "Shikhar Dhawan",
+          "id": "shikhar_dhawan",
+          "value": {
+            "url": null,
+            "label": "In August 2013, Shikhar Dhawan recorded the then-second-highest individual score in a List A match when he scored 248 runs off 150 balls for India A against South Africa A at Pretoria",
+            "image": {
+              "url": "/static/images/master/SHIKHAR_DHAWAN_281600549441829.jpg",
+              "altText": "Image of Shikhar Dhawan",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Colin Munro",
+          "id": "colin_munro",
+          "value": {
+            "url": null,
+            "label": "Colin Munro is a South-African born New Zealand international cricketer, who plays limited overs formats of the game.  He is the first player to score three Twenty20 International centuries.",
+            "image": {
+              "url": "/static/images/master/Colin_Munro_with_the_Sydney_Sixers.jpg",
+              "altText": "Image of Colin Munro"
+            }
+          }
+        },
+        {
+          "label": "Kagiso Rabada",
+          "id": "kagiso_rabada",
+          "value": {
+            "url": null,
+            "label": "Kagiso Rabada (born 25 May 1995) is a South African international cricketer who plays all formats of the game. Rabada, who is known by the nickname KG became the first cricketer to win six awards at Cricket South Africa's (CSA) annual dinner, including the prize for Cricketer of the Year in 2016.",
+            "image": {
+              "url": "/static/images/master/Rabada.jpg",
+              "altText": "Image of Kagiso Rabada"
+            }
+          }
+        },
+        {
+          "label": "Trent Boult",
+          "id": "trent_boult",
+          "value": {
+            "url": null,
+            "label": "Trent Alexander Boult is a New Zealand international cricketer who plays as a bowler.  He was the joint leading wicket taker at the 2015 Cricket World Cup.",
+            "image": {
+              "url": "/static/images/master/2018.02.03.22.23.14-AUSvNZL_T20_AUS_innings2C_SCG_283953315666529.jpg",
+              "altText": "Image of Trent Boult",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "उपलब्धियां और रिकॉर्ड",
       "cardType": "list_card",
-      "facts": []
+      "facts": [
+        {
+          "label": "2008 Indian Premier League",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Placed 4th at the 2008 Indian Premier League",
+            "facts": []
+          }
+        },
+        {
+          "label": "2009 Indian Premier League",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Delhi Capitals were 3rd in the 2009 Indian Premier League",
+            "facts": [
+              {
+                "label": "2009 इंडियन प्रीमियर लीग",
+                "id": "2009_indian_premier_league-",
+                "url": "/read/hi/2009_indian_premier_league",
+                "value": {
+                  "label": "2009 इंडियन प्रीमियर लीग सीज़न, जिसे आईपीएल 2 या 2009 आईपीएल भी कहते हैं, भारतीय क्रिकेट कंट्रोल बोर्ड (बीसीसीआई) द्वारा 2007 में स्थापित इंडियन प्रीमियर लीग का दूसरा सीज़न था। इस टूर्नामेंट की मेजबानी दक्षिण अफ्रीका ने की और इसे 18 अप्रैल से 24 मई 2009 के बीच खेला गया था।",
+                  "image": {
+                    "url": "",
+                    "altText": "Image of 2009 Indian Premier League"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "प्रायोजक",
@@ -170,24 +253,27 @@
       "facts": [
         {
           "value": {
-            "label": "डाइकिन",
+            "label": "Daikin",
             "url": null,
             "image": {
-              "altText": "Image of डाइकिन"
+              "url": "/static/images/master/DAIKIN_logo.svg",
+              "altText": "Image of Daikin"
             }
           }
         },
         {
-          "label": "शर्ट प्रायोजक (बैक)",
+          "label": "Shirt Sponsor (Back)",
           "value": {
-            "label": "एपीएल अपोलो स्टील ट्यूब्स",
+            "label": "APL Apollo Steel Tubes",
             "url": null,
             "image": {
-              "altText": "Image of एपीएल अपोलो स्टील ट्यूब्स"
+              "url": "",
+              "altText": "Image of APL Apollo Steel Tubes"
             }
           }
         }
       ]
     }
-  ]
+  ],
+  "category": "team"
 }

@@ -550,6 +550,8 @@ module.exports.exportPersonalities = () => {
         facts: awardsFacts.filter(a => !!a)
       });
 
+      personality.category = "personality";
+
       fs.writeFileSync(
         `./static/content/${lang}/${englishSlug}.json`,
         JSON.stringify(personality, null, 2)

@@ -1,6 +1,6 @@
 {
   "title": "राजस्थान रॉयल्स",
-  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8_%E0%A4%B0%E0%A5%89%E0%A4%AF%E0%A4%B2%E0%A5%8D%E0%A4%B8",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rajasthan_Royals",
   "coverImage": {
     "url": "/static/images/master/RR-LOGO-1.png",
     "altText": "Image of राजस्थान रॉयल्स"
@@ -14,7 +14,7 @@
     },
     {
       "lang": "ta",
-      "title": "ராஜஸ்தான் ராயல்ஸ்",
+      "title": "Rajasthan Royals",
       "url": "/read/ta/rajasthan_royals"
     }
   ],
@@ -73,11 +73,11 @@
         {
           "label": "अंतर्राष्ट्रीय टी20 कप्तान",
           "value": {
-            "label": "स्टीव स्मिथ",
+            "label": "Steve Smith",
             "url": "/read/hi/andrew_tye",
             "image": {
               "url": "/static/images/master/Steve_Smith_28cricketer292C_2014_28cropped29.jpg",
-              "altText": "Image of स्टीव स्मिथ",
+              "altText": "Image of Steve Smith",
               "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
@@ -85,11 +85,11 @@
         {
           "label": "कोच",
           "value": {
-            "label": "धान अप्टन",
+            "label": "Paddy Upton",
             "url": null,
             "image": {
               "url": "",
-              "altText": "Image of धान अप्टन"
+              "altText": "Image of Paddy Upton"
             }
           }
         }
@@ -97,16 +97,16 @@
     },
     {
       "title": "लोकप्रिय स्थल",
-      "id": "r11-सवाई_मानसिंह_स्टेडियम",
+      "id": "r11-sawai_mansingh_stadium",
       "cardType": "simple",
       "facts": [
         {
-          "label": "सवाई मानसिंह स्टेडियम",
+          "label": "Sawai Mansingh Stadium",
           "value": {
-            "label": "सवाई मानसिंह स्टेडियम भारत के राजस्थान राज्य में जयपुर स्थित एक क्रिकेट स्टेडियम है। इसे राजा सवाई मान सिंह द्वितीय के शासनकाल में बनाया गया था। इसे एसएमएस के रूप में भी जाना जाता था, इसलिए इसका नाम एसएमएस स्टेडियम में रखा गया। जुलाई 2013 तक गूगल स्ट्रीट व्यू का उपयोग करके स्टेडियम और मैदान को नजदीक से देखा जा सकता था।",
+            "label": "The Sawai Mansingh Stadium is a cricket stadium in Jaipur, Rajasthan, India. It was built during the reign of Raja Sawai Man Singh II who was also known as SMS, therefore the name is frequently shortened to SMS Stadium. As of July 2013, the stadium and grounds could be toured using Google Street View.",
             "image": {
               "url": "/static/images/master/Sawai-Mansingh-Stadium-Jaipur.jpg",
-              "altText": "Image of सवाई मानसिंह स्टेडियम"
+              "altText": "Image of Sawai Mansingh Stadium"
             }
           }
         }
@@ -117,38 +117,38 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "आईपीएल सत्र 2008",
+          "label": "2008 IPL season",
           "id": 3,
           "note": "2008",
           "value": {
-            "label": "राजस्थान रॉयल्स आईपीएल टूर्नामेंट के पहले संस्करण की विजेता बनी थी। उसने फाइनल में चेन्नई सुपर किंग्स को 3 विकेट से हराया था।",
+            "label": "The Rajasthan Royals became the winner of the first IPL tournament, when they defeated the Chennai Super Kings by 3 wickets in the final.",
             "facts": []
           }
         },
         {
-          "label": "आईपीएल सत्र 2009",
+          "label": "2009 IPL season",
           "id": 3,
           "note": "2009",
           "value": {
-            "label": "देल्ही डेयरडेविल्स और कोलकाता नाइट राइडर्स के खिलाफ अपने आखिरी दो मैच हारने के बाद राजस्थान रॉयल्स की टीम सेमीफाइनल में जगह बनाने में नाकाम रही थी।",
+            "label": "The Royals failed to make it to the semifinals after losing their last two matches against Delhi Daredevils and Kolkata Knight Riders.",
             "facts": []
           }
         },
         {
-          "label": "आईपीएल सत्र 20011",
+          "label": "2011 IPL season",
           "id": 3,
           "note": "2011",
           "value": {
-            "label": "राजस्थान रॉयल्स और किंग्स इलेवन पंजाब को स्वामित्व में परिवर्तन के मुद्दों की वजह से अस्थाई रूप से लीग से बाहर कर दिया गया था। बाद में उच्च न्यायालय के आदेश पर उन्हें बहाल किया गया था।",
+            "label": "The Rajasthan Royals, and the Kings XI Punjab were temporarily ejected from the league due to issues with their unreported ownership changes. The teams were reinstated with involvement from the High Court.",
             "facts": []
           }
         },
         {
-          "label": "आईपीएल सत्र 2019",
+          "label": "2019 IPL season",
           "id": 3,
           "note": "2019",
           "value": {
-            "label": "ऑस्ट्रेलियाई टी की बॉल से छेड़छाड़ विवाद के कारण बीसीसीआई द्वारा उन पर आईपीएल सत्र 2018 में भाग लेने पर प्रतिबंध समाप्ति के बाद स्टीव स्मिथ ने आईपीएल में वापसी की।सीज़न की शुरुआत में अजिंक्य रहाणे की कप्तानी बरकरार रखी गई, लेकिन खराब नतीजों के बाद कप्तान के तौर पर स्टीव स्मिथ की वापसी हुई।",
+            "label": "Steve Smith made a comeback to IPL  after he was banned by BCCI to participate in 2018 season due to Australian ball-tampering controversy. Ajinkya Rahane retained his captaincy at the start of the season, however,  Steve Smith returned to the captaincy after poor results.",
             "facts": []
           }
         }
@@ -157,12 +157,129 @@
     {
       "title": "प्रसिद्ध खिलाड़ी",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "Steve Smith",
+          "id": "steve_smith",
+          "value": {
+            "url": null,
+            "label": "Steven Peter Devereux Smith is an Australian international cricketer and former captain of the Australian national team. On 30 December 2017, he reached a Test batting rating of 947, the second-highest of all time.",
+            "image": {
+              "url": "/static/images/master/Steve_Smith_28cricketer292C_2014_28cropped29.jpg",
+              "altText": "Image of Steve Smith",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Shane Warne",
+          "id": "shane_warne",
+          "value": {
+            "url": null,
+            "label": "Shane Warne played in the first four seasons (2008-2011) of the Indian Premier League for the Rajasthan Royals, where he played the roles of both captain and coach.",
+            "image": {
+              "url": "/static/images/master/Shane_Warne_bowling_2009.jpg",
+              "altText": "Image of Shane Warne"
+            }
+          }
+        },
+        {
+          "label": "Rahul Dravid",
+          "id": "rahul_dravid",
+          "value": {
+            "url": null,
+            "label": "Rahul Dravid has faced 31258 balls, which is the highest number of balls faced by any player in test cricket.",
+            "image": {
+              "url": "/static/images/master/RahulDravid.jpg",
+              "altText": "Image of Rahul Dravid"
+            }
+          }
+        },
+        {
+          "label": "Ajinkya Rahane",
+          "id": "ajinkya_rahane",
+          "value": {
+            "url": null,
+            "label": "Ajinkya Rahane is currently the Captain of the Indian cricket team in Test cricket.",
+            "image": {
+              "altText": "Image of Ajinkya Rahane",
+              "license": ""
+            }
+          }
+        }
+      ]
     },
     {
       "title": "उपलब्धियां और रिकॉर्ड",
       "cardType": "list_card",
-      "facts": []
+      "facts": [
+        {
+          "label": "2008 Indian Premier League",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Captained by Shane Warne, Rajasthan Royals finished winners in the IPL and qualified for the champions league T20.",
+            "facts": [
+              {
+                "label": "2008 इंडियन प्रीमियर लीग",
+                "id": "2008_indian_premier_league-",
+                "url": "/read/hi/2008_indian_premier_league",
+                "value": {
+                  "label": "2008 का इंडियन प्रीमियर लीग 2007 में बीसीसीआई द्वारा स्थापित इंडियन प्रीमियर लीग का उद्घाटन सीज़न था। इस सीज़न की शुरुआत 18 अप्रैल 2008 को हुई और फाइनल मैच 1 जून 2008 को आयोजित हुआ। प्रतियोगिता की शुरुआत डबल राउंड रॉबिन ग्रुप स्टेज से हुई। जिसमें 8 टीमों में से प्रत्येक ने हर दूसरी टीम के खिलाफ एक घरेलू मैच और एक मैच बाहर खेला। इन मैचों के बाद दो सेमीफाइनल और एक फाइनल हुआ।",
+                  "image": {
+                    "url": "",
+                    "altText": "Image of 2008 Indian Premier League"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "2013 Indian Premier League",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Shane Watson was named player of the series in the 2013 Indian Premier League.",
+            "facts": [
+              {
+                "label": "2013 इंडियन प्रीमियर लीग",
+                "id": "2013_indian_premier_league-",
+                "url": "/read/hi/2013_indian_premier_league",
+                "value": {
+                  "label": "इंडियन प्रीमियर लीग का 2013 सीज़न, जिसे आईपीएल 6 या पेप्सी आईपीएल 2013 के रूप में जाना जाता है, भारतीय क्रिकेट कंट्रोल बोर्ड (बीसीसीआई) द्वारा स्थापित आईपीएल का छठा सीज़न था। यह टूर्नामेंट 3 अप्रैल से 26 मई 2013 तक आयोजित किया गया था। मुंबई इंडियंस ने पहली बार यह टूर्नामेंट जीता था।",
+                  "image": {
+                    "url": "",
+                    "altText": "Image of 2013 Indian Premier League"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "label": "Play-offs ",
+          "id": 0,
+          "note": null,
+          "value": {
+            "label": "Rajasthan Royals finished 3rd in the 2013 IPL",
+            "facts": [
+              {
+                "label": "2013 इंडियन प्रीमियर लीग",
+                "id": "play-offs_-",
+                "url": "/read/hi/2013_indian_premier_league",
+                "value": {
+                  "label": "इंडियन प्रीमियर लीग का 2013 सीज़न, जिसे आईपीएल 6 या पेप्सी आईपीएल 2013 के रूप में जाना जाता है, भारतीय क्रिकेट कंट्रोल बोर्ड (बीसीसीआई) द्वारा स्थापित आईपीएल का छठा सीज़न था। यह टूर्नामेंट 3 अप्रैल से 26 मई 2013 तक आयोजित किया गया था। मुंबई इंडियंस ने पहली बार यह टूर्नामेंट जीता था।",
+                  "image": {
+                    "url": "",
+                    "altText": "Image of Play-offs "
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "प्रायोजक",
@@ -171,34 +288,38 @@
       "facts": [
         {
           "value": {
-            "label": "जेके लक्ष्मी सीमेंट",
+            "label": "JK Lakshmi Cement",
             "url": null,
             "image": {
-              "altText": "Image of जेके लक्ष्मी सीमेंट"
+              "url": "",
+              "altText": "Image of JK Lakshmi Cement"
             }
           }
         },
         {
-          "label": "शर्ट प्रायोजक (पीठ)",
+          "label": "Shirt Sponsor (Back)",
           "value": {
-            "label": "सूर्या एलईडी",
+            "label": "Surya LED",
             "url": null,
             "image": {
-              "altText": "Image of सूर्या एलईडी"
+              "url": "",
+              "altText": "Image of Surya LED"
             }
           }
         },
         {
-          "label": "शर्ट प्रायोजक",
+          "label": "Shirt Sponsor (Away), Shirt Sponsor (Back)",
           "value": {
-            "label": "रेड एफएम",
+            "label": "Red FM",
             "url": null,
             "image": {
-              "altText": "Image of रेड एफएम"
+              "url": "/static/images/master/Red_fm.jpg",
+              "altText": "Image of Red FM"
             }
           }
         }
       ]
     }
-  ]
+  ],
+  "category": "team"
 }

@@ -1,6 +1,6 @@
 {
   "title": "சச்சின் டெண்டுல்கர்",
-  "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%9F%E0%AF%86%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%B2%E0%AF%8D%E0%AE%95%E0%AE%B0%E0%AF%8D",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sachin_Tendulkar",
   "coverImage": {
     "url": "/static/images/master/Sachin_Tendulkar_at_MRF_Promotion_Event.jpg",
     "altText": "Image of சச்சின் டெண்டுல்கர்"
@@ -39,7 +39,7 @@
           "label": "பிறந்த இடம்",
           "value": {
             "label": "மும்பாய், இந்தியா",
-            "url": "",
+            "url": "https://en.wikipedia.org/wiki/Mumbai",
             "contentUrl": "/static/content/ta/mumbai.json"
           }
         },
@@ -124,13 +124,13 @@
               {
                 "url": "/read/ta/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/ta/pakistan_national_cricket_team.json",
-                "label": "பாகிஸ்தான் தேசியக் கிரிக்கெட் அணி",
-                "id": "phase_fact_fact_பாகிஸ்தான்_தேசியக்_கிரிக்கெட்_அணி",
+                "label": "Pakistan national cricket team",
+                "id": "phase_fact_fact_pakistan_national_cricket_team",
                 "value": {
-                  "label": "ஷாஹின்ஸ், கிரீன் ஷேர்ட்ஸ் மற்றும் மென் இன் கிரீன் என பிரபலமாகக் கருதப்படும் பாகிஸ்தான் ஆண்கள் தேசியக் கிரிக்கெட் அணி பாகிஸ்தான் கிரிக்கெட் வாரியத்தால் (பிசிபி) நிர்வகிக்கப்படுகிறது. இந்த அணி சர்வதேசக் கிரிக்கெட் கவுன்சிலின் முழு உறுப்பினர் ஆகும், மேலும் டெஸ்ட், ஒருநாள் மற்றும் சர்வதேச டிவென்டி20 கிரிக்கெட் போட்டிகளில் பங்கேற்கிறது.",
+                  "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
                   "image": {
                     "url": "/static/images/master/PakistanCricketLogo.png",
-                    "altText": "Image of பாகிஸ்தான் தேசியக் கிரிக்கெட் அணி"
+                    "altText": "Image of Pakistan national cricket team"
                   }
                 }
               }
@@ -147,13 +147,13 @@
               {
                 "url": "/read/ta/1992_cricket_world_cup",
                 "contentUrl": "/static/content/ta/1992_cricket_world_cup.json",
-                "label": "1992 கிரிக்கெட் உலகக் கோப்பை",
-                "id": "phase_fact_fact_1992_கிரிக்கெட்_உலகக்_கோப்பை",
+                "label": "1992 Cricket World Cup",
+                "id": "phase_fact_fact_1992_cricket_world_cup",
                 "value": {
-                  "label": "1992 கிரிக்கெட் உலகக் கோப்பை (அதிகாரபூர்வமாக பென்சன் & ஹெட்ஜஸ் உலகக் கோப்பை 1992) ஐந்தாவது ஐசிசி கிரிக்கெட் உலகக் கோப்பை டோர்னமெண்ட். இது ஆஸ்திரேலியா மற்றும் நியூசிலாந்தில், பிப்ரவரி 22 முதல் மார்ச் 25 வரை நடத்தப்பட்டது. இறுதிப் போட்டியில் இங்கிலாந்தை வீழ்த்தி பாகிஸ்தான் முதல் முறையாக உலகச் சேம்பியன் ஆனது.",
+                  "label": "The 1992 Cricket World Cup (officially the Benson & Hedges World Cup 1992) was the fifth staging of the Cricket World Cup, organised by the International Cricket Council (ICC). It was held in Australia and New Zealand from 22 February to 25 March 1992 and finished with Pakistan beating England in the final to become the World Cup champions for the first time.",
                   "image": {
                     "url": "/static/images/master/World_Cup_1992_logo.svg",
-                    "altText": "Image of 1992 கிரிக்கெட் உலகக் கோப்பை"
+                    "altText": "Image of 1992 Cricket World Cup"
                   }
                 }
               }
@@ -264,9 +264,8 @@
           "value": {
             "label": "எல்லா விதமான கிரிக்கெட் போட்டிகளிலும், வினோத் கம்ப்ளி உடன் கூட்டு சேர்ந்து 664 ரன்கள் எடுத்து, இருவரும் அவுட் ஆகாமல் இருந்தனர் என்ற உலக சாதனைப் படைத்துள்ளார்",
             "image": {
-              "url": "/static/images/master/Sachin_at_the_other_end.jpg",
-              "altText": "எல்லா விதமான கிரிக்கெட் போட்டிகளிலும், வினோத் கம்ப்ளி உடன் கூட்டு சேர்ந்து 664 ரன்கள் எடுத்து, இருவரும் அவுட் ஆகாமல் இருந்தனர் என்ற உலக சாதனைப் படைத்துள்ளார்",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+              "url": "",
+              "altText": "எல்லா விதமான கிரிக்கெட் போட்டிகளிலும், வினோத் கம்ப்ளி உடன் கூட்டு சேர்ந்து 664 ரன்கள் எடுத்து, இருவரும் அவுட் ஆகாமல் இருந்தனர் என்ற உலக சாதனைப் படைத்துள்ளார்"
             }
           }
         },
@@ -276,9 +275,8 @@
           "value": {
             "label": "சர்வதேச ஒரு நாள் போட்டி மற்றும் டெஸ்ட் போட்டிகளில் இந்தியாவிற்காக விளையாடிய இளம் வீரர்",
             "image": {
-              "url": "/static/images/master/Sachin_tendulkar_fielding.jpg",
-              "altText": "சர்வதேச ஒரு நாள் போட்டி மற்றும் டெஸ்ட் போட்டிகளில் இந்தியாவிற்காக விளையாடிய இளம் வீரர்",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+              "url": "",
+              "altText": "சர்வதேச ஒரு நாள் போட்டி மற்றும் டெஸ்ட் போட்டிகளில் இந்தியாவிற்காக விளையாடிய இளம் வீரர்"
             }
           }
         },
@@ -288,9 +286,8 @@
           "value": {
             "label": "தான் முதன் முதலில் விளையாடிய மூன்று உள்ளூர் ஃபர்ஸ்ட் கிளாஸ் டோர்னமன்ட்களிலும் (ரஞ்சி, இராணி மற்றும் துலீப் டிராஃபீஸ்) சதம் அடித்த முதல் வீரர்.",
             "image": {
-              "url": "/static/images/master/Sachin_Tendulkar_28266728406829.jpg",
-              "altText": "தான் முதன் முதலில் விளையாடிய மூன்று உள்ளூர் ஃபர்ஸ்ட் கிளாஸ் டோர்னமன்ட்களிலும் (ரஞ்சி, இராணி மற்றும் துலீப் டிராஃபீஸ்) சதம் அடித்த முதல் வீரர்.",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+              "url": "",
+              "altText": "தான் முதன் முதலில் விளையாடிய மூன்று உள்ளூர் ஃபர்ஸ்ட் கிளாஸ் டோர்னமன்ட்களிலும் (ரஞ்சி, இராணி மற்றும் துலீப் டிராஃபீஸ்) சதம் அடித்த முதல் வீரர்."
             }
           }
         },
@@ -300,9 +297,8 @@
           "value": {
             "label": "10,000 ஓடிஐ ரன்களை எடுத்த முதல் பேட்ஸ்மேன்",
             "image": {
-              "url": "/static/images/master/Tendulkar_batting_against_Australia2C_October_2010_281292C_cropped.jpg",
-              "altText": "10,000 ஓடிஐ ரன்களை எடுத்த முதல் பேட்ஸ்மேன்",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+              "url": "",
+              "altText": "10,000 ஓடிஐ ரன்களை எடுத்த முதல் பேட்ஸ்மேன்"
             }
           }
         },
@@ -337,7 +333,7 @@
                 "value": {
                   "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
                   "image": {
-                    "url": "/static/images/master/Flagcricket.jpg",
+                    "url": "/static/images/master/Cricket_India_Crest.svg",
                     "altText": "Picture of இந்திய தேசிய கிரிக்கெட் அணி"
                   }
                 }
@@ -442,5 +438,6 @@
         }
       ]
     }
-  ]
+  ],
+  "category": "personality"
 }

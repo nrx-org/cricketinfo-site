@@ -388,6 +388,8 @@ module.exports.exportEventsMajor = () => {
         });
       }
 
+      event.category = "tournament_major";
+
       fs.writeFileSync(
         `./static/content/${lang}/${englishSlug}.json`,
         JSON.stringify(event, null, 2)

@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 import { ModalContextConsumer } from "./ModalContext";
 import { ARTICLE_SUMMARY_MODAL_ID } from "../lib/modal_ids";
 
-const ArticleSummaryLink = ({ href, className, children, styles }) => {
+const ArticleSummaryLink = ({ href, className, children, styles, onClick }) => {
   const articleSlug = href
     .split("/")
     .filter(item => item)
@@ -17,7 +17,10 @@ const ArticleSummaryLink = ({ href, className, children, styles }) => {
         <>
           <div
             role="presentation"
-            onClick={() => openModal(ARTICLE_SUMMARY_MODAL_ID, { articleSlug })}
+            onClick={() => {
+              if (onClick) onClick();
+              openModal(ARTICLE_SUMMARY_MODAL_ID, { articleSlug });
+            }}
             className={`wcp-article-summary-link ${className}`}
             style={styles}
           >
@@ -32,7 +35,8 @@ const ArticleSummaryLink = ({ href, className, children, styles }) => {
 ArticleSummaryLink.defaultProps = {
   className: "",
   children: null,
-  styles: null
+  styles: null,
+  onClick: null
 };
 
 ArticleSummaryLink.propTypes = {
@@ -44,7 +48,8 @@ ArticleSummaryLink.propTypes = {
     top: PropTypes.number.isRequired,
     width: PropTypes.number.isRequired,
     height: PropTypes.number.isRequired
-  })
+  }),
+  onClick: PropTypes.func
 };
 
 export default ArticleSummaryLink;

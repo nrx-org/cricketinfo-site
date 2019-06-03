@@ -11,11 +11,15 @@ export const CoverCard = ({
   coverImage,
   linkText,
   children,
-  isCarouselChild
+  isCarouselChild,
+  onClick
 }) => {
   return (
     <a
       href={url}
+      onClick={event => {
+        if (onClick) onClick(event, url);
+      }}
       className={`wcp-cover-card ${
         isCarouselChild ? "wcp-cover-card--carousel-child" : ""
       }`}
@@ -51,7 +55,8 @@ export const CoverCard = ({
 CoverCard.defaultProps = {
   children: null,
   linkText: null,
-  isCarouselChild: false
+  isCarouselChild: false,
+  onClick: null
 };
 
 CoverCard.propTypes = {
@@ -60,5 +65,6 @@ CoverCard.propTypes = {
   coverImage: imagePropTypes.isRequired,
   linkText: PropTypes.string,
   children: PropTypes.node,
-  isCarouselChild: PropTypes.bool
+  isCarouselChild: PropTypes.bool,
+  onClick: PropTypes.func
 };

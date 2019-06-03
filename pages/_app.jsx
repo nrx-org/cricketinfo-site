@@ -16,7 +16,13 @@ import App from "next/app";
       var paq = window._paq || [];
       console.log("Adding Event to Matomo Collection: ", data);
       // _paq.push(data.matomoEvent);
-      if (Array.isArray(data)) paq.push(data);
+      if (Array.isArray(data)) {
+        paq.push(data);
+      }
+      else if (Array.isArray(data.data)) {
+        paq.push(data.data);
+        paq.push(["trackPageView"]);
+      }
       /* eslint-enable */
     }
   }

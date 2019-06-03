@@ -141,16 +141,16 @@ export class InterestingArticles extends React.Component {
                   parseInt(interestingArticles.length / 2, 10),
                   interestingArticles.length
                 )
-                .map((card, index) => (
-                  <InterestingArticleItem
-                    key={`${card.label}-${card.id}-group2`}
-                    coverImage={card.value.image}
-                    href={card.value.url || null}
-                    styles={cardStyles[index]}
-                  >
-                    {card.value.label}
-                  </InterestingArticleItem>
-                ))}
+                .map((card, index) => {
+                  return (
+                    <InterestingArticleItem
+                      key={`${card.label}-${card.id}-group2`}
+                      coverImage={card.value.image}
+                      href={card.value.url || null}
+                      styles={cardStyles[index]}
+                    />
+                  );
+                })}
             </div>
           </div>
         </div>
