@@ -1,10 +1,11 @@
 {
-  "title": "ஹைதராபாத்",
-  "summary": "இந்த நகரத்திற்கு அருகே தோண்டிய அகழ்வாராய்ச்சியாளர்கள் கிமு 500 முதலான காலத்தில் இருந்தே காணப்படும் இரும்பு யுக தளங்களை தோண்டியெடுத்துள்ளனர்.",
-  "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%90%E0%AE%A4%E0%AE%B0%E0%AE%BE%E0%AE%AA%E0%AE%BE%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81_(%E0%AE%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%BE)",
+  "title": "ஜெய்ப்பூர்",
+  "summary": "1699 முதல் 1743 வரை ஆட்சி செய்த ஆமிர் ராஜாவான இரண்டாம் ஜெய் சிங் என்பவரால் 1727-இல் ஜெய்ப்பூர் நகரம் உருவாக்கப்பட்டது.",
+  "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%82%E0%AE%B0%E0%AF%8D",
   "coverImage": {
-    "altText": "Image of ஹைதராபாத்",
-    "license": ""
+    "url": "/static/images/master/Amber_Fort_28E0A486E0A4AEE0A587E0A4B0_E0A495E0A4BE_E0A495E0A4BFE0A4B2E0A4BE_29.jpg",
+    "altText": "Image of ஜெய்ப்பூர்",
+    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
   },
   "translations": [
     {
@@ -24,19 +25,19 @@
         {
           "label": "மொத்த பரப்பு",
           "value": {
-            "label": "650"
+            "label": "467 கிமீ2"
           }
         },
         {
           "label": "மக்கள் தொகை",
           "value": {
-            "label": "6,809,970"
+            "label": "3,046,189"
           }
         },
         {
           "label": "நேரம்(கள்)",
           "value": {
-            "label": "+5:30"
+            "label": "UTC+05:30 (IST)"
           }
         }
       ]
@@ -46,27 +47,27 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "ஆரம்பகால மற்றும் மத்தியகால வரலாறு",
+          "label": "ஜெய்ப்பூர் நிறுவனர்",
           "id": "history_phase_1_title",
-          "note": "கிமு 500",
+          "note": "1727",
           "value": {
-            "label": "இந்த நகரத்திற்கு அருகே தோண்டிய அகழ்வாராய்ச்சியாளர்கள் கிமு 500 முதலான காலத்தில் இருந்தே காணப்படும் இரும்பு யுக தளங்களை தோண்டியெடுத்துள்ளனர்."
+            "label": "1699 முதல் 1743 வரை ஆட்சி செய்த ஆமிர் ராஜாவான இரண்டாம் ஜெய் சிங் என்பவரால் 1727-இல் ஜெய்ப்பூர் நகரம் உருவாக்கப்பட்டது."
           }
         },
         {
-          "label": "நவீன வரலாறு",
+          "label": "நகர கட்டமைப்பு",
           "id": "history_phase_2_title",
-          "note": "",
+          "note": "1726",
           "value": {
-            "label": "1874 வரை ஹைதராபாத்தில் எந்த நவீன தொழிற்சாலைகளும் கிடையாது. 1880-களில் ரயில்வேத்துறை அறிமுகப்படுத்தப்பட்டதால் ஹுஸைன் சாகர் ஏரியின் தெற்கு மற்றும் கிழக்குப் பகுதிகளில் நான்கு தொழிற்சாலைகள் கட்டப்பட்டன, அத்துடன் 20-ஆம் நூற்றாண்டின் ஆரம்பத்தில் ஹைதரபாத் ஒரு நவீன நகரமாக மாறியது."
+            "label": "இந்த நகரத்தின் கட்டுமானம் 1726-இல் தொடங்கி பிரதான சாலைகள், அலுவலகங்கள் மற்றும் மாளிகைகளை கட்டிமுடிக்க நான்கு வருடங்கள் ஆனது. இந்த நகரம் ஒன்பது தொகுப்புகளாக பிரிக்கப்பட்டுள்ளது, இரண்டில் அரசு அலுவலகங்கள் மற்றும் மாளிகைகள் அமைந்துள்ளன, மற்ற ஏழும் பொதுமக்களுக்காக ஒதுக்கப்பட்டுள்ளன. மிகப்பெரிய பாதுகாப்பு அரண்கள் உருவாக்கப்பட்டன, அவற்றில் ஏழு வலுவான வாயில்கள் உள்ளன."
           }
         },
         {
-          "label": "சுதந்திரத்திற்குப் பின்னர்",
+          "label": "விரைவான வளர்ச்சி",
           "id": "history_phase_3_title",
-          "note": "1950",
+          "note": "19-ஆம் நூற்றாண்டு",
           "value": {
-            "label": "1950 ஜனவரி 26 அன்று அமலுக்கு வந்த இந்திய அரசியல் சாசனம் ஹைதராபாத் மாநிலத்தை இந்தியாவின் பி மாநிலங்களுள் ஒன்றாக ஆக்கியது, ஹைதராபாத் நகரமே அதன் தலைநகரமாக தொடர்ந்தது."
+            "label": "19-ஆம் நூற்றாண்டில் வேகமாக வளர்ச்சியுற்ற இந்த நகரத்தின் 1900-ஆம் ஆண்டு மக்கள்தொகை 1,60,000."
           }
         }
       ]
@@ -79,12 +80,12 @@
         {
           "label": "அணி",
           "value": {
-            "label": "சன்ரைஸர்ஸ் ஹைதராபாத்",
-            "url": "/read/ta/sunrisers_hyderabad",
-            "contentUrl": "/static/content/ta/sunrisers_hyderabad.json",
+            "label": "ராஜஸ்தான் ராயல்ஸ்",
+            "url": "/read/ta/rajasthan_royals",
+            "contentUrl": "/static/content/ta/rajasthan_royals.json",
             "image": {
-              "url": "/static/images/master/Sunrisers_Hyderabad.svg",
-              "altText": "Picture of சன்ரைஸர்ஸ் ஹைதராபாத்"
+              "url": "/static/images/master/RR-LOGO-1.png",
+              "altText": "Picture of ராஜஸ்தான் ராயல்ஸ்"
             }
           }
         }
@@ -96,12 +97,13 @@
       "cardType": "simple",
       "facts": [
         {
-          "label": "ஹைதராபாத்",
+          "label": "ஜெய்ப்பூர்",
           "value": {
-            "label": "தென்கிழக்கு இந்தியாவில் உள்ள தெலுங்கானாவின் தெற்குப் பகுதியில் அமைந்துள்ள ஹைதராபாத் சாலை வழியாக டெல்லிக்கு 1,566 கிலோமீட்டர்கள் தெற்கிலும், மும்பைக்கு தென்கிழக்கில் 699 கிலோமீட்டர்கள் தொலைவிலும், பெங்களூக்கு வடக்கே 570 கிலோமீட்டர்கள் தொலைவிலும் அமைந்திருக்கிறது.",
+            "label": "ஜெய்ப்பூர் ஒரு வெப்பமான வறண்ட காலநிலையைக் கொண்டுள்ளது. இது வருடாந்திர அளவில் 63 செமீ மழைப்பொழிவை பெறுகிறது. பெரும்பாலான மழைப்பொழிவு பருவகால மாதங்களான ஜூன் மற்றும் செப்டம்பருக்கு இடையே நிகழ்கிறது.",
             "image": {
-              "url": "/static/images/master/Hussainsagar_hyd.jpg",
-              "altText": "An image of ஹைதராபாத்"
+              "url": "/static/images/master/Jaipur_city_from_Nahargarh.jpg",
+              "altText": "An image of ஜெய்ப்பூர்",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
             }
           }
         }
@@ -112,48 +114,50 @@
       "cardType": "stories",
       "facts": [
         {
-          "label": "இலக்கியம்",
+          "label": "ஜவஹர் கலா கேந்திரா",
           "id": "culture_0",
           "value": {
-            "label": "சாகித்ய அகாடமி, உருது அகாடமி, தெலுங்கு அகாடமி, நேஷனல் கவுன்சில் ஃபார் புரமோஷன் ஆஃப் உருது லாங்குவேஜ், கம்பாரிட்டிவ் லிட்டரேச்சர் அசோஸியேஷன் ஆஃப் இந்தியா மற்றும் ஆந்திரா சரஸ்வதா பரிஷத் உள்ளிட்ட பல்வேறு அமைப்புகள் இலக்கிய மேம்பாட்டில் ஈடுபட்டு வருகின்றன.",
+            "label": "இந்தியாவில் உள்ள ஜெய்ப்பூரில் அமைந்துள்ள ஜவஹர் கலா கேந்திரா (ஜேகேகே) ஒரு பல கலை மையமாகும். ராஜஸ்தானி கலை மற்றும் கைவினைக் கலைகளை பாதுகாக்கும் நோக்கில் இது ராஜஸ்தான் அரசாங்கத்தால் உருவாக்கப்பட்டுள்ளது.",
             "image": {
-              "url": "/static/images/master/Sahitya_Akademi_Regional_Office_Banglore.jpg",
-              "altText": "சாகித்ய அகாடமி, உருது அகாடமி, தெலுங்கு அகாடமி, நேஷனல் கவுன்சில் ஃபார் புரமோஷன் ஆஃப் உருது லாங்குவேஜ், கம்பாரிட்டிவ் லிட்டரேச்சர் அசோஸியேஷன் ஆஃப் இந்தியா மற்றும் ஆந்திரா சரஸ்வதா பரிஷத் உள்ளிட்ட பல்வேறு அமைப்புகள் இலக்கிய மேம்பாட்டில் ஈடுபட்டு வருகின்றன."
+              "url": "/static/images/master/JKK_08.jpg",
+              "altText": "இந்தியாவில் உள்ள ஜெய்ப்பூரில் அமைந்துள்ள ஜவஹர் கலா கேந்திரா (ஜேகேகே) ஒரு பல கலை மையமாகும். ராஜஸ்தானி கலை மற்றும் கைவினைக் கலைகளை பாதுகாக்கும் நோக்கில் இது ராஜஸ்தான் அரசாங்கத்தால் உருவாக்கப்பட்டுள்ளது.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
             }
           }
         },
         {
-          "label": "இசையும் திரைப்படமும்",
+          "label": "இந்திய பாரம்பரிய நடனம் - கதக்",
           "id": "culture_1",
           "value": {
-            "label": "இசை மேம்பாட்டை மேலும் ஊக்குவிப்பதற்காக கோல்கொண்டா இசை மற்றும் நடன விழா, தரமதி இசை விழா மற்றும் பிரேமாவதி நடன விழா ஆகியவற்றை மாநில அரசாங்கம் நடத்துகிறது.",
+            "label": "கதக்கின் ஜெய்ப்பூர் கரணா தன்னுடைய புதிரான நடன வடிவங்கள், குதூகலமான உடல் அசைவுகள் மற்றும் நேர்த்தியான அபிநயங்களுக்காக பெயர் பெற்றிருக்கிறது.",
             "image": {
-              "url": "/static/images/master/Kuchipudi_Performer_DS.jpg",
-              "altText": "இசை மேம்பாட்டை மேலும் ஊக்குவிப்பதற்காக கோல்கொண்டா இசை மற்றும் நடன விழா, தரமதி இசை விழா மற்றும் பிரேமாவதி நடன விழா ஆகியவற்றை மாநில அரசாங்கம் நடத்துகிறது."
-            }
-          }
-        },
-        {
-          "label": "கலையும் கைத்தொழிலும்",
-          "id": "culture_2",
-          "value": {
-            "label": "இந்தப் பிரதேசம் தக்காண ஓவியத்தின் கிளைகளான தனது கோல்கொண்டா மற்றும் ஹைதராபாத் ஓவிய பாணிகளுக்கு பெயர்பெற்றது.",
-            "image": {
-              "url": "/static/images/master/Water_pipe_base2C_Bidriware2C_Hyderabad2C_India.jpg",
-              "altText": "இந்தப் பிரதேசம் தக்காண ஓவியத்தின் கிளைகளான தனது கோல்கொண்டா மற்றும் ஹைதராபாத் ஓவிய பாணிகளுக்கு பெயர்பெற்றது.",
-              "license": "<p>Copyleft: This work of art is free; you can redistribute it and/or modify it according to terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:Free_Art_License\" class=\"extiw\" title=\"w:en:Free Art License\">Free Art License</a></b>. You will find a specimen of this license on the <a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">Copyleft Attitude site</a> as well as <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Commons:Free_Art_License_1.3\">on other sites</a>. <span class=\"licensetpl_link\" style=\"display:none;\">http://artlibre.org/licence/lal/en</span><span class=\"licensetpl_short\" style=\"display:none;\">FAL</span><span class=\"licensetpl_long\" style=\"display:none;\">Free Art License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
+              "url": "/static/images/master/Arushi_Nishank_2011.jpg",
+              "altText": "கதக்கின் ஜெய்ப்பூர் கரணா தன்னுடைய புதிரான நடன வடிவங்கள், குதூகலமான உடல் அசைவுகள் மற்றும் நேர்த்தியான அபிநயங்களுக்காக பெயர் பெற்றிருக்கிறது.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
             }
           }
         },
         {
           "label": "சமையல்",
+          "id": "culture_2",
+          "value": {
+            "label": "தால் (பருப்புகள்) மற்றும் பாத்தி (கெட்டியான கோதுமை அடைகள்) ஆகியவற்றை உள்ளடக்கிய இந்திய உணவு வகையான தால் பாத்தி சுர்ணா இங்கு பிரசித்தி பெற்றது.",
+            "image": {
+              "url": "/static/images/master/DalBati.jpg",
+              "altText": "தால் (பருப்புகள்) மற்றும் பாத்தி (கெட்டியான கோதுமை அடைகள்) ஆகியவற்றை உள்ளடக்கிய இந்திய உணவு வகையான தால் பாத்தி சுர்ணா இங்கு பிரசித்தி பெற்றது.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "ராஜஸ்தானி கலாச்சாரம்",
           "id": "culture_3",
           "value": {
-            "label": "ஹைதராபாத் சமையலானது விரிவான அளவில் அரிசி, கோதுமை மற்றும் இறைச்சி உணவுகளை கொண்டிருப்பதுடன் பல்வேறு வாசனைப் பொருள்களையும் திறமையுடன் கையாளுகிறது.",
+            "label": "ராஜஸ்தானி கலாச்சாரத்தை விளக்கும் சிலைகள் நகரம் முழுவதும் அமைந்துள்ளன.",
             "image": {
-              "url": "/static/images/master/Hyderabadi_biryani_2840668757329.jpg",
-              "altText": "ஹைதராபாத் சமையலானது விரிவான அளவில் அரிசி, கோதுமை மற்றும் இறைச்சி உணவுகளை கொண்டிருப்பதுடன் பல்வேறு வாசனைப் பொருள்களையும் திறமையுடன் கையாளுகிறது.",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+              "url": "/static/images/master/Rajasthani_Dolls.JPG",
+              "altText": "ராஜஸ்தானி கலாச்சாரத்தை விளக்கும் சிலைகள் நகரம் முழுவதும் அமைந்துள்ளன.",
+              "license": "<p><i>This work is licensed under the <a href=\"/wiki/Creative_Commons\" title=\"Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/\">Attribution 3.0</a> License. </i><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">CC-BY-3.0</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
             }
           }
         }
@@ -167,7 +171,7 @@
           "id": "section_languages_null",
           "label": "மொழிகள்",
           "value": {
-            "label": "தெலுங்கு, உருது"
+            "label": "ஜெய்ப்பூரின் அதிகாரப்பூர்வ மொழி ஹிந்தி, கூடுதல் அதிகாரப்பூர்வ மொழி ஆங்கிலம். இந்த நகரின் முக்கிய மொழி ராஜஸ்தானி. இந்நகரில் மார்வாரி, ஹிந்தி மற்றும் ஆங்கிலம் ஆகியவையும் பேசப்படுகின்றன."
           }
         }
       ]
