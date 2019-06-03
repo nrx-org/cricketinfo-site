@@ -96,7 +96,7 @@
     },
     {
       "title": "Popular Venue",
-      "id": "r2-melbourne_cricket_ground",
+      "id": "australia_national_cricket_team_popular_venues",
       "cardType": "simple",
       "facts": [
         {
@@ -117,7 +117,7 @@
       "facts": [
         {
           "label": "Early History",
-          "id": 3,
+          "id": "australia_national_cricket_team_history_0",
           "note": "1876 - 1890",
           "value": {
             "label": "The Australian cricket team participated in the first Test match at the MCG in 1877, defeating an English team by 45 runs, with Charles Bannerman making the first Test century, a score of 165 retired hurt. ",
@@ -126,7 +126,7 @@
         },
         {
           "label": "Golden age",
-          "id": 3,
+          "id": "australia_national_cricket_team_history_1",
           "note": "1890 - 1900",
           "value": {
             "label": "The so-called 'Golden Age' of Australian Test cricket occurred around the end of the 19th century and the beginning of the 20th century, with the team under the captaincy of Joe Darling, Monty Noble and Clem Hill winning eight of ten tours.",
@@ -135,7 +135,7 @@
         },
         {
           "label": "The Bradman era",
-          "id": 3,
+          "id": "australia_national_cricket_team_history_2",
           "note": "1930/31-1945",
           "value": {
             "label": "The 1930 tour of England heralded a new age of success for the Australian team. The team, led by Bill Woodfull – the \"Great Un-bowlable\" – featured legends of the game including Bill Ponsford, Stan McCabe, Clarrie Grimmett and the young pair of Archie Jackson and Don Bradman.",
@@ -144,7 +144,7 @@
         },
         {
           "label": "Cricket after World War II",
-          "id": 3,
+          "id": "australia_national_cricket_team_history_3",
           "note": "1945/46-1960",
           "value": {
             "label": "The team continued its success after the end of the Second World War, with the first Test (also Australia's first against New Zealand) being played in the 1945–46 season against New Zealand. \n\nAustralia was by far the most successful team of the 1940s, being undefeated throughout the decade, winning two Ashes series against England and its first Test series against India. ",

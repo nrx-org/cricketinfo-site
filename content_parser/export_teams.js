@@ -322,7 +322,7 @@ module.exports.exportTeams = () => {
 
       const popularVenueSection = {
         title: teamUIStrings.popularVenueSectionTitle[lang],
-        id: getSluggedTitle(`${record[ID_KEY]}-${record[VENUE_NAME_KEY]}`),
+        id: `${englishSlug}_popular_venues`,
         cardType: "simple",
         facts: [
           {
@@ -345,15 +345,15 @@ module.exports.exportTeams = () => {
         title: teamUIStrings.historySectionTitle[lang],
         cardType: "vertical_timeline",
         facts: await Promise.all(
-          HISTORY.map(async historyItem => {
+          HISTORY.map(async (historyItem, index) => {
             return {
               label: record[historyItem.HISTORY_TITLE_KEY],
-              id: 3,
+              id: `${englishSlug}_history_${index}`,
               note: record[historyItem.HISTORY_DATES_KEY],
               value: {
                 label: record[historyItem.HISTORY_BRIEF_DESCRIPTION_KEY],
                 facts: (await Promise.all(
-                  historyItem.CARDS.map(async historyItemCard => {
+                  historyItem.CARDS.map(async (historyItemCard, innerIndex) => {
                     const card = getCardInfoFromId(
                       idMap,
                       record[historyItemCard.CARD_ARTICLE_CODE],
@@ -369,7 +369,7 @@ module.exports.exportTeams = () => {
                     return {
                       label: record[historyItemCard.CARD_TITLE_KEY],
                       url: card ? card.url : null,
-                      id: 1,
+                      id: `${englishSlug}_history_${index}_fact_${innerIndex}`,
                       value: {
                         label:
                           record[historyItemCard.CARD_BRIEF_DESCRIPTION_KEY],
@@ -396,7 +396,7 @@ module.exports.exportTeams = () => {
         title: teamUIStrings.famousPlayersSectionTitle[lang],
         cardType: "stories",
         facts: (await Promise.all(
-          PLAYERS.map(async player => {
+          PLAYERS.map(async (player, index) => {
             if (
               !record[player.PLAYER_IMAGE_URL_KEY] ||
               record[player.PLAYER_IMAGE_URL_KEY].length === 0
@@ -405,7 +405,7 @@ module.exports.exportTeams = () => {
             }
             return {
               label: record[player.PLAYER_NAME_KEY],
-              id: getSluggedTitle(record[player.PLAYER_NAME_KEY]),
+              id: `${englishSlug}_player_${index}`,
               value: {
                 url: null,
                 label: record[player.PLAYER_DESCRIPTION_KEY],
@@ -426,7 +426,7 @@ module.exports.exportTeams = () => {
         title: teamUIStrings.achievementsSectionTitle[lang],
         cardType: "list_card",
         facts: (await Promise.all(
-          ACHIEVEMENTS.map(async achievement => {
+          ACHIEVEMENTS.map(async (achievement, index) => {
             if (!record[achievement.ACHIEVEMENT_TITLE]) {
               return null;
             }
@@ -439,7 +439,7 @@ module.exports.exportTeams = () => {
 
             return {
               label: record[achievement.ACHIEVEMENT_TITLE],
-              id: 0,
+              id: `${englishSlug}_achievement_${index}`,
               note: null,
               value: {
                 label: record[achievement.ACHIEVEMENT_DESCRIPTION],
@@ -451,11 +451,7 @@ module.exports.exportTeams = () => {
                           label: record[achievement.ACHIEVEMENT_CARD_TITLE]
                             ? record[achievement.ACHIEVEMENT_CARD_TITLE]
                             : card.title,
-                          id: getSluggedTitle(
-                            `${record[achievement.ACHIEVEMENT_TITLE]}-${
-                              record[achievement.ACHIEVEMENT_CARD_TITLE]
-                            }`
-                          ),
+                          id: `${englishSlug}_achivement_${index}_fact`,
                           url: card ? card.url : null,
 
                           value: {
