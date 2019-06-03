@@ -259,7 +259,7 @@ module.exports.exportEventsIndividual = () => {
           facts: [
             {
               label: "",
-              id: getSluggedTitle(`host_card_${englishSlug}`),
+              id: `${englishSlug}_host_card`,
               value: {
                 label: "",
                 facts: hostFacts
@@ -271,7 +271,7 @@ module.exports.exportEventsIndividual = () => {
 
       // Tournament history.
       let historyFacts = await Promise.all(
-        HISTORY.map(async history => {
+        HISTORY.map(async (history, index) => {
           if (
             !record[history.TOURNAMENT_ID_KEY] &&
             !record[history.WINNER_ID_KEY]
@@ -299,7 +299,7 @@ module.exports.exportEventsIndividual = () => {
               label: tournamentCard.title,
               url: tournamentCard.url,
               contentUrl: tournamentCard.contentUrl,
-              id: `tournament_card_${getSluggedTitle(tournamentCard.title)}`,
+              id: `${englishSlug}_tournament_card_${index}`,
               value: {
                 label: eventsUiStrings.tournament[lang],
                 image: await downloadImageAndFillAttributions(
@@ -315,7 +315,7 @@ module.exports.exportEventsIndividual = () => {
               label: winnerCard.title,
               url: winnerCard.url,
               contentUrl: winnerCard.contentUrl,
-              id: `winner_card_${getSluggedTitle(winnerCard.title)}`,
+              id: `${englishSlug}_winner_card_${index}`,
               value: {
                 label: eventsUiStrings.champion[lang],
                 image: await downloadImageAndFillAttributions(
@@ -333,7 +333,7 @@ module.exports.exportEventsIndividual = () => {
 
           return {
             label: record[history.YEAR_KEY],
-            id: `tournament_year_${record[history.YEAR_KEY]}`,
+            id: `${englishSlug}_tournament_year_${index}`,
             value: {
               label: "",
               facts
@@ -354,14 +354,14 @@ module.exports.exportEventsIndividual = () => {
 
       // Statistics.
       let statisticsFacts = await Promise.all(
-        STATISTICS.map(async stat => {
+        STATISTICS.map(async (stat, index) => {
           if (!record[stat.STATISTIC_KEY]) {
             return null;
           }
 
           return {
             label: eventsUiStrings[stat.STATISTIC_KEY][lang],
-            id: getSluggedTitle(stat.STATISTIC_KEY),
+            id: `${englishSlug}_statistic_${index}`,
             value: {
               label: `${record[stat.STATISTIC_KEY]}, ${
                 record[stat.COUNTRY_KEY]
@@ -430,7 +430,7 @@ module.exports.exportEventsIndividual = () => {
         facts: [
           {
             label: eventsUiStrings.champion[lang],
-            id: "final-positions-champion",
+            id: `${englishSlug}_final_positions_champion`,
             value: {
               label: "",
               facts: [
@@ -448,7 +448,7 @@ module.exports.exportEventsIndividual = () => {
           },
           {
             label: eventsUiStrings.runnerUp[lang],
-            id: "final-positions-runner-up",
+            id: `${englishSlug}_final_position_runner_up`,
             value: {
               label: "",
               facts: [

@@ -65,7 +65,7 @@
       "facts": [
         {
           "label": "",
-          "id": "host_card_1992_cricket_world_cup",
+          "id": "1992_cricket_world_cup_host_card",
           "value": {
             "label": "",
             "facts": [
@@ -105,7 +105,7 @@
       "facts": [
         {
           "label": "1975",
-          "id": "tournament_year_1975",
+          "id": "1992_cricket_world_cup_tournament_year_0",
           "value": {
             "label": "",
             "facts": [
@@ -113,7 +113,7 @@
                 "label": "1975 क्रिकेट विश्व कप",
                 "url": "/read/hi/1975_cricket_world_cup",
                 "contentUrl": "/static/content/hi/1975_cricket_world_cup.json",
-                "id": "tournament_card_1975_क्रिकेट_विश्व_कप",
+                "id": "1992_cricket_world_cup_tournament_card_0",
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
@@ -126,7 +126,7 @@
                 "label": "वेस्टइंडीज क्रिकेट टीम",
                 "url": "/read/hi/west_indies_cricket_team",
                 "contentUrl": "/static/content/hi/west_indies_cricket_team.json",
-                "id": "winner_card_वेस्टइंडीज_क्रिकेट_टीम",
+                "id": "1992_cricket_world_cup_winner_card_0",
                 "value": {
                   "label": "विजेता",
                   "image": {
@@ -140,7 +140,7 @@
         },
         {
           "label": "1979",
-          "id": "tournament_year_1979",
+          "id": "1992_cricket_world_cup_tournament_year_1",
           "value": {
             "label": "",
             "facts": [
@@ -148,7 +148,7 @@
                 "label": "1979 क्रिकेट विश्व कप",
                 "url": "/read/hi/1979_cricket_world_cup",
                 "contentUrl": "/static/content/hi/1979_cricket_world_cup.json",
-                "id": "tournament_card_1979_क्रिकेट_विश्व_कप",
+                "id": "1992_cricket_world_cup_tournament_card_1",
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
@@ -161,7 +161,7 @@
                 "label": "वेस्टइंडीज क्रिकेट टीम",
                 "url": "/read/hi/west_indies_cricket_team",
                 "contentUrl": "/static/content/hi/west_indies_cricket_team.json",
-                "id": "winner_card_वेस्टइंडीज_क्रिकेट_टीम",
+                "id": "1992_cricket_world_cup_winner_card_1",
                 "value": {
                   "label": "विजेता",
                   "image": {
@@ -175,7 +175,7 @@
         },
         {
           "label": "1983",
-          "id": "tournament_year_1983",
+          "id": "1992_cricket_world_cup_tournament_year_2",
           "value": {
             "label": "",
             "facts": [
@@ -183,7 +183,7 @@
                 "label": "1983 क्रिकेट विश्व कप",
                 "url": "/read/hi/1983_cricket_world_cup",
                 "contentUrl": "/static/content/hi/1983_cricket_world_cup.json",
-                "id": "tournament_card_1983_क्रिकेट_विश्व_कप",
+                "id": "1992_cricket_world_cup_tournament_card_2",
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
@@ -196,7 +196,7 @@
                 "label": "भारत की राष्ट्रीय क्रिकेट टीम",
                 "url": "/read/hi/india_national_cricket_team",
                 "contentUrl": "/static/content/hi/india_national_cricket_team.json",
-                "id": "winner_card_भारत_की_राष्ट्रीय_क्रिकेट_टीम",
+                "id": "1992_cricket_world_cup_winner_card_2",
                 "value": {
                   "label": "विजेता",
                   "image": {
@@ -210,7 +210,7 @@
         },
         {
           "label": "1987",
-          "id": "tournament_year_1987",
+          "id": "1992_cricket_world_cup_tournament_year_3",
           "value": {
             "label": "",
             "facts": [
@@ -218,7 +218,7 @@
                 "label": "1987 क्रिकेट विश्व कप",
                 "url": "/read/hi/1987_cricket_world_cup",
                 "contentUrl": "/static/content/hi/1987_cricket_world_cup.json",
-                "id": "tournament_card_1987_क्रिकेट_विश्व_कप",
+                "id": "1992_cricket_world_cup_tournament_card_3",
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
@@ -231,7 +231,7 @@
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
                 "url": "/read/hi/australia_national_cricket_team",
                 "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
-                "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
+                "id": "1992_cricket_world_cup_winner_card_3",
                 "value": {
                   "label": "विजेता",
                   "image": {
@@ -245,7 +245,7 @@
         },
         {
           "label": "1992",
-          "id": "tournament_year_1992",
+          "id": "1992_cricket_world_cup_tournament_year_4",
           "value": {
             "label": "",
             "facts": [
@@ -253,7 +253,7 @@
                 "label": "1992 क्रिकेट विश्व कप",
                 "url": "/read/hi/1992_cricket_world_cup",
                 "contentUrl": "/static/content/hi/1992_cricket_world_cup.json",
-                "id": "tournament_card_1992_क्रिकेट_विश्व_कप",
+                "id": "1992_cricket_world_cup_tournament_card_4",
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
@@ -266,7 +266,7 @@
                 "label": "पाकिस्तान की राष्ट्रीय क्रिकेट टीम ",
                 "url": "/read/hi/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/hi/pakistan_national_cricket_team.json",
-                "id": "winner_card_पाकिस्तान_की_राष्ट्रीय_क्रिकेट_टीम",
+                "id": "1992_cricket_world_cup_winner_card_4",
                 "value": {
                   "label": "विजेता",
                   "image": {
@@ -280,7 +280,7 @@
         },
         {
           "label": "1996",
-          "id": "tournament_year_1996",
+          "id": "1992_cricket_world_cup_tournament_year_5",
           "value": {
             "label": "",
             "facts": [
@@ -288,7 +288,7 @@
                 "label": "1996 क्रिकेट विश्व कप",
                 "url": "/read/hi/1996_cricket_world_cup",
                 "contentUrl": "/static/content/hi/1996_cricket_world_cup.json",
-                "id": "tournament_card_1996_क्रिकेट_विश्व_कप",
+                "id": "1992_cricket_world_cup_tournament_card_5",
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
@@ -301,7 +301,7 @@
                 "label": "श्रीलंका की राष्ट्रीय क्रिकेट टीम",
                 "url": "/read/hi/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/hi/sri_lanka_national_cricket_team.json",
-                "id": "winner_card_श्रीलंका_की_राष्ट्रीय_क्रिकेट_टीम",
+                "id": "1992_cricket_world_cup_winner_card_5",
                 "value": {
                   "label": "विजेता",
                   "image": {
@@ -315,7 +315,7 @@
         },
         {
           "label": "1999",
-          "id": "tournament_year_1999",
+          "id": "1992_cricket_world_cup_tournament_year_6",
           "value": {
             "label": "",
             "facts": [
@@ -323,7 +323,7 @@
                 "label": "1999 क्रिकेट विश्व कप",
                 "url": "/read/hi/1999_cricket_world_cup",
                 "contentUrl": "/static/content/hi/1999_cricket_world_cup.json",
-                "id": "tournament_card_1999_क्रिकेट_विश्व_कप",
+                "id": "1992_cricket_world_cup_tournament_card_6",
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
@@ -336,7 +336,7 @@
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
                 "url": "/read/hi/australia_national_cricket_team",
                 "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
-                "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
+                "id": "1992_cricket_world_cup_winner_card_6",
                 "value": {
                   "label": "विजेता",
                   "image": {
@@ -350,7 +350,7 @@
         },
         {
           "label": "2003",
-          "id": "tournament_year_2003",
+          "id": "1992_cricket_world_cup_tournament_year_7",
           "value": {
             "label": "",
             "facts": [
@@ -358,7 +358,7 @@
                 "label": "2003 क्रिकेट विश्व कप",
                 "url": "/read/hi/2003_cricket_world_cup",
                 "contentUrl": "/static/content/hi/2003_cricket_world_cup.json",
-                "id": "tournament_card_2003_क्रिकेट_विश्व_कप",
+                "id": "1992_cricket_world_cup_tournament_card_7",
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
@@ -371,7 +371,7 @@
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
                 "url": "/read/hi/australia_national_cricket_team",
                 "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
-                "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
+                "id": "1992_cricket_world_cup_winner_card_7",
                 "value": {
                   "label": "विजेता",
                   "image": {
@@ -385,7 +385,7 @@
         },
         {
           "label": "2007",
-          "id": "tournament_year_2007",
+          "id": "1992_cricket_world_cup_tournament_year_8",
           "value": {
             "label": "",
             "facts": [
@@ -393,7 +393,7 @@
                 "label": "2007 क्रिकेट विश्व कप",
                 "url": "/read/hi/2007_cricket_world_cup",
                 "contentUrl": "/static/content/hi/2007_cricket_world_cup.json",
-                "id": "tournament_card_2007_क्रिकेट_विश्व_कप",
+                "id": "1992_cricket_world_cup_tournament_card_8",
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
@@ -406,7 +406,7 @@
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
                 "url": "/read/hi/australia_national_cricket_team",
                 "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
-                "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
+                "id": "1992_cricket_world_cup_winner_card_8",
                 "value": {
                   "label": "विजेता",
                   "image": {
@@ -420,7 +420,7 @@
         },
         {
           "label": "2011",
-          "id": "tournament_year_2011",
+          "id": "1992_cricket_world_cup_tournament_year_9",
           "value": {
             "label": "",
             "facts": [
@@ -428,7 +428,7 @@
                 "label": "2011 क्रिकेट विश्व कप",
                 "url": "/read/hi/2011_cricket_world_cup",
                 "contentUrl": "/static/content/hi/2011_cricket_world_cup.json",
-                "id": "tournament_card_2011_क्रिकेट_विश्व_कप",
+                "id": "1992_cricket_world_cup_tournament_card_9",
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
@@ -441,7 +441,7 @@
                 "label": "भारत की राष्ट्रीय क्रिकेट टीम",
                 "url": "/read/hi/india_national_cricket_team",
                 "contentUrl": "/static/content/hi/india_national_cricket_team.json",
-                "id": "winner_card_भारत_की_राष्ट्रीय_क्रिकेट_टीम",
+                "id": "1992_cricket_world_cup_winner_card_9",
                 "value": {
                   "label": "विजेता",
                   "image": {
@@ -455,7 +455,7 @@
         },
         {
           "label": "2015",
-          "id": "tournament_year_2015",
+          "id": "1992_cricket_world_cup_tournament_year_10",
           "value": {
             "label": "",
             "facts": [
@@ -463,7 +463,7 @@
                 "label": "2015 क्रिकेट विश्व कप",
                 "url": "/read/hi/2015_cricket_world_cup",
                 "contentUrl": "/static/content/hi/2015_cricket_world_cup.json",
-                "id": "tournament_card_2015_क्रिकेट_विश्व_कप",
+                "id": "1992_cricket_world_cup_tournament_card_10",
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
@@ -476,7 +476,7 @@
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
                 "url": "/read/hi/australia_national_cricket_team",
                 "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
-                "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
+                "id": "1992_cricket_world_cup_winner_card_10",
                 "value": {
                   "label": "विजेता",
                   "image": {
@@ -490,7 +490,7 @@
         },
         {
           "label": "2019",
-          "id": "tournament_year_2019",
+          "id": "1992_cricket_world_cup_tournament_year_11",
           "value": {
             "label": "",
             "facts": [
@@ -498,7 +498,7 @@
                 "label": "2019 क्रिकेट विश्व कप",
                 "url": "/read/hi/2019_cricket_world_cup",
                 "contentUrl": "/static/content/hi/2019_cricket_world_cup.json",
-                "id": "tournament_card_2019_क्रिकेट_विश्व_कप",
+                "id": "1992_cricket_world_cup_tournament_card_11",
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
@@ -518,7 +518,7 @@
       "facts": [
         {
           "label": "मैन ऑफ द सीरीज",
-          "id": "man_of_the_series",
+          "id": "1992_cricket_world_cup_statistic_0",
           "value": {
             "label": "मार्टिन क्रो, पाकिस्तान",
             "image": {
@@ -529,7 +529,7 @@
         },
         {
           "label": "सबसे ज्यादा रन",
-          "id": "most_runs_scored/_orange_cap",
+          "id": "1992_cricket_world_cup_statistic_1",
           "value": {
             "label": "मार्टिन क्रो (456), पाकिस्तान",
             "image": {
@@ -540,7 +540,7 @@
         },
         {
           "label": "सबसे ज्यादा विकेट",
-          "id": "most_wickets_taken/_purple_cap",
+          "id": "1992_cricket_world_cup_statistic_2",
           "value": {
             "label": "वसीम अकरम (18), पाकिस्तान",
             "image": {
@@ -557,7 +557,7 @@
       "facts": [
         {
           "label": "विजेता",
-          "id": "final-positions-champion",
+          "id": "1992_cricket_world_cup_final_positions_champion",
           "value": {
             "label": "",
             "facts": [
@@ -578,7 +578,7 @@
         },
         {
           "label": "उपविजेता",
-          "id": "final-positions-runner-up",
+          "id": "1992_cricket_world_cup_final_position_runner_up",
           "value": {
             "label": "",
             "facts": [
