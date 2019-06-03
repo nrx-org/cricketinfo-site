@@ -1,5 +1,6 @@
 @import "./variables.scss";
 @import "./mixins.scss";
+@import "./charis.scss";
 
 html {
   box-sizing: border-box;
@@ -17,6 +18,25 @@ body {
   color: $body-color;
   overflow-x: hidden;
   width: 100%;
+}
+
+body,
+.wcp-font-family-body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.wcp-font-family-heading {
+  font-family: CharisSILW, Constantia, "Lucida Bright", Lucidabright,
+    "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif",
+    "Liberation Serif", Georgia, serif;
 }
 
 p {

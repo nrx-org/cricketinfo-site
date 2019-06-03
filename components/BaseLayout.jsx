@@ -2,7 +2,6 @@ import React from "react";
 import PropTypes from "prop-types";
 import Head from "next/head";
 
-import { FontLoader } from "./FontLoader";
 import { LanguageSetter } from "./LanguageSetter";
 import { setCommitSHA1 } from "../lib/set_commit_sha1";
 
@@ -21,7 +20,6 @@ export const BaseLayout = ({ children }) => (
         crossOrigin="true"
       />
     </Head>
-    <FontLoader />
     <LanguageSetter />
     {children}
   </main>
