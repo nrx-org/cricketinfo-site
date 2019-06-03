@@ -41,7 +41,11 @@ export const Attributions = ({ attributions, lang }) => (
       </ModalContextConsumer>
     </p>
     <p>
-      <a href={getContactFormUrl(lang)} target="_blank" rel="noopener">
+      <a
+        href={getContactFormUrl(lang)}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         Contact us
       </a>
     </p>
