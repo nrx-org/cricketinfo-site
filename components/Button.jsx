@@ -22,7 +22,7 @@ export const Button = ({
       <a
         href={href}
         target={shouldOpenInNewTab ? "_blank" : "_self"}
-        rel={shouldOpenInNewTab ? "noopener" : ""}
+        rel={shouldOpenInNewTab ? "noopener noreferrer" : ""}
         className={`wcp-button ${buttonClass} ${className}`}
         onClick={onClick}
       >
