@@ -62,7 +62,7 @@
         {
           "label": "ICC Knockout Tournament",
           "note": "1998",
-          "id": "icc_knockout_tournament",
+          "id": "icc_champions_trophy_events_0",
           "value": {
             "label": "It was inaugurated as the ICC KnockOut Tournament in 1998 and has been played approximately every four years since. Its name was changed to the Champions Trophy in 2002",
             "facts": []
@@ -71,7 +71,7 @@
         {
           "label": "Idea conception",
           "note": "2002",
-          "id": "idea_conception",
+          "id": "icc_champions_trophy_events_1",
           "value": {
             "label": "The ICC conceived the idea of the Champions Trophy – a short cricket tournament to raise funds for the development of the game in non-test playing countries, with the first tournaments being held in Bangladesh and Kenya.",
             "facts": []
@@ -80,7 +80,7 @@
         {
           "label": "2013 ICC Champions Trophy",
           "note": "",
-          "id": "2013_icc_champions_trophy",
+          "id": "icc_champions_trophy_events_2",
           "value": {
             "label": "In the lead-up to the 2013 tournament, the ICC announced that the 2013 Champions Trophy was to be the last, with its place in the cricketing calendar to be taken by a new ICC World Test Championship. However, in January 2014, that decision was reversed, due to the massive success of the 2013 edition",
             "facts": []
@@ -89,7 +89,7 @@
         {
           "label": "Future of Champions Trophy",
           "note": "2017",
-          "id": "future_of_champions_trophy",
+          "id": "icc_champions_trophy_events_3",
           "value": {
             "label": "In the lead-up to the 2017 tournament, the ICC had proposed starting an ODI League in 2019, which will most likely lead to the Champions Trophy getting scrapped. Following the 2017 Champions Trophy, David Richardson (the ICC CEO) stated that the future status of the Champions Trophy was undecided, with both a possible Test league and an additional World T20 putting additional pressure of fixtures.",
             "facts": []
@@ -103,7 +103,7 @@
       "facts": [
         {
           "label": "1998",
-          "id": "tournament_year_1998",
+          "id": "icc_champions_trophy_tournament_year_0",
           "value": {
             "label": "",
             "facts": [
@@ -111,7 +111,7 @@
                 "label": "South Africa national cricket team",
                 "url": "/read/en/south_africa_national_cricket_team",
                 "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
-                "id": "winner_card_south_africa_national_cricket_team",
+                "id": "icc_champions_trophy_winner_card_0",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -125,7 +125,7 @@
         },
         {
           "label": "2000",
-          "id": "tournament_year_2000",
+          "id": "icc_champions_trophy_tournament_year_1",
           "value": {
             "label": "",
             "facts": [
@@ -133,7 +133,7 @@
                 "label": "New Zealand national cricket team",
                 "url": "/read/en/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
-                "id": "winner_card_new_zealand_national_cricket_team",
+                "id": "icc_champions_trophy_winner_card_1",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -147,7 +147,7 @@
         },
         {
           "label": "2004",
-          "id": "tournament_year_2004",
+          "id": "icc_champions_trophy_tournament_year_3",
           "value": {
             "label": "",
             "facts": [
@@ -155,7 +155,7 @@
                 "label": "West Indies cricket team",
                 "url": "/read/en/west_indies_cricket_team",
                 "contentUrl": "/static/content/en/west_indies_cricket_team.json",
-                "id": "winner_card_west_indies_cricket_team",
+                "id": "icc_champions_trophy_winner_card_3",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -169,7 +169,7 @@
         },
         {
           "label": "2006",
-          "id": "tournament_year_2006",
+          "id": "icc_champions_trophy_tournament_year_4",
           "value": {
             "label": "",
             "facts": [
@@ -177,7 +177,7 @@
                 "label": "Australia national cricket team",
                 "url": "/read/en/australia_national_cricket_team",
                 "contentUrl": "/static/content/en/australia_national_cricket_team.json",
-                "id": "winner_card_australia_national_cricket_team",
+                "id": "icc_champions_trophy_winner_card_4",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -191,7 +191,7 @@
         },
         {
           "label": "2009",
-          "id": "tournament_year_2009",
+          "id": "icc_champions_trophy_tournament_year_5",
           "value": {
             "label": "",
             "facts": [
@@ -199,7 +199,7 @@
                 "label": "Australia national cricket team",
                 "url": "/read/en/australia_national_cricket_team",
                 "contentUrl": "/static/content/en/australia_national_cricket_team.json",
-                "id": "winner_card_australia_national_cricket_team",
+                "id": "icc_champions_trophy_winner_card_5",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -213,7 +213,7 @@
         },
         {
           "label": "2013",
-          "id": "tournament_year_2013",
+          "id": "icc_champions_trophy_tournament_year_6",
           "value": {
             "label": "",
             "facts": [
@@ -221,7 +221,7 @@
                 "label": "India national cricket team",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
-                "id": "winner_card_india_national_cricket_team",
+                "id": "icc_champions_trophy_winner_card_6",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -235,7 +235,7 @@
         },
         {
           "label": "2017",
-          "id": "tournament_year_2017",
+          "id": "icc_champions_trophy_tournament_year_7",
           "value": {
             "label": "",
             "facts": [
@@ -243,7 +243,7 @@
                 "label": "Pakistan national cricket team",
                 "url": "/read/en/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
-                "id": "winner_card_pakistan_national_cricket_team",
+                "id": "icc_champions_trophy_winner_card_7",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -263,7 +263,7 @@
       "facts": [
         {
           "label": "Most Runs",
-          "id": "most_runs_scored-_name_of_the_player",
+          "id": "icc_champions_trophy_statistic_0",
           "value": {
             "label": "Chris Gayle, New Zealand",
             "image": {

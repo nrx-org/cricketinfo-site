@@ -62,7 +62,7 @@
         {
           "label": "Foundation",
           "note": "2007",
-          "id": "foundation",
+          "id": "indian_premier_league_events_0",
           "value": {
             "label": "The BCCI announced the launch of a franchise-based Twenty20 cricket competition called Indian Premier League whose first season was slated to start in April 2008, in a \"high-profile ceremony\" in New Delhi.",
             "facts": [
@@ -70,7 +70,7 @@
                 "label": "2008 Indian Premier League",
                 "url": "/read/en/2008_indian_premier_league",
                 "contentUrl": "/static/content/en/2008_indian_premier_league.json",
-                "id": "2008_indian_premier_league",
+                "id": "indian_premier_league_events_0_fact",
                 "value": {
                   "label": "The 2008 Indian Premier League season was the inaugural season of the Indian Premier League, established by the BCCI in 2007. The season commenced on 18 April 2008 with the final match held on 1 June 2008. The competition started with a double round robin group stage, in which each of the 8 teams played a home match and an away match against every other team. These matches were followed by two semi-finals and a final.",
                   "image": {
@@ -85,7 +85,7 @@
         {
           "label": "Title sponsorship",
           "note": "2008 - 2012",
-          "id": "title_sponsorship",
+          "id": "indian_premier_league_events_1",
           "value": {
             "label": "From 2008 to 2012, the title sponsor was DLF, India's largest real estate developer, who had secured the rights with a bid of ₹200 crore for five seasons.",
             "facts": []
@@ -94,7 +94,7 @@
         {
           "label": "Replacements",
           "note": "2015",
-          "id": "replacements",
+          "id": "indian_premier_league_events_2",
           "value": {
             "label": "On 8 December 2015, following an auction, it was revealed that Pune and Rajkot would replace Chennai and Rajasthan for two seasons.",
             "facts": []
@@ -109,7 +109,7 @@
       "facts": [
         {
           "label": "2008",
-          "id": "tournament_year_2008",
+          "id": "indian_premier_league_tournament_year_0",
           "value": {
             "label": "",
             "facts": [
@@ -117,7 +117,7 @@
                 "label": "2008 Indian Premier League",
                 "url": "/read/en/2008_indian_premier_league",
                 "contentUrl": "/static/content/en/2008_indian_premier_league.json",
-                "id": "tournament_card_2008_indian_premier_league",
+                "id": "indian_premier_league_tournament_card_0",
                 "value": {
                   "label": "Tournament",
                   "image": {
@@ -130,7 +130,7 @@
                 "label": "Rajasthan Royals",
                 "url": "/read/en/rajasthan_royals",
                 "contentUrl": "/static/content/en/rajasthan_royals.json",
-                "id": "winner_card_rajasthan_royals",
+                "id": "indian_premier_league_winner_card_0",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -144,7 +144,7 @@
         },
         {
           "label": "2009",
-          "id": "tournament_year_2009",
+          "id": "indian_premier_league_tournament_year_1",
           "value": {
             "label": "",
             "facts": [
@@ -152,7 +152,7 @@
                 "label": "2009 Indian Premier League",
                 "url": "/read/en/2009_indian_premier_league",
                 "contentUrl": "/static/content/en/2009_indian_premier_league.json",
-                "id": "tournament_card_2009_indian_premier_league",
+                "id": "indian_premier_league_tournament_card_1",
                 "value": {
                   "label": "Tournament",
                   "image": {
@@ -165,7 +165,7 @@
                 "label": "Sunrisers Hyderabad",
                 "url": "/read/en/sunrisers_hyderabad",
                 "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
-                "id": "winner_card_sunrisers_hyderabad",
+                "id": "indian_premier_league_winner_card_1",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -179,7 +179,7 @@
         },
         {
           "label": "2010",
-          "id": "tournament_year_2010",
+          "id": "indian_premier_league_tournament_year_2",
           "value": {
             "label": "",
             "facts": [
@@ -187,7 +187,7 @@
                 "label": "2010 Indian Premier League",
                 "url": "/read/en/2010_indian_premier_league",
                 "contentUrl": "/static/content/en/2010_indian_premier_league.json",
-                "id": "tournament_card_2010_indian_premier_league",
+                "id": "indian_premier_league_tournament_card_2",
                 "value": {
                   "label": "Tournament",
                   "image": {
@@ -201,7 +201,7 @@
                 "label": "Chennai Super Kings",
                 "url": "/read/en/chennai_super_kings",
                 "contentUrl": "/static/content/en/chennai_super_kings.json",
-                "id": "winner_card_chennai_super_kings",
+                "id": "indian_premier_league_winner_card_2",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -215,7 +215,7 @@
         },
         {
           "label": "2011",
-          "id": "tournament_year_2011",
+          "id": "indian_premier_league_tournament_year_3",
           "value": {
             "label": "",
             "facts": [
@@ -223,7 +223,7 @@
                 "label": "2011 Indian Premier League",
                 "url": "/read/en/2011_indian_premier_league",
                 "contentUrl": "/static/content/en/2011_indian_premier_league.json",
-                "id": "tournament_card_2011_indian_premier_league",
+                "id": "indian_premier_league_tournament_card_3",
                 "value": {
                   "label": "Tournament",
                   "image": {
@@ -236,7 +236,7 @@
                 "label": "Chennai Super Kings",
                 "url": "/read/en/chennai_super_kings",
                 "contentUrl": "/static/content/en/chennai_super_kings.json",
-                "id": "winner_card_chennai_super_kings",
+                "id": "indian_premier_league_winner_card_3",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -250,7 +250,7 @@
         },
         {
           "label": "2012",
-          "id": "tournament_year_2012",
+          "id": "indian_premier_league_tournament_year_4",
           "value": {
             "label": "",
             "facts": [
@@ -258,7 +258,7 @@
                 "label": "2012 Indian Premier League",
                 "url": "/read/en/2012_indian_premier_league",
                 "contentUrl": "/static/content/en/2012_indian_premier_league.json",
-                "id": "tournament_card_2012_indian_premier_league",
+                "id": "indian_premier_league_tournament_card_4",
                 "value": {
                   "label": "Tournament",
                   "image": {
@@ -271,7 +271,7 @@
                 "label": "Kolkata Knight Riders",
                 "url": "/read/en/kolkata_knight_riders",
                 "contentUrl": "/static/content/en/kolkata_knight_riders.json",
-                "id": "winner_card_kolkata_knight_riders",
+                "id": "indian_premier_league_winner_card_4",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -285,7 +285,7 @@
         },
         {
           "label": "2013",
-          "id": "tournament_year_2013",
+          "id": "indian_premier_league_tournament_year_5",
           "value": {
             "label": "",
             "facts": [
@@ -293,7 +293,7 @@
                 "label": "2013 Indian Premier League",
                 "url": "/read/en/2013_indian_premier_league",
                 "contentUrl": "/static/content/en/2013_indian_premier_league.json",
-                "id": "tournament_card_2013_indian_premier_league",
+                "id": "indian_premier_league_tournament_card_5",
                 "value": {
                   "label": "Tournament",
                   "image": {
@@ -306,7 +306,7 @@
                 "label": "Mumbai Indians",
                 "url": "/read/en/mumbai_indians",
                 "contentUrl": "/static/content/en/mumbai_indians.json",
-                "id": "winner_card_mumbai_indians",
+                "id": "indian_premier_league_winner_card_5",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -320,7 +320,7 @@
         },
         {
           "label": "2014",
-          "id": "tournament_year_2014",
+          "id": "indian_premier_league_tournament_year_6",
           "value": {
             "label": "",
             "facts": [
@@ -328,7 +328,7 @@
                 "label": "2014 Indian Premier League",
                 "url": "/read/en/2014_indian_premier_league",
                 "contentUrl": "/static/content/en/2014_indian_premier_league.json",
-                "id": "tournament_card_2014_indian_premier_league",
+                "id": "indian_premier_league_tournament_card_6",
                 "value": {
                   "label": "Tournament",
                   "image": {
@@ -341,7 +341,7 @@
                 "label": "Kolkata Knight Riders",
                 "url": "/read/en/kolkata_knight_riders",
                 "contentUrl": "/static/content/en/kolkata_knight_riders.json",
-                "id": "winner_card_kolkata_knight_riders",
+                "id": "indian_premier_league_winner_card_6",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -355,7 +355,7 @@
         },
         {
           "label": "2015",
-          "id": "tournament_year_2015",
+          "id": "indian_premier_league_tournament_year_7",
           "value": {
             "label": "",
             "facts": [
@@ -363,7 +363,7 @@
                 "label": "2015 Indian Premier League",
                 "url": "/read/en/2015_indian_premier_league",
                 "contentUrl": "/static/content/en/2015_indian_premier_league.json",
-                "id": "tournament_card_2015_indian_premier_league",
+                "id": "indian_premier_league_tournament_card_7",
                 "value": {
                   "label": "Tournament",
                   "image": {
@@ -376,7 +376,7 @@
                 "label": "Mumbai Indians",
                 "url": "/read/en/mumbai_indians",
                 "contentUrl": "/static/content/en/mumbai_indians.json",
-                "id": "winner_card_mumbai_indians",
+                "id": "indian_premier_league_winner_card_7",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -390,7 +390,7 @@
         },
         {
           "label": "2016",
-          "id": "tournament_year_2016",
+          "id": "indian_premier_league_tournament_year_8",
           "value": {
             "label": "",
             "facts": [
@@ -398,7 +398,7 @@
                 "label": "2016 Indian Premier League",
                 "url": "/read/en/2016_indian_premier_league",
                 "contentUrl": "/static/content/en/2016_indian_premier_league.json",
-                "id": "tournament_card_2016_indian_premier_league",
+                "id": "indian_premier_league_tournament_card_8",
                 "value": {
                   "label": "Tournament",
                   "image": {
@@ -411,7 +411,7 @@
                 "label": "Sunrisers Hyderabad",
                 "url": "/read/en/sunrisers_hyderabad",
                 "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
-                "id": "winner_card_sunrisers_hyderabad",
+                "id": "indian_premier_league_winner_card_8",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -425,7 +425,7 @@
         },
         {
           "label": "2017",
-          "id": "tournament_year_2017",
+          "id": "indian_premier_league_tournament_year_9",
           "value": {
             "label": "",
             "facts": [
@@ -433,7 +433,7 @@
                 "label": "2017 Indian Premier League",
                 "url": "/read/en/2017_indian_premier_league",
                 "contentUrl": "/static/content/en/2017_indian_premier_league.json",
-                "id": "tournament_card_2017_indian_premier_league",
+                "id": "indian_premier_league_tournament_card_9",
                 "value": {
                   "label": "Tournament",
                   "image": {
@@ -446,7 +446,7 @@
                 "label": "Mumbai Indians",
                 "url": "/read/en/mumbai_indians",
                 "contentUrl": "/static/content/en/mumbai_indians.json",
-                "id": "winner_card_mumbai_indians",
+                "id": "indian_premier_league_winner_card_9",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -460,7 +460,7 @@
         },
         {
           "label": "2018",
-          "id": "tournament_year_2018",
+          "id": "indian_premier_league_tournament_year_10",
           "value": {
             "label": "",
             "facts": [
@@ -468,7 +468,7 @@
                 "label": "2018 Indian Premier League",
                 "url": "/read/en/2018_indian_premier_league",
                 "contentUrl": "/static/content/en/2018_indian_premier_league.json",
-                "id": "tournament_card_2018_indian_premier_league",
+                "id": "indian_premier_league_tournament_card_10",
                 "value": {
                   "label": "Tournament",
                   "image": {
@@ -481,7 +481,7 @@
                 "label": "Chennai Super Kings",
                 "url": "/read/en/chennai_super_kings",
                 "contentUrl": "/static/content/en/chennai_super_kings.json",
-                "id": "winner_card_chennai_super_kings",
+                "id": "indian_premier_league_winner_card_10",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -501,7 +501,7 @@
       "facts": [
         {
           "label": "Most Runs",
-          "id": "most_runs_scored-_name_of_the_player",
+          "id": "indian_premier_league_statistic_0",
           "value": {
             "label": "Virat Kohli , Sri Lanka",
             "image": {

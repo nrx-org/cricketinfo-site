@@ -221,7 +221,7 @@ module.exports.exportEventsMajor = () => {
         title: eventsUiStrings.events[lang],
         cardType: "vertical_timeline",
         facts: await Promise.all(
-          EVENTS.map(async mapEvent => {
+          EVENTS.map(async (mapEvent, index) => {
             if (!record[mapEvent.TITLE_KEY]) {
               return null;
             }
@@ -246,7 +246,7 @@ module.exports.exportEventsMajor = () => {
             return {
               label: record[mapEvent.TITLE_KEY],
               note: record[mapEvent.YEAR_KEY],
-              id: getSluggedTitle(record[mapEvent.TITLE_KEY]),
+              id: `${englishSlug}_events_${index}`,
               value: {
                 label: record[mapEvent.DESCRIPTION_KEY],
                 facts: [
@@ -254,7 +254,7 @@ module.exports.exportEventsMajor = () => {
                     label: eventCard.title,
                     url: eventCard.url,
                     contentUrl: eventCard.contentUrl,
-                    id: getSluggedTitle(eventCard.title),
+                    id: `${englishSlug}_events_${index}_fact`,
                     value: {
                       label: eventCard.summary,
                       image: eventCardImage
@@ -271,7 +271,7 @@ module.exports.exportEventsMajor = () => {
 
       // History.
       let historyFacts = await Promise.all(
-        HISTORY.map(async history => {
+        HISTORY.map(async (history, index) => {
           if (
             !record[history.TOURNAMENT_ID_KEY] &&
             !record[history.WINNER_ID_KEY]
@@ -299,7 +299,7 @@ module.exports.exportEventsMajor = () => {
               label: tournamentCard.title,
               url: tournamentCard.url,
               contentUrl: tournamentCard.contentUrl,
-              id: `tournament_card_${getSluggedTitle(tournamentCard.title)}`,
+              id: `${englishSlug}_tournament_card_${index}`,
               value: {
                 label: eventsUiStrings.tournament[lang],
                 image: await downloadImageAndFillAttributions(
@@ -315,7 +315,7 @@ module.exports.exportEventsMajor = () => {
               label: winnerCard.title,
               url: winnerCard.url,
               contentUrl: winnerCard.contentUrl,
-              id: `winner_card_${getSluggedTitle(winnerCard.title)}`,
+              id: `${englishSlug}_winner_card_${index}`,
               value: {
                 label: eventsUiStrings.champion[lang],
                 image: await downloadImageAndFillAttributions(
@@ -333,7 +333,7 @@ module.exports.exportEventsMajor = () => {
 
           return {
             label: record[history.YEAR_KEY],
-            id: `tournament_year_${record[history.YEAR_KEY]}`,
+            id: `${englishSlug}_tournament_year_${index}`,
             value: {
               label: "",
               facts: timelineCards
@@ -354,14 +354,14 @@ module.exports.exportEventsMajor = () => {
 
       // Statistics.
       let statisticsFacts = await Promise.all(
-        STATISTICS.map(async stat => {
+        STATISTICS.map(async (stat, index) => {
           if (!record[stat.STATISTIC_KEY]) {
             return null;
           }
 
           return {
             label: eventsUiStrings[stat.STATISTIC_KEY][lang],
-            id: getSluggedTitle(stat.STATISTIC_KEY),
+            id: `${englishSlug}_statistic_${index}`,
             value: {
               label: `${record[stat.STATISTIC_KEY]}, ${
                 record[stat.COUNTRY_KEY]

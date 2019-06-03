@@ -62,7 +62,7 @@
         {
           "label": "Background",
           "note": "2002",
-          "id": "background",
+          "id": "icc_t20_world_cup_events_0",
           "value": {
             "label": "When the Benson & Hedges Cup ended in 2002, cricketing authorities were looking to boost the game's popularity with the younger generation in response to dwindling crowds and reduced sponsorship. It was intended to deliver fast-paced, exciting cricket accessible to thousands of fans who were put off by the longer versions of the game. a 20 over per innings game was proposed and voted 11–7 in favour of adopting the new format.",
             "facts": []
@@ -71,7 +71,7 @@
         {
           "label": "Domestic tournaments",
           "note": "2006",
-          "id": "domestic_tournaments",
+          "id": "icc_t20_world_cup_events_1",
           "value": {
             "label": "The West Indies regional teams competed in what was named the Stanford 20/20 tournament. The event was financially backed by convicted fraudster Allen Stanford, who gave at least US$28,000,000 funding money, the fruit of his massive Ponzi scheme.",
             "facts": []
@@ -80,7 +80,7 @@
         {
           "label": "Inaugural tournaments",
           "note": "2007",
-          "id": "inaugural_tournaments",
+          "id": "icc_t20_world_cup_events_2",
           "value": {
             "label": "It was first decided that every two years an ICC World Twenty20 tournament is to take place, except in the event of a Cricket World Cup being scheduled in the same year, in which case it will be held the year before. The first tournament was in 2007 in South Africa ",
             "facts": [
@@ -88,7 +88,7 @@
                 "label": "South Africa",
                 "url": "/read/en/south_africa",
                 "contentUrl": "/static/content/en/south_africa.json",
-                "id": "south_africa",
+                "id": "icc_t20_world_cup_events_2_fact",
                 "value": {
                   "label": "South Africa, officially the Republic of South Africa (RSA), is the southernmost country in Africa. It is bounded to the south by 2,798 kilometres of coastline of Southern Africa stretching along the South Atlantic and Indian Oceans.",
                   "image": {
@@ -103,7 +103,7 @@
         {
           "label": "Expansion to 16 teams",
           "note": "2012-",
-          "id": "expansion_to_16_teams",
+          "id": "icc_t20_world_cup_events_3",
           "value": {
             "label": "The 2012 edition was to be expanded into a 16 team format however this was reverted to 12. The 2014 tournament, held in Bangladesh was the first to feature 16 teams including all ten full members",
             "facts": []
@@ -117,7 +117,7 @@
       "facts": [
         {
           "label": "2007",
-          "id": "tournament_year_2007",
+          "id": "icc_t20_world_cup_tournament_year_0",
           "value": {
             "label": "",
             "facts": [
@@ -125,7 +125,7 @@
                 "label": "India national cricket team",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
-                "id": "winner_card_india_national_cricket_team",
+                "id": "icc_t20_world_cup_winner_card_0",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -139,7 +139,7 @@
         },
         {
           "label": "2009",
-          "id": "tournament_year_2009",
+          "id": "icc_t20_world_cup_tournament_year_1",
           "value": {
             "label": "",
             "facts": [
@@ -147,7 +147,7 @@
                 "label": "Pakistan national cricket team",
                 "url": "/read/en/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
-                "id": "winner_card_pakistan_national_cricket_team",
+                "id": "icc_t20_world_cup_winner_card_1",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -161,7 +161,7 @@
         },
         {
           "label": "2010",
-          "id": "tournament_year_2010",
+          "id": "icc_t20_world_cup_tournament_year_2",
           "value": {
             "label": "",
             "facts": [
@@ -169,7 +169,7 @@
                 "label": "England cricket team",
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
-                "id": "winner_card_england_cricket_team",
+                "id": "icc_t20_world_cup_winner_card_2",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -183,7 +183,7 @@
         },
         {
           "label": "2012",
-          "id": "tournament_year_2012",
+          "id": "icc_t20_world_cup_tournament_year_3",
           "value": {
             "label": "",
             "facts": [
@@ -191,7 +191,7 @@
                 "label": "West Indies cricket team",
                 "url": "/read/en/west_indies_cricket_team",
                 "contentUrl": "/static/content/en/west_indies_cricket_team.json",
-                "id": "winner_card_west_indies_cricket_team",
+                "id": "icc_t20_world_cup_winner_card_3",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -205,7 +205,7 @@
         },
         {
           "label": "2014",
-          "id": "tournament_year_2014",
+          "id": "icc_t20_world_cup_tournament_year_4",
           "value": {
             "label": "",
             "facts": [
@@ -213,7 +213,7 @@
                 "label": "Sri Lanka national cricket team",
                 "url": "/read/en/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
-                "id": "winner_card_sri_lanka_national_cricket_team",
+                "id": "icc_t20_world_cup_winner_card_4",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -227,7 +227,7 @@
         },
         {
           "label": "2016",
-          "id": "tournament_year_2016",
+          "id": "icc_t20_world_cup_tournament_year_5",
           "value": {
             "label": "",
             "facts": [
@@ -235,7 +235,7 @@
                 "label": "West Indies cricket team",
                 "url": "/read/en/west_indies_cricket_team",
                 "contentUrl": "/static/content/en/west_indies_cricket_team.json",
-                "id": "winner_card_west_indies_cricket_team",
+                "id": "icc_t20_world_cup_winner_card_5",
                 "value": {
                   "label": "Champions",
                   "image": {
@@ -255,7 +255,7 @@
       "facts": [
         {
           "label": "Most Runs",
-          "id": "most_runs_scored-_name_of_the_player",
+          "id": "icc_t20_world_cup_statistic_0",
           "value": {
             "label": "Mahela Jayawardene, Pakistan",
             "image": {
