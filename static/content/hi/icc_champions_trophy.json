@@ -175,8 +175,8 @@
             "facts": [
               {
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
                   "label": "विजेता",
@@ -197,8 +197,8 @@
             "facts": [
               {
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
                   "label": "विजेता",
@@ -225,7 +225,7 @@
                 "value": {
                   "label": "विजेता",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of भारत की राष्ट्रीय क्रिकेट टीम"
                   }
                 }

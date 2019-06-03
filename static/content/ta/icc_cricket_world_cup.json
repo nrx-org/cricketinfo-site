@@ -1,7 +1,7 @@
 {
   "title": "கிரிக்கெட் உலகக் கோப்பை",
   "summary": "ஐசிசி கிரிக்கெட் உலக கோப்பை ஒரு நாள் சர்வதேச கிரிக்கெட்டின் சர்வதேச சாம்பியன்ஷிப் ஆகும். இந்த நிகழ்வானது, விளையாட்டு நிர்வாக ஆணையம், சர்வதேச கிரிக்கெட் கவுன்சில்லால்  ஒவ்வொரு நான்கு வருடங்களுக்கும் ஏற்பாடு செய்யப்படுகின்றது",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cricket_World_Cup",
+  "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AF%81%E0%AE%9F%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F_%E0%AE%89%E0%AE%B2%E0%AE%95%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%A3%E0%AF%8D%E0%AE%A3%E0%AE%AE%E0%AF%8D",
   "coverImage": {
     "url": "/static/images/master/Icc_cricket_world_cup_trophy.jpg",
     "altText": "Image of கிரிக்கெட் உலகக் கோப்பை"
@@ -107,8 +107,9 @@
           "value": {
             "label": "சச்சின் டெண்டுல்கர், உலகக் கோப்பை வரலாற்றில் அதிகபட்ச ரன் எடுத்தவர். இவர் 2278 ரன்கள் எடுத்துள்ளார்., ஆஸ்திரேலியா",
             "image": {
-              "url": "",
-              "altText": "Picture of சச்சின் டெண்டுல்கர், உலகக் கோப்பை வரலாற்றில் அதிகபட்ச ரன் எடுத்தவர். இவர் 2278 ரன்கள் எடுத்துள்ளார்."
+              "url": "/static/images/master/Glenn_McGrath_01.jpg",
+              "altText": "Picture of சச்சின் டெண்டுல்கர், உலகக் கோப்பை வரலாற்றில் அதிகபட்ச ரன் எடுத்தவர். இவர் 2278 ரன்கள் எடுத்துள்ளார்.",
+              "license": ""
             }
           }
         }

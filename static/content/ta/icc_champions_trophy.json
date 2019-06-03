@@ -1,7 +1,7 @@
 {
   "title": "ஐசிசி சேம்பியன்ஸ் டிராஃபி",
   "summary": "ஐசிசி சேம்பியன்ஸ் டிராஃபி என்பது இன்டர்நேஷனல் கிரிக்கெட் கவுன்சிலால் (ஐசிசி) நடத்தப்படும் ஒன் டே இன்டர்நேஷனல் (ODI) கிரிக்கெட் டோர்னமென்ட் ஆகும். இது கிரிக்கெட் உலகக்கோப்பைக்கு அடுத்தபடியாக முக்கியமாக கருதப்படும் டோர்னமென்ட் ஆகும். 2002-ஆம் ஆண்டு இதன் பெயர் சேம்பியன்ஸ் டிராஃபி என்று மாற்றப்பட்டது.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/ICC_Champions_Trophy",
+  "wikipediaUrl": "",
   "coverImage": {
     "url": "/static/images/master/ICC_Champions_Trophy_cricket_logo.png",
     "altText": "Image of ஐசிசி சேம்பியன்ஸ் டிராஃபி"
@@ -108,15 +108,15 @@
             "label": "",
             "facts": [
               {
-                "label": "South Africa national cricket team",
+                "label": "தென்னாப்பிரிக்கா தேசியக் கிரிக்கெட் அணி",
                 "url": "/read/ta/south_africa_national_cricket_team",
                 "contentUrl": "/static/content/ta/south_africa_national_cricket_team.json",
-                "id": "winner_card_south_africa_national_cricket_team",
+                "id": "winner_card_தென்னாப்பிரிக்கா_தேசியக்_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
                     "url": "/static/images/master/Southafrica_cricket_logo.svg",
-                    "altText": "Image of South Africa national cricket team"
+                    "altText": "Image of தென்னாப்பிரிக்கா தேசியக் கிரிக்கெட் அணி"
                   }
                 }
               }
@@ -130,15 +130,15 @@
             "label": "",
             "facts": [
               {
-                "label": "New Zealand national cricket team",
+                "label": "நியூசிலாந்து தேசியக் கிரிக்கெட் அணி",
                 "url": "/read/ta/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/ta/new_zealand_national_cricket_team.json",
-                "id": "winner_card_new_zealand_national_cricket_team",
+                "id": "winner_card_நியூசிலாந்து_தேசியக்_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
                     "url": "/static/images/master/New_Zealand_Cricket_Cap_Insignia.svg",
-                    "altText": "Image of New Zealand national cricket team"
+                    "altText": "Image of நியூசிலாந்து தேசியக் கிரிக்கெட் அணி"
                   }
                 }
               }
@@ -175,8 +175,8 @@
             "facts": [
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
@@ -197,8 +197,8 @@
             "facts": [
               {
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "url": "/read/ta/australia_cricket_team",
-                "contentUrl": "/static/content/ta/australia_cricket_team.json",
+                "url": "/read/ta/australia_national_cricket_team",
+                "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "id": "winner_card_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
@@ -225,7 +225,7 @@
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of இந்திய தேசிய கிரிக்கெட் அணி"
                   }
                 }
@@ -240,15 +240,15 @@
             "label": "",
             "facts": [
               {
-                "label": "Pakistan national cricket team",
+                "label": "பாகிஸ்தான் தேசியக் கிரிக்கெட் அணி",
                 "url": "/read/ta/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/ta/pakistan_national_cricket_team.json",
-                "id": "winner_card_pakistan_national_cricket_team",
+                "id": "winner_card_பாகிஸ்தான்_தேசியக்_கிரிக்கெட்_அணி",
                 "value": {
                   "label": "சாம்பியன்ஸ்",
                   "image": {
                     "url": "/static/images/master/PakistanCricketLogo.png",
-                    "altText": "Image of Pakistan national cricket team"
+                    "altText": "Image of பாகிஸ்தான் தேசியக் கிரிக்கெட் அணி"
                   }
                 }
               }

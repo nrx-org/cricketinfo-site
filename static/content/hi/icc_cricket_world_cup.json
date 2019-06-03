@@ -39,8 +39,8 @@
           "label": "वर्तमान विजेता",
           "value": {
             "label": "ऑस्ट्रेलिया (पांचवां खिताब)",
-            "url": "/read/hi/australia_cricket_team",
-            "contentUrl": "/static/content/hi/australia_cricket_team.json"
+            "url": "/read/hi/australia_national_cricket_team",
+            "contentUrl": "/static/content/hi/australia_national_cricket_team.json"
           }
         },
         {
@@ -198,7 +198,7 @@
                 "value": {
                   "label": "विजेता",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of भारत की राष्ट्रीय क्रिकेट टीम"
                   }
                 }
@@ -220,15 +220,15 @@
                 "value": {
                   "label": "टूर्नामेंट",
                   "image": {
-                    "altText": "Image of 1987 क्रिकेट विश्व कप",
-                    "license": ""
+                    "url": "/static/images/master/Worldcup1987.jpg",
+                    "altText": "Image of 1987 क्रिकेट विश्व कप"
                   }
                 }
               },
               {
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
                   "label": "विजेता",
@@ -332,8 +332,8 @@
               },
               {
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
                   "label": "विजेता",
@@ -367,8 +367,8 @@
               },
               {
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
                   "label": "विजेता",
@@ -402,8 +402,8 @@
               },
               {
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
                   "label": "विजेता",
@@ -443,7 +443,7 @@
                 "value": {
                   "label": "विजेता",
                   "image": {
-                    "url": "/static/images/master/Cricket_India_Crest.svg",
+                    "url": "/static/images/master/Flagcricket.jpg",
                     "altText": "Image of भारत की राष्ट्रीय क्रिकेट टीम"
                   }
                 }
@@ -472,8 +472,8 @@
               },
               {
                 "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-                "url": "/read/hi/australia_cricket_team",
-                "contentUrl": "/static/content/hi/australia_cricket_team.json",
+                "url": "/read/hi/australia_national_cricket_team",
+                "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
                 "id": "winner_card_ऑस्ट्रेलिया_क्रिकेट_टीम",
                 "value": {
                   "label": "विजेता",
@@ -520,9 +520,9 @@
           "value": {
             "label": "सचिन तेंदुलकर 2278 रन के साथ विश्व कप इतिहास में सबसे ज़्यादा रन बनाने वाले खिलाड़ी हैं।, ऑस्ट्रेलिया",
             "image": {
-              "url": "/static/images/master/Glenn_McGrath_in_Circular_Quay2C_Sydney2C_Australia2C_2018-02-03.jpg",
+              "url": "/static/images/master/Glenn_McGrath_01.jpg",
               "altText": "Picture of सचिन तेंदुलकर 2278 रन के साथ विश्व कप इतिहास में सबसे ज़्यादा रन बनाने वाले खिलाड़ी हैं।",
-              "license": "<p>This file is made available under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\">CC0 1.0 Universal Public Domain Dedication</a>.</p>"
+              "license": ""
             }
           }
         }
