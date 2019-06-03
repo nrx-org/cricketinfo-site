@@ -1,0 +1,223 @@
+{
+  "title": "Hyderabad",
+  "summary": "Hyderabad is the capital of the Indian state of Telangana and de jure capital of Andhra Pradesh",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyderabad",
+  "coverImage": {
+    "altText": "Image of Hyderabad",
+    "license": ""
+  },
+  "translations": [
+    {
+      "lang": "hi",
+      "title": "हैदराबाद",
+      "url": "/read/hi/hyderabad"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/hyderabad"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Total Area",
+          "value": {
+            "label": "650"
+          }
+        },
+        {
+          "label": "Population",
+          "value": {
+            "label": "6,809,970"
+          }
+        },
+        {
+          "label": "Timezone(s)",
+          "value": {
+            "label": "+5:30"
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Early and medieval history",
+          "id": "history_phase_1_title",
+          "note": "500 BCE-",
+          "value": {
+            "label": "Archaeologists excavating near the city have unearthed Iron Age sites that may date from 500 BCE. "
+          }
+        },
+        {
+          "label": "Modern history",
+          "id": "history_phase_2_title",
+          "note": "",
+          "value": {
+            "label": "Until 1874 there were no modern industries in Hyderabad. With the introduction of railways in the 1880s, four factories were built to the south and east of Hussain Sagar Lake,[27] and during the early 20th century, Hyderabad was transformed into a modern city."
+          }
+        },
+        {
+          "label": "Post-Independence",
+          "id": "history_phase_3_title",
+          "note": "1950",
+          "value": {
+            "label": "The Constitution of India, which became effective on 26 January 1950, made Hyderabad State one of the part B states of India, with Hyderabad city continuing to be the capital."
+          }
+        }
+      ]
+    },
+    {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "Sunrisers Hyderabad",
+            "url": "/read/en/sunrisers_hyderabad",
+            "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
+            "image": {
+              "url": "/static/images/master/Sunrisers_Hyderabad.svg",
+              "altText": "Picture of Sunrisers Hyderabad"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Geography",
+      "id": "hyderabad_geography",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "Hyderabad",
+          "value": {
+            "label": "Situated in the southern part of Telangana in southeastern India, Hyderabad is 1,566 kilometres south of Delhi, 699 kilometres southeast of Mumbai, and 570 kilometres north of Bangalore by road.",
+            "image": {
+              "url": "/static/images/master/Hussainsagar_hyd.jpg",
+              "altText": "An image of Hyderabad",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Culture",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Literature",
+          "id": "culture-literature",
+          "value": {
+            "label": "Organisations engaged in the advancement of literature include the Sahitya Akademi, the Urdu Academy, the Telugu Academy, the National Council for Promotion of Urdu Language, the Comparative Literature Association of India, and the Andhra Saraswata Parishad.",
+            "image": {
+              "url": "/static/images/master/Sahitya_Akademi_Regional_Office_Banglore.jpg",
+              "altText": "Organisations engaged in the advancement of literature include the Sahitya Akademi, the Urdu Academy, the Telugu Academy, the National Council for Promotion of Urdu Language, the Comparative Literature Association of India, and the Andhra Saraswata Parishad.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Music and films",
+          "id": "culture-music_and_films",
+          "value": {
+            "label": "The state government organises the Golconda Music and Dance Festival, the Taramati Music Festival and the Premavathi Dance Festival to further encourage the development of music.",
+            "image": {
+              "url": "/static/images/master/Kuchipudi_Performer_DS.jpg",
+              "altText": "The state government organises the Golconda Music and Dance Festival, the Taramati Music Festival and the Premavathi Dance Festival to further encourage the development of music.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Art and handicrafts",
+          "id": "culture-art_and_handicrafts",
+          "value": {
+            "label": "The region is well known for its Golconda and Hyderabad painting styles which are branches of Deccani painting.",
+            "image": {
+              "url": "/static/images/master/Water_pipe_base2C_Bidriware2C_Hyderabad2C_India.jpg",
+              "altText": "The region is well known for its Golconda and Hyderabad painting styles which are branches of Deccani painting.",
+              "license": "<p>Copyleft: This work of art is free; you can redistribute it and/or modify it according to terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:Free_Art_License\" class=\"extiw\" title=\"w:en:Free Art License\">Free Art License</a></b>. You will find a specimen of this license on the <a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">Copyleft Attitude site</a> as well as <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Commons:Free_Art_License_1.3\">on other sites</a>. <span class=\"licensetpl_link\" style=\"display:none;\">http://artlibre.org/licence/lal/en</span><span class=\"licensetpl_short\" style=\"display:none;\">FAL</span><span class=\"licensetpl_long\" style=\"display:none;\">Free Art License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
+            }
+          }
+        },
+        {
+          "label": "Cuisine",
+          "id": "culture-cuisine",
+          "value": {
+            "label": "Hyderabadi cuisine comprises a broad repertoire of rice, wheat and meat dishes and the skilled use of various spices.",
+            "image": {
+              "url": "/static/images/master/Hyderabadi_biryani_2840668757329.jpg",
+              "altText": "Hyderabadi cuisine comprises a broad repertoire of rice, wheat and meat dishes and the skilled use of various spices.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_hyderabad",
+          "label": "Languages",
+          "value": {
+            "label": "Telugu, Urdu"
+          }
+        },
+        {
+          "id": "religion_section_hyderabad",
+          "label": "Religions",
+          "value": {
+            "facts": [
+              {
+                "id": "religion_0",
+                "label": "Hindu",
+                "value": 64.9
+              },
+              {
+                "id": "religion_1",
+                "label": "Muslim",
+                "value": 30.1
+              },
+              {
+                "id": "religion_2",
+                "label": "Christianity",
+                "value": 2.8
+              },
+              {
+                "id": "religion_3",
+                "label": "Jaininism",
+                "value": 0.3
+              },
+              {
+                "id": "religion_4",
+                "label": "Sikh",
+                "value": 0.3
+              },
+              {
+                "id": "religion_5",
+                "label": "Buddhist",
+                "value": 0.1
+              },
+              {
+                "id": "religion_6",
+                "label": "No religion",
+                "value": 1.5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

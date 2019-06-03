@@ -1,0 +1,209 @@
+{
+  "title": "Kolkata",
+  "summary": "Kolkata is the capital of the Indian state of West Bengal. The city is widely regarded as the \"cultural capital\" of India, and is also nicknamed the \"City of Joy\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kolkata",
+  "coverImage": {
+    "url": "/static/images/master/Vidyasagar_Setu_-_River_Hooghly_2014-01-01_1889.JPG",
+    "altText": "Image of Kolkata",
+    "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+  },
+  "translations": [
+    {
+      "lang": "hi",
+      "title": "कोलकाता",
+      "url": "/read/hi/kolkata"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/kolkata"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Total Area",
+          "value": {
+            "label": "205"
+          }
+        },
+        {
+          "label": "Population",
+          "value": {
+            "label": "4,496,694"
+          }
+        },
+        {
+          "label": "Other names",
+          "value": {
+            "label": "Calcutta"
+          }
+        },
+        {
+          "label": "Timezone(s)",
+          "value": {
+            "label": "+5:30 "
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Arrival of the English",
+          "id": "history_phase_2_title",
+          "note": "1690",
+          "value": {
+            "label": "Kolkata's recorded history began in 1690 with the arrival of the English East India Company, which was consolidating its trade business in Bengal. The area occupied by the present-day city encompassed three villages: Kalikata, Gobindapur, and Sutanuti."
+          }
+        }
+      ]
+    },
+    {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "Kolkata Knight Riders",
+            "url": "/read/en/kolkata_knight_riders",
+            "contentUrl": "/static/content/en/kolkata_knight_riders.json",
+            "image": {
+              "url": "/static/images/master/Kolkata_Knight_Riders_Logo.svg",
+              "altText": "Picture of Kolkata Knight Riders"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Geography",
+      "id": "kolkata_geography",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "Kolkata",
+          "value": {
+            "label": "Spread roughly north–south along the east bank of the Hooghly River, Kolkata sits within the lower Ganges Delta of eastern India approximately 75 km (47 mi) west of the international border with Bangladesh.",
+            "image": {
+              "url": "/static/images/master/Howrah_Bridge_from_the_western_bank_of_the_Ganges.jpg",
+              "altText": "An image of Kolkata",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Culture",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Art",
+          "id": "culture-art",
+          "value": {
+            "label": "Kolkata has been called the \"City of Furious, Creative Energy\" as well as the \"cultural [or literary] capital of India\".",
+            "image": {
+              "url": "/static/images/master/Victoria_Memorial_at_night.jpg",
+              "altText": "Kolkata has been called the \"City of Furious, Creative Energy\" as well as the \"cultural [or literary] capital of India\".",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Architecture",
+          "id": "culture-architecture",
+          "value": {
+            "label": "Kolkata has many buildings adorned with Indo-Islamic and Indo-Saracenic architectural motifs. Several well-maintained major buildings from the colonial period have been declared \"heritage structures\".",
+            "image": {
+              "url": "/static/images/master/Indian_Museum_Interior_View.jpg",
+              "altText": "Kolkata has many buildings adorned with Indo-Islamic and Indo-Saracenic architectural motifs. Several well-maintained major buildings from the colonial period have been declared \"heritage structures\".",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Film",
+          "id": "culture-film",
+          "value": {
+            "label": "Kolkata is the home of the Bengali cinema industry, dubbed \"Tollywood\" for Tollygunj, where most of the state's film studios are located.",
+            "image": {
+              "url": "/static/images/master/RZ_Shimokitazawa_Tollywood_B.jpg",
+              "altText": "Kolkata is the home of the Bengali cinema industry, dubbed \"Tollywood\" for Tollygunj, where most of the state's film studios are located.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Dress",
+          "id": "culture-dress",
+          "value": {
+            "label": "Though Bengali women traditionally wear the sari, the shalwar kameez and Western attire is gaining acceptance among younger women. Western-style dress has greater acceptance among men, although the traditional dhoti and kurta are seen during festivals.",
+            "image": {
+              "url": "/static/images/master/A_Day_Out_With_Friends_281230099184429.jpg",
+              "altText": "Though Bengali women traditionally wear the sari, the shalwar kameez and Western attire is gaining acceptance among younger women. Western-style dress has greater acceptance among men, although the traditional dhoti and kurta are seen during festivals.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_kolkata",
+          "label": "Languages",
+          "value": {
+            "label": "Bengali"
+          }
+        },
+        {
+          "id": "religion_section_kolkata",
+          "label": "Religions",
+          "value": {
+            "facts": [
+              {
+                "id": "religion_0",
+                "label": "Hindu",
+                "value": 76.51
+              },
+              {
+                "id": "religion_1",
+                "label": "Muslim",
+                "value": 20.6
+              },
+              {
+                "id": "religion_2",
+                "label": "Christianity",
+                "value": 0.88
+              },
+              {
+                "id": "religion_3",
+                "label": "0.47",
+                "value": 1.1
+              },
+              {
+                "id": "religion_4",
+                "label": "Sikh and Buddhist",
+                "value": 0.45
+              },
+              {
+                "id": "religion_5",
+                "label": "No religion",
+                "value": 1.09
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

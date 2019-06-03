@@ -1,10 +1,11 @@
 {
   "title": "न्यूजीलैंड",
   "summary": "न्यूजीलैंड दक्षिण पश्चिमी प्रशांत महासागर में एक संप्रभु द्वीप देश है। भौगोलिक रूप से देश में दो मुख्य भूभाग और लगभग 600 छोटे द्वीप हैं। न्यूजीलैंड ऑस्ट्रेलिया से लगभग 2,000 किलोमीटर पूर्व में स्थित है।",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Zealand",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9C%E0%A4%BC%E0%A5%80%E0%A4%B2%E0%A5%88%E0%A4%A3%E0%A5%8D%E0%A4%A1",
   "coverImage": {
-    "url": "/static/images/master/Lake_Gunn.jpg",
-    "altText": "Image of न्यूजीलैंड"
+    "url": "/static/images/master/Flag_of_New_Zealand.svg",
+    "altText": "Image of न्यूजीलैंड",
+    "license": ""
   },
   "translations": [
     {
@@ -68,7 +69,7 @@
         {
           "label": "समय क्षेत्र",
           "value": {
-            "label": "UTC+12 (UTC+13, ग्रीष्म)"
+            "label": "यूटीसी+12 (UTC+13, ग्रीष्म)"
           }
         }
       ]

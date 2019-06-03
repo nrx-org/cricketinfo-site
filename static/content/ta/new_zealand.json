@@ -1,10 +1,11 @@
 {
   "title": "நியூசிலாந்து",
   "summary": "நியூசிலாந்து தென்மேற்கு பசிபிக் பெருங்கடலில் அருகிலுள்ள ஒரு இறையாண்மை தீவாகும். இது பூகோள ரீதியாக இரண்டு முக்கிய நிலப்பரப்புகளையும் சுமார் 600 சிறிய தீவுகளையும் கொண்டுள்ளது. நியூசிலாந்து ஆஸ்திரேலியாவிலிருந்து ஏறத்தாழ 2,000 கிலோமீட்டர் கிழக்கில் அமைந்துள்ளது.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Zealand",
+  "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AE%BF%E0%AE%AF%E0%AF%82%E0%AE%9A%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81",
   "coverImage": {
-    "url": "/static/images/master/Lake_Gunn.jpg",
-    "altText": "Image of நியூசிலாந்து"
+    "url": "/static/images/master/Flag_of_New_Zealand.svg",
+    "altText": "Image of நியூசிலாந்து",
+    "license": ""
   },
   "translations": [
     {
@@ -30,9 +31,9 @@
           }
         },
         {
-          "label": "Waitangi day",
+          "label": "வைதங்கி நாள்",
           "value": {
-            "label": "6 February"
+            "label": "6 பிப்ரவரி"
           }
         },
         {
@@ -50,7 +51,7 @@
         {
           "label": "வேறு பெயர்கள்",
           "value": {
-            "label": "Aotearoa"
+            "label": "ஆவோதேயாரோவா"
           }
         },
         {
@@ -78,7 +79,7 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "Early settlement",
+          "label": "ஆரம்ப குடியிருப்பு",
           "id": "history_phase_1_title",
           "note": "கிபி 13 ஆம் நூற்றாண்டு",
           "value": {
@@ -148,12 +149,12 @@
         {
           "label": "அணி",
           "value": {
-            "label": "New Zealand national cricket team",
+            "label": "நியூசிலாந்து தேசியக் கிரிக்கெட் அணி",
             "url": "/read/ta/new_zealand_national_cricket_team",
             "contentUrl": "/static/content/ta/new_zealand_national_cricket_team.json",
             "image": {
               "url": "/static/images/master/New_Zealand_Cricket_Cap_Insignia.svg",
-              "altText": "Picture of New Zealand national cricket team"
+              "altText": "Picture of நியூசிலாந்து தேசியக் கிரிக்கெட் அணி"
             }
           }
         }

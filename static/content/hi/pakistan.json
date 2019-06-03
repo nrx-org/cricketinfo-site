@@ -1,11 +1,11 @@
 {
   "title": "पाकिस्तान",
   "summary": "पाकिस्तान, आधिकारिक तौर पर इस्लामिक गणराज्य, दक्षिण एशिया का एक देश है। यह दुनिया का छठा सबसे अधिक आबादी वाला देश है जिसकी जनसंख्या 212,742,631 से अधिक है।",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pakistan",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%A8",
   "coverImage": {
-    "url": "/static/images/master/Parliament_House2C_Islamabad_by_Usman_Ghani.jpg",
+    "url": "/static/images/master/Flag_of_Pakistan.svg",
     "altText": "Image of पाकिस्तान",
-    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+    "license": ""
   },
   "translations": [
     {
@@ -63,7 +63,7 @@
         {
           "label": "समय क्षेत्र",
           "value": {
-            "label": "UTC+5"
+            "label": "यूटीसी+5"
           }
         }
       ]

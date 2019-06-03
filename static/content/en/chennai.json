@@ -1,0 +1,191 @@
+{
+  "title": "Chennai",
+  "summary": "Chennai is the capital of the Indian state of Tamil Nadu. Located on the Coromandel Coast off the Bay of Bengal, it is the biggest cultural, economic and educational centre of south India.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chennai",
+  "coverImage": {
+    "altText": "Image of Chennai",
+    "license": ""
+  },
+  "translations": [
+    {
+      "lang": "hi",
+      "title": "चेन्नई",
+      "url": "/read/hi/chennai"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/chennai"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Population",
+          "value": {
+            "label": "4,646,732"
+          }
+        },
+        {
+          "label": "Other names",
+          "value": {
+            "label": "Madras"
+          }
+        },
+        {
+          "label": "Timezone(s)",
+          "value": {
+            "label": "+05:30"
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Stone age",
+          "id": "history_phase_1_title",
+          "note": "",
+          "value": {
+            "label": "Stone age implements have been found near Pallavaram in Chennai. According to the Archaeological Survey of India, Pallavaram was a megalithic cultural establishment, and pre-historic communities resided in the settlement."
+          }
+        },
+        {
+          "label": "European arrival",
+          "id": "history_phase_3_title",
+          "note": "1522",
+          "value": {
+            "label": "The Portuguese first arrived in 1522 and built a port called São Tomé after the Christian apostle, St. Thomas, who is believed to have preached in the area between 52 and 70 CE. In 1612, the Dutch established themselves near Pulicat, north of Chennai."
+          }
+        }
+      ]
+    },
+    {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "Chennai Super Kings",
+            "url": "/read/en/chennai_super_kings",
+            "contentUrl": "/static/content/en/chennai_super_kings.json",
+            "image": {
+              "url": "/static/images/master/Chennai_Super_Kings_Logo.svg",
+              "altText": "Picture of Chennai Super Kings"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Geography",
+      "id": "chennai_geography",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "Chennai",
+          "value": {
+            "label": "Chennai is located on the south–eastern coast of India in the north–eastern part of Tamil Nadu on a flat coastal plain known as the Eastern Coastal Plains.",
+            "image": {
+              "url": "/static/images/master/Chennai_80.26884E_13.04434N.jpg",
+              "altText": "An image of Chennai",
+              "license": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Culture",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Museums and art galleries",
+          "id": "culture-museums_and_art_galleries",
+          "value": {
+            "label": "Chennai is home to many museums, galleries, and other institutions, many of which are free of admission charges and are major tourist attractions as well as playing a research role.",
+            "image": {
+              "url": "/static/images/master/Chennai_National_Art_Gallery.jpg",
+              "altText": "Chennai is home to many museums, galleries, and other institutions, many of which are free of admission charges and are major tourist attractions as well as playing a research role.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Performing arts",
+          "id": "culture-performing_arts",
+          "value": {
+            "label": "An arts festival called the Chennai Sangamam, which showcases not only various art of Tamil Nadu, but also from the neighbouring states, like kalari (from Kerala), which is a major attraction, is held in January every year.",
+            "image": {
+              "url": "/static/images/master/Bharatanatyam_danseuse.jpg",
+              "altText": "An arts festival called the Chennai Sangamam, which showcases not only various art of Tamil Nadu, but also from the neighbouring states, like kalari (from Kerala), which is a major attraction, is held in January every year.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_chennai",
+          "label": "Languages",
+          "value": {
+            "label": "Tamil"
+          }
+        },
+        {
+          "id": "religion_section_chennai",
+          "label": "Religions",
+          "value": {
+            "facts": [
+              {
+                "id": "religion_0",
+                "label": "Hindu",
+                "value": 80.7
+              },
+              {
+                "id": "religion_1",
+                "label": "Muslim",
+                "value": 9.5
+              },
+              {
+                "id": "religion_2",
+                "label": "Christianity",
+                "value": 7.7
+              },
+              {
+                "id": "religion_3",
+                "label": "Jaininism",
+                "value": 1.1
+              },
+              {
+                "id": "religion_4",
+                "label": "Sikh",
+                "value": 0.1
+              },
+              {
+                "id": "religion_5",
+                "label": "Buddhist",
+                "value": null
+              },
+              {
+                "id": "religion_6",
+                "label": "No religion",
+                "value": 0.8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

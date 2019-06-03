@@ -122,9 +122,9 @@
           "value": {
             "label": "Scott Morrison",
             "image": {
-              "url": "/static/images/master/Scott_Morrison_2014.jpg",
+              "url": "/static/images/master/Scott_Morrison_2014_28cropped29.jpg",
               "altText": "Picture of Scott Morrison",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">Attribution 4.0 International</a> license.</p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">Attribution 4.0 International</a> license.</p>"
             }
           }
         },
@@ -149,12 +149,12 @@
         {
           "label": "Team",
           "value": {
-            "label": "Australia Cricket team",
-            "url": "/read/en/australia_cricket_team",
-            "contentUrl": "/static/content/en/australia_cricket_team.json",
+            "label": "Australia national cricket team",
+            "url": "/read/en/australia_national_cricket_team",
+            "contentUrl": "/static/content/en/australia_national_cricket_team.json",
             "image": {
               "url": "/static/images/master/Australia_cricket_logo.svg",
-              "altText": "Picture of Australia Cricket team"
+              "altText": "Picture of Australia national cricket team"
             }
           }
         }
@@ -168,7 +168,7 @@
         {
           "label": "Australia",
           "value": {
-            "label": " Surrounded by the Indian and Pacific oceans, Australia is the world's smallest continent and sixth largest country by total area. Owing to its size and isolation, it is often called the \"island continent\", and is sometimes considered the world's largest island.",
+            "label": "Surrounded by the Indian and Pacific oceans, Australia is the world's smallest continent and sixth largest country by total area. Owing to its size and isolation, it is often called the \"island continent\", and is sometimes considered the world's largest island.",
             "image": {
               "url": "/static/images/master/The_great_dividing_range.jpg",
               "altText": "An image of Australia"

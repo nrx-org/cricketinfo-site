@@ -1,7 +1,7 @@
 {
   "title": "ऑस्ट्रेलिया",
   "summary": "ऑस्ट्रेलिया, आधिकारिक तौर पर ऑस्ट्रेलिया का राष्ट्रमंडल, एक संप्रभु देश है जिसमें ऑस्ट्रेलियाई महाद्वीप की मुख्य भूमि, तस्मानिया द्वीप और कई छोटे द्वीप शामिल हैं।",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Australia",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%91%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B2%E0%A4%BF%E0%A4%AF%E0%A4%BE",
   "coverImage": {
     "url": "/static/images/master/Flag_of_Australia_28converted29.svg",
     "altText": "Image of ऑस्ट्रेलिया",
@@ -69,7 +69,7 @@
         {
           "label": "समय क्षेत्र",
           "value": {
-            "label": "UTC+8; +9.5; +10; ग्रीष्म UTC+8; +9.5; +10; +10.5; +11"
+            "label": "यूटीसी+8; +9.5; +10; ग्रीष्म यूटीसी+8; +9.5; +10; +10.5; +11"
           }
         }
       ]
@@ -122,9 +122,9 @@
           "value": {
             "label": "स्कॉट मॉरिसन ",
             "image": {
-              "url": "/static/images/master/Scott_Morrison_2014.jpg",
+              "url": "/static/images/master/Scott_Morrison_2014_28cropped29.jpg",
               "altText": "Picture of स्कॉट मॉरिसन ",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">Attribution 4.0 International</a> license.</p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">Attribution 4.0 International</a> license.</p>"
             }
           }
         },
@@ -150,8 +150,8 @@
           "label": "टीम",
           "value": {
             "label": "ऑस्ट्रेलिया क्रिकेट टीम",
-            "url": "/read/hi/australia_cricket_team",
-            "contentUrl": "/static/content/hi/australia_cricket_team.json",
+            "url": "/read/hi/australia_national_cricket_team",
+            "contentUrl": "/static/content/hi/australia_national_cricket_team.json",
             "image": {
               "url": "/static/images/master/Australia_cricket_logo.svg",
               "altText": "Picture of ऑस्ट्रेलिया क्रिकेट टीम"

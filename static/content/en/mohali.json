@@ -1,0 +1,161 @@
+{
+  "title": "Mohali",
+  "summary": "Mohali is a city in the Mohali district in Punjab, India. It is located close to Chandigarh.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohali",
+  "coverImage": {
+    "url": "/static/images/master/ISB27s_Mohali_Campus.jpg",
+    "altText": "Image of Mohali",
+    "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\" title=\"Wikipedia:Text of the GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.\n<div style=\"display: none\">\n<p><span class=\"licensetpl_short\">GFDL</span>\n<span class=\"licensetpl_long\">GNU Free Documentation License</span>\n<span class=\"licensetpl_link\">//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License</span>\n</p>\n</div></p><p><i>This work is licensed under the <a href=\"/wiki/Creative_Commons\" title=\"Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Attribution-ShareAlike 3.0</a> License. </i><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">CC-BY-SA-3.0</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-ShareAlike 3.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
+  },
+  "translations": [
+    {
+      "lang": "hi",
+      "title": "मोहाली",
+      "url": "/read/hi/mohali"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/mohali"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Other names",
+          "value": {
+            "label": "Sahibzada Ajit Singh Nagar"
+          }
+        },
+        {
+          "label": "Timezone(s)",
+          "value": {
+            "label": "UTC+5:30"
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Early History",
+          "id": "history_phase_1_title",
+          "note": "3000 BCE",
+          "value": {
+            "label": "The area was also known to be a part of the Indus Valley Civilisation"
+          }
+        },
+        {
+          "label": "Pre-colonial History",
+          "id": "history_phase_2_title",
+          "note": "18th century",
+          "value": {
+            "label": "The village of Mohali was a part of the Sikh Empire. A battle took place here between the British and Sikh soldiers."
+          }
+        },
+        {
+          "label": "Modern History",
+          "id": "history_phase_3_title",
+          "note": "20th century",
+          "value": {
+            "label": "The area around Mohali Village was developed as an industrial estate close to Chandigarh. In 1975 the foundation of Mohali township was laid."
+          }
+        }
+      ]
+    },
+    {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "Kings XI Punjab",
+            "url": "/read/en/kings_xi_punjab",
+            "contentUrl": "/static/content/en/kings_xi_punjab.json",
+            "image": {
+              "url": "/static/images/master/Kings_XI_Punjab_logo.svg",
+              "altText": "Picture of Kings XI Punjab"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Culture",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Sports",
+          "id": "culture-sports",
+          "value": {
+            "label": "Mohali has 8 multipurpose sports complexes and an international cricket stadium.",
+            "image": {
+              "url": "/static/images/master/PCA_Stadium2C_Mohali_1.jpg",
+              "altText": "Mohali has 8 multipurpose sports complexes and an international cricket stadium.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
+            }
+          }
+        },
+        {
+          "label": "Pilgrimage",
+          "id": "culture-pilgrimage",
+          "value": {
+            "label": "Gurudwara Amb Sahib is a historical shrine situated in Mohali that commemorates the visit of 7th Guru of Sikhs, Guru Har Rai.",
+            "image": {
+              "url": "/static/images/master/Guru_Har_Rai.jpg",
+              "altText": "Gurudwara Amb Sahib is a historical shrine situated in Mohali that commemorates the visit of 7th Guru of Sikhs, Guru Har Rai.",
+              "license": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_mohali",
+          "label": "Languages",
+          "value": {
+            "label": "Punjabi, Hindi"
+          }
+        },
+        {
+          "id": "religion_section_mohali",
+          "label": "Religions",
+          "value": {
+            "facts": [
+              {
+                "id": "religion_0",
+                "label": "Sikh",
+                "value": 51.53
+              },
+              {
+                "id": "religion_1",
+                "label": "Hindu",
+                "value": 45.55
+              },
+              {
+                "id": "religion_2",
+                "label": "Muslim",
+                "value": 1.68
+              },
+              {
+                "id": "religion_3",
+                "label": "Christianity",
+                "value": 0.79
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

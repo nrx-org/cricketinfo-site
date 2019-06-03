@@ -1,7 +1,7 @@
 {
   "title": "बैंगलोर",
   "summary": "बैंगलोर, जिसे आधिकारिक तौर पर बेंगलुरु के रूप में जाना जाता है, भारतीय राज्य कर्नाटक की राजधानी है। इसकी आबादी दस मिलियन से अधिक है, जो इसे एक मेगासिटी बनाता है और भारत में तीसरा सबसे अधिक आबादी वाला शहर और पांचवां सबसे अधिक आबादी वाला शहरी समूह है।",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bangalore",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A4%82%E0%A4%97%E0%A4%B2%E0%A5%8C%E0%A4%B0",
   "coverImage": {
     "url": "/static/images/master/Glasshouse_and_fountain_at_lalbagh.jpg",
     "altText": "Image of बैंगलोर"
@@ -44,7 +44,7 @@
         {
           "label": "समय क्षेत्र",
           "value": {
-            "label": "UTC+05:30"
+            "label": "यूटीसी+5:30"
           }
         }
       ]
@@ -116,8 +116,9 @@
           "value": {
             "label": "बैंगलोर की टोपोलॉजी आमतौर पर सपाट है, हालांकि शहर के पश्चिमी हिस्से पहाड़ी हैं। उच्चतम बिंदु विद्यारण्यपुरा डोड्डबेट्टाहल्ली है, जो 962 मीटर (3,156 फीट) है और शहर के उत्तर-पश्चिम में स्थित है।",
             "image": {
+              "url": "/static/images/master/Aerial_view_of_Bangalore_in_2011_281329.jpg",
               "altText": "An image of बैंगलोर",
-              "license": ""
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         }

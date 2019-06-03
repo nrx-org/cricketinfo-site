@@ -1,0 +1,171 @@
+{
+  "title": "Ranchi",
+  "summary": "Ranchi is the capital of the Indian state of Jharkhand.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ranchi",
+  "coverImage": {
+    "url": "/static/images/master/Tagore_hill_Ranchi.jpg",
+    "altText": "Image of Ranchi",
+    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+  },
+  "translations": [
+    {
+      "lang": "hi",
+      "title": "रांची",
+      "url": "/read/hi/ranchi"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/ranchi"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Total Area",
+          "value": {
+            "label": "1,295 km2 (500 sq mi)"
+          }
+        },
+        {
+          "label": "Population",
+          "value": {
+            "label": "1,073,440"
+          }
+        },
+        {
+          "label": "Timezone(s)",
+          "value": {
+            "label": "UTC+5:30"
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Early period",
+          "id": "history_phase_1_title",
+          "note": "600 BCE",
+          "value": {
+            "label": "Magadha Empire exercised indirect control over the territory that is in modern day Ranchi"
+          }
+        },
+        {
+          "label": "Mughal period",
+          "id": "history_phase_2_title",
+          "note": "16th century",
+          "value": {
+            "label": "During the expansion of the Mughal Empire, the sovereign status of the local kingdoms was affected but they continued to rule the region"
+          }
+        },
+        {
+          "label": "Pre-colonial period",
+          "id": "history_phase_3_title",
+          "note": "18th century",
+          "value": {
+            "label": "After Battle of Buxar in 1764, Nagvanshi kings of this region became vassals of the East India Company"
+          }
+        },
+        {
+          "label": "Colonial period",
+          "id": "history_phase_4_title",
+          "note": "19th century",
+          "value": {
+            "label": "During the period of the British Raj, the region witnessed a number of uprisings and revolts. Birsa Munda played a prominent role."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Culture",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Sports",
+          "id": "culture-sports",
+          "value": {
+            "label": "Ranchi is centre for numerous sports activities, including cricket, hockey, and football. The National Games were held here in 2011.",
+            "image": {
+              "url": "/static/images/master/JSCA_cricket_stadium_Entrance.jpg",
+              "altText": "Ranchi is centre for numerous sports activities, including cricket, hockey, and football. The National Games were held here in 2011.",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "People",
+          "id": "culture-people",
+          "value": {
+            "label": "Cricketer Mahendra Singh Dhoni is from Ranchi",
+            "image": {
+              "url": "/static/images/master/Cool_Maal_launches_official_merchandise_of_Mahendra_Singh_Dhoni.jpg",
+              "altText": "Cricketer Mahendra Singh Dhoni is from Ranchi",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_ranchi",
+          "label": "Languages",
+          "value": {
+            "label": "Hindi,  Nagpuri, Mundari, Khortha and Kurmali"
+          }
+        },
+        {
+          "id": "religion_section_ranchi",
+          "label": "Religions",
+          "value": {
+            "facts": [
+              {
+                "id": "religion_0",
+                "label": "Hinduism",
+                "value": 64.31
+              },
+              {
+                "id": "religion_1",
+                "label": "Islam",
+                "value": 16.42
+              },
+              {
+                "id": "religion_2",
+                "label": "No religion",
+                "value": 9.72
+              },
+              {
+                "id": "religion_3",
+                "label": "Chritianity",
+                "value": 8.52
+              },
+              {
+                "id": "religion_4",
+                "label": "Sikhism",
+                "value": 0.39
+              },
+              {
+                "id": "religion_5",
+                "label": "Jainism",
+                "value": 0.22
+              },
+              {
+                "id": "religion_6",
+                "label": "Buddhism",
+                "value": 0.06
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

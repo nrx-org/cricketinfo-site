@@ -1,0 +1,209 @@
+{
+  "title": "जयपुर",
+  "summary": "जयपुर शहर की स्थापना आमेर के राजा जयसिंह द्वितीय सन ने 1727 में की थी। उन्होंने सन 1699 से 1743 तक इस पर शासन किया था।",
+  "wikipediaUrl": "https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0",
+  "coverImage": {
+    "url": "/static/images/master/Amber_Fort_28E0A486E0A4AEE0A587E0A4B0_E0A495E0A4BE_E0A495E0A4BFE0A4B2E0A4BE_29.jpg",
+    "altText": "Image of जयपुर",
+    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+  },
+  "translations": [
+    {
+      "lang": "en",
+      "title": "Jaipur",
+      "url": "/read/en/jaipur"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/jaipur"
+    }
+  ],
+  "sections": [
+    {
+      "title": "इसके बारे में",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "कुल क्षेत्रफल",
+          "value": {
+            "label": "467 वर्ग किमी"
+          }
+        },
+        {
+          "label": "जनसंख्या",
+          "value": {
+            "label": "3,046,189"
+          }
+        },
+        {
+          "label": "समय क्षेत्र",
+          "value": {
+            "label": "यूटीसी+5:30"
+          }
+        }
+      ]
+    },
+    {
+      "title": "इतिहास",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "जयपुर के संस्थापक",
+          "id": "history_phase_1_title",
+          "note": "1727",
+          "value": {
+            "label": "जयपुर शहर की स्थापना आमेर के राजा जयसिंह द्वितीय सन ने 1727 में की थी। उन्होंने सन 1699 से 1743 तक इस पर शासन किया था।"
+          }
+        },
+        {
+          "label": "शहर का निर्माण",
+          "id": "history_phase_2_title",
+          "note": "1726",
+          "value": {
+            "label": "शहर का निर्माण 1726 में शुरू हुआ और प्रमुख सड़कों, कार्यालय और महलों को पूरा करने में चार साल लग गए। शहर को नौ खंडों में विभाजित किया गया था, जिनमें से दो में राजकीय इमारतें और महल थे तथा शेष सात खंड जनता को आवंटित किए गए थे। विशाल प्राचीर का निर्माण किया गया था, जिसमें सात किलेबंद द्वार थे।"
+          }
+        },
+        {
+          "label": "तीव्र विकास",
+          "id": "history_phase_3_title",
+          "note": "19वीं शताब्दी",
+          "value": {
+            "label": "19वीं शताब्दी में शहर तीव्र गति से विकसित हुआ और सन 1900 तक इसकी आबादी 160,000 पहुंच गई थी।"
+          }
+        }
+      ]
+    },
+    {
+      "title": "खेलों में",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "टीम",
+          "value": {
+            "label": "राजस्थान रॉयल्स",
+            "url": "/read/hi/rajasthan_royals",
+            "contentUrl": "/static/content/hi/rajasthan_royals.json",
+            "image": {
+              "url": "/static/images/master/RR-LOGO-1.png",
+              "altText": "Picture of राजस्थान रॉयल्स"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "भूगोल",
+      "id": "jaipur_geography",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "जयपुर",
+          "value": {
+            "label": "जयपुर की जलवायु गर्म अर्ध शुष्क है। यहां प्रतिवर्ष औसतन 63 सेमी से अधिक बारिश होती है। ज्यादातर बारिश मानसून के महीनों में जून और सितंबर के बीच होती है।",
+            "image": {
+              "url": "/static/images/master/Jaipur_city_from_Nahargarh.jpg",
+              "altText": "An image of जयपुर",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "संस्कृति",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "जवाहर कला केन्द्र",
+          "id": "culture-जवाहर_कला_केन्द्र",
+          "value": {
+            "label": "जवाहर कला केंद्र (जेकेके) भारत के जयपुर में स्थित एक बहु कला केंद्र है। इसका निर्माण राजस्थान सरकार द्वारा राजस्थानी कला और शिल्प के संरक्षण के उद्देश्य से किया गया था।",
+            "image": {
+              "url": "/static/images/master/JKK_08.jpg",
+              "altText": "जवाहर कला केंद्र (जेकेके) भारत के जयपुर में स्थित एक बहु कला केंद्र है। इसका निर्माण राजस्थान सरकार द्वारा राजस्थानी कला और शिल्प के संरक्षण के उद्देश्य से किया गया था।",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "भारतीय शास्त्रीय नृत्य - कथक",
+          "id": "culture-भारतीय_शास्त्रीय_नृत्य_-_कथक",
+          "value": {
+            "label": "कथक का जयपुर घराना अपने तीव्र जटिल नृत्य रूपों, जीवंत शरीर भंगिमाओं और सूक्ष्म अभिनय के लिए जाना जाता है।",
+            "image": {
+              "url": "/static/images/master/Arushi_Nishank_2011.jpg",
+              "altText": "कथक का जयपुर घराना अपने तीव्र जटिल नृत्य रूपों, जीवंत शरीर भंगिमाओं और सूक्ष्म अभिनय के लिए जाना जाता है।",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "भोजन",
+          "id": "culture-भोजन",
+          "value": {
+            "label": "पारम्परिक व्यंजनों में दाल बाटी चूरमा, एक भारतीय व्यंजन जिसमें दाल (मसूर की दाल) और बाटी (कठोर गेहूं आटा रोल) शामिल हैं।",
+            "image": {
+              "url": "/static/images/master/DalBati.jpg",
+              "altText": "पारम्परिक व्यंजनों में दाल बाटी चूरमा, एक भारतीय व्यंजन जिसमें दाल (मसूर की दाल) और बाटी (कठोर गेहूं आटा रोल) शामिल हैं।",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "राजस्थानी संस्कृति",
+          "id": "culture-राजस्थानी_संस्कृति",
+          "value": {
+            "label": "शहर के चारों ओर राजस्थानी संस्कृति को दर्शाती प्रतिमाएँ स्थित हैं।",
+            "image": {
+              "url": "/static/images/master/Rajasthani_Dolls.JPG",
+              "altText": "शहर के चारों ओर राजस्थानी संस्कृति को दर्शाती प्रतिमाएँ स्थित हैं।",
+              "license": "<p><i>This work is licensed under the <a href=\"/wiki/Creative_Commons\" title=\"Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/\">Attribution 3.0</a> License. </i><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">CC-BY-3.0</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "जनसांख्यिकी",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_jaipur",
+          "label": "भाषा",
+          "value": {
+            "label": "जयपुर की आधिकारिक भाषा हिंदी है और अतिरिक्त आधिकारिक भाषा अंग्रेजी है। शहर की मुख्य भाषा राजस्थानी है। शहर में मारवाड़ी, हिंदी और अंग्रेजी भी बोली जाती हैं।"
+          }
+        },
+        {
+          "id": "religion_section_jaipur",
+          "label": "धर्म",
+          "value": {
+            "facts": [
+              {
+                "id": "religion_0",
+                "label": "हिंदू धर्म",
+                "value": 77.9
+              },
+              {
+                "id": "religion_1",
+                "label": "इस्लाम",
+                "value": 18.6
+              },
+              {
+                "id": "religion_2",
+                "label": "जैन धर्म",
+                "value": 2.4
+              },
+              {
+                "id": "religion_3",
+                "label": "अन्य",
+                "value": 1.2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

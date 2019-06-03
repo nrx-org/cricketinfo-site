@@ -1,0 +1,209 @@
+{
+  "title": "Jaipur",
+  "summary": "Jaipur is the capital and the largest city of the Indian state of Rajasthan. As of 2011, the city had a population of 3.1 million, making it the tenth most populous city in the country. ",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaipur",
+  "coverImage": {
+    "url": "/static/images/master/Amber_Fort_28E0A486E0A4AEE0A587E0A4B0_E0A495E0A4BE_E0A495E0A4BFE0A4B2E0A4BE_29.jpg",
+    "altText": "Image of Jaipur",
+    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+  },
+  "translations": [
+    {
+      "lang": "hi",
+      "title": "जयपुर",
+      "url": "/read/hi/jaipur"
+    },
+    {
+      "lang": "ta",
+      "url": "/read/ta/jaipur"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "cardType": "table",
+      "facts": [
+        {
+          "label": "Total Area",
+          "value": {
+            "label": "467 km2"
+          }
+        },
+        {
+          "label": "Population",
+          "value": {
+            "label": "3,046,189"
+          }
+        },
+        {
+          "label": "Timezone(s)",
+          "value": {
+            "label": "UTC+05:30 (IST)"
+          }
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "cardType": "vertical_timeline",
+      "facts": [
+        {
+          "label": "Founder of Jaipur",
+          "id": "history_phase_1_title",
+          "note": "1727",
+          "value": {
+            "label": "The city of Jaipur was founded in 1727 by Jai Singh II, the Raja of Amer who ruled from 1699 to 1743."
+          }
+        },
+        {
+          "label": "City construction",
+          "id": "history_phase_2_title",
+          "note": "1726",
+          "value": {
+            "label": "The construction of the city began in 1726 and took four years to complete the major roads, offices, and palaces. The city was divided into nine blocks, two of which contained the state buildings and palaces, with the remaining seven allotted to the public. Huge ramparts were built, pierced by seven fortified gates."
+          }
+        },
+        {
+          "label": "Rapid growth",
+          "id": "history_phase_3_title",
+          "note": "19th Century",
+          "value": {
+            "label": "In the 19th century, the city grew rapidly and by 1900 it had a population of 160,000. "
+          }
+        }
+      ]
+    },
+    {
+      "title": "In Sports",
+      "cardType": "avatar",
+      "label": "",
+      "facts": [
+        {
+          "label": "Team",
+          "value": {
+            "label": "Rajasthan Royals",
+            "url": "/read/en/rajasthan_royals",
+            "contentUrl": "/static/content/en/rajasthan_royals.json",
+            "image": {
+              "url": "/static/images/master/RR-LOGO-1.png",
+              "altText": "Picture of Rajasthan Royals"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Geography",
+      "id": "jaipur_geography",
+      "cardType": "simple",
+      "facts": [
+        {
+          "label": "Jaipur",
+          "value": {
+            "label": "Jaipur has a hot semi-arid climate. It receives over 63 cm of rainfall annually. Most rains occur in the monsoon months between June and September.",
+            "image": {
+              "url": "/static/images/master/Jaipur_city_from_Nahargarh.jpg",
+              "altText": "An image of Jaipur",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Culture",
+      "cardType": "stories",
+      "facts": [
+        {
+          "label": "Jawahar Kala Kendra ",
+          "id": "culture-jawahar_kala_kendra",
+          "value": {
+            "label": "Jawahar Kala Kendra (JKK) is a multi arts centre located in Jaipur in India. It was built by Rajasthan government with the purpose of preserving Rajasthani arts and crafts.",
+            "image": {
+              "url": "/static/images/master/JKK_08.jpg",
+              "altText": "Jawahar Kala Kendra (JKK) is a multi arts centre located in Jaipur in India. It was built by Rajasthan government with the purpose of preserving Rajasthani arts and crafts.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Indian Classical Dance - Kathak",
+          "id": "culture-indian_classical_dance_-_kathak",
+          "value": {
+            "label": "The Jaipur Gharana of Kathak is known for its rapid intricate dance forms, vivacious body movements and subtle Abhinaya.",
+            "image": {
+              "url": "/static/images/master/Arushi_Nishank_2011.jpg",
+              "altText": "The Jaipur Gharana of Kathak is known for its rapid intricate dance forms, vivacious body movements and subtle Abhinaya.",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Cuisine",
+          "id": "culture-cuisine",
+          "value": {
+            "label": "Typical dishes include Dal Baati Churma, an Indian dish comprising dal (lentils) and baati (hard wheat rolls). ",
+            "image": {
+              "url": "/static/images/master/DalBati.jpg",
+              "altText": "Typical dishes include Dal Baati Churma, an Indian dish comprising dal (lentils) and baati (hard wheat rolls). ",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Rajasthani culture ",
+          "id": "culture-rajasthani_culture",
+          "value": {
+            "label": "There are statues depicting Rajasthani culture around the city.",
+            "image": {
+              "url": "/static/images/master/Rajasthani_Dolls.JPG",
+              "altText": "There are statues depicting Rajasthani culture around the city.",
+              "license": "<p><i>This work is licensed under the <a href=\"/wiki/Creative_Commons\" title=\"Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/\">Attribution 3.0</a> License. </i><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">CC-BY-3.0</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Demographics",
+      "cardType": "bar_chart_with_info",
+      "facts": [
+        {
+          "id": "section_languages_jaipur",
+          "label": "Languages",
+          "value": {
+            "label": "The official language of Jaipur is Hindi and the additional official language is English. The main language of the city is Rajasthani. Marwari, Hindi and English are also spoken in the city."
+          }
+        },
+        {
+          "id": "religion_section_jaipur",
+          "label": "Religions",
+          "value": {
+            "facts": [
+              {
+                "id": "religion_0",
+                "label": "Hinduism",
+                "value": 77.9
+              },
+              {
+                "id": "religion_1",
+                "label": "Islam",
+                "value": 18.6
+              },
+              {
+                "id": "religion_2",
+                "label": "Jainism",
+                "value": 2.4
+              },
+              {
+                "id": "religion_3",
+                "label": "Others",
+                "value": 1.2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

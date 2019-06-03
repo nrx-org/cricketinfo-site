@@ -1,7 +1,7 @@
 {
   "title": "பெங்களூரு",
   "summary": "பெங்களூர், அதிகாரப்பூர்வமாக பெங்களூரு என்று அறியப்படுகிறது, இது கர்நாடக மாநிலத்தின் தலைநகரம் ஆகும். இது பத்து மில்லியனுக்கும் அதிகமான மக்கள் தொகையை கொண்டிருக்கும் மெகாசிட்டியாக இருப்பதுடன் இந்தியாவின் மிக அதிக அளவிலான மக்கள் தொகையைக் கொண்டுள்ள பெருநகரமாகும், அத்துடன் மிக அதிக அளவிலான மக்கள்தொகையைக் கொண்ட ஐந்தாவது பெரிய நகர்ப்புற ஒருங்கிணைப்பாகும்.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bangalore",
+  "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%86%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%82%E0%AE%B0%E0%AF%8D",
   "coverImage": {
     "url": "/static/images/master/Glasshouse_and_fountain_at_lalbagh.jpg",
     "altText": "Image of பெங்களூரு"
@@ -38,7 +38,7 @@
         {
           "label": "வேறு பெயர்கள்",
           "value": {
-            "label": "Bengaluru, Silicon Valley of India, Garden City"
+            "label": "பெங்களூரு, இந்தியாவின் சிலிக்கான் பள்ளத்தாக்கு, கார்டன் சிட்டி"
           }
         },
         {
@@ -54,7 +54,7 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "Early and Medieval History",
+          "label": "ஆரம்ப மற்றும் இடைக்கால வரலாறு",
           "id": "history_phase_1_title",
           "note": "கிமு 4000",
           "value": {
@@ -116,8 +116,9 @@
           "value": {
             "label": "பெங்களூரின் பரப்பளவு பொதுவாக தட்டையானது, நகரத்தின் மேற்குப் பகுதி மலைகளை கொண்டுள்ளது. அதிக உயரமுடைய பகுதியான வித்யாரன்யபூரா தொட்டபெட்டாகள்ளி 962 மீட்டர்கள் (3,156 அடி) உயரத்தில், நகரத்தின் வடமேற்கு பகுதியில் அமைந்துள்ளது.",
             "image": {
+              "url": "/static/images/master/Aerial_view_of_Bangalore_in_2011_281329.jpg",
               "altText": "An image of பெங்களூரு",
-              "license": ""
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
             }
           }
         }

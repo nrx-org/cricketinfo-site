@@ -1,7 +1,7 @@
 {
   "title": "ஆஸ்திரேலியா",
   "summary": "ஆஸ்திரேலியாவானது, அதிகாரப்பூர்வமாக ஆஸ்திரேலியா காமன்வெல்த் என்று அழைக்கப்படுகிறது, தாஸ்மேனியா தீவு மற்றும் பல சிறிய தீவுகளை உள்ளடக்கிய இது ஆஸ்திரேலியக் கண்டத்தின் முக்கிய நிலப்பகுதியைக் கொண்டுள்ள இறையாண்மை நாடாகும்.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Australia",
+  "wikipediaUrl": "https://ta.wikipedia.org/wiki/%E0%AE%86%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%87%E0%AE%B2%E0%AE%BF%E0%AE%AF%E0%AE%BE",
   "coverImage": {
     "url": "/static/images/master/Flag_of_Australia_28converted29.svg",
     "altText": "Image of ஆஸ்திரேலியா",
@@ -73,7 +73,7 @@
       "cardType": "vertical_timeline",
       "facts": [
         {
-          "label": "Pre-colonial history",
+          "label": "காலனித்துவ கால வரலாறு",
           "id": "history_phase_1_title",
           "note": "65,000 - 70,000 ஆண்டுகளுக்கு முன்பு",
           "value": {
@@ -116,9 +116,9 @@
           "value": {
             "label": "ஸ்காட் மோரிசன்",
             "image": {
-              "url": "/static/images/master/Scott_Morrison_2014.jpg",
+              "url": "/static/images/master/Scott_Morrison_2014_28cropped29.jpg",
               "altText": "Picture of ஸ்காட் மோரிசன்",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">Attribution 4.0 International</a> license.</p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">Attribution 4.0 International</a> license.</p>"
             }
           }
         },
@@ -144,8 +144,8 @@
           "label": "அணி",
           "value": {
             "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-            "url": "/read/ta/australia_cricket_team",
-            "contentUrl": "/static/content/ta/australia_cricket_team.json",
+            "url": "/read/ta/australia_national_cricket_team",
+            "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
             "image": {
               "url": "/static/images/master/Australia_cricket_logo.svg",
               "altText": "Picture of ஆஸ்திரேலிய கிரிக்கெட் அணி"
