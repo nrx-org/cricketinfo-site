@@ -65,7 +65,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "style_of_play",
+      "id": "stephen_fleming_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -86,7 +86,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "phase_first_class_debut",
+          "id": "stephen_fleming_phase_0",
           "note": "1991",
           "value": {
             "label": "Fleming first played for the Canterbury, first class team during the 1991-92 season."
@@ -94,7 +94,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "stephen_fleming_phase_1",
           "note": "1994",
           "value": {
             "label": "Fleming made his Test debut in March 1994 against India, winning the Man of the Match award in the match.",
@@ -103,7 +103,7 @@
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "label": "India national cricket team",
-                "id": "phase_fact_fact_india_national_cricket_team",
+                "id": "stephen_fleming_phase_1_fact",
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
@@ -117,7 +117,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "stephen_fleming_phase_2",
           "note": "",
           "value": {
             "label": ""
@@ -125,7 +125,7 @@
         },
         {
           "label": "2003 Cricket World cup",
-          "id": "phase_2003_cricket_world_cup",
+          "id": "stephen_fleming_phase_4",
           "note": "2003",
           "value": {
             "label": "Fleming scored and unbeaten 134 to help New Zealand beat hosts South Africa in the 2003 Cricket World Cup.",
@@ -134,7 +134,7 @@
                 "url": "/read/en/2003_cricket_world_cup",
                 "contentUrl": "/static/content/en/2003_cricket_world_cup.json",
                 "label": "2003 Cricket World Cup",
-                "id": "phase_fact_fact_2003_cricket_world_cup",
+                "id": "stephen_fleming_phase_4_fact",
                 "value": {
                   "label": "The 2003 Cricket World Cup was the eighth Cricket World Cup, organized by the International Cricket Council (ICC). It was co-hosted by South Africa, Zimbabwe and Kenya.",
                   "image": {
@@ -148,7 +148,7 @@
         },
         {
           "label": "World cup 2007",
-          "id": "phase_world_cup_2007",
+          "id": "stephen_fleming_phase_5",
           "note": "2007",
           "value": {
             "label": "Fleming played well throughout the 2007 World Cup scoring a total of 353 runs.",
@@ -157,7 +157,7 @@
                 "url": "/read/en/2007_cricket_world_cup",
                 "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
                 "label": "2007 Cricket World Cup",
-                "id": "phase_fact_fact_2007_cricket_world_cup",
+                "id": "stephen_fleming_phase_5_fact",
                 "value": {
                   "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
                   "image": {
@@ -171,7 +171,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "phase_ipl_debut",
+          "id": "stephen_fleming_phase_6",
           "note": "2008",
           "value": {
             "label": "Fleming played for the Chennai Super Kings in the 2008 and scored 196 runs in 10 matches.",
@@ -180,7 +180,7 @@
                 "url": "/read/en/chennai_super_kings",
                 "contentUrl": "/static/content/en/chennai_super_kings.json",
                 "label": "Chennai Super Kings",
-                "id": "phase_fact_fact_chennai_super_kings",
+                "id": "stephen_fleming_phase_6_fact",
                 "value": {
                   "label": "Founded in 2008, The Chennai Super Kings (CSK) is an Indian franchise cricket team based in Chennai, Tamil Nadu, which plays in the Indian Premier League (IPL).",
                   "image": {
@@ -200,7 +200,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "stephen_fleming_achievement_0",
           "value": {
             "label": "1996/97 - became New Zealand's youngest captain at 23 years and 321 days",
             "image": {
@@ -211,7 +211,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "stephen_fleming_achievement_1",
           "value": {
             "label": "2000 - Fleming became New Zealand's most successful captain with 12 test match wins",
             "image": {
@@ -222,7 +222,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "stephen_fleming_achievement_2",
           "value": {
             "label": "Fleming holds the record of most ODI matches played by a New Zealander",
             "image": {
@@ -233,7 +233,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "stephen_fleming_achievement_3",
           "value": {
             "label": "2006 - Fleming captained his country for the 194th time in an ODI, breaking the earlier world record set by Arjuna Ranatunga.",
             "image": {
@@ -244,7 +244,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "stephen_fleming_achievement_4",
           "value": {
             "label": "Fleming is the most capped Test and ODI Captain for New Zealand.",
             "image": {
@@ -261,13 +261,13 @@
       "facts": [
         {
           "label": "New Zealand National Cricket team (1994-2008)",
-          "id": "team_fact_new_zealand_national_cricket_team_1994-2008",
+          "id": "stephen_fleming_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "New Zealand national cricket team",
-                "id": "team_fact_fact_new_zealand_national_cricket_team",
+                "id": "stephen_fleming_team_fact_0_fact",
                 "url": "/read/en/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
                 "value": {
@@ -283,13 +283,13 @@
         },
         {
           "label": "Chennai Super Kings (2008)",
-          "id": "team_fact_chennai_super_kings_2008",
+          "id": "stephen_fleming_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Chennai Super Kings",
-                "id": "team_fact_fact_chennai_super_kings",
+                "id": "stephen_fleming_team_fact_1_fact",
                 "url": "/read/en/chennai_super_kings",
                 "contentUrl": "/static/content/en/chennai_super_kings.json",
                 "value": {
@@ -305,7 +305,7 @@
         },
         {
           "label": "Canterbury (1991 - 2000)",
-          "id": "team_fact_canterbury_1991 - 2000",
+          "id": "stephen_fleming_team_fact_2",
           "value": {
             "label": "Canterbury is a New Zealand First-class cricket team based in Canterbury, New Zealand."
           }
@@ -319,7 +319,7 @@
         {
           "label": "New Zealand Order of Merit",
           "tag": "2011",
-          "id": "award-0",
+          "id": "stephen_fleming_award_0",
           "value": {
             "label": "New Zealand Order of Merit is an honour established by royal warrant by Queen Elizabeth II, to honour persons who have rendered meritorious service in any field of endeavour.",
             "image": {

@@ -82,7 +82,7 @@
     },
     {
       "title": "விளையாட்டின் பாணி",
-      "id": "style_of_play",
+      "id": "kane_williamson_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -104,7 +104,7 @@
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "phase_முதல்_வகுப்பு",
+          "id": "kane_williamson_phase_0",
           "note": "2007",
           "value": {
             "label": "வில்லியம்சன் டிசம்பர் 2007 இல் தன்னுடைய முதல் பர்ஸ்ட் கிளாஸ் போட்டியில் ஆடினார்"
@@ -112,7 +112,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "kane_williamson_phase_1",
           "note": "2010",
           "value": {
             "label": "வில்லியம்சன் இந்தியாவுக்கு எதிராகத் தன்னுடைய முதல் ஒருநாள் சர்வதேசப் போட்டியில் ஆடினார், அதில் பூஜ்ஜியம் ரன்னில் அவுட்டானார்.",
@@ -121,7 +121,7 @@
                 "url": "/read/ta/india_national_cricket_team",
                 "contentUrl": "/static/content/ta/india_national_cricket_team.json",
                 "label": "இந்திய தேசிய கிரிக்கெட் அணி",
-                "id": "phase_fact_fact_இந்திய_தேசிய_கிரிக்கெட்_அணி",
+                "id": "kane_williamson_phase_1_fact",
                 "value": {
                   "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
                   "image": {
@@ -135,7 +135,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "kane_williamson_phase_2",
           "note": "2011",
           "value": {
             "label": ""
@@ -143,7 +143,7 @@
         },
         {
           "label": "T20 World cup",
-          "id": "phase_t20_world_cup",
+          "id": "kane_williamson_phase_3",
           "note": "2012",
           "value": {
             "label": "",
@@ -152,7 +152,7 @@
                 "url": "/read/ta/icc_t20_world_cup",
                 "contentUrl": "/static/content/ta/icc_t20_world_cup.json",
                 "label": "ஐசிசி டி20 உலகக் கோப்பை",
-                "id": "phase_fact_fact_ஐசிசி_டி20_உலகக்_கோப்பை",
+                "id": "kane_williamson_phase_3_fact",
                 "value": {
                   "label": "ஐசிசி டி20 உலகக் கோப்பை (முன்னர் ஐசிசி வேர்ல்ட் ட்வென்டி20 என்று அழைக்கப்படும்), ட்வென்டி20 இன்டர்நேஷனல் கிரிக்கெட்டின் இன்டர்நேஷனல் சேம்பியன்ஷிப் ஆகும். டோர்னமென்ட்டில் தற்போது 16 அணிகள் இடம்பெற்றுள்ளன. அதில் கொடுக்கப்பட்ட நேரத்திற்குள் தரவரிசையில் முதல் எட்டு இடங்களைப் பிடித்த அணிகளும், டி20 உலகக் கோப்பை குவாலிஃபயர் மூலமாக தேர்வு செய்யப்பட்ட நான்கு அணிகளும் உள்ளடங்கும்.",
                   "image": {
@@ -166,7 +166,7 @@
         },
         {
           "label": "ஐ.பி.எல்",
-          "id": "phase_ஐ.பி.எல்",
+          "id": "kane_williamson_phase_6",
           "note": "2016",
           "value": {
             "label": "In 2015 Sunrisers Hyderabad of the IPL signed Williamson for US$96,500. He played for Sunrisers Hyderabad in the 2016 season where they won the title",
@@ -175,7 +175,7 @@
                 "url": "/read/ta/sunrisers_hyderabad",
                 "contentUrl": "/static/content/ta/sunrisers_hyderabad.json",
                 "label": "சன்ரைஸர்ஸ் ஹைதராபாத்",
-                "id": "phase_fact_fact_சன்ரைஸர்ஸ்_ஹைதராபாத்",
+                "id": "kane_williamson_phase_6_fact",
                 "value": {
                   "label": "சன் ரைசர்ஸ் ஹைதராபாத் (பெரும்பாலும் எஸ்ஆர்எச் என சுருக்கமாக அழைக்கப்படுகிறது) என்பது ஐதராபாத், தெலுங்கானாவை அடிப்படையாகக் கொண்ட ஐபிஎல் பிரீமியர் லீக்கில் ஆடும் உரிமம் பெற்ற ஒரு கிரிக்கெட் அணி,",
                   "image": {
@@ -195,7 +195,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "kane_williamson_achievement_0",
           "value": {
             "label": "வில்லியம்சனின் தலைமையில் சன்ரைசர்ஸ் ஹைதராபாத், 2018 ஐபிஎல் போட்டியில் இரண்டாவது இடத்தைப் பெற்றது",
             "image": {
@@ -207,7 +207,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "kane_williamson_achievement_1",
           "value": {
             "label": "2018 ஐபிஎல் போட்டிகள் அதிகபட்ச ரன்கள் (735) எடுத்ததற்காக வில்லியம்சன் ஆரஞ்சுத் தொப்பியை வென்றார்",
             "image": {
@@ -219,7 +219,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "kane_williamson_achievement_2",
           "value": {
             "label": "நியூசிலாந்து கிரிக்கெட் வரலாற்றில் குறைந்த வயதில் சதம் அடித்தவர் வில்லியம்சன்",
             "image": {
@@ -230,7 +230,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "kane_williamson_achievement_3",
           "value": {
             "label": "வில்லியம்சன் தான் விளையாடிய முதல் டெஸ்ட் போட்டியிலேயே சதமடித்தார்",
             "image": {
@@ -241,7 +241,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "kane_williamson_achievement_4",
           "value": {
             "label": "வில்லியம்சன் 2015 இல், முதல் இரண்டு மாதங்களில் 700 ரன்களுக்கு மேல் அடித்திருக்கிறார்.",
             "image": {
@@ -258,13 +258,13 @@
       "facts": [
         {
           "label": "நியூசிலாந்து (2010 - தற்போது வரை)",
-          "id": "team_fact_நியூசிலாந்து_2010 - தற்போது வரை",
+          "id": "kane_williamson_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "நியூசிலாந்து தேசியக் கிரிக்கெட் அணி",
-                "id": "team_fact_fact_நியூசிலாந்து_தேசியக்_கிரிக்கெட்_அணி",
+                "id": "kane_williamson_team_fact_0_fact",
                 "url": "/read/ta/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/ta/new_zealand_national_cricket_team.json",
                 "value": {
@@ -280,13 +280,13 @@
         },
         {
           "label": "சன்ரைசர்ஸ் ஹைதராபாத் (2015 முதல் தற்போதுவரை)",
-          "id": "team_fact_சன்ரைசர்ஸ்_ஹைதராபாத்_2015 முதல் தற்போதுவரை",
+          "id": "kane_williamson_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "சன்ரைஸர்ஸ் ஹைதராபாத்",
-                "id": "team_fact_fact_சன்ரைஸர்ஸ்_ஹைதராபாத்",
+                "id": "kane_williamson_team_fact_1_fact",
                 "url": "/read/ta/sunrisers_hyderabad",
                 "contentUrl": "/static/content/ta/sunrisers_hyderabad.json",
                 "value": {
@@ -302,7 +302,7 @@
         },
         {
           "label": "நார்த்தன் டிஸ்ட்ரிக்ட்ஸ் (2007 - தற்போது வரை)",
-          "id": "team_fact_நார்த்தன்_டிஸ்ட்ரிக்ட்ஸ்_2007 - தற்போது வரை",
+          "id": "kane_williamson_team_fact_2",
           "value": {
             "label": "நார்த்தன் டிஸ்ட்ரிக்ட்ஸ் கிரிக்கெட் அணி, நியூசிலாந்தில் பர்ஸ்ட் கிளாஸ் கிரிக்கெட் விளையாடும் அணி."
           }
@@ -316,7 +316,7 @@
         {
           "label": "ஹால்பெர்க் விருது",
           "tag": "2015",
-          "id": "award-0",
+          "id": "kane_williamson_award_0",
           "value": {
             "label": "ஹால்பெர்க் விருது, நியூசிலாந்தின் சிறந்த விளையாட்டு வீரருக்கு வருடாந்திரம் வழங்கப்படுகிறது.",
             "image": {
@@ -328,7 +328,7 @@
         {
           "label": "விஸ்டென் லீடிங் கிரிக்கெட்டர் ஆப் தி வேர்ல்டு",
           "tag": "2015",
-          "id": "award-1",
+          "id": "kane_williamson_award_1",
           "value": {
             "label": "விஸ்டென் லீடிங் கிரிக்கெட்டர் ஆப் தி வேர்ல்டு என்பது விஸ்டென் கிரிக்கெட்டர்ஸ் அல்மனாக்கால் தேர்ந்தெடுத்து அளிக்கப்படுகிற வருடாந்திரக் கிரிக்கெட் விருது",
             "image": {

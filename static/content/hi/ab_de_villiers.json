@@ -87,7 +87,7 @@
     },
     {
       "title": "खेलने की शैली",
-      "id": "style_of_play",
+      "id": "ab_de_villiers_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -109,7 +109,7 @@
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": "phase_प्रथम_श्रेणी_की_शुरुआत",
+          "id": "ab_de_villiers_phase_0",
           "note": "2004",
           "value": {
             "label": "डिविलियर्स ने दक्षिण अफ्रीकी घरेलू टीम नार्दन की ओर से प्रथम श्रेणी क्रिकेट में पदार्पण किया "
@@ -117,7 +117,7 @@
         },
         {
           "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
-          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
+          "id": "ab_de_villiers_phase_1",
           "note": "2004",
           "value": {
             "label": "एबी डिविलियर्स ने इंग्लैंड के खिलाफ टेस्ट मैच में अंतरराष्ट्रीय पदार्पण किया ",
@@ -126,7 +126,7 @@
                 "url": "/read/hi/england_cricket_team",
                 "contentUrl": "/static/content/hi/england_cricket_team.json",
                 "label": "इंग्लैंड क्रिकेट टीम",
-                "id": "phase_fact_fact_इंग्लैंड_क्रिकेट_टीम",
+                "id": "ab_de_villiers_phase_1_fact",
                 "value": {
                   "label": "इंग्लैंड क्रिकेट टीम अंतरराष्ट्रीय क्रिकेट में इंग्लैंड और वेल्स का प्रतिनिधित्व करती है। इंग्लैंड और ऑस्ट्रेलिया 1877 में टेस्ट मैच खेलने वाली पहली टीमें थीं। ",
                   "image": {
@@ -140,7 +140,7 @@
         },
         {
           "label": "आईसीसी टूर्नामेंट में प्रथम प्रवेश",
-          "id": "phase_आईसीसी_टूर्नामेंट_में_प्रथम_प्रवेश",
+          "id": "ab_de_villiers_phase_2",
           "note": "2007",
           "value": {
             "label": "विश्व कप में डिविलियर्स की बल्लेबाजी असंगत थी और वे 4 अवसरों पर रन बनाने में  भी असफल रहे थे"
@@ -148,7 +148,7 @@
         },
         {
           "label": "दोहरा शतक",
-          "id": "phase_दोहरा_शतक",
+          "id": "ab_de_villiers_phase_3",
           "note": "2011",
           "value": {
             "label": "एक एकल विश्व कप में दो शतक बनाने वाले डिविलियर्स पहले दक्षिण अफ्रीकी हैं ",
@@ -157,7 +157,7 @@
                 "url": "/read/hi/2011_cricket_world_cup",
                 "contentUrl": "/static/content/hi/2011_cricket_world_cup.json",
                 "label": "2011 क्रिकेट विश्व कप",
-                "id": "phase_fact_fact_2011_क्रिकेट_विश्व_कप",
+                "id": "ab_de_villiers_phase_3_fact",
                 "value": {
                   "label": "2011 आईसीसी क्रिकेट विश्व कप, दसवें क्रिकेट विश्व कप था। यह भारत, श्रीलंका (पहली बार के लिए), और बांग्लादेश में खेला गया था",
                   "image": {
@@ -171,7 +171,7 @@
         },
         {
           "label": "2015 विश्व कप",
-          "id": "phase_2015_विश्व_कप",
+          "id": "ab_de_villiers_phase_4",
           "note": "2015",
           "value": {
             "label": "डिविलियर्स की कप्तानी में दक्षिण अफ्रीकी टीम विश्व कप के सेमीफायनल तक पहुंची मगर न्यूजीलैंड के हाथों पराजित हो गई।  ",
@@ -180,7 +180,7 @@
                 "url": "/read/hi/2015_cricket_world_cup",
                 "contentUrl": "/static/content/hi/2015_cricket_world_cup.json",
                 "label": "2015 क्रिकेट विश्व कप",
-                "id": "phase_fact_fact_2015_क्रिकेट_विश्व_कप",
+                "id": "ab_de_villiers_phase_4_fact",
                 "value": {
                   "label": "2015 आईसीसी क्रिकेट विश्व कप 11 वीं क्रिकेट विश्व कप था,  जो संयुक्त रूप से ऑस्ट्रेलिया और न्यूजीलैंड द्वारा आयोजित किया गया",
                   "image": {
@@ -194,7 +194,7 @@
         },
         {
           "label": "आईपीएल में प्रथम प्रवेश",
-          "id": "phase_आईपीएल_में_प्रथम_प्रवेश",
+          "id": "ab_de_villiers_phase_6",
           "note": "2008",
           "value": {
             "label": "आईपीएल के प्रथम तीन सत्र में डिविलियर्स, देल्ही डेयरडेविल्स के लिए खेले ",
@@ -203,7 +203,7 @@
                 "url": "/read/hi/delhi_capitals",
                 "contentUrl": "/static/content/hi/delhi_capitals.json",
                 "label": "देल्ही कैपिटल्स",
-                "id": "phase_fact_fact_देल्ही_कैपिटल्स",
+                "id": "ab_de_villiers_phase_6_fact",
                 "value": {
                   "label": "देल्ही कैपिटल्स एक फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में दिल्ली शहर का प्रतिनिधित्व करती है।",
                   "image": {
@@ -223,7 +223,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "ab_de_villiers_achievement_0",
           "value": {
             "label": "डिविलियर्स सबसे कम उम्र में 1000 टेस्ट रन बनाने वाले दूसरे सबसे युवा और दूसरे सबसे तेज दक्षिण अफ्रीकी बने",
             "image": {
@@ -234,7 +234,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "ab_de_villiers_achievement_1",
           "value": {
             "label": "2008 में डिविलियर्स प्रथम दक्षिण अफ्रीकी बने जिसने दोहरा शतक जमाया ",
             "image": {
@@ -245,7 +245,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "ab_de_villiers_achievement_2",
           "value": {
             "label": "2011 में डिविलयर्स पहले ऐसे दक्षिण अफ्रीकी बने जिसने एक एकल विश्व कप में दो बार शतक बनाया ",
             "image": {
@@ -257,7 +257,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "ab_de_villiers_achievement_3",
           "value": {
             "label": "2013 में डिविलयर्स ने एक मैच में 11 कैच लपकने के जैक रसल के रिकॉर्ड की बराबरी की। ",
             "image": {
@@ -268,7 +268,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "ab_de_villiers_achievement_4",
           "value": {
             "label": "2015 - डिविलियर्स ने एक दिवसीय अंतर्राष्ट्रीय इतिहास में सबसे तेज 50, 100 और 150 रन बनाने का रिकॉर्ड कायम किया",
             "image": {
@@ -285,13 +285,13 @@
       "facts": [
         {
           "label": "दक्षिण अफ्रीकी राष्ट्रीय टीम  (2004-2018)",
-          "id": "team_fact_दक्षिण_अफ्रीकी_राष्ट्रीय_टीम_2004-2018",
+          "id": "ab_de_villiers_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "दक्षिण अफ्रीका की राष्ट्रीय क्रिकेट टीम",
-                "id": "team_fact_fact_दक्षिण_अफ्रीका_की_राष्ट्रीय_क्रिकेट_टीम",
+                "id": "ab_de_villiers_team_fact_0_fact",
                 "url": "/read/hi/south_africa_national_cricket_team",
                 "contentUrl": "/static/content/hi/south_africa_national_cricket_team.json",
                 "value": {
@@ -307,13 +307,13 @@
         },
         {
           "label": "रॉयल चैलेंजर्स बंगलुरु  (2011 से अब तक)",
-          "id": "team_fact_रॉयल_चैलेंजर्स_बंगलुरु_2011 से अब तक",
+          "id": "ab_de_villiers_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "रॉयल चैलेंजर्स बैंगलोर",
-                "id": "team_fact_fact_रॉयल_चैलेंजर्स_बैंगलोर",
+                "id": "ab_de_villiers_team_fact_1_fact",
                 "url": "/read/hi/royal_challengers_bangalore",
                 "contentUrl": "/static/content/hi/royal_challengers_bangalore.json",
                 "value": {
@@ -329,7 +329,7 @@
         },
         {
           "label": "नार्दन (2003-2004)",
-          "id": "team_fact_नार्दन_2003-2004",
+          "id": "ab_de_villiers_team_fact_2",
           "value": {
             "label": "नार्दन दक्षिण अफ्रीका की एक प्रथम श्रेणी की क्रिकेट टीम है जो प्रेटोरिया समेत जोहांसबर्ग के उत्तरी भाग का प्रतिनिधित्व करती है "
           }
@@ -343,7 +343,7 @@
         {
           "label": " आईसीसी ओडीआई प्लेयर आॅफ द ईयर",
           "tag": "2010",
-          "id": "award-0",
+          "id": "ab_de_villiers_award_0",
           "value": {
             "label": "अंतर्राष्ट्रीय क्रिकेट परिषद (ICC) द्वारा प्रतिवर्ष चुने गए विश्व खिलाड़ी को एक क्रिकेट ट्रॉफी प्रदान की जाती है",
             "image": {
@@ -355,7 +355,7 @@
         {
           "label": "आईसीसी ओडीआई प्लेयर ऑफ द ईयर ",
           "tag": "2014",
-          "id": "award-1",
+          "id": "ab_de_villiers_award_1",
           "value": {
             "label": "अंतर्राष्ट्रीय क्रिकेट परिषद (ICC) द्वारा प्रतिवर्ष चुने गए विश्व खिलाड़ी को एक क्रिकेट ट्रॉफी प्रदान की जाती है",
             "image": {
@@ -367,7 +367,7 @@
         {
           "label": "आईसीसी ओडीआई प्लेयर ऑफ द ईयर ",
           "tag": "2015",
-          "id": "award-2",
+          "id": "ab_de_villiers_award_2",
           "value": {
             "label": "अंतर्राष्ट्रीय क्रिकेट परिषद (ICC) द्वारा प्रतिवर्ष चुने गए विश्व खिलाड़ी को एक क्रिकेट ट्रॉफी प्रदान की जाती है",
             "image": {

@@ -71,7 +71,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "style_of_play",
+      "id": "glenn_mcgrath_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -92,7 +92,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "phase_first_class_debut",
+          "id": "glenn_mcgrath_phase_0",
           "note": "1992",
           "value": {
             "label": "Glenn McGrath made his first class debut for New South Wales during the 1992–93 season"
@@ -100,7 +100,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "glenn_mcgrath_phase_1",
           "note": "1993",
           "value": {
             "label": "McGrath's Test debut was against New Zealand at Perth in 1993",
@@ -109,7 +109,7 @@
                 "url": "/read/en/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
                 "label": "New Zealand national cricket team",
-                "id": "phase_fact_fact_new_zealand_national_cricket_team",
+                "id": "glenn_mcgrath_phase_1_fact",
                 "value": {
                   "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
                   "image": {
@@ -123,7 +123,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "glenn_mcgrath_phase_2",
           "note": "1996",
           "value": {
             "label": ""
@@ -131,7 +131,7 @@
         },
         {
           "label": "World cup 2007",
-          "id": "phase_world_cup_2007",
+          "id": "glenn_mcgrath_phase_5",
           "note": "2007",
           "value": {
             "label": "McGrath won the man-of-the-tournament award for his outstanding bowling",
@@ -140,7 +140,7 @@
                 "url": "/read/en/2007_cricket_world_cup",
                 "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
                 "label": "2007 Cricket World Cup",
-                "id": "phase_fact_fact_2007_cricket_world_cup",
+                "id": "glenn_mcgrath_phase_5_fact",
                 "value": {
                   "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
                   "image": {
@@ -154,7 +154,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "phase_ipl_debut",
+          "id": "glenn_mcgrath_phase_6",
           "note": "2008",
           "value": {
             "label": "McGrath was signed by the Delhi DareDevils for the first season of the Indian Premier League in 2008, for a sum of US$350,000.",
@@ -163,7 +163,7 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-                "id": "phase_fact_fact_delhi_capitals",
+                "id": "glenn_mcgrath_phase_6_fact",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
@@ -183,7 +183,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "glenn_mcgrath_achievement_0",
           "value": {
             "label": "At the time of his retirement McGrath held the record for most runs scored as a number eleven batsman",
             "image": {
@@ -195,7 +195,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "glenn_mcgrath_achievement_1",
           "value": {
             "label": "During this career, Glenn McGrath has taken 563 Test wickets",
             "image": {
@@ -206,7 +206,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "glenn_mcgrath_achievement_2",
           "value": {
             "label": "McGrath holds the record for dismissing the most batsmen (104) for ducks in test cricket",
             "image": {
@@ -217,7 +217,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "glenn_mcgrath_achievement_3",
           "value": {
             "label": "McGrath has taken the seventh-highest number of one day international wickets (381)",
             "image": {
@@ -229,7 +229,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "glenn_mcgrath_achievement_4",
           "value": {
             "label": "Glenn McGrath holds the record for most wickets (71) in the Cricket World Cup.",
             "image": {
@@ -246,13 +246,13 @@
       "facts": [
         {
           "label": "Australia National Cricket team (1993-2007)",
-          "id": "team_fact_australia_national_cricket_team_1993-2007",
+          "id": "glenn_mcgrath_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Australia national cricket team",
-                "id": "team_fact_fact_australia_national_cricket_team",
+                "id": "glenn_mcgrath_team_fact_0_fact",
                 "url": "/read/en/australia_national_cricket_team",
                 "contentUrl": "/static/content/en/australia_national_cricket_team.json",
                 "value": {
@@ -268,13 +268,13 @@
         },
         {
           "label": "Delhi Daredevils (2008)",
-          "id": "team_fact_delhi_daredevils_2008",
+          "id": "glenn_mcgrath_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Delhi Capitals",
-                "id": "team_fact_fact_delhi_capitals",
+                "id": "glenn_mcgrath_team_fact_1_fact",
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "value": {
@@ -290,7 +290,7 @@
         },
         {
           "label": "New South Wales (1992 - 2007)",
-          "id": "team_fact_new_south_wales_1992 - 2007",
+          "id": "glenn_mcgrath_team_fact_2",
           "value": {
             "label": "The New South Wales cricket team (currently named NSW Blues) are an Australian men's professional first class cricket team based in Sydney."
           }
@@ -304,7 +304,7 @@
         {
           "label": "Order of Australia",
           "tag": "2008",
-          "id": "award-0",
+          "id": "glenn_mcgrath_award_0",
           "value": {
             "label": "The Order of Australia is an order of chivalry in 1975 by Queen Elizabeth II, to recognise Australian citizens and other persons for meritorious service.",
             "image": {
@@ -316,7 +316,7 @@
         {
           "label": "Sport Australia Hall of Fame",
           "tag": "2011",
-          "id": "award-1",
+          "id": "glenn_mcgrath_award_1",
           "value": {
             "label": "The Sport Australia Hall of Fame was established in 1985 to recognise the achievements of Australian sportsmen and sportswomen.",
             "image": {
@@ -328,7 +328,7 @@
         {
           "label": "ICC Cricket Hall of Fame",
           "tag": "2013",
-          "id": "award-2",
+          "id": "glenn_mcgrath_award_2",
           "value": {
             "label": "The ICC Cricket Hall of Fame recognises the achievements of the legends of the game from cricket's long and illustrious history.",
             "image": {

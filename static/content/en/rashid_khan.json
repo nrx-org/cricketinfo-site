@@ -65,7 +65,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "style_of_play",
+      "id": "rashid_khan_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -82,7 +82,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "phase_first_class_debut",
+          "id": "rashid_khan_phase_0",
           "note": "",
           "value": {
             "label": ""
@@ -90,7 +90,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "rashid_khan_phase_1",
           "note": "",
           "value": {
             "label": "He made his One Day International (ODI) debut for Afghanistan against Zimbabwe on 18 October 2015."
@@ -98,7 +98,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "rashid_khan_phase_2",
           "note": "",
           "value": {
             "label": "In April 2019, he was named in Afghanistan's squad for the 2019 Cricket World Cup."
@@ -106,7 +106,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "phase_ipl_debut",
+          "id": "rashid_khan_phase_6",
           "note": "2017",
           "value": {
             "label": "In February 2017, he was bought by Sunrisers Hyderabad for the 2017 Indian Premier League (IPL) for 4 crores.He was also amongst the two first ever Afghan players to be selected for the IPL.",
@@ -115,7 +115,7 @@
                 "url": "/read/en/sunrisers_hyderabad",
                 "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
                 "label": "Sunrisers Hyderabad",
-                "id": "phase_fact_fact_sunrisers_hyderabad",
+                "id": "rashid_khan_phase_6_fact",
                 "value": {
                   "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL).",
                   "image": {
@@ -135,7 +135,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "rashid_khan_achievement_0",
           "value": {
             "label": "In June 2017, he took the best bowling figures for an associate nation in a One Day International (ODI) match.",
             "image": {
@@ -146,7 +146,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "rashid_khan_achievement_1",
           "value": {
             "label": "In February 2018, he became the youngest player to top the ICC Player Rankings for bowlers in ODIs",
             "image": {
@@ -157,7 +157,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "rashid_khan_achievement_2",
           "value": {
             "label": "In September 2018, he became the number one player in the ICC's all-rounder rankings, following his performance at the 2018 Asia Cup.",
             "image": {
@@ -168,7 +168,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "rashid_khan_achievement_3",
           "value": {
             "label": "",
             "image": {
@@ -179,7 +179,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "rashid_khan_achievement_4",
           "value": {
             "label": "",
             "image": {
@@ -196,13 +196,13 @@
       "facts": [
         {
           "label": "Afganistan National Cricket team (2015-present)",
-          "id": "team_fact_afganistan_national_cricket_team_2015-present",
+          "id": "rashid_khan_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Afghanistan national cricket team",
-                "id": "team_fact_fact_afghanistan_national_cricket_team",
+                "id": "rashid_khan_team_fact_0_fact",
                 "url": "/read/en/afghanistan_national_cricket_team",
                 "contentUrl": "/static/content/en/afghanistan_national_cricket_team.json",
                 "value": {
@@ -218,13 +218,13 @@
         },
         {
           "label": "Sunrisers Hyderabad (2017- present)",
-          "id": "team_fact_sunrisers_hyderabad_2017- present",
+          "id": "rashid_khan_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Sunrisers Hyderabad",
-                "id": "team_fact_fact_sunrisers_hyderabad",
+                "id": "rashid_khan_team_fact_1_fact",
                 "url": "/read/en/sunrisers_hyderabad",
                 "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
                 "value": {
@@ -247,7 +247,7 @@
         {
           "label": "Associate Cricketer of the Year",
           "tag": "2018",
-          "id": "award-0",
+          "id": "rashid_khan_award_0",
           "value": {
             "label": "",
             "image": {

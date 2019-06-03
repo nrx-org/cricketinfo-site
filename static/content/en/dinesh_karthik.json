@@ -65,7 +65,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "style_of_play",
+      "id": "dinesh_karthik_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -86,7 +86,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "phase_first_class_debut",
+          "id": "dinesh_karthik_phase_0",
           "note": "2002",
           "value": {
             "label": "Karthik made his debut at the first-class level in late-2002 against Baroda",
@@ -95,7 +95,7 @@
                 "url": "/read/en/ranji_trophy",
                 "contentUrl": "/static/content/en/ranji_trophy.json",
                 "label": "Ranji Trophy",
-                "id": "phase_fact_fact_ranji_trophy",
+                "id": "dinesh_karthik_phase_0_fact",
                 "value": {
                   "label": "The Ranji Trophy is a domestic first-class cricket championship played in India between teams representing regional and state cricket associations.",
                   "image": {
@@ -109,7 +109,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "dinesh_karthik_phase_1",
           "note": "2004",
           "value": {
             "label": "Karthik made his international debut in an One day international match against England in 2004",
@@ -118,7 +118,7 @@
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "label": "England cricket team",
-                "id": "phase_fact_fact_england_cricket_team",
+                "id": "dinesh_karthik_phase_1_fact",
                 "value": {
                   "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877.",
                   "image": {
@@ -132,7 +132,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "dinesh_karthik_phase_2",
           "note": "",
           "value": {
             "label": ""
@@ -140,7 +140,7 @@
         },
         {
           "label": "T20 Cricket World cup",
-          "id": "phase_t20_cricket_world_cup",
+          "id": "dinesh_karthik_phase_3",
           "note": "2007",
           "value": {
             "label": "Karthik played the earlier matches but was dropped later in the tournament",
@@ -149,7 +149,7 @@
                 "url": "/read/en/2007_cricket_world_cup",
                 "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
                 "label": "2007 Cricket World Cup",
-                "id": "phase_fact_fact_2007_cricket_world_cup",
+                "id": "dinesh_karthik_phase_3_fact",
                 "value": {
                   "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
                   "image": {
@@ -163,7 +163,7 @@
         },
         {
           "label": "2013 Champions Trophy",
-          "id": "phase_2013_champions_trophy",
+          "id": "dinesh_karthik_phase_5",
           "note": "2013",
           "value": {
             "label": "Karthik scored an unbeaten 51 in India's group match against the West Indies",
@@ -172,7 +172,7 @@
                 "url": "/read/en/icc_champions_trophy",
                 "contentUrl": "/static/content/en/icc_champions_trophy.json",
                 "label": "ICC Champions Trophy",
-                "id": "phase_fact_fact_icc_champions_trophy",
+                "id": "dinesh_karthik_phase_5_fact",
                 "value": {
                   "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
                   "image": {
@@ -186,7 +186,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "phase_ipl_debut",
+          "id": "dinesh_karthik_phase_6",
           "note": "2008",
           "value": {
             "label": "Karthik played in the 2008 Indian Premier League as the wicket-keeper for the Delhi Daredevils",
@@ -195,7 +195,7 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-                "id": "phase_fact_fact_delhi_capitals",
+                "id": "dinesh_karthik_phase_6_fact",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
@@ -215,7 +215,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "dinesh_karthik_achievement_0",
           "value": {
             "label": "Karthik scored and unbeaten 29 runs off 8 balls in a T20 match against Bangladesh",
             "image": {
@@ -226,7 +226,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "dinesh_karthik_achievement_1",
           "value": {
             "label": "In the 2002-2003 season while playing for U-19 Tamil Nadu team, Karthik scored, 227 against Goa",
             "image": {
@@ -237,7 +237,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "dinesh_karthik_achievement_2",
           "value": {
             "label": "In 2017, Karthik faced 18 deliveries without scoring a single run and set a new record for an Indian player for the highest number of balls faced with scoring a run in a ODI.",
             "image": {
@@ -248,7 +248,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "dinesh_karthik_achievement_3",
           "value": {
             "label": "",
             "image": {
@@ -259,7 +259,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "dinesh_karthik_achievement_4",
           "value": {
             "label": "",
             "image": {
@@ -276,13 +276,13 @@
       "facts": [
         {
           "label": "India National Cricket team (2004 - present)",
-          "id": "team_fact_india_national_cricket_team_2004 - present",
+          "id": "dinesh_karthik_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "team_fact_fact_india_national_cricket_team",
+                "id": "dinesh_karthik_team_fact_0_fact",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -298,13 +298,13 @@
         },
         {
           "label": "Kolkata Knight Riders (2018 - present)",
-          "id": "team_fact_kolkata_knight_riders_2018 - present",
+          "id": "dinesh_karthik_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Kolkata Knight Riders",
-                "id": "team_fact_fact_kolkata_knight_riders",
+                "id": "dinesh_karthik_team_fact_1_fact",
                 "url": "/read/en/kolkata_knight_riders",
                 "contentUrl": "/static/content/en/kolkata_knight_riders.json",
                 "value": {
@@ -320,7 +320,7 @@
         },
         {
           "label": "Tamil Nadu (2002 - present)",
-          "id": "team_fact_tamil_nadu_2002 - present",
+          "id": "dinesh_karthik_team_fact_2",
           "value": {
             "label": "Tamil Nadu Cricket Team is a domestic cricket team representing the state of Tamil Nadu, India"
           }

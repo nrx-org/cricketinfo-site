@@ -87,7 +87,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "style_of_play",
+      "id": "rahul_dravid_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -108,7 +108,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "phase_first_class_debut",
+          "id": "rahul_dravid_phase_0",
           "note": "1991",
           "value": {
             "label": "Dravid made his Ranji Trophy debut in 1991versus Maharashtra.",
@@ -117,7 +117,7 @@
                 "url": "/read/en/ranji_trophy",
                 "contentUrl": "/static/content/en/ranji_trophy.json",
                 "label": "Ranji Trophy",
-                "id": "phase_fact_fact_ranji_trophy",
+                "id": "rahul_dravid_phase_0_fact",
                 "value": {
                   "label": "The Ranji Trophy is a domestic first-class cricket championship played in India between teams representing regional and state cricket associations.",
                   "image": {
@@ -131,7 +131,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "rahul_dravid_phase_1",
           "note": "1996",
           "value": {
             "label": "Dravid made his international debut in 1996 in an ODI against Sri Lanka in the Singer Cup held in Singapore.",
@@ -140,7 +140,7 @@
                 "url": "/read/en/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
                 "label": "Sri Lanka national cricket team",
-                "id": "phase_fact_fact_sri_lanka_national_cricket_team",
+                "id": "rahul_dravid_phase_1_fact",
                 "value": {
                   "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
                   "image": {
@@ -154,7 +154,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "rahul_dravid_phase_2",
           "note": "1999",
           "value": {
             "label": "Dravid made his World Cup debut against South Africa in 1999 at Hove scoring a half century.",
@@ -163,7 +163,7 @@
                 "url": "/read/en/1999_cricket_world_cup",
                 "contentUrl": "/static/content/en/1999_cricket_world_cup.json",
                 "label": "1999 Cricket World Cup",
-                "id": "phase_fact_fact_1999_cricket_world_cup",
+                "id": "rahul_dravid_phase_2_fact",
                 "value": {
                   "label": "The 1999 Cricket World Cup was the seventh edition of the Cricket World Cup, organised by the International Cricket Council (ICC). It was hosted primarily by England, with some games being played in Scotland, Ireland, Wales and the Netherlands.",
                   "image": {
@@ -177,7 +177,7 @@
         },
         {
           "label": "2003 World Cup",
-          "id": "phase_2003_world_cup",
+          "id": "rahul_dravid_phase_3",
           "note": "2003",
           "value": {
             "label": "Dravid was the vice-captain during the 2003 World Cup, playing as a wicket-keeper batsman.",
@@ -186,7 +186,7 @@
                 "url": "/read/en/2003_cricket_world_cup",
                 "contentUrl": "/static/content/en/2003_cricket_world_cup.json",
                 "label": "2003 Cricket World Cup",
-                "id": "phase_fact_fact_2003_cricket_world_cup",
+                "id": "rahul_dravid_phase_3_fact",
                 "value": {
                   "label": "The 2003 Cricket World Cup was the eighth Cricket World Cup, organized by the International Cricket Council (ICC). It was co-hosted by South Africa, Zimbabwe and Kenya.",
                   "image": {
@@ -200,7 +200,7 @@
         },
         {
           "label": "2007 World Cup",
-          "id": "phase_2007_world_cup",
+          "id": "rahul_dravid_phase_4",
           "note": "2007",
           "value": {
             "label": "Rahul Dravid was appointed the captain for the Indian team for the 2007 World Cup, where India had an unsuccessful campaign.",
@@ -209,7 +209,7 @@
                 "url": "/read/en/2007_cricket_world_cup",
                 "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
                 "label": "2007 Cricket World Cup",
-                "id": "phase_fact_fact_2007_cricket_world_cup",
+                "id": "rahul_dravid_phase_4_fact",
                 "value": {
                   "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
                   "image": {
@@ -223,7 +223,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "phase_ipl_debut",
+          "id": "rahul_dravid_phase_6",
           "note": "2008",
           "value": {
             "label": "Rahul Dravid played for Royal Challengers Bangalore in IPL 2008, 2009 and 2010.",
@@ -232,7 +232,7 @@
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "label": "Royal Challengers Bangalore",
-                "id": "phase_fact_fact_royal_challengers_bangalore",
+                "id": "rahul_dravid_phase_6_fact",
                 "value": {
                   "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL).",
                   "image": {
@@ -252,7 +252,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "rahul_dravid_achievement_0",
           "value": {
             "label": "Dravid scored nearly 25000 runs in international cricket.",
             "image": {
@@ -263,7 +263,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "rahul_dravid_achievement_1",
           "value": {
             "label": "Dravid has scored five double centuries in Test matches",
             "image": {
@@ -274,7 +274,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "rahul_dravid_achievement_2",
           "value": {
             "label": "Dravid held the record for the most number of catches taken by a player (non-wicket-keeper) in Test cricket, with 210 catches.",
             "image": {
@@ -286,7 +286,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "rahul_dravid_achievement_3",
           "value": {
             "label": "Dravid and VVS Laxman played a 376 run partnership during a test match against Australia, which was won by India by 171 runs.",
             "image": {
@@ -297,7 +297,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "rahul_dravid_achievement_4",
           "value": {
             "label": "Dravid put up a partnership of 331 runs with Tendulkar which was a world record",
             "image": {
@@ -314,13 +314,13 @@
       "facts": [
         {
           "label": "India National Cricket team (1996-2012)",
-          "id": "team_fact_india_national_cricket_team_1996-2012",
+          "id": "rahul_dravid_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "team_fact_fact_india_national_cricket_team",
+                "id": "rahul_dravid_team_fact_0_fact",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -336,13 +336,13 @@
         },
         {
           "label": "Rajasthan Royals (2011 - 2013)",
-          "id": "team_fact_rajasthan_royals_2011 - 2013",
+          "id": "rahul_dravid_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Rajasthan Royals",
-                "id": "team_fact_fact_rajasthan_royals",
+                "id": "rahul_dravid_team_fact_1_fact",
                 "url": "/read/en/rajasthan_royals",
                 "contentUrl": "/static/content/en/rajasthan_royals.json",
                 "value": {
@@ -358,7 +358,7 @@
         },
         {
           "label": "Karnataka (1990 - 2012)",
-          "id": "team_fact_karnataka_1990 - 2012",
+          "id": "rahul_dravid_team_fact_2",
           "value": {
             "label": "Domestic Ranji trophy cricket team based in the state of Karnataka"
           }
@@ -372,7 +372,7 @@
         {
           "label": "Arjuna Awards",
           "tag": "1998",
-          "id": "award-0",
+          "id": "rahul_dravid_award_0",
           "value": {
             "label": "Arjuna Awards are given by the Government for outstanding achievement in sports.",
             "image": {
@@ -384,7 +384,7 @@
         {
           "label": "Padma Shri",
           "tag": "2004",
-          "id": "award-1",
+          "id": "rahul_dravid_award_1",
           "value": {
             "label": "Padma Shri is the fourth highest civilian award in the Republic of India",
             "image": {
@@ -397,7 +397,7 @@
         {
           "label": "Padma Bhushan",
           "tag": "2013",
-          "id": "award-2",
+          "id": "rahul_dravid_award_2",
           "value": {
             "label": "Padma Bhushan is the third-highest civilian award in the Republic of India",
             "image": {
@@ -409,7 +409,7 @@
         {
           "label": "ICC Hall of Fame",
           "tag": "2018",
-          "id": "award-3",
+          "id": "rahul_dravid_award_3",
           "value": {
             "label": "The ICC Cricket Hall of Fame recognises the achievements of the cricketing legends.",
             "image": {

@@ -65,7 +65,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "style_of_play",
+      "id": "jasprit_bumrah_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -82,7 +82,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "phase_first_class_debut",
+          "id": "jasprit_bumrah_phase_0",
           "note": "2013",
           "value": {
             "label": "Bumrah plays first-class cricket for Gujarat and he made his debut against Vidarbha in October 2013",
@@ -91,7 +91,7 @@
                 "url": "/read/en/ranji_trophy",
                 "contentUrl": "/static/content/en/ranji_trophy.json",
                 "label": "Ranji Trophy",
-                "id": "phase_fact_fact_ranji_trophy",
+                "id": "jasprit_bumrah_phase_0_fact",
                 "value": {
                   "label": "The Ranji Trophy is a domestic first-class cricket championship played in India between teams representing regional and state cricket associations.",
                   "image": {
@@ -105,7 +105,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "jasprit_bumrah_phase_1",
           "note": "2016",
           "value": {
             "label": "Bumrah made his international debut playing an ODI for India versus Australia",
@@ -114,7 +114,7 @@
                 "url": "/read/en/australia_national_cricket_team",
                 "contentUrl": "/static/content/en/australia_national_cricket_team.json",
                 "label": "Australia national cricket team",
-                "id": "phase_fact_fact_australia_national_cricket_team",
+                "id": "jasprit_bumrah_phase_1_fact",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
@@ -128,7 +128,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "jasprit_bumrah_phase_2",
           "note": "2017",
           "value": {
             "label": "In the Champions Trophy 2017 final, Bumrah bowled a no-ball which could have been the wicket of the batsman who eventually scored a century that helped the opposition win the match."
@@ -136,7 +136,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "phase_ipl_debut",
+          "id": "jasprit_bumrah_phase_6",
           "note": "2013",
           "value": {
             "label": "In his Indian Premier League debut match versus RCB, Bumrah took 3 wickets",
@@ -145,7 +145,7 @@
                 "url": "/read/en/mumbai_indians",
                 "contentUrl": "/static/content/en/mumbai_indians.json",
                 "label": "Mumbai Indians",
-                "id": "phase_fact_fact_mumbai_indians",
+                "id": "jasprit_bumrah_phase_6_fact",
                 "value": {
                   "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
                   "image": {
@@ -165,7 +165,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "jasprit_bumrah_achievement_0",
           "value": {
             "label": "Bumrah is the first Asian bowler to take 5 wickets in a test innings in South Africa, England and Australia during the same calendar year",
             "image": {
@@ -177,7 +177,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "jasprit_bumrah_achievement_1",
           "value": {
             "label": "Bumrahs is the third highest wicket taker in test matches in a debut year with 48 wickets in 9 matches",
             "image": {
@@ -188,7 +188,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "jasprit_bumrah_achievement_2",
           "value": {
             "label": "Bumrah took 7 wickets in his debut first class match playing for Gujarat versus Vidharbha",
             "image": {
@@ -199,7 +199,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "jasprit_bumrah_achievement_3",
           "value": {
             "label": "",
             "image": {
@@ -210,7 +210,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "jasprit_bumrah_achievement_4",
           "value": {
             "label": "",
             "image": {
@@ -227,13 +227,13 @@
       "facts": [
         {
           "label": "India National Cricket team (2016-present)",
-          "id": "team_fact_india_national_cricket_team_2016-present",
+          "id": "jasprit_bumrah_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "team_fact_fact_india_national_cricket_team",
+                "id": "jasprit_bumrah_team_fact_0_fact",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -249,13 +249,13 @@
         },
         {
           "label": "Mumbai Indians (2013-present)",
-          "id": "team_fact_mumbai_indians_2013-present",
+          "id": "jasprit_bumrah_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Mumbai Indians",
-                "id": "team_fact_fact_mumbai_indians",
+                "id": "jasprit_bumrah_team_fact_1_fact",
                 "url": "/read/en/mumbai_indians",
                 "contentUrl": "/static/content/en/mumbai_indians.json",
                 "value": {
@@ -271,7 +271,7 @@
         },
         {
           "label": "Gujarat (2012 - present)",
-          "id": "team_fact_gujarat_2012 - present",
+          "id": "jasprit_bumrah_team_fact_2",
           "value": {
             "label": "Gujarat cricket team is one of three Ranji Trophy cricket teams representing the state of Gujarat"
           }

@@ -65,7 +65,7 @@
     },
     {
       "title": "खेलने की शैली",
-      "id": "style_of_play",
+      "id": "dinesh_karthik_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -86,7 +86,7 @@
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": "phase_प्रथम_श्रेणी_की_शुरुआत",
+          "id": "dinesh_karthik_phase_0",
           "note": "2002",
           "value": {
             "label": "कार्तिक ने बड़ौदा के खिलाफ 2002 के अंत में प्रथम श्रेणी स्तर पर अपनी शुरुआत की"
@@ -94,7 +94,7 @@
         },
         {
           "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
-          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
+          "id": "dinesh_karthik_phase_1",
           "note": "2004",
           "value": {
             "label": "कार्तिक ने अपने अंतर्राष्ट्रीय क्रिकेट की शुरुआत 2004 में इंग्लैंड के खिलाफ एक दिवसीय अंतर्राष्ट्रीय मैच से की",
@@ -103,7 +103,7 @@
                 "url": "/read/hi/england_cricket_team",
                 "contentUrl": "/static/content/hi/england_cricket_team.json",
                 "label": "इंग्लैंड क्रिकेट टीम",
-                "id": "phase_fact_fact_इंग्लैंड_क्रिकेट_टीम",
+                "id": "dinesh_karthik_phase_1_fact",
                 "value": {
                   "label": "इंग्लैंड क्रिकेट टीम अंतरराष्ट्रीय क्रिकेट में इंग्लैंड और वेल्स का प्रतिनिधित्व करती है। इंग्लैंड और ऑस्ट्रेलिया 1877 में टेस्ट मैच खेलने वाली पहली टीमें थीं। ",
                   "image": {
@@ -117,7 +117,7 @@
         },
         {
           "label": "आईसीसी टूर्नामेंट में प्रथम प्रवेश",
-          "id": "phase_आईसीसी_टूर्नामेंट_में_प्रथम_प्रवेश",
+          "id": "dinesh_karthik_phase_2",
           "note": "",
           "value": {
             "label": ""
@@ -125,7 +125,7 @@
         },
         {
           "label": "2007 टी 20 विश्व कप",
-          "id": "phase_2007_टी_20_विश्व_कप",
+          "id": "dinesh_karthik_phase_3",
           "note": "2007",
           "value": {
             "label": "कार्तिक ने शुरुआती मैच खेले लेकिन बाद में उन्हें टूर्नामेंट में बाहर कर दिया गया",
@@ -134,7 +134,7 @@
                 "url": "/read/hi/2007_cricket_world_cup",
                 "contentUrl": "/static/content/hi/2007_cricket_world_cup.json",
                 "label": "2007 क्रिकेट विश्व कप",
-                "id": "phase_fact_fact_2007_क्रिकेट_विश्व_कप",
+                "id": "dinesh_karthik_phase_3_fact",
                 "value": {
                   "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
                   "image": {
@@ -148,7 +148,7 @@
         },
         {
           "label": "2009 चैंपियंस ट्रॉफी",
-          "id": "phase_2009_चैंपियंस_ट्रॉफी",
+          "id": "dinesh_karthik_phase_4",
           "note": "",
           "value": {
             "label": ""
@@ -156,7 +156,7 @@
         },
         {
           "label": "2013 चैंपियंस ट्रॉफी",
-          "id": "phase_2013_चैंपियंस_ट्रॉफी",
+          "id": "dinesh_karthik_phase_5",
           "note": "2013",
           "value": {
             "label": "कार्तिक ने वेस्ट इंडीज के खिलाफ भारत के ग्रुप मैच में नाबाद 51 रन बनाए",
@@ -165,7 +165,7 @@
                 "url": "/read/hi/icc_champions_trophy",
                 "contentUrl": "/static/content/hi/icc_champions_trophy.json",
                 "label": "आईसीसी चैंपियंस ट्रॉफी",
-                "id": "phase_fact_fact_आईसीसी_चैंपियंस_ट्रॉफी",
+                "id": "dinesh_karthik_phase_5_fact",
                 "value": {
                   "label": "आईसीसी चैंपियंस ट्रॉफी एक दिवसीय अंतर्राष्ट्रीय (वनडे) क्रिकेट टूर्नामेंट था जिसका आयोजन अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) द्वारा किया जाता था, जो क्रिकेट विश्व कप के बाद दूसरा सबसे महत्वपूर्ण आयोजन था। 2002 में इसका नाम बदलकर चैंपियंस ट्रॉफी रखा गया।",
                   "image": {
@@ -179,7 +179,7 @@
         },
         {
           "label": "आईपीएल में प्रथम प्रवेश",
-          "id": "phase_आईपीएल_में_प्रथम_प्रवेश",
+          "id": "dinesh_karthik_phase_6",
           "note": "2008",
           "value": {
             "label": "कार्तिक 2008 में इंडियन प्रीमियर लीग में दिल्ली डेयरडेविल्स के लिए विकेट कीपर के रूप में खेले",
@@ -188,7 +188,7 @@
                 "url": "/read/hi/delhi_capitals",
                 "contentUrl": "/static/content/hi/delhi_capitals.json",
                 "label": "देल्ही कैपिटल्स",
-                "id": "phase_fact_fact_देल्ही_कैपिटल्स",
+                "id": "dinesh_karthik_phase_6_fact",
                 "value": {
                   "label": "देल्ही कैपिटल्स एक फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में दिल्ली शहर का प्रतिनिधित्व करती है।",
                   "image": {
@@ -208,7 +208,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "dinesh_karthik_achievement_0",
           "value": {
             "label": "कार्तिक ने बांग्लादेश के खिलाफ एक टी 20 मैच में 8 गेंदों पर 29 रन बनाए और नाबाद रहे",
             "image": {
@@ -219,7 +219,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "dinesh_karthik_achievement_1",
           "value": {
             "label": "2002-2003 सीज़न में अंडर -19 तमिलनाडु टीम के लिए खेलते हुए, कार्तिक ने गोवा के खिलाफ 227 रन बनाए",
             "image": {
@@ -230,7 +230,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "dinesh_karthik_achievement_2",
           "value": {
             "label": "2017 में, कार्तिक ने एक भी रन बनाए बिना 18 गेंदों का सामना किया और एक भारतीय खिलाड़ी के लिए एक ओडीआई में एक रन बनाने के साथ सबसे अधिक गेंदों का सामना करने का एक नया रिकॉर्ड बनाया।",
             "image": {
@@ -241,7 +241,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "dinesh_karthik_achievement_3",
           "value": {
             "label": "",
             "image": {
@@ -252,7 +252,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "dinesh_karthik_achievement_4",
           "value": {
             "label": "",
             "image": {
@@ -269,13 +269,13 @@
       "facts": [
         {
           "label": "भारतीय राष्ट्रीय क्रिकेट टीम  (2004 से अब तक)",
-          "id": "team_fact_भारतीय_राष्ट्रीय_क्रिकेट_टीम_2004 से अब तक",
+          "id": "dinesh_karthik_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "भारत की राष्ट्रीय क्रिकेट टीम",
-                "id": "team_fact_fact_भारत_की_राष्ट्रीय_क्रिकेट_टीम",
+                "id": "dinesh_karthik_team_fact_0_fact",
                 "url": "/read/hi/india_national_cricket_team",
                 "contentUrl": "/static/content/hi/india_national_cricket_team.json",
                 "value": {
@@ -291,13 +291,13 @@
         },
         {
           "label": "कोलकाता नाइट राइडर्स (2018 से अब तक)",
-          "id": "team_fact_कोलकाता_नाइट_राइडर्स_2018 से अब तक",
+          "id": "dinesh_karthik_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "कोलकाता नाइट राइडर्स",
-                "id": "team_fact_fact_कोलकाता_नाइट_राइडर्स",
+                "id": "dinesh_karthik_team_fact_1_fact",
                 "url": "/read/hi/kolkata_knight_riders",
                 "contentUrl": "/static/content/hi/kolkata_knight_riders.json",
                 "value": {
@@ -313,7 +313,7 @@
         },
         {
           "label": "तमिलनाडु (2002 से अब तक)",
-          "id": "team_fact_तमिलनाडु_2002 से अब तक",
+          "id": "dinesh_karthik_team_fact_2",
           "value": {
             "label": "तमिलनाडु क्रिकेट टीम भारत के तमिलनाडु राज्य का प्रतिनिधित्व करने वाली एक घरेलू क्रिकेट टीम है"
           }

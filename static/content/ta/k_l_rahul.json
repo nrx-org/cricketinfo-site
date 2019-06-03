@@ -82,7 +82,7 @@
     },
     {
       "title": "விளையாட்டின் பாணி",
-      "id": "style_of_play",
+      "id": "k_l_rahul_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -99,7 +99,7 @@
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "phase_முதல்_வகுப்பு",
+          "id": "k_l_rahul_phase_0",
           "note": "2012",
           "value": {
             "label": "2012-13 சீசனில், ராகுல் தனது முதல் ஃபர்ஸ்ட்-கிளாஸ் கிரிக்கெட் போட்டியை கர்நாடக அணிக்காக ஆடினார்"
@@ -107,7 +107,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "k_l_rahul_phase_1",
           "note": "2014",
           "value": {
             "label": "ராகுல் தனது முதல் டெஸ்ட் போட்டியை, மெல்போர்னில் நடைபெற்ற 2014 பாக்ஸிங் டே டெஸ்ட் போட்டியில் ஆஸ்திரேலியாவுக்கு எதிராக ஆடினார்",
@@ -116,7 +116,7 @@
                 "url": "/read/ta/australia_national_cricket_team",
                 "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "id": "phase_fact_fact_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
+                "id": "k_l_rahul_phase_1_fact",
                 "value": {
                   "label": "ஆஸ்திரேலிய தேசிய கிரிக்கெட் அணி 1877 ஆம் ஆண்டு நடைபெற்ற முதன்முதல் டெஸ்ட் போட்டியில் விளையாடிய, ஒரு மிகப் பழமையான அணியாகும்.",
                   "image": {
@@ -130,7 +130,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "k_l_rahul_phase_2",
           "note": "",
           "value": {
             "label": ""
@@ -138,7 +138,7 @@
         },
         {
           "label": "ஐ.பி.எல்",
-          "id": "phase_ஐ.பி.எல்",
+          "id": "k_l_rahul_phase_6",
           "note": "2013",
           "value": {
             "label": "ராகுல் விக்கெட் கீப்பர் பேட்ஸ்மேனாக, ஐபிஎல்-இல் தனது முதல் போட்டியை 2013-இல் ராயல் சேலஞ்சர்ஸ் பெங்களூர் அணிக்காக ஆடினார்.",
@@ -147,7 +147,7 @@
                 "url": "/read/ta/royal_challengers_bangalore",
                 "contentUrl": "/static/content/ta/royal_challengers_bangalore.json",
                 "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
-                "id": "phase_fact_fact_ராயல்_சேலஞ்சர்ஸ்_பெங்களூர்",
+                "id": "k_l_rahul_phase_6_fact",
                 "value": {
                   "label": "ராயல் சேலஞ்சர்ஸ் அணி இண்டியன் பிரீமியர் லீக்கில் (ஐபிஎல்) விளையாடும் கர்நாடகாவின் பெங்களூரில் உள்ள ஒரு உரிமைப் பெற்ற கிரிக்கெட் அணி ஆகும்",
                   "image": {
@@ -167,7 +167,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "k_l_rahul_achievement_0",
           "value": {
             "label": "முதல் முறையாக விளையாடிய ஒரு நாள் சர்வதேசப் போட்டியில் சதம் அடித்த முதல் இந்திய பேட்ஸ்மேன் கே.எல்.ராகுல்",
             "image": {
@@ -178,7 +178,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "k_l_rahul_achievement_1",
           "value": {
             "label": "ராகுல், சர்வதேசக் கிரிக்கெட்டின் அனைத்து மூன்று வடிவங்களிலும் சதம் அடித்த வீரர் என்ற பெருமைக்குரியவர்.",
             "image": {
@@ -190,7 +190,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "k_l_rahul_achievement_2",
           "value": {
             "label": "2014-15 துலீப் டிராஃபியின் இறுதிப் போட்டியில், ராகுல் முதல் இன்னிங்ஸில் 233 பந்துகளில் 185 ரன்கள் எடுத்தார், இரண்டாவது இன்னிங்ஸில் 152 பந்துகளில் 130 ரன்கள் எடுத்தார்",
             "image": {
@@ -202,7 +202,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "k_l_rahul_achievement_3",
           "value": {
             "label": "ராகுல், முச்சதம் அடித்த முதல் கர்நாடக பிளேயர் என்ற பெருமைக்குரியவர் ஆவார். அவர் உத்தரபிரதேசத்திற்கு எதிரான போட்டியில் 337 ரன்கள் எடுத்தார்.",
             "image": {
@@ -213,7 +213,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "k_l_rahul_achievement_4",
           "value": {
             "label": "வெஸ்ட் இண்டீஸில் தனது முதல் டெஸ்ட் போட்டியில் சதம் அடித்த முதல் இந்திய ஓப்பனிங் பேட்ஸ்மேன் ராகுல்.",
             "image": {
@@ -230,13 +230,13 @@
       "facts": [
         {
           "label": "இந்திய சர்வதேசக் கிரிக்கெட் அணி (2014 முதல் இப்போது வரை)",
-          "id": "team_fact_இந்திய_சர்வதேசக்_கிரிக்கெட்_அணி_2014 முதல் இப்போது வரை",
+          "id": "k_l_rahul_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "இந்திய தேசிய கிரிக்கெட் அணி",
-                "id": "team_fact_fact_இந்திய_தேசிய_கிரிக்கெட்_அணி",
+                "id": "k_l_rahul_team_fact_0_fact",
                 "url": "/read/ta/india_national_cricket_team",
                 "contentUrl": "/static/content/ta/india_national_cricket_team.json",
                 "value": {
@@ -252,13 +252,13 @@
         },
         {
           "label": "கிங்ஸ் லெவன் பஞ்சாப் (2018 முதல் இப்போது வரை)",
-          "id": "team_fact_கிங்ஸ்_லெவன்_பஞ்சாப்_2018 முதல் இப்போது வரை",
+          "id": "k_l_rahul_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "கிங்ஸ் லெவன் பஞ்சாப்",
-                "id": "team_fact_fact_கிங்ஸ்_லெவன்_பஞ்சாப்",
+                "id": "k_l_rahul_team_fact_1_fact",
                 "url": "/read/ta/kings_xi_punjab",
                 "contentUrl": "/static/content/ta/kings_xi_punjab.json",
                 "value": {
@@ -274,7 +274,7 @@
         },
         {
           "label": "கர்நாடகா (2010 முதல் இப்போது வரை)",
-          "id": "team_fact_கர்நாடகா_2010 முதல் இப்போது வரை",
+          "id": "k_l_rahul_team_fact_2",
           "value": {
             "label": "கர்நாடக மாநிலத்தைப் பிரதிநிதித்துவப்படுத்தும் டொமெஸ்டிக் ரஞ்சி டிராஃபி கிரிக்கெட் அணி"
           }

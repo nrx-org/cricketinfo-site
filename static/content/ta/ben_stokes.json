@@ -66,7 +66,7 @@
     },
     {
       "title": "விளையாட்டின் பாணி",
-      "id": "style_of_play",
+      "id": "ben_stokes_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -88,7 +88,7 @@
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "phase_முதல்_வகுப்பு",
+          "id": "ben_stokes_phase_0",
           "note": "2010",
           "value": {
             "label": "ஸ்டோக்ஸ் மெரைல்போன் கிரிக்கெட் கிளப்புக்கு (எம்சிசி) எதிராக  தன்னுடைய முதல் பர்ஸ்ட் கிளாஸ் போட்டியில் விளையாடினார்"
@@ -96,7 +96,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "ben_stokes_phase_1",
           "note": "2011",
           "value": {
             "label": "ஸ்டோக்ஸ் 2011 இல் அயர்லாந்துக்கு எதிராகத்  தன்னுடைய முதல் ஒருநாள் சர்வதேசப் போட்டியில் விளையாடினார்."
@@ -104,7 +104,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "ben_stokes_phase_2",
           "note": "2016",
           "value": {
             "label": "டோர்னமெண்டில் இரண்டாம் இடத்தைப் பெற்ற இங்கிலாந்து அணியில் ஸ்டோக்ஸ் இடம் பெற்றிருந்தார்"
@@ -112,7 +112,7 @@
         },
         {
           "label": "Champions trophy ",
-          "id": "phase_champions_trophy",
+          "id": "ben_stokes_phase_3",
           "note": "2017",
           "value": {
             "label": "",
@@ -121,7 +121,7 @@
                 "url": "/read/ta/icc_champions_trophy",
                 "contentUrl": "/static/content/ta/icc_champions_trophy.json",
                 "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி",
-                "id": "phase_fact_fact_ஐசிசி_சேம்பியன்ஸ்_டிராஃபி",
+                "id": "ben_stokes_phase_3_fact",
                 "value": {
                   "label": "ஐசிசி சேம்பியன்ஸ் டிராஃபி என்பது இன்டர்நேஷனல் கிரிக்கெட் கவுன்சிலால் (ஐசிசி) நடத்தப்படும் ஒன் டே இன்டர்நேஷனல் (ODI) கிரிக்கெட் டோர்னமென்ட் ஆகும். இது கிரிக்கெட் உலகக்கோப்பைக்கு அடுத்தபடியாக முக்கியமாக கருதப்படும் டோர்னமென்ட் ஆகும். 2002-ஆம் ஆண்டு இதன் பெயர் சேம்பியன்ஸ் டிராஃபி என்று மாற்றப்பட்டது.",
                   "image": {
@@ -135,7 +135,7 @@
         },
         {
           "label": "ஐ.பி.எல்",
-          "id": "phase_ஐ.பி.எல்",
+          "id": "ben_stokes_phase_6",
           "note": "2017",
           "value": {
             "label": "ரைசிங் புனே சூப்பர்ஜயண்ட், புனேவைத் தளமாகக் கொண்ட ஐபிஎல் கிரிக்கெட் அணி"
@@ -149,7 +149,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "ben_stokes_achievement_0",
           "value": {
             "label": "டெஸ்ட் போட்டிகளில் இங்கிலாந்தின் வேகமான இரட்டைச் சதமடித்தவர் என்ற சாதனையை ஸ்டோக்ஸ் செய்திருக்கிறார்",
             "image": {
@@ -161,7 +161,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "ben_stokes_achievement_1",
           "value": {
             "label": "ஒரு டெஸ்ட் போட்டியின் உணவு இடைவேளைக்கு முந்தைய ஆட்டத்தில் அதிகபட்ச ரன்கள் எடுத்தவர் என்ற சாதனையை ஸ்டோக்ஸ் வைத்திருக்கிறார்",
             "image": {
@@ -173,7 +173,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "ben_stokes_achievement_2",
           "value": {
             "label": "ஒரு டெஸ்ட் இன்னிங்ஸில் அதிகபட்ச சிக்சர்கள் அடித்தவர்களில் இரண்டாவது இடத்தில் இருக்கிறார் ஸ்டோக்ஸ்",
             "image": {
@@ -185,7 +185,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "ben_stokes_achievement_3",
           "value": {
             "label": "ஜானி பேய்ர்ஸ்டாவுடன் ஜோடி சேர்ந்து ஸ்டோக்ஸ், டெஸ்ட் போட்டியில் ஆறாவது விக்கெட்டுக்கான அதிகபட்ச ரன் குவித்த சாதனையை வைத்திருக்கிறார்.",
             "image": {
@@ -196,7 +196,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "ben_stokes_achievement_4",
           "value": {
             "label": "",
             "image": {
@@ -213,13 +213,13 @@
       "facts": [
         {
           "label": "இங்கிலாந்து (2011 - தற்போது வரை)",
-          "id": "team_fact_இங்கிலாந்து_2011 - தற்போது வரை",
+          "id": "ben_stokes_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "இங்கிலாந்து கிரிக்கெட் அணி",
-                "id": "team_fact_fact_இங்கிலாந்து_கிரிக்கெட்_அணி",
+                "id": "ben_stokes_team_fact_0_fact",
                 "url": "/read/ta/england_cricket_team",
                 "contentUrl": "/static/content/ta/england_cricket_team.json",
                 "value": {
@@ -235,13 +235,13 @@
         },
         {
           "label": "ராஜஸ்தான் ராயல்ஸ் (2018 முதல் தற்போதுவரை)",
-          "id": "team_fact_ராஜஸ்தான்_ராயல்ஸ்_2018 முதல் தற்போதுவரை",
+          "id": "ben_stokes_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "ராஜஸ்தான் ராயல்ஸ்",
-                "id": "team_fact_fact_ராஜஸ்தான்_ராயல்ஸ்",
+                "id": "ben_stokes_team_fact_1_fact",
                 "url": "/read/ta/rajasthan_royals",
                 "contentUrl": "/static/content/ta/rajasthan_royals.json",
                 "value": {
@@ -257,7 +257,7 @@
         },
         {
           "label": "துராம் (2009 - தற்போது வரை)",
-          "id": "team_fact_துராம்_2009 - தற்போது வரை",
+          "id": "ben_stokes_team_fact_2",
           "value": {
             "label": "துராம் கவுண்டி கிரிக்கெட் கிளப், இங்கிலாந்து மற்றும் வேல்ஸின் உள்ளூர் கிரிக்கெட் அமைப்பிலுள்ள 18 பர்ஸ்ட் கிளாஸ் கவுண்டி கிளப்களில் ஒன்று"
           }
@@ -271,7 +271,7 @@
         {
           "label": "என்பிசி டெனிஸ் காம்ப்டன் விருது",
           "tag": "2010",
-          "id": "award-0",
+          "id": "ben_stokes_award_0",
           "value": {
             "label": "என்பிசி டெனிஸ் காம்ப்டன் விருது, ஒவ்வொரு இங்லீஷ் பர்ஸ்ட் கிளாஸ் கவுண்டி அணியிலும் \"மிகச் சிறந்த இளம் வீரருக்கு\" வருடாந்திரம் வழங்கப்படுகிறது",
             "image": {
@@ -283,7 +283,7 @@
         {
           "label": "விஸ்டென் கிரிக்கெட்டர் ஆப் தி இயர்",
           "tag": "2016",
-          "id": "award-1",
+          "id": "ben_stokes_award_1",
           "value": {
             "label": "விஸ்டென் கிரிக்கெட்டர்ஸ் அல்மனாக்கால் தேர்ந்தெடுத்து அளிக்கப்படுகிற வருடாந்திரக் கிரிக்கெட் விருது",
             "image": {

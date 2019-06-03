@@ -24,7 +24,7 @@ const getSluggedTitle = str =>
   str
     ? str
         .trim()
-        .replace(/\s+/g, "_")
+        .replace(/[^\w]/gi, "_")
         .toLowerCase()
     : null;
 

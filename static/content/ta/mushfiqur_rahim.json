@@ -82,7 +82,7 @@
     },
     {
       "title": "விளையாட்டின் பாணி",
-      "id": "style_of_play",
+      "id": "mushfiqur_rahim_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -104,7 +104,7 @@
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "phase_முதல்_வகுப்பு",
+          "id": "mushfiqur_rahim_phase_0",
           "note": "",
           "value": {
             "label": ""
@@ -112,7 +112,7 @@
         },
         {
           "label": "தேசிய அணி அறிமுகம்",
-          "id": "phase_தேசிய_அணி_அறிமுகம்",
+          "id": "mushfiqur_rahim_phase_1",
           "note": "",
           "value": {
             "label": "2005 இல் பங்களாதேஷின் இங்கிலாந்து டூருக்கு ரஹீம் தேர்ந்தெடுக்கப்பட்டார். அதுதான் பங்களாதேஷ் இங்கிலாந்து செல்வது முதல் முறை ஆகும்.",
@@ -121,7 +121,7 @@
                 "url": "/read/ta/england_cricket_team",
                 "contentUrl": "/static/content/ta/england_cricket_team.json",
                 "label": "இங்கிலாந்து கிரிக்கெட் அணி",
-                "id": "phase_fact_fact_இங்கிலாந்து_கிரிக்கெட்_அணி",
+                "id": "mushfiqur_rahim_phase_1_fact",
                 "value": {
                   "label": "இங்கிலாந்து கிரிக்கெட் அணி சர்வதேச கிரிக்கெட் போட்டியில் இங்கிலாந்து மற்றும் வேல்ஸை முன்னிறுத்தி விளையாடுகிறது. இங்கிலாந்து மற்றும் ஆஸ்திரேலியா 1877ஆம் ஆண்டில் டெஸ்ட் போட்டி விளையாடிய முதல் அணிகள் ஆகும்",
                   "image": {
@@ -135,7 +135,7 @@
         },
         {
           "label": "முதல் ஐசிசி போட்டி ",
-          "id": "phase_முதல்_ஐசிசி_போட்டி",
+          "id": "mushfiqur_rahim_phase_2",
           "note": "2007",
           "value": {
             "label": "",
@@ -144,7 +144,7 @@
                 "url": "/read/ta/2007_cricket_world_cup",
                 "contentUrl": "/static/content/ta/2007_cricket_world_cup.json",
                 "label": "2007 கிரிக்கெட் உலகக் கோப்பை",
-                "id": "phase_fact_fact_2007_கிரிக்கெட்_உலகக்_கோப்பை",
+                "id": "mushfiqur_rahim_phase_2_fact",
                 "value": {
                   "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
                   "image": {
@@ -158,7 +158,7 @@
         },
         {
           "label": "2011 உலக கோப்பை",
-          "id": "phase_2011_உலக_கோப்பை",
+          "id": "mushfiqur_rahim_phase_3",
           "note": "2011",
           "value": {
             "label": "",
@@ -167,7 +167,7 @@
                 "url": "/read/ta/2011_cricket_world_cup",
                 "contentUrl": "/static/content/ta/2011_cricket_world_cup.json",
                 "label": "2011 கிரிக்கெட் உலகக் கோப்பை",
-                "id": "phase_fact_fact_2011_கிரிக்கெட்_உலகக்_கோப்பை",
+                "id": "mushfiqur_rahim_phase_3_fact",
                 "value": {
                   "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
                   "image": {
@@ -181,7 +181,7 @@
         },
         {
           "label": "உலகக் கோப்பை",
-          "id": "phase_உலகக்_கோப்பை",
+          "id": "mushfiqur_rahim_phase_4",
           "note": "2019",
           "value": {
             "label": "",
@@ -190,7 +190,7 @@
                 "url": "/read/ta/icc_cricket_world_cup",
                 "contentUrl": "/static/content/ta/icc_cricket_world_cup.json",
                 "label": "கிரிக்கெட் உலகக் கோப்பை",
-                "id": "phase_fact_fact_கிரிக்கெட்_உலகக்_கோப்பை",
+                "id": "mushfiqur_rahim_phase_4_fact",
                 "value": {
                   "label": "ஐசிசி கிரிக்கெட் உலக கோப்பை ஒரு நாள் சர்வதேச கிரிக்கெட்டின் சர்வதேச சாம்பியன்ஷிப் ஆகும். இந்த நிகழ்வானது, விளையாட்டு நிர்வாக ஆணையம், சர்வதேச கிரிக்கெட் கவுன்சில்லால்  ஒவ்வொரு நான்கு வருடங்களுக்கும் ஏற்பாடு செய்யப்படுகின்றது",
                   "image": {
@@ -210,7 +210,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "mushfiqur_rahim_achievement_0",
           "value": {
             "label": "",
             "image": {
@@ -221,7 +221,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "mushfiqur_rahim_achievement_1",
           "value": {
             "label": "",
             "image": {
@@ -232,7 +232,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "mushfiqur_rahim_achievement_2",
           "value": {
             "label": "",
             "image": {
@@ -243,7 +243,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "mushfiqur_rahim_achievement_3",
           "value": {
             "label": "",
             "image": {
@@ -254,7 +254,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "mushfiqur_rahim_achievement_4",
           "value": {
             "label": "",
             "image": {
@@ -271,13 +271,13 @@
       "facts": [
         {
           "label": "பங்ளாதேஷ் தேசிய கிரிக்கெட் அணி (2004 முதல் தற்போது வரை)",
-          "id": "team_fact_பங்ளாதேஷ்_தேசிய_கிரிக்கெட்_அணி_2004 முதல் தற்போது வரை",
+          "id": "mushfiqur_rahim_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "வங்காளதேசக் தேசியக் கிரிக்கெட் அணி",
-                "id": "team_fact_fact_வங்காளதேசக்_தேசியக்_கிரிக்கெட்_அணி",
+                "id": "mushfiqur_rahim_team_fact_0_fact",
                 "url": "/read/ta/bangladesh_national_cricket_team",
                 "contentUrl": "/static/content/ta/bangladesh_national_cricket_team.json",
                 "value": {

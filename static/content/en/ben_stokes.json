@@ -66,7 +66,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "style_of_play",
+      "id": "ben_stokes_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -88,7 +88,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "phase_first_class_debut",
+          "id": "ben_stokes_phase_0",
           "note": "2010",
           "value": {
             "label": "Stokes made his first-class debut for Durham against the Marylebone Cricket Club (MCC)"
@@ -96,7 +96,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "ben_stokes_phase_1",
           "note": "2011",
           "value": {
             "label": "Stokes made his international debut in a One Day International (ODI) against Ireland in August 2011."
@@ -104,7 +104,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "ben_stokes_phase_2",
           "note": "2016",
           "value": {
             "label": "Stokes was part of the England team that finished as runner's up in the tournament"
@@ -112,7 +112,7 @@
         },
         {
           "label": "Champions trophy ",
-          "id": "phase_champions_trophy",
+          "id": "ben_stokes_phase_3",
           "note": "2017",
           "value": {
             "label": "",
@@ -121,7 +121,7 @@
                 "url": "/read/en/icc_champions_trophy",
                 "contentUrl": "/static/content/en/icc_champions_trophy.json",
                 "label": "ICC Champions Trophy",
-                "id": "phase_fact_fact_icc_champions_trophy",
+                "id": "ben_stokes_phase_3_fact",
                 "value": {
                   "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
                   "image": {
@@ -135,7 +135,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "phase_ipl_debut",
+          "id": "ben_stokes_phase_6",
           "note": "2017",
           "value": {
             "label": "Rising Pune Supergiant was an IPL cricket team based in Pune"
@@ -149,7 +149,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "ben_stokes_achievement_0",
           "value": {
             "label": "Stokes holds the record for England's fastest ever Test double-century",
             "image": {
@@ -161,7 +161,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "ben_stokes_achievement_1",
           "value": {
             "label": "Stokes holds the record for the most runs scored by an individual batsman in the morning session of a Test match",
             "image": {
@@ -173,7 +173,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "ben_stokes_achievement_2",
           "value": {
             "label": "Stokes has the second highest number of sixes (11) in a Test innings",
             "image": {
@@ -185,7 +185,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "ben_stokes_achievement_3",
           "value": {
             "label": "Along with Johnny Bairstow, Stokes holds the record for the highest Test partnership for the sixth wicket.",
             "image": {
@@ -196,7 +196,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "ben_stokes_achievement_4",
           "value": {
             "label": "",
             "image": {
@@ -213,13 +213,13 @@
       "facts": [
         {
           "label": "England Cricket team (2011 - present)",
-          "id": "team_fact_england_cricket_team_2011 - present",
+          "id": "ben_stokes_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "England cricket team",
-                "id": "team_fact_fact_england_cricket_team",
+                "id": "ben_stokes_team_fact_0_fact",
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "value": {
@@ -235,13 +235,13 @@
         },
         {
           "label": "Rajasthan Royals (2018 - present)",
-          "id": "team_fact_rajasthan_royals_2018 - present",
+          "id": "ben_stokes_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Rajasthan Royals",
-                "id": "team_fact_fact_rajasthan_royals",
+                "id": "ben_stokes_team_fact_1_fact",
                 "url": "/read/en/rajasthan_royals",
                 "contentUrl": "/static/content/en/rajasthan_royals.json",
                 "value": {
@@ -257,7 +257,7 @@
         },
         {
           "label": "Durham (2009 - present)",
-          "id": "team_fact_durham_2009 - present",
+          "id": "ben_stokes_team_fact_2",
           "value": {
             "label": "Durham County Cricket Club is one of eighteen first-class county clubs in domestic cricket structure of England and Wales"
           }
@@ -271,7 +271,7 @@
         {
           "label": "NBC Denis Compton Award",
           "tag": "2010",
-          "id": "award-0",
+          "id": "ben_stokes_award_0",
           "value": {
             "label": "NBC Denis Compton Award is an annual award given to 'The Most Promising Young Player' at each of the 18 English first-class county team",
             "image": {
@@ -283,7 +283,7 @@
         {
           "label": "Wisden Cricketer of the Year",
           "tag": "2016",
-          "id": "award-1",
+          "id": "ben_stokes_award_1",
           "value": {
             "label": "An yearly award by the Wisden Cricketers' Almanack",
             "image": {

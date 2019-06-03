@@ -82,7 +82,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "style_of_play",
+      "id": "k_l_rahul_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -99,7 +99,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "phase_first_class_debut",
+          "id": "k_l_rahul_phase_0",
           "note": "2012",
           "value": {
             "label": "Rahul made his first-class cricket debut for Karnataka in the 2012–13 season",
@@ -108,7 +108,7 @@
                 "url": "/read/en/ranji_trophy",
                 "contentUrl": "/static/content/en/ranji_trophy.json",
                 "label": "Ranji Trophy",
-                "id": "phase_fact_fact_ranji_trophy",
+                "id": "k_l_rahul_phase_0_fact",
                 "value": {
                   "label": "The Ranji Trophy is a domestic first-class cricket championship played in India between teams representing regional and state cricket associations.",
                   "image": {
@@ -122,7 +122,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "k_l_rahul_phase_1",
           "note": "2014",
           "value": {
             "label": "Rahul made his Test debut in the 2014 Boxing Day Test at the Melbourne, versus Australia",
@@ -131,7 +131,7 @@
                 "url": "/read/en/australia_national_cricket_team",
                 "contentUrl": "/static/content/en/australia_national_cricket_team.json",
                 "label": "Australia national cricket team",
-                "id": "phase_fact_fact_australia_national_cricket_team",
+                "id": "k_l_rahul_phase_1_fact",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
@@ -145,7 +145,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "k_l_rahul_phase_2",
           "note": "",
           "value": {
             "label": ""
@@ -153,7 +153,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "phase_ipl_debut",
+          "id": "k_l_rahul_phase_6",
           "note": "2013",
           "value": {
             "label": "Rahul made his IPL debut in 2013 for Royal Challengers Bangalore as a wicket-keeper batsman",
@@ -162,7 +162,7 @@
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "label": "Royal Challengers Bangalore",
-                "id": "phase_fact_fact_royal_challengers_bangalore",
+                "id": "k_l_rahul_phase_6_fact",
                 "value": {
                   "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL).",
                   "image": {
@@ -182,7 +182,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "k_l_rahul_achievement_0",
           "value": {
             "label": "K.L.Rahul is the first Indian to score a century on One Day International debut",
             "image": {
@@ -193,7 +193,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "k_l_rahul_achievement_1",
           "value": {
             "label": "Rahul has a century in a century in all three formats of international cricket.",
             "image": {
@@ -205,7 +205,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "k_l_rahul_achievement_2",
           "value": {
             "label": "In the finals of the 2014-15 Duleep Trophy, Rahul scored 185 off 233 balls in the first innings and 130 off 152 in the second",
             "image": {
@@ -217,7 +217,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "k_l_rahul_achievement_3",
           "value": {
             "label": "Rahul is the first player in T20I history to score a century when batting at number 4 position or lower",
             "image": {
@@ -228,7 +228,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "k_l_rahul_achievement_4",
           "value": {
             "label": "Rahul is the first Indian opener to score a century in his debut Test in the West Indies.",
             "image": {
@@ -245,13 +245,13 @@
       "facts": [
         {
           "label": "India National Cricket team (2014-present)",
-          "id": "team_fact_india_national_cricket_team_2014-present",
+          "id": "k_l_rahul_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "team_fact_fact_india_national_cricket_team",
+                "id": "k_l_rahul_team_fact_0_fact",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -267,13 +267,13 @@
         },
         {
           "label": "Kings XI Punjab (2018 - present)",
-          "id": "team_fact_kings_xi_punjab_2018 - present",
+          "id": "k_l_rahul_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Kings XI Punjab",
-                "id": "team_fact_fact_kings_xi_punjab",
+                "id": "k_l_rahul_team_fact_1_fact",
                 "url": "/read/en/kings_xi_punjab",
                 "contentUrl": "/static/content/en/kings_xi_punjab.json",
                 "value": {
@@ -289,7 +289,7 @@
         },
         {
           "label": "Karnataka (2010 - present)",
-          "id": "team_fact_karnataka_2010 - present",
+          "id": "k_l_rahul_team_fact_2",
           "value": {
             "label": "Domestic Ranji trophy cricket team based in the state of Karnataka"
           }

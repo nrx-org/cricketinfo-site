@@ -65,7 +65,7 @@
     },
     {
       "title": "விளையாட்டின் பாணி",
-      "id": "style_of_play",
+      "id": "jasprit_bumrah_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -82,7 +82,7 @@
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "phase_முதல்_வகுப்பு",
+          "id": "jasprit_bumrah_phase_0",
           "note": "2013",
           "value": {
             "label": "பும்ரா குஜராத்திற்காக முதல் தரக் கிரிக்கெட் ஆடுகிறார், அக்டோபர் 2013-இல் விதர்பாவுக்கு எதிராக அறிமுகமானார்"
@@ -90,7 +90,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "jasprit_bumrah_phase_1",
           "note": "2016",
           "value": {
             "label": "ஆஸ்திரேலியாவுக்கு எதிரான ஒருநாள் போட்டியில் இந்தியாவுக்காக பும்ரா சர்வதேசப் போட்டியில் அறிமுகமானார்",
@@ -99,7 +99,7 @@
                 "url": "/read/ta/australia_national_cricket_team",
                 "contentUrl": "/static/content/ta/australia_national_cricket_team.json",
                 "label": "ஆஸ்திரேலிய கிரிக்கெட் அணி",
-                "id": "phase_fact_fact_ஆஸ்திரேலிய_கிரிக்கெட்_அணி",
+                "id": "jasprit_bumrah_phase_1_fact",
                 "value": {
                   "label": "ஆஸ்திரேலிய தேசிய கிரிக்கெட் அணி 1877 ஆம் ஆண்டு நடைபெற்ற முதன்முதல் டெஸ்ட் போட்டியில் விளையாடிய, ஒரு மிகப் பழமையான அணியாகும்.",
                   "image": {
@@ -113,7 +113,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "jasprit_bumrah_phase_2",
           "note": "2017",
           "value": {
             "label": "சாம்பியன்ஸ் டிராபி 2017 இறுதிப் போட்டியில், பும்ரா வீசிய பந்தில் பேட்ஸ்மேன் அவுட் ஆனார் ஆனால் அது நோ பாலாக வீசியிருந்தார், இதனால் அந்த பேட்ஸ்மேன் ஒரு சதத்தை அடித்து எதிர்தரப்பு வெற்றி பெற உதவினார்."
@@ -121,7 +121,7 @@
         },
         {
           "label": "ஐ.பி.எல்",
-          "id": "phase_ஐ.பி.எல்",
+          "id": "jasprit_bumrah_phase_6",
           "note": "2013",
           "value": {
             "label": "பும்ரா இந்திய பிரீமியர் லீக் அறிமுக போட்டியில் ஆர்சிபிக்கு எதிராக,  3 விக்கெட்டுகளை எடுத்தார்",
@@ -130,7 +130,7 @@
                 "url": "/read/ta/mumbai_indians",
                 "contentUrl": "/static/content/ta/mumbai_indians.json",
                 "label": "மும்பை இண்டியன்ஸ்",
-                "id": "phase_fact_fact_மும்பை_இண்டியன்ஸ்",
+                "id": "jasprit_bumrah_phase_6_fact",
                 "value": {
                   "label": "மும்பை இண்டியன்ஸ், மகாராஷ்டிராவில் உள்ள மும்பை நகரத்தைத் தலைமையிடமாகக் கொண்ட ஒரு உரிமைபெற்ற கிரிக்கெட் அணி ஆகும். இது 2008 ஆம் ஆண்டு நிறுவப்பட்டது, மும்பை இண்டியன்ஸ் இண்டியன் பிரீமியர் லீகில் (ஐபிஎல்) விளையாடுவார்கள். இந்த அணி, இந்தியாவில் மிகப்பெரிய நிறுவனமான ரிலையன்ஸ் நிறுவனங்களுக்குச் சொந்தமானது.",
                   "image": {
@@ -150,7 +150,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "jasprit_bumrah_achievement_0",
           "value": {
             "label": "ஒரே ஆண்டில் தென்னாப்ரிக்கா, இங்கிலாந்து மற்றும் ஆஸ்திரேலியா ஆகிய நாடுகளில் ஒரு டெஸ்ட் இன்னிங்ஸில் 5 விக்கெட்டுகளை வீழ்த்திய முதல் ஆசிய வீரர் பும்ரா ஆவார்.",
             "image": {
@@ -162,7 +162,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "jasprit_bumrah_achievement_1",
           "value": {
             "label": "அறிமுகமான முதல் ஆண்டிலேயே 9 போட்டிகளில் 48 விக்கெட்டுகளை வீழ்த்திய பும்ரா டெஸ்ட் போட்டிகளில் மூன்றாவது அதிக விக்கெட்டுகள் எடுத்த வீரர் ஆவார்",
             "image": {
@@ -173,7 +173,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "jasprit_bumrah_achievement_2",
           "value": {
             "label": "விதர்பாவுக்கு எதிரான அறிமுக ஆட்டத்தில் முதல் தரப் போட்டியில் குஜராத்திற்காக ஆடிய பும்ரா 7 விக்கெட்டுகளை எடுத்தார்",
             "image": {
@@ -184,7 +184,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "jasprit_bumrah_achievement_3",
           "value": {
             "label": "",
             "image": {
@@ -195,7 +195,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "jasprit_bumrah_achievement_4",
           "value": {
             "label": "",
             "image": {
@@ -212,13 +212,13 @@
       "facts": [
         {
           "label": "இந்தியத் தேசியக் கிரிக்கெட் அணி (2016 - இப்போது வரை)",
-          "id": "team_fact_இந்தியத்_தேசியக்_கிரிக்கெட்_அணி_2016 - இப்போது வரை",
+          "id": "jasprit_bumrah_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "இந்திய தேசிய கிரிக்கெட் அணி",
-                "id": "team_fact_fact_இந்திய_தேசிய_கிரிக்கெட்_அணி",
+                "id": "jasprit_bumrah_team_fact_0_fact",
                 "url": "/read/ta/india_national_cricket_team",
                 "contentUrl": "/static/content/ta/india_national_cricket_team.json",
                 "value": {
@@ -234,13 +234,13 @@
         },
         {
           "label": "மும்பை இந்தியன்ஸ் (2013 - இப்போது வரை)",
-          "id": "team_fact_மும்பை_இந்தியன்ஸ்_2013 - இப்போது வரை",
+          "id": "jasprit_bumrah_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "மும்பை இண்டியன்ஸ்",
-                "id": "team_fact_fact_மும்பை_இண்டியன்ஸ்",
+                "id": "jasprit_bumrah_team_fact_1_fact",
                 "url": "/read/ta/mumbai_indians",
                 "contentUrl": "/static/content/ta/mumbai_indians.json",
                 "value": {
@@ -256,7 +256,7 @@
         },
         {
           "label": "குஜராத் (2012 - இப்போது வரை)",
-          "id": "team_fact_குஜராத்_2012 - இப்போது வரை",
+          "id": "jasprit_bumrah_team_fact_2",
           "value": {
             "label": "குஜராத் மாநிலத்தைப் பிரதிநிதித்துவப்படுத்தும் மூன்று ரஞ்சி டிராபி கிரிக்கெட் அணிகளில் குஜராத் கிரிக்கெட் அணியும் ஒன்றாகும்"
           }

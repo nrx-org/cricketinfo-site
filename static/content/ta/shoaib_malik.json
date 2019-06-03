@@ -84,7 +84,7 @@
     },
     {
       "title": "விளையாட்டின் பாணி",
-      "id": "style_of_play",
+      "id": "shoaib_malik_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -106,7 +106,7 @@
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "phase_முதல்_வகுப்பு",
+          "id": "shoaib_malik_phase_0",
           "note": "",
           "value": {
             "label": ""
@@ -114,7 +114,7 @@
         },
         {
           "label": "தேசிய அணி அறிமுகம்",
-          "id": "phase_தேசிய_அணி_அறிமுகம்",
+          "id": "shoaib_malik_phase_1",
           "note": "",
           "value": {
             "label": "ஷோயப் மாலிக் 1999 இல் மேற்கிந்தியத் தீவுகளுக்கு எதிராகத் தன்னுடைய முதல் சர்வதேச ஒருநாள் போட்டியில் ஆடினார்.",
@@ -123,7 +123,7 @@
                 "url": "/read/ta/west_indies_cricket_team",
                 "contentUrl": "/static/content/ta/west_indies_cricket_team.json",
                 "label": "வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி",
-                "id": "phase_fact_fact_வெஸ்ட்_இன்டீஸ்_கிரிக்கெட்_அணி",
+                "id": "shoaib_malik_phase_1_fact",
                 "value": {
                   "label": "பாரம்பரியமாக வின்டீஸ் என அழைக்கப்படுகின்ற வெஸ்ட் இன்டீஸ் கிரிக்கெட் அணி, ஆங்கிலோபோன் கரீபியன் பகுதியைப் பிரதிநிதித்துவப்படுத்தும் ஒரு பன்னாட்டு கிரிக்கெட் அணியாகும், இது கிரிக்கெட் வெஸ்ட் இன்டீஸால் நிர்வகிக்கப்படுகிறது. இந்த கலப்புக் குழுவிலுள்ள வீரர்கள் பதினைந்து கரீபியன் பிரதேசங்களிலிருந்து தேர்ந்தெடுக்கப்படுகின்றனர்",
                   "image": {
@@ -137,7 +137,7 @@
         },
         {
           "label": "முதல் ஐசிசி போட்டி ",
-          "id": "phase_முதல்_ஐசிசி_போட்டி",
+          "id": "shoaib_malik_phase_2",
           "note": "",
           "value": {
             "label": ""
@@ -145,7 +145,7 @@
         },
         {
           "label": "உலக கோப்பை தோற்றம்",
-          "id": "phase_உலக_கோப்பை_தோற்றம்",
+          "id": "shoaib_malik_phase_3",
           "note": "",
           "value": {
             "label": ""
@@ -159,7 +159,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "shoaib_malik_achievement_0",
           "value": {
             "label": "",
             "image": {
@@ -170,7 +170,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "shoaib_malik_achievement_1",
           "value": {
             "label": "",
             "image": {
@@ -181,7 +181,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "shoaib_malik_achievement_2",
           "value": {
             "label": "",
             "image": {
@@ -192,7 +192,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "shoaib_malik_achievement_3",
           "value": {
             "label": "",
             "image": {
@@ -203,7 +203,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "shoaib_malik_achievement_4",
           "value": {
             "label": "",
             "image": {
@@ -220,13 +220,13 @@
       "facts": [
         {
           "label": "பாகிஸ்தான் தேசிய கிரிக்கெட் அணி (1999 முதல் தற்போது வரை)",
-          "id": "team_fact_பாகிஸ்தான்_தேசிய_கிரிக்கெட்_அணி_1999 முதல் தற்போது வரை",
+          "id": "shoaib_malik_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "பாகிஸ்தான் தேசியக் கிரிக்கெட் அணி",
-                "id": "team_fact_fact_பாகிஸ்தான்_தேசியக்_கிரிக்கெட்_அணி",
+                "id": "shoaib_malik_team_fact_0_fact",
                 "url": "/read/ta/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/ta/pakistan_national_cricket_team.json",
                 "value": {

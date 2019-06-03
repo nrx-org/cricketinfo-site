@@ -82,7 +82,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "style_of_play",
+      "id": "kane_williamson_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -104,7 +104,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "phase_first_class_debut",
+          "id": "kane_williamson_phase_0",
           "note": "2007",
           "value": {
             "label": "Williamson made his first-class cricket debut in December 2007"
@@ -112,7 +112,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "kane_williamson_phase_1",
           "note": "2010",
           "value": {
             "label": "Williamson made his One-Day International debut against India, and was dismissed for a duck.",
@@ -121,7 +121,7 @@
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "label": "India national cricket team",
-                "id": "phase_fact_fact_india_national_cricket_team",
+                "id": "kane_williamson_phase_1_fact",
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
@@ -135,7 +135,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "kane_williamson_phase_2",
           "note": "2011",
           "value": {
             "label": ""
@@ -143,7 +143,7 @@
         },
         {
           "label": "T20 World cup",
-          "id": "phase_t20_world_cup",
+          "id": "kane_williamson_phase_3",
           "note": "2012",
           "value": {
             "label": "",
@@ -152,7 +152,7 @@
                 "url": "/read/en/icc_t20_world_cup",
                 "contentUrl": "/static/content/en/icc_t20_world_cup.json",
                 "label": "ICC T20 World Cup",
-                "id": "phase_fact_fact_icc_t20_world_cup",
+                "id": "kane_williamson_phase_3_fact",
                 "value": {
                   "label": "The ICC T20 World Cup (earlier known as ICC World Twenty20) is the international championship of Twenty20 International cricket. The tournament currently consists of 16 teams, comprising the top eight teams from the rankings at the given deadline and four other teams chosen through the T20 World Cup Qualifier. ",
                   "image": {
@@ -166,7 +166,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "phase_ipl_debut",
+          "id": "kane_williamson_phase_6",
           "note": "2016",
           "value": {
             "label": "In 2015 Sunrisers Hyderabad of the IPL signed Williamson for US$96,500. He played for Sunrisers Hyderabad in the 2016 season where they won the title",
@@ -175,7 +175,7 @@
                 "url": "/read/en/sunrisers_hyderabad",
                 "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
                 "label": "Sunrisers Hyderabad",
-                "id": "phase_fact_fact_sunrisers_hyderabad",
+                "id": "kane_williamson_phase_6_fact",
                 "value": {
                   "label": "The SunRisers Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, that plays in the Indian Premier League (IPL).",
                   "image": {
@@ -195,7 +195,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "kane_williamson_achievement_0",
           "value": {
             "label": "In 2015, Williamson scored 2692 runs which is the highest score across all forms of international cricket for the year",
             "image": {
@@ -207,7 +207,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "kane_williamson_achievement_1",
           "value": {
             "label": "In 2016, Williamson became the 13th batsman to score a century against all the other Test playing nations",
             "image": {
@@ -219,7 +219,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "kane_williamson_achievement_2",
           "value": {
             "label": "Williamson in the youngest century scorer in New Zealand's cricket history",
             "image": {
@@ -230,7 +230,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "kane_williamson_achievement_3",
           "value": {
             "label": "Williamson has scored a century in this Test debut",
             "image": {
@@ -241,7 +241,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "kane_williamson_achievement_4",
           "value": {
             "label": "In 2015, Williamson scored over 700 runs in the first two months of the calendar year.",
             "image": {
@@ -258,13 +258,13 @@
       "facts": [
         {
           "label": "New Zealand National Cricket team (2010 - present)",
-          "id": "team_fact_new_zealand_national_cricket_team_2010 - present",
+          "id": "kane_williamson_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "New Zealand national cricket team",
-                "id": "team_fact_fact_new_zealand_national_cricket_team",
+                "id": "kane_williamson_team_fact_0_fact",
                 "url": "/read/en/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
                 "value": {
@@ -280,13 +280,13 @@
         },
         {
           "label": "Sunrisers Hyderabad (2015 - present)",
-          "id": "team_fact_sunrisers_hyderabad_2015 - present",
+          "id": "kane_williamson_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Sunrisers Hyderabad",
-                "id": "team_fact_fact_sunrisers_hyderabad",
+                "id": "kane_williamson_team_fact_1_fact",
                 "url": "/read/en/sunrisers_hyderabad",
                 "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
                 "value": {
@@ -302,7 +302,7 @@
         },
         {
           "label": "Northern Districts (2007 - present)",
-          "id": "team_fact_northern_districts_2007 - present",
+          "id": "kane_williamson_team_fact_2",
           "value": {
             "label": "Northern Districts cricket team is a first-class cricket team from New Zealand."
           }
@@ -316,7 +316,7 @@
         {
           "label": "Halberg Award",
           "tag": "2015",
-          "id": "award-0",
+          "id": "kane_williamson_award_0",
           "value": {
             "label": "Halberg Awards are given annually to New Zealand's top sportperson.",
             "image": {
@@ -328,7 +328,7 @@
         {
           "label": "Wisden Leading Cricketer of the World",
           "tag": "2015",
-          "id": "award-1",
+          "id": "kane_williamson_award_1",
           "value": {
             "label": "Wisden Leading Cricketer in the World is an annual cricket award selected by Wisden Cricketers' Almanack",
             "image": {

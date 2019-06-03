@@ -65,7 +65,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "style_of_play",
+      "id": "ravindra_jadeja_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -82,7 +82,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "phase_first_class_debut",
+          "id": "ravindra_jadeja_phase_0",
           "note": "2006",
           "value": {
             "label": "Jadeja made his first-class debut in the 2006–07 Duleep Trophy playing for the West Zone",
@@ -91,7 +91,7 @@
                 "url": "/read/en/duleep_trophy",
                 "contentUrl": "/static/content/en/duleep_trophy.json",
                 "label": "Duleep Trophy",
-                "id": "phase_fact_fact_duleep_trophy",
+                "id": "ravindra_jadeja_phase_0_fact",
                 "value": {
                   "label": "The Duleep Trophy is a domestic first-class cricket competition played in India. Named after Kumar Shri Duleepsinhji of Nawanagar (also known as 'Duleep'), the competition was originally contested by teams representing geographical zones of India.",
                   "image": {
@@ -105,7 +105,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "ravindra_jadeja_phase_1",
           "note": "2009",
           "value": {
             "label": "Jadeja made his international debut in an ODI versus Sri Lanka, in which he scored unbeaten 60 runs",
@@ -114,7 +114,7 @@
                 "url": "/read/en/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
                 "label": "Sri Lanka national cricket team",
-                "id": "phase_fact_fact_sri_lanka_national_cricket_team",
+                "id": "ravindra_jadeja_phase_1_fact",
                 "value": {
                   "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
                   "image": {
@@ -128,7 +128,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "ravindra_jadeja_phase_2",
           "note": "2009",
           "value": {
             "label": "Jadeja was criticised for not scoring fast enough in a match against England, which India lost"
@@ -136,7 +136,7 @@
         },
         {
           "label": "2015 World cup",
-          "id": "phase_2015_world_cup",
+          "id": "ravindra_jadeja_phase_3",
           "note": "2015",
           "value": {
             "label": "Jadeja was not 100% fit and took 9 wickets in 8 games",
@@ -145,7 +145,7 @@
                 "url": "/read/en/2015_cricket_world_cup",
                 "contentUrl": "/static/content/en/2015_cricket_world_cup.json",
                 "label": "2015 Cricket World Cup",
-                "id": "phase_fact_fact_2015_cricket_world_cup",
+                "id": "ravindra_jadeja_phase_3_fact",
                 "value": {
                   "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand.",
                   "image": {
@@ -159,7 +159,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "phase_ipl_debut",
+          "id": "ravindra_jadeja_phase_6",
           "note": "2008",
           "value": {
             "label": "Ravindra Jadeja was selected by the Rajasthan Royals in 2008, and played an important role during their tournament victory.",
@@ -168,7 +168,7 @@
                 "url": "/read/en/rajasthan_royals",
                 "contentUrl": "/static/content/en/rajasthan_royals.json",
                 "label": "Rajasthan Royals",
-                "id": "phase_fact_fact_rajasthan_royals",
+                "id": "ravindra_jadeja_phase_6_fact",
                 "value": {
                   "label": "The Rajasthan Royals (often abbreviated as RR) are a franchise cricket team based in Jaipur, Rajasthan, that plays in the Indian Premier League.",
                   "image": {
@@ -188,7 +188,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "ravindra_jadeja_achievement_0",
           "value": {
             "label": "In 2017, Jadeja became the first Indian left-arm spinner to take 150 One Day International wickets",
             "image": {
@@ -199,7 +199,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "ravindra_jadeja_achievement_1",
           "value": {
             "label": "In 2012, Jadeja became the eighth player in history, and the first Indian player, to score three first-class triple centuries in his career.",
             "image": {
@@ -210,7 +210,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "ravindra_jadeja_achievement_2",
           "value": {
             "label": "In the historic 4–0 Test series win by India against Australia in 2013, Jadeja took 24 wickets.",
             "image": {
@@ -221,7 +221,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "ravindra_jadeja_achievement_3",
           "value": {
             "label": "Jadeja was ranked as the No.1 bowler in ODI Cricket by the ICC in August 2013",
             "image": {
@@ -232,7 +232,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "ravindra_jadeja_achievement_4",
           "value": {
             "label": "In 2019, during the second ODI against Australia, Jadeja became the third cricketer for India to score 2,000 runs and take 150 wickets in ODIs",
             "image": {
@@ -249,13 +249,13 @@
       "facts": [
         {
           "label": "India National Cricket team (2009 - present)",
-          "id": "team_fact_india_national_cricket_team_2009 - present",
+          "id": "ravindra_jadeja_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "team_fact_fact_india_national_cricket_team",
+                "id": "ravindra_jadeja_team_fact_0_fact",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -271,13 +271,13 @@
         },
         {
           "label": "Chennai Super Kings (2018 - present)",
-          "id": "team_fact_chennai_super_kings_2018 - present",
+          "id": "ravindra_jadeja_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Chennai Super Kings",
-                "id": "team_fact_fact_chennai_super_kings",
+                "id": "ravindra_jadeja_team_fact_1_fact",
                 "url": "/read/en/chennai_super_kings",
                 "contentUrl": "/static/content/en/chennai_super_kings.json",
                 "value": {
@@ -293,7 +293,7 @@
         },
         {
           "label": "Saurashtra (2006 - present)",
-          "id": "team_fact_saurashtra_2006 - present",
+          "id": "ravindra_jadeja_team_fact_2",
           "value": {
             "label": "Saurashtra cricket team is a domestic India first-class team based in Gujarat. Their home ground is Rajkot."
           }
@@ -307,7 +307,7 @@
         {
           "label": "Madhavrao Scindia Award",
           "tag": "2009",
-          "id": "award-0",
+          "id": "ravindra_jadeja_award_0",
           "value": {
             "label": "Madhavrao Scindia Award is given by the BCCI for outstanding performances in Ranji Trophy",
             "image": {
@@ -319,7 +319,7 @@
         {
           "label": "ICC World ODI XI",
           "tag": "2013",
-          "id": "award-1",
+          "id": "ravindra_jadeja_award_1",
           "value": {
             "label": "ICC ODI Team of the Year is a yearly honour recognizing top players from around the world in the ODI format of the game",
             "image": {

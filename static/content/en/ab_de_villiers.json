@@ -87,7 +87,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "style_of_play",
+      "id": "ab_de_villiers_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -109,7 +109,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "phase_first_class_debut",
+          "id": "ab_de_villiers_phase_0",
           "note": "2004",
           "value": {
             "label": "De Villiers made his first class debut for the South African domestic team Northerns"
@@ -117,7 +117,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "ab_de_villiers_phase_1",
           "note": "2004",
           "value": {
             "label": "AB de Villiers made his international debut in a Test match against England",
@@ -126,7 +126,7 @@
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "label": "England cricket team",
-                "id": "phase_fact_fact_england_cricket_team",
+                "id": "ab_de_villiers_phase_1_fact",
                 "value": {
                   "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877.",
                   "image": {
@@ -140,7 +140,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "ab_de_villiers_phase_2",
           "note": "2007",
           "value": {
             "label": "De Villiers' batting during the World Cup was inconsistent as he also failed to score on 4 occasions"
@@ -148,7 +148,7 @@
         },
         {
           "label": "Double centuries",
-          "id": "phase_double_centuries",
+          "id": "ab_de_villiers_phase_3",
           "note": "2011",
           "value": {
             "label": "De Villiers became the first South African to score two centuries in a single World Cup.",
@@ -157,7 +157,7 @@
                 "url": "/read/en/2011_cricket_world_cup",
                 "contentUrl": "/static/content/en/2011_cricket_world_cup.json",
                 "label": "2011 Cricket World Cup",
-                "id": "phase_fact_fact_2011_cricket_world_cup",
+                "id": "ab_de_villiers_phase_3_fact",
                 "value": {
                   "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh.",
                   "image": {
@@ -171,7 +171,7 @@
         },
         {
           "label": "2015 Cricket World cup",
-          "id": "phase_2015_cricket_world_cup",
+          "id": "ab_de_villiers_phase_4",
           "note": "2015",
           "value": {
             "label": "Under the captaincy of de Villiers, South Africa qualified for the semi-finals of the World Cup but lost to New Zealand.",
@@ -180,7 +180,7 @@
                 "url": "/read/en/2015_cricket_world_cup",
                 "contentUrl": "/static/content/en/2015_cricket_world_cup.json",
                 "label": "2015 Cricket World Cup",
-                "id": "phase_fact_fact_2015_cricket_world_cup",
+                "id": "ab_de_villiers_phase_4_fact",
                 "value": {
                   "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand.",
                   "image": {
@@ -194,7 +194,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "phase_ipl_debut",
+          "id": "ab_de_villiers_phase_6",
           "note": "2008",
           "value": {
             "label": "De Villiers played for the Delhi Daredevils in the first 3 seasons of IPL",
@@ -203,7 +203,7 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-                "id": "phase_fact_fact_delhi_capitals",
+                "id": "ab_de_villiers_phase_6_fact",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
@@ -223,7 +223,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "ab_de_villiers_achievement_0",
           "value": {
             "label": "De Villiers became the second-youngest and second-fastest South African to reach 1,000 test runs",
             "image": {
@@ -234,7 +234,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "ab_de_villiers_achievement_1",
           "value": {
             "label": "In 2008 de Villiers became the first South African to score a double century",
             "image": {
@@ -245,7 +245,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "ab_de_villiers_achievement_2",
           "value": {
             "label": "In 2011 de Villiers became the first South African to score two centuries in a single World Cup",
             "image": {
@@ -257,7 +257,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "ab_de_villiers_achievement_3",
           "value": {
             "label": "In 2015, playing against West Indies, de Villiers scored the fastest century by a batsman in One Day International cricket, off 31 balls",
             "image": {
@@ -268,7 +268,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "ab_de_villiers_achievement_4",
           "value": {
             "label": "In 2015, de Villiers held the record holder for the fastest 50, 100 and 150 in One-Day International history",
             "image": {
@@ -285,13 +285,13 @@
       "facts": [
         {
           "label": "South Africa National Cricket team (2004-2018)",
-          "id": "team_fact_south_africa_national_cricket_team_2004-2018",
+          "id": "ab_de_villiers_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "South Africa national cricket team",
-                "id": "team_fact_fact_south_africa_national_cricket_team",
+                "id": "ab_de_villiers_team_fact_0_fact",
                 "url": "/read/en/south_africa_national_cricket_team",
                 "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
                 "value": {
@@ -307,13 +307,13 @@
         },
         {
           "label": "Royal Challengers Bangalore (2011 - present)",
-          "id": "team_fact_royal_challengers_bangalore_2011 - present",
+          "id": "ab_de_villiers_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Royal Challengers Bangalore",
-                "id": "team_fact_fact_royal_challengers_bangalore",
+                "id": "ab_de_villiers_team_fact_1_fact",
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "value": {
@@ -329,7 +329,7 @@
         },
         {
           "label": "Northerns (2003 - 2004)",
-          "id": "team_fact_northerns_2003 - 2004",
+          "id": "ab_de_villiers_team_fact_2",
           "value": {
             "label": "Northerns is a first-class cricket team in South Africa and represents area nother of Johannesburg, and includes Pretoria"
           }
@@ -343,7 +343,7 @@
         {
           "label": "ICC ODI player of the year",
           "tag": "2010",
-          "id": "award-0",
+          "id": "ab_de_villiers_award_0",
           "value": {
             "label": "A cricket trophy awarded annually by the International Cricket Council (ICC) to its chosen world player of the year",
             "image": {
@@ -355,7 +355,7 @@
         {
           "label": "ICC ODI player of the year",
           "tag": "2014",
-          "id": "award-1",
+          "id": "ab_de_villiers_award_1",
           "value": {
             "label": "A cricket trophy awarded annually by the International Cricket Council (ICC) to its chosen world player of the year",
             "image": {
@@ -367,7 +367,7 @@
         {
           "label": "ICC ODI player of the year",
           "tag": "2015",
-          "id": "award-2",
+          "id": "ab_de_villiers_award_2",
           "value": {
             "label": "A cricket trophy awarded annually by the International Cricket Council (ICC) to its chosen world player of the year",
             "image": {

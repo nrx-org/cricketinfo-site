@@ -87,7 +87,7 @@
     },
     {
       "title": "விளையாட்டின் பாணி",
-      "id": "style_of_play",
+      "id": "ab_de_villiers_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -109,7 +109,7 @@
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "phase_முதல்_வகுப்பு",
+          "id": "ab_de_villiers_phase_0",
           "note": "2004",
           "value": {
             "label": "டி வில்லியர்ஸ் தென் ஆப்பிரிக்க உள்நாட்டு அணியான நார்தர்ன்ஸிற்காக முதல் தர ஆட்டத்தில் முதல்முறையாக விளையாடினார்."
@@ -117,7 +117,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "ab_de_villiers_phase_1",
           "note": "2004",
           "value": {
             "label": "ஏபி டி வில்லியர்ஸ் இங்கிலாந்திற்கு எதிரான டெஸ்ட் போட்டியில் முதல்முறையாக சர்வதேச ஆட்டத்தில் விளையாடினார்.",
@@ -126,7 +126,7 @@
                 "url": "/read/ta/england_cricket_team",
                 "contentUrl": "/static/content/ta/england_cricket_team.json",
                 "label": "இங்கிலாந்து கிரிக்கெட் அணி",
-                "id": "phase_fact_fact_இங்கிலாந்து_கிரிக்கெட்_அணி",
+                "id": "ab_de_villiers_phase_1_fact",
                 "value": {
                   "label": "இங்கிலாந்து கிரிக்கெட் அணி சர்வதேச கிரிக்கெட் போட்டியில் இங்கிலாந்து மற்றும் வேல்ஸை முன்னிறுத்தி விளையாடுகிறது. இங்கிலாந்து மற்றும் ஆஸ்திரேலியா 1877ஆம் ஆண்டில் டெஸ்ட் போட்டி விளையாடிய முதல் அணிகள் ஆகும்",
                   "image": {
@@ -140,7 +140,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "ab_de_villiers_phase_2",
           "note": "2007",
           "value": {
             "label": "உலக கோப்பையின்போது டி வில்லிர்ஸின் மட்டைவீச்சு தடுமாற்றத்துடன் அமைந்தது, நான்கு முறை அவர் ஓட்டங்கள் எடுக்கத் தவறினார்"
@@ -148,7 +148,7 @@
         },
         {
           "label": "Double centuries",
-          "id": "phase_double_centuries",
+          "id": "ab_de_villiers_phase_3",
           "note": "2011",
           "value": {
             "label": "ஒரே உலக கோப்பையில் இரண்டு சதங்கள் அடித்த முதல் தென் ஆப்பிரிக்கர் டி வில்லியர்ஸ் ஆவார்.",
@@ -157,7 +157,7 @@
                 "url": "/read/ta/2011_cricket_world_cup",
                 "contentUrl": "/static/content/ta/2011_cricket_world_cup.json",
                 "label": "2011 கிரிக்கெட் உலகக் கோப்பை",
-                "id": "phase_fact_fact_2011_கிரிக்கெட்_உலகக்_கோப்பை",
+                "id": "ab_de_villiers_phase_3_fact",
                 "value": {
                   "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh",
                   "image": {
@@ -171,7 +171,7 @@
         },
         {
           "label": "2015 Cricket World cup",
-          "id": "phase_2015_cricket_world_cup",
+          "id": "ab_de_villiers_phase_4",
           "note": "2015",
           "value": {
             "label": "டி வில்லிர்ஸின் தலைமையில் தென் ஆப்பிரிக்கா உலக கோப்பையின் அரையிறுதிக்கு தகுதிபெற்றது, ஆனால் நியூஸிலாந்திடம் தோற்றுப்போனது.",
@@ -180,7 +180,7 @@
                 "url": "/read/ta/2015_cricket_world_cup",
                 "contentUrl": "/static/content/ta/2015_cricket_world_cup.json",
                 "label": "2015 கிரிக்கெட் உலகக் கோப்பை",
-                "id": "phase_fact_fact_2015_கிரிக்கெட்_உலகக்_கோப்பை",
+                "id": "ab_de_villiers_phase_4_fact",
                 "value": {
                   "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand",
                   "image": {
@@ -194,7 +194,7 @@
         },
         {
           "label": "ஐ.பி.எல்",
-          "id": "phase_ஐ.பி.எல்",
+          "id": "ab_de_villiers_phase_6",
           "note": "2008",
           "value": {
             "label": "ஐபிஎல்லின் முதல் 3 சீஸன்களில் டி வில்லியர்ஸ் டெல்லி டேர்டெவில்ஸ் அணிக்காக விளையாடினார்",
@@ -203,7 +203,7 @@
                 "url": "/read/ta/delhi_capitals",
                 "contentUrl": "/static/content/ta/delhi_capitals.json",
                 "label": "டெல்லி கேபிடல்ஸ்",
-                "id": "phase_fact_fact_டெல்லி_கேபிடல்ஸ்",
+                "id": "ab_de_villiers_phase_6_fact",
                 "value": {
                   "label": "டெல்லி கேபிட்டல்ஸ் ஐபிஎல் லீக்கில் (ஐபிஎல்) டெல்லி நகரை பிரதிநிதித்துவப்படுத்தும் ஒரு உரிமம் பெற்ற கிரிக்கெட் அணியாகும்.",
                   "image": {
@@ -223,7 +223,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "ab_de_villiers_achievement_0",
           "value": {
             "label": "2011-இல் டி வில்லியர்ஸ் ஒரே உலக கோப்பையில் இரண்டு சதங்கள் அடித்த முதலாவது தென் ஆப்பிரிக்கர் ஆனார்.",
             "image": {
@@ -234,7 +234,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "ab_de_villiers_achievement_1",
           "value": {
             "label": "2013-இல் ஒரே ஆட்டத்தில் 11 பேரை ஆட்டமிழக்கச் செய்தவர் என்ற ஜாக் ரஸ்ஸலின் சாதனையை சமன் செய்தார்.",
             "image": {
@@ -245,7 +245,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "ab_de_villiers_achievement_2",
           "value": {
             "label": "2013-இல் டி வில்லியர்ஸ் மற்றும் ஹஸிம் ஆம்லா ஆகிய இருவரும் சேர்ந்து 238 ஓட்டங்கள் எடுத்தபோது ஒருநாள் சர்வதேச போட்டியில் மூன்றாவது விக்கெட் இணை எடுத்த அதிகபட்ச ஓட்டங்கள் என்ற சாதனையை பகிர்ந்துகொண்டனர்.",
             "image": {
@@ -257,7 +257,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "ab_de_villiers_achievement_3",
           "value": {
             "label": "2015-இல் மேற்கிந்திய தீவுகள் அணிக்கு எதிராக விளையாடியபோது, டி வில்லியர்ஸ் 31 பந்துகளில் சதமடித்தார், இது ஒருநாள் சர்வதேச போட்டிகளில் ஒரு மட்டைவீச்சாளர் எடுத்த மிக வேகமான சதமாகும்.",
             "image": {
@@ -268,7 +268,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "ab_de_villiers_achievement_4",
           "value": {
             "label": "2015-இல், ஒருநாள் சர்வதேச போட்டிகளில் 50, 100 மற்றும் 150 ஓட்டங்களை மிக வேகமாக எட்டியவர் என்ற சாதனையை டிவில்லியர்ஸ் வைத்திருந்தார்.",
             "image": {
@@ -285,13 +285,13 @@
       "facts": [
         {
           "label": "தென் ஆப்பிரிக்க தேசிய அணி (2004-2018)",
-          "id": "team_fact_தென்_ஆப்பிரிக்க_தேசிய_அணி_2004-2018",
+          "id": "ab_de_villiers_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "தென்னாப்பிரிக்கா தேசியக் கிரிக்கெட் அணி",
-                "id": "team_fact_fact_தென்னாப்பிரிக்கா_தேசியக்_கிரிக்கெட்_அணி",
+                "id": "ab_de_villiers_team_fact_0_fact",
                 "url": "/read/ta/south_africa_national_cricket_team",
                 "contentUrl": "/static/content/ta/south_africa_national_cricket_team.json",
                 "value": {
@@ -307,13 +307,13 @@
         },
         {
           "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர் (2011 - தற்போதுவரை)",
-          "id": "team_fact_ராயல்_சேலஞ்சர்ஸ்_பெங்களூர்_2011 - தற்போதுவரை",
+          "id": "ab_de_villiers_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "ராயல் சேலஞ்சர்ஸ் பெங்களூர்",
-                "id": "team_fact_fact_ராயல்_சேலஞ்சர்ஸ்_பெங்களூர்",
+                "id": "ab_de_villiers_team_fact_1_fact",
                 "url": "/read/ta/royal_challengers_bangalore",
                 "contentUrl": "/static/content/ta/royal_challengers_bangalore.json",
                 "value": {
@@ -329,7 +329,7 @@
         },
         {
           "label": "நார்தர்ன்ஸ் (2003-2004)",
-          "id": "team_fact_நார்தர்ன்ஸ்_2003-2004",
+          "id": "ab_de_villiers_team_fact_2",
           "value": {
             "label": "நார்தர்ன்ஸ் என்பது தென் ஆப்பிரிக்காவில் உள்ள ஒரு முதல்-தர கிரிக்கெட் அணி என்பதுடன் இது பிரிட்டோரியா உள்ளிட்ட வடக்கு ஜோஹன்னஸ்பெர்க் பகுதியை பிரதிநிதித்துவம் செய்கிறது."
           }
@@ -343,7 +343,7 @@
         {
           "label": "ஐசிசி ஓடிஐ பிளேயர் ஆஃப் தி இயர்",
           "tag": "2010",
-          "id": "award-0",
+          "id": "ab_de_villiers_award_0",
           "value": {
             "label": "இந்த கிரிக்கெட் டிராஃபி, அந்த ஆண்டில்   இண்டர்நேஷனல் கிரிக்கெட் கவுன்சிலால் (ஐசிசி) தேர்ந்தெடுக்கப்பட்ட சிறந்த உலக வீரருக்கு ஆண்டுதோறும் வழங்குவதாகும்.",
             "image": {
@@ -355,7 +355,7 @@
         {
           "label": "ஐசிசி ஓடிஐ பிளேயர் ஆஃப் தி இயர்",
           "tag": "2014",
-          "id": "award-1",
+          "id": "ab_de_villiers_award_1",
           "value": {
             "label": "இந்த கிரிக்கெட் டிராஃபி, அந்த ஆண்டில்   இண்டர்நேஷனல் கிரிக்கெட் கவுன்சிலால் (ஐசிசி) தேர்ந்தெடுக்கப்பட்ட சிறந்த உலக வீரருக்கு ஆண்டுதோறும் வழங்குவதாகும்.",
             "image": {
@@ -367,7 +367,7 @@
         {
           "label": "ஐசிசி ஓடிஐ பிளேயர் ஆஃப் தி இயர்",
           "tag": "2015",
-          "id": "award-2",
+          "id": "ab_de_villiers_award_2",
           "value": {
             "label": "இந்த கிரிக்கெட் டிராஃபி, அந்த ஆண்டில்   இண்டர்நேஷனல் கிரிக்கெட் கவுன்சிலால் (ஐசிசி) தேர்ந்தெடுக்கப்பட்ட சிறந்த உலக வீரருக்கு ஆண்டுதோறும் வழங்குவதாகும்.",
             "image": {

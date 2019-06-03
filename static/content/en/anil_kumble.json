@@ -87,7 +87,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "style_of_play",
+      "id": "anil_kumble_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -108,7 +108,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "phase_first_class_debut",
+          "id": "anil_kumble_phase_0",
           "note": "1989",
           "value": {
             "label": "Kumble made his first-class debut for Karnataka against Hyderabad on 30 November 1989, taking 4 wickets.",
@@ -117,7 +117,7 @@
                 "url": "/read/en/ranji_trophy",
                 "contentUrl": "/static/content/en/ranji_trophy.json",
                 "label": "Ranji Trophy",
-                "id": "phase_fact_fact_ranji_trophy",
+                "id": "anil_kumble_phase_0_fact",
                 "value": {
                   "label": "The Ranji Trophy is a domestic first-class cricket championship played in India between teams representing regional and state cricket associations.",
                   "image": {
@@ -131,7 +131,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "anil_kumble_phase_1",
           "note": "1990",
           "value": {
             "label": "Kumble made his One Day International debut against Sri Lanka at Sharjah in the Austral-Asia Cup in 1990.",
@@ -140,7 +140,7 @@
                 "url": "/read/en/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/en/sri_lanka_national_cricket_team.json",
                 "label": "Sri Lanka national cricket team",
-                "id": "phase_fact_fact_sri_lanka_national_cricket_team",
+                "id": "anil_kumble_phase_1_fact",
                 "value": {
                   "label": "The Sri Lanka national cricket team, nicknamed The Lions, represents Sri Lanka in international cricket. It is a full member of the International Cricket Council (ICC) with Test, One-Day International (ODI) and T20 International (T20I) status.",
                   "image": {
@@ -154,7 +154,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "anil_kumble_phase_2",
           "note": "1996",
           "value": {
             "label": "Kumble was selected in the Indian side for the 1996 World Cup and was the leading wicket-taker in the tournament.",
@@ -163,7 +163,7 @@
                 "url": "/read/en/1996_cricket_world_cup",
                 "contentUrl": "/static/content/en/1996_cricket_world_cup.json",
                 "label": "1996 Cricket World Cup",
-                "id": "phase_fact_fact_1996_cricket_world_cup",
+                "id": "anil_kumble_phase_2_fact",
                 "value": {
                   "label": "The 1996 Cricket World Cup, also called the Wills World Cup 1996 after its official sponsors, ITC's Wills brand, was the sixth Cricket World Cup. It was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka.",
                   "image": {
@@ -177,7 +177,7 @@
         },
         {
           "label": "Retirement",
-          "id": "phase_retirement",
+          "id": "anil_kumble_phase_3",
           "note": "2007",
           "value": {
             "label": "After the 2007 World Cup, he announced his retirement from ODIs"
@@ -185,7 +185,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "phase_ipl_debut",
+          "id": "anil_kumble_phase_6",
           "note": "2008",
           "value": {
             "label": "Kumble agreed to honour his contract with the Royal Challengers Bangalore (RCB) after retirement and played for 3 years.",
@@ -194,7 +194,7 @@
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "label": "Royal Challengers Bangalore",
-                "id": "phase_fact_fact_royal_challengers_bangalore",
+                "id": "anil_kumble_phase_6_fact",
                 "value": {
                   "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL).",
                   "image": {
@@ -214,7 +214,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "anil_kumble_achievement_0",
           "value": {
             "label": "Kumble is the second player to have taken all 10 wickets in a single innings of a test match.",
             "image": {
@@ -225,7 +225,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "anil_kumble_achievement_1",
           "value": {
             "label": "Kumble holds the record for the most wickets in a calendar year by an Indian in ODIs with 61 wickets in 1996",
             "image": {
@@ -236,7 +236,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "anil_kumble_achievement_2",
           "value": {
             "label": "Kumble holds the record of bowling 40850 balls in entire Test career, highest for an Indian.",
             "image": {
@@ -247,7 +247,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "anil_kumble_achievement_3",
           "value": {
             "label": "Kumble took his first 50 Test wickets in 10 matches",
             "image": {
@@ -258,7 +258,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "anil_kumble_achievement_4",
           "value": {
             "label": "In 1993, he took six wickets for 12 runs in an ODI against the West Indies which was an Indian record for very long time.",
             "image": {
@@ -275,13 +275,13 @@
       "facts": [
         {
           "label": "India National Cricket team (1990-2008)",
-          "id": "team_fact_india_national_cricket_team_1990-2008",
+          "id": "anil_kumble_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "team_fact_fact_india_national_cricket_team",
+                "id": "anil_kumble_team_fact_0_fact",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -297,13 +297,13 @@
         },
         {
           "label": "Royal Challengers Bangalore (2008 - 2010)",
-          "id": "team_fact_royal_challengers_bangalore_2008 - 2010",
+          "id": "anil_kumble_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Royal Challengers Bangalore",
-                "id": "team_fact_fact_royal_challengers_bangalore",
+                "id": "anil_kumble_team_fact_1_fact",
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "value": {
@@ -319,7 +319,7 @@
         },
         {
           "label": "Karnataka (1989 - 2009)",
-          "id": "team_fact_karnataka_1989 - 2009",
+          "id": "anil_kumble_team_fact_2",
           "value": {
             "label": "Domestic Ranji trophy cricket team based in the state of Karnataka"
           }
@@ -333,7 +333,7 @@
         {
           "label": "Arjuna Award",
           "tag": "1995",
-          "id": "award-0",
+          "id": "anil_kumble_award_0",
           "value": {
             "label": "Arjuna Awards are given by the Government for outstanding achievement in sports",
             "image": {
@@ -345,7 +345,7 @@
         {
           "label": "Padma Shri",
           "tag": "2005",
-          "id": "award-1",
+          "id": "anil_kumble_award_1",
           "value": {
             "label": "Padma Shri is the fourth highest civilian award in the Republic of India",
             "image": {
@@ -357,7 +357,7 @@
         {
           "label": "ICC Cricket Hall of Fame",
           "tag": "2015",
-          "id": "award-2",
+          "id": "anil_kumble_award_2",
           "value": {
             "label": "The ICC Cricket Hall of Fame recognises the achievements of the cricketing legends.",
             "image": {

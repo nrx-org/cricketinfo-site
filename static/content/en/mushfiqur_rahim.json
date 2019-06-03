@@ -82,7 +82,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "style_of_play",
+      "id": "mushfiqur_rahim_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -104,7 +104,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "phase_first_class_debut",
+          "id": "mushfiqur_rahim_phase_0",
           "note": "",
           "value": {
             "label": ""
@@ -112,7 +112,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "mushfiqur_rahim_phase_1",
           "note": "",
           "value": {
             "label": "Rahim was selected for Bangladesh's tour of England in 2005. It was Bangladesh's first tour of England.",
@@ -121,7 +121,7 @@
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "label": "England cricket team",
-                "id": "phase_fact_fact_england_cricket_team",
+                "id": "mushfiqur_rahim_phase_1_fact",
                 "value": {
                   "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877.",
                   "image": {
@@ -135,7 +135,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "mushfiqur_rahim_phase_2",
           "note": "2007",
           "value": {
             "label": "His good performances led him to picked as the first-choice wicket-keeper ahead of Khaled Mashud for the World Cup in the West Indies.",
@@ -144,7 +144,7 @@
                 "url": "/read/en/2007_cricket_world_cup",
                 "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
                 "label": "2007 Cricket World Cup",
-                "id": "phase_fact_fact_2007_cricket_world_cup",
+                "id": "mushfiqur_rahim_phase_2_fact",
                 "value": {
                   "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
                   "image": {
@@ -158,7 +158,7 @@
         },
         {
           "label": "2011 World Cup",
-          "id": "phase_2011_world_cup",
+          "id": "mushfiqur_rahim_phase_3",
           "note": "2011",
           "value": {
             "label": "Rahim was included in Bangladesh's 15-man squad for the 2011 World Cup. Bangladesh were knocked out in the group stage and Rahim had a poor tournament personally.",
@@ -167,7 +167,7 @@
                 "url": "/read/en/2011_cricket_world_cup",
                 "contentUrl": "/static/content/en/2011_cricket_world_cup.json",
                 "label": "2011 Cricket World Cup",
-                "id": "phase_fact_fact_2011_cricket_world_cup",
+                "id": "mushfiqur_rahim_phase_3_fact",
                 "value": {
                   "label": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh.",
                   "image": {
@@ -181,7 +181,7 @@
         },
         {
           "label": "2019 World Cup",
-          "id": "phase_2019_world_cup",
+          "id": "mushfiqur_rahim_phase_4",
           "note": "2019",
           "value": {
             "label": "In April 2019, he was named in Bangladesh's squad for the 2019 Cricket World Cup.",
@@ -190,7 +190,7 @@
                 "url": "/read/en/icc_cricket_world_cup",
                 "contentUrl": "/static/content/en/icc_cricket_world_cup.json",
                 "label": "ICC Cricket World Cup",
-                "id": "phase_fact_fact_icc_cricket_world_cup",
+                "id": "mushfiqur_rahim_phase_4_fact",
                 "value": {
                   "label": "The ICC Cricket World Cup is the international championship of One Day International cricket. The event is organised by the sport's governing body, the International Cricket Council, every four years, with preliminary qualification rounds leading up to a finals tournament.",
                   "image": {
@@ -204,7 +204,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "phase_ipl_debut",
+          "id": "mushfiqur_rahim_phase_6",
           "note": "",
           "value": {
             "label": ""
@@ -218,7 +218,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "mushfiqur_rahim_achievement_0",
           "value": {
             "label": "",
             "image": {
@@ -229,7 +229,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "mushfiqur_rahim_achievement_1",
           "value": {
             "label": "",
             "image": {
@@ -240,7 +240,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "mushfiqur_rahim_achievement_2",
           "value": {
             "label": "",
             "image": {
@@ -251,7 +251,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "mushfiqur_rahim_achievement_3",
           "value": {
             "label": "",
             "image": {
@@ -262,7 +262,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "mushfiqur_rahim_achievement_4",
           "value": {
             "label": "",
             "image": {
@@ -279,13 +279,13 @@
       "facts": [
         {
           "label": "Bangladesh National Cricket team (2004- present)",
-          "id": "team_fact_bangladesh_national_cricket_team_2004- present",
+          "id": "mushfiqur_rahim_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Bangladesh national cricket team",
-                "id": "team_fact_fact_bangladesh_national_cricket_team",
+                "id": "mushfiqur_rahim_team_fact_0_fact",
                 "url": "/read/en/bangladesh_national_cricket_team",
                 "contentUrl": "/static/content/en/bangladesh_national_cricket_team.json",
                 "value": {

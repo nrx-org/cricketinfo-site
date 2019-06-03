@@ -87,7 +87,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "style_of_play",
+      "id": "sachin_tendulkar_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -108,7 +108,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "phase_first_class_debut",
+          "id": "sachin_tendulkar_phase_0",
           "note": "1988",
           "value": {
             "label": "In 1988, aged 15 years and 232 days, Tendulkar made his first class debut for Bombay against Gujarat and scored 100 not out in that match.",
@@ -117,7 +117,7 @@
                 "url": "/read/en/ranji_trophy",
                 "contentUrl": "/static/content/en/ranji_trophy.json",
                 "label": "Ranji Trophy",
-                "id": "phase_fact_fact_ranji_trophy",
+                "id": "sachin_tendulkar_phase_0_fact",
                 "value": {
                   "label": "The Ranji Trophy is a domestic first-class cricket championship played in India between teams representing regional and state cricket associations.",
                   "image": {
@@ -131,7 +131,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "sachin_tendulkar_phase_1",
           "note": "1989",
           "value": {
             "label": "Tendulkar made his Test debut against Pakistan in Karachi in November 1989 aged 16 years.",
@@ -140,7 +140,7 @@
                 "url": "/read/en/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
                 "label": "Pakistan national cricket team",
-                "id": "phase_fact_fact_pakistan_national_cricket_team",
+                "id": "sachin_tendulkar_phase_1_fact",
                 "value": {
                   "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
                   "image": {
@@ -154,7 +154,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "sachin_tendulkar_phase_2",
           "note": "1992",
           "value": {
             "label": "Tendulkar was part of the Indian squad for the 1992 Cricket World Cup.",
@@ -163,7 +163,7 @@
                 "url": "/read/en/1992_cricket_world_cup",
                 "contentUrl": "/static/content/en/1992_cricket_world_cup.json",
                 "label": "1992 Cricket World Cup",
-                "id": "phase_fact_fact_1992_cricket_world_cup",
+                "id": "sachin_tendulkar_phase_2_fact",
                 "value": {
                   "label": "The 1992 Cricket World Cup (officially the Benson & Hedges World Cup 1992) was the fifth staging of the Cricket World Cup, organised by the International Cricket Council (ICC). It was held in Australia and New Zealand from 22 February to 25 March 1992 and finished with Pakistan beating England in the final to become the World Cup champions for the first time.",
                   "image": {
@@ -177,7 +177,7 @@
         },
         {
           "label": "Rise through the ranks",
-          "id": "phase_rise_through_the_ranks",
+          "id": "sachin_tendulkar_phase_3",
           "note": "1996",
           "value": {
             "label": "Tendulkar was the leading run scorer at the 1996 World Cup, with a total of 523 runs.",
@@ -186,7 +186,7 @@
                 "url": "/read/en/1996_cricket_world_cup",
                 "contentUrl": "/static/content/en/1996_cricket_world_cup.json",
                 "label": "1996 Cricket World Cup",
-                "id": "phase_fact_fact_1996_cricket_world_cup",
+                "id": "sachin_tendulkar_phase_3_fact",
                 "value": {
                   "label": "The 1996 Cricket World Cup, also called the Wills World Cup 1996 after its official sponsors, ITC's Wills brand, was the sixth Cricket World Cup. It was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka.",
                   "image": {
@@ -200,7 +200,7 @@
         },
         {
           "label": "1999 World Cup",
-          "id": "phase_1999_world_cup",
+          "id": "sachin_tendulkar_phase_4",
           "note": "1999",
           "value": {
             "label": "Sachin's father died in the middle of the 1999 Cricket World Cup. HE flew back to India to attend the final rituals of his father, missing the match against Zimbabwe. However, he returned to the World Cup scoring a century (140 not out off 101 balls) in his very next match against Kenya in Bristol",
@@ -209,7 +209,7 @@
                 "url": "/read/en/1999_cricket_world_cup",
                 "contentUrl": "/static/content/en/1999_cricket_world_cup.json",
                 "label": "1999 Cricket World Cup",
-                "id": "phase_fact_fact_1999_cricket_world_cup",
+                "id": "sachin_tendulkar_phase_4_fact",
                 "value": {
                   "label": "The 1999 Cricket World Cup was the seventh edition of the Cricket World Cup, organised by the International Cricket Council (ICC). It was hosted primarily by England, with some games being played in Scotland, Ireland, Wales and the Netherlands.",
                   "image": {
@@ -223,7 +223,7 @@
         },
         {
           "label": "2003 Cricket World Cup",
-          "id": "phase_2003_cricket_world_cup",
+          "id": "sachin_tendulkar_phase_5",
           "note": "2003",
           "value": {
             "label": "Tendulkar made 673 runs in 11 matches in the 2003 Cricket World Cup",
@@ -232,7 +232,7 @@
                 "url": "/read/en/2003_cricket_world_cup",
                 "contentUrl": "/static/content/en/2003_cricket_world_cup.json",
                 "label": "2003 Cricket World Cup",
-                "id": "phase_fact_fact_2003_cricket_world_cup",
+                "id": "sachin_tendulkar_phase_5_fact",
                 "value": {
                   "label": "The 2003 Cricket World Cup was the eighth Cricket World Cup, organized by the International Cricket Council (ICC). It was co-hosted by South Africa, Zimbabwe and Kenya.",
                   "image": {
@@ -246,7 +246,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "phase_ipl_debut",
+          "id": "sachin_tendulkar_phase_6",
           "note": "2008",
           "value": {
             "label": "Tendulkar was made the icon player and captain for his home side, the Mumbai Indians in the inaugural Indian Premier League in 2008.",
@@ -255,7 +255,7 @@
                 "url": "/read/en/mumbai_indians",
                 "contentUrl": "/static/content/en/mumbai_indians.json",
                 "label": "Mumbai Indians",
-                "id": "phase_fact_fact_mumbai_indians",
+                "id": "sachin_tendulkar_phase_6_fact",
                 "value": {
                   "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
                   "image": {
@@ -275,7 +275,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "sachin_tendulkar_achievement_0",
           "value": {
             "label": "With 664 runs, Sachin Tendulkar held the world record of highest unbroken partnership in any form of cricket with Vinod Kambli",
             "image": {
@@ -286,7 +286,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "sachin_tendulkar_achievement_1",
           "value": {
             "label": "Youngest player to debut for India in both ODI and Test matches",
             "image": {
@@ -297,7 +297,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "sachin_tendulkar_achievement_2",
           "value": {
             "label": "Only player to score a century on debut in all three domestic first-class tournaments - Ranji, Irani, and Duleep Trophies.",
             "image": {
@@ -309,7 +309,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "sachin_tendulkar_achievement_3",
           "value": {
             "label": "First batsman to complete 10,000 ODI runs",
             "image": {
@@ -321,7 +321,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "sachin_tendulkar_achievement_4",
           "value": {
             "label": "At the age of 19, Tendulkar became the first ever overseas-born player to represent Yorkshire.",
             "image": {
@@ -338,13 +338,13 @@
       "facts": [
         {
           "label": "India National Cricket team (1989-2013)",
-          "id": "team_fact_india_national_cricket_team_1989-2013",
+          "id": "sachin_tendulkar_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "team_fact_fact_india_national_cricket_team",
+                "id": "sachin_tendulkar_team_fact_0_fact",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -360,13 +360,13 @@
         },
         {
           "label": "Mumbai Indians (2008 - 2013)",
-          "id": "team_fact_mumbai_indians_2008 - 2013",
+          "id": "sachin_tendulkar_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Mumbai Indians",
-                "id": "team_fact_fact_mumbai_indians",
+                "id": "sachin_tendulkar_team_fact_1_fact",
                 "url": "/read/en/mumbai_indians",
                 "contentUrl": "/static/content/en/mumbai_indians.json",
                 "value": {
@@ -382,7 +382,7 @@
         },
         {
           "label": "Mumbai (1988 - 2013)",
-          "id": "team_fact_mumbai_1988 - 2013",
+          "id": "sachin_tendulkar_team_fact_2",
           "value": {
             "label": "Domestic Ranji trophy cricket team based in Mumbai."
           }
@@ -396,7 +396,7 @@
         {
           "label": "Arjuna Award",
           "tag": "1994",
-          "id": "award-0",
+          "id": "sachin_tendulkar_award_0",
           "value": {
             "label": "Arjuna Awards are given by the Government for outstanding achievement in sports.",
             "image": {
@@ -408,7 +408,7 @@
         {
           "label": "Rajiv Gandhi Khel Ratna",
           "tag": "1997",
-          "id": "award-1",
+          "id": "sachin_tendulkar_award_1",
           "value": {
             "label": "Rajiv Gandhi Khel Ratna Award is the highest sporting honour of the Republic of India.",
             "image": {
@@ -420,7 +420,7 @@
         {
           "label": "Padma Shri",
           "tag": "1999",
-          "id": "award-2",
+          "id": "sachin_tendulkar_award_2",
           "value": {
             "label": "Padma Shri is the fourth highest civilian award in the Republic of India",
             "image": {
@@ -432,7 +432,7 @@
         {
           "label": "Padma Vibhushan",
           "tag": "2008",
-          "id": "award-3",
+          "id": "sachin_tendulkar_award_3",
           "value": {
             "label": "India's second highest civilian award.",
             "image": {
@@ -444,7 +444,7 @@
         {
           "label": "Bharat Ratna",
           "tag": "2014",
-          "id": "award-4",
+          "id": "sachin_tendulkar_award_4",
           "value": {
             "label": "The Bharat Ratna is the highest civilian award of the Republic of India",
             "image": {

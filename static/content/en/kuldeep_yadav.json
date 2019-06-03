@@ -65,7 +65,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "style_of_play",
+      "id": "kuldeep_yadav_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -82,7 +82,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "phase_first_class_debut",
+          "id": "kuldeep_yadav_phase_0",
           "note": "2014",
           "value": {
             "label": "Kuldeep Yadav plays first class Indian domestic cricket for Uttar Pradesh",
@@ -91,7 +91,7 @@
                 "url": "/read/en/ranji_trophy",
                 "contentUrl": "/static/content/en/ranji_trophy.json",
                 "label": "Ranji Trophy",
-                "id": "phase_fact_fact_ranji_trophy",
+                "id": "kuldeep_yadav_phase_0_fact",
                 "value": {
                   "label": "The Ranji Trophy is a domestic first-class cricket championship played in India between teams representing regional and state cricket associations.",
                   "image": {
@@ -105,7 +105,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "kuldeep_yadav_phase_1",
           "note": "2017",
           "value": {
             "label": "Yadav made his Test debut for India against Australia in 2017, at Dharamshala",
@@ -114,7 +114,7 @@
                 "url": "/read/en/australia_national_cricket_team",
                 "contentUrl": "/static/content/en/australia_national_cricket_team.json",
                 "label": "Australia national cricket team",
-                "id": "phase_fact_fact_australia_national_cricket_team",
+                "id": "kuldeep_yadav_phase_1_fact",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
@@ -128,7 +128,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "kuldeep_yadav_phase_2",
           "note": "",
           "value": {
             "label": ""
@@ -136,7 +136,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "phase_ipl_debut",
+          "id": "kuldeep_yadav_phase_6",
           "note": "2012",
           "value": {
             "label": "Yadav was a member of the Mumbai Indians squad in 2012",
@@ -145,7 +145,7 @@
                 "url": "/read/en/mumbai_indians",
                 "contentUrl": "/static/content/en/mumbai_indians.json",
                 "label": "Mumbai Indians",
-                "id": "phase_fact_fact_mumbai_indians",
+                "id": "kuldeep_yadav_phase_6_fact",
                 "value": {
                   "label": "The Mumbai Indians are a franchise cricket team based in the city of Mumbai, Maharashtra. Founded in 2008, Mumbai Indians play in the Indian Premier League (IPL). The team is owned by India's biggest conglomerate, Reliance Industries.",
                   "image": {
@@ -165,7 +165,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "kuldeep_yadav_achievement_0",
           "value": {
             "label": "Yadav is the third bowler for India to score a hat-trick in a One Day International.",
             "image": {
@@ -176,7 +176,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "kuldeep_yadav_achievement_1",
           "value": {
             "label": "Kuldeep Yadav is the first Slow-left-arm chinaman bowler to represent India in Test cricket",
             "image": {
@@ -187,7 +187,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "kuldeep_yadav_achievement_2",
           "value": {
             "label": "Yadav is the first left-arm chinaman bowler to take 5 wickets in a T20I",
             "image": {
@@ -198,7 +198,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "kuldeep_yadav_achievement_3",
           "value": {
             "label": "In 2018 versus England, Yadav registered the best bowling figures by a chinaman bowler in an ODI (6/25)",
             "image": {
@@ -209,7 +209,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "kuldeep_yadav_achievement_4",
           "value": {
             "label": "In 2018 versus West Indies, Yadav he took his first five-wicket haul in Test matches",
             "image": {
@@ -226,13 +226,13 @@
       "facts": [
         {
           "label": "India National Cricket team (2017 - present)",
-          "id": "team_fact_india_national_cricket_team_2017 - present",
+          "id": "kuldeep_yadav_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "team_fact_fact_india_national_cricket_team",
+                "id": "kuldeep_yadav_team_fact_0_fact",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -248,13 +248,13 @@
         },
         {
           "label": "Kolkata Knight Riders (2014 - present)",
-          "id": "team_fact_kolkata_knight_riders_2014 - present",
+          "id": "kuldeep_yadav_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Kolkata Knight Riders",
-                "id": "team_fact_fact_kolkata_knight_riders",
+                "id": "kuldeep_yadav_team_fact_1_fact",
                 "url": "/read/en/kolkata_knight_riders",
                 "contentUrl": "/static/content/en/kolkata_knight_riders.json",
                 "value": {
@@ -270,7 +270,7 @@
         },
         {
           "label": "Uttar Pradesh (2014 - present)",
-          "id": "team_fact_uttar_pradesh_2014 - present",
+          "id": "kuldeep_yadav_team_fact_2",
           "value": {
             "label": "The Uttar Pradesh cricket team, is a domestic team based in the Indian state of Uttar Pradesh with Kanpur as its home ground"
           }

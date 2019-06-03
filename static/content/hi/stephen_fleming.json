@@ -65,7 +65,7 @@
     },
     {
       "title": "खेलने की शैली",
-      "id": "style_of_play",
+      "id": "stephen_fleming_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -86,7 +86,7 @@
       "facts": [
         {
           "label": "प्रथम श्रेणी की शुरुआत",
-          "id": "phase_प्रथम_श्रेणी_की_शुरुआत",
+          "id": "stephen_fleming_phase_0",
           "note": "1991",
           "value": {
             "label": "फ्लेमिंग ने 1991-92 के सीजन में कैंटबरी के लिए अपना पहला प्रथम श्रेणी मैच खेला। "
@@ -94,7 +94,7 @@
         },
         {
           "label": "राष्ट्रीय टीम में प्रथम प्रवेश",
-          "id": "phase_राष्ट्रीय_टीम_में_प्रथम_प्रवेश",
+          "id": "stephen_fleming_phase_1",
           "note": "1994",
           "value": {
             "label": "फ्लेमिंग ने भारत के खिलाफ 1994 में अपना पहला टेस्ट मैच खेला और इस मैच के वे मैन ऑफ द मैच घोषित हूए। ",
@@ -103,7 +103,7 @@
                 "url": "/read/hi/india_national_cricket_team",
                 "contentUrl": "/static/content/hi/india_national_cricket_team.json",
                 "label": "भारत की राष्ट्रीय क्रिकेट टीम",
-                "id": "phase_fact_fact_भारत_की_राष्ट्रीय_क्रिकेट_टीम",
+                "id": "stephen_fleming_phase_1_fact",
                 "value": {
                   "label": "भारत की राष्ट्रीय क्रिकेट टीम को टीम इंडिया और मेन इन ब्लू के नाम से भी जाना जाता है। भारत को टेस्ट में पहला, वनडे में दूसरा और आईसीसी द्वारा टी20 में दूसरा स्थान मिला है। विराट कोहली टीम के वर्तमान कप्तान हैं जबकि मुख्य कोच रवि शास्त्री हैं।",
                   "image": {
@@ -117,7 +117,7 @@
         },
         {
           "label": "आईसीसी टूर्नामेंट में प्रथम प्रवेश",
-          "id": "phase_आईसीसी_टूर्नामेंट_में_प्रथम_प्रवेश",
+          "id": "stephen_fleming_phase_2",
           "note": "",
           "value": {
             "label": ""
@@ -125,7 +125,7 @@
         },
         {
           "label": "1999 विश्व कप",
-          "id": "phase_1999_विश्व_कप",
+          "id": "stephen_fleming_phase_3",
           "note": "1999",
           "value": {
             "label": ""
@@ -133,7 +133,7 @@
         },
         {
           "label": "2003 विश्व कप",
-          "id": "phase_2003_विश्व_कप",
+          "id": "stephen_fleming_phase_4",
           "note": "2003",
           "value": {
             "label": "2003 के क्रिकेट विश्व कप में फ्लेमिंग ने मेजबान दक्षिण अफ्रीका के खिलाफ नाबाद 134 रन बनाए थे जिसकी मदद से न्यूजीलैंड ने दक्षिण अफ्रीका को परास्त किया था। ",
@@ -142,7 +142,7 @@
                 "url": "/read/hi/2003_cricket_world_cup",
                 "contentUrl": "/static/content/hi/2003_cricket_world_cup.json",
                 "label": "2003 क्रिकेट विश्व कप",
-                "id": "phase_fact_fact_2003_क्रिकेट_विश्व_कप",
+                "id": "stephen_fleming_phase_4_fact",
                 "value": {
                   "label": "2003 का क्रिकेट विश्व कप आठवां क्रिकेट विश्व कप था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेजबानी दक्षिण अफ्रीका, जिम्बाब्वे और केन्या ने मिल कर की थी।",
                   "image": {
@@ -156,7 +156,7 @@
         },
         {
           "label": "2007 विश्व कप",
-          "id": "phase_2007_विश्व_कप",
+          "id": "stephen_fleming_phase_5",
           "note": "2007",
           "value": {
             "label": "फ्लेमिंग ने 2007 के विश्व कप में लगातार अच्छा खेल दिखाया और 353 रन बनाए। ",
@@ -165,7 +165,7 @@
                 "url": "/read/hi/2007_cricket_world_cup",
                 "contentUrl": "/static/content/hi/2007_cricket_world_cup.json",
                 "label": "2007 क्रिकेट विश्व कप",
-                "id": "phase_fact_fact_2007_क्रिकेट_विश्व_कप",
+                "id": "stephen_fleming_phase_5_fact",
                 "value": {
                   "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
                   "image": {
@@ -179,7 +179,7 @@
         },
         {
           "label": "आईपीएल में प्रथम प्रवेश",
-          "id": "phase_आईपीएल_में_प्रथम_प्रवेश",
+          "id": "stephen_fleming_phase_6",
           "note": "2008",
           "value": {
             "label": "फ्लेमिंग ने 2008 में चेन्नई सुपर किंग्स के लिए खेला और 10 मैचों में 196 रन बनाए। ",
@@ -188,7 +188,7 @@
                 "url": "/read/hi/chennai_super_kings",
                 "contentUrl": "/static/content/hi/chennai_super_kings.json",
                 "label": "चेन्नई सुपर किंग्स",
-                "id": "phase_fact_fact_चेन्नई_सुपर_किंग्स",
+                "id": "stephen_fleming_phase_6_fact",
                 "value": {
                   "label": "2008 में स्थापित चेन्नई सुपर किंग्स (सीएसके) चेन्नई, तमिलनाडु में स्थित एक भारतीय फ्रेंचाइजी क्रिकेट टीम है, जो इंडियन प्रीमियर लीग (आईपीएल) में खेलती है।",
                   "image": {
@@ -208,7 +208,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "stephen_fleming_achievement_0",
           "value": {
             "label": "1996/97 - 23 वर्ष 321 दिन की आयु में न्यूजीलैंड के सबसे कम उम्र के कप्तान बने ",
             "image": {
@@ -219,7 +219,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "stephen_fleming_achievement_1",
           "value": {
             "label": "2000 - 12 टेस्ट मैचों में जीत हासिल कर फ्लेमिंग न्यूजीलैंड के सबसे सफल कप्तान बने ",
             "image": {
@@ -230,7 +230,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "stephen_fleming_achievement_2",
           "value": {
             "label": "फ्लेमिंग न्यूजीलैंड के किसी खिलाड़ी द्वारा सर्वाधिक ओडीआई (एक दिवसीय अंतर्राष्ट्रीय)  खेलने के रिकॉर्डधारी हैं ",
             "image": {
@@ -241,7 +241,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "stephen_fleming_achievement_3",
           "value": {
             "label": "2006 - फ्लेमिंग ने 194 वीं बार  ओडीआई (एक दिवसीय अंतर्राष्ट्रीय) में अपने देश की कप्तानी की और अर्जुन राणातुंगा के रिकॉर्ड को तोड़ा। .",
             "image": {
@@ -252,7 +252,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "stephen_fleming_achievement_4",
           "value": {
             "label": "फ्लेमिंग न्यूजीलैंड के लिए सर्वाधिक ओडीआई (एक दिवसीय अंतर्राष्ट्रीय) और टेस्ट कप्तानी करने वाले खिलाड़ी हैं। ",
             "image": {
@@ -269,13 +269,13 @@
       "facts": [
         {
           "label": "न्यूजीलैंड  (1994-2008)",
-          "id": "team_fact_न्यूजीलैंड_1994-2008",
+          "id": "stephen_fleming_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "न्यूजीलैंड की राष्ट्रीय क्रिकेट टीम",
-                "id": "team_fact_fact_न्यूजीलैंड_की_राष्ट्रीय_क्रिकेट_टीम",
+                "id": "stephen_fleming_team_fact_0_fact",
                 "url": "/read/hi/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/hi/new_zealand_national_cricket_team.json",
                 "value": {
@@ -291,13 +291,13 @@
         },
         {
           "label": "चेन्नई सुपर किंग्स  (2008)",
-          "id": "team_fact_चेन्नई_सुपर_किंग्स_2008",
+          "id": "stephen_fleming_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "चेन्नई सुपर किंग्स",
-                "id": "team_fact_fact_चेन्नई_सुपर_किंग्स",
+                "id": "stephen_fleming_team_fact_1_fact",
                 "url": "/read/hi/chennai_super_kings",
                 "contentUrl": "/static/content/hi/chennai_super_kings.json",
                 "value": {
@@ -313,7 +313,7 @@
         },
         {
           "label": "कैंटरबरी (1991-2000)",
-          "id": "team_fact_कैंटरबरी_1991-2000",
+          "id": "stephen_fleming_team_fact_2",
           "value": {
             "label": "कैंटरबरी न्यूजीलैंड  की एक प्रथम श्रेणी क्रिकेट टीम है जो कैंटरबरी, न्यूजीलैंड में स्थित है।"
           }
@@ -327,7 +327,7 @@
         {
           "label": "न्यूजीलैंड आर्डर ऑफ मेरिट ",
           "tag": "2011",
-          "id": "award-0",
+          "id": "stephen_fleming_award_0",
           "value": {
             "label": "न्यूजीलैंड आर्डर ऑफ मेरिट एक सम्मान है जो रॉयल वारंट द्वारा क्वीन एलिजाबेथ द्वितीय ने स्थापित किया है और यह सम्मान उन्हें दिया जाता है जिन्होंने सेवा के किसी क्षेत्र में बेहतरीन प्रदर्शन किया हो। ",
             "image": {

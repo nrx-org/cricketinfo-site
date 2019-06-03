@@ -83,7 +83,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "style_of_play",
+      "id": "ajinkya_rahane_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -100,7 +100,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "phase_first_class_debut",
+          "id": "ajinkya_rahane_phase_0",
           "note": "Rahane made his first-class debut, at the age of 19, for Mumbai against Karachi Urban in the Mohammad Nissar Trophy in September 2007",
           "value": {
             "label": "Mohammad Nissar Trophy was an annual first class cricket competition played over four days between the winners of the Ranji Trophy from India and Quaid-i-Azam Trophy from Pakistan.",
@@ -109,7 +109,7 @@
                 "url": "/read/en/ranji_trophy",
                 "contentUrl": "/static/content/en/ranji_trophy.json",
                 "label": "Ranji Trophy",
-                "id": "phase_fact_fact_ranji_trophy",
+                "id": "ajinkya_rahane_phase_0_fact",
                 "value": {
                   "label": "The Ranji Trophy is a domestic first-class cricket championship played in India between teams representing regional and state cricket associations.",
                   "image": {
@@ -123,7 +123,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "ajinkya_rahane_phase_1",
           "note": "2011",
           "value": {
             "label": "Rahane made his debut against England in 2011 as a replacement for opener Virender Sehwag",
@@ -132,7 +132,7 @@
                 "url": "/read/en/england_cricket_team",
                 "contentUrl": "/static/content/en/england_cricket_team.json",
                 "label": "England cricket team",
-                "id": "phase_fact_fact_england_cricket_team",
+                "id": "ajinkya_rahane_phase_1_fact",
                 "value": {
                   "label": "The England cricket team represents England and Wales in international cricket. England and Australia were the first teams to play a Test match in 1877.",
                   "image": {
@@ -146,7 +146,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "ajinkya_rahane_phase_2",
           "note": "2014",
           "value": {
             "label": "Rahane was part of Indian team make it to the final of 2014 World T20"
@@ -154,7 +154,7 @@
         },
         {
           "label": "2015 World cup",
-          "id": "phase_2015_world_cup",
+          "id": "ajinkya_rahane_phase_3",
           "note": "2015",
           "value": {
             "label": "In the 2015 World Cup, Rahane only managed to score 208 runs from 8 matches",
@@ -163,7 +163,7 @@
                 "url": "/read/en/2015_cricket_world_cup",
                 "contentUrl": "/static/content/en/2015_cricket_world_cup.json",
                 "label": "2015 Cricket World Cup",
-                "id": "phase_fact_fact_2015_cricket_world_cup",
+                "id": "ajinkya_rahane_phase_3_fact",
                 "value": {
                   "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand.",
                   "image": {
@@ -177,7 +177,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "phase_ipl_debut",
+          "id": "ajinkya_rahane_phase_6",
           "note": "2008",
           "value": {
             "label": "Rahane was initially in the Mumbai Indians squad but got limited opportunities",
@@ -186,7 +186,7 @@
                 "url": "/read/en/bangladesh_national_cricket_team",
                 "contentUrl": "/static/content/en/bangladesh_national_cricket_team.json",
                 "label": "Bangladesh national cricket team",
-                "id": "phase_fact_fact_bangladesh_national_cricket_team",
+                "id": "ajinkya_rahane_phase_6_fact",
                 "value": {
                   "label": "The Bangladesh national cricket team, popularly known as \"The Tigers\", is administered by the Bangladesh Cricket Board (BCB). Bangladesh is a full member of the International Cricket Council (ICC) with Test and One Day International (ODI) status.",
                   "image": {
@@ -206,7 +206,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "ajinkya_rahane_achievement_0",
           "value": {
             "label": "Rahane has the highest number of catches (8) by a non wicketkeeper in a single Test match",
             "image": {
@@ -217,7 +217,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "ajinkya_rahane_achievement_1",
           "value": {
             "label": "Rahane is the 5th Indian Batsman to score centuries in each innings of a Test",
             "image": {
@@ -229,7 +229,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "ajinkya_rahane_achievement_2",
           "value": {
             "label": "Rahane jointly holds the record of winning his first test match as a captain",
             "image": {
@@ -240,7 +240,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "ajinkya_rahane_achievement_3",
           "value": {
             "label": "Rahane was the first batsman to hit six fours in an over in IPL",
             "image": {
@@ -251,7 +251,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "ajinkya_rahane_achievement_4",
           "value": {
             "label": "Rahane is the fourth Indian batsman to score a Test century on their first match at the Lord's cricket ground.",
             "image": {
@@ -268,13 +268,13 @@
       "facts": [
         {
           "label": "India National Cricket team (2011-present)",
-          "id": "team_fact_india_national_cricket_team_2011-present",
+          "id": "ajinkya_rahane_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "team_fact_fact_india_national_cricket_team",
+                "id": "ajinkya_rahane_team_fact_0_fact",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -290,13 +290,13 @@
         },
         {
           "label": "Rajasthan Royals (2011-present)",
-          "id": "team_fact_rajasthan_royals_2011-present",
+          "id": "ajinkya_rahane_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Rajasthan Royals",
-                "id": "team_fact_fact_rajasthan_royals",
+                "id": "ajinkya_rahane_team_fact_1_fact",
                 "url": "/read/en/rajasthan_royals",
                 "contentUrl": "/static/content/en/rajasthan_royals.json",
                 "value": {
@@ -312,7 +312,7 @@
         },
         {
           "label": "Mumbai (2007- present)",
-          "id": "team_fact_mumbai_2007- present",
+          "id": "ajinkya_rahane_team_fact_2",
           "value": {
             "label": "Domestic Ranji trophy cricket team based in Mumbai"
           }
@@ -326,7 +326,7 @@
         {
           "label": "CEAT Indian Cricketer of the Year",
           "tag": "2015",
-          "id": "award-0",
+          "id": "ajinkya_rahane_award_0",
           "value": {
             "label": "",
             "image": {
@@ -338,7 +338,7 @@
         {
           "label": "Arjuna Award",
           "tag": "2016",
-          "id": "award-1",
+          "id": "ajinkya_rahane_award_1",
           "value": {
             "label": "Arjuna Awards are given by the Government for outstanding achievement in sports",
             "image": {

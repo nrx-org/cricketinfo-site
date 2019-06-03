@@ -85,7 +85,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "style_of_play",
+      "id": "shoaib_malik_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -107,7 +107,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "phase_first_class_debut",
+          "id": "shoaib_malik_phase_0",
           "note": "",
           "value": {
             "label": ""
@@ -115,7 +115,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "shoaib_malik_phase_1",
           "note": "",
           "value": {
             "label": "Shoaib Malik made his ODI debut on  14 October 1999 vs West Indies.",
@@ -124,7 +124,7 @@
                 "url": "/read/en/west_indies_cricket_team",
                 "contentUrl": "/static/content/en/west_indies_cricket_team.json",
                 "label": "West Indies cricket team",
-                "id": "phase_fact_fact_west_indies_cricket_team",
+                "id": "shoaib_malik_phase_1_fact",
                 "value": {
                   "label": "The West Indies cricket team, traditionally known as the Windies, is a multi-national cricket team representing the Anglophone Caribbean region and administered by Cricket West Indies. The players on this composite team are selected from a chain of fifteen Caribbean territories.",
                   "image": {
@@ -138,7 +138,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "shoaib_malik_phase_2",
           "note": "",
           "value": {
             "label": ""
@@ -146,7 +146,7 @@
         },
         {
           "label": "World Cup Apperance",
-          "id": "phase_world_cup_apperance",
+          "id": "shoaib_malik_phase_3",
           "note": "",
           "value": {
             "label": ""
@@ -154,7 +154,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "phase_ipl_debut",
+          "id": "shoaib_malik_phase_6",
           "note": "",
           "value": {
             "label": ""
@@ -168,7 +168,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "shoaib_malik_achievement_0",
           "value": {
             "label": "",
             "image": {
@@ -179,7 +179,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "shoaib_malik_achievement_1",
           "value": {
             "label": "",
             "image": {
@@ -190,7 +190,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "shoaib_malik_achievement_2",
           "value": {
             "label": "",
             "image": {
@@ -201,7 +201,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "shoaib_malik_achievement_3",
           "value": {
             "label": "",
             "image": {
@@ -212,7 +212,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "shoaib_malik_achievement_4",
           "value": {
             "label": "",
             "image": {
@@ -229,13 +229,13 @@
       "facts": [
         {
           "label": "Pakistan National Cricket team (1999- present)",
-          "id": "team_fact_pakistan_national_cricket_team_1999- present",
+          "id": "shoaib_malik_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Pakistan national cricket team",
-                "id": "team_fact_fact_pakistan_national_cricket_team",
+                "id": "shoaib_malik_team_fact_0_fact",
                 "url": "/read/en/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
                 "value": {

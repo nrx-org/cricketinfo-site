@@ -82,7 +82,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "style_of_play",
+      "id": "ravi_shastri_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -99,7 +99,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "phase_first_class_debut",
+          "id": "ravi_shastri_phase_0",
           "note": "1979",
           "value": {
             "label": "At 17 years and 292 days, Shastri was then the youngest cricketer to debut and play for Bombay in Ranji Trophy.",
@@ -108,7 +108,7 @@
                 "url": "/read/en/ranji_trophy",
                 "contentUrl": "/static/content/en/ranji_trophy.json",
                 "label": "Ranji Trophy",
-                "id": "phase_fact_fact_ranji_trophy",
+                "id": "ravi_shastri_phase_0_fact",
                 "value": {
                   "label": "The Ranji Trophy is a domestic first-class cricket championship played in India between teams representing regional and state cricket associations.",
                   "image": {
@@ -122,7 +122,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "ravi_shastri_phase_1",
           "note": "1981",
           "value": {
             "label": "Ravi Shastri made his international debut for India in 1981 versus New Zealand",
@@ -131,7 +131,7 @@
                 "url": "/read/en/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
                 "label": "New Zealand national cricket team",
-                "id": "phase_fact_fact_new_zealand_national_cricket_team",
+                "id": "ravi_shastri_phase_1_fact",
                 "value": {
                   "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
                   "image": {
@@ -145,7 +145,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "ravi_shastri_phase_2",
           "note": "1983",
           "value": {
             "label": "Shastri was not selected to play in most of the important matches in the 1983 World Cup",
@@ -154,7 +154,7 @@
                 "url": "/read/en/1983_cricket_world_cup",
                 "contentUrl": "/static/content/en/1983_cricket_world_cup.json",
                 "label": "1983 Cricket World Cup",
-                "id": "phase_fact_fact_1983_cricket_world_cup",
+                "id": "ravi_shastri_phase_2_fact",
                 "value": {
                   "label": "The 1983 Cricket World Cup (officially the Prudential Cup '83) was the 3rd edition of the Cricket World Cup tournament. It was held from 9 June to 25 June 1983 in England and Wales and was won by India.",
                   "image": {
@@ -168,7 +168,7 @@
         },
         {
           "label": "1987 World cup",
-          "id": "phase_1987_world_cup",
+          "id": "ravi_shastri_phase_3",
           "note": "1987",
           "value": {
             "label": "Ravi Shastri failed with the bat in the 1987 Reliance World Cup but formed a successful bowling partnership with Maninder Singh.",
@@ -177,7 +177,7 @@
                 "url": "/read/en/1987_cricket_world_cup",
                 "contentUrl": "/static/content/en/1987_cricket_world_cup.json",
                 "label": "1987 Cricket World Cup",
-                "id": "phase_fact_fact_1987_cricket_world_cup",
+                "id": "ravi_shastri_phase_3_fact",
                 "value": {
                   "label": "The 1987 Cricket World Cup (known as the Reliance Cup 1987 for sponsorship reasons) was the fourth edition of the ICC Cricket World Cup tournament. It was held from 8 October to 8 November 1987 in India and Pakistan.",
                   "image": {
@@ -191,7 +191,7 @@
         },
         {
           "label": "World cup 1992",
-          "id": "phase_world_cup_1992",
+          "id": "ravi_shastri_phase_4",
           "note": "1992",
           "value": {
             "label": "India chased and lost their second match of the 92 World Cup. Shastri was blamed for the defeat and dropped for the rest of the matches.",
@@ -200,7 +200,7 @@
                 "url": "/read/en/1992_cricket_world_cup",
                 "contentUrl": "/static/content/en/1992_cricket_world_cup.json",
                 "label": "1992 Cricket World Cup",
-                "id": "phase_fact_fact_1992_cricket_world_cup",
+                "id": "ravi_shastri_phase_4_fact",
                 "value": {
                   "label": "The 1992 Cricket World Cup (officially the Benson & Hedges World Cup 1992) was the fifth staging of the Cricket World Cup, organised by the International Cricket Council (ICC). It was held in Australia and New Zealand from 22 February to 25 March 1992 and finished with Pakistan beating England in the final to become the World Cup champions for the first time.",
                   "image": {
@@ -214,7 +214,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "phase_ipl_debut",
+          "id": "ravi_shastri_phase_6",
           "note": "",
           "value": {
             "label": ""
@@ -228,7 +228,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "ravi_shastri_achievement_0",
           "value": {
             "label": "1981 - At 17 years and 292 days, he was then the youngest cricketer to debut and play for Bombay",
             "image": {
@@ -239,7 +239,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "ravi_shastri_achievement_1",
           "value": {
             "label": "Shastri is one of the few cricketers who have batted on all 5 days of a Test match. He achieved this in Kolkata versus England.",
             "image": {
@@ -250,7 +250,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "ravi_shastri_achievement_2",
           "value": {
             "label": "1983 - Shastri began opening the batting innings regularly in ODI matches. With K.Srikkanth, he made a first wicket world record score of 188.",
             "image": {
@@ -261,7 +261,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "ravi_shastri_achievement_3",
           "value": {
             "label": "1985 - Shastri won an Audi car as the Champion of Champions in the World Championship of Cricket for scoring 182 runs and taking 8 wickets.",
             "image": {
@@ -272,7 +272,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "ravi_shastri_achievement_4",
           "value": {
             "label": "1987 - Shastri became the Captain of the Indian team for a short period while Dilip Vengsarkar was injured and then banned for 6 months by the BCCI",
             "image": {
@@ -289,13 +289,13 @@
       "facts": [
         {
           "label": "India National Cricket team (1981-1992)",
-          "id": "team_fact_india_national_cricket_team_1981-1992",
+          "id": "ravi_shastri_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "team_fact_fact_india_national_cricket_team",
+                "id": "ravi_shastri_team_fact_0_fact",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -311,7 +311,7 @@
         },
         {
           "label": "Bombay (now Mumbai) (1979 -1993)",
-          "id": "team_fact_bombay_(now_mumbai)_1979 -1993",
+          "id": "ravi_shastri_team_fact_2",
           "value": {
             "label": "Domestic Ranji trophy cricket team based in Mumbai"
           }
@@ -325,7 +325,7 @@
         {
           "label": "Arjuna Award",
           "tag": "1984",
-          "id": "award-0",
+          "id": "ravi_shastri_award_0",
           "value": {
             "label": "Arjuna Awards are given by the Government for outstanding achievement in sports",
             "image": {

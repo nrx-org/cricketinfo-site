@@ -81,7 +81,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "style_of_play",
+      "id": "wasim_akram_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -98,7 +98,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "phase_first_class_debut",
+          "id": "wasim_akram_phase_0",
           "note": "1984",
           "value": {
             "label": "Wasim Akram made his first class debut in 1984 as part of the Pakistan Automobiles Corporation team."
@@ -106,7 +106,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "wasim_akram_phase_1",
           "note": "1984",
           "value": {
             "label": "Akram started his ODI career against New Zealand in Pakistan in 1984 under the captaincy of Zaheer Abbas.",
@@ -115,7 +115,7 @@
                 "url": "/read/en/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/en/new_zealand_national_cricket_team.json",
                 "label": "New Zealand national cricket team",
-                "id": "phase_fact_fact_new_zealand_national_cricket_team",
+                "id": "wasim_akram_phase_1_fact",
                 "value": {
                   "label": "The New Zealand national cricket team, nicknamed the Black Caps, played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket. ",
                   "image": {
@@ -129,7 +129,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "wasim_akram_phase_2",
           "note": "1987",
           "value": {
             "label": "In the 1987 Cricket World Cup held for the 1st time in South Asia, Akram struggled on Pakistani pitches."
@@ -137,7 +137,7 @@
         },
         {
           "label": "1992 Cricket World cup",
-          "id": "phase_1992_cricket_world_cup",
+          "id": "wasim_akram_phase_3",
           "note": "1992",
           "value": {
             "label": "In the final against England, Akram's innings of 33 runs off 19 balls pushed Pakistan to a score of 249 runs for 6 wickets.",
@@ -146,7 +146,7 @@
                 "url": "/read/en/1992_cricket_world_cup",
                 "contentUrl": "/static/content/en/1992_cricket_world_cup.json",
                 "label": "1992 Cricket World Cup",
-                "id": "phase_fact_fact_1992_cricket_world_cup",
+                "id": "wasim_akram_phase_3_fact",
                 "value": {
                   "label": "The 1992 Cricket World Cup (officially the Benson & Hedges World Cup 1992) was the fifth staging of the Cricket World Cup, organised by the International Cricket Council (ICC). It was held in Australia and New Zealand from 22 February to 25 March 1992 and finished with Pakistan beating England in the final to become the World Cup champions for the first time.",
                   "image": {
@@ -160,7 +160,7 @@
         },
         {
           "label": "World cup 1996",
-          "id": "phase_world_cup_1996",
+          "id": "wasim_akram_phase_4",
           "note": "1996",
           "value": {
             "label": "In the 1996 Cricket World Cup, Akram missed the quarterfinal match against India which Pakistan lost and went out of the tournament.",
@@ -169,7 +169,7 @@
                 "url": "/read/en/1996_cricket_world_cup",
                 "contentUrl": "/static/content/en/1996_cricket_world_cup.json",
                 "label": "1996 Cricket World Cup",
-                "id": "phase_fact_fact_1996_cricket_world_cup",
+                "id": "wasim_akram_phase_4_fact",
                 "value": {
                   "label": "The 1996 Cricket World Cup, also called the Wills World Cup 1996 after its official sponsors, ITC's Wills brand, was the sixth Cricket World Cup. It was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka.",
                   "image": {
@@ -183,7 +183,7 @@
         },
         {
           "label": "World cup 1999",
-          "id": "phase_world_cup_1999",
+          "id": "wasim_akram_phase_5",
           "note": "1999",
           "value": {
             "label": "In 1999, Akram led Pakistan to the finals of the World Cup where they were defeated by Australia.",
@@ -192,7 +192,7 @@
                 "url": "/read/en/1999_cricket_world_cup",
                 "contentUrl": "/static/content/en/1999_cricket_world_cup.json",
                 "label": "1999 Cricket World Cup",
-                "id": "phase_fact_fact_1999_cricket_world_cup",
+                "id": "wasim_akram_phase_5_fact",
                 "value": {
                   "label": "The 1999 Cricket World Cup was the seventh edition of the Cricket World Cup, organised by the International Cricket Council (ICC). It was hosted primarily by England, with some games being played in Scotland, Ireland, Wales and the Netherlands.",
                   "image": {
@@ -206,7 +206,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "phase_ipl_debut",
+          "id": "wasim_akram_phase_6",
           "note": "",
           "value": {
             "label": ""
@@ -220,7 +220,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "wasim_akram_achievement_0",
           "value": {
             "label": "Wasim Akram holds the record for taking the most number of ODI wickets as captain.",
             "image": {
@@ -231,7 +231,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "wasim_akram_achievement_1",
           "value": {
             "label": " Akram took 502 ODI wickets and 414 Test wickets during his career.",
             "image": {
@@ -242,7 +242,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "wasim_akram_achievement_2",
           "value": {
             "label": "Akram is the first bowler to take 500 ODI wickets.",
             "image": {
@@ -253,7 +253,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "wasim_akram_achievement_3",
           "value": {
             "label": "Wasim Akram's 257 not-out against Zimbabwe in 1996 is the highest innings by a number-8 batsman in Tests",
             "image": {
@@ -264,7 +264,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "wasim_akram_achievement_4",
           "value": {
             "label": "Akram was the first bowler in international cricket to take more than 400 wickets in both forms of the game",
             "image": {
@@ -281,13 +281,13 @@
       "facts": [
         {
           "label": "Pakistan National Cricket team (1984-2003)",
-          "id": "team_fact_pakistan_national_cricket_team_1984-2003",
+          "id": "wasim_akram_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Pakistan national cricket team",
-                "id": "team_fact_fact_pakistan_national_cricket_team",
+                "id": "wasim_akram_team_fact_0_fact",
                 "url": "/read/en/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
                 "value": {
@@ -303,7 +303,7 @@
         },
         {
           "label": "Pakistan Automobiles Corporation (1984 - 86)",
-          "id": "team_fact_pakistan_automobiles_corporation_1984 - 86",
+          "id": "wasim_akram_team_fact_2",
           "value": {
             "label": "Pakistan Automobiles Corporation was a first-class cricket team that played in the domestic league in Pakistan between 1983 and 1994."
           }
@@ -317,7 +317,7 @@
         {
           "label": "Pride of Performance Award",
           "tag": "1992",
-          "id": "award-0",
+          "id": "wasim_akram_award_0",
           "value": {
             "label": "Pride of Performance Award is a civil award given by the Government of Pakistan to Pakistani citizens for meritorious service in various fields.",
             "image": {
@@ -329,7 +329,7 @@
         {
           "label": "Wisden Cricketer of the Year",
           "tag": "1993",
-          "id": "award-1",
+          "id": "wasim_akram_award_1",
           "value": {
             "label": "Wisden Cricketers of the Year are cricketers selected for the honour by the annual publication Wisden Cricketers' Almanack",
             "image": {
@@ -341,7 +341,7 @@
         {
           "label": "Hilal-e-Imtiaz",
           "tag": "2019",
-          "id": "award-2",
+          "id": "wasim_akram_award_2",
           "value": {
             "label": "Hilal-e-Imtiaz is the second highest civilian award and honour given to both civilians and military officers of the Pakistan.",
             "image": {

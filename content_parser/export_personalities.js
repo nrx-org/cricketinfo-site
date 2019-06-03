@@ -366,7 +366,7 @@ module.exports.exportPersonalities = () => {
 
       const styleOfPlaySection = {
         title: personalityUiStrings.styleOfPlay[lang],
-        id: "style_of_play",
+        id: `${englishSlug}_style_of_play`,
         cardType: "simple",
         facts: [
           {
@@ -395,14 +395,14 @@ module.exports.exportPersonalities = () => {
         title: personalityUiStrings.phases[lang],
         cardType: "vertical_timeline",
         facts: await Promise.all(
-          PHASES.map(async phase => {
+          PHASES.map(async (phase, index) => {
             if (!record[phase.KEY]) {
               return null;
             }
 
             const phaseFact = {
               label: record[phase.KEY],
-              id: `phase_${getSluggedTitle(record[phase.KEY])}`,
+              id: `${englishSlug}_phase_${index}`,
               note: record[phase.YEAR_KEY],
               value: {
                 label: record[phase.DESCRIPTION_KEY]
@@ -420,9 +420,7 @@ module.exports.exportPersonalities = () => {
                   url: cardData.url,
                   contentUrl: cardData.contentUrl,
                   label: cardData.title || record[phase.CARD_LABEL_KEY],
-                  id: `phase_fact_fact_${getSluggedTitle(
-                    cardData.title || record[phase.CARD_LABEL_KEY]
-                  )}`,
+                  id: `${englishSlug}_phase_${index}_fact`,
                   value: {
                     label: cardData.summary,
                     image: await downloadImageAndFillAttributions(
@@ -450,9 +448,9 @@ module.exports.exportPersonalities = () => {
         title: personalityUiStrings.achievementsAndRecords[lang],
         cardType: "stories",
         facts: await Promise.all(
-          ACHIEVEMENTS_AND_RECORDS.map(async ar => ({
+          ACHIEVEMENTS_AND_RECORDS.map(async (ar, index) => ({
             label: "",
-            id: getSluggedTitle(ar.DESCRIPTION_KEY.trim()),
+            id: `${englishSlug}_achievement_${index}`,
             value: {
               label: record[ar.DESCRIPTION_KEY],
               image: await downloadImageAndFillAttributions(
@@ -469,16 +467,14 @@ module.exports.exportPersonalities = () => {
 
       // Teams.
       const teamFacts = await Promise.all(
-        TEAMS.map(async team => {
+        TEAMS.map(async (team, index) => {
           if (!record[team.LABEL_KEY]) {
             return null;
           }
 
           const fact = {
             label: `${record[team.LABEL_KEY]} (${record[team.YEAR_KEY]})`,
-            id: `team_fact_${getSluggedTitle(record[team.LABEL_KEY])}_${
-              record[team.YEAR_KEY]
-            }`,
+            id: `${englishSlug}_team_fact_${index}`,
             value: {
               label: record[team.DESCRIPTION_KEY]
             }
@@ -490,7 +486,7 @@ module.exports.exportPersonalities = () => {
             fact.value.facts = [
               {
                 label: card.title,
-                id: `team_fact_fact_${getSluggedTitle(card.title)}`,
+                id: `${englishSlug}_team_fact_${index}_fact`,
                 url: card.url,
                 contentUrl: card.contentUrl,
                 value: {
@@ -527,7 +523,7 @@ module.exports.exportPersonalities = () => {
           return {
             label: record[award.LABEL_KEY],
             tag: record[award.YEAR_KEY],
-            id: `award-${index}`,
+            id: `${englishSlug}_award_${index}`,
             value: {
               label: record[award.DESCRIPTION_KEY],
               image: await downloadImageAndFillAttributions(

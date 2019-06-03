@@ -71,7 +71,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "style_of_play",
+      "id": "chris_gayle_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -93,7 +93,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "phase_first_class_debut",
+          "id": "chris_gayle_phase_0",
           "note": "1998",
           "value": {
             "label": "Gayle made his first-class debut in 1998, at age 19 for Jamaica."
@@ -101,7 +101,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "chris_gayle_phase_1",
           "note": "1999",
           "value": {
             "label": "Gayle played his first One Day International against India in 1999",
@@ -110,7 +110,7 @@
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "label": "India national cricket team",
-                "id": "phase_fact_fact_india_national_cricket_team",
+                "id": "chris_gayle_phase_1_fact",
                 "value": {
                   "label": "The India national cricket team is also known as Team India and Men in Blue. India is ranked first in Tests, second in ODIs and second in T20Is by the ICC. Virat Kohli is the current captain of the team, while the head coach is Ravi Shastri.",
                   "image": {
@@ -124,7 +124,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "chris_gayle_phase_2",
           "note": "2003",
           "value": {
             "label": "Gayle was part of the West Indies team in the 2003 world cup"
@@ -132,7 +132,7 @@
         },
         {
           "label": "Champions Trophy 2006",
-          "id": "phase_champions_trophy_2006",
+          "id": "chris_gayle_phase_3",
           "note": "2006",
           "value": {
             "label": "Gayle was named Player of the 2006 Champions Trophy",
@@ -141,7 +141,7 @@
                 "url": "/read/en/icc_champions_trophy",
                 "contentUrl": "/static/content/en/icc_champions_trophy.json",
                 "label": "ICC Champions Trophy",
-                "id": "phase_fact_fact_icc_champions_trophy",
+                "id": "chris_gayle_phase_3_fact",
                 "value": {
                   "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
                   "image": {
@@ -155,7 +155,7 @@
         },
         {
           "label": "2007 Cricket World cup",
-          "id": "phase_2007_cricket_world_cup",
+          "id": "chris_gayle_phase_4",
           "note": "2007",
           "value": {
             "label": "Gayle had a poor World Cup in 2007 scoring low runs.",
@@ -164,7 +164,7 @@
                 "url": "/read/en/2007_cricket_world_cup",
                 "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
                 "label": "2007 Cricket World Cup",
-                "id": "phase_fact_fact_2007_cricket_world_cup",
+                "id": "chris_gayle_phase_4_fact",
                 "value": {
                   "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
                   "image": {
@@ -178,7 +178,7 @@
         },
         {
           "label": "2007 Cricket world cup",
-          "id": "phase_2007_cricket_world_cup",
+          "id": "chris_gayle_phase_5",
           "note": "2007",
           "value": {
             "label": "Gayle 117 against South Africa in the first match of the 2007 World Twenty20",
@@ -187,7 +187,7 @@
                 "url": "/read/en/2007_cricket_world_cup",
                 "contentUrl": "/static/content/en/2007_cricket_world_cup.json",
                 "label": "2007 Cricket World Cup",
-                "id": "phase_fact_fact_2007_cricket_world_cup",
+                "id": "chris_gayle_phase_5_fact",
                 "value": {
                   "label": "The 2007 Cricket World Cup (officially known as ICC Cricket World Cup 2007) was the 9th edition of the Cricket World Cup tournament that took place in the West Indies from 13 March to 28 April 2007, using the sport's One Day International (ODI) format. ",
                   "image": {
@@ -201,7 +201,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "phase_ipl_debut",
+          "id": "chris_gayle_phase_6",
           "note": "2008",
           "value": {
             "label": "Gayle could not play the inaugural version of the IPL due to an injury",
@@ -210,7 +210,7 @@
                 "url": "/read/en/kolkata_knight_riders",
                 "contentUrl": "/static/content/en/kolkata_knight_riders.json",
                 "label": "Kolkata Knight Riders",
-                "id": "phase_fact_fact_kolkata_knight_riders",
+                "id": "chris_gayle_phase_6_fact",
                 "value": {
                   "label": "The Kolkata Knight Riders (also known by the acronym KKR) are a franchise cricket team representing the city of Kolkata in the Indian Premier League. ",
                   "image": {
@@ -230,7 +230,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "chris_gayle_achievement_0",
           "value": {
             "label": "Gayle is the first batsman to score a century in each of the three formats of the game.",
             "image": {
@@ -241,7 +241,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "chris_gayle_achievement_1",
           "value": {
             "label": "Gayle is the first batsman to score a triple century in Test cricket, double century in ODI cricket and a century in T20",
             "image": {
@@ -253,7 +253,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "chris_gayle_achievement_2",
           "value": {
             "label": "Gayle is the first batsman to score a T20 international century",
             "image": {
@@ -264,7 +264,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "chris_gayle_achievement_3",
           "value": {
             "label": "Gayle hit the fastest ever ODI double century, against Zimbabwe, off 138 balls",
             "image": {
@@ -275,7 +275,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "chris_gayle_achievement_4",
           "value": {
             "label": "Gayle is first batsman in the world to cross 10,000 runs in T20 cricket",
             "image": {
@@ -292,13 +292,13 @@
       "facts": [
         {
           "label": "West Indies Cricket team (1999 - 2019)",
-          "id": "team_fact_west_indies_cricket_team_1999 - 2019",
+          "id": "chris_gayle_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "West Indies cricket team",
-                "id": "team_fact_fact_west_indies_cricket_team",
+                "id": "chris_gayle_team_fact_0_fact",
                 "url": "/read/en/west_indies_cricket_team",
                 "contentUrl": "/static/content/en/west_indies_cricket_team.json",
                 "value": {
@@ -314,13 +314,13 @@
         },
         {
           "label": "Kings XI Punjab (2018- present)",
-          "id": "team_fact_kings_xi_punjab_2018- present",
+          "id": "chris_gayle_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Kings XI Punjab",
-                "id": "team_fact_fact_kings_xi_punjab",
+                "id": "chris_gayle_team_fact_1_fact",
                 "url": "/read/en/kings_xi_punjab",
                 "contentUrl": "/static/content/en/kings_xi_punjab.json",
                 "value": {
@@ -336,7 +336,7 @@
         },
         {
           "label": "Jamaica (1998 - 2018)",
-          "id": "team_fact_jamaica_1998 - 2018",
+          "id": "chris_gayle_team_fact_2",
           "value": {
             "label": "Jamaican national cricket team is a first-class cricket team of Jamaica."
           }
@@ -350,7 +350,7 @@
         {
           "label": "Order of Distinction",
           "tag": "2017",
-          "id": "award-0",
+          "id": "chris_gayle_award_0",
           "value": {
             "label": "Order of Distinction is a national award in the Jamaican honours system",
             "image": {

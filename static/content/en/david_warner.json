@@ -88,7 +88,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "style_of_play",
+      "id": "david_warner_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -109,7 +109,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "phase_first_class_debut",
+          "id": "david_warner_phase_0",
           "note": "2009",
           "value": {
             "label": "Warner made his first-class debut playing for New South Wales against Western Australia."
@@ -117,7 +117,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "david_warner_phase_1",
           "note": "2009",
           "value": {
             "label": "Warner made his international debut for Australia in a Twenty20 International against South Africa at the Melbourne.",
@@ -126,7 +126,7 @@
                 "url": "/read/en/south_africa_national_cricket_team",
                 "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
                 "label": "South Africa national cricket team",
-                "id": "phase_fact_fact_south_africa_national_cricket_team",
+                "id": "david_warner_phase_1_fact",
                 "value": {
                   "label": "The South African national cricket team, nicknamed the Proteas is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.",
                   "image": {
@@ -140,7 +140,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "david_warner_phase_2",
           "note": "2013",
           "value": {
             "label": "Warner was dropped from the team after the first match due to a off-field fight with English player Joe Root"
@@ -148,7 +148,7 @@
         },
         {
           "label": "2015 World Cup",
-          "id": "phase_2015_world_cup",
+          "id": "david_warner_phase_3",
           "note": "2015",
           "value": {
             "label": "Warner ended up as the tournament's 11th highest scorer, scoring 345 runs",
@@ -157,7 +157,7 @@
                 "url": "/read/en/2015_cricket_world_cup",
                 "contentUrl": "/static/content/en/2015_cricket_world_cup.json",
                 "label": "2015 Cricket World Cup",
-                "id": "phase_fact_fact_2015_cricket_world_cup",
+                "id": "david_warner_phase_3_fact",
                 "value": {
                   "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand.",
                   "image": {
@@ -171,7 +171,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "phase_ipl_debut",
+          "id": "david_warner_phase_6",
           "note": "2009",
           "value": {
             "label": "Warner was signed by IPL team Delhi Daredevils for 2009–10 seasons.",
@@ -180,7 +180,7 @@
                 "url": "/read/en/delhi_capitals",
                 "contentUrl": "/static/content/en/delhi_capitals.json",
                 "label": "Delhi Capitals",
-                "id": "phase_fact_fact_delhi_capitals",
+                "id": "david_warner_phase_6_fact",
                 "value": {
                   "label": "The Delhi Capitals are a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). ",
                   "image": {
@@ -200,7 +200,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "david_warner_achievement_0",
           "value": {
             "label": "Warner is the first Australian cricketer in 132 years to be selected for a national team in any format without experience in first-class cricket",
             "image": {
@@ -212,7 +212,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "david_warner_achievement_1",
           "value": {
             "label": "Warner is the first Australian batsman to score 7 ODI centuries in a calendar year",
             "image": {
@@ -223,7 +223,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "david_warner_achievement_2",
           "value": {
             "label": "Warner is the first Australian batsman to score a century in his 100th ODI.",
             "image": {
@@ -235,7 +235,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "david_warner_achievement_3",
           "value": {
             "label": "Warner is the first Australian and sixth overall to reach 1,500 T20I runs.",
             "image": {
@@ -246,7 +246,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "david_warner_achievement_4",
           "value": {
             "label": "In 2015, Warner became only the third batsman in history of Test cricket to score centuries in both innings of a Test match thrice",
             "image": {
@@ -264,13 +264,13 @@
       "facts": [
         {
           "label": "Australia National Cricket team (2009 - present)",
-          "id": "team_fact_australia_national_cricket_team_2009 - present",
+          "id": "david_warner_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Australia national cricket team",
-                "id": "team_fact_fact_australia_national_cricket_team",
+                "id": "david_warner_team_fact_0_fact",
                 "url": "/read/en/australia_national_cricket_team",
                 "contentUrl": "/static/content/en/australia_national_cricket_team.json",
                 "value": {
@@ -286,13 +286,13 @@
         },
         {
           "label": "Sunrisers Hyderabad (2014 - present)",
-          "id": "team_fact_sunrisers_hyderabad_2014 - present",
+          "id": "david_warner_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Sunrisers Hyderabad",
-                "id": "team_fact_fact_sunrisers_hyderabad",
+                "id": "david_warner_team_fact_1_fact",
                 "url": "/read/en/sunrisers_hyderabad",
                 "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
                 "value": {
@@ -308,7 +308,7 @@
         },
         {
           "label": "New South Wales (2006 - 2018)",
-          "id": "team_fact_new_south_wales_2006 - 2018",
+          "id": "david_warner_team_fact_2",
           "value": {
             "label": "The New South Wales cricket team (currently named NSW Blues) are an Australian men's professional first class cricket team based in Sydney."
           }
@@ -322,7 +322,7 @@
         {
           "label": "Bradman Young Cricketer of the Year",
           "tag": "2012",
-          "id": "award-0",
+          "id": "david_warner_award_0",
           "value": {
             "label": "Bradman Young Cricketer award is part of the Australian Cricket Awards",
             "image": {
@@ -334,7 +334,7 @@
         {
           "label": "Allan Border Medal",
           "tag": "2016",
-          "id": "award-1",
+          "id": "david_warner_award_1",
           "value": {
             "label": "Allan Border Medal is considered to be the most prestigious individual prize in Australian men's cricket",
             "image": {
@@ -346,7 +346,7 @@
         {
           "label": "Australian Test Player of the Year",
           "tag": "2016",
-          "id": "award-2",
+          "id": "david_warner_award_2",
           "value": {
             "label": "Australian Test Player of the Year is awarded during the Australian Cricket Awards",
             "image": {

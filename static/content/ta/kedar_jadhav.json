@@ -65,7 +65,7 @@
     },
     {
       "title": "விளையாட்டின் பாணி",
-      "id": "style_of_play",
+      "id": "kedar_jadhav_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -82,7 +82,7 @@
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "phase_முதல்_வகுப்பு",
+          "id": "kedar_jadhav_phase_0",
           "note": "2007",
           "value": {
             "label": ""
@@ -90,7 +90,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "kedar_jadhav_phase_1",
           "note": "2014",
           "value": {
             "label": "ஜாதவ் இலங்கைக்கு எதிராக 2014-இல் சர்வதேசப் போட்டியில் அறிமுகமானார்",
@@ -99,7 +99,7 @@
                 "url": "/read/ta/sri_lanka_national_cricket_team",
                 "contentUrl": "/static/content/ta/sri_lanka_national_cricket_team.json",
                 "label": "இலங்கை தேசியக் கிரிக்கெட் அணி",
-                "id": "phase_fact_fact_இலங்கை_தேசியக்_கிரிக்கெட்_அணி",
+                "id": "kedar_jadhav_phase_1_fact",
                 "value": {
                   "label": "இலங்கை தேசியக் கிரிக்கெட் அணி, தி லயன்ஸ் எனப் பெயரிடப்பட்டு, சர்வதேசக் கிரிக்கெட்டில் இலங்கையைப் பிரதிநிதித்துவம் செய்கிறது. இது டெஸ்ட், ஒருநாள் சர்வதேசப் போட்டி மற்றும் சர்வதேச டி20 போட்டி அந்தஸ்தில் சர்வதேசக் கிரிக்கெட் கவுன்சிலின் (ஐசிசி) முழு உறுப்பினராக உள்ளது.",
                   "image": {
@@ -113,7 +113,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "kedar_jadhav_phase_2",
           "note": "2017",
           "value": {
             "label": ""
@@ -121,7 +121,7 @@
         },
         {
           "label": "ஐ.பி.எல்",
-          "id": "phase_ஐ.பி.எல்",
+          "id": "kedar_jadhav_phase_6",
           "note": "2010",
           "value": {
             "label": "தனது முதல் ஐபிஎல் போட்டியில் ஜாதவ் ஆட்ட நாயகன் விருதை வென்றார்",
@@ -130,7 +130,7 @@
                 "url": "/read/ta/delhi_capitals",
                 "contentUrl": "/static/content/ta/delhi_capitals.json",
                 "label": "டெல்லி கேபிடல்ஸ்",
-                "id": "phase_fact_fact_டெல்லி_கேபிடல்ஸ்",
+                "id": "kedar_jadhav_phase_6_fact",
                 "value": {
                   "label": "டெல்லி கேபிட்டல்ஸ் ஐபிஎல் லீக்கில் (ஐபிஎல்) டெல்லி நகரை பிரதிநிதித்துவப்படுத்தும் ஒரு உரிமம் பெற்ற கிரிக்கெட் அணியாகும்.",
                   "image": {
@@ -150,7 +150,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "kedar_jadhav_achievement_0",
           "value": {
             "label": "2012-இல், ஜாதவ் ரஞ்சி டிராபியில் 327 ரன்கள் அடித்து மஹாராஷ்டிரா பேட்ஸ்மேன்களில் இரண்டாவது அதிக ரன்கள் எடுத்த வீரராகத் திகழ்கிறார் ",
             "image": {
@@ -161,7 +161,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "kedar_jadhav_achievement_1",
           "value": {
             "label": "2013-14 ஆண்டு ரஞ்சி டிராபியில் ஜாதவ் அதிக ரன்களை (1,223) எடுத்தார் ",
             "image": {
@@ -172,7 +172,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "kedar_jadhav_achievement_2",
           "value": {
             "label": "2017-இல் இங்கிலாந்துக்கு எதிராக ஜாதவ் 76 பந்துகளில் 120 ரன்களைக் குவித்தார், மேலும் ஜாதவ்,  விராட் கோலி ஜோடி 200 ரன்களைக் குவித்தனர்.",
             "image": {
@@ -183,7 +183,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "kedar_jadhav_achievement_3",
           "value": {
             "label": "இந்தியாவின் இங்கிலாந்து சுற்றுப்பயணத்தில் 232 ரன்கள் எடுத்ததற்காக ஜாதவ் தொடர் நாயகன் (ஒருநாள் போட்டி) விருதை வென்றார்",
             "image": {
@@ -194,7 +194,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "kedar_jadhav_achievement_4",
           "value": {
             "label": "",
             "image": {
@@ -211,13 +211,13 @@
       "facts": [
         {
           "label": "இந்தியத் தேசியக் கிரிக்கெட் அணி (2014 - இப்போது வரை)",
-          "id": "team_fact_இந்தியத்_தேசியக்_கிரிக்கெட்_அணி_2014 - இப்போது வரை",
+          "id": "kedar_jadhav_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "இந்திய தேசிய கிரிக்கெட் அணி",
-                "id": "team_fact_fact_இந்திய_தேசிய_கிரிக்கெட்_அணி",
+                "id": "kedar_jadhav_team_fact_0_fact",
                 "url": "/read/ta/india_national_cricket_team",
                 "contentUrl": "/static/content/ta/india_national_cricket_team.json",
                 "value": {
@@ -233,13 +233,13 @@
         },
         {
           "label": "சென்னை சூப்பர் கிங்ஸ் (2018 - இப்போது வரை)",
-          "id": "team_fact_சென்னை_சூப்பர்_கிங்ஸ்_2018 - இப்போது வரை",
+          "id": "kedar_jadhav_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "சென்னை சூப்பர் கிங்க்ஸ்",
-                "id": "team_fact_fact_சென்னை_சூப்பர்_கிங்க்ஸ்",
+                "id": "kedar_jadhav_team_fact_1_fact",
                 "url": "/read/ta/chennai_super_kings",
                 "contentUrl": "/static/content/ta/chennai_super_kings.json",
                 "value": {
@@ -255,7 +255,7 @@
         },
         {
           "label": "மகாராஷ்ட்ரா (2007 - இப்போது வரை)",
-          "id": "team_fact_மகாராஷ்ட்ரா_2007 - இப்போது வரை",
+          "id": "kedar_jadhav_team_fact_2",
           "value": {
             "label": "மகாராஷ்டிரா கிரிக்கெட் அணி புனே நகரத்தை அடிப்படையாகக் கொண்ட ஓர் உள்ளூர் இந்தியக் கிரிக்கெட் அணியாகும்"
           }

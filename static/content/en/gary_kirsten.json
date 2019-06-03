@@ -87,7 +87,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "style_of_play",
+      "id": "gary_kirsten_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -104,7 +104,7 @@
       "facts": [
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "gary_kirsten_phase_1",
           "note": "1993",
           "value": {
             "label": "Kirsten made his international debut in a ODI versus Australia in 1993",
@@ -113,7 +113,7 @@
                 "url": "/read/en/australia_national_cricket_team",
                 "contentUrl": "/static/content/en/australia_national_cricket_team.json",
                 "label": "Australia national cricket team",
-                "id": "phase_fact_fact_australia_national_cricket_team",
+                "id": "gary_kirsten_phase_1_fact",
                 "value": {
                   "label": "The Australia national cricket team is the joint oldest team in Test cricket history, having played in the first ever Test match in 1877.",
                   "image": {
@@ -127,7 +127,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "gary_kirsten_phase_2",
           "note": "1996",
           "value": {
             "label": "Kirsten scored 188 not-outagainst the United Arab Emirates during the 1996 World Cup",
@@ -136,7 +136,7 @@
                 "url": "/read/en/1996_cricket_world_cup",
                 "contentUrl": "/static/content/en/1996_cricket_world_cup.json",
                 "label": "1996 Cricket World Cup",
-                "id": "phase_fact_fact_1996_cricket_world_cup",
+                "id": "gary_kirsten_phase_2_fact",
                 "value": {
                   "label": "The 1996 Cricket World Cup, also called the Wills World Cup 1996 after its official sponsors, ITC's Wills brand, was the sixth Cricket World Cup. It was the second World Cup to be hosted by Pakistan and India, and for the first time by Sri Lanka.",
                   "image": {
@@ -150,7 +150,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "phase_ipl_debut",
+          "id": "gary_kirsten_phase_6",
           "note": "",
           "value": {
             "label": ""
@@ -164,7 +164,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "gary_kirsten_achievement_0",
           "value": {
             "label": "Created the record for highest innings by a South African in a One Day International versus UAE, scoring 188 not out",
             "image": {
@@ -175,7 +175,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "gary_kirsten_achievement_1",
           "value": {
             "label": "Coached the Indian cricket team that won the 2011 world cup",
             "image": {
@@ -186,7 +186,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "gary_kirsten_achievement_2",
           "value": {
             "label": "",
             "image": {
@@ -197,7 +197,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "gary_kirsten_achievement_3",
           "value": {
             "label": "",
             "image": {
@@ -208,7 +208,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "gary_kirsten_achievement_4",
           "value": {
             "label": "",
             "image": {
@@ -225,13 +225,13 @@
       "facts": [
         {
           "label": "South Africa National Cricket team (1993 - 2004)",
-          "id": "team_fact_south_africa_national_cricket_team_1993 - 2004",
+          "id": "gary_kirsten_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "South Africa national cricket team",
-                "id": "team_fact_fact_south_africa_national_cricket_team",
+                "id": "gary_kirsten_team_fact_0_fact",
                 "url": "/read/en/south_africa_national_cricket_team",
                 "contentUrl": "/static/content/en/south_africa_national_cricket_team.json",
                 "value": {
@@ -247,7 +247,7 @@
         },
         {
           "label": "Western Province (1987 - 2004)",
-          "id": "team_fact_western_province_1987 - 2004",
+          "id": "gary_kirsten_team_fact_2",
           "value": {
             "label": "Western Province is the team representing Western Cape province in domestic first-class cricket in South Africa."
           }
@@ -261,7 +261,7 @@
         {
           "label": "Wisden Cricketer of the year",
           "tag": "2004",
-          "id": "award-0",
+          "id": "gary_kirsten_award_0",
           "value": {
             "label": "The Wisden Cricketers of the Year are cricketers selected for the honour by the annual publication Wisden Cricketers' Almanack.",
             "image": {

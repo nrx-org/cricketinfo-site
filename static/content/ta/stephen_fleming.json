@@ -65,7 +65,7 @@
     },
     {
       "title": "விளையாட்டின் பாணி",
-      "id": "style_of_play",
+      "id": "stephen_fleming_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -86,7 +86,7 @@
       "facts": [
         {
           "label": "முதல் வகுப்பு",
-          "id": "phase_முதல்_வகுப்பு",
+          "id": "stephen_fleming_phase_0",
           "note": "1991",
           "value": {
             "label": "பிளெமிங் கேண்டர்பரி முதல் தர அணிக்காக 1991-92 சீஸனில் முதல்முறையாக விளையாடினார்."
@@ -94,7 +94,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "stephen_fleming_phase_1",
           "note": "1994",
           "value": {
             "label": "பிளெமிங் 1994 மார்ச்சில் இந்தியாவிற்கு எதிராக, தன்னுடைய முதல் டெஸ்ட் போட்டியில் விளையாடினார், அதே போட்டியில் ஆட்ட நாயகன் விருதையும் வென்றார்.",
@@ -103,7 +103,7 @@
                 "url": "/read/ta/india_national_cricket_team",
                 "contentUrl": "/static/content/ta/india_national_cricket_team.json",
                 "label": "இந்திய தேசிய கிரிக்கெட் அணி",
-                "id": "phase_fact_fact_இந்திய_தேசிய_கிரிக்கெட்_அணி",
+                "id": "stephen_fleming_phase_1_fact",
                 "value": {
                   "label": "இந்திய தேசிய கிரிக்கெட் அணியானது, டீம் இண்டியா மற்றும் மென் இன் ப்ளூ என்றும் வழங்கப்படுகிறது. ஐசிசி தரவரிசைப் பட்டியலில் இந்தியா டெஸ்ட் போட்டிகளில் முதல் இடத்திலும், சர்வதேச ஒரு நாள் போட்டி மற்றும் டி20ஐ-களில் இரண்டாவது இடத்திலும் உள்ளது. அணியின் தற்போதைய கேப்டன் விராட் கோலி மற்றும் தலைமைப் பயிற்சியாளர் ரவி சாஸ்திரி ஆவார்.",
                   "image": {
@@ -117,7 +117,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "stephen_fleming_phase_2",
           "note": "",
           "value": {
             "label": ""
@@ -125,7 +125,7 @@
         },
         {
           "label": "2003 Cricket World cup",
-          "id": "phase_2003_cricket_world_cup",
+          "id": "stephen_fleming_phase_4",
           "note": "2003",
           "value": {
             "label": "பிளெமிங் ஆட்டமிழக்காமல் எடுத்த 134 ஓட்டங்கள் 2003 கிரிக்கெட் உலக கோப்பையில் போட்டியை நடத்திய தென் ஆப்பிரிக்காவை வீழ்த்த நியூஸிலாந்திற்கு உதவியது.",
@@ -134,7 +134,7 @@
                 "url": "/read/ta/2003_cricket_world_cup",
                 "contentUrl": "/static/content/ta/2003_cricket_world_cup.json",
                 "label": "2003 கிரிக்கெட் உலகக் கோப்பை",
-                "id": "phase_fact_fact_2003_கிரிக்கெட்_உலகக்_கோப்பை",
+                "id": "stephen_fleming_phase_4_fact",
                 "value": {
                   "label": "2003 का क्रिकेट विश्व कप आठवां क्रिकेट विश्व कप था, जिसे अंतर्राष्ट्रीय क्रिकेट परिषद (आईसीसी) ने आयोजित किया था। इसकी मेजबानी दक्षिण अफ्रीका, जिम्बाब्वे और केन्या ने मिल कर की थी।",
                   "image": {
@@ -148,7 +148,7 @@
         },
         {
           "label": "World cup 2007",
-          "id": "phase_world_cup_2007",
+          "id": "stephen_fleming_phase_5",
           "note": "2007",
           "value": {
             "label": "பிளெமிங் 2007 உலக கோப்பை முழுவதும் சிறப்பாக விளையாடி 353 ஓட்டங்கள் எடுத்தார்.",
@@ -157,7 +157,7 @@
                 "url": "/read/ta/2007_cricket_world_cup",
                 "contentUrl": "/static/content/ta/2007_cricket_world_cup.json",
                 "label": "2007 கிரிக்கெட் உலகக் கோப்பை",
-                "id": "phase_fact_fact_2007_கிரிக்கெட்_உலகக்_கோப்பை",
+                "id": "stephen_fleming_phase_5_fact",
                 "value": {
                   "label": "2007 का क्रिकेट विश्व कप (जिसे आधिकारिक तौर पर आईसीसी क्रिकेट विश्व कप 2007 के रूप में जाना जाता है) क्रिकेट विश्व कप टूर्नामेंट का 9वां संस्करण था जो एक दिवसीय अंतर्राष्ट्रीय (वनडे) प्रारूप में 13 मार्च से 28 अप्रैल 2007 तक वेस्टइंडीज में आयोजित हुआ था।",
                   "image": {
@@ -171,7 +171,7 @@
         },
         {
           "label": "ஐ.பி.எல்",
-          "id": "phase_ஐ.பி.எல்",
+          "id": "stephen_fleming_phase_6",
           "note": "2008",
           "value": {
             "label": "பிளெமிங் 2008-ஆம் ஆண்டில் சென்னை சூப்பர் கிங்ஸிற்காக விளையாடி பத்து போட்டிகளில் 196 ஓட்டங்கள் எடுத்தார்.",
@@ -180,7 +180,7 @@
                 "url": "/read/ta/chennai_super_kings",
                 "contentUrl": "/static/content/ta/chennai_super_kings.json",
                 "label": "சென்னை சூப்பர் கிங்க்ஸ்",
-                "id": "phase_fact_fact_சென்னை_சூப்பர்_கிங்க்ஸ்",
+                "id": "stephen_fleming_phase_6_fact",
                 "value": {
                   "label": "சென்னை சூப்பர் கிங்க்ஸ் (சிஎஸ்கே) 2008 ஆம் ஆண்டு நிறுவப்பட்டது, இண்டியன் பிரீமியர் லீக்கில் (ஐபிஎல்) விளையாடும் இந்த அணி தமிழ்நாட்டின் சென்னையைத் தலைமையிடமாகக் கொண்ட கிரிக்கெட் அணி ஆகும்.",
                   "image": {
@@ -200,7 +200,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "stephen_fleming_achievement_0",
           "value": {
             "label": "2005 - கவுண்டி சாம்பியன்ஷிப் வெற்றிக்கு நாட்டின்ஹம்ஷைர் அணிக்கு தலைமையேற்றார், இது 18 வருடங்களில் அவர்களுடைய முதலாவது சாம்பியன்ஷிப் பட்டமாகும்.",
             "image": {
@@ -211,7 +211,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "stephen_fleming_achievement_1",
           "value": {
             "label": "2006 - ஒருநாள் சர்வதேச போட்டிக்கு பிளெமிங் 194-வது முறையாக தலைமையேற்றார், இதன்மூலம் அர்ஜூனா ரணதுங்காவின் உலக சாதனையை முறியடித்தார்.",
             "image": {
@@ -222,7 +222,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "stephen_fleming_achievement_2",
           "value": {
             "label": "பிளெமிங் தன் கிரிக்கெட் வாழ்க்கையில் 170 கேட்ச்சுகளை பிடித்துள்ளார்.",
             "image": {
@@ -233,7 +233,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "stephen_fleming_achievement_3",
           "value": {
             "label": "அவர் பயிற்சியாளர் பொறுப்பேற்றிருந்த சென்னை சூப்பர் கிங்ஸ் அணி 2018 ஐபிஎல்-இல் வெற்றிபெற்றது.",
             "image": {
@@ -244,7 +244,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "stephen_fleming_achievement_4",
           "value": {
             "label": "அதிக ஒருநாள் சர்வதேச போட்டிகளில் விளையாடிய நியூஸிலாந்தவர் என்ற சாதனையை பிளெமிங் படைத்துள்ளார்.",
             "image": {
@@ -261,13 +261,13 @@
       "facts": [
         {
           "label": "நியூஸிலாந்து (1994-2008)",
-          "id": "team_fact_நியூஸிலாந்து_1994-2008",
+          "id": "stephen_fleming_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "நியூசிலாந்து தேசியக் கிரிக்கெட் அணி",
-                "id": "team_fact_fact_நியூசிலாந்து_தேசியக்_கிரிக்கெட்_அணி",
+                "id": "stephen_fleming_team_fact_0_fact",
                 "url": "/read/ta/new_zealand_national_cricket_team",
                 "contentUrl": "/static/content/ta/new_zealand_national_cricket_team.json",
                 "value": {
@@ -283,13 +283,13 @@
         },
         {
           "label": "சென்னை சூப்பர் கிங்ஸ் (2008)",
-          "id": "team_fact_சென்னை_சூப்பர்_கிங்ஸ்_2008",
+          "id": "stephen_fleming_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "சென்னை சூப்பர் கிங்க்ஸ்",
-                "id": "team_fact_fact_சென்னை_சூப்பர்_கிங்க்ஸ்",
+                "id": "stephen_fleming_team_fact_1_fact",
                 "url": "/read/ta/chennai_super_kings",
                 "contentUrl": "/static/content/ta/chennai_super_kings.json",
                 "value": {
@@ -305,7 +305,7 @@
         },
         {
           "label": "கேண்டர்பெரி (1991-2000)",
-          "id": "team_fact_கேண்டர்பெரி_1991-2000",
+          "id": "stephen_fleming_team_fact_2",
           "value": {
             "label": "கேண்டர்பெரி என்பது நியூஸிலாந்தின் கேண்டர்பெரியைச் சேர்ந்த நியூஸிலாந்து முதல்-தர கிரிக்கெட் அணியாகும்."
           }
@@ -319,7 +319,7 @@
         {
           "label": "நியூஸிலாந்து ஆர்டர் ஆஃப் மெரிட்",
           "tag": "2011",
-          "id": "award-0",
+          "id": "stephen_fleming_award_0",
           "value": {
             "label": "நியூஸிலாந்து ஆர்டர் ஆஃப் மெரிட் என்பது எந்த ஒரு துறையிலும் பெருமுயற்சி செய்து சிறப்பான சேவை வழங்குகின்ற எவரையும் கௌரவிப்பதற்காக இரண்டாம் எலிசபெத் ராணியின் அரச கட்டளையின்படி நிறுவப்பட்ட கௌரவப் பட்டமாகும்.",
             "image": {

@@ -71,7 +71,7 @@
     },
     {
       "title": "Style of Play",
-      "id": "style_of_play",
+      "id": "bhuvneshwar_kumar_style_of_play",
       "cardType": "simple",
       "facts": [
         {
@@ -92,7 +92,7 @@
       "facts": [
         {
           "label": "First class Debut",
-          "id": "phase_first_class_debut",
+          "id": "bhuvneshwar_kumar_phase_0",
           "note": "2007",
           "value": {
             "label": "Kumar made his first-class debut playing for Uttar Pradesh at the age of 17 against Bengal",
@@ -101,7 +101,7 @@
                 "url": "/read/en/ranji_trophy",
                 "contentUrl": "/static/content/en/ranji_trophy.json",
                 "label": "Ranji Trophy",
-                "id": "phase_fact_fact_ranji_trophy",
+                "id": "bhuvneshwar_kumar_phase_0_fact",
                 "value": {
                   "label": "The Ranji Trophy is a domestic first-class cricket championship played in India between teams representing regional and state cricket associations.",
                   "image": {
@@ -115,7 +115,7 @@
         },
         {
           "label": "National team debut ",
-          "id": "phase_national_team_debut",
+          "id": "bhuvneshwar_kumar_phase_1",
           "note": "2012",
           "value": {
             "label": "Kumar made his international debut playing a T20 match versus Pakistan in which he took 3 wickets for 9 runs in 4 overs.",
@@ -124,7 +124,7 @@
                 "url": "/read/en/pakistan_national_cricket_team",
                 "contentUrl": "/static/content/en/pakistan_national_cricket_team.json",
                 "label": "Pakistan national cricket team",
-                "id": "phase_fact_fact_pakistan_national_cricket_team",
+                "id": "bhuvneshwar_kumar_phase_1_fact",
                 "value": {
                   "label": "The Pakistan Men's National Cricket Team, popularly referred to as the Shaheens, Green Shirts and Men in Green, is administered by the Pakistan Cricket Board (PCB). The team is a Full Member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
                   "image": {
@@ -138,7 +138,7 @@
         },
         {
           "label": "ICC Tournament Debut",
-          "id": "phase_icc_tournament_debut",
+          "id": "bhuvneshwar_kumar_phase_2",
           "note": "2013",
           "value": {
             "label": "Kumar was a part of the Indian team which won the 2013 Champions Trophy"
@@ -146,7 +146,7 @@
         },
         {
           "label": "2015 World cup",
-          "id": "phase_2015_world_cup",
+          "id": "bhuvneshwar_kumar_phase_3",
           "note": "2015",
           "value": {
             "label": "Kumar was expected to start in all matches for the 2015 ICC Cricket World Cup but could not due to poor fitness",
@@ -155,7 +155,7 @@
                 "url": "/read/en/2015_cricket_world_cup",
                 "contentUrl": "/static/content/en/2015_cricket_world_cup.json",
                 "label": "2015 Cricket World Cup",
-                "id": "phase_fact_fact_2015_cricket_world_cup",
+                "id": "bhuvneshwar_kumar_phase_3_fact",
                 "value": {
                   "label": "The 2015 ICC Cricket World Cup was the 11th Cricket World Cup, jointly hosted by Australia and New Zealand.",
                   "image": {
@@ -169,7 +169,7 @@
         },
         {
           "label": "Champions trophy",
-          "id": "phase_champions_trophy",
+          "id": "bhuvneshwar_kumar_phase_4",
           "note": "2017",
           "value": {
             "label": "In the 2017 ICC Champions Trophy, Kumar led the Indian bowling attack alongside Jasprit Bumrah",
@@ -178,7 +178,7 @@
                 "url": "/read/en/icc_champions_trophy",
                 "contentUrl": "/static/content/en/icc_champions_trophy.json",
                 "label": "ICC Champions Trophy",
-                "id": "phase_fact_fact_icc_champions_trophy",
+                "id": "bhuvneshwar_kumar_phase_4_fact",
                 "value": {
                   "label": "The ICC Champions Trophy was a one day international (ODI) cricket tournament organised by the International Cricket Council (ICC), second in importance only to the Cricket World Cup. Its name was changed to the Champions Trophy in 2002.",
                   "image": {
@@ -192,7 +192,7 @@
         },
         {
           "label": "IPL Debut",
-          "id": "phase_ipl_debut",
+          "id": "bhuvneshwar_kumar_phase_6",
           "note": "2009",
           "value": {
             "label": "Following his good performances in the 2008/09 Ranji season, Kumar was signed up by the IPL team Royal Challengers Bangalore",
@@ -201,7 +201,7 @@
                 "url": "/read/en/royal_challengers_bangalore",
                 "contentUrl": "/static/content/en/royal_challengers_bangalore.json",
                 "label": "Royal Challengers Bangalore",
-                "id": "phase_fact_fact_royal_challengers_bangalore",
+                "id": "bhuvneshwar_kumar_phase_6_fact",
                 "value": {
                   "label": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL).",
                   "image": {
@@ -221,7 +221,7 @@
       "facts": [
         {
           "label": "",
-          "id": "achievement_or_record_1",
+          "id": "bhuvneshwar_kumar_achievement_0",
           "value": {
             "label": "Kumar is the first bowler to dismiss Sachin Tendulkar for a duck in first-class domestic cricket.",
             "image": {
@@ -232,7 +232,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_2",
+          "id": "bhuvneshwar_kumar_achievement_1",
           "value": {
             "label": "Kumar had a record partnership (140) with M. S. Dhoni for the 9th wicket in the first Test of the 2013 Border-Gavaskar trophy versus Australia",
             "image": {
@@ -243,7 +243,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_3",
+          "id": "bhuvneshwar_kumar_achievement_2",
           "value": {
             "label": "Bhuvneshwar Kumar has the highest score (38) by an Indian number 10 on debut.",
             "image": {
@@ -254,7 +254,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_4",
+          "id": "bhuvneshwar_kumar_achievement_3",
           "value": {
             "label": "In January 2019, in the first ODI against Australia, Kumar took his 100th wicket in ODIs",
             "image": {
@@ -265,7 +265,7 @@
         },
         {
           "label": "",
-          "id": "achievement_or_record_5",
+          "id": "bhuvneshwar_kumar_achievement_4",
           "value": {
             "label": "Kumar became the first Indian number 9 player to get three fifties in one series.",
             "image": {
@@ -282,13 +282,13 @@
       "facts": [
         {
           "label": "India National Cricket team (2012 - present)",
-          "id": "team_fact_india_national_cricket_team_2012 - present",
+          "id": "bhuvneshwar_kumar_team_fact_0",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "India national cricket team",
-                "id": "team_fact_fact_india_national_cricket_team",
+                "id": "bhuvneshwar_kumar_team_fact_0_fact",
                 "url": "/read/en/india_national_cricket_team",
                 "contentUrl": "/static/content/en/india_national_cricket_team.json",
                 "value": {
@@ -304,13 +304,13 @@
         },
         {
           "label": "Sunrisers Hyderabad (2014-present)",
-          "id": "team_fact_sunrisers_hyderabad_2014-present",
+          "id": "bhuvneshwar_kumar_team_fact_1",
           "value": {
             "label": "",
             "facts": [
               {
                 "label": "Sunrisers Hyderabad",
-                "id": "team_fact_fact_sunrisers_hyderabad",
+                "id": "bhuvneshwar_kumar_team_fact_1_fact",
                 "url": "/read/en/sunrisers_hyderabad",
                 "contentUrl": "/static/content/en/sunrisers_hyderabad.json",
                 "value": {
@@ -326,7 +326,7 @@
         },
         {
           "label": "Uttar Pradesh (2007 - present)",
-          "id": "team_fact_uttar_pradesh_2007 - present",
+          "id": "bhuvneshwar_kumar_team_fact_2",
           "value": {
             "label": "The Uttar Pradesh cricket team, is a domestic team based in the Indian state of Uttar Pradesh with Kanpur as its home ground"
           }
