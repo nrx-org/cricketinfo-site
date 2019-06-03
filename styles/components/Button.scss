@@ -2,6 +2,7 @@
   background-color: $color-blue-dark;
   border-radius: $border-radius-s;
   border: none;
+  line-height: $line-height-m;
 
   font-family: inherit;
   font-size: $font-size-s;
@@ -33,10 +34,8 @@
 
 .wcp-button--padding-s {
   padding: 0.5rem 1rem;
-  line-height: $line-height-xs;
 }
 
 .wcp-button--padding-m {
   padding: $gutter-m;
-  line-height: $line-height-xs;
 }

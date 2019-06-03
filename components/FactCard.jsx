@@ -1,4 +1,6 @@
 import React from "react";
+import PropTypes from "prop-types";
+
 import { StoriesContainer } from "./StoriesContainer";
 import { factCardDataPropTypes } from "../lib/prop_types";
 import { Timeline } from "./Timeline";
@@ -9,6 +11,9 @@ import { ListCard } from "./ListCard";
 import { FactCardSimple } from "./FactCardSimple";
 import { TinyCardCarouselWithInfo } from "./TinyCardCarouselWithInfo";
 import { BarChartWithInfo } from "./BarChartWithInfo";
+import { Button } from "./Button";
+import { articleUiStrings } from "../lib/ui_strings";
+import { getSurveyUrl } from "../lib/urls";
 
 const FactCardTable = ({ cardData }) => {
   const content = cardData.facts.map(f => (
@@ -37,7 +42,7 @@ FactCardTable.propTypes = {
   cardData: factCardDataPropTypes.isRequired
 };
 
-export const FactCard = ({ cardData }) => {
+export const FactCard = ({ cardData, lang }) => {
   if (cardData.cardType === "table") {
     return <FactCardTable cardData={cardData} />;
   }
@@ -78,11 +83,24 @@ export const FactCard = ({ cardData }) => {
     return <BarChartWithInfo cardData={cardData} />;
   }
 
+  if (cardData.cardType === "survey_link") {
+    return (
+      <section>
+        <Button
+          href={getSurveyUrl(lang, "matomo-user-id")}
+          isFullWidth
+          shouldOpenInNewTab
+        >
+          {articleUiStrings.takeSurvey[lang]}
+        </Button>
+      </section>
+    );
+  }
+
   return null;
 };
 
 FactCard.propTypes = {
-  cardData: factCardDataPropTypes.isRequired
+  cardData: factCardDataPropTypes.isRequired,
+  lang: PropTypes.string.isRequired
 };
-
-// TODO: Modify simple, Add tag_card, Add list_card
