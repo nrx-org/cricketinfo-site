@@ -58,3 +58,16 @@ button {
 .noscroll {
   overflow: hidden;
 }
+
+.wcp-home-header + .wcp-long-form {
+  margin-top: 3 * $gutter-m;
+}
+
+.wcp-long-form {
+  line-height: 1.6;
+  padding-bottom: 2 * $gutter-m;
+
+  p + p {
+    margin-top: $gutter-m;
+  }
+}

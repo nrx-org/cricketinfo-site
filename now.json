@@ -13,6 +13,10 @@
     {
       "src": "/privacy_policy/(?<lang>.*)",
       "dest": "/privacy_policy?lang=$lang"
+    },
+    {
+      "src": "/survey_statement/en",
+      "dest": "/survey_statement"
     }
   ],
   "name": "wikipedia-client-prototypes",

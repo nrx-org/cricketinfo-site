@@ -41,6 +41,10 @@ app
       app.render(req, res, actualPage, queryParams);
     });
 
+    server.get("/survey_statement/en", (req, res) =>
+      app.render(req, res, "/survey_statement")
+    );
+
     server.get("*", (req, res) => {
       return handle(req, res);
     });

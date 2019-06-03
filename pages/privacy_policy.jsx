@@ -12,7 +12,7 @@ const PrivacyPolicy = ({ lang }) => {
     <BaseLayout>
       <HomeHeader />
       <article
-        className="wcp-privacy-policy"
+        className="wcp-privacy-policy wcp-long-form"
         dangerouslySetInnerHTML={{ __html: privacyPolicy[lang] }}
       />
     </BaseLayout>
