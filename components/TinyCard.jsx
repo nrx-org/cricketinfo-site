@@ -14,11 +14,13 @@ export const TinyCard = ({ children, coverImage, title, href }) => {
 
   const contentEl = (
     <div className={`wcp-tiny-card ${activeClassName}`}>
-      <Image
-        className="wcp-tiny-card__cover-image"
-        src={coverImage.url}
-        alt={coverImage.altText}
-      />
+      <div className="wcp-tiny-card__cover-image__wrapper">
+        <Image
+          className="wcp-tiny-card__cover-image"
+          src={coverImage.url}
+          alt={coverImage.altText}
+        />
+      </div>
       <section className="wcp-tiny-card__content">
         {title && <h1 className="wcp-tiny-card__title">{title}</h1>}
         <div className="wcp-tiny-card__text">{children}</div>

@@ -1,7 +1,6 @@
 $border-radius-cover-image: 8px;
 
 .wcp-tiny-card-wrapper {
-  // height: 4rem;
   display: flex;
 }
 
@@ -45,11 +44,16 @@ $border-radius-cover-image: 8px;
 .wcp-tiny-card__cover-image {
   border-radius: $border-radius-cover-image;
   box-shadow: 0 0 1px $color-gray-light;
-  height: 3rem;
-  width: 3rem;
+  height: 100%;
+  width: 100%;
   display: inline-block;
   object-fit: cover;
   box-sizing: content-box;
+}
+
+.wcp-tiny-card__cover-image__wrapper {
+  width: 3rem;
+  height: 3rem;
 }
 
 .wcp-tiny-card__content {
@@ -57,6 +61,8 @@ $border-radius-cover-image: 8px;
   display: inline-block;
   padding-top: 0;
   position: relative;
+  flex-basis: 0;
+  flex-grow: 1;
 }
 
 .wcp-tiny-card__title {

@@ -21,8 +21,9 @@
 }
 
 .wcp-avatar-list__item__profile-picture {
-  height: 2.5rem;
-  width: 2.5rem;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
   border-radius: 50%;
   overflow: hidden;
   line-height: 0;
@@ -34,6 +35,11 @@
   img {
     width: 100%;
   }
+}
+
+.wcp-avatar-list__item__profile-picture__wrapper {
+  height: 2.5rem;
+  width: 2.5rem;
 }
 
 .wcp-avatar-list__item__info {

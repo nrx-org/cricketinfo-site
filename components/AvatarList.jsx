@@ -19,11 +19,13 @@ export const AvatarList = ({ cardData }) => (
       {cardData.facts.map(f => {
         const content = (
           <div className="wcp-avatar-list__item">
-            <Image
-              src={f.value && f.value.image && f.value.image.url}
-              alt={f.value && f.value.image && f.value.image.altText}
-              className="wcp-avatar-list__item__profile-picture"
-            />
+            <div className="wcp-avatar-list__item__profile-picture__wrapper">
+              <Image
+                src={f.value && f.value.image && f.value.image.url}
+                alt={f.value && f.value.image && f.value.image.altText}
+                className="wcp-avatar-list__item__profile-picture"
+              />
+            </div>
             <div className="wcp-avatar-list__item__info">
               <div className="wcp-avatar-list__item__info__label">
                 {f.label}
