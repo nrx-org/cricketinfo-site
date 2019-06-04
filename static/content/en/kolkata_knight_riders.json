@@ -158,7 +158,58 @@
     {
       "title": "Famous Players",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "Dinesh Karthik",
+          "id": "kolkata_knight_riders_player_0",
+          "value": {
+            "url": null,
+            "label": "Dinesh Karthik made his maiden Test century against Bangladesh and then was India's leading scorer in the Test tour of England, helping India to win their first series in England in 21 years.",
+            "image": {
+              "url": "/static/images/master/Dinesh_Karthik.jpg",
+              "altText": "Image of Dinesh Karthik",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Robin Uthappa",
+          "id": "kolkata_knight_riders_player_1",
+          "value": {
+            "url": null,
+            "label": "Robin Uthappa  is named 'The Walking Assassin' for his tactic of charging the bowler. He played an important role in India's win at the 2007 ICC World Twenty20. ",
+            "image": {
+              "url": "/static/images/master/Robin_Uthappa_on_the_Show.jpg",
+              "altText": "Image of Robin Uthappa"
+            }
+          }
+        },
+        {
+          "label": "Sourav Ganguly",
+          "id": "kolkata_knight_riders_player_2",
+          "value": {
+            "url": null,
+            "label": "Sourav Gangly is the most successful Indian test captain overseas with 11 wins. The Indian team was ranked eighth in the ICC rankings before he became the captain, and under his tenure the team rank went up to second.",
+            "image": {
+              "url": "/static/images/master/Sourav_Ganguly_closeup.jpg",
+              "altText": "Image of Sourav Ganguly"
+            }
+          }
+        },
+        {
+          "label": "Andre Russell",
+          "id": "kolkata_knight_riders_player_3",
+          "value": {
+            "url": null,
+            "label": "Andre Russell has played in over 300 Twenty20 matches for a range of sides in leagues throughout the world.",
+            "image": {
+              "url": "/static/images/master/Andre_Russell.jpg",
+              "altText": "Image of Andre Russell",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "Achievements & Records",
@@ -175,6 +226,7 @@
             "label": " Nokia",
             "url": null,
             "image": {
+              "url": "/static/images/master/Nokia_wordmark.svg",
               "altText": "Image of  Nokia"
             }
           }
@@ -185,7 +237,9 @@
             "label": "Jio",
             "url": null,
             "image": {
-              "altText": "Image of Jio"
+              "url": "/static/images/master/Reliance_Jio_Logo_28October_201529.svg",
+              "altText": "Image of Jio",
+              "license": ""
             }
           }
         },
@@ -195,6 +249,7 @@
             "label": "Alcis Sports",
             "url": null,
             "image": {
+              "url": "",
               "altText": "Image of Alcis Sports"
             }
           }

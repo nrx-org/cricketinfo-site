@@ -106,8 +106,7 @@
             "label": "The Punjab Cricket Association Inderjit Singh Bindra Stadium is a cricket ground located in Mohali, Chandigarh CR. It is popularly referred to as the Mohali Stadium. The stadium is home to the Punjab team. The stadium has an official capacity of 26,950 spectators.",
             "image": {
               "url": "/static/images/master/LightsMohali.png",
-              "altText": "Image of Mohali Stadium",
-              "license": ""
+              "altText": "Image of Mohali Stadium"
             }
           }
         }
@@ -158,7 +157,58 @@
     {
       "title": "Famous Players",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "Chris Gayle",
+          "id": "kings_xi_punjab_player_0",
+          "value": {
+            "url": null,
+            "label": "Christopher Henry Gayle, OD (born 21 September 1979) is a Jamaican cricketer who plays international cricket for the West Indies. He plays domestic cricket for Jamaica, and also represents the Kings XI Punjab in the Indian Premier League.",
+            "image": {
+              "url": "/static/images/master/ChrisGayle_Cropped.jpg",
+              "altText": "Image of Chris Gayle"
+            }
+          }
+        },
+        {
+          "label": "KL Rahul",
+          "id": "kings_xi_punjab_player_1",
+          "value": {
+            "url": null,
+            "label": "Kannur Lokesh Rahul commonly known as KL Rahul, is an Indian cricketer. A top-order batsman and occasional wicket-keeper, he plays for India internationally, Karnataka in domestic circuit and Kings XI Punjab in the Indian Premier League.",
+            "image": {
+              "url": "/static/images/master/KL_Rahul_at_Femina_Miss_India_2018_Grand_Finale_28cropped29.jpg",
+              "altText": "Image of KL Rahul",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Moises Henriques",
+          "id": "kings_xi_punjab_player_2",
+          "value": {
+            "url": null,
+            "label": "Moises Constantino Henriques is a Portugal-born Australian professional cricketer. He was the first cricketer born in Portugal to play for Australia in an international match.",
+            "image": {
+              "url": "/static/images/master/Moises_Henriques_with_the_Sydney_Sixers.jpg",
+              "altText": "Image of Moises Henriques"
+            }
+          }
+        },
+        {
+          "label": "Andrew Tye",
+          "id": "kings_xi_punjab_player_3",
+          "value": {
+            "url": null,
+            "label": "Andrew James Tye  is an Australian cricketer who plays One Day Internationals (ODIs) and Twenty20 Internationals (T20Is) for the Australian national cricket team.",
+            "image": {
+              "url": "/static/images/master/2018.02.03.20.38.56-AUSvNZL_T20_NZL_innings2C_SCG-0001_283861820589029_28Tye_cropped29.jpg",
+              "altText": "Image of Andrew Tye",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "Achievements & Records",
@@ -175,6 +225,7 @@
             "label": "Aaj Tak",
             "url": null,
             "image": {
+              "url": "/static/images/master/Aaj_tak_logo.png",
               "altText": "Image of Aaj Tak"
             }
           }
@@ -185,7 +236,9 @@
             "label": "Jio",
             "url": null,
             "image": {
-              "altText": "Image of Jio"
+              "url": "/static/images/master/Reliance_Jio_Logo_28October_201529.svg",
+              "altText": "Image of Jio",
+              "license": ""
             }
           }
         }

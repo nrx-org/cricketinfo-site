@@ -158,7 +158,58 @@
     {
       "title": "பிரபலமான வீரர்",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "கிறிஸ் கெய்ல்",
+          "id": "kings_xi_punjab_player_0",
+          "value": {
+            "url": null,
+            "label": "கிறிஸ்டோபர் ஹென்றி கெய்ல், கிறிஸ்டோபர் ஹென்றி கெயில், OD (பிறப்பு செப்டம்பர் 21, 1979) ஒரு மேற்கிந்திய அணிக்கான சர்வதேச கிரிக்கெட்டைப் பெற்ற ஜமைக்கா வீரர் ஆவார். அவர் ஜமைக்காவிற்கு உள்நாட்டு கிரிக்கெட் விளையாடுகிறார், மற்றும் ஐபிஎல் பஞ்சாப் லீக்கில் கிங்ஸ் XI பஞ்சாபியை பிரதிநிதித்துவப்படுத்துகிறார்.",
+            "image": {
+              "url": "/static/images/master/ChrisGayle_Cropped.jpg",
+              "altText": "Image of கிறிஸ் கெய்ல்"
+            }
+          }
+        },
+        {
+          "label": "KL ராகுல்",
+          "id": "kings_xi_punjab_player_1",
+          "value": {
+            "url": null,
+            "label": "கன்னூர் லோகேஷ் ராகுல் பொதுவாக KL ராகுல் என்று அழைக்கப்படுகிறார், இந்திய கிரிக்கெட் வீரர் ஆவார். ஒரு உயர்மட்ட வரிசை வீரர் மற்றும் எப்போதாவது விக்கெட் கீப்பர், அவர் சர்வதேச அளவில் இந்தியா, கர்நாடகாவின் உள்நாட்டு சுற்று மற்றும் கிங்ஸ் XI பஞ்சாப் இந்திய பிரீமியர் லீகில் விளையாடும்.",
+            "image": {
+              "url": "/static/images/master/KL_Rahul_at_Femina_Miss_India_2018_Grand_Finale_28cropped29.jpg",
+              "altText": "Image of KL ராகுல்",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "மோயஸ் ஹென்றிக்குஸ்",
+          "id": "kings_xi_punjab_player_2",
+          "value": {
+            "url": null,
+            "label": "மொய்சஸ் கான்ஸ்டன்டினோ ஹென்றிஸ் ஒரு போர்த்துக்கல்-பிறந்த ஆஸ்திரேலிய தொழில்முறை கிரிக்கெட் வீரர் ஆவார். ஒரு சர்வதேச போட்டியில் ஆஸ்திரேலியாவிற்கு விளையாட போர்த்துக்கல்லில் பிறந்த முதல் கிரிக்கெட் வீரர் ஆவார்",
+            "image": {
+              "url": "/static/images/master/Moises_Henriques_with_the_Sydney_Sixers.jpg",
+              "altText": "Image of மோயஸ் ஹென்றிக்குஸ்"
+            }
+          }
+        },
+        {
+          "label": "ஆண்ட்ரே ரசல்",
+          "id": "kings_xi_punjab_player_3",
+          "value": {
+            "url": null,
+            "label": "உலகெங்கிலும் உள்ள லீக் போட்டிகளில் 300 க்கும் மேற்பட்ட போட்டிகளில் ஆண்ட்ரே ரசல் விளையாடியுள்ளார்.",
+            "image": {
+              "url": "/static/images/master/2018.02.03.20.38.56-AUSvNZL_T20_NZL_innings2C_SCG-0001_283861820589029_28Tye_cropped29.jpg",
+              "altText": "Image of ஆண்ட்ரே ரசல்",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "சாதனைகள் & பதிவுகள்",
@@ -175,6 +226,7 @@
             "label": "ஆஜ் தக்",
             "url": null,
             "image": {
+              "url": "/static/images/master/Aaj_tak_logo.png",
               "altText": "Image of ஆஜ் தக்"
             }
           }
@@ -185,7 +237,9 @@
             "label": "Jio",
             "url": null,
             "image": {
-              "altText": "Image of Jio"
+              "url": "/static/images/master/Reliance_Jio_Logo_28October_201529.svg",
+              "altText": "Image of Jio",
+              "license": ""
             }
           }
         }

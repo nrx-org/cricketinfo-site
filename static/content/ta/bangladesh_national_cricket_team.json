@@ -161,7 +161,59 @@
     {
       "title": "பிரபலமான வீரர்",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "மஷ்ரஃப் மோர்டாசா",
+          "id": "bangladesh_national_cricket_team_player_0",
+          "value": {
+            "url": null,
+            "label": "2019 ஆம் ஆண்டு ஏப்ரல் மாதம் 2019 ஆம் ஆண்டு உலகக் கோப்பையில் வங்காளதேச அணியின் கேப்டனாக நியமிக்கப்பட்டார்.",
+            "image": {
+              "url": "/static/images/master/Mashrafe_Bin_Mortaza_28cropped29.jpg",
+              "altText": "Image of மஷ்ரஃப் மோர்டாசா",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "ஷகிப் அல் ஹசன்",
+          "id": "bangladesh_national_cricket_team_player_1",
+          "value": {
+            "url": null,
+            "label": "ஷகிப் அல் ஹசன், பங்களாதேஷ் சர்வதேச கிரிக்கெட் வீரர் ஆவார், இவர் தற்போது பங்களாதேஷ் தேசிய அணிக்கு டெஸ்ட் மற்றும் T20I வடிவங்களில் தலைவராக உள்ளார். வங்கதேசத்திற்காக இதுவரை விளையாடிய சிறந்த மற்றும் சிறந்த கிரிக்கெட் வீரராக அவர் கருதப்படுகிறார்.",
+            "image": {
+              "url": "/static/images/master/Shakib_Al_Hasan_28429_28cropped29.jpg",
+              "altText": "Image of ஷகிப் அல் ஹசன்",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "முஷ்பிகுர் ரஹிம்",
+          "id": "bangladesh_national_cricket_team_player_2",
+          "value": {
+            "url": null,
+            "label": "மொஹமட் முஷ்பிகுர் ரஹிம் வங்காளதேச கிரிக்கெட் வீரர் மற்றும் வங்காளதேச தேசிய கிரிக்கெட் அணியின் முன்னாள் கேப்டன் ஆவார். பங்களாதேஷ் பேட்ஸ்மேன் மூலம் அவர் அதிக மதிப்பெண் பெற்றார்.",
+            "image": {
+              "url": "/static/images/master/Mushfiqur_Rahim_batting_against_England_at_Lords_in_20102C_cropped.jpg",
+              "altText": "Image of முஷ்பிகுர் ரஹிம்",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "திசரா பெரேரா",
+          "id": "bangladesh_national_cricket_team_player_3",
+          "value": {
+            "url": null,
+            "label": "திசரா பெரேரா, ஒரு தொழில்முறை இலங்கை கிரிக்கெட் வீரர் ஆவார். 2010 ஐபிஎல் பிரீமியர் லீக்கில் ஏலத்தில் 50,000 அமெரிக்க டாலருக்கு சென்னை சூப்பர் கிங்ஸ் வாங்கினார்.",
+            "image": {
+              "url": "/static/images/master/Tamim-Iqbal-wt20.png",
+              "altText": "Image of திசரா பெரேரா"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "சாதனைகள் & பதிவுகள்",
@@ -178,6 +230,7 @@
             "label": "Grameenphone",
             "url": null,
             "image": {
+              "url": "/static/images/master/Grameephone_Logo.png",
               "altText": "Image of Grameenphone"
             }
           }

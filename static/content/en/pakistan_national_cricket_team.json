@@ -106,8 +106,7 @@
             "label": "The National Stadium in Karachi, Pakistan is able to hold 34,228 spectators.",
             "image": {
               "url": "/static/images/master/Nat_Std01.JPG",
-              "altText": "Image of National Stadium",
-              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
+              "altText": "Image of National Stadium"
             }
           }
         }
@@ -158,7 +157,45 @@
     {
       "title": "Famous Players",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "Shoaib Malik",
+          "id": "pakistan_national_cricket_team_player_0",
+          "value": {
+            "url": null,
+            "label": " On 1 July 2018, Malik became the first Asian batsman to score 2,000 runs in T20Is and first player to play 100 T20Is in the world.",
+            "image": {
+              "url": "/static/images/master/Shoaib_Malik2C_Dunedin2C_NZ2C_2009.jpg",
+              "altText": "Image of Shoaib Malik",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
+            }
+          }
+        },
+        {
+          "label": "Shahid Afridi",
+          "id": "pakistan_national_cricket_team_player_1",
+          "value": {
+            "url": null,
+            "label": "Shahid Afridi holds the distinction of having hit the most number of sixes in the history of ODI cricket.",
+            "image": {
+              "url": "/static/images/master/Shahid_Afridi_in_2017.jpg",
+              "altText": "Image of Shahid Afridi"
+            }
+          }
+        },
+        {
+          "label": "Inzamam-ul-Haq",
+          "id": "pakistan_national_cricket_team_player_2",
+          "value": {
+            "url": null,
+            "label": "Syed Inzamam-ul-Haq, also known as Inzi, is a former Pakistani cricketer, and former captain. He is the leading run scorer for Pakistan in one-day internationals.",
+            "image": {
+              "url": "/static/images/master/Inzamam-ul-Haq.jpg",
+              "altText": "Image of Inzamam-ul-Haq"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "Achievements & Records",
@@ -175,6 +212,7 @@
             "label": "CA Sports",
             "url": null,
             "image": {
+              "url": "/static/images/master/CA_sports_logo.png",
               "altText": "Image of CA Sports"
             }
           }
@@ -185,6 +223,7 @@
             "label": "Pepsi",
             "url": null,
             "image": {
+              "url": "/static/images/master/Pepsi_logo_new.svg",
               "altText": "Image of Pepsi"
             }
           }
@@ -195,6 +234,7 @@
             "label": "T10 Sports",
             "url": null,
             "image": {
+              "url": "",
               "altText": "Image of T10 Sports"
             }
           }

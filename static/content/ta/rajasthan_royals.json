@@ -158,7 +158,58 @@
     {
       "title": "பிரபலமான வீரர்",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "ஸ்டீவ் ஸ்மித்",
+          "id": "rajasthan_royals_player_0",
+          "value": {
+            "url": null,
+            "label": "ஸ்டீவன் பீட்டர் டெவியூக்ஸ் ஸ்மித் ஒரு ஆஸ்திரேலிய சர்வதேச கிரிக்கெட் வீரர் மற்றும் ஆஸ்திரேலிய தேசிய அணியின் முன்னாள் கேப்டன் ஆவார். டிசம்பர் 30, 2007 அன்று, 947 டெஸ்ட் பேட்டிங் மதிப்பீட்டை அவர் எட்டினார், இது இரண்டாவது முறையாக மிக உயர்ந்ததாகும்.",
+            "image": {
+              "url": "/static/images/master/Steve_Smith_28cricketer292C_2014_28cropped29.jpg",
+              "altText": "Image of ஸ்டீவ் ஸ்மித்",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "ஷேன் வார்ன்",
+          "id": "rajasthan_royals_player_1",
+          "value": {
+            "url": null,
+            "label": "ஷேன் வார்ன் ராஜஸ்தான் ராயல்ஸ் அணிக்காக இந்திய பிரிமியர் லீகின் முதல் நான்கு பருவங்களில் (2008-2011) விளையாடினார், அங்கு அவர் கேப்டனும், பயிற்சியாளருமான இருவரும் நடித்தார்.",
+            "image": {
+              "url": "/static/images/master/Shane_Warne_bowling_2009.jpg",
+              "altText": "Image of ஷேன் வார்ன்"
+            }
+          }
+        },
+        {
+          "label": "ராகுல் திராவிட்",
+          "id": "rajasthan_royals_player_2",
+          "value": {
+            "url": null,
+            "label": "31258 பந்துகளை எதிர்கொண்ட ராகுல் டிராவிட், டெஸ்ட் கிரிக்கெட்டில் எந்த வீரரும் எதிர்கொள்ளும் பந்துகளில் அதிக எண்ணிக்கையில் உள்ளார்.",
+            "image": {
+              "url": "/static/images/master/RahulDravid.jpg",
+              "altText": "Image of ராகுல் திராவிட்"
+            }
+          }
+        },
+        {
+          "label": "மார்டின் குப்டில்",
+          "id": "rajasthan_royals_player_3",
+          "value": {
+            "url": null,
+            "label": "நியூசிலாந்தில் இருந்து முதல் கிரிக்கெட் வீரர் மற்றும் ஒரு நாள் சர்வதேச போட்டியில் இரட்டை சதத்தை அடித்த ஐந்தாவது மொத்தம் மற்றும் கிரிக்கெட் உலகக் கோப்பை போட்டிகளில் மிக உயர்ந்த தனிநபர் மதிப்பெண்ணிற்கான தற்போதைய சாதனையைப் பெற்றுள்ளார்.",
+            "image": {
+              "url": "/static/images/master/Ajinkya_Rahane_2016_28cropped29.jpg",
+              "altText": "Image of மார்டின் குப்டில்",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "சாதனைகள் & பதிவுகள்",
@@ -175,6 +226,7 @@
             "label": "ஜே.கே. லட்சுமி சிமெண்ட்",
             "url": null,
             "image": {
+              "url": "",
               "altText": "Image of ஜே.கே. லட்சுமி சிமெண்ட்"
             }
           }
@@ -185,6 +237,7 @@
             "label": "சூர்யா LED",
             "url": null,
             "image": {
+              "url": "",
               "altText": "Image of சூர்யா LED"
             }
           }
@@ -195,6 +248,7 @@
             "label": "ரெட் FM",
             "url": null,
             "image": {
+              "url": "/static/images/master/Red_fm.jpg",
               "altText": "Image of ரெட் FM"
             }
           }

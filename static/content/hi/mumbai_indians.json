@@ -123,7 +123,32 @@
           "note": "2008 - 2009",
           "value": {
             "label": "2008 में वे अंक तालिका में 5 वें स्थान पर रहे। 2009 में वे 7 वें स्थान पर रहे।",
-            "facts": []
+            "facts": [
+              {
+                "label": "आईपीएल 2008",
+                "url": "/read/hi/2008_indian_premier_league",
+                "id": "mumbai_indians_history_0_fact_0",
+                "value": {
+                  "label": "2008 का सीज़न इंडियन प्रीमियर लीग का उद्घाटन सत्र था। इसे राजस्थान रॉयल्स ने जीता था।",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of आईपीएल 2008"
+                  }
+                }
+              },
+              {
+                "label": "आईपीएल 2009",
+                "url": "/read/hi/2009_indian_premier_league",
+                "id": "mumbai_indians_history_0_fact_1",
+                "value": {
+                  "label": "2009 के सीज़न को दक्षिण अफ्रीका ने होस्ट किया था और डेक्कन चार्जर्स ने जीता था",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of आईपीएल 2009"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -132,7 +157,44 @@
           "note": "2010 - 2012",
           "value": {
             "label": "2010 के सीज़न में वे पहली बार फाइनल में पहुंचे जहाँ वे चेन्नई सुपर किंग्स से हारे। 2011 के सीज़न में उन्होंने सेमीफ़ाइनल में जगह बनाई और फिर भारत में आयोजित 2011 चैंपियंस लीग ट्वेंटी 20 जीतने के लिए बैंगलोर को हराया। उन्होंने 2012 के सीज़न में अंक तालिका में तीसरा स्थान हासिल किया",
-            "facts": []
+            "facts": [
+              {
+                "label": "आईपीएल 2010",
+                "url": "/read/hi/2010_indian_premier_league",
+                "id": "mumbai_indians_history_1_fact_0",
+                "value": {
+                  "label": "2010 का सीजन चेन्नई सुपर किंग्स ने जीता था",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of आईपीएल 2010"
+                  }
+                }
+              },
+              {
+                "label": "आईपीएल 2011",
+                "url": "/read/hi/2011_indian_premier_league",
+                "id": "mumbai_indians_history_1_fact_1",
+                "value": {
+                  "label": "2011 के सीजन को चेन्नई सुपर किंग्स ने लगातार दूसरे सीजन के लिए जीता था।",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of आईपीएल 2011"
+                  }
+                }
+              },
+              {
+                "label": "आईपीएल 2012",
+                "url": "/read/hi/2012_indian_premier_league",
+                "id": "mumbai_indians_history_1_fact_2",
+                "value": {
+                  "label": "2012 का सीजन कोलकाता नाइट राइडर्स ने जीता था जिसने फाइनल में गत चैंपियन चेन्नई को हराया था",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of आईपीएल 2012"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -141,7 +203,33 @@
           "note": "2013",
           "value": {
             "label": "रोहित शर्मा ने टीम का नेतृत्व किया। अनिल कुंबले, जोंटी रोड्स और सचिन तेंदुलकर की अनुभवी सलाह से टीम फाइनल में चेन्नई सुपर किंग्स पर विजयी हुई। उन्होंने चैंपियंस लीग में अपनी जीत का सिलसिला जारी रखा और पर्थ स्कॉर्चर्स को 33 रनों से हराकर खिताब जीता",
-            "facts": []
+            "facts": [
+              {
+                "label": "आईपीएल 2013",
+                "url": "/read/hi/2013_indian_premier_league",
+                "id": "mumbai_indians_history_2_fact_0",
+                "value": {
+                  "label": "2013 का सीजन मुंबई इंडियंस ने जीता था",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of आईपीएल 2013"
+                  }
+                }
+              },
+              {
+                "label": "रोहित शर्मा",
+                "url": "/read/hi/rohit_sharma",
+                "id": "mumbai_indians_history_2_fact_1",
+                "value": {
+                  "label": "रोहित शर्मा को कप्तान बनाया गया",
+                  "image": {
+                    "url": "/static/images/master/Rohit_Sharma_November_2016_28cropped29.jpg",
+                    "altText": "Image of रोहित शर्मा",
+                    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -150,7 +238,44 @@
           "note": "2014 - वर्तमान",
           "value": {
             "label": "“2014 के सीज़न में, मुंबई इंडियंस प्ले-ऑफ में पहुंच गई लेकिन एलिमिनेटर में चेन्नई सुपर किंग्स से हार गई। 2015 के सीजन में उन्होंने चेन्नई सुपर किंग्स को 41 रनों से हराकर अपना दूसरा आईपीएल ख़िताब जीता। 2016 के सीजन को उन्होंने 5वें स्थान पर रहकर खत्म किया। 2017  के सीजन में उन्होंने एक बेहद कांटे के टक्कर में राइजिंग पुणे सुपरजाइंट को हराया,इसे अक्सर आईपीएल इतिहास का सबसे अच्छा मैच और फाइनल कहा जाता है। 2018 के सीजन में वे फिर से अंत में 5वें स्थान पर रहे।",
-            "facts": []
+            "facts": [
+              {
+                "label": "आईपीएल 2014",
+                "url": "/read/hi/2014_indian_premier_league",
+                "id": "mumbai_indians_history_3_fact_0",
+                "value": {
+                  "label": "2014 के सीजन की मेजबानी भारत और यूएई ने की थी। कोलकाता नाइट राइडर्स इसका चैंपियन बना था",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of आईपीएल 2014"
+                  }
+                }
+              },
+              {
+                "label": "आईपीएल 2015",
+                "url": "/read/hi/2015_indian_premier_league",
+                "id": "mumbai_indians_history_3_fact_1",
+                "value": {
+                  "label": "2015 का सीजन मुंबई इंडियंस ने जीता था।",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of आईपीएल 2015"
+                  }
+                }
+              },
+              {
+                "label": "आईपीएल 2017",
+                "url": "/read/hi/2017_indian_premier_league",
+                "id": "mumbai_indians_history_3_fact_2",
+                "value": {
+                  "label": "2017 का सीजन मुंबई इंडियंस ने जीता था",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of आईपीएल 2017"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
@@ -158,7 +283,45 @@
     {
       "title": "प्रसिद्ध खिलाड़ी",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "सचिन तेंदुलकर",
+          "id": "mumbai_indians_player_0",
+          "value": {
+            "url": null,
+            "label": "सचिन तेंदुलकर को मुंबई के आइकन खिलाड़ी का नाम दिया गया था और वे 2012 के सीज़न तक टीम के कप्तान थे",
+            "image": {
+              "url": "/static/images/master/Sachin_Tendulkar_at_MRF_Promotion_Event.jpg",
+              "altText": "Image of सचिन तेंदुलकर"
+            }
+          }
+        },
+        {
+          "label": "रोहित शर्मा",
+          "id": "mumbai_indians_player_1",
+          "value": {
+            "url": null,
+            "label": "रोहित शर्मा 2013 में मुंबई इंडियंस के कप्तान बने और तब से उन्होंने तीन आईपीएल खिताब में नेतृत्व किया।",
+            "image": {
+              "url": "/static/images/master/Rohit_Sharma_November_2016_28cropped29.jpg",
+              "altText": "Image of रोहित शर्मा",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "लसिथ मलिंगा",
+          "id": "mumbai_indians_player_2",
+          "value": {
+            "url": null,
+            "label": "मुंबई इंडियंस के लसिथ मलिंगा  आईपीएल के शुरुआत से ही 150 विकेट लेकर विकेट लेने वाले अग्रणी खिलाड़ी हैं।",
+            "image": {
+              "url": "/static/images/master/Lasith_Malinga_signing.jpg",
+              "altText": "Image of लसिथ मलिंगा"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "उपलब्धियां और रिकॉर्ड",
@@ -175,6 +338,7 @@
             "label": "पर्फोमैक्स",
             "url": null,
             "image": {
+              "url": "/static/images/master/Performax_Logo.jpg",
               "altText": "Image of पर्फोमैक्स"
             }
           }
@@ -185,6 +349,7 @@
             "label": "सैमसंग",
             "url": null,
             "image": {
+              "url": "/static/images/master/Samsung_wordmark.svg",
               "altText": "Image of सैमसंग"
             }
           }

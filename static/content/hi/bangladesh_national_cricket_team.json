@@ -161,7 +161,59 @@
     {
       "title": "प्रसिद्ध खिलाड़ी",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "मशरफे मुर्तजा",
+          "id": "bangladesh_national_cricket_team_player_0",
+          "value": {
+            "url": null,
+            "label": "अप्रैल 2019 में उन्हें क्रिकेट विश्व कप- 2019 के लिए बांग्लादेश टीम के कप्तान के रूप में चुना गया था।",
+            "image": {
+              "url": "/static/images/master/Mashrafe_Bin_Mortaza_28cropped29.jpg",
+              "altText": "Image of मशरफे मुर्तजा",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "शाकिब अल हसन",
+          "id": "bangladesh_national_cricket_team_player_1",
+          "value": {
+            "url": null,
+            "label": "शाकिब अल हसन बांग्लादेशी अंतरराष्ट्रीय क्रिकेटर हैं जो वर्तमान में टेस्ट और टी-20 अंतरराष्टट्रीय प्रारूपों में बांग्लादेश की राष्ट्रीय टीम की कप्तानी करते हैं। उन्हें बांग्लादेश का अब तक का सबसे श्रेष्ठ और महान क्रिकेटर माना जाता है।",
+            "image": {
+              "url": "/static/images/master/Shakib_Al_Hasan_28429_28cropped29.jpg",
+              "altText": "Image of शाकिब अल हसन",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "मुशफिकुर रहीम",
+          "id": "bangladesh_national_cricket_team_player_2",
+          "value": {
+            "url": null,
+            "label": "मोहम्मद मुशफिकुर रहीम एक बांग्लादेशी क्रिकेटर और बांग्लादेश की राष्ट्रीय क्रिकेट टीम के पूर्व कप्तान हैं। उनके पास बांग्लादेश के किसी भी बल्लेबाज द्वारा टेस्ट में सर्वोच्च स्कोर बनाने का भी रिकॉर्ड है।",
+            "image": {
+              "url": "/static/images/master/Mushfiqur_Rahim_batting_against_England_at_Lords_in_20102C_cropped.jpg",
+              "altText": "Image of मुशफिकुर रहीम",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "तमीम इकबाल",
+          "id": "bangladesh_national_cricket_team_player_3",
+          "value": {
+            "url": null,
+            "label": "मुहम्मद तमीम इकबाल खान एक बांग्लादेशी अंतरराष्ट्री क्रिकेटर हैं। वह बाएं हाथ के सलामी बल्लेबाज हैं। वह बांग्लादेश की ओर से अभी तक से सबसे ज्यादा रन बनाने वाले खिलाड़ी हैं।",
+            "image": {
+              "url": "/static/images/master/Tamim-Iqbal-wt20.png",
+              "altText": "Image of तमीम इकबाल"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "उपलब्धियां और रिकॉर्ड",
@@ -178,6 +230,7 @@
             "label": "ग्रामीनफोन",
             "url": null,
             "image": {
+              "url": "/static/images/master/Grameephone_Logo.png",
               "altText": "Image of ग्रामीनफोन"
             }
           }

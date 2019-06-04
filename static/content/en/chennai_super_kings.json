@@ -123,7 +123,32 @@
           "note": "2008 - 2009",
           "value": {
             "label": "During the first player auctions for the inaugural IPL season conducted in January 2008, the Chennai franchise bought a number of contemporary star cricketers such as Mahendra Singh Dhoni, Matthew Hayden, Stephen Fleming, Muttiah Muralitharan and Michael Hussey. In the 2008 season, they made it to the finals, losing to Rajasthan Royals. In the 2009 season, they were knocked out in the semifinals.",
-            "facts": []
+            "facts": [
+              {
+                "label": "IPL 2008",
+                "url": "/read/en/2008_indian_premier_league",
+                "id": "chennai_super_kings_history_0_fact_0",
+                "value": {
+                  "label": "The 2008 season was the inaugural season of the Indian Premier League. It was won by Rajasthan Royals.",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2008"
+                  }
+                }
+              },
+              {
+                "label": "IPL 2009",
+                "url": "/read/en/2009_indian_premier_league",
+                "id": "chennai_super_kings_history_0_fact_1",
+                "value": {
+                  "label": "The 2009 season was hosted by South Africa and was won by Deccan Chargers",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2009"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -132,7 +157,20 @@
           "note": "2010",
           "value": {
             "label": "Chennai secured their first ever IPL title, beating Mumbai Indians in the final by 22 runs. They then defeated the Chevrolet Warriors at the final of the CLT20 tournament in Johannesburg to become the first IPL team to win the CLT20.  ",
-            "facts": []
+            "facts": [
+              {
+                "label": "IPL 2010",
+                "url": "/read/en/2010_indian_premier_league",
+                "id": "chennai_super_kings_history_1_fact_0",
+                "value": {
+                  "label": "The 2010 season was won by Chennai Super Kings",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2010"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -141,7 +179,44 @@
           "note": "2011 - 2015",
           "value": {
             "label": "In the 2011 season, Chennai won all their home games that season becoming the first team in IPL to achieve the feat. They then defeated Royal Challengers Bangalore in the final to win their second consecutive title in the IPL.\n\nIn the 2012 season, they were defeated by Kolkata Knight Riders in the final, and were denied a hat trick of titles.\n\nIn the 2013 season, they were defeated by Rajasthan Royals in the semi finals.\n\nIn the 2014 season, they crashed out of the IPL, but, on account of finishing third, qualified for the main event of the 2014 CLT20 tournament and defeated IPL champions Kolkata Knight Riders in the finals to receive their second CLT20 title.\n\nIn the 2015 season, they lost against Mumbai in the final. ",
-            "facts": []
+            "facts": [
+              {
+                "label": "IPL 2011",
+                "url": "/read/en/2011_indian_premier_league",
+                "id": "chennai_super_kings_history_2_fact_0",
+                "value": {
+                  "label": "The 2011 season was won by the Chennai Super Kings for the second successive season.",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2011"
+                  }
+                }
+              },
+              {
+                "label": "IPL 2014",
+                "url": "/read/en/2014_indian_premier_league",
+                "id": "chennai_super_kings_history_2_fact_1",
+                "value": {
+                  "label": "The 2014 season was hosted by India and UAE. Kolkata Knight Riders were the champions",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2014"
+                  }
+                }
+              },
+              {
+                "label": "IPL 2015",
+                "url": "/read/en/2015_indian_premier_league",
+                "id": "chennai_super_kings_history_2_fact_2",
+                "value": {
+                  "label": "The 2015 season was won by Mumbai Indians.",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2015"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -150,7 +225,20 @@
           "note": "2018 - present",
           "value": {
             "label": "After serving a two-year suspension from the IPL starting July 2015 for the alleged involvement of their owners in the 2013 IPL betting case, the Super Kings returned to the league in 2018, winning the championship in the comeback season, its third overall.",
-            "facts": []
+            "facts": [
+              {
+                "label": "IPL 2018",
+                "url": null,
+                "id": "chennai_super_kings_history_3_fact_0",
+                "value": {
+                  "label": "The 2018 IPL Season was won by Chennai Super Kings.",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2018"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
@@ -158,7 +246,32 @@
     {
       "title": "Famous Players",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "Suresh Raina",
+          "id": "chennai_super_kings_player_0",
+          "value": {
+            "url": null,
+            "label": "Suresh Raina is the leading run-scorer for the Super Kings.",
+            "image": {
+              "url": "/static/images/master/Suresh_Raina1.jpg",
+              "altText": "Image of Suresh Raina"
+            }
+          }
+        },
+        {
+          "label": "MS Dhoni",
+          "id": "chennai_super_kings_player_1",
+          "value": {
+            "url": null,
+            "label": "Mahendra Singh Dhoni is the first Indian captain to win the IPL.",
+            "image": {
+              "url": "/static/images/master/Dhoni_at_Reebok_event.jpg",
+              "altText": "Image of MS Dhoni"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "Achievements & Records",
@@ -175,6 +288,7 @@
             "label": "SEVEN",
             "url": null,
             "image": {
+              "url": "/static/images/master/Logo_of_seven_brand.png",
               "altText": "Image of SEVEN"
             }
           }
@@ -185,7 +299,9 @@
             "label": "Muthoot Group",
             "url": null,
             "image": {
-              "altText": "Image of Muthoot Group"
+              "url": "/static/images/master/Muthoot-finance-logo.png",
+              "altText": "Image of Muthoot Group",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
             }
           }
         }
