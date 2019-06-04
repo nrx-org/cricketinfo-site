@@ -4,11 +4,11 @@ import { factCardDataPropTypes } from "../lib/prop_types";
 import { TimelineItem } from "./TimelineItem";
 import { SectionTitle } from "./SectionTitle";
 
-export const Timeline = ({ cardData, type, innerCardType }) => {
+export const Timeline = ({ cardData, type, innerCardType, className }) => {
   const derivedClassName =
     type === "vertical" ? "wcp-vertical-timeline" : "wcp-horizontal-timeline";
   return (
-    <section>
+    <section className={className}>
       <SectionTitle>{cardData.title}</SectionTitle>
 
       <div className={`wcp-timeline ${derivedClassName}`}>
@@ -34,10 +34,12 @@ export const Timeline = ({ cardData, type, innerCardType }) => {
 };
 
 Timeline.defaultProps = {
-  innerCardType: "tiny"
+  innerCardType: "tiny",
+  className: ""
 };
 
 Timeline.propTypes = {
+  className: PropTypes.string,
   cardData: factCardDataPropTypes.isRequired,
   type: PropTypes.string.isRequired,
   innerCardType: PropTypes.string

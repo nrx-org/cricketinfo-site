@@ -66,6 +66,7 @@ const Home = ({
           type="horizontal"
           innerCardType="large"
           cardData={horizontalTimeline}
+          className="wcp-homepage-history-timeline"
         />
         <PopularArticles popularArticles={popularArticles} />
         <FunFacts scheduled={scheduledFacts} constant={constantFacts} />
