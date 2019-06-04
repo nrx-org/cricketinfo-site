@@ -86,23 +86,25 @@ const Article = ({
               );
             return null;
           })}
-          <ModalContextConsumer>
-            {({ openModal }) => (
-              <Button
-                className="wcp-article__button-read-more"
-                isInverted
-                isFullWidth
-                onClick={() => {
-                  tracking.trackEvent(
-                    CLICK_READ_MORE_ON_WIKIPEDIA(window.location.pathname)
-                  );
-                  openModal(CONTINUE_READING_MODAL_ID, { wikipediaUrl });
-                }}
-              >
-                {articleUiStrings.readOnWikipedia[lang]}
-              </Button>
-            )}
-          </ModalContextConsumer>
+          {wikipediaUrl && wikipediaUrl.length > 0 ? (
+            <ModalContextConsumer>
+              {({ openModal }) => (
+                <Button
+                  className="wcp-article__button-read-more"
+                  isInverted
+                  isFullWidth
+                  onClick={() => {
+                    tracking.trackEvent(
+                      CLICK_READ_MORE_ON_WIKIPEDIA(window.location.pathname)
+                    );
+                    openModal(CONTINUE_READING_MODAL_ID, { wikipediaUrl });
+                  }}
+                >
+                  {articleUiStrings.readOnWikipedia[lang]}
+                </Button>
+              )}
+            </ModalContextConsumer>
+          ) : null}
           <Attributions attributions={imageAttributions} lang={lang} />
         </BaseLayout>
 
