@@ -158,7 +158,45 @@
     {
       "title": "प्रसिद्ध खिलाड़ी",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "शोएब मलिक",
+          "id": "pakistan_national_cricket_team_player_0",
+          "value": {
+            "url": null,
+            "label": "1 जुलाई, 2018 को शोएब मलिक टी-20 अंतरराष्ट्रीय मैचों में 2000 रन बनाने वाले पहले एशियाई बल्लेबाज बने एवं विश्व में 100 टी-20 अंतरराष्ट्रीय मैच खेलने वाले पहले खिलाड़ी बने।",
+            "image": {
+              "url": "/static/images/master/Shoaib_Malik2C_Dunedin2C_NZ2C_2009.jpg",
+              "altText": "Image of शोएब मलिक",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>"
+            }
+          }
+        },
+        {
+          "label": "शाहिद अफरीदी",
+          "id": "pakistan_national_cricket_team_player_1",
+          "value": {
+            "url": null,
+            "label": "शाहिद अफरीदी के नाम एकदिवसीय अंतरराष्ट्रीय क्रिकेट के इतिहास में सबसे अधिक छक्के लगाने का रिकॉर्ड है।",
+            "image": {
+              "url": "/static/images/master/Shahid_Afridi_in_2017.jpg",
+              "altText": "Image of शाहिद अफरीदी"
+            }
+          }
+        },
+        {
+          "label": "इंजमाम-उल-हक",
+          "id": "pakistan_national_cricket_team_player_2",
+          "value": {
+            "url": null,
+            "label": "सैयद इंजमाम-उल-हक, जिन्हें इन्ज़ी के नाम से भी जाना जाता है,वे एक एक पूर्व पाकिस्तानी क्रिकेटर और पूर्व कप्तान हैं। वह एकदिवसीय अंतरराष्ट्रीय मैचों में पाकिस्तान के लिए सबसे ज्यादा रन बनाने वाले खिलाड़ी हैं।",
+            "image": {
+              "url": "/static/images/master/Inzamam-ul-Haq.jpg",
+              "altText": "Image of इंजमाम-उल-हक"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "उपलब्धियां और रिकॉर्ड",
@@ -175,6 +213,7 @@
             "label": "सीए स्पोर्ट्स",
             "url": null,
             "image": {
+              "url": "/static/images/master/CA_sports_logo.png",
               "altText": "Image of सीए स्पोर्ट्स"
             }
           }
@@ -185,6 +224,7 @@
             "label": "पेप्सी",
             "url": null,
             "image": {
+              "url": "/static/images/master/Pepsi_logo_new.svg",
               "altText": "Image of पेप्सी"
             }
           }
@@ -195,6 +235,7 @@
             "label": "टी10 स्पोर्ट्स",
             "url": null,
             "image": {
+              "url": "",
               "altText": "Image of टी10 स्पोर्ट्स"
             }
           }

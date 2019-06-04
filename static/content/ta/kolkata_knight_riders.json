@@ -158,7 +158,58 @@
     {
       "title": "பிரபலமான வீரர்",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "தினேஷ் கார்த்திக்",
+          "id": "kolkata_knight_riders_player_0",
+          "value": {
+            "url": null,
+            "label": "தினேஷ் கார்த்திக் தனது முதல் டெஸ்ட் சதமடித்தார். வங்கதேசத்திற்கு எதிரான முதல் டெஸ்ட் சதமடித்தார். பின்னர் இந்தியாவின் முதல் டெஸ்ட் சுற்றுப்பயணத்தில் இந்தியாவின் முன்னணி வீரராக இருந்தார்.",
+            "image": {
+              "url": "/static/images/master/Dinesh_Karthik.jpg",
+              "altText": "Image of தினேஷ் கார்த்திக்",
+              "license": "<p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p><p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "ராபின் உத்தப்பா",
+          "id": "kolkata_knight_riders_player_1",
+          "value": {
+            "url": null,
+            "label": "ராபின் உத்தப்பா, 'தி வாக்கிங் அஸ்ஸாசின்' என்ற பெயரில் பந்து வீச்சாளர்களுக்கு கட்டணம் விதிக்கிறார். 2007 ஐசிசி உலக ட்வென்டி 20 போட்டியில் இந்தியாவின் வெற்றிக்கு முக்கிய பங்கு வகித்தார்.",
+            "image": {
+              "url": "/static/images/master/Robin_Uthappa_on_the_Show.jpg",
+              "altText": "Image of ராபின் உத்தப்பா"
+            }
+          }
+        },
+        {
+          "label": "சவுரவ் கங்குலி",
+          "id": "kolkata_knight_riders_player_2",
+          "value": {
+            "url": null,
+            "label": "11 வெற்றிகளுடன் வெளிநாடுகளில் மிக வெற்றிகரமான இந்திய கேப்டன் சவுரவ் கங்குலி ஆவார். ஐ.சி.சி தரவரிசையில் இந்திய அணியின் எட்டாவது இடத்தைத் தக்கவைத்துக் கொண்டார், மேலும் அவர் தனது தலைமையின் கீழ் அணி பதக்கம் இரண்டாம் இடத்திற்கு சென்றார்.",
+            "image": {
+              "url": "/static/images/master/Sourav_Ganguly_closeup.jpg",
+              "altText": "Image of சவுரவ் கங்குலி"
+            }
+          }
+        },
+        {
+          "label": "அஜிங்கியா ரஹானே",
+          "id": "kolkata_knight_riders_player_3",
+          "value": {
+            "url": null,
+            "label": "அஜிங்கியா ரஹானே தற்போது டெஸ்ட் கிரிக்கெட்டில் இந்திய கிரிக்கெட் அணியின் கேப்டனாக உள்ளார்.",
+            "image": {
+              "url": "/static/images/master/Andre_Russell.jpg",
+              "altText": "Image of அஜிங்கியா ரஹானே",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</p>"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "சாதனைகள் & பதிவுகள்",
@@ -175,6 +226,7 @@
             "label": "  நோக்கியா",
             "url": null,
             "image": {
+              "url": "/static/images/master/Nokia_wordmark.svg",
               "altText": "Image of   நோக்கியா"
             }
           }
@@ -185,7 +237,9 @@
             "label": "Jio",
             "url": null,
             "image": {
-              "altText": "Image of Jio"
+              "url": "/static/images/master/Reliance_Jio_Logo_28October_201529.svg",
+              "altText": "Image of Jio",
+              "license": ""
             }
           }
         },
@@ -195,6 +249,7 @@
             "label": "அல்சிஸ் ஸ்போர்ட்ஸ்",
             "url": null,
             "image": {
+              "url": "",
               "altText": "Image of அல்சிஸ் ஸ்போர்ட்ஸ்"
             }
           }

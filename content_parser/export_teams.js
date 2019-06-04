@@ -68,19 +68,19 @@ const HISTORY = [
         CARD_TITLE_KEY: "History Phase 1 Card 1 Title",
         CARD_BRIEF_DESCRIPTION_KEY: "History Phase 1 Card 1 brief description",
         CARD_ARTICLE_CODE: "History Phase 1 Card 1 article code",
-        CARD_IMAGE_URL: "History Phase 1 Card 1 URL"
+        CARD_IMAGE_URL: "History Phase 1 Card 1 URL "
       },
       {
         CARD_TITLE_KEY: "History Phase 1 Card 2 Title",
         CARD_BRIEF_DESCRIPTION_KEY: "History Phase 1 Card 2 brief description",
         CARD_ARTICLE_CODE: "History Phase 1 Card 2 article code",
-        CARD_IMAGE_URL: "History Phase 1 Card 2 URL"
+        CARD_IMAGE_URL: "History Phase 1 Card 2 URL "
       },
       {
         CARD_TITLE_KEY: "History Phase 1 Card 3 Title",
         CARD_BRIEF_DESCRIPTION_KEY: "History Phase 1 Card 3 brief description",
         CARD_ARTICLE_CODE: "History Phase 1 Card 3 article code",
-        CARD_IMAGE_URL: "History Phase 1 Card 3 URL"
+        CARD_IMAGE_URL: "History Phase 1 Card 3 URL "
       }
     ]
   },
@@ -93,19 +93,19 @@ const HISTORY = [
         CARD_TITLE_KEY: "History Phase 2 Card 1 Title",
         CARD_BRIEF_DESCRIPTION_KEY: "History Phase 2 Card 1 brief description",
         CARD_ARTICLE_CODE: "History Phase 2 Card 1 article code",
-        CARD_IMAGE_URL: "History Phase 2 Card 1 URL"
+        CARD_IMAGE_URL: "History Phase 2 Card 1 URL "
       },
       {
         CARD_TITLE_KEY: "History Phase 2 Card 2 Title",
         CARD_BRIEF_DESCRIPTION_KEY: "History Phase 2 Card 2 brief description",
         CARD_ARTICLE_CODE: "History Phase 2 Card 2 article code",
-        CARD_IMAGE_URL: "History Phase 2 Card 2 URL"
+        CARD_IMAGE_URL: "History Phase 2 Card 2 URL "
       },
       {
         CARD_TITLE_KEY: "History Phase 2 Card 3 Title",
         CARD_BRIEF_DESCRIPTION_KEY: "History Phase 2 Card 3 brief description",
         CARD_ARTICLE_CODE: "History Phase 2 Card 3 article code",
-        CARD_IMAGE_URL: "History Phase 2 Card 3 URL"
+        CARD_IMAGE_URL: "History Phase 2 Card 3 URL "
       }
     ]
   },
@@ -118,19 +118,19 @@ const HISTORY = [
         CARD_TITLE_KEY: "History Phase 3 Card 1 Title",
         CARD_BRIEF_DESCRIPTION_KEY: "History Phase 3 Card 1 brief description",
         CARD_ARTICLE_CODE: "History Phase 3 Card 1 article code",
-        CARD_IMAGE_URL: "History Phase 3 Card 1 URL"
+        CARD_IMAGE_URL: "History Phase 3 Card 1 URL "
       },
       {
         CARD_TITLE_KEY: "History Phase 3 Card 2 Title",
         CARD_BRIEF_DESCRIPTION_KEY: "History Phase 3 Card 2 brief description",
         CARD_ARTICLE_CODE: "History Phase 3 Card 2 article code",
-        CARD_IMAGE_URL: "History Phase 3 Card 2 URL"
+        CARD_IMAGE_URL: "History Phase 3 Card 2 URL "
       },
       {
         CARD_TITLE_KEY: "History Phase 3 Card 3 Title",
         CARD_BRIEF_DESCRIPTION_KEY: "History Phase 3 Card 3 brief description",
         CARD_ARTICLE_CODE: "History Phase 3 Card 3 article code",
-        CARD_IMAGE_URL: "History Phase 3 Card 3 URL"
+        CARD_IMAGE_URL: "History Phase 3 Card 3 URL "
       }
     ]
   },
@@ -143,19 +143,19 @@ const HISTORY = [
         CARD_TITLE_KEY: "History Phase 4 Card 1 Title",
         CARD_BRIEF_DESCRIPTION_KEY: "History Phase 4 Card 1 brief description",
         CARD_ARTICLE_CODE: "History Phase 4 Card 1 article code",
-        CARD_IMAGE_URL: "History Phase 4 Card 1 URL"
+        CARD_IMAGE_URL: "History Phase 4 Card 1 URL "
       },
       {
         CARD_TITLE_KEY: "History Phase 4 Card 2 Title",
         CARD_BRIEF_DESCRIPTION_KEY: "History Phase 4 Card 2 brief description",
         CARD_ARTICLE_CODE: "History Phase 4 Card 2 article code",
-        CARD_IMAGE_URL: "History Phase 4 Card 2 URL"
+        CARD_IMAGE_URL: "History Phase 4 Card 2 URL "
       },
       {
         CARD_TITLE_KEY: "History Phase 4 Card 3 Title",
         CARD_BRIEF_DESCRIPTION_KEY: "History Phase 4 Card 3 brief description",
         CARD_ARTICLE_CODE: "History Phase 4 Card 3 article code",
-        CARD_IMAGE_URL: "History Phase 4 Card 3 URL"
+        CARD_IMAGE_URL: "History Phase 4 Card 3 URL "
       }
     ]
   }
@@ -165,22 +165,22 @@ const PLAYERS = [
   {
     PLAYER_NAME_KEY: "Player 1 Name",
     PLAYER_DESCRIPTION_KEY: "Player 1 Description",
-    PLAYER_IMAGE_URL_KEY: "Player 1 Image URL"
+    PLAYER_IMAGE_URL_KEY: "Player 1 Image URL "
   },
   {
     PLAYER_NAME_KEY: "Player 2 Name",
     PLAYER_DESCRIPTION_KEY: "Player 2 Description",
-    PLAYER_IMAGE_URL_KEY: "Player 2 Image URL"
+    PLAYER_IMAGE_URL_KEY: "Player 2 Image URL "
   },
   {
     PLAYER_NAME_KEY: "Player 3 Name",
     PLAYER_DESCRIPTION_KEY: "Player 3 Description",
-    PLAYER_IMAGE_URL_KEY: "Player 3 Image URL"
+    PLAYER_IMAGE_URL_KEY: "Player 3 Image URL "
   },
   {
     PLAYER_NAME_KEY: "Player 4 Name",
     PLAYER_DESCRIPTION_KEY: "Player 4 Description",
-    PLAYER_IMAGE_URL_KEY: "Player 4 Image URL"
+    PLAYER_IMAGE_URL_KEY: "Player 4 Image URL "
   }
 ];
 
@@ -188,30 +188,30 @@ const ACHIEVEMENTS = [
   {
     ACHIEVEMENT_TITLE: "Achievement 1 Title",
     ACHIEVEMENT_DESCRIPTION: "Achievement 1 Description",
-    ACHIEVEMENT_CARD_TITLE: "Achievement 1 Card Title",
+    ACHIEVEMENT_CARD_TITLE: "Achievement 1 Card Title  ",
     ACHIEVEMENT_CARD_CODE: "Achievement 1 Card Code",
-    ACHIEVEMENT_CARD_URL: "Achievement 1 Card URL"
+    ACHIEVEMENT_CARD_URL: "Achievement 1 Card URL "
   },
   {
     ACHIEVEMENT_TITLE: "Achievement 2 Title",
     ACHIEVEMENT_DESCRIPTION: "Achievement 2 Description",
-    ACHIEVEMENT_CARD_TITLE: "Achievement 2 Card Title",
+    ACHIEVEMENT_CARD_TITLE: "Achievement 2 Card Title  ",
     ACHIEVEMENT_CARD_CODE: "Achievement 2 Card Code",
-    ACHIEVEMENT_CARD_URL: "Achievement 2 Card URL"
+    ACHIEVEMENT_CARD_URL: "Achievement 2 Card URL "
   },
   {
     ACHIEVEMENT_TITLE: "Achievement 3 Title",
     ACHIEVEMENT_DESCRIPTION: "Achievement 3 Description",
-    ACHIEVEMENT_CARD_TITLE: "Achievement 3 Card Title",
+    ACHIEVEMENT_CARD_TITLE: "Achievement 3 Card Title  ",
     ACHIEVEMENT_CARD_CODE: "Achievement 3 Card Code",
-    ACHIEVEMENT_CARD_URL: "Achievement 3 Card URL"
+    ACHIEVEMENT_CARD_URL: "Achievement 3 Card URL "
   },
   {
     ACHIEVEMENT_TITLE: "Achievement 4 Title",
     ACHIEVEMENT_DESCRIPTION: "Achievement 4 Description",
-    ACHIEVEMENT_CARD_TITLE: "Achievement 4 Card Title",
+    ACHIEVEMENT_CARD_TITLE: "Achievement 4 Card Title  ",
     ACHIEVEMENT_CARD_CODE: "Achievement 4 Card Code",
-    ACHIEVEMENT_CARD_URL: "Achievement 4 Card URL"
+    ACHIEVEMENT_CARD_URL: "Achievement 4 Card URL "
   }
 ];
 
@@ -219,22 +219,22 @@ const SPONSORS = [
   {
     SPONSOR_TYPE: "Sponsor Type 1",
     SPONSOR_NAME: "Sponsor  Type 1 name",
-    SPONSOR_IMAGE_URL: "Sponsor Type 1 Image URL"
+    SPONSOR_IMAGE_URL: "Sponsor Type 1 Image URL "
   },
   {
     SPONSOR_TYPE: "Sponsor Type 2",
     SPONSOR_NAME: "Sponsor Type 2 Name",
-    SPONSOR_IMAGE_URL: "Sponsor Type 2 Image URL"
+    SPONSOR_IMAGE_URL: "Sponsor Type 2 Image URL "
   },
   {
     SPONSOR_TYPE: "Sponsor Type 3",
     SPONSOR_NAME: "Sponsor Type 3 Name",
-    SPONSOR_IMAGE_URL: "Sponsor Type 3 Image URL"
+    SPONSOR_IMAGE_URL: "Sponsor Type 3 Image URL "
   },
   {
     SPONSOR_TYPE: "Sponsor Type 4",
     SPONSOR_NAME: "Sponsor Type 4 Name",
-    SPONSOR_IMAGE_URL: "Sponsor Type 4 Image URL"
+    SPONSOR_IMAGE_URL: "Sponsor Type 4 Image URL "
   }
 ];
 

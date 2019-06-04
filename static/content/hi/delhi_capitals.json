@@ -158,7 +158,58 @@
     {
       "title": "प्रसिद्ध खिलाड़ी",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "शिखर धवन",
+          "id": "delhi_capitals_player_0",
+          "value": {
+            "url": null,
+            "label": "शिखर धवन ने अगस्त 2013 में लिस्ट ए मैच में उस समय का दूसरा सबसे बड़ा व्यक्तिगत स्कोर का रिकॉर्ड बनाया, जब उन्होंने प्रिटोरिया में भारत ए के लिए दक्षिण अफ्रीका ए के खिलाफ 150 गेंदों पर 248 रन बनाये।",
+            "image": {
+              "url": "/static/images/master/SHIKHAR_DHAWAN_281600549441829.jpg",
+              "altText": "Image of शिखर धवन",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "कॉलिन मुनरो",
+          "id": "delhi_capitals_player_1",
+          "value": {
+            "url": null,
+            "label": "कॉलिन मुनरो दक्षिण अफ्रीका में जन्मे न्यूजीलैंड के अंतरराष्ट्रीय क्रिकेटर हैं। जो सीमित ओवरों के प्रारूप खेलते हैं। वह तीन टी-20 अंतरराष्ट्रीय शतक लगाने वाले पहले खिलाड़ी हैं।",
+            "image": {
+              "url": "/static/images/master/Colin_Munro_with_the_Sydney_Sixers.jpg",
+              "altText": "Image of कॉलिन मुनरो"
+            }
+          }
+        },
+        {
+          "label": "केगिसो रबादा",
+          "id": "delhi_capitals_player_2",
+          "value": {
+            "url": null,
+            "label": "कगिसो रबाडा (जन्म 25 मई 1995) एक दक्षिण अफ्रीकी अंतरराष्ट्रीय क्रिकेटर हैं जो खेल के सभी प्रारूपों में खेलते हैं। रबाडा को केजी उपनाम से भी जाना जाता है। वह क्रिकेट साउथ अफ्रीका के (सीएसए) वार्षिक डिनर में छह पुरस्कार जीतने वाले पहले क्रिकेटर बने, जिसमें 2016 में क्रिकेटर ऑफ द ईयर का पुरस्कार भी शामिल है।",
+            "image": {
+              "url": "/static/images/master/Rabada.jpg",
+              "altText": "Image of केगिसो रबादा"
+            }
+          }
+        },
+        {
+          "label": "ट्रेंट बोल्ट",
+          "id": "delhi_capitals_player_3",
+          "value": {
+            "url": null,
+            "label": "ट्रेंट अलेक्जेंडर बोल्ट न्यूजीलैंड के एक अंतरराष्ट्रीय क्रिकेटर हैं जो तेज गेंदबाज के तौर में खेलते हैं। वह 2015 क्रिकेट विश्व कप में संयुक्त रूप से सबसे ज्यादा विकेट लेने वाले गेंदबाज थे।",
+            "image": {
+              "url": "/static/images/master/2018.02.03.22.23.14-AUSvNZL_T20_AUS_innings2C_SCG_283953315666529.jpg",
+              "altText": "Image of ट्रेंट बोल्ट",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "उपलब्धियां और रिकॉर्ड",
@@ -175,6 +226,7 @@
             "label": "डाइकिन",
             "url": null,
             "image": {
+              "url": "/static/images/master/DAIKIN_logo.svg",
               "altText": "Image of डाइकिन"
             }
           }
@@ -185,6 +237,7 @@
             "label": "एपीएल अपोलो स्टील ट्यूब्स",
             "url": null,
             "image": {
+              "url": "",
               "altText": "Image of एपीएल अपोलो स्टील ट्यूब्स"
             }
           }

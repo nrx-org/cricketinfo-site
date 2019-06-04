@@ -158,7 +158,58 @@
     {
       "title": "प्रसिद्ध खिलाड़ी",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "स्टीव स्मिथ",
+          "id": "rajasthan_royals_player_0",
+          "value": {
+            "url": null,
+            "label": "स्टीवन पीटर डेवेरेक्स स्मिथ एक ऑस्ट्रेलियाई अंतरराष्ट्रीय क्रिकेटर और ऑस्ट्रेलिया की राष्ट्रीय टीम के पूर्व कप्तान हैं। 30 दिसंबर, 2017 को वह टेस्ट बल्लेबाजी में 947 अंक की रेटिंग तक पहुंच गए थे, जो अब तक की दूसरी सबसे अधिक रेटिंग है।",
+            "image": {
+              "url": "/static/images/master/Steve_Smith_28cricketer292C_2014_28cropped29.jpg",
+              "altText": "Image of स्टीव स्मिथ",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "शेन वार्न",
+          "id": "rajasthan_royals_player_1",
+          "value": {
+            "url": null,
+            "label": "शेन वॉर्न इंडियन प्रीमियर लीग के पहले चार सीज़न (2008-2011) तक राजस्थान रॉयल्स के लिए खेले। इस दौरान उन्होंने कप्तान और कोच दोनों की भूमिकाएं निभाईं।",
+            "image": {
+              "url": "/static/images/master/Shane_Warne_bowling_2009.jpg",
+              "altText": "Image of शेन वार्न"
+            }
+          }
+        },
+        {
+          "label": "राहुल द्रविड़",
+          "id": "rajasthan_royals_player_2",
+          "value": {
+            "url": null,
+            "label": "राहुल द्रविड़ ने टेस्ट क्रिकेट में 31258 गेंदों का सामना किया है, जो टेस्ट क्रिकेट में किसी भी खिलाड़ी द्वारा खेली गई गेंदों की सर्वाधिक संख्या है।",
+            "image": {
+              "url": "/static/images/master/RahulDravid.jpg",
+              "altText": "Image of राहुल द्रविड़"
+            }
+          }
+        },
+        {
+          "label": "आजिंक्य रहाणे",
+          "id": "rajasthan_royals_player_3",
+          "value": {
+            "url": null,
+            "label": "अजिंक्य रहाणे वर्तमान में टेस्ट क्रिकेट में भारतीय क्रिकेट टीम के  उपकप्तान हैं।",
+            "image": {
+              "url": "/static/images/master/Ajinkya_Rahane_2016_28cropped29.jpg",
+              "altText": "Image of आजिंक्य रहाणे",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "उपलब्धियां और रिकॉर्ड",
@@ -175,6 +226,7 @@
             "label": "जेके लक्ष्मी सीमेंट",
             "url": null,
             "image": {
+              "url": "",
               "altText": "Image of जेके लक्ष्मी सीमेंट"
             }
           }
@@ -185,6 +237,7 @@
             "label": "सूर्या एलईडी",
             "url": null,
             "image": {
+              "url": "",
               "altText": "Image of सूर्या एलईडी"
             }
           }
@@ -195,6 +248,7 @@
             "label": "रेड एफएम",
             "url": null,
             "image": {
+              "url": "/static/images/master/Red_fm.jpg",
               "altText": "Image of रेड एफएम"
             }
           }

@@ -157,7 +157,20 @@
     {
       "title": "பிரபலமான வீரர்",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "முகம்மது நபி",
+          "id": "afghanistan_national_cricket_team_player_0",
+          "value": {
+            "url": null,
+            "label": "முகமது நபி ஒரு ஆப்கானிய கிரிக்கெட் வீரர் ஆவார். ஆப்கானிஸ்தானின் உயர் மட்ட சர்வதேச கிரிக்கெட்டிற்கான எழுச்சிக்கு முக்கிய பங்கு வகித்தார், அவர்களது முதல் ஒரு நாள் சர்வதேச மற்றும் முதல் டெஸ்ட் போட்டியிலும் விளையாடினார்.",
+            "image": {
+              "url": "/static/images/master/Mohammad_Nabi-Australia.jpg",
+              "altText": "Image of முகம்மது நபி"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "சாதனைகள் & பதிவுகள்",

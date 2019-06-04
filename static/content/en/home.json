@@ -368,6 +368,50 @@
     "id": 2,
     "facts": [
       {
+        "label": "1975 Cricket World Cup",
+        "id": "P26",
+        "value": {
+          "label": null,
+          "facts": [
+            {
+              "label": "1975 Cricket World Cup",
+              "id": "1975_cricket_world_cup",
+              "value": {
+                "label": "The 1975 Cricket World Cup (officially called the Prudential Cup '75) was the first edition of the Cricket World Cup, organised by the International Cricket Conference (ICC) and was the first major limited overs One Day International (ODI) cricket tournament to be held. It was held from 7 to 21 June 1975 in England.",
+                "url": "/read/en/1975_cricket_world_cup",
+                "buttonText": "Know More",
+                "image": {
+                  "url": "/static/images/master/Prudential_Cup_75_logo.svg",
+                  "altText": "Image for 1975 Cricket World Cup"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "label": "1979 Cricket World Cup",
+        "id": "P27",
+        "value": {
+          "label": null,
+          "facts": [
+            {
+              "label": "1979 Cricket World Cup",
+              "id": "1979_cricket_world_cup",
+              "value": {
+                "label": "The 1979 Cricket World Cup (officially the Prudential Cup '79) was the second edition of the Cricket World Cup and was won by the West Indies, who had also won the inaugural tournament four years earlier. It was held in England from 9 to 23 June 1979.",
+                "url": "/read/en/1979_cricket_world_cup",
+                "buttonText": "Know More",
+                "image": {
+                  "url": "/static/images/master/Prudential_Cup_79_logo.svg",
+                  "altText": "Image for 1979 Cricket World Cup"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
         "label": "1983 Cricket World Cup",
         "id": "P2",
         "value": {
@@ -383,6 +427,50 @@
                 "image": {
                   "url": "/static/images/master/Prudential_Cup_83_logo.svg",
                   "altText": "Image for 1983 Cricket World Cup"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "label": "1987 Cricket World Cup",
+        "id": "P16",
+        "value": {
+          "label": null,
+          "facts": [
+            {
+              "label": "1987 Cricket World Cup",
+              "id": "1987_cricket_world_cup",
+              "value": {
+                "label": "The 1987 Cricket World Cup (known as the Reliance Cup 1987 for sponsorship reasons) was the fourth edition of the ICC Cricket World Cup tournament. It was held from 8 October to 8 November 1987 in India and Pakistan.",
+                "url": "/read/en/1987_cricket_world_cup",
+                "buttonText": "Know More",
+                "image": {
+                  "url": "/static/images/master/Worldcup1987.jpg",
+                  "altText": "Image for 1987 Cricket World Cup"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "label": "1992 Cricket World Cup",
+        "id": "P17",
+        "value": {
+          "label": null,
+          "facts": [
+            {
+              "label": "1992 Cricket World Cup",
+              "id": "1992_cricket_world_cup",
+              "value": {
+                "label": "The 1992 Cricket World Cup (officially the Benson & Hedges World Cup 1992) was the fifth staging of the Cricket World Cup, organised by the International Cricket Council (ICC). It was held in Australia and New Zealand from 22 February to 25 March 1992 and finished with Pakistan beating England in the final to become the World Cup champions for the first time.",
+                "url": "/read/en/1992_cricket_world_cup",
+                "buttonText": "Know More",
+                "image": {
+                  "url": "/static/images/master/World_Cup_1992_logo.svg",
+                  "altText": "Image for 1992 Cricket World Cup"
                 }
               }
             }
@@ -515,6 +603,28 @@
                 "image": {
                   "url": "/static/images/master/2015_Cricket_World_Cup_Logo.svg",
                   "altText": "Image for 2015 Cricket World Cup"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "label": "2019 Cricket World Cup",
+        "id": "P18",
+        "value": {
+          "label": null,
+          "facts": [
+            {
+              "label": "2019 Cricket World Cup",
+              "id": "2019_cricket_world_cup",
+              "value": {
+                "label": "The 2019 Cricket World Cup (officially ICC Cricket World Cup 2019) is the 12th edition of the Cricket World Cup, scheduled to be hosted by England and Wales, from 30 May to 14 July 2019.",
+                "url": "/read/en/2019_cricket_world_cup",
+                "buttonText": "Know More",
+                "image": {
+                  "url": "/static/images/master/ICC_Cricket_World_Cup_2019_logo.svg",
+                  "altText": "Image for 2019 Cricket World Cup"
                 }
               }
             }
@@ -757,7 +867,7 @@
   "quizQuestions": [
     {
       "label": "When was the first edition of cricket World Cup held?",
-      "id": "when_was_the_first_edition_of_cricket_world_cup_held?",
+      "id": "when_was_the_first_edition_of_cricket_world_cup_held_",
       "dates": [
         "2019-06-24"
       ],
@@ -784,7 +894,7 @@
     },
     {
       "label": "Which country hosted the first Men's cricket World Cup?",
-      "id": "which_country_hosted_the_first_men's_cricket_world_cup?",
+      "id": "which_country_hosted_the_first_men_s_cricket_world_cup_",
       "dates": [
         "2019-07-03"
       ],
@@ -811,7 +921,7 @@
     },
     {
       "label": "Who won the first men's cricket World Cup?",
-      "id": "who_won_the_first_men's_cricket_world_cup?",
+      "id": "who_won_the_first_men_s_cricket_world_cup_",
       "dates": [],
       "options": [
         {
@@ -836,7 +946,7 @@
     },
     {
       "label": "What was the 1975 World Cup officially called?",
-      "id": "what_was_the_1975_world_cup_officially_called?",
+      "id": "what_was_the_1975_world_cup_officially_called_",
       "dates": [
         "2019-06-03"
       ],
@@ -863,7 +973,7 @@
     },
     {
       "label": "How many ODI matches had been played before the first cricket World Cup?",
-      "id": "how_many_odi_matches_had_been_played_before_the_first_cricket_world_cup?",
+      "id": "how_many_odi_matches_had_been_played_before_the_first_cricket_world_cup_",
       "dates": [
         "2019-06-22",
         "2019-07-05"
@@ -891,7 +1001,7 @@
     },
     {
       "label": "Which of these teams participated in the 1975 cricket World Cup?",
-      "id": "which_of_these_teams_participated_in_the_1975_cricket_world_cup?",
+      "id": "which_of_these_teams_participated_in_the_1975_cricket_world_cup_",
       "dates": [
         "2019-06-10"
       ],
@@ -918,7 +1028,7 @@
     },
     {
       "label": "Who scored the most number of runs in the 1975 Cricket World Cup?",
-      "id": "who_scored_the_most_number_of_runs_in_the_1975_cricket_world_cup?",
+      "id": "who_scored_the_most_number_of_runs_in_the_1975_cricket_world_cup_",
       "dates": [
         "2019-06-17"
       ],
@@ -945,7 +1055,7 @@
     },
     {
       "label": "Which teams played the first match of the first cricket World Cup?",
-      "id": "which_teams_played_the_first_match_of_the_first_cricket_world_cup?",
+      "id": "which_teams_played_the_first_match_of_the_first_cricket_world_cup_",
       "dates": [],
       "options": [
         {
@@ -970,7 +1080,7 @@
     },
     {
       "label": "In the opening match against England, how many balls did Sunil Gavaskar score 36 runs off of?",
-      "id": "in_the_opening_match_against_england,_how_many_balls_did_sunil_gavaskar_score_36_runs_off_of?",
+      "id": "in_the_opening_match_against_england__how_many_balls_did_sunil_gavaskar_score_36_runs_off_of_",
       "dates": [
         "2019-07-03"
       ],
@@ -997,7 +1107,7 @@
     },
     {
       "label": "How many matches were played in the inaugral World Cup held in 1975?",
-      "id": "how_many_matches_were_played_in_the_inaugral_world_cup_held_in_1975?",
+      "id": "how_many_matches_were_played_in_the_inaugral_world_cup_held_in_1975_",
       "dates": [],
       "options": [
         {
@@ -1022,7 +1132,7 @@
     },
     {
       "label": "Which country hosted the 1979 World Cup?",
-      "id": "which_country_hosted_the_1979_world_cup?",
+      "id": "which_country_hosted_the_1979_world_cup_",
       "dates": [
         "2019-06-22",
         "2019-06-28",
@@ -1051,7 +1161,7 @@
     },
     {
       "label": "Which are the two teams that qualified for the 1979 cricket World Cup without a test status?",
-      "id": "which_are_the_two_teams_that_qualified_for_the_1979_cricket_world_cup_without_a_test_status?",
+      "id": "which_are_the_two_teams_that_qualified_for_the_1979_cricket_world_cup_without_a_test_status_",
       "dates": [
         "2019-06-15"
       ],
@@ -1078,7 +1188,7 @@
     },
     {
       "label": "Who won the cricket World Cup in 1979?",
-      "id": "who_won_the_cricket_world_cup_in_1979?",
+      "id": "who_won_the_cricket_world_cup_in_1979_",
       "dates": [],
       "options": [
         {
@@ -1103,7 +1213,7 @@
     },
     {
       "label": "Who scored the most runs in the 1979 Cricket World Cup?",
-      "id": "who_scored_the_most_runs_in_the_1979_cricket_world_cup?",
+      "id": "who_scored_the_most_runs_in_the_1979_cricket_world_cup_",
       "dates": [
         "2019-06-14"
       ],
@@ -1130,7 +1240,7 @@
     },
     {
       "label": "Which country hosted the 1983 Men's cricket World Cup?",
-      "id": "which_country_hosted_the_1983_men's_cricket_world_cup?",
+      "id": "which_country_hosted_the_1983_men_s_cricket_world_cup_",
       "dates": [
         "2019-06-14"
       ],
@@ -1157,7 +1267,7 @@
     },
     {
       "label": "Which country did India defeat in the 1983 cricket World Cup final?",
-      "id": "which_country_did_india_defeat_in_the_1983_cricket_world_cup_final?",
+      "id": "which_country_did_india_defeat_in_the_1983_cricket_world_cup_final_",
       "dates": [],
       "options": [
         {
@@ -1182,7 +1292,7 @@
     },
     {
       "label": "Who won the 'Man of the Match' during the 1983 World Cup final?",
-      "id": "who_won_the_'man_of_the_match'_during_the_1983_world_cup_final?",
+      "id": "who_won_the__man_of_the_match__during_the_1983_world_cup_final_",
       "dates": [
         "2019-06-05",
         "2019-06-13"
@@ -1210,7 +1320,7 @@
     },
     {
       "label": "How many runs did India score in the 1983 World Cup finals against West Indies?",
-      "id": "how_many_runs_did_india_score_in_the_1983_world_cup_finals_against_west_indies?",
+      "id": "how_many_runs_did_india_score_in_the_1983_world_cup_finals_against_west_indies_",
       "dates": [
         "2019-06-13"
       ],
@@ -1237,7 +1347,7 @@
     },
     {
       "label": "How many matches were played in the 1983 cricket World Cup?",
-      "id": "how_many_matches_were_played_in_the_1983_cricket_world_cup?",
+      "id": "how_many_matches_were_played_in_the_1983_cricket_world_cup_",
       "dates": [
         "2019-06-07"
       ],
@@ -1264,7 +1374,7 @@
     },
     {
       "label": "During the 1989 World Cup, how many overs were there in an inning?",
-      "id": "during_the_1989_world_cup,_how_many_overs_were_there_in_an_inning?",
+      "id": "during_the_1989_world_cup__how_many_overs_were_there_in_an_inning_",
       "dates": [
         "2019-06-15"
       ],
@@ -1291,7 +1401,7 @@
     },
     {
       "label": "Where was the final match of the 1987 World Cup held?",
-      "id": "where_was_the_final_match_of_the_1987_world_cup_held?",
+      "id": "where_was_the_final_match_of_the_1987_world_cup_held_",
       "dates": [],
       "options": [
         {
@@ -1316,7 +1426,7 @@
     },
     {
       "label": "Who won the 1987 cricket World Cup?",
-      "id": "who_won_the_1987_cricket_world_cup?",
+      "id": "who_won_the_1987_cricket_world_cup_",
       "dates": [
         "2019-06-20",
         "2019-07-06"
@@ -1344,7 +1454,7 @@
     },
     {
       "label": "In 1992, who took the first hat-trick in recorded history of the cricket World Cup?",
-      "id": "in_1992,_who_took_the_first_hat-trick_in_recorded_history_of_the_cricket_world_cup?",
+      "id": "in_1992__who_took_the_first_hat_trick_in_recorded_history_of_the_cricket_world_cup_",
       "dates": [
         "2019-06-09",
         "2019-07-06"
@@ -1372,7 +1482,7 @@
     },
     {
       "label": "During which World Cup was colored clothing first introduced?",
-      "id": "during_which_world_cup_was_colored_clothing_first_introduced?",
+      "id": "during_which_world_cup_was_colored_clothing_first_introduced_",
       "dates": [
         "2019-06-04"
       ],
@@ -1399,7 +1509,7 @@
     },
     {
       "label": "Who won the 1992 cricket World Cup?",
-      "id": "who_won_the_1992_cricket_world_cup?",
+      "id": "who_won_the_1992_cricket_world_cup_",
       "dates": [
         "2019-06-26",
         "2019-06-29",
@@ -1428,7 +1538,7 @@
     },
     {
       "label": "Which country played its debut World Cup in 1992?",
-      "id": "which_country_played_its_debut_world_cup_in_1992?",
+      "id": "which_country_played_its_debut_world_cup_in_1992_",
       "dates": [
         "2019-05-30",
         "2019-06-05"
@@ -1456,7 +1566,7 @@
     },
     {
       "label": "Which team had to score 22 runs off of 1 ball in the semi-final after a delayed match due to rain during the 1992 World Cup?",
-      "id": "which_team_had_to_score_22_runs_off_of_1_ball_in_the_semi-final_after_a_delayed_match_due_to_rain_during_the_1992_world_cup?",
+      "id": "which_team_had_to_score_22_runs_off_of_1_ball_in_the_semi_final_after_a_delayed_match_due_to_rain_during_the_1992_world_cup_",
       "dates": [
         "2019-06-23"
       ],
@@ -1483,7 +1593,7 @@
     },
     {
       "label": "Which country hosted the 1992 cricket World Cup?",
-      "id": "which_country_hosted_the_1992_cricket_world_cup?",
+      "id": "which_country_hosted_the_1992_cricket_world_cup_",
       "dates": [
         "2019-06-05",
         "2019-06-16"
@@ -1512,7 +1622,7 @@
     },
     {
       "label": "What is special about the final match of the 1992 World Cup?",
-      "id": "what_is_special_about_the_final_match_of_the_1992_world_cup?",
+      "id": "what_is_special_about_the_final_match_of_the_1992_world_cup_",
       "dates": [],
       "options": [
         {
@@ -1537,7 +1647,7 @@
     },
     {
       "label": "What method was used to dry the ground after rain during the match between India and Srilanka in 1992?",
-      "id": "what_method_was_used_to_dry_the_ground_after_rain_during_the_match_between_india_and_srilanka_in_1992?",
+      "id": "what_method_was_used_to_dry_the_ground_after_rain_during_the_match_between_india_and_srilanka_in_1992_",
       "dates": [
         "2019-06-01",
         "2019-07-06"
@@ -1565,7 +1675,7 @@
     },
     {
       "label": "What was the batting technique introduced by New Zealand in the 1992 World Cup?",
-      "id": "what_was_the_batting_technique_introduced_by_new_zealand_in_the_1992_world_cup?",
+      "id": "what_was_the_batting_technique_introduced_by_new_zealand_in_the_1992_world_cup_",
       "dates": [
         "2019-06-22",
         "2019-06-26",
@@ -1594,7 +1704,7 @@
     },
     {
       "label": "How else is the 1996 World Cup referred to?",
-      "id": "how_else_is_the_1996_world_cup_referred_to?",
+      "id": "how_else_is_the_1996_world_cup_referred_to_",
       "dates": [
         "2019-06-08"
       ],
@@ -1621,7 +1731,7 @@
     },
     {
       "label": "In 1996, Sri Lanka played against India and won the semi-finals by default. Why?",
-      "id": "in_1996,_sri_lanka_played_against_india_and_won_the_semi-finals_by_default._why?",
+      "id": "in_1996__sri_lanka_played_against_india_and_won_the_semi_finals_by_default__why_",
       "dates": [
         "2019-06-07"
       ],
@@ -1648,7 +1758,7 @@
     },
     {
       "label": "In the 1996 World Cup, who was the highest scorer?",
-      "id": "in_the_1996_world_cup,_who_was_the_highest_scorer?",
+      "id": "in_the_1996_world_cup__who_was_the_highest_scorer_",
       "dates": [
         "2019-06-22"
       ],
@@ -1675,7 +1785,7 @@
     },
     {
       "label": "Who won the cricket World Cup in1996 ?",
-      "id": "who_won_the_cricket_world_cup_in1996_?",
+      "id": "who_won_the_cricket_world_cup_in1996__",
       "dates": [
         "2019-06-03",
         "2019-06-04",
@@ -1704,7 +1814,7 @@
     },
     {
       "label": "How many matches were played in the 1996 cricket World Cup?",
-      "id": "how_many_matches_were_played_in_the_1996_cricket_world_cup?",
+      "id": "how_many_matches_were_played_in_the_1996_cricket_world_cup_",
       "dates": [],
       "options": [
         {
@@ -1729,7 +1839,7 @@
     },
     {
       "label": "Which country hosted the 1999 cricket World Cup?",
-      "id": "which_country_hosted_the_1999_cricket_world_cup?",
+      "id": "which_country_hosted_the_1999_cricket_world_cup_",
       "dates": [
         "2019-05-30"
       ],
@@ -1756,7 +1866,7 @@
     },
     {
       "label": " Who was the 'Man of the Series' for the 1999 World Cup?",
-      "id": "who_was_the_'man_of_the_series'_for_the_1999_world_cup?",
+      "id": "who_was_the__man_of_the_series__for_the_1999_world_cup_",
       "dates": [
         "2019-06-11",
         "2019-06-30"
@@ -1784,7 +1894,7 @@
     },
     {
       "label": "What new type of cricket ball was introduced during the 1999 cricket World Cup?",
-      "id": "what_new_type_of_cricket_ball_was_introduced_during_the_1999_cricket_world_cup?",
+      "id": "what_new_type_of_cricket_ball_was_introduced_during_the_1999_cricket_world_cup_",
       "dates": [
         "2019-07-01"
       ],
@@ -1811,7 +1921,7 @@
     },
     {
       "label": "Who won the World Cup in 1999?",
-      "id": "who_won_the_world_cup_in_1999?",
+      "id": "who_won_the_world_cup_in_1999_",
       "dates": [
         "2019-07-06"
       ],
@@ -1838,7 +1948,7 @@
     },
     {
       "label": "Which country was a co-host for the 1999 cricket World Cup?",
-      "id": "which_country_was_a_co-host_for_the_1999_cricket_world_cup?",
+      "id": "which_country_was_a_co_host_for_the_1999_cricket_world_cup_",
       "dates": [
         "2019-06-06"
       ],
@@ -1865,7 +1975,7 @@
     },
     {
       "label": "Who scored the maximum runs in the 1999 cricket World Cup?",
-      "id": "who_scored_the_maximum_runs_in_the_1999_cricket_world_cup?",
+      "id": "who_scored_the_maximum_runs_in_the_1999_cricket_world_cup_",
       "dates": [
         "2019-06-02",
         "2019-06-29"
@@ -1893,7 +2003,7 @@
     },
     {
       "label": "Why was the 2003 World Cup unique?",
-      "id": "why_was_the_2003_world_cup_unique?",
+      "id": "why_was_the_2003_world_cup_unique_",
       "dates": [
         "2019-06-11"
       ],
@@ -1920,7 +2030,7 @@
     },
     {
       "label": "Which non test-playing nation reached the semi-finals of cricket World Cup in 2003, the only country to ever do so?",
-      "id": "which_non_test-playing_nation_reached_the_semi-finals_of_cricket_world_cup_in_2003,_the_only_country_to_ever_do_so?",
+      "id": "which_non_test_playing_nation_reached_the_semi_finals_of_cricket_world_cup_in_2003__the_only_country_to_ever_do_so_",
       "dates": [
         "2019-06-23"
       ],
@@ -1947,7 +2057,7 @@
     },
     {
       "label": "Who was named the 'Man of the Series' and 'Highest Scorer' for the 2003 cricket World Cup?",
-      "id": "who_was_named_the_'man_of_the_series'_and_'highest_scorer'_for_the_2003_cricket_world_cup?",
+      "id": "who_was_named_the__man_of_the_series__and__highest_scorer__for_the_2003_cricket_world_cup_",
       "dates": [
         "2019-06-01"
       ],
@@ -1974,7 +2084,7 @@
     },
     {
       "label": "What method was introduced to calculate the required score after rain delayf during the 2003 World Cup?",
-      "id": "what_method_was_introduced_to_calculate_the_required_score_after_rain_delayf_during_the_2003_world_cup?",
+      "id": "what_method_was_introduced_to_calculate_the_required_score_after_rain_delayf_during_the_2003_world_cup_",
       "dates": [
         "2019-06-28"
       ],
@@ -2001,7 +2111,7 @@
     },
     {
       "label": "How many runs did Australia score in the finals against India in the 2003 World Cup?",
-      "id": "how_many_runs_did_australia_score_in_the_finals_against_india_in_the_2003_world_cup?",
+      "id": "how_many_runs_did_australia_score_in_the_finals_against_india_in_the_2003_world_cup_",
       "dates": [
         "2019-06-09"
       ],
@@ -2028,7 +2138,7 @@
     },
     {
       "label": "Where was the 2007 cricket World Cup held?",
-      "id": "where_was_the_2007_cricket_world_cup_held?",
+      "id": "where_was_the_2007_cricket_world_cup_held_",
       "dates": [],
       "options": [
         {
@@ -2053,7 +2163,7 @@
     },
     {
       "label": "Who won the 'Man of the Series' at the 2007 cricket World Cup?",
-      "id": "who_won_the_'man_of_the_series'_at_the_2007_cricket_world_cup?",
+      "id": "who_won_the__man_of_the_series__at_the_2007_cricket_world_cup_",
       "dates": [
         "2019-06-20",
         "2019-06-29"
@@ -2081,7 +2191,7 @@
     },
     {
       "label": "At which stage did India fail to qualify at the 2007 cricket World Cup?",
-      "id": "at_which_stage_did_india_fail_to_qualify_at_the_2007_cricket_world_cup?",
+      "id": "at_which_stage_did_india_fail_to_qualify_at_the_2007_cricket_world_cup_",
       "dates": [
         "2019-06-25",
         "2019-07-04"
@@ -2109,7 +2219,7 @@
     },
     {
       "label": "Who was the official ambassador for the 2011 cricket World Cup?",
-      "id": "who_was_the_official_ambassador_for_the_2011_cricket_world_cup?",
+      "id": "who_was_the_official_ambassador_for_the_2011_cricket_world_cup_",
       "dates": [],
       "options": [
         {
@@ -2134,7 +2244,7 @@
     },
     {
       "label": "Who won the 2011 cricket World Cup?",
-      "id": "who_won_the_2011_cricket_world_cup?",
+      "id": "who_won_the_2011_cricket_world_cup_",
       "dates": [
         "2019-06-15"
       ],
@@ -2161,7 +2271,7 @@
     },
     {
       "label": "Who won the 'Player of the Series' for the 2011 cricket World Cup?",
-      "id": "who_won_the_'player_of_the_series'_for_the_2011_cricket_world_cup?",
+      "id": "who_won_the__player_of_the_series__for_the_2011_cricket_world_cup_",
       "dates": [],
       "options": [
         {
@@ -2186,7 +2296,7 @@
     },
     {
       "label": "The 2011 World Cup witnessed the highest number of viewers across the world. How many viewers was it?",
-      "id": "the_2011_world_cup_witnessed_the_highest_number_of_viewers_across_the_world._how_many_viewers_was_it?",
+      "id": "the_2011_world_cup_witnessed_the_highest_number_of_viewers_across_the_world__how_many_viewers_was_it_",
       "dates": [
         "2019-06-05",
         "2019-06-18"
@@ -2214,7 +2324,7 @@
     },
     {
       "label": "During the World Cup final in 2011, what score did India have to chase?",
-      "id": "during_the_world_cup_final_in_2011,_what_score_did_india_have_to_chase?",
+      "id": "during_the_world_cup_final_in_2011__what_score_did_india_have_to_chase_",
       "dates": [
         "2019-06-08"
       ],
@@ -2241,7 +2351,7 @@
     },
     {
       "label": "Where was the 2015 cricket World Cup held?",
-      "id": "where_was_the_2015_cricket_world_cup_held?",
+      "id": "where_was_the_2015_cricket_world_cup_held_",
       "dates": [
         "2019-07-01"
       ],
@@ -2268,7 +2378,7 @@
     },
     {
       "label": "How many World Cups has Australia won so far?",
-      "id": "how_many_world_cups_has_australia_won_so_far?",
+      "id": "how_many_world_cups_has_australia_won_so_far_",
       "dates": [
         "2019-06-12"
       ],
@@ -2295,7 +2405,7 @@
     },
     {
       "label": "Who won the 'Player of the Series' in the 2015 cricket World Cup?",
-      "id": "who_won_the_'player_of_the_series'_in_the_2015_cricket_world_cup?",
+      "id": "who_won_the__player_of_the_series__in_the_2015_cricket_world_cup_",
       "dates": [
         "2019-06-25"
       ],
@@ -2322,7 +2432,7 @@
     },
     {
       "label": "Who did Australia play against in the final match of the 2015 cricket World Cup?",
-      "id": "who_did_australia_play_against_in_the_final_match_of_the_2015_cricket_world_cup?",
+      "id": "who_did_australia_play_against_in_the_final_match_of_the_2015_cricket_world_cup_",
       "dates": [
         "2019-06-01",
         "2019-06-15"
@@ -2350,7 +2460,7 @@
     },
     {
       "label": "Which country will host the 2019 World Cup?",
-      "id": "which_country_will_host_the_2019_world_cup?",
+      "id": "which_country_will_host_the_2019_world_cup_",
       "dates": [
         "2019-05-31",
         "2019-06-02",
@@ -2379,7 +2489,7 @@
     },
     {
       "label": "Who has scored the maximum runs in a World Cup tournament?",
-      "id": "who_has_scored_the_maximum_runs_in_a_world_cup_tournament?",
+      "id": "who_has_scored_the_maximum_runs_in_a_world_cup_tournament_",
       "dates": [
         "2019-06-08",
         "2019-06-27"
@@ -2407,7 +2517,7 @@
     },
     {
       "label": "Who has taken the most number of wickets in a World Cup tournament?",
-      "id": "who_has_taken_the_most_number_of_wickets_in_a_world_cup_tournament?",
+      "id": "who_has_taken_the_most_number_of_wickets_in_a_world_cup_tournament_",
       "dates": [
         "2019-06-12"
       ],
@@ -2434,7 +2544,7 @@
     },
     {
       "label": "Which team has won the highest number of World Cups?",
-      "id": "which_team_has_won_the_highest_number_of_world_cups?",
+      "id": "which_team_has_won_the_highest_number_of_world_cups_",
       "dates": [
         "2019-06-01"
       ],
@@ -2461,7 +2571,7 @@
     },
     {
       "label": "Who is the first non-Australian captain to have won 100 ODI Matches?",
-      "id": "who_is_the_first_non-australian_captain_to_have_won_100_odi_matches?",
+      "id": "who_is_the_first_non_australian_captain_to_have_won_100_odi_matches_",
       "dates": [
         "2019-06-16"
       ],
@@ -2488,7 +2598,7 @@
     },
     {
       "label": "Who was the first Indian batsman to score a century at a World Cup debut?",
-      "id": "who_was_the_first_indian_batsman_to_score_a_century_at_a_world_cup_debut?",
+      "id": "who_was_the_first_indian_batsman_to_score_a_century_at_a_world_cup_debut_",
       "dates": [],
       "options": [
         {
@@ -2513,7 +2623,7 @@
     },
     {
       "label": "Who scored the maximum number of sixes in 2018?",
-      "id": "who_scored_the_maximum_number_of_sixes_in_2018?",
+      "id": "who_scored_the_maximum_number_of_sixes_in_2018_",
       "dates": [
         "2019-07-02"
       ],
@@ -2541,7 +2651,7 @@
     },
     {
       "label": "Which Indian batsman is the fastest to score 1000 runs at ODI tournaments?",
-      "id": "which_indian_batsman_is_the_fastest_to_score_1000_runs_at_odi_tournaments?",
+      "id": "which_indian_batsman_is_the_fastest_to_score_1000_runs_at_odi_tournaments_",
       "dates": [
         "2019-06-24"
       ],
@@ -2569,7 +2679,7 @@
     },
     {
       "label": "Which Australian player had never played a first-class match before making his national debut?",
-      "id": "which_australian_player_had_never_played_a_first-class_match_before_making_his_national_debut?",
+      "id": "which_australian_player_had_never_played_a_first_class_match_before_making_his_national_debut_",
       "dates": [],
       "options": [
         {
@@ -2595,7 +2705,7 @@
     },
     {
       "label": "Who is the youngest player to have scored a century against all test-playing nations?",
-      "id": "who_is_the_youngest_player_to_have_scored_a_century_against_all_test-playing_nations?",
+      "id": "who_is_the_youngest_player_to_have_scored_a_century_against_all_test_playing_nations_",
       "dates": [
         "2019-06-19"
       ],
@@ -2623,7 +2733,7 @@
     },
     {
       "label": "Which English cricketer scored centuries for two separate nations?",
-      "id": "which_english_cricketer_scored_centuries_for_two_separate_nations?",
+      "id": "which_english_cricketer_scored_centuries_for_two_separate_nations_",
       "dates": [
         "2019-06-18"
       ],
@@ -2650,7 +2760,7 @@
     },
     {
       "label": "Which South African bowler is the youngest to have taken 150 wickets?",
-      "id": "which_south_african_bowler_is_the_youngest_to_have_taken_150_wickets?",
+      "id": "which_south_african_bowler_is_the_youngest_to_have_taken_150_wickets_",
       "dates": [
         "2019-06-19"
       ],
@@ -2677,7 +2787,7 @@
     },
     {
       "label": "Who is the only player to have hit a century in T-20, a double century in an ODI and a triple century in a Test match?",
-      "id": "who_is_the_only_player_to_have_hit_a_century_in_t-20,_a_double_century_in_an_odi_and_a_triple_century_in_a_test_match?",
+      "id": "who_is_the_only_player_to_have_hit_a_century_in_t_20__a_double_century_in_an_odi_and_a_triple_century_in_a_test_match_",
       "dates": [
         "2019-06-10"
       ],
@@ -2704,7 +2814,7 @@
     },
     {
       "label": "How many Carribean nations does the West Indies cricket team represent?",
-      "id": "how_many_carribean_nations_does_the_west_indies_cricket_team_represent?",
+      "id": "how_many_carribean_nations_does_the_west_indies_cricket_team_represent_",
       "dates": [
         "2019-05-31",
         "2019-06-17"
@@ -2732,7 +2842,7 @@
     },
     {
       "label": "Which team has the most number of Final appearances?",
-      "id": "which_team_has_the_most_number_of_final_appearances?",
+      "id": "which_team_has_the_most_number_of_final_appearances_",
       "dates": [
         "2019-06-06"
       ],
@@ -2759,7 +2869,7 @@
     },
     {
       "label": "Who is the only Indian captain who hasn't lost a group stage match in World Cup?",
-      "id": "who_is_the_only_indian_captain_who_hasn't_lost_a_group_stage_match_in_world_cup?",
+      "id": "who_is_the_only_indian_captain_who_hasn_t_lost_a_group_stage_match_in_world_cup_",
       "dates": [],
       "options": [
         {
@@ -2784,7 +2894,7 @@
     },
     {
       "label": "Who is the captain of the Indian womens' cricket ODI team?",
-      "id": "who_is_the_captain_of_the_indian_womens'_cricket_odi_team?",
+      "id": "who_is_the_captain_of_the_indian_womens__cricket_odi_team_",
       "dates": [
         "2019-06-30"
       ],
@@ -2801,7 +2911,7 @@
     },
     {
       "label": "Which woman cricketer was awarded the ICC Woman Cricketer for 2018?",
-      "id": "which_woman_cricketer_was_awarded_the_icc_woman_cricketer_for_2018?",
+      "id": "which_woman_cricketer_was_awarded_the_icc_woman_cricketer_for_2018_",
       "dates": [
         "2019-07-02"
       ],
@@ -2818,7 +2928,7 @@
     },
     {
       "label": "Who was the first woman cricketer to play the KIA Super League in England?",
-      "id": "who_was_the_first_woman_cricketer_to_play_the_kia_super_league_in_england?",
+      "id": "who_was_the_first_woman_cricketer_to_play_the_kia_super_league_in_england_",
       "dates": [],
       "options": [
         {
@@ -2833,7 +2943,7 @@
     },
     {
       "label": "Who has scored the most runs for the Indian womens' cricket team?",
-      "id": "who_has_scored_the_most_runs_for_the_indian_womens'_cricket_team?",
+      "id": "who_has_scored_the_most_runs_for_the_indian_womens__cricket_team_",
       "dates": [],
       "options": [
         {
@@ -2848,7 +2958,7 @@
     },
     {
       "label": "Who has taken the most number of wickets for the Indian womens cricket team?",
-      "id": "who_has_taken_the_most_number_of_wickets_for_the_indian_womens_cricket_team?",
+      "id": "who_has_taken_the_most_number_of_wickets_for_the_indian_womens_cricket_team_",
       "dates": [
         "2019-06-27"
       ],

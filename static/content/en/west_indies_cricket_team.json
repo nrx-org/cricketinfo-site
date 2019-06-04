@@ -131,7 +131,32 @@
           "note": "1970s - 1990s.",
           "value": {
             "label": "By the late 1970s, the West Indies led by Clive Lloyd had a side recognised as unofficial world champions, a reputation they retained throughout the 1980s.\n\n\nDuring these glory years, the West Indies were noted for their four-man fast bowling attack, backed up by some of the best batsmen in the world.\n\nThey won the first 2 world cups.  The 1980s saw them set a then-record streak of 11 consecutive Test victories in 1984, which was part of a still-standing record of 27 tests without defeat (the other tests being draws).",
-            "facts": []
+            "facts": [
+              {
+                "label": "1975 Cricket World Cup",
+                "url": null,
+                "id": "west_indies_cricket_team_history_1_fact_0",
+                "value": {
+                  "label": "",
+                  "image": {
+                    "altText": "Image of 1975 Cricket World Cup",
+                    "license": ""
+                  }
+                }
+              },
+              {
+                "label": "1979 Cricket World Cup",
+                "url": null,
+                "id": "west_indies_cricket_team_history_1_fact_1",
+                "value": {
+                  "label": "",
+                  "image": {
+                    "altText": "Image of 1979 Cricket World Cup",
+                    "license": ""
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -140,7 +165,32 @@
           "note": "1990s - Present",
           "value": {
             "label": "Throughout the 1990s and 2000s, West Indian cricket declined, largely owing to the failure of the West Indian Cricket Board to move the game from an amateur pastime to a professional sport. \n\nVictory in the 2004 Champions Trophy and a runner-up showing in the 2006 Champions Trophy left some hopeful, then they beat Australia and then host Sri Lanka in the 2012 World Twenty20 to win their first ICC world championship since the 1979 World Cup and then bested England to win the 2016 World Twenty20, making them the first team to win the World Twenty20 twice.",
-            "facts": []
+            "facts": [
+              {
+                "label": "ICC Champions Trophy ",
+                "url": null,
+                "id": "west_indies_cricket_team_history_2_fact_0",
+                "value": {
+                  "label": "",
+                  "image": {
+                    "altText": "Image of ICC Champions Trophy ",
+                    "license": ""
+                  }
+                }
+              },
+              {
+                "label": "ICC T20 World Cup",
+                "url": null,
+                "id": "west_indies_cricket_team_history_2_fact_1",
+                "value": {
+                  "label": "",
+                  "image": {
+                    "altText": "Image of ICC T20 World Cup",
+                    "license": ""
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -157,7 +207,45 @@
     {
       "title": "Famous Players",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "Darren Sammy",
+          "id": "west_indies_cricket_team_player_0",
+          "value": {
+            "url": null,
+            "label": " Both World T20s were won with Sammy as captain, making him the only West Indian captain besides Clive Lloyd with multiple ICC tournament victories.",
+            "image": {
+              "url": "/static/images/master/Darren_Sammy2C_2010.jpg",
+              "altText": "Image of Darren Sammy",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Viv Richards",
+          "id": "west_indies_cricket_team_player_1",
+          "value": {
+            "url": null,
+            "label": "Viv Richards, who has a Test batting average of 50.23 from 121 matches, captained the West Indies from 1985–86 to 1991, a period throughout which the West Indies were the best Test match side in the world.",
+            "image": {
+              "url": "/static/images/master/Vivian_richards_crop.jpg",
+              "altText": "Image of Viv Richards"
+            }
+          }
+        },
+        {
+          "label": "Brian Lara",
+          "id": "west_indies_cricket_team_player_2",
+          "value": {
+            "url": null,
+            "label": "Brian Lara holds the world record for highest score in Test cricket.",
+            "image": {
+              "url": "/static/images/master/BrianLaraUkexpat.jpg",
+              "altText": "Image of Brian Lara"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "Achievements & Records",
@@ -174,6 +262,7 @@
             "label": "BLK",
             "url": null,
             "image": {
+              "url": "/static/images/master/Beyond_Limits_Known_logo.svg",
               "altText": "Image of BLK"
             }
           }
@@ -184,6 +273,7 @@
             "label": "Digicel",
             "url": null,
             "image": {
+              "url": "/static/images/master/Digicel_logo.svg",
               "altText": "Image of Digicel"
             }
           }

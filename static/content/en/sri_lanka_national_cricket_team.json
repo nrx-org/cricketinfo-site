@@ -158,7 +158,58 @@
     {
       "title": "Famous Players",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "Lasith Malinga",
+          "id": "sri_lanka_national_cricket_team_player_0",
+          "value": {
+            "url": null,
+            "label": "Separamadu Lasith Malinga bowls right-arm fast-medium and, is commonly used as a specialist death bowler, which lead to his nicknames, \"Slinga Malinga\" and \"Malinga the Slinga\".",
+            "image": {
+              "url": "/static/images/master/LASITH_MALINGA_28515517554929.jpg",
+              "altText": "Image of Lasith Malinga",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Dinesh Chandimal",
+          "id": "sri_lanka_national_cricket_team_player_1",
+          "value": {
+            "url": null,
+            "label": "Chandimal holds the joint record for taking the most number of catches in a single T20I as a fielder.",
+            "image": {
+              "url": "/static/images/master/Dinesh_Chandimal_2.JPG",
+              "altText": "Image of Dinesh Chandimal"
+            }
+          }
+        },
+        {
+          "label": "Angelo Mathews",
+          "id": "sri_lanka_national_cricket_team_player_2",
+          "value": {
+            "url": null,
+            "label": "Angelo Davis Mathews, is a professional Sri Lankan cricketer and a former captain in all formats.",
+            "image": {
+              "url": "/static/images/master/Angelo_Mathews_28533833446229.jpg",
+              "altText": "Image of Angelo Mathews",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Thisara Perera",
+          "id": "sri_lanka_national_cricket_team_player_3",
+          "value": {
+            "url": null,
+            "label": "Thisara Perera, is a professional Sri Lankan cricketer. He was purchased by the Chennai Super Kings for US$50,000 in the auction for the 2010 Indian Premier League.",
+            "image": {
+              "url": "/static/images/master/Thisara_Perera.jpg",
+              "altText": "Image of Thisara Perera"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "Achievements & Records",
@@ -175,6 +226,7 @@
             "label": "Dilmah ",
             "url": null,
             "image": {
+              "url": "/static/images/master/Dilmah-Logo.jpg",
               "altText": "Image of Dilmah "
             }
           }
@@ -185,6 +237,7 @@
             "label": "Kent RO Systems",
             "url": null,
             "image": {
+              "url": "/static/images/master/KENT_Healthcare_Logo.jpg",
               "altText": "Image of Kent RO Systems"
             }
           }

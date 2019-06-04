@@ -123,7 +123,32 @@
           "note": "2008 - 2009",
           "value": {
             "label": "In 2008, they finished 5th on the points table. In 2009, they finished 7th.",
-            "facts": []
+            "facts": [
+              {
+                "label": "IPL 2008",
+                "url": "/read/en/2008_indian_premier_league",
+                "id": "mumbai_indians_history_0_fact_0",
+                "value": {
+                  "label": "The 2008 season was the inaugural season of the Indian Premier League. It was won by Rajasthan Royals.",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2008"
+                  }
+                }
+              },
+              {
+                "label": "IPL 2009",
+                "url": "/read/en/2009_indian_premier_league",
+                "id": "mumbai_indians_history_0_fact_1",
+                "value": {
+                  "label": "The 2009 season was hosted by South Africa and was won by Deccan Chargers",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2009"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -132,7 +157,44 @@
           "note": "2010 - 2012",
           "value": {
             "label": "In the 2010 season, they reached the finals for the first time, losing to Chennai Super Kings. In the 2011 season, they made it to the semifinals, and then beat Bangalore to win the  2011 Champions League Twenty20 held in India. They then finished 3rd on the points table in the 2012 season.",
-            "facts": []
+            "facts": [
+              {
+                "label": "IPL 2010",
+                "url": "/read/en/2010_indian_premier_league",
+                "id": "mumbai_indians_history_1_fact_0",
+                "value": {
+                  "label": "The 2010 season was won by Chennai Super Kings",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2010"
+                  }
+                }
+              },
+              {
+                "label": "IPL 2011",
+                "url": "/read/en/2011_indian_premier_league",
+                "id": "mumbai_indians_history_1_fact_1",
+                "value": {
+                  "label": "The 2011 season was won by the Chennai Super Kings for the second successive season.",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2011"
+                  }
+                }
+              },
+              {
+                "label": "IPL 2012",
+                "url": "/read/en/2012_indian_premier_league",
+                "id": "mumbai_indians_history_1_fact_2",
+                "value": {
+                  "label": "The 2012 season was won by Kolkata Knight Riders who beat defending champions Chennai in the finals.",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2012"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -141,7 +203,33 @@
           "note": "2013",
           "value": {
             "label": "Rohit Sharma took lead of the team. Having the experienced advice of Anil Kumble, Jonty Rhodes and Sachin Tendulkar, the team emerged victorious over Chennai Super Kings in the final. They continued their winning streak in the Champions League, beating Perth Scorchers by 33 runs to clinch the title.",
-            "facts": []
+            "facts": [
+              {
+                "label": "IPL 2013",
+                "url": "/read/en/2013_indian_premier_league",
+                "id": "mumbai_indians_history_2_fact_0",
+                "value": {
+                  "label": "The 2013 season was won by Mumbai Indians.",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2013"
+                  }
+                }
+              },
+              {
+                "label": "Rohit Sharma ",
+                "url": "/read/en/rohit_sharma",
+                "id": "mumbai_indians_history_2_fact_1",
+                "value": {
+                  "label": "Rohit Sharma was installed as captain",
+                  "image": {
+                    "url": "/static/images/master/Rohit_Sharma_November_2016_28cropped29.jpg",
+                    "altText": "Image of Rohit Sharma ",
+                    "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -150,7 +238,44 @@
           "note": "2014 - Present",
           "value": {
             "label": "In the 2014 season, Mumbai Indians reached the play-offs but lost against the Chennai Super Kings in the eliminator. \n\nIn the 2015 season, they defeated Chennai Super Kings by 41 runs to clinch their second IPL title.\n\nIn the 2016 season, they finished 5th. \n\nIn the 2017 season, they beat Rising Pune Supergiant in a nail-biting finish which is often hailed as the best IPL match and IPL final till date. \n\nIn the 2018 season, they finished at 5th spot again.",
-            "facts": []
+            "facts": [
+              {
+                "label": "IPL 2014",
+                "url": "/read/en/2014_indian_premier_league",
+                "id": "mumbai_indians_history_3_fact_0",
+                "value": {
+                  "label": "The 2014 season was hosted by India and UAE. Kolkata Knight Riders were the champions.",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2014"
+                  }
+                }
+              },
+              {
+                "label": "IPL 2015",
+                "url": "/read/en/2015_indian_premier_league",
+                "id": "mumbai_indians_history_3_fact_1",
+                "value": {
+                  "label": "The 2015 season was won by Mumbai Indians.",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2015"
+                  }
+                }
+              },
+              {
+                "label": "IPL 2017",
+                "url": "/read/en/2017_indian_premier_league",
+                "id": "mumbai_indians_history_3_fact_2",
+                "value": {
+                  "label": "The 2017 season was won by Mumbai Indians.",
+                  "image": {
+                    "url": "/static/images/master/Indian_Premier_League_Logo.png",
+                    "altText": "Image of IPL 2017"
+                  }
+                }
+              }
+            ]
           }
         }
       ]
@@ -158,7 +283,45 @@
     {
       "title": "Famous Players",
       "cardType": "stories",
-      "facts": []
+      "facts": [
+        {
+          "label": "Sachin Tendulkar",
+          "id": "mumbai_indians_player_0",
+          "value": {
+            "url": null,
+            "label": "Sachin Tendulkar was named Mumbai's icon player and was captain of the team until the 2012 season.",
+            "image": {
+              "url": "/static/images/master/Sachin_Tendulkar_at_MRF_Promotion_Event.jpg",
+              "altText": "Image of Sachin Tendulkar"
+            }
+          }
+        },
+        {
+          "label": "Rohit Sharma",
+          "id": "mumbai_indians_player_1",
+          "value": {
+            "url": null,
+            "label": "Rohit Sharma became the captain of Mumbai Indians in 2013 and has since led them to three IPL titles.",
+            "image": {
+              "url": "/static/images/master/Rohit_Sharma_November_2016_28cropped29.jpg",
+              "altText": "Image of Rohit Sharma",
+              "license": "<p>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</p>"
+            }
+          }
+        },
+        {
+          "label": "Lasith Malinga",
+          "id": "mumbai_indians_player_2",
+          "value": {
+            "url": null,
+            "label": "Lasith Malinga of Mumbai Indians is the leading wicket-taker in IPL with 150 wickets since its inception.",
+            "image": {
+              "url": "/static/images/master/Lasith_Malinga_signing.jpg",
+              "altText": "Image of Lasith Malinga"
+            }
+          }
+        }
+      ]
     },
     {
       "title": "Achievements & Records",
@@ -175,6 +338,7 @@
             "label": "Performax",
             "url": null,
             "image": {
+              "url": "/static/images/master/Performax_Logo.jpg",
               "altText": "Image of Performax"
             }
           }
@@ -185,6 +349,7 @@
             "label": "Samsung",
             "url": null,
             "image": {
+              "url": "/static/images/master/Samsung_wordmark.svg",
               "altText": "Image of Samsung"
             }
           }
