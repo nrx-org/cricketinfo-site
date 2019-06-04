@@ -46,5 +46,5 @@ BottomSheet.propTypes = {
   isOpen: PropTypes.bool,
   children: PropTypes.node.isRequired,
   onOverlayClick: PropTypes.func,
-  size: PropTypes.oneOf(["1up", "2up", "3up", "4up"])
+  size: PropTypes.oneOf(["1up", "2up", "3up", "4up", "noup"])
 };

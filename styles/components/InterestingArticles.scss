@@ -31,6 +31,7 @@ $sectionHeight: 24rem;
   animation: moveCircles 80s linear;
   animation-delay: 1s;
   transform: translateX(52%);
+  -webkit-transform: -webkit-translateX(52%);
   animation-iteration-count: infinite;
 }
 
