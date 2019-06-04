@@ -1,21 +1,36 @@
-## Create the ID and URL mappers
+# Importing Content from Google Sheets
 
-1. Get a CSV of the sheet you want to parse. Make sure you parse the English language one first, and then everything else.
-2. Open `make_id_and_url_mapper.js`
-3. Set the `pathToParsedFile` variable to the path of the CSV file you want to parse
-4. Ensure that the `currentLanguage` is the language of the csv you are looking to parse
-5. Ensure that the names of the ID and Title columns in the id object (lines 45 - 49) are the same as the ones in the sheet
-6. Run `node bin/make_id_and_url_mapper.js`
-7. Repeat the same steps for the other two languages. Do not process until you have filled the mappers for all three langugages
+The `content_parser/` directory contains code that will parse CSV exports from Google Sheets, extract useful content
+from them in the form of JSON files, and download all images embedded in the content. The CSV files must be in a
+specific format, examples of which you will find in the `csv/` directory.
 
-# Create the JSON for the articles itself
+The CSV files that you want to import should always be placed in the `csv/` directory, and named in exactly in the same
+way as the files that appear in that directory at the moment.
 
-1. Get a CSV of the sheet you want to parse. Make sure you parse the English language one first, and then everything else.
-2. Open the relevant parser file.
-3. Set the `pathToParsedFile` variable to the path of the CSV file you want to parse.
-4. Ensure that the `currentLanguage` is the language of the csv you are looking to parse.
-5. Get a csv file of the UI strings.
-6. Set the path to the ui strings file.
-7. Set the header to the UI Strings file (Refer lines 39 and 40 in `make_places_articles.js`)
-8. Run `node bin/NAME_OF_THE_FILE.js`
-9. Repeat the same steps for the other two languages.
+I don't recommend ever running this parser. We wrote this for an initial bulk import of data into our app, which it
+handled pretty well. But we've made changes to our data since then. Running the parser will erase all those changes
+and replace the existing data with whatever is in the sheets you add to the `csv/` directory. That may or may not be
+a good thing. It'll also erase all the resized and optimized images with the full-size, highest-quality versions from
+Wikimedia Commons.
+
+If you still want to run the parser -- maybe you like playing with fire -- you can do so by following these steps:
+
+1. Download CricketInfo content as CSV from Google Sheets. If you don't know which sheets I'm talking about, you
+   shouldn't even be reading this.
+
+2. There should be one CSV file for each entity (person, place, tournament, etc.) in each language. Rename each CSV
+   file using the filenames currently in the `csv/` directory as guidelines.
+
+3. Never run the full import at once. It takes too much time, and if the network connection dies in between then you're
+   left with a broken set of files.
+
+4. If the import fails the first time, try running it again. I don't know why it works the second time, I never said
+   these scripts were robust. You probably shouldn't be running this anyway. It'll only end in tears.
+
+5. Import each entity one by one. For example:
+
+   `$ npm run import -- personalities`
+   
+   A list of entities you can import is available in `content_parser/index.js`.
+
+6. Wait. Breathe. Hydrate. And hope that you haven't ruined everything. 

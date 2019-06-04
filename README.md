@@ -58,5 +58,8 @@ Prototypes for testing a better Wikipedia experience.
 
 ## Resources
 
+- The app in production: https://cricketinfo.io
 - Bug tracking and project status: https://www.pivotaltracker.com/n/projects/2319822
-- Design: https://www.figma.com/file/fKoEklJl32G7gNN1l4m7O8a3/00-Sprint?node-id=0%3A1
+- Design: https://www.figma.com/file/fKoEklJl32G7gNN1l4m7O8a3/00-Sprint
+- More design: https://www.figma.com/file/eYpJXkwtRgzm69S8eliTofF5/02-Experiments
+- Source code: https://github.com/obvious/wikipedia-client-prototypes
