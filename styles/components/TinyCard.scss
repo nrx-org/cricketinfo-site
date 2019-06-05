@@ -10,7 +10,7 @@ $border-radius-cover-image: 8px;
   margin-right: $gutter-s;
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
+  align-items: center;
   border-radius: $border-radius-cover-image;
   overflow: hidden;
   padding: $gutter-s $gutter-s;
@@ -63,6 +63,9 @@ $border-radius-cover-image: 8px;
   position: relative;
   flex-basis: 0;
   flex-grow: 1;
+  width: calc(100% - 3rem);
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .wcp-tiny-card__title {
@@ -70,8 +73,11 @@ $border-radius-cover-image: 8px;
   color: $color-black-light;
   line-height: $line-height-m;
   white-space: nowrap;
-  margin-top: -$gutter-s/2;
+  margin-top: 0;
   margin-bottom: 0;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width: 100%;
 }
 
 .wcp-tiny-card__text {
