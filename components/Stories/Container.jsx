@@ -16,8 +16,15 @@ export class Container extends React.Component {
       isPaused: true,
       isFullScreen: false,
       mousedownId: null,
-      storyImagesLoaded: props.stories.map(() => {
-        return false;
+      storyImagesLoaded: props.stories.map(story => {
+        if (
+          story.value.image &&
+          story.value.image.url &&
+          story.value.image.url.length > 0
+        ) {
+          return false;
+        }
+        return true;
       })
     };
     this.defaultInterval = 4000;
@@ -80,7 +87,7 @@ export class Container extends React.Component {
     const { currentStoryIndex } = this.state;
     this.setState(prevState => {
       const newStoryImagesLoaded = [...prevState.storyImagesLoaded];
-      newStoryImagesLoaded[currentStoryIndex] = true;
+      newStoryImagesLoaded[currentStoryIndex] = false;
       return { storyImagesLoaded: newStoryImagesLoaded };
     });
   }
@@ -90,6 +97,7 @@ export class Container extends React.Component {
   }
 
   previous() {
+    this.setPlaybackAction("pause");
     const { currentStoryIndex } = this.state;
     if (currentStoryIndex > 0) {
       this.setState({
@@ -99,6 +107,7 @@ export class Container extends React.Component {
   }
 
   next() {
+    this.setPlaybackAction("pause");
     const { stories } = this.props;
     const { currentStoryIndex } = this.state;
     if (currentStoryIndex < stories.length - 1) {
@@ -136,6 +145,7 @@ export class Container extends React.Component {
       isFullScreen,
       storyImagesLoaded
     } = this.state;
+
     return (
       <div
         ref={this.containerRef}
