@@ -52,8 +52,8 @@ export class ProgressBarSegment extends React.PureComponent {
       <div
         className="wcp-story-content__progress-bar__single"
         style={{
-          width: `${width * 100}%`,
-          opacity: pause ? 0 : 1
+          width: `${width * 100}%`
+          // opacity: pause ? 0 : 1
         }}
       >
         <div

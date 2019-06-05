@@ -28,6 +28,17 @@ export class Story extends React.Component {
     }
   }
 
+  componentDidMount() {
+    const { story } = this.props;
+    const storyImageExists =
+      story.value.image &&
+      story.value.image.url &&
+      story.value.image.url.length > 0;
+    if (!storyImageExists) {
+      this.imageLoaded();
+    }
+  }
+
   componentDidUpdate(prevProps) {
     const { story, setPlaybackAction } = this.props;
     if (story !== prevProps.story) {
@@ -66,14 +77,13 @@ export class Story extends React.Component {
       onStoryImageLoad();
     } catch (e) {
       // eslint-disable-next-line no-console
-      console.log(e);
+      // console.log(e);
     }
   }
 
   render() {
     const {
       story,
-      loader,
       setPlaybackAction,
       isFullScreen,
       hasImageLoaded
@@ -89,22 +99,32 @@ export class Story extends React.Component {
       title: story.label,
       text: story.value.label
     };
+
+    const storyImageExists =
+      story.value.image &&
+      story.value.image.url &&
+      story.value.image.url.length > 0;
     return (
       <div className="wcp-story-content__story-container">
-        <div
-          className="wcp-story-content__image-container"
-          style={{ backgroundImage: `url(${story.value.image.url})` }}
-        >
-          <BackgroundImage
-            src={story.value.image.url}
-            onLoadBg={this.imageLoaded}
-            hasImageLoaded={hasImageLoaded}
-            onError={err => {
-              // eslint-disable-next-line no-console
-              return console.log("error", err);
-            }}
-          />
-        </div>
+        {storyImageExists ? (
+          <div
+            className="wcp-story-content__image-container"
+            style={{ backgroundImage: `url(${story.value.image.url})` }}
+          >
+            <BackgroundImage
+              src={story.value.image.url}
+              onLoadBg={this.imageLoaded}
+              hasImageLoaded={hasImageLoaded}
+            />
+          </div>
+        ) : (
+          <div className="wcp-story-image-placeholder">
+            <span role="img" aria-label="Missing image">
+              ❓
+            </span>
+          </div>
+        )}
+
         <div className="wcp-story-content__info">
           <p className="wcp-story-content__info__title">{story.label}</p>
           <p className="wcp-story-content__info__caption">
@@ -160,11 +180,6 @@ export class Story extends React.Component {
             ) : null}
           </div>
         </div>
-        {!hasImageLoaded ? (
-          <div className="wcp-story-content__overlay">
-            {loader || <p>loading..</p>}
-          </div>
-        ) : null}
       </div>
     );
   }
@@ -173,7 +188,6 @@ export class Story extends React.Component {
 Story.propTypes = {
   story: factPropTypes.isRequired,
   setPlaybackAction: PropTypes.func,
-  loader: PropTypes.element,
   isFullScreen: PropTypes.bool,
   hasImageLoaded: PropTypes.bool,
   onStoryImageLoad: PropTypes.func
@@ -181,7 +195,6 @@ Story.propTypes = {
 
 Story.defaultProps = {
   setPlaybackAction: null,
-  loader: null,
   isFullScreen: false,
   hasImageLoaded: false,
   onStoryImageLoad: null

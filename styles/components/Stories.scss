@@ -226,3 +226,17 @@ p {
   z-index: $z-index-modal;
   cursor: pointer;
 }
+
+.wcp-story-image-placeholder {
+  position: absolute;
+  z-index: $z-index-base;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;align-items: center; justify-content: center;
+  span {
+    font-size: 4rem;
+    color: $color-gray-dark;
+  }
+}

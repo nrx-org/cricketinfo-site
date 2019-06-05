@@ -22,16 +22,23 @@ $sectionHeight: 24rem;
 }
 
 .wcp-circular-image-card-carousel-group-1 {
+  -webkit-animation: moveCircles 80s linear;
   animation: moveCircles 80s linear;
+  -webkit-animation-delay: -39s;
   animation-delay: -39s;
+  -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
 }
 
 .wcp-circular-image-card-carousel-group-2 {
+  -webkit-animation: moveCircles 80s linear;
   animation: moveCircles 80s linear;
+  -webkit-animation-delay: 1s;
   animation-delay: 1s;
+  -ms-transform: translateX(52%);
   transform: translateX(52%);
   -webkit-transform: -webkit-translateX(52%);
+  -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
 }
 
@@ -39,7 +46,9 @@ $sectionHeight: 24rem;
   position: absolute;
   max-width: 8rem;
   max-height: 8rem;
+  -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
+  -webkit-animation-timing-function: ease-in-out;
   animation-timing-function: ease-in-out;
 }
 
@@ -53,10 +62,23 @@ $animDurations: 3.5s 2.5s 4s 4.5s 3s;
   width: 100%;
   height: 100%;
   overflow: hidden;
+  -webkit-box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08),
+    0 1px 4px rgba(0, 0, 0, 0.04), 0 0 4px rgba(0, 0, 0, 0.04);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08), 0 1px 4px rgba(0, 0, 0, 0.04),
     0 0 4px rgba(0, 0, 0, 0.04);
   img {
     width: 100%;
+  }
+}
+
+@-webkit-keyframes moveCircles {
+  0% {
+    -webkit-transform: translateX(50%);
+    transform: translateX(50%);
+  }
+  100% {
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
   }
 }
 @for $i from 1 through length($animDurations) {
@@ -64,43 +86,27 @@ $animDurations: 3.5s 2.5s 4s 4.5s 3s;
   $random10: random(10);
   @keyframes floating-#{$i} {
     from {
-      transform: translate(0,0);
+      -webkit-transform: translate(0, 0);
+      -ms-transform: translate(0, 0);
+      transform: translate(0, 0);
     }
     50% {
+      -webkit-transform: translate($random10 + px, $random10 - 8 + px);
+      -ms-transform: translate($random10 + px, $random10 - 8 + px);
       transform: translate($random10 + px, $random10 - 8 + px);
     }
     to {
-      transform: translate(0,0);
+      -webkit-transform: translate(0, 0);
+      -ms-transform: translate(0, 0);
+      transform: translate(0, 0);
     }
   }
   .wcp-circular-image-card-wrapper:nth-child(#{$i + 1}n + 1) {
+    -webkit-animation-name: floating-#{$i};
     animation-name: floating-#{$i};
+    -webkit-animation-duration: 2 * nth($animDurations, $i);
     animation-duration: 2 * nth($animDurations, $i);
+    -webkit-animation-delay: random(1) + s;
     animation-delay: random(1) + s;
-  }
-}
-
-@-webkit-keyframes moveCircles {
-  0% {
-    transform: translateX(50%);
-  }
-  100% {
-    transform: translateX(-50%);
-  }
-}
-@-moz-keyframes moveCircles {
-  0% {
-    transform: translateX(50%);
-  }
-  100% {
-    transform: translateX(-50%);
-  }
-}
-@-o-keyframes moveCircles {
-  0% {
-    transform: translateX(50%);
-  }
-  100% {
-    transform: translateX(-50%);
   }
 }
