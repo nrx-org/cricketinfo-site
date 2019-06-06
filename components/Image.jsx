@@ -33,7 +33,7 @@ export const Image = ({ src, alt, className, type }) => {
       responsivePlaceholder="blank"
     >
       <Transformation
-        quality="auto"
+        quality="auto:good"
         width="auto"
         crop="scale"
         fetchFormat="auto"
