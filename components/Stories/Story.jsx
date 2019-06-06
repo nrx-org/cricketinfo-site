@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import track from "react-tracking";
+import cloudinary from "cloudinary-core";
 import { LIKE_STORY } from "../../lib/matomo";
 import { factPropTypes } from "../../lib/prop_types";
 import { BackgroundImage } from "../BackgroundImage";
@@ -104,15 +105,31 @@ export class Story extends React.Component {
       story.value.image &&
       story.value.image.url &&
       story.value.image.url.length > 0;
+
+    const cl = new cloudinary.Cloudinary({
+      // TODO: Put this in a constant somewhere
+      cloud_name: "cricwiki",
+      secure: true
+    });
+
+    const cloudinaryUrl =
+      process.env.NODE_ENV === "development"
+        ? story.value.image.url
+        : cl.url(story.value.image.url, {
+            width: process.browser ? window.innerWidth : "auto",
+            quality: "auto:good",
+            fetchFormat: "auto"
+          });
+
     return (
       <div className="wcp-story-content__story-container">
         {storyImageExists ? (
           <div
             className="wcp-story-content__image-container"
-            style={{ backgroundImage: `url(${story.value.image.url})` }}
+            style={{ backgroundImage: `url(${cloudinaryUrl})` }}
           >
             <BackgroundImage
-              src={story.value.image.url}
+              src={cloudinaryUrl}
               onLoadBg={this.imageLoaded}
               hasImageLoaded={hasImageLoaded}
             />
