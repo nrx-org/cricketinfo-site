@@ -6,6 +6,7 @@ import { CLICK_INTERESTING_ARTICLE } from "../lib/matomo";
 import { imagePropTypes } from "../lib/prop_types";
 
 import ArticleSummaryLink from "./ArticleSummaryLink";
+import { Image } from "./Image";
 
 export const InterestingArticleItem = ({ coverImage, href, styles }) => {
   const tracking = useTracking();
@@ -18,10 +19,10 @@ export const InterestingArticleItem = ({ coverImage, href, styles }) => {
     top: styles.top + unit
   };
   const contentEl = (
-    <div
+    <Image
+      src={coverImage.url}
+      alt={coverImage.altText}
       className="wcp-circular-image-card"
-      style={{ backgroundImage: `url(${coverImage.url})` }}
-      title={coverImage.altText}
     />
   );
   return href ? (
