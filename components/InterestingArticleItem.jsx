@@ -1,12 +1,11 @@
 import React from "react";
 import PropTypes from "prop-types";
+import { Image, Transformation } from "cloudinary-react";
 import { useTracking } from "react-tracking";
-import { CLICK_INTERESTING_ARTICLE } from "../lib/matomo";
-
-import { imagePropTypes } from "../lib/prop_types";
 
 import ArticleSummaryLink from "./ArticleSummaryLink";
-import { Image } from "./Image";
+import { CLICK_INTERESTING_ARTICLE } from "../lib/matomo";
+import { imagePropTypes } from "../lib/prop_types";
 
 export const InterestingArticleItem = ({ coverImage, href, styles }) => {
   const tracking = useTracking();
@@ -18,13 +17,28 @@ export const InterestingArticleItem = ({ coverImage, href, styles }) => {
     left: styles.left + unit,
     top: styles.top + unit
   };
-  const contentEl = (
-    <Image
-      src={coverImage.url}
-      alt={coverImage.altText}
-      className="wcp-circular-image-card"
-    />
-  );
+  const contentEl =
+    process.env.NODE_ENV === "production" ? (
+      <Image
+        cloudName="cricwiki"
+        publicId={coverImage.url.slice(1)}
+        alt={coverImage.altText}
+        className="wcp-circular-image-card"
+      >
+        <Transformation
+          quality="auto:good"
+          width="96"
+          crop="scale"
+          fetchFormat="auto"
+        />
+      </Image>
+    ) : (
+      <img
+        src={coverImage.url}
+        alt={coverImage.altText}
+        className="wcp-circular-image-card"
+      />
+    );
   return href ? (
     <ArticleSummaryLink
       className="wcp-circular-image-card-wrapper"
