@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import { Image as CloudinaryImage } from "cloudinary-react";
+import { Image as CloudinaryImage, Transformation } from "cloudinary-react";
 
 const PLACEHOLDER_EMOJIS = {
   generic: "❓",
@@ -29,7 +29,16 @@ export const Image = ({ src, alt, className, type }) => {
       publicId={src.slice(1)}
       alt={alt}
       className={`wcp-image ${className}`}
-    />
+      responsive="auto"
+      responsivePlaceholder="blank"
+    >
+      <Transformation
+        quality="auto"
+        width="auto"
+        crop="scale"
+        fetchFormat="auto"
+      />
+    </CloudinaryImage>
   );
 };
 
