@@ -4,6 +4,7 @@ import PropTypes from "prop-types";
 import { Icon } from "./Icon";
 
 import { imagePropTypes } from "../lib/prop_types";
+import { Image } from "./Image";
 
 export const CoverCard = ({
   url,
@@ -24,7 +25,7 @@ export const CoverCard = ({
         isCarouselChild ? "wcp-cover-card--carousel-child" : ""
       }`}
     >
-      <img
+      <Image
         className="wcp-cover-card__cover-image"
         src={coverImage.url}
         alt={coverImage.altText}

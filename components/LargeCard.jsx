@@ -11,6 +11,7 @@ import { imagePropTypes } from "../lib/prop_types";
 import { ModalContextConsumer } from "./ModalContext";
 import { SHARE_MODAL_ID } from "../lib/modal_ids";
 import { getImageShareUrl } from "../lib/urls";
+import { Image } from "./Image";
 
 const shareCard = (shareData, openModal) => {
   if (navigator.share) {
@@ -41,7 +42,7 @@ export const LargeCard = ({
             className={`wcp-large-card ${className} wcp-large-card--${cardOrientation}`}
           >
             <div className="wcp-large-card__cover-image__container">
-              <img
+              <Image
                 className="wcp-large-card__cover-image"
                 src={coverImage.url}
                 alt={coverImage.altText}

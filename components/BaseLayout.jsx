@@ -13,6 +13,7 @@ export const BaseLayout = ({ children }) => (
   <main>
     <Head>
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+      <meta httpEquiv="Accept-CH" content="DPR, Viewport-Width, Width" />
       <link rel="icon" type="image/x-icon" href="/static/images/favicon.ico" />
       <link
         href="https://fonts.googleapis.com"

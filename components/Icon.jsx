@@ -1,8 +1,9 @@
 import React from "react";
 import PropTypes from "prop-types";
+import { Image } from "./Image";
 
 export const Icon = ({ name, className, altText, size }) => (
-  <img
+  <Image
     src={`/static/icons/${name}.svg`}
     alt={altText}
     className={`wcp-icon ${className} wcp-icon-size-${size}`}

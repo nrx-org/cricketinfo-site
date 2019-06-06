@@ -10,6 +10,7 @@ import { IconButton } from "./IconButton";
 import { LoadingSpinner } from "./LoadingSpinner";
 import { ERROR_NOT_FOUND, ERROR_NETWORK } from "../lib/errors";
 import { articleUiStrings, commonUiStrings } from "../lib/ui_strings";
+import { Image } from "./Image";
 
 export const ArticleSummaryModal = props => (
   <LanguageContext.Consumer>
@@ -61,7 +62,7 @@ const ArticleSummaryModalInternal = ({
     <div className="wcp-article-summary-modal">
       <div className="wcp-article-summary-modal__cover-image-container">
         {article.coverImage ? (
-          <img
+          <Image
             className="wcp-article-summary-modal__cover-image"
             src={article.coverImage.url}
             alt={article.coverImage.altText}

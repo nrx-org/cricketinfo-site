@@ -1,6 +1,7 @@
 import React from "react";
 import { getFlagImageUrl } from "../lib/urls";
 import { getLiveScore } from "../lib/live_score";
+import { Image } from "./Image";
 
 const formatScore = team => {
   if (!team.score) {
@@ -67,7 +68,7 @@ export class LiveScoreContainer extends React.Component {
             <table className="wcp-live-score-container__score-table">
               <tr>
                 <th className="wcp-font-family-heading">
-                  <img
+                  <Image
                     className="wcp-live-score-container__team-flag"
                     src={getFlagImageUrl(match.teamA.name)}
                     alt={`Flag of ${match.teamA.name}`}

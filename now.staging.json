@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "builds": [{ "src": "package.json", "use": "@now/next" }],
+  "routes": [
+    {
+      "src": "/read/(?<lang>.*)/(?<articleId>.*)",
+      "dest": "/article?lang=$lang&articleId=$articleId"
+    },
+    {
+      "src": "/read/(?<lang>.*)",
+      "dest": "/home?lang=$lang"
+    },
+    {
+      "src": "/privacy_policy/(?<lang>.*)",
+      "dest": "/privacy_policy?lang=$lang"
+    },
+    {
+      "src": "/survey_statement/en",
+      "dest": "/survey_statement"
+    }
+  ],
+  "name": "wikipedia-client-prototypes",
+  "alias": ["wikipedia.obvs.io"]
+}

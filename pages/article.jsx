@@ -35,6 +35,7 @@ import { CONTINUE_READING_MODAL_ID } from "../lib/modal_ids";
 import { Button } from "../components/Button";
 import { ContinueReadingModalContainer } from "../components/ContinueReadingModalContainer";
 import { HomeButton } from "../components/HomeButton";
+import { Image } from "../components/Image";
 
 const Article = ({
   articleId,
@@ -56,7 +57,7 @@ const Article = ({
             <title>{makeArticleTitle(title, lang)}</title>
           </Head>
           <div className="wcp-article__cover-image-container">
-            <img
+            <Image
               className="wcp-article__cover-image"
               src={coverImage.url}
               alt={coverImage.altText}

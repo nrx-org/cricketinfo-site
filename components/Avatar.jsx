@@ -2,12 +2,13 @@ import React from "react";
 import { factPropTypes } from "../lib/prop_types";
 
 import ArticleSummaryLink from "./ArticleSummaryLink";
+import { Image } from "./Image";
 
 export const Avatar = ({ card }) => (
   <ArticleSummaryLink href={card.value.url} className="wcp-avatar">
     <div className="wcp-avatar__outline">
       <div className="wcp-avatar__image__container">
-        <img
+        <Image
           className="wcp-avatar__image"
           src={card.value.image.url}
           alt={card.value.image.altText}
