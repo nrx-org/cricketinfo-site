@@ -116,7 +116,8 @@ export class Story extends React.Component {
       process.env.NODE_ENV === "development"
         ? story.value.image.url
         : cl.url(story.value.image.url, {
-            width: process.browser ? window.innerWidth : "auto",
+            crop: "fit",
+            width: 1200,
             quality: "auto:good",
             fetchFormat: "auto"
           });

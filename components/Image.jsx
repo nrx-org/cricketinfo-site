@@ -23,20 +23,24 @@ export const Image = ({ src, alt, className, type }) => {
     return <img src={src} alt={alt} className={`wcp-image ${className}`} />;
   }
 
+  let fetchFormat = "auto";
+  if (src.slice(src.length - 3).toLocaleLowerCase() === "svg") {
+    fetchFormat = "svg";
+  }
+
   return (
     <CloudinaryImage
       cloudName="cricwiki"
+      secure="true"
       publicId={src.slice(1)}
       alt={alt}
       className={`wcp-image ${className}`}
-      responsive="auto"
-      responsivePlaceholder="blank"
     >
       <Transformation
-        quality="auto:good"
-        width="auto"
-        crop="scale"
-        fetchFormat="auto"
+        quality="auto:low"
+        width="1200"
+        crop="limit"
+        fetchFormat={fetchFormat}
       />
     </CloudinaryImage>
   );
