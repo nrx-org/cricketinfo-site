@@ -1,13 +1,13 @@
 import React from "react";
 import PropTypes from "prop-types";
 import track from "react-tracking";
-import cloudinary from "cloudinary-core";
 import { LIKE_STORY } from "../../lib/matomo";
 import { factPropTypes } from "../../lib/prop_types";
 import { BackgroundImage } from "../BackgroundImage";
 import { Icon } from "../Icon";
 import { Button } from "../Button";
 import { ExternalUrlShareModalContainer } from "../ExternalUrlShareModalContainer";
+import { getCloudinaryUrl } from "../../lib/urls";
 
 const LOCALSTORAGE_KEY = "wcpStoryFavorites";
 
@@ -106,21 +106,7 @@ export class Story extends React.Component {
       story.value.image.url &&
       story.value.image.url.length > 0;
 
-    const cl = new cloudinary.Cloudinary({
-      // TODO: Put this in a constant somewhere
-      cloud_name: "cricwiki",
-      secure: true
-    });
-
-    const cloudinaryUrl =
-      process.env.NODE_ENV === "development"
-        ? story.value.image.url
-        : cl.url(story.value.image.url, {
-            crop: "fit",
-            width: 1200,
-            quality: "auto:good",
-            fetchFormat: "auto"
-          });
+    const cloudinaryUrl = getCloudinaryUrl(story.value.image.url);
 
     return (
       <div className="wcp-story-content__story-container">

@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 
 import { Image as CloudinaryImage, Transformation } from "cloudinary-react";
+import { CLOUDINARY_CLOUD_NAME } from "../lib/urls";
 
 const PLACEHOLDER_EMOJIS = {
   generic: "❓",
@@ -30,7 +31,7 @@ export const Image = ({ src, alt, className, type }) => {
 
   return (
     <CloudinaryImage
-      cloudName="cricwiki"
+      cloudName={CLOUDINARY_CLOUD_NAME}
       secure="true"
       publicId={src.slice(1)}
       alt={alt}

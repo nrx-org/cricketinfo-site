@@ -8,7 +8,7 @@ import { SectionTitle } from "./SectionTitle";
 
 import { ModalContextConsumer } from "./ModalContext";
 import { factCardDataPropTypes } from "../lib/prop_types";
-import { getImageShareUrl } from "../lib/urls";
+import { getImageShareUrl, getCloudinaryUrl } from "../lib/urls";
 import { SHARE_MODAL_ID } from "../lib/modal_ids";
 
 const FactCardSimpleContents = ({ cardData, openModal }) => {
@@ -30,6 +30,8 @@ const FactCardSimpleContents = ({ cardData, openModal }) => {
     }
   };
 
+  const cloudinaryUrl = getCloudinaryUrl(cardData.facts[0].value.image.url);
+
   return (
     <section className="wcp-fact-card-simple">
       <SectionTitle>{cardData.title}</SectionTitle>
@@ -38,7 +40,7 @@ const FactCardSimpleContents = ({ cardData, openModal }) => {
           <div
             className="wcp-fact-card-simple__image"
             style={{
-              backgroundImage: `url(${cardData.facts[0].value.image.url})`
+              backgroundImage: `url(${cloudinaryUrl})`
             }}
           />
         ) : null}

@@ -6,6 +6,7 @@ import { useTracking } from "react-tracking";
 import ArticleSummaryLink from "./ArticleSummaryLink";
 import { CLICK_INTERESTING_ARTICLE } from "../lib/matomo";
 import { imagePropTypes } from "../lib/prop_types";
+import { CLOUDINARY_CLOUD_NAME } from "../lib/urls";
 
 export const InterestingArticleItem = ({ coverImage, href, styles }) => {
   const tracking = useTracking();
@@ -20,7 +21,8 @@ export const InterestingArticleItem = ({ coverImage, href, styles }) => {
   const contentEl =
     process.env.NODE_ENV === "production" ? (
       <Image
-        cloudName="cricwiki"
+        cloudName={CLOUDINARY_CLOUD_NAME}
+        secure="true"
         publicId={coverImage.url.slice(1)}
         alt={coverImage.altText}
         className="wcp-circular-image-card"
