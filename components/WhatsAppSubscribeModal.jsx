@@ -4,7 +4,7 @@ import track from "react-tracking";
 
 import { Button } from "./Button";
 import { Icon } from "./Icon";
-import { getAbsoluteArticleUrl, getPdfShareUrl } from "../lib/urls";
+import { getPdfShareUrl } from "../lib/urls";
 import { articleUiStrings, commonUiStrings } from "../lib/ui_strings";
 
 import {
@@ -54,11 +54,9 @@ export class WhatsAppSubscribeModal extends Component {
   }
 
   @track(SAVE_FOR_LATER_DOWNLOAD_PDF)
+  // eslint-disable-next-line class-methods-use-this
   onDownloadPDFClick() {
-    const { lang, articleId } = this.props;
-    window.location.href = getPdfShareUrl(
-      getAbsoluteArticleUrl(articleId, lang)
-    );
+    window.location.href = getPdfShareUrl(window.location.href);
   }
 
   render() {
@@ -126,6 +124,5 @@ export class WhatsAppSubscribeModal extends Component {
 WhatsAppSubscribeModal.propTypes = {
   lang: PropTypes.string.isRequired,
   close: PropTypes.func.isRequired,
-  articleId: PropTypes.string.isRequired,
   isOpen: PropTypes.bool.isRequired
 };
