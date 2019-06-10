@@ -82,7 +82,11 @@ export class QuizQuestion extends Component {
                 <p>{homeUiStrings.correctAnswer[lang]}</p>
               ) : null}
               {isAnswered && !isAnsweredCorrectly ? (
-                <p>{homeUiStrings.wrongAnswer[lang](question.answerIndex)}</p>
+                <p>
+                  {homeUiStrings.wrongAnswer[lang](
+                    question.relatedArticle.label
+                  )}
+                </p>
               ) : null}
               {isAnswered ? (
                 <TinyCard
