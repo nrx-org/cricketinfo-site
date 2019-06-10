@@ -3,6 +3,8 @@ import PropTypes from "prop-types";
 import { InterestingArticleItem } from "./InterestingArticleItem";
 import { factPropTypes } from "../lib/prop_types";
 import { SectionTitle } from "./SectionTitle";
+import { homeUiStrings } from "../lib/ui_strings";
+import { LanguageContext } from "../language_context";
 
 export class InterestingArticles extends React.Component {
   constructor(props) {
@@ -110,51 +112,57 @@ export class InterestingArticles extends React.Component {
       loaded
     } = this.state;
     return (
-      <section
-        className={`wcp-interesting-articles ${
-          loaded ? "wcp-interesting-articles--loaded" : ""
-        }`}
-      >
-        <SectionTitle>Interesting Articles</SectionTitle>
-        <div className="wcp-circular-image-card-carousel-wrapper">
-          <div
-            style={{ width: carouselWidth }}
-            className="wcp-circular-image-card-carousel"
+      <LanguageContext.Consumer>
+        {lang => (
+          <section
+            className={`wcp-interesting-articles ${
+              loaded ? "wcp-interesting-articles--loaded" : ""
+            }`}
           >
-            <div className="wcp-circular-image-card-carousel-group-1">
-              {interestingArticles
-                .slice(0, parseInt(interestingArticles.length / 2, 10))
-                .map((card, index) => (
-                  <InterestingArticleItem
-                    key={`${card.label}-${card.id}-group1`}
-                    coverImage={card.value.image}
-                    href={card.value.url || null}
-                    styles={cardStyles[index]}
-                  >
-                    {card.value.label}
-                  </InterestingArticleItem>
-                ))}
+            <SectionTitle>
+              {homeUiStrings.interestingArticles[lang]}
+            </SectionTitle>
+            <div className="wcp-circular-image-card-carousel-wrapper">
+              <div
+                style={{ width: carouselWidth }}
+                className="wcp-circular-image-card-carousel"
+              >
+                <div className="wcp-circular-image-card-carousel-group-1">
+                  {interestingArticles
+                    .slice(0, parseInt(interestingArticles.length / 2, 10))
+                    .map((card, index) => (
+                      <InterestingArticleItem
+                        key={`${card.label}-${card.id}-group1`}
+                        coverImage={card.value.image}
+                        href={card.value.url || null}
+                        styles={cardStyles[index]}
+                      >
+                        {card.value.label}
+                      </InterestingArticleItem>
+                    ))}
+                </div>
+                <div className="wcp-circular-image-card-carousel-group-2">
+                  {interestingArticles
+                    .slice(
+                      parseInt(interestingArticles.length / 2, 10),
+                      interestingArticles.length
+                    )
+                    .map((card, index) => {
+                      return (
+                        <InterestingArticleItem
+                          key={`${card.label}-${card.id}-group2`}
+                          coverImage={card.value.image}
+                          href={card.value.url || null}
+                          styles={cardStyles[index]}
+                        />
+                      );
+                    })}
+                </div>
+              </div>
             </div>
-            <div className="wcp-circular-image-card-carousel-group-2">
-              {interestingArticles
-                .slice(
-                  parseInt(interestingArticles.length / 2, 10),
-                  interestingArticles.length
-                )
-                .map((card, index) => {
-                  return (
-                    <InterestingArticleItem
-                      key={`${card.label}-${card.id}-group2`}
-                      coverImage={card.value.image}
-                      href={card.value.url || null}
-                      styles={cardStyles[index]}
-                    />
-                  );
-                })}
-            </div>
-          </div>
-        </div>
-      </section>
+          </section>
+        )}
+      </LanguageContext.Consumer>
     );
   }
 }

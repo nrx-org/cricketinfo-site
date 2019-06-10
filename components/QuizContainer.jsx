@@ -4,6 +4,8 @@ import { LargeSectionTitle } from "./LargeSectionTitle";
 import { QuizQuestion } from "./QuizQuestion";
 import { quizQuestionPropType } from "../lib/prop_types";
 import { todayString } from "../lib/date";
+import { homeUiStrings } from "../lib/ui_strings";
+import { LanguageContext } from "../language_context";
 
 const LOCALSTORAGE_KEY = "wcpQuizContainerData";
 
@@ -98,19 +100,25 @@ export class QuizContainer extends Component {
     return (
       <React.Fragment>
         {showQuizComponent ? (
-          <section>
-            <LargeSectionTitle>Do you know?</LargeSectionTitle>
-            {scheduledQuestions.map(q => (
-              <QuizQuestion
-                key={`quizQuestion${q.id}`}
-                question={q}
-                userAnswerIndex={QuizContainer.getUserAnswerIndex(q.id)}
-                setUserAnswerIndex={(index, callback) =>
-                  this.setUserAnswerIndex(q.id, index, callback)
-                }
-              />
-            ))}
-          </section>
+          <LanguageContext.Consumer>
+            {lang => (
+              <section>
+                <LargeSectionTitle>
+                  {homeUiStrings.doYouKnow[lang]}
+                </LargeSectionTitle>
+                {scheduledQuestions.map(q => (
+                  <QuizQuestion
+                    key={`quizQuestion${q.id}`}
+                    question={q}
+                    userAnswerIndex={QuizContainer.getUserAnswerIndex(q.id)}
+                    setUserAnswerIndex={(index, callback) =>
+                      this.setUserAnswerIndex(q.id, index, callback)
+                    }
+                  />
+                ))}
+              </section>
+            )}
+          </LanguageContext.Consumer>
         ) : null}
       </React.Fragment>
     );
