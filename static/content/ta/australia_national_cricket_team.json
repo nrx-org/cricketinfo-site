@@ -24,19 +24,19 @@
       "cardType": "table",
       "facts": [
         {
-          "label": "Location",
+          "label": "இடம்",
           "value": {
             "label": "ஆஸ்திரேலியா"
           }
         },
         {
-          "label": "Established on",
+          "label": "நிறுவப்பட்டது",
           "value": {
             "label": "1877"
           }
         },
         {
-          "label": "Association",
+          "label": "சங்கம்",
           "value": {
             "label": "கிரிக்கெட் ஆஸ்திரேலியா"
           }
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "title": "Roles",
+      "title": "பொறுப்புகள்",
       "cardType": "avatar",
       "label": null,
       "facts": [

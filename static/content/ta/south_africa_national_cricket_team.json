@@ -24,19 +24,19 @@
       "cardType": "table",
       "facts": [
         {
-          "label": "Location",
+          "label": "இடம்",
           "value": {
             "label": "தென் ஆப்பிரிக்கா"
           }
         },
         {
-          "label": "Established on",
+          "label": "நிறுவப்பட்டது",
           "value": {
             "label": ""
           }
         },
         {
-          "label": "Association",
+          "label": "சங்கம்",
           "value": {
             "label": "கிரிக்கெட் தென் ஆப்ரிக்கா"
           }
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "title": "Roles",
+      "title": "Roபொறுப்புகள்les",
       "cardType": "avatar",
       "label": null,
       "facts": [
