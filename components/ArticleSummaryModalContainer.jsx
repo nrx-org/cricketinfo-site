@@ -71,7 +71,7 @@ export class ArticleSummaryModalContainer extends React.Component {
       <BottomSheet
         isOpen={isModalOpen(ARTICLE_SUMMARY_MODAL_ID)}
         onOverlayClick={this.onCloseClick}
-        size="noup"
+        size="2up"
       >
         <ArticleSummaryModal
           isLoading={isLoading}
