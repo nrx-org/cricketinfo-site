@@ -20,11 +20,12 @@ export const ListCard = ({ cardData }) => {
                   </div>
                 ) : null}
               </div>
-              {fact.value.facts[0] ? (
-                <div className="wcp-list-card__tiny-cards-carousel-wrapper">
-                  <TinyCardCarousel cards={fact.value.facts} />
-                </div>
-              ) : null}
+              {fact.value.facts ? (
+                fact.value.facts[0] ? (
+                  <div className="wcp-list-card__tiny-cards-carousel-wrapper">
+                    <TinyCardCarousel cards={fact.value.facts} />
+                  </div>
+                ) : null) : null}
             </div>
           );
         })}
