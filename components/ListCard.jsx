@@ -1,3 +1,4 @@
+/* eslint-disable no-nested-ternary */
 import React from "react";
 import { factCardDataPropTypes } from "../lib/prop_types";
 import { SectionTitle } from "./SectionTitle";
@@ -25,7 +26,8 @@ export const ListCard = ({ cardData }) => {
                   <div className="wcp-list-card__tiny-cards-carousel-wrapper">
                     <TinyCardCarousel cards={fact.value.facts} />
                   </div>
-                ) : null) : null}
+                ) : null
+              ) : null}
             </div>
           );
         })}
