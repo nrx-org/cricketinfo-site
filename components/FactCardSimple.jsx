@@ -1,31 +1,65 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { useTracking } from "react-tracking";
-import { SHARE_FLAT_CARD } from "../lib/matomo";
+import * as cogoToast from "cogo-toast";
+import { SHARE_FLAT_CARD, SHARE_FLAT_CARD_LINK_ERROR } from "../lib/matomo";
 
 import { IconButton } from "./IconButton";
 import { SectionTitle } from "./SectionTitle";
 
 import { ModalContextConsumer } from "./ModalContext";
 import { factCardDataPropTypes } from "../lib/prop_types";
-import { getImageShareUrl, getCloudinaryUrl } from "../lib/urls";
-import { SHARE_MODAL_ID } from "../lib/modal_ids";
+import { getCloudinaryUrl, getImageShareApiUrl } from "../lib/urls";
+import { LOADING_SPINNER_MODAL_ID, SHARE_MODAL_ID } from "../lib/modal_ids";
+import { articleUiStrings } from "../lib/ui_strings";
 
-const FactCardSimpleContents = ({ cardData, openModal }) => {
+const FactCardSimpleContents = ({ cardData, openModal, closeModal }) => {
   const tracking = useTracking();
 
-  const share = () => {
+  const share = async () => {
     tracking.trackEvent(SHARE_FLAT_CARD(cardData.facts[0].label));
-    const shareUrl = getImageShareUrl(window.location.href, `#${cardData.id}`);
+    openModal(LOADING_SPINNER_MODAL_ID);
+
+    let shareUrlResponse = null;
+    try {
+      shareUrlResponse = await fetch(
+        getImageShareApiUrl(window.location.href, `#${cardData.id}`)
+      );
+    } catch (e) {
+      cogoToast.error(articleUiStrings.shareLinkError, {
+        bar: {
+          size: "0px"
+        }
+      });
+      closeModal(LOADING_SPINNER_MODAL_ID);
+      tracking.trackEvent(SHARE_FLAT_CARD_LINK_ERROR());
+      return;
+    }
+
+    let shareUrlJson = null;
+
+    try {
+      shareUrlJson = await shareUrlResponse.json();
+    } catch (e) {
+      cogoToast.error(articleUiStrings.shareLinkError, {
+        bar: {
+          size: "0px"
+        }
+      });
+      closeModal(LOADING_SPINNER_MODAL_ID);
+      tracking.trackEvent(SHARE_FLAT_CARD_LINK_ERROR());
+      return;
+    }
+
     if (navigator.share) {
       navigator.share({
         title: cardData.title,
-        url: shareUrl
+        url: shareUrlJson.shareUrl
       });
     } else {
       openModal(SHARE_MODAL_ID, {
         text: cardData.facts[0].value.label,
-        url: shareUrl
+        url: shareUrlJson.shareUrl
       });
     }
   };
@@ -66,14 +100,19 @@ const FactCardSimpleContents = ({ cardData, openModal }) => {
 
 FactCardSimpleContents.propTypes = {
   cardData: factCardDataPropTypes.isRequired,
-  openModal: PropTypes.func.isRequired
+  openModal: PropTypes.func.isRequired,
+  closeModal: PropTypes.func.isRequired
 };
 
 export const FactCardSimple = props => {
   return (
     <ModalContextConsumer>
-      {({ openModal }) => (
-        <FactCardSimpleContents {...props} openModal={openModal} />
+      {({ openModal, closeModal }) => (
+        <FactCardSimpleContents
+          {...props}
+          openModal={openModal}
+          closeModal={closeModal}
+        />
       )}
     </ModalContextConsumer>
   );

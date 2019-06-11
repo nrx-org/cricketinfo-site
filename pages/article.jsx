@@ -36,6 +36,7 @@ import { Button } from "../components/Button";
 import { ContinueReadingModalContainer } from "../components/ContinueReadingModalContainer";
 import { HomeButton } from "../components/HomeButton";
 import { Image } from "../components/Image";
+import { LoadingSpinnerModalContainer } from "../components/LoadingSpinnerModalContainer";
 
 const Article = ({
   articleId,
@@ -130,6 +131,11 @@ const Article = ({
                 isModalOpen={isModalOpen}
                 modalData={modalData}
                 lang={lang}
+              />
+              <LoadingSpinnerModalContainer
+                registerModal={registerModal}
+                isModalOpen={isModalOpen}
+                closeModal={closeModal}
               />
             </>
           )}
