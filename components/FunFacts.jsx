@@ -9,14 +9,17 @@ import { homeUiStrings } from "../lib/ui_strings";
 
 export const FunFacts = ({ scheduled, constant }) => {
   const dateString = todayString();
+  console.log(scheduled);
+
   let facts = [
     ...scheduled.filter(f => f.dates.indexOf[dateString] > -1),
     ...constant
   ];
 
+  const today = new Date().toJSON().slice(0, 10);
   if (scheduled.filter(f => f.dates.indexOf[dateString] > -1).length === 0) {
     facts = [
-      ...scheduled.filter(f => f.dates.indexOf("2019-05-31") > -1),
+      ...scheduled.filter(f => f.dates.indexOf(today) > -1),
       ...constant
     ];
   }
