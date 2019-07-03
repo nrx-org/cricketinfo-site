@@ -3,12 +3,22 @@
   "builds": [{ "src": "package.json", "use": "@now/next" }],
   "routes": [
     {
-      "src": "/read/(?<lang>.*)/(?<articleId>.*)",
+      "src": "/read/(?<lang>.*)/(?<articleId>.*[^/])/$",
       "dest": "/article?lang=$lang&articleId=$articleId"
     },
     {
-      "src": "/read/(?<lang>.*)",
+      "src": "/read/(?<lang>.*)/(?<articleId>.*[^/])$",
+      "status": 301,
+      "headers": { "Location": "/read/$lang/$articleId/" }
+    },
+    {
+      "src": "/read/(?<lang>.*[^/])/$",
       "dest": "/home?lang=$lang"
+    },
+    {
+      "src": "/read/(?<lang>.*[^/])$",
+      "status": 301,
+      "headers": { "Location": "/read/$lang/" }
     },
     {
       "src": "/privacy_policy/(?<lang>.*)",
