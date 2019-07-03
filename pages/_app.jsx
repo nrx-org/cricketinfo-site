@@ -14,7 +14,6 @@ import App from "next/app";
     dispatch: data => {
       /* eslint-disable */
       var paq = window._paq || [];
-      console.log("Adding Event to Matomo Collection: ", data);
       // _paq.push(data.matomoEvent);
       if (Array.isArray(data)) {
         paq.push(data);

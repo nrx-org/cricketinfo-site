@@ -1,5 +1,11 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
+import track from "react-tracking";
+import {
+  CLICK_QUIZ_ANSWER,
+  QUIZ_ANSWER_CORRECT,
+  QUIZ_ANSWER_WRONG
+} from "../lib/matomo";
 import { LargeSectionTitle } from "./LargeSectionTitle";
 import { QuizQuestion } from "./QuizQuestion";
 import { quizQuestionPropType } from "../lib/prop_types";
@@ -9,6 +15,7 @@ import { LanguageContext } from "../language_context";
 
 const LOCALSTORAGE_KEY = "wcpQuizContainerData";
 
+@track({ page: "QuizContainer" })
 export class QuizContainer extends Component {
   constructor(props) {
     super(props);
@@ -62,6 +69,21 @@ export class QuizContainer extends Component {
     }
   }
 
+  @track((props, state, methodArgs) => {
+    const questionId = methodArgs[0];
+    const answerId = methodArgs[1];
+    const currentQuestion = state.scheduledQuestions.find(el => {
+      return el.id === questionId;
+    });
+    if (answerId === currentQuestion.answerIndex) {
+      return QUIZ_ANSWER_CORRECT(questionId);
+    }
+    return QUIZ_ANSWER_WRONG(questionId);
+  })
+  @track((props, state, methodArgs) => {
+    const questionId = methodArgs[0];
+    return CLICK_QUIZ_ANSWER(questionId);
+  })
   setUserAnswerIndex(questionId, userAnswerIndex, callback) {
     if (!process.browser) {
       return;

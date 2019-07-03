@@ -81,14 +81,14 @@ export class QuizQuestion extends Component {
               {isAnswered && isAnsweredCorrectly ? (
                 <p>{homeUiStrings.correctAnswer[lang]}</p>
               ) : null}
-              {isAnswered && !isAnsweredCorrectly ? (
+              {isAnswered && !isAnsweredCorrectly && question.relatedArticle ? (
                 <p>
                   {homeUiStrings.wrongAnswer[lang](
                     question.relatedArticle.label
                   )}
                 </p>
               ) : null}
-              {isAnswered ? (
+              {isAnswered && question.relatedArticle ? (
                 <TinyCard
                   title={question.relatedArticle.label}
                   coverImage={question.relatedArticle.value.image}
