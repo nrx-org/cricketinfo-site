@@ -23,6 +23,10 @@ export const FunFacts = ({ scheduled, constant }) => {
       ...constant
     ];
   }
+
+  if (!facts.length) {
+    return null;
+  }
   return (
     <LanguageContext.Consumer>
       {lang => (
