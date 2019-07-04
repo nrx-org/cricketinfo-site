@@ -1,6 +1,6 @@
-# wikipedia-client-prototypes
+# cricketinfo-site
 
-Prototypes for testing a better Wikipedia experience.
+Source for cricketinfo.io
 
 
 ## Dependencies
@@ -52,14 +52,10 @@ Prototypes for testing a better Wikipedia experience.
 
 6. Start the app using `pm2`.
 
-    $ pm2 start npm --name "wikipedia-client-prototypes" -- start
+    $ pm2 start npm --name "cricketinfo-site" -- start
 
 7. The app runs on port 3000 by default. You might want to reverse proxy requests to the app using Nginx or Apache.
 
 ## Resources
 
 - The app in production: https://cricketinfo.io
-- Bug tracking and project status: https://www.pivotaltracker.com/n/projects/2319822
-- Design: https://www.figma.com/file/fKoEklJl32G7gNN1l4m7O8a3/00-Sprint
-- More design: https://www.figma.com/file/eYpJXkwtRgzm69S8eliTofF5/02-Experiments
-- Source code: https://github.com/obvious/wikipedia-client-prototypes
