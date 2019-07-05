@@ -20,7 +20,7 @@ jobs:
       - run: 
           name: Lint
           command: npm run eslint
-  deploy: 
+  deploy_production:
     docker:
       - image: circleci/node:10.15
     steps: 
@@ -30,17 +30,32 @@ jobs:
           command: npm install --production now
       - run:
            name: Deploy
-           command: $(npm bin)/now --token $ZEIT_NOW_TOKEN 
-      - run: 
-            name: Create Alias
-            command: $(npm bin)/now alias --token $ZEIT_NOW_TOKEN
+           command: $(npm bin)/now --token $ZEIT_NOW_TOKEN --target production
+  deploy_staging:
+    docker:
+      - image: circleci/node:10.15
+    steps:
+      - checkout
+      - run:
+          name: Install Now
+          command: npm install --production now
+      - run:
+           name: Deploy
+           command: $(npm bin)/now --token $ZEIT_NOW_TOKEN --target staging
 
 workflows:
   version: 2
   test_and_deploy:
     jobs:
       - lint
-      - deploy:
+      - deploy_staging:
+          requires:
+            - lint
+          filters:
+            branches:
+              ignore:
+                - master
+      - deploy_production:
           requires:
             - lint
           filters:
