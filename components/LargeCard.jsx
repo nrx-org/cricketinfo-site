@@ -32,13 +32,14 @@ export const LargeCard = ({
   buttonText
 }) => {
   const tracking = useTracking();
+  const htmlId = `_${id}`;
 
   return (
     <ModalContextConsumer>
       {({ openModal }) => (
         <div className="wcp-large-card-wrapper">
           <section
-            id={id}
+            id={htmlId}
             className={`wcp-large-card ${className} wcp-large-card--${cardOrientation}`}
           >
             <div className="wcp-large-card__cover-image__container">
@@ -66,7 +67,10 @@ export const LargeCard = ({
                     shareCard(
                       {
                         title,
-                        url: getImageShareUrl(window.location.href, `#${id}`)
+                        url: getImageShareUrl(
+                          window.location.href,
+                          `#${htmlId}`
+                        )
                       },
                       openModal
                     );
