@@ -29,6 +29,11 @@ export default class extends Document {
           />
         </Head>
         <body>
+          <img
+            src={`${MATOMO_TRACKER_URL}?idsite=${MATOMO_SITEID}&rec=1&action_name=img_beacon`}
+            style={{ border: 0 }}
+            alt=""
+          />
           <Main />
           <NextScript />
         </body>
