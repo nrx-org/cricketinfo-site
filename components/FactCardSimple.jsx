@@ -64,8 +64,6 @@ const FactCardSimpleContents = ({ cardData, openModal, closeModal }) => {
     }
   };
 
-  const cloudinaryUrl = getCloudinaryUrl(cardData.facts[0].value.image.url);
-
   return (
     <section className="wcp-fact-card-simple">
       <SectionTitle>{cardData.title}</SectionTitle>
@@ -74,7 +72,9 @@ const FactCardSimpleContents = ({ cardData, openModal, closeModal }) => {
           <div
             className="wcp-fact-card-simple__image"
             style={{
-              backgroundImage: `url(${cloudinaryUrl})`
+              backgroundImage: `url(${getCloudinaryUrl(
+                cardData.facts[0].value.image.url
+              )})`
             }}
           />
         ) : null}
